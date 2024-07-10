@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-03-19 00:44+0000\n"
+"PO-Revision-Date: 2002-03-16 02:08GMT+0900\n"
+"Last-Translator: Nguyen Hung Vu <Vu.Hung@techviet.com>\n"
+"Language-Team: VIETNAMESE <vi@i18n.kde.org>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 0.9.5\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: notesagent/akonadi_notes_agent.notifyrc:3
+#, fuzzy
+#| msgid "Name=User Agent"
+msgctxt "Comment"
+msgid "Notes Agent"
+msgstr "Name=User Agent"
+
+#: notesagent/akonadi_notes_agent.notifyrc:49
+msgctxt "Name"
+msgid "Received a note"
+msgstr ""
+
+#: notesagent/notesagent.desktop:2
+#, fuzzy
+#| msgid "Name=User Agent"
+msgctxt "Name"
+msgid "Notes Agent"
+msgstr "Name=User Agent"
+
+#: notesagent/notesagent.desktop:46
+msgctxt "Comment"
+msgid "Adds notes received via network and handles note alarm notifications"
+msgstr ""
+
+#: src/data/knotes_printing_theme.knsrc:2
+msgctxt "Name"
+msgid "KNotes Printing Theme"
+msgstr ""
+
+#: src/data/org.kde.knotes.desktop:7
+msgctxt "GenericName"
+msgid "Popup Notes"
+msgstr "Ghi chép Popup"
+
+#: src/data/org.kde.knotes.desktop:76
+msgctxt "Name"
+msgid "KNotes"
+msgstr "KNotes"
+
+#: src/data/org.kde.knotes.desktop:155
+#, fuzzy
+msgctxt "Name"
+msgid "New Note"
+msgstr "KNotes"
+
+#: src/print/themes/background-color/theme.desktop:2
+msgctxt "Name"
+msgid "Note with background color"
+msgstr ""
+
+#: src/print/themes/background-color/theme.desktop:45
+msgctxt "Description"
+msgid "Theme which use note background color"
+msgstr ""
+
+#: src/print/themes/big-title/theme.desktop:2
+msgctxt "Name"
+msgid "Big Title"
+msgstr ""
+
+#: src/print/themes/big-title/theme.desktop:47
+msgctxt "Description"
+msgid "KNote printing theme with big title"
+msgstr ""
+
+#: src/print/themes/default/theme.desktop:2
+msgctxt "Name"
+msgid "Default"
+msgstr "Mặc định"
+
+#: src/print/themes/default/theme.desktop:73
+msgctxt "Description"
+msgid "Default knotes printing theme"
+msgstr ""
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Actions"
+#~ msgstr "Chương trình "
+
+#, fuzzy
+#~| msgid "Name=Connections"
+#~ msgctxt "Name"
+#~ msgid "Collections"
+#~ msgstr "Name=Các liên kết "
+
+#, fuzzy
+#~| msgid "Name=Editors"
+#~ msgctxt "Name"
+#~ msgid "Editor"
+#~ msgstr "Name=Trình biên tập "
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Misc"
+#~ msgstr "Mê hi cô"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Settings that don't fit elsewhere"
+#~ msgstr "Thiết lập được ưa thích dành cho người dùng "
+
+#, fuzzy
+#~| msgid "Name=Network"
+#~ msgctxt "Name"
+#~ msgid "Network"
+#~ msgstr "Name=Mạng "
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Network Settings"
+#~ msgstr "Name=Các liên kết "
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "New Notes"
+#~ msgstr "KNotes"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Notes Summary Setup"
+#~ msgstr "Công cụ cài đặt Samba "
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Kontact KNotes Plugin"
+#~ msgstr "Kafka HTMLPart Plugin"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Popup Notes"
+#~ msgctxt "Name"
+#~ msgid "Popup Notes"
+#~ msgstr "Ghi chép Popup"
+
+#, fuzzy
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "notes, summary, configure, settings"
+#~ msgstr "Cấu hình Bind "
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Popup Notes Component"
+#~ msgstr "Công cụ cài đặt Samba "

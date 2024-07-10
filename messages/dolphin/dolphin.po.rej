@@ -1,0 +1,613 @@
+--- dolphin/dolphin.po	(revision 1683242)
++++ dolphin/dolphin.po	(working copy)
+@@ -1,15 +1,16 @@
+-# Copyright (C) YEAR This file is copyright:
++# Copyright (C) 2024 This file is copyright:
+ # This file is distributed under the same license as the dolphin package.
+ #
+ # Le Hoang Phuong <lehoangphuongbg@gmail.com>, 2020.
+ # Phu Hung Nguyen <phu.nguyen@kdemail.net>, 2020, 2021, 2022, 2023.
++# Huan Truong     <htruong@caligraph.net>, 2024.
+ msgid ""
+ msgstr ""
+ "Project-Id-Version: dolphin\n"
+ "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+ "POT-Creation-Date: 2024-06-25 00:40+0000\n"
+-"PO-Revision-Date: 2023-03-21 18:35+0100\n"
+-"Last-Translator: Phu Hung Nguyen <phu.nguyen@kdemail.net>\n"
++"PO-Revision-Date: 2024-06-25 12:12-0700\n"
++"Last-Translator: Huan Truong <htruong@caligraph.net>\n"
+ "Language-Team: Vietnamese <kde-l10n-vi@kde.org>\n"
+ "Language: vi\n"
+ "MIME-Version: 1.0\n"
+@@ -67,30 +68,40 @@
+ "system.</para><para>You might want to <emphasis>backup files and folders</"
+ "emphasis> before proceeding.</para>"
+ msgstr ""
++"<para>Bạn sắp sử dụng đặc quyền quản trị viên. Khi hoạt động với tư cách "
++"quản trị viên, bạn có thể thay đổi hoặc thay thế bất kỳ tệp hoặc thư mục "
++"nào trên hệ thống này. Điều này bao gồm các mục quan trọng để hệ thống này "
++"hoạt động.</para><para>Bạn có thể <emphasis>xóa dữ liệu của mọi người "
++"dùng</emphasis> trên máy tính này và <emphasis>phá hỏng cài đặt này không "
++"thể sửa chữa được.</emphasis> Chỉ cần thêm một chữ cái vào tên thư mục hoặc "
++"tệp hoặc nội dung của nó có thể khiến hệ thống <emphasis>không thể khởi "
++"động.</emphasis></para><para>Có thể sẽ không có cảnh báo nào khác ngay cả "
++"khi bạn sắp phá hỏng hệ thống này.</para><para>Bạn nên <emphasis>sao lưu "
++"các tệp và thư mục</emphasis> trước khi tiếp tục.</para>"
+ 
+ #: admin/workerintegration.cpp:57
+ #, kde-format
+ msgctxt "@action:inmenu"
+ msgid "Act as Administrator"
+-msgstr ""
++msgstr "Hành động với tư cách Quản trị viên"
+ 
+ #: admin/workerintegration.cpp:82
+ #, kde-format
+ msgctxt "@title:window"
+ msgid "Risks of Acting as an Administrator"
+-msgstr ""
++msgstr "Rủi ro khi hành động với tư cách Quản trị viên"
+ 
+ #: admin/workerintegration.cpp:84
+ #, kde-format
+ msgctxt "@action:button"
+ msgid "I Understand and Accept These Risks"
+-msgstr ""
++msgstr "Tôi Hiểu và Chấp Nhận Những Rủi Ro Này"
+ 
+ #: admin/workerintegration.cpp:86
+ #, kde-format
+ msgctxt "@option:check"
+ msgid "Do not warn me about these risks again"
+-msgstr ""
++msgstr "Không cảnh báo về những rủi ro này nữa"
+ 
+ #: dolphincontextmenu.cpp:123
+ #, kde-format
+@@ -242,13 +253,13 @@
+ #, kde-format
+ msgctxt "@info"
+ msgid "Cannot paste: The clipboard is empty."
+-msgstr ""
++msgstr "Không thể dán: Bảng nháp trống."
+ 
+ #: dolphinmainwindow.cpp:874
+ #, kde-format
+ msgctxt "@info"
+ msgid "Cannot paste: You do not have permission to write into this folder."
+-msgstr ""
++msgstr "Không thể dán: Bạn không có quyền ghi vào thư mục này."
+ 
+ #: dolphinmainwindow.cpp:1253
+ #, kde-format
+@@ -303,7 +315,7 @@
+ msgstr "Mở một cửa sổ Dolphin mới"
+ 
+ #: dolphinmainwindow.cpp:1671
+-#, fuzzy, kde-kuit-format
++#, kde-kuit-format
+ #| msgctxt "@info:whatsthis"
+ #| msgid ""
+ #| "This opens a new window just like this one with the current location and "
+@@ -323,7 +335,7 @@
+ msgstr "Thẻ mới"
+ 
+ #: dolphinmainwindow.cpp:1680
+-#, fuzzy, kde-kuit-format
++#, kde-kuit-format
+ #| msgctxt "@info:whatsthis"
+ #| msgid ""
+ #| "This opens a new <emphasis>Tab</emphasis> with the current location and "
+@@ -358,7 +370,7 @@
+ msgstr "Đóng thẻ"
+ 
+ #: dolphinmainwindow.cpp:1697
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgctxt "@action:inmenu File"
+ #| msgid "Close Tab"
+ msgctxt "@info"
+@@ -366,7 +378,7 @@
+ msgstr "Đóng thẻ"
+ 
+ #: dolphinmainwindow.cpp:1699
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgctxt "@info:whatsthis"
+ #| msgid ""
+ #| "This closes the currently viewed tab. If no more tabs are left this "
+@@ -455,23 +465,23 @@
+ "<emphasis>Cắt</emphasis> thì chúng sẽ bị xoá khỏi địa điểm cũ."
+ 
+ #: dolphinmainwindow.cpp:1748
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgctxt "@action:inmenu"
+ #| msgid "Copy to Inactive Split View"
+ msgctxt "@action:inmenu"
+ msgid "Copy to Other View"
+-msgstr "Chép sang khung xem chia đôi bất hoạt"
++msgstr "Chép sang khung xem khác"
+ 
+ #: dolphinmainwindow.cpp:1749
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgctxt "@action:inmenu"
+ #| msgid "Copy to Inactive Split View…"
+ msgctxt "@action:inmenu"
+ msgid "Copy to Other View…"
+-msgstr "Chép sang khung xem chia đôi bất hoạt…"
++msgstr "Chép sang khung xem khác…"
+ 
+ #: dolphinmainwindow.cpp:1751
+-#, fuzzy, kde-kuit-format
++#, kde-kuit-format
+ #| msgctxt "@info:whatsthis Copy"
+ #| msgid ""
+ #| "This copies the selected items from the <emphasis>active</emphasis> view "
+@@ -481,35 +491,35 @@
+ "This copies the selected items from the view in focus to the other view. "
+ "(Only available while in Split View mode.)"
+ msgstr ""
+-"Hành động này chép các thứ đang được chọn ở khung xem <emphasis>hoạt động</"
+-"emphasis> sang khung xem bất hoạt."
++"Thao tác này sao chép các mục đã chọn từ khung xem đang nhắm sang khung xem "
++"kia. (Chỉ khả dụng khi ở chế độ Xem chia đôi.)"
+ 
+ #: dolphinmainwindow.cpp:1755
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgctxt "@action:inmenu"
+ #| msgid "Copy to Inactive Split View"
+ msgctxt "@action:inmenu Edit"
+ msgid "Copy to Other View"
+-msgstr "Chép sang khung xem chia đôi bất hoạt"
++msgstr "Chép sang khung xem khác"
+ 
+ #: dolphinmainwindow.cpp:1760
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgctxt "@action:inmenu"
+ #| msgid "Move to Inactive Split View"
+ msgctxt "@action:inmenu"
+ msgid "Move to Other View"
+-msgstr "Di chuyển sang khung xem chia đôi bất hoạt"
++msgstr "Di chuyển sang khung xem khác"
+ 
+ #: dolphinmainwindow.cpp:1761
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgctxt "@action:inmenu"
+ #| msgid "Move to Inactive Split View…"
+ msgctxt "@action:inmenu"
+ msgid "Move to Other View…"
+-msgstr "Di chuyển sang khung xem chia đôi bất hoạt…"
++msgstr "Di chuyển sang khung xem khác…"
+ 
+ #: dolphinmainwindow.cpp:1763
+-#, fuzzy, kde-kuit-format
++#, kde-kuit-format
+ #| msgctxt "@info:whatsthis Move"
+ #| msgid ""
+ #| "This moves the selected items from the <emphasis>active</emphasis> view "
+@@ -519,24 +529,24 @@
+ "This moves the selected items from the view in focus to the other view. "
+ "(Only available while in Split View mode.)"
+ msgstr ""
+-"Hành động này di chuyển các thứ đang được chọn ở khung xem <emphasis>hoạt "
+-"động</emphasis> sang khung xem bất hoạt."
++"Thao tác này di chuyển các mục đã chọn từ khung xem đang nhắm sang khung "
++"xem kia. (Chỉ khả dụng khi ở chế độ Xem chia đôi.)"
+ 
+ #: dolphinmainwindow.cpp:1767
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgctxt "@action:inmenu"
+ #| msgid "Move to Inactive Split View"
+ msgctxt "@action:inmenu Edit"
+ msgid "Move to Other View"
+-msgstr "Di chuyển sang khung xem chia đôi bất hoạt"
++msgstr "Di chuyển sang khung xem khác"
+ 
+ #: dolphinmainwindow.cpp:1772
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgctxt "@action:intoolbar"
+ #| msgid "Filter"
+ msgctxt "@action:inmenu Tools"
+ msgid "Filter…"
+-msgstr "Lọc"
++msgstr "Lọc…"
+ 
+ #: dolphinmainwindow.cpp:1773
+ #, kde-format
+@@ -545,7 +555,7 @@
+ msgstr "Hiện thanh lọc"
+ 
+ #: dolphinmainwindow.cpp:1775
+-#, fuzzy, kde-kuit-format
++#, kde-kuit-format
+ #| msgctxt "@info:whatsthis"
+ #| msgid ""
+ #| "This opens the <emphasis>Filter Bar</emphasis> at the bottom of the "
+@@ -576,10 +586,10 @@
+ msgstr "Lọc"
+ 
+ #: dolphinmainwindow.cpp:1796 search/dolphinsearchbox.cpp:350
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgid "Search"
+ msgid "Search…"
+-msgstr "Tìm kiếm"
++msgstr "Tìm kiếm…"
+ 
+ #: dolphinmainwindow.cpp:1797
+ #, kde-format
+@@ -588,7 +598,7 @@
+ msgstr "Tìm kiếm tệp và thư mục"
+ 
+ #: dolphinmainwindow.cpp:1799
+-#, fuzzy, kde-kuit-format
++#, kde-kuit-format
+ #| msgctxt "@info:whatsthis find"
+ #| msgid ""
+ #| "<para>This helps you find files and folders by opening a <emphasis>find "
+@@ -667,7 +676,7 @@
+ msgstr "Đảo chọn lựa"
+ 
+ #: dolphinmainwindow.cpp:1854
+-#, fuzzy, kde-kuit-format
++#, kde-kuit-format
+ #| msgctxt "@info:whatsthis invert"
+ #| msgid ""
+ #| "This selects all objects that you have currently <emphasis>not</emphasis> "
+@@ -718,12 +734,12 @@
+ msgstr "Mở một cửa sổ chia đôi hiển thị thư mục ảo cất giữ"
+ 
+ #: dolphinmainwindow.cpp:1906
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgctxt "@action:inmenu"
+ #| msgid "Preview"
+ msgctxt "@info:tooltip"
+ msgid "Refresh view"
+-msgstr "Xem thử"
++msgstr "Cập nhật khung xem"
+ 
+ #: dolphinmainwindow.cpp:1908
+ #, kde-kuit-format
+@@ -807,7 +828,7 @@
+ msgstr "Hành động này đưa bạn lại thẻ đã đóng trước đây."
+ 
+ #: dolphinmainwindow.cpp:1976
+-#, fuzzy, kde-kuit-format
++#, kde-kuit-format
+ #| msgctxt "@info:whatsthis"
+ #| msgid ""
+ #| "This undoes the last change you made to files or folders.<nl/>Such "
+@@ -823,14 +844,14 @@
+ "<filename>Trash</filename>. <nl/>Any changes that cannot be undone will ask "
+ "for your confirmation beforehand."
+ msgstr ""
+-"Hành động này đảo ngược thay đổi cuối cùng mà bạn thực hiện với các tệp hoặc "
+-"thư mục.<nl/>Các loại thay đổi bao gồm <interface>tạo, đổi tên</interface> "
+-"và <interface>di chuyển</interface> các thứ đến một địa điểm khác hoặc đến "
+-"<filename>thùng rác</filename>.<nl/>Các thay đổi không đảo ngược được sẽ yêu "
+-"cầu xác nhận của bạn."
++"Hành động này đảo ngược thay đổi cuối cùng mà bạn thực hiện với các tệp "
++"hoặc thư mục.<nl/>Các loại thay đổi bao gồm <interface>tạo</interface>, "
++"<interface>đổi tên</interface> và <interface>di chuyển</interface> chúng "
++"đến một địa điểm khác hoặc đến <filename>Thùng rác</filename>. <nl/>Bất kỳ "
++"thay đổi nào mà không thể đảo ngược sẽ yêu cầu xác nhận của bạn trước."
+ 
+ #: dolphinmainwindow.cpp:2005
+-#, fuzzy, kde-kuit-format
++#, kde-kuit-format
+ #| msgctxt "@info:whatsthis"
+ #| msgid ""
+ #| "Go to your <filename>Home</filename> folder.<nl/>Every user account has "
+@@ -871,7 +892,7 @@
+ msgstr "Mở dòng lệnh"
+ 
+ #: dolphinmainwindow.cpp:2030
+-#, fuzzy, kde-kuit-format
++#, kde-kuit-format
+ #| msgctxt "@info:whatsthis"
+ #| msgid ""
+ #| "<para>This opens a <emphasis>terminal</emphasis> application for the "
+@@ -895,7 +916,7 @@
+ msgstr "Mở dòng lệnh tại đây"
+ 
+ #: dolphinmainwindow.cpp:2040
+-#, fuzzy, kde-kuit-format
++#, kde-kuit-format
+ #| msgctxt "@info:whatsthis"
+ #| msgid ""
+ #| "<para>This opens <emphasis>terminal</emphasis> applications for the "
+@@ -924,7 +945,7 @@
+ msgstr "&Dấu nhớ"
+ 
+ #: dolphinmainwindow.cpp:2066
+-#, fuzzy, kde-kuit-format
++#, kde-kuit-format
+ #| msgctxt "@info:whatsthis"
+ #| msgid ""
+ #| "<para>This switches between having a <emphasis>Menubar</emphasis> and "
+@@ -943,35 +964,35 @@
+ "offer.</para><para>The %1 button is simpler and small which makes triggering "
+ "advanced actions more time consuming.</para>"
+ msgstr ""
+-"<para>Lựa chọn này chuyển đổi giữa việc có một <emphasis>Thanh trình đơn</"
+-"emphasis> và có một nút <interface>%1</interface>. Cả hai cách hầu như chứa "
+-"các hành động và lựa chọn cấu hình giống nhau.</para><para>Thanh trình đơn "
+-"chiếm nhiều chỗ hơn nhưng cho phép truy cập nhanh và có tổ chức đến tất cả "
+-"các hành động mà một ứng dụng có được.</para><para>Nút <interface>%1</"
+-"interface> thì đơn giản hơn và nhỏ, khiến việc kích hoạt các hành động nâng "
+-"cao sẽ tốn thời gian hơn.</para>"
++"<para>Lựa chọn này chuyển đổi giữa việc có một <emphasis>Thanh trình "
++"đơn</emphasis> và có một nút <interface>%1</interface>. Cả hai đều chứa hầu "
++"hết các hành động và tùy chọn cấu hình giống nhau.</para><para>Thanh trình "
++"đơn chiếm nhiều không gian hơn nhưng cho phép truy cập nhanh chóng và có tổ "
++"chức đến tất cả các hành động mà ứng dụng cung cấp.</para><para>Nút %1 đơn "
++"giản và nhỏ hơn, khiến việc kích hoạt các hành động nâng cao tốn nhiều thời "
++"gian hơn.</para>"
+ 
+ #: dolphinmainwindow.cpp:2099
+ #, kde-format
+ msgctxt "@action:inmenu"
+ msgid "Go to Tab %1"
+-msgstr ""
++msgstr "Đi đến Thẻ %1"
+ 
+ #: dolphinmainwindow.cpp:2112
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgctxt "@action:inmenu"
+ #| msgid "Activate Last Tab"
+ msgctxt "@action:inmenu"
+ msgid "Last Tab"
+-msgstr "Kích hoạt thẻ cuối cùng"
++msgstr "Thẻ cuối cùng"
+ 
+ #: dolphinmainwindow.cpp:2113
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgctxt "@action:inmenu"
+ #| msgid "Activate Last Tab"
+ msgctxt "@action:inmenu"
+ msgid "Go to Last Tab"
+-msgstr "Kích hoạt thẻ cuối cùng"
++msgstr "Đi đến Thẻ cuối cùng"
+ 
+ #: dolphinmainwindow.cpp:2119
+ #, kde-format
+@@ -980,12 +1001,12 @@
+ msgstr "Thẻ sau"
+ 
+ #: dolphinmainwindow.cpp:2120
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgctxt "@action:inmenu"
+ #| msgid "Next Tab"
+ msgctxt "@action:inmenu"
+ msgid "Go to Next Tab"
+-msgstr "Thẻ sau"
++msgstr "Đi đến Thẻ tiếp theo"
+ 
+ #: dolphinmainwindow.cpp:2126
+ #, kde-format
+@@ -994,12 +1015,12 @@
+ msgstr "Thẻ trước"
+ 
+ #: dolphinmainwindow.cpp:2127
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgctxt "@action:inmenu"
+ #| msgid "Previous Tab"
+ msgctxt "@action:inmenu"
+ msgid "Go to Previous Tab"
+-msgstr "Thẻ trước"
++msgstr "Đi đến Thẻ trước"
+ 
+ #: dolphinmainwindow.cpp:2134
+ #, kde-format
+@@ -1026,11 +1047,11 @@
+ msgstr "Mở trong cửa sổ mới"
+ 
+ #: dolphinmainwindow.cpp:2155 panels/places/placespanel.cpp:45
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgid "Open in application"
+ msgctxt "@action:inmenu"
+ msgid "Open in Split View"
+-msgstr "Mở trong ứng dụng"
++msgstr "Mở trong Khung xem chia đôi"
+ 
+ #: dolphinmainwindow.cpp:2169
+ #, kde-format
+@@ -1145,7 +1166,7 @@
+ msgstr "Dòng lệnh"
+ 
+ #: dolphinmainwindow.cpp:2290
+-#, fuzzy, kde-kuit-format
++#, kde-kuit-format
+ #| msgctxt "@info:whatsthis"
+ #| msgid ""
+ #| "<para>This toggles the <emphasis>terminal</emphasis> panel at the bottom "
+@@ -1163,15 +1184,15 @@
+ "learn more about terminals use the help features in a standalone terminal "
+ "application like Konsole.</para>"
+ msgstr ""
+-"<para>Hành động này đóng/mở bảng <emphasis>Dòng lệnh</emphasis> ở bên dưới "
+-"của cửa sổ.<nl/>Địa điểm của dòng lệnh sẽ luôn khớp với khung xem thư mục "
+-"nên bạn có thể điều hướng bằng cái nào cũng được.</para><para>Bảng \"Dòng "
+-"lệnh\" này không cần cho việc sử dụng máy tính cơ bản nhưng có thể có ích "
+-"cho các tác vụ nâng cao. Sử dụng trợ giúp trong một ứng dụng dòng lệnh độc "
+-"lập, như Konsole, để biết thêm về các dòng lệnh.</para>"
++"<para>Hành động này đóng/mở bảng <emphasis>dòng lệnh</emphasis> ở bên dưới "
++"cửa sổ.<nl/>Địa điểm trong dòng lệnh sẽ luôn khớp với khung xem thư mục nên "
++"bạn có thể điều hướng bằng cái nào cũng được.</para><para>Bảng dòng lệnh "
++"không cần thiết cho việc sử dụng máy tính cơ bản nhưng có thể hữu ích cho "
++"các tác vụ nâng cao. Để tìm hiểu thêm về dòng lệnh, hãy sử dụng các tính "
++"năng trợ giúp trong ứng dụng dòng lệnh độc lập như Konsole.</para>"
+ 
+ #: dolphinmainwindow.cpp:2298
+-#, fuzzy, kde-kuit-format
++#, kde-kuit-format
+ #| msgctxt "@info:whatsthis"
+ #| msgid ""
+ #| "<para>This is the <emphasis>terminal</emphasis> panel. It behaves like a "
+@@ -1209,7 +1230,7 @@
+ msgstr "Hiện các địa điểm ẩn"
+ 
+ #: dolphinmainwindow.cpp:2346
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgctxt "@info:whatsthis"
+ #| msgid ""
+ #| "This displays all places in the places panel that have been hidden. They "
+@@ -1283,13 +1305,13 @@
+ msgctxt "@info"
+ msgid ""
+ "Cannot delete: You do not have permission to remove items from this folder."
+-msgstr ""
++msgstr "Không thể xoá: Bạn không có quyền xoá các mục khỏi thư mục này."
+ 
+ #: dolphinmainwindow.cpp:2450
+ #, kde-format
+ msgctxt "@info"
+ msgid "Cannot cut: You do not have permission to move items from this folder."
+-msgstr ""
++msgstr "Không thể cắt: Bạn không có quyền di chuyển các mục từ thư mục này."
+ 
+ #: dolphinmainwindow.cpp:2455
+ #, kde-format
+@@ -1298,18 +1320,19 @@
+ "Cannot duplicate here: You do not have permission to create items in this "
+ "folder."
+ msgstr ""
++"Không thể sao chép tại đây: Bạn không có quyền tạo mục trong thư mục này."
+ 
+ #: dolphinmainwindow.cpp:2477
+ #, kde-format
+ msgctxt "@info"
+ msgid "Cannot copy to other view: No files selected."
+-msgstr ""
++msgstr "Không thể sao chép sang khung xem khác: Chưa chọn tệp nào."
+ 
+ #: dolphinmainwindow.cpp:2479
+ #, kde-format
+ msgctxt "@info"
+ msgid "Cannot move to other view: No files selected."
+-msgstr ""
++msgstr "Không thể di chuyển sang khung xem khác: Chưa chọn tệp nào."
+ 
+ #: dolphinmainwindow.cpp:2498
+ #, kde-format
+@@ -1383,18 +1414,18 @@
+ msgstr "Đóng khung xem bên trái"
+ 
+ #: dolphinmainwindow.cpp:2634
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgctxt "@action:inmenu"
+ #| msgid "Copy to Inactive Split View"
+ msgctxt "@action:intoolbar Move left view to a new window"
+ msgid "Pop out Left View"
+-msgstr "Chép sang khung xem chia đôi bất hoạt"
++msgstr "Tách khung xem trái"
+ 
+ #: dolphinmainwindow.cpp:2635
+ #, kde-format
+ msgctxt "@info"
+ msgid "Move left view to a new window"
+-msgstr ""
++msgstr "Di chuyển khung xem trái sang cửa sổ mới"
+ 
+ #: dolphinmainwindow.cpp:2637
+ #, kde-format
+@@ -1409,18 +1440,18 @@
+ msgstr "Đóng khung xem bên phải"
+ 
+ #: dolphinmainwindow.cpp:2640
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgctxt "@action:inmenu"
+ #| msgid "Copy to Inactive Split View"
+ msgctxt "@action:intoolbar Move right view to a new window"
+ msgid "Pop out Right View"
+-msgstr "Chép sang khung xem chia đôi bất hoạt"
++msgstr "Tách khung xem phải"
+ 
+ #: dolphinmainwindow.cpp:2641
+ #, kde-format
+ msgctxt "@info"
+ msgid "Move right view to a new window"
+-msgstr ""
++msgstr "Di chuyển khung xem bên phải sang cửa sổ mới"
+ 
+ #: dolphinmainwindow.cpp:2650
+ #, kde-format
+@@ -1961,20 +1992,20 @@
+ "Chạy Dolphin với tư cách người dùng root có thể gây nguy hại. Hãy thận trọng."
+ 
+ #: dolphinviewcontainer.cpp:164
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgctxt "@info:progress"
+ #| msgid "Loading folder..."
+ msgctxt "@info:progress"
+ msgid "Loading folder…"
+-msgstr "Đang tải thư mục..."
++msgstr "Đang tải thư mục…"
+ 
+ #: dolphinviewcontainer.cpp:167
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgctxt "@label:listbox"
+ #| msgid "Sorting:"
+ msgctxt "@info:progress"
+ msgid "Sorting…"
+-msgstr "Sắp xếp:"
++msgstr "Đang sắp xếp…"
+ 
+ #: dolphinviewcontainer.cpp:530
+ #, kde-format
+@@ -1987,18 +2018,18 @@
+ msgstr "Tìm kiếm %1"
+ 
+ #: dolphinviewcontainer.cpp:619
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgctxt "@info"
+ #| msgid "Searching..."
+ msgctxt "@info"
+ msgid "Searching…"
+-msgstr "Đang tìm kiếm..."
++msgstr "Đang tìm…"
+ 
+ #: dolphinviewcontainer.cpp:639
+ #, kde-format
+ msgctxt "@info:status"
+ msgid "No items found."
+-msgstr "Không tìm thấy thứ gì."
++msgstr "Không tìm thấy gì."
+ 
+ #: dolphinviewcontainer.cpp:814
+ #, kde-format
+@@ -2015,12 +2046,12 @@
+ "Giao thức không được Dolphin hỗ trợ, ứng dụng mặc định đã được khởi chạy"
+ 
+ #: dolphinviewcontainer.cpp:824
+-#, fuzzy, kde-format
++#, kde-format
+ #| msgctxt "@info:status"
+ #| msgid "Invalid protocol"
+ msgctxt "@info:status"
+ msgid "Invalid protocol '%1'"
+-msgstr "Giao thức không hợp lệ"
++msgstr "Giao thức '%1' không hợp lệ"
+ 
+ #: dolphinviewcontainer.cpp:826
+ #, kde-format

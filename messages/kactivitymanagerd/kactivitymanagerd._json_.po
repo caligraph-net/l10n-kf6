@@ -1,0 +1,133 @@
+# Phu Hung Nguyen <phu.nguyen@kdemail.net>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-06-27 02:21+0000\n"
+"PO-Revision-Date: 2022-05-16 08:14+0200\n"
+"Last-Translator: Phu Hung Nguyen <phu.nguyen@kdemail.net>\n"
+"Language-Team: Vietnamese <kde-l10n-vi@kde.org>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 21.12.2\n"
+
+#: src/service/plugins/virtualdesktopswitch/kactivitymanagerd-plugin-virtualdesktopswitch.json
+msgctxt "Name"
+msgid "Virtual desktop switcher"
+msgstr "Trình chuyển bàn làm việc ảo"
+
+#: src/service/plugins/virtualdesktopswitch/kactivitymanagerd-plugin-virtualdesktopswitch.json
+msgctxt "Description"
+msgid ""
+"When switching to an activity, opens the virtual desktop last used with that "
+"activity"
+msgstr ""
+"Khi chuyển sang một Hoạt động, mở bàn làm việc ảo được dùng gần đây nhất với "
+"Hoạt động đó"
+
+#: src/service/plugins/virtualdesktopswitch/kactivitymanagerd-plugin-virtualdesktopswitch.json
+msgctxt "Authors Name"
+msgid "Ivan Cukic"
+msgstr "Ivan Cukic"
+
+#~ msgctxt "Name"
+#~ msgid "Activity Templates"
+#~ msgstr "Bản mẫu Hoạt động"
+
+#~ msgctxt "Name"
+#~ msgid "Global Shortcuts"
+#~ msgstr "Phím tắt toàn cục"
+
+#~ msgctxt "Name"
+#~ msgid "Activity Runner"
+#~ msgstr "Trình chạy Hoạt động"
+
+#~ msgctxt "Name"
+#~ msgid "Gtk Event Spy"
+#~ msgstr "Theo dõi sự kiện GTK"
+
+#~ msgctxt "Name"
+#~ msgid "Run applications on activity state change"
+#~ msgstr "Chạy ứng dụng khi có thay đổi trạng thái Hoạt động"
+
+#~ msgctxt "Name"
+#~ msgid "Share-Like-Connect"
+#~ msgstr "Chia sẻ-Thích-Kết nối"
+
+#~ msgctxt "Name"
+#~ msgid "SQLite Feeder"
+#~ msgstr "Trình cấp SQLite"
+
+#~ msgctxt "Description"
+#~ msgid "Support for creating templated activities"
+#~ msgstr "Hỗ trợ tạo Hoạt động theo bản mẫu"
+
+#~ msgctxt "Description"
+#~ msgid "Adds global keyboard shortcuts for activity switching"
+#~ msgstr "Thêm các phím tắt toàn cục cho việc chuyển Hoạt động"
+
+#~ msgctxt "Description"
+#~ msgid "KRunner plugin to list and switch activities"
+#~ msgstr "Phần cài cắm KRunner để liệt kê và chuyển Hoạt động"
+
+#, fuzzy
+#~| msgctxt "Description"
+#~| msgid ""
+#~| "Collects events from applications that use GtkFileChooser and "
+#~| "GtkRecentManager as specified by https://www.freedesktop.org/wiki/"
+#~| "Specifications/desktop-bookmark-spec/"
+#~ msgctxt "Description"
+#~ msgid ""
+#~ "Collects events from applications that use KRecentDocument, "
+#~ "GtkFileChooser GtkRecentManager or directly file recently-used.xbel "
+#~ "specified by https://www.freedesktop.org/wiki/Specifications/desktop-"
+#~ "bookmark-spec/"
+#~ msgstr ""
+#~ "Thu thập sự kiện từ các ứng dụng dùng GtkFileChooser và GtkRecentManager "
+#~ "theo đặc tả ở https://www.freedesktop.org/wiki/Specifications/desktop-"
+#~ "bookmark-spec/"
+
+#~ msgctxt "Description"
+#~ msgid ""
+#~ "When switching activities, or when starting and stopping them, execute "
+#~ "specified applications"
+#~ msgstr ""
+#~ "Khi chuyển hoặc khi khởi động và dừng Hoạt động, thực thi các ứng dụng "
+#~ "được chỉ định"
+
+#~ msgctxt "Description"
+#~ msgid "Provides data to Share-Like-Connect applet"
+#~ msgstr "Cung cấp dữ liệu cho tiểu ứng dụng Chia sẻ-Thích-Kết nối"
+
+#~ msgctxt "Description"
+#~ msgid "Plugin to store and score events in SQLite"
+#~ msgstr "Phần cài cắm để lưu trữ và ghi lại các sự kiện vào SQLite"
+
+#~ msgctxt "Authors Name"
+#~ msgid "Ivan Čukić"
+#~ msgstr "Ivan Čukić"
+
+#~ msgctxt "Authors Name"
+#~ msgid "Makis Marimpis"
+#~ msgstr "Makis Marimpis"
+
+#~ msgctxt "Authors Name"
+#~ msgid "Alexander Lohnau"
+#~ msgstr "Alexander Lohnau"
+
+#~ msgctxt "Authors Name"
+#~ msgid "Méven Car"
+#~ msgstr "Méven Car"
+
+#~ msgctxt "Name"
+#~ msgid "Event Spy"
+#~ msgstr "Theo dõi sự kiện"
+
+#~ msgctxt "Description"
+#~ msgid ""
+#~ "Collects events from applications that support recent documents "
+#~ "specification"
+#~ msgstr "Thu thập sự kiện từ các ứng dụng hỗ trợ đặc tả \"tài liệu gần đây\""
