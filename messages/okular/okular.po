@@ -241,7 +241,7 @@ msgstr "Tiếp tục trở lại phim"
 #: core/audioplayer.cpp:315
 #, kde-format
 msgid "This Okular is built without audio support"
-msgstr ""
+msgstr "Bản Okular này được xây dựng không có hỗ trợ âm thanh"
 
 #: core/chooseenginedialog.cpp:22
 #, kde-format
@@ -578,7 +578,7 @@ msgstr "Đừng hiện lại thông điệp này"
 #: core/signatureutils.cpp:19 part/signaturepropertiesdialog.cpp:31
 #, kde-format
 msgid "Not Available"
-msgstr ""
+msgstr "Không khả dụng"
 
 #: core/sourcereference.cpp:101
 #, kde-format
@@ -1521,7 +1521,7 @@ msgid "Opacity"
 msgstr "Độ mờ đục"
 
 #: part/annotationactionhandler.cpp:695
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@item:inlistbox"
 #| msgid "%1%"
 msgctxt ""
@@ -1531,11 +1531,11 @@ msgid "%1%"
 msgstr "%1%"
 
 #: part/annotationmodel.cpp:320
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Page %1"
 msgctxt "Page label (number)"
 msgid "Page %1 (%2)"
-msgstr "Trang %1"
+msgstr "Trang %1 (%2)"
 
 #: part/annotationmodel.cpp:322 part/part.cpp:3118
 #, kde-format
@@ -1546,7 +1546,7 @@ msgstr "Trang %1"
 #, kde-format
 msgctxt "Annotation type: contents"
 msgid "%1: %2"
-msgstr ""
+msgstr "%1: %2"
 
 #: part/annotationpopup.cpp:83
 #, kde-format
@@ -1562,14 +1562,14 @@ msgstr "&Mở ghi chú bật lên"
 #: part/annotationpopup.cpp:90 part/annotationpopup.cpp:135
 #, kde-format
 msgid "Copy Text to Clipboard"
-msgstr ""
+msgstr "Chép văn bản vào bảng nháp"
 
 #: part/annotationpopup.cpp:94 part/annotationpopup.cpp:139
 #: part/pageview.cpp:2495 part/pageview.cpp:2815 part/pageview.cpp:2959
 #: part/pageview.cpp:3016
 #, kde-format
 msgid "Copy forbidden by DRM"
-msgstr ""
+msgstr "DRM cấm sao chép"
 
 #: part/annotationpopup.cpp:99 part/annotationpopup.cpp:144
 #, kde-format
@@ -1971,158 +1971,158 @@ msgstr "Dấu gạch chéo"
 #: part/annotationwidgets.cpp:533
 #, kde-format
 msgid "Leader line length:"
-msgstr ""
+msgstr "Độ dài đường dẫn:"
 
 #: part/annotationwidgets.cpp:535
 #, kde-format
 msgid "Leader line extensions length:"
-msgstr ""
+msgstr "Độ dài phần mở rộng đường dẫn:"
 
 #: part/annotationwidgets.cpp:549 part/annotationwidgets.cpp:693
 #, kde-format
 msgid "Enabled"
-msgstr ""
+msgstr "Đã bật"
 
 #: part/annotationwidgets.cpp:553 part/annotationwidgets.cpp:697
 #, kde-format
 msgid "Shape fill:"
-msgstr ""
+msgstr "Tô hình:"
 
 #: part/annotationwidgets.cpp:653 part/annotationwidgets.cpp:687
 #, kde-format
 msgid "Type:"
-msgstr ""
+msgstr "Loại:"
 
 #: part/annotationwidgets.cpp:658 part/pageviewannotator.cpp:1339
 #, kde-format
 msgid "Strike out"
-msgstr ""
+msgstr "Gạch bỏ"
 
 #: part/annotationwidgets.cpp:702 part/pageviewannotator.cpp:1331
 #, kde-format
 msgid "Rectangle"
-msgstr ""
+msgstr "Hình chữ nhật"
 
 #: part/annotationwidgets.cpp:703 part/pageviewannotator.cpp:1319
 #, kde-format
 msgid "Ellipse"
-msgstr ""
+msgstr "Hình elip"
 
 #: part/annotationwidgets.cpp:747
 #, kde-format
 msgid "File attachment symbol:"
-msgstr ""
+msgstr "Biểu tượng tệp đính kèm:"
 
 #: part/annotationwidgets.cpp:750
 #, kde-format
 msgctxt "Symbol for file attachment annotations"
 msgid "Graph"
-msgstr ""
+msgstr "Đồ thị"
 
 #: part/annotationwidgets.cpp:751
 #, kde-format
 msgctxt "Symbol for file attachment annotations"
 msgid "Push Pin"
-msgstr ""
+msgstr "Ghim ấn"
 
 #: part/annotationwidgets.cpp:752
 #, kde-format
 msgctxt "Symbol for file attachment annotations"
 msgid "Paperclip"
-msgstr ""
+msgstr "Kẹp giấy"
 
 #: part/annotationwidgets.cpp:753
 #, kde-format
 msgctxt "Symbol for file attachment annotations"
 msgid "Tag"
-msgstr ""
+msgstr "Thẻ gắn"
 
 #: part/annotationwidgets.cpp:762
 #, kde-format
 msgctxt "'File' as normal file, that can be opened, saved, etc.."
 msgid "File"
-msgstr ""
+msgstr "Tệp"
 
 #: part/annotationwidgets.cpp:766 part/embeddedfilesdialog.cpp:90
 #, kde-format
 msgctxt "Not available size"
 msgid "N/A"
-msgstr ""
+msgstr "K/C"
 
 #: part/annotationwidgets.cpp:767
 #, kde-format
 msgid "No description available."
-msgstr ""
+msgstr "Không có mô tả."
 
 #: part/annotationwidgets.cpp:775
 #, kde-format
 msgid "Name:"
-msgstr ""
+msgstr "Tên:"
 
 #: part/annotationwidgets.cpp:786
 #, kde-format
 msgid "Description:"
-msgstr ""
+msgstr "Mô tả:"
 
 #: part/annotationwidgets.cpp:845
 #, kde-format
 msgid "Caret symbol:"
-msgstr ""
+msgstr "Ký hiệu dấu mũ:"
 
 #: part/annotationwidgets.cpp:847
 #, kde-format
 msgctxt "Symbol for caret annotations"
 msgid "None"
-msgstr ""
+msgstr "Không"
 
 #: part/annotationwidgets.cpp:848
 #, kde-format
 msgctxt "Symbol for caret annotations"
 msgid "P"
-msgstr ""
+msgstr "P"
 
 #: part/annotwindow.cpp:52
 #, kde-format
 msgid "Close this note"
-msgstr ""
+msgstr "Đóng ghi chú này"
 
 #: part/annotwindow.cpp:95 part/findbar.cpp:63
 #, kde-format
 msgid "Options"
-msgstr ""
+msgstr "Tùy chọn"
 
 #: part/annotwindow.cpp:106
 #, kde-format
 msgid ""
 "This annotation may contain LaTeX code.\n"
 "Click here to render."
-msgstr ""
+msgstr "Chú dẫn này có thể chứa mã LaTeX.\nNhấp vào đây để hiển thị."
 
 #: part/annotwindow.cpp:416
 #, kde-format
 msgid "Cannot find latex executable."
-msgstr ""
+msgstr "Không thể tìm thấy tệp thực thi latex."
 
 #: part/annotwindow.cpp:416 part/annotwindow.cpp:421 part/annotwindow.cpp:426
 #: part/annotwindow.cpp:431
 #, kde-format
 msgid "LaTeX rendering failed"
-msgstr ""
+msgstr "Kết xuất LaTeX thất bại"
 
 #: part/annotwindow.cpp:421
 #, kde-format
 msgid "Cannot find dvipng executable."
-msgstr ""
+msgstr "Không thể tìm thấy tệp thực thi dvipng."
 
 #: part/annotwindow.cpp:426
 #, kde-format
 msgid "A problem occurred during the execution of the 'latex' command."
-msgstr ""
+msgstr "Đã xảy ra sự cố trong quá trình thực thi lệnh 'latex'."
 
 #: part/annotwindow.cpp:431
 #, kde-format
 msgid "A problem occurred during the execution of the 'dvipng' command."
-msgstr ""
+msgstr "Đã xảy ra sự cố trong quá trình thực thi lệnh 'dvipng'."
 
 #: part/bookmarklist.cpp:115
 #, kde-format
@@ -2186,159 +2186,159 @@ msgstr "Xoá tất cả các dấu nhớ của tài liệu này"
 #: part/certificateviewer.cpp:47
 #, kde-format
 msgid "Certificate Viewer"
-msgstr ""
+msgstr "Trình xem Chứng chỉ"
 
 #: part/certificateviewer.cpp:50
 #, kde-format
 msgid "Export..."
-msgstr ""
+msgstr "Xuất..."
 
 #: part/certificateviewer.cpp:56 part/preferencesdialog.cpp:41
 #, kde-format
 msgid "General"
-msgstr ""
+msgstr "Chung"
 
 #: part/certificateviewer.cpp:58
 #, kde-format
 msgid "Issued By"
-msgstr ""
+msgstr "Cấp bởi"
 
 #: part/certificateviewer.cpp:61 part/certificateviewer.cpp:68
 #, kde-format
 msgid "Common Name(CN)"
-msgstr ""
+msgstr "Tên chung (CN)"
 
 #: part/certificateviewer.cpp:62 part/certificateviewer.cpp:69
 #, kde-format
 msgid "EMail"
-msgstr ""
+msgstr "Thư điện tử"
 
 #: part/certificateviewer.cpp:63 part/certificateviewer.cpp:70
 #, kde-format
 msgid "Organization(O)"
-msgstr ""
+msgstr "Tổ chức(O)"
 
 #: part/certificateviewer.cpp:65
 #, kde-format
 msgid "Issued To"
-msgstr ""
+msgstr "Cấp cho"
 
 #: part/certificateviewer.cpp:72
 #, kde-format
 msgid "Validity"
-msgstr ""
+msgstr "Hiệu lực"
 
 #: part/certificateviewer.cpp:78
 #, kde-format
 msgid "Fingerprints"
-msgstr ""
+msgstr "Dấu vân tay"
 
 #: part/certificateviewer.cpp:86
 #, kde-format
 msgid "SHA-1 Fingerprint"
-msgstr ""
+msgstr "Điểm chỉ SHA-1"
 
 #: part/certificateviewer.cpp:87
 #, kde-format
 msgid "SHA-256 Fingerprint"
-msgstr ""
+msgstr "Điểm chỉ SHA-256"
 
 #: part/certificateviewer.cpp:105
 #, kde-format
 msgid "Details"
-msgstr ""
+msgstr "Chi tiết"
 
 #: part/certificateviewer.cpp:106
 #, kde-format
 msgid "Certificate Data:"
-msgstr ""
+msgstr "Dữ liệu chứng chỉ:"
 
 #: part/certificateviewer.cpp:158
 #, kde-format
 msgid "Where do you want to save this certificate?"
-msgstr ""
+msgstr "Bạn muốn lưu chứng chỉ này ở đâu?"
 
 #: part/certificateviewer.cpp:159
 #, kde-format
 msgid "Certificate File (*.cer)"
-msgstr ""
+msgstr "Tệp Chứng Chỉ (*.cer)"
 
 #: part/certificateviewer.cpp:162
 #, kde-format
 msgid "Could not export the certificate"
-msgstr ""
+msgstr "Không xuất khẩu được chứng chỉ"
 
 #: part/colormodemenu.cpp:19
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Color Mode"
-msgstr ""
+msgstr "&Chế độ màu"
 
 #: part/colormodemenu.cpp:21
 #, kde-format
 msgctxt "@action Change Colors feature toggle action"
 msgid "Change Colors"
-msgstr ""
+msgstr "Đổi màu"
 
 #: part/colormodemenu.cpp:29
 #, kde-format
 msgctxt "@item:inmenu color mode"
 msgid "&Normal Colors"
-msgstr ""
+msgstr "&Màu bình thường"
 
 #: part/colormodemenu.cpp:41
 #, kde-format
 msgctxt "@item:inmenu color mode"
 msgid "&Invert Colors"
-msgstr ""
+msgstr "Đả&o màu"
 
 #: part/colormodemenu.cpp:42
 #, kde-format
 msgctxt "@item:inmenu color mode"
 msgid "Change &Paper Color"
-msgstr ""
+msgstr "Đổi Mà&u Giấy"
 
 #: part/colormodemenu.cpp:44
 #, kde-format
 msgctxt "@item:inmenu color mode"
 msgid "Change &Dark && Light Colors"
-msgstr ""
+msgstr "Đổi Màu &Tối && Sáng"
 
 #: part/colormodemenu.cpp:46
 #, kde-format
 msgctxt "@item:inmenu color mode"
 msgid "Convert to &Black && White"
-msgstr ""
+msgstr "&Chuyển sang Đen && Trắng"
 
 #: part/colormodemenu.cpp:49
 #, kde-format
 msgctxt "@item:inmenu color mode"
 msgid "Invert &Lightness"
-msgstr ""
+msgstr "Đảo &ngược độ sáng"
 
 #: part/colormodemenu.cpp:52
 #, kde-format
 msgctxt "@item:inmenu color mode"
 msgid "Invert L&uma (sRGB Linear)"
-msgstr ""
+msgstr "Đảo n&gược Luma (sRGB Tuyến tính)"
 
 #: part/colormodemenu.cpp:55
 #, kde-format
 msgctxt "@item:inmenu color mode"
 msgid "Invert Luma (&Symmetric)"
-msgstr ""
+msgstr "Đảo ngượ&c Luma (Đối xứng)"
 
 #: part/colormodemenu.cpp:58
 #, kde-format
 msgctxt "@item:inmenu color mode"
 msgid "Shift Hue P&ositive"
-msgstr ""
+msgstr "Dịc&h sắc độ dương"
 
 #: part/colormodemenu.cpp:61
 #, kde-format
 msgctxt "@item:inmenu color mode"
 msgid "Shift Hue N&egative"
-msgstr ""
+msgstr "&Dịch sắc độ âm"
 
 #. i18n: tag tool attribute name
 #: part/data/drawingtools.xml:11
@@ -2453,25 +2453,25 @@ msgstr "Đảo độ sáng"
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, accessibility page"
 msgid "Invert luma (sRGB linear)"
-msgstr ""
+msgstr "Đảo ngược độ sáng (sRGB tuyến tính)"
 
 #: part/dlgaccessibility.cpp:66
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, accessibility page"
 msgid "Invert luma (symmetric)"
-msgstr ""
+msgstr "Đảo ngược độ sáng (đối xứng)"
 
 #: part/dlgaccessibility.cpp:67
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, accessibility page"
 msgid "Shift hue positive"
-msgstr ""
+msgstr "Tăng sắc độ"
 
 #: part/dlgaccessibility.cpp:68
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, accessibility page"
 msgid "Shift hue negative"
-msgstr ""
+msgstr "Dịch sắc độ âm"
 
 #: part/dlgaccessibility.cpp:70
 #, kde-format
@@ -2513,31 +2513,31 @@ msgstr "Tương phản:"
 #, kde-format
 msgctxt "@label:listbox Config dialog, accessibility page"
 msgid "Text-to-speech engine:"
-msgstr ""
+msgstr "Công cụ chuyển văn bản thành giọng nói:"
 
 #: part/dlgaccessibility.cpp:165
 #, kde-format
 msgctxt "&label:listbox Config dialog, accessibility page"
 msgid "Text-to-speech voice:"
-msgstr ""
+msgstr "Giọng nói văn bản:"
 
 #: part/dlgannotations.cpp:25
 #, kde-format
 msgctxt "item:inlistbox Config dialog, general page"
 msgid "Full Annotation Toolbar"
-msgstr ""
+msgstr "Thanh công cụ chú dẫn đầy đủ"
 
 #: part/dlgannotations.cpp:26
 #, kde-format
 msgctxt "item:inlistbox Config dialog, general page"
 msgid "Quick Annotation Toolbar"
-msgstr ""
+msgstr "Thanh công cụ chú dẫn nhanh"
 
 #: part/dlgannotations.cpp:28
 #, kde-format
 msgctxt "label:listbox Config dialog, general page"
 msgid "Annotation toolbar:"
-msgstr ""
+msgstr "Thanh công cụ chú dẫn:"
 
 #: part/dlgannotations.cpp:34
 #, kde-format
@@ -2553,6 +2553,8 @@ msgid ""
 "information is saved in annotated documents, and so will be transmitted "
 "together with the document."
 msgstr ""
+"<b>Lưu ý:</b> thông tin ở đây chỉ dùng cho chú thích. Thông tin được lưu "
+"trong tài liệu chú dẫn, và sẽ được truyền đi cùng với tài liệu."
 
 #: part/dlgannotations.cpp:48
 #, kde-format
@@ -2560,68 +2562,68 @@ msgctxt ""
 "@label Config dialog, annotations page, heading line for Quick Annotations "
 "tool manager"
 msgid "<h3>Quick Annotation Tools</h3>"
-msgstr ""
+msgstr "<h3>Công cụ chú dẫn nhanh</h3>"
 
 #: part/dlgeditor.cpp:28
 #, kde-format
 msgctxt "@info:whatsthis Config dialog, editor page"
 msgid ""
 "Choose the editor you want to launch when Okular wants to open a source file."
-msgstr ""
+msgstr "Chọn trình biên tập bạn muốn khởi chạy khi Okular cần mở tệp nguồn."
 
 #: part/dlgeditor.cpp:29
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, editor page"
 msgid "Custom Text Editor"
-msgstr ""
+msgstr "Trình biên tập văn bản tùy biến"
 
 #: part/dlgeditor.cpp:30
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, editor page"
 msgid "Kate"
-msgstr ""
+msgstr "Kate"
 
 #: part/dlgeditor.cpp:31
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, editor page"
 msgid "Kile"
-msgstr ""
+msgstr "Kile"
 
 #: part/dlgeditor.cpp:32
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, editor page"
 msgid "SciTE"
-msgstr ""
+msgstr "SciTE"
 
 #: part/dlgeditor.cpp:33
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, editor page"
 msgid "Emacs client"
-msgstr ""
+msgstr "Trình khách Emacs"
 
 #: part/dlgeditor.cpp:34
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, editor page"
 msgid "Lyx client"
-msgstr ""
+msgstr "Trình khách Lyx"
 
 #: part/dlgeditor.cpp:35
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, editor page"
 msgid "TeXstudio"
-msgstr ""
+msgstr "TeXstudio"
 
 #: part/dlgeditor.cpp:36
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, editor page"
 msgid "TeXiFy IDEA"
-msgstr ""
+msgstr "TeXiFy IDEA"
 
 #: part/dlgeditor.cpp:37
 #, kde-format
 msgctxt "@label:listbox Config dialog, editor page"
 msgid "Editor:"
-msgstr ""
+msgstr "Trình soạn thảo:"
 
 #: part/dlgeditor.cpp:52
 #, kde-format
@@ -2637,144 +2639,149 @@ msgid ""
 "If %f is not specified, then the file name is appended to the specified "
 "command."
 msgstr ""
+"Đặt lệnh cho trình biên tập văn bản tùy chỉnh để khởi chạy.<br />\nBạn cũng "
+"có thể sử dụng một số ký tự đại diện:\n<ul>\n  <li>%f - tên tệp</li>\n  "
+"<li>%l - dòng của tệp cần đến</li>\n  <li>%c - cột của tệp cần "
+"đến</li>\n</ul>\nNếu %f không được chỉ định, tên tệp sẽ được thêm vào cuối "
+"lệnh đã chỉ định."
 
 #: part/dlgeditor.cpp:63
 #, kde-format
 msgctxt "@label:textbox Config dialog, editor page"
 msgid "Command:"
-msgstr ""
+msgstr "Lệnh:"
 
 #: part/dlggeneral.cpp:33
 #, kde-format
 msgctxt "@option:check Config dialog, general page"
 msgid "Use smooth scrolling"
-msgstr ""
+msgstr "Sử dụng cuộn mượt"
 
 #: part/dlggeneral.cpp:35
 #, kde-format
 msgctxt "@title:group Config dialog, general page"
 msgid "Appearance:"
-msgstr ""
+msgstr "Giao diện:"
 
 #: part/dlggeneral.cpp:39
 #, kde-format
 msgctxt "@option:check Config dialog, general page"
 msgid "Show scrollbars"
-msgstr ""
+msgstr "Hiển thị thanh cuộn"
 
 #: part/dlggeneral.cpp:46
 #, kde-format
 msgctxt "@option:check Config dialog, general page"
 msgid "Link the thumbnails with the page"
-msgstr ""
+msgstr "Liên kết hình nhỏ với trang"
 
 #: part/dlggeneral.cpp:53
 #, kde-format
 msgctxt "@option:check Config dialog, general page"
 msgid "Show hints and info messages"
-msgstr ""
+msgstr "Hiển thị gợi ý và thông báo"
 
 #: part/dlggeneral.cpp:59
 #, kde-format
 msgctxt "@option:check Config dialog, general page"
 msgid "Notify about embedded files, forms, or signatures"
-msgstr ""
+msgstr "Thông báo về tập tin nhúng, biểu mẫu hoặc chữ ký"
 
 #: part/dlggeneral.cpp:66
 #, kde-format
 msgctxt "@option:check Config dialog, general page"
 msgid "Display document title in titlebar if available"
-msgstr ""
+msgstr "Hiển thị tiêu đề tài liệu trong thanh tiêu đề nếu có"
 
 #: part/dlggeneral.cpp:72
 #, kde-format
 msgctxt "item:inlistbox Config dialog, general page"
 msgid "Display file name only"
-msgstr ""
+msgstr "Chỉ hiển thị tên tệp"
 
 #: part/dlggeneral.cpp:73
 #, kde-format
 msgctxt "item:inlistbox Config dialog, general page"
 msgid "Display full file path"
-msgstr ""
+msgstr "Hiển thị đường dẫn tệp đầy đủ"
 
 #: part/dlggeneral.cpp:75
 #, kde-format
 msgctxt "label:listbox Config dialog, general page"
 msgid "When not displaying document title:"
-msgstr ""
+msgstr "Khi không hiển thị tiêu đề tài liệu:"
 
 #: part/dlggeneral.cpp:90
 #, kde-format
 msgctxt "@label:listbox Config dialog, general page"
 msgid "Use custom background color:"
-msgstr ""
+msgstr "Dùng màu nền tự chọn:"
 
 #: part/dlggeneral.cpp:112
 #, kde-format
 msgctxt "@title:group Config dialog, general page"
 msgid "Program features:"
-msgstr ""
+msgstr "Tính năng chương trình:"
 
 #: part/dlggeneral.cpp:119
 #, kde-format
 msgctxt "@option:check Config dialog, general page"
 msgid "Open new files in tabs"
-msgstr ""
+msgstr "Mở tệp mới trong thẻ"
 
 #: part/dlggeneral.cpp:124
 #, kde-format
 msgctxt "@option:check Config dialog, general page"
 msgid "Switch to existing tab if file is already open"
-msgstr ""
+msgstr "Chuyển đến thẻ hiện có nếu tệp đã mở"
 
 #: part/dlggeneral.cpp:137
 #, kde-format
 msgctxt "@option:check Config dialog, general page"
 msgid "Obey DRM limitations"
-msgstr ""
+msgstr "Tuân thủ giới hạn DRM"
 
 #: part/dlggeneral.cpp:146
 #, kde-format
 msgctxt "@option:check Config dialog, general page"
 msgid "Reload document on file change"
-msgstr ""
+msgstr "Tải lại tài liệu khi tệp thay đổi"
 
 #: part/dlggeneral.cpp:153
 #, kde-format
 msgctxt "@option:check Config dialog, general page"
 msgid "Show backend selection dialog"
-msgstr ""
+msgstr "Hiện hộp thoại chọn hậu phương"
 
 #: part/dlggeneral.cpp:160
 #, kde-format
 msgctxt "@option:check Config dialog, general page"
 msgid "Right to left reading direction"
-msgstr ""
+msgstr "Hướng đọc từ phải sang trái"
 
 #: part/dlggeneral.cpp:166
 #, kde-format
 msgctxt "@option:check Config dialog, general page"
 msgid "Open in continuous mode by default"
-msgstr ""
+msgstr "Mặc định mở ở chế độ liên tục"
 
 #: part/dlggeneral.cpp:173
 #, kde-format
 msgctxt "@option:check Config dialog, general page"
 msgid "When using Browse Tool, wrap cursor at screen edges"
-msgstr ""
+msgstr "Khi dùng Công cụ Duyệt, bọc con trỏ ở cạnh màn hình"
 
 #: part/dlggeneral.cpp:190
 #, kde-format
 msgctxt "@label:spinbox Config dialog, general page"
 msgid "Overview columns:"
-msgstr ""
+msgstr "Số cột tổng quan:"
 
 #: part/dlggeneral.cpp:197
 #, kde-format
 msgctxt "Page Up/Down overlap, spinbox suffix"
 msgid "%"
-msgstr ""
+msgstr "%"
 
 #: part/dlggeneral.cpp:198
 #, kde-format
@@ -2783,18 +2790,20 @@ msgid ""
 "Defines how much of the current viewing area will still be visible when "
 "pressing the Page Up/Down keys."
 msgstr ""
+"Xác định phần nào của vùng xem hiện tại sẽ vẫn hiển thị khi nhấn phím Page "
+"Up/Down."
 
 #: part/dlggeneral.cpp:200
 #, kde-format
 msgctxt "@label:spinbox Config dialog, general page"
 msgid "Page Up/Down overlap:"
-msgstr ""
+msgstr "Độ chồng lấp Trang Trước/Sau:"
 
 #: part/dlggeneral.cpp:204
 #, kde-format
 msgctxt "item:inlistbox Config dialog, general page, default zoom"
 msgid "100%"
-msgstr ""
+msgstr "100%"
 
 #: part/dlggeneral.cpp:205
 #, kde-format
@@ -2812,7 +2821,7 @@ msgstr "Vừa trang"
 #, kde-format
 msgctxt "item:inlistbox Config dialog, general page, default zoom"
 msgid "Auto Fit"
-msgstr ""
+msgstr "Tự động vừa khít"
 
 #: part/dlggeneral.cpp:208
 #, kde-format
@@ -2821,78 +2830,80 @@ msgid ""
 "Defines the default zoom mode for files which were never opened before. For "
 "files which were opened before the previous zoom is applied."
 msgstr ""
+"Xác định chế độ thu phóng mặc định cho các tệp chưa từng mở. Đối với tệp đã "
+"mở trước đó, áp dụng mức thu phóng trước."
 
 #: part/dlggeneral.cpp:210
 #, kde-format
 msgctxt "label:listbox Config dialog, general page, default zoom"
 msgid "Default zoom:"
-msgstr ""
+msgstr "Thu phóng mặc định:"
 
 #: part/dlgperformance.cpp:26
 #, kde-format
 msgctxt "@option:check Config dialog, performance page"
 msgid "Enable transparency effects"
-msgstr ""
+msgstr "Bật hiệu ứng trong suốt"
 
 #: part/dlgperformance.cpp:28
 #, kde-format
 msgctxt "@label Config dialog, performance page"
 msgid "CPU usage:"
-msgstr ""
+msgstr "Sử dụng CPU:"
 
 #: part/dlgperformance.cpp:35
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, performance page, memory usage"
 msgid "Low"
-msgstr ""
+msgstr "Thấp"
 
 #: part/dlgperformance.cpp:36
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, performance page, memory usage"
 msgid "Normal (default)"
-msgstr ""
+msgstr "Bình thường (mặc định)"
 
 #: part/dlgperformance.cpp:37
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, performance page, memory usage"
 msgid "Aggressive"
-msgstr ""
+msgstr "Mạnh mẽ"
 
 #: part/dlgperformance.cpp:38
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, performance page, memory usage"
 msgid "Greedy"
-msgstr ""
+msgstr "Tham lam"
 
 #: part/dlgperformance.cpp:40
 #, kde-format
 msgctxt "@label:listbox Config dialog, performance page, memory usage"
 msgid "Memory usage:"
-msgstr ""
+msgstr "Sử dụng bộ nhớ:"
 
 #: part/dlgperformance.cpp:54
 #, kde-format
 msgctxt "@option:check Config dialog, performance page"
 msgid "Enable text antialias"
-msgstr ""
+msgstr "Bật khử răng cưa chữ"
 
 #: part/dlgperformance.cpp:56
 #, kde-format
 msgctxt "@title:group Config dialog, performance page"
 msgid "Rendering options:"
-msgstr ""
+msgstr "Tùy chọn kết xuất:"
 
 #: part/dlgperformance.cpp:59
 #, kde-format
 msgctxt "@option:check Config dialog, performance page"
 msgid "Enable graphics antialias"
-msgstr ""
+msgstr "Bật khử răng cưa đồ họa"
 
 #: part/dlgperformance.cpp:64
 #, kde-format
 msgctxt "@option:check Config dialog, performance page"
 msgid "Enable text hinting"
-msgstr ""
+msgstr "Bật dẫn phông chữ"
 
 #: part/dlgperformance.cpp:77
 #, kde-format
@@ -2900,6 +2911,8 @@ msgid ""
 "Keeps used memory as low as possible. Do not reuse anything. (For systems "
 "with low memory.)"
 msgstr ""
+"Giữ bộ nhớ sử dụng ở mức thấp nhất. Không tái sử dụng. (Cho hệ thống ít bộ "
+"nhớ.)"
 
 #: part/dlgperformance.cpp:80
 #, kde-format
@@ -2907,6 +2920,8 @@ msgid ""
 "A good compromise between memory usage and speed gain. Preload next page and "
 "boost searches. (For systems with 2GB of memory, typically.)"
 msgstr ""
+"Cân bằng tốt giữa sử dụng bộ nhớ và tăng tốc độ. Tải trước trang tiếp và "
+"tăng cường tìm kiếm. (Thích hợp cho hệ thống có 2GB bộ nhớ.)"
 
 #: part/dlgperformance.cpp:83
 #, kde-format
@@ -2914,6 +2929,8 @@ msgid ""
 "Keeps everything in memory. Preload next pages. Boost searches. (For systems "
 "with more than 4GB of memory.)"
 msgstr ""
+"Giữ mọi thứ trong bộ nhớ. Tải trước các trang sau. Tăng tốc tìm kiếm. (Cho "
+"hệ thống có hơn 4GB bộ nhớ.)"
 
 #: part/dlgperformance.cpp:87
 #, no-c-format, kde-format
@@ -2921,229 +2938,232 @@ msgid ""
 "Loads and keeps everything in memory. Preload all pages. (Will use at "
 "maximum 50% of your total memory or your free memory, whatever is bigger.)"
 msgstr ""
+"Tải và giữ mọi thứ trong bộ nhớ. Tải trước tất cả các trang. (Sẽ sử dụng "
+"tối đa 50% tổng bộ nhớ hoặc bộ nhớ trống của bạn, tùy theo cái nào lớn "
+"hơn.)"
 
 #: part/dlgpresentation.cpp:37
 #, kde-format
 msgctxt "Spinbox prefix: Advance automatically: every n seconds"
 msgid "every "
-msgstr ""
+msgstr "mỗi "
 
 #: part/dlgpresentation.cpp:38
 #, kde-format
 msgctxt "Advance every %1 seconds"
 msgid " second"
 msgid_plural " seconds"
-msgstr[0] ""
+msgstr[0] " giây"
 
 #: part/dlgpresentation.cpp:45
 #, kde-format
 msgctxt "@label:spinbox Config dialog, presentation page"
 msgid "Advance automatically:"
-msgstr ""
+msgstr "Tự động chuyển:"
 
 #: part/dlgpresentation.cpp:53
 #, kde-format
 msgctxt "@option:check Config dialog, presentation page"
 msgid "Loop after last page"
-msgstr ""
+msgstr "Lặp lại sau trang cuối"
 
 #: part/dlgpresentation.cpp:59
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, tap navigation"
 msgid "Tap left/right side to go back/forward"
-msgstr ""
+msgstr "Chạm bên trái/phải để quay lại/tiếp tục"
 
 #: part/dlgpresentation.cpp:60
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, tap navigation"
 msgid "Tap anywhere to go forward"
-msgstr ""
+msgstr "Chạm bất kỳ đâu để tiến tới"
 
 #: part/dlgpresentation.cpp:61
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, tap navigation"
 msgid "Disabled"
-msgstr ""
+msgstr "Tắt"
 
 #: part/dlgpresentation.cpp:63
 #, kde-format
 msgctxt "@label:listbox Config dialog, presentation page, tap navigation"
 msgid "Touch navigation:"
-msgstr ""
+msgstr "Điều hướng chạm:"
 
 #: part/dlgpresentation.cpp:72
 #, kde-format
 msgctxt "@label:chooser Config dialog, presentation page"
 msgid "Background color:"
-msgstr ""
+msgstr "Màu nền:"
 
 #: part/dlgpresentation.cpp:76
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, cursor visibility"
 msgid "Hidden after delay"
-msgstr ""
+msgstr "Ẩn sau độ trễ"
 
 #: part/dlgpresentation.cpp:77
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, cursor visibility"
 msgid "Always visible"
-msgstr ""
+msgstr "Luôn hiển thị"
 
 #: part/dlgpresentation.cpp:78
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, cursor visibility"
 msgid "Always hidden"
-msgstr ""
+msgstr "Luôn ẩn"
 
 #: part/dlgpresentation.cpp:80
 #, kde-format
 msgctxt "@label:listbox Config dialog, presentation page, cursor visibility"
 msgid "Mouse cursor:"
-msgstr ""
+msgstr "Con trỏ chuột:"
 
 #: part/dlgpresentation.cpp:84
 #, kde-format
 msgctxt "@option:check Config dialog, presentation page"
 msgid "Show progress indicator"
-msgstr ""
+msgstr "Hiển thị chỉ báo tiến trình"
 
 #: part/dlgpresentation.cpp:90
 #, kde-format
 msgctxt "@option:check Config dialog, presentation page"
 msgid "Show summary page"
-msgstr ""
+msgstr "Hiện trang tóm tắt"
 
 #: part/dlgpresentation.cpp:100
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, transitions"
 msgid "Instant (Never use animations)"
-msgstr ""
+msgstr "Tức thì (Không dùng hiệu ứng)"
 
 #: part/dlgpresentation.cpp:101
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, transitions"
 msgid "Replace"
-msgstr ""
+msgstr "Thay thế"
 
 #: part/dlgpresentation.cpp:102
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, transitions"
 msgid "Random transition"
-msgstr ""
+msgstr "Chuyển tiếp ngẫu nhiên"
 
 #: part/dlgpresentation.cpp:103
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, transitions"
 msgid "Blinds vertical"
-msgstr ""
+msgstr "Mành dọc"
 
 #: part/dlgpresentation.cpp:104
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, transitions"
 msgid "Blinds horizontal"
-msgstr ""
+msgstr "Mành ngang"
 
 #: part/dlgpresentation.cpp:105
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, transitions"
 msgid "Box in"
-msgstr ""
+msgstr "Hộp vào trong"
 
 #: part/dlgpresentation.cpp:106
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, transitions"
 msgid "Box out"
-msgstr ""
+msgstr "Hộp ra ngoài"
 
 #: part/dlgpresentation.cpp:107
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, transitions"
 msgid "Dissolve"
-msgstr ""
+msgstr "Tan biến"
 
 #: part/dlgpresentation.cpp:108
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, transitions"
 msgid "Fade"
-msgstr ""
+msgstr "Phai màu"
 
 #: part/dlgpresentation.cpp:109
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, transitions"
 msgid "Glitter down"
-msgstr ""
+msgstr "Lấp lánh xuống"
 
 #: part/dlgpresentation.cpp:110
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, transitions"
 msgid "Glitter right"
-msgstr ""
+msgstr "Lấp lánh phải"
 
 #: part/dlgpresentation.cpp:111
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, transitions"
 msgid "Glitter right-down"
-msgstr ""
+msgstr "Lấp lánh phải-xuống"
 
 #: part/dlgpresentation.cpp:112
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, transitions"
 msgid "Split horizontal in"
-msgstr ""
+msgstr "Tách ngang vào trong"
 
 #: part/dlgpresentation.cpp:113
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, transitions"
 msgid "Split horizontal out"
-msgstr ""
+msgstr "Tách ngang ra ngoài"
 
 #: part/dlgpresentation.cpp:114
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, transitions"
 msgid "Split vertical in"
-msgstr ""
+msgstr "Tách dọc vào"
 
 #: part/dlgpresentation.cpp:115
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, transitions"
 msgid "Split vertical out"
-msgstr ""
+msgstr "Tách dọc ra ngoài"
 
 #: part/dlgpresentation.cpp:116
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, transitions"
 msgid "Wipe down"
-msgstr ""
+msgstr "Lau xuống"
 
 #: part/dlgpresentation.cpp:117
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, transitions"
 msgid "Wipe right"
-msgstr ""
+msgstr "Lau phải"
 
 #: part/dlgpresentation.cpp:118
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, transitions"
 msgid "Wipe left"
-msgstr ""
+msgstr "Lau trái"
 
 #: part/dlgpresentation.cpp:119
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, transitions"
 msgid "Wipe up"
-msgstr ""
+msgstr "Lau lên"
 
 #: part/dlgpresentation.cpp:121
 #, kde-format
 msgctxt "@label:listbox Config dialog, presentation page, transitions"
 msgid "Default transition:"
-msgstr ""
+msgstr "Chuyển tiếp mặc định:"
 
 #: part/dlgpresentation.cpp:130
 #, kde-format
 msgctxt "@label:listbox Config dialog, presentation page, preferred screen"
 msgid "Preferred screen:"
-msgstr ""
+msgstr "Màn hình ưu tiên:"
 
 #: part/dlgpresentation.cpp:137
 #, kde-format
@@ -3151,19 +3171,19 @@ msgctxt ""
 "@label Config dialog, presentation page, heading line for drawing tool "
 "manager"
 msgid "<h3>Drawing Tools</h3>"
-msgstr ""
+msgstr "<h3>Công cụ vẽ</h3>"
 
 #: part/dlgpresentation.cpp:171
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, preferred screen"
 msgid "Current Screen"
-msgstr ""
+msgstr "Màn hình hiện tại"
 
 #: part/dlgpresentation.cpp:172
 #, kde-format
 msgctxt "@item:inlistbox Config dialog, presentation page, preferred screen"
 msgid "Default Screen"
-msgstr ""
+msgstr "Màn hình mặc định"
 
 #: part/dlgpresentation.cpp:178
 #, kde-format
@@ -3172,7 +3192,7 @@ msgctxt ""
 "the screen number (0, 1, ...). %2 is the screen manufacturer name. %3 is the "
 "screen model name. %4 is the screen name like DVI-0"
 msgid "Screen %1 (%2 %3 %4)"
-msgstr ""
+msgstr "Màn hình %1 (%2 %3 %4)"
 
 #: part/dlgpresentation.cpp:190
 #, kde-format
@@ -3180,57 +3200,57 @@ msgctxt ""
 "@item:inlistbox Config dialog, presentation page, preferred screen. %1 is "
 "the screen number (0, 1, ...), hopefully not 0."
 msgid "Screen %1 (disconnected)"
-msgstr ""
+msgstr "Màn hình %1 (đã ngắt kết nối)"
 
 #: part/drawingtoolactions.cpp:192
 #, kde-format
 msgid "Drawing Tool: %1"
-msgstr ""
+msgstr "Công cụ vẽ: %1"
 
 #: part/drawingtoolactions.cpp:214 part/drawingtoolactions.cpp:215
 #, kde-format
 msgid "Eraser"
-msgstr ""
+msgstr "Tẩy"
 
 #: part/editannottooldialog.cpp:59 part/editdrawingtooldialog.cpp:43
 #, kde-format
 msgid "&Name:"
-msgstr ""
+msgstr "&Tên:"
 
 #: part/editannottooldialog.cpp:69
 #, kde-format
 msgid "&Type:"
-msgstr ""
+msgstr "&Loại:"
 
 #: part/editannottooldialog.cpp:82
 #, kde-format
 msgid "Appearance"
-msgstr ""
+msgstr "Diện mạo"
 
 #: part/editannottooldialog.cpp:93
 #, kde-format
 msgid "Text markup"
-msgstr ""
+msgstr "Đánh dấu văn bản"
 
 #: part/editannottooldialog.cpp:94
 #, kde-format
 msgid "Geometrical shape"
-msgstr ""
+msgstr "Hình dạng hình học"
 
 #: part/editannottooldialog.cpp:101
 #, kde-format
 msgid "Create annotation tool"
-msgstr ""
+msgstr "Tạo công cụ chú dẫn"
 
 #: part/editannottooldialog.cpp:103
 #, kde-format
 msgid "Edit annotation tool"
-msgstr ""
+msgstr "Sửa công cụ chú dẫn"
 
 #: part/editdrawingtooldialog.cpp:50
 #, kde-format
 msgid "Color:"
-msgstr ""
+msgstr "Màu:"
 
 #: part/editdrawingtooldialog.cpp:57
 #, kde-format
@@ -3505,7 +3525,7 @@ msgstr "&Vừa trang"
 #: part/pageview.cpp:544
 #, kde-format
 msgid "&Auto Fit"
-msgstr ""
+msgstr "Tự động vừa khí&t"
 
 #: part/pageview.cpp:548
 #, kde-format
@@ -3515,57 +3535,57 @@ msgstr "Làm trang vừa trong cửa &sổ"
 #: part/pageview.cpp:555
 #, kde-format
 msgid "&View Mode"
-msgstr ""
+msgstr "C&hế độ xem"
 
 #: part/pageview.cpp:567
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "&Single Page"
-msgstr ""
+msgstr "Một t&rang"
 
 #: part/pageview.cpp:568
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "&Facing Pages"
-msgstr ""
+msgstr "Tran&g đối diện"
 
 #: part/pageview.cpp:569
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Facing Pages (&Center First Page)"
-msgstr ""
+msgstr "Trang đố&i diện (Trang đầu ở giữa)"
 
 #: part/pageview.cpp:572
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "&Overview"
-msgstr ""
+msgstr "Tổng q&uan"
 
 #: part/pageview.cpp:584
 #, kde-format
 msgid "&Continuous"
-msgstr ""
+msgstr "&Liên tục"
 
 #: part/pageview.cpp:591
 #, kde-format
 msgctxt "@action page layout"
 msgid "Use Right to Left Reading Direction"
-msgstr ""
+msgstr "Sử dụng hướng đọc từ phải sang trái"
 
 #: part/pageview.cpp:600
 #, kde-format
 msgid "&Browse"
-msgstr ""
+msgstr "D&uyệt"
 
 #: part/pageview.cpp:608
 #, kde-format
 msgid "&Zoom"
-msgstr ""
+msgstr "Thu phón&g"
 
 #: part/pageview.cpp:628
 #, kde-format
 msgid "Area &Selection"
-msgstr ""
+msgstr "Chọ&n Vùng"
 
 #: part/pageview.cpp:635
 #, kde-format
@@ -3580,135 +3600,135 @@ msgstr "Chọn &bảng"
 #: part/pageview.cpp:649
 #, kde-format
 msgid "&Magnifier"
-msgstr ""
+msgstr "&Kính lúp"
 
 #: part/pageview.cpp:658
 #, kde-format
 msgctxt "@action"
 msgid "Selection Tools"
-msgstr ""
+msgstr "Công cụ phần bôi đen"
 
 #: part/pageview.cpp:684
 #, kde-format
 msgid "Digitally &Sign..."
-msgstr ""
+msgstr "Ký &số..."
 
 #: part/pageview.cpp:690
 #, kde-format
 msgid "Speak Whole Document"
-msgstr ""
+msgstr "Đọc Toàn Bộ Tài Liệu"
 
 #: part/pageview.cpp:695
 #, kde-format
 msgid "Speak Current Page"
-msgstr ""
+msgstr "Đọc Trang Hiện Tại"
 
 #: part/pageview.cpp:700
 #, kde-format
 msgid "Stop Speaking"
-msgstr ""
+msgstr "Dừng Đọc"
 
 #: part/pageview.cpp:705
 #, kde-format
 msgid "Pause/Resume Speaking"
-msgstr ""
+msgstr "Tạm dừng/Tiếp tục Đọc"
 
 #: part/pageview.cpp:717
 #, kde-format
 msgid "Scroll Up"
-msgstr ""
+msgstr "Cuộn lên"
 
 #: part/pageview.cpp:723
 #, kde-format
 msgid "Scroll Down"
-msgstr ""
+msgstr "Cuộn xuống"
 
 #: part/pageview.cpp:729
 #, kde-format
 msgid "Scroll Page Up"
-msgstr ""
+msgstr "Cuộn trang lên"
 
 #: part/pageview.cpp:735
 #, kde-format
 msgid "Scroll Page Down"
-msgstr ""
+msgstr "Cuộn Trang Xuống"
 
 #: part/pageview.cpp:741
 #, kde-format
 msgid "Show Forms"
-msgstr ""
+msgstr "Hiển thị biểu mẫu"
 
 #: part/pageview.cpp:1245
 #, kde-format
 msgid " Loaded a one-page document."
 msgid_plural " Loaded a %1-page document."
-msgstr[0] ""
+msgstr[0] "Đã tải tài liệu một trang."
 
 #: part/pageview.cpp:2490
 #, kde-format
 msgid "Copy Table Contents to Clipboard"
-msgstr ""
+msgstr "Sao chép nội dung bảng vào bảng nháp"
 
 #: part/pageview.cpp:2809
 #, kde-format
 msgid "Text (1 character)"
 msgid_plural "Text (%1 characters)"
-msgstr[0] ""
+msgstr[0] "Văn bản (1 ký tự)"
 
 #: part/pageview.cpp:2810 part/pageview.cpp:2828
 #, kde-format
 msgid "Copy to Clipboard"
-msgstr ""
+msgstr "Chép vào bảng nháp"
 
 #: part/pageview.cpp:2819 part/pageview.cpp:3011
 #, kde-format
 msgid "Speak Text"
-msgstr ""
+msgstr "Đọc văn bản"
 
 #: part/pageview.cpp:2827
 #, kde-format
 msgid "Image (%1 by %2 pixels)"
-msgstr ""
+msgstr "Ảnh (%1 x %2 điểm ảnh)"
 
 #: part/pageview.cpp:2829
 #, kde-format
 msgid "Save to File..."
-msgstr ""
+msgstr "Lưu vào tập tin..."
 
 #: part/pageview.cpp:2849
 #, kde-format
 msgid "Image [%1x%2] copied to clipboard."
-msgstr ""
+msgstr "Đã sao chép ảnh [%1x%2] vào bộ nhớ tạm."
 
 #: part/pageview.cpp:2852
 #, kde-format
 msgid "Save file"
-msgstr ""
+msgstr "Lưu tệp"
 
 #: part/pageview.cpp:2852
 #, kde-format
 msgid "Images (*.png *.jpeg)"
-msgstr ""
+msgstr "Ảnh (*.png *.jpeg)"
 
 #: part/pageview.cpp:2854
 #, kde-format
 msgid "File not saved."
-msgstr ""
+msgstr "Tệp chưa được lưu."
 
 #: part/pageview.cpp:2865
 #, kde-format
 msgid "Image [%1x%2] saved to %3 file."
-msgstr ""
+msgstr "Ảnh [%1x%2] đã lưu vào tệp %3."
 
 #: part/pageview.cpp:3007
 #, kde-format
 msgid "Copy Text"
-msgstr ""
+msgstr "Sao chép văn bản"
 
 #: part/pageview.cpp:3027
 #, kde-format
 msgid "Go to '%1'"
-msgstr ""
+msgstr "Đi đến '%1'"
 
 #: part/pageview.cpp:4029 part/part.cpp:3129
 #, kde-format
@@ -3801,14 +3821,14 @@ msgstr ""
 msgid ""
 "Draw a rectangle around the table, then click near edges to divide up; press "
 "Esc to clear."
-msgstr ""
+msgstr "Vẽ hình chữ nhật quanh bảng, sau đó bấm gần cạnh để chia; nhấn Esc để xóa."
 
 #: part/pageview.cpp:5129
 #, kde-format
 msgid ""
 "All your signing certificates are either not valid yet or are past their "
 "validity date."
-msgstr ""
+msgstr "Tất cả chứng chỉ ký của bạn đều chưa có hiệu lực hoặc đã hết hạn."
 
 #: part/pageview.cpp:5132
 #, kde-format
@@ -3851,24 +3871,26 @@ msgid ""
 "create a potentially more readable signature, press <interface>Start over</"
 "interface> and draw a bigger rectangle."
 msgstr ""
+"Chữ ký kích thước này có thể quá nhỏ để đọc. Để tạo chữ ký dễ đọc hơn, nhấn "
+"<interface>Bắt đầu lại</interface> và vẽ hình chữ nhật lớn hơn."
 
 #: part/pageviewannotator.cpp:364
 #, kde-format
 msgctxt "@action:button"
 msgid "Start Over"
-msgstr ""
+msgstr "Bắt đầu lại"
 
 #: part/pageviewannotator.cpp:365
 #, kde-format
 msgctxt "@action:button"
 msgid "Sign"
-msgstr ""
+msgstr "Ký"
 
 #: part/pageviewannotator.cpp:1048 part/signaturepartutils.cpp:474
 #, kde-format
 msgctxt "%1 is a file path"
 msgid "Could not sign. Invalid certificate password or could not write to '%1'"
-msgstr ""
+msgstr "Không ký được. Mật khẩu chứng chỉ không hợp lệ hoặc không ghi được vào '%1'"
 
 #: part/pageviewannotator.cpp:1177
 #, kde-format
@@ -3878,85 +3900,85 @@ msgstr "Tên tác giả"
 #: part/pageviewannotator.cpp:1177
 #, kde-format
 msgid "Author name for the annotation:"
-msgstr ""
+msgstr "Tên tác giả của chú thích:"
 
 #: part/pageviewannotator.cpp:1238
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Draw an ellipse (drag to select a zone)"
-msgstr ""
+msgstr "Vẽ hình elip (kéo để bôi đen vùng)"
 
 #: part/pageviewannotator.cpp:1240
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Highlight text"
-msgstr ""
+msgstr "Tô sáng văn bản"
 
 #: part/pageviewannotator.cpp:1242
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Draw a freehand line"
-msgstr ""
+msgstr "Vẽ đường tự do"
 
 #: part/pageviewannotator.cpp:1244
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Inline Text Annotation (drag to select a zone)"
-msgstr ""
+msgstr "Chú dẫn văn bản nội tuyến (kéo để bôi đen vùng)"
 
 #: part/pageviewannotator.cpp:1246
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Put a pop-up note"
-msgstr ""
+msgstr "Đặt ghi chú ô bật lên"
 
 #: part/pageviewannotator.cpp:1248
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Draw a polygon (click on the first point to close it)"
-msgstr ""
+msgstr "Vẽ đa giác (nhấp vào điểm đầu tiên để đóng)"
 
 #: part/pageviewannotator.cpp:1250
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Draw a rectangle"
-msgstr ""
+msgstr "Vẽ hình chữ nhật"
 
 #: part/pageviewannotator.cpp:1252
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Squiggle text"
-msgstr ""
+msgstr "Gạch chân ngoằn ngoèo"
 
 #: part/pageviewannotator.cpp:1254
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Put a stamp symbol"
-msgstr ""
+msgstr "Đặt kí hiệu đóng dấu"
 
 #: part/pageviewannotator.cpp:1256
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Draw a straight line"
-msgstr ""
+msgstr "Vẽ đường thẳng"
 
 #: part/pageviewannotator.cpp:1258
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Strike out text"
-msgstr ""
+msgstr "Gạch bỏ văn bản"
 
 #: part/pageviewannotator.cpp:1260
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Underline text"
-msgstr ""
+msgstr "Gạch chân văn bản"
 
 #: part/pageviewannotator.cpp:1262
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Typewriter Annotation (drag to select a zone)"
-msgstr ""
+msgstr "Chú dẫn máy đánh chữ (kéo để bôi đen vùng)"
 
 #: part/pageviewannotator.cpp:1321
 #, kde-format
@@ -3966,59 +3988,59 @@ msgstr "Tô sáng"
 #: part/pageviewannotator.cpp:1618
 #, kde-format
 msgid "Add favorite annotation"
-msgstr ""
+msgstr "Thêm chú dẫn ưa thích"
 
 #: part/pageviewannotator.cpp:1618
 #, kde-format
 msgid "Custom annotation name:"
-msgstr ""
+msgstr "Tên chú dẫn tùy chỉnh:"
 
 #. i18n: ectx: Menu (file)
 #: part/part-viewermode.rc:6 part/part.rc:5
 #, kde-format
 msgid "&File"
-msgstr ""
+msgstr "&Tệp"
 
 #. i18n: ectx: Menu (settings)
 #: part/part-viewermode.rc:10 part/part.rc:90
 #, kde-format
 msgid "&Settings"
-msgstr ""
+msgstr "Thiết lậ&p"
 
 #. i18n: ectx: Menu (help)
 #: part/part-viewermode.rc:15 part/part.rc:97
 #, kde-format
 msgid "&Help"
-msgstr ""
+msgstr "Tr&ợ giúp"
 
 #. i18n: ectx: Menu (view_orientation)
 #: part/part-viewermode.rc:32 part/part.rc:44
 #, kde-format
 msgid "&Orientation"
-msgstr ""
+msgstr "Hư&ớng"
 
 #. i18n: ectx: Menu (bookmarks)
 #. i18n: ectx: Menu (okular_bookmarks)
 #: part/part-viewermode.rc:50 part/part.rc:65
 #, kde-format
 msgid "&Bookmarks"
-msgstr ""
+msgstr "Dấu &trang"
 
 #. i18n: ectx: ToolBar (OkularViewerToolBar)
 #: part/part-viewermode.rc:63
 #, kde-format
 msgid "Viewer Toolbar"
-msgstr ""
+msgstr "Thanh công cụ xem"
 
 #: part/part.cpp:393 part/thumbnaillist.cpp:48
 #, kde-format
 msgid "Thumbnails"
-msgstr ""
+msgstr "Hình nhỏ"
 
 #: part/part.cpp:399 part/preferencesdialog.cpp:50 part/side_reviews.cpp:99
 #, kde-format
 msgid "Annotations"
-msgstr ""
+msgstr "Chú thích"
 
 #: part/part.cpp:441
 #, kde-format
@@ -4028,6 +4050,9 @@ msgid ""
 "<br/>Please save to a file in order to move them if you want to continue to "
 "edit the document."
 msgstr ""
+"Tài liệu này chứa chú thích hoặc dữ liệu biểu mẫu được lưu nội bộ bởi phiên "
+"bản Okular trước. Lưu trữ nội bộ <b>không còn được hỗ trợ</b>.<br/>Vui lòng "
+"lưu vào tệp để di chuyển chúng nếu bạn muốn tiếp tục sửa tài liệu."
 
 #: part/part.cpp:448
 #, kde-format
@@ -4035,204 +4060,206 @@ msgid ""
 "This document has embedded files. <a href=\"okular:/embeddedfiles\">Click "
 "here to see them</a> or go to File -> Embedded Files."
 msgstr ""
+"Tài liệu này có các tệp nhúng. <a href=\"okular:/embeddedfiles\">Nhấp vào "
+"đây để xem</a> hoặc vào Tệp -> Tệp nhúng."
 
 #: part/part.cpp:631
 #, kde-format
 msgctxt "Previous page"
 msgid "Previous"
-msgstr ""
+msgstr "Trước"
 
 #: part/part.cpp:632
 #, kde-format
 msgid "Go back to the Previous Page"
-msgstr ""
+msgstr "Quay lại trang trước"
 
 #: part/part.cpp:633
 #, kde-format
 msgid "Moves to the previous page of the document"
-msgstr ""
+msgstr "Chuyển đến trang trước của tài liệu"
 
 #: part/part.cpp:643
 #, kde-format
 msgctxt "Next page"
 msgid "Next"
-msgstr ""
+msgstr "Tiếp"
 
 #: part/part.cpp:644
 #, kde-format
 msgid "Advance to the Next Page"
-msgstr ""
+msgstr "Chuyển đến Trang Tiếp"
 
 #: part/part.cpp:645
 #, kde-format
 msgid "Moves to the next page of the document"
-msgstr ""
+msgstr "Chuyển đến trang tiếp của tài liệu"
 
 #: part/part.cpp:656
 #, kde-format
 msgid "Beginning of the document"
-msgstr ""
+msgstr "Đầu tài liệu"
 
 #: part/part.cpp:657
 #, kde-format
 msgid "Moves to the beginning of the document"
-msgstr ""
+msgstr "Di chuyển đến đầu tài liệu"
 
 #: part/part.cpp:661
 #, kde-format
 msgid "End of the document"
-msgstr ""
+msgstr "Cuối tài liệu"
 
 #: part/part.cpp:662
 #, kde-format
 msgid "Moves to the end of the document"
-msgstr ""
+msgstr "Di chuyển đến cuối tài liệu"
 
 #: part/part.cpp:676
 #, kde-format
 msgid "Rename the current bookmark"
-msgstr ""
+msgstr "Đổi tên dấu nhớ hiện tại"
 
 #: part/part.cpp:680
 #, kde-format
 msgid "Previous Bookmark"
-msgstr ""
+msgstr "Dấu nhớ trước"
 
 #: part/part.cpp:682
 #, kde-format
 msgid "Go to the previous bookmark"
-msgstr ""
+msgstr "Đi đến dấu nhớ trước"
 
 #: part/part.cpp:686
 #, kde-format
 msgid "Next Bookmark"
-msgstr ""
+msgstr "Dấu nhớ tiếp"
 
 #: part/part.cpp:688
 #, kde-format
 msgid "Go to the next bookmark"
-msgstr ""
+msgstr "Đi đến dấu nhớ tiếp theo"
 
 #: part/part.cpp:717
 #, kde-format
 msgid "Configure Okular..."
-msgstr ""
+msgstr "Cấu hình Okular..."
 
 #: part/part.cpp:720
 #, kde-format
 msgid "Configure Viewer..."
-msgstr ""
+msgstr "Cấu hình trình xem..."
 
 #: part/part.cpp:726
 #, kde-format
 msgid "Configure Viewer Backends..."
-msgstr ""
+msgstr "Cấu hình phần xử lý hiển thị..."
 
 #: part/part.cpp:728
 #, kde-format
 msgid "Configure Backends..."
-msgstr ""
+msgstr "Cấu hình các Hậu phương..."
 
 #: part/part.cpp:764
 #, kde-format
 msgid "About Backend"
-msgstr ""
+msgstr "Thông tin Hậu phương"
 
 #: part/part.cpp:769
 #, kde-format
 msgid "Reloa&d"
-msgstr ""
+msgstr "Tả&i lại"
 
 #: part/part.cpp:771
 #, kde-format
 msgid "Reload the current document from disk."
-msgstr ""
+msgstr "Tải lại tài liệu hiện tại từ đĩa."
 
 #: part/part.cpp:777
 #, kde-format
 msgid "Close &Find Bar"
-msgstr ""
+msgstr "Đó&ng thanh tìm kiếm"
 
 #: part/part.cpp:782
 #, kde-format
 msgid "Page Number"
-msgstr ""
+msgstr "Số trang"
 
 #: part/part.cpp:786
 #, kde-format
 msgctxt "@action"
 msgid "Configure Color Modes..."
-msgstr ""
+msgstr "Cấu hình chế độ màu..."
 
 #: part/part.cpp:827
 #, kde-format
 msgid "Select All Text on Current Page"
-msgstr ""
+msgstr "Bôi đen tất cả văn bản trên trang hiện tại"
 
 #: part/part.cpp:840
 #, kde-format
 msgid "Show S&idebar"
-msgstr ""
+msgstr "Hiện &thanh bên"
 
 #: part/part.cpp:849
 #, kde-format
 msgid "Show &Page Bar"
-msgstr ""
+msgstr "Hiện &thanh trang"
 
 #: part/part.cpp:855
 #, kde-format
 msgid "Show &Signatures Panel"
-msgstr ""
+msgstr "H&iện Bảng Chữ Ký"
 
 #: part/part.cpp:866
 #, kde-format
 msgid "&Embedded Files"
-msgstr ""
+msgstr "Tệp &nhúng"
 
 #: part/part.cpp:872
 #, kde-format
 msgid "E&xport As"
-msgstr ""
+msgstr "Xuấ&t khẩu dưới dạng"
 
 #: part/part.cpp:884
 #, kde-format
 msgid "S&hare"
-msgstr ""
+msgstr "Chia &sẻ"
 
 #: part/part.cpp:893
 #, kde-format
 msgid "P&resentation"
-msgstr ""
+msgstr "Trìn&h chiếu"
 
 #: part/part.cpp:900
 #, kde-format
 msgid "Open Con&taining Folder"
-msgstr ""
+msgstr "Mở Thư M&ục Chứa"
 
 #: part/part.cpp:914
 #, kde-format
 msgid "&Import PostScript as PDF..."
-msgstr ""
+msgstr "&Nhập khẩu PostScript dưới dạng PDF..."
 
 #: part/part.cpp:918
 #, kde-format
 msgid "Switch Blackscreen Mode"
-msgstr ""
+msgstr "Chuyển Chế Độ Màn Hình Đen"
 
 #: part/part.cpp:926
 #, kde-format
 msgid "Erase Drawing"
-msgstr ""
+msgstr "Xóa bản vẽ"
 
 #: part/part.cpp:931
 #, kde-format
 msgid "Configure Annotations..."
-msgstr ""
+msgstr "Cấu hình chú thích..."
 
 #: part/part.cpp:936
 #, kde-format
 msgid "Play/Pause Presentation"
-msgstr ""
+msgstr "Phát/Tạm dừng trình chiếu"
 
 #: part/part.cpp:1091
 #, kde-format
@@ -4241,36 +4268,38 @@ msgid ""
 "be saved.\n"
 "Any modification will be lost once Okular is closed."
 msgstr ""
+"Bạn vừa chỉnh sửa tài liệu đang mở, nhưng loại tài liệu này không thể lưu "
+"được.\nMọi chỉnh sửa sẽ bị mất khi Okular đóng lại."
 
 #: part/part.cpp:1092
 #, kde-format
 msgid "Document can't be saved"
-msgstr ""
+msgstr "Không thể lưu tài liệu"
 
 #: part/part.cpp:1121
 #, kde-format
 msgid "Could not open '%1' (%2) "
-msgstr ""
+msgstr "Không mở được '%1' (%2)"
 
 #: part/part.cpp:1175
 #, kde-format
 msgid "The loading of %1 has been canceled."
-msgstr ""
+msgstr "Đã hủy việc tải %1."
 
 #: part/part.cpp:1191
 #, kde-format
 msgid "Could not open %1. Reason: %2"
-msgstr ""
+msgstr "Không mở được %1. Lý do: %2"
 
 #: part/part.cpp:1219
 #, kde-format
 msgid "Configure Viewer Backends"
-msgstr ""
+msgstr "Cấu hình hậu phương trình xem"
 
 #: part/part.cpp:1221
 #, kde-format
 msgid "Configure Backends"
-msgstr ""
+msgstr "Cấu hình hậu phương"
 
 #: part/part.cpp:1306
 #, kde-format
@@ -4278,41 +4307,43 @@ msgid ""
 "The program \"ps2pdf\" was not found, so Okular can not import PS files "
 "using it."
 msgstr ""
+"Không tìm thấy chương trình \"ps2pdf\", nên Okular không thể nhập khẩu tệp "
+"PS."
 
 #: part/part.cpp:1306
 #, kde-format
 msgid "ps2pdf not found"
-msgstr ""
+msgstr "Không tìm thấy ps2pdf"
 
 #: part/part.cpp:1311
 #, kde-format
 msgid "PostScript files (%1)"
-msgstr ""
+msgstr "Tệp PostScript (%1)"
 
 #: part/part.cpp:1327
 #, kde-format
 msgid "Importing PS file as PDF (this may take a while)..."
-msgstr ""
+msgstr "Đang nhập tệp PS thành PDF (có thể mất một lúc)..."
 
 #: part/part.cpp:1456
 #, kde-format
 msgid "Please enter the password to read the document:"
-msgstr ""
+msgstr "Vui lòng nhập mật khẩu để đọc tài liệu:"
 
 #: part/part.cpp:1458
 #, kde-format
 msgid "Incorrect password. Try again:"
-msgstr ""
+msgstr "Mật khẩu không đúng. Thử lại:"
 
 #: part/part.cpp:1464
 #, kde-format
 msgid "Document Password"
-msgstr ""
+msgstr "Mật khẩu tài liệu"
 
 #: part/part.cpp:1584
 #, kde-format
 msgid "This document has XFA forms, which are currently <b>unsupported</b>."
-msgstr ""
+msgstr "Tài liệu này có biểu mẫu XFA, hiện <b>không được hỗ trợ</b>."
 
 #: part/part.cpp:1591
 #, kde-format
@@ -4320,6 +4351,8 @@ msgid ""
 "This document has forms. Click on the button to interact with them, or use "
 "View -> Show Forms."
 msgstr ""
+"Tài liệu này có biểu mẫu. Bấm nút để tương tác hoặc dùng Xem -> Hiện biểu "
+"mẫu."
 
 #: part/part.cpp:1607
 #, kde-format
@@ -4327,6 +4360,8 @@ msgid ""
 "All editing and interactive features for this document are disabled. Please "
 "save a copy and reopen to edit this document."
 msgstr ""
+"Tất cả tính năng sửa và tương tác cho tài liệu này bị vô hiệu hóa. Vui lòng "
+"lưu một bản sao và mở lại để sửa tài liệu này."
 
 #: part/part.cpp:1695
 #, kde-format
@@ -4334,26 +4369,28 @@ msgid ""
 "This document wants to be shown full screen.\n"
 "Leave normal mode and enter presentation mode?"
 msgstr ""
+"Tài liệu này muốn hiển thị toàn màn hình.\nRời chế độ bình thường và vào "
+"chế độ trình chiếu?"
 
 #: part/part.cpp:1697
 #, kde-format
 msgid "Request to Change Viewing Mode"
-msgstr ""
+msgstr "Yêu cầu Thay đổi Chế độ Xem"
 
 #: part/part.cpp:1698
 #, kde-format
 msgid "Enter Presentation Mode"
-msgstr ""
+msgstr "Vào Chế độ Trình chiếu"
 
 #: part/part.cpp:1699
 #, kde-format
 msgid "Deny Request"
-msgstr ""
+msgstr "Từ chối yêu cầu"
 
 #: part/part.cpp:1789
 #, kde-format
 msgid "Could not open %1. %2"
-msgstr ""
+msgstr "Không mở được %1. %2"
 
 #: part/part.cpp:1819
 #, kde-kuit-format
@@ -4364,21 +4401,25 @@ msgid ""
 "changes made in the other program.<nl/><nl/>Do you want to continue "
 "reloading the file?"
 msgstr ""
+"Tệp <filename>%1</filename> có các thay đổi chưa lưu nhưng đã được chỉnh "
+"sửa bởi một chương trình khác. Tải lại sẽ thay thế các thay đổi chưa lưu "
+"bằng các thay đổi được thực hiện trong chương trình kia.<nl/><nl/>Bạn có "
+"muốn tiếp tục tải lại tệp không?"
 
 #: part/part.cpp:1823 part/part.cpp:1833
 #, kde-format
 msgid "File Changed"
-msgstr ""
+msgstr "Tệp Đã Thay Đổi"
 
 #: part/part.cpp:1824
 #, kde-format
 msgid "Continue Reloading"
-msgstr ""
+msgstr "Tiếp tục Tải lại"
 
 #: part/part.cpp:1825
 #, kde-format
 msgid "Abort Reloading"
-msgstr ""
+msgstr "Huỷ bỏ tải lại"
 
 #: part/part.cpp:1829
 #, kde-kuit-format
@@ -4389,26 +4430,29 @@ msgid ""
 "changes made in the other program.<nl/><nl/>Do you want to continue closing "
 "the file?"
 msgstr ""
+"Tệp <filename>%1</filename> có thay đổi chưa lưu nhưng đã được chỉnh sửa "
+"bởi chương trình khác. Đóng tệp sẽ thay thế các thay đổi chưa lưu bằng các "
+"thay đổi từ chương trình kia.<nl/><nl/>Bạn có muốn tiếp tục đóng tệp không?"
 
 #: part/part.cpp:1834
 #, kde-format
 msgid "Continue Closing"
-msgstr ""
+msgstr "Tiếp tục đóng"
 
 #: part/part.cpp:1835
 #, kde-format
 msgid "Abort Closing"
-msgstr ""
+msgstr "Huỷ bỏ đóng"
 
 #: part/part.cpp:1842
 #, kde-format
 msgid "Do you want to save your changes to \"%1\" or discard them?"
-msgstr ""
+msgstr "Bạn muốn lưu thay đổi vào \"%1\" hay loại bỏ chúng?"
 
 #: part/part.cpp:1842
 #, kde-format
 msgid "Close Document"
-msgstr ""
+msgstr "Đóng tài liệu"
 
 #: part/part.cpp:1974
 #, kde-format
@@ -4416,6 +4460,8 @@ msgid ""
 "This link points to a close document action that does not work when using "
 "the embedded viewer."
 msgstr ""
+"Liên kết này trỏ đến hành động đóng tài liệu không hoạt động khi sử dụng "
+"trình xem nhúng."
 
 #: part/part.cpp:1980
 #, kde-format
@@ -4423,58 +4469,60 @@ msgid ""
 "This link points to a quit application action that does not work when using "
 "the embedded viewer."
 msgstr ""
+"Liên kết này chỉ đến hành động thoát ứng dụng không hoạt động khi sử dụng "
+"trình xem nhúng."
 
 #: part/part.cpp:2072 part/part.cpp:2090
 #, kde-format
 msgid "Reloading the document..."
-msgstr ""
+msgstr "Đang tải lại tài liệu..."
 
 #: part/part.cpp:2247 part/toc.cpp:38
 #, kde-format
 msgid "Contents"
-msgstr ""
+msgstr "Nội dung"
 
 #: part/part.cpp:2276 part/signaturepanel.cpp:47
 #, kde-format
 msgid "Signatures"
-msgstr ""
+msgstr "Chữ ký"
 
 #: part/part.cpp:2303
 #, kde-format
 msgid "Go to Page"
-msgstr ""
+msgstr "Đến trang"
 
 #: part/part.cpp:2326
 #, kde-format
 msgid "&Page:"
-msgstr ""
+msgstr "Tr&ang:"
 
 #: part/part.cpp:2419
 #, kde-format
 msgid "Enter the new name of the bookmark:"
-msgstr ""
+msgstr "Nhập tên mới của dấu trang:"
 
 #: part/part.cpp:2465
 #, kde-format
 msgid "Rename this Bookmark"
-msgstr ""
+msgstr "Đổi tên dấu nhớ này"
 
 #: part/part.cpp:2468
 #, kde-format
 msgid "Remove this Bookmark"
-msgstr ""
+msgstr "Xoá dấu nhớ này"
 
 #: part/part.cpp:2554 part/part.cpp:2555 part/part.cpp:3434
 #: part/signaturepartutils.cpp:442
 #, kde-format
 msgctxt "File type name and pattern"
 msgid "%1 (%2)"
-msgstr ""
+msgstr "%1 (%2)"
 
 #: part/part.cpp:2562 part/revisionviewer.cpp:44
 #, kde-format
 msgid "Save As"
-msgstr ""
+msgstr "Lưu thành"
 
 #: part/part.cpp:2579
 #, kde-format
@@ -4482,17 +4530,19 @@ msgid ""
 "You have chosen to save an Okular Archive without the file name ending with "
 "the '%1' extension. That is not allowed, do you want to choose a new name?"
 msgstr ""
+"Bạn đã chọn lưu kho trữ Okular mà không có phần mở rộng '%1' ở cuối tên "
+"tệp. Điều này không được phép, bạn có muốn chọn tên mới không?"
 
 #: part/part.cpp:2580
 #, kde-format
 msgid "Unsupported extension"
-msgstr ""
+msgstr "Phần mở rộng không được hỗ trợ"
 
 #: part/part.cpp:2581
 #, kde-format
 msgctxt "@action:button"
 msgid "Choose New Name"
-msgstr ""
+msgstr "Chọn Tên Mới"
 
 #: part/part.cpp:2623
 #, kde-kuit-format
@@ -4502,16 +4552,19 @@ msgid ""
 "you save now, any changes made in the other program will be lost. Are you "
 "sure you want to continue?"
 msgstr ""
+"Tệp <filename>%1</filename> đã được chỉnh sửa bởi một chương trình khác. "
+"Nếu bạn lưu bây giờ, mọi thay đổi trong chương trình kia sẽ bị mất. Bạn có "
+"chắc muốn tiếp tục?"
 
 #: part/part.cpp:2626 part/part.cpp:2644 part/part.cpp:2696
 #, kde-format
 msgid "Save - Warning"
-msgstr ""
+msgstr "Lưu - Cảnh báo"
 
 #: part/part.cpp:2628
 #, kde-format
 msgid "Save a Copy Elsewhere"
-msgstr ""
+msgstr "Lưu Bản Sao Ở Nơi Khác"
 
 #: part/part.cpp:2643
 #, kde-format
@@ -4520,11 +4573,14 @@ msgid ""
 "the file needs to be reloaded. You will be asked for the password again and "
 "your undo/redo history will be lost.<br />Do you want to continue?"
 msgstr ""
+"Tài liệu hiện tại được bảo vệ bằng mật khẩu.<br />Để lưu, cần tải lại tệp. "
+"Bạn sẽ được yêu cầu nhập lại mật khẩu và lịch sử hoàn tác/làm lại sẽ bị "
+"mất.<br />Bạn có muốn tiếp tục không?"
 
 #: part/part.cpp:2670
 #, kde-format
 msgid "Could not open the temporary file for saving."
-msgstr ""
+msgstr "Không mở được tệp tạm thời để lưu."
 
 #: part/part.cpp:2683
 #, kde-kuit-format
@@ -4533,6 +4589,8 @@ msgid ""
 "Could not overwrite <filename>%1</filename> because that file is read-only. "
 "Try saving to another location or changing that file's permissions."
 msgstr ""
+"Không ghi đè được <filename>%1</filename> vì tệp này chỉ đọc. Hãy thử lưu "
+"vào địa điểm khác hoặc thay đổi quyền của tệp đó."
 
 #: part/part.cpp:2695
 #, kde-format
@@ -4540,21 +4598,23 @@ msgid ""
 "After saving, the current document format requires the file to be reloaded. "
 "Your undo/redo history will be lost.<br />Do you want to continue?"
 msgstr ""
+"Sau khi lưu, định dạng tài liệu hiện tại yêu cầu tải lại tệp. Lịch sử hoàn "
+"tác/làm lại sẽ bị mất.<br />Bạn có muốn tiếp tục?"
 
 #: part/part.cpp:2710 part/part.cpp:2779 part/part.cpp:2800 part/part.cpp:3449
 #, kde-format
 msgid "File could not be saved in '%1'. Try to save it to another location."
-msgstr ""
+msgstr "Không lưu được tệp vào '%1'. Hãy thử lưu vào vị trí khác."
 
 #: part/part.cpp:2723
 #, kde-format
 msgid "Filled form contents"
-msgstr ""
+msgstr "Nội dung biểu mẫu đã điền"
 
 #: part/part.cpp:2726
 #, kde-format
 msgid "User annotations"
-msgstr ""
+msgstr "Chú thích của người dùng"
 
 #: part/part.cpp:2731
 #, kde-format
@@ -4563,16 +4623,19 @@ msgid ""
 "saving the following elements. Please use the <i>Okular document archive</i> "
 "format to preserve them."
 msgstr ""
+"Bạn sắp lưu thay đổi, nhưng định dạng tệp hiện tại không hỗ trợ lưu các "
+"phần tử sau. Vui lòng sử dụng định dạng <i>lưu trữ tài liệu Okular</i> để "
+"bảo toàn chúng."
 
 #: part/part.cpp:2735 part/part.cpp:2757
 #, kde-format
 msgid "Warning"
-msgstr ""
+msgstr "Cảnh báo"
 
 #: part/part.cpp:2736 part/part.cpp:2758
 #, kde-format
 msgid "Save as Okular document archive..."
-msgstr ""
+msgstr "Lưu thành tài liệu lưu trữ Okular..."
 
 #: part/part.cpp:2748
 #, kde-format
@@ -4582,6 +4645,9 @@ msgid ""
 "format to preserve them. Click <i>Continue</i> to save the document and "
 "discard these elements."
 msgstr ""
+"Bạn sắp lưu thay đổi, nhưng định dạng tệp hiện tại không hỗ trợ lưu các "
+"phần tử sau. Vui lòng sử dụng định dạng <i>Okular document archive</i> để "
+"giữ chúng. Bấm <i>Tiếp tục</i> để lưu tài liệu và loại bỏ các phần tử này."
 
 #: part/part.cpp:2751
 #, kde-format
@@ -4591,21 +4657,25 @@ msgid ""
 "format to preserve them. Click <i>Continue</i> to save, but you will lose "
 "these elements as well as the undo/redo history."
 msgstr ""
+"Bạn sắp lưu thay đổi, nhưng định dạng tệp hiện tại không hỗ trợ lưu các "
+"phần tử sau. Vui lòng sử dụng định dạng <i>Okular document archive</i> để "
+"giữ chúng. Bấm <i>Tiếp tục</i> để lưu, nhưng bạn sẽ mất các phần tử này "
+"cùng lịch sử hoàn tác/làm lại."
 
 #: part/part.cpp:2753
 #, kde-format
 msgid "Continue"
-msgstr ""
+msgstr "Tiếp tục"
 
 #: part/part.cpp:2753
 #, kde-format
 msgid "Continue losing changes"
-msgstr ""
+msgstr "Tiếp tục mất thay đổi"
 
 #: part/part.cpp:2781
 #, kde-format
 msgid "File could not be saved in '%1'. %2"
-msgstr ""
+msgstr "Không lưu được tệp vào '%1'. %2"
 
 #: part/part.cpp:2820
 #, kde-format
@@ -4614,88 +4684,90 @@ msgid ""
 "\n"
 "The document does not exist anymore."
 msgstr ""
+"Okular không thể sao chép %1 đến vị trí đã chọn.\n\nTài liệu không còn tồn "
+"tại."
 
 #: part/part.cpp:2856
 #, kde-format
 msgid ""
 "File could not be saved in '%1'. Error: '%2'. Try to save it to another "
 "location."
-msgstr ""
+msgstr "Không lưu được tệp vào '%1'. Lỗi: '%2'. Hãy thử lưu vào vị trí khác."
 
 #: part/part.cpp:3107
 #, kde-format
 msgid "Expand whole section"
-msgstr ""
+msgstr "Mở rộng toàn bộ khu vực"
 
 #: part/part.cpp:3108
 #, kde-format
 msgid "Collapse whole section"
-msgstr ""
+msgstr "Thu gọn toàn bộ khu vực"
 
 #: part/part.cpp:3109
 #, kde-format
 msgid "Expand all"
-msgstr ""
+msgstr "Mở rộng tất cả"
 
 #: part/part.cpp:3110
 #, kde-format
 msgid "Collapse all"
-msgstr ""
+msgstr "Thu gọn tất cả"
 
 #: part/part.cpp:3121
 #, kde-format
 msgid "Sync Thumbnail with Page"
-msgstr ""
+msgstr "Đồng bộ hình nhỏ với trang"
 
 #: part/part.cpp:3126
 #, kde-format
 msgid "Add Bookmark"
-msgstr ""
+msgstr "Thêm dấu nhớ"
 
 #: part/part.cpp:3148
 #, kde-format
 msgid "Tools"
-msgstr ""
+msgstr "Công cụ"
 
 #: part/part.cpp:3330
 #, kde-format
 msgctxt "@action:inmenu menu that contains actions to control text to speach"
 msgid "Speak"
-msgstr ""
+msgstr "Đọc"
 
 #: part/part.cpp:3487
 #, kde-format
 msgctxt "@title:window"
 msgid "Print"
-msgstr ""
+msgstr "In"
 
 #: part/part.cpp:3550
 #, kde-format
 msgid "Printing this document is not allowed."
-msgstr ""
+msgstr "Không được phép in tài liệu này."
 
 #: part/part.cpp:3558
 #, kde-format
 msgid ""
 "Could not print the document. Unknown error. Please report to bugs.kde.org"
-msgstr ""
+msgstr "Không in được tài liệu. Lỗi không rõ. Vui lòng báo tới bugs.kde.org"
 
 #: part/part.cpp:3560
 #, kde-format
 msgid ""
 "Could not print the document. Detailed error is \"%1\". Please report to "
 "bugs.kde.org"
-msgstr ""
+msgstr "Không in được tài liệu. Lỗi chi tiết là \"%1\". Vui lòng báo tại bugs.kde.org"
 
 #: part/part.cpp:3640
 #, kde-format
 msgid "Go to the place you were before"
-msgstr ""
+msgstr "Quay lại địa điểm trước đó"
 
 #: part/part.cpp:3644
 #, kde-format
 msgid "Go to the place you were after"
-msgstr ""
+msgstr "Đi đến địa điểm bạn đã xem"
 
 #: part/part.cpp:3669
 #, kde-format
@@ -4703,6 +4775,8 @@ msgid ""
 "<qt><strong>File Error!</strong> Could not create temporary file "
 "<nobr><strong>%1</strong></nobr>.</qt>"
 msgstr ""
+"<qt><strong>Lỗi tệp!</strong> Không tạo được tệp tạm "
+"<nobr><strong>%1</strong></nobr>.</qt>"
 
 #: part/part.cpp:3681
 #, kde-format
@@ -4710,6 +4784,8 @@ msgid ""
 "<qt><strong>File Error!</strong> Could not open the file <nobr><strong>%1</"
 "strong></nobr> for uncompression. The file will not be loaded.</qt>"
 msgstr ""
+"<qt><strong>Lỗi tệp!</strong> Không mở được tệp "
+"<nobr><strong>%1</strong></nobr> để giải nén. Tệp sẽ không được tải.</qt>"
 
 #: part/part.cpp:3685
 #, kde-format
@@ -4719,6 +4795,9 @@ msgid ""
 "the file in the Dolphin file manager, then choose the 'Properties' option, "
 "and select 'Permissions' tab in the opened window.</qt>"
 msgstr ""
+"Lỗi này thường xảy ra khi bạn không có đủ quyền đọc tệp. Kiểm tra quyền sở "
+"hữu và quyền hạn bằng cách nhấp chuột phải vào tệp trong trình quản lý tệp "
+"Dolphin, chọn 'Thuộc tính', và bôi đen thẻ 'Quyền hạn' trong cửa sổ mở ra."
 
 #: part/part.cpp:3707
 #, kde-format
@@ -4726,6 +4805,8 @@ msgid ""
 "<qt><strong>File Error!</strong> Could not uncompress the file <nobr><strong>"
 "%1</strong></nobr>. The file will not be loaded.</qt>"
 msgstr ""
+"<qt><strong>Lỗi tệp!</strong> Không giải nén được tệp "
+"<nobr><strong>%1</strong></nobr>. Tệp sẽ không được tải.</qt>"
 
 #: part/part.cpp:3711
 #, kde-format
@@ -4733,128 +4814,130 @@ msgid ""
 "<qt>This error typically occurs if the file is corrupt. If you want to be "
 "sure, try to decompress the file manually using command-line tools.</qt>"
 msgstr ""
+"Lỗi này thường xảy ra nếu tệp bị hỏng. Để chắc chắn, hãy thử giải nén tệp "
+"thủ công bằng công cụ dòng lệnh."
 
 #: part/part.cpp:3737
 #, kde-format
 msgid "No Bookmarks"
-msgstr ""
+msgstr "Không có Dấu trang"
 
 #: part/part.cpp:3808
 #, kde-format
 msgid "There was a problem sharing the document: %1"
-msgstr ""
+msgstr "Có vấn đề khi chia sẻ tài liệu: %1"
 
 #: part/part.cpp:3808 part/part.cpp:3814
 #, kde-format
 msgid "Share"
-msgstr ""
+msgstr "Chia sẻ"
 
 #: part/part.cpp:3812
 #, kde-format
 msgid "Document shared successfully"
-msgstr ""
+msgstr "Đã chia sẻ tài liệu thành công"
 
 #: part/part.cpp:3814
 #, kde-format
 msgid "You can find the shared document at: <a href=\"%1\">%1</a>"
-msgstr ""
+msgstr "Bạn có thể tìm thấy tài liệu được chia sẻ tại: <a href=\"%1\">%1</a>"
 
 #. i18n: ectx: Menu (edit)
 #: part/part.rc:19
 #, kde-format
 msgid "&Edit"
-msgstr ""
+msgstr "S&ửa"
 
 #. i18n: ectx: Menu (view)
 #: part/part.rc:32
 #, kde-format
 msgid "&View"
-msgstr ""
+msgstr "Xe&m"
 
 #. i18n: ectx: Menu (go)
 #: part/part.rc:53
 #, kde-format
 msgid "&Go"
-msgstr ""
+msgstr "Đ&i"
 
 #. i18n: ectx: Menu (tools)
 #: part/part.rc:73
 #, kde-format
 msgid "&Tools"
-msgstr ""
+msgstr "Côn&g cụ"
 
 #. i18n: ectx: ToolBar (mainToolBar)
 #: part/part.rc:101 shell/shell.rc:24
 #, kde-format
 msgid "Main Toolbar"
-msgstr ""
+msgstr "Thanh công cụ chính"
 
 #. i18n: ectx: ToolBar (annotationToolBar)
 #: part/part.rc:122
 #, kde-format
 msgid "Annotation Toolbar"
-msgstr ""
+msgstr "Thanh công cụ chú dẫn"
 
 #. i18n: ectx: ToolBar (quickAnnotationToolBar)
 #: part/part.rc:146
 #, kde-format
 msgid "Quick Annotation Toolbar"
-msgstr ""
+msgstr "Thanh công cụ chú dẫn nhanh"
 
 #: part/preferencesdialog.cpp:41
 #, kde-format
 msgid "General Options"
-msgstr ""
+msgstr "Tùy chọn chung"
 
 #: part/preferencesdialog.cpp:42
 #, kde-format
 msgid "Accessibility"
-msgstr ""
+msgstr "Hỗ trợ truy cập"
 
 #: part/preferencesdialog.cpp:42
 #, kde-format
 msgid "Accessibility Reading Aids"
-msgstr ""
+msgstr "Công cụ hỗ trợ truy cập đọc"
 
 #: part/preferencesdialog.cpp:43
 #, kde-format
 msgid "Performance"
-msgstr ""
+msgstr "Hiệu suất"
 
 #: part/preferencesdialog.cpp:43
 #, kde-format
 msgid "Performance Tuning"
-msgstr ""
+msgstr "Tinh chỉnh hiệu suất"
 
 #: part/preferencesdialog.cpp:45
 #, kde-format
 msgid "Configure Viewer"
-msgstr ""
+msgstr "Cấu hình trình xem"
 
 #: part/preferencesdialog.cpp:49
 #, kde-format
 msgid "Presentation"
-msgstr ""
+msgstr "Trình chiếu"
 
 #: part/preferencesdialog.cpp:49
 #, kde-format
 msgid "Options for Presentation Mode"
-msgstr ""
+msgstr "Tùy chọn cho Chế độ Trình chiếu"
 
 #: part/preferencesdialog.cpp:50
 #, kde-format
 msgid "Annotation Options"
-msgstr ""
+msgstr "Tùy chọn chú dẫn"
 
 #: part/preferencesdialog.cpp:53 part/preferencesdialog.cpp:59
 #, kde-format
 msgid "Editor"
-msgstr ""
+msgstr "Trình biên tập"
 
 #: part/preferencesdialog.cpp:53 part/preferencesdialog.cpp:59
 #, kde-format
 msgid "Editor Options"
-msgstr ""
+msgstr "Tùy chọn trình biên tập"
 
 #: part/preferencesdialog.cpp:56
 #, kde-format
@@ -4866,60 +4949,62 @@ msgid ""
 " %1 \n"
 "If you want to use the setting, start okular without the option --editor-cmd"
 msgstr ""
+"Trình biên tập đã được đặt bởi dòng lệnh thành \n %1 \nNếu muốn sử dụng cài "
+"đặt này, khởi động okular không có lựa chọn --editor-cmd"
 
 #: part/presentationsearchbar.cpp:77
 #, kde-format
 msgid "Find Next"
-msgstr ""
+msgstr "Tìm tiếp"
 
 #: part/presentationwidget.cpp:174
 #, kde-format
 msgctxt "[document title/filename] – Presentation"
 msgid "%1 – Presentation"
-msgstr ""
+msgstr "%1 – Trình chiếu"
 
 #: part/presentationwidget.cpp:228
 #, kde-format
 msgid "Switch Screen"
-msgstr ""
+msgstr "Chuyển màn hình"
 
 #: part/presentationwidget.cpp:233
 #, kde-format
 msgctxt "%1 is the screen number (0, 1, ...)"
 msgid "Screen %1"
-msgstr ""
+msgstr "Màn hình %1"
 
 #: part/presentationwidget.cpp:240
 #, kde-format
 msgid "Exit Presentation Mode"
-msgstr ""
+msgstr "Thoát Chế Độ Trình Chiếu"
 
 #: part/presentationwidget.cpp:373
 #, kde-format
 msgid "Title: %1"
-msgstr ""
+msgstr "Tiêu đề: %1"
 
 #: part/presentationwidget.cpp:378
 #, kde-format
 msgid "Pages: %1"
-msgstr ""
+msgstr "Trang: %1"
 
 #: part/presentationwidget.cpp:379
 #, kde-format
 msgid "Click to begin"
-msgstr ""
+msgstr "Bấm để bắt đầu"
 
 #: part/presentationwidget.cpp:521
 #, kde-format
 msgctxt "For Presentation"
 msgid "Pause"
-msgstr ""
+msgstr "Tạm dừng"
 
 #: part/presentationwidget.cpp:524
 #, kde-format
 msgctxt "For Presentation"
 msgid "Play"
-msgstr ""
+msgstr "Phát"
 
 #: part/presentationwidget.cpp:1622
 #, kde-format
@@ -4928,6 +5013,9 @@ msgid ""
 "key or click with the quit button that appears when placing the mouse in the "
 "top-right corner. Of course you can cycle windows (Alt+TAB by default)"
 msgstr ""
+"Có hai cách thoát chế độ trình chiếu: nhấn phím ESC hoặc bấm nút thoát xuất "
+"hiện khi di chuột vào góc trên bên phải. Bạn cũng có thể chuyển cửa sổ (mặc "
+"định là Alt+TAB)"
 
 #: part/presentationwidget.cpp:1718
 #, kde-format
@@ -4935,275 +5023,275 @@ msgctxt ""
 "Reason for inhibiting the screensaver activation, when the presentation mode "
 "is active"
 msgid "Giving a presentation"
-msgstr ""
+msgstr "Đang trình chiếu"
 
 #: part/propertiesdialog.cpp:49
 #, kde-format
 msgid "Unknown File"
-msgstr ""
+msgstr "Tệp không rõ"
 
 #: part/propertiesdialog.cpp:63
 #, kde-format
 msgid "%1 Properties"
-msgstr ""
+msgstr "Thuộc tính %1"
 
 #: part/propertiesdialog.cpp:104
 #, kde-format
 msgctxt "mimetype information, example: \"PDF Document (application/pdf)\""
 msgid "%1 (%2)"
-msgstr ""
+msgstr "%1 (%2)"
 
 #: part/propertiesdialog.cpp:117
 #, kde-format
 msgid "%1:"
-msgstr ""
+msgstr "%1:"
 
 #: part/propertiesdialog.cpp:124
 #, kde-format
 msgid "&Fonts"
-msgstr ""
+msgstr "Ph&ông chữ"
 
 #: part/propertiesdialog.cpp:145
 #, kde-format
 msgid "Reading font information..."
-msgstr ""
+msgstr "Đang đọc thông tin phông chữ..."
 
 #: part/propertiesdialog.cpp:158
 #, kde-format
 msgid "&Page Sizes"
-msgstr ""
+msgstr "&Kích thước trang"
 
 #: part/propertiesdialog.cpp:225
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Extract Font"
-msgstr ""
+msgstr "Trích x&uất phông chữ"
 
 #: part/propertiesdialog.cpp:273
 #, kde-format
 msgid "Type 1"
-msgstr ""
+msgstr "Kiểu 1"
 
 #: part/propertiesdialog.cpp:276
 #, kde-format
 msgid "Type 1C"
-msgstr ""
+msgstr "Kiểu 1C"
 
 #: part/propertiesdialog.cpp:279
 #, kde-format
 msgctxt "OT means OpenType"
 msgid "Type 1C (OT)"
-msgstr ""
+msgstr "Kiểu 1C (OT)"
 
 #: part/propertiesdialog.cpp:282
 #, kde-format
 msgid "Type 3"
-msgstr ""
+msgstr "Kiểu 3"
 
 #: part/propertiesdialog.cpp:285
 #, kde-format
 msgid "TrueType"
-msgstr ""
+msgstr "TrueType"
 
 #: part/propertiesdialog.cpp:288
 #, kde-format
 msgctxt "OT means OpenType"
 msgid "TrueType (OT)"
-msgstr ""
+msgstr "TrueType (OT)"
 
 #: part/propertiesdialog.cpp:291
 #, kde-format
 msgid "CID Type 0"
-msgstr ""
+msgstr "CID Kiểu 0"
 
 #: part/propertiesdialog.cpp:294
 #, kde-format
 msgid "CID Type 0C"
-msgstr ""
+msgstr "CID Kiểu 0C"
 
 #: part/propertiesdialog.cpp:297
 #, kde-format
 msgctxt "OT means OpenType"
 msgid "CID Type 0C (OT)"
-msgstr ""
+msgstr "CID Kiểu 0C (OT)"
 
 #: part/propertiesdialog.cpp:300
 #, kde-format
 msgid "CID TrueType"
-msgstr ""
+msgstr "CID TrueType"
 
 #: part/propertiesdialog.cpp:303
 #, kde-format
 msgctxt "OT means OpenType"
 msgid "CID TrueType (OT)"
-msgstr ""
+msgstr "CID TrueType (OT)"
 
 #: part/propertiesdialog.cpp:306
 #, kde-format
 msgid "TeX PK"
-msgstr ""
+msgstr "TeX PK"
 
 #: part/propertiesdialog.cpp:309
 #, kde-format
 msgid "TeX virtual"
-msgstr ""
+msgstr "TeX ảo"
 
 #: part/propertiesdialog.cpp:312
 #, kde-format
 msgid "TeX Font Metric"
-msgstr ""
+msgstr "Phông chữ TeX"
 
 #: part/propertiesdialog.cpp:315
 #, kde-format
 msgid "TeX FreeType-handled"
-msgstr ""
+msgstr "TeX xử lý bởi FreeType"
 
 #: part/propertiesdialog.cpp:318
 #, kde-format
 msgctxt "Unknown font type"
 msgid "Unknown"
-msgstr ""
+msgstr "Không rõ"
 
 #: part/propertiesdialog.cpp:331
 #, kde-format
 msgid "Embedded (subset)"
-msgstr ""
+msgstr "Nhúng (tập con)"
 
 #: part/propertiesdialog.cpp:334
 #, kde-format
 msgid "Fully embedded"
-msgstr ""
+msgstr "Nhúng hoàn toàn"
 
 #: part/propertiesdialog.cpp:344
 #, kde-format
 msgid "No"
-msgstr ""
+msgstr "Không"
 
 #: part/propertiesdialog.cpp:347
 #, kde-format
 msgid "Yes (subset)"
-msgstr ""
+msgstr "Có (tập con)"
 
 #: part/propertiesdialog.cpp:350
 #, kde-format
 msgid "Yes"
-msgstr ""
+msgstr "Có"
 
 #: part/propertiesdialog.cpp:370
 #, kde-format
 msgctxt "Replacing missing font with another one"
 msgid "%1 (substituting with %2)"
-msgstr ""
+msgstr "%1 (thay thế bằng %2)"
 
 #: part/propertiesdialog.cpp:372
 #, kde-format
 msgctxt "font name not available (empty)"
 msgid "[n/a]"
-msgstr ""
+msgstr "[k/c]"
 
 #: part/propertiesdialog.cpp:385
 #, kde-format
 msgid "Unknown font"
-msgstr ""
+msgstr "Phông chữ không rõ"
 
 #: part/propertiesdialog.cpp:391
 #, kde-format
 msgid "Embedded: %1"
-msgstr ""
+msgstr "Nhúng: %1"
 
 #: part/propertiesdialog.cpp:424
 #, kde-format
 msgid "Name"
-msgstr ""
+msgstr "Tên"
 
 #: part/propertiesdialog.cpp:427
 #, kde-format
 msgid "Type"
-msgstr ""
+msgstr "Kiểu"
 
 #: part/propertiesdialog.cpp:430
 #, kde-format
 msgid "File"
-msgstr ""
+msgstr "Tệp"
 
 #: part/propertiesdialog.cpp:498
 #, kde-format
 msgid "Page"
-msgstr ""
+msgstr "Trang"
 
 #: part/propertiesdialog.cpp:501
 #, kde-format
 msgid "Size"
-msgstr ""
+msgstr "Kích thước"
 
 #: part/revisionviewer.cpp:41
 #, kde-format
 msgid "Revision Preview"
-msgstr ""
+msgstr "Xem thử tu bản"
 
 #: part/revisionviewer.cpp:53
 #, kde-format
 msgid "Where do you want to save this revision?"
-msgstr ""
+msgstr "Bạn muốn lưu bản sửa đổi này ở đâu?"
 
 #: part/revisionviewer.cpp:56
 #, kde-format
 msgid "Could not save file %1."
-msgstr ""
+msgstr "Không lưu được tệp %1."
 
 #: part/revisionviewer.cpp:75
 #, kde-format
 msgid "Could not view revision."
-msgstr ""
+msgstr "Không xem được bản sửa đổi."
 
 #: part/searchwidget.cpp:39
 #, kde-format
 msgid "Enter at least 3 letters to filter pages"
-msgstr ""
+msgstr "Nhập ít nhất 3 chữ cái để lọc trang"
 
 #: part/searchwidget.cpp:49
 #, kde-format
 msgid "Case Sensitive"
-msgstr ""
+msgstr "Phân biệt chữ hoa/thường"
 
 #: part/searchwidget.cpp:51
 #, kde-format
 msgid "Match Phrase"
-msgstr ""
+msgstr "Khớp Cụm Từ"
 
 #: part/searchwidget.cpp:52
 #, kde-format
 msgid "Match All Words"
-msgstr ""
+msgstr "Khớp Tất Cả Từ"
 
 #: part/searchwidget.cpp:53
 #, kde-format
 msgid "Match Any Word"
-msgstr ""
+msgstr "Khớp Từ Bất Kỳ"
 
 #: part/searchwidget.cpp:72
 #, kde-format
 msgid "Filter Options"
-msgstr ""
+msgstr "Tùy chọn lọc"
 
 #. i18n: ectx: property (windowTitle), widget (QDialog, SelectCertificateDialog)
 #: part/selectcertificatedialog.ui:14
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Sign Certificate"
 msgid "Certificates"
-msgstr "Kí chứng chỉ"
+msgstr "Chứng chỉ"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: part/selectcertificatedialog.ui:20
 #, kde-format
 msgid "Select certificate to sign with:"
-msgstr ""
+msgstr "Bôi đen chứng chỉ để ký:"
 
 #. i18n: ectx: property (text), widget (QLabel, reasonLabel)
 #: part/selectcertificatedialog.ui:42 part/signaturepropertiesdialog.cpp:66
 #, kde-format
 msgid "Reason:"
-msgstr ""
+msgstr "Lý do:"
 
 #. i18n: ectx: property (placeholderText), widget (QLineEdit, reasonInput)
 #. i18n: ectx: property (placeholderText), widget (QLineEdit, locationInput)
@@ -5212,31 +5300,31 @@ msgstr ""
 #: part/selectcertificatedialog.ui:85
 #, kde-format
 msgid "optional"
-msgstr ""
+msgstr "tuỳ chọn"
 
 #. i18n: ectx: property (text), widget (QLabel, locationLabel)
 #: part/selectcertificatedialog.ui:59 part/signaturepropertiesdialog.cpp:68
 #, kde-format
 msgid "Location:"
-msgstr ""
+msgstr "Vị trí:"
 
 #. i18n: ectx: property (text), widget (QLabel, backgroundLabel)
 #: part/selectcertificatedialog.ui:76
 #, kde-format
 msgid "Background:"
-msgstr ""
+msgstr "Nền:"
 
 #. i18n: ectx: property (text), widget (QPushButton, backgroundButton)
 #: part/selectcertificatedialog.ui:95
 #, kde-format
 msgid "Choose..."
-msgstr ""
+msgstr "Chọn..."
 
 #. i18n: ectx: property (text), widget (QLabel, recentLabel)
 #: part/selectcertificatedialog.ui:107
 #, kde-format
 msgid "Recent backgrounds:"
-msgstr ""
+msgstr "Nền gần đây:"
 
 #: part/side_reviews.cpp:66
 #, kde-format
@@ -5244,77 +5332,79 @@ msgid ""
 "<div align=center><h3>No annotations</h3>To create new annotations press F6 "
 "or select <i>Tools -&gt; Annotations</i> from the menu.</div>"
 msgstr ""
+"<div align=center><h3>Không có chú thích</h3>Để tạo chú thích m&ới, nhấn F6 "
+"hoặc chọn <i>Công cụ -> Chú thích</i> từ menu.</div>"
 
 #: part/side_reviews.cpp:142
 #, kde-format
 msgid "Group by Page"
-msgstr ""
+msgstr "Nhóm theo trang"
 
 #: part/side_reviews.cpp:147
 #, kde-format
 msgid "Group by Author"
-msgstr ""
+msgstr "Nhóm theo Tác giả"
 
 #: part/side_reviews.cpp:155
 #, kde-format
 msgid "Show annotations for current page only"
-msgstr ""
+msgstr "Chỉ hiện chú thích cho trang hiện tại"
 
 #: part/side_reviews.cpp:165
 #, kde-format
 msgid "Expand all elements"
-msgstr ""
+msgstr "Mở rộng tất cả phần tử"
 
 #: part/side_reviews.cpp:167
 #, kde-format
 msgid "Collapse all elements"
-msgstr ""
+msgstr "Thu gọn tất cả phần tử"
 
 #: part/signaturepanel.cpp:101
 #, kde-format
 msgid "Properties"
-msgstr ""
+msgstr "Thuộc tính"
 
 #: part/signaturepartutils.cpp:360
 #, kde-format
 msgctxt "file types in a file open dialog"
 msgid "Images (%1)"
-msgstr ""
+msgstr "Ảnh (%1)"
 
 #: part/signaturepartutils.cpp:361
 #, kde-format
 msgid "Select background image"
-msgstr ""
+msgstr "Chọn ảnh nền"
 
 #: part/signaturepartutils.cpp:366
 #, kde-format
 msgid "Forget image"
-msgstr ""
+msgstr "Quên ảnh"
 
 #: part/signaturepartutils.cpp:367
 #, kde-format
 msgid "Forget all images"
-msgstr ""
+msgstr "Quên tất cả hình ảnh"
 
 #: part/signaturepartutils.cpp:410
 #, kde-format
 msgid "Enter password (if any) to unlock certificate: %1"
-msgstr ""
+msgstr "Nhập mật khẩu (nếu có) để mở khóa chứng chỉ: %1"
 
 #: part/signaturepartutils.cpp:412
 #, kde-format
 msgid "Enter certificate password"
-msgstr ""
+msgstr "Nhập mật khẩu chứng chỉ"
 
 #: part/signaturepartutils.cpp:425
 #, kde-format
 msgid "Enter document password"
-msgstr ""
+msgstr "Nhập mật khẩu tài liệu"
 
 #: part/signaturepartutils.cpp:448
 #, kde-format
 msgid "Save Signed File As"
-msgstr ""
+msgstr "Lưu Tệp Đã Ký Thành"
 
 #: part/signaturepartutils.h:63
 #, kde-format
@@ -5322,187 +5412,187 @@ msgctxt ""
 "Used when suggesting a new name for a digitally signed file. %1 is the old "
 "file name and %2 its extension"
 msgid "%1_signed.%2"
-msgstr ""
+msgstr "%1_đã_ký.%2"
 
 #: part/signaturepropertiesdialog.cpp:53
 #, kde-format
 msgid "Validity Status"
-msgstr ""
+msgstr "Trạng thái hợp lệ"
 
 #: part/signaturepropertiesdialog.cpp:56
 #, kde-format
 msgid "Signature Validity:"
-msgstr ""
+msgstr "Tính hợp lệ chữ ký:"
 
 #: part/signaturepropertiesdialog.cpp:57
 #, kde-format
 msgid "Document Modifications:"
-msgstr ""
+msgstr "Sửa đổi tài liệu:"
 
 #: part/signaturepropertiesdialog.cpp:60
 #, kde-format
 msgid "Additional Information"
-msgstr ""
+msgstr "Thông tin bổ sung"
 
 #: part/signaturepropertiesdialog.cpp:63
 #, kde-format
 msgid "Signed By:"
-msgstr ""
+msgstr "Người ký:"
 
 #: part/signaturepropertiesdialog.cpp:64
 #, kde-format
 msgid "Signing Time:"
-msgstr ""
+msgstr "Thời gian ký:"
 
 #: part/signaturepropertiesdialog.cpp:78
 #, kde-format
 msgid "Document Version"
-msgstr ""
+msgstr "Phiên bản tài liệu"
 
 #: part/signaturepropertiesdialog.cpp:81
 #, kde-format
 msgctxt "Document Revision <current> of <total>"
 msgid "Document Revision %1 of %2"
-msgstr ""
+msgstr "Tu bản tài liệu %1 trên %2"
 
 #: part/signaturepropertiesdialog.cpp:83
 #, kde-format
 msgid "View Signed Version..."
-msgstr ""
+msgstr "Xem phiên bản đã ký..."
 
 #: part/signaturepropertiesdialog.cpp:90
 #, kde-format
 msgid "View Certificate..."
-msgstr ""
+msgstr "Xem chứng chỉ..."
 
 #: part/signaturepropertiesdialog.cpp:92
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Sign Certificate"
 msgid "View in Certificate Manager"
-msgstr "Kí chứng chỉ"
+msgstr "Xem trong Trình quản lý chứng chỉ"
 
 #: part/signaturepropertiesdialog.cpp:96
 #, kde-format
 msgid "KDE Certificate Manager (kleopatra) not found"
-msgstr ""
+msgstr "Không tìm thấy Trình quản lý chứng chỉ KDE (kleopatra)"
 
 #: part/thumbnaillist.cpp:1017
 #, kde-format
 msgid "Show bookmarked pages only"
-msgstr ""
+msgstr "Chỉ hiện trang đã lưu dấu"
 
 #: part/videowidget.cpp:145
 #, kde-format
 msgctxt "start the movie playback"
 msgid "Play"
-msgstr ""
+msgstr "Phát"
 
 #: part/videowidget.cpp:148
 #, kde-format
 msgctxt "pause the movie playback"
 msgid "Pause"
-msgstr ""
+msgstr "Tạm dừng"
 
 #: part/videowidget.cpp:254
 #, kde-format
 msgctxt "stop the movie playback"
 msgid "Stop"
-msgstr ""
+msgstr "Dừng"
 
 #: part/videowidget.cpp:503
 #, kde-format
 msgid "Videos not supported in this okular"
-msgstr ""
+msgstr "Phim không được hỗ trợ trong okular này"
 
 #: part/videowidget.cpp:507
 #, kde-format
 msgid "Videos not supported in this Okular"
-msgstr ""
+msgstr "Phim không được hỗ trợ trong Okular này"
 
 #: part/widgetconfigurationtoolsbase.cpp:28
 #, kde-format
 msgid "&Add..."
-msgstr ""
+msgstr "T&hêm..."
 
 #: part/widgetconfigurationtoolsbase.cpp:31
 #, kde-format
 msgid "&Edit..."
-msgstr ""
+msgstr "Chỉnh sử&a..."
 
 #: part/widgetconfigurationtoolsbase.cpp:35
 #, kde-format
 msgid "&Remove"
-msgstr ""
+msgstr "Xo&á"
 
 #: part/widgetconfigurationtoolsbase.cpp:39
 #, kde-format
 msgid "Move &Up"
-msgstr ""
+msgstr "Di chuyể&n lên"
 
 #: part/widgetconfigurationtoolsbase.cpp:43
 #, kde-format
 msgid "Move &Down"
-msgstr ""
+msgstr "Di chuyể&n xuống"
 
 #: part/widgetdrawingtools.cpp:105
 #, kde-format
 msgid "Default Drawing Tool #%1"
-msgstr ""
+msgstr "Công cụ vẽ mặc định #%1"
 
 #: part/widgetdrawingtools.cpp:139 part/widgetdrawingtools.cpp:183
 #, kde-format
 msgid "There's already a tool with that name. Using a default one"
-msgstr ""
+msgstr "Đã có công cụ với tên đó. Sử dụng tên mặc định"
 
 #: part/widgetdrawingtools.cpp:139 part/widgetdrawingtools.cpp:183
 #, kde-format
 msgid "Duplicated Name"
-msgstr ""
+msgstr "Tên trùng lặp"
 
 #: shell/main.cpp:89
 #, kde-format
 msgid "Page of the document to be shown"
-msgstr ""
+msgstr "Trang tài liệu cần hiển thị"
 
 #: shell/main.cpp:90
 #, kde-format
 msgid "Start the document in presentation mode"
-msgstr ""
+msgstr "Khởi động tài liệu ở chế độ trình chiếu"
 
 #: shell/main.cpp:91
 #, kde-format
 msgid "Start with print dialog"
-msgstr ""
+msgstr "Khởi động với hộp thoại in"
 
 #: shell/main.cpp:92
 #, kde-format
 msgid "Start with print dialog and exit after printing"
-msgstr ""
+msgstr "Khởi động với hộp thoại in và thoát sau khi in"
 
 #: shell/main.cpp:93
 #, kde-format
 msgid "\"Unique instance\" control"
-msgstr ""
+msgstr "Điều khiển \"Phiên bản duy nhất\""
 
 #: shell/main.cpp:94
 #, kde-format
 msgid "Not raise window"
-msgstr ""
+msgstr "Không nâng cửa sổ"
 
 #: shell/main.cpp:95
 #, kde-format
 msgid "Find a string on the text"
-msgstr ""
+msgstr "Tìm chuỗi trong văn bản"
 
 #: shell/main.cpp:96
 #, kde-format
 msgid "Sets the external editor command"
-msgstr ""
+msgstr "Đặt lệnh trình biên tập ngoài"
 
 #: shell/main.cpp:97
 #, kde-format
 msgid "Documents to open. Specify '-' to read from stdin."
-msgstr ""
+msgstr "Tài liệu để mở. Chỉ định '-' để đọc từ stdin."
 
 #: shell/okular_main.cpp:64 shell/okular_main.cpp:169
 #, kde-format
@@ -5511,41 +5601,44 @@ msgid ""
 "Please disable the tabs and try again. Please note, that unique is also not "
 "supported when setting the editor command at the commandline.\n"
 msgstr ""
+"Không thể thiết lập lệnh trình biên tập trong phiên Okular đang chạy. Vui "
+"lòng tắt các tab và thử lại. Lưu ý, unique cũng không được hỗ trợ khi thiết "
+"lập lệnh trình biên tập qua dòng lệnh.\n"
 
 #: shell/okular_main.cpp:188
 #, kde-format
 msgid "Error: Can't open more than one document with the --unique switch"
-msgstr ""
+msgstr "Lỗi: Không thể mở nhiều tài liệu với tùy chọn --unique"
 
 #: shell/okular_main.cpp:194
 #, kde-format
 msgid "Error: Can't open more than one document with the --presentation switch"
-msgstr ""
+msgstr "Lỗi: Không thể mở nhiều tài liệu với tùy chọn --presentation"
 
 #: shell/okular_main.cpp:200
 #, kde-format
 msgid "Error: Can't open more than one document with the --print switch"
-msgstr ""
+msgstr "Lỗi: Không thể mở nhiều hơn một tài liệu với tùy chọn --print"
 
 #: shell/okular_main.cpp:206
 #, kde-format
 msgid "Error: Can't open more than one document with the --page switch"
-msgstr ""
+msgstr "Lỗi: Không thể mở nhiều tài liệu với tùy chọn --page"
 
 #: shell/okular_main.cpp:212
 #, kde-format
 msgid "Error: Can't open more than one document with the --find switch"
-msgstr ""
+msgstr "Lỗi: Không thể mở nhiều hơn một tài liệu với tùy chọn --find"
 
 #: shell/shell.cpp:210
 #, kde-format
 msgid "Unable to find the Okular component: %1"
-msgstr ""
+msgstr "Không thể tìm thấy thành phần Okular: %1"
 
 #: shell/shell.cpp:253
 #, kde-format
 msgid "Sidebar"
-msgstr ""
+msgstr "Thanh bên"
 
 #: shell/shell.cpp:289
 #, kde-format
@@ -5553,134 +5646,136 @@ msgid ""
 "There is already a unique Okular instance running. This instance won't be "
 "the unique one."
 msgstr ""
+"Đã có một hiện thể Okular duy nhất đang chạy. Hiện thể này sẽ không phải là "
+"duy nhất."
 
 #: shell/shell.cpp:313
 #, kde-format
 msgid "Unable to find the Okular component."
-msgstr ""
+msgstr "Không thể tìm thấy thành phần Okular."
 
 #: shell/shell.cpp:569
 #, kde-format
 msgid ""
 "Click to open a file\n"
 "Click and hold to open a recent file"
-msgstr ""
+msgstr "Bấm để mở tệp\nBấm và giữ để mở tệp gần đây"
 
 #: shell/shell.cpp:570
 #, kde-format
 msgid ""
 "<b>Click</b> to open a file or <b>Click and hold</b> to select a recent file"
-msgstr ""
+msgstr "<b>Nhấp chuột</b> để mở tệp hoặc <b>Nhấp và giữ</b> để bôi đen tệp gần đây"
 
 #: shell/shell.cpp:583
 #, kde-format
 msgid "Next Tab"
-msgstr ""
+msgstr "Thẻ tiếp"
 
 #: shell/shell.cpp:589
 #, kde-format
 msgid "Previous Tab"
-msgstr ""
+msgstr "Thẻ trước"
 
 #: shell/shell.cpp:595
 #, kde-format
 msgid "Undo close tab"
-msgstr ""
+msgstr "Đảo ngược đóng thẻ"
 
 #: shell/shell.cpp:604
 #, kde-format
 msgid "Lock Sidebar"
-msgstr ""
+msgstr "Khóa thanh bên"
 
 #: shell/shell.cpp:704
 #, kde-format
 msgid "All files (*)"
-msgstr ""
+msgstr "Tất cả tệp (*)"
 
 #: shell/shell.cpp:705
 #, kde-format
 msgid "All supported files (%1)"
-msgstr ""
+msgstr "Tất cả tệp được hỗ trợ (%1)"
 
 #: shell/shell.cpp:709
 #, kde-format
 msgid "Open Document"
-msgstr ""
+msgstr "Mở tài liệu"
 
 #: shell/shell.cpp:823
 #, kde-format
 msgid "Confirm Close"
-msgstr ""
+msgstr "Xác nhận đóng"
 
 #: shell/shell.cpp:827
 #, kde-format
 msgid "Close Tabs"
-msgstr ""
+msgstr "Đóng các thẻ"
 
 #: shell/shell.cpp:834
 #, kde-format
 msgid "You are about to close %1 tabs. Are you sure you want to continue?"
-msgstr ""
+msgstr "Bạn sắp đóng %1 thẻ. Bạn có chắc muốn tiếp tục?"
 
 #: shell/shell.cpp:836
 #, kde-format
 msgid "Warn me when I attempt to close multiple tabs"
-msgstr ""
+msgstr "Cảnh báo khi tôi cố đóng nhiều tab"
 
 #: shell/welcomescreen.cpp:64
 #, kde-format
 msgid "&Copy Path"
-msgstr ""
+msgstr "&Sao chép đường dẫn"
 
 #: shell/welcomescreen.cpp:77
 #, kde-format
 msgid "&Open Containing Folder"
-msgstr ""
+msgstr "&Mở Thư Mục Chứa"
 
 #: shell/welcomescreen.cpp:89
 #, kde-format
 msgctxt "recent items context menu"
 msgid "&Forget This Item"
-msgstr ""
+msgstr "Quên &mục này"
 
 #: shell/welcomescreen.cpp:137
 #, kde-format
 msgctxt "on welcome screen"
 msgid "No recent documents"
-msgstr ""
+msgstr "Không có tài liệu gần đây"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: shell/welcomescreen.ui:153
 #, kde-format
 msgid "Welcome to Okular"
-msgstr ""
+msgstr "Chào mừng đến với Okular"
 
 #. i18n: ectx: property (text), widget (QPushButton, openButton)
 #: shell/welcomescreen.ui:232
 #, kde-format
 msgctxt "on welcome screen"
 msgid "Open Document..."
-msgstr ""
+msgstr "Mở tài liệu..."
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: shell/welcomescreen.ui:382
 #, kde-format
 msgctxt "on welcome screen"
 msgid "Recent documents"
-msgstr ""
+msgstr "Tài liệu gần đây"
 
 #. i18n: ectx: property (text), widget (QToolButton, forgetAllButton)
 #: shell/welcomescreen.ui:392
 #, kde-format
 msgctxt "on welcome screen (recent document list)"
 msgid "Forget All"
-msgstr ""
+msgstr "Xóa tất cả"
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, closeButton)
 #: shell/welcomescreen.ui:460
 #, kde-format
 msgid "Hide welcome screen"
-msgstr ""
+msgstr "Ẩn màn hình chào mừng"
 
 #~ msgid "Missing alert type"
 #~ msgstr "Thiếu kiểu báo động"

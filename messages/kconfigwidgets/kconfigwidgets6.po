@@ -50,10 +50,10 @@ msgid "Color Scheme"
 msgstr "Quy hoạch màu"
 
 #: kcommandbar.cpp:639
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "No commands matching the filter"
 msgid "No commands to display"
-msgstr "Không có lệnh nào khớp với bộ lọc"
+msgstr "Không có lệnh để hiển thị"
 
 #: kcommandbar.cpp:641
 #, kde-format
@@ -142,10 +142,10 @@ msgid "Create new document"
 msgstr "Tạo tài liệu mới"
 
 #: kstandardaction_p.h:64
-#, fuzzy
+#, 
 #| msgid "&Open..."
 msgid "&Open…"
-msgstr "&Mở..."
+msgstr "&Mở…"
 
 #: kstandardaction_p.h:64
 msgid "Open an existing document"
@@ -168,10 +168,10 @@ msgid "Save document"
 msgstr "Lưu tài liệu"
 
 #: kstandardaction_p.h:67
-#, fuzzy
+#, 
 #| msgid "Save &As..."
 msgid "Save &As…"
-msgstr "Lưu thà&nh..."
+msgstr "Lưu t&hành…"
 
 #: kstandardaction_p.h:67
 msgid "Save document under a new name"
@@ -194,10 +194,10 @@ msgid "Close document"
 msgstr "Đóng tài liệu"
 
 #: kstandardaction_p.h:70
-#, fuzzy
+#, 
 #| msgid "&Print..."
 msgid "&Print…"
-msgstr "&In..."
+msgstr "&In…"
 
 #: kstandardaction_p.h:70
 msgid "Print document"
@@ -212,10 +212,10 @@ msgid "Show a print preview of document"
 msgstr "Hiện một phần xem thử bản in của tài liệu"
 
 #: kstandardaction_p.h:72
-#, fuzzy
+#, 
 #| msgid "&Mail..."
 msgid "&Mail…"
-msgstr "&Thư..."
+msgstr "&Thư…"
 
 #: kstandardaction_p.h:72
 msgid "Send document by mail"
@@ -282,10 +282,10 @@ msgid "Dese&lect"
 msgstr "&Bỏ chọn"
 
 #: kstandardaction_p.h:83
-#, fuzzy
+#, 
 #| msgid "&Find..."
 msgid "&Find…"
-msgstr "&Tìm..."
+msgstr "&Tìm…"
 
 #: kstandardaction_p.h:84
 msgid "Find &Next"
@@ -296,10 +296,10 @@ msgid "Find Pre&vious"
 msgstr "Tìm &về trước"
 
 #: kstandardaction_p.h:86
-#, fuzzy
+#, 
 #| msgid "&Replace..."
 msgid "&Replace…"
-msgstr "Tha&y thế..."
+msgstr "Thay &thế…"
 
 #: kstandardaction_p.h:88
 msgid "Zoom to &Actual Size"
@@ -342,10 +342,10 @@ msgid "Zoom &Out"
 msgstr "Thu &nhỏ"
 
 #: kstandardaction_p.h:94
-#, fuzzy
+#, 
 #| msgid "&Zoom..."
 msgid "&Zoom…"
-msgstr "Th&u phóng..."
+msgstr "Thu &phóng…"
 
 #: kstandardaction_p.h:94
 msgid "Select zoom level"
@@ -384,22 +384,22 @@ msgid "Go to next page"
 msgstr "Đi đến trang sau"
 
 #: kstandardaction_p.h:104
-#, fuzzy
+#, 
 #| msgid "&Go To..."
 msgid "&Go To…"
-msgstr "Đi đế&n..."
+msgstr "Đi đ&ến…"
 
 #: kstandardaction_p.h:105
-#, fuzzy
+#, 
 #| msgid "&Go to Page..."
 msgid "&Go to Page…"
-msgstr "Đi đến t&rang..."
+msgstr "Đi đến &trang…"
 
 #: kstandardaction_p.h:106
-#, fuzzy
+#, 
 #| msgid "&Go to Line..."
 msgid "&Go to Line…"
-msgstr "Đi đến &dòng..."
+msgstr "&Đi đến dòng…"
 
 #: kstandardaction_p.h:107
 msgid "&First Page"
@@ -438,16 +438,16 @@ msgid "&Add Bookmark"
 msgstr "T&hêm dấu nhớ"
 
 #: kstandardaction_p.h:113
-#, fuzzy
+#, 
 #| msgid "&Edit Bookmarks..."
 msgid "&Edit Bookmarks…"
-msgstr "&Sửa dấu nhớ..."
+msgstr "Sửa dấ&u nhớ…"
 
 #: kstandardaction_p.h:115
-#, fuzzy
+#, 
 #| msgid "&Spelling..."
 msgid "&Spelling…"
-msgstr "Đánh &vần..."
+msgstr "Đá&nh vần…"
 
 #: kstandardaction_p.h:115
 msgid "Check spelling in document"
@@ -482,28 +482,28 @@ msgid "F&ull Screen Mode"
 msgstr "Chế độ t&oàn màn hình"
 
 #: kstandardaction_p.h:121
-#, fuzzy
+#, 
 #| msgid "Configure Keyboard S&hortcuts..."
 msgid "Configure Keyboard S&hortcuts…"
-msgstr "Cấu hình phí&m tắt..."
+msgstr "Cấ&u hình phím tắt…"
 
 #: kstandardaction_p.h:122
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Configure %1..."
 msgid "&Configure %1…"
-msgstr "&Cấu hình %1..."
+msgstr "Cấu hì&nh %1…"
 
 #: kstandardaction_p.h:123
-#, fuzzy
+#, 
 #| msgid "Configure Tool&bars..."
 msgid "Configure Tool&bars…"
-msgstr "Cấu hình th&anh công cụ..."
+msgstr "Cấu &hình thanh công cụ…"
 
 #: kstandardaction_p.h:124
-#, fuzzy
+#, 
 #| msgid "Configure &Notifications..."
 msgid "Configure &Notifications…"
-msgstr "Cấu hình thông &báo..."
+msgstr "Cấu hì&nh thông báo…"
 
 #: kstandardaction_p.h:128
 #, kde-format
@@ -515,16 +515,16 @@ msgid "What's &This?"
 msgstr "Đây là &cái gì?"
 
 #: kstandardaction_p.h:130
-#, fuzzy
+#, 
 #| msgid "&Report Bug..."
 msgid "&Report Bug…"
-msgstr "&Báo lỗi..."
+msgstr "&Báo lỗi…"
 
 #: kstandardaction_p.h:131
-#, fuzzy
+#, 
 #| msgid "Configure &Language..."
 msgid "Configure &Language…"
-msgstr "Cấu hình &ngôn ngữ..."
+msgstr "Cấu hình ng&ôn ngữ…"
 
 #: kstandardaction_p.h:132
 #, kde-format
@@ -540,10 +540,10 @@ msgid "&Delete"
 msgstr "&Xoá"
 
 #: kstandardaction_p.h:135
-#, fuzzy
+#, 
 #| msgid "&Rename..."
 msgid "&Rename…"
-msgstr "Đổ&i tên..."
+msgstr "&Đổi tên…"
 
 #: kstandardaction_p.h:136
 msgid "&Move to Trash"
@@ -558,10 +558,10 @@ msgid "Open &Menu"
 msgstr "Mở trìn&h đơn"
 
 #: kstylemanager.cpp:60
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Quit application"
 msgid "Application Style"
-msgstr "Thoát khỏi ứng dụng"
+msgstr "Kiểu cách ứng dụng"
 
 #: kstylemanager.cpp:64
 #, kde-format

@@ -5,19 +5,20 @@
 # Phan Vinh Thinh <teppi82@gmail.com>, 2006, 2011, 2012.
 # Lê Hoàng Phương <herophuong93@gmail.com>, 2012.
 # Phu Hung Nguyen <phu.nguyen@kdemail.net>, 2022.
+# SPDX-FileCopyrightText: 2024 Huan Truong <htruong@caligraph.net>
 msgid ""
 msgstr ""
 "Project-Id-Version: drkonqi\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-06-28 00:39+0000\n"
-"PO-Revision-Date: 2022-09-05 23:25+0200\n"
-"Last-Translator: Phu Hung Nguyen <phu.nguyen@kdemail.net>\n"
-"Language-Team: Vietnamese <kde-l10n-vi@kde.org>\n"
+"PO-Revision-Date: 2024-07-10 12:22-0700\n"
+"Last-Translator: Huan Truong <htruong@caligraph.net>\n"
+"Language-Team: Vietnamese <kde-i18n-vi@kde.org>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 22.04.1\n"
+"X-Generator: Lokalize 23.08.5\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #, kde-format
@@ -44,9 +45,9 @@ msgid ""
 "when you have installed the proper debug symbol packages and you want to "
 "obtain a better backtrace."
 msgstr ""
-"Dùng nút này để tải lại thông tin về sự cố (vết ngăn xếp). Việc này có ích "
-"khi bạn đã cài đặt các gói kí hiệu gỡ lỗi thích hợp và bạn muốn có một vết "
-"ngăn xếp tốt hơn."
+"Dùng nút này để tải lại thông tin về sự cố (backtrace). Việc này có ích "
+"khi bạn đã cài đặt các gói kí hiệu gỡ lỗi thích hợp và bạn muốn có "
+"backtrace tốt hơn."
 
 #: backtracewidget.cpp:67
 #, kde-format
@@ -75,8 +76,7 @@ msgstr ""
 msgctxt "@info:tooltip"
 msgid ""
 "Use this button to copy the crash information (backtrace) to the clipboard."
-msgstr ""
-"Dùng nút này để sao chép thông tin về sự cố (vết ngăn xếp) vào bảng nháp."
+msgstr "Dùng nút này để sao chép thông tin về sự cố (backtrace) vào bảng nháp."
 
 #: backtracewidget.cpp:94 qml/DeveloperPage.qml:83
 #, kde-format
@@ -85,7 +85,7 @@ msgid ""
 "Use this button to save the crash information (backtrace) to a file. This is "
 "useful if you want to take a look at it or to report the bug later."
 msgstr ""
-"Dùng nút này để lưu thông tin về sự cố (vết ngăn xếp) vào một tệp. Việc này "
+"Dùng nút này để lưu thông tin về sự cố (backtrace) vào một tệp. Việc này "
 "có ích nếu sau này bạn muốn xem lại hoặc báo lỗi."
 
 #: backtracewidget.cpp:115
@@ -97,11 +97,11 @@ msgid ""
 "they might actually contain a wealth of useful information.<br />Backtraces "
 "are commonly used during interactive and post-mortem debugging.</p>"
 msgstr ""
-"<h2>\"Vết ngăn xếp\" là gì?</h2><p>Một vết ngăn xếp về cơ bản mô tả những gì "
+"<h2>\"Backtrace\" là gì?</h2><p>Một Backtrace về cơ bản mô tả những gì "
 "đã diễn ra bên trong ứng dụng khi nó gặp sự cố, để các nhà phát triển có thể "
 "tìm ra xem vấn đề xuất phát từ đâu. Chúng có thể trông vô nghĩa với bạn, "
 "nhưng có khả năng chúng thực sự chứa một lượng lớn thông tin có ích.<br /"
-">Vết ngăn xếp thường được dùng khi gỡ lỗi tương tác và tử hậu.</p>"
+">Backtrace thường được dùng khi gỡ lỗi tương tác và sau sự cố.</p>"
 
 #: backtracewidget.cpp:135
 #, kde-format
@@ -113,7 +113,7 @@ msgstr "Đang tải..."
 #, kde-format
 msgctxt "@info:status"
 msgid "Generating backtrace... (this may take some time)"
-msgstr "Đang tạo vết ngăn xếp... (có thể mất chút thời gian)"
+msgstr "Đang tạo backtrace... (có thể mất chút thời gian)"
 
 #: backtracewidget.cpp:189
 #, kde-format
@@ -140,7 +140,7 @@ msgid ""
 "debugger and click <interface>Reload</interface>."
 msgstr ""
 "Một tiến trình gỡ lỗi khác đã được gắn vào ứng dụng gặp sự cố. Vì vậy, trình "
-"gỡ lỗi DrKonqi không thể tìm nạp được vết ngăn xếp. Vui lòng đóng trình gỡ "
+"gỡ lỗi DrKonqi không thể tìm nạp được backtrace. Vui lòng đóng trình gỡ "
 "lỗi khác đó và bấm <interface>Tải lại</interface>."
 
 #: backtracewidget.cpp:241 qml/RatingItem.qml:43
@@ -191,7 +191,7 @@ msgstr ""
 "Bạn có thể bấm nút <interface>Cài đặt các kí hiệu gỡ lỗi</interface> để tự "
 "động cài đặt các gói thông tin gỡ lỗi còn thiếu. Nếu cách này không hoạt "
 "động, vui lòng đọc <link url='%1'>Cách tạo báo cáo sự cố hữu ích</link> để "
-"biết cách lấy một vết ngăn xếp có ích; cài đặt các gói cần thiết (<link "
+"biết cách lấy backtrace có ích; cài đặt các gói cần thiết (<link "
 "url='%2'>danh sách các tệp</link>) và bấm nút <interface>Tải lại</interface>."
 
 #: backtracewidget.cpp:285
@@ -204,7 +204,7 @@ msgid ""
 "button."
 msgstr ""
 "Vui lòng đọc <link url='%1'>Cách tạo báo cáo sự cố hữu ích</link> để biết "
-"cách lấy một vết ngăn xếp có ích; cài đặt các gói cần thiết (<link "
+"cách lấy backtrace có ích; cài đặt các gói cần thiết (<link "
 "url='%2'>danh sách các tệp</link>) và bấm nút <interface>Tải lại</interface>."
 
 #: backtracewidget.cpp:301
@@ -2968,3 +2968,5 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ "<p><note>This bug report is not about a crash or about any other critical "
 #~ "bug.</note></p>"
 #~ msgstr "<p><note>Báo cáo lỗi này không phải về một lỗi nào cả.</note></p>"
+
+
