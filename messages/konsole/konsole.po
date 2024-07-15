@@ -1355,7 +1355,7 @@ msgctxt "@info"
 msgid "There is a process running in this window. Do you still want to quit?"
 msgid_plural ""
 "There are %1 processes running in this window. Do you still want to quit?"
-msgstr[0] "Có một tiến trình đang chạy trong cửa sổ này. Bạn vẫn muốn thoát?"
+msgstr[0] "Có %1 tiến trình đang chạy trong cửa sổ này. Bạn vẫn muốn thoát?"
 
 #: MainWindow.cpp:732 MainWindow.cpp:749 MainWindow.cpp:763
 #, kde-format
@@ -4571,7 +4571,7 @@ msgstr "Các ký tự được tô sáng không hợp lệ trong tên hồ sơ: 
 #| msgid "Edit Profile \"%1\""
 msgid "Editing profile: %2"
 msgid_plural "Editing %1 profiles: %2"
-msgstr[0] "Đang chỉnh sửa hồ sơ: %2"
+msgstr[0] "Đang chỉnh sửa %1 hồ sơ: %2"
 
 #: widgets/EditProfileDialog.cpp:420
 #, kde-format
