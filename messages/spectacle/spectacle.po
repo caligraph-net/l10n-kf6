@@ -1,0 +1,1976 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the spectacle package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: spectacle\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-17 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: src/CaptureModeModel.cpp:97
+#, kde-format
+msgid "Rectangular Region"
+msgstr "Vùng Chữ Nhật"
+
+#: src/CaptureModeModel.cpp:104
+#, kde-format
+msgid "All Screens"
+msgstr "Tất cả màn hình"
+
+#: src/CaptureModeModel.cpp:104
+#, kde-format
+msgid "Full Screen"
+msgstr "Toàn màn hình"
+
+#: src/CaptureModeModel.cpp:111
+#, kde-format
+msgid "All Screens (Scaled to same size)"
+msgstr "Tất cả màn hình (Tỷ lệ bằng nhau)"
+
+#: src/CaptureModeModel.cpp:117
+#, kde-format
+msgid "Current Screen"
+msgstr "Màn hình hiện tại"
+
+#: src/CaptureModeModel.cpp:124
+#, kde-format
+msgid "Active Window"
+msgstr "Cửa sổ hoạt động"
+
+#: src/CaptureModeModel.cpp:131
+#, kde-format
+msgid "Window Under Cursor"
+msgstr "Cửa sổ dưới con trỏ"
+
+#: src/CommandLineOptions.h:22
+#, kde-format
+msgid "Capture the entire desktop (default)"
+msgstr "Thu thập toàn bộ desktop (mặc định)"
+
+#: src/CommandLineOptions.h:26
+#, kde-format
+msgid "Capture the current monitor"
+msgstr "Thu thập màn hình hiện tại"
+
+#: src/CommandLineOptions.h:30
+#, kde-format
+msgid "Capture the active window"
+msgstr "Thu thập cửa sổ đang hoạt động"
+
+#: src/CommandLineOptions.h:34
+#, kde-format
+msgid ""
+"Capture the window currently under the cursor, including parents of pop-up "
+"menus"
+msgstr "Thu thập cửa sổ hiện dưới con trỏ, bao gồm cả cha của các ô bật lên"
+
+#: src/CommandLineOptions.h:38
+#, kde-format
+msgid ""
+"Capture the window currently under the cursor, excluding parents of pop-up "
+"menus"
+msgstr ""
+"Thu thập cửa sổ hiện đang dưới con trỏ, loại trừ các cửa sổ cha của ô bật "
+"lên"
+
+#: src/CommandLineOptions.h:42
+#, kde-format
+msgid "Capture a rectangular region of the screen"
+msgstr "Thu thập vùng hình chữ nhật của màn hình"
+
+#: src/CommandLineOptions.h:46
+#, kde-format
+msgid ""
+"Record the screen using the given mode. Modes:\n"
+"- r, region\n"
+"- s, screen\n"
+"- w, window"
+msgstr ""
+"Ghi lại màn hình bằng chế độ đã chọn. Các chế độ:\n- r, vùng\n- s, màn "
+"hình\n- w, cửa sổ"
+
+#: src/CommandLineOptions.h:54
+#, kde-format
+msgid "Launch Spectacle without taking a screenshot"
+msgstr "Khởi chạy Spectacle mà không chụp ảnh màn hình"
+
+#: src/CommandLineOptions.h:58
+#, kde-format
+msgid "Start in GUI mode (default)"
+msgstr "Khởi động ở chế độ giao diện đồ họa (mặc định)"
+
+#: src/CommandLineOptions.h:62
+#, kde-format
+msgid "Take a screenshot and exit without showing the GUI"
+msgstr "Chụp màn hình và thoát mà không hiển thị giao diện"
+
+#: src/CommandLineOptions.h:66
+#, kde-format
+msgid "Start in DBus-Activation mode"
+msgstr "Khởi động ở chế độ DBus-Activation"
+
+#: src/CommandLineOptions.h:70
+#, kde-format
+msgid ""
+"In background mode, do not pop up a notification when the screenshot is taken"
+msgstr "Ở chế độ nền, không hiển thị thông báo khi chụp ảnh màn hình"
+
+#: src/CommandLineOptions.h:74
+#, kde-format
+msgid "In background mode, save image to specified file"
+msgstr "Ở chế độ nền, lưu ảnh vào tệp đã chỉ định"
+
+#: src/CommandLineOptions.h:79
+#, kde-format
+msgid "In background mode, delay before taking the shot (in milliseconds)"
+msgstr "Trong chế độ nền, độ trễ trước khi chụp (tính bằng mili giây)"
+
+#: src/CommandLineOptions.h:84
+#, kde-format
+msgid ""
+"In background mode, copy screenshot image to clipboard, unless -o is also "
+"used."
+msgstr ""
+"Ở chế độ nền, sao chép ảnh chụp màn hình vào bộ nhớ tạm, trừ khi cũng sử "
+"dụng -o."
+
+#: src/CommandLineOptions.h:88
+#, kde-format
+msgid "In background mode, copy screenshot file path to clipboard"
+msgstr "Ở chế độ nền, sao chép đường dẫn tệp ảnh chụp màn hình vào bảng nháp"
+
+#: src/CommandLineOptions.h:92
+#, kde-format
+msgid "Wait for a click before taking screenshot. Invalidates delay"
+msgstr "Chờ bấm trước khi chụp màn hình. Vô hiệu hóa độ trễ"
+
+#: src/CommandLineOptions.h:96
+#, kde-format
+msgid "Starts a new GUI instance of spectacle without registering to DBus"
+msgstr "Khởi động một hiện thể GUI mới của spectacle mà không đăng ký với DBus"
+
+#: src/CommandLineOptions.h:100
+#, kde-format
+msgid "In background mode, include pointer in the screenshot"
+msgstr "Ở chế độ nền, bao gồm con trỏ trong ảnh chụp màn hình"
+
+#: src/CommandLineOptions.h:104
+#, kde-format
+msgid "In background mode, exclude decorations in the screenshot"
+msgstr "Ở chế độ nền, loại bỏ các trang trí trong ảnh chụp màn hình"
+
+#: src/CommandLineOptions.h:106
+#, kde-format
+msgid "In background mode, exclude shadows in the screenshot"
+msgstr "Ở chế độ nền, loại bỏ bóng đổ trong ảnh chụp màn hình"
+
+#: src/CommandLineOptions.h:109
+#, kde-format
+msgid "Open and edit existing screenshot file"
+msgstr "Mở và sửa tệp ảnh chụp màn hình hiện có"
+
+#: src/ExportManager.cpp:448
+#, kde-format
+msgid "QImageWriter cannot write image: %1"
+msgstr "QImageWriter không thể ghi ảnh: %1"
+
+#: src/ExportManager.cpp:464
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Cannot save screenshot because creating the directory failed:<nl/><filename>"
+"%1</filename>"
+msgstr ""
+"Không thể lưu ảnh chụp màn hình vì tạo thư mục thất "
+"bại:<nl/><filename>%1</filename>"
+
+#: src/ExportManager.cpp:474
+#, kde-format
+msgid "Cannot save screenshot. Error while writing file."
+msgstr "Không thể lưu ảnh chụp màn hình. Lỗi khi ghi tệp."
+
+#: src/ExportManager.cpp:494
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Cannot save screenshot because creating the remote directory failed:<nl/"
+"><filename>%1</filename>"
+msgstr ""
+"Không thể lưu ảnh chụp màn hình vì tạo thư mục từ xa thất "
+"bại:<nl/><filename>%1</filename>"
+
+#: src/ExportManager.cpp:505 src/ExportManager.cpp:554
+#, kde-format
+msgid "Cannot save screenshot. Error while writing temporary local file."
+msgstr "Không thể lưu ảnh chụp màn hình. Lỗi khi ghi tệp tạm thời cục bộ."
+
+#: src/ExportManager.cpp:513
+#, kde-format
+msgid "Unable to save image. Could not upload file to remote location."
+msgstr "Không thể lưu ảnh. Không tải lên được tệp đến vị trí từ xa."
+
+#: src/ExportManager.cpp:561
+#, kde-format
+msgid "Cannot save screenshot. The save filename is invalid."
+msgstr "Không thể lưu ảnh chụp màn hình. Tên tệp lưu không hợp lệ."
+
+#: src/ExportManager.cpp:605
+#, kde-format
+msgid "Cannot save an empty screenshot image."
+msgstr "Không thể lưu ảnh chụp màn hình trống."
+
+#: src/ExportManager.cpp:736
+#, kde-format
+msgctxt "@info:shell"
+msgid ""
+"Failed to export video: Temporary file URL must be an existing local file"
+msgstr "Xuất khẩu video thất bại: URL tệp tạm thời phải là tệp cục bộ hiện có"
+
+#: src/ExportManager.cpp:743
+#, kde-format
+msgctxt "@info:shell"
+msgid ""
+"Failed to export video: Output file URL must be a valid URL with a file name"
+msgstr "Xuất khẩu video thất bại: URL tệp đầu ra phải là URL hợp lệ có tên tệp"
+
+#: src/ExportManager.cpp:818
+#, kde-format
+msgctxt "@info"
+msgid "Unable to save recording. Could not move file to location: %1"
+msgstr "Không thể lưu bản ghi. Không di chuyển được tệp đến vị trí: %1"
+
+#: src/ExportManager.cpp:846
+#, kde-format
+msgid "Printing failed. The printer failed to initialize."
+msgstr "In thất bại. Máy in không khởi tạo được."
+
+#: src/Gui/AnnotationOptionsToolBarContents.qml:56
+#, kde-format
+msgid "Stroke:"
+msgstr "Nét:"
+
+#. i18n uses so it doesn't matter that much
+#. unless someone decides to set the locale for a specific
+#. part of spectacle in the future.
+#: src/Gui/AnnotationOptionsToolBarContents.qml:91
+#, kde-format
+msgctxt "px: pixels"
+msgid "%1px"
+msgid_plural "%1px"
+msgstr[0] "%1px"
+
+#: src/Gui/AnnotationOptionsToolBarContents.qml:96
+#, kde-format
+msgid "Stroke Width"
+msgstr "Độ rộng nét"
+
+#: src/Gui/AnnotationOptionsToolBarContents.qml:126
+#, kde-format
+msgid "Stroke Color"
+msgstr "Màu viền"
+
+#: src/Gui/AnnotationOptionsToolBarContents.qml:164
+#, kde-format
+msgid "Fill:"
+msgstr "Tô:"
+
+#: src/Gui/AnnotationOptionsToolBarContents.qml:176
+#, kde-format
+msgid "Fill Color"
+msgstr "Màu nền"
+
+#: src/Gui/AnnotationOptionsToolBarContents.qml:217
+#, kde-format
+msgctxt "@label:slider strength of effect"
+msgid "Strength:"
+msgstr "Cường độ:"
+
+#: src/Gui/AnnotationOptionsToolBarContents.qml:238
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "The strength of the effect."
+msgstr "Cường độ của hiệu ứng."
+
+#: src/Gui/AnnotationOptionsToolBarContents.qml:265
+#, kde-format
+msgid "Font:"
+msgstr "Phông chữ:"
+
+#: src/Gui/AnnotationOptionsToolBarContents.qml:281
+#, kde-format
+msgctxt "%2 font family, %3 font style name, %1 font point size"
+msgid "%2 %3 %1pt"
+msgid_plural "%2 %3 %1pts"
+msgstr[0] "%2 %3 %1đ"
+
+#: src/Gui/AnnotationOptionsToolBarContents.qml:282
+#, kde-format
+msgctxt "%2 font family %1 font point size"
+msgid "%2 %1pt"
+msgid_plural "%2 %1pts"
+msgstr[0] "%2 %1đ"
+
+#: src/Gui/AnnotationOptionsToolBarContents.qml:294
+#, kde-format
+msgid "Font Color"
+msgstr "Màu phông chữ"
+
+#: src/Gui/AnnotationOptionsToolBarContents.qml:335
+#, kde-format
+msgid "Number:"
+msgstr "Số:"
+
+#: src/Gui/AnnotationOptionsToolBarContents.qml:356
+#, kde-format
+msgid "Number for number annotations"
+msgstr "Số cho chú thích số"
+
+#: src/Gui/AnnotationOptionsToolBarContents.qml:381
+#, kde-format
+msgid "Shadow"
+msgstr "Bóng"
+
+#: src/Gui/AnnotationsToolBarContents.qml:70
+#, kde-format
+msgid "None"
+msgstr "Không"
+
+#: src/Gui/AnnotationsToolBarContents.qml:82
+#, kde-format
+msgid "Crop"
+msgstr "Xén cạnh"
+
+#: src/Gui/AnnotationsToolBarContents.qml:92
+#, kde-format
+msgid "Select"
+msgstr "Bôi đen"
+
+#: src/Gui/AnnotationsToolBarContents.qml:100
+#, kde-format
+msgid "Freehand"
+msgstr "Vẽ tự do"
+
+#: src/Gui/AnnotationsToolBarContents.qml:107
+#, kde-format
+msgid "Highlighter"
+msgstr "Bút đánh dấu"
+
+#: src/Gui/AnnotationsToolBarContents.qml:114
+#, kde-format
+msgid "Line"
+msgstr "Đường"
+
+#: src/Gui/AnnotationsToolBarContents.qml:121
+#, kde-format
+msgid "Arrow"
+msgstr "Mũi tên"
+
+#: src/Gui/AnnotationsToolBarContents.qml:128
+#, kde-format
+msgid "Rectangle"
+msgstr "Hình chữ nhật"
+
+#: src/Gui/AnnotationsToolBarContents.qml:135
+#, kde-format
+msgid "Ellipse"
+msgstr "Hình elip"
+
+#: src/Gui/AnnotationsToolBarContents.qml:142
+#, kde-format
+msgid "Pixelate"
+msgstr "Làm mờ pixel"
+
+#: src/Gui/AnnotationsToolBarContents.qml:149
+#, kde-format
+msgid "Blur"
+msgstr "Làm mờ"
+
+#: src/Gui/AnnotationsToolBarContents.qml:156
+#, kde-format
+msgid "Text"
+msgstr "Văn bản"
+
+#: src/Gui/AnnotationsToolBarContents.qml:163
+#, kde-format
+msgid "Number"
+msgstr "Số"
+
+#: src/Gui/CaptureModeButtonsColumn.qml:31
+#: src/Gui/MainToolBarContents.qml:109
+#, kde-format
+msgid "Cancel (%1 second)"
+msgid_plural "Cancel (%1 seconds)"
+msgstr[0] "Huỷ (%1 giây)"
+
+#: src/Gui/CaptureOptions.qml:17
+#, kde-format
+msgid "Take a new screenshot"
+msgstr "Chụp ảnh màn hình mới"
+
+#: src/Gui/CaptureOptions.qml:39
+#, kde-format
+msgctxt "@title:group"
+msgid "Screenshot Settings"
+msgstr "Thiết lập chụp màn hình"
+
+#: src/Gui/CaptureSettingsColumn.qml:16 src/Gui/OptionsMenu.cpp:72
+#: src/Gui/RecordingSettingsColumn.qml:16
+#, kde-format
+msgid "Include mouse pointer"
+msgstr "Bao gồm con trỏ chuột"
+
+#: src/Gui/CaptureSettingsColumn.qml:17
+#, kde-format
+msgid "Show the mouse cursor in the screenshot image."
+msgstr "Hiển thị con trỏ chuột trong ảnh chụp màn hình."
+
+#: src/Gui/CaptureSettingsColumn.qml:25 src/Gui/OptionsMenu.cpp:84
+#, kde-format
+msgid "Include window titlebar and borders"
+msgstr "Bao gồm thanh tiêu đề và viền cửa sổ"
+
+#: src/Gui/CaptureSettingsColumn.qml:26
+#, kde-format
+msgid ""
+"Show the window title bar and border when taking a screenshot of a window."
+msgstr "Hiển thị thanh tiêu đề và viền cửa sổ khi chụp ảnh màn hình của cửa sổ."
+
+#: src/Gui/CaptureSettingsColumn.qml:34 src/Gui/OptionsMenu.cpp:96
+#, kde-format
+msgid "Include window shadow"
+msgstr "Bao gồm bóng cửa sổ"
+
+#: src/Gui/CaptureSettingsColumn.qml:35
+#, kde-format
+msgid "Show the window shadow when taking a screenshot of a window."
+msgstr "Hiển thị bóng cửa sổ khi chụp ảnh màn hình của cửa sổ."
+
+#: src/Gui/CaptureSettingsColumn.qml:44 src/Gui/OptionsMenu.cpp:108
+#, kde-format
+msgid "Capture the current pop-up only"
+msgstr "Chỉ thu thập ô bật lên hiện tại"
+
+#: src/Gui/CaptureSettingsColumn.qml:46
+#, kde-format
+msgid ""
+"Capture only the current pop-up window (like a menu, tooltip etc) when "
+"taking a screenshot of a window. If disabled, the pop-up is captured along "
+"with the parent window."
+msgstr ""
+"Thu thập chỉ ô bật lên hiện tại (như menu, chú giải v.v.) khi chụp ảnh màn "
+"hình cửa sổ. Nếu tắt, ô bật lên sẽ được thu thập cùng với cửa sổ chính."
+
+#: src/Gui/CaptureSettingsColumn.qml:54 src/Gui/OptionsMenu.cpp:122
+#, kde-format
+msgid "Quit after manual Save or Copy"
+msgstr "Thoát sau khi Lưu hoặc Sao chép sổ tay"
+
+#: src/Gui/CaptureSettingsColumn.qml:55
+#, kde-format
+msgid "Quit Spectacle after manually saving or copying the image."
+msgstr "Thoát Spectacle sau khi lưu hoặc sao chép ảnh thủ công."
+
+#: src/Gui/CaptureSettingsColumn.qml:64
+#, kde-format
+msgid "Capture on click"
+msgstr "Thu thập khi bấm"
+
+#: src/Gui/CaptureSettingsColumn.qml:66
+#, kde-format
+msgid "Wait for a mouse click before capturing the screenshot image."
+msgstr "Chờ bấm chuột trước khi chụp ảnh màn hình."
+
+#: src/Gui/CaptureSettingsColumn.qml:76 src/Gui/OptionsMenu.cpp:152
+#, kde-format
+msgid "Delay:"
+msgstr "Độ trễ:"
+
+#: src/Gui/CopiedMessage.qml:12
+#, kde-format
+msgid "The screenshot has been copied to the clipboard."
+msgstr "Ảnh chụp màn hình đã được sao chép vào bộ nhớ tạm."
+
+#: src/Gui/DelaySpinBox.qml:15
+#, kde-format
+msgctxt "0 second delay"
+msgid "No Delay"
+msgstr "Không trễ"
+
+#: src/Gui/DelaySpinBox.qml:24
+#, kde-format
+msgctxt "Integer number of seconds"
+msgid "%2 second"
+msgid_plural "%2 seconds"
+msgstr[0] "%2 giây"
+
+#: src/Gui/DelaySpinBox.qml:26
+#, kde-format
+msgctxt "Decimal number of seconds"
+msgid "%1 seconds"
+msgstr "%1 giây"
+
+#: src/Gui/DialogPage.qml:60
+#, kde-format
+msgid "Configure Spectacle…"
+msgstr "Cấu hình Spectacle…"
+
+#: src/Gui/DialogPage.qml:68 src/Gui/MainToolBarContents.qml:148
+#, kde-format
+msgid "Help"
+msgstr "Trợ giúp"
+
+#: src/Gui/DialogPage.qml:87
+#, kde-format
+msgctxt "@title:group"
+msgid "Take a Screenshot:"
+msgstr "Chụp màn hình:"
+
+#: src/Gui/DialogPage.qml:102 src/Gui/DialogPage.qml:143
+#, kde-format
+msgctxt "@title:group"
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: src/Gui/DialogPage.qml:128
+#, kde-format
+msgctxt "@title:group"
+msgid "Make a Recording:"
+msgstr "Tạo bản ghi:"
+
+#: src/Gui/DialogPage.qml:165
+#, kde-format
+msgctxt "@title:tab"
+msgid "Screenshot"
+msgstr "Ảnh chụp màn hình"
+
+#: src/Gui/DialogPage.qml:170
+#, kde-format
+msgctxt "@title:tab"
+msgid "Recording"
+msgstr "Ghi âm"
+
+#: src/Gui/ExportMenu.cpp:51
+#, kde-format
+msgid "Open Default Screenshots Folder"
+msgstr "Mở Thư Mục Ảnh Chụp Màn Hình Mặc Định"
+
+#: src/Gui/ExportMenu.cpp:119
+#, kde-format
+msgid "Other Application..."
+msgstr "Ứng dụng khác..."
+
+#: src/Gui/ExportMenu.cpp:151
+#, kde-format
+msgid "Share"
+msgstr "Chia sẻ"
+
+#: src/Gui/ImageView.qml:164
+#, kde-format
+msgid "Screenshot"
+msgstr "Ảnh chụp màn hình"
+
+#: src/Gui/ImageView.qml:169
+#, kde-format
+msgid "Recording"
+msgstr "Đang ghi"
+
+#: src/Gui/ImageView.qml:236
+#, kde-format
+msgid "Zoom:"
+msgstr "Thu phóng:"
+
+#: src/Gui/ImageView.qml:250
+#, kde-format
+msgid "Image Zoom"
+msgstr "Thu phóng ảnh"
+
+#: src/Gui/LocationCopiedMessage.qml:13
+#, kde-format
+msgctxt "@info"
+msgid "The video location has been copied to the clipboard."
+msgstr "Địa điểm phim đã được sao chép vào bộ nhớ tạm."
+
+#: src/Gui/LocationCopiedMessage.qml:14
+#, kde-format
+msgctxt "@info"
+msgid "The screenshot location has been copied to the clipboard."
+msgstr "Địa điểm ảnh chụp màn hình đã được sao chép vào bộ nhớ tạm."
+
+#: src/Gui/MainToolBarContents.qml:56
+#, kde-format
+msgid "Save"
+msgstr "Lưu"
+
+#: src/Gui/MainToolBarContents.qml:62
+#, kde-format
+msgid "Save As..."
+msgstr "Lưu Như..."
+
+#: src/Gui/MainToolBarContents.qml:71
+#, kde-format
+msgid "Copy"
+msgstr "Sao chép"
+
+#: src/Gui/MainToolBarContents.qml:79
+#, kde-format
+msgid "Copy Location"
+msgstr "Sao chép địa điểm"
+
+#: src/Gui/MainToolBarContents.qml:87
+#, kde-format
+msgid "Export"
+msgstr "Xuất khẩu"
+
+#: src/Gui/MainToolBarContents.qml:96
+#, kde-format
+msgctxt "@action:button edit screenshot"
+msgid "Edit…"
+msgstr "Sửa…"
+
+#: src/Gui/MainToolBarContents.qml:122
+#, kde-format
+msgid "New Screenshot"
+msgstr "Ảnh chụp mới"
+
+#: src/Gui/MainToolBarContents.qml:133
+#, kde-format
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: src/Gui/MainToolBarContents.qml:141
+#, kde-format
+msgid "Configure..."
+msgstr "Cấu hình..."
+
+#: src/Gui/OptionsMenu.cpp:42
+#, kde-format
+msgid "Capture Mode"
+msgstr "Chế độ thu thập"
+
+#: src/Gui/OptionsMenu.cpp:68
+#, kde-format
+msgid "Capture Settings"
+msgstr "Thiết lập thu thập"
+
+#: src/Gui/OptionsMenu.cpp:73
+#, kde-format
+msgid "Show the mouse cursor in the screenshot image"
+msgstr "Hiển thị con trỏ chuột trong ảnh chụp màn hình"
+
+#: src/Gui/OptionsMenu.cpp:85
+#, kde-format
+msgid ""
+"Show the window title bar, the minimize/maximize/close buttons, and the "
+"window border"
+msgstr "Hiển thị thanh tiêu đề cửa sổ, các nút thu nhỏ/phóng to/đóng và viền cửa sổ"
+
+#: src/Gui/OptionsMenu.cpp:97
+#, kde-format
+msgid "Show the window shadow"
+msgstr "Hiển thị bóng cửa sổ"
+
+#: src/Gui/OptionsMenu.cpp:110
+#, kde-format
+msgid ""
+"Capture only the current pop-up window (like a menu, tooltip etc).\n"
+"If disabled, the pop-up is captured along with the parent window"
+msgstr ""
+"Thu thập chỉ ô bật lên hiện tại (như menu, chú giải v.v.).\nNếu tắt, ô bật "
+"lên sẽ được thu thập cùng với cửa sổ cha"
+
+#: src/Gui/OptionsMenu.cpp:123
+#, kde-format
+msgid "Quit Spectacle after manually saving or copying the image"
+msgstr "Thoát Spectacle sau khi lưu hoặc sao chép ảnh thủ công"
+
+#: src/Gui/OptionsMenu.cpp:137
+#, kde-format
+msgid "Capture On Click"
+msgstr "Thu thập khi bấm"
+
+#: src/Gui/OptionsMenu.cpp:157
+#, kde-format
+msgid "No Delay"
+msgstr "Không trễ"
+
+#: src/Gui/QRCodeScannedMessage.qml:22
+#, kde-format
+msgid "QR Code found: %1"
+msgstr "Đã tìm thấy mã QR: %1"
+
+#: src/Gui/QRCodeScannedMessage.qml:22
+#, kde-format
+msgid "Found QR code with binary content."
+msgstr "Đã tìm thấy mã QR với nội dung nhị phân."
+
+#: src/Gui/RecordingSettingsColumn.qml:17
+#, kde-format
+msgid "Show the mouse cursor in the screen recording."
+msgstr "Hiển thị con trỏ chuột trong bản ghi màn hình."
+
+#: src/Gui/RecordingView.qml:52
+#, kde-format
+msgid ""
+"Recording:\n"
+"%1"
+msgstr "Đang ghi:\n%1"
+
+#: src/Gui/RecordingView.qml:83
+#, kde-format
+msgid "Pause"
+msgstr "Tạm dừng"
+
+#: src/Gui/RecordingView.qml:83
+#, kde-format
+msgid "Play"
+msgstr "Phát"
+
+#: src/Gui/RecordOptions.qml:23
+#, kde-format
+msgid "Recording Settings"
+msgstr "Thiết lập ghi âm"
+
+#: src/Gui/RecordOptions.qml:37
+#, kde-format
+msgid "Finish recording"
+msgstr "Kết thúc ghi âm"
+
+#: src/Gui/SavedAndCopiedMessage.qml:8
+#, kde-format
+msgid ""
+"The screenshot was copied to the clipboard and saved as <a href=\"%1\">%2</a>"
+msgstr ""
+"Ảnh chụp màn hình đã được sao chép vào bảng nháp và lưu thành <a "
+"href=\"%1\">%2</a>"
+
+#: src/Gui/SavedAndLocationCopied.qml:9
+#, kde-format
+msgid ""
+"The video has been saved as <a href=\"%1\">%2</a> and its location has been "
+"copied to clipboard"
+msgstr ""
+"Phim đã được lưu thành <a href=\"%1\">%2</a> và địa điểm của nó đã được "
+"sao chép vào bảng nháp"
+
+#: src/Gui/SavedAndLocationCopied.qml:12
+#, kde-format
+msgid ""
+"The screenshot has been saved as <a href=\"%1\">%2</a> and its location has "
+"been copied to clipboard"
+msgstr ""
+"Ảnh chụp màn hình đã được lưu thành <a href=\"%1\">%2</a> và địa điểm của "
+"nó đã được sao chép vào bảng nháp"
+
+#: src/Gui/SavedMessage.qml:12
+#, kde-format
+msgid "The video was saved as <a href=\"%1\">%2</a>"
+msgstr "Phim đã được lưu thành <a href=\"%1\">%2</a>"
+
+#: src/Gui/SavedMessage.qml:14
+#, kde-format
+msgid "The screenshot was saved as <a href=\"%1\">%2</a>"
+msgstr "Ảnh chụp màn hình đã được lưu thành <a href=\"%1\">%2</a>"
+
+#: src/Gui/SavedMessage.qml:20
+#, kde-format
+msgid "Open Containing Folder"
+msgstr "Mở Thư Mục Chứa"
+
+#: src/Gui/ScreenshotView.qml:185
+#, kde-format
+msgctxt "@info crop tool explanation"
+msgid ""
+"Click and drag to make a selection.\n"
+"Double click the selection to accept and crop.\n"
+"Right click to clear the selection."
+msgstr ""
+"Bấm và kéo để tạo phần bôi đen.\nBấm đúp vào phần bôi đen để chấp nhận và "
+"cắt.\nBấm phải để làm trống phần bôi đen."
+
+#. i18n: ectx: property (text), widget (QLabel, launchActionSpectacleLabel)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:17
+#, kde-format
+msgid "When launching Spectacle:"
+msgstr "Khi khởi chạy Spectacle:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_launchAction)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:25
+#, kde-format
+msgid "Take full screen screenshot"
+msgstr "Chụp ảnh màn hình toàn bộ"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_launchAction)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:30
+#, kde-format
+msgid "Use last-used capture mode"
+msgstr "Sử dụng chế độ thu thập cuối cùng"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_launchAction)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:35
+#, kde-format
+msgid "Do not take a screenshot automatically"
+msgstr "Không chụp ảnh màn hình tự động"
+
+#. i18n: ectx: property (text), widget (QLabel, afterScreenshotLabel)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:59
+#, kde-format
+msgid "After taking a screenshot:"
+msgstr "Sau khi chụp màn hình:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_autoSaveImage)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:66
+#, kde-format
+msgid "Save file to default folder"
+msgstr "Lưu tệp vào thư mục mặc định"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_clipboardGroup)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:77
+#, kde-format
+msgid "Do not copy anything"
+msgstr "Không sao chép gì cả"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_clipboardGroup)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:82
+#, kde-format
+msgid "Copy image to clipboard"
+msgstr "Sao chép ảnh vào bảng nháp"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_clipboardGroup)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:87
+#, kde-format
+msgid "Copy file location to clipboard"
+msgstr "Sao chép địa điểm tệp vào bảng nháp"
+
+#. i18n: ectx: property (text), widget (KTitleWidget, runningTitle)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:111
+#, kde-format
+msgid "While Spectacle is running"
+msgstr "Khi Spectacle đang chạy"
+
+#. i18n: ectx: property (text), widget (QLabel, printKeyActionLabel)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:118
+#, kde-format
+msgid "Press screenshot key to:"
+msgstr "Nhấn phím chụp màn hình để:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_printKeyRunningAction)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:126
+#, kde-format
+msgid "Take a new Screenshot"
+msgstr "Chụp ảnh màn hình mới"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_printKeyRunningAction)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:131
+#, kde-format
+msgid "Open a new Spectacle window"
+msgstr "Mở cửa sổ Spectacle mới"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_printKeyRunningAction)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:136
+#, kde-format
+msgid "Return focus to Spectacle"
+msgstr "Trả nhắm về Spectacle"
+
+#. i18n: ectx: property (text), widget (KTitleWidget, regionTitle)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:160
+#, kde-format
+msgid "Rectangular Region Selection"
+msgstr "Chọn Vùng Hình Chữ Nhật"
+
+#. i18n: ectx: property (text), widget (QLabel, generalLabel)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:167
+#, kde-format
+msgid "General:"
+msgstr "Chung:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_useLightMaskColor)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:174
+#, kde-format
+msgid "Use light background"
+msgstr "Dùng nền sáng"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_useReleaseToCapture)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:181
+#, kde-format
+msgid "Accept on click-and-release"
+msgstr "Chấp nhận khi nhấp và thả"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_showCaptureInstructions)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:188
+#, kde-format
+msgid "Show capture instructions"
+msgstr "Hiển thị hướng dẫn thu thập"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:195
+#, kde-format
+msgid "Show magnifier:"
+msgstr "Hiện kính lúp:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_showMagnifier)
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_rememberSelectionRect)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:203
+#: src/Gui/SettingsDialog/GeneralOptions.ui:229
+#, kde-format
+msgid "Never"
+msgstr "Không bao giờ"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_showMagnifier)
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_rememberSelectionRect)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:208
+#: src/Gui/SettingsDialog/GeneralOptions.ui:234
+#, kde-format
+msgid "Always"
+msgstr "Luôn luôn"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_showMagnifier)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:213
+#, kde-format
+msgid "While holding Shift"
+msgstr "Khi giữ phím Shift"
+
+#. i18n: ectx: property (text), widget (QLabel, rememberLabel)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:221
+#, kde-format
+msgid "Remember selected area:"
+msgstr "Ghi nhớ vùng đã chọn:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_rememberSelectionRect)
+#: src/Gui/SettingsDialog/GeneralOptions.ui:239
+#, kde-format
+msgid "Until Spectacle is closed"
+msgstr "Cho đến khi Spectacle đóng"
+
+#. i18n: ectx: property (text), widget (QLabel, saveLocationLabel)
+#: src/Gui/SettingsDialog/ImageSaveOptions.ui:9
+#, kde-format
+msgid "Save Location:"
+msgstr "Vị trí lưu:"
+
+#. i18n: ectx: property (text), widget (QLabel, qualityLabel)
+#: src/Gui/SettingsDialog/ImageSaveOptions.ui:26
+#, kde-format
+msgid "Compression Quality:"
+msgstr "Chất lượng nén:"
+
+#. i18n: ectx: property (text), widget (QLabel, imageCompressionQualityHelpLable)
+#: src/Gui/SettingsDialog/ImageSaveOptions.ui:53
+#, kde-format
+msgid "For lossy image formats like JPEG"
+msgstr "Cho các định dạng ảnh mất dữ liệu như JPEG"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, qualitySpinner)
+#: src/Gui/SettingsDialog/ImageSaveOptions.ui:62
+#, no-c-format, kde-format
+msgid "%"
+msgstr "%"
+
+#. i18n: ectx: property (text), widget (QLabel, filenameLabel)
+#: src/Gui/SettingsDialog/ImageSaveOptions.ui:74
+#: src/Gui/SettingsDialog/VideoSaveOptions.ui:26
+#, kde-format
+msgid "Filename:"
+msgstr "Tên tệp:"
+
+#. i18n: ectx: property (text), widget (QLabel, PreviewLabel)
+#. i18n: ectx: property (text), widget (QLabel, previewLabel)
+#: src/Gui/SettingsDialog/ImageSaveOptions.ui:103
+#: src/Gui/SettingsDialog/VideoSaveOptions.ui:47
+#, kde-format
+msgctxt "Preview of the user configured filename"
+msgid "Preview:"
+msgstr "Xem trước:"
+
+#: src/Gui/SettingsDialog/SaveOptionsUtils.h:40
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<filename>%1</filename>"
+msgstr "<filename>%1</filename>"
+
+#: src/Gui/SettingsDialog/SaveOptionsUtils.h:72
+#, kde-format
+msgid ""
+"You can use the following placeholders in the filename, which will be "
+"replaced with actual text when the file is saved:"
+msgstr ""
+"Bạn có thể sử dụng các phần giữ chỗ sau trong tên tệp, chúng sẽ được thay "
+"thế bằng nội dung thực khi tệp được lưu:"
+
+#: src/Gui/SettingsDialog/SaveOptionsUtils.h:87
+#, kde-format
+msgid "To save to a sub-folder"
+msgstr "Để lưu vào thư mục con"
+
+#: src/Gui/SettingsDialog/SaveOptionsUtils.h:90
+#, kde-format
+msgctxt "show fewer filename placeholder templates"
+msgid "Show Fewer"
+msgstr "Hiển thị ít hơn"
+
+#: src/Gui/SettingsDialog/SaveOptionsUtils.h:92
+#, kde-format
+msgctxt "show more filename placeholder templates"
+msgid "Show More"
+msgstr "Hiện thêm"
+
+#: src/Gui/SettingsDialog/SettingsDialog.cpp:34
+#, kde-format
+msgctxt "Settings category"
+msgid "General"
+msgstr "Chung"
+
+#: src/Gui/SettingsDialog/SettingsDialog.cpp:35
+#, kde-format
+msgctxt "Settings category"
+msgid "Image Saving"
+msgstr "Lưu ảnh"
+
+#: src/Gui/SettingsDialog/SettingsDialog.cpp:36
+#, kde-format
+msgctxt "Settings category"
+msgid "Video Saving"
+msgstr "Lưu Phim"
+
+#: src/Gui/SettingsDialog/SettingsDialog.cpp:37
+#, kde-format
+msgctxt "Settings category"
+msgid "Shortcuts"
+msgstr "Phím tắt"
+
+#: src/Gui/SettingsDialog/SettingsDialog.cpp:77
+#, kde-format
+msgid "Shortcuts"
+msgstr "Phím tắt"
+
+#. i18n: ectx: label, entry (launchAction), group (General)
+#: src/Gui/SettingsDialog/spectacle.kcfg:16
+#, kde-format
+msgid "What to do when Spectacle is launched"
+msgstr "Hành động khi Spectacle được khởi chạy"
+
+#. i18n: ectx: label, entry (printKeyRunningAction), group (General)
+#: src/Gui/SettingsDialog/spectacle.kcfg:25
+#, kde-format
+msgid ""
+"What should happen if print key is pressed when Spectacle is already running"
+msgstr "Điều gì xảy ra khi nhấn phím Print khi Spectacle đang chạy"
+
+#. i18n: ectx: label, entry (autoSaveImage), group (General)
+#: src/Gui/SettingsDialog/spectacle.kcfg:34
+#, kde-format
+msgid "Save screenshot automatically after it is taken"
+msgstr "Tự động lưu ảnh chụp màn hình sau khi chụp"
+
+#. i18n: ectx: label, entry (clipboardGroup), group (General)
+#. i18n: ectx: label, entry (showMagnifier), group (General)
+#: src/Gui/SettingsDialog/spectacle.kcfg:38
+#: src/Gui/SettingsDialog/spectacle.kcfg:51
+#, kde-format
+msgid "Clipboard action which should be executed after the screenshot is taken"
+msgstr "Hành động bảng nháp thực hiện sau khi chụp ảnh màn hình"
+
+#. i18n: ectx: label, entry (useLightMaskColor), group (General)
+#: src/Gui/SettingsDialog/spectacle.kcfg:47
+#, kde-format
+msgid "Whether to use a light color mask in the region selection dialog"
+msgstr "Có dùng mặt nạ màu sáng trong hộp thoại phần bôi đen vùng hay không"
+
+#. i18n: ectx: label, entry (useReleaseToCapture), group (General)
+#: src/Gui/SettingsDialog/spectacle.kcfg:60
+#, kde-format
+msgid ""
+"Whether the screenshot should be captured after selecting the region and "
+"releasing the mouse"
+msgstr "Có nên chụp ảnh màn hình sau khi chọn vùng và thả chuột hay không"
+
+#. i18n: ectx: label, entry (showCaptureInstructions), group (General)
+#: src/Gui/SettingsDialog/spectacle.kcfg:64
+#, kde-format
+msgid "Whether to show capture instructions in the region selection"
+msgstr "Hiển thị hướng dẫn thu thập trong phần bôi đen vùng"
+
+#. i18n: ectx: label, entry (rememberSelectionRect), group (General)
+#: src/Gui/SettingsDialog/spectacle.kcfg:68
+#, kde-format
+msgid "Remember the last rectangular region"
+msgstr "Ghi nhớ vùng hình chữ nhật cuối cùng"
+
+#. i18n: ectx: label, entry (selectionRect), group (GuiConfig)
+#: src/Gui/SettingsDialog/spectacle.kcfg:79
+#, kde-format
+msgid "The last used region the user selected"
+msgstr "Vùng được chọn cuối cùng bởi người dùng"
+
+#. i18n: ectx: label, entry (captureOnClick), group (GuiConfig)
+#: src/Gui/SettingsDialog/spectacle.kcfg:83
+#, kde-format
+msgid "Take screenshot on click"
+msgstr "Chụp ảnh màn hình khi bấm"
+
+#. i18n: ectx: label, entry (includePointer), group (GuiConfig)
+#: src/Gui/SettingsDialog/spectacle.kcfg:87
+#, kde-format
+msgid "Whether the mouse cursor is included in the screenshot"
+msgstr "Có bao gồm con trỏ chuột trong ảnh chụp màn hình hay không"
+
+#. i18n: ectx: label, entry (videoIncludePointer), group (GuiConfig)
+#: src/Gui/SettingsDialog/spectacle.kcfg:91
+#, kde-format
+msgid "Whether the mouse cursor is included in the video"
+msgstr "Có bao gồm con trỏ chuột trong phim hay không"
+
+#. i18n: ectx: label, entry (includeDecorations), group (GuiConfig)
+#: src/Gui/SettingsDialog/spectacle.kcfg:95
+#, kde-format
+msgid "Whether the window decorations are included in the screenshot"
+msgstr "Có bao gồm khung cửa sổ trong ảnh chụp màn hình hay không"
+
+#. i18n: ectx: label, entry (includeShadow), group (GuiConfig)
+#: src/Gui/SettingsDialog/spectacle.kcfg:99
+#, kde-format
+msgid "Whether the window shadow is included in the screenshot"
+msgstr "Có bao gồm bóng cửa sổ trong ảnh chụp màn hình hay không"
+
+#. i18n: ectx: label, entry (transientOnly), group (GuiConfig)
+#: src/Gui/SettingsDialog/spectacle.kcfg:103
+#, kde-format
+msgid "Only capture the current pop up menu"
+msgstr "Chỉ thu thập trình đơn bật lên hiện tại"
+
+#. i18n: ectx: label, entry (quitAfterSaveCopyExport), group (GuiConfig)
+#: src/Gui/SettingsDialog/spectacle.kcfg:107
+#, kde-format
+msgid "Quit after saving or copying an image"
+msgstr "Thoát sau khi lưu hoặc sao chép ảnh"
+
+#. i18n: ectx: label, entry (captureDelay), group (GuiConfig)
+#: src/Gui/SettingsDialog/spectacle.kcfg:111
+#, kde-format
+msgid "Delay"
+msgstr "Độ trễ"
+
+#. i18n: ectx: label, entry (imageSaveLocation), group (ImageSave)
+#. i18n: ectx: label, entry (videoSaveLocation), group (VideoSave)
+#: src/Gui/SettingsDialog/spectacle.kcfg:122
+#: src/Gui/SettingsDialog/spectacle.kcfg:168
+#, kde-format
+msgid "Default filename"
+msgstr "Tên tệp mặc định"
+
+#. i18n: ectx: label, entry (imageCompressionQuality), group (ImageSave)
+#: src/Gui/SettingsDialog/spectacle.kcfg:139
+#, kde-format
+msgid "Compression quality for lossy file formats"
+msgstr "Chất lượng nén cho các định dạng tệp có mất dữ liệu"
+
+#: src/Gui/SettingsDialog/spectacle.kcfg:144
+#, kde-format
+msgctxt "translatable folder name"
+msgid "Screenshots"
+msgstr "Ảnh chụp màn hình"
+
+#. i18n: ectx: label, entry (preferredImageFormat), group (ImageSave)
+#: src/Gui/SettingsDialog/spectacle.kcfg:147
+#, kde-format
+msgid "Default save image format"
+msgstr "Định dạng lưu ảnh mặc định"
+
+#. i18n: ectx: label, entry (imageFilenameTemplate), group (ImageSave)
+#: src/Gui/SettingsDialog/spectacle.kcfg:151
+#, kde-format
+msgid "The filename template used when saving screenshots"
+msgstr "Bản mẫu tên tệp dùng khi lưu ảnh chụp màn hình"
+
+#: src/Gui/SettingsDialog/spectacle.kcfg:156
+#, kde-format
+msgctxt "part of default image filename template"
+msgid "Screenshot"
+msgstr "Ảnh chụp màn hình"
+
+#. i18n: ectx: label, entry (lastImageSaveLocation), group (ImageSave)
+#. i18n: ectx: label, entry (lastVideoSaveLocation), group (VideoSave)
+#: src/Gui/SettingsDialog/spectacle.kcfg:158
+#: src/Gui/SettingsDialog/spectacle.kcfg:197
+#, kde-format
+msgid "The path of the file saved last"
+msgstr "Đường dẫn của tệp được lưu gần đây nhất"
+
+#. i18n: ectx: label, entry (lastImageSaveAsLocation), group (ImageSave)
+#. i18n: ectx: label, entry (lastVideoSaveAsLocation), group (VideoSave)
+#: src/Gui/SettingsDialog/spectacle.kcfg:162
+#: src/Gui/SettingsDialog/spectacle.kcfg:201
+#, kde-format
+msgid "Last path used for \"save as\" action"
+msgstr "Đường dẫn cuối cùng dùng cho hành động \"lưu như\""
+
+#. i18n: ectx: label, entry (preferredVideoFormat), group (VideoSave)
+#: src/Gui/SettingsDialog/spectacle.kcfg:185
+#, kde-format
+msgid "Default video format"
+msgstr "Định dạng phim mặc định"
+
+#. i18n: ectx: label, entry (videoFilenameTemplate), group (VideoSave)
+#: src/Gui/SettingsDialog/spectacle.kcfg:190
+#, kde-format
+msgid "The filename template used when saving screencasts"
+msgstr "Bản mẫu tên tệp dùng khi lưu bản ghi màn hình"
+
+#: src/Gui/SettingsDialog/spectacle.kcfg:190
+#, kde-format
+msgctxt "translatable folder name"
+msgid "Screencasts"
+msgstr "Quay màn hình"
+
+#: src/Gui/SettingsDialog/spectacle.kcfg:195
+#, kde-format
+msgctxt "part of default video filename template"
+msgid "Screencast"
+msgstr "Quay màn hình"
+
+#. i18n: ectx: label, entry (annotationToolType), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:207
+#, kde-format
+msgid "The last used annotation tool type"
+msgstr "Kiểu công cụ chú dẫn được dùng lần cuối"
+
+#. i18n: ectx: label, entry (freehandStrokeWidth), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:213
+#, kde-format
+msgid "Stroke width for freehand annotation tool"
+msgstr "Độ rộng nét cho công cụ chú dẫn vẽ tay"
+
+#. i18n: ectx: label, entry (highlighterStrokeWidth), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:218
+#, kde-format
+msgid "Stroke width for highlighter annotation tool"
+msgstr "Độ rộng nét cho công cụ chú dẫn dạng bút đánh dấu"
+
+#. i18n: ectx: label, entry (lineStrokeWidth), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:223
+#, kde-format
+msgid "Stroke width for line annotation tool"
+msgstr "Độ rộng nét cho công cụ chú dẫn đường thẳng"
+
+#. i18n: ectx: label, entry (arrowStrokeWidth), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:228
+#, kde-format
+msgid "Stroke width for arrow annotation tool"
+msgstr "Độ rộng nét cho công cụ chú dẫn mũi tên"
+
+#. i18n: ectx: label, entry (rectangleStrokeWidth), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:233
+#, kde-format
+msgid "Stroke width for rectangle annotation tool"
+msgstr "Độ rộng nét cho công cụ chú dẫn hình chữ nhật"
+
+#. i18n: ectx: label, entry (ellipseStrokeWidth), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:238
+#, kde-format
+msgid "Stroke width for ellipse annotation tool"
+msgstr "Độ rộng nét cho công cụ chú dẫn hình elip"
+
+#. i18n: ectx: label, entry (freehandStrokeColor), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:244
+#, kde-format
+msgid "Stroke color for freehand annotation tool"
+msgstr "Màu nét cho công cụ chú dẫn tự do"
+
+#. i18n: ectx: label, entry (highlighterStrokeColor), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:248
+#, kde-format
+msgid "Stroke color for highlighter annotation tool"
+msgstr "Màu viền cho công cụ chú dẫn dạng bút đánh dấu"
+
+#. i18n: ectx: label, entry (lineStrokeColor), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:252
+#, kde-format
+msgid "Stroke color for line annotation tool"
+msgstr "Màu viền cho công cụ chú dẫn đường thẳng"
+
+#. i18n: ectx: label, entry (arrowStrokeColor), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:256
+#, kde-format
+msgid "Stroke color for arrow annotation tool"
+msgstr "Màu viền cho công cụ chú dẫn mũi tên"
+
+#. i18n: ectx: label, entry (rectangleStrokeColor), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:260
+#, kde-format
+msgid "Stroke color for rectangle annotation tool"
+msgstr "Màu viền cho công cụ chú dẫn hình chữ nhật"
+
+#. i18n: ectx: label, entry (ellipseStrokeColor), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:264
+#, kde-format
+msgid "Stroke color for ellipse annotation tool"
+msgstr "Màu viền cho công cụ chú dẫn hình elip"
+
+#. i18n: ectx: label, entry (rectangleFillColor), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:269
+#, kde-format
+msgid "Fill color for rectangle annotation tool"
+msgstr "Màu tô cho công cụ chú dẫn hình chữ nhật"
+
+#. i18n: ectx: label, entry (ellipseFillColor), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:273
+#, kde-format
+msgid "Fill color for ellipse annotation tool"
+msgstr "Màu tô cho công cụ chú dẫn hình elip"
+
+#. i18n: ectx: label, entry (numberFillColor), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:277
+#, kde-format
+msgid "Fill color for number annotation tool"
+msgstr "Màu tô cho công cụ chú dẫn số"
+
+#. i18n: ectx: label, entry (blurStrength), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:282
+#, kde-format
+msgid "The strength of the blur effect."
+msgstr "Độ mạnh của hiệu ứng mờ."
+
+#. i18n: ectx: label, entry (pixelateStrength), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:288
+#, kde-format
+msgid "The strength of the pixelate effect."
+msgstr "Độ mạnh của hiệu ứng pixelate."
+
+#. i18n: ectx: label, entry (textFont), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:295
+#, kde-format
+msgid "Font for text annotations"
+msgstr "Phông chữ cho chú thích văn bản"
+
+#. i18n: ectx: label, entry (numberFont), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:298
+#, kde-format
+msgid "Font for number annotations"
+msgstr "Phông chữ cho chú thích số"
+
+#. i18n: ectx: label, entry (textFontColor), group (Annotations)
+#. i18n: ectx: label, entry (numberFontColor), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:302
+#: src/Gui/SettingsDialog/spectacle.kcfg:306
+#, kde-format
+msgid "Font color for annotations"
+msgstr "Màu phông chữ cho chú thích"
+
+#. i18n: ectx: label, entry (freehandShadow), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:311
+#, kde-format
+msgid "Whether freehand annotation tool has a drop shadow"
+msgstr "Công cụ chú dẫn tự do có bóng đổ hay không"
+
+#. i18n: ectx: label, entry (lineShadow), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:315
+#, kde-format
+msgid "Whether line annotation tool has a drop shadow"
+msgstr "Công cụ chú dẫn đường có bóng đổ hay không"
+
+#. i18n: ectx: label, entry (arrowShadow), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:319
+#, kde-format
+msgid "Whether arrow annotation tool has a drop shadow"
+msgstr "Công cụ chú dẫn mũi tên có bóng đổ hay không"
+
+#. i18n: ectx: label, entry (rectangleShadow), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:323
+#, kde-format
+msgid "Whether rectangle annotation tool has a drop shadow"
+msgstr "Công cụ chú dẫn hình chữ nhật có bóng đổ hay không"
+
+#. i18n: ectx: label, entry (ellipseShadow), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:327
+#, kde-format
+msgid "Whether ellipse annotation tool has a drop shadow"
+msgstr "Công cụ chú dẫn hình elip có bóng đổ hay không"
+
+#. i18n: ectx: label, entry (textShadow), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:331
+#, kde-format
+msgid "Whether text annotation tool has a drop shadow"
+msgstr "Công cụ chú dẫn văn bản có bóng đổ hay không"
+
+#. i18n: ectx: label, entry (numberShadow), group (Annotations)
+#: src/Gui/SettingsDialog/spectacle.kcfg:335
+#, kde-format
+msgid "Whether number annotation tool has a drop shadow"
+msgstr "Công cụ chú dẫn số có bóng đổ hay không"
+
+#. i18n: ectx: property (text), widget (QLabel, saveLocationLabel)
+#: src/Gui/SettingsDialog/VideoSaveOptions.ui:9
+#, kde-format
+msgid "Save &Location:"
+msgstr "&Vị trí lưu:"
+
+#: src/Gui/SharedMessage.qml:13
+#, kde-format
+msgctxt "@info"
+msgid "Video shared"
+msgstr "Đã chia sẻ phim"
+
+#: src/Gui/SharedMessage.qml:13
+#, kde-format
+msgctxt "@info"
+msgid "Image shared"
+msgstr "Đã chia sẻ ảnh"
+
+#: src/Gui/SharedMessage.qml:16
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The shared video link (<a href=\"%1\">%1</a>) has been copied to the "
+"clipboard."
+msgstr ""
+"Đường dẫn phim đã chia sẻ (<a href=\"%1\">%1</a>) đã được sao chép vào bộ "
+"nhớ tạm."
+
+#: src/Gui/SharedMessage.qml:18
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The shared image link (<a href=\"%1\">%1</a>) has been copied to the "
+"clipboard."
+msgstr ""
+"Đường dẫn ảnh đã chia sẻ (<a href=\"%1\">%1</a>) đã được sao chép vào bộ "
+"nhớ tạm."
+
+#: src/Gui/ShareErrorMessage.qml:13
+#, kde-format
+msgctxt "@info"
+msgid "There was a problem sharing the video: %1"
+msgstr "Đã xảy ra sự cố khi chia sẻ video: %1"
+
+#: src/Gui/ShareErrorMessage.qml:14
+#, kde-format
+msgctxt "@info"
+msgid "There was a problem sharing the image: %1"
+msgstr "Đã xảy ra sự cố khi chia sẻ hình ảnh: %1"
+
+#: src/Gui/ShortcutsTextBox.qml:13
+#, kde-format
+msgid "Take Screenshot:"
+msgstr "Chụp màn hình:"
+
+#: src/Gui/ShortcutsTextBox.qml:15
+#, kde-format
+msgid "Create new selection rectangle:"
+msgstr "Tạo hình chữ nhật phần bôi đen mới:"
+
+#: src/Gui/ShortcutsTextBox.qml:20
+#, kde-format
+msgid "Move selection rectangle:"
+msgstr "Di chuyển hình chữ nhật phần bôi đen:"
+
+#: src/Gui/ShortcutsTextBox.qml:23
+#, kde-format
+msgid "Resize selection rectangle:"
+msgstr "Thay đổi kích thước hình chữ nhật phần bôi đen:"
+
+#: src/Gui/ShortcutsTextBox.qml:26
+#, kde-format
+msgid "Reset selection:"
+msgstr "Đặt lại lựa chọn:"
+
+#: src/Gui/ShortcutsTextBox.qml:28
+#, kde-format
+msgid "Cancel:"
+msgstr "Hủy:"
+
+#: src/Gui/ShortcutsTextBox.qml:33
+#, kde-format
+msgctxt "Mouse action"
+msgid "Release left-click"
+msgstr "Thả chuột trái"
+
+#: src/Gui/ShortcutsTextBox.qml:33
+#, kde-format
+msgctxt "Mouse action"
+msgid "Double-click"
+msgstr "Nhấp đúp"
+
+#: src/Gui/ShortcutsTextBox.qml:34
+#, kde-format
+msgctxt "Keyboard action"
+msgid "Enter"
+msgstr "Enter"
+
+#: src/Gui/ShortcutsTextBox.qml:35
+#, kde-format
+msgctxt "Mouse action"
+msgid "Drag outside selection rectangle"
+msgstr "Kéo ra ngoài hình chữ nhật phần bôi đen"
+
+#: src/Gui/ShortcutsTextBox.qml:37
+#, kde-format
+msgctxt "Keyboard action"
+msgid "+ Shift: Magnifier"
+msgstr "+ Shift: Kính lúp"
+
+#: src/Gui/ShortcutsTextBox.qml:40
+#, kde-format
+msgctxt "Mouse action"
+msgid "Drag inside selection rectangle"
+msgstr "Kéo bên trong hình chữ nhật phần bôi đen"
+
+#: src/Gui/ShortcutsTextBox.qml:41
+#, kde-format
+msgctxt "Keyboard action"
+msgid "Arrow keys"
+msgstr "Phím mũi tên"
+
+#: src/Gui/ShortcutsTextBox.qml:42
+#, kde-format
+msgctxt "Keyboard action"
+msgid "+ Shift: Move in 1 pixel steps"
+msgstr "+ Shift: Di chuyển từng bước 1 điểm ảnh"
+
+#: src/Gui/ShortcutsTextBox.qml:43
+#, kde-format
+msgctxt "Mouse action"
+msgid "Drag handles"
+msgstr "Kéo tay cầm"
+
+#: src/Gui/ShortcutsTextBox.qml:44
+#, kde-format
+msgctxt "Keyboard action"
+msgid "Arrow keys + Alt"
+msgstr "Phím mũi tên + Alt"
+
+#: src/Gui/ShortcutsTextBox.qml:45
+#, kde-format
+msgctxt "Keyboard action"
+msgid "+ Shift: Resize in 1 pixel steps"
+msgstr "+ Shift: Thay đổi kích thước theo bước 1 điểm ảnh"
+
+#: src/Gui/ShortcutsTextBox.qml:46
+#, kde-format
+msgctxt "Mouse action"
+msgid "Right-click"
+msgstr "Nhấp chuột phải"
+
+#: src/Gui/ShortcutsTextBox.qml:48
+#, kde-format
+msgctxt "Keyboard action"
+msgid "Escape"
+msgstr "Chuyển dịch"
+
+#: src/Gui/SizeLabel.qml:13
+#, kde-format
+msgid "%1×%2"
+msgstr "%1×%2"
+
+#: src/Gui/SmartSpinBox.cpp:30
+#, kde-format
+msgctxt "Integer number of seconds"
+msgid " second"
+msgid_plural " seconds"
+msgstr[0] " giây"
+
+#: src/Gui/SmartSpinBox.cpp:32
+#, kde-format
+msgctxt "Decimal number of seconds"
+msgid " seconds"
+msgstr " giây"
+
+#: src/Gui/SpectacleWindow.cpp:174
+#, kde-format
+msgctxt "@title:window"
+msgid "%1 second"
+msgid_plural "%1 seconds"
+msgstr[0] "%1 giây"
+
+#: src/Gui/SpectacleWindow.cpp:177
+#, kde-format
+msgctxt "@title:window Unsaved Screenshot"
+msgid "Unsaved"
+msgstr "Chưa lưu"
+
+#: src/Gui/UndoRedoGroup.qml:31
+#, kde-format
+msgid "Undo"
+msgstr "Đảo ngược"
+
+#: src/Gui/UndoRedoGroup.qml:45
+#, kde-format
+msgid "Redo"
+msgstr "Làm lại"
+
+#: src/Main.cpp:41
+#, kde-format
+msgid "Spectacle"
+msgstr "Spectacle"
+
+#: src/Main.cpp:43
+#, kde-format
+msgid "KDE Screenshot Utility"
+msgstr "Tiện ích Chụp màn hình KDE"
+
+#: src/Main.cpp:45
+#, kde-format
+msgid "(C) 2015 Boudhayan Gupta"
+msgstr "(C) 2015 Boudhayan Gupta"
+
+#: src/Main.cpp:49
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#: src/Main.cpp:49
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Địa chỉ email của bạn"
+
+#: src/Main.cpp:65
+#, kde-format
+msgid ""
+"On Wayland, Spectacle requires KDE Plasma's KWin compositor, which does not "
+"seem to be available. Use Spectacle on KDE Plasma, or use a different "
+"screenshot tool."
+msgstr ""
+"Trên Wayland, Spectacle cần trình tổng hợp KWin của KDE Plasma, nhưng dường "
+"như không có sẵn. Hãy dùng Spectacle trên KDE Plasma, hoặc dùng công cụ "
+"chụp màn hình khác."
+
+#: src/Platforms/ImagePlatformKWin.cpp:138
+#, kde-format
+msgctxt "@info"
+msgid "Bad width for KWin screenshot: %1"
+msgstr "Chiều rộng không hợp lệ cho ảnh chụp màn hình KWin: %1"
+
+#: src/Platforms/ImagePlatformKWin.cpp:143
+#, kde-format
+msgctxt "@info"
+msgid "Bad height for KWin screenshot: %1"
+msgstr "Chiều cao không hợp lệ cho ảnh chụp màn hình KWin: %1"
+
+#: src/Platforms/ImagePlatformKWin.cpp:154
+#, kde-format
+msgctxt "@info"
+msgid "Bad format for KWin screenshot: %1"
+msgstr "Định dạng ảnh chụp màn hình KWin không hợp lệ: %1"
+
+#: src/Platforms/ImagePlatformKWin.cpp:172
+#, kde-format
+msgctxt "@info"
+msgid "Could not open file descriptor for reading KWin screenshot."
+msgstr "Không mở được bộ mô tả tệp để đọc ảnh chụp màn hình KWin."
+
+#: src/Platforms/ImagePlatformKWin.cpp:240
+#, kde-format
+msgctxt "@info"
+msgid "pipe2() failed for KWin screenshot: %1"
+msgstr "pipe2() thất bại cho ảnh chụp màn hình KWin: %1"
+
+#: src/Platforms/ImagePlatformKWin.cpp:292
+#, kde-format
+msgctxt "@info"
+msgid ""
+"KWin screenshot request failed:\n"
+"%1"
+msgstr "Yêu cầu chụp màn hình KWin thất bại:\n%1"
+
+#: src/Platforms/ImagePlatformKWin.cpp:294
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Potentially relevant information:\n"
+"%1"
+msgstr "Thông tin có thể liên quan:\n%1"
+
+#: src/Platforms/ImagePlatformKWin.cpp:302
+#, kde-format
+msgctxt "@info"
+msgid "Unsupported KWin screenshot type metadata: %1"
+msgstr "Kiểu metadata ảnh chụp màn hình KWin không được hỗ trợ: %1"
+
+#: src/Platforms/PlatformLoader.cpp:97
+#, kde-format
+msgctxt "@info"
+msgid "Screen recording is not available on X11."
+msgstr "Ghi màn hình không khả dụng trên X11."
+
+#: src/Platforms/VideoPlatformWayland.cpp:130
+#, kde-format
+msgctxt "@info"
+msgid "KWin Screencasting is not available."
+msgstr "KWin Screencasting không khả dụng."
+
+#: src/Platforms/VideoPlatformWayland.cpp:139
+#, kde-format
+msgctxt "@info:shell"
+msgid "Failed to record: File URL is not a local file"
+msgstr "Ghi hình thất bại: URL tệp không phải là tệp cục bộ"
+
+#: src/Platforms/VideoPlatformWayland.cpp:225
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The stream closed because the target screen changed in a way that disrupted "
+"the recording."
+msgstr "Luồng đã đóng do màn hình đích thay đổi theo cách gây gián đoạn việc ghi."
+
+#: src/Platforms/VideoPlatformWayland.cpp:227
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The stream closed because the target window changed in a way that disrupted "
+"the recording."
+msgstr "Luồng đã đóng vì cửa sổ đích thay đổi theo cách làm gián đoạn việc ghi."
+
+#: src/Platforms/VideoPlatformWayland.cpp:229
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The stream closed because a screen containing the target region changed in a "
+"way that disrupted the recording."
+msgstr ""
+"Luồng đã đóng vì màn hình chứa vùng mục tiêu thay đổi làm gián đoạn việc "
+"ghi."
+
+#: src/Platforms/VideoPlatformWayland.cpp:243
+#, kde-format
+msgctxt "@info:shell"
+msgid "Failed to record: Temporary file URL is not a local file (%1)"
+msgstr "Ghi hình thất bại: URL tệp tạm không phải là tệp cục bộ (%1)"
+
+#: src/Platforms/VideoPlatformWayland.cpp:254
+#, kde-format
+msgctxt "@info:shell"
+msgid "Failed to record: Output file URL is not a local file (%1)"
+msgstr "Ghi hình thất bại: URL tệp đầu ra không phải tệp cục bộ (%1)"
+
+#: src/Platforms/VideoPlatformWayland.cpp:288
+#, kde-format
+msgctxt "@info:shell"
+msgid "Failed to record: Unable to create folder (%1)"
+msgstr "Ghi hình thất bại: Không thể tạo thư mục (%1)"
+
+#: src/Platforms/VideoPlatformWayland.cpp:316
+#, kde-format
+msgctxt "@info:shell"
+msgid "Screen recording canceled"
+msgstr "Huỷ ghi màn hình"
+
+#: src/Platforms/VideoPlatformWayland.cpp:318
+#, kde-format
+msgctxt "@info:shell"
+msgid "Window recording canceled"
+msgstr "Huỷ ghi hình cửa sổ"
+
+#: src/Platforms/VideoPlatformWayland.cpp:324
+#, kde-format
+msgctxt "@info:shell"
+msgid "Failed to select screen: %1"
+msgstr "Không thể bôi đen màn hình: %1"
+
+#: src/Platforms/VideoPlatformWayland.cpp:326
+#, kde-format
+msgctxt "@info:shell"
+msgid "Failed to select window: %1"
+msgstr "Không thể bôi đen cửa sổ: %1"
+
+#: src/Platforms/VideoPlatformWayland.cpp:354
+#, kde-format
+msgctxt "@info:shell"
+msgid "Failed to select screen: No screen contained the mouse cursor position"
+msgstr "Không thể bôi đen màn hình: Không có màn hình nào chứa vị trí con trỏ chuột"
+
+#: src/Platforms/VideoPlatformWayland.cpp:361
+#, kde-format
+msgctxt "@info:shell"
+msgid "Failed to select window: No window found"
+msgstr "Không thể bôi đen cửa sổ: Không tìm thấy cửa sổ"
+
+#: src/RecordingModeModel.cpp:71
+#, kde-format
+msgctxt "@item recording mode"
+msgid "Rectangular Region"
+msgstr "Vùng Chữ Nhật"
+
+#: src/RecordingModeModel.cpp:74
+#, kde-format
+msgctxt "@item recording mode"
+msgid "Full Screen"
+msgstr "Toàn màn hình"
+
+#: src/RecordingModeModel.cpp:77
+#, kde-format
+msgctxt "@item recording mode"
+msgid "Window"
+msgstr "Cửa sổ"
+
+#: src/ShortcutActions.cpp:38
+#, kde-format
+msgid "Launch Spectacle"
+msgstr "Khởi chạy Spectacle"
+
+#: src/ShortcutActions.cpp:44
+#, kde-format
+msgid "Capture Entire Desktop"
+msgstr "Thu thập toàn bộ màn hình Desktop"
+
+#: src/ShortcutActions.cpp:50
+#, kde-format
+msgid "Capture Current Monitor"
+msgstr "Thu thập màn hình hiện tại"
+
+#: src/ShortcutActions.cpp:56
+#, kde-format
+msgid "Capture Active Window"
+msgstr "Thu thập cửa sổ đang hoạt động"
+
+#: src/ShortcutActions.cpp:62
+#, kde-format
+msgid "Capture Rectangular Region"
+msgstr "Thu thập vùng hình chữ nhật"
+
+#: src/ShortcutActions.cpp:68
+#, kde-format
+msgid "Capture Window Under Cursor"
+msgstr "Thu thập cửa sổ dưới con trỏ"
+
+#: src/ShortcutActions.cpp:74
+#, kde-format
+msgid "Record Screen"
+msgstr "Quay màn hình"
+
+#: src/ShortcutActions.cpp:80
+#, kde-format
+msgid "Record Window"
+msgstr "Ghi Cửa Sổ"
+
+#: src/ShortcutActions.cpp:86
+#, kde-format
+msgid "Record Rectangular Region"
+msgstr "Ghi Vùng Hình Chữ Nhật"
+
+#: src/ShortcutActions.cpp:92
+#, kde-format
+msgid "Launch Spectacle without capturing"
+msgstr "Khởi chạy Spectacle mà không chụp"
+
+#: src/SpectacleCore.cpp:238
+#, kde-format
+msgctxt "@info"
+msgid "An error occurred while taking a screenshot."
+msgstr "Đã xảy ra lỗi khi chụp ảnh màn hình."
+
+#: src/SpectacleCore.cpp:252
+#, kde-format
+msgctxt "@info:tooltip title for recording tray icon"
+msgid "Spectacle is Recording"
+msgstr "Spectacle đang Ghi"
+
+#: src/SpectacleCore.cpp:257
+#, kde-format
+msgctxt "recording notification title"
+msgid "Spectacle is Recording"
+msgstr "Spectacle đang Ghi"
+
+#: src/SpectacleCore.cpp:258
+#, kde-format
+msgctxt "recording notification message"
+msgid "Click the system tray icon to finish recording"
+msgstr "Bấm biểu tượng khay hệ thống để kết thúc ghi"
+
+#: src/SpectacleCore.cpp:301
+#, kde-format
+msgctxt "@info:tooltip subtitle for recording tray icon"
+msgid ""
+"Time recorded: %1\n"
+"Click to finish recording"
+msgstr "Thời gian đã ghi: %1\nNhấp để kết thúc ghi"
+
+#: src/SpectacleCore.cpp:318
+#, kde-format
+msgctxt "@info"
+msgid "An error occurred while attempting to record the screen."
+msgstr "Đã xảy ra lỗi khi cố gắng ghi màn hình."
+
+#: src/SpectacleCore.cpp:717
+#, kde-format
+msgctxt "@info:shell"
+msgid "%1 is not a valid mode for --record"
+msgstr "%1 không phải là chế độ hợp lệ cho --record"
+
+#: src/SpectacleCore.cpp:950
+#, kde-format
+msgid ""
+"A screenshot was saved as '%1' to '%2' and the file path of the screenshot "
+"has been saved to your clipboard."
+msgstr ""
+"Ảnh chụp màn hình đã được lưu là '%1' vào '%2' và đường dẫn tệp đã được sao "
+"chép vào bộ nhớ tạm."
+
+#: src/SpectacleCore.cpp:954
+#, kde-format
+msgctxt "Placeholder is filename"
+msgid "A screenshot was saved as '%1' to your Pictures folder."
+msgstr "Ảnh chụp màn hình đã được lưu dưới tên '%1' vào thư mục Ảnh của bạn."
+
+#: src/SpectacleCore.cpp:957
+#, kde-format
+msgid "A screenshot was saved as '%1' to '%2'."
+msgstr "Ảnh chụp màn hình đã được lưu thành '%1' vào '%2'."
+
+#: src/SpectacleCore.cpp:961
+#, kde-format
+msgid "A screenshot was saved to your clipboard."
+msgstr "Ảnh chụp màn hình đã được lưu vào bộ nhớ tạm."
+
+#: src/SpectacleCore.cpp:966
+#, kde-format
+msgid ""
+"A recording was saved as '%1' to '%2' and the file path of the recording has "
+"been saved to your clipboard."
+msgstr ""
+"Bản ghi đã được lưu là '%1' vào '%2' và đường dẫn tệp của bản ghi đã được "
+"sao chép vào clipboard của bạn."
+
+#: src/SpectacleCore.cpp:968
+#, kde-format
+msgctxt "Placeholder is filename"
+msgid "A recording was saved as '%1' to your Videos folder."
+msgstr "Một bản ghi đã được lưu dưới tên '%1' vào thư mục Phim của bạn."
+
+#: src/SpectacleCore.cpp:970
+#, kde-format
+msgid "A recording was saved as '%1' to '%2'."
+msgstr "Một bản ghi đã được lưu là '%1' vào '%2'."
+
+#: src/SpectacleCore.cpp:981
+#, kde-format
+msgctxt "Open the screenshot we just saved"
+msgid "Open"
+msgstr "Mở"
+
+#: src/SpectacleCore.cpp:995
+#, kde-format
+msgid "Annotate"
+msgstr "Chú dẫn"
+
+#: src/VideoFormatModel.cpp:26
+#, kde-format
+msgctxt "@item:inlistbox Container/encoder"
+msgid "WebM/VP9"
+msgstr "WebM/VP9"
+
+#: src/VideoFormatModel.cpp:33
+#, kde-format
+msgctxt "@item:inlistbox Container/encoder"
+msgid "MP4/H.264"
+msgstr "MP4/H.264"

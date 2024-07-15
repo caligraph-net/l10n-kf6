@@ -1,0 +1,511 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kscreen package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kscreen\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-08 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: output_model.cpp:96
+#, kde-format
+msgid "%1 Hz"
+msgstr "%1 Hz"
+
+#: output_model.cpp:647
+#, kde-format
+msgctxt "Width x height"
+msgid "%1x%2"
+msgstr "%1x%2"
+
+#: output_model.cpp:666
+#, kde-format
+msgctxt "Width x height (aspect ratio)"
+msgid "%1x%2 (%3:%4)"
+msgstr "%1x%2 (%3:%4)"
+
+#: output_model.cpp:747 ui/OutputPanel.qml:219
+#, kde-format
+msgid "None"
+msgstr "Không"
+
+#: output_model.cpp:754
+#, kde-format
+msgid "Replicated by other output"
+msgstr "Được sao chép bởi đầu ra khác"
+
+#: ui/main.qml:26
+#, kde-format
+msgctxt ""
+"@action:button Briefly show the display name in a popup label on each screen"
+msgid "Identify Screens"
+msgstr "Nhận dạng màn hình"
+
+#: ui/main.qml:41
+#, kde-format
+msgid "Keep display configuration?"
+msgstr "Giữ cấu hình bộ hiển thị?"
+
+#: ui/main.qml:50
+#, kde-format
+msgid "Will revert to previous configuration in %1 second."
+msgid_plural "Will revert to previous configuration in %1 seconds."
+msgstr[0] "Sẽ hoàn nguyên về cấu hình trước trong %1 giây."
+
+#: ui/main.qml:67
+#, kde-format
+msgid "&Keep"
+msgstr "&Giữ"
+
+#: ui/main.qml:80
+#, kde-format
+msgid "&Revert"
+msgstr "Hoàn ng&uyên"
+
+#: ui/main.qml:100 ui/main.qml:271
+#, kde-format
+msgctxt "@info"
+msgid "All displays are disabled. Enable at least one."
+msgstr "Tất cả màn hình đã bị tắt. Hãy bật ít nhất một màn hình."
+
+#: ui/main.qml:102 ui/main.qml:273
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Gaps between displays are not supported. Make sure all displays are touching."
+msgstr ""
+"Không hỗ trợ khoảng cách giữa các màn hình. Đảm bảo tất cả màn hình đều "
+"tiếp xúc nhau."
+
+#: ui/main.qml:114 ui/main.qml:286
+#, kde-format
+msgid "A new output has been added. Settings have been reloaded."
+msgstr "Đã thêm đầu ra mới. Đã tải lại thiết lập."
+
+#: ui/main.qml:116 ui/main.qml:288
+#, kde-format
+msgid "An output has been removed. Settings have been reloaded."
+msgstr "Một đầu ra đã bị xóa. Thiết lập đã được tải lại."
+
+#: ui/main.qml:156
+#, kde-format
+msgid "No KScreen backend found. Please check your KScreen installation."
+msgstr "Không tìm thấy hậu phương KScreen. Vui lòng kiểm tra cài đặt KScreen."
+
+#: ui/main.qml:165
+#, kde-format
+msgid "Outputs could not be saved due to error."
+msgstr "Không lưu được đầu ra do lỗi."
+
+#: ui/main.qml:174
+#, kde-format
+msgid ""
+"Global scale changes will come into effect after the system is restarted."
+msgstr "Thay đổi tỉ lệ toàn cục sẽ có hiệu lực sau khi khởi động lại hệ thống."
+
+#: ui/main.qml:180
+#, kde-format
+msgid "Restart"
+msgstr "Khởi động lại"
+
+#: ui/main.qml:198
+#, kde-format
+msgid "Display configuration reverted."
+msgstr "Đã hoàn tác cấu hình bộ hiển thị."
+
+#: ui/main.qml:210
+#, kde-format
+msgctxt "@title:window"
+msgid "Change Priorities"
+msgstr "Thay Đổi Ưu Tiên"
+
+#: ui/main.qml:239 ui/OutputPanel.qml:45
+#, kde-format
+msgid "Primary"
+msgstr "Chính"
+
+#: ui/main.qml:244
+#, kde-format
+msgid "Raise priority"
+msgstr "Tăng độ ưu tiên"
+
+#: ui/main.qml:254
+#, kde-format
+msgid "Lower priority"
+msgstr "Ưu tiên thấp hơn"
+
+#: ui/Orientation.qml:14
+#, kde-format
+msgid "Orientation:"
+msgstr "Hướng:"
+
+#: ui/Orientation.qml:28 ui/OutputPanel.qml:156 ui/OutputPanel.qml:194
+#, kde-format
+msgid "Automatic"
+msgstr "Tự động"
+
+#: ui/Orientation.qml:43
+#, kde-format
+msgid "Only when in tablet mode"
+msgstr "Chỉ khi ở chế độ máy tính bảng"
+
+#: ui/Orientation.qml:59
+#, kde-format
+msgid "Manual"
+msgstr "Thủ công"
+
+#: ui/Output.qml:239
+#, kde-format
+msgid "Replicas"
+msgstr "Bản sao"
+
+#: ui/OutputPanel.qml:27
+#, kde-format
+msgid "Enabled"
+msgstr "Đã bật"
+
+#: ui/OutputPanel.qml:38
+#, kde-format
+msgid "Change Screen Priorities…"
+msgstr "Thay đổi ưu tiên màn hình…"
+
+#: ui/OutputPanel.qml:51
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"This determines which screen your main desktop appears on, along with any "
+"Plasma Panels in it. Some older games also use this setting to decide which "
+"screen to appear on.<nl/><nl/>It has no effect on what screen notifications "
+"or other windows appear on."
+msgstr ""
+"Điều này xác định màn hình hiển thị desktop chính và các Panel Plasma. Một "
+"số trò chơi cũ cũng dùng thiết lập này để chọn màn hình xuất "
+"hiện.<nl/><nl/>Nó không ảnh hưởng đến màn hình hiển thị thông báo hoặc cửa "
+"sổ khác."
+
+#: ui/OutputPanel.qml:56
+#, kde-format
+msgid "Resolution:"
+msgstr "Độ phân giải:"
+
+#: ui/OutputPanel.qml:76
+#, kde-kuit-format
+msgctxt "@info"
+msgid "&quot;%1&quot; is the only resolution supported by this display."
+msgstr "\"%1\" là phân giải duy nhất được hỗ trợ bởi &màn hình này."
+
+#: ui/OutputPanel.qml:86
+#, kde-format
+msgid "Scale:"
+msgstr "Tỷ lệ:"
+
+#: ui/OutputPanel.qml:115 ui/Panel.qml:111
+#, kde-format
+msgctxt "Global scale factor expressed in percentage form"
+msgid "%1%"
+msgstr "%1%"
+
+#: ui/OutputPanel.qml:127
+#, kde-format
+msgid "Refresh rate:"
+msgstr "Tốc độ cập nhật:"
+
+#: ui/OutputPanel.qml:147
+#, kde-format
+msgid "\"%1\" is the only refresh rate supported by this display."
+msgstr "\"%1\" là tốc độ cập nhật duy nhất được hỗ trợ bởi màn hình này."
+
+#: ui/OutputPanel.qml:152
+#, kde-format
+msgid "Adaptive sync:"
+msgstr "Đồng bộ thích ứng:"
+
+#: ui/OutputPanel.qml:155
+#, kde-format
+msgid "Never"
+msgstr "Không bao giờ"
+
+#: ui/OutputPanel.qml:157
+#, kde-format
+msgid "Always"
+msgstr "Luôn luôn"
+
+#: ui/OutputPanel.qml:168
+#, kde-format
+msgid "Overscan:"
+msgstr "Quét quá:"
+
+#: ui/OutputPanel.qml:177
+#, kde-format
+msgctxt "Overscan expressed in percentage form"
+msgid "%1%"
+msgstr "%1%"
+
+#: ui/OutputPanel.qml:183
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Determines how much padding is put around the image sent to the display to "
+"compensate for part of the content being cut off around the edges.<nl/><nl/"
+">This is sometimes needed when using a TV as a screen"
+msgstr ""
+"Xác định lượng đệm được đặt xung quanh ảnh gửi đến bộ hiển thị để bù đắp "
+"cho phần nội dung bị cắt ở các cạnh.<nl/><nl/>Điều này đôi khi cần thiết "
+"khi sử dụng TV làm màn hình"
+
+#: ui/OutputPanel.qml:188
+#, kde-format
+msgid "RGB range:"
+msgstr "Dải RGB:"
+
+#: ui/OutputPanel.qml:195
+#, kde-format
+msgid "Full"
+msgstr "Đầy đủ"
+
+#: ui/OutputPanel.qml:196
+#, kde-format
+msgid "Limited"
+msgstr "Giới hạn"
+
+#: ui/OutputPanel.qml:206
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Determines whether or not the range of possible color values needs to be "
+"limited for the display. This should only be changed if the colors on the "
+"screen look washed out."
+msgstr ""
+"Xác định xem có cần giới hạn phạm vi giá trị màu có thể cho màn hình hay "
+"không. Chỉ nên thay đổi nếu màu sắc trên màn hình trông nhạt nhòa."
+
+#: ui/OutputPanel.qml:211
+#, kde-format
+msgctxt "@label:combobox"
+msgid "Color Profile:"
+msgstr "Cấu hình màu:"
+
+#: ui/OutputPanel.qml:220
+#, kde-format
+msgid "ICC Profile"
+msgstr "Hồ sơ ICC"
+
+#: ui/OutputPanel.qml:221
+#, kde-format
+msgid "Built-In"
+msgstr "Tích hợp"
+
+#: ui/OutputPanel.qml:230
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Note that built-in color profiles are sometimes wrong, and often inaccurate. "
+"For optimal color fidelity, calibration using a colorimeter is recommended."
+msgstr ""
+"Lưu ý rằng các cấu hình màu tích hợp đôi khi sai và thường không chính xác. "
+"Để có độ chính xác màu tối ưu, nên hiệu chỉnh bằng máy đo màu."
+
+#: ui/OutputPanel.qml:234
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "The built-in color profile is always used with HDR."
+msgstr "Hồ sơ màu tích hợp luôn được sử dụng với HDR."
+
+#: ui/OutputPanel.qml:247
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Enter ICC profile path…"
+msgstr "Nhập đường dẫn hồ sơ ICC…"
+
+#: ui/OutputPanel.qml:263
+#, kde-format
+msgctxt "@action:button"
+msgid "Select ICC profile…"
+msgstr "Bôi đen hồ sơ ICC…"
+
+#: ui/OutputPanel.qml:274
+#, kde-format
+msgid "Opens a file picker for the ICC profile"
+msgstr "Mở trình chọn tệp cho hồ sơ ICC"
+
+#: ui/OutputPanel.qml:283
+#, kde-format
+msgctxt "@title:window"
+msgid "Select ICC Profile"
+msgstr "Chọn hồ sơ ICC"
+
+#: ui/OutputPanel.qml:308
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "ICC profiles aren't compatible with HDR yet"
+msgstr "Hồ sơ ICC chưa tương thích với HDR"
+
+#: ui/OutputPanel.qml:313
+#, kde-format
+msgctxt "@label"
+msgid "High Dynamic Range:"
+msgstr "Dải động cao:"
+
+#: ui/OutputPanel.qml:318
+#, kde-format
+msgctxt "@option:check"
+msgid "Enable HDR"
+msgstr "Bật HDR"
+
+#: ui/OutputPanel.qml:324
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"HDR allows compatible applications to show brighter and more vivid colors. "
+"Note that this feature is still experimental"
+msgstr ""
+"HDR cho phép các ứng dụng tương thích hiển thị màu sắc sáng hơn và sống "
+"động hơn. Lưu ý rằng tính năng này vẫn đang thử nghiệm"
+
+#: ui/OutputPanel.qml:335
+#, kde-format
+msgctxt "@label"
+msgid "SDR Brightness:"
+msgstr "Độ sáng SDR:"
+
+#: ui/OutputPanel.qml:354
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Sets the brightness of non-HDR content on the screen, in nits"
+msgstr "Đặt độ sáng của nội dung không phải HDR trên màn hình, tính bằng nit"
+
+#: ui/OutputPanel.qml:365
+#, kde-format
+msgctxt "@label"
+msgid "SDR Color Intensity:"
+msgstr "Cường độ màu SDR:"
+
+#: ui/OutputPanel.qml:391
+#, kde-format
+msgctxt "Color intensity factor expressed in percentage form"
+msgid "%1%"
+msgstr "%1%"
+
+#: ui/OutputPanel.qml:399
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Increases the intensity of non-HDR content on the screen"
+msgstr "Tăng cường độ nội dung không phải HDR trên màn hình"
+
+#: ui/OutputPanel.qml:404
+#, kde-format
+msgid "Replica of:"
+msgstr "Bản sao của:"
+
+#: ui/Panel.qml:27
+#, kde-format
+msgid "Device:"
+msgstr "Thiết bị:"
+
+#: ui/Panel.qml:75
+#, kde-format
+msgid "Global scale:"
+msgstr "Tỷ lệ toàn cục:"
+
+#: ui/Panel.qml:135 ui/Panel.qml:155
+#, kde-format
+msgid "Legacy applications (X11):"
+msgstr "Ứng dụng đời cũ (X11):"
+
+#: ui/Panel.qml:140
+#, kde-format
+msgctxt "The apps themselves should scale to fit the displays"
+msgid "Apply scaling themselves"
+msgstr "Tự đổi cỡ"
+
+#: ui/Panel.qml:145
+#, kde-format
+msgid ""
+"Legacy applications that support scaling will use it and look crisp, however "
+"those that don't will not be scaled at all."
+msgstr ""
+"Các ứng dụng đời cũ hỗ trợ đổi cỡ sẽ sử dụng nó và trông sắc nét, tuy nhiên "
+"những ứng dụng không hỗ trợ sẽ không được đổi cỡ."
+
+#: ui/Panel.qml:156
+#, kde-format
+msgctxt "The system will perform the x11 apps scaling"
+msgid "Scaled by the system"
+msgstr "Hệ thống đổi cỡ"
+
+#: ui/Panel.qml:161
+#, kde-format
+msgid ""
+"All legacy applications will be scaled by the system to the correct size, "
+"however they will always look slightly blurry."
+msgstr ""
+"Tất cả ứng dụng đời cũ sẽ được hệ thống đổi cỡ cho vừa, tuy nhiên chúng sẽ "
+"luôn trông hơi mờ."
+
+#: ui/Panel.qml:166
+#, kde-format
+msgctxt "@label"
+msgid "Screen tearing:"
+msgstr "Xé màn hình:"
+
+#: ui/Panel.qml:169
+#, kde-format
+msgctxt ""
+"@option:check The thing being allowed in fullscreen windows is screen tearing"
+msgid "Allow in fullscreen windows"
+msgstr "Cho phép trong cửa sổ toàn màn hình"
+
+#: ui/Panel.qml:174
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Screen tearing reduces latency with most displays. Note that not all "
+"graphics drivers support this setting."
+msgstr ""
+"Xé màn hình giảm độ trễ trên hầu hết màn hình. Lưu ý không phải tất cả "
+"trình điều khiển đồ họa hỗ trợ cài đặt này."
+
+#: ui/Panel.qml:188
+#, kde-format
+msgid ""
+"The global scale factor is limited to multiples of 6.25% to minimize visual "
+"glitches in applications using the X11 windowing system."
+msgstr ""
+"Hệ số tỉ lệ toàn cục giới hạn ở bội số 6,25% để giảm thiểu lỗi trực quan "
+"trong ứng dụng sử dụng hệ thống cửa sổ X11."
+
+#: ui/RotationButton.qml:51
+#, kde-format
+msgid "90° Clockwise"
+msgstr "90° Theo chiều kim đồng hồ"
+
+#: ui/RotationButton.qml:55
+#, kde-format
+msgid "Upside Down"
+msgstr "Lật ngược"
+
+#: ui/RotationButton.qml:59
+#, kde-format
+msgid "90° Counterclockwise"
+msgstr "90° Ngược chiều kim đồng hồ"
+
+#: ui/RotationButton.qml:64
+#, kde-format
+msgid "No Rotation"
+msgstr "Không xoay"
+
+#: ui/ScreenView.qml:50
+#, kde-format
+msgid "Drag screens to re-arrange them"
+msgstr "Kéo màn hình để sắp xếp lại"

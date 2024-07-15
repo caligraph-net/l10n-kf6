@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kscreen package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kscreen\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-09-28 01:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: osdaction.cpp:27
+#, kde-format
+msgid "Switch to external screen"
+msgstr "Chuyển sang màn hình ngoài"
+
+#: osdaction.cpp:28
+#, kde-format
+msgid "Switch to laptop screen"
+msgstr "Chuyển sang màn hình laptop"
+
+#: osdaction.cpp:29
+#, kde-format
+msgid "Unify outputs"
+msgstr "Hợp nhất đầu ra"
+
+#: osdaction.cpp:30
+#, kde-format
+msgid "Extend to left"
+msgstr "Mở rộng sang trái"
+
+#: osdaction.cpp:31
+#, kde-format
+msgid "Extend to right"
+msgstr "Mở rộng sang phải"
+
+#: osdaction.cpp:32
+#, kde-format
+msgid "Leave unchanged"
+msgstr "Giữ nguyên"
+
+#: utils.cpp:21
+#, kde-format
+msgid "Built-in Screen"
+msgstr "Màn hình tích hợp"
