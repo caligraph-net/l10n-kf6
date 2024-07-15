@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-workspace package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-workspace\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-23 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main.cpp:47 plasmawindowedcorona.cpp:103
+#, kde-format
+msgid "Plasma Windowed"
+msgstr "Plasma Cửa sổ"
+
+#: main.cpp:49
+#, kde-format
+msgid "Enable QML Javascript debugger"
+msgstr "Bật trình gỡ lỗi QML Javascript"
+
+#: main.cpp:52 plasmawindowedcorona.cpp:105
+#, kde-format
+msgid ""
+"Makes the plasmoid stay alive in the Notification Area, even when the window "
+"is closed."
+msgstr "Giữ plasmoid hoạt động trong Vùng Thông báo, ngay cả khi cửa sổ đã đóng."
+
+#: main.cpp:54
+#, kde-format
+msgid "Force loading the given shell plugin"
+msgstr "Bắt buộc tải phần cài cắm hệ vỏ đã cho"
+
+#: main.cpp:58 plasmawindowedcorona.cpp:106
+#, kde-format
+msgid "The applet to open."
+msgstr "Tiểu ứng dụng cần mở."
+
+#: main.cpp:59 plasmawindowedcorona.cpp:107
+#, kde-format
+msgid "Arguments to pass to the plasmoid."
+msgstr "Các đối số truyền cho plasmoid."
+
+#: plasmawindowedview.cpp:120
+#, kde-format
+msgid "Close %1"
+msgstr "Đóng %1"

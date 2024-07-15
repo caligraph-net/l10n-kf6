@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-workspace package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-workspace\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-03-20 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: interactiveconsole.cpp:63
+#, kde-format
+msgid "&Execute"
+msgstr "T&hực thi"
+
+#: interactiveconsole.cpp:64
+#, kde-format
+msgctxt "Toolbar Button to switch to Plasma Scripting Mode"
+msgid "Plasma"
+msgstr "Plasma"
+
+#: interactiveconsole.cpp:65
+#, kde-format
+msgctxt "Toolbar Button to switch to KWin Scripting Mode"
+msgid "KWin"
+msgstr "KWin"
+
+#: interactiveconsole.cpp:66
+#, kde-format
+msgid "Templates"
+msgstr "Mẫu"
+
+#: interactiveconsole.cpp:75
+#, kde-format
+msgid "Desktop Shell Scripting Console"
+msgstr "Bàn điều khiển lập trình hệ vỏ Desktop"
+
+#: interactiveconsole.cpp:82
+#, kde-format
+msgid "Editor"
+msgstr "Trình biên tập"
+
+#: interactiveconsole.cpp:93
+#, kde-format
+msgid "Load"
+msgstr "Tải"
+
+#: interactiveconsole.cpp:99
+#, kde-format
+msgid "Use"
+msgstr "Sử dụng"
+
+#: interactiveconsole.cpp:159
+#, kde-format
+msgid "Output"
+msgstr "Đầu ra"
+
+#: interactiveconsole.cpp:266
+#, kde-format
+msgid "Unable to load script file <b>%1</b>"
+msgstr "Không thể tải tệp kịch bản <b>%1</b>"
+
+#: interactiveconsole.cpp:316
+#, kde-format
+msgid "Open Script File"
+msgstr "Mở Tệp Kịch Bản"
+
+#: interactiveconsole.cpp:431
+#, kde-format
+msgid "Save Script File"
+msgstr "Lưu Tệp Kịch Bản"
+
+#: interactiveconsole.cpp:520
+#, kde-format
+msgid "Executing script at %1"
+msgstr "Đang thực thi kịch bản tại %1"
+
+#: interactiveconsole.cpp:572
+#, no-c-format, kde-format
+msgid "Runtime: %1ms"
+msgstr "Thời gian chạy: %1ms"
