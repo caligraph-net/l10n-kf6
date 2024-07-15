@@ -93,7 +93,7 @@ msgstr "Mờ"
 #: src/plugins/colorblindnesscorrection/metadata.json
 msgctxt "Name"
 msgid "Colorblindness Correction"
-msgstr ""
+msgstr "Hiệu chỉnh mù màu"
 
 #: src/plugins/colorpicker/metadata.json
 msgctxt "Name"
@@ -163,7 +163,7 @@ msgstr "Lướt"
 #: src/plugins/hidecursor/metadata.json
 msgctxt "Name"
 msgid "Hide Cursor"
-msgstr ""
+msgstr "Ẩn Con Trỏ"
 
 #: src/plugins/highlightwindow/metadata.json
 msgctxt "Name"
@@ -176,12 +176,12 @@ msgid "Invert"
 msgstr "Đảo"
 
 #: src/plugins/kdecorations/aurorae/src/config/kcm_auroraeconfig.json
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "KWin Aurorae"
 msgctxt "Name"
 msgid "Aurorae"
-msgstr "Aurorae của KWin"
+msgstr "Aurorae"
 
 #: src/plugins/kdecorations/aurorae/themes/plastik/package/metadata.json
 msgctxt "Name"
@@ -236,7 +236,7 @@ msgstr "Vết chuột"
 #: src/plugins/outputlocator/metadata.json
 msgctxt "Name"
 msgid "Output Locator"
-msgstr ""
+msgstr "Định vị Đầu ra"
 
 #: src/plugins/overview/metadata.json
 msgctxt "Name"
@@ -271,7 +271,7 @@ msgstr "Thoát phiên"
 #: src/plugins/shakecursor/metadata.json
 msgctxt "Name"
 msgid "Shake Cursor"
-msgstr ""
+msgstr "Lắc Con Trỏ"
 
 #: src/plugins/sheet/metadata.json
 msgctxt "Name"
@@ -374,12 +374,12 @@ msgid "Zoom"
 msgstr "Thu phóng"
 
 #: src/tabbox/switchers/thumbnail_grid/metadata.json
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Thumbnail Aside"
 msgctxt "Name"
 msgid "Thumbnail Grid"
-msgstr "Hình nhỏ ở cạnh"
+msgstr "Lưới hình nhỏ"
 
 #: src/kcms/compositing/kwincompositing.json
 msgctxt "Description"
@@ -460,7 +460,7 @@ msgstr "Làm mờ phần nền phía sau các cửa sổ bán trong suốt"
 #: src/plugins/colorblindnesscorrection/metadata.json
 msgctxt "Description"
 msgid "Enhances color perception for color blindness"
-msgstr ""
+msgstr "Tăng cường nhận thức màu sắc cho người mù màu"
 
 #: src/plugins/colorpicker/metadata.json
 msgctxt "Description"
@@ -534,7 +534,7 @@ msgstr "Lướt các cửa sổ khi chúng xuất hiện hoặc biến mất"
 #: src/plugins/hidecursor/metadata.json
 msgctxt "Description"
 msgid "Hide mouse cursor on inactivity or keyboard input"
-msgstr ""
+msgstr "Ẩn con trỏ chuột khi không hoạt động hoặc khi nhập bàn phím"
 
 #: src/plugins/highlightwindow/metadata.json
 msgctxt "Description"
@@ -547,12 +547,12 @@ msgid "Inverts the color of the desktop and windows"
 msgstr "Đảo màu bàn làm việc và các cửa sổ"
 
 #: src/plugins/kdecorations/aurorae/src/config/kcm_auroraeconfig.json
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Window Decorations"
 msgctxt "Description"
 msgid "Window Decoration Theme Engine"
-msgstr "Trang trí cửa sổ"
+msgstr "Dụng cụ chủ đề trang trí cửa sổ"
 
 #: src/plugins/kdecorations/aurorae/themes/plastik/package/metadata.json
 msgctxt "Description"
@@ -611,12 +611,12 @@ msgid "Allows you to draw lines on the desktop"
 msgstr "Cho phép bạn vẽ các nét trên bàn làm việc"
 
 #: src/plugins/outputlocator/metadata.json
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Screen Edges"
 msgctxt "Description"
 msgid "Show screen names"
-msgstr "Cạnh màn hình"
+msgstr "Hiển thị tên màn hình"
 
 #: src/plugins/overview/metadata.json
 msgctxt "Description"
@@ -652,7 +652,7 @@ msgstr "Giữ nền bàn làm việc hiện cho đến cuối quá trình đăng
 msgctxt "Description"
 msgid ""
 "Makes the cursor larger when the pointer is quickly moved back and forth"
-msgstr ""
+msgstr "Làm con trỏ lớn hơn khi di chuyển nhanh qua lại"
 
 #: src/plugins/sheet/metadata.json
 msgctxt "Description"
@@ -768,7 +768,7 @@ msgstr "Phóng đại toàn bộ bàn làm việc"
 #: src/tabbox/switchers/thumbnail_grid/metadata.json
 msgctxt "Description"
 msgid "A window switcher layout using a small grid of thumbnails"
-msgstr ""
+msgstr "Bố cục trình chuyển cửa sổ dùng lưới nhỏ hình nhỏ"
 
 #: src/plugins/desktopchangeosd/package/metadata.json
 #: src/plugins/fullscreen/package/metadata.json
@@ -851,7 +851,7 @@ msgstr "Luboš Luňák, Martin Gräßlin"
 #: src/tabbox/switchers/thumbnail_grid/metadata.json
 msgctxt "Authors Name"
 msgid "Chris Holland"
-msgstr ""
+msgstr "Chris Holland"
 
 #~ msgctxt "Name"
 #~ msgid "Morphing Popups"

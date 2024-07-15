@@ -68,15 +68,15 @@ msgid "%1 - Current Application"
 msgstr "%1 - Ứng dụng hiện tại"
 
 #: main.cpp:165 touch.cpp:132
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Toggle Overview"
 msgid "Overview"
-msgstr "Bật/tắt tổng quan"
+msgstr "Tổng quan"
 
 #: main.cpp:166 touch.cpp:133
 #, kde-format
 msgid "Grid"
-msgstr ""
+msgstr "Lưới"
 
 #: main.cpp:168 touch.cpp:135
 #, kde-format
@@ -233,7 +233,7 @@ msgstr "Độ trễ &tái kích hoạt:"
 #: main.ui:270
 #, kde-format
 msgid "&Corner barrier:"
-msgstr ""
+msgstr "Rào cả&n góc:"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_CornerBarrier)
 #: main.ui:280
@@ -245,19 +245,23 @@ msgid ""
 "interface elements like maximized windows' close buttons when using multiple "
 "screens."
 msgstr ""
+"Tại đây bạn có thể bật hoặc tắt rào chắn góc ảo giữa các màn hình. Rào chắn "
+"ngăn con trỏ di chuyển sang màn hình khác khi đã chạm vào góc màn hình. "
+"Điều này giúp dễ dàng kích hoạt các phần tử giao diện như nút đóng cửa sổ "
+"đã phóng to khi sử dụng nhiều màn hình."
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_CornerBarrier)
 #: main.ui:283
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Prevents cursors from crossing at screen corners."
-msgstr ""
+msgstr "Ngăn con trỏ giao nhau ở các góc màn hình."
 
 #. i18n: ectx: property (text), widget (QLabel, EdgeBarrierLabel)
 #: main.ui:290
 #, kde-format
 msgid "&Edge barrier:"
-msgstr ""
+msgstr "Rào &cản cạnh:"
 
 #. i18n: ectx: property (whatsThis), widget (QSpinBox, kcfg_EdgeBarrier)
 #: main.ui:300
@@ -269,25 +273,29 @@ msgid ""
 "interface elements like Plasma Panels that are located on an edge between "
 "screens."
 msgstr ""
+"Tại đây bạn có thể đặt kích thước rào cản cạnh giữa các màn hình. Rào cản "
+"tạo thêm khoảng cách bạn phải di chuyển con trỏ trước khi nó vượt qua cạnh "
+"sang màn hình khác. Điều này giúp dễ dàng truy cập các phần tử giao diện "
+"như Bảng điều khiển Plasma nằm ở cạnh giữa các màn hình."
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_EdgeBarrier)
 #: main.ui:303
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Additional distance cursor needs to travel to cross screen edges."
-msgstr ""
+msgstr "Khoảng cách thêm con trỏ cần di chuyển để liên màn hình."
 
 #. i18n: ectx: property (specialValueText), widget (QSpinBox, kcfg_EdgeBarrier)
 #: main.ui:306
 #, kde-format
 msgid "None"
-msgstr ""
+msgstr "Không"
 
 #. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_EdgeBarrier)
 #: main.ui:309
 #, kde-format
 msgid " px"
-msgstr ""
+msgstr " px"
 
 #. i18n: ectx: property (text), widget (QLabel, label_1)
 #: touch.ui:17

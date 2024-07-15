@@ -314,6 +314,13 @@ msgid ""
 "<interface>Fullscreen</interface> states.<nl/><nl/>Note that the position "
 "can also be used to map to a different <interface>Screen</interface>"
 msgstr ""
+"Một số ứng dụng có thể tự thiết lập kích thước và vị trí, vượt hiệu lực tùy "
+"chọn của trình quản lý cửa sổ. Thiết lập thuộc tính này sẽ vượt hiệu lực "
+"yêu cầu vị trí của chúng.<nl/><nl/>Điều này ảnh hưởng đến <interface>Kích "
+"thước</interface> và <interface>Vị trí</interface> nhưng không ảnh hưởng "
+"đến trạng thái <interface>Phóng to</interface> hoặc <interface>Toàn màn "
+"hình</interface>.<nl/><nl/>Lưu ý rằng vị trí cũng có thể được sử dụng để "
+"ánh xạ tới một <interface>Màn hình</interface> khác"
 
 #: rulesmodel.cpp:552
 #, kde-format
@@ -331,7 +338,7 @@ msgid "Obey geometry restrictions"
 msgstr "Tuân theo các hạn chế về hình dạng"
 
 #: rulesmodel.cpp:564
-#, fuzzy, kde-kuit-format
+#, kde-kuit-format
 #| msgid ""
 #| "Eg. terminals or video players can ask to keep a certain aspect ratio\n"
 #| "or only grow by values larger than one\n"
@@ -346,11 +353,12 @@ msgid ""
 "windows to be resized to arbitrary sizes.<nl/><nl/>This can be helpful for "
 "windows that can't quite fit the full screen area when maximized."
 msgstr ""
-"Vd. các trình dòng lệnh hay trình phát phim có thể yêu cầu giữ một tỉ lệ\n"
-"khung nhất định hoặc chỉ mở rộng ra một lượng bằng các giá trị lớn hơn một\n"
-"(vd. bằng kích thước của một kí tự).\n"
-"Việc này có thể không có ý nghĩa gì và hạn chế này ngăn cản các kích thước\n"
-"tuỳ ý chẳng hạn như diện tích toàn bộ màn hình."
+"Một số ứng dụng như trình phát phim hoặc trình dòng lệnh có thể yêu cầu "
+"KWin giới hạn chúng theo tỉ lệ khung hình nhất định hoặc chỉ mở rộng theo "
+"giá trị lớn hơn kích thước của một ký tự. Sử dụng thuộc tính này để bỏ qua "
+"các hạn chế đó và cho phép các cửa sổ này được thay đổi kích thước tùy "
+"ý.<nl/><nl/>Điều này có thể hữu ích cho các cửa sổ không thể vừa khít với "
+"toàn bộ màn hình khi được phóng to tối đa."
 
 #: rulesmodel.cpp:575
 #, kde-format
@@ -377,7 +385,7 @@ msgstr "Bỏ qua thanh tác vụ"
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Controls whether or not the window appears in the Task Manager."
-msgstr ""
+msgstr "Điều khiển việc cửa sổ có xuất hiện trong Trình quản lý tác vụ hay không."
 
 #: rulesmodel.cpp:591
 #, kde-format
@@ -390,6 +398,8 @@ msgctxt "@info:tooltip"
 msgid ""
 "Controls whether or not the window appears in the Virtual Desktop manager."
 msgstr ""
+"Điều khiển việc cửa sổ có xuất hiện trong trình quản lý Desktop ảo hay "
+"không."
 
 #: rulesmodel.cpp:597
 #, kde-format
@@ -403,6 +413,8 @@ msgid ""
 "Controls whether or not the window appears in the <shortcut>Alt+Tab</"
 "shortcut> window list."
 msgstr ""
+"Điều khiển việc cửa sổ có xuất hiện trong danh sách cửa sổ "
+"<shortcut>Alt+Tab</shortcut> hay không."
 
 #: rulesmodel.cpp:603
 #, kde-format
@@ -463,6 +475,22 @@ msgid ""
 "currently-focused window.</item><item><emphasis strong='true'>Extreme:</"
 "emphasis> The window will never be raised and focused.</item></list>"
 msgstr ""
+"KWin cố gắng ngăn các cửa sổ được mở mà không có hành động trực tiếp từ "
+"người dùng tự nâng lên và chiếm nhắm khi bạn đang tương tác với cửa sổ "
+"khác. Thuộc tính này có thể được sử dụng để thay đổi mức độ ngăn chặn chiếm "
+"nhắm áp dụng cho từng cửa sổ và ứng dụng.<nl/><nl/>Đây là những gì sẽ xảy "
+"ra với cửa sổ được mở mà không có hành động trực tiếp của bạn ở mỗi mức độ "
+"ngăn chặn chiếm nhắm:<nl/><list><item><emphasis "
+"strong='true'>Không:</emphasis> Cửa sổ sẽ được nâng lên và "
+"nhắm.</item><item><emphasis strong='true'>Thấp:</emphasis> Ngăn chặn chiếm "
+"nhắm sẽ được áp dụng, nhưng trong trường hợp KWin coi là không rõ ràng, cửa "
+"sổ sẽ được nâng lên và nhắm.</item><item><emphasis strong='true'>Bình "
+"thường:</emphasis> Ngăn chặn chiếm nhắm sẽ được áp dụng, nhưng trong trường "
+"hợp KWin coi là không rõ ràng, cửa sổ sẽ <emphasis>không</emphasis> được "
+"nâng lên và nhắm.</item><item><emphasis strong='true'>Cao:</emphasis> Cửa "
+"sổ chỉ được nâng lên và nhắm nếu thuộc cùng ứng dụng với cửa sổ đang được "
+"nhắm.</item><item><emphasis strong='true'>Cực cao:</emphasis> Cửa sổ sẽ "
+"không bao giờ được nâng lên và nhắm.</item></list>"
 
 #: rulesmodel.cpp:658
 #, kde-format
@@ -492,6 +520,23 @@ msgid ""
 "emphasis> Newly-opened windows never raise themselves and take focus.</"
 "item></list>"
 msgstr ""
+"Thuộc tính này điều khiển mức độ bảo vệ nhắm của cửa sổ đang hoạt động. Nó "
+"được dùng để vượt hiệu lực việc ngăn chặn đánh cắp nhắm áp dụng cho các cửa "
+"sổ mới mở mà không có hành động trực tiếp của bạn.<nl/><nl/>Đây là những gì "
+"xảy ra với các cửa sổ mới được mở mà không có hành động trực tiếp của bạn ở "
+"mỗi mức độ bảo vệ nhắm khi cửa sổ có thuộc tính này được áp dụng đang được "
+"nhắm:<nl/><list><item><emphasis strong='true'>Không:</emphasis> Cửa sổ mới "
+"mở luôn tự nâng lên và lấy nhắm.</item><item><emphasis "
+"strong='true'>Thấp:</emphasis> Ngăn chặn đánh cắp nhắm sẽ được áp dụng cho "
+"cửa sổ mới mở, nhưng trong trường hợp KWin coi là không rõ ràng, cửa sổ sẽ "
+"được nâng lên và nhắm.</item><item><emphasis strong='true'>Bình "
+"thường:</emphasis> Ngăn chặn đánh cắp nhắm sẽ được áp dụng cho cửa sổ mới "
+"mở, nhưng trong trường hợp KWin coi là không rõ ràng, cửa sổ sẽ "
+"<emphasis>không</emphasis> được nâng lên và nhắm.</item><item><emphasis "
+"strong='true'>Cao:</emphasis> Cửa sổ mới mở chỉ tự nâng lên và lấy nhắm nếu "
+"thuộc cùng ứng dụng với cửa sổ đang được nhắm.</item><item><emphasis "
+"strong='true'>Cực cao:</emphasis> Cửa sổ mới mở không bao giờ tự nâng lên "
+"và lấy nhắm.</item></list>"
 
 #: rulesmodel.cpp:686
 #, kde-format
@@ -501,7 +546,7 @@ msgstr "Chấp nhận nhắm"
 #: rulesmodel.cpp:688
 #, kde-format
 msgid "Controls whether or not the window becomes focused when clicked."
-msgstr ""
+msgstr "Kiểm soát việc cửa sổ có được tập trung khi được nhấp hay không."
 
 #: rulesmodel.cpp:692
 #, kde-format
@@ -519,6 +564,11 @@ msgid ""
 "use any other global shortcuts such as <shortcut>Alt+Space</shortcut> to "
 "activate KRunner."
 msgstr ""
+"Sử dụng thuộc tính này để ngăn các phím tắt toàn cục hoạt động khi cửa sổ "
+"được tập trung. Điều này có thể hữu ích cho các ứng dụng như giả lập hoặc "
+"máy ảo xử lý một số phím tắt tương tự.<nl/><nl/>Lưu ý rằng bạn sẽ không thể "
+"<shortcut>Alt+Tab</shortcut> ra khỏi cửa sổ hoặc sử dụng bất kỳ phím tắt "
+"toàn cục nào khác như <shortcut>Alt+Space</shortcut> để kích hoạt KRunner."
 
 #: rulesmodel.cpp:704
 #, kde-format
@@ -538,12 +588,12 @@ msgstr "Ngưng kết hợp"
 #: rulesmodel.cpp:719
 #, kde-format
 msgid "Layer"
-msgstr ""
+msgstr "Lớp"
 
 #: rulesmodel.cpp:725
 #, kde-format
 msgid "Adaptive Sync"
-msgstr ""
+msgstr "Đồng bộ thích ứng"
 
 #: rulesmodel.cpp:777
 #, kde-format
@@ -715,38 +765,38 @@ msgstr "Cực độ"
 #: rulesmodel.cpp:923
 #, kde-format
 msgid "Below"
-msgstr ""
+msgstr "Bên dưới"
 
 #: rulesmodel.cpp:925
 #, kde-format
 msgid "Above"
-msgstr ""
+msgstr "Trên"
 
 #: rulesmodel.cpp:926
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Position"
 msgid "Notification"
-msgstr "Vị trí"
+msgstr "Thông báo"
 
 #: rulesmodel.cpp:928
 #, kde-format
 msgid "Popup"
-msgstr ""
+msgstr "Ô bật lên"
 
 #: rulesmodel.cpp:929
 #, kde-format
 msgid "Critical Notification"
-msgstr ""
+msgstr "Thông báo quan trọng"
 
 #: rulesmodel.cpp:930
 #, kde-format
 msgid "OSD"
-msgstr ""
+msgstr "OSD"
 
 #: rulesmodel.cpp:931
 #, kde-format
 msgid "Overlay"
-msgstr ""
+msgstr "Lớp phủ"
 
 #: rulesmodel.cpp:956
 #, kde-format
@@ -770,16 +820,16 @@ msgid "KWin Rules (*.kwinrule)"
 msgstr "Luật KWin (*.kwinrule)"
 
 #: ui/main.qml:29
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add New..."
 msgid "Add New…"
-msgstr "Thêm mới..."
+msgstr "Thêm mới…"
 
 #: ui/main.qml:35
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Import..."
 msgid "Import…"
-msgstr "Nhập khẩu..."
+msgstr "Nhập khẩu…"
 
 #: ui/main.qml:40
 #, kde-format
@@ -787,10 +837,10 @@ msgid "Cancel Export"
 msgstr "Huỷ xuất khẩu"
 
 #: ui/main.qml:40
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Export..."
 msgid "Export…"
-msgstr "Xuất khẩu..."
+msgstr "Xuất khẩu…"
 
 #: ui/main.qml:88
 #, kde-format
@@ -798,12 +848,12 @@ msgid "No rules for specific windows are currently set"
 msgstr "Không có luật nào đang được đặt theo cửa sổ"
 
 #: ui/main.qml:89
-#, fuzzy, kde-kuit-format
+#, kde-kuit-format
 #| msgctxt "@info"
 #| msgid "Click the <interface>Add New...</interface> button below to add some"
 msgctxt "@info"
 msgid "Click <interface>Add New…</interface> to add some"
-msgstr "Bấm nút <interface>Thêm mới...</interface> ở dưới để thêm"
+msgstr "Bấm <interface>Thêm mới…</interface> để thêm"
 
 #: ui/main.qml:97
 #, kde-format
