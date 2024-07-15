@@ -1,0 +1,219 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-nm package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-nm\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-09 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: contents/ui/ConnectionItem.qml:60
+#, kde-format
+msgid "Connect"
+msgstr "Kết nối"
+
+#: contents/ui/ConnectionItem.qml:60
+#, kde-format
+msgid "Disconnect"
+msgstr "Ngắt kết nối"
+
+#: contents/ui/ConnectionItem.qml:85
+#, kde-format
+msgid "Show Network's QR Code"
+msgstr "Hiện mã QR của mạng"
+
+#: contents/ui/ConnectionItem.qml:90
+#, kde-format
+msgid "Configure…"
+msgstr "Cấu hình…"
+
+#: contents/ui/ConnectionItem.qml:133
+#, kde-format
+msgid "Speed"
+msgstr "Tốc độ"
+
+#: contents/ui/ConnectionItem.qml:138
+#, kde-format
+msgid "Details"
+msgstr "Chi tiết"
+
+#: contents/ui/ConnectionItem.qml:181
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Current download speed is %1 kibibytes per second; current upload speed is "
+"%2 kibibytes per second"
+msgstr ""
+"Tốc độ tải về hiện tại là %1 kibibyte mỗi giây; tốc độ tải lên hiện tại là "
+"%2 kibibyte mỗi giây"
+
+#: contents/ui/ConnectionItem.qml:298
+#, kde-format
+msgid "Connected, ⬇ %1/s, ⬆ %2/s"
+msgstr "Đã kết nối, ⬇ %1/giây, ⬆ %2/giây"
+
+#: contents/ui/ConnectionItem.qml:302
+#, kde-format
+msgid "Connected"
+msgstr "Đã kết nối"
+
+#: contents/ui/ConnectionListPage.qml:35
+#, kde-format
+msgid "You need to log in to this network"
+msgstr "Bạn cần đăng nhập vào mạng này"
+
+#: contents/ui/ConnectionListPage.qml:39
+#, kde-format
+msgctxt "@action:button"
+msgid "Log in"
+msgstr "Đăng nhập"
+
+#: contents/ui/ConnectionListPage.qml:115
+#, kde-format
+msgid "Airplane mode is enabled"
+msgstr "Chế độ máy bay đang bật"
+
+#: contents/ui/ConnectionListPage.qml:119
+#, kde-format
+msgid "Wireless and mobile networks are deactivated"
+msgstr "Mạng không dây và di động đã bị tắt"
+
+#: contents/ui/ConnectionListPage.qml:121
+#, kde-format
+msgid "Wireless is deactivated"
+msgstr "Mạng không dây đã bị tắt"
+
+#: contents/ui/ConnectionListPage.qml:124
+#, kde-format
+msgid "Mobile network is deactivated"
+msgstr "Mạng di động đã bị tắt"
+
+#: contents/ui/ConnectionListPage.qml:127
+#, kde-format
+msgid "No matches"
+msgstr "Không có kết quả"
+
+#: contents/ui/ConnectionListPage.qml:129
+#, kde-format
+msgid "No available connections"
+msgstr "Không có kết nối khả dụng"
+
+#: contents/ui/DetailsText.qml:45
+#, kde-format
+msgid "Copy"
+msgstr "Sao chép"
+
+#: contents/ui/main.qml:32
+#, kde-format
+msgid "Networks"
+msgstr "Mạng"
+
+#: contents/ui/main.qml:41
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Middle-click to turn off Airplane Mode"
+msgstr "Nhấn chuột giữa để tắt Chế độ Máy bay"
+
+#: contents/ui/main.qml:43
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Middle-click to turn on Airplane Mode"
+msgstr "Nhấn chuột giữa để bật Chế độ Máy bay"
+
+#: contents/ui/main.qml:72 contents/ui/Toolbar.qml:73
+#, kde-format
+msgid "Enable Wi-Fi"
+msgstr "Bật Wi-Fi"
+
+#: contents/ui/main.qml:83
+#, kde-format
+msgid "Enable Mobile Network"
+msgstr "Bật Mạng Di Động"
+
+#: contents/ui/main.qml:95
+#, kde-format
+msgid "Enable Airplane Mode"
+msgstr "Bật chế độ máy bay"
+
+#: contents/ui/main.qml:107
+#, kde-format
+msgid "Open Network Login Page…"
+msgstr "Mở Trang Đăng Nhập Mạng…"
+
+#: contents/ui/main.qml:117
+#, kde-format
+msgid "&Configure Network Connections…"
+msgstr "&Cấu hình kết nối mạng…"
+
+#: contents/ui/PopupDialog.qml:51
+#, kde-format
+msgctxt "@action:button"
+msgid "Return to Network Connections"
+msgstr "Quay lại Kết nối Mạng"
+
+#: contents/ui/ShareNetworkQrCodePage.qml:31
+#, kde-format
+msgid "Scan this QR code with another device to connect to the \"%1\" network."
+msgstr "Quét mã QR này bằng thiết bị khác để kết nối với mạng \"%1\"."
+
+#: contents/ui/Toolbar.qml:122
+#, kde-format
+msgid "Enable mobile network"
+msgstr "Bật mạng di động"
+
+#: contents/ui/Toolbar.qml:147
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Disable airplane mode<nl/><nl/>This will enable Wi-Fi and Bluetooth"
+msgstr "Tắt chế độ máy bay<nl/><nl/>Điều này sẽ bật Wi-Fi và Bluetooth"
+
+#: contents/ui/Toolbar.qml:148
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Enable airplane mode<nl/><nl/>This will disable Wi-Fi and Bluetooth"
+msgstr "Bật chế độ máy bay<nl/><nl/>Điều này sẽ tắt Wi-Fi và Bluetooth"
+
+#: contents/ui/Toolbar.qml:159
+#, kde-format
+msgid "Hotspot"
+msgstr "Điểm phát sóng"
+
+#: contents/ui/Toolbar.qml:183 contents/ui/Toolbar.qml:194
+#, kde-format
+msgid "Disable Hotspot"
+msgstr "Tắt điểm phát sóng"
+
+#: contents/ui/Toolbar.qml:188 contents/ui/Toolbar.qml:194
+#, kde-format
+msgid "Create Hotspot"
+msgstr "Tạo điểm phát sóng"
+
+#: contents/ui/Toolbar.qml:226
+#, kde-format
+msgid "Configure network connections…"
+msgstr "Cấu hình kết nối mạng…"
+
+#: contents/ui/TrafficMonitor.qml:37 contents/ui/TrafficMonitor.qml:111
+#, kde-format
+msgid "/s"
+msgstr "/giây"
+
+#: contents/ui/TrafficMonitor.qml:89
+#, kde-format
+msgid "Upload"
+msgstr "Tải lên"
+
+#: contents/ui/TrafficMonitor.qml:89
+#, kde-format
+msgid "Download"
+msgstr "Tải về"

@@ -1,0 +1,778 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-nm package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-nm\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-12-13 01:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: bluetoothmonitor.cpp:67
+#, kde-format
+msgid "Only 'dun' and 'nap' services are supported."
+msgstr "Chỉ hỗ trợ dịch vụ 'dun' và 'nap'."
+
+#: connectivitymonitor.cpp:63
+#, kde-format
+msgid "Network authentication"
+msgstr "Xác thực mạng"
+
+#: connectivitymonitor.cpp:72
+#, kde-format
+msgid "You need to log into this network"
+msgstr "Bạn cần đăng nhập vào mạng này"
+
+#: connectivitymonitor.cpp:74
+#, kde-format
+msgid "Log in"
+msgstr "Đăng nhập"
+
+#: connectivitymonitor.cpp:94
+#, kde-format
+msgid "Limited Connectivity"
+msgstr "Kết nối hạn chế"
+
+#: connectivitymonitor.cpp:95
+#, kde-format
+msgid ""
+"This device appears to be connected to a network but is unable to reach the "
+"internet."
+msgstr "Thiết bị này dường như đã kết nối mạng nhưng không thể truy cập internet."
+
+#: modemmonitor.cpp:182
+#, kde-format
+msgctxt "Text in GSM PIN/PUK unlock error dialog"
+msgid "Error unlocking modem: %1"
+msgstr "Lỗi mở khóa modem: %1"
+
+#: modemmonitor.cpp:183
+#, kde-format
+msgctxt "Title for GSM PIN/PUK unlock error dialog"
+msgid "PIN/PUK unlock error"
+msgstr "Lỗi mở khóa PIN/PUK"
+
+#: notification.cpp:97
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to ConfigFailedReason"
+msgid "The device could not be configured"
+msgstr "Thiết bị không thể cấu hình được"
+
+#: notification.cpp:100
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"ConfigUnavailableReason"
+msgid "IP configuration was unavailable"
+msgstr "Cấu hình IP không khả dụng"
+
+#: notification.cpp:103
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to ConfigExpiredReason"
+msgid "IP configuration expired"
+msgstr "Cấu hình IP đã hết hạn"
+
+#: notification.cpp:106
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to NoSecretsReason"
+msgid "No secrets were provided"
+msgstr "Không có mật khẩu nào được cung cấp"
+
+#: notification.cpp:109
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"AuthSupplicantDisconnectReason"
+msgid "Authorization supplicant disconnected"
+msgstr "Trình uỷ quyền bị ngắt kết nối"
+
+#: notification.cpp:113
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"AuthSupplicantConfigFailedReason"
+msgid "Authorization supplicant's configuration failed"
+msgstr "Cấu hình uỷ quyền bổ sung thất bại"
+
+#: notification.cpp:116
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"AuthSupplicantFailedReason"
+msgid "Authorization supplicant failed"
+msgstr "Uỷ quyền bổ sung thất bại"
+
+#: notification.cpp:119
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"AuthSupplicantTimeoutReason"
+msgid "Authorization supplicant timed out"
+msgstr "Uỷ quyền bổ sung đã hết thời gian chờ"
+
+#: notification.cpp:122
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to PppStartFailedReason"
+msgid "PPP failed to start"
+msgstr "PPP không thể khởi động"
+
+#: notification.cpp:125
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to PppDisconnectReason"
+msgid "PPP disconnected"
+msgstr "PPP đã ngắt kết nối"
+
+#: notification.cpp:128
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to PppFailedReason"
+msgid "PPP failed"
+msgstr "PPP thất bại"
+
+#: notification.cpp:131
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to DhcpStartFailedReason"
+msgid "DHCP failed to start"
+msgstr "DHCP không thể khởi động"
+
+#: notification.cpp:134
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to DhcpErrorReason"
+msgid "A DHCP error occurred"
+msgstr "Đã xảy ra lỗi DHCP"
+
+#: notification.cpp:137
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to DhcpFailedReason"
+msgid "DHCP failed "
+msgstr "DHCP thất bại"
+
+#: notification.cpp:140
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"SharedStartFailedReason"
+msgid "The shared service failed to start"
+msgstr "Dịch vụ chia sẻ không thể khởi động"
+
+#: notification.cpp:143
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to SharedFailedReason"
+msgid "The shared service failed"
+msgstr "Dịch vụ chia sẻ đã thất bại"
+
+#: notification.cpp:146
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"AutoIpStartFailedReason"
+msgid "The auto IP service failed to start"
+msgstr "Dịch vụ IP tự động không thể khởi động"
+
+#: notification.cpp:149
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to AutoIpErrorReason"
+msgid "The auto IP service reported an error"
+msgstr "Dịch vụ IP tự động báo cáo lỗi"
+
+#: notification.cpp:152
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to AutoIpFailedReason"
+msgid "The auto IP service failed"
+msgstr "Dịch vụ IP tự động thất bại"
+
+#: notification.cpp:155
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to ModemBusyReason"
+msgid "The modem is busy"
+msgstr "Bộ điều giải đang bận"
+
+#: notification.cpp:158
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to ModemNoDialToneReason"
+msgid "The modem has no dial tone"
+msgstr "Bộ điều giải không có âm quay số"
+
+#: notification.cpp:161
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to ModemNoCarrierReason"
+msgid "The modem shows no carrier"
+msgstr "Bộ điều giải không có sóng mạng"
+
+#: notification.cpp:164
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"ModemDialTimeoutReason"
+msgid "The modem dial timed out"
+msgstr "Bộ điều giải quay số đã hết thời gian chờ"
+
+#: notification.cpp:167
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to ModemDialFailedReason"
+msgid "The modem dial failed"
+msgstr "Bộ điều giải quay số thất bại"
+
+#: notification.cpp:170
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to ModemInitFailedReason"
+msgid "The modem could not be initialized"
+msgstr "Bộ điều giải không khởi tạo được"
+
+#: notification.cpp:173
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"GsmApnSelectFailedReason"
+msgid "The GSM APN could not be selected"
+msgstr "Không thể chọn được APN GSM"
+
+#: notification.cpp:176
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to GsmNotSearchingReason"
+msgid "The GSM modem is not searching"
+msgstr "Bộ điều giải GSM không tìm kiếm"
+
+#: notification.cpp:179
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"GsmRegistrationDeniedReason"
+msgid "GSM network registration was denied"
+msgstr "Đăng ký mạng GSM bị từ chối"
+
+#: notification.cpp:182
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"GsmRegistrationTimeoutReason"
+msgid "GSM network registration timed out"
+msgstr "Đăng ký mạng GSM đã hết thời gian"
+
+#: notification.cpp:185
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"GsmRegistrationFailedReason"
+msgid "GSM registration failed"
+msgstr "Đăng ký GSM thất bại"
+
+#: notification.cpp:188
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"GsmPinCheckFailedReason"
+msgid "The GSM PIN check failed"
+msgstr "Kiểm tra PIN GSM thất bại"
+
+#: notification.cpp:191
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to FirmwareMissingReason"
+msgid "Device firmware is missing"
+msgstr "Thiếu phần sụn thiết bị"
+
+#: notification.cpp:194
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to DeviceRemovedReason"
+msgid "The device was removed"
+msgstr "Thiết bị đã bị gỡ bỏ"
+
+#: notification.cpp:197
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to SleepingReason"
+msgid "The networking system is now sleeping"
+msgstr "Hệ thống mạng hiện đang ngủ"
+
+#: notification.cpp:200
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"ConnectionRemovedReason"
+msgid "The connection was removed"
+msgstr "Kết nối đã bị gỡ bỏ"
+
+#: notification.cpp:205
+#, kde-format
+msgctxt "@info:status Notification when the device failed due to CarrierReason"
+msgid "The cable was disconnected"
+msgstr "Cáp đã bị ngắt kết nối"
+
+#: notification.cpp:211
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to ModemNotFoundReason"
+msgid "The modem could not be found"
+msgstr "Không tìm thấy được bộ điều giải"
+
+#: notification.cpp:214
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to BluetoothFailedReason"
+msgid "The bluetooth connection failed or timed out"
+msgstr "Kết nối bluetooth thất bại hoặc hết thời gian chờ"
+
+#: notification.cpp:217
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to GsmSimNotInserted"
+msgid "GSM Modem's SIM Card not inserted"
+msgstr "Chưa lắp thẻ SIM của Modem GSM"
+
+#: notification.cpp:220
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to GsmSimPinRequired"
+msgid "GSM Modem's SIM Pin required"
+msgstr "Yêu cầu mã PIN SIM của Modem GSM"
+
+#: notification.cpp:223
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to GsmSimPukRequired"
+msgid "GSM Modem's SIM Puk required"
+msgstr "Yêu cầu PUK của SIM modem GSM"
+
+#: notification.cpp:226
+#, kde-format
+msgctxt "@info:status Notification when the device failed due to GsmSimWrong"
+msgid "GSM Modem's SIM wrong"
+msgstr "SIM của Modem GSM không đúng"
+
+#: notification.cpp:229
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to InfiniBandMode"
+msgid "InfiniBand device does not support connected mode"
+msgstr "Thiết bị InfiniBand không hỗ trợ chế độ kết nối"
+
+#: notification.cpp:232
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to DependencyFailed"
+msgid "A dependency of the connection failed"
+msgstr "Một phụ thuộc của kết nối đã thất bại"
+
+#: notification.cpp:235
+#, kde-format
+msgctxt "@info:status Notification when the device failed due to Br2684Failed"
+msgid "Problem with the RFC 2684 Ethernet over ADSL bridge"
+msgstr "Sự cố với cầu nối Ethernet qua ADSL RFC 2684"
+
+#: notification.cpp:238
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"ModemManagerUnavailable"
+msgid "ModemManager not running"
+msgstr "ModemManager không chạy"
+
+#: notification.cpp:244
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"SecondaryConnectionFailed"
+msgid "A secondary connection of the base connection failed"
+msgstr "Kết nối phụ của kết nối cơ bản thất bại"
+
+#: notification.cpp:247
+#, kde-format
+msgctxt "@info:status Notification when the device failed due to DcbFcoeFailed"
+msgid "DCB or FCoE setup failed"
+msgstr "Thiết lập DCB hoặc FCoE thất bại"
+
+#: notification.cpp:250
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to TeamdControlFailed"
+msgid "teamd control failed"
+msgstr "điều khiển teamd thất bại"
+
+#: notification.cpp:253
+#, kde-format
+msgctxt "@info:status Notification when the device failed due to ModemFailed"
+msgid "Modem failed or no longer available"
+msgstr "Bộ điều giải lỗi hoặc không còn khả dụng"
+
+#: notification.cpp:256
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to ModemAvailable"
+msgid "Modem now ready and available"
+msgstr "Bộ điều giải đã sẵn sàng và khả dụng"
+
+#: notification.cpp:259
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to SimPinIncorrect"
+msgid "The SIM PIN was incorrect"
+msgstr "Mã PIN SIM không đúng"
+
+#: notification.cpp:262
+#, kde-format
+msgctxt "@info:status Notification when the device failed due to NewActivation"
+msgid "A new connection activation was enqueued"
+msgstr "Một kích hoạt kết nối mới đã được xếp hàng đợi"
+
+#: notification.cpp:265
+#, kde-format
+msgctxt "@info:status Notification when the device failed due to ParentChanged"
+msgid "The device's parent changed"
+msgstr "Thiết bị cha đã thay đổi"
+
+#: notification.cpp:268
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to ParentManagedChanged"
+msgid "The device parent's management changed"
+msgstr "Quản lý thiết bị cha đã thay đổi"
+
+#: notification.cpp:344
+#, kde-format
+msgid "Connection '%1' activated."
+msgstr "Kết nối '%1' đã được kích hoạt."
+
+#: notification.cpp:371
+#, kde-format
+msgid "Connection '%1' deactivated."
+msgstr "Kết nối '%1' đã bị vô hiệu hóa."
+
+#: notification.cpp:422
+#, kde-format
+msgid "VPN connection '%1' activated."
+msgstr "Kết nối VPN '%1' đã được kích hoạt."
+
+#: notification.cpp:425
+#, kde-format
+msgid "VPN connection '%1' failed to activate."
+msgstr "Kết nối VPN '%1' không thể kích hoạt."
+
+#: notification.cpp:428 notification.cpp:436
+#, kde-format
+msgid "VPN connection '%1' deactivated."
+msgstr "Kết nối VPN '%1' đã bị vô hiệu hóa."
+
+#: notification.cpp:439
+#, kde-format
+msgid ""
+"VPN connection '%1' was deactivated because the device it was using was "
+"disconnected."
+msgstr "Kết nối VPN '%1' đã bị vô hiệu hóa do thiết bị sử dụng nó bị ngắt kết nối."
+
+#: notification.cpp:442
+#, kde-format
+msgid "The service providing the VPN connection '%1' was stopped."
+msgstr "Dịch vụ cung cấp kết nối VPN '%1' đã bị dừng."
+
+#: notification.cpp:445
+#, kde-format
+msgid "The IP config of the VPN connection '%1', was invalid."
+msgstr "Cấu hình IP của kết nối VPN '%1' không hợp lệ."
+
+#: notification.cpp:448
+#, kde-format
+msgid "The connection attempt to the VPN service timed out."
+msgstr "Kết nối đến dịch vụ VPN đã hết thời gian chờ."
+
+#: notification.cpp:451
+#, kde-format
+msgid ""
+"A timeout occurred while starting the service providing the VPN connection "
+"'%1'."
+msgstr "Đã hết giờ khi khởi động dịch vụ cung cấp kết nối VPN '%1'."
+
+#: notification.cpp:454
+#, kde-format
+msgid "Starting the service providing the VPN connection '%1' failed."
+msgstr "Khởi động dịch vụ cung cấp kết nối VPN '%1' thất bại."
+
+#: notification.cpp:457
+#, kde-format
+msgid "Necessary secrets for the VPN connection '%1' were not provided."
+msgstr "Các thông tin bí mật cần thiết cho kết nối VPN '%1' không được cung cấp."
+
+#: notification.cpp:460
+#, kde-format
+msgid "Authentication to the VPN server failed."
+msgstr "Xác thực với máy chủ VPN thất bại."
+
+#: notification.cpp:463
+#, kde-format
+msgid "The connection was deleted."
+msgstr "Kết nối đã bị xóa."
+
+#: notification.cpp:549
+#, kde-format
+msgid "No Network Connection"
+msgstr "Không có kết nối mạng"
+
+#: notification.cpp:550
+#, kde-format
+msgid "You are no longer connected to a network."
+msgstr "Bạn đã ngắt kết nối mạng."
+
+#: passworddialog.cpp:54
+#, kde-format
+msgid "Authenticate %1"
+msgstr "Xác thực %1"
+
+#: passworddialog.cpp:90
+#, kde-format
+msgctxt "@info:status 'secrets' means the authentication needed for a VPN"
+msgid "No secrets were requested"
+msgstr "Không yêu cầu thông tin xác thực"
+
+#: passworddialog.cpp:99
+#, kde-format
+msgid "Incorrect password for the wireless network \"%1\". Please try again."
+msgstr "Mật khẩu không đúng cho mạng không dây \"%1\". Vui lòng thử lại."
+
+#: passworddialog.cpp:101
+#, kde-format
+msgid "Enter the password for the wireless network \"%1\":"
+msgstr "Nhập mật khẩu cho mạng không dây \"%1\":"
+
+#: passworddialog.cpp:105
+#, kde-format
+msgid "Incorrect password for the connection \"%1\". Please try again."
+msgstr "Mật khẩu không đúng cho kết nối \"%1\". Vui lòng thử lại."
+
+#: passworddialog.cpp:107
+#, kde-format
+msgid "Enter the password for the connection \"%1\":"
+msgstr "Nhập mật khẩu cho kết nối \"%1\":"
+
+#: passworddialog.cpp:114
+#, kde-format
+msgid "%1 password dialog"
+msgstr "Hộp thoại mật khẩu %1"
+
+#: passworddialog.cpp:121
+#, kde-format
+msgctxt "@info:status"
+msgid "VPN settings are missing"
+msgstr "Thiếu thiết lập VPN"
+
+#: passworddialog.cpp:134
+#, kde-format
+msgid "Provide the secrets for the VPN connection \"%1\":"
+msgstr "Cung cấp mật khẩu cho kết nối VPN \"%1\":"
+
+#: passworddialog.cpp:135
+#, kde-format
+msgid "VPN secrets (%1) dialog"
+msgstr "Hộp thoại mật khẩu VPN (%1)"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, PasswordDialog)
+#: passworddialog.ui:26
+#, kde-format
+msgid "Password dialog"
+msgstr "Hộp thoại mật khẩu"
+
+#. i18n: ectx: property (text), widget (QLabel, labelPass)
+#: passworddialog.ui:92
+#, kde-format
+msgid "Password:"
+msgstr "Mật khẩu:"
+
+#: pindialog.cpp:68
+#, kde-format
+msgid "SIM PUK"
+msgstr "SIM PUK"
+
+#: pindialog.cpp:70
+#, kde-format
+msgid "SIM PUK2"
+msgstr "SIM PUK2"
+
+#: pindialog.cpp:72
+#, kde-format
+msgid "Service provider PUK"
+msgstr "PUK nhà cung cấp dịch vụ"
+
+#: pindialog.cpp:74
+#, kde-format
+msgid "Network PUK"
+msgstr "PUK mạng"
+
+#: pindialog.cpp:76
+#, kde-format
+msgid "Corporate PUK"
+msgstr "PUK doanh nghiệp"
+
+#: pindialog.cpp:78
+#, kde-format
+msgid "PH-FSIM PUK"
+msgstr "PUK PH-FSIM"
+
+#: pindialog.cpp:80
+#, kde-format
+msgid "Network Subset PUK"
+msgstr "PUK Mạng Con"
+
+#: pindialog.cpp:83 pindialog.cpp:115
+#, kde-format
+msgid "%1 unlock required"
+msgstr "Cần mở khóa %1"
+
+#: pindialog.cpp:84 pindialog.cpp:116
+#, kde-format
+msgid "%1 Unlock Required"
+msgstr "Cần Mở Khóa %1"
+
+#: pindialog.cpp:85 pindialog.cpp:117
+#, kde-format
+msgid ""
+"The mobile broadband device '%1' requires a %2 code before it can be used."
+msgstr ""
+"Thiết bị băng thông rộng di động '%1' yêu cầu mã %2 trước khi có thể sử "
+"dụng."
+
+#: pindialog.cpp:86 pindialog.cpp:118
+#, kde-format
+msgid "%1 code:"
+msgstr "Mã %1:"
+
+#. i18n: ectx: property (text), widget (QLabel, pinLabel)
+#: pindialog.cpp:87 pinwidget.ui:153
+#, kde-format
+msgid "New PIN code:"
+msgstr "Mã PIN mới:"
+
+#: pindialog.cpp:88
+#, kde-format
+msgid "Re-enter new PIN code:"
+msgstr "Nhập lại mã PIN mới:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, chkShowPass)
+#: pindialog.cpp:89 pinwidget.ui:193
+#, kde-format
+msgid "Show PIN/PUK code"
+msgstr "Hiện mã PIN/PUK"
+
+#: pindialog.cpp:99
+#, kde-format
+msgid "SIM PIN"
+msgstr "PIN SIM"
+
+#: pindialog.cpp:101
+#, kde-format
+msgid "SIM PIN2"
+msgstr "PIN2 SIM"
+
+#: pindialog.cpp:103
+#, kde-format
+msgid "Service provider PIN"
+msgstr "PIN nhà cung cấp dịch vụ"
+
+#: pindialog.cpp:105
+#, kde-format
+msgid "Network PIN"
+msgstr "PIN mạng"
+
+#: pindialog.cpp:107
+#, kde-format
+msgid "PIN"
+msgstr "PIN"
+
+#: pindialog.cpp:109
+#, kde-format
+msgid "Corporate PIN"
+msgstr "PIN doanh nghiệp"
+
+#: pindialog.cpp:111
+#, kde-format
+msgid "PH-FSIM PIN"
+msgstr "PIN PH-FSIM"
+
+#: pindialog.cpp:113
+#, kde-format
+msgid "Network Subset PIN"
+msgstr "PIN Mạng Con"
+
+#: pindialog.cpp:119
+#, kde-format
+msgid "Show PIN code"
+msgstr "Hiển thị mã PIN"
+
+#: pindialog.cpp:203
+#, kde-format
+msgid "PIN code too short. It should be at least 4 digits."
+msgstr "Mã PIN quá ngắn. Nó phải có ít nhất 4 chữ số."
+
+#: pindialog.cpp:208
+#, kde-format
+msgid "The two PIN codes do not match"
+msgstr "Hai mã PIN không khớp nhau"
+
+#: pindialog.cpp:213
+#, kde-format
+msgid "PUK code too short. It should be 8 digits."
+msgstr "Mã PUK quá ngắn. Nó phải có 8 chữ số."
+
+#: pindialog.cpp:218
+#, kde-format
+msgid "Unknown Error"
+msgstr "Lỗi không rõ"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, PinWidget)
+#. i18n: ectx: property (text), widget (QLabel, title)
+#: pinwidget.ui:14 pinwidget.ui:47
+#, kde-format
+msgid "SIM PIN unlock required"
+msgstr "Cần mở khóa PIN SIM"
+
+#. i18n: ectx: property (text), widget (QLabel, prompt)
+#: pinwidget.ui:76
+#, no-c-format, kde-format
+msgid ""
+"The mobile broadband device '%1' requires a SIM PIN code before it can be "
+"used."
+msgstr ""
+"Thiết bị băng thông rộng di động '%1' yêu cầu mã PIN SIM trước khi có thể "
+"sử dụng."
+
+#. i18n: ectx: property (text), widget (QLabel, pukLabel)
+#: pinwidget.ui:133
+#, kde-format
+msgid "PUK code:"
+msgstr "Mã PUK:"
+
+#. i18n: ectx: property (text), widget (QLabel, pin2Label)
+#: pinwidget.ui:173
+#, kde-format
+msgid "Re-enter PIN code:"
+msgstr "Nhập lại mã PIN:"
+
+#: secretagent.cpp:408
+#, kde-format
+msgid "Authentication to %1 failed. Wrong password?"
+msgstr "Xác thực vào %1 thất bại. Sai mật khẩu?"

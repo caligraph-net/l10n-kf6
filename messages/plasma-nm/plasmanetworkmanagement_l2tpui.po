@@ -1,0 +1,620 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-nm package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-nm\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-10 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. i18n: ectx: property (text), widget (QLabel, labelGateway)
+#: l2tp.ui:19
+#, kde-format
+msgid "Gateway:"
+msgstr "Cổng:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, gateway)
+#: l2tp.ui:35
+#, kde-format
+msgid "L2TP server IP or name."
+msgstr "IP hoặc tên máy chủ L2TP."
+
+#. i18n: ectx: property (text), widget (QLabel, labelAuthType)
+#: l2tp.ui:45
+#, kde-format
+msgid "Authentication type:"
+msgstr "Loại xác thực:"
+
+#. i18n: ectx: property (toolTip), widget (QComboBox, cmbAuthType)
+#: l2tp.ui:67 l2tpipsec.ui:68
+#, kde-format
+msgid "Select an authentication mode."
+msgstr "Bôi đen một chế độ xác thực."
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbAuthType)
+#: l2tp.ui:71
+#, kde-format
+msgid "Password"
+msgstr "Mật khẩu"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbAuthType)
+#: l2tp.ui:76 l2tpipsec.ui:77
+#, kde-format
+msgid "Certificates (TLS)"
+msgstr "Chứng chỉ (TLS)"
+
+#. i18n: ectx: property (text), widget (QLabel, Label_1)
+#: l2tp.ui:90
+#, kde-format
+msgctxt "like in Username for athentication"
+msgid "Username:"
+msgstr "Tên người dùng:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, username)
+#: l2tp.ui:103
+#, kde-format
+msgid ""
+"<html><head/><body><p>Set the name used for authenticating the local system "
+"to the peer to &lt;name&gt;.</p></body></html>"
+msgstr ""
+"Đặt tên dùng để xác thực hệ thống cục bộ với máy ngang hàng thành "
+"&&lt;name&gt;."
+
+#. i18n: ectx: property (text), widget (QLabel, Label_2)
+#: l2tp.ui:113
+#, kde-format
+msgid "Password:"
+msgstr "Mật khẩu:"
+
+#. i18n: ectx: property (toolTip), widget (PasswordField, password)
+#: l2tp.ui:128
+#, kde-format
+msgid ""
+"<html><head/><body><p>Password passed to PPPD when prompted for it.</p></"
+"body></html>"
+msgstr "Mật khẩu được chuyển cho PPPD khi được yêu cầu."
+
+#. i18n: ectx: property (text), widget (QLabel, Label_3)
+#: l2tp.ui:140
+#, kde-format
+msgid "NT Domain:"
+msgstr "Miền NT:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, domain)
+#: l2tp.ui:150
+#, kde-format
+msgid ""
+"<html><head/><body><p>Append the domain name &lt;domain&gt; to the local "
+"host name for</p><p>authentication purposes.</p></body></html>"
+msgstr "Thê&m tên miền <domain> vào tên máy cục bộ cho mục đích xác thực."
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: l2tp.ui:174 l2tpipsec.ui:205
+#, kde-format
+msgid "CA Certificate:"
+msgstr "Chứng chỉ CA:"
+
+#. i18n: ectx: property (toolTip), widget (KUrlRequester, machineCA)
+#. i18n: ectx: property (toolTip), widget (KUrlRequester, userCA)
+#: l2tp.ui:187 l2tpipsec.ui:119
+#, kde-format
+msgid ""
+"<html><head/><body><p>Certificate authority (CA) file in .pem, .der, .crt, ."
+"cer or .p12 formats.</p></body></html>"
+msgstr "Tệp chứng thực (CA) ở định dạng .pem, .der, .crt, .cer hoặc .p12."
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: l2tp.ui:199
+#, kde-format
+msgid "User Certificate:"
+msgstr "Chứng chỉ người dùng:"
+
+#. i18n: ectx: property (toolTip), widget (KUrlRequester, userCert)
+#: l2tp.ui:212
+#, kde-format
+msgid ""
+"<html><head/><body><p>Certificate in .pem, .der, .crt, .cer or .p12 formats."
+"</p></body></html>"
+msgstr "Chứng chỉ ở định dạng .pem, .der, .crt, .cer hoặc .p12."
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: l2tp.ui:224 l2tpipsec.ui:156
+#, kde-format
+msgid "Private Key:"
+msgstr "Khóa riêng:"
+
+#. i18n: ectx: property (toolTip), widget (KUrlRequester, machineKey)
+#. i18n: ectx: property (toolTip), widget (KUrlRequester, userKey)
+#: l2tp.ui:237 l2tpipsec.ui:169
+#, kde-format
+msgid ""
+"<html><head/><body><p>Private key in .pem, .der, .key, .pk8 or .p12 formats."
+"</p></body></html>"
+msgstr "Khóa riêng ở định dạng .pem, .der, .key, .pk8 hoặc .p12."
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: l2tp.ui:249 l2tpipsec.ui:181
+#, kde-format
+msgid "Private Key Password:"
+msgstr "Mật khẩu khoá bí mật:"
+
+#. i18n: ectx: property (toolTip), widget (PasswordField, machineKeyPassword)
+#. i18n: ectx: property (toolTip), widget (PasswordField, userKeyPassword)
+#: l2tp.ui:261 l2tpipsec.ui:193
+#, kde-format
+msgid ""
+"<html><head/><body><p>Password for private key or PKCS#12 certificate.</p></"
+"body></html>"
+msgstr "Mật khẩu cho khoá bí mật hoặc chứng chỉ PKCS#12."
+
+#. i18n: ectx: property (text), widget (QPushButton, btnIPSecSettings)
+#: l2tp.ui:292
+#, kde-format
+msgid "IPsec Settings…"
+msgstr "Cài đặt IPsec…"
+
+#. i18n: ectx: property (text), widget (QPushButton, btnPPPSettings)
+#: l2tp.ui:299
+#, kde-format
+msgid "PPP Settings…"
+msgstr "Cài đặt PPP…"
+
+#: l2tpauth.cpp:63
+#, kde-format
+msgid "User Password:"
+msgstr "Mật khẩu người dùng:"
+
+#: l2tpauth.cpp:71
+#, kde-format
+msgid "User Certificate Password:"
+msgstr "Mật khẩu Chứng chỉ Người dùng:"
+
+#: l2tpauth.cpp:82
+#, kde-format
+msgid "Machine Certificate Password:"
+msgstr "Mật khẩu Chứng chỉ Máy:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbEnableTunnelToHost)
+#: l2tpipsec.ui:20
+#, kde-format
+msgid "Enable IPsec tunnel to L2TP host"
+msgstr "Bật đường hầm IPsec đến máy L2TP"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbAuthentication)
+#: l2tpipsec.ui:38
+#, kde-format
+msgid "Machine Authentication"
+msgstr "Xác thực máy"
+
+#. i18n: ectx: property (text), widget (QLabel, labelAuthType)
+#: l2tpipsec.ui:46
+#, kde-format
+msgid "Type:"
+msgstr "Loại:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbAuthType)
+#: l2tpipsec.ui:72
+#, kde-format
+msgid "Pre-shared Key (PSK)"
+msgstr "Khóa chia sẻ trước (PSK)"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: l2tpipsec.ui:91
+#, kde-format
+msgid "Pre-shared Key:"
+msgstr "Khóa chia sẻ trước:"
+
+#. i18n: ectx: property (toolTip), widget (PasswordField, presharedKey)
+#: l2tpipsec.ui:103
+#, kde-format
+msgid "<html><head/><body><p>Pre-shared key (PSK) secret.</p></body></html>"
+msgstr "Khóa bí mật được chia sẻ trước (PSK)."
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: l2tpipsec.ui:131
+#, kde-format
+msgid "Machine Certificate:"
+msgstr "Chứng chỉ máy:"
+
+#. i18n: ectx: property (toolTip), widget (KUrlRequester, machineCert)
+#: l2tpipsec.ui:144
+#, kde-format
+msgid ""
+"<html><head/><body><p>Certificate in .pem, .der or .p12 formats.</p></body></"
+"html>"
+msgstr "Chứng chỉ ở định dạng .pem, .der hoặc .p12."
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbAdvanced)
+#: l2tpipsec.ui:225
+#, kde-format
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: l2tpipsec.ui:231
+#, kde-format
+msgid "Phase1 Algorithms:"
+msgstr "Thuật toán Giai đoạn 1:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: l2tpipsec.ui:241
+#, kde-format
+msgid "Phase2 Algorithms:"
+msgstr "Thuật toán Giai đoạn 2:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, esp)
+#: l2tpipsec.ui:251
+#, kde-format
+msgid ""
+"<html><head/><body><p>Optional. A list of proposals for ESP - Quick Mode. "
+"The format is “enc-integ,enc-integ, …”.</p></body></html>"
+msgstr ""
+"Tùy chọn. Danh sách đề xuất cho ESP - Chế độ nhanh. Định dạng là \"mã "
+"hóa-toàn vẹn,mã hóa-toàn vẹn, ...\"."
+
+#. i18n: ectx: property (toolTip), widget (QTimeEdit, ikelifetime)
+#: l2tpipsec.ui:261
+#, kde-format
+msgid ""
+"<html><head/><body><p>How long the keying channel of a connection should "
+"last before being renegotiated.</p></body></html>"
+msgstr ""
+"Kênh trao đổi khóa của kết nối nên kéo dài bao lâu trước khi được thương "
+"lượng lại."
+
+#. i18n: ectx: property (displayFormat), widget (QTimeEdit, ikelifetime)
+#. i18n: ectx: property (displayFormat), widget (QTimeEdit, salifetime)
+#: l2tpipsec.ui:264 l2tpipsec.ui:298
+#, kde-format
+msgid "hh:mm:ss"
+msgstr "hh:mm:ss"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbIkelifetime)
+#: l2tpipsec.ui:271
+#, kde-format
+msgid "Phase1 Lifetime:"
+msgstr "Thời gian Phase1:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, ike)
+#: l2tpipsec.ui:278
+#, kde-format
+msgid ""
+"<html><head/><body><p>Optional. A list of proposals for IKE - Main Mode. The "
+"format is “enc-integ-group,enc-integ-group, …”.</p></body></html>"
+msgstr ""
+"Tùy chọn. Danh sách đề xuất cho IKE - Chế độ chính. Định dạng là "
+"\"enc-integ-group,enc-integ-group, …\"."
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbSalifetime)
+#: l2tpipsec.ui:285
+#, kde-format
+msgid "Phase2 Lifetime:"
+msgstr "Thời gian Phase2:"
+
+#. i18n: ectx: property (toolTip), widget (QTimeEdit, salifetime)
+#: l2tpipsec.ui:295
+#, kde-format
+msgid ""
+"<html><head/><body><p>How long a particular instance of a connection (a set "
+"of encryption/authentication keys for user packets) should last, from "
+"successful negotiation to expiry.</p></body></html>"
+msgstr ""
+"Thời gian một hiện thể kết nối cụ thể (một bộ khóa mã hóa/xác thực cho gói "
+"tin người dùng) nên kéo dài, từ khi dàn xếp thành công đến khi hết hạn."
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, remoteId)
+#: l2tpipsec.ui:305
+#, kde-format
+msgid ""
+"<html><head/><body><p>Optional. How the IPsec server should be identified "
+"for authentication. Sometimes referred to as Peer ID or Gateway ID, also "
+"referred to as rightid by strongSwan, Libreswan, Openswan and FreeS/WAN. See "
+"strongSwan or Libreswan documentation for leftid/rightid syntax and identity "
+"parsing.</p></body></html>"
+msgstr ""
+"Tùy chọn. Cách máy chủ IPsec nên được xác định để xác thực. Đôi khi được "
+"gọi là Mã định danh Ngang hàng hoặc Mã định danh Cổng, cũng được gọi là "
+"rightid bởi strongSwan, Libreswan, Openswan và FreeS/WAN. Xem tài liệu "
+"strongSwan hoặc Libreswan về cú pháp leftid/rightid và phân tích danh tính."
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbIPComp)
+#: l2tpipsec.ui:312
+#, kde-format
+msgid ""
+"<html><head/><body><p>IPComp compresses raw IP packets before they get "
+"encrypted. This saves some bandwidth, but uses more processing power.</p></"
+"body></html>"
+msgstr ""
+"IPComp nén các gói IP thô trước khi chúng được mã hóa. Điều này tiết kiệm "
+"băng thông nhưng tốn nhiều tài nguyên xử lý hơn."
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbIPComp)
+#: l2tpipsec.ui:315
+#, kde-format
+msgid "Use IP compression"
+msgstr "Sử dụng nén IP"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbPFS)
+#: l2tpipsec.ui:322
+#, kde-format
+msgid ""
+"<html><head/><body><p>Disable perfect forward secrecy. Enable this option "
+"only if the server doesn’t support PFS.</p></body></html>"
+msgstr ""
+"Vô hiệu hóa tính bảo mật chuyển tiếp hoàn hảo. Chỉ bật lựa chọn này nếu máy "
+"chủ không hỗ trợ PFS."
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbPFS)
+#: l2tpipsec.ui:325
+#, kde-format
+msgid "Disable PFS"
+msgstr "Vô hiệu hóa PFS"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbForceEncaps)
+#: l2tpipsec.ui:332
+#, kde-format
+msgid ""
+"<html><head/><body><p>Some firewalls block ESP traffic. Enforcing UDP "
+"encapsulation even if no NAT situation is detected might help in such cases."
+"</p></body></html>"
+msgstr ""
+"Một số tường lửa gây ngưng trệ lưu lượng ESP. Bắt buộc đóng gói UDP ngay cả "
+"khi không phát hiện tình huống NAT có thể trợ giúp trong những trường hợp "
+"như vậy."
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbForceEncaps)
+#: l2tpipsec.ui:335
+#, kde-format
+msgid "Enforce UDP encapsulation"
+msgstr "Bắt buộc đóng gói UDP"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: l2tpipsec.ui:345
+#, kde-format
+msgid "Remote ID:"
+msgstr "ID từ xa:"
+
+#: l2tpipsecwidget.cpp:44
+#, kde-format
+msgid "L2TP IPsec Options"
+msgstr "Tùy chọn L2TP IPsec"
+
+#. i18n: ectx: property (title), widget (QGroupBox, grp_authenfication)
+#: l2tpppp.ui:26
+#, kde-format
+msgid "Authentication"
+msgstr "Xác thực"
+
+#. i18n: ectx: property (text), widget (QLabel, lblauth)
+#: l2tpppp.ui:35
+#, kde-format
+msgid "Allow following authentication methods:"
+msgstr "Cho phép các phương thức xác thực sau:"
+
+#. i18n: ectx: property (toolTip), widget (QListWidget, listWidget)
+#: l2tpppp.ui:45
+#, kde-format
+msgid "Allow/disable authentication methods"
+msgstr "Cho phép/vô hiệu hóa phương thức xác thực"
+
+#. i18n: ectx: property (text), item, widget (QListWidget, listWidget)
+#: l2tpppp.ui:49
+#, kde-format
+msgid "PAP"
+msgstr "PAP"
+
+#. i18n: ectx: property (text), item, widget (QListWidget, listWidget)
+#: l2tpppp.ui:57
+#, kde-format
+msgid "CHAP"
+msgstr "CHAP"
+
+#. i18n: ectx: property (text), item, widget (QListWidget, listWidget)
+#: l2tpppp.ui:65
+#, kde-format
+msgid "MSCHAP"
+msgstr "MSCHAP"
+
+#. i18n: ectx: property (text), item, widget (QListWidget, listWidget)
+#: l2tpppp.ui:73
+#, kde-format
+msgid "MSCHAPv2"
+msgstr "MSCHAPv2"
+
+#. i18n: ectx: property (text), item, widget (QListWidget, listWidget)
+#: l2tpppp.ui:81
+#, kde-format
+msgid "EAP"
+msgstr "EAP"
+
+#. i18n: ectx: property (title), widget (QGroupBox, grp_cryptoAndCompression)
+#: l2tpppp.ui:95
+#, kde-format
+msgid "Compression"
+msgstr "Nén"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbBSD)
+#: l2tpppp.ui:107
+#, kde-format
+msgid "Allow/disable BSD-Compress compression."
+msgstr "Cho phép/vô hiệu hóa nén BSD-Compress."
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbBSD)
+#: l2tpppp.ui:110
+#, kde-format
+msgid "Allow BSD compression"
+msgstr "Cho phép nén BSD"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbdeflate)
+#: l2tpppp.ui:120
+#, kde-format
+msgid "Allow/disable Deflate compression."
+msgstr "Cho phép/vô hiệu hóa nén Deflate."
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbdeflate)
+#: l2tpppp.ui:123
+#, kde-format
+msgid "Allow Deflate compression"
+msgstr "Cho phép nén Deflate"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbTCPheaders)
+#: l2tpppp.ui:134
+#, kde-format
+msgid ""
+"Allow/disable Van Jacobson style TCP/IP header compression in both the "
+"transmit\n"
+"and the receive directions."
+msgstr ""
+"Cho phép/vô hiệu hóa nén đầu tải TCP/IP kiểu cách Van Jacobson ở cả hướng "
+"truyền và nhận."
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbTCPheaders)
+#: l2tpppp.ui:137
+#, kde-format
+msgid "Allow TCP header compression"
+msgstr "Cho phép nén đầu tải TCP"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbCompressionNegotiation)
+#: l2tpppp.ui:148
+#, kde-format
+msgid ""
+"Allow protocol field compression negotiation in both the receive and the\n"
+" transmit directions."
+msgstr "Cho phép dàn xếp nén trường giao thức theo cả hai hướng nhận và truyền."
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbCompressionNegotiation)
+#: l2tpppp.ui:151
+#, kde-format
+msgid "Use protocol field compression negotiation"
+msgstr "Sử dụng dàn xếp nén trường giao thức"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbAddressControlCompression)
+#: l2tpppp.ui:164
+#, kde-format
+msgid "Use Address/Control compression in both directions (send and receive)."
+msgstr "Sử dụng nén Địa chỉ/Điều khiển theo cả hai hướng (gửi và nhận)."
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbAddressControlCompression)
+#: l2tpppp.ui:167
+#, kde-format
+msgid "Use Address/Control compression"
+msgstr "Sử dụng nén Địa chỉ/Điều khiển"
+
+#. i18n: ectx: property (title), widget (QGroupBox, grp_echo)
+#: l2tpppp.ui:180
+#, kde-format
+msgid "Echo"
+msgstr "Âm vang"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbsendEcho)
+#: l2tpppp.ui:189
+#, kde-format
+msgid "Send LCP echo-requests to find out whether peer is alive."
+msgstr "Gửi yêu cầu LCP echo để kiểm tra trạng thái hoạt động của máy ngang hàng."
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbsendEcho)
+#: l2tpppp.ui:192
+#, kde-format
+msgid "Send PPP echo packets"
+msgstr "Gửi gói tin echo PPP"
+
+#. i18n: ectx: property (title), widget (QGroupBox, grp_other)
+#: l2tpppp.ui:215
+#, kde-format
+msgid "Other Settings"
+msgstr "Thiết lập khác"
+
+#. i18n: ectx: property (text), widget (QLabel, lbMRU)
+#: l2tpppp.ui:224
+#, kde-format
+msgid "MRU: "
+msgstr "MRU: "
+
+#. i18n: ectx: property (text), widget (QLabel, lbMTU)
+#: l2tpppp.ui:238
+#, kde-format
+msgid "MTU: "
+msgstr "MTU: "
+
+#. i18n: ectx: property (toolTip), widget (QGroupBox, gbMPPE)
+#: l2tpppp.ui:257
+#, kde-format
+msgid ""
+"Note: MPPE encryption is only available with MSCHAP authentication methods. "
+"To\n"
+"enable this checkbox, select one or more of the MSCHAP authentication\n"
+"methods: MSCHAP or MSCHAPv2."
+msgstr ""
+"Lưu ý: Mật mã hoá MPPE chỉ khả dụng với phương thức xác thực MSCHAP. Để bật "
+"hộp kiểm này, bôi đen một hoặc nhiều phương thức xác thực MSCHAP: MSCHAP "
+"hoặc MSCHAPv2."
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbMPPE)
+#: l2tpppp.ui:260
+#, kde-format
+msgid "Use MPPE Encryption"
+msgstr "Sử dụng mật mã hoá MPPE"
+
+#. i18n: ectx: property (text), widget (QLabel, lblMMPEcrypto)
+#: l2tpppp.ui:281
+#, kde-format
+msgid "Crypto:"
+msgstr "Mã hóa:"
+
+#. i18n: ectx: property (toolTip), widget (QComboBox, cbMPPECrypto)
+#: l2tpppp.ui:297
+#, kde-format
+msgid "Require the use of MPPE, with 40/128-bit encryption or all."
+msgstr "Yêu cầu sử dụng MPPE, với mật mã hoá 40/128-bit hoặc tất cả."
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cbMPPECrypto)
+#: l2tpppp.ui:301
+#, kde-format
+msgctxt "like in use Any configuration"
+msgid "Any"
+msgstr "Bất kỳ"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cbMPPECrypto)
+#: l2tpppp.ui:306
+#, kde-format
+msgid "128 bit"
+msgstr "128 bit"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cbMPPECrypto)
+#: l2tpppp.ui:311
+#, kde-format
+msgid "40 bit"
+msgstr "40 bit"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbstatefulEncryption)
+#: l2tpppp.ui:319
+#, kde-format
+msgid ""
+"Allow MPPE to use stateful mode. Stateless mode is still attempted first."
+msgstr ""
+"Cho phép MPPE sử dụng chế độ có trạng thái. Chế độ không trạng thái vẫn "
+"được thử trước."
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbstatefulEncryption)
+#: l2tpppp.ui:322
+#, kde-format
+msgid "Use stateful encryption"
+msgstr "Sử dụng mật mã hoá trạng thái"
+
+#: l2tppppwidget.cpp:22
+#, kde-format
+msgid "L2TP PPP Options"
+msgstr "Tùy chọn PPP L2TP"

@@ -1,0 +1,535 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-nm package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-nm\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-31 00:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: openconnectauth.cpp:337
+#, kde-format
+msgid "Failed to initialize software token: %1"
+msgstr "Khởi tạo mã thông báo phần mềm thất bại: %1"
+
+#: openconnectauth.cpp:390
+#, kde-format
+msgid "Contacting host, please wait…"
+msgstr "Đang liên hệ với máy chủ, vui lòng đợi…"
+
+#: openconnectauth.cpp:767
+#, kde-format
+msgctxt "Verb, to proceed with login"
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: openconnectauth.cpp:829
+#, kde-format
+msgid ""
+"Check failed for certificate from VPN server \"%1\".\n"
+"Reason: %2\n"
+"Accept it anyway?"
+msgstr ""
+"Kiểm tra chứng chỉ từ máy chủ VPN \"%1\" thất bại.\nLý do: %2\nVẫn chấp "
+"nhận?"
+
+#: openconnectauth.cpp:924
+#, kde-format
+msgid "Connection attempt was unsuccessful."
+msgstr "Nỗ lực kết nối không thành công."
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, OpenconnectAuth)
+#: openconnectauth.ui:26
+#, kde-format
+msgid "OpenConnect VPN Authentication"
+msgstr "Xác thực VPN OpenConnect"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: openconnectauth.ui:55
+#, kde-format
+msgid "VPN Host"
+msgstr "Máy chủ VPN"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, btnConnect)
+#: openconnectauth.ui:81
+#, kde-format
+msgid "Connect"
+msgstr "Kết nối"
+
+#. i18n: ectx: property (text), widget (QCheckBox, chkAutoconnect)
+#: openconnectauth.ui:102
+#, kde-format
+msgid "Automatically start connecting next time"
+msgstr "Tự động kết nối lần sau"
+
+#. i18n: ectx: property (text), widget (QCheckBox, chkStorePasswords)
+#: openconnectauth.ui:109
+#, kde-format
+msgid "Store passwords"
+msgstr "Lưu mật khẩu"
+
+#. i18n: ectx: property (text), widget (QCheckBox, viewServerLog)
+#: openconnectauth.ui:153
+#, kde-format
+msgid "View Log"
+msgstr "Xem nhật kí"
+
+#. i18n: ectx: property (text), widget (QLabel, lblLogLevel)
+#: openconnectauth.ui:163
+#, kde-format
+msgid "Log Level:"
+msgstr "Mức nhật kí:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbLogLevel)
+#: openconnectauth.ui:174
+#, kde-format
+msgid "Error"
+msgstr "Lỗi"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbLogLevel)
+#: openconnectauth.ui:179
+#, kde-format
+msgid "Info"
+msgstr "Thông tin"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbLogLevel)
+#: openconnectauth.ui:184
+#, kde-format
+msgctxt "like in Debug log level"
+msgid "Debug"
+msgstr "Gỡ lỗi"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbLogLevel)
+#: openconnectauth.ui:189
+#, kde-format
+msgid "Trace"
+msgstr "Theo dõi"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, OpenconnectProp)
+#: openconnectprop.ui:20
+#, kde-format
+msgid "OpenConnect Settings"
+msgstr "Thiết lập OpenConnect"
+
+#. i18n: ectx: property (title), widget (QGroupBox, grp_general)
+#: openconnectprop.ui:26
+#, kde-format
+msgctxt "like in General settings"
+msgid "General"
+msgstr "Chung"
+
+#. i18n: ectx: property (text), widget (QLabel, label_41)
+#: openconnectprop.ui:38
+#, kde-format
+msgid "Gateway:"
+msgstr "Cổng:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: openconnectprop.ui:51
+#, kde-format
+msgid "CA Certificate:"
+msgstr "Chứng chỉ CA:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: openconnectprop.ui:70
+#, kde-format
+msgid "Proxy:"
+msgstr "Proxy:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: openconnectprop.ui:83
+#, kde-format
+msgid "User Agent:"
+msgstr "Tác nhân người dùng:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: openconnectprop.ui:96
+#, kde-format
+msgid "CSD Wrapper Script:"
+msgstr "Tập lệnh bao bọc CSD:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, chkAllowTrojan)
+#: openconnectprop.ui:106
+#, kde-format
+msgid "Allow Cisco Secure Desktop trojan"
+msgstr "Cho phép trojan Cisco Secure Desktop"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: openconnectprop.ui:116
+#, kde-format
+msgid "VPN Protocol:"
+msgstr "Giao thức VPN:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbProtocol)
+#: openconnectprop.ui:133
+#, kde-format
+msgid "Cisco AnyConnect"
+msgstr "Cisco AnyConnect"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbProtocol)
+#: openconnectprop.ui:138
+#, kde-format
+msgid "Juniper Network Connect"
+msgstr "Juniper Network Connect"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbProtocol)
+#: openconnectprop.ui:143
+#, kde-format
+msgid "PAN Global Protect"
+msgstr "PAN Global Protect"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbProtocol)
+#: openconnectprop.ui:148
+#, kde-format
+msgid "Pulse Connect Secure"
+msgstr "Pulse Connect An Toàn"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbProtocol)
+#: openconnectprop.ui:153
+#, kde-format
+msgid "F5 BIG-IP SSL VPN"
+msgstr "F5 BIG-IP SSL VPN"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbProtocol)
+#: openconnectprop.ui:158
+#, kde-format
+msgid "Fortinet SSL VPN"
+msgstr "VPN SSL Fortinet"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbProtocol)
+#: openconnectprop.ui:163
+#, kde-format
+msgid "Array SSL VPN"
+msgstr "VPN SSL Array"
+
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#: openconnectprop.ui:171
+#, kde-format
+msgid "Reported OS:"
+msgstr "Hệ điều hành báo cáo:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbReportedOs)
+#: openconnectprop.ui:190
+#, kde-format
+msgid "GNU/Linux"
+msgstr "GNU/Linux"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbReportedOs)
+#: openconnectprop.ui:195
+#, kde-format
+msgid "GNU/Linux 64-bit"
+msgstr "GNU/Linux 64-bit"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbReportedOs)
+#: openconnectprop.ui:200
+#, kde-format
+msgid "Windows"
+msgstr "Windows"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbReportedOs)
+#: openconnectprop.ui:205
+#, kde-format
+msgid "Mac OS X"
+msgstr "macOS"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbReportedOs)
+#: openconnectprop.ui:210
+#, kde-format
+msgid "Android"
+msgstr "Android"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbReportedOs)
+#: openconnectprop.ui:215
+#, kde-format
+msgid "Apple iOS"
+msgstr "Apple iOS"
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: openconnectprop.ui:226
+#, kde-format
+msgid "Reported Version"
+msgstr "Phiên bản báo cáo"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: openconnectprop.ui:236
+#, kde-format
+msgid "Certificate Authentication"
+msgstr "Xác thực chứng chỉ"
+
+#. i18n: ectx: property (text), widget (QLabel, leMcaCertLabel)
+#: openconnectprop.ui:242
+#, kde-format
+msgid "Machine Certificate:"
+msgstr "Chứng chỉ máy:"
+
+#. i18n: ectx: property (text), widget (QLabel, leMcaPrivateKeyLabel)
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: openconnectprop.ui:261 openconnectprop.ui:299
+#, kde-format
+msgid "Private Key:"
+msgstr "Khóa riêng:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: openconnectprop.ui:280
+#, kde-format
+msgid "User Certificate:"
+msgstr "Chứng chỉ người dùng:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, chkUseFsid)
+#: openconnectprop.ui:318
+#, kde-format
+msgid "Use FSID for key passphrase"
+msgstr "Dùng FSID cho mật tổ khóa"
+
+#. i18n: ectx: property (text), widget (QCheckBox, preventInvalidCert)
+#: openconnectprop.ui:325
+#, kde-format
+msgid "Prevent user from manually accepting invalid certificates"
+msgstr "Ngăn người dùng chấp nhận chứng chỉ không hợp lệ theo cách thủ công"
+
+#. i18n: ectx: property (text), widget (QPushButton, buTokens)
+#: openconnectprop.ui:351
+#, kde-format
+msgid "Token Authentication"
+msgstr "Xác thực hiệu bài"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, OpenConnectToken)
+#: openconnecttoken.ui:14
+#, kde-format
+msgid "OpenConnect OTP Tokens"
+msgstr "Hiệu bài OTP OpenConnect"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbToken)
+#: openconnecttoken.ui:20
+#, kde-format
+msgid "Software Token Authentication"
+msgstr "Xác thực hiệu bài phần mềm"
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: openconnecttoken.ui:26
+#, kde-format
+msgid "Token Mode:"
+msgstr "Chế độ hiệu bài:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#: openconnecttoken.ui:43
+#, kde-format
+msgid "Token Secret:"
+msgstr "Hiệu bài bí mật:"
+
+#: openconnectwebauthdialog.cpp:111
+#, kde-format
+msgid "Choose a Passkey"
+msgstr "Chọn Khóa Mật"
+
+#: openconnectwebauthdialog.cpp:112
+#, kde-format
+msgid "Which passkey do you want to use for %1?"
+msgstr "Bạn muốn sử dụng khóa nào cho %1?"
+
+#: openconnectwebauthdialog.cpp:129
+#, kde-format
+msgid "Ok"
+msgstr "OK"
+
+#: openconnectwebauthdialog.cpp:140
+#, kde-format
+msgid "Use your security key with %1"
+msgstr "Sử dụng khóa an ninh của bạn với %1"
+
+#: openconnectwebauthdialog.cpp:141
+#, kde-format
+msgid "Touch your security key again to complete the request."
+msgstr "Chạm lại khóa an ninh để hoàn tất yêu cầu."
+
+#: openconnectwebauthdialog.cpp:158
+#, kde-format
+msgid "Next"
+msgstr "Tiếp"
+
+#: openconnectwebauthdialog.cpp:167
+#, kde-format
+msgid "PIN Required"
+msgstr "Yêu cầu PIN"
+
+#: openconnectwebauthdialog.cpp:168
+#, kde-format
+msgid "Enter the PIN for your security key"
+msgstr "Nhập mã PIN cho khóa an ninh của bạn"
+
+#: openconnectwebauthdialog.cpp:173
+#, kde-format
+msgid "New PIN Required"
+msgstr "Yêu cầu PIN mới"
+
+#: openconnectwebauthdialog.cpp:174
+#, kde-format
+msgid "Set new PIN for your security key"
+msgstr "Đặt mã PIN mới cho khóa an ninh của bạn"
+
+#: openconnectwebauthdialog.cpp:176
+#, kde-format
+msgid "Change PIN Required"
+msgstr "Yêu cầu thay đổi PIN"
+
+#: openconnectwebauthdialog.cpp:177
+#, kde-format
+msgid "Change PIN for your security key"
+msgstr "Đổi mã PIN cho khóa an ninh của bạn"
+
+#: openconnectwebauthdialog.cpp:188
+#, kde-format
+msgid "Internal User Verification Locked"
+msgstr "Xác Minh Người Dùng Nội Bộ Bị Khóa"
+
+#: openconnectwebauthdialog.cpp:191
+#, kde-format
+msgid "Wrong PIN. %1 attempts remaining."
+msgstr "Sai mã PIN. Còn %1 lần thử."
+
+#: openconnectwebauthdialog.cpp:194
+#, kde-format
+msgid "Too Short. %1 attempts remaining."
+msgstr "Quá ngắn. Còn %1 lần thử."
+
+#: openconnectwebauthdialog.cpp:197
+#, kde-format
+msgid "Invalid Characters. %1 attempts remaining."
+msgstr "Ký tự không hợp lệ. Còn %1 lần thử."
+
+#: openconnectwebauthdialog.cpp:201
+#, kde-format
+msgid "Same as current PIN. %1 attempts remaining."
+msgstr "Giống PIN hiện tại. Còn %1 lần thử."
+
+#: openconnectwebauthdialog.cpp:239
+#, kde-format
+msgid "Something went wrong"
+msgstr "Đã xảy ra lỗi"
+
+#: openconnectwebauthdialog.cpp:243
+#, kde-format
+msgid "Request Timeout"
+msgstr "Yêu cầu hết giờ"
+
+#: openconnectwebauthdialog.cpp:246
+#, kde-format
+msgid "Key not registered"
+msgstr "Chưa đăng ký khóa"
+
+#: openconnectwebauthdialog.cpp:250
+#, kde-format
+msgid "You already registered this device.Try again with device"
+msgstr "Bạn đã đăng ký thiết bị này. Hãy thử lại với thiết bị"
+
+#: openconnectwebauthdialog.cpp:256
+#, kde-format
+msgid ""
+"The security key is locked because the wrong PIN was entered too many times."
+"To unlock it, remove and reinsert it."
+msgstr ""
+"Khóa bảo mật bị khóa do nhập sai mã PIN quá nhiều lần. Để mở khóa, hãy rút "
+"ra và cắm lại."
+
+#: openconnectwebauthdialog.cpp:262
+#, kde-format
+msgid ""
+"The security key is locked because the wrong PIN was entered too many times. "
+"You'll need to reset the security key."
+msgstr ""
+"Khóa an ninh đã bị khóa do nhập sai mã PIN quá nhiều lần. Bạn cần đặt lại "
+"khóa an ninh."
+
+#: openconnectwebauthdialog.cpp:266
+#, kde-format
+msgid ""
+"Authenticator removed during verification. Please reinsert and try again"
+msgstr ""
+"Trình xác thực đã bị gỡ trong quá trình kiểm tra. Vui lòng cắm lại và thử "
+"lại"
+
+#: openconnectwebauthdialog.cpp:269
+#, kde-format
+msgid "Authenticator doesn't have resident key support"
+msgstr "Trình xác thực không hỗ trợ khóa thường trú"
+
+#: openconnectwebauthdialog.cpp:272
+#, kde-format
+msgid "Authenticator missing user verification"
+msgstr "Trình xác thực thiếu xác minh người dùng"
+
+#: openconnectwebauthdialog.cpp:275
+#, kde-format
+msgid "Authenticator missing Large Blob support"
+msgstr "Trình xác thực thiếu hỗ trợ Large Blob"
+
+#: openconnectwebauthdialog.cpp:278
+#, kde-format
+msgid "No common algorithms"
+msgstr "Không có thuật toán chung"
+
+#: openconnectwebauthdialog.cpp:281
+#, kde-format
+msgid "Storage Full"
+msgstr "Bộ nhớ đầy"
+
+#: openconnectwebauthdialog.cpp:284
+#, kde-format
+msgid "User consent denied"
+msgstr "Từ chối sự đồng ý của người dùng"
+
+#: openconnectwebauthdialog.cpp:287
+#, kde-format
+msgid "User Cancelled Request"
+msgstr "Người dùng đã hủy yêu cầu"
+
+#: openconnectwebauthdialog.cpp:300
+#, kde-format
+msgid "Close"
+msgstr "Đóng"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, Dialog)
+#: openconnectwebauthdialog.ui:20
+#, kde-format
+msgid "WebAuth"
+msgstr "WebAuth"
+
+#. i18n: ectx: property (text), widget (QLabel, headingLabel)
+#: openconnectwebauthdialog.ui:32
+#, kde-format
+msgid "Heading"
+msgstr "Tiêu đề"
+
+#. i18n: ectx: property (text), widget (QLabel, description)
+#: openconnectwebauthdialog.ui:48
+#, kde-format
+msgid "Description"
+msgstr "Mô tả"
+
+#. i18n: ectx: property (text), widget (QLabel, pinLabel)
+#: openconnectwebauthdialog.ui:84
+#, kde-format
+msgid "PIN"
+msgstr "PIN"
+
+#. i18n: ectx: property (text), widget (QLabel, confirmPinLabel)
+#: openconnectwebauthdialog.ui:107
+#, kde-format
+msgid "Confirm PIN"
+msgstr "Xác nhận PIN"
+
+#. i18n: ectx: property (text), widget (QLabel, pinEntryErrorLabel)
+#: openconnectwebauthdialog.ui:130
+#, kde-format
+msgid "TextLabel"
+msgstr "Nhãn văn bản"

@@ -1,0 +1,177 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-nm package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-nm\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-12-28 01:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kcm.cpp:284
+#, kde-format
+msgid "Failed to import VPN connection: %1"
+msgstr "Không thể nhập khẩu kết nối VPN: %1"
+
+#: kcm.cpp:354
+#, kde-format
+msgid "my_shared_connection"
+msgstr "kết_nối_chung_của_tôi"
+
+#: kcm.cpp:426
+#, kde-format
+msgid "Export VPN Connection"
+msgstr "Xuất khẩu kết nối VPN"
+
+#: kcm.cpp:446
+#, kde-format
+msgid "Do you want to save changes made to the connection '%1'?"
+msgstr "Bạn có muốn lưu các thay đổi đã thực hiện cho kết nối '%1' không?"
+
+#: kcm.cpp:447
+#, kde-format
+msgctxt "@title:window"
+msgid "Save Changes"
+msgstr "Lưu thay đổi"
+
+#: kcm.cpp:542
+#, kde-format
+msgid "Import VPN Connection"
+msgstr "Nhập khẩu Kết nối VPN"
+
+#: kcm.cpp:544
+#, kde-format
+msgid "VPN connections (%1)"
+msgstr "Kết nối VPN (%1)"
+
+#: kcm.cpp:547
+#, kde-format
+msgid "No file was provided"
+msgstr "Không có tệp nào được cung cấp"
+
+#: kcm.cpp:608
+#, kde-format
+msgid "Unknown VPN type"
+msgstr "Kiểu VPN không rõ"
+
+#: qml/AddConnectionDialog.qml:18
+msgctxt "@title:window"
+msgid "Choose a Connection Type"
+msgstr "Chọn Kiểu Kết Nối"
+
+#: qml/AddConnectionDialog.qml:168
+msgid "Create"
+msgstr "Tạo"
+
+#: qml/AddConnectionDialog.qml:179
+msgid "Cancel"
+msgstr "Huỷ"
+
+#: qml/AddConnectionDialog.qml:196 qml/main.qml:180
+msgid "Configuration"
+msgstr "Cấu hình"
+
+#: qml/ConfigurationDialog.qml:20
+msgctxt "@title:window"
+msgid "Configuration"
+msgstr "Cấu hình"
+
+#: qml/ConfigurationDialog.qml:35
+msgid "General"
+msgstr "Chung"
+
+#: qml/ConfigurationDialog.qml:43
+msgid "Ask for PIN on modem detection"
+msgstr "Yêu cầu PIN khi phát hiện bộ điều giải"
+
+#: qml/ConfigurationDialog.qml:50
+msgid "Show virtual connections"
+msgstr "Hiển thị kết nối ảo"
+
+#: qml/ConfigurationDialog.qml:55
+msgid "Hotspot"
+msgstr "Điểm phát sóng"
+
+#: qml/ConfigurationDialog.qml:63
+msgctxt "@label Hotspot name"
+msgid "Name:"
+msgstr "Tên:"
+
+#: qml/ConfigurationDialog.qml:69
+msgctxt "@label Hotspot password"
+msgid "Password:"
+msgstr "Mật khẩu:"
+
+#: qml/ConfigurationDialog.qml:88
+msgid "Hotspot name must not be empty"
+msgstr "Tên điểm phát sóng không được để trống"
+
+#: qml/ConfigurationDialog.qml:98
+msgid ""
+"Hotspot password must either be empty or consist of anywhere from 8 up to 64 "
+"characters"
+msgstr "Mật khẩu điểm phát sóng phải trống hoặc có từ 8 đến 64 ký tự"
+
+#: qml/ConfigurationDialog.qml:99
+msgid ""
+"Hotspot password must either be empty or consist of one of the following:"
+"<ul><li>Exactly 5 or 13 any characters</li><li>Exactly 10 or 26 hexadecimal "
+"characters:<br/>abcdef, ABCDEF or 0-9</li></ul>"
+msgstr ""
+"Mật khẩu điểm phát phải trống hoặc gồm một trong các dạng sau:<ul><li>Chính "
+"xác 5 hoặc 13 ký tự bất kỳ</li><li>Chính xác 10 hoặc 26 ký tự thập lục "
+"phân:<br/>abcdef, ABCDEF hoặc 0-9</li></ul>"
+
+#: qml/ConnectionItem.qml:108
+msgid "Connect"
+msgstr "Kết nối"
+
+#: qml/ConnectionItem.qml:108
+msgid "Disconnect"
+msgstr "Ngắt kết nối"
+
+#: qml/ConnectionItem.qml:121
+msgid "Delete"
+msgstr "Xóa"
+
+#: qml/ConnectionItem.qml:131
+msgid "Export"
+msgstr "Xuất khẩu"
+
+#: qml/ConnectionItem.qml:141
+msgid "Connected"
+msgstr "Đã kết nối"
+
+#: qml/ConnectionItem.qml:143
+msgid "Connecting"
+msgstr "Đang kết nối"
+
+#: qml/main.qml:130
+msgid "Add new connection"
+msgstr "Thêm kết nối mới"
+
+#: qml/main.qml:144
+msgid "Remove selected connection"
+msgstr "Xoá kết nối đã chọn"
+
+#: qml/main.qml:160
+msgid "Export selected connection"
+msgstr "Xuất khẩu kết nối đã chọn"
+
+#: qml/main.qml:208
+msgctxt "@title:window"
+msgid "Remove Connection"
+msgstr "Xoá Kết Nối"
+
+#: qml/main.qml:209
+msgid "Do you want to remove the connection '%1'?"
+msgstr "Bạn có muốn xoá kết nối '%1' không?"
