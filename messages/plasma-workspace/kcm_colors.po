@@ -1241,24 +1241,24 @@ msgid " * %1 (current color scheme)"
 msgstr " * %1 (quy hoạch màu hiện tại)"
 
 #: ui/AccentColorUI.qml:27
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Restore Color Scheme"
 msgctxt "@item:inlistbox Accent color from color scheme"
 msgid "Accent Color From Color Scheme"
-msgstr "Khôi phục quy hoạch màu"
+msgstr "Màu nhấn từ quy hoạch màu"
 
 #: ui/AccentColorUI.qml:28
 #, kde-format
 msgctxt "@item:inlistbox Accent color from wallpaper"
 msgid "Accent Color From Wallpaper"
-msgstr ""
+msgstr "Màu Nhấn Từ Phông Nền"
 
 #: ui/AccentColorUI.qml:29
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Choose custom accent color"
 msgctxt "@item:inlistbox User-chosen custom accent color"
 msgid "Custom Accent Color"
-msgstr "Chọn màu chủ đạo riêng:"
+msgstr "Màu chủ đạo tự chọn"
 
 #: ui/AccentColorUI.qml:147
 #, kde-format
@@ -1295,7 +1295,7 @@ msgstr "Cài từ tệp…"
 #: ui/main.qml:157
 #, kde-format
 msgid "Get New…"
-msgstr ""
+msgstr "Tải mới…"
 
 #: ui/main.qml:204
 #, kde-format

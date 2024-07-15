@@ -122,15 +122,15 @@ msgid "Install..."
 msgstr "Cài đặt…"
 
 #: kcms/kfontinst/apps/org.kde.kfontinst.desktop:2
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Fonts"
 msgctxt "Name"
 msgid "KFontInst"
-msgstr "Phông chữ"
+msgstr "KFontInst"
 
 #: kcms/kfontinst/apps/org.kde.kfontinst.desktop:41
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Font Installer"
 msgctxt "GenericName"
@@ -580,20 +580,20 @@ msgid "Run Plasmoids as simple applications"
 msgstr "Chạy các Plasmoid như các ứng dụng đơn giản"
 
 #: runners/baloo/plasma-runner-baloosearch.desktop:2
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Desktop Search"
 msgctxt "Name"
 msgid "File Search"
-msgstr "Tìm kiếm ở bàn làm việc"
+msgstr "Tìm kiếm tệp"
 
 #: runners/baloo/plasma-runner-baloosearch.desktop:44
-#, fuzzy
+#, 
 #| msgctxt "Comment"
 #| msgid "Searches through files, emails and contacts"
 msgctxt "Comment"
 msgid "Searches for files by name and content"
-msgstr "Tìm kiếm tệp, thư và liên hệ"
+msgstr "Tìm kiếm tệp theo tên và nội dung"
 
 #: shell/org.kde.plasmashell.desktop.cmake:4
 msgctxt "Name"
@@ -601,20 +601,20 @@ msgid "Plasma Desktop Workspace"
 msgstr "Không gian bàn làm việc Plasma"
 
 #: startkde/session-restore/org.kde.plasma-fallback-session-restore.desktop.in:3
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Plasma Desktop Workspace"
 msgctxt "Name"
 msgid "Plasma Session Restore"
-msgstr "Không gian bàn làm việc Plasma"
+msgstr "Khôi phục Phiên Plasma"
 
 #: startkde/session-restore/org.kde.plasma-fallback-session-save.desktop.in:3
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Plasma Styles"
 msgctxt "Name"
 msgid "Plasma Session Save"
-msgstr "Kiểu cách Plasma"
+msgstr "Lưu Phiên Plasma"
 
 #: themes/qtcde.themerc:2
 msgctxt "Name"

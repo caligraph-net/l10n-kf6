@@ -28,18 +28,18 @@ msgid "Your emails"
 msgstr "phu.nguyen@kdemail.net"
 
 #: imagepackage/contents/ui/AddFileDialog.qml:58
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Open Wallpaper Image"
 msgctxt "@title:window"
 msgid "Open Image"
-msgstr "Mở ảnh phông nền"
+msgstr "Mở ảnh"
 
 #: imagepackage/contents/ui/AddFileDialog.qml:70
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Directory with the wallpaper to show slides from"
 msgctxt "@title:window"
 msgid "Directory with the wallpaper to show slides from"
-msgstr "Thư mục với phông nền để từ đó hiển thị các trang trình chiếu"
+msgstr "Thư mục chứa phông nền để trình chiếu"
 
 #: imagepackage/contents/ui/config.qml:128
 #, kde-format
@@ -102,37 +102,37 @@ msgid "Next Wallpaper Image"
 msgstr "Ảnh phông nền tiếp theo"
 
 #: imagepackage/contents/ui/ThumbnailsComponent.qml:60
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Image Files"
 msgid "Images"
-msgstr "Tệp ảnh"
+msgstr "Ảnh"
 
 #: imagepackage/contents/ui/ThumbnailsComponent.qml:64
 #, kde-format
 msgctxt "@action:button the thing being added is an image file"
 msgid "Add…"
-msgstr ""
+msgstr "Thêm…"
 
 #: imagepackage/contents/ui/ThumbnailsComponent.qml:65
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Open Wallpaper Image"
 msgctxt "@action:button"
 msgid "Add Wallpaper Image…"
-msgstr "Mở ảnh phông nền"
+msgstr "Thêm ảnh phông nền…"
 
 #: imagepackage/contents/ui/ThumbnailsComponent.qml:71
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Get New Wallpapers…"
 msgctxt "@action:button the new things being gotten are wallpapers"
 msgid "Get New…"
-msgstr "Lấy phông nền mới…"
+msgstr "Lấy mới…"
 
 #: imagepackage/contents/ui/ThumbnailsComponent.qml:72
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Next Wallpaper Image"
 msgctxt "@action:button"
 msgid "Get New Wallpaper Images…"
-msgstr "Ảnh phông nền tiếp theo"
+msgstr "Tải ảnh phông nền mới…"
 
 #: imagepackage/contents/ui/WallpaperDelegate.qml:31
 #, kde-format
@@ -203,10 +203,10 @@ msgstr ""
 
 #. i18n people, this isn't a "word puzzle". there is a specific string format for QFileDialog::setNameFilters
 #: plugin/imagebackend.cpp:330
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Image Files"
 msgid "Media Files"
-msgstr "Tệp ảnh"
+msgstr "Tệp phương tiện"
 
 #: slideshowpackage/contents/ui/SlideshowComponent.qml:52
 #, kde-format
@@ -275,10 +275,10 @@ msgstr "Thư mục"
 #, kde-format
 msgctxt "@action button the thing being added is a folder"
 msgid "Add…"
-msgstr ""
+msgstr "Thêm…"
 
 #: slideshowpackage/contents/ui/SlideshowComponent.qml:211
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add Folder…"
 msgctxt "@action:button"
 msgid "Add Folder…"
@@ -290,10 +290,10 @@ msgid "Remove Folder"
 msgstr "Xoá thư mục"
 
 #: slideshowpackage/contents/ui/SlideshowComponent.qml:260
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Open Folder"
 msgid "Open Folder…"
-msgstr "Mở thư mục"
+msgstr "Mở thư mục…"
 
 #: slideshowpackage/contents/ui/SlideshowComponent.qml:275
 #, kde-format
@@ -301,42 +301,42 @@ msgid "There are no wallpaper locations configured"
 msgstr "Chưa cấu hình địa điểm chứa phông nền nào"
 
 #: wallpaperfileitemactionplugin/wallpaperfileitemaction.cpp:49
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Get New Wallpapers…"
 msgctxt "@action:inmenu"
 msgid "Set as Wallpaper"
-msgstr "Lấy phông nền mới…"
+msgstr "Đặt làm phông nền"
 
 #: wallpaperfileitemactionplugin/wallpaperfileitemaction.cpp:52
 #, kde-format
 msgctxt "@action:inmenu Set as Desktop Wallpaper"
 msgid "Desktop"
-msgstr ""
+msgstr "Máy tính"
 
 #: wallpaperfileitemactionplugin/wallpaperfileitemaction.cpp:58
 #, kde-format
 msgctxt "@action:inmenu Set as Lockscreen Wallpaper"
 msgid "Lockscreen"
-msgstr ""
+msgstr "Màn hình khóa"
 
 #: wallpaperfileitemactionplugin/wallpaperfileitemaction.cpp:64
 #, kde-format
 msgctxt "@action:inmenu Set as both lockscreen and Desktop Wallpaper"
 msgid "Both"
-msgstr ""
+msgstr "Cả hai"
 
 #: wallpaperfileitemactionplugin/wallpaperfileitemaction.cpp:97
-#, fuzzy, kde-kuit-format
+#, kde-kuit-format
 #| msgid "An error occurred while attempting to set the Plasma wallpaper:\n"
 msgctxt "@info %1 is the dbus error message"
 msgid "An error occurred while attempting to set the Plasma wallpaper:<nl/>%1"
-msgstr "Một lỗi xảy ra khi đang đặt phông nền Plasma:\n"
+msgstr "Lỗi xảy ra khi đặt phông nền Plasma:<nl/>%1"
 
 #: wallpaperfileitemactionplugin/wallpaperfileitemaction.cpp:110
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "An error occurred while attempting to set the Plasma wallpaper:\n"
 msgid "An error occurred while attempting to open kscreenlockerrc config file."
-msgstr "Một lỗi xảy ra khi đang đặt phông nền Plasma:\n"
+msgstr "Lỗi xảy ra khi mở tệp cấu hình kscreenlockerrc."
 
 #, fuzzy
 #~| msgid "Open Image"

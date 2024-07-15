@@ -55,10 +55,10 @@ msgid "Zoom in"
 msgstr "Phóng to"
 
 #: ui/LocationsFixedView.qml:129
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Zoom in"
 msgid "Zoom out"
-msgstr "Phóng to"
+msgstr "Thu nhỏ"
 
 #: ui/LocationsFixedView.qml:227
 #, kde-kuit-format
@@ -98,18 +98,18 @@ msgid "%1K"
 msgstr "%1K"
 
 #: ui/main.qml:163
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Day color temperature:"
 msgid "Day light temperature:"
-msgstr "Nhiệt độ màu ban ngày:"
+msgstr "Nhiệt độ ánh sáng ban ngày:"
 
 #: ui/main.qml:213 ui/main.qml:277
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "No blue light filter activated"
 #| msgid "Cool (no filter)"
 msgctxt "Night colour blue-ish; no blue light filter activated"
 msgid "Cool (no filter)"
-msgstr "Mát (không lọc)"
+msgstr "Lạnh (không lọc)"
 
 #: ui/main.qml:220 ui/main.qml:284
 #, kde-format
@@ -118,10 +118,10 @@ msgid "Warm"
 msgstr "Ấm"
 
 #: ui/main.qml:227
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Night color temperature:"
 msgid "Night light temperature:"
-msgstr "Nhiệt độ màu buổi tối:"
+msgstr "Nhiệt độ ánh sáng đêm:"
 
 #: ui/main.qml:296
 #, kde-format
@@ -149,17 +149,17 @@ msgid "Custom times"
 msgstr "Thời điểm tự chọn"
 
 #: ui/main.qml:303
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Always on night color"
 msgid "Always on night light"
-msgstr "Luôn dùng màu buổi tối"
+msgstr "Luôn bật ánh sáng đêm"
 
 #: ui/main.qml:320
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Detect Location"
 msgctxt "@label The coordinates for the current location"
 msgid "Current location:"
-msgstr "Phát hiện địa điểm"
+msgstr "Vị trí hiện tại:"
 
 #: ui/main.qml:326
 #, kde-format
@@ -179,16 +179,16 @@ msgstr ""
 "\">Dịch vụ Vị trí Mozilla</link>."
 
 #: ui/main.qml:365
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Begin night color at:"
 msgid "Begin night light at:"
-msgstr "Bắt đầu màu buổi tối vào:"
+msgstr "Bắt đầu ánh sáng đêm vào:"
 
 #: ui/main.qml:381
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Begin day color at:"
 msgid "Begin day light at:"
-msgstr "Bắt đầu màu ban ngày vào:"
+msgstr "Bắt đầu ánh sáng ban ngày vào:"
 
 #: ui/main.qml:396
 #, kde-format
@@ -221,21 +221,21 @@ msgstr "Đang định vị…"
 #, kde-format
 msgctxt "@info:tooltip Part of a control for setting a time"
 msgid "hour"
-msgstr ""
+msgstr "giờ"
 
 #: ui/TimeField.qml:50
 #, kde-format
 msgctxt "Time separator between hours and minutes"
 msgid ":"
-msgstr ""
+msgstr ":"
 
 #: ui/TimeField.qml:56
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "%1 minute"
 #| msgid_plural "%1 minutes"
 msgctxt "@info:tooltip Part of a control for setting a time"
 msgid "minute"
-msgstr "%1 phút"
+msgstr "phút"
 
 #~ msgid "Input format: HH:MM"
 #~ msgstr "Định dạng nhập: GG:PP"

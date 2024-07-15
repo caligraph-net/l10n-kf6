@@ -41,20 +41,20 @@ msgstr "\"%1\" không thể đọc được."
 #, kde-format
 msgctxt "@label Stop the Systemd unit for a running process"
 msgid "Stop"
-msgstr ""
+msgstr "Dừng"
 
 #: ui/entry.qml:31
 #, kde-format
 msgctxt "@label Start the Systemd unit for a currently inactive process"
 msgid "Start"
-msgstr ""
+msgstr "Khởi động"
 
 #: ui/entry.qml:71
 #, kde-format
 msgctxt ""
 "@label The name of a Systemd unit for an app or script that will autostart"
 msgid "Name:"
-msgstr ""
+msgstr "Tên:"
 
 #: ui/entry.qml:77
 #, kde-format
@@ -62,7 +62,7 @@ msgctxt ""
 "@label The current status (e.g. active or inactive) of a Systemd unit for an "
 "app or script that will autostart"
 msgid "Status:"
-msgstr ""
+msgstr "Trạng thái:"
 
 #: ui/entry.qml:83
 #, kde-format
@@ -70,18 +70,18 @@ msgctxt ""
 "@label A date and time follows this text, making a sentence like 'Last "
 "activated on: August 7th 11 PM 2023'"
 msgid "Last activated on:"
-msgstr ""
+msgstr "Kích hoạt lần cuối:"
 
 #: ui/entry.qml:114
 #, kde-format
 msgid "Unable to load logs. Try refreshing."
-msgstr ""
+msgstr "Không thể tải nhật ký. Hãy thử làm mới."
 
 #: ui/entry.qml:118
 #, kde-format
 msgctxt "@action:button Refresh entry logs when it failed to load"
 msgid "Refresh"
-msgstr ""
+msgstr "Cập nhật"
 
 #: ui/main.qml:35
 #, kde-format
@@ -99,28 +99,28 @@ msgid "The file '%1' must be executable to run at login."
 msgstr "Tệp '%1' phải có tính thực thi để chạy được khi đăng nhập."
 
 #: ui/main.qml:68
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add…"
 msgctxt "@action:button"
 msgid "Add…"
 msgstr "Thêm…"
 
 #: ui/main.qml:71
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add Application…"
 msgctxt "@action:button"
 msgid "Add Application…"
 msgstr "Thêm ứng dụng…"
 
 #: ui/main.qml:76
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add Login Script…"
 msgctxt "@action:button"
 msgid "Add Login Script…"
 msgstr "Thêm kịch bản đăng nhập…"
 
 #: ui/main.qml:81
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add Logout Script…"
 msgctxt "@action:button"
 msgid "Add Logout Script…"
@@ -132,27 +132,29 @@ msgid ""
 "%1 has not been autostarted yet. Details will be available after the system "
 "is restarted."
 msgstr ""
+"%1 chưa được tự động khởi động. Chi tiết sẽ sẵn có sau khi khởi động lại hệ "
+"thống."
 
 #: ui/main.qml:139
 #, kde-format
 msgctxt ""
 "@label Entry hasn't been autostarted because system hasn't been restarted"
 msgid "Not autostarted yet"
-msgstr ""
+msgstr "Chưa tự khởi động"
 
 #: ui/main.qml:148
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Properties"
 msgctxt "@action:button"
 msgid "See properties"
-msgstr "Thuộc tính"
+msgstr "Xem thuộc tính"
 
 #: ui/main.qml:159
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Remove"
 msgctxt "@action:button"
 msgid "Remove entry"
-msgstr "Xoá"
+msgstr "Xoá mục"
 
 #: ui/main.qml:175
 #, kde-format
@@ -180,12 +182,12 @@ msgid "No user-specified autostart items"
 msgstr "Không có mục khởi động nào do người dùng chỉ định"
 
 #: ui/main.qml:194
-#, fuzzy, kde-kuit-format
+#, kde-kuit-format
 #| msgctxt "@info"
 #| msgid "Click the <interface>Add…</interface> button below to add some"
 msgctxt "@info 'some' refers to autostart items"
 msgid "Click the <interface>Add…</interface> button to add some"
-msgstr "Bấm nút <interface>Thêm…</interface> bên dưới để thêm"
+msgstr "Bấm nút <interface>Thêm…</interface> để thêm"
 
 #: ui/main.qml:209
 #, kde-format
@@ -201,41 +203,41 @@ msgstr "Chọn kịch bản đăng xuất"
 #, kde-format
 msgctxt "@label Entry is running right now"
 msgid "Running"
-msgstr ""
+msgstr "Đang chạy"
 
 #: unit.cpp:27
 #, kde-format
 msgctxt "@label Entry is not running right now (exited without error)"
 msgid "Not running"
-msgstr ""
+msgstr "Không chạy"
 
 #: unit.cpp:28
 #, kde-format
 msgctxt "@label Entry is being started"
 msgid "Starting"
-msgstr ""
+msgstr "Đang bắt đầu"
 
 #: unit.cpp:29
 #, kde-format
 msgctxt "@label Entry is being stopped"
 msgid "Stopping"
-msgstr ""
+msgstr "Đang dừng"
 
 #: unit.cpp:30
 #, kde-format
 msgctxt "@label Entry has failed (exited with an error)"
 msgid "Failed"
-msgstr ""
+msgstr "Thất bại"
 
 #: unit.cpp:83
 #, kde-format
 msgid "Error occurred when receiving reply of GetAll call %1"
-msgstr ""
+msgstr "Lỗi xảy ra khi nhận hồi đáp của cuộc gọi GetAll %1"
 
 #: unit.cpp:155
 #, kde-format
 msgid "Failed to open journal"
-msgstr ""
+msgstr "Không mở được nhật ký"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"

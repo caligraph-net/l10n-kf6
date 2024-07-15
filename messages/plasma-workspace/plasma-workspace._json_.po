@@ -44,7 +44,7 @@ msgstr "Lịch"
 #: applets/cameraindicator/package/metadata.json
 msgctxt "Name"
 msgid "Camera Indicator"
-msgstr ""
+msgstr "Chỉ báo Camera"
 
 #: applets/clipboard/metadata.json klipper/plasma-dataengine-clipboard.json
 msgctxt "Name"
@@ -347,7 +347,7 @@ msgstr "Chủ đề toàn cục"
 #: kcms/nightlight/kcm_nightlight.json
 msgctxt "Name"
 msgid "Night Light"
-msgstr ""
+msgstr "Ánh sáng đêm"
 
 #: kcms/region_language/kcm_regionandlang.json
 msgctxt "Name"
@@ -355,12 +355,12 @@ msgid "Region & Language"
 msgstr "Vùng & ngôn ngữ"
 
 #: kcms/soundtheme/kcm_soundtheme.json
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "System Monitor"
 msgctxt "Name"
 msgid "System Sounds"
-msgstr "Trình giám sát hệ thống"
+msgstr "Âm thanh hệ thống"
 
 #: kcms/style/kcm_style.json
 msgctxt "Name"
@@ -388,20 +388,20 @@ msgid "Time Zone"
 msgstr "Múi giờ"
 
 #: libcolorcorrect/kded/colorcorrectlocationupdater.json
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Automatic Location for Night Color"
 msgctxt "Name"
 msgid "Automatic Location for Night Light"
-msgstr "Địa điểm tự động cho \"Màu buổi tối\""
+msgstr "Địa điểm tự động cho Ánh sáng ban đêm"
 
 #: libkmpris/kded/mprisservice.json
-#, fuzzy
+#, 
 #| msgctxt "Description"
 #| msgid "Media Player Controls"
 msgctxt "Name"
 msgid "Media Controller"
-msgstr "Các điều khiển của trình phát phương tiện"
+msgstr "Điều khiển phương tiện"
 
 #: lookandfeel/org.kde.breezedark/metadata.json
 msgctxt "Name"
@@ -496,7 +496,7 @@ msgstr "Phát hiện phần cứng"
 #: startkde/session-shortcuts/sessionshortcuts.json
 msgctxt "Name"
 msgid "Session Shortcuts"
-msgstr ""
+msgstr "Phím tắt Phiên"
 
 #: statusnotifierwatcher/statusnotifierwatcher.json
 msgctxt "Name"
@@ -521,7 +521,7 @@ msgstr "Chuỗi trình chiếu"
 #: wallpapers/image/wallpaperfileitemactionplugin/wallpaperfileitemaction.json
 msgctxt "Name"
 msgid "Set as"
-msgstr ""
+msgstr "Đặt làm"
 
 #: applets/activitybar/metadata.json
 msgctxt "Description"
@@ -546,7 +546,7 @@ msgstr "Hiển thị tháng với các buổi hẹn và sự kiện của bạn"
 #: applets/cameraindicator/package/metadata.json
 msgctxt "Description"
 msgid "Shows whether any camera is currently used by an app"
-msgstr ""
+msgstr "Hiển thị liệu có camera nào đang được ứng dụng sử dụng"
 
 #: applets/clipboard/metadata.json
 msgctxt "Description"
@@ -777,7 +777,7 @@ msgstr "Dữ liệu thời tiết từ nhiều nguồn trực tuyến"
 #: devicenotifications/devicenotifications.json
 msgctxt "Description"
 msgid "Play audible feedback when devices are inserted or removed"
-msgstr ""
+msgstr "Phát âm thanh phản hồi khi thiết bị được cắm vào hoặc tháo ra"
 
 #: freespacenotifier/freespacenotifier.json
 msgctxt "Description"
@@ -835,12 +835,12 @@ msgid "Choose global look and feel"
 msgstr "Chọn cách nhìn và cảm toàn cục"
 
 #: kcms/nightlight/kcm_nightlight.json
-#, fuzzy
+#, 
 #| msgctxt "Description"
 #| msgid "Adjust color temperature based on time"
 msgctxt "Description"
 msgid "Adjust screen color temperature based on time"
-msgstr "Điều chỉnh nhiệt độ màu dựa vào thời gian"
+msgstr "Điều chỉnh nhiệt độ màu màn hình theo thời gian"
 
 #: kcms/notifications/kcm_notifications.json
 msgctxt "Description"
@@ -853,12 +853,12 @@ msgid "Language Setting, Numeric, Currency and Time Formats"
 msgstr "Thiết lập ngôn ngữ, định dạng số, tiền tệ và thời gian"
 
 #: kcms/soundtheme/kcm_soundtheme.json
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Application Notifications"
 msgctxt "Description"
 msgid "Select a Sound Theme for Notifications"
-msgstr "Thông báo của ứng dụng"
+msgstr "Bôi đen chủ đề âm thanh cho thông báo"
 
 #: kcms/style/kcm_style.json
 msgctxt "Description"
@@ -871,12 +871,12 @@ msgid "Manage user accounts"
 msgstr "Quản lí các danh khoản người dùng"
 
 #: kcms/wallpaper/kcm_wallpaper.json
-#, fuzzy
+#, 
 #| msgctxt "Description"
 #| msgid "Slideshow wallpaper"
 msgctxt "Description"
 msgid "Configure the wallpaper"
-msgstr "Phông nền dạng chuỗi trình chiếu"
+msgstr "Cấu hình phông nền"
 
 #: kioworkers/desktop/desktopnotifier.json
 msgctxt "Description"
@@ -894,17 +894,17 @@ msgid "Provides the system's time zone to applications"
 msgstr "Cung cấp múi giờ hệ thống cho các ứng dụng"
 
 #: libcolorcorrect/kded/colorcorrectlocationupdater.json
-#, fuzzy
+#, 
 #| msgctxt "Description"
 #| msgid "Provides location updates for Night Color"
 msgctxt "Description"
 msgid "Provides location updates for Night Light"
-msgstr "Cung cấp cập nhật địa điểm cho \"Màu buổi tối\""
+msgstr "Cung cấp cập nhật địa điểm cho Night Light"
 
 #: libkmpris/kded/mprisservice.json
 msgctxt "Description"
 msgid "Controls media players using global keyboard shortcuts"
-msgstr ""
+msgstr "Điều khiển trình phát phương tiện bằng phím tắt toàn cục"
 
 #: lookandfeel/org.kde.breezedark/metadata.json
 msgctxt "Description"
@@ -994,7 +994,7 @@ msgstr "Cung cấp một giao diện người dùng cho các sự kiện phần 
 #: startkde/session-shortcuts/sessionshortcuts.json
 msgctxt "Description"
 msgid "Provides shortcuts for common session actions"
-msgstr ""
+msgstr "Cung cấp phím tắt cho các hành động phiên thông dụng"
 
 #: statusnotifierwatcher/statusnotifierwatcher.json
 msgctxt "Description"
@@ -1019,7 +1019,7 @@ msgstr "Phông nền dạng chuỗi trình chiếu"
 #: wallpapers/image/wallpaperfileitemactionplugin/wallpaperfileitemaction.json
 msgctxt "Description"
 msgid "Set image as (lockscreen) wallpaper"
-msgstr ""
+msgstr "Đặt ảnh làm phông nền (màn hình khóa)"
 
 #: applets/activitybar/metadata.json
 msgctxt "Authors Name"
@@ -1058,7 +1058,7 @@ msgstr "Sebastian Kügler"
 #: applets/cameraindicator/package/metadata.json
 msgctxt "Authors Name"
 msgid "Fushan Wen"
-msgstr ""
+msgstr "Fushan Wen"
 
 #: applets/clipboard/metadata.json klipper/plasma-dataengine-clipboard.json
 msgctxt "Authors Name"
@@ -1179,7 +1179,7 @@ msgstr "Teemu Rytilahti"
 #: wallpapers/image/wallpaperfileitemactionplugin/wallpaperfileitemaction.json
 msgctxt "Authors Name"
 msgid "Julius Zint"
-msgstr ""
+msgstr "Julius Zint"
 
 #, fuzzy
 #~| msgctxt "Name"

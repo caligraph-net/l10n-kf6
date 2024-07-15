@@ -41,6 +41,8 @@ msgid ""
 "No write access to $HOME directory (%1). If this is intentional, set "
 "<envar>KDE_HOME_READONLY=1</envar> in your environment."
 msgstr ""
+"Không có quyền ghi vào thư mục $HOME (%1). Nếu đây là chủ ý, hãy đặt "
+"<envar>KDE_HOME_READONLY=1</envar> trong môi trường của bạn."
 
 #: main.cpp:81
 #, kde-format
@@ -144,7 +146,7 @@ msgstr ""
 #, kde-format
 msgctxt "@label an unknown executable is using resources"
 msgid "[unknown]"
-msgstr ""
+msgstr "[không xác định]"
 
 #: server.cpp:798
 #, kde-kuit-format
@@ -154,6 +156,8 @@ msgid ""
 "are exhausted. Here are the top three consumers of session resources:\n"
 "%1"
 msgstr ""
+"Không thể quản lý một số ứng dụng do tài nguyên quản lý phiên của hệ thống "
+"đã cạn kiệt. Ba ứng dụng tiêu tốn nhiều tài nguyên phiên nhất:\n%1"
 
 #: server.cpp:1070
 #, kde-kuit-format
@@ -163,6 +167,9 @@ msgid ""
 "exhausted the system's session restoration resources. Please report this to "
 "the app's developers."
 msgstr ""
+"Không thể khôi phục <application>%1</application> vì nó bị hỏng và đã cạn "
+"kiệt tài nguyên khôi phục phiên của hệ thống. Vui lòng báo cáo điều này cho "
+"nhà phát triển ứng dụng."
 
 #~ msgid "Session Management"
 #~ msgstr "Quản lí phiên"

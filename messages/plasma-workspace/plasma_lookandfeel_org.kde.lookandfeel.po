@@ -21,7 +21,7 @@ msgstr ""
 #, kde-format
 msgid "Installing software updates and restarting in 1 second"
 msgid_plural "Installing software updates and restarting in %1 seconds"
-msgstr[0] ""
+msgstr[0] "Đang cài đặt cập nhật và khởi động lại trong 1 giây"
 
 #: contents/logout/Logout.qml:152
 #, kde-format
@@ -65,12 +65,12 @@ msgid "Sleep"
 msgstr "Ngủ"
 
 #: contents/logout/Logout.qml:201
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Suspend to RAM"
 #| msgid "Sleep"
 msgctxt "Suspend to RAM"
 msgid "Sleep Now"
-msgstr "Ngủ"
+msgstr "Ngủ ngay"
 
 #: contents/logout/Logout.qml:210
 #, kde-format
@@ -78,22 +78,22 @@ msgid "Hibernate"
 msgstr "Ngủ đông"
 
 #: contents/logout/Logout.qml:211
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Hibernate"
 msgid "Hibernate Now"
-msgstr "Ngủ đông"
+msgstr "Ngủ đông ngay"
 
 #: contents/logout/Logout.qml:222
 #, kde-format
 msgctxt "@action:button Keep short"
 msgid "Install Updates & Restart"
-msgstr ""
+msgstr "Cài đặt & Khởi động lại"
 
 #: contents/logout/Logout.qml:223
 #, kde-format
 msgctxt "@action:button Keep short"
 msgid "Install Updates & Restart Now"
-msgstr ""
+msgstr "Cài đặt cập nhật & Khởi động lại"
 
 #: contents/logout/Logout.qml:225 contents/logout/Logout.qml:238
 #, kde-format
@@ -101,10 +101,10 @@ msgid "Restart"
 msgstr "Khởi động lại"
 
 #: contents/logout/Logout.qml:226 contents/logout/Logout.qml:239
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Restart"
 msgid "Restart Now"
-msgstr "Khởi động lại"
+msgstr "Khởi động lại ngay"
 
 #: contents/logout/Logout.qml:251
 #, kde-format
@@ -112,10 +112,10 @@ msgid "Shut Down"
 msgstr "Tắt"
 
 #: contents/logout/Logout.qml:252
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Shut Down"
 msgid "Shut Down Now"
-msgstr "Tắt"
+msgstr "Tắt ngay"
 
 #: contents/logout/Logout.qml:262
 #, kde-format
@@ -123,10 +123,10 @@ msgid "Log Out"
 msgstr "Đăng xuất"
 
 #: contents/logout/Logout.qml:263
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Log Out"
 msgid "Log Out Now"
-msgstr "Đăng xuất"
+msgstr "Đăng xuất ngay"
 
 #: contents/logout/Logout.qml:273
 #, kde-format

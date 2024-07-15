@@ -544,12 +544,12 @@ msgid "Previous History Item"
 msgstr "Mục lịch sử trước"
 
 #: klipper.cpp:155
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Show Items at Mouse Position"
 msgctxt "@action:inmenu"
 msgid "Show Clipboard Items at Mouse Position"
-msgstr "Hiện các mục tại vị trí con trỏ chuột"
+msgstr "Hiện các mục bảng nháp tại vị trí chuột"
 
 #: klipper.cpp:338
 #, kde-kuit-format
@@ -827,11 +827,11 @@ msgstr ""
 "nhận kiểu MIME của nó vào trình đơn hành động."
 
 #: klipperpopup.cpp:107
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "%1 is application display name"
 #| msgid "%1 - Clipboard Items"
 msgid "Clipboard Items"
-msgstr "%1 - Các mục bảng nháp"
+msgstr "Các mục bảng nháp"
 
 #: klipperpopup.cpp:111
 #, kde-format

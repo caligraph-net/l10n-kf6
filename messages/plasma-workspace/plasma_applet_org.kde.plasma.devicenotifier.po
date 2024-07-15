@@ -41,10 +41,10 @@ msgid "Removing…"
 msgstr "Đang bỏ gắn kết…"
 
 #: package/contents/ui/DeviceItem.qml:198
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Don't unplug yet! Files are still being transferred..."
 msgid "Don't unplug yet! Files are still being transferred…"
-msgstr "Đừng rút ra vội! Các tệp vẫn đang được truyền..."
+msgstr "Đừng rút ra! Các tệp vẫn đang được truyền..."
 
 #: package/contents/ui/DeviceItem.qml:229
 #, kde-format
@@ -131,73 +131,73 @@ msgstr "Hiện ô bật lên khi thiết bị mới được cắm vào"
 #: plugin/ksolidnotify.cpp:192
 #, kde-format
 msgid "Device Status"
-msgstr ""
+msgstr "Trạng thái Thiết bị"
 
 #: plugin/ksolidnotify.cpp:193
 #, kde-format
 msgid "A device can now be safely removed"
-msgstr ""
+msgstr "Có thể an toàn tháo thiết bị"
 
 #: plugin/ksolidnotify.cpp:197
 #, kde-format
 msgid "This device can now be safely removed."
-msgstr ""
+msgstr "Có thể an toàn tháo thiết bị này."
 
 #: plugin/ksolidnotify.cpp:204
 #, kde-format
 msgid "You are not authorized to mount this device."
-msgstr ""
+msgstr "Bạn không được phép gắn kết thiết bị này."
 
 #: plugin/ksolidnotify.cpp:207
 #, kde-format
 msgctxt "Remove is less technical for unmount"
 msgid "You are not authorized to remove this device."
-msgstr ""
+msgstr "Bạn không được phép rút thiết bị này."
 
 #: plugin/ksolidnotify.cpp:210
 #, kde-format
 msgid "You are not authorized to eject this disc."
-msgstr ""
+msgstr "Bạn không được phép đẩy đĩa này ra."
 
 #: plugin/ksolidnotify.cpp:217
 #, kde-format
 msgid "Could not mount this device as it is busy."
-msgstr ""
+msgstr "Không gắn kết được thiết bị này vì nó đang bận."
 
 #: plugin/ksolidnotify.cpp:248
 #, kde-format
 msgid "One or more files on this device are open within an application."
-msgstr ""
+msgstr "Một hoặc nhiều tệp trên thiết bị này đang được mở trong một ứng dụng."
 
 #: plugin/ksolidnotify.cpp:250
 #, kde-format
 msgid "One or more files on this device are opened in application \"%2\"."
 msgid_plural ""
 "One or more files on this device are opened in following applications: %2."
-msgstr[0] ""
+msgstr[0] "Một hoặc nhiều tệp trên thiết bị này đang được mở trong ứng dụng \"%2\"."
 
 #: plugin/ksolidnotify.cpp:253
 #, kde-format
 msgctxt "separator in list of apps blocking device unmount"
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: plugin/ksolidnotify.cpp:271
 #, kde-format
 msgid "Could not mount this device."
-msgstr ""
+msgstr "Không gắn kết được thiết bị này."
 
 #: plugin/ksolidnotify.cpp:274
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Click to safely remove all devices"
 msgctxt "Remove is less technical for unmount"
 msgid "Could not remove this device."
-msgstr "Bấm để rút an toàn tất cả các thiết bị"
+msgstr "Không rút được thiết bị này."
 
 #: plugin/ksolidnotify.cpp:277
 #, kde-format
 msgid "Could not eject this disc."
-msgstr ""
+msgstr "Không đẩy đĩa ra được."
 
 #~ msgid "Show:"
 #~ msgstr "Hiện:"

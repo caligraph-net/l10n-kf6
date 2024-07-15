@@ -67,10 +67,10 @@ msgstr "Chuyển…"
 
 #: package/contents/ui/CalendarView.qml:436
 #: package/contents/ui/CalendarView.qml:437
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Switch to another timezone"
 msgid "Switch to another time zone"
-msgstr "Chuyển sang một múi giờ khác"
+msgstr "Chuyển múi giờ"
 
 #: package/contents/ui/configAppearance.qml:51
 #, kde-format
@@ -98,22 +98,22 @@ msgid "Always below time"
 msgstr "Luôn ở dưới thời gian"
 
 #: package/contents/ui/configAppearance.qml:74
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Show seconds"
 msgid "Show seconds:"
-msgstr "Hiện giây"
+msgstr "Hiện giây:"
 
 #: package/contents/ui/configAppearance.qml:76
 #, kde-format
 msgctxt "@option:check"
 msgid "Never"
-msgstr ""
+msgstr "Không bao giờ"
 
 #: package/contents/ui/configAppearance.qml:77
 #, kde-format
 msgctxt "@option:check"
 msgid "Only in the tooltip"
-msgstr ""
+msgstr "Chỉ trong chú giải"
 
 #: package/contents/ui/configAppearance.qml:78
 #: package/contents/ui/configAppearance.qml:99
@@ -204,7 +204,7 @@ msgid "Custom"
 msgstr "Dạng riêng"
 
 #: package/contents/ui/configAppearance.qml:212
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "<a href=\"https://doc.qt.io/qt-5/qml-qtqml-qt.html#formatDateTime-method"
 #| "\">Time Format Documentation</a>"
@@ -212,8 +212,9 @@ msgid ""
 "<a href=\"https://doc.qt.io/qt-6/qml-qtqml-qt.html#formatDateTime-method"
 "\">Time Format Documentation</a>"
 msgstr ""
-"<a href=\"https://doc.qt.io/qt-5/qml-qtqml-qt.html#formatDateTime-method"
-"\">Tài liệu về định dạng thời gian</a>"
+"<a "
+"href=\"https://doc.qt.io/qt-6/qml-qtqml-qt.html#formatDateTime-method\">Tài "
+"liệu định dạng thời gian</a>"
 
 #: package/contents/ui/configAppearance.qml:237
 #, kde-format
@@ -280,7 +281,7 @@ msgid "Available Plugins:"
 msgstr "Phần cài cắm khả dụng:"
 
 #: package/contents/ui/configTimeZones.qml:42
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "Tip: if you travel frequently, add another entry for your home time zone "
 #| "to this list. It will only appear when you change the systemwide time "
@@ -289,9 +290,8 @@ msgid ""
 "Tip: if you travel frequently, add your home time zone to this list. It will "
 "only appear when you change the systemwide time zone to something else."
 msgstr ""
-"Mẹo: nếu bạn hay di chuyển, hãy thêm một mục cho múi giờ ở nhà vào danh sách "
-"này. Nó sẽ chỉ hiện ra khi bạn thay đổi múi giờ toàn hệ thống thành một múi "
-"giờ khác."
+"Mẹo: nếu bạn thường xuyên đi lại, hãy thêm múi giờ ở nhà vào danh sách này. "
+"Nó sẽ chỉ hiện khi bạn đổi múi giờ hệ thống sang múi giờ khác."
 
 #: package/contents/ui/configTimeZones.qml:59
 #, kde-format
@@ -304,7 +304,7 @@ msgid "Clock is currently using this time zone"
 msgstr "Đồng hồ hiện đang dùng múi giờ này"
 
 #: package/contents/ui/configTimeZones.qml:95
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt ""
 #| "@label This list item shows a time zone city name that is identical to "
 #| "the local time zone's city, and will be hidden in the timezone display in "
@@ -315,7 +315,7 @@ msgctxt ""
 "local time zone's city, and will be hidden in the time zone display in the "
 "plasmoid's popup"
 msgid "Hidden while this is the local time zone's city"
-msgstr "Ẩn trong khi đây là thành phố của múi giờ địa phương"
+msgstr "Ẩn khi đây là thành phố của múi giờ địa phương"
 
 #: package/contents/ui/configTimeZones.qml:125
 #, kde-format
@@ -362,13 +362,13 @@ msgstr ""
 "đến nơi khác, hãy thay đổi múi giờ toàn hệ thống."
 
 #: package/contents/ui/configTimeZones.qml:208
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add More Timezones"
 msgid "Add More Time Zones"
-msgstr "Thêm các múi giờ khác"
+msgstr "Thêm múi giờ khác"
 
 #: package/contents/ui/configTimeZones.qml:220
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "At least one time zone needs to be enabled. Your local timezone was "
 #| "enabled automatically."
@@ -376,8 +376,8 @@ msgid ""
 "At least one time zone needs to be enabled. Your local time zone was enabled "
 "automatically."
 msgstr ""
-"Ít nhất một múi giờ cần được bật. Múi giờ địa phương của bạn được bật tự "
-"động."
+"Cần bật ít nhất một múi giờ. Múi giờ địa phương của bạn đã được tự động "
+"bật."
 
 #: package/contents/ui/configTimeZones.qml:256
 #, kde-format

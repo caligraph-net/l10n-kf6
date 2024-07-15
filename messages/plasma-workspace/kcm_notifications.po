@@ -48,62 +48,62 @@ msgid "Show notification badges"
 msgstr "Hiện huy hiệu thông báo"
 
 #: ui/ApplicationConfiguration.qml:180
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Configure Events…"
 msgctxt "@title:table Configure individual notification events in an app"
 msgid "Configure Events"
-msgstr "Cấu hình sự kiện…"
+msgstr "Cấu hình sự kiện"
 
 #: ui/ApplicationConfiguration.qml:188
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "This application does not support configuring notifications on a per-"
 #| "event basis."
 msgid ""
 "This application does not support configuring notifications on a per-event "
 "basis"
-msgstr "Ứng dụng này không hỗ trợ cấu hình thông báo cho từng sự kiện."
+msgstr "Ứng dụng này không hỗ trợ cấu hình thông báo cho từng sự kiện"
 
 #: ui/ApplicationConfiguration.qml:282
 #, kde-format
 msgid "Show a message in a pop-up"
-msgstr ""
+msgstr "Hiển thị thông điệp trong ô bật lên"
 
 #: ui/ApplicationConfiguration.qml:291
 #, kde-format
 msgid "Play a sound"
-msgstr ""
+msgstr "Phát âm thanh"
 
 #: ui/ApplicationConfiguration.qml:302
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Preview sound"
-msgstr ""
+msgstr "Âm thanh xem thử"
 
 #: ui/ApplicationConfiguration.qml:328
 #, kde-format
 msgctxt "Reset the notification sound to a default one"
 msgid "Reset"
-msgstr ""
+msgstr "Đặt lại"
 
 #: ui/ApplicationConfiguration.qml:340
 #, kde-format
 msgid "Choose sound file"
-msgstr ""
+msgstr "Chọn tệp âm thanh"
 
 #: ui/main.qml:46
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Notifications"
 msgctxt "@action:button Plasma-specific notifications"
 msgid "System Notifications…"
-msgstr "Thông báo"
+msgstr "Thông báo hệ thống…"
 
 #: ui/main.qml:52
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Application Settings"
 msgctxt "@action:button Application-specific notifications"
 msgid "Application Settings…"
-msgstr "Thiết lập ứng dụng"
+msgstr "Thiết lập ứng dụng…"
 
 #: ui/main.qml:80
 #, kde-format
@@ -137,18 +137,18 @@ msgstr "Chế độ \"Đừng làm phiền\""
 #, kde-format
 msgctxt "Automatically enable Do Not Disturb mode when screens are mirrored"
 msgid "Enable automatically:"
-msgstr ""
+msgstr "Bật tự động:"
 
 #: ui/main.qml:111
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Enable Do Not Disturb mode when screens are mirrored"
 #| msgid "When screens are mirrored"
 msgctxt "Automatically enable Do Not Disturb mode when screens are mirrored"
 msgid "When screens are mirrored"
-msgstr "Khi các màn hình được phản chiếu"
+msgstr "Khi màn hình được nhân đôi"
 
 #: ui/main.qml:123
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Enable Do Not Disturb mode during screen sharing"
 #| msgid "During screen sharing"
 msgctxt "Automatically enable Do Not Disturb mode during screen sharing"
@@ -159,7 +159,7 @@ msgstr "Trong khi chia sẻ màn hình"
 #, kde-format
 msgctxt "Keyboard shortcut to turn Do Not Disturb mode on and off"
 msgid "Manually toggle with shortcut:"
-msgstr ""
+msgstr "Chuyển đổi thủ công bằng phím tắt:"
 
 #: ui/main.qml:145
 #, kde-format
@@ -286,22 +286,20 @@ msgid "System Services"
 msgstr "Dịch vụ hệ thống"
 
 #: ui/SourcesPage.qml:156
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "No application or event matches your search term."
 msgid "No application or event matches your search term"
-msgstr "Không có ứng dụng hoặc sự kiện nào khớp với tìm kiếm của bạn."
+msgstr "Không có ứng dụng hoặc sự kiện nào khớp với từ khóa tìm kiếm"
 
 #: ui/SourcesPage.qml:180
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "Select an application from the list to configure its notification "
 #| "settings and behavior."
 msgid ""
 "Select an application from the list to configure its notification settings "
 "and behavior"
-msgstr ""
-"Chọn một ứng dụng trong danh sách để cấu hình các thiết lập và ứng xử của nó "
-"với thông báo."
+msgstr "Chọn ứng dụng từ danh sách để cấu hình thiết lập và ứng xử thông báo"
 
 #, fuzzy
 #~| msgid "Application Settings"

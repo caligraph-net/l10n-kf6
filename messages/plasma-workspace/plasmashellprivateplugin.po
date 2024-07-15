@@ -31,12 +31,12 @@ msgstr "phu.nguyen@kdemail.net"
 #, kde-format
 msgctxt "Placeholder is the battery number"
 msgid "Battery %1"
-msgstr ""
+msgstr "Pin %1"
 
 #: batterycontrol/batteriesnamesmonitor_p.cpp:27
 #, kde-format
 msgid "Battery"
-msgstr ""
+msgstr "Pin"
 
 #: calendar/eventdatadecorator.cpp:50
 #, kde-format
@@ -66,86 +66,86 @@ msgstr "Khác"
 #, kde-format
 msgid "%1 event"
 msgid_plural "%1 events"
-msgstr[0] ""
+msgstr[0] "%1 sự kiện"
 
 #: calendar/qml/DayDelegate.qml:75
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Agenda listview section title"
 #| msgid "Events"
 msgid "No events"
-msgstr "Sự kiện"
+msgstr "Không có sự kiện"
 
 #: calendar/qml/MonthViewHeader.qml:73
 #, kde-format
 msgctxt "Format: month year"
 msgid "%1 %2"
-msgstr ""
+msgstr "%1 %2"
 
 #: calendar/qml/MonthViewHeader.qml:129
 #, kde-format
 msgid "Days"
-msgstr ""
+msgstr "Ngày"
 
 #: calendar/qml/MonthViewHeader.qml:135
 #, kde-format
 msgid "Months"
-msgstr ""
+msgstr "Tháng"
 
 #: calendar/qml/MonthViewHeader.qml:141
 #, kde-format
 msgid "Years"
-msgstr ""
+msgstr "Năm"
 
 #: calendar/qml/MonthViewHeader.qml:179
 #, kde-format
 msgid "Previous Month"
-msgstr ""
+msgstr "Tháng trước"
 
 #: calendar/qml/MonthViewHeader.qml:181
 #, kde-format
 msgid "Previous Year"
-msgstr ""
+msgstr "Năm trước"
 
 #: calendar/qml/MonthViewHeader.qml:183
 #, kde-format
 msgid "Previous Decade"
-msgstr ""
+msgstr "Thập Kỷ Trước"
 
 #: calendar/qml/MonthViewHeader.qml:200
 #, kde-format
 msgctxt "Reset calendar to today"
 msgid "Today"
-msgstr ""
+msgstr "Hôm nay"
 
 #: calendar/qml/MonthViewHeader.qml:201
 #, kde-format
 msgid "Reset calendar to today"
-msgstr ""
+msgstr "Đặt lại lịch về hôm nay"
 
 #: calendar/qml/MonthViewHeader.qml:212
 #, kde-format
 msgid "Next Month"
-msgstr ""
+msgstr "Tháng sau"
 
 #: calendar/qml/MonthViewHeader.qml:214
 #, kde-format
 msgid "Next Year"
-msgstr ""
+msgstr "Năm sau"
 
 #: calendar/qml/MonthViewHeader.qml:216
 #, kde-format
 msgid "Next Decade"
-msgstr ""
+msgstr "Thập kỷ tiếp"
 
 #: calendar/qml/MonthViewHeader.qml:272
 #, kde-format
 msgid "Keep Open"
-msgstr ""
+msgstr "Giữ Mở"
 
 #: containmentlayoutmanager/qml/BasicAppletContainer.qml:270
 #, kde-format
 msgid "Configure…"
-msgstr ""
+msgstr "Cấu hình…"
 
 #. i18n: ectx: label, entry, group (Daemon)
 #: sessionsprivate/kscreenlockersettings.kcfg:10
@@ -188,6 +188,9 @@ msgid ""
 "compatible with Plasma %1. Please contact the widget's author for an updated "
 "version."
 msgstr ""
+"Phụ kiện này được viết cho phiên bản Plasma cũ không rõ và không tương "
+"thích với Plasma %1. Vui lòng liên hệ tác giả phụ kiện để có phiên bản cập "
+"nhật."
 
 #: shellprivate/widgetexplorer/plasmaappletitemmodel.cpp:168
 #, kde-format
@@ -195,6 +198,8 @@ msgid ""
 "This Widget was written for Plasma %1 and is not compatible with Plasma %2. "
 "Please contact the widget's author for an updated version."
 msgstr ""
+"Phụ kiện này được viết cho Plasma %1 và không tương thích với Plasma %2. "
+"Vui lòng liên hệ tác giả phụ kiện để có phiên bản cập nhật."
 
 #: shellprivate/widgetexplorer/plasmaappletitemmodel.cpp:172
 #, kde-format
@@ -202,6 +207,8 @@ msgid ""
 "This Widget was written for Plasma %1 and is not compatible with Plasma %2. "
 "Please update Plasma in order to use the widget."
 msgstr ""
+"Phụ kiện này được viết cho Plasma %1 và không tương thích với Plasma %2. "
+"Vui lòng cập nhật Plasma để sử dụng phụ kiện."
 
 #: shellprivate/widgetexplorer/plasmaappletitemmodel.cpp:177
 #, kde-format
@@ -209,119 +216,121 @@ msgid ""
 "This Widget was written for Plasma %1 and is not compatible with the latest "
 "version of Plasma. Please update Plasma in order to use the widget."
 msgstr ""
+"Phụ kiện này được viết cho Plasma %1 và không tương thích với phiên bản "
+"Plasma mới nhất. Vui lòng cập nhật Plasma để sử dụng phụ kiện."
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:112
 msgctxt "applet category"
 msgid "Accessibility"
-msgstr ""
+msgstr "Hỗ trợ truy cập"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:113
 msgctxt "applet category"
 msgid "Application Launchers"
-msgstr ""
+msgstr "Trình Khởi Chạy Ứng Dụng"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:114
 msgctxt "applet category"
 msgid "Astronomy"
-msgstr ""
+msgstr "Thiên văn học"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:115
 msgctxt "applet category"
 msgid "Date and Time"
-msgstr ""
+msgstr "Ngày và Giờ"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:116
 msgctxt "applet category"
 msgid "Development Tools"
-msgstr ""
+msgstr "Công cụ phát triển"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:117
 msgctxt "applet category"
 msgid "Education"
-msgstr ""
+msgstr "Giáo dục"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:118
 msgctxt "applet category"
 msgid "Environment and Weather"
-msgstr ""
+msgstr "Môi trường và Thời tiết"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:119
 msgctxt "applet category"
 msgid "Examples"
-msgstr ""
+msgstr "Ví dụ"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:120
 msgctxt "applet category"
 msgid "File System"
-msgstr ""
+msgstr "Hệ thống tệp"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:121
-#, fuzzy
+#, 
 #| msgctxt "NAME OF TRANSLATORS"
 #| msgid "Your names"
 msgctxt "applet category"
 msgid "Fun and Games"
-msgstr "Nguyễn Hùng Phú"
+msgstr "Trò chơi và Giải trí"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:122
 msgctxt "applet category"
 msgid "Graphics"
-msgstr ""
+msgstr "Đồ họa"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:123
 msgctxt "applet category"
 msgid "Language"
-msgstr ""
+msgstr "Ngôn ngữ"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:124
 msgctxt "applet category"
 msgid "Mapping"
-msgstr ""
+msgstr "Bản đồ"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:125
 msgctxt "applet category"
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Hỗn hợp"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:126
 msgctxt "applet category"
 msgid "Multimedia"
-msgstr ""
+msgstr "Đa phương tiện"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:127
 msgctxt "applet category"
 msgid "Online Services"
-msgstr ""
+msgstr "Dịch vụ trực tuyến"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:128
 msgctxt "applet category"
 msgid "Productivity"
-msgstr ""
+msgstr "Năng suất"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:129
 msgctxt "applet category"
 msgid "System Information"
-msgstr ""
+msgstr "Thông tin hệ thống"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:130
 msgctxt "applet category"
 msgid "Utilities"
-msgstr ""
+msgstr "Tiện ích"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:131
 msgctxt "applet category"
 msgid "Windows and Tasks"
-msgstr ""
+msgstr "Cửa sổ và Tác vụ"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:132
 msgctxt "applet category"
 msgid "Clipboard"
-msgstr ""
+msgstr "Bảng nháp"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:133
 msgctxt "applet category"
 msgid "Tasks"
-msgstr ""
+msgstr "Tác vụ"
 
 #: shellprivate/widgetexplorer/widgetexplorer.cpp:149
 #, kde-format

@@ -33,26 +33,26 @@ msgstr "Hiện hành động:"
 #: contents/ui/ConfigGeneral.qml:35
 #, kde-format
 msgid "Log Out"
-msgstr ""
+msgstr "Đăng xuất"
 
 #: contents/ui/ConfigGeneral.qml:42
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Lock the screen"
 msgctxt "@option:check"
 msgid "Show logout screen"
-msgstr "Khoá màn hình"
+msgstr "Hiển thị màn hình đăng xuất"
 
 #: contents/ui/ConfigGeneral.qml:48
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Shutdown"
 msgid "Shut Down"
-msgstr "Tắt"
+msgstr "Tắt máy"
 
 #: contents/ui/ConfigGeneral.qml:54
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Restart…"
 msgid "Restart"
-msgstr "Khởi động lại…"
+msgstr "Khởi động lại"
 
 #: contents/ui/ConfigGeneral.qml:60 contents/ui/data.js:5
 #, kde-format
@@ -121,17 +121,17 @@ msgid "End the session"
 msgstr "Kết thúc phiên"
 
 #: contents/ui/data.js:39
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Lock the screen"
 msgctxt "@info:tooltip"
 msgid "Show logout screen"
-msgstr "Khoá màn hình"
+msgstr "Hiện màn hình đăng xuất"
 
 #: contents/ui/data.js:40
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Turn off the computer"
 msgid "Log out, turn off, or restart the computer"
-msgstr "Tắt máy tính"
+msgstr "Đăng xuất, tắt hoặc khởi động lại máy tính"
 
 #: contents/ui/data.js:47
 #, kde-format
