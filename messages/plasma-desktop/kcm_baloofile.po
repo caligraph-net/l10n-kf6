@@ -54,7 +54,7 @@ msgid "Delete Index Data"
 msgstr "Xoá dữ liệu chỉ mục"
 
 #: ui/main.qml:90
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "File Search helps you quickly locate all your files based on their "
 #| "content."
@@ -62,77 +62,77 @@ msgid ""
 "File Search helps you quickly locate your files. You can choose which "
 "folders and what types of file data are indexed."
 msgstr ""
-"\"Tìm kiếm tệp\" giúp bạn nhanh chóng định vị tất cả các tệp dựa trên nội "
-"dung."
+"Tìm kiếm tệp giúp bạn nhanh chóng định vị tệp. Bạn có thể chọn thư mục và "
+"loại dữ liệu tệp được lập chỉ mục."
 
 #: ui/main.qml:104
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Currently indexing: %1"
 msgctxt "@title:group"
 msgid "File indexing:"
-msgstr "Đang lập chỉ mục: %1"
+msgstr "Lập chỉ mục tệp:"
 
 #: ui/main.qml:105
 #, kde-format
 msgctxt "@action:check"
 msgid "Enabled"
-msgstr ""
+msgstr "Bật"
 
 #: ui/main.qml:121
 #, kde-format
 msgctxt "@title:group"
 msgid "Data to index:"
-msgstr ""
+msgstr "Dữ liệu cần lập chỉ mục:"
 
 #: ui/main.qml:123
 #, kde-format
 msgid "File names and contents"
-msgstr ""
+msgstr "Tên và nội dung tệp"
 
 #: ui/main.qml:136
 #, kde-format
 msgid "File names only"
-msgstr ""
+msgstr "Chỉ tên tệp"
 
 #: ui/main.qml:155
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Index hidden files and folders"
 msgid "Hidden files and folders"
-msgstr "Lập chỉ mục tệp và thư mục ẩn"
+msgstr "Tệp và thư mục ẩn"
 
 #: ui/main.qml:181
 #, kde-format
 msgctxt "@title:table Locations to include or exclude from indexing"
 msgid "Locations"
-msgstr ""
+msgstr "Địa điểm"
 
 #: ui/main.qml:184
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Start indexing a folder…"
 msgctxt "@action:button"
 msgid "Start Indexing a Folder…"
-msgstr "Bắt đầu lập chỉ mục một thư mục…"
+msgstr "Khởi động lập chỉ mục thư mục…"
 
 #: ui/main.qml:192
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Stop indexing a folder…"
 msgctxt "@action:button"
 msgid "Stop Indexing a Folder…"
-msgstr "Dừng lập chỉ mục một thư mục…"
+msgstr "Dừng lập chỉ mục thư mục…"
 
 #: ui/main.qml:210
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Status: %1, %2% complete"
 msgctxt "State and a percentage of progress"
 msgid "%1, %2% complete"
-msgstr "Tình trạng: %1, hoàn thành %2%"
+msgstr "%1, hoàn tất %2%"
 
 #: ui/main.qml:217
-#, fuzzy, kde-kuit-format
+#, kde-kuit-format
 #| msgid "Currently indexing: %1"
 msgctxt "@info Currently Indexing"
 msgid "Currently indexing: <filename>%1</filename>"
-msgstr "Đang lập chỉ mục: %1"
+msgstr "Đang lập chỉ mục: <filename>%1</filename>"
 
 #: ui/main.qml:270
 #, kde-format

@@ -78,12 +78,12 @@ msgid "Peek at Desktop"
 msgstr "Ngó qua bàn làm việc"
 
 #: applets/taskmanager/package/metadata.json
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Icons-only Task Manager"
 msgctxt "Name"
 msgid "Icons-and-Text Task Manager"
-msgstr "Trình quản lí tác vụ chỉ dùng biểu tượng"
+msgstr "Trình quản lí tác vụ biểu tượng và văn bản"
 
 #: applets/trash/package/metadata.json
 msgctxt "Name"
@@ -91,7 +91,7 @@ msgid "Trashcan"
 msgstr "Thùng rác"
 
 #: applets/window-list/metadata.json
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Window list"
 msgctxt "Name"
@@ -263,12 +263,12 @@ msgid "Plasma Desktop Shell"
 msgstr "Hệ vỏ bàn làm việc Plasma"
 
 #: solid-device-automounter/kcm/device_automounter_kcm.json
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Device Actions"
 msgctxt "Name"
 msgid "Device Auto-Mount"
-msgstr "Hành động với thiết bị"
+msgstr "Tự động gắn kết thiết bị"
 
 #: solid-device-automounter/kded/device_automounter.json
 msgctxt "Name"
@@ -288,7 +288,7 @@ msgstr "Chuyển giữa các Hoạt động"
 #: applets/icontasks/metadata.json
 msgctxt "Description"
 msgid "App bar displaying only icons"
-msgstr ""
+msgstr "Thanh ứng dụng chỉ hiển thị biểu tượng"
 
 #: applets/keyboardlayout/metadata.json
 msgctxt "Description"
@@ -338,14 +338,12 @@ msgid "Temporarily shows the desktop by moving windows away"
 msgstr "Tạm thời hiện bàn làm việc bằng cách di chuyển các cửa sổ đi"
 
 #: applets/taskmanager/package/metadata.json
-#, fuzzy
+#, 
 #| msgctxt "Description"
 #| msgid "Classic taskbar-style window switcher displaying icons and text"
 msgctxt "Description"
 msgid "Window bar displaying icons and text"
-msgstr ""
-"Trình chuyển cửa sổ phong cách thanh tác vụ cổ điển, hiển thị biểu tượng và "
-"chữ"
+msgstr "Thanh cửa sổ hiển thị biểu tượng và chữ"
 
 #: applets/trash/package/metadata.json
 msgctxt "Description"
@@ -405,12 +403,12 @@ msgid "Location for Personal Files"
 msgstr "Địa điểm dành cho các tệp cá nhân"
 
 #: kcms/gamecontroller/kcm_gamecontroller.json
-#, fuzzy
+#, 
 #| msgctxt "Description"
 #| msgid "Calibrate Game Controller"
 msgctxt "Description"
 msgid "Test and Configure Game Controllers"
-msgstr "Hiệu chỉnh thiết bị điều khiển trò chơi"
+msgstr "Kiểm thử và cấu hình thiết bị điều khiển bàn chơi"
 
 #: kcms/kded/kcm_kded.json
 msgctxt "Description"
@@ -522,12 +520,12 @@ msgid "Interact with the Plasma desktop shell"
 msgstr "Tương tác với hệ vỏ bàn làm việc Plasma"
 
 #: solid-device-automounter/kcm/device_automounter_kcm.json
-#, fuzzy
+#, 
 #| msgctxt "Description"
 #| msgid "Configure automatic handling of removable storage media"
 msgctxt "Description"
 msgid "Configure automatic mounting of disks and volumes"
-msgstr "Cấu hình việc xử lí tự động đối với phương tiện lưu trữ gắn ngoài"
+msgstr "Cấu hình gắn kết tự động đĩa và ổ đĩa"
 
 #: solid-device-automounter/kded/device_automounter.json
 msgctxt "Description"

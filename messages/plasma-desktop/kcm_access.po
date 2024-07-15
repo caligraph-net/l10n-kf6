@@ -110,10 +110,10 @@ msgstr "Dùng một khoảng trễ"
 
 #. i18n: ectx: label, entry (AccessXTimeoutDelay), group (Keyboard)
 #: kcmaccessibilityactivationgestures.kcfg:25
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Delay for the mouse movement"
 msgid "Delay for timeout"
-msgstr "Độ trễ cho di chuyển chuột"
+msgstr "Độ trễ cho thời hạn"
 
 #. i18n: ectx: label, entry (AccessXBeep), group (Keyboard)
 #: kcmaccessibilityactivationgestures.kcfg:29
@@ -293,20 +293,20 @@ msgstr "Bật trình đọc màn hình"
 #: kcmaccessibilityshakecursor.kcfg:9
 #, kde-format
 msgid "Whether Shake Cursor is enabled"
-msgstr ""
+msgstr "Con trỏ Rung có bật"
 
 #. i18n: ectx: label, entry (ShakeCursorMagnification), group (Effect-shakecursor)
 #: kcmaccessibilityshakecursor.kcfg:15
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Show a notification"
 msgid "Magnification"
-msgstr "Hiện một thông báo"
+msgstr "Độ phóng đại"
 
 #: ui/ActivationGestures.qml:16
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Activation Gestures"
 msgid "Activation:"
-msgstr "Động tác khởi động"
+msgstr "Kích hoạt:"
 
 #: ui/ActivationGestures.qml:17
 #, kde-format
@@ -314,24 +314,24 @@ msgid "Use gestures for activating sticky keys and slow keys"
 msgstr "Dùng động tác để khởi động các phím dính và phím chậm"
 
 #: ui/ActivationGestures.qml:29
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "Turn sticky keys and slow keys off after a certain time of inactivity"
 msgid "Turn sticky keys and slow keys off after inactivity:"
-msgstr "Tắt phím dính và phím chậm sau khi không dùng một thời gian"
+msgstr "Tắt phím dính và phím chậm sau thời gian không hoạt động:"
 
 #: ui/ActivationGestures.qml:58
-#, fuzzy, kde-format
+#, kde-format
 #| msgid " min"
 msgid "%1 min"
 msgid_plural "%1 min"
-msgstr[0] " phút"
+msgstr[0] "%1 phút"
 
 #: ui/ActivationGestures.qml:62
-#, fuzzy, kde-format
+#, kde-format
 #| msgid " min"
 msgid "min"
-msgstr " phút"
+msgstr "phút"
 
 #: ui/ActivationGestures.qml:70
 #, kde-format
@@ -364,11 +364,11 @@ msgid "Please choose an audio file"
 msgstr "Vui lòng chọn một tệp âm thanh"
 
 #: ui/Bell.qml:21
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Audio Files (*.mp3 *.ogg *.wav)"
 msgctxt "Name filters in a file dialog. Do not translate `(*.ogg *.oga *.wav)`"
 msgid "ogg, oga, and wav audio files (*.ogg *.oga *.wav)"
-msgstr "Tệp âm thanh (*.mp3 *.ogg *.wav)"
+msgstr "Tệp âm thanh ogg, oga và wav (*.ogg *.oga *.wav)"
 
 #: ui/Bell.qml:30
 #, kde-format
@@ -531,10 +531,10 @@ msgid "Mouse Navigation"
 msgstr "Điều hướng chuột"
 
 #: ui/main.qml:49
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Activation Gestures"
 msgid "Activation Gestures"
-msgstr "Động tác khởi động"
+msgstr "Động tác kích hoạt"
 
 #: ui/main.qml:54
 #, kde-format
@@ -546,7 +546,7 @@ msgstr "Trình đọc màn hình"
 #, kde-format
 msgctxt "Shake cursor to find it"
 msgid "Shake Cursor"
-msgstr ""
+msgstr "Lắc Con Trỏ"
 
 #: ui/ModifierKeys.qml:16
 #, kde-format
@@ -621,10 +621,10 @@ msgid "Maximum speed:"
 msgstr "Tốc độ tối đa:"
 
 #: ui/MouseNavigation.qml:86
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Acceleration time:"
 msgid "Pointer acceleration:"
-msgstr "Thời gian gia tốc:"
+msgstr "Gia tốc con trỏ:"
 
 #: ui/ScreenReader.qml:28
 #, kde-format
@@ -653,33 +653,33 @@ msgstr ""
 #, kde-format
 msgctxt "@label"
 msgid "Shake cursor to find it:"
-msgstr ""
+msgstr "Lắc con trỏ để tìm:"
 
 #: ui/ShakeCursor.qml:16
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Enable"
 msgctxt "@option check, Enable shake cursor effect"
 msgid "Enable"
 msgstr "Bật"
 
 #: ui/ShakeCursor.qml:28
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Show a notification"
 msgctxt "@label Cursor magnification level"
 msgid "Magnification:"
-msgstr "Hiện một thông báo"
+msgstr "Độ phóng đại:"
 
 #: ui/ShakeCursor.qml:55
 #, kde-format
 msgctxt "@label Normal cursor size"
 msgid "Normal"
-msgstr ""
+msgstr "Bình thường"
 
 #: ui/ShakeCursor.qml:62
 #, kde-format
 msgctxt "@label Large cursor size"
 msgid "Large"
-msgstr ""
+msgstr "Lớn"
 
 #~ msgid "Acceleration profile:"
 #~ msgstr "Hồ sơ gia tốc:"

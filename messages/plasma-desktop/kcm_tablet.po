@@ -20,7 +20,7 @@ msgstr ""
 #: kcmtablet.cpp:34
 #, kde-format
 msgid "Default"
-msgstr ""
+msgstr "Mặc định"
 
 #: kcmtablet.cpp:35
 #, kde-format
@@ -43,15 +43,15 @@ msgid "Inverted Landscape"
 msgstr "Ngang ngược"
 
 #: kcmtablet.cpp:88
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Follow the active screen"
 msgid "Follow the Current Screen"
-msgstr "Theo màn hình hoạt động"
+msgstr "Theo màn hình hiện tại"
 
 #: kcmtablet.cpp:93
 #, kde-format
 msgid "All Screens"
-msgstr ""
+msgstr "Tất cả màn hình"
 
 #: kcmtablet.cpp:102
 #, kde-format
@@ -62,23 +62,23 @@ msgstr "%1 - (%2,%3 %4×%5)"
 #: kcmtablet.cpp:162
 #, kde-format
 msgid "Fit to Screen"
-msgstr ""
+msgstr "Vừa màn hình"
 
 #: kcmtablet.cpp:163
 #, kde-format
 msgid "Keep Aspect Ratio and Fit Within Screen"
-msgstr ""
+msgstr "Giữ tỉ lệ khung và vừa với màn hình"
 
 #: kcmtablet.cpp:164
 #, kde-format
 msgid "Map to Portion of Screen"
-msgstr ""
+msgstr "Ánh xạ đến phần màn hình"
 
 #: ui/Calibration.qml:29
 #, kde-format
 msgctxt "@title"
 msgid "Pen Calibration"
-msgstr ""
+msgstr "Hiệu chỉnh bút"
 
 #: ui/Calibration.qml:83
 #, kde-kuit-format
@@ -87,6 +87,8 @@ msgid ""
 "Calibration is completed and saved.<nl/><nl/>Refine the calibration further "
 "or close the window."
 msgstr ""
+"Hiệu chuẩn đã hoàn tất và được lưu.<nl/><nl/>Tinh chỉnh thêm hiệu chuẩn "
+"hoặc đóng cửa sổ."
 
 #: ui/Calibration.qml:84
 #, kde-kuit-format
@@ -95,49 +97,51 @@ msgid ""
 "Tap the center of each target.<nl/><nl/>Aim for the point where the stylus "
 "tip lands, and ignore the cursor position on the screen."
 msgstr ""
+"Vỗ vào tâm của mỗi mục tiêu.<nl/><nl/>Nhắm vào điểm mà đầu bút chạm xuống, "
+"và bỏ qua vị trí con trỏ trên màn hình."
 
 #: ui/Calibration.qml:90
 #, kde-format
 msgctxt "@action:button"
 msgid "Refine Existing Calibration"
-msgstr ""
+msgstr "Tinh chỉnh hiệu chuẩn hiện có"
 
 #: ui/Calibration.qml:99
 #, kde-format
 msgctxt "@action:button"
 msgid "Calibrate from Scratch"
-msgstr ""
+msgstr "Hiệu chỉnh từ đầu"
 
 #: ui/Calibration.qml:113
 #, kde-format
 msgctxt "@action:button"
 msgid "Close"
-msgstr ""
+msgstr "Đóng"
 
 #: ui/Calibration.qml:113
 #, kde-format
 msgctxt "@action:button"
 msgid "Cancel"
-msgstr ""
+msgstr "Huỷ"
 
 #: ui/main.qml:32
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "No drawing tablets found."
 msgid "No drawing tablets found"
-msgstr "Không tìm thấy bảng vẽ nào."
+msgstr "Không tìm thấy bảng vẽ"
 
 #: ui/main.qml:33
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Configure drawing tablets"
 msgid "Connect a drawing tablet"
-msgstr "Cấu hình bảng vẽ"
+msgstr "Kết nối bảng vẽ"
 
 #: ui/main.qml:41
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Tablet"
 msgctxt "Tests tablet functionality like the pen"
 msgid "Test Tablet…"
-msgstr "Bảng"
+msgstr "Kiểm thử máy tính bảng…"
 
 #: ui/main.qml:67
 #, kde-format
@@ -148,7 +152,7 @@ msgstr "Thiết bị:"
 #: ui/main.qml:105
 #, kde-format
 msgid "Map to screen:"
-msgstr ""
+msgstr "Ánh xạ lên màn hình:"
 
 #: ui/main.qml:125
 #, kde-format
@@ -156,7 +160,7 @@ msgid "Orientation:"
 msgstr "Hướng:"
 
 #: ui/main.qml:137
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Left-handed mode:"
 msgid "Left-handed mode:"
 msgstr "Chế độ thuận tay trái:"
@@ -169,11 +173,13 @@ msgid ""
 "device, but often it reverses the pad buttonsʼ functionality so the tablet "
 "can be used upside-down."
 msgstr ""
+"Điều chỉnh thiết bị cho người thuận tay trái. Hiệu ứng thay đổi tùy thiết "
+"bị, thường đảo ngược chức năng nút bảng để sử dụng máy tính bảng lộn ngược."
 
 #: ui/main.qml:154
 #, kde-format
 msgid "Mapped Area:"
-msgstr ""
+msgstr "Vùng đã ánh xạ:"
 
 #: ui/main.qml:241
 #, kde-format
@@ -193,46 +199,46 @@ msgid "%1,%2 - %3×%4"
 msgstr "%1,%2 - %3×%4"
 
 #: ui/main.qml:282
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Button %1:"
 msgid "Pen button 1:"
-msgstr "Nút %1:"
+msgstr "Nút bút 1:"
 
 #: ui/main.qml:283
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Tool Button 2"
 msgid "Pen button 2:"
-msgstr "Nút công cụ 2"
+msgstr "Nút bút 2:"
 
 #: ui/main.qml:284
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Tool Button 3"
 msgid "Pen button 3:"
-msgstr "Nút công cụ 3"
+msgstr "Nút bút 3:"
 
 #: ui/main.qml:329
 #, kde-format
 msgctxt "@action:button Calibration in progress"
 msgid "Calibration in Progress"
-msgstr ""
+msgstr "Đang Hiệu Chuẩn"
 
 #: ui/main.qml:331
 #, kde-format
 msgctxt "@action:button Calibrate the pen display"
 msgid "Calibrate"
-msgstr ""
+msgstr "Hiệu chỉnh"
 
 #: ui/main.qml:334
 #, kde-format
 msgctxt "@action:button Pen display doesn't support calibration"
 msgid "Calibration Not Supported"
-msgstr ""
+msgstr "Không Hỗ Trợ Hiệu Chuẩn"
 
 #: ui/main.qml:361
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Calibration across multiple screens is not supported."
-msgstr ""
+msgstr "Hiệu chỉnh trên nhiều màn hình không được hỗ trợ."
 
 #: ui/main.qml:371
 #, kde-format
@@ -246,45 +252,45 @@ msgid "None"
 msgstr "Không"
 
 #: ui/main.qml:404
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Button %1:"
 msgid "Pad button %1:"
-msgstr "Nút %1:"
+msgstr "Nút pad %1:"
 
 #: ui/Tester.qml:25
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Tablet"
 msgctxt "@title"
 msgid "Tablet Tester"
-msgstr "Bảng"
+msgstr "Trình kiểm tra máy tính bảng"
 
 #: ui/Tester.qml:48
 #, kde-format
 msgid "Stylus press X=%1 Y=%2"
-msgstr ""
+msgstr "Nhấn bút X=%1 Y=%2"
 
 #: ui/Tester.qml:58
 #, kde-format
 msgid "Stylus release X=%1 Y=%2"
-msgstr ""
+msgstr "Nhả bút X=%1 Y=%2"
 
 #: ui/Tester.qml:68
 #, kde-format
 msgid "Stylus move X=%1 Y=%2"
-msgstr ""
+msgstr "Di chuyển bút X=%1 Y=%2"
 
 #: ui/Tester.qml:199
 #, kde-format
 msgid ""
 "## Legend:\n"
 "# X, Y - event coordinate\n"
-msgstr ""
+msgstr "## Chú thích:\n# X, Y - tọa độ sự kiện\n"
 
 #: ui/Tester.qml:206
 #, kde-format
 msgctxt "Clear the event log"
 msgid "Clear"
-msgstr ""
+msgstr "Làm trống"
 
 #~ msgid "Primary (default)"
 #~ msgstr "Chính (mặc định)"

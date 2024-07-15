@@ -257,10 +257,10 @@ msgid "Input Here"
 msgstr "Nhập vào đây"
 
 #: contents/configuration/PanelConfiguration.qml:97
-#, fuzzy
+#, 
 #| msgid "Apply Settings"
 msgid "Panel Settings"
-msgstr "Áp dụng thiết lập"
+msgstr "Thiết lập bảng"
 
 #: contents/configuration/PanelConfiguration.qml:104
 msgid "Add Spacer"
@@ -268,7 +268,7 @@ msgstr "Thêm khoảng trống"
 
 #: contents/configuration/PanelConfiguration.qml:107
 msgid "Add spacer widget to the panel"
-msgstr ""
+msgstr "Thêm phụ kiện dãn cách vào bảng"
 
 #: contents/configuration/PanelConfiguration.qml:114
 msgid "Add Widgets…"
@@ -276,11 +276,11 @@ msgstr "Thêm phụ kiện…"
 
 #: contents/configuration/PanelConfiguration.qml:117
 msgid "Open the widget selector to drag and drop widgets to the panel"
-msgstr ""
+msgstr "Mở trình chọn phụ kiện để kéo và thả phụ kiện vào bảng"
 
 #: contents/configuration/PanelConfiguration.qml:146
 msgid "Position"
-msgstr ""
+msgstr "Vị trí"
 
 #: contents/configuration/PanelConfiguration.qml:151
 #: contents/configuration/PanelConfiguration.qml:266
@@ -303,81 +303,81 @@ msgid "Bottom"
 msgstr "Dưới"
 
 #: contents/configuration/PanelConfiguration.qml:174
-#, fuzzy
+#, 
 #| msgid "More Options…"
 msgid "Set Position…"
-msgstr "Lựa chọn thêm…"
+msgstr "Đặt vị trí…"
 
 #: contents/configuration/PanelConfiguration.qml:201
-#, fuzzy
+#, 
 #| msgid "Panel Alignment"
 msgid "Alignment"
-msgstr "Căn lề cho bảng"
+msgstr "Căn lề"
 
 #: contents/configuration/PanelConfiguration.qml:267
 msgid "Center"
 msgstr "Giữa"
 
 #: contents/configuration/PanelConfiguration.qml:290
-#, fuzzy
+#, 
 #| msgid "Right"
 msgid "Height"
-msgstr "Phải"
+msgstr "Chiều cao"
 
 #: contents/configuration/PanelConfiguration.qml:291
 msgid "Width"
-msgstr ""
+msgstr "Chiều rộng"
 
 #: contents/configuration/PanelConfiguration.qml:310
-#, fuzzy
+#, 
 #| msgid "Panel height:"
 msgid "Fill height"
-msgstr "Độ cao bảng:"
+msgstr "Chiều cao tối đa"
 
 #: contents/configuration/PanelConfiguration.qml:310
-#, fuzzy
+#, 
 #| msgid "Panel width:"
 msgid "Fill width"
-msgstr "Độ rộng bảng:"
+msgstr "Lấp đầy chiều rộng"
 
 #: contents/configuration/PanelConfiguration.qml:311
 msgid "Fit content"
-msgstr ""
+msgstr "Vừa nội dung"
 
 #: contents/configuration/PanelConfiguration.qml:312
 msgid "Custom"
-msgstr ""
+msgstr "Tùy biến"
 
 #: contents/configuration/PanelConfiguration.qml:338
-#, fuzzy
+#, 
 #| msgid "Visibility"
 msgid "Visibility"
 msgstr "Khả kiến"
 
 #: contents/configuration/PanelConfiguration.qml:351
-#, fuzzy
+#, 
 #| msgid "Always Visible"
 msgid "Always visible"
-msgstr "Luôn hiện"
+msgstr "Luôn hiển thị"
 
 #: contents/configuration/PanelConfiguration.qml:352
-#, fuzzy
+#, 
 #| msgid "Auto Hide"
 msgid "Auto hide"
 msgstr "Tự động ẩn"
 
 #: contents/configuration/PanelConfiguration.qml:353
 msgid "Dodge windows"
-msgstr ""
+msgstr "Né tránh cửa sổ"
 
 #: contents/configuration/PanelConfiguration.qml:354
-#, fuzzy
+#, 
 #| msgid "Windows Go Below"
 msgid "Windows Go Below"
-msgstr "Cửa sổ đi xuống dưới"
+msgstr "Cửa sổ nằm dưới"
 
 #: contents/configuration/PanelConfiguration.qml:397
-#, fuzzy
+#, 
 #| msgid "Opacity"
 msgid "Opacity"
 msgstr "Độ mờ đục"
@@ -387,74 +387,74 @@ msgid "Adaptive"
 msgstr "Thích ứng"
 
 #: contents/configuration/PanelConfiguration.qml:412
-#, fuzzy
+#, 
 #| msgid "Opaque"
 msgid "Opaque"
 msgstr "Đục"
 
 #: contents/configuration/PanelConfiguration.qml:413
-#, fuzzy
+#, 
 #| msgid "Translucent"
 msgid "Translucent"
 msgstr "Trong mờ"
 
 #: contents/configuration/PanelConfiguration.qml:436
-#, fuzzy
+#, 
 #| msgid "Floating Panel"
 msgid "Floating"
-msgstr "Bảng trôi"
+msgstr "Nổi"
 
 #: contents/configuration/PanelConfiguration.qml:446
 msgid "Style"
-msgstr ""
+msgstr "Kiểu cách"
 
 #: contents/configuration/PanelConfiguration.qml:486
 msgctxt ""
 "@action:button Revert an unsupported configuration back to the defaults"
 msgid "Fix it"
-msgstr ""
+msgstr "Sửa chữa"
 
 #: contents/configuration/PanelConfiguration.qml:564
-#, fuzzy
+#, 
 #| msgid "Panel width:"
 msgid "Panel Width:"
 msgstr "Độ rộng bảng:"
 
 #: contents/configuration/PanelConfiguration.qml:565
-#, fuzzy
+#, 
 #| msgid "Panel width:"
 msgid "Panel Height:"
-msgstr "Độ rộng bảng:"
+msgstr "Chiều cao bảng:"
 
 #: contents/configuration/PanelConfiguration.qml:588
-#, fuzzy
+#, 
 #| msgid "Shortcut"
 msgid "Focus shortcut:"
-msgstr "Phím tắt"
+msgstr "Phím tắt nhắm:"
 
 #: contents/configuration/PanelConfiguration.qml:599
 msgid "Press this keyboard shortcut to move focus to the Panel"
 msgstr "Nhấn phím tắt này để chuyển nhắm đến bảng"
 
 #: contents/configuration/PanelConfiguration.qml:633
-#, fuzzy
+#, 
 #| msgid "Remove Panel"
 msgctxt "@action:button Delete the panel"
 msgid "Delete Panel"
-msgstr "Xoá bỏ bảng"
+msgstr "Xoá bảng"
 
 #: contents/configuration/PanelConfiguration.qml:636
 msgid "Remove this panel; this action is undo-able"
-msgstr ""
+msgstr "Xoá bảng điều khiển này; hành động này có thể hoàn tác"
 
 #: contents/configuration/PanelConfiguration.qml:647
 msgctxt "@action:button Done configuring the panel"
 msgid "Done"
-msgstr ""
+msgstr "Xong"
 
 #: contents/configuration/PanelConfiguration.qml:650
 msgid "Close Panel Settings window and exit Edit Mode"
-msgstr ""
+msgstr "Đóng cửa sổ thiết lập bảng và thoát chế độ sửa"
 
 #: contents/configuration/panelconfiguration/Ruler.qml:30
 msgid "Drag to change maximum height."
@@ -486,10 +486,10 @@ msgstr ""
 "Bấm đúp để đặt lại."
 
 #: contents/configuration/ShellContainmentConfiguration.qml:19
-#, fuzzy
+#, 
 #| msgid "Panels and Desktops Management"
 msgid "Panel and Desktop Management"
-msgstr "Quản lí các bảng và bàn làm việc"
+msgstr "Quản lý bảng và bàn làm việc"
 
 #: contents/configuration/ShellContainmentConfiguration.qml:34
 msgid ""
@@ -511,10 +511,10 @@ msgid "Move to Screen %1"
 msgstr "Chuyển đến màn hình %1"
 
 #: contents/configuration/shellcontainmentconfiguration/Delegate.qml:194
-#, fuzzy
+#, 
 #| msgid "Remove Panel"
 msgid "Remove Desktop"
-msgstr "Xoá bỏ bảng"
+msgstr "Xoá bàn làm việc"
 
 #: contents/configuration/shellcontainmentconfiguration/Delegate.qml:195
 msgid "Remove Panel"
@@ -530,7 +530,7 @@ msgstr "Phụ kiện thay thế"
 
 #: contents/explorer/AppletDelegate.qml:41
 msgid "Unsupported Widget"
-msgstr ""
+msgstr "Phụ kiện không được hỗ trợ"
 
 #: contents/explorer/AppletDelegate.qml:188
 msgid "Undo uninstall"
@@ -572,7 +572,7 @@ msgstr "Các loại"
 #: contents/explorer/WidgetExplorer.qml:226
 msgid "Confirm Removal Of One Widget"
 msgid_plural "Confirm Removal Of %1 Widgets"
-msgstr[0] ""
+msgstr[0] "Xác nhận xóa một phụ kiện"
 
 #: contents/explorer/WidgetExplorer.qml:306
 msgid "No widgets matched the search terms"
@@ -585,121 +585,121 @@ msgstr "Không có phụ kiện nào"
 #: contents/lockscreen/config.qml:19
 msgctxt "@title: group"
 msgid "Clock:"
-msgstr ""
+msgstr "Đồng hồ:"
 
 #: contents/lockscreen/config.qml:22
 msgctxt "@option:check"
 msgid "Keep visible when unlocking prompt disappears"
-msgstr ""
+msgstr "Giữ hiển thị khi lời nhắc mở khóa biến mất"
 
 #: contents/lockscreen/config.qml:33
 msgctxt "@title: group"
 msgid "Media controls:"
-msgstr ""
+msgstr "Điều khiển phương tiện:"
 
 #: contents/lockscreen/config.qml:36
 msgctxt "@option:check"
 msgid "Show under unlocking prompt"
-msgstr ""
+msgstr "Hiển thị dưới lời nhắc mở khóa"
 
 #: contents/lockscreen/LockScreenUi.qml:48
 msgid "Unlocking failed"
-msgstr ""
+msgstr "Mở khóa thất bại"
 
 #: contents/lockscreen/LockScreenUi.qml:271
 msgid "Caps Lock is on"
-msgstr ""
+msgstr "Caps Lock đang bật"
 
 #: contents/lockscreen/LockScreenUi.qml:285
 msgid "Sleep"
-msgstr ""
+msgstr "Ngủ"
 
 #: contents/lockscreen/LockScreenUi.qml:291
 msgid "Hibernate"
-msgstr ""
+msgstr "Ngủ đông"
 
 #: contents/lockscreen/LockScreenUi.qml:297
-#, fuzzy
+#, 
 #| msgid "Switch"
 msgid "Switch User"
-msgstr "Chuyển"
+msgstr "Chuyển người dùng"
 
 #: contents/lockscreen/LockScreenUi.qml:358
 msgctxt "Button to show/hide virtual keyboard"
 msgid "Virtual Keyboard"
-msgstr ""
+msgstr "Bàn phím ảo"
 
 #: contents/lockscreen/LockScreenUi.qml:382
-#, fuzzy
+#, 
 #| msgid "Switch"
 msgctxt "Button to change keyboard layout"
 msgid "Switch layout"
-msgstr "Chuyển"
+msgstr "Chuyển bố cục"
 
 #: contents/lockscreen/MainBlock.qml:64
 msgid "Password"
-msgstr ""
+msgstr "Mật khẩu"
 
 #: contents/lockscreen/MainBlock.qml:107
 #: contents/lockscreen/NoPasswordUnlock.qml:17
 msgid "Unlock"
-msgstr ""
+msgstr "Mở khóa"
 
 #: contents/lockscreen/MainBlock.qml:156
 msgid "(or scan your fingerprint on the reader)"
-msgstr ""
+msgstr "(hoặc quét điểm chỉ trên đầu đọc)"
 
 #: contents/lockscreen/MainBlock.qml:160
 msgid "(or scan your smartcard)"
-msgstr ""
+msgstr "(hoặc quét thẻ thông minh)"
 
 #: contents/lockscreen/MediaControls.qml:59
 msgid "No title"
-msgstr ""
+msgstr "Không có tiêu đề"
 
 #: contents/lockscreen/MediaControls.qml:60
 msgid "No media playing"
-msgstr ""
+msgstr "Không có phương tiện đang phát"
 
 #: contents/lockscreen/MediaControls.qml:88
 msgid "Previous track"
-msgstr ""
+msgstr "Bài trước"
 
 #: contents/lockscreen/MediaControls.qml:100
 msgid "Play or Pause media"
-msgstr ""
+msgstr "Phát hoặc Tạm dừng phương tiện"
 
 #: contents/lockscreen/MediaControls.qml:110
 msgid "Next track"
-msgstr ""
+msgstr "Bài tiếp"
 
 #: contents/osd/OsdItem.qml:32
 msgctxt "Percentage value"
 msgid "%1%"
-msgstr ""
+msgstr "%1%"
 
 #: contents/views/DesktopEditMode.qml:113
 msgid "Global Themes"
-msgstr ""
+msgstr "Chủ đề toàn cục"
 
 #: contents/views/DesktopEditMode.qml:120
-#, fuzzy
+#, 
 #| msgid "Open configuration page"
 msgid "Display Configuration"
-msgstr "Mở trang cấu hình"
+msgstr "Cấu hình bộ hiển thị"
 
 #: contents/views/DesktopEditMode.qml:141
 msgctxt "@action:button"
 msgid "More"
-msgstr ""
+msgstr "Thêm"
 
 #: contents/views/DesktopEditMode.qml:150
 msgid "Exit Edit Mode"
-msgstr ""
+msgstr "Thoát chế độ sửa"
 
 #: contents/views/Panel.qml:302
 msgid "Panel Focus Indicator"
-msgstr ""
+msgstr "Chỉ báo nhắm bảng"
 
 #, fuzzy
 #~| msgid "Right"

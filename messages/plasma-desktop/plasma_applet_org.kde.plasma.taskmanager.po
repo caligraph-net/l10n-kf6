@@ -94,41 +94,41 @@ msgstr "Lấp đầy chỗ trống trong bảng"
 #, kde-format
 msgctxt "@option: radio"
 msgid "Use multi-column view:"
-msgstr ""
+msgstr "Dùng chế độ xem nhiều cột:"
 
 #: package/contents/ui/ConfigAppearance.qml:73
 #, kde-format
 msgctxt "@option:radio"
 msgid "Use multi-row view:"
-msgstr ""
+msgstr "Dùng chế độ xem nhiều hàng:"
 
 #: package/contents/ui/ConfigAppearance.qml:79
 #, kde-format
 msgctxt "Never use multi-column view for Task Manager"
 msgid "Never"
-msgstr ""
+msgstr "Không bao giờ"
 
 #: package/contents/ui/ConfigAppearance.qml:89
 #, kde-format
 msgctxt "When to use multi-row view in Task Manager"
 msgid "When Panel is low on space and thick enough"
-msgstr ""
+msgstr "Khi bảng thiếu không gian và đủ dày"
 
 #: package/contents/ui/ConfigAppearance.qml:99
 #, kde-format
 msgctxt "When to use multi-row view in Task Manager"
 msgid "Always when Panel is thick enough"
-msgstr ""
+msgstr "Luôn khi Bảng đủ dày"
 
 #: package/contents/ui/ConfigAppearance.qml:105
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Maximum columns:"
 msgctxt "@label:spinbox"
 msgid "Maximum columns:"
 msgstr "Số cột tối đa:"
 
 #: package/contents/ui/ConfigAppearance.qml:105
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Maximum rows:"
 msgctxt "@label:spinbox"
 msgid "Maximum rows:"
@@ -267,7 +267,7 @@ msgstr "Giữ các trình khởi chạy tách riêng"
 #: package/contents/ui/ConfigBehavior.qml:123
 #, kde-format
 msgid "Hide launchers after application startup"
-msgstr ""
+msgstr "Ẩn trình khởi chạy sau khi ứng dụng khởi động"
 
 #: package/contents/ui/ConfigBehavior.qml:133
 #, kde-format
@@ -584,11 +584,11 @@ msgid "Allow this program to be grouped"
 msgstr "Cho phép chương trình này được nhóm"
 
 #: package/contents/ui/ContextMenu.qml:773
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Close"
 msgctxt "@item:inmenu"
 msgid "&Close All"
-msgstr "Đón&g"
+msgstr "Đóng &tất cả"
 
 #: package/contents/ui/ContextMenu.qml:773
 #, kde-format

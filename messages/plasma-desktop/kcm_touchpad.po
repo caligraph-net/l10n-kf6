@@ -228,7 +228,7 @@ msgstr "Góc trái trên"
 #: ui/main.qml:99
 #, kde-format
 msgid "Connect an external touchpad"
-msgstr ""
+msgstr "Kết nối bàn cảm ứng ngoài"
 
 #: ui/main.qml:113
 #, kde-format
@@ -264,7 +264,7 @@ msgstr "Tắt bàn cảm ứng khi đang gõ để tránh nhập sai"
 #, kde-format
 msgctxt "@label 'this' refers to the 'disable touchpad while typing' feature"
 msgid "This can interfere with video games."
-msgstr ""
+msgstr "Điều này có thể gây trở ngại cho trò chơi điện tử."
 
 #: ui/main.qml:204
 #, kde-format
@@ -293,12 +293,14 @@ msgid ""
 "Activating this setting increases mouse click latency by 50ms. The extra "
 "delay is needed to correctly detect simultaneous left and right mouse clicks."
 msgstr ""
+"Kích hoạt thiết lập này tăng độ trễ bấm chuột thêm 50ms. Độ trễ bổ sung cần "
+"thiết để phát hiện chính xác việc bấm đồng thời chuột trái và phải."
 
 #: ui/main.qml:274
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Minimum pointer speed"
 msgid "Pointer speed:"
-msgstr "Tốc độ con trỏ tối thiểu"
+msgstr "Tốc độ con trỏ:"
 
 #: ui/main.qml:372
 #, kde-format
@@ -308,7 +310,7 @@ msgstr "Gia tốc con trỏ:"
 #: ui/main.qml:403
 #, kde-format
 msgid "None"
-msgstr ""
+msgstr "Không"
 
 #: ui/main.qml:407
 #, kde-format
@@ -318,7 +320,7 @@ msgstr "Con trỏ di chuyển cùng khoảng cách với ngón tay."
 #: ui/main.qml:416
 #, kde-format
 msgid "Standard"
-msgstr ""
+msgstr "Tiêu chuẩn"
 
 #: ui/main.qml:420
 #, kde-format
@@ -436,10 +438,10 @@ msgid ""
 msgstr "Vỗ bằng hai ngón để bấm phải, vỗ bằng ba ngón để bấm giữa."
 
 #: ui/main.qml:712
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Middle-click (three-finger tap right-click)"
 msgid "Middle-click (three-finger tap to right-click)"
-msgstr "Bấm giữa (vỗ hai ngón để bấm phải)"
+msgstr "Bấm giữa (vỗ ba ngón để bấm phải)"
 
 #: ui/main.qml:713
 #, kde-format

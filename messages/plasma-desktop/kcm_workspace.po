@@ -69,13 +69,13 @@ msgstr "Lập tức"
 #, kde-format
 msgctxt "@label"
 msgid "Scrolling:"
-msgstr ""
+msgstr "Cuộn:"
 
 #: ui/main.qml:123
 #, kde-format
 msgctxt "@option:check"
 msgid "Prefer smooth scrolling"
-msgstr ""
+msgstr "Ưu tiên cuộn mượt"
 
 #: ui/main.qml:133
 #, kde-format
@@ -86,6 +86,10 @@ msgid ""
 "because they either do not support smooth scrolling, or have their own "
 "setting for enabling and disabling it."
 msgstr ""
+"Thiết lập này bật hoặc tắt chuyển tiếp động khi cuộn bằng con lăn chuột "
+"hoặc bàn phím. Một số ứng dụng có thể không tuân theo thiết lập này vì "
+"chúng không hỗ trợ cuộn mượt hoặc có thiết lập riêng để bật tắt tính năng "
+"này."
 
 #: ui/main.qml:146
 #, kde-format
@@ -143,7 +147,7 @@ msgid "Middle-click to scroll to clicked location"
 msgstr "Bấm giữa để cuộn đến vị trí bấm"
 
 #: ui/main.qml:255
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Middle Click:"
 msgctxt ""
 "@radio part of a complete sentence: 'Middle click pastes selected text'"
@@ -151,12 +155,12 @@ msgid "Middle Click:"
 msgstr "Bấm giữa:"
 
 #: ui/main.qml:257
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Paste selected text"
 msgctxt ""
 "@radio part of a complete sentence: 'Middle click pastes selected text'"
 msgid "Pastes selected text"
-msgstr "Dán văn bản bôi đen"
+msgstr "Dán văn bản đã chọn"
 
 #: ui/main.qml:274
 #, kde-format
@@ -202,21 +206,21 @@ msgstr ""
 "hơn để dễ dàng đáp ứng với các tương tác cảm ứng hơn."
 
 #: ui/main.qml:355
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Open by double-clicking instead"
 msgid "Double-click interval:"
-msgstr "Mở bằng bấm đúp"
+msgstr "Khoảng thời gian bấm đúp:"
 
 #: ui/main.qml:370
 #, kde-format
 msgid "%1 msec"
 msgid_plural "%1 msec"
-msgstr[0] ""
+msgstr[0] "%1 mili giây"
 
 #: ui/main.qml:374
 #, kde-format
 msgid "msec"
-msgstr ""
+msgstr "mili giây"
 
 #: ui/main.qml:388
 #, kde-format
@@ -224,6 +228,8 @@ msgid ""
 "Two clicks within this duration are considered a double-click. Some "
 "applications may not honor this setting."
 msgstr ""
+"Hai cú nhấp chuột trong khoảng thời gian này được xem là nhấp đúp. Một số "
+"ứng dụng có thể không tuân theo cài đặt này."
 
 #. i18n: ectx: label, entry (singleClick), group (KDE)
 #: workspaceoptions_kdeglobalssettings.kcfg:9
@@ -241,7 +247,7 @@ msgstr "Tốc độ hiệu ứng động"
 #: workspaceoptions_kdeglobalssettings.kcfg:17
 #, kde-format
 msgid "Smooth scrolling"
-msgstr ""
+msgstr "Cuộn mượt"
 
 #. i18n: ectx: label, entry (scrollbarLeftClickNavigatesByPage), group (KDE)
 #: workspaceoptions_kdeglobalssettings.kcfg:21
@@ -251,10 +257,10 @@ msgstr "Bấm trái trong rãnh thanh cuộn sẽ di chuyển thanh cuộn đi m
 
 #. i18n: ectx: label, entry (doubleClickInterval), group (KDE)
 #: workspaceoptions_kdeglobalssettings.kcfg:25
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Open by double-clicking instead"
 msgid "Double click interval"
-msgstr "Mở bằng bấm đúp"
+msgstr "Khoảng thời gian bấm đúp"
 
 #. i18n: ectx: label, entry (tabletMode), group (Input)
 #: workspaceoptions_kwinsettings.kcfg:9

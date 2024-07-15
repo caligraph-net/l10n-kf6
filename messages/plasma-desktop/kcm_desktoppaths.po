@@ -92,7 +92,7 @@ msgid "Public path:"
 msgstr "Đường dẫn \"Công khai\":"
 
 #: ui/main.qml:142
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "This folder will be used by default to load or save public shares from or "
 #| "to."
@@ -100,7 +100,8 @@ msgid ""
 "This folder will be used by default for publicly-shared files when network "
 "sharing is enabled."
 msgstr ""
-"Thư mục này mặc định sẽ được dùng để tải hoặc lưu các chia sẻ công khai."
+"Thư mục này sẽ được dùng mặc định cho các tệp chia sẻ công khai khi bật "
+"chia sẻ mạng."
 
 #: ui/main.qml:150
 #, kde-format
@@ -117,7 +118,7 @@ msgstr "Thư mục này mặc định sẽ được dùng để tải hoặc lư
 #, kde-format
 msgctxt "@action:button"
 msgid "Choose new location"
-msgstr ""
+msgstr "Chọn địa điểm mới"
 
 #~ msgid "Desktop"
 #~ msgstr "Bàn làm việc"

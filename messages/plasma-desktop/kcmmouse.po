@@ -80,12 +80,12 @@ msgid "Pointer device disconnected. No other devices found."
 msgstr "Thiết bị trỏ bị ngắt kết nối. Không tìm thấy thiết bị trỏ nào khác."
 
 #: ui/bindings.qml:27
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@action:button"
 #| msgid "Re-bind Additional Mouse Buttons…"
 msgctxt "@action:button"
 msgid "Bindings for Additional Mouse Buttons"
-msgstr "Kết buộc lại các nút chuột bổ sung…"
+msgstr "Kết buộc cho các nút chuột bổ sung"
 
 #: ui/bindings.qml:70
 #, kde-format
@@ -112,12 +112,12 @@ msgid "Cancel"
 msgstr "Huỷ"
 
 #: ui/bindings.qml:124
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@action:button"
 #| msgid "Press a mouse button "
 msgctxt "@action:button"
 msgid "Press a mouse button"
-msgstr "Nhấn một nút chuột "
+msgstr "Nhấn nút chuột"
 
 #: ui/bindings.qml:125
 #, kde-format
@@ -178,6 +178,8 @@ msgid ""
 "Activating this setting increases mouse click latency by 50ms. The extra "
 "delay is needed to correctly detect simultaneous left and right mouse clicks."
 msgstr ""
+"Kích hoạt thiết lập này tăng độ trễ bấm chuột thêm 50ms. Độ trễ bổ sung cần "
+"thiết để phát hiện chính xác việc bấm đồng thời chuột trái và phải."
 
 #: ui/main.qml:154
 #, kde-format
@@ -192,7 +194,7 @@ msgstr "Gia tốc con trỏ:"
 #: ui/main.qml:246
 #, kde-format
 msgid "None"
-msgstr ""
+msgstr "Không"
 
 #: ui/main.qml:251
 #, kde-format
@@ -202,7 +204,7 @@ msgstr "Con trỏ di chuyển cùng khoảng cách với di chuyển của chu�
 #: ui/main.qml:256
 #, kde-format
 msgid "Standard"
-msgstr ""
+msgstr "Tiêu chuẩn"
 
 #: ui/main.qml:261
 #, kde-format
@@ -245,12 +247,12 @@ msgstr "Cuộn như màn hình cảm ứng."
 #: ui/main.qml:356
 #, kde-format
 msgid "Press middle button and move mouse to scroll"
-msgstr ""
+msgstr "Nhấn nút giữa và di chuột để cuộn"
 
 #: ui/main.qml:368
 #, kde-format
 msgid "Scrolling with the mouse while the middle button is pressed."
-msgstr ""
+msgstr "Cuộn bằng chuột khi nhấn giữ nút giữa."
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"

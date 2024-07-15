@@ -39,10 +39,10 @@ msgid "Switch to Next Keyboard Layout"
 msgstr "Chuyển sang bố cục bàn phím tiếp theo"
 
 #: bindings.cpp:30
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Switch to Next Keyboard Layout"
 msgid "Switch to Last-Used Keyboard Layout"
-msgstr "Chuyển sang bố cục bàn phím tiếp theo"
+msgstr "Chuyển sang bố cục bàn phím đã dùng gần nhất"
 
 #: bindings.cpp:60
 #, kde-format
@@ -74,7 +74,7 @@ msgid "Keyboard layout visualization"
 msgstr "Hiển thị bố cục bàn phím"
 
 #: tastenbrett/main.cpp:139
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@label"
 #| msgid ""
 #| "The keyboard geometry failed to load. This often indicates that the "
@@ -92,96 +92,98 @@ msgid ""
 "fine if applied"
 msgstr ""
 "Hiển thị bố cục bàn phím tải thất bại. Việc này thường cho thấy là mẫu mã "
-"được chọn không hỗ trợ một bố cục hoặc biến thể bố cục nhất định. Vấn đề này "
-"cũng sẽ có thể xuất hiện khi bạn thử dùng mẫu mã, bố cục và biến thể này đi "
-"kèm với nhau."
+"được chọn không hỗ trợ một bố cục hoặc biến thể bố cục nhất định. Vấn đề "
+"này cũng sẽ có thể xuất hiện khi bạn thử dùng mẫu mã, bố cục và biến thể "
+"này đi kèm với nhau.\nXem trước bố cục được định nghĩa ngoài thư mục xkb "
+"của hệ thống không được hỗ trợ và cũng sẽ hiện thông báo này. Những bố cục "
+"này vẫn có thể hoạt động tốt khi được áp dụng."
 
 #: ui/Advanced.qml:40
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Configure keyboard options"
 msgctxt "@option:checkbox"
 msgid "Configure keyboard options"
-msgstr "Cấu hình các &lựa chọn bàn phím"
+msgstr "Cấu hình tùy chọn bàn phím"
 
 #: ui/Hardware.qml:34
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Keyboard &model:"
 msgctxt "@title:group"
 msgid "Keyboard model:"
-msgstr "&Mẫu mã bàn phím:"
+msgstr "Mẫu bàn phím:"
 
 #: ui/Hardware.qml:68
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "NumLock on Plasma Startup"
 msgctxt "@title:group"
 msgid "NumLock on Plasma Startup:"
-msgstr "NumLock khi khởi động Plasma"
+msgstr "NumLock khi khởi động Plasma:"
 
 #: ui/Hardware.qml:73
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "T&urn on"
 msgctxt "@option:radio"
 msgid "Turn On"
-msgstr "&Bật"
+msgstr "Bật"
 
 #: ui/Hardware.qml:77
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Turn off"
 msgctxt "@option:radio"
 msgid "Turn Off"
-msgstr "&Tắt"
+msgstr "Tắt"
 
 #: ui/Hardware.qml:81
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Leave unchan&ged"
 msgctxt "@option:radio"
 msgid "Leave unchanged"
-msgstr "Để lại khôn&g thay đổi"
+msgstr "Giữ nguyên"
 
 #: ui/Hardware.qml:114
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "When a key is held:"
 msgctxt "@title:group"
 msgid "When key is held:"
-msgstr "Khi một phím được giữ:"
+msgstr "Khi giữ phím:"
 
 #: ui/Hardware.qml:119
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Repeat the key"
 msgctxt "@option:radio"
 msgid "Repeat the key"
-msgstr "Lặp lạ&i phím"
+msgstr "Lặp lại phím"
 
 #: ui/Hardware.qml:124
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Do nothing"
 msgctxt "@option:radio"
 msgid "Do nothing"
-msgstr "&Không làm gì"
+msgstr "Không làm gì"
 
 #: ui/Hardware.qml:129
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Show accented and similar characters "
 msgctxt "@option:radio"
 msgid "Show accented and similar characters"
-msgstr "&Hiện các kí tự có dấu phụ và tương tự"
+msgstr "Hiện kí tự có dấu và tương tự"
 
 #: ui/Hardware.qml:164
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Delay:"
 msgctxt "@label:slider"
 msgid "Delay:"
-msgstr "Độ t&rễ:"
+msgstr "Độ trễ:"
 
 #: ui/Hardware.qml:199
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Rate:"
 msgctxt "@label:slider"
 msgid "Rate:"
-msgstr "&Tốc độ:"
+msgstr "Tốc độ:"
 
 #: ui/Hardware.qml:247
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Test area:"
 msgctxt "@label:textbox"
 msgid "Test area:"
@@ -191,17 +193,17 @@ msgstr "Vùng kiểm thử:"
 #, kde-format
 msgctxt "@info:placeholder"
 msgid "Type here to test settings"
-msgstr ""
+msgstr "Gõ vào đây để kiểm thử thiết lập"
 
 #: ui/LayoutDialog.qml:21
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add Layout"
 msgctxt "@title:window"
 msgid "Add Layout"
 msgstr "Thêm bố cục"
 
 #: ui/LayoutDialog.qml:106 ui/Layouts.qml:245
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Preview"
 msgctxt "@action:button"
 msgid "Preview"
@@ -211,198 +213,198 @@ msgstr "Xem thử"
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Display text:"
-msgstr ""
+msgstr "Văn bản hiển thị:"
 
 #: ui/LayoutDialog.qml:143
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Shortcut:"
 msgctxt "@option:textbox"
 msgid "Shortcut:"
 msgstr "Phím tắt:"
 
 #: ui/Layouts.qml:28
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Shortcuts for Switching Layout"
 msgctxt "@title:group"
 msgid "Shortcuts for Switching Layout"
-msgstr "Phím tắt để chuyển bố cục"
+msgstr "Phím tắt chuyển bố cục"
 
 #: ui/Layouts.qml:34
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Main shortcuts:"
 msgctxt "@option:textbox"
 msgid "Main shortcuts:"
 msgstr "Phím tắt chính:"
 
 #: ui/Layouts.qml:61
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "3rd level shortcuts:"
 msgctxt "@option:textbox"
 msgid "3rd level shortcuts:"
-msgstr "Phím tắt cấp độ ba:"
+msgstr "Phím tắt cấp 3:"
 
 #: ui/Layouts.qml:88
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Alternative shortcut:"
 msgctxt "@option:textbox"
 msgid "Alternative shortcut:"
 msgstr "Phím tắt thay thế:"
 
 #: ui/Layouts.qml:109
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Alternative shortcut:"
 msgctxt "@option:textbox"
 msgid "Last used shortcuts:"
-msgstr "Phím tắt thay thế:"
+msgstr "Phím tắt gần đây:"
 
 #: ui/Layouts.qml:129
 #, kde-format
 msgctxt "@option:checkbox"
 msgid "Show a popup on layout changes"
-msgstr ""
+msgstr "Hiện ô bật lên khi thay đổi bố cục"
 
 #: ui/Layouts.qml:145
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Switching Policy"
 msgctxt "@title:group"
 msgid "Switching Policy"
 msgstr "Chính sách chuyển đổi"
 
 #: ui/Layouts.qml:152
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Global"
 msgctxt "@option:radio"
 msgid "Global"
-msgstr "T&oàn cục"
+msgstr "Toàn cục"
 
 #: ui/Layouts.qml:156
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Desktop"
 msgctxt "@option:radio"
 msgid "Desktop"
-msgstr "&Bàn làm việc"
+msgstr "Máy tính"
 
 #: ui/Layouts.qml:160
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Application"
 msgctxt "@option:radio"
 msgid "Application"
-msgstr "Ứ&ng dụng"
+msgstr "Ứng dụng"
 
 #: ui/Layouts.qml:164
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Window"
 msgctxt "@option:radio"
 msgid "Window"
-msgstr "Cửa &sổ"
+msgstr "Cửa sổ"
 
 #: ui/Layouts.qml:185
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Configure layouts"
 msgctxt "@option:checkbox"
 msgid "Configure Layouts"
 msgstr "Cấu hình bố cục"
 
 #: ui/Layouts.qml:200
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add"
 msgctxt "@action:button"
 msgid "Add"
 msgstr "Thêm"
 
 #: ui/Layouts.qml:206
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Remove"
 msgctxt "@action:button"
 msgid "Remove"
 msgstr "Xoá"
 
 #: ui/Layouts.qml:213
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Move Up"
 msgctxt "@action:button"
 msgid "Move Up"
 msgstr "Chuyển lên"
 
 #: ui/Layouts.qml:229
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Move Down"
 msgctxt "@action:button"
 msgid "Move Down"
 msgstr "Chuyển xuống"
 
 #: ui/Layouts.qml:316
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "layout map name"
 #| msgid "Map"
 msgctxt "@title:column"
 msgid "Map"
-msgstr "Mã"
+msgstr "Bản đồ"
 
 #: ui/Layouts.qml:323
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Label"
 msgctxt "@title:column"
 msgid "Label"
 msgstr "Nhãn"
 
 #: ui/Layouts.qml:332
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Layout"
 msgctxt "@title:column"
 msgid "Layout"
 msgstr "Bố cục"
 
 #: ui/Layouts.qml:337
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Variant"
 msgctxt "@title:column"
 msgid "Variant"
-msgstr "Biến thế"
+msgstr "Biến thể"
 
 #: ui/Layouts.qml:342
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Shortcut"
 msgctxt "@title:column"
 msgid "Shortcut"
 msgstr "Phím tắt"
 
 #: ui/Layouts.qml:388
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Main shortcuts:"
 msgctxt "@action:button"
 msgid "Reassign shortcut"
-msgstr "Phím tắt chính:"
+msgstr "Gán lại phím tắt"
 
 #: ui/Layouts.qml:404
 #, kde-format
 msgctxt "@action:button"
 msgid "Cancel assignment"
-msgstr ""
+msgstr "Huỷ gán"
 
 #: ui/Layouts.qml:417
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Spare layouts"
 msgctxt "@option:checkbox"
 msgid "Spare layouts"
 msgstr "Bố cục phụ"
 
 #: ui/Layouts.qml:453
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Main layout count:"
 msgctxt "@label:spinbox"
 msgid "Main layout count:"
 msgstr "Số lượng bố cục chính:"
 
 #: ui/main.qml:43
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Hardware"
 msgctxt "@title:tab"
 msgid "Hardware"
 msgstr "Phần cứng"
 
 #: ui/main.qml:49
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Layouts"
 msgctxt "@title:tab"
 msgid "Layouts"
@@ -412,7 +414,7 @@ msgstr "Bố cục"
 #, kde-format
 msgctxt "@title:tab"
 msgid "Key Bindings"
-msgstr ""
+msgstr "Phím kết buộc"
 
 #: xkboptionsmodel.cpp:160
 #, kde-format

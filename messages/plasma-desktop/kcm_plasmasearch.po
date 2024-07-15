@@ -18,10 +18,10 @@ msgstr ""
 "X-Generator: Lokalize 21.12.2\n"
 
 #: plasmasearch/kcm.h:70
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Available Plugins"
 msgid "Favorite Plugins"
-msgstr "Phần cài cắm khả dụng"
+msgstr "Phần cài cắm ưa thích"
 
 #: plasmasearch/kcm.h:71
 #, kde-format
@@ -39,7 +39,7 @@ msgid "Get New Plugins…"
 msgstr "Lấy phần cài cắm mới…"
 
 #: plasmasearch/ui/main.qml:44
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "Enable or disable plugins (used in KRunner, Application Launcher, and the "
 #| "Overview effect)"
@@ -48,18 +48,18 @@ msgid ""
 "Overview effect). Mark plugins as favorites and arrange them in order you "
 "want to prioritize them."
 msgstr ""
-"Bật hoặc tắt các phần cài cắm (dùng trong KRunner, Trình khởi chạy ứng dụng, "
-"và hiệu ứng Tổng quan)"
+"Bật/tắt phần cài cắm (dùng trong KRunner, Trình khởi chạy ứng dụng, và hiệu "
+"ứng Tổng quan). Đánh dấu ưa thích và sắp xếp theo thứ tự ưu tiên."
 
 #: plasmasearch/ui/main.qml:90
 #, kde-format
 msgid "Remove from favorites"
-msgstr ""
+msgstr "Xoá khỏi mục ưa thích"
 
 #: plasmasearch/ui/main.qml:90
 #, kde-format
 msgid "Add to favorites"
-msgstr ""
+msgstr "Thêm vào mục ưa thích"
 
 #: plugininstaller/AbstractJob.cpp:18
 #, kde-kuit-format
@@ -83,14 +83,14 @@ msgstr ""
 #: plugininstaller/KRunnerPluginInstallerRcJob.cpp:88
 #, kde-format
 msgid "Failed to copy file %1 to %2"
-msgstr ""
+msgstr "Không thể sao chép tệp %1 sang %2"
 
 #: plugininstaller/KRunnerPluginInstallerRcJob.cpp:103
 #: plugininstaller/KRunnerPluginInstallerRcJob.cpp:106
 #, kde-kuit-format
 msgctxt "@info"
 msgid "Failed to remove file %1:<nl/>%2"
-msgstr ""
+msgstr "Không thể xoá tệp %1:<nl/>%2"
 
 #: plugininstaller/main.cpp:33
 #, kde-format
@@ -99,24 +99,24 @@ msgid "KRunner plugin installation failed"
 msgstr "Cài đặt phần cài cắm KRunner thất bại"
 
 #: plugininstaller/main.cpp:48
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@info:shell"
 #| msgid "Command to execute: install or uninstall."
 msgctxt "@info:shell"
 msgid "Command to execute: install or uninstall"
-msgstr "Lệnh để thực thi: install hoặc uninstall."
+msgstr "Lệnh thực thi: cài đặt hoặc gỡ cài đặt"
 
 #: plugininstaller/main.cpp:49
 #, kde-format
 msgctxt "@info:shell"
 msgid "Path to archive or extracted folder"
-msgstr ""
+msgstr "Đường dẫn đến kho trữ hoặc thư mục đã giải nén"
 
 #: plugininstaller/main.cpp:50
 #, kde-format
 msgctxt "@info:shell"
 msgid "Do not show a visual confirmation dialog"
-msgstr ""
+msgstr "Không hiển thị hộp thoại xác nhận trực quan"
 
 #: plugininstaller/main.cpp:92
 #, kde-format
@@ -166,7 +166,7 @@ msgctxt "@info"
 msgid ""
 "This plugin executes the following command for starting the \"%1\" service:"
 "<nl/>%2"
-msgstr ""
+msgstr "Phần cài cắm này thực thi lệnh sau để khởi động dịch vụ \"%1\":<nl/>%2"
 
 #: plugininstaller/ScriptConfirmationDialog.h:47
 #, kde-kuit-format

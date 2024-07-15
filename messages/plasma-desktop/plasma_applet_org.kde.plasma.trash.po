@@ -19,30 +19,30 @@ msgstr ""
 "X-Generator: Lokalize 20.08.1\n"
 
 #: contents/ui/main.qml:32
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Trash"
 msgctxt "@title the name of the Trash widget"
 msgid "Trash"
 msgstr "Thùng rác"
 
 #: contents/ui/main.qml:34
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "One item"
 #| msgid_plural "%1 items"
 msgctxt "@info:status The trash contains this many items in it"
 msgid "One item"
 msgid_plural "%1 items"
-msgstr[0] "%1 thứ"
+msgstr[0] "%1 mục"
 
 #: contents/ui/main.qml:35
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Empty"
 msgctxt "@info:status The trash is empty"
 msgid "Empty"
 msgstr "Trống"
 
 #: contents/ui/main.qml:71
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "a verb"
 #| msgid "Open"
 msgctxt "@action:inmenu Open the trash"
@@ -50,14 +50,14 @@ msgid "Open"
 msgstr "Mở"
 
 #: contents/ui/main.qml:76
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Empty"
 msgctxt "@action:inmenu Empty the trash"
 msgid "Empty"
-msgstr "Trống"
+msgstr "Dọn sạch"
 
 #: contents/ui/main.qml:82
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Trash Settings…"
 msgctxt "@action:inmenu"
 msgid "Trash Settings…"

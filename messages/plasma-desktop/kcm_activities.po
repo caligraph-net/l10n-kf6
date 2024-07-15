@@ -18,12 +18,12 @@ msgstr ""
 "X-Generator: Lokalize 20.12.2\n"
 
 #: ui/ActivityEditor.qml:22
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@title:window"
 #| msgid "Activity Settings"
 msgctxt "@title:window"
 msgid "Activity Settings for %1"
-msgstr "Thiết lập Hoạt động"
+msgstr "Thiết lập Hoạt động cho %1"
 
 #: ui/ActivityEditor.qml:23
 #, kde-format
@@ -35,24 +35,24 @@ msgstr "Tạo một Hoạt động mới"
 #, kde-format
 msgctxt "@action:button as in, 'save changes'"
 msgid "Save"
-msgstr ""
+msgstr "Lưu"
 
 #: ui/ActivityEditor.qml:57
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Icon:"
 msgctxt "@label:chooser"
 msgid "Icon:"
 msgstr "Biểu tượng:"
 
 #: ui/ActivityEditor.qml:68
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Name:"
 msgctxt "@label:textbox"
 msgid "Name:"
 msgstr "Tên:"
 
 #: ui/ActivityEditor.qml:74
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Description:"
 msgctxt "@label:textbox"
 msgid "Description:"
@@ -62,24 +62,24 @@ msgstr "Mô tả:"
 #, kde-format
 msgctxt "@option:check"
 msgid "While on this activity, allow:"
-msgstr ""
+msgstr "Khi ở hoạt động này, cho phép:"
 
 #: ui/ActivityEditor.qml:85
 #, kde-format
 msgid "Tracking file and app use"
-msgstr ""
+msgstr "Theo dõi sử dụng tệp và ứng dụng"
 
 #: ui/ActivityEditor.qml:91
 #, kde-format
 msgctxt "@option:check"
 msgid "Automatically turning off the screen"
-msgstr ""
+msgstr "Tự động tắt màn hình"
 
 #: ui/ActivityEditor.qml:97
 #, kde-format
 msgctxt "@option:check"
 msgid "Automatically shutting down or sleeping"
-msgstr ""
+msgstr "Tự động tắt máy hoặc ngủ"
 
 #: ui/ActivityEditor.qml:103
 #, kde-format
@@ -104,14 +104,14 @@ msgid "Delete Activity"
 msgstr "Xoá Hoạt động"
 
 #: ui/main.qml:87
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Are you sure you want to delete '%1'?"
 msgctxt "%1 is an activity name"
 msgid "Do you want to delete activity '%1'?"
-msgstr "Bạn có chắc chắn muốn xoá '%1'?"
+msgstr "Bạn có muốn xoá hoạt động '%1'?"
 
 #: ui/main.qml:94
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@title:window"
 #| msgid "Delete Activity"
 msgid "Delete Activity"
