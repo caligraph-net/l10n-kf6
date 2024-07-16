@@ -24,7 +24,7 @@ msgstr ""
 #: src/kiod/org.kde.kiod6.desktop:5
 msgctxt "Name"
 msgid "KIO"
-msgstr ""
+msgstr "KIO"
 
 #: src/kioworkers/file/kauth/file.actions:2
 msgctxt "Name"
@@ -240,15 +240,15 @@ msgstr "https://www.bing.com/search?q=\\\\{@}"
 #: src/urifilters/ikws/searchproviders/boo.desktop:5
 msgctxt "Name"
 msgid "openSUSE Bugzilla"
-msgstr ""
+msgstr "Bugzilla openSUSE"
 
 #: src/urifilters/ikws/searchproviders/boo.desktop:42
-#, fuzzy
+#, 
 #| msgctxt "Query"
 #| msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
 msgctxt "Query"
 msgid "https://bugzilla.opensuse.org/show_bug.cgi?id=\\\\{@}"
-msgstr "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
+msgstr "https://bugzilla.opensuse.org/show_bug.cgi?id=\\{@}"
 
 #: src/urifilters/ikws/searchproviders/bug.desktop:3
 msgctxt "Name"
@@ -301,7 +301,7 @@ msgstr ""
 #: src/urifilters/ikws/searchproviders/codeberg.desktop:5
 msgctxt "Name"
 msgid "Codeberg"
-msgstr ""
+msgstr "Codeberg"
 
 #: src/urifilters/ikws/searchproviders/codeberg.desktop:42
 msgctxt "Query"
@@ -309,6 +309,8 @@ msgid ""
 "https://codeberg.org/explore/repos?sort=recentupdate&language=&q=\\\\{@}"
 "&only_show_relevant=true"
 msgstr ""
+""
+"https://codeberg.org/exp&lore/repos?sort=recentupdatelanguage=q=\\{@}only_show_relevant=true"
 
 #: src/urifilters/ikws/searchproviders/cpan.desktop:3
 msgctxt "Name"
@@ -1224,15 +1226,15 @@ msgstr "https://www.protondb.com/search?q=\\\\{@}"
 #: src/urifilters/ikws/searchproviders/pypi.desktop:5
 msgctxt "Name"
 msgid "PyPI"
-msgstr ""
+msgstr "PyPI"
 
 #: src/urifilters/ikws/searchproviders/pypi.desktop:41
-#, fuzzy
+#, 
 #| msgctxt "Query"
 #| msgid "https://vimeo.com/search?q=\\\\{@}"
 msgctxt "Query"
 msgid "https://pypi.org/search/?q=\\\\{@}"
-msgstr "https://vimeo.com/search?q=\\\\{@}"
+msgstr "https://pypi.org/search/?q=\\{@}"
 
 #: src/urifilters/ikws/searchproviders/python.desktop:5
 msgctxt "Name"

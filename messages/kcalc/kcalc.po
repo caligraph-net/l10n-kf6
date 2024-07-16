@@ -1,0 +1,2282 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kcalc package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kcalc\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-06 00:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Địa chỉ email của bạn"
+
+#. i18n: ectx: property (title), widget (QGroupBox, displayColorsBox)
+#: colors.ui:17
+#, kde-format
+msgid "Display Colors"
+msgstr "Màu Bộ Hiển Thị"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: colors.ui:25
+#, kde-format
+msgid "&Foreground:"
+msgstr "Nề&n trước:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: colors.ui:52
+#, kde-format
+msgid "&Background:"
+msgstr "&Nền:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, buttonColorsBox)
+#: colors.ui:97
+#, kde-format
+msgid "Button Colors"
+msgstr "Màu Nút"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel6)
+#: colors.ui:105
+#, kde-format
+msgid "Background"
+msgstr "Nền"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: colors.ui:115
+#, kde-format
+msgid "Foreground"
+msgstr "Nền trước"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel5)
+#: colors.ui:125
+#, kde-format
+msgid "&Functions:"
+msgstr "Chức &năng:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: colors.ui:152
+#, kde-format
+msgid "St&atistic functions:"
+msgstr "Các hàm &thống kê:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel9)
+#: colors.ui:179
+#, kde-format
+msgid "He&xadecimals:"
+msgstr "Hệ t&hập lục phân:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel11)
+#: colors.ui:206
+#, kde-format
+msgid "&Numbers:"
+msgstr "&Số:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel10)
+#: colors.ui:233
+#, kde-format
+msgid "&Memory:"
+msgstr "&Bộ nhớ:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel12)
+#: colors.ui:260
+#, kde-format
+msgid "O&perations:"
+msgstr "Tha&o tác:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel13)
+#: colors.ui:287
+#, kde-format
+msgid "&Constants:"
+msgstr "Hằ&ng số:"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, Constants)
+#: constants.ui:13 kcalc.cpp:1729
+#, kde-format
+msgid "Constants"
+msgstr "Hằng số"
+
+#. i18n: ectx: property (text), widget (QPushButton, pushButton0)
+#. i18n: ectx: property (text), widget (QPushButton, pushButton1)
+#. i18n: ectx: property (text), widget (QPushButton, pushButton2)
+#. i18n: ectx: property (text), widget (QPushButton, pushButton3)
+#. i18n: ectx: property (text), widget (QPushButton, pushButton4)
+#. i18n: ectx: property (text), widget (QPushButton, pushButton5)
+#: constants.ui:33 constants.ui:54 constants.ui:75 constants.ui:96
+#: constants.ui:117 constants.ui:138
+#, kde-format
+msgid "Predefined"
+msgstr "Định sẵn"
+
+#. i18n: ectx: property (text), widget (QLabel, buttonlabel)
+#: fonts.ui:21
+#, kde-format
+msgid "&Button font:"
+msgstr "&Phông chữ nút:"
+
+#. i18n: ectx: property (toolTip), widget (KFontRequester, kcfg_ButtonFont)
+#: fonts.ui:34
+#, kde-format
+msgid "The font to use for the buttons"
+msgstr "Phông chữ dùng cho các nút"
+
+#. i18n: ectx: property (text), widget (QLabel, displaylabel)
+#: fonts.ui:41
+#, kde-format
+msgid "&Display font:"
+msgstr "P&hông chữ hiển thị:"
+
+#. i18n: ectx: property (toolTip), widget (KFontRequester, kcfg_DisplayFont)
+#: fonts.ui:54
+#, kde-format
+msgid "The font to use in the display"
+msgstr "Phông chữ sử dụng trong bộ hiển thị"
+
+#. i18n: ectx: property (text), widget (QLabel, historylabel)
+#: fonts.ui:61
+#, kde-format
+msgid "&History font:"
+msgstr "P&hông chữ lịch sử:"
+
+#. i18n: ectx: property (toolTip), widget (KFontRequester, kcfg_HistoryFont)
+#: fonts.ui:74
+#, kde-format
+msgid "The font to use in the history"
+msgstr "Phông chữ sử dụng trong lịch sử"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, General)
+#: general.ui:14 kcalc.cpp:1689
+#, kde-format
+msgid "General"
+msgstr "Chung"
+
+#. i18n: ectx: property (title), widget (QGroupBox, precisionGroupBox)
+#: general.ui:20
+#, kde-format
+msgid "Precision"
+msgstr "Độ chính xác"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: general.ui:28
+#, kde-format
+msgid "&Maximum number of digits:"
+msgstr "Số chữ số tối đ&a:"
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_Precision)
+#: general.ui:41
+#, kde-format
+msgid "Maximum number of digits displayed"
+msgstr "Số chữ số tối đa hiển thị"
+
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, kcfg_Precision)
+#: general.ui:44
+#, kde-format
+msgid ""
+"KCalc can compute with many more digits than the number that fits on the "
+"display. This setting gives the maximum number of digits displayed, before "
+"KCalc starts using scientific notation, i.e. notation of the type 2.34e12."
+msgstr ""
+"KCalc có thể tính toán với nhiều chữ số hơn số hiển thị. Thiết lập này xác "
+"định số chữ số tối đa hiển thị, trước khi KCalc chuyển sang ký hiệu khoa "
+"học, tức kiểu ký hiệu như 2.34e12."
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_Fixed)
+#: general.ui:51
+#, kde-format
+msgid "Whether to use fixed decimal places"
+msgstr "Có sử dụng số thập phân cố định hay không"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_Fixed)
+#: general.ui:54
+#, kde-format
+msgid "Set &decimal precision"
+msgstr "Đặ&t độ chính xác thập phân"
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_FixedPrecision)
+#: general.ui:64
+#, kde-format
+msgid "Number of fixed decimal digits"
+msgstr "Số chữ số thập phân cố định"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: general.ui:89
+#, kde-format
+msgid "Grouping"
+msgstr "Phân nhóm"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_GroupDigits)
+#: general.ui:97
+#, kde-format
+msgid "Whether to group digits"
+msgstr "Có nhóm các chữ số hay không"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_GroupDigits)
+#: general.ui:100
+#, kde-format
+msgid "Group digits"
+msgstr "Nhóm chữ số"
+
+#. i18n: ectx: property (text), widget (QLabel, grouping_binary_lb)
+#: general.ui:115
+#, kde-format
+msgid "Binary"
+msgstr "Nhị phân"
+
+#. i18n: ectx: property (text), widget (QLabel, grouping_octal_lb)
+#: general.ui:122
+#, kde-format
+msgid "Octal"
+msgstr "Bát phân"
+
+#. i18n: ectx: property (text), widget (QLabel, grouping_hexadecimal_lb)
+#: general.ui:129
+#, kde-format
+msgid "Hexadecimal"
+msgstr "Thập lục phân"
+
+#. i18n: ectx: property (title), widget (QGroupBox, miscGroupBox)
+#: general.ui:152
+#, kde-format
+msgid "Misc"
+msgstr "Khác"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_Beep)
+#: general.ui:160
+#, kde-format
+msgid "Whether to beep on error"
+msgstr "Có phát tiếng bíp khi lỗi hay không"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_Beep)
+#: general.ui:163
+#, kde-format
+msgid "&Beep on error"
+msgstr "&Bíp khi lỗi"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_CaptionResult)
+#: general.ui:173
+#, kde-format
+msgid "Whether to show the result in the window title"
+msgstr "Hiển thị kết quả trong tiêu đề cửa sổ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_CaptionResult)
+#: general.ui:176
+#, kde-format
+msgid "Show &result in window title"
+msgstr "Hiển thị kết quả t&rong tiêu đề cửa sổ"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_TwosComplement)
+#: general.ui:183
+#, kde-format
+msgid "Whether to use Two's Complement for non-decimal numbers"
+msgstr "Có sử dụng bù hai cho các số không phải thập phân hay không"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_TwosComplement)
+#: general.ui:186
+#, kde-format
+msgid ""
+"Select to use Two's Complement notation for Binary, Octal and Hexidecimal "
+"numbers. This is a common notation to represent negative numbers for non-"
+"decimal numbers in computers."
+msgstr ""
+"Bôi đen để sử dụng ký hiệu bù hai cho số nhị phân, bát phân và thập lục "
+"phân. Đây là ký hiệu phổ biến để biểu diễn số âm cho các số không phải thập "
+"phân trong máy tính."
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_TwosComplement)
+#: general.ui:189
+#, kde-format
+msgid "Two's complement"
+msgstr "Bù hai"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_RepeatLastOperation)
+#: general.ui:199
+#, kde-format
+msgid "Repeat operation for each result"
+msgstr "Lặp lại thao tác cho mỗi kết quả"
+
+#: kcalc.cpp:181
+#, kde-format
+msgid "Simple Mode"
+msgstr "Chế độ Đơn giản"
+
+#: kcalc.cpp:186
+#, kde-format
+msgid "Science Mode"
+msgstr "Chế độ Khoa học"
+
+#: kcalc.cpp:191
+#, kde-format
+msgid "Statistic Mode"
+msgstr "Chế độ thống kê"
+
+#. i18n: ectx: label, entry (CalculatorMode), group (General)
+#: kcalc.cpp:196 kcalc.kcfg:163
+#, kde-format
+msgid "Numeral System Mode"
+msgstr "Chế độ Hệ đếm"
+
+#: kcalc.cpp:201
+#, kde-format
+msgid "Show &History"
+msgstr "&Hiển thị lịch sử"
+
+#: kcalc.cpp:207
+#, kde-format
+msgid "Constants &Buttons"
+msgstr "Nút Hằn&g số"
+
+#: kcalc.cpp:212
+#, kde-format
+msgid "Show B&it Edit"
+msgstr "H&iện Sửa Bit"
+
+#: kcalc.cpp:227
+#, kde-format
+msgid "&Constants"
+msgstr "Hằng &số"
+
+#: kcalc.cpp:325
+#, kde-format
+msgctxt "Add display to memory"
+msgid "M+"
+msgstr "M+"
+
+#: kcalc.cpp:325
+#, kde-format
+msgid "Add display to memory"
+msgstr "Thêm bộ hiển thị vào bộ nhớ"
+
+#: kcalc.cpp:326
+#, kde-format
+msgctxt "Subtract from memory"
+msgid "M−"
+msgstr "M−"
+
+#: kcalc.cpp:326
+#, kde-format
+msgid "Subtract from memory"
+msgstr "Trừ khỏi bộ nhớ"
+
+#: kcalc.cpp:349
+#, kde-format
+msgctxt "Square root"
+msgid "&radic;x"
+msgstr "că&n;x"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbSqrt)
+#: kcalc.cpp:349 kcalc.ui:1222
+#, kde-format
+msgid "Square root"
+msgstr "Căn bậc hai"
+
+#: kcalc.cpp:350
+#, kde-format
+msgid "Cube root"
+msgstr "Căn bậc ba"
+
+#: kcalc.cpp:448
+#, kde-format
+msgctxt "Sine"
+msgid "sin"
+msgstr "sin"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbSin)
+#: kcalc.cpp:448 kcalc.ui:696
+#, kde-format
+msgid "Sine"
+msgstr "Sin"
+
+#: kcalc.cpp:449
+#, kde-format
+msgctxt "Arc sine"
+msgid "asin"
+msgstr "asin"
+
+#: kcalc.cpp:449
+#, kde-format
+msgid "Arc sine"
+msgstr "Arcsin"
+
+#: kcalc.cpp:450
+#, kde-format
+msgctxt "Hyperbolic sine"
+msgid "sinh"
+msgstr "sinh"
+
+#: kcalc.cpp:450
+#, kde-format
+msgid "Hyperbolic sine"
+msgstr "Sin hyperbol"
+
+#: kcalc.cpp:451
+#, kde-format
+msgctxt "Inverse hyperbolic sine"
+msgid "asinh"
+msgstr "asinh"
+
+#: kcalc.cpp:451
+#, kde-format
+msgid "Inverse hyperbolic sine"
+msgstr "Sin hyperbol nghịch đảo"
+
+#: kcalc.cpp:456
+#, kde-format
+msgctxt "Cosine"
+msgid "cos"
+msgstr "cos"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbCos)
+#: kcalc.cpp:456 kcalc.ui:1085
+#, kde-format
+msgid "Cosine"
+msgstr "Cosin"
+
+#: kcalc.cpp:457
+#, kde-format
+msgctxt "Arc cosine"
+msgid "acos"
+msgstr "acos"
+
+#: kcalc.cpp:457
+#, kde-format
+msgid "Arc cosine"
+msgstr "Arccos"
+
+#: kcalc.cpp:458
+#, kde-format
+msgctxt "Hyperbolic cosine"
+msgid "cosh"
+msgstr "cosh"
+
+#: kcalc.cpp:458
+#, kde-format
+msgid "Hyperbolic cosine"
+msgstr "Cosin hyperbol"
+
+#: kcalc.cpp:459
+#, kde-format
+msgctxt "Inverse hyperbolic cosine"
+msgid "acosh"
+msgstr "acosh"
+
+#: kcalc.cpp:459
+#, kde-format
+msgid "Inverse hyperbolic cosine"
+msgstr "Cosin hyperbol nghịch đảo"
+
+#: kcalc.cpp:464
+#, kde-format
+msgctxt "Tangent"
+msgid "tan"
+msgstr "tan"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbTan)
+#: kcalc.cpp:464 kcalc.ui:817
+#, kde-format
+msgid "Tangent"
+msgstr "Tiếp tuyến"
+
+#: kcalc.cpp:465
+#, kde-format
+msgctxt "Arc tangent"
+msgid "atan"
+msgstr "atan"
+
+#: kcalc.cpp:465
+#, kde-format
+msgid "Arc tangent"
+msgstr "Arctang"
+
+#: kcalc.cpp:466
+#, kde-format
+msgctxt "Hyperbolic tangent"
+msgid "tanh"
+msgstr "tanh"
+
+#: kcalc.cpp:466
+#, kde-format
+msgid "Hyperbolic tangent"
+msgstr "Tiếp tuyến hyperbol"
+
+#: kcalc.cpp:467
+#, kde-format
+msgctxt "Inverse hyperbolic tangent"
+msgid "atanh"
+msgstr "atanh"
+
+#: kcalc.cpp:467
+#, kde-format
+msgid "Inverse hyperbolic tangent"
+msgstr "Nghịch đảo tang hyperbol"
+
+#: kcalc.cpp:472
+#, kde-format
+msgctxt "Logarithm to base 10"
+msgid "log"
+msgstr "log"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbLog)
+#: kcalc.cpp:472 kcalc.ui:798
+#, kde-format
+msgid "Logarithm to base 10"
+msgstr "Logarit cơ số 10"
+
+#: kcalc.cpp:473
+#, kde-format
+msgctxt "10 to the power of x"
+msgid "10<sup>x</sup>"
+msgstr "10<sup>x</sup>"
+
+#: kcalc.cpp:473
+#, kde-format
+msgid "10 to the power of x"
+msgstr "10 lũy thừa x"
+
+#: kcalc.cpp:477
+#, kde-format
+msgctxt "Natural log"
+msgid "ln"
+msgstr "ln"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbLn)
+#: kcalc.cpp:477 kcalc.ui:1123
+#, kde-format
+msgid "Natural log"
+msgstr "Logarit tự nhiên"
+
+#: kcalc.cpp:478
+#, kde-format
+msgctxt "Exponential function"
+msgid "e<sup>x</sup>"
+msgstr "e<sup>x</sup>"
+
+#: kcalc.cpp:478
+#, kde-format
+msgid "Exponential function"
+msgstr "Hàm mũ"
+
+#: kcalc.cpp:497
+#, kde-format
+msgctxt "Number of data entered"
+msgid "N"
+msgstr "N"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbNData)
+#: kcalc.cpp:497 kcalc.ui:782
+#, kde-format
+msgid "Number of data entered"
+msgstr "Số liệu đã nhập"
+
+#: kcalc.cpp:498
+#, kde-format
+msgid "Sum of all data items"
+msgstr "Tổng tất cả các mục dữ liệu"
+
+#: kcalc.cpp:503
+#, kde-format
+msgctxt "Mean"
+msgid "Mea"
+msgstr "Trung bình"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbMean)
+#: kcalc.cpp:503 kcalc.ui:970
+#, kde-format
+msgid "Mean"
+msgstr "Trung bình"
+
+#: kcalc.cpp:504
+#, kde-format
+msgid "Sum of all data items squared"
+msgstr "Tổng bình phương các mục dữ liệu"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbSd)
+#: kcalc.cpp:509 kcalc.ui:1190
+#, kde-format
+msgid "Standard deviation"
+msgstr "Độ lệch chuẩn"
+
+#: kcalc.cpp:510
+#, kde-format
+msgid "Sample standard deviation"
+msgstr "Độ lệch chuẩn mẫu"
+
+#: kcalc.cpp:518
+#, kde-format
+msgctxt "Enter data"
+msgid "Dat"
+msgstr "Dữ liệu"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbDat)
+#: kcalc.cpp:518 kcalc.ui:1002
+#, kde-format
+msgid "Enter data"
+msgstr "Nhập dữ liệu"
+
+#: kcalc.cpp:519
+#, kde-format
+msgctxt "Delete last data item"
+msgid "CDat"
+msgstr "XDữ"
+
+#: kcalc.cpp:519
+#, kde-format
+msgid "Delete last data item"
+msgstr "Xóa mục dữ liệu cuối cùng"
+
+#: kcalc.cpp:580
+#, kde-format
+msgctxt "Modulo"
+msgid "mod"
+msgstr "mod"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbMod)
+#: kcalc.cpp:580 kcalc.ui:766
+#, kde-format
+msgid "Modulo"
+msgstr "Phép chia lấy dư"
+
+#: kcalc.cpp:581
+#, kde-format
+msgctxt "Integer division"
+msgid "IntDiv"
+msgstr "ChiaNguyên"
+
+#: kcalc.cpp:581
+#, kde-format
+msgid "Integer division"
+msgstr "Phép chia số nguyên"
+
+#: kcalc.cpp:587
+#, kde-format
+msgctxt "Reciprocal"
+msgid "1/x"
+msgstr "1/x"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbReci)
+#: kcalc.cpp:587 kcalc.ui:1104
+#, kde-format
+msgid "Reciprocal"
+msgstr "Nghịch đảo"
+
+#: kcalc.cpp:588
+#, kde-format
+msgctxt "n Choose m"
+msgid "nCm"
+msgstr "nCm"
+
+#: kcalc.cpp:588
+#, kde-format
+msgid "n Choose m"
+msgstr "n Chọn p"
+
+#: kcalc.cpp:593
+#, kde-format
+msgctxt "Factorial"
+msgid "x!"
+msgstr "x!"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbFactorial)
+#: kcalc.cpp:593 kcalc.ui:986
+#, kde-format
+msgid "Factorial"
+msgstr "Giai thừa"
+
+#: kcalc.cpp:594
+#, kde-format
+msgid "Gamma"
+msgstr "Gamma"
+
+#: kcalc.cpp:600
+#, kde-format
+msgctxt "Square"
+msgid "x<sup>2</sup>"
+msgstr "x<sup>2</sup>"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbSquare)
+#: kcalc.cpp:600 kcalc.ui:632
+#, kde-format
+msgid "Square"
+msgstr "Bình phương"
+
+#: kcalc.cpp:601
+#, kde-format
+msgid "Third power"
+msgstr "Lũy thừa ba"
+
+#: kcalc.cpp:608
+#, kde-format
+msgctxt "x to the power of y"
+msgid "x<sup>y</sup>"
+msgstr "x<sup>y</sup>"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbPower)
+#: kcalc.cpp:608 kcalc.ui:1238
+#, kde-format
+msgid "x to the power of y"
+msgstr "x lũy thừa y"
+
+#: kcalc.cpp:609
+#, kde-format
+msgctxt "x to the power of 1/y"
+msgid "x<sup>1/y</sup>"
+msgstr "x<sup>1/y</sup>"
+
+#: kcalc.cpp:609
+#, kde-format
+msgid "x to the power of 1/y"
+msgstr "x lũy thừa 1/y"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbEE)
+#: kcalc.cpp:619 kcalc.ui:747
+#, kde-format
+msgid "Exponent"
+msgstr "Số mũ"
+
+#: kcalc.cpp:937
+#, kde-format
+msgctxt "Second function mode"
+msgid "Shift"
+msgstr "Shift"
+
+#: kcalc.cpp:1238 kcalc.cpp:1239
+#, kde-format
+msgctxt "Memory cleared"
+msgid "M cleared"
+msgstr "Đã xóa P"
+
+#: kcalc.cpp:1501
+#, kde-format
+msgid "Number of data entered = "
+msgstr "Số liệu đã nhập = "
+
+#: kcalc.cpp:1502
+#, kde-format
+msgid "Number of data entered ="
+msgstr "Số liệu đã nhập ="
+
+#: kcalc.cpp:1507
+#, kde-format
+msgid "Sum of all data items ="
+msgstr "Tổng tất cả dữ liệu ="
+
+#: kcalc.cpp:1526
+#, kde-format
+msgid "Mean = "
+msgstr "Trung bình = "
+
+#: kcalc.cpp:1530
+#, kde-format
+msgid "Sum of squares ="
+msgstr "Tổng bình phương ="
+
+#: kcalc.cpp:1573
+#, kde-format
+msgid "Median ="
+msgstr "Trung vị ="
+
+#: kcalc.cpp:1574
+#, kde-format
+msgid "Median = "
+msgstr "Trung vị = "
+
+#: kcalc.cpp:1608 kcalc.cpp:1609
+#, kde-format
+msgid "DAT ["
+msgstr "DỮ LIỆU ["
+
+#: kcalc.cpp:1608 kcalc.cpp:1609
+#, kde-format
+msgid "] = "
+msgstr "] = "
+
+#: kcalc.cpp:1616 kcalc.cpp:1618 kcalc.cpp:1619
+#, kde-format
+msgid "Last stat data erased"
+msgstr "Đã xóa dữ liệu thống kê cuối cùng"
+
+#: kcalc.cpp:1631 kcalc.cpp:1634 kcalc.cpp:1635
+#, kde-format
+msgid "Stat mem cleared"
+msgstr "Đã xóa bộ nhớ thống kê"
+
+#: kcalc.cpp:1689
+#, kde-format
+msgid "General Settings"
+msgstr "Thiết lập chung"
+
+#: kcalc.cpp:1693
+#, kde-format
+msgid "Fonts"
+msgstr "Phông chữ"
+
+#: kcalc.cpp:1697
+#, kde-format
+msgid "Colors"
+msgstr "Màu sắc"
+
+#: kcalc.cpp:1697
+#, kde-format
+msgid "Button & Display Colors"
+msgstr "Màu nút & bộ hiển thị"
+
+#: kcalc.cpp:1729
+#, kde-format
+msgid "Define Constants"
+msgstr "Định nghĩa hằng số"
+
+#: kcalc.cpp:2332
+#, kde-format
+msgid "Input error"
+msgstr "Lỗi nhập liệu"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, KCalculator)
+#: kcalc.cpp:2880 kcalc.ui:20
+#, kde-format
+msgid "KCalc"
+msgstr "KCalc"
+
+#: kcalc.cpp:2882
+#, kde-format
+msgid "KDE Calculator"
+msgstr "Máy tính KDE"
+
+#: kcalc.cpp:2884
+#, kde-format
+msgid ""
+"Copyright © 2008-2013, Evan Teran\n"
+"Copyright © 2000-2008, The KDE Team\n"
+"Copyright © 2003-2005, Klaus Niederkrüger\n"
+"Copyright © 1996-2000, Bernd Johannes Wuebben"
+msgstr ""
+"Bản quyền © 2008-2013, Evan Teran\nBản quyền © 2000-2008, Nhóm KDE\nBản "
+"quyền © 2003-2005, Klaus Niederkrüger\nBản quyền © 1996-2000, Bernd "
+"Johannes Wuebben"
+
+#: kcalc.cpp:2894
+#, kde-format
+msgid "Klaus Niederkrüger"
+msgstr "Klaus Niederkrüger"
+
+#: kcalc.cpp:2899
+#, kde-format
+msgid "Bernd Johannes Wuebben"
+msgstr "Bernd Johannes Wuebben"
+
+#: kcalc.cpp:2900
+#, kde-format
+msgid "Evan Teran"
+msgstr "Evan Teran"
+
+#: kcalc.cpp:2900
+#, kde-format
+msgid "Maintainer"
+msgstr "Người bảo trì"
+
+#: kcalc.cpp:2901
+#, kde-format
+msgid "Espen Sand"
+msgstr "Espen Sand"
+
+#: kcalc.cpp:2902
+#, kde-format
+msgid "Chris Howells"
+msgstr "Chris Howells"
+
+#: kcalc.cpp:2903
+#, kde-format
+msgid "Aaron J. Seigo"
+msgstr "Aaron J. Seigo"
+
+#: kcalc.cpp:2904
+#, kde-format
+msgid "Charles Samuels"
+msgstr "Charles Samuels"
+
+#: kcalc.cpp:2906
+#, kde-format
+msgid "René Mérou"
+msgstr "René Mérou"
+
+#: kcalc.cpp:2913
+#, kde-format
+msgid "Michel Marti"
+msgstr "Michel Marti"
+
+#: kcalc.cpp:2914
+#, kde-format
+msgid "David Johnson"
+msgstr "David Johnson"
+
+#: kcalc.cpp:2915
+#, kde-format
+msgid "Niklas Freund"
+msgstr "Niklas Freund"
+
+#. i18n: ectx: label, entry (ForeColor), group (Colors)
+#: kcalc.kcfg:12
+#, kde-format
+msgid "The foreground color of the display."
+msgstr "Màu chữ của màn hình hiển thị."
+
+#. i18n: ectx: label, entry (BackColor), group (Colors)
+#: kcalc.kcfg:18
+#, kde-format
+msgid "The background color of the display."
+msgstr "Màu nền của màn hình hiển thị."
+
+#. i18n: ectx: label, entry (NumberButtonsColor), group (Colors)
+#: kcalc.kcfg:23
+#, kde-format
+msgid "The color of number buttons."
+msgstr "Màu của các nút số."
+
+#. i18n: ectx: label, entry (FunctionButtonsColor), group (Colors)
+#: kcalc.kcfg:29
+#, kde-format
+msgid "The color of function buttons."
+msgstr "Màu của các nút chức năng."
+
+#. i18n: ectx: label, entry (StatButtonsColor), group (Colors)
+#: kcalc.kcfg:33
+#, kde-format
+msgid "The color of statistical buttons."
+msgstr "Màu của các nút thống kê."
+
+#. i18n: ectx: label, entry (HexButtonsColor), group (Colors)
+#: kcalc.kcfg:37
+#, kde-format
+msgid "The color of hex buttons."
+msgstr "Màu của các nút thập lục phân."
+
+#. i18n: ectx: label, entry (MemoryButtonsColor), group (Colors)
+#: kcalc.kcfg:41
+#, kde-format
+msgid "The color of memory buttons."
+msgstr "Màu của các nút nhớ."
+
+#. i18n: ectx: label, entry (OperationButtonsColor), group (Colors)
+#: kcalc.kcfg:45
+#, kde-format
+msgid "The color of operation buttons."
+msgstr "Màu của các nút thao tác."
+
+#. i18n: ectx: label, entry (ConstantsButtonsColor), group (Colors)
+#: kcalc.kcfg:49
+#, kde-format
+msgid "The color of constants buttons."
+msgstr "Màu của các nút hằng số."
+
+#. i18n: ectx: label, entry (NumberFontsColor), group (Colors)
+#: kcalc.kcfg:53
+#, kde-format
+msgid "The color of number fonts."
+msgstr "Màu của phông chữ số."
+
+#. i18n: ectx: label, entry (FunctionFontsColor), group (Colors)
+#: kcalc.kcfg:59
+#, kde-format
+msgid "The color of function fonts."
+msgstr "Màu của phông chữ chức năng."
+
+#. i18n: ectx: label, entry (StatFontsColor), group (Colors)
+#: kcalc.kcfg:63
+#, kde-format
+msgid "The color of statistical fonts."
+msgstr "Màu của phông chữ thống kê."
+
+#. i18n: ectx: label, entry (HexFontsColor), group (Colors)
+#: kcalc.kcfg:67
+#, kde-format
+msgid "The color of hex fonts."
+msgstr "Màu của phông chữ thập lục phân."
+
+#. i18n: ectx: label, entry (MemoryFontsColor), group (Colors)
+#: kcalc.kcfg:71
+#, kde-format
+msgid "The color of memory fonts."
+msgstr "Màu của phông chữ bộ nhớ."
+
+#. i18n: ectx: label, entry (OperationFontsColor), group (Colors)
+#: kcalc.kcfg:75
+#, kde-format
+msgid "The color of operation font."
+msgstr "Màu chữ của thao tác."
+
+#. i18n: ectx: label, entry (ConstantsFontsColor), group (Colors)
+#: kcalc.kcfg:79
+#, kde-format
+msgid "The color of constants fonts."
+msgstr "Màu của phông chữ hằng số."
+
+#. i18n: ectx: label, entry (ButtonFont), group (Font)
+#: kcalc.kcfg:85
+#, kde-format
+msgid "The font to use for the buttons."
+msgstr "Phông chữ dùng cho các nút."
+
+#. i18n: ectx: label, entry (DisplayFont), group (Font)
+#: kcalc.kcfg:89
+#, kde-format
+msgid "The font to use in the display."
+msgstr "Phông chữ sử dụng trong màn hình hiển thị."
+
+#. i18n: ectx: label, entry (HistoryFont), group (Font)
+#: kcalc.kcfg:96
+#, kde-format
+msgid "The font to use in the history."
+msgstr "Phông chữ sử dụng trong lịch sử."
+
+#. i18n: ectx: label, entry (Precision), group (Precision)
+#: kcalc.kcfg:102
+#, kde-format
+msgid "Maximum number of digits displayed."
+msgstr "Số chữ số tối đa được hiển thị."
+
+#. i18n: ectx: whatsthis, entry (Precision), group (Precision)
+#: kcalc.kcfg:108
+#, kde-format
+msgid ""
+"\n"
+"\tKCalc can compute with many more digits than the number that\n"
+"\tfits on the display. This setting gives the maximum number of\n"
+"\tdigits displayed, before KCalc starts using scientific notation,\n"
+"\ti.e. notation of the type 2.34e12.\n"
+"      "
+msgstr ""
+"\n"
+"\tKCalc có thể tính toán với nhiều chữ số hơn số lượng hiển thị trên màn "
+"\thình. Thiết lập này xác định số chữ số tối đa được hiển thị, trước khi "
+"\tKCalc bắt đầu sử dụng ký hiệu khoa học, tức là ký hiệu kiểu 2.34e12.\n"
+"      "
+
+#. i18n: ectx: label, entry (FixedPrecision), group (Precision)
+#: kcalc.kcfg:114
+#, kde-format
+msgid "Number of fixed decimal digits."
+msgstr "Số chữ số thập phân cố định."
+
+#. i18n: ectx: label, entry (Fixed), group (Precision)
+#: kcalc.kcfg:118
+#, kde-format
+msgid "Whether to use fixed decimal places."
+msgstr "Có sử dụng số thập phân cố định hay không."
+
+#. i18n: ectx: label, entry (Beep), group (General)
+#: kcalc.kcfg:124
+#, kde-format
+msgid "Whether to beep on error."
+msgstr "Có phát tiếng bíp khi lỗi hay không."
+
+#. i18n: ectx: label, entry (CaptionResult), group (General)
+#: kcalc.kcfg:128
+#, kde-format
+msgid "Whether to show the result in the window title."
+msgstr "Hiển thị kết quả trong tiêu đề cửa sổ hay không."
+
+#. i18n: ectx: label, entry (GroupDigits), group (General)
+#: kcalc.kcfg:132
+#, kde-format
+msgid "Whether to group digits."
+msgstr "Có nhóm các chữ số hay không."
+
+#. i18n: ectx: label, entry (TwosComplement), group (General)
+#: kcalc.kcfg:136
+#, kde-format
+msgid "Whether to use Two's Complement for non-decimal numbers."
+msgstr "Có sử dụng bù hai cho các số không phải thập phân hay không."
+
+#. i18n: ectx: whatsthis, entry (TwosComplement), group (General)
+#: kcalc.kcfg:141
+#, kde-format
+msgid ""
+"\n"
+"        Select to use Two's Complement notation for Binary, Octal\n"
+"        and Hexidecimal numbers. This is a common notation to represent\n"
+"        negative numbers in computers.\n"
+"      "
+msgstr ""
+"\n"
+"Bôi đen để sử dụng ký hiệu bù hai cho các số nhị phân, bát phân và thập "
+"lục phân. Đây là ký hiệu phổ biến để biểu diễn số âm trong máy tính.\n"
+"      "
+
+#. i18n: ectx: label, entry (RepeatLastOperation), group (General)
+#: kcalc.kcfg:145
+#, kde-format
+msgid "Enables that the last operation is repeated when \"=\" is pressed"
+msgstr "Cho phép lặp lại thao tác cuối cùng khi nhấn \"=\""
+
+#. i18n: ectx: label, entry (CalculatorMode), group (General)
+#: kcalc.kcfg:151
+#, kde-format
+msgid "Easy Calculator Mode"
+msgstr "Chế độ Máy tính Đơn giản"
+
+#. i18n: ectx: whatsthis, entry (CalculatorMode), group (General)
+#: kcalc.kcfg:152
+#, kde-format
+msgid "A very simple mode where only the basic calculator buttons are shown"
+msgstr "Chế độ rất đơn giản chỉ hiển thị các nút máy tính cơ bản"
+
+#. i18n: ectx: label, entry (CalculatorMode), group (General)
+#: kcalc.kcfg:155
+#, kde-format
+msgid "Science Calculator Mode"
+msgstr "Chế độ Máy tính Khoa học"
+
+#. i18n: ectx: whatsthis, entry (CalculatorMode), group (General)
+#: kcalc.kcfg:156
+#, kde-format
+msgid "Mode with science buttons and optional constants buttons"
+msgstr "Chế độ với các nút khoa học và nút hằng số tuỳ chọn"
+
+#. i18n: ectx: label, entry (CalculatorMode), group (General)
+#: kcalc.kcfg:159
+#, kde-format
+msgid "Statistic Calculator Mode"
+msgstr "Chế độ Máy tính Thống kê"
+
+#. i18n: ectx: whatsthis, entry (CalculatorMode), group (General)
+#: kcalc.kcfg:160
+#, kde-format
+msgid "Mode with additional statistics buttons and optional constants buttons"
+msgstr "Chế độ với các nút thống kê bổ sung và nút hằng số tuỳ chọn"
+
+#. i18n: ectx: whatsthis, entry (CalculatorMode), group (General)
+#: kcalc.kcfg:164
+#, kde-format
+msgid ""
+"Mode with logic buttons and selectable base. Optional bit edit available."
+msgstr ""
+"Chế độ với các nút luận lí và cơ số có thể chọn. Có sẵn tính năng sửa bit "
+"tuỳ chọn."
+
+#. i18n: ectx: label, entry (ShowBitset), group (General)
+#: kcalc.kcfg:169
+#, kde-format
+msgid "Whether to show the bit edit widget."
+msgstr "Có hiển thị tiện ích sửa bit hay không."
+
+#. i18n: ectx: label, entry (ShowConstants), group (General)
+#: kcalc.kcfg:173
+#, kde-format
+msgid "Whether to show constant buttons."
+msgstr "Có hiển thị các nút hằng số hay không."
+
+#. i18n: ectx: label, entry (ShowHistory), group (General)
+#: kcalc.kcfg:177
+#, kde-format
+msgid "Whether to show the history window."
+msgstr "Có hiển thị cửa sổ lịch sử hay không."
+
+#. i18n: ectx: label, entry (AngleMode), group (General)
+#: kcalc.kcfg:181
+#, kde-format
+msgid "Degrees, radians or grads"
+msgstr "Độ, radian hoặc grad"
+
+#. i18n: ectx: label, entry (BaseMode), group (General)
+#: kcalc.kcfg:185
+#, kde-format
+msgid "Numeric base"
+msgstr "Cơ số"
+
+#. i18n: ectx: label, entry (BinaryGrouping), group (Grouping)
+#: kcalc.kcfg:191
+#, kde-format
+msgid "Binary figures will be separated by a whitespace after every Xth digit."
+msgstr "Các chữ số nhị phân sẽ được phân cách bởi khoảng trắng sau mỗi X chữ số."
+
+#. i18n: ectx: whatsthis, entry (BinaryGrouping), group (Grouping)
+#: kcalc.kcfg:196
+#, kde-format
+msgid ""
+"\n"
+"            For easier reading it's possible to visually group the "
+"individual digits into pairs\n"
+"            for example instead of 10111001 you can display 1011 1001, by "
+"setting the setting to\n"
+"            4, thus inserting a whitespace after every 4th digit.\n"
+"        "
+msgstr ""
+"\nĐể dễ đọc hơn, có thể nhóm các chữ số riêng lẻ thành từng cặp. Ví dụ: "
+"thay vì 10111001, bạn có thể bộ hiển thị 1011 1001 bằng cách đặt thiết lập "
+"thành 4, chèn khoảng trắng sau mỗi chữ số thứ 4.\n"
+"        "
+
+#. i18n: ectx: label, entry (OctalGrouping), group (Grouping)
+#: kcalc.kcfg:200
+#, kde-format
+msgid "Octal figures will be separated by a whitespace after every Xth digit."
+msgstr "Các chữ số bát phân sẽ được phân cách bằng khoảng trắng sau mỗi X chữ số."
+
+#. i18n: ectx: whatsthis, entry (OctalGrouping), group (Grouping)
+#: kcalc.kcfg:205
+#, kde-format
+msgid ""
+"\n"
+"            For easier reading it's possible to visually group the "
+"individual digits into pairs\n"
+"            for example instead of 42140213 you can display 4214 0213, by "
+"setting the setting to\n"
+"            4, thus inserting a whitespace after every 4th digit.\n"
+"        "
+msgstr ""
+"\nĐể dễ đọc hơn, có thể nhóm các chữ số thành từng cặp trực quan, ví dụ "
+"thay vì 42140213 bạn có thể bộ hiển thị 4214 0213, bằng cách đặt thiết lập "
+"thành 4, chèn khoảng trắng sau mỗi chữ số thứ 4.\n"
+"        "
+
+#. i18n: ectx: label, entry (HexadecimalGrouping), group (Grouping)
+#: kcalc.kcfg:209
+#, kde-format
+msgid ""
+"Hexadecimal figures will be separated by a whitespace after every Xth digit."
+msgstr ""
+"Các chữ số thập lục phân sẽ được phân cách bởi khoảng trắng sau mỗi X chữ "
+"số."
+
+#. i18n: ectx: whatsthis, entry (HexadecimalGrouping), group (Grouping)
+#: kcalc.kcfg:214
+#, kde-format
+msgid ""
+"\n"
+"            For easier reading it's possible to visually group the "
+"individual digits into pairs\n"
+"            for example instead of AF1C42 you can display AF 1C 42, by "
+"setting the setting to\n"
+"            2, thus inserting a whitespace after every 2nd digit.\n"
+"        "
+msgstr ""
+"\nĐể dễ đọc hơn, có thể nhóm các chữ số thành từng cặp\nví dụ thay vì "
+"AF1C42 bạn có thể bộ hiển thị AF 1C 42, bằng cách đặt thiết lập thành\n2, "
+"do đó chèn khoảng trắng sau mỗi chữ số thứ 2.\n"
+"        "
+
+#. i18n: ectx: label, entry (nameConstant$(ConstIndex)), group (UserConstants)
+#: kcalc.kcfg:220
+#, kde-format
+msgid "Name of the user programmable constants."
+msgstr "Tên của các hằng số lập trình được người dùng."
+
+#: kcalc.kcfg:230
+#, kde-format
+msgctxt "Name of the user programmable constant"
+msgid "C1"
+msgstr "C1"
+
+#: kcalc.kcfg:231
+#, kde-format
+msgctxt "Name of the user programmable constant"
+msgid "C2"
+msgstr "C2"
+
+#: kcalc.kcfg:232
+#, kde-format
+msgctxt "Name of the user programmable constant"
+msgid "C3"
+msgstr "C3"
+
+#: kcalc.kcfg:233
+#, kde-format
+msgctxt "Name of the user programmable constant"
+msgid "C4"
+msgstr "C4"
+
+#: kcalc.kcfg:234
+#, kde-format
+msgctxt "Name of the user programmable constant"
+msgid "C5"
+msgstr "C5"
+
+#: kcalc.kcfg:235
+#, kde-format
+msgctxt "Name of the user programmable constant"
+msgid "C6"
+msgstr "C6"
+
+#. i18n: ectx: label, entry (valueConstant$(ConstIndex)), group (UserConstants)
+#: kcalc.kcfg:239
+#, kde-format
+msgid "List of user programmable constants"
+msgstr "Danh sách hằng số người dùng có thể lập trình"
+
+#. i18n: ectx: property (text), widget (QLabel, base_label)
+#: kcalc.ui:176
+#, kde-format
+msgid "Dec"
+msgstr "Thập phân"
+
+#. i18n: ectx: property (accessibleDescription), widget (KCalcDisplay, calc_display)
+#: kcalc.ui:354
+#, kde-format
+msgid "Result Display"
+msgstr "Bộ hiển thị kết quả"
+
+#. i18n: ectx: property (toolTip), widget (KCalcBitset, mBitset)
+#: kcalc.ui:391
+#, kde-format
+msgid "Click on a Bit to toggle it."
+msgstr "Bấm vào một Bit để chuyển đổi nó."
+
+#. i18n: ectx: property (text), widget (QRadioButton, degRadio)
+#: kcalc.ui:414
+#, kde-format
+msgid "&Deg"
+msgstr "Độ"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radRadio)
+#: kcalc.ui:421
+#, kde-format
+msgid "&Rad"
+msgstr "&Rad"
+
+#. i18n: ectx: property (text), widget (QRadioButton, gradRadio)
+#: kcalc.ui:428
+#, kde-format
+msgid "&Grad"
+msgstr "Độ"
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, hexRadio)
+#: kcalc.ui:443
+#, kde-format
+msgid "Switch base to hexadecimal."
+msgstr "Chuyển cơ số sang hệ thập lục phân."
+
+#. i18n: ectx: property (text), widget (QRadioButton, hexRadio)
+#: kcalc.ui:446
+#, kde-format
+msgid "He&x"
+msgstr "Thập lụ&c"
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, decRadio)
+#: kcalc.ui:476
+#, kde-format
+msgid "Switch base to decimal."
+msgstr "Chuyển cơ số sang thập phân."
+
+#. i18n: ectx: property (text), widget (QRadioButton, decRadio)
+#: kcalc.ui:479
+#, kde-format
+msgid "&Dec"
+msgstr "Thậ&p phân"
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, octRadio)
+#: kcalc.ui:509
+#, kde-format
+msgid "Switch base to octal."
+msgstr "Chuyển cơ số sang bát phân."
+
+#. i18n: ectx: property (text), widget (QRadioButton, octRadio)
+#: kcalc.ui:512
+#, kde-format
+msgid "Oc&t"
+msgstr "Bá&t phân"
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, binRadio)
+#: kcalc.ui:542
+#, kde-format
+msgid "Switch base to binary."
+msgstr "Chuyển cơ số sang nhị phân."
+
+#. i18n: ectx: property (text), widget (QRadioButton, binRadio)
+#: kcalc.ui:545
+#, kde-format
+msgid "&Bin"
+msgstr "&Nhị phân"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbSquare)
+#: kcalc.ui:635
+#, kde-format
+msgid "x2"
+msgstr "x²"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbB)
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pbB)
+#: kcalc.ui:648 kcalc.ui:651
+#, kde-format
+msgid "B"
+msgstr "B"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbOR)
+#: kcalc.ui:664
+#, kde-format
+msgid "Bitwise OR"
+msgstr "OR bit"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbOR)
+#: kcalc.ui:667
+#, kde-format
+msgid "OR"
+msgstr "HOẶC"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbE)
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pbE)
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pbEE)
+#: kcalc.ui:680 kcalc.ui:683 kcalc.ui:753
+#, kde-format
+msgid "E"
+msgstr "E"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbSin)
+#: kcalc.ui:699
+#, kde-format
+msgid "Sin"
+msgstr "Sin"
+
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pbSin)
+#: kcalc.ui:702
+#, kde-format
+msgid "S"
+msgstr "Gy"
+
+#. i18n: ectx: property (text), widget (KCalcConstButton, pbC2)
+#: kcalc.ui:715
+#, kde-format
+msgid "C2"
+msgstr "C2"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbC)
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pbC)
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pbCos)
+#. i18n: ectx: property (text), widget (KCalcButton, pbClear)
+#: kcalc.ui:731 kcalc.ui:734 kcalc.ui:1091 kcalc.ui:1663
+#, kde-format
+msgid "C"
+msgstr "C"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbEE)
+#: kcalc.ui:750
+#, kde-format
+msgid "EXP"
+msgstr "EXP"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbMod)
+#: kcalc.ui:769
+#, kde-format
+msgid "Mod"
+msgstr "Phần dư"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbNData)
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pbLn)
+#: kcalc.ui:785 kcalc.ui:1129
+#, kde-format
+msgid "N"
+msgstr "N"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbLog)
+#: kcalc.ui:801
+#, kde-format
+msgid "Log"
+msgstr "Lôgarit"
+
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pbLog)
+#: kcalc.ui:804
+#, kde-format
+msgid "L"
+msgstr "L"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbTan)
+#: kcalc.ui:820
+#, kde-format
+msgid "Tan"
+msgstr "Tan"
+
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pbTan)
+#: kcalc.ui:823
+#, kde-format
+msgid "T"
+msgstr "T"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbF)
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pbF)
+#: kcalc.ui:836 kcalc.ui:839
+#, kde-format
+msgid "F"
+msgstr "F"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbAND)
+#: kcalc.ui:852
+#, kde-format
+msgid "Bitwise AND"
+msgstr "AND bit"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbAND)
+#: kcalc.ui:855
+#, kde-format
+msgid "AND"
+msgstr "VÀ"
+
+#. i18n: ectx: property (text), widget (KCalcConstButton, pbC6)
+#: kcalc.ui:868
+#, kde-format
+msgid "C6"
+msgstr "C6"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbA)
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pbA)
+#: kcalc.ui:884 kcalc.ui:887
+#, kde-format
+msgid "A"
+msgstr "A"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbD)
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pbD)
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pbDat)
+#: kcalc.ui:900 kcalc.ui:903 kcalc.ui:1008
+#, kde-format
+msgid "D"
+msgstr "D"
+
+#. i18n: ectx: property (text), widget (KCalcConstButton, pbC1)
+#: kcalc.ui:916
+#, kde-format
+msgid "C1"
+msgstr "C1"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbHyp)
+#: kcalc.ui:932
+#, kde-format
+msgid "Hyperbolic mode"
+msgstr "Chế độ hyperbol"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbHyp)
+#: kcalc.ui:935
+#, kde-format
+msgid "Hyp"
+msgstr "Hyp"
+
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pbHyp)
+#: kcalc.ui:938
+#, kde-format
+msgid "H"
+msgstr "G"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbXOR)
+#: kcalc.ui:954
+#, kde-format
+msgid "Bitwise XOR"
+msgstr "XOR bit"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbXOR)
+#: kcalc.ui:957
+#, kde-format
+msgid "XOR"
+msgstr "XOR"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbMean)
+#: kcalc.ui:973
+#, kde-format
+msgid "Mea"
+msgstr "Đo"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbFactorial)
+#: kcalc.ui:989
+#, kde-format
+msgid "x!"
+msgstr "x!"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbDat)
+#: kcalc.ui:1005
+#, kde-format
+msgid "Dat"
+msgstr "Dữ liệu"
+
+#. i18n: ectx: property (text), widget (KCalcConstButton, pbC3)
+#: kcalc.ui:1021
+#, kde-format
+msgid "C3"
+msgstr "C3"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbCmp)
+#: kcalc.ui:1037
+#, kde-format
+msgid "One's complement"
+msgstr "Bù một"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbCmp)
+#: kcalc.ui:1040
+#, kde-format
+msgid "Cmp"
+msgstr "So sánh"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbCSt)
+#: kcalc.ui:1053
+#, kde-format
+msgid "Clear data store"
+msgstr "Làm trống kho dữ liệu"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbCSt)
+#: kcalc.ui:1056
+#, kde-format
+msgid "CSt"
+msgstr "CSt"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbRsh)
+#: kcalc.ui:1069
+#, kde-format
+msgid "Right bit shift"
+msgstr "Dịch bit sang phải"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbRsh)
+#: kcalc.ui:1072
+#, kde-format
+msgid "Rsh"
+msgstr "Rsh"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbCos)
+#: kcalc.ui:1088
+#, kde-format
+msgid "Cos"
+msgstr "Cos"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbReci)
+#: kcalc.ui:1107
+#, kde-format
+msgid "1/X"
+msgstr "1/X"
+
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pbReci)
+#: kcalc.ui:1110
+#, kde-format
+msgid "R"
+msgstr "R"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbLn)
+#: kcalc.ui:1126
+#, kde-format
+msgid "Ln"
+msgstr "Ln"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbMed)
+#: kcalc.ui:1142
+#, kde-format
+msgid "Median"
+msgstr "Trung vị"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbMed)
+#: kcalc.ui:1145
+#, kde-format
+msgid "Med"
+msgstr "TB"
+
+#. i18n: ectx: property (text), widget (KCalcConstButton, pbC5)
+#: kcalc.ui:1158
+#, kde-format
+msgid "C5"
+msgstr "C5"
+
+#. i18n: ectx: property (text), widget (KCalcConstButton, pbC4)
+#: kcalc.ui:1174
+#, kde-format
+msgid "C4"
+msgstr "C4"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbSd)
+#: kcalc.ui:1193
+#, kde-format
+msgid "SD"
+msgstr "ĐLC"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbLsh)
+#: kcalc.ui:1206
+#, kde-format
+msgid "Left bit shift"
+msgstr "Dịch bit sang trái"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbLsh)
+#: kcalc.ui:1209
+#, kde-format
+msgid "Lsh"
+msgstr "Dịch trái"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbSqrt)
+#: kcalc.ui:1225
+#, kde-format
+msgid "sqrt"
+msgstr "căn bậc hai"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbPower)
+#: kcalc.ui:1241
+#, kde-format
+msgid "pow"
+msgstr "lũy thừa"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pb6)
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pb6)
+#: kcalc.ui:1281 kcalc.ui:1284
+#, kde-format
+msgid "6"
+msgstr "6"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pb2)
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pb2)
+#: kcalc.ui:1297 kcalc.ui:1300
+#, kde-format
+msgid "2"
+msgstr "2"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbPercent)
+#: kcalc.ui:1313
+#, kde-format
+msgid "Percent"
+msgstr "Phần trăm"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbPercent)
+#: kcalc.ui:1316
+#, no-c-format, kde-format
+msgid "%"
+msgstr "%"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pb9)
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pb9)
+#: kcalc.ui:1329 kcalc.ui:1332
+#, kde-format
+msgid "9"
+msgstr "9"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pb4)
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pb4)
+#: kcalc.ui:1345 kcalc.ui:1348
+#, kde-format
+msgid "4"
+msgstr "4"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pb5)
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pb5)
+#: kcalc.ui:1361 kcalc.ui:1364
+#, kde-format
+msgid "5"
+msgstr "5"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbMinus)
+#: kcalc.ui:1377
+#, kde-format
+msgid "Minus"
+msgstr "Trừ"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbMinus)
+#: kcalc.ui:1380
+#, kde-format
+msgctxt "- calculator button"
+msgid "−"
+msgstr "−"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbPlus)
+#: kcalc.ui:1393
+#, kde-format
+msgid "Plus"
+msgstr "Cộng"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbPlus)
+#: kcalc.ui:1396
+#, kde-format
+msgctxt "+ calculator button"
+msgid "+"
+msgstr "+"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pb1)
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pb1)
+#: kcalc.ui:1409 kcalc.ui:1412
+#, kde-format
+msgid "1"
+msgstr "1"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbDivision)
+#: kcalc.ui:1425
+#, kde-format
+msgid "Division"
+msgstr "Phép chia"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbDivision)
+#: kcalc.ui:1428
+#, kde-format
+msgid "÷"
+msgstr "÷"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbMultiplication)
+#: kcalc.ui:1441
+#, kde-format
+msgid "Multiplication"
+msgstr "Phép nhân"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbMultiplication)
+#: kcalc.ui:1444
+#, kde-format
+msgid "×"
+msgstr "×"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pb0)
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pb0)
+#: kcalc.ui:1457 kcalc.ui:1460
+#, kde-format
+msgid "0"
+msgstr "0"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbPeriod)
+#: kcalc.ui:1473
+#, kde-format
+msgid "Decimal point"
+msgstr "Dấu thập phân"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbPeriod)
+#: kcalc.ui:1476
+#, kde-format
+msgctxt ". calculator button"
+msgid "."
+msgstr "."
+
+#. i18n: ectx: property (text), widget (KCalcButton, pb3)
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pb3)
+#: kcalc.ui:1489 kcalc.ui:1492
+#, kde-format
+msgid "3"
+msgstr "3"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbEqual)
+#: kcalc.ui:1505
+#, kde-format
+msgid "Result"
+msgstr "Kết quả"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbEqual)
+#: kcalc.ui:1508
+#, kde-format
+msgctxt "= calculator button"
+msgid "="
+msgstr "="
+
+#. i18n: ectx: property (text), widget (KCalcButton, pb7)
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pb7)
+#: kcalc.ui:1521 kcalc.ui:1524
+#, kde-format
+msgid "7"
+msgstr "7"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pb8)
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pb8)
+#: kcalc.ui:1537 kcalc.ui:1540
+#, kde-format
+msgid "8"
+msgstr "8"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbAllClear)
+#: kcalc.ui:1580
+#, kde-format
+msgid "Clear all"
+msgstr "Làm trống tất cả"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbAllClear)
+#: kcalc.ui:1583
+#, kde-format
+msgid "AC"
+msgstr "AC"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbMemClear)
+#: kcalc.ui:1596
+#, kde-format
+msgid "Memory clear"
+msgstr "Làm trống bộ nhớ"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbMemClear)
+#: kcalc.ui:1599
+#, kde-format
+msgid "MC"
+msgstr "MC"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbMemRecall)
+#: kcalc.ui:1612
+#, kde-format
+msgid "Memory recall"
+msgstr "Nhớ lại bộ nhớ"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbMemRecall)
+#: kcalc.ui:1615
+#, kde-format
+msgid "MR"
+msgstr "MR"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbPlusMinus)
+#: kcalc.ui:1628
+#, kde-format
+msgid "Change sign"
+msgstr "Đổi dấu"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbPlusMinus)
+#: kcalc.ui:1631
+#, kde-format
+msgid "+/−"
+msgstr "+/−"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbParenOpen)
+#: kcalc.ui:1644
+#, kde-format
+msgid "Open parenthesis"
+msgstr "Mở ngoặc đơn"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbParenOpen)
+#: kcalc.ui:1647
+#, kde-format
+msgctxt "( calculator button"
+msgid "("
+msgstr "("
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbClear)
+#: kcalc.ui:1660
+#, kde-format
+msgid "Clear"
+msgstr "Làm trống"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbMemPlusMinus)
+#: kcalc.ui:1676
+#, kde-format
+msgid "Add to memory"
+msgstr "Thêm vào bộ nhớ"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbMemPlusMinus)
+#: kcalc.ui:1679
+#, kde-format
+msgid "M+"
+msgstr "M+"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbMemStore)
+#: kcalc.ui:1692
+#, kde-format
+msgid "Memory store"
+msgstr "Lưu vào bộ nhớ"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbMemStore)
+#: kcalc.ui:1695
+#, kde-format
+msgid "MS"
+msgstr "MS"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbParenClose)
+#: kcalc.ui:1708
+#, kde-format
+msgid "Close parenthesis"
+msgstr "Đóng ngoặc đơn"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbParenClose)
+#: kcalc.ui:1711
+#, kde-format
+msgctxt ") calculator button"
+msgid ")"
+msgstr ")"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbBackspace)
+#: kcalc.ui:1724
+#, kde-format
+msgid "←"
+msgstr "←"
+
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pbBackspace)
+#: kcalc.ui:1727
+#, kde-format
+msgid "Backspace"
+msgstr "Xóa lùi"
+
+#. i18n: ectx: property (toolTip), widget (KCalcButton, pbShift)
+#: kcalc.ui:1740
+#, kde-format
+msgid "Second button function"
+msgstr "Chức năng nút thứ hai"
+
+#. i18n: ectx: property (text), widget (KCalcButton, pbShift)
+#: kcalc.ui:1743
+#, kde-format
+msgid "Shift"
+msgstr "Shift"
+
+#. i18n: ectx: property (shortcut), widget (KCalcButton, pbShift)
+#: kcalc.ui:1746
+#, kde-format
+msgid "Ctrl+2"
+msgstr "Ctrl+2"
+
+#: kcalc_bitset.cpp:57
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Bit %1 = %2"
+msgstr "Bit %1 = %2"
+
+#: kcalc_const_button.cpp:24 kcalc_const_button.cpp:37
+#, kde-format
+msgctxt "Write display data into memory"
+msgid "Store"
+msgstr "Lưu"
+
+#: kcalc_const_button.cpp:24 kcalc_const_button.cpp:37
+#, kde-format
+msgid "Write display data into memory"
+msgstr "Ghi dữ liệu bộ hiển thị vào bộ nhớ"
+
+#: kcalc_const_button.cpp:82
+#, kde-format
+msgid "Set Name"
+msgstr "Đặt tên"
+
+#: kcalc_const_button.cpp:87
+#, kde-format
+msgid "Choose From List"
+msgstr "Chọn từ danh sách"
+
+#: kcalc_const_button.cpp:102
+#, kde-format
+msgid "New Name for Constant"
+msgstr "Tên Mới cho Hằng số"
+
+#: kcalc_const_button.cpp:102
+#, kde-format
+msgid "New name:"
+msgstr "Tên mới:"
+
+#: kcalc_const_menu.cpp:77
+#, kde-format
+msgid "Mathematics"
+msgstr "Toán học"
+
+#: kcalc_const_menu.cpp:78
+#, kde-format
+msgid "Electromagnetism"
+msgstr "Điện từ học"
+
+#: kcalc_const_menu.cpp:79
+#, kde-format
+msgid "Atomic && Nuclear"
+msgstr "Nguyên tử && Hạt nhân"
+
+#: kcalc_const_menu.cpp:80
+#, kde-format
+msgid "Thermodynamics"
+msgstr "Nhiệt động học"
+
+#: kcalc_const_menu.cpp:81
+#, kde-format
+msgid "Gravitation"
+msgstr "Trọng lực"
+
+#: kcalc_display.cpp:42
+#, kde-format
+msgctxt "@label accessibility description of the calculation result display"
+msgid "Result Display"
+msgstr "Bộ hiển thị kết quả"
+
+#: kcalc_statusbar.cpp:16 kcalc_statusbar.cpp:58
+#, kde-format
+msgctxt "Normal button functions are active"
+msgid "NORM"
+msgstr "CHUẨN"
+
+#: kcalc_statusbar.cpp:16 kcalc_statusbar.cpp:58
+#, kde-format
+msgctxt "Second button functions are active"
+msgid "SHIFT"
+msgstr "SHIFT"
+
+#: kcalc_statusbar.cpp:17
+#, kde-format
+msgctxt "Decimal indicator in status bar"
+msgid "DEC"
+msgstr "THẬP"
+
+#: kcalc_statusbar.cpp:17
+#, kde-format
+msgctxt "Binary indicator in status bar"
+msgid "BIN"
+msgstr "NHỊ"
+
+#: kcalc_statusbar.cpp:18
+#, kde-format
+msgctxt "Octal indicator in status bar"
+msgid "OCT"
+msgstr "BÁT"
+
+#: kcalc_statusbar.cpp:18
+#, kde-format
+msgctxt "Hexadecimal indicator in status bar"
+msgid "HEX"
+msgstr "HEX"
+
+#: kcalc_statusbar.cpp:19
+#, kde-format
+msgctxt "Degree indicator in status bar"
+msgid "DEG"
+msgstr "ĐỘ"
+
+#: kcalc_statusbar.cpp:19
+#, kde-format
+msgctxt "Radian indicator in status bar"
+msgid "RAD"
+msgstr "RAD"
+
+#: kcalc_statusbar.cpp:20
+#, kde-format
+msgctxt "Grad indicator in status bar"
+msgid "GRA"
+msgstr "GRA"
+
+#: kcalc_statusbar.cpp:21 kcalc_statusbar.cpp:103
+#, kde-format
+msgctxt "Memory indicator in status bar"
+msgid "M"
+msgstr "P"
+
+#: kcalc_statusbar.cpp:67
+#, kde-format
+msgid "BIN"
+msgstr "NHỊ"
+
+#: kcalc_statusbar.cpp:70
+#, kde-format
+msgid "OCT"
+msgstr "OCT"
+
+#: kcalc_statusbar.cpp:74
+#, kde-format
+msgid "DEC"
+msgstr "HỆ 10"
+
+#: kcalc_statusbar.cpp:77
+#, kde-format
+msgid "HEX"
+msgstr "HEX"
+
+#: kcalc_statusbar.cpp:89
+#, kde-format
+msgid "DEG"
+msgstr "ĐỘ"
+
+#: kcalc_statusbar.cpp:92
+#, kde-format
+msgid "RAD"
+msgstr "RAD"
+
+#: kcalc_statusbar.cpp:95
+#, kde-format
+msgid "GRA"
+msgstr "GRA"
+
+#. i18n: ectx: Menu (settings)
+#: kcalcui.rc:4
+#, kde-format
+msgid "&Settings"
+msgstr "Thiết lậ&p"
+
+#. i18n: tag constant attribute name
+#: scienceconstants.xml:3
+#, kde-format
+msgid "Pi"
+msgstr "Pi"
+
+#. i18n: tag constant attribute name
+#: scienceconstants.xml:7
+#, kde-format
+msgid "Euler Number"
+msgstr "Số Euler"
+
+#. i18n: tag constant attribute name
+#: scienceconstants.xml:11
+#, kde-format
+msgid "Golden Ratio"
+msgstr "Tỷ lệ vàng"
+
+#. i18n: tag constant attribute name
+#: scienceconstants.xml:15
+#, kde-format
+msgid "Light Speed"
+msgstr "Tốc độ ánh sáng"
+
+#. i18n: tag constant attribute name
+#: scienceconstants.xml:19
+#, kde-format
+msgid "Planck's Constant"
+msgstr "Hằng số Planck"
+
+#. i18n: tag constant attribute name
+#: scienceconstants.xml:23
+#, kde-format
+msgid "Gravitational Constant"
+msgstr "Hằng số Hấp dẫn"
+
+#. i18n: tag constant attribute name
+#: scienceconstants.xml:27
+#, kde-format
+msgid "Earth Acceleration"
+msgstr "Gia tốc Trái đất"
+
+#. i18n: tag constant attribute name
+#. i18n: tag constant attribute name
+#: scienceconstants.xml:31 scienceconstants.xml:35
+#, kde-format
+msgid "Elementary Charge"
+msgstr "Điện tích cơ bản"
+
+#. i18n: tag constant attribute name
+#: scienceconstants.xml:39
+#, kde-format
+msgid "Impedance of Vacuum"
+msgstr "Trở kháng chân không"
+
+#. i18n: tag constant attribute name
+#: scienceconstants.xml:43
+#, kde-format
+msgid "Fine-Structure Constant"
+msgstr "Hằng số Cấu trúc Tinh tế"
+
+#. i18n: tag constant attribute name
+#: scienceconstants.xml:47
+#, kde-format
+msgid "Permeability of Vacuum"
+msgstr "Độ thẩm từ chân không"
+
+#. i18n: tag constant attribute name
+#: scienceconstants.xml:51
+#, kde-format
+msgid "Permittivity of Vacuum"
+msgstr "Hằng số điện môi chân không"
+
+#. i18n: tag constant attribute name
+#: scienceconstants.xml:55
+#, kde-format
+msgid "Boltzmann Constant"
+msgstr "Hằng số Boltzmann"
+
+#. i18n: tag constant attribute name
+#: scienceconstants.xml:60
+#, kde-format
+msgid "Atomic Mass Unit"
+msgstr "Đơn vị khối lượng nguyên tử"
+
+#. i18n: tag constant attribute name
+#: scienceconstants.xml:64
+#, kde-format
+msgid "Molar Gas Constant"
+msgstr "Hằng số Khí Lý Tưởng"
+
+#. i18n: tag constant attribute name
+#: scienceconstants.xml:68
+#, kde-format
+msgid "Stefan-Boltzmann Constant"
+msgstr "Hằng số Stefan-Boltzmann"
+
+#. i18n: tag constant attribute name
+#: scienceconstants.xml:72
+#, kde-format
+msgid "Avogadro's Number"
+msgstr "Số Avogadro"
