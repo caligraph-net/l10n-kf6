@@ -1,0 +1,2305 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the ark package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ark\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-04-25 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Email của bạn"
+
+#. i18n: ectx: Menu (archive)
+#: app/arkui.rc:5
+#, kde-format
+msgctxt "Noun, not a verb. Top level menu item, i.e. like File"
+msgid "&Archive"
+msgstr "&Kho trữ"
+
+#: app/batchextract.cpp:103 app/batchextract.cpp:174
+#, kde-format
+msgid "Extracting Files"
+msgstr "Đang giải nén tệp"
+
+#: app/batchextract.cpp:104 app/batchextract.cpp:175
+#, kde-format
+msgid "Source archive"
+msgstr "Kho trữ nguồn"
+
+#: app/batchextract.cpp:105 app/batchextract.cpp:176
+#, kde-format
+msgid "Destination"
+msgstr "Đích"
+
+#: app/batchextract.cpp:117
+#, kde-format
+msgid "The following files could not be extracted:"
+msgstr "Các tệp sau không thể giải nén được:"
+
+#: app/batchextract.cpp:137
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"There was an error while extracting <filename>%1</filename>. Any further "
+"archive will not be extracted."
+msgstr ""
+"Đã xảy ra lỗi khi giải nén <filename>%1</filename>. Các kho trữ khác sẽ "
+"không được giải nén."
+
+#: app/batchextract.cpp:139
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"There was an error while extracting <filename>%1</filename>:<nl/><message>"
+"%2</message><nl/>Any further archive will not be extracted."
+msgstr ""
+"Đã xảy ra lỗi khi giải nén "
+"<filename>%1</filename>:<nl/><message>%2</message><nl/>Các kho trữ khác sẽ "
+"không được giải nén."
+
+#: app/batchextract.cpp:146
+#, kde-kuit-format
+msgctxt "@info"
+msgid "There was an error while extracting <filename>%1</filename>."
+msgstr "Đã xảy ra lỗi khi giải nén <filename>%1</filename>."
+
+#: app/batchextract.cpp:148
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"There was an error while extracting <filename>%1</filename>:<nl/><message>"
+"%2</message>"
+msgstr ""
+"Đã xảy ra lỗi khi giải nén "
+"<filename>%1</filename>:<nl/><message>%2</message>"
+
+#: app/batchextract.cpp:300
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The archive could not be extracted to <filename>%1</filename> because Ark "
+"can only extract to local destinations."
+msgstr ""
+"Kho trữ không thể giải nén được vào <filename>%1</filename> vì Ark chỉ có "
+"thể giải nén vào các đích cục bộ."
+
+#: app/compressfileitemaction.cpp:67
+#, kde-format
+msgctxt "@action:inmenu Compress submenu in Dolphin context menu"
+msgid "Compress"
+msgstr "Nén"
+
+#: app/compressfileitemaction.cpp:80
+#, kde-format
+msgctxt "@action:inmenu Part of Compress submenu in Dolphin context menu"
+msgid "Compress to..."
+msgstr "Nén thành..."
+
+#: app/compressfileitemaction.cpp:87
+#, kde-format
+msgctxt ""
+"@action:inmenu Part of Compress submenu in Dolphin context menu, %1 filename"
+msgid "Compress to \"%1\""
+msgstr "Nén thành \"%1\""
+
+#: app/extractfileitemaction.cpp:66
+#, kde-format
+msgctxt "@action:inmenu Part of Extract submenu in Dolphin context menu"
+msgid "Extract to…"
+msgstr "Giải nén vào…"
+
+#: app/extractfileitemaction.cpp:78
+#, kde-format
+msgctxt "@action:inmenu Part of Extract submenu in Dolphin context menu"
+msgid "Extract here"
+msgstr "Giải nén tại đây"
+
+#: app/extractfileitemaction.cpp:84
+#, kde-format
+msgctxt "@action:inmenu Part of Extract submenu in Dolphin context menu"
+msgid "Extract here and delete archive"
+msgstr "Giải nén tại đây và xóa kho trữ"
+
+#: app/extractfileitemaction.cpp:91
+#, kde-format
+msgctxt "@action:inmenu Extract submenu in Dolphin context menu"
+msgid "Extract"
+msgstr "Giải nén"
+
+#: app/extractHereDndPlugin.cpp:54
+#, kde-format
+msgctxt ""
+"@action:inmenu Context menu shown when an archive is being drag'n'dropped"
+msgid "Extract here"
+msgstr "Giải nén tại đây"
+
+#: app/main.cpp:77
+#, kde-format
+msgid "Ark"
+msgstr "Ark"
+
+#: app/main.cpp:79
+#, kde-format
+msgid "KDE Archiving tool"
+msgstr "Công cụ lưu trữ KDE"
+
+#: app/main.cpp:81
+#, kde-format
+msgid "(c) 1997-2019, The Ark Developers"
+msgstr "(c) 1997-2019, Các nhà phát triển Ark"
+
+#: app/main.cpp:87
+#, kde-format
+msgid "Elvis Angelaccio"
+msgstr "Elvis Angelaccio"
+
+#: app/main.cpp:87
+#, kde-format
+msgid "Maintainer"
+msgstr "Người bảo trì"
+
+#: app/main.cpp:88
+#, kde-format
+msgid "Ragnar Thomsen"
+msgstr "Ragnar Thomsen"
+
+#: app/main.cpp:88
+#, kde-format
+msgid "Maintainer, KF5 port"
+msgstr "Người bảo trì, chuyển KF5"
+
+#: app/main.cpp:89
+#, kde-format
+msgid "Raphael Kubo da Costa"
+msgstr "Raphael Kubo da Costa"
+
+#: app/main.cpp:89 app/main.cpp:90 app/main.cpp:91
+#, kde-format
+msgid "Former Maintainer"
+msgstr "Người bảo trì trước đây"
+
+#: app/main.cpp:90
+#, kde-format
+msgid "Harald Hvaal"
+msgstr "Harald Hvaal"
+
+#: app/main.cpp:91
+#, kde-format
+msgid "Henrique Pinto"
+msgstr "Henrique Pinto"
+
+#: app/main.cpp:92
+#, kde-format
+msgid "Helio Chissini de Castro"
+msgstr "Helio Chissini de Castro"
+
+#: app/main.cpp:92
+#, kde-format
+msgid "Former maintainer"
+msgstr "Người bảo trì trước đây"
+
+#: app/main.cpp:93
+#, kde-format
+msgid "Georg Robbers"
+msgstr "Georg Robbers"
+
+#: app/main.cpp:94
+#, kde-format
+msgid "Roberto Selbach Teixeira"
+msgstr "Roberto Selbach Teixeira"
+
+#: app/main.cpp:95
+#, kde-format
+msgid "Francois-Xavier Duranceau"
+msgstr "Francois-Xavier Duranceau"
+
+#: app/main.cpp:96
+#, kde-format
+msgid "Emily Ezust (Corel Corporation)"
+msgstr "Emily Ezust (Công ty Corel)"
+
+#: app/main.cpp:97
+#, kde-format
+msgid "Michael Jarrett (Corel Corporation)"
+msgstr "Michael Jarrett (Công ty Corel)"
+
+#: app/main.cpp:98
+#, kde-format
+msgid "Robert Palmbos"
+msgstr "Robert Palmbos"
+
+#: app/main.cpp:100
+#, kde-format
+msgid "Vladyslav Batyrenko"
+msgstr "Vladyslav Batyrenko"
+
+#: app/main.cpp:101
+#, kde-format
+msgid "Advanced editing functionalities"
+msgstr "Các chức năng chỉnh sửa nâng cao"
+
+#: app/main.cpp:104
+#, kde-format
+msgid "Bryce Corkins"
+msgstr "Bryce Corkins"
+
+#: app/main.cpp:104
+#, kde-format
+msgid "Icons"
+msgstr "Biểu tượng"
+
+#: app/main.cpp:105
+#, kde-format
+msgid "Liam Smit"
+msgstr "Liam Smit"
+
+#: app/main.cpp:105
+#, kde-format
+msgid "Ideas, help with the icons"
+msgstr "Ý tưởng, trợ giúp với các biểu tượng"
+
+#: app/main.cpp:106
+#, kde-format
+msgid "Andrew Smith"
+msgstr "Andrew Smith"
+
+#: app/main.cpp:106
+#, kde-format
+msgid "bkisofs code"
+msgstr "mã bkisofs"
+
+#: app/main.cpp:114
+#, kde-format
+msgid "URLs to open."
+msgstr "URL để mở."
+
+#: app/main.cpp:117
+#, kde-format
+msgid ""
+"Show a dialog for specifying the options for the operation (extract/add)"
+msgstr "Hiện hộp thoại để chỉ định tùy chọn cho thao tác (trích xuất/thêm)"
+
+#: app/main.cpp:120
+#, kde-format
+msgid ""
+"Destination folder to extract to. Defaults to current path if not specified."
+msgstr ""
+"Thư mục đích để giải nén. Mặc định là đường dẫn hiện tại nếu không được chỉ "
+"định."
+
+#. i18n: ectx: label, entry (openDestinationFolderAfterExtraction), group (Extraction)
+#: app/main.cpp:124 kerfuffle/ark.kcfg:23
+#, kde-format
+msgid "Open destination folder after extraction."
+msgstr "Mở thư mục đích sau khi giải nén."
+
+#: app/main.cpp:127
+#, kde-format
+msgid ""
+"Query the user for an archive filename and add specified files to it. Quit "
+"when finished."
+msgstr ""
+"Hỏi người dùng tên tệp kho trữ và thêm các tệp đã chọn vào đó. Thoát khi "
+"hoàn tất."
+
+#: app/main.cpp:130
+#, kde-format
+msgid ""
+"Add the specified files to 'filename'. Create archive if it does not exist. "
+"Quit when finished."
+msgstr ""
+"Thêm các tệp đã chọn vào 'filename'. Tạo kho trữ nếu chưa tồn tại. Thoát "
+"khi hoàn tất."
+
+#: app/main.cpp:134
+#, kde-format
+msgid ""
+"Change the current dir to the first entry and add all other entries relative "
+"to this one."
+msgstr ""
+"Thay đổi thư mục hiện tại thành mục đầu tiên và thêm các mục khác tương ứng "
+"với mục này."
+
+#: app/main.cpp:138
+#, kde-format
+msgid ""
+"Automatically choose a filename, with the selected suffix (for example rar, "
+"tar.gz, zip or any other supported types)"
+msgstr ""
+"Tự động chọn tên tệp, với phần mở rộng đã chọn (ví dụ rar, tar.gz, zip hoặc "
+"các loại được hỗ trợ khác)"
+
+#: app/main.cpp:143
+#, kde-format
+msgid ""
+"Use the batch interface instead of the usual dialog. This option is implied "
+"if more than one url is specified."
+msgstr ""
+"Sử dụng giao diện hàng loạt thay vì hộp thoại thông thường. Lựa chọn này "
+"được áp dụng nếu có nhiều hơn một url được chỉ định."
+
+#: app/main.cpp:146
+#, kde-format
+msgid ""
+"The destination argument will be set to the path of the first file supplied."
+msgstr "Đối số đích sẽ được đặt thành đường dẫn của tệp đầu tiên được cung cấp."
+
+#: app/main.cpp:149
+#, kde-format
+msgid ""
+"Archive contents will be read, and if detected to not be a single folder or "
+"a single file archive, a subfolder with the name of the archive will be "
+"created."
+msgstr ""
+"Nội dung kho trữ sẽ được đọc, và nếu phát hiện không phải là một thư mục "
+"đơn hoặc kho trữ tệp đơn, một thư mục con với tên của kho trữ sẽ được tạo."
+
+#: app/main.cpp:152
+#, kde-format
+msgid "List supported MIME types."
+msgstr "Liệt kê các loại MIME được hỗ trợ."
+
+#: app/mainwindow.cpp:167
+#, kde-format
+msgid "Unable to find Ark's KPart component, please check your installation."
+msgstr ""
+"Không thể tìm thấy thành phần KPart của Ark, vui lòng kiểm tra cài đặt của "
+"bạn."
+
+#: app/mainwindow.cpp:182
+#, kde-format
+msgid "Sidebar"
+msgstr "Thanh bên"
+
+#: app/mainwindow.cpp:285
+#, kde-format
+msgid "Welcome Page"
+msgstr "Trang Chào Mừng"
+
+#: app/mainwindow.cpp:287
+#, kde-format
+msgid "Show the welcome page"
+msgstr "Hiển thị trang chào mừng"
+
+#: app/mainwindow.cpp:295
+#, kde-kuit-format
+msgctxt "@info:whatsthis"
+msgid ""
+"This switches between having a <emphasis>Menubar</emphasis> and having a "
+"<interface>Hamburger Menu</interface> button. Both contain mostly the same "
+"commands and configuration options."
+msgstr ""
+"Điều này chuyển đổi giữa có <emphasis>Thanh menu</emphasis> và có nút "
+"<interface>Menu hamburger</interface>. Cả hai đều chứa hầu hết các lệnh và "
+"tùy chọn cấu hình giống nhau."
+
+#: app/mainwindow.cpp:315
+#, kde-format
+msgid "Lock Sidebar"
+msgstr "Khóa thanh bên"
+
+#: app/mainwindow.cpp:371
+#, kde-format
+msgctxt "to open an archive"
+msgid "Open Archive"
+msgstr "Mở Kho Trữ"
+
+#: app/mainwindow.cpp:484
+#, kde-format
+msgid "Create New Archive"
+msgstr "Tạo Kho Trữ Mới"
+
+#: app/welcomeview/welcomeview.cpp:50
+#, kde-format
+msgid "Welcome to %1"
+msgstr "Chào mừng đến với %1"
+
+#: app/welcomeview/welcomeview.cpp:55
+#, kde-format
+msgid "No recent files"
+msgstr "Không có tệp gần đây"
+
+#: app/welcomeview/welcomeview.cpp:143
+#, kde-format
+msgid "Copy &Location"
+msgstr "Sa&o chép địa điểm"
+
+#: app/welcomeview/welcomeview.cpp:149
+#, kde-format
+msgid "&Open Containing Folder"
+msgstr "Mở T&hư Mục Chứa"
+
+#: app/welcomeview/welcomeview.cpp:156
+#, kde-format
+msgid "&Remove"
+msgstr "X&oá"
+
+#. i18n: ectx: property (windowTitle), widget (QScrollArea, WelcomeView)
+#: app/welcomeview/welcomeview.ui:17
+#, kde-format
+msgid "Welcome"
+msgstr "Chào mừng"
+
+#. i18n: ectx: property (text), widget (QPushButton, buttonOpenArchive)
+#: app/welcomeview/welcomeview.ui:179
+#, kde-format
+msgid "Open Archive..."
+msgstr "Mở Kho Lưu Trữ..."
+
+#. i18n: ectx: property (text), widget (QPushButton, buttonNewArchive)
+#: app/welcomeview/welcomeview.ui:186
+#, kde-format
+msgid "New Archive"
+msgstr "Kho trữ mới"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, buttonClearRecentFiles)
+#: app/welcomeview/welcomeview.ui:193
+#, kde-format
+msgid "Clear Recent Files"
+msgstr "Làm trống tệp gần đây"
+
+#. i18n: ectx: property (text), widget (QLabel, labelRecentFiles)
+#: app/welcomeview/welcomeview.ui:222
+#, kde-format
+msgid "Recent Files"
+msgstr "Tệp gần đây"
+
+#. i18n: ectx: property (text), widget (QLabel, labelHelp)
+#: app/welcomeview/welcomeview.ui:263
+#, kde-format
+msgid "Help"
+msgstr "Trợ giúp"
+
+#. i18n: ectx: property (text), widget (KUrlLabel, labelHomepage)
+#: app/welcomeview/welcomeview.ui:273
+#, kde-format
+msgid "Visit homepage"
+msgstr "Xem trang nhà"
+
+#. i18n: ectx: property (text), widget (KUrlLabel, labelHandbook)
+#: app/welcomeview/welcomeview.ui:286
+#, kde-format
+msgid "Read handbook"
+msgstr "Đọc sổ tay"
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxShowOnStartup)
+#: app/welcomeview/welcomeview.ui:345
+#, kde-format
+msgid "Show on startup"
+msgstr "Hiện khi khởi động"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, buttonClose)
+#: app/welcomeview/welcomeview.ui:400
+#, kde-format
+msgid "Close Welcome Page"
+msgstr "Đóng Trang Chào Mừng"
+
+#: kerfuffle/adddialog.cpp:32 kerfuffle/adddialog.cpp:70
+#, kde-format
+msgid "Advanced Options"
+msgstr "Tùy chọn nâng cao"
+
+#: kerfuffle/adddialog.cpp:41
+#, kde-format
+msgctxt "@action:button"
+msgid "Add"
+msgstr "Thêm"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupCompressFiles)
+#: kerfuffle/adddialog.ui:35
+#, kde-format
+msgid "Files/Folders to Compress"
+msgstr "Tệp/Thư mục cần nén"
+
+#: kerfuffle/addtoarchive.cpp:78
+#, kde-format
+msgid "Compress to Archive"
+msgstr "Nén thành kho trữ"
+
+#: kerfuffle/addtoarchive.cpp:132
+#, kde-format
+msgid "No input files were given."
+msgstr "Không có tệp đầu vào nào được cung cấp."
+
+#: kerfuffle/addtoarchive.cpp:140
+#, kde-kuit-format
+msgid ""
+"You need to either supply a filename for the archive or a suffix (such as "
+"rar, tar.gz) with the <command>--autofilename</command> argument."
+msgstr ""
+"Bạn cần cung cấp tên tệp cho kho trữ hoặc phần mở rộng (như rar, tar.gz) "
+"với đối số <command>--autofilename</command>."
+
+#: kerfuffle/addtoarchive.cpp:244
+#, kde-format
+msgctxt "Default name of a newly-created multi-file archive"
+msgid "Archive"
+msgstr "Kho trữ"
+
+#. i18n: ectx: label, entry (showEncryptionWarning), group (General)
+#: kerfuffle/ark.kcfg:9
+#, kde-format
+msgid ""
+"Whether to show a warning when creating zip archives with AES encryption."
+msgstr "Có hiển thị cảnh báo khi tạo tập tin nén zip với mã hóa AES hay không."
+
+#. i18n: ectx: label, entry (defaultOpenAction), group (General)
+#: kerfuffle/ark.kcfg:13
+#, kde-format
+msgid "Default action when opening archive entries."
+msgstr "Hành động mặc định khi mở các mục kho trữ."
+
+#. i18n: ectx: label, entry (closeAfterExtraction), group (Extraction)
+#: kerfuffle/ark.kcfg:27
+#, kde-format
+msgid "Close Ark after extraction."
+msgstr "Đóng Ark sau khi giải nén."
+
+#. i18n: ectx: label, entry (preservePaths), group (Extraction)
+#: kerfuffle/ark.kcfg:31
+#, kde-format
+msgid "Preserve paths when extracting."
+msgstr "Giữ nguyên đường dẫn khi giải nén."
+
+#. i18n: ectx: label, entry (extractToSubfolder), group (Extraction)
+#: kerfuffle/ark.kcfg:35
+#, kde-format
+msgid ""
+"Extract to a subfolder if the archive has more than one top-level entry."
+msgstr "Giải nén vào thư mục con nếu kho trữ có nhiều hơn một mục cấp cao nhất."
+
+#. i18n: ectx: label, entry (splitterSizes), group (MainWindow)
+#: kerfuffle/ark.kcfg:41
+#, kde-format
+msgid "How the main window is divided."
+msgstr "Cách chia cửa sổ chính."
+
+#. i18n: ectx: label, entry (showInfoPanel), group (MainWindow)
+#: kerfuffle/ark.kcfg:45
+#, kde-format
+msgid "Whether to show the information panel."
+msgstr "Có hiển thị bảng thông tin hay không."
+
+#. i18n: ectx: label, entry (limitPreviewFileSize), group (Preview)
+#: kerfuffle/ark.kcfg:55
+#, kde-format
+msgid "Whether to limit the preview according to file size."
+msgstr "Có giới hạn xem thử theo kích thước tệp hay không."
+
+#. i18n: ectx: label, entry (previewFileSizeLimit), group (Preview)
+#: kerfuffle/ark.kcfg:59
+#, kde-format
+msgid "Preview file size limit in megabytes."
+msgstr "Giới hạn kích thước tệp xem thử tính bằng megabyte."
+
+#: kerfuffle/cliinterface.cpp:236
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Failed to locate program <filename>%1</filename> on disk."
+msgstr "Không tìm thấy chương trình <filename>%1</filename> trên đĩa."
+
+#: kerfuffle/cliinterface.cpp:346
+#, kde-format
+msgid "Extraction failed. Make sure that enough space is available."
+msgstr "Giải nén thất bại. Hãy đảm bảo có đủ dung lượng trống."
+
+#: kerfuffle/cliinterface.cpp:349
+#, kde-format
+msgid ""
+"Extraction failed. Make sure you provided the correct password and that "
+"enough space is available."
+msgstr ""
+"Giải nén thất bại. Hãy chắc chắn bạn đã nhập đúng mật khẩu và có đủ dung "
+"lượng trống."
+
+#: kerfuffle/cliinterface.cpp:360 kerfuffle/cliinterface.cpp:481
+#, kde-format
+msgctxt "@info"
+msgid "Could not move the extracted file to the destination directory."
+msgid_plural "Could not move the extracted files to the destination directory."
+msgstr[0] "Không di chuyển được các tệp đã giải nén vào thư mục đích."
+
+#: kerfuffle/cliinterface.cpp:836
+#, kde-format
+msgctxt "@info"
+msgid "Extraction failed because the disk is full."
+msgstr "Giải nén thất bại vì đĩa đã đầy."
+
+#: kerfuffle/cliinterface.cpp:843 plugins/cliarjplugin/cliplugin.cpp:145
+#, kde-format
+msgctxt "@info"
+msgid "Extraction failed: Incorrect password"
+msgstr "Giải nén thất bại: Mật khẩu không đúng"
+
+#: kerfuffle/cliinterface.cpp:877
+#, kde-format
+msgid "Incorrect password."
+msgstr "Mật khẩu không đúng."
+
+#: kerfuffle/cliinterface.cpp:899
+#, kde-format
+msgid "Ark does not currently support testing this archive."
+msgstr "Ark hiện không hỗ trợ kiểm tra tập tin nén này."
+
+#: kerfuffle/compressionoptionswidget.cpp:133
+#, kde-format
+msgid "Protection of the list of files is not possible with the %1 format."
+msgstr "Không thể bảo vệ danh sách tệp với định dạng %1."
+
+#: kerfuffle/compressionoptionswidget.cpp:141
+#, kde-format
+msgid ""
+"Protection of the archive with password is not possible with the %1 format."
+msgstr "Không thể bảo vệ kho trữ bằng mật khẩu với định dạng %1."
+
+#: kerfuffle/compressionoptionswidget.cpp:155
+#, kde-format
+msgid "It is not possible to set compression level for the %1 format."
+msgstr "Không thể đặt mức độ nén cho định dạng %1."
+
+#: kerfuffle/compressionoptionswidget.cpp:174
+#, kde-format
+msgid "It is not possible to set compression method for the %1 format."
+msgstr "Không thể đặt phương thức nén cho định dạng %1."
+
+#: kerfuffle/compressionoptionswidget.cpp:195
+#, kde-format
+msgid "The %1 format does not support multi-volume archives."
+msgstr "Định dạng %1 không hỗ trợ các tập tin nén đa phần."
+
+#. i18n: ectx: property (title), widget (KCollapsibleGroupBox, collapsibleCompression)
+#: kerfuffle/compressionoptionswidget.ui:20
+#, kde-format
+msgid "Compression"
+msgstr "Nén"
+
+#. i18n: ectx: property (text), widget (QLabel, lblCompLevel1)
+#: kerfuffle/compressionoptionswidget.ui:35
+#, kde-format
+msgid "Level:"
+msgstr "Mức độ:"
+
+#. i18n: ectx: property (text), widget (QLabel, lblCompLevel2)
+#: kerfuffle/compressionoptionswidget.ui:45
+#, kde-format
+msgid "Min"
+msgstr "Tối thiểu"
+
+#. i18n: ectx: property (text), widget (QLabel, lblCompMethod)
+#: kerfuffle/compressionoptionswidget.ui:83
+#, kde-format
+msgid "Method:"
+msgstr "Phương pháp:"
+
+#. i18n: ectx: property (text), widget (QLabel, lblCompLevel3)
+#: kerfuffle/compressionoptionswidget.ui:93
+#, kde-format
+msgid "Max"
+msgstr "Tối đa"
+
+#. i18n: ectx: property (title), widget (KCollapsibleGroupBox, collapsibleEncryption)
+#: kerfuffle/compressionoptionswidget.ui:118
+#, kde-format
+msgid "Password Protection"
+msgstr "Bảo vệ bằng mật khẩu"
+
+#. i18n: ectx: property (text), widget (QLabel, lblEncMethod)
+#: kerfuffle/compressionoptionswidget.ui:130
+#, kde-format
+msgid "Encryption method:"
+msgstr "Phương pháp mật mã hoá:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, encryptHeaderCheckBox)
+#: kerfuffle/compressionoptionswidget.ui:160
+#, kde-format
+msgid "Ask for password before showing the list of files in the archive"
+msgstr "Yêu cầu mật khẩu trước khi hiển thị danh sách tệp trong kho trữ"
+
+#. i18n: ectx: property (text), widget (KMessageWidget, warningMsgWidget)
+#: kerfuffle/compressionoptionswidget.ui:170
+#, kde-format
+msgid ""
+"This encryption method may not be supported by older archiving software."
+msgstr ""
+"Phương pháp mật mã hoá này có thể không được hỗ trợ bởi phần mềm lưu trữ cũ "
+"hơn."
+
+#. i18n: ectx: property (title), widget (KCollapsibleGroupBox, collapsibleMultiVolume)
+#: kerfuffle/compressionoptionswidget.ui:183
+#, kde-format
+msgid "Multi-volume Archive"
+msgstr "Kho trữ đa tập"
+
+#. i18n: ectx: property (text), widget (QCheckBox, multiVolumeCheckbox)
+#: kerfuffle/compressionoptionswidget.ui:192
+#, kde-format
+msgid "Create multi-volume archive"
+msgstr "Tạo kho trữ đa tập"
+
+#. i18n: ectx: property (text), widget (QLabel, lblVolumeSize)
+#: kerfuffle/compressionoptionswidget.ui:210
+#, kde-format
+msgid "Volume size:"
+msgstr "Kích thước tập tin:"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_previewFileSizeLimit)
+#. i18n: ectx: property (suffix), widget (QDoubleSpinBox, volumeSizeSpinbox)
+#: kerfuffle/compressionoptionswidget.ui:223
+#: kerfuffle/previewsettingspage.ui:32
+#, kde-format
+msgid " megabytes"
+msgstr "megabyte"
+
+#: kerfuffle/createdialog.cpp:111
+#, kde-format
+msgctxt "the argument is a file extension (the period is not a typo)"
+msgid "Automatically add .%1"
+msgstr "Tự động thêm .%1"
+
+#: kerfuffle/createdialog.cpp:198
+#, kde-format
+msgid "The chosen password does not match the given verification password."
+msgstr "Mật khẩu đã chọn không khớp với mật khẩu xác minh đã nhập."
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: kerfuffle/createdialog.ui:30
+#, kde-format
+msgid "Folder:"
+msgstr "Thư mục:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: kerfuffle/createdialog.ui:47
+#, kde-format
+msgid "Filename:"
+msgstr "Tên tệp:"
+
+#. i18n: ectx: property (placeholderText), widget (QLineEdit, filenameLineEdit)
+#: kerfuffle/createdialog.ui:54
+#, kde-format
+msgid "Type archive name..."
+msgstr "Nhập tên kho trữ..."
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. i18n: ectx: property (text), widget (QLabel, m_typeLabel)
+#: kerfuffle/createdialog.ui:61 part/infopanel.ui:93
+#, kde-format
+msgid "Type:"
+msgstr "Loại:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: kerfuffle/createdialog.ui:78
+#, kde-format
+msgid "Extension:"
+msgstr "Phần mở rộng:"
+
+#: kerfuffle/extractiondialog.cpp:40
+#, kde-format
+msgctxt "@title:window"
+msgid "Extract"
+msgstr "Giải nén"
+
+#: kerfuffle/extractiondialog.cpp:56
+#, kde-format
+msgid "Extract"
+msgstr "Giải nén"
+
+#: kerfuffle/extractiondialog.cpp:103
+#, kde-format
+msgid "The subfolder name may not contain the character '/'."
+msgstr "Tên thư mục con không được chứa kí tự '/'."
+
+#: kerfuffle/extractiondialog.cpp:114
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The folder <filename>%1</filename> already exists. Are you sure you want to "
+"extract here?"
+msgstr ""
+"Thư mục <filename>%1</filename> đã tồn tại. Bạn có chắc chắn muốn giải nén "
+"vào đây không?"
+
+#: kerfuffle/extractiondialog.cpp:115
+#, kde-format
+msgid "Folder exists"
+msgstr "Thư mục đã tồn tại"
+
+#: kerfuffle/extractiondialog.cpp:116
+#, kde-format
+msgid "Extract here"
+msgstr "Giải nén tại đây"
+
+#: kerfuffle/extractiondialog.cpp:117
+#, kde-format
+msgid "Retry"
+msgstr "Thử lại"
+
+#: kerfuffle/extractiondialog.cpp:127 kerfuffle/extractiondialog.cpp:133
+#, kde-kuit-format
+msgctxt "@info"
+msgid "The folder <filename>%1</filename> could not be created."
+msgstr "Thư mục <filename>%1</filename> không tạo được."
+
+#: kerfuffle/extractiondialog.cpp:128
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<filename>%1</filename> already exists, but is not a folder."
+msgstr "<filename>%1</filename> đã tồn tại, nhưng không phải là thư mục."
+
+#: kerfuffle/extractiondialog.cpp:134
+#, kde-format
+msgid "Please check your permissions to create it."
+msgstr "Vui lòng kiểm tra quyền của bạn để tạo nó."
+
+#: kerfuffle/extractiondialog.cpp:172
+#, kde-format
+msgid "Extract multiple archives"
+msgstr "Giải nén nhiều tập tin nén"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, ExtractionDialog)
+#: kerfuffle/extractiondialog.ui:21
+#, kde-format
+msgid "Extraction Dialog"
+msgstr "Hộp thoại giải nén"
+
+#. i18n: ectx: property (text), widget (QLabel, extractAllLabel)
+#: kerfuffle/extractiondialog.ui:70
+#, kde-format
+msgid "Extract All Files"
+msgstr "Giải nén Tất cả Tệp"
+
+#. i18n: ectx: property (title), widget (QGroupBox, singleFolderGroup)
+#: kerfuffle/extractiondialog.ui:79
+#, kde-format
+msgid "E&xtraction into subfolder:"
+msgstr "Giải nén và&o thư mục con:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: kerfuffle/extractiondialog.ui:116
+#, kde-format
+msgid "Options"
+msgstr "Tùy chọn"
+
+#. i18n: ectx: property (text), widget (QCheckBox, openFolderCheckBox)
+#: kerfuffle/extractiondialog.ui:125
+#, kde-format
+msgid "Open &destination folder after extraction"
+msgstr "Mở thư &mục đích sau khi giải nén"
+
+#. i18n: ectx: property (text), widget (QCheckBox, closeAfterExtraction)
+#: kerfuffle/extractiondialog.ui:132
+#, kde-format
+msgid "Close &Ark after extraction"
+msgstr "Đóng &Ark sau khi giải nén"
+
+#. i18n: ectx: property (text), widget (QCheckBox, preservePaths)
+#: kerfuffle/extractiondialog.ui:139
+#, kde-format
+msgid "&Preserve paths when extracting"
+msgstr "Giữ n&guyên đường dẫn khi giải nén"
+
+#. i18n: ectx: property (text), widget (QCheckBox, autoSubfolders)
+#: kerfuffle/extractiondialog.ui:146
+#, kde-format
+msgid "&Automatically create subfolders"
+msgstr "Tự động tạo thư mụ&c con"
+
+#. i18n: ectx: property (title), widget (QGroupBox, filesToExtractGroupBox)
+#: kerfuffle/extractiondialog.ui:175
+#, kde-format
+msgctxt "@title:group"
+msgid "Extract"
+msgstr "Giải nén"
+
+#. i18n: ectx: property (text), widget (QRadioButton, selectedFilesButton)
+#: kerfuffle/extractiondialog.ui:193
+#, kde-format
+msgid "Sele&cted files only"
+msgstr "Chỉ &các tệp đã chọn"
+
+#. i18n: ectx: property (text), widget (QRadioButton, allFilesButton)
+#: kerfuffle/extractiondialog.ui:209
+#, kde-format
+msgid "All &files"
+msgstr "&Tất cả tệp"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_openDestinationFolderAfterExtraction)
+#: kerfuffle/extractionsettingspage.ui:17
+#, kde-format
+msgid "Open destination folder after extraction"
+msgstr "Mở thư mục đích sau khi giải nén"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_closeAfterExtraction)
+#: kerfuffle/extractionsettingspage.ui:24
+#, kde-format
+msgid "Close Ark after extraction"
+msgstr "Đóng Ark sau khi giải nén"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_preservePaths)
+#: kerfuffle/extractionsettingspage.ui:31
+#, kde-format
+msgid "Preserve paths when extracting"
+msgstr "Giữ nguyên đường dẫn khi giải nén"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_extractToSubfolder)
+#: kerfuffle/extractionsettingspage.ui:41
+#, kde-format
+msgid ""
+"Whether to check by default the extraction into subfolder checkbox in the "
+"Extraction Dialog, when the archive has more than one top-level entry."
+msgstr ""
+"Có nên mặc định chọn hộp kiểm trích xuất vào thư mục con trong Hộp thoại "
+"Trích xuất, khi kho trữ có nhiều hơn một mục cấp cao nhất."
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_extractToSubfolder)
+#: kerfuffle/extractionsettingspage.ui:44
+#, kde-format
+msgid "Extract to a subfolder if the archive has more than one top-level entry"
+msgstr "Giải nén vào thư mục con nếu kho trữ có nhiều hơn một mục cấp cao nhất"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: kerfuffle/generalsettingspage.ui:17
+#, kde-format
+msgid "When clicking a file in an archive or pressing the Return key:"
+msgstr "Khi nhấp vào tệp trong kho trữ hoặc nhấn phím Return:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton)
+#: kerfuffle/generalsettingspage.ui:33
+#, kde-format
+msgid "Pre&view the file with internal previewer"
+msgstr "Xem t&hử tệp bằng trình xem thử nội bộ"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton_2)
+#: kerfuffle/generalsettingspage.ui:43
+#, kde-format
+msgid "Open the fi&le with associated application"
+msgstr "Mở tệp bằng ứng dụng &liên kết"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_showEncryptionWarning)
+#: kerfuffle/generalsettingspage.ui:60
+#, kde-format
+msgid "Show a warning when creating zip archives with AES encryption"
+msgstr "Hiển thị cảnh báo khi tạo tập tin zip với mật mã hoá AES"
+
+#: kerfuffle/jobs.cpp:100
+#, kde-format
+msgid "No suitable plugin found. Ark does not seem to support this file type."
+msgstr ""
+"Không tìm thấy phần cài cắm phù hợp. Ark dường như không hỗ trợ loại tệp "
+"này."
+
+#: kerfuffle/jobs.cpp:104
+#, kde-format
+msgid ""
+"Failed to load a suitable plugin. Make sure any executables needed to handle "
+"the archive type are installed."
+msgstr ""
+"Không thể tải phần bổ trợ phù hợp. Hãy đảm bảo các tệp thực thi cần thiết "
+"để xử lý kiểu kho trữ đã được cài đặt."
+
+#: kerfuffle/jobs.cpp:169
+#, kde-format
+msgid ""
+"Could not load the archive because it contains ill-formed entries and might "
+"be a malicious archive."
+msgstr ""
+"Không tải được kho trữ vì nó chứa các mục không hợp lệ và có thể là một kho "
+"trữ độc hại."
+
+#: kerfuffle/jobs.cpp:258
+#, kde-format
+msgid "Loading archive"
+msgstr "Đang tải kho trữ"
+
+#: kerfuffle/jobs.cpp:258 kerfuffle/jobs.cpp:548 kerfuffle/jobs.cpp:730
+#: kerfuffle/jobs.cpp:782 kerfuffle/jobs.cpp:819 kerfuffle/jobs.cpp:850
+#: kerfuffle/jobs.cpp:896
+#, kde-format
+msgid "Archive"
+msgstr "Kho trữ"
+
+#: kerfuffle/jobs.cpp:410 kerfuffle/jobs.cpp:579
+#, kde-kuit-format
+msgid "No space available on device <filename>%1</filename>"
+msgstr "Không còn dung lượng trống trên thiết bị <filename>%1</filename>"
+
+#: kerfuffle/jobs.cpp:542
+#, kde-format
+msgid "Extracting all files"
+msgstr "Đang giải nén tất cả các tệp"
+
+#. i18np on purpose so this translation may properly be reused.
+#: kerfuffle/jobs.cpp:544 kerfuffle/jobs.cpp:653
+#, kde-format
+msgid "Extracting one file"
+msgid_plural "Extracting %1 files"
+msgstr[0] "Đang giải nén %1 tệp"
+
+#: kerfuffle/jobs.cpp:549
+#, kde-format
+msgctxt "extraction folder"
+msgid "Destination"
+msgstr "Đích"
+
+#: kerfuffle/jobs.cpp:553
+#, kde-kuit-format
+msgid ""
+"Could not write to destination <filename>%1</filename>.<nl/>Check whether "
+"you have sufficient permissions."
+msgstr ""
+"Không ghi được vào đích <filename>%1</filename>.<nl/>Kiểm tra xem bạn có đủ "
+"quyền không."
+
+#: kerfuffle/jobs.cpp:729
+#, kde-format
+msgid "Compressing a file"
+msgid_plural "Compressing %1 files"
+msgstr[0] "Đang nén %1 tệp"
+
+#: kerfuffle/jobs.cpp:781
+#, kde-format
+msgid "Moving a file"
+msgid_plural "Moving %1 files"
+msgstr[0] "Đang di chuyển %1 tệp"
+
+#: kerfuffle/jobs.cpp:818
+#, kde-format
+msgid "Copying a file"
+msgid_plural "Copying %1 files"
+msgstr[0] "Đang sao chép %1 tệp"
+
+#: kerfuffle/jobs.cpp:849
+#, kde-format
+msgid "Deleting a file from the archive"
+msgid_plural "Deleting %1 files"
+msgstr[0] "Đang xóa %1 tệp"
+
+#: kerfuffle/jobs.cpp:872
+#, kde-format
+msgid "Adding comment"
+msgstr "Đang thêm chú thích"
+
+#: kerfuffle/jobs.cpp:896
+#, kde-format
+msgid "Testing archive"
+msgstr "Kiểm tra kho trữ"
+
+#: kerfuffle/pluginsettingspage.cpp:33
+#, kde-format
+msgid ""
+"The plugin cannot be used because one or more required executables are "
+"missing. Check your installation."
+msgstr ""
+"Phần cài cắm không thể được sử dụng vì thiếu một hoặc nhiều tệp thực thi "
+"cần thiết. Kiểm tra cài đặt của bạn."
+
+#. i18n: @title:column
+#. i18n: ectx: property (text), widget (QTreeWidget, kcfg_disabledPlugins)
+#: kerfuffle/pluginsettingspage.ui:36
+#, kde-format
+msgid "Name"
+msgstr "Tên"
+
+#. i18n: @title:column
+#. i18n: ectx: property (text), widget (QTreeWidget, kcfg_disabledPlugins)
+#: kerfuffle/pluginsettingspage.ui:41
+#, kde-format
+msgid "Description"
+msgstr "Mô tả"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_limitPreviewFileSize)
+#: kerfuffle/previewsettingspage.ui:22
+#, kde-format
+msgid "Disable preview for files larger than:"
+msgstr "Tắt xem thử cho tệp lớn hơn:"
+
+#: kerfuffle/propertiesdialog.cpp:41
+#, kde-format
+msgctxt "@title:window"
+msgid "Properties for %1"
+msgstr "Thuộc tính của %1"
+
+#. i18n: ectx: property (text), widget (KSqueezedTextLabel, m_passwordValueLabel)
+#: kerfuffle/propertiesdialog.cpp:49 kerfuffle/propertiesdialog.cpp:51
+#: part/infopanel.ui:195
+#, kde-format
+msgid "yes"
+msgstr "có"
+
+#: kerfuffle/propertiesdialog.cpp:49 kerfuffle/propertiesdialog.cpp:50
+#: kerfuffle/propertiesdialog.cpp:51 kerfuffle/propertiesdialog.cpp:63
+#, kde-format
+msgid "no"
+msgstr "không"
+
+#: kerfuffle/propertiesdialog.cpp:50
+#, kde-format
+msgid "yes (%1 volumes)"
+msgstr "có (%1 tập)"
+
+#: kerfuffle/propertiesdialog.cpp:52
+#, kde-format
+msgid "%1 file"
+msgid_plural "%1 files"
+msgstr[0] "%1 tệp"
+
+#: kerfuffle/propertiesdialog.cpp:52
+#, kde-format
+msgid ", %1 folder"
+msgid_plural ", %1 folders"
+msgstr[0] ", %1 thư mục"
+
+#: kerfuffle/propertiesdialog.cpp:66
+#, kde-format
+msgid "only file contents (%1)"
+msgstr "chỉ nội dung tệp (%1)"
+
+#: kerfuffle/propertiesdialog.cpp:69
+#, kde-format
+msgid "yes (%1)"
+msgstr "có (%1)"
+
+#: kerfuffle/propertiesdialog.cpp:86 kerfuffle/propertiesdialog.cpp:87
+#: kerfuffle/propertiesdialog.cpp:88
+#, kde-format
+msgid "Calculating..."
+msgstr "Đang tính..."
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: kerfuffle/propertiesdialog.ui:37
+#, kde-format
+msgid "Archive name:"
+msgstr "Tên kho trữ:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: kerfuffle/propertiesdialog.ui:54
+#, kde-format
+msgid "Archive type:"
+msgstr "Loại kho trữ:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_11)
+#: kerfuffle/propertiesdialog.ui:71
+#, kde-format
+msgid "Mime-type:"
+msgstr "Kiểu MIME:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: kerfuffle/propertiesdialog.ui:88
+#, kde-format
+msgid "Opened read-only:"
+msgstr "Đã mở chỉ đọc:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. i18n: ectx: property (text), widget (QLabel, m_passwordLabel)
+#: kerfuffle/propertiesdialog.ui:105 part/infopanel.ui:179
+#, kde-format
+msgid "Password-protected:"
+msgstr "Được bảo vệ bằng mật khẩu:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: kerfuffle/propertiesdialog.ui:122
+#, kde-format
+msgid "Has comment:"
+msgstr "Có bình luận:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: kerfuffle/propertiesdialog.ui:139
+#, kde-format
+msgid "Number of entries:"
+msgstr "Số mục:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: kerfuffle/propertiesdialog.ui:156
+#, kde-format
+msgid "Unpacked size:"
+msgstr "Kích thước giải nén:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: kerfuffle/propertiesdialog.ui:173
+#, kde-format
+msgid "Packed size:"
+msgstr "Kích thước nén:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#: kerfuffle/propertiesdialog.ui:190
+#, kde-format
+msgid "Compression ratio:"
+msgstr "Tỷ lệ nén:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: kerfuffle/propertiesdialog.ui:207
+#, kde-format
+msgid "Last modified:"
+msgstr "Sửa đổi lần cuối:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_12)
+#: kerfuffle/propertiesdialog.ui:224
+#, kde-format
+msgid "MD5 hash:"
+msgstr "Mã băm MD5:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_13)
+#: kerfuffle/propertiesdialog.ui:244
+#, kde-format
+msgid "SHA-1 hash:"
+msgstr "Mã băm SHA-1:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_14)
+#: kerfuffle/propertiesdialog.ui:261
+#, kde-format
+msgid "SHA-256 hash:"
+msgstr "Mã băm SHA-256:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_15)
+#: kerfuffle/propertiesdialog.ui:278
+#, kde-format
+msgid "Multi-volume:"
+msgstr "Nhiều tập:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_16)
+#: kerfuffle/propertiesdialog.ui:295
+#, kde-format
+msgid "Compression method(s):"
+msgstr "Phương pháp nén:"
+
+#: kerfuffle/queries.cpp:73
+#, kde-format
+msgctxt "@title:window"
+msgid "File Already Exists"
+msgstr "Tệp Đã Tồn Tại"
+
+#: kerfuffle/queries.cpp:169
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The archive <filename>%1</filename> is password protected. Please enter the "
+"password."
+msgstr ""
+"Kho trữ <filename>%1</filename> được bảo vệ bằng mật khẩu. Vui lòng nhập "
+"mật khẩu."
+
+#: kerfuffle/queries.cpp:173
+#, kde-format
+msgid "Incorrect password, please try again."
+msgstr "Mật khẩu không đúng, vui lòng thử lại."
+
+#: kerfuffle/queries.cpp:209
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The archive you're trying to open is corrupt.<nl/>Some files may be missing "
+"or damaged."
+msgstr "Kho trữ bạn đang cố mở bị hỏng.<nl/>Một số tệp có thể bị thiếu hoặc hư hại."
+
+#: kerfuffle/queries.cpp:211
+#, kde-format
+msgctxt "@title:window"
+msgid "Corrupt archive"
+msgstr "Kho trữ bị hỏng"
+
+#: kerfuffle/queries.cpp:212
+#, kde-format
+msgctxt "@action:button"
+msgid "Open as Read-Only"
+msgstr "Mở dưới dạng chỉ đọc"
+
+#: kerfuffle/queries.cpp:213
+#, kde-format
+msgctxt "@action:button"
+msgid "Don't Open"
+msgstr "Không mở"
+
+#: kerfuffle/queries.cpp:223
+#, kde-format
+msgid "Don't ask again."
+msgstr "Không hỏi lại."
+
+#: kerfuffle/queries.cpp:235
+#, kde-format
+msgid "Error during extraction"
+msgstr "Lỗi khi giải nén"
+
+#: kerfuffle/queries.cpp:236
+#, kde-kuit-format
+msgid ""
+"Extraction of the entry:<nl/>    <filename>%1</filename><nl/>failed with the "
+"error message:<nl/>    %2<nl/><nl/>Do you want to continue extraction?<nl/>"
+msgstr ""
+"Giải nén mục:<nl/>    <filename>%1</filename><nl/>thất bại với thông báo "
+"lỗi:<nl/>    %2<nl/><nl/>Bạn có muốn tiếp tục giải nén không?<nl/>"
+
+#: part/archivemodel.cpp:154
+#, kde-format
+msgctxt "Name of a file inside an archive"
+msgid "Name"
+msgstr "Tên"
+
+#: part/archivemodel.cpp:156
+#, kde-format
+msgctxt "Uncompressed size of a file inside an archive"
+msgid "Original Size"
+msgstr "Kích thước gốc"
+
+#: part/archivemodel.cpp:158
+#, kde-format
+msgctxt "Compressed size of a file inside an archive"
+msgid "Compressed Size"
+msgstr "Kích thước nén"
+
+#: part/archivemodel.cpp:160
+#, kde-format
+msgctxt "Compression rate of file"
+msgid "Rate"
+msgstr "Tỷ lệ"
+
+#: part/archivemodel.cpp:162
+#, kde-format
+msgctxt "File's owner username"
+msgid "Owner"
+msgstr "Chủ sở hữu"
+
+#: part/archivemodel.cpp:164
+#, kde-format
+msgctxt "File's group"
+msgid "Group"
+msgstr "Nhóm"
+
+#: part/archivemodel.cpp:166
+#, kde-format
+msgctxt "File permissions"
+msgid "Mode"
+msgstr "Chế độ"
+
+#: part/archivemodel.cpp:168
+#, kde-format
+msgctxt "CRC hash code"
+msgid "CRC checksum"
+msgstr "Giá trị tổng kiểm CRC"
+
+#: part/archivemodel.cpp:170
+#, kde-format
+msgctxt "BLAKE2 hash code"
+msgid "BLAKE2 checksum"
+msgstr "Giá trị tổng kiểm BLAKE2"
+
+#: part/archivemodel.cpp:172
+#, kde-format
+msgctxt "Compression method"
+msgid "Method"
+msgstr "Phương pháp"
+
+#: part/archivemodel.cpp:175
+#, kde-format
+msgctxt "File version"
+msgid "Version"
+msgstr "Phiên bản"
+
+#: part/archivemodel.cpp:177
+#, kde-format
+msgctxt "Timestamp"
+msgid "Date"
+msgstr "Ngày"
+
+#: part/archivemodel.cpp:179
+#, kde-format
+msgctxt "Unnamed column"
+msgid "??"
+msgstr "??"
+
+#: part/archivemodel.cpp:279
+#, kde-format
+msgid "Adding files is not supported for this archive."
+msgstr "Không hỗ trợ thêm tệp cho kho lưu trữ này."
+
+#: part/archivemodel.cpp:287
+#, kde-format
+msgid "You can only add local files to an archive."
+msgstr "Bạn chỉ có thể thêm các tệp cục bộ vào kho lưu trữ."
+
+#. i18n: ectx: Menu (archive)
+#: part/ark_part.rc:5
+#, kde-format
+msgid "&Archive"
+msgstr "Kho t&rữ"
+
+#. i18n: ectx: Menu (ark_file)
+#: part/ark_part.rc:15
+#, kde-format
+msgid "&File"
+msgstr "&Tệp"
+
+#. i18n: ectx: Menu (settings)
+#: part/ark_part.rc:29
+#, kde-format
+msgid "&Settings"
+msgstr "Thiết lậ&p"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: part/ark_part.rc:34
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Thanh công cụ chính"
+
+#. i18n: ectx: Menu (help)
+#: part/ark_viewer.rc:5
+#, kde-format
+msgid "&Help"
+msgstr "&Trợ giúp"
+
+#: part/arkviewer.cpp:52
+#, kde-format
+msgid "Closing preview"
+msgstr "Đang đóng xem thử"
+
+#: part/arkviewer.cpp:53
+#, kde-format
+msgid "Please wait while the preview is being closed..."
+msgstr "Vui lòng chờ trong khi đang đóng xem thử..."
+
+#: part/arkviewer.cpp:99
+#, kde-format
+msgid "The internal viewer cannot preview this file."
+msgstr "Trình xem nội bộ không thể xem thử tệp này."
+
+#: part/arkviewer.cpp:116
+#, kde-kuit-format
+msgid ""
+"The internal viewer cannot preview this type of file<nl/>(%1).<nl/><nl/>Do "
+"you want to try to view it as plain text?"
+msgstr ""
+"Khung xem nội bộ không thể xem thử kiểu tệp này<nl/>(%1).<nl/><nl/>Bạn có "
+"muốn thử xem nó dưới dạng văn bản thuần túy không?"
+
+#: part/arkviewer.cpp:117 part/arkviewer.cpp:129
+#, kde-format
+msgctxt "@title:window"
+msgid "Cannot Preview File"
+msgstr "Không thể xem thử tệp"
+
+#: part/arkviewer.cpp:118 part/arkviewer.cpp:130
+#, kde-format
+msgctxt "@action:button"
+msgid "Preview as Text"
+msgstr "Xem thử dạng văn bản"
+
+#: part/arkviewer.cpp:128
+#, kde-kuit-format
+msgid ""
+"The internal viewer cannot preview this unknown type of file.<nl/><nl/>Do "
+"you want to try to view it as plain text?"
+msgstr ""
+"Khung xem nội bộ không thể xem thử kiểu tập tin không rõ này.<nl/><nl/>Bạn "
+"có muốn thử xem nó dưới dạng văn bản thuần túy không?"
+
+#: part/arkviewer.cpp:201
+#, kde-format
+msgctxt "@action"
+msgid "About Viewer Component"
+msgstr "Thông tin về Thành phần Trình xem"
+
+#: part/infopanel.cpp:53
+#, kde-format
+msgid "No archive loaded"
+msgstr "Chưa tải kho trữ"
+
+#: part/infopanel.cpp:104
+#, kde-format
+msgid "Symbolic Link"
+msgstr "Liên kết tượng trưng"
+
+#: part/infopanel.cpp:109
+#, kde-format
+msgid "Unknown size"
+msgstr "Kích thước không rõ"
+
+#: part/infopanel.cpp:126
+#, kde-format
+msgid "One file selected"
+msgid_plural "%1 files selected"
+msgstr[0] "%1 tệp được chọn"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, InformationPanel)
+#: part/infopanel.ui:20
+#, kde-format
+msgid "Information Panel"
+msgstr "Bảng thông tin"
+
+#. i18n: ectx: property (text), widget (QLabel, additionalInfo)
+#: part/infopanel.ui:64
+#, kde-format
+msgid "Unknown file type"
+msgstr "Kiểu tệp không rõ"
+
+#. i18n: ectx: property (text), widget (QLabel, m_ownerLabel)
+#: part/infopanel.ui:113
+#, kde-format
+msgid "Owner:"
+msgstr "Chủ sở hữu:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_groupLabel)
+#: part/infopanel.ui:133
+#, kde-format
+msgid "Group:"
+msgstr "Nhóm:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_targetLabel)
+#: part/infopanel.ui:153
+#, kde-format
+msgid "Target:"
+msgstr "Đích:"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, JobTrackerWidget)
+#: part/jobtracker.ui:14
+#, kde-format
+msgid "Job Tracker"
+msgstr "Trình theo dõi công việc"
+
+#. i18n: ectx: property (text), widget (QLabel, descriptionLabel)
+#: part/jobtracker.ui:44
+#, kde-format
+msgid "<b>Job Description</b>"
+msgstr "<b>Mô tả công việc</b>"
+
+#. i18n: ectx: property (text), widget (QLabel, informationLabel)
+#: part/jobtracker.ui:63
+#, kde-format
+msgid "Some Information about the job"
+msgstr "Một số thông tin về công việc"
+
+#. i18n: ectx: property (format), widget (QProgressBar, progressBar)
+#: part/jobtracker.ui:88
+#, no-c-format, kde-format
+msgid "%p%"
+msgstr "%p%"
+
+#: part/overwritedialog.cpp:26
+#, kde-format
+msgid ""
+"Files with the following paths already exist. Remove them if you really want "
+"to overwrite."
+msgstr ""
+"Các tệp với đường dẫn sau đã tồn tại. Xoá chúng nếu bạn thực sự muốn ghi "
+"đè."
+
+#: part/overwritedialog.cpp:28
+#, kde-format
+msgid ""
+"Files with the following paths already exist. Do you want to continue "
+"overwriting them?"
+msgstr ""
+"Các tệp với đường dẫn sau đã tồn tại. Bạn có muốn tiếp tục ghi đè lên chúng "
+"không?"
+
+#: part/part.cpp:112
+#, kde-format
+msgid "Comment"
+msgstr "Chú thích"
+
+#: part/part.cpp:125
+#, kde-format
+msgid "Comment has been modified."
+msgstr "Chú thích đã được sửa đổi."
+
+#: part/part.cpp:130
+#, kde-format
+msgid "Save"
+msgstr "Lưu"
+
+#: part/part.cpp:153
+#, kde-format
+msgid "Type to search..."
+msgstr "Gõ để tìm kiếm..."
+
+#: part/part.cpp:303
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Ark can extract archives to local destinations only."
+msgstr "Ark chỉ có thể giải nén tập tin lưu trữ vào các đích cục bộ."
+
+#: part/part.cpp:355
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Show Information Panel"
+msgstr "Hiện Bảng Thông Tin"
+
+#: part/part.cpp:361
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Save Copy As..."
+msgstr "Lưu bản sao thành..."
+
+#: part/part.cpp:365
+#, kde-format
+msgctxt "open a file with external program"
+msgid "&Open in External Application"
+msgstr "Mở bằ&ng Ứng dụng Ngoài"
+
+#: part/part.cpp:372
+#, kde-format
+msgctxt "open a file with external program"
+msgid "Open &With..."
+msgstr "Mở bằ&ng..."
+
+#: part/part.cpp:374
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Click to open the selected file with an external program"
+msgstr "Bấm để mở tệp đã chọn bằng chương trình bên ngoài"
+
+#: part/part.cpp:380
+#, kde-format
+msgctxt "to preview a file inside an archive"
+msgid "Pre&view"
+msgstr "&Xem thử"
+
+#: part/part.cpp:382
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Click to preview the selected file"
+msgstr "Bấm để xem thử tệp đã chọn"
+
+#: part/part.cpp:389
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "E&xtract All"
+msgstr "Giải nén &tất cả"
+
+#: part/part.cpp:391
+#, kde-format
+msgid ""
+"Click to open an extraction dialog, where you can choose how to extract all "
+"the files in the archive"
+msgstr ""
+"Bấm để mở hộp thoại giải nén, nơi bạn có thể chọn cách giải nén tất cả các "
+"tệp trong kho trữ"
+
+#: part/part.cpp:396
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Extract"
+msgstr "&Giải nén"
+
+#: part/part.cpp:399
+#, kde-format
+msgid ""
+"Click to open an extraction dialog, where you can choose to extract either "
+"all files or just the selected ones"
+msgstr ""
+"Bấm để mở hộp thoại giải nén, nơi bạn có thể chọn giải nén tất cả tệp hoặc "
+"chỉ những tệp đã chọn"
+
+#: part/part.cpp:404
+#, kde-format
+msgid "Add &Files..."
+msgstr "T&hêm tập tin..."
+
+#: part/part.cpp:405 part/part.cpp:466
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Click to add files to the archive"
+msgstr "Bấm để thêm tệp vào kho trữ"
+
+#: part/part.cpp:412
+#, kde-format
+msgctxt "@action"
+msgid "Remove from Archive"
+msgstr "Xoá khỏi kho trữ"
+
+#: part/part.cpp:422
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Properties"
+msgstr "T&huộc tính"
+
+#: part/part.cpp:424
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Click to see properties for archive"
+msgstr "Bấm để xem thuộc tính của kho trữ"
+
+#: part/part.cpp:430
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Click to add or edit comment"
+msgstr "Bấm để thêm hoặc sửa chú thích"
+
+#: part/part.cpp:435
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Test Integrity"
+msgstr "Kiểm t&hử tính toàn vẹn"
+
+#: part/part.cpp:437 part/part.cpp:467
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Click to test the archive for integrity"
+msgstr "Bấm để kiểm thử tính toàn vẹn của kho trữ"
+
+#: part/part.cpp:462
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid ""
+"Adding files to existing password-protected archives with no header-"
+"encryption is currently not supported.<nl/><nl/>Extract the files and create "
+"a new archive if you want to add files."
+msgstr ""
+"Hiện không hỗ trợ thêm tệp vào kho trữ có mật khẩu nhưng không mã hóa phần "
+"đầu.<nl/><nl/>Hãy giải nén các tệp và tạo kho trữ mới nếu bạn muốn thêm "
+"tệp."
+
+#: part/part.cpp:464
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid ""
+"Testing password-protected archives with no header-encryption is currently "
+"not supported."
+msgstr ""
+"Hiện không hỗ trợ kiểm tra các tệp nén được bảo vệ bằng mật khẩu mà không "
+"có mã hóa tiêu đề."
+
+#: part/part.cpp:505
+#, kde-format
+msgctxt "@action:inmenu mutually exclusive with Add &Comment"
+msgid "Edit &Comment"
+msgstr "Sửa c&hú thích"
+
+#: part/part.cpp:506 part/part.cpp:512
+#, kde-format
+msgctxt "@action:inmenu mutually exclusive with Edit &Comment"
+msgid "Add &Comment"
+msgstr "Thêm &chú thích"
+
+#: part/part.cpp:612
+#, kde-format
+msgid "The archive passed the integrity test."
+msgstr "Kho trữ đã vượt qua kiểm tra tính toàn vẹn."
+
+#: part/part.cpp:612 part/part.cpp:614
+#, kde-format
+msgid "Test Results"
+msgstr "Kết quả kiểm thử"
+
+#: part/part.cpp:614
+#, kde-format
+msgid "The archive failed the integrity test."
+msgstr "Kho trữ không vượt qua kiểm tra tính toàn vẹn."
+
+#: part/part.cpp:634
+#, kde-format
+msgid "Extract To..."
+msgstr "Trích xuất đến..."
+
+#: part/part.cpp:646
+#, kde-format
+msgid "Quick Extract To..."
+msgstr "Trích xuất nhanh vào..."
+
+#: part/part.cpp:775
+#, kde-format
+msgctxt "@title:tab"
+msgid "General"
+msgstr "Chung"
+
+#: part/part.cpp:776
+#, kde-format
+msgctxt "@title:tab"
+msgid "Extraction"
+msgstr "Giải nén"
+
+#: part/part.cpp:777
+#, kde-format
+msgctxt "@title:tab"
+msgid "Plugins"
+msgstr "Phần bổ trợ"
+
+#: part/part.cpp:778
+#, kde-format
+msgctxt "@title:tab"
+msgid "Previews"
+msgstr "Xem thử"
+
+#: part/part.cpp:794
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<filename>%1</filename> is a directory."
+msgstr "<filename>%1</filename> là một thư mục."
+
+#: part/part.cpp:802
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Could not overwrite <filename>%1</filename>. Check whether you have write "
+"permission."
+msgstr ""
+"Không ghi đè được <filename>%1</filename>. Kiểm tra xem bạn có quyền ghi "
+"không."
+
+#: part/part.cpp:808
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The archive <filename>%1</filename> will be created as soon as you add a "
+"file."
+msgstr "Kho trữ <filename>%1</filename> sẽ được tạo ngay khi bạn thêm một tập tin."
+
+#: part/part.cpp:811
+#, kde-kuit-format
+msgctxt "@info"
+msgid "The archive <filename>%1</filename> was not found."
+msgstr "Không tìm thấy kho trữ <filename>%1</filename>."
+
+#: part/part.cpp:817
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The archive <filename>%1</filename> could not be loaded, as it was not "
+"possible to read from it."
+msgstr "Không thể tải kho trữ <filename>%1</filename>, vì không thể đọc từ nó được."
+
+#: part/part.cpp:830
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The archive <filename>%1</filename> already exists. Do you wish to overwrite "
+"it?"
+msgstr "Kho trữ <filename>%1</filename> đã tồn tại. Bạn có muốn ghi đè lên không?"
+
+#: part/part.cpp:831
+#, kde-format
+msgctxt "@title:window"
+msgid "File Exists"
+msgstr "Tệp Đã Tồn Tại"
+
+#: part/part.cpp:868
+#, kde-kuit-format
+msgctxt "@info"
+msgid "The archive is empty or Ark could not open its content."
+msgstr "Kho trữ trống hoặc Ark không mở được nội dung."
+
+#: part/part.cpp:875
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Ark does not currently support ISO files with UDF filesystem."
+msgstr "Ark hiện không hỗ trợ tệp ISO với hệ thống tệp UDF."
+
+#: part/part.cpp:907
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Loading the archive <filename>%1</filename> failed with the following error:"
+"<nl/><message>%2</message>"
+msgstr ""
+"Tải kho trữ <filename>%1</filename> thất bại với lỗi "
+"sau:<nl/><message>%2</message>"
+
+#: part/part.cpp:967
+#, kde-format
+msgid "Ark cannot open symlinks."
+msgstr "Ark không thể mở các liên kết tượng trưng."
+
+#: part/part.cpp:1094
+#, kde-kuit-format
+msgid ""
+"The file <filename>%1</filename> was modified. Do you want to update the "
+"archive?"
+msgstr ""
+"Tệp <filename>%1</filename> đã được sửa đổi. Bạn có muốn cập nhật kho lưu "
+"trữ không?"
+
+#: part/part.cpp:1095
+#, kde-format
+msgctxt "@title:window"
+msgid "File Modified"
+msgstr "Tệp Đã Chỉnh Sửa"
+
+#: part/part.cpp:1096
+#, kde-format
+msgctxt "@action:button"
+msgid "Update"
+msgstr "Cập nhật"
+
+#: part/part.cpp:1097
+#, kde-format
+msgctxt "@action:button"
+msgid "Ignore"
+msgstr "Bỏ qua"
+
+#: part/part.cpp:1370
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Files"
+msgstr "Thêm tệp"
+
+#: part/part.cpp:1375
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Files to %1"
+msgstr "Thêm tệp vào %1"
+
+#: part/part.cpp:1435
+#, kde-format
+msgid "Filename can't contain slashes and can't be equal to \".\" or \"..\""
+msgstr ""
+"Tên tập tin không được chứa dấu gạch chéo và không được là \".\" hoặc "
+"\"..\""
+
+#: part/part.cpp:1479
+#, kde-format
+msgid "Folders can't be moved into themselves."
+msgstr "Không thể di chuyển thư mục vào chính nó."
+
+#: part/part.cpp:1479
+#, kde-format
+msgid "Moving a folder into itself"
+msgstr "Di chuyển thư mục vào chính nó"
+
+#: part/part.cpp:1507
+#, kde-format
+msgid "Entries with the same names can't be pasted to the same destination."
+msgstr "Không thể dán các mục có cùng tên vào cùng một đích."
+
+#: part/part.cpp:1606
+#, kde-format
+msgctxt "@info"
+msgid "Deleting this file is not undoable. Are you sure you want to do this?"
+msgid_plural ""
+"Deleting these files is not undoable. Are you sure you want to do this?"
+msgstr[0] "Xóa các tệp này không thể hoàn tác. Bạn có chắc chắn muốn thực hiện không?"
+
+#: part/part.cpp:1609
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete File"
+msgid_plural "Delete Files"
+msgstr[0] "Xóa Tệp"
+
+#: part/part.cpp:1648
+#, kde-format
+msgctxt "@title:window"
+msgid "Save Copy As"
+msgstr "Lưu bản sao thành"
+
+#: part/part.cpp:1663
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The archive could not be saved as <filename>%1</filename>. Try saving it to "
+"another location."
+msgstr ""
+"Không thể lưu kho trữ thành <filename>%1</filename>. Hãy thử lưu vào vị trí "
+"khác."
+
+#: part/part.cpp:1668
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The archive <filename>%1</filename> does not exist anymore, therefore it "
+"cannot be copied to the specified location."
+msgstr ""
+"Kho trữ <filename>%1</filename> không còn tồn tại nữa, do đó không thể sao "
+"chép nó đến vị trí đã chỉ định."
+
+#: plugins/cli7zplugin/cliplugin.cpp:132 plugins/cliunarchiverplugin/cliplugin.cpp:87
+#, kde-format
+msgid "Listing the archive failed."
+msgstr "Liệt kê kho trữ thất bại."
+
+#: plugins/cli7zplugin/cliplugin.cpp:303
+#, kde-format
+msgid "Extraction failed due to an unknown error."
+msgstr "Giải nén thất bại do lỗi không rõ."
+
+#: plugins/cli7zplugin/cliplugin.cpp:308 plugins/clizipplugin/cliplugin.cpp:191
+#, kde-format
+msgid ""
+"Extraction failed due to one or more corrupt files. Any extracted files may "
+"be damaged."
+msgstr ""
+"Giải nén thất bại do một hoặc nhiều tệp bị hỏng. Các tệp đã giải nén có thể "
+"bị lỗi."
+
+#: plugins/cli7zplugin/cliplugin.cpp:318
+#, kde-format
+msgid ""
+"Delete operation failed. Try upgrading 7z or disabling the 7z plugin in the "
+"configuration dialog."
+msgstr ""
+"Thao tác xóa thất bại. Hãy thử nâng cấp 7z hoặc vô hiệu hóa phần cài cắm 7z "
+"trong hộp thoại cấu hình."
+
+#: plugins/cliarjplugin/cliplugin.cpp:321
+#, kde-format
+msgid "ARJ old"
+msgstr "ARJ cũ"
+
+#: plugins/cliarjplugin/cliplugin.cpp:322
+#, kde-format
+msgid "ARJ"
+msgstr "ARJ"
+
+#: plugins/cliarjplugin/cliplugin.cpp:323
+#, kde-format
+msgid "GOST256"
+msgstr "GOST256"
+
+#: plugins/cliarjplugin/cliplugin.cpp:324
+#, kde-format
+msgid "GOST256L"
+msgstr "GOST256L"
+
+#: plugins/cliarjplugin/cliplugin.cpp:325
+#, kde-format
+msgid "GOST 40-bit"
+msgstr "GOST 40-bit"
+
+#: plugins/cliarjplugin/cliplugin.cpp:327
+#, kde-format
+msgid "unknown"
+msgstr "không rõ"
+
+#: plugins/clirarplugin/cliplugin.cpp:153
+#: plugins/clirarplugin/cliplugin.cpp:293
+#: plugins/clirarplugin/cliplugin.cpp:540
+#, kde-format
+msgid "Failed to find all archive volumes."
+msgstr "Không tìm thấy tất cả các phần của kho trữ."
+
+#: plugins/clirarplugin/cliplugin.cpp:314
+#, kde-format
+msgid ""
+"Your unrar executable is version %1, which is too old to handle this "
+"archive. Please update to a more recent version."
+msgstr ""
+"Phiên bản %1 của tệp thực thi unrar quá cũ để xử lý kho lưu trữ này. Vui "
+"lòng cập nhật lên phiên bản mới hơn."
+
+#: plugins/clirarplugin/cliplugin.cpp:320
+#, kde-format
+msgid ""
+"Unrar reported a non-RAR archive. The installed unrar version (%1) is old. "
+"Try updating your unrar."
+msgstr ""
+"Unrar báo cáo tệp không phải RAR. Phiên bản unrar đã cài đặt (%1) đã cũ. "
+"Hãy thử cập nhật unrar."
+
+#: plugins/clirarplugin/cliplugin.cpp:535
+#, kde-format
+msgid "One or more wrong checksums"
+msgstr "Một hoặc nhiều giá trị tổng kiểm sai"
+
+#: plugins/cliunarchiverplugin/cliplugin.cpp:99
+#, kde-format
+msgid "Extraction failed."
+msgstr "Giải nén thất bại."
+
+#: plugins/cliunarchiverplugin/cliplugin.cpp:133
+#, kde-format
+msgid "Not enough memory for loading the archive."
+msgstr "Không đủ bộ nhớ để tải kho lưu trữ."
+
+#: plugins/cliunarchiverplugin/cliplugin.cpp:184
+#, kde-format
+msgid "Wrong password."
+msgstr "Sai mật khẩu."
+
+#: plugins/clizipplugin/cliplugin.cpp:181
+#, kde-format
+msgid "Extraction failed due to unsupported compression method (%1)."
+msgstr "Giải nén thất bại do phương thức nén không được hỗ trợ (%1)."
+
+#: plugins/clizipplugin/cliplugin.cpp:186
+#, kde-format
+msgid "Extraction failed due to unsupported encryption method."
+msgstr "Giải nén thất bại do phương thức mật mã hoá không được hỗ trợ."
+
+#: plugins/clizipplugin/cliplugin.cpp:315
+#, kde-format
+msgctxt "referred to compression method"
+msgid "unknown"
+msgstr "không rõ"
+
+#: plugins/libarchive/libarchiveplugin.cpp:123
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The archive may be corrupt or has header-encryption, which is currently not "
+"supported."
+msgstr "Kho trữ có thể bị hỏng hoặc có mã hóa tiêu đề, hiện chưa được hỗ trợ."
+
+#: plugins/libarchive/libarchiveplugin.cpp:475
+#, kde-format
+msgctxt "@info"
+msgid "Fatal error, extraction aborted."
+msgstr "Lỗi nghiêm trọng, hủy giải nén."
+
+#: plugins/libarchive/libarchiveplugin.cpp:501
+#, kde-format
+msgctxt "@info"
+msgid "Extraction of encrypted 7-zip entries is currently not supported."
+msgstr "Hiện không hỗ trợ giải nén các mục 7-zip đã mật mã hoá."
+
+#: plugins/libarchive/libarchiveplugin.cpp:515
+#, kde-format
+msgid "The archive reader could not be initialized."
+msgstr "Trình đọc kho trữ không khởi tạo được."
+
+#: plugins/libarchive/libarchiveplugin.cpp:537
+#, kde-format
+msgctxt "@info"
+msgid "Archive corrupted or insufficient permissions."
+msgstr "Kho trữ bị hỏng hoặc không đủ quyền truy cập."
+
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:217
+#, kde-format
+msgctxt "@info"
+msgid "Failed to create a temporary file for writing data."
+msgstr "Không thể tạo tệp tạm thời để ghi dữ liệu."
+
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:223
+#, kde-format
+msgid "The archive writer could not be initialized."
+msgstr "Trình tạo kho trữ không khởi tạo được."
+
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:240
+#, kde-format
+msgctxt "@info"
+msgid "Could not open the archive for writing entries."
+msgstr "Không mở được kho trữ để ghi các mục."
+
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:287
+#, kde-format
+msgid "The compression type '%1' is not supported by Ark."
+msgstr "Kiểu nén '%1' không được Ark hỗ trợ."
+
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:294
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:364
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:376
+#, kde-format
+msgctxt "@info"
+msgid "Could not set the compression method."
+msgstr "Không đặt được phương pháp nén."
+
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:399
+#, kde-format
+msgctxt "@info"
+msgid "Could not set the compression level."
+msgstr "Không đặt được mức độ nén."
+
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:516
+#, kde-format
+msgctxt "@info"
+msgid "Could not compress entry, operation aborted."
+msgstr "Không nén được mục, thao tác bị hủy bỏ."
+
+#: plugins/libarchive/readwritelibarchiveplugin.cpp:559
+#, kde-format
+msgctxt "@info Error in a message box"
+msgid "Could not compress entry."
+msgstr "Không nén được mục."
+
+#: plugins/libzipplugin/libzipplugin.cpp:198
+#: plugins/libzipplugin/libzipplugin.cpp:297
+#: plugins/libzipplugin/libzipplugin.cpp:589
+#: plugins/libzipplugin/libzipplugin.cpp:637
+#: plugins/libzipplugin/libzipplugin.cpp:1001
+#: plugins/libzipplugin/libzipplugin.cpp:1055
+#, kde-kuit-format
+msgid "Failed to open archive: %1"
+msgstr "Không thể mở tệp nén: %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:350
+#: plugins/libzipplugin/libzipplugin.cpp:621
+#: plugins/libzipplugin/libzipplugin.cpp:653
+#: plugins/libzipplugin/libzipplugin.cpp:1035
+#: plugins/libzipplugin/libzipplugin.cpp:1124
+#, kde-kuit-format
+msgid "Failed to write archive."
+msgstr "Ghi lưu trữ thất bại."
+
+#: plugins/libzipplugin/libzipplugin.cpp:399
+#: plugins/libzipplugin/libzipplugin.cpp:1091
+#, kde-kuit-format
+msgid "Failed to add entry: %1"
+msgstr "Thêm mục thất bại: %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:454
+#, kde-kuit-format
+msgid "Failed to set compression options for entry: %1"
+msgstr "Không thể đặt tùy chọn nén cho mục: %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:559
+#: plugins/libzipplugin/libzipplugin.cpp:935
+#: plugins/libzipplugin/libzipplugin.cpp:1100
+#, kde-kuit-format
+msgid "Failed to read metadata for entry: %1"
+msgstr "Không đọc được siêu dữ liệu cho mục: %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:602
+#: plugins/libzipplugin/libzipplugin.cpp:607
+#, kde-kuit-format
+msgid "Failed to delete entry: %1"
+msgstr "Xóa mục thất bại: %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:820
+#, kde-kuit-format
+msgid "Failed to create directory: %1"
+msgstr "Không thể tạo thư mục: %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:891
+#, kde-kuit-format
+msgid "Failed to open '%1':<nl/>%2"
+msgstr "Không thể mở '%1':<nl/>%2"
+
+#: plugins/libzipplugin/libzipplugin.cpp:899
+#, kde-kuit-format
+msgid "Failed to open file for writing: %1"
+msgstr "Không thể mở tệp để ghi: %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:912
+#, kde-kuit-format
+msgid "Failed to read data for entry: %1"
+msgstr "Không đọc được dữ liệu cho mục: %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:917
+#, kde-kuit-format
+msgid "Failed to write data for entry: %1"
+msgstr "Ghi dữ liệu cho mục nhập thất bại: %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:927
+#, kde-kuit-format
+msgid "Failed to locate entry: %1"
+msgstr "Không tìm thấy mục: %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:1014
+#: plugins/libzipplugin/libzipplugin.cpp:1020
+#, kde-kuit-format
+msgid "Failed to move entry: %1"
+msgstr "Không thể di chuyển mục: %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:1077
+#, kde-kuit-format
+msgid "Failed to copy entry: %1"
+msgstr "Không thể sao chép mục: %1"
+
+#: plugins/libzipplugin/libzipplugin.cpp:1107
+#, kde-kuit-format
+msgid "Failed to set metadata for entry: %1"
+msgstr "Không thể đặt siêu dữ liệu cho mục: %1"

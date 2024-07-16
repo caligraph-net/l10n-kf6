@@ -1,0 +1,107 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-03-18 00:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: app/ark_dndextract.json.cmake
+msgctxt "Name"
+msgid "Ark Extract Here"
+msgstr "Giải nén tại đây với Ark"
+
+#: app/compressfileitemaction.json
+msgctxt "Name"
+msgid "'Compress' service menu"
+msgstr "Trình đơn dịch vụ 'Nén'"
+
+#: app/extractfileitemaction.json
+msgctxt "Name"
+msgid "'Extract' service menu"
+msgstr "Trình đơn dịch vụ 'Giải nén'"
+
+#: part/ark_part.json.cmake
+msgctxt "Name"
+msgid "Archiver"
+msgstr "Trình lưu trữ"
+
+#: plugins/cli7zplugin/kerfuffle_cli7z.json.cmake
+msgctxt "Name"
+msgid "7z plugin"
+msgstr "Phần cài cắm 7z"
+
+#: plugins/cliarjplugin/kerfuffle_cliarj.json.cmake
+msgctxt "Name"
+msgid "ARJ plugin"
+msgstr "Phần cài cắm ARJ"
+
+#: plugins/clirarplugin/kerfuffle_clirar.json.cmake
+msgctxt "Name"
+msgid "RAR plugin"
+msgstr "Phần cài cắm RAR"
+
+#: plugins/cliunarchiverplugin/kerfuffle_cliunarchiver.json.cmake
+msgctxt "Name"
+msgid "The Unarchiver plugin"
+msgstr "Phần cài cắm The Unarchiver"
+
+#: plugins/clizipplugin/kerfuffle_clizip.json.cmake
+msgctxt "Name"
+msgid "Info-zip plugin"
+msgstr "Phần cài cắm Info-zip"
+
+#: plugins/libarchive/kerfuffle_libarchive.json.cmake
+msgctxt "Name"
+msgid "Libarchive plugin"
+msgstr "Phần cài cắm Libarchive"
+
+#: plugins/libarchive/kerfuffle_libarchive_readonly.json.cmake
+msgctxt "Name"
+msgid "Libarchive plugin (read-only formats)"
+msgstr "Phần cài cắm Libarchive (các định dạng chỉ đọc)"
+
+#: part/ark_part.json.cmake
+msgctxt "Description"
+msgid "Archive Handling Tool"
+msgstr "Công cụ Xử lý Kho trữ"
+
+#: plugins/cli7zplugin/kerfuffle_cli7z.json.cmake
+msgctxt "Description"
+msgid "Full support for the zip and 7z archive formats"
+msgstr "Hỗ trợ đầy đủ cho các định dạng kho trữ zip và 7z"
+
+#: plugins/cliarjplugin/kerfuffle_cliarj.json.cmake
+msgctxt "Description"
+msgid "Full support for the ARJ archive formats"
+msgstr "Hỗ trợ đầy đủ cho các định dạng kho trữ ARJ"
+
+#: plugins/clirarplugin/kerfuffle_clirar.json.cmake
+msgctxt "Description"
+msgid "Full support for the RAR archive format"
+msgstr "Hỗ trợ đầy đủ cho định dạng kho trữ RAR"
+
+#: plugins/cliunarchiverplugin/kerfuffle_cliunarchiver.json.cmake
+msgctxt "Description"
+msgid "Open and extract RAR and LHA archives"
+msgstr "Mở và giải nén các tập tin RAR và LHA"
+
+#: plugins/clizipplugin/kerfuffle_clizip.json.cmake
+msgctxt "Description"
+msgid "Legacy support for the zip archive format"
+msgstr "Hỗ trợ đời cũ cho định dạng kho trữ zip"
+
+#: plugins/libarchive/kerfuffle_libarchive.json.cmake
+msgctxt "Description"
+msgid "Full support for compressed TAR archives"
+msgstr "Hỗ trợ đầy đủ cho các tập tin nén TAR"
+
+#: plugins/libarchive/kerfuffle_libarchive_readonly.json.cmake
+msgctxt "Description"
+msgid "Open and extract DEB, RPM, ISO, AppImage, XAR, CAB, and EXE files"
+msgstr "Mở và giải nén các tệp DEB, RPM, ISO, AppImage, XAR, CAB và EXE"
