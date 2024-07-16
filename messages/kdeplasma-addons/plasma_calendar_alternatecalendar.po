@@ -41,17 +41,17 @@ msgctxt ""
 "@item:inlist See https://cldr.unicode.org/development/development-process/"
 "design-proposals/islamic-calendar-types for more details"
 msgid "Islamic Calendar (Astronomical)"
-msgstr ""
+msgstr "Lịch Hồi giáo (Thiên văn)"
 
 #: calendarsystem.h:66
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@item:inlist"
 #| msgid "The Islamic Civil Calendar"
 msgctxt ""
 "@item:inlist See https://cldr.unicode.org/development/development-process/"
 "design-proposals/islamic-calendar-types for more details"
 msgid "The Islamic Civil Calendar (Tabular)"
-msgstr "Lịch Hồi giáo"
+msgstr "Lịch Hồi giáo dân sự (Bảng)"
 
 #: calendarsystem.h:70
 #, kde-format
@@ -59,7 +59,7 @@ msgctxt ""
 "@item:inlist See https://cldr.unicode.org/development/development-process/"
 "design-proposals/islamic-calendar-types for more details"
 msgid "Islamic Calendar (Umm al-Qura)"
-msgstr ""
+msgstr "Lịch Hồi giáo (Umm al-Qura)"
 
 #: calendarsystem.h:74
 #, kde-format
@@ -77,7 +77,7 @@ msgstr "Lịch quốc gia Ấn Độ"
 #, kde-format
 msgctxt "@item:inlist"
 msgid "Hebrew Calendar"
-msgstr ""
+msgstr "Lịch Do Thái"
 
 #: config/qml/AlternateCalendarConfig.qml:39
 #, kde-format
@@ -92,6 +92,8 @@ msgid ""
 "This calendar is based on pure astronomical calculation. It doesn't consider "
 "any crescent visibility criteria."
 msgstr ""
+"Lịch này dựa trên tính toán thiên văn thuần túy. Nó không xét đến bất kỳ "
+"tiêu chí khả kiến trăng lưỡi liềm nào."
 
 #: config/qml/AlternateCalendarConfig.qml:68
 #, kde-format
@@ -111,17 +113,17 @@ msgctxt "@info:tooltip"
 msgid ""
 "A positive offset signifies a later date, while a negative offset signifies "
 "an earlier date."
-msgstr ""
+msgstr "Độ lệch dương biểu thị ngày sau, trong khi độ lệch âm biểu thị ngày trước."
 
 #: provider/hebrewcalendar.cpp:91
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@label %1 day %2 month name in India National Calendar %3 year"
 #| msgid "%1 %2, %3"
 msgctxt ""
 "%1 Day number %2 Translated month name in Hebrew/Jewish calendar %3 Year "
 "number %4 Full date in Hebrew"
 msgid "%1 %2, %3 (%4)"
-msgstr "%1 %2, %3"
+msgstr "%1 %2, %3 (%4)"
 
 #: provider/indiancalendar.cpp:70
 #, kde-format
@@ -130,14 +132,14 @@ msgid "%1 %2, %3"
 msgstr "%1 %2, %3"
 
 #: provider/islamiccalendar.cpp:130
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@label %1 day %2 month name in India National Calendar %3 year"
 #| msgid "%1 %2, %3"
 msgctxt ""
 "@label %1 Day number %2 Month name in Islamic Calendar %3 Year number %4 "
 "Islamic calendar date in Arabic"
 msgid "%1 %2, %3 (%4)"
-msgstr "%1 %2, %3"
+msgstr "%1 %2, %3 (%4)"
 
 #: provider/qtcalendar.cpp:55
 #, kde-format

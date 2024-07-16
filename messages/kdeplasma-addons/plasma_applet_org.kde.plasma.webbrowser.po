@@ -27,25 +27,25 @@ msgstr "Chung"
 #, kde-format
 msgctxt "@title"
 msgid "Appearance"
-msgstr ""
+msgstr "Diện mạo"
 
 #: package/contents/ui/ConfigAppearance.qml:33
 #, kde-format
 msgctxt "@title:group"
 msgid "Icon:"
-msgstr ""
+msgstr "Biểu tượng:"
 
 #: package/contents/ui/ConfigAppearance.qml:34
 #, kde-format
 msgctxt "@option:radio"
 msgid "Website's favicon"
-msgstr ""
+msgstr "Biểu tượng trang của trang web"
 
 #: package/contents/ui/ConfigAppearance.qml:57
 #, kde-format
 msgctxt "@action:button"
 msgid "Change Web Browser's icon"
-msgstr ""
+msgstr "Đổi biểu tượng trình duyệt web"
 
 #: package/contents/ui/ConfigAppearance.qml:58
 #, kde-format
@@ -54,56 +54,58 @@ msgid ""
 "Current icon is %1. Click to open menu to change the current icon or reset "
 "to the default icon."
 msgstr ""
+"Biểu tượng hiện tại là %1. Bấm để mở trình đơn thay đổi biểu tượng hoặc đặt "
+"lại về biểu tượng mặc định."
 
 #: package/contents/ui/ConfigAppearance.qml:62
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Icon name is \"%1\""
-msgstr ""
+msgstr "Tên biểu tượng là \"%1\""
 
 #: package/contents/ui/ConfigAppearance.qml:97
 #, kde-format
 msgctxt "@item:inmenu Open icon chooser dialog"
 msgid "Choose…"
-msgstr ""
+msgstr "Chọn…"
 
 #: package/contents/ui/ConfigAppearance.qml:99
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "Choose an icon for Web Browser"
-msgstr ""
+msgstr "Chọn biểu tượng cho Trình duyệt Web"
 
 #: package/contents/ui/ConfigAppearance.qml:103
 #, kde-format
 msgctxt "@item:inmenu Reset icon to default"
 msgid "Reset to default icon"
-msgstr ""
+msgstr "Đặt lại biểu tượng mặc định"
 
 #: package/contents/ui/ConfigAppearance.qml:118
 #, kde-format
 msgctxt "@option:check"
 msgid "Display Navigation Bar"
-msgstr ""
+msgstr "Hiển thị thanh điều hướng"
 
 #: package/contents/ui/ConfigGeneral.qml:21
 #, kde-format
 msgctxt "@option:radio"
 msgid "Load last-visited page"
-msgstr ""
+msgstr "Tải trang đã truy cập cuối cùng"
 
 #: package/contents/ui/ConfigGeneral.qml:25
 #, kde-format
 msgctxt "@title:group"
 msgid "On startup:"
-msgstr ""
+msgstr "Khi khởi động:"
 
 #: package/contents/ui/ConfigGeneral.qml:32
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@action:button"
 #| msgid "Reload This Page"
 msgctxt "@option:radio"
 msgid "Always load this page:"
-msgstr "Tải lại trang này"
+msgstr "Luôn tải trang này:"
 
 #: package/contents/ui/ConfigGeneral.qml:64 package/contents/ui/main.qml:106
 #, kde-format
@@ -145,14 +147,14 @@ msgstr "Đi tiến"
 #, kde-format
 msgctxt "@action:button"
 msgid "Go Home"
-msgstr ""
+msgstr "Về Trang chủ"
 
 #: package/contents/ui/main.qml:87
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@info"
 #| msgid "Type a URL"
 msgid "Open Default URL"
-msgstr "Nhập URL"
+msgstr "Mở URL Mặc định"
 
 #: package/contents/ui/main.qml:142
 #, kde-format

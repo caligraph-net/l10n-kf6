@@ -296,21 +296,23 @@ msgid ""
 "outage at the weather station provider has made it temporarily unavailable. "
 "Try again later."
 msgstr ""
+"Nếu bạn đã sử dụng trạm thời tiết này trước đây, có thể sự cố máy chủ ở nhà "
+"cung cấp đã làm nó tạm thời không khả dụng. Hãy thử lại sau."
 
 #: package/contents/ui/ForecastView.qml:77
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "certain weather condition (probability percentage)"
 #| msgid "%1 (%2 %)"
 msgctxt "certain weather condition (probability percentage)"
 msgid "%1 (%2%)"
-msgstr "%1 (%2 %)"
+msgstr "%1 (%2%)"
 
 #. i18n: \ufe0e forces the text representation of the umbrella emoji
 #: package/contents/ui/ForecastView.qml:90
 #, kde-format
 msgctxt "Probability of precipitation in percentage"
 msgid "︎☂%1%"
-msgstr ""
+msgstr "︎☂%1%"
 
 #: package/contents/ui/ForecastView.qml:98
 #: package/contents/ui/ForecastView.qml:106
@@ -332,7 +334,7 @@ msgstr "Đặt địa điểm…"
 #: package/contents/ui/FullRepresentation.qml:55
 #, kde-format
 msgid "Unable to retrieve weather information for %1"
-msgstr ""
+msgstr "Không thể lấy thông tin thời tiết cho %1"
 
 #: package/contents/ui/FullRepresentation.qml:57
 #, kde-format
@@ -341,6 +343,8 @@ msgid ""
 "The network request timed out, possibly due to a server outage at the "
 "weather station provider. Check again later."
 msgstr ""
+"Yêu cầu mạng đã hết thời gian, có thể do máy chủ của nhà cung cấp trạm thời "
+"tiết gặp sự cố. Hãy kiểm tra lại sau."
 
 #: package/contents/ui/main.qml:95
 #, kde-format
@@ -472,13 +476,13 @@ msgstr "Độ ẩm: %1"
 #, kde-format
 msgctxt "@action:button"
 msgid "Show more information"
-msgstr ""
+msgstr "Hiển thị thêm thông tin"
 
 #: package/contents/ui/SwitchPanel.qml:29
 #, kde-format
 msgctxt "@title:tab Weather forecast"
 msgid "Forecast"
-msgstr ""
+msgstr "Dự báo"
 
 #: package/contents/ui/SwitchPanel.qml:35
 #, kde-format
@@ -487,7 +491,7 @@ msgid "Details"
 msgstr "Chi tiết"
 
 #: package/contents/ui/SwitchPanel.qml:42
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@title:tab"
 #| msgid "Notices"
 msgctxt ""
@@ -495,13 +499,13 @@ msgctxt ""
 "watches, ...) issued"
 msgid "%1 Notice"
 msgid_plural "%1 Notices"
-msgstr[0] "Thông cáo"
+msgstr[0] "%1 Thông báo"
 
 #: package/contents/ui/SwitchPanel.qml:114
 #, kde-format
 msgctxt "@info:placeholder"
 msgid "Unable to load weather forecast"
-msgstr ""
+msgstr "Không thể tải dự báo thời tiết"
 
 #: package/contents/ui/SwitchPanel.qml:116
 #, kde-format
@@ -510,6 +514,8 @@ msgid ""
 "There may be a technical issue with the weather provider. If the issue "
 "persists for longer than a day, submit a bug report."
 msgstr ""
+"Có thể có vấn đề kỹ thuật với nhà cung cấp thông tin thời tiết. Nếu vấn đề "
+"kéo dài hơn một ngày, hãy gửi báo cáo lỗi."
 
 #: plugin/locationlistmodel.cpp:41
 #, kde-format
