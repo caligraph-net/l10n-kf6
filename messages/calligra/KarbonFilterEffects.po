@@ -1,0 +1,306 @@
+# POT_PART_NORMAL only
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the calligra package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: calligra\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-04-29 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: BlendEffect.cpp:18 BlendEffectFactory.cpp:14
+#, kde-format
+msgid "Blend"
+msgstr "Pha trộn"
+
+#: BlendEffectConfigWidget.cpp:23
+#, kde-format
+msgid "Blend mode"
+msgstr "Chế độ pha trộn"
+
+#: BlendEffectConfigWidget.cpp:25
+#, kde-format
+msgid "Normal"
+msgstr "Bình thường"
+
+#: BlendEffectConfigWidget.cpp:26
+#, kde-format
+msgid "Multiply"
+msgstr "Nhân"
+
+#: BlendEffectConfigWidget.cpp:27
+#, kde-format
+msgid "Screen"
+msgstr "Màn hình"
+
+#: BlendEffectConfigWidget.cpp:28
+#, kde-format
+msgid "Darken"
+msgstr "Làm tối"
+
+#: BlendEffectConfigWidget.cpp:29
+#, kde-format
+msgid "Lighten"
+msgstr "Làm sáng"
+
+#: BlurEffect.cpp:257 BlurEffectFactory.cpp:14
+#, kde-format
+msgid "Gaussian blur"
+msgstr "Làm mờ Gaussian"
+
+#: BlurEffectConfigWidget.cpp:23
+#, kde-format
+msgid "Radius"
+msgstr "Bán kính"
+
+#: ColorMatrixEffect.cpp:22
+#, kde-format
+msgid "Color Matrix"
+msgstr "Ma Trận Màu"
+
+#: ColorMatrixEffectConfigWidget.cpp:29
+#, kde-format
+msgid "Apply color matrix"
+msgstr "Áp dụng ma trận màu"
+
+#: ColorMatrixEffectConfigWidget.cpp:30
+#, kde-format
+msgid "Saturate colors"
+msgstr "Bão hòa màu sắc"
+
+#: ColorMatrixEffectConfigWidget.cpp:31
+#, kde-format
+msgid "Rotate hue"
+msgstr "Xoay sắc độ"
+
+#: ColorMatrixEffectConfigWidget.cpp:32
+#, kde-format
+msgid "Luminance to alpha"
+msgstr "Độ sáng thành độ trong suốt"
+
+#: ColorMatrixEffectConfigWidget.cpp:51
+#, kde-format
+msgid "Saturate value"
+msgstr "Giá trị bão hòa"
+
+#: ColorMatrixEffectConfigWidget.cpp:62
+#, kde-format
+msgid "Angle"
+msgstr "Góc"
+
+#: ColorMatrixEffectFactory.cpp:14
+#, kde-format
+msgid "Color matrix"
+msgstr "Ma trận màu"
+
+#: ComponentTransferEffect.cpp:18 ComponentTransferEffectFactory.cpp:14
+#, kde-format
+msgid "Component transfer"
+msgstr "Truyền thành phần"
+
+#: ComponentTransferEffectConfigWidget.cpp:46
+#, kde-format
+msgid "Function"
+msgstr "Chức năng"
+
+#: ComponentTransferEffectConfigWidget.cpp:48
+#, kde-format
+msgid "Identity"
+msgstr "Danh tính"
+
+#: ComponentTransferEffectConfigWidget.cpp:49
+#, kde-format
+msgid "Table"
+msgstr "Bảng"
+
+#: ComponentTransferEffectConfigWidget.cpp:50
+#, kde-format
+msgid "Discrete"
+msgstr "Rời rạc"
+
+#: ComponentTransferEffectConfigWidget.cpp:51
+#, kde-format
+msgid "Linear"
+msgstr "Tuyến tính"
+
+#: ComponentTransferEffectConfigWidget.cpp:52
+#, kde-format
+msgid "Gamma"
+msgstr "Gamma"
+
+#: ComponentTransferEffectConfigWidget.cpp:65
+#: ComponentTransferEffectConfigWidget.cpp:75
+#, kde-format
+msgid "Values"
+msgstr "Giá trị"
+
+#: ComponentTransferEffectConfigWidget.cpp:85
+#, kde-format
+msgid "Slope"
+msgstr "Độ dốc"
+
+#: ComponentTransferEffectConfigWidget.cpp:90
+#, kde-format
+msgid "Intercept"
+msgstr "Chặn"
+
+#: ComponentTransferEffectConfigWidget.cpp:102
+#, kde-format
+msgid "Amplitude"
+msgstr "Biên độ"
+
+#: ComponentTransferEffectConfigWidget.cpp:107
+#, kde-format
+msgid "Exponent"
+msgstr "Số mũ"
+
+#: ComponentTransferEffectConfigWidget.cpp:112
+#: OffsetEffect.cpp:17 OffsetEffectFactory.cpp:13
+#, kde-format
+msgid "Offset"
+msgstr "Độ lệch"
+
+#: CompositeEffect.cpp:19 CompositeEffectFactory.cpp:14
+#, kde-format
+msgid "Composite"
+msgstr "Tổng hợp"
+
+#: CompositeEffectConfigWidget.cpp:24
+#, kde-format
+msgid "Operation"
+msgstr "Thao tác"
+
+#: ConvolveMatrixEffect.cpp:22 ConvolveMatrixEffectFactory.cpp:14
+#, kde-format
+msgid "Convolve Matrix"
+msgstr "Ma Trận Tích Chập"
+
+#: ConvolveMatrixEffectConfigWidget.cpp:33
+#, kde-format
+msgid "Duplicate"
+msgstr "Nhân đôi"
+
+#: ConvolveMatrixEffectConfigWidget.cpp:34
+#, kde-format
+msgid "Wrap"
+msgstr "Bọc"
+
+#: ConvolveMatrixEffectConfigWidget.cpp:35
+#, kde-format
+msgid "None"
+msgstr "Không"
+
+#: ConvolveMatrixEffectConfigWidget.cpp:36
+#, kde-format
+msgid "Edge mode:"
+msgstr "Chế độ cạnh:"
+
+#: ConvolveMatrixEffectConfigWidget.cpp:43
+#, kde-format
+msgid "Kernel size:"
+msgstr "Kích thước nhân:"
+
+#: ConvolveMatrixEffectConfigWidget.cpp:52
+#, kde-format
+msgid "Target point:"
+msgstr "Điểm đích:"
+
+#: ConvolveMatrixEffectConfigWidget.cpp:59
+#, kde-format
+msgid "Divisor:"
+msgstr "Số chia:"
+
+#: ConvolveMatrixEffectConfigWidget.cpp:61
+#, kde-format
+msgid "Bias:"
+msgstr "Độ lệch:"
+
+#: ConvolveMatrixEffectConfigWidget.cpp:64
+#, kde-format
+msgid "Preserve alpha"
+msgstr "Giữ nguyên alpha"
+
+#: ConvolveMatrixEffectConfigWidget.cpp:67
+#, kde-format
+msgid "Edit kernel"
+msgstr "Sửa nhân"
+
+#: FloodEffect.cpp:16 FloodEffectFactory.cpp:14
+#, kde-format
+msgid "Flood fill"
+msgstr "Tô màu"
+
+#: FloodEffectConfigWidget.cpp:25
+#, kde-format
+msgid "Flood color"
+msgstr "Màu tràn"
+
+#: ImageEffect.cpp:24 ImageEffectFactory.cpp:13
+#, kde-format
+msgid "Image"
+msgstr "Ảnh"
+
+#: ImageEffectConfigWidget.cpp:28
+#, kde-format
+msgid "Select image..."
+msgstr "Bôi đen ảnh..."
+
+#: ImageEffectConfigWidget.cpp:55
+#, kde-format
+msgid "Select image"
+msgstr "Bôi đen ảnh"
+
+#: MergeEffect.cpp:16 MergeEffectFactory.cpp:14
+#, kde-format
+msgid "Merge"
+msgstr "Trộn"
+
+#: MorphologyEffect.cpp:19 MorphologyEffectFactory.cpp:14
+#, kde-format
+msgid "Morphology"
+msgstr "Hình thái học"
+
+#: MorphologyEffectConfigWidget.cpp:26
+#, kde-format
+msgid "Erode"
+msgstr "Xói mòn"
+
+#: MorphologyEffectConfigWidget.cpp:27
+#, kde-format
+msgid "Dilate"
+msgstr "Giãn"
+
+#: MorphologyEffectConfigWidget.cpp:30
+#, kde-format
+msgid "Operator:"
+msgstr "Toán tử:"
+
+#: MorphologyEffectConfigWidget.cpp:34
+#, kde-format
+msgid "Radius x:"
+msgstr "Bán kính x:"
+
+#: MorphologyEffectConfigWidget.cpp:40
+#, kde-format
+msgid "Radius y:"
+msgstr "Bán kính y:"
+
+#: OffsetEffectConfigWidget.cpp:23
+#, kde-format
+msgid "dx"
+msgstr "dx"
+
+#: OffsetEffectConfigWidget.cpp:29
+#, kde-format
+msgid "dy"
+msgstr "dy"

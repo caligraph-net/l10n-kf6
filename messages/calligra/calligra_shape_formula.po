@@ -1,0 +1,340 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the calligra package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: calligra\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-04-29 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Địa chỉ email của bạn"
+
+#: FormulaCommand.cpp:59
+msgctxt "(qtundo-format)"
+msgid "Add text to formula"
+msgstr "Thêm văn bản vào công thức"
+
+#: FormulaCommand.cpp:220
+msgctxt "(qtundo-format)"
+msgid "Change rows"
+msgstr "Thay đổi hàng"
+
+#: FormulaEditor.cpp:71
+msgctxt "(qtundo-format)"
+msgid "Add text"
+msgstr "Thêm văn bản"
+
+#: FormulaEditor.cpp:104
+msgctxt "(qtundo-format)"
+msgid "Insert row"
+msgstr "Chèn hàng"
+
+#: FormulaEditor.cpp:109
+msgctxt "(qtundo-format)"
+msgid "Remove row"
+msgstr "Xoá hàng"
+
+#: FormulaEditor.cpp:117
+msgctxt "(qtundo-format)"
+msgid "Insert column"
+msgstr "Chèn cột"
+
+#: FormulaEditor.cpp:122
+msgctxt "(qtundo-format)"
+msgid "Remove column"
+msgstr "Xoá cột"
+
+#: FormulaEditor.cpp:148
+msgctxt "(qtundo-format)"
+msgid "Insert formula elements."
+msgstr "Chèn các phần tử công thức."
+
+#: FormulaEditor.cpp:184
+msgctxt "(qtundo-format)"
+msgid "Remove formula elements"
+msgstr "Xoá các phần tử công thức"
+
+#: FormulaToolWidget.cpp:69
+#, kde-format
+msgid "Arrows"
+msgstr "Mũi tên"
+
+#: FormulaToolWidget.cpp:71
+#, kde-format
+msgid "Greek"
+msgstr "Hy Lạp"
+
+#: FormulaToolWidget.cpp:73
+#, kde-format
+msgid "Relations"
+msgstr "Quan hệ"
+
+#: FormulaToolWidget.cpp:77
+#, kde-format
+msgid "Operators"
+msgstr "Toán tử"
+
+#: FormulaToolWidget.cpp:80
+#, kde-format
+msgid "Miscellaneous"
+msgstr "Hỗn hợp"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab)
+#: FormulaToolWidget.ui:24
+#, kde-format
+msgid "Insert"
+msgstr "Chèn"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupElements)
+#: FormulaToolWidget.ui:36
+#, kde-format
+msgid "Elements"
+msgstr "Các phần tử"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupSymbols)
+#: FormulaToolWidget.ui:132
+#, kde-format
+msgid "Symbols"
+msgstr "Kí hiệu"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupActions)
+#: FormulaToolWidget.ui:228
+#, kde-format
+msgid "Actions"
+msgstr "Hành động"
+
+#. i18n: ectx: property (text), widget (QPushButton, buttonLoad)
+#: FormulaToolWidget.ui:279
+#, kde-format
+msgctxt "This button opens a file dialog to load a MathML file"
+msgid "Load..."
+msgstr "Tải..."
+
+#. i18n: ectx: property (text), widget (QPushButton, buttonSave)
+#: FormulaToolWidget.ui:286
+#, kde-format
+msgid "Save..."
+msgstr "Lưu..."
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_2)
+#: FormulaToolWidget.ui:294
+#, kde-format
+msgid "Edit"
+msgstr "Sửa"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupGeneralOptions)
+#: FormulaToolWidget.ui:300
+#, kde-format
+msgid "General options"
+msgstr "Tùy chọn chung"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: FormulaToolWidget.ui:325
+#, kde-format
+msgid "Font:"
+msgstr "Phông chữ:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelColors)
+#: FormulaToolWidget.ui:341
+#, kde-format
+msgid "Colors:"
+msgstr "Màu sắc:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupSpecificOptions)
+#: FormulaToolWidget.ui:349
+#, kde-format
+msgid "Specific options"
+msgstr "Tùy chọn cụ thể"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: FormulaToolWidget.ui:371
+#, kde-format
+msgid "Rows:"
+msgstr "Hàng:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: FormulaToolWidget.ui:378
+#, kde-format
+msgid "Columns:"
+msgstr "Cột:"
+
+#. i18n: ectx: property (text), widget (QPushButton, pushButton)
+#: FormulaToolWidget.ui:406
+#, kde-format
+msgid "View MathML"
+msgstr "Xem MathML"
+
+#: KoFormulaShape.cpp:200
+#, kde-format
+msgid ""
+"This document contains an external link to a remote document\n"
+"%1"
+msgstr "Tài liệu này chứa liên kết ngoài đến tài liệu từ xa\n%1"
+
+#: KoFormulaShape.cpp:201
+#, kde-format
+msgid "Confirmation Required"
+msgstr "Yêu cầu xác nhận"
+
+#: KoFormulaShape.cpp:202
+#, kde-format
+msgid "Download"
+msgstr "Tải về"
+
+#: KoFormulaShape.cpp:203
+#, kde-format
+msgid "Skip"
+msgstr "Bỏ qua"
+
+#: KoFormulaShapeFactory.cpp:20
+#, kde-format
+msgid "Formula"
+msgstr "Công thức"
+
+#: KoFormulaShapeFactory.cpp:22
+#, kde-format
+msgid "A formula"
+msgstr "Một công thức"
+
+#: KoFormulaTool.cpp:409
+#, kde-format
+msgid "Insert fenced element"
+msgstr "Chèn phần tử có rào chắn"
+
+#: KoFormulaTool.cpp:410
+#, kde-format
+msgid "Insert enclosed element"
+msgstr "Chèn phần tử được bao bọc"
+
+#: KoFormulaTool.cpp:412
+#, kde-format
+msgid "Insert root"
+msgstr "Chèn căn"
+
+#: KoFormulaTool.cpp:413
+#, kde-format
+msgid "Insert square root"
+msgstr "Chèn căn bậc hai"
+
+#: KoFormulaTool.cpp:415
+#, kde-format
+msgid "Insert fraction"
+msgstr "Chèn phân số"
+
+#: KoFormulaTool.cpp:416
+#, kde-format
+msgid "Insert bevelled fraction"
+msgstr "Chèn phân số vát"
+
+#: KoFormulaTool.cpp:421
+#, kde-format
+msgid "Insert 3x3 table"
+msgstr "Chèn bảng 3x3"
+
+#: KoFormulaTool.cpp:427
+#, kde-format
+msgid "Insert 2 dimensional vector"
+msgstr "Chèn vector hai chiều"
+
+#: KoFormulaTool.cpp:432
+#, kde-format
+msgid "Insert subscript"
+msgstr "Chèn chỉ số dưới"
+
+#: KoFormulaTool.cpp:433
+#, kde-format
+msgid "Insert superscript"
+msgstr "Chèn chỉ số trên"
+
+#: KoFormulaTool.cpp:434
+#, kde-format
+msgid "Insert sub- and superscript"
+msgstr "Chèn chỉ số dưới và chỉ số trên"
+
+#: KoFormulaTool.cpp:438
+#, kde-format
+msgid "Insert overscript"
+msgstr "Chèn chỉ số trên"
+
+#: KoFormulaTool.cpp:439
+#, kde-format
+msgid "Insert underscript"
+msgstr "Chèn chỉ số dưới"
+
+#: KoFormulaTool.cpp:440
+#, kde-format
+msgid "Insert under- and overscript"
+msgstr "Chèn chỉ số dưới và trên"
+
+#: KoFormulaTool.cpp:451
+#, kde-format
+msgid "Insert row"
+msgstr "Chèn hàng"
+
+#: KoFormulaTool.cpp:458
+#, kde-format
+msgid "Insert column"
+msgstr "Chèn cột"
+
+#: KoFormulaTool.cpp:465
+#, kde-format
+msgid "Remove row"
+msgstr "Xoá hàng"
+
+#: KoFormulaTool.cpp:472
+#, kde-format
+msgid "Remove column"
+msgstr "Xoá cột"
+
+#: KoFormulaToolFactory.cpp:17
+#, kde-format
+msgid "Formula editing"
+msgstr "Chỉnh sửa công thức"
+
+#: KoM2MMLForumulaTool.cpp:98
+#, kde-format
+msgid "Mode: "
+msgstr "Chế độ: "
+
+#: KoM2MMLForumulaTool.cpp:101
+#, kde-format
+msgid "LaTeX"
+msgstr "LaTeX"
+
+#: KoM2MMLForumulaTool.cpp:103
+#, kde-format
+msgid "Matlab"
+msgstr "Matlab"
+
+#: KoM2MMLForumulaTool.cpp:175
+#, kde-format
+msgid "Parse error."
+msgstr "Lỗi phân tách."
+
+#: KoM2MMLForumulaTool.cpp:204
+#, kde-format
+msgid "Edit formula with LaTeX/Matlab syntax"
+msgstr "Sửa công thức bằng cú pháp LaTeX/Matlab"
+
+#: KoM2MMLForumulaTool.cpp:206
+#, kde-format
+msgid "Edit formula with LaTeX syntax"
+msgstr "Sửa công thức bằng cú pháp LaTeX"

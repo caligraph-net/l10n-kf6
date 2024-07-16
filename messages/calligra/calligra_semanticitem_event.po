@@ -1,0 +1,110 @@
+# POT_PART_NORMAL only
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the calligra package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: calligra\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-04-29 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: KoEventSemanticItemFactory.cpp:31
+#, kde-format
+msgctxt "displayname of the semantic item type Event"
+msgid "Event"
+msgstr "Sự kiện"
+
+#: KoRdfCalendarEvent.cpp:147
+#, kde-format
+msgid "Area"
+msgstr "Khu vực"
+
+#: KoRdfCalendarEvent.cpp:148
+#, kde-format
+msgid "Region"
+msgstr "Vùng"
+
+#: KoRdfCalendarEvent.cpp:359
+#, kde-format
+msgid "Select a calendar for saving:"
+msgstr "Bôi đen một lịch để lưu:"
+
+#: KoRdfCalendarEvent.cpp:379
+#, kde-format
+msgid ""
+"Could not add entry\n"
+"%1"
+msgstr "Không thêm được mục\n%1"
+
+#: KoRdfCalendarEvent.cpp:402
+#, kde-format
+msgid ""
+"Could not save iCal file\n"
+"%1"
+msgstr "Không lưu được tập tin iCal\n%1"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: KoRdfCalendarEventEditWidget.ui:20
+#, kde-format
+msgid "&Summary:"
+msgstr "Tó&m tắt:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: KoRdfCalendarEventEditWidget.ui:30
+#, kde-format
+msgid "&Location:"
+msgstr "Đị&a điểm:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: KoRdfCalendarEventEditWidget.ui:43
+#, kde-format
+msgid "&Start:"
+msgstr "Bắt đầ&u:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: KoRdfCalendarEventEditWidget.ui:56
+#, kde-format
+msgid "&End:"
+msgstr "Kế&t thúc:"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tadtab)
+#: KoRdfCalendarEventEditWidget.ui:80
+#, kde-format
+msgid "Time and Date"
+msgstr "Thời gian và Ngày"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tztab)
+#: KoRdfCalendarEventEditWidget.ui:93
+#, kde-format
+msgid "Timezone"
+msgstr "Múi giờ"
+
+#: KoRdfCalendarEventTreeWidgetItem.cpp:29
+#, kde-format
+msgid "Calendar Event"
+msgstr "Sự kiện lịch"
+
+#: KoRdfCalendarEventTreeWidgetItem.cpp:36
+#, kde-format
+msgid "Edit..."
+msgstr "Chỉnh sửa..."
+
+#: KoRdfCalendarEventTreeWidgetItem.cpp:39
+#, kde-format
+msgid "Import event to Calendar"
+msgstr "Nhập khẩu sự kiện vào Lịch"
+
+#: KoRdfCalendarEventTreeWidgetItem.cpp:42
+#, kde-format
+msgid "Export event to iCal file..."
+msgstr "Xuất khẩu sự kiện sang tập tin iCal..."

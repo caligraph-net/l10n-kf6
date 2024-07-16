@@ -1,0 +1,408 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the calligra package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: calligra\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-04-29 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: CalligraphyTool/KarbonCalligraphicShapeFactory.cpp:15
+#, kde-format
+msgid "A calligraphic shape"
+msgstr "Hình dạng thư pháp"
+
+#: CalligraphyTool/KarbonCalligraphicShapeFactory.cpp:17
+#, kde-format
+msgid "Calligraphic Shape"
+msgstr "Hình Thư Pháp"
+
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:56
+#, kde-format
+msgid "Save profile as..."
+msgstr "Lưu hồ sơ thành..."
+
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:61
+#, kde-format
+msgid "Remove profile"
+msgstr "Xoá hồ sơ"
+
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:69
+#, kde-format
+msgid "&Follow selected path"
+msgstr "Theo đườ&ng dẫn đã chọn"
+
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:72
+#, kde-format
+msgid "Use tablet &pressure"
+msgstr "Dùn&g lực bấm bảng vẽ"
+
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:75
+#, kde-format
+msgid "Width:"
+msgstr "Độ rộng:"
+
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:83
+#, kde-format
+msgid "Thinning:"
+msgstr "Độ mảnh:"
+
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:92
+#, kde-format
+msgid "Use tablet &angle"
+msgstr "&Dùng góc máy tính bảng"
+
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:95
+#, kde-format
+msgid "Angle:"
+msgstr "Góc:"
+
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:104
+#, kde-format
+msgid "Fixation:"
+msgstr "Cố định:"
+
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:113
+#, kde-format
+msgid "Caps:"
+msgstr "Đầu bút:"
+
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:122
+#, kde-format
+msgid "Mass:"
+msgstr "Khối lượng:"
+
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:131
+#, kde-format
+msgid "Drag:"
+msgstr "Kéo:"
+
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:188
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:189
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:216
+#, kde-format
+msgid "Current"
+msgstr "Hiện tại"
+
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:207
+#, kde-format
+msgid "Profile name"
+msgstr "Tên hồ sơ"
+
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:208
+#, kde-format
+msgid "Please insert the name by which you want to save this profile:"
+msgstr "Vui lòng chèn tên bạn muốn lưu hồ sơ này:"
+
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:217
+#, kde-format
+msgctxt "invalid profile name"
+msgid "Invalid name."
+msgstr "Tên không hợp lệ."
+
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:217
+#, kde-format
+msgid "Sorry, the name you entered is invalid."
+msgstr "Xin lỗi, tên bạn đã nhập không hợp lệ."
+
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:225
+#, kde-format
+msgid ""
+"A profile with that name already exists.\n"
+"Do you want to overwrite it?"
+msgstr "Hồ sơ với tên này đã tồn tại.\nBạn có muốn ghi đè không?"
+
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:340
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:365
+#, kde-format
+msgid "Mouse"
+msgstr "Chuột"
+
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:353
+#, kde-format
+msgid "Graphics Pen"
+msgstr "Bút đồ họa"
+
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:332
+#, kde-format
+msgid "Fill"
+msgstr "Tô"
+
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:360
+#, kde-format
+msgid "Calligraphy: increase width"
+msgstr "Thư pháp: tăng độ rộng"
+
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:365
+#, kde-format
+msgid "Calligraphy: decrease width"
+msgstr "Thư pháp: giảm độ rộng"
+
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:370
+#, kde-format
+msgid "Calligraphy: increase angle"
+msgstr "Thư pháp: tăng góc"
+
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:375
+#, kde-format
+msgid "Calligraphy: decrease angle"
+msgstr "Thư pháp: giảm góc"
+
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:382
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:383
+#: CalligraphyTool/KarbonCalligraphyToolFactory.cpp:19
+#, kde-format
+msgid "Calligraphy"
+msgstr "Thư pháp"
+
+#: filterEffectTool/FilterAddCommand.cpp:21
+msgctxt "(qtundo-format)"
+msgid "Add filter effect"
+msgstr "Thêm hiệu ứng lọc"
+
+#: filterEffectTool/FilterEffectEditWidget.cpp:60
+#, kde-format
+msgid "Add effect to current filter stack"
+msgstr "Thêm hiệu ứng vào ngăn bộ lọc hiện tại"
+
+#: filterEffectTool/FilterEffectEditWidget.cpp:70
+#, kde-format
+msgid "Add to filter presets"
+msgstr "Thêm vào bộ lọc cài sẵn"
+
+#: filterEffectTool/FilterEffectEditWidget.cpp:74
+#, kde-format
+msgid "Remove filter preset"
+msgstr "Xoá cài đặt trước bộ lọc"
+
+#: filterEffectTool/FilterEffectEditWidget.cpp:335
+#, kde-format
+msgid "Effect name"
+msgstr "Tên hiệu ứng"
+
+#: filterEffectTool/FilterEffectEditWidget.cpp:335
+#, kde-format
+msgid "Please enter a name for the filter effect"
+msgstr "Vui lòng nhập tên cho hiệu ứng lọc"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, FilterEffectEditWidget)
+#: filterEffectTool/FilterEffectEditWidget.ui:32
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:320
+#, kde-format
+msgid "Filter Effect Editor"
+msgstr "Trình sửa hiệu ứng lọc"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: filterEffectTool/FilterEffectEditWidget.ui:40
+#, kde-format
+msgid "Effects and Connections"
+msgstr "Hiệu ứng và Kết nối"
+
+#. i18n: ectx: property (text), widget (QToolButton, removeEffect)
+#. i18n: ectx: property (text), widget (QToolButton, addEffect)
+#. i18n: ectx: property (text), widget (QToolButton, raiseEffect)
+#. i18n: ectx: property (text), widget (QToolButton, lowerEffect)
+#. i18n: ectx: property (text), widget (QToolButton, addPreset)
+#. i18n: ectx: property (text), widget (QToolButton, removePreset)
+#: filterEffectTool/FilterEffectEditWidget.ui:57
+#: filterEffectTool/FilterEffectEditWidget.ui:67
+#: filterEffectTool/FilterEffectEditWidget.ui:74
+#: filterEffectTool/FilterEffectEditWidget.ui:81
+#: filterEffectTool/FilterEffectEditWidget.ui:102
+#: filterEffectTool/FilterEffectEditWidget.ui:109
+#, kde-format
+msgid "..."
+msgstr "..."
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: filterEffectTool/FilterEffectEditWidget.ui:92
+#, kde-format
+msgid "Filter Presets"
+msgstr "Bộ lọc cài sẵn"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: filterEffectTool/FilterEffectEditWidget.ui:116
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:474
+#, kde-format
+msgid "Effect Properties"
+msgstr "Thuộc tính hiệu ứng"
+
+#: filterEffectTool/FilterRemoveCommand.cpp:23
+msgctxt "(qtundo-format)"
+msgid "Remove filter effect"
+msgstr "Xoá hiệu ứng lọc"
+
+#: filterEffectTool/FilterStackSetCommand.cpp:25
+msgctxt "(qtundo-format)"
+msgid "Set filter stack"
+msgstr "Đặt ngăn xếp bộ lọc"
+
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:439
+#, kde-format
+msgid "Effects"
+msgstr "Hiệu ứng"
+
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:447
+#, kde-format
+msgid "View and edit filter"
+msgstr "Xem và sửa bộ lọc"
+
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:453
+#, kde-format
+msgid "Remove filter from object"
+msgstr "Xoá bộ lọc khỏi đối tượng"
+
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:457
+#, kde-format
+msgid "Add Filter"
+msgstr "Thêm Bộ Lọc"
+
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:486
+#, kde-format
+msgid "X:"
+msgstr "X:"
+
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:492
+#, kde-format
+msgid "Y:"
+msgstr "Y:"
+
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:498
+#, kde-format
+msgid "W:"
+msgstr "R:"
+
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:504
+#, kde-format
+msgid "H:"
+msgstr "H:"
+
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:509
+#, kde-format
+msgid "Effect Region"
+msgstr "Vùng Hiệu Ứng"
+
+#: filterEffectTool/KarbonFilterEffectsToolFactory.cpp:16
+#, kde-format
+msgid "Filter effects editing"
+msgstr "Chỉnh sửa hiệu ứng lọc"
+
+#: KarbonGradientTool.cpp:199
+#, kde-format
+msgid "Drag to move gradient position."
+msgstr "Kéo để di chuyển vị trí dốc màu."
+
+#: KarbonGradientTool.cpp:208
+#, kde-format
+msgid "Drag to move color stop. Double click to remove color stop."
+msgstr "Kéo để di chuyển điểm màu. Bấm đúp để xoá điểm màu."
+
+#: KarbonGradientTool.cpp:210
+#, kde-format
+msgid "Drag to move color stop."
+msgstr "Kéo để di chuyển điểm màu."
+
+#: KarbonGradientTool.cpp:217
+#, kde-format
+msgid "Drag to move gradient position. Double click to insert color stop."
+msgstr "Kéo để di chuyển vị trí dốc màu. Bấm đúp để chèn điểm dừng màu."
+
+#: KarbonGradientTool.cpp:493
+#, kde-format
+msgid "Edit Gradient"
+msgstr "Sửa dốc màu"
+
+#: KarbonGradientTool.cpp:495
+#, kde-format
+msgid "Predefined Gradients"
+msgstr "Các dải màu định sẵn"
+
+#: KarbonGradientToolFactory.cpp:17
+#, kde-format
+msgid "Gradient editing"
+msgstr "Chỉnh sửa dốc màu"
+
+#: KarbonPatternOptionsWidget.cpp:22
+#, kde-format
+msgid "Original"
+msgstr "Gốc"
+
+#: KarbonPatternOptionsWidget.cpp:23
+#, kde-format
+msgid "Tiled"
+msgstr "Lát gạch"
+
+#: KarbonPatternOptionsWidget.cpp:24
+#, kde-format
+msgid "Stretched"
+msgstr "Kéo giãn"
+
+#: KarbonPatternOptionsWidget.cpp:26
+#, kde-format
+msgid "Top Left"
+msgstr "Trên Trái"
+
+#: KarbonPatternOptionsWidget.cpp:27
+#, kde-format
+msgid "Top"
+msgstr "Trên"
+
+#: KarbonPatternOptionsWidget.cpp:28
+#, kde-format
+msgid "Top Right"
+msgstr "Trên Phải"
+
+#: KarbonPatternOptionsWidget.cpp:29
+#, kde-format
+msgid "Left"
+msgstr "Trái"
+
+#: KarbonPatternOptionsWidget.cpp:30
+#, kde-format
+msgid "Center"
+msgstr "Giữa"
+
+#: KarbonPatternOptionsWidget.cpp:31
+#, kde-format
+msgid "Right"
+msgstr "Phải"
+
+#: KarbonPatternOptionsWidget.cpp:32
+#, kde-format
+msgid "Bottom Left"
+msgstr "Dưới trái"
+
+#: KarbonPatternOptionsWidget.cpp:33
+#, kde-format
+msgid "Bottom"
+msgstr "Dưới"
+
+#: KarbonPatternOptionsWidget.cpp:34
+#, kde-format
+msgid "Bottom Right"
+msgstr "Dưới Phải"
+
+#: KarbonPatternTool.cpp:272
+#, kde-format
+msgid "Pattern Options"
+msgstr "Tùy chọn dạng mẫu"
+
+#: KarbonPatternTool.cpp:274
+#, kde-format
+msgid "Patterns"
+msgstr "Mẫu"
+
+#: KarbonPatternToolFactory.cpp:17
+#, kde-format
+msgid "Pattern editing"
+msgstr "Chỉnh sửa dạng mẫu"

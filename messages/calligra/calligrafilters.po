@@ -87,10 +87,10 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: karbon/image/ImageExport.cpp:88
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "PNG Export Options"
 msgid "%1 Export Options"
-msgstr "Cấu hình Xuất PNG "
+msgstr "Tùy chọn Xuất khẩu %1"
 
 #: karbon/image/ImageExportOptionsWidget.cpp:48
 #, kde-format
@@ -105,10 +105,10 @@ msgstr "Trang:"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: karbon/image/ImageExportOptionsWidget.ui:34
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Custom size (in pixels):"
 msgid "Size in Pixels"
-msgstr "Cỡ tự chọn (đo bằng điểm ảnh):"
+msgstr "Kích thước theo điểm ảnh"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #. i18n: ectx: property (text), widget (QLabel, label_6)
@@ -116,22 +116,22 @@ msgstr "Cỡ tự chọn (đo bằng điểm ảnh):"
 #: karbon/image/ImageExportOptionsWidget.ui:78
 #, kde-format
 msgid "Image width:"
-msgstr ""
+msgstr "Chiều rộng ảnh:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #. i18n: ectx: property (text), widget (QLabel, label_7)
 #: karbon/image/ImageExportOptionsWidget.ui:53
 #: karbon/image/ImageExportOptionsWidget.ui:88
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Height:"
 msgid "Image height:"
-msgstr "Chiều cao:"
+msgstr "Chiều cao ảnh:"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
 #: karbon/image/ImageExportOptionsWidget.ui:69
 #, kde-format
 msgid "Size in Units"
-msgstr ""
+msgstr "Kích thước theo đơn vị"
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #: karbon/image/ImageExportOptionsWidget.ui:98
@@ -143,26 +143,26 @@ msgstr "Độ phân giải:"
 #: karbon/image/ImageExportOptionsWidget.ui:108
 #, kde-format
 msgid "Unit:"
-msgstr ""
+msgstr "Đơn vị:"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
 #: karbon/image/ImageExportOptionsWidget.ui:124
 #, kde-format
 msgid "Background Color"
-msgstr ""
+msgstr "Màu nền"
 
 #. i18n: ectx: property (text), widget (QLabel, labelColor)
 #: karbon/image/ImageExportOptionsWidget.ui:133
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Colorspace"
 msgid "Color"
-msgstr "Không gian màu"
+msgstr "Màu sắc"
 
 #. i18n: ectx: property (text), widget (QLabel, labelOpacity)
 #: karbon/image/ImageExportOptionsWidget.ui:143
 #, kde-format
 msgid "Opacity"
-msgstr ""
+msgstr "Độ mờ"
 
 #: libmsooxml/MsooXmlDocPropertiesReader.cpp:63
 #: libmsooxml/MsooXmlReader.cpp:164 libmsooxml/MsooXmlThemesReader.cpp:356
@@ -185,103 +185,103 @@ msgstr ""
 #: words/docx/import/DocxXmlSettingsReader.cpp:79
 #, kde-format
 msgid "Namespace \"%1\" not found"
-msgstr ""
+msgstr "Không tìm thấy không gian tên \"%1\""
 
 #: libmsooxml/MsooXmlImport.cpp:92
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Could not read from file."
 msgid "Could not open the requested file %1"
-msgstr "Không thể đọc từ tệp."
+msgstr "Không mở được tệp %1 đã yêu cầu"
 
 #: libmsooxml/MsooXmlImport.cpp:115
 #, kde-format
 msgid "Could not read ZIP directory of the requested file %1"
-msgstr ""
+msgstr "Không đọc được thư mục ZIP của tệp yêu cầu %1"
 
 #: libmsooxml/MsooXmlImport.cpp:327 libmsooxml/MsooXmlImport.cpp:446
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Passwords"
 msgid "Enter password"
-msgstr "Các mật khẩu"
+msgstr "Nhập mật khẩu"
 
 #: libmsooxml/MsooXmlImport.cpp:328 libmsooxml/MsooXmlImport.cpp:447
 #, kde-format
 msgid "This document is encrypted, please enter the password to decrypt it:"
-msgstr ""
+msgstr "Tài liệu này được mã hóa, vui lòng nhập mật khẩu để giải mật mã:"
 
 #: libmsooxml/MsooXmlImport.cpp:329 libmsooxml/MsooXmlImport.cpp:448
 #, kde-format
 msgid "Incorrect password, please enter the password to decrypt this document:"
-msgstr ""
+msgstr "Mật khẩu không đúng, vui lòng nhập mật khẩu để giải mật mã tài liệu này:"
 
 #: libmsooxml/MsooXmlImport.cpp:622
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Could not read from file."
 msgid "Could not find path for type %1"
-msgstr "Không thể đọc từ tệp."
+msgstr "Không tìm được đường dẫn cho kiểu %1"
 
 #: libmsooxml/MsooXmlReader.cpp:131
 #, kde-format
 msgid "%1 (line %2, column %3)"
-msgstr ""
+msgstr "%1 (dòng %2, cột %3)"
 
 #: libmsooxml/MsooXmlReader.cpp:132
 #, kde-format
 msgid "%1 (%2, line %3, column %4)"
-msgstr ""
+msgstr "%1 (dòng %3, cột %4, %2)"
 
 #: libmsooxml/MsooXmlReader.cpp:154
 #, kde-format
 msgid "Element \"%1\" not found"
-msgstr ""
+msgstr "Không tìm thấy phần tử \"%1\""
 
 #: libmsooxml/MsooXmlReader.cpp:159
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Footnote %1"
 msgid "Attribute \"%1\" not found"
-msgstr "Ghi chú cuối trang %1"
+msgstr "Không tìm thấy thuộc tính \"%1\""
 
 #: libmsooxml/MsooXmlReader.cpp:169
 #, kde-format
 msgid "Unexpected value \"%1\" of attribute \"%2\""
-msgstr ""
+msgstr "Giá trị bất ngờ \"%1\" của thuộc tính \"%2\""
 
 #: libmsooxml/MsooXmlReader.cpp:174
 #, kde-format
 msgid "Unexpected second occurrence of \"%1\" element"
-msgstr ""
+msgstr "Xuất hiện lần thứ hai bất ngờ của phần tử \"%1\""
 
 #: libmsooxml/MsooXmlReader.cpp:191 libmsooxml/MsooXmlReader.cpp:242
 #, kde-format
 msgid "Expected closing of element \"%1\""
-msgstr ""
+msgstr "Mong đợi đóng phần tử \"%1\""
 
 #: libmsooxml/MsooXmlReader.cpp:233
 #, kde-format
 msgid "None of expected elements found: %1"
-msgstr ""
+msgstr "Không tìm thấy phần tử nào trong số các phần tử dự kiến: %1"
 
 #: libmsooxml/MsooXmlRelationships.cpp:89
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Could not read from file."
 msgid "Could not find target for id \"%1\" in file \"%2\""
-msgstr "Không thể đọc từ tệp."
+msgstr "Không tìm thấy đích cho mã định danh \"%1\" trong tệp \"%2\""
 
 #: libmsooxml/MsooXmlRelationships.cpp:93
 #: libmsooxml/MsooXmlRelationships.cpp:112
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Could not read from file."
 msgid "Could not find relationships file \"%1\""
-msgstr "Không thể đọc từ tệp."
+msgstr "Không tìm được tệp quan hệ \"%1\""
 
 #: libmsooxml/MsooXmlRelationships.cpp:108
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Could not read from file."
 msgid "Could not find target for relationship \"%1\" in file \"%2\""
-msgstr "Không thể đọc từ tệp."
+msgstr "Không tìm được đích cho mối quan hệ \"%1\" trong tệp \"%2\""
 
 #: libmsooxml/MsooXmlUtils.cpp:165
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "An error has occurred while parsing the KWord file.\n"
 #| "At line: %1, column %2\n"
@@ -289,30 +289,30 @@ msgstr "Không thể đọc từ tệp."
 msgid ""
 "Parsing error in the main document at line %1, column %2.\n"
 "Error message: %3"
-msgstr "Lỗi xảy ra khi đọc tệp KWord. Trên dòng: %1, cột %2 Thông báo lỗi: %3"
+msgstr "Lỗi phân tích trong tài liệu chính tại dòng %1, cột %2.\nThông báo lỗi: %3"
 
 #: libmsooxml/MsooXmlUtils.cpp:212
 #, kde-format
 msgid "Entry '%1' not found."
-msgstr ""
+msgstr "Không tìm thấy mục '%1'."
 
 #: libmsooxml/MsooXmlUtils.cpp:218
 #, kde-format
 msgid "Entry '%1' is not a file."
-msgstr ""
+msgstr "Mục '%1' không phải là tệp."
 
 #: libmsooxml/MsooXmlUtils.cpp:294 libmsooxml/MsooXmlUtils.cpp:336
 #: libmsooxml/MsooXmlUtils.cpp:378
 #, kde-format
 msgid "Could not open entry \"%1\" for writing."
-msgstr ""
+msgstr "Không mở được mục \"%1\" để ghi."
 
 #: libmsooxml/MsooXmlUtils.cpp:308 libmsooxml/MsooXmlUtils.cpp:346
 #: libmsooxml/MsooXmlUtils.cpp:389
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Could not read from file."
 msgid "Could not write block"
-msgstr "Không thể đọc từ tệp."
+msgstr "Không ghi được khối"
 
 #: sheets/csv/csvexport.cc:253
 #, kde-format
@@ -327,27 +327,27 @@ msgstr "Bộ lọc CSV không thể mở tệp đầu vào - xin thông báo l�
 #. i18n: ectx: attribute (title), widget (QWidget, encodingPage)
 #. i18n: ectx: property (title), widget (QGroupBox, buttonGroupEndOfLine)
 #: sheets/csv/exportdialogui.ui:27 sheets/csv/exportdialogui.ui:33
-#, fuzzy, kde-format
+#, kde-format
 msgid "End of Line"
-msgstr "Kí tự xuống dòng"
+msgstr "Kết thúc dòng"
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioEndOfLineLF)
 #: sheets/csv/exportdialogui.ui:39
-#, fuzzy, kde-format
+#, kde-format
 msgid "&UNIX style (recommended; line feed only)"
-msgstr "Kiểu &UNIX (khuyên dùng, chỉ LF)"
+msgstr "Kiểu cách &UNIX (khuyên dùng; chỉ xuống dòng)"
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioEndOfLineCRLF)
 #: sheets/csv/exportdialogui.ui:49
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Windows style (carriage return and line feed)"
-msgstr "Kiểu &Windows (CR và LF)"
+msgstr "Kiểu cách &Windows (carriage return và line feed)"
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioEndOfLineCR)
 #: sheets/csv/exportdialogui.ui:59
-#, fuzzy, kde-format
+#, kde-format
 msgid "&MacOS style (carriage return only)"
-msgstr "Kiểu &MacOS (chỉ CR)"
+msgstr "Kiểu cách &MacOS (chỉ ký tự xuống dòng)"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab)
 #: sheets/csv/exportdialogui.ui:89
@@ -369,9 +369,9 @@ msgstr "Dòng Phân cách"
 
 #. i18n: ectx: property (text), widget (QLineEdit, m_sheetDelimiter)
 #: sheets/csv/exportdialogui.ui:124
-#, fuzzy, kde-format
+#, kde-format
 msgid "********<SHEETNAME>********"
-msgstr "********<TÊNTỜ>********"
+msgstr "********<SHEETNAME>********"
 
 #. i18n: ectx: property (text), widget (QLabel, TextLabel6)
 #: sheets/csv/exportdialogui.ui:137
@@ -418,9 +418,9 @@ msgstr "Tab"
 
 #. i18n: ectx: property (text), widget (QRadioButton, m_radioSpace)
 #: sheets/csv/exportdialogui.ui:209
-#, fuzzy, kde-format
+#, kde-format
 msgid "Space"
-msgstr "Khoảng trống"
+msgstr "Dấu cách"
 
 #. i18n: ectx: property (text), widget (QRadioButton, m_radioOther)
 #: sheets/csv/exportdialogui.ui:216
@@ -430,9 +430,9 @@ msgstr "Khác:"
 
 #. i18n: ectx: property (text), widget (QLabel, m_quotesLabel)
 #: sheets/csv/exportdialogui.ui:266
-#, fuzzy, kde-format
+#, kde-format
 msgid "Quotes:"
-msgstr "Dấu ngoặc:"
+msgstr "Dấu nháy:"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, m_comboQuote)
 #: sheets/csv/exportdialogui.ui:286
@@ -555,9 +555,9 @@ msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
 #: sheets/html/exportwidget.ui:125
-#, fuzzy, kde-format
+#, kde-format
 msgid "Layout"
-msgstr "Bố trí"
+msgstr "Bố cục"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, mUseBorders)
 #: sheets/html/exportwidget.ui:131
@@ -618,10 +618,10 @@ msgstr "Kiểu LaTeX"
 
 #. i18n: ectx: property (text), widget (QRadioButton, wordsStyleButton)
 #: sheets/latex/export/latexexportwidget.ui:45
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "KWord style"
 msgid "Words style"
-msgstr "Kiểu KWord"
+msgstr "Kiểu cách từ"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
 #: sheets/latex/export/latexexportwidget.ui:58
@@ -631,21 +631,20 @@ msgstr "Loại Tài liệu"
 
 #. i18n: ectx: property (toolTip), widget (QRadioButton, fullDocButton)
 #: sheets/latex/export/latexexportwidget.ui:64
-#, fuzzy, kde-format
+#, kde-format
 msgid "The document will be able to be compiled alone"
-msgstr "Tài liệu này có thể được biên dịch riêng"
+msgstr "Tài liệu có thể được biên dịch độc lập"
 
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, fullDocButton)
 #: sheets/latex/export/latexexportwidget.ui:67
-#, fuzzy, kde-format
+#, kde-format
 msgid ""
 "The document will be generated as a full latex document since all the "
 "include will be generated before the \\begin{document} and \\end{document} "
 "commands."
 msgstr ""
-"Tài liệu này sẽ được tạo ra dưới dạng một tài liệu LaTeX đầy đủ do tất cả "
-"các tài liệu cần bao gồm sẽ được tạo ra trước các lệnh \\begin{document} và "
-"\\end{document}."
+"Tài liệu sẽ được tạo dưới dạng tài liệu LaTeX đầy đủ vì mọi phần include sẽ "
+"được tạo trước lệnh \\begin{document} và \\end{document}."
 
 #. i18n: ectx: property (text), widget (QRadioButton, fullDocButton)
 #: sheets/latex/export/latexexportwidget.ui:70
@@ -657,23 +656,22 @@ msgstr "Tài liệu độc lập"
 #: sheets/latex/export/latexexportwidget.ui:80
 #, kde-format
 msgid "Do not generate either the latex header or the document environment"
-msgstr ""
+msgstr "Không tạo đầu tải latex hoặc môi trường tài liệu"
 
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, embededButton)
 #: sheets/latex/export/latexexportwidget.ui:83
-#, fuzzy, kde-format
+#, kde-format
 msgid ""
 "The document will be generated as a latex document which will have to be "
 "included in a main latex document. It will allow you to generate several "
 "little files for each chapter of your document."
 msgstr ""
-"Tài liệu này sẽ được tạo ra như một tài liệu LaTeX để bao gồm trong tài liệu "
-"LaTeX chính. Nó cho phép bạn tạo ra nhiều tệp nhỏ cho mỗi chương trong tài "
-"liệu của bạn."
+"Tài liệu sẽ được tạo dưới dạng tài liệu LaTeX để đưa vào tài liệu LaTeX "
+"chính. Điều này cho phép tạo nhiều tệp nhỏ cho từng chương của tài liệu."
 
 #. i18n: ectx: property (text), widget (QRadioButton, embededButton)
 #: sheets/latex/export/latexexportwidget.ui:86
-#, fuzzy, kde-format
+#, kde-format
 msgid "Document to include"
 msgstr "Tài liệu cần bao gồm"
 
@@ -691,13 +689,13 @@ msgstr "Chất lượng:"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, qualityComboBox)
 #: sheets/latex/export/latexexportwidget.ui:122
-#, fuzzy, kde-format
+#, kde-format
 msgid "Final"
 msgstr "Cuối cùng"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, qualityComboBox)
 #: sheets/latex/export/latexexportwidget.ui:127
-#, fuzzy, kde-format
+#, kde-format
 msgid "Draft"
 msgstr "Nháp"
 
@@ -715,10 +713,10 @@ msgstr "Ảnh"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: sheets/latex/export/latexexportwidget.ui:182
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Convert the pictures"
 msgid "Convert the pictures:"
-msgstr "Chuyển đổi các ảnh"
+msgstr "Chuyển đổi ảnh:"
 
 #. i18n: ectx: property (text), widget (QLabel, TextLabel1)
 #: sheets/latex/export/latexexportwidget.ui:199
@@ -760,17 +758,17 @@ msgstr "Nội dung"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: sheets/latex/export/latexexportwidget.ui:301
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Export informations about author"
 msgid "Export information about author:"
-msgstr "Xuất thông tin về tác giả"
+msgstr "Xuất thông tin về tác giả:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: sheets/latex/export/latexexportwidget.ui:321
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add a table of content"
 msgid "Add a table of content:"
-msgstr "Thêm mục lục"
+msgstr "Thêm mục lục:"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_5)
 #: sheets/latex/export/latexexportwidget.ui:340
@@ -786,15 +784,15 @@ msgstr "Không xuất"
 
 #. i18n: ectx: property (text), widget (QRadioButton, RadioButton5)
 #: sheets/latex/export/latexexportwidget.ui:353
-#, fuzzy, kde-format
+#, kde-format
 msgid "Export notes in margin notes"
-msgstr "Xuất các ghi chú thành ghi chú bên lề"
+msgstr "Xuất khẩu ghi chú thành ghi chú bên lề"
 
 #. i18n: ectx: property (text), widget (QRadioButton, RadioButton6)
 #: sheets/latex/export/latexexportwidget.ui:360
-#, fuzzy, kde-format
+#, kde-format
 msgid "Export notes in comments"
-msgstr "Xuất các ghi chú thành phần chú thích"
+msgstr "Xuất khẩu ghi chú trong phần chú thích"
 
 #: sheets/opencalc/opencalcexport.cc:889
 #, kde-format
@@ -812,15 +810,15 @@ msgid "Skipping a table."
 msgstr "Bỏ qua một bảng."
 
 #: sheets/opencalc/opencalcimport.cc:1909
-#, fuzzy, kde-format
+#, kde-format
 msgid ""
 "This document was created with OpenOffice.org version '%1'. This filter was "
 "written for version 1.0. Reading this file could cause strange behavior, "
 "crashes or incorrect display of the data. Do you want to continue converting "
 "the document?"
 msgstr ""
-"Tài liệu này được làm ra bởi OpenOffice.org phiên bản '%1'. Bộ lọc này được "
-"viết cho phiên bản 1.0. Đọc tệp này có thể tạo ra hành xử lạ, sụp đổ hoặc "
+"Tài liệu này được tạo bằng OpenOffice.org phiên bản '%1'. Bộ lọc này được "
+"viết cho phiên bản 1.0. Đọc tệp này có thể gây ra hành vi lạ, sự cố hoặc "
 "hiển thị dữ liệu không chính xác. Bạn có muốn tiếp tục chuyển đổi tài liệu?"
 
 #: sheets/opencalc/opencalcimport.cc:1910
@@ -844,31 +842,31 @@ msgstr ""
 
 #: sheets/xlsx/XlsxImport.cpp:573 stage/pptx/PptxImport.cpp:1310
 #: words/docx/import/DocxImport.cpp:143
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Could not read from file."
 msgid "Unable to find part for type %1"
-msgstr "Không thể đọc từ tệp."
+msgstr "Không thể tìm thấy phần cho kiểu %1"
 
 #: sheets/xlsx/XlsxXmlSharedStringsReader.cpp:175
 #, kde-format
 msgid "Declared number of shared strings too small (%1)"
-msgstr ""
+msgstr "Số lượng chuỗi dùng chung được khai báo quá nhỏ (%1)"
 
 #: sheets/xlsx/XlsxXmlStylesReader.cpp:570
 #, kde-format
 msgid "Declared number of font styles too small (%1)"
-msgstr ""
+msgstr "Số lượng kiểu phông chữ được khai báo quá nhỏ (%1)"
 
 #: sheets/xlsx/XlsxXmlStylesReader.cpp:926
 #, kde-format
 msgid "Declared number of cell formats too small (%1)"
-msgstr ""
+msgstr "Số lượng định dạng ô được khai báo quá nhỏ (%1)"
 
 #: sheets/xlsx/XlsxXmlStylesReader.cpp:1053
 #: sheets/xlsx/XlsxXmlStylesReader.cpp:1374
 #, kde-format
 msgid "Declared number of fill styles too small (%1)"
-msgstr ""
+msgstr "Số lượng kiểu tô được khai báo quá nhỏ (%1)"
 
 #: sheets/xlsx/XlsxXmlWorksheetReader.cpp:341
 #, kde-format
@@ -876,26 +874,28 @@ msgid ""
 "The data could not be loaded completely because the maximum size of sheet "
 "was exceeded."
 msgstr ""
+"Dữ liệu không tải được hoàn toàn vì đã vượt quá kích thước tối đa của bảng "
+"tính."
 
 #: sheets/xlsx/XlsxXmlWorksheetReader.cpp:1403
 #, kde-format
 msgid "Expected integer or floating point number"
-msgstr ""
+msgstr "Cần số nguyên hoặc số thập phân"
 
 #: stage/pptx/PptxXmlDocumentReader.cpp:291
-#, fuzzy, kde-format
+#, kde-format
 msgid "Slide layout \"%1\" not found"
-msgstr "Ghi chú cuối %1"
+msgstr "Không tìm thấy bố cục trang \"%1\""
 
 #: stage/pptx/PptxXmlSlideReader.cpp:603
-#, fuzzy, kde-format
+#, kde-format
 msgid "Slide %1"
-msgstr "Tiêu đề Ảnh chiếu"
+msgstr "Trang %1"
 
 #: words/ascii/ImportDialog.cc:30
-#, fuzzy, kde-format
+#, kde-format
 msgid "Words's Plain Text Import Filter"
-msgstr "Bộ lọc Nhập Văn bản không được định dạng của KWord"
+msgstr "Bộ lọc Nhập khẩu Văn bản thuần của Words"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, ImportDialogUI)
 #: words/ascii/ImportDialogUI.ui:16
@@ -905,15 +905,15 @@ msgstr "Hộp thoại Nhập Văn bản không có định dạng"
 
 #. i18n: ectx: property (title), widget (QGroupBox, buttonGroupParagraph)
 #: words/ascii/ImportDialogUI.ui:22
-#, fuzzy, kde-format
+#, kde-format
 msgid "End of Paragraph"
 msgstr "Cuối đoạn"
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioParagraphAsIs)
 #: words/ascii/ImportDialogUI.ui:28
-#, fuzzy, kde-format
+#, kde-format
 msgid "&As is: At the end of line"
-msgstr "&Như là: cuối của dòng"
+msgstr "N&guyên trạng: Cuối dòng"
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioParagraphSentence)
 #: words/ascii/ImportDialogUI.ui:38
@@ -925,42 +925,42 @@ msgstr "&Câu: nếu cuối dòng là cuối một câu"
 #: words/ascii/ImportDialogUI.ui:45
 #, kde-format
 msgid "&Empty Line: If the line is empty"
-msgstr ""
+msgstr "&Dòng trống: Nếu dòng là trống"
 
 #: words/epub/OdtHtmlConverter.cpp:258 words/mobi/OdtMobiHtmlConverter.cpp:285
-#, fuzzy, kde-format
+#, kde-format
 msgid "End notes"
-msgstr "Kí tự xuống dòng"
+msgstr "Ghi chú cuối"
 
 #: words/msword-odf/conversion.cpp:783
 #, kde-format
 msgid "Even Pages Header"
-msgstr ""
+msgstr "Đầu tải trang chẵn"
 
 #: words/msword-odf/conversion.cpp:785
 #, kde-format
 msgid "Odd Pages Header"
-msgstr ""
+msgstr "Đầu tải trang lẻ"
 
 #: words/msword-odf/conversion.cpp:787
 #, kde-format
 msgid "Even Pages Footer"
-msgstr ""
+msgstr "Chân trang trang chẵn"
 
 #: words/msword-odf/conversion.cpp:789
 #, kde-format
 msgid "Odd Pages Footer"
-msgstr ""
+msgstr "Chân trang trang lẻ"
 
 #: words/msword-odf/conversion.cpp:791
 #, kde-format
 msgid "First Page Header"
-msgstr ""
+msgstr "Đầu tải trang đầu"
 
 #: words/msword-odf/conversion.cpp:793
 #, kde-format
 msgid "First Page Footer"
-msgstr ""
+msgstr "Chân trang trang đầu"
 
 #: words/msword-odf/texthandler.cpp:623
 #, kde-format
@@ -974,16 +974,16 @@ msgstr "Không thể tải tệp vì nó trông không giống một tài liệu
 
 #: words/rtf/import/rtfimport.cpp:55 words/rtf/import/rtfimport.cpp:68
 #: words/rtf/import/rtfimport.cpp:76
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "KWord's RTF Import Filter"
 msgid "Words's RTF Import Filter"
-msgstr "Bộ lọc Nhập RTF của KWor"
+msgstr "Bộ lọc Nhập khẩu RTF của Words"
 
 #: words/rtf/import/rtfimport.cpp:68 words/rtf/import/rtfimport.cpp:76
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "The file cannot be loaded, as it cannot be opened."
 msgid "The file cannot be loaded."
-msgstr "Không thể tải tệp vì không mở được nó."
+msgstr "Không thể tải tệp."
 
 #~ msgctxt "Descriptive encoding name"
 #~ msgid "Recommended ( %1 )"

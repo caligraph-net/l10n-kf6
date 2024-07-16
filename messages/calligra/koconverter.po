@@ -1,0 +1,129 @@
+# POT_PART_NORMAL only
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the calligra package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: calligra\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-04-29 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Các email của bạn"
+
+#: calligraconverter.cpp:179
+#, kde-format
+msgid "CalligraConverter"
+msgstr "CalligraConverter"
+
+#: calligraconverter.cpp:181
+#, kde-format
+msgid "Calligra Document Converter"
+msgstr "Bộ Chuyển Đổi Tài Liệu Calligra"
+
+#: calligraconverter.cpp:183
+#, kde-format
+msgid "Copyright 2001-%1 Calligra developers"
+msgstr "Bản quyền 2001-%1 các nhà phát triển Calligra"
+
+#: calligraconverter.cpp:184
+#, kde-format
+msgid "David Faure"
+msgstr "David Faure"
+
+#: calligraconverter.cpp:185
+#, kde-format
+msgid "Nicolas Goutte"
+msgstr "Nicolas Goutte"
+
+#: calligraconverter.cpp:186
+#, kde-format
+msgid "Dan Leinir Turthra Jensen"
+msgstr "Dan Leinir Turthra Jensen"
+
+#: calligraconverter.cpp:193
+#, kde-format
+msgid "Input file"
+msgstr "Tệp đầu vào"
+
+#: calligraconverter.cpp:194
+#, kde-format
+msgid "Output file"
+msgstr "Tệp đầu ra"
+
+#: calligraconverter.cpp:195
+#, kde-format
+msgid "Make a backup of the destination file"
+msgstr "Tạo bản sao lưu của tệp đích"
+
+#: calligraconverter.cpp:196
+#, kde-format
+msgid "Batch mode: do not show dialogs"
+msgstr "Chế độ hàng loạt: không hiển thị hộp thoại"
+
+#: calligraconverter.cpp:197
+#, kde-format
+msgid "Interactive mode: show dialogs (default)"
+msgstr "Chế độ tương tác: hiển thị hộp thoại (mặc định)"
+
+#: calligraconverter.cpp:198
+#, kde-format
+msgid "Mimetype of the output file"
+msgstr "Kiểu MIME của tệp đầu ra"
+
+#: calligraconverter.cpp:202
+#, kde-format
+msgid "The print orientation. This could be either Portrait or Landscape."
+msgstr "Hướng in. Có thể là Dọc hoặc Ngang."
+
+#: calligraconverter.cpp:205
+#, kde-format
+msgid "The paper size. A4, Legal, Letter, ..."
+msgstr "Kích thước giấy. A4, Legal, Letter, ..."
+
+#: calligraconverter.cpp:207
+#, kde-format
+msgid "The size of the paper margin. By default this is 0.2."
+msgstr "Kích thước lề giấy. Mặc định là 0.2."
+
+#: calligraconverter.cpp:215
+#, kde-format
+msgid "Two arguments required"
+msgstr "Yêu cầu hai đối số"
+
+#: calligraconverter.cpp:243
+#, kde-format
+msgid "Mimetype for input file %1 not found!"
+msgstr "Không tìm thấy kiểu MIME cho tệp đầu vào %1!"
+
+#: calligraconverter.cpp:252
+#, kde-format
+msgid "Mimetype not found %1"
+msgstr "Không tìm thấy kiểu MIME %1"
+
+#: calligraconverter.cpp:258
+#, kde-format
+msgid "Mimetype not found, try using the -mimetype option"
+msgstr "Không tìm thấy kiểu MIME, hãy thử dùng lựa chọn -mimetype"
+
+#: calligraconverter.cpp:282
+#, kde-format
+msgid "*** The conversion failed! ***"
+msgstr "*** Chuyển đổi thất bại! ***"

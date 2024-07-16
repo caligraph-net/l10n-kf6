@@ -43,16 +43,16 @@ msgstr "&Chế độ Hiển thị"
 
 #. i18n: ectx: Menu (semantic)
 #: part/calligrawords.rc:62
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Statistics"
 msgid "Semantics"
-msgstr "Thống kê"
+msgstr "Ngữ nghĩa"
 
 #. i18n: ectx: Menu (format)
 #: part/calligrawords.rc:74
-#, fuzzy, kde-format
+#, kde-format
 msgid "S&tyles"
-msgstr "Kiểu:"
+msgstr "&Kiểu"
 
 #. i18n: ectx: Menu (settings)
 #: part/calligrawords.rc:78
@@ -70,7 +70,7 @@ msgstr "Kiểm tra đánh vần "
 #: part/calligrawords.rc:83
 #, kde-format
 msgid "AutoCorrection"
-msgstr ""
+msgstr "Tự động sửa lỗi"
 
 #. i18n: ectx: ToolBar (edit_toolbar)
 #: part/calligrawords.rc:94
@@ -97,43 +97,43 @@ msgid "&Tools"
 msgstr "Cô&ng cụ"
 
 #: part/commands/KWChangePageStyleCommand.cpp:11
-#, fuzzy
+#, 
 msgctxt "(qtundo-format)"
 msgid "Set Page Style"
-msgstr "&Khung"
+msgstr "Đặt kiểu cách trang"
 
 #: part/commands/KWNewPageStyleCommand.cpp:12
-#, fuzzy
+#, 
 #| msgid "Insert Page"
 msgctxt "(qtundo-format)"
 msgid "Insert Page Style"
-msgstr "Chèn Trang"
+msgstr "Chèn Kiểu Cách Trang"
 
 #: part/commands/KWPageStylePropertiesCommand.cpp:19
-#, fuzzy
+#, 
 #| msgid "Page Properties"
 msgctxt "(qtundo-format)"
 msgid "Page Properties"
-msgstr "Thuộc tính của Trang"
+msgstr "Thuộc tính Trang"
 
 #: part/commands/KWShapeCreateCommand.cpp:42
-#, fuzzy
+#, 
 #| msgid "Create Frame"
 msgctxt "(qtundo-format)"
 msgid "Create shape"
-msgstr "Tạo Khung"
+msgstr "Tạo hình"
 
 #: part/dialogs/KWAnchoringProperties.cpp:412
 #, kde-format
 msgid "Baseline"
-msgstr ""
+msgstr "Đường cơ sở"
 
 #: part/dialogs/KWAnchoringProperties.cpp:413
 #: part/dialogs/KWAnchoringProperties.cpp:424
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Create"
 msgid "Character"
-msgstr "Tạo"
+msgstr "Kí tự"
 
 #: part/dialogs/KWAnchoringProperties.cpp:416
 #, kde-format
@@ -142,107 +142,107 @@ msgstr "Hàng"
 
 #: part/dialogs/KWAnchoringProperties.cpp:417
 #: part/dialogs/KWAnchoringProperties.cpp:425
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Provide main text area"
 msgid "Page (entire) area"
-msgstr "Cung cấp khu vực văn bản chính"
+msgstr "Vùng trang (toàn bộ)"
 
 #: part/dialogs/KWAnchoringProperties.cpp:418
 #: part/dialogs/KWAnchoringProperties.cpp:426
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Provide main text area"
 msgid "Page text area"
-msgstr "Cung cấp khu vực văn bản chính"
+msgstr "Vùng văn bản trang"
 
 #: part/dialogs/KWAnchoringProperties.cpp:419
 #: part/dialogs/KWAnchoringProperties.cpp:433
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Paragraph"
 msgid "Paragraph area"
-msgstr "Đoạn"
+msgstr "Vùng đoạn"
 
 #: part/dialogs/KWAnchoringProperties.cpp:420
 #: part/dialogs/KWAnchoringProperties.cpp:434
-#, fuzzy, kde-format
+#, kde-format
 msgid "Paragraph text area"
-msgstr "Thay đổi"
+msgstr "Vùng văn bản đoạn"
 
 #: part/dialogs/KWAnchoringProperties.cpp:427
-#, fuzzy, kde-format
+#, kde-format
 msgid "Left page border"
-msgstr "Thay đổi Trái Viền"
+msgstr "Viền trái trang"
 
 #: part/dialogs/KWAnchoringProperties.cpp:428
-#, fuzzy, kde-format
+#, kde-format
 msgid "Right page border"
-msgstr "Thay đổi Phải Viền"
+msgstr "Viền phải trang"
 
 #: part/dialogs/KWAnchoringProperties.cpp:435
-#, fuzzy, kde-format
+#, kde-format
 msgid "Right paragraph border"
-msgstr "Thay đổi Phải Viền"
+msgstr "Viền phải đoạn văn"
 
 #: part/dialogs/KWAnchoringProperties.cpp:436
-#, fuzzy, kde-format
+#, kde-format
 msgid "Left paragraph border"
-msgstr "Thay đổi Trái Viền"
+msgstr "Viền trái đoạn văn"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
 #: part/dialogs/KWAnchoringProperties.ui:17
 #, kde-format
 msgid "Shape relation to text is:"
-msgstr ""
+msgstr "Quan hệ hình dạng với văn bản là:"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rAnchorAsCharacter)
 #: part/dialogs/KWAnchoringProperties.ui:23
 #, kde-format
 msgid "Inline with text (behaves as a character)"
-msgstr ""
+msgstr "Nội tuyến với văn bản (hoạt động như một ký tự)"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rAnchorToCharacter)
 #: part/dialogs/KWAnchoringProperties.ui:30
 #, kde-format
 msgid "Floating, but anchored to a character position"
-msgstr ""
+msgstr "Nổi, nhưng neo vào vị trí kí tự"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rAnchorParagraph)
 #: part/dialogs/KWAnchoringProperties.ui:37
 #, kde-format
 msgid "Floating, but anchored to a paragraph"
-msgstr ""
+msgstr "Nổi, nhưng neo vào đoạn văn"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rAnchorPage)
 #: part/dialogs/KWAnchoringProperties.ui:44
 #, kde-format
 msgid "Floating free (not anchored to text)"
-msgstr ""
+msgstr "Nổi tự do (không neo vào văn bản)"
 
 #. i18n: ectx: property (title), widget (QGroupBox, grpVert)
 #: part/dialogs/KWAnchoringProperties.ui:54
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Position"
 msgid "Vertical Positioning"
-msgstr "Vị trí "
+msgstr "Vị trí dọc"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rTop)
 #: part/dialogs/KWAnchoringProperties.ui:60
-#, fuzzy, kde-format
+#, kde-format
 msgid "Top align with:"
-msgstr " Gạch chân "
+msgstr "Căn lề trên với:"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rVCenter)
 #. i18n: ectx: property (text), widget (QRadioButton, rHCenter)
 #: part/dialogs/KWAnchoringProperties.ui:77
 #: part/dialogs/KWAnchoringProperties.ui:186
-#, fuzzy, kde-format
+#, kde-format
 msgid "Center align with:"
-msgstr " Gạch chân "
+msgstr "Căn giữa với:"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rBottom)
 #: part/dialogs/KWAnchoringProperties.ui:87
-#, fuzzy, kde-format
+#, kde-format
 msgid "Bottom align with:"
-msgstr " Gạch chân "
+msgstr "Căn lề dưới với:"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rVOffset)
 #. i18n: ectx: property (text), widget (QRadioButton, rHOffset)
@@ -250,82 +250,82 @@ msgstr " Gạch chân "
 #: part/dialogs/KWAnchoringProperties.ui:206
 #, kde-format
 msgid "Offset"
-msgstr ""
+msgstr "Độ lệch"
 
 #. i18n: ectx: property (text), widget (QLabel, lVOffset)
 #. i18n: ectx: property (text), widget (QLabel, lHOffset)
 #: part/dialogs/KWAnchoringProperties.ui:119
 #: part/dialogs/KWAnchoringProperties.ui:228
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "From:"
 msgid "from:"
-msgstr "Từ:"
+msgstr "từ:"
 
 #. i18n: ectx: property (title), widget (QGroupBox, grpHoriz)
 #: part/dialogs/KWAnchoringProperties.ui:163
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Position"
 msgid "Horizontal Positioning"
-msgstr "Vị trí "
+msgstr "Vị trí ngang"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rLeft)
 #: part/dialogs/KWAnchoringProperties.ui:169
-#, fuzzy, kde-format
+#, kde-format
 msgid "Left align with:"
-msgstr " Gạch chân "
+msgstr "Căn lề trái với:"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rRight)
 #: part/dialogs/KWAnchoringProperties.ui:196
-#, fuzzy, kde-format
+#, kde-format
 msgid "Right align with:"
-msgstr " Gạch chân "
+msgstr "Căn lề phải với:"
 
 #: part/dialogs/KWConfigureDialog.cpp:28
-#, fuzzy, kde-format
+#, kde-format
 msgid "Configure"
 msgstr "Cấu hình"
 
 #: part/dialogs/KWConfigureDialog.cpp:32 part/dialogs/KWConfigureDialog.cpp:33
 #, kde-format
 msgid "Misc"
-msgstr ""
+msgstr "Khác"
 
 #: part/dialogs/KWConfigureDialog.cpp:37 part/dialogs/KWConfigureDialog.cpp:38
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Style name"
 #| msgid "Grid 1"
 msgid "Grid"
-msgstr "Lưới 1"
+msgstr "Lưới"
 
 #: part/dialogs/KWConfigureDialog.cpp:44
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "HTML Document"
 msgctxt "@title:tab Document settings page"
 msgid "Document"
-msgstr "Tài liệu HTML"
+msgstr "Tài liệu"
 
 #: part/dialogs/KWConfigureDialog.cpp:45
-#, fuzzy, kde-format
+#, kde-format
 msgid "Document Settings"
-msgstr "Bảng"
+msgstr "Thiết lập tài liệu"
 
 #: part/dialogs/KWConfigureDialog.cpp:49
 #, kde-format
 msgctxt "@title:tab Author page"
 msgid "Author"
-msgstr ""
+msgstr "Tác giả"
 
 #: part/dialogs/KWConfigureDialog.cpp:50
 #, kde-format
 msgid "Author"
-msgstr ""
+msgstr "Tác giả"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, CreateBookmark)
 #: part/dialogs/KWCreateBookmark.ui:13
 #: part/dialogs/KWCreateBookmarkDialog.cpp:37
-#, fuzzy, kde-format
+#, kde-format
 msgid "Create New Bookmark"
-msgstr "Xoá(delete)"
+msgstr "Tạo dấu nhớ mới"
 
 #. i18n: ectx: property (text), widget (QLabel, lExplain)
 #: part/dialogs/KWCreateBookmark.ui:20
@@ -334,6 +334,8 @@ msgid ""
 "Bookmarks allow you to jump between parts of your document.\n"
 "Please provide the name of your bookmark."
 msgstr ""
+"Dấu trang cho phép bạn di chuyển giữa các phần của tài liệu.\nVui lòng đặt "
+"tên cho dấu trang của bạn."
 
 #. i18n: ectx: property (text), widget (QLabel, lName)
 #: part/dialogs/KWCreateBookmark.ui:38
@@ -343,9 +345,9 @@ msgstr "Tên:"
 
 #. i18n: ectx: property (text), widget (QLabel, columnsLabel)
 #: part/dialogs/KWDocumentColumns.ui:24
-#, fuzzy, kde-format
+#, kde-format
 msgid "Columns:"
-msgstr "Các cột:"
+msgstr "Cột:"
 
 #. i18n: ectx: property (text), widget (QLabel, spacingLabel)
 #: part/dialogs/KWDocumentColumns.ui:44
@@ -365,13 +367,13 @@ msgstr "Không có bộ khung nào trong tài liệu"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: part/dialogs/KWFrameConnectSelector.ui:67
-#, fuzzy, kde-format
+#, kde-format
 msgid "Name of frameset:"
 msgstr "Tên bộ khung:"
 
 #. i18n: ectx: property (text), widget (QRadioButton, newRadio)
 #: part/dialogs/KWFrameConnectSelector.ui:82
-#, fuzzy, kde-format
+#, kde-format
 msgid "Create a new frameset:"
 msgstr "Tạo bộ khung mới:"
 
@@ -388,10 +390,10 @@ msgid "Frameset Name"
 msgstr "Tên Bộ khung"
 
 #: part/dialogs/KWFrameDialog.cpp:29
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Position"
 msgid "Smart Positioning"
-msgstr "Vị trí "
+msgstr "Định vị thông minh"
 
 #: part/dialogs/KWFrameDialog.cpp:33 part/dialogs/KWShapeConfigFactory.cpp:60
 #, kde-format
@@ -404,158 +406,158 @@ msgid "Connect Text Frames"
 msgstr "Kết nối Các khung Văn bản"
 
 #: part/dialogs/KWFrameDialog.cpp:66
-#, fuzzy
+#, 
 #| msgid "Page Properties"
 msgctxt "(qtundo-format)"
 msgid "Change Shape Properties"
-msgstr "Thuộc tính của Trang"
+msgstr "Thay đổi Thuộc tính Hình dạng"
 
 #. i18n: ectx: property (title), widget (QGroupBox, grpAnchor)
 #: part/dialogs/KWInsertImage.ui:17
 #, kde-format
 msgid "Anchor to..."
-msgstr ""
+msgstr "Neo vào..."
 
 #. i18n: ectx: property (text), widget (QRadioButton, rAnchorPage)
 #: part/dialogs/KWInsertImage.ui:23
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Pages"
 msgid "&Page"
-msgstr "Các trang"
+msgstr "Tra&ng"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rAnchorParagraph)
 #: part/dialogs/KWInsertImage.ui:30
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Paragraph"
 msgid "Para&graph"
-msgstr "Đoạn"
+msgstr "Đ&oạn"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rAnchorToCharacter)
 #: part/dialogs/KWInsertImage.ui:40
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Create"
 msgid "&To Character"
-msgstr "Tạo"
+msgstr "Đế&n kí tự"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rAnchorAsCharacter)
 #: part/dialogs/KWInsertImage.ui:47
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Create"
 msgid "&As Character"
-msgstr "Tạo"
+msgstr "&Như kí tự"
 
 #. i18n: ectx: property (title), widget (QGroupBox, grpHAlign)
 #: part/dialogs/KWInsertImage.ui:59
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Position"
 msgid "Horizontal Alignment"
-msgstr "Vị trí "
+msgstr "Căn chỉnh ngang"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rAlignLeft)
 #: part/dialogs/KWInsertImage.ui:65
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Left"
-msgstr "Text"
+msgstr "&Trái"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rAlignCenter)
 #: part/dialogs/KWInsertImage.ui:75
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Center"
-msgstr "Sắp hàng"
+msgstr "&Giữa"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rAlignRight)
 #: part/dialogs/KWInsertImage.ui:82
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Right"
-msgstr "Text"
+msgstr "Phả&i"
 
 #. i18n: ectx: property (title), widget (QGroupBox, grpVAlign)
 #: part/dialogs/KWInsertImage.ui:92
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Position"
 msgid "Vertical Alignment"
-msgstr "Vị trí "
+msgstr "Căn chỉnh dọc"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rAlignTop)
 #: part/dialogs/KWInsertImage.ui:98
 #, kde-format
 msgid "&Top"
-msgstr ""
+msgstr "&Trên"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rAlignMiddle)
 #: part/dialogs/KWInsertImage.ui:105
 #, kde-format
 msgid "&Middle"
-msgstr ""
+msgstr "G&iữa"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rAlignBottom)
 #: part/dialogs/KWInsertImage.ui:115
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Bottom:"
 msgid "&Bottom"
-msgstr "Đáy:"
+msgstr "Đá&y"
 
 #. i18n: ectx: property (title), widget (QGroupBox, grpWrap)
 #: part/dialogs/KWInsertImage.ui:127
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Text Run Around"
 msgid "Text Wrap-around"
-msgstr "Văn bản Chạy Xung quanh"
+msgstr "Bao quanh văn bản"
 
 #. i18n: ectx: property (text), widget (QRadioButton, runThrough)
 #: part/dialogs/KWInsertImage.ui:133 part/dialogs/KWRunAroundProperties.ui:26
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Text will run through this frame"
 msgid "Run through this shape"
-msgstr "Văn bản sẽ chạy qua khung này"
+msgstr "Chạy qua hình này"
 
 #. i18n: ectx: property (text), widget (QRadioButton, noRunaround)
 #: part/dialogs/KWInsertImage.ui:140 part/dialogs/KWRunAroundProperties.ui:33
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Text will run through this frame"
 msgid "Skip below this shape"
-msgstr "Văn bản sẽ chạy qua khung này"
+msgstr "Bỏ qua bên dưới hình này"
 
 #. i18n: ectx: property (text), widget (QRadioButton, left)
 #: part/dialogs/KWInsertImage.ui:147 part/dialogs/KWRunAroundProperties.ui:40
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Text will run through this frame"
 msgid "Run on left side of this shape"
-msgstr "Văn bản sẽ chạy qua khung này"
+msgstr "Chạy ở cạnh trái của hình này"
 
 #. i18n: ectx: property (text), widget (QRadioButton, right)
 #: part/dialogs/KWInsertImage.ui:154 part/dialogs/KWRunAroundProperties.ui:47
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Text will run through this frame"
 msgid "Run on right side of this shape"
-msgstr "Văn bản sẽ chạy qua khung này"
+msgstr "Chạy bên phải hình này"
 
 #. i18n: ectx: property (text), widget (QRadioButton, longest)
 #: part/dialogs/KWInsertImage.ui:161 part/dialogs/KWRunAroundProperties.ui:54
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Text will run through this frame"
 msgid "Run on longest side of this shape"
-msgstr "Văn bản sẽ chạy qua khung này"
+msgstr "Chạy theo cạnh dài nhất của hình này"
 
 #. i18n: ectx: property (text), widget (QRadioButton, both)
 #: part/dialogs/KWInsertImage.ui:168 part/dialogs/KWRunAroundProperties.ui:61
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Text will run through this frame"
 msgid "Run on both sides of this shape"
-msgstr "Văn bản sẽ chạy qua khung này"
+msgstr "Chạy ở cả hai bên của hình này"
 
 #. i18n: ectx: property (text), widget (QRadioButton, enough)
 #: part/dialogs/KWInsertImage.ui:180 part/dialogs/KWRunAroundProperties.ui:73
 #, kde-format
 msgid "Run on sides that are wider than:"
-msgstr ""
+msgstr "Chạy ở các cạnh rộng hơn:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #: part/dialogs/KWInsertImage.ui:194
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Distance Between Frame and Text:"
 msgid "Distance Between Shape and Text:"
-msgstr "Khoảng cách giữa khung và văn bản:"
+msgstr "Khoảng cách giữa hình và văn bản:"
 
 #. i18n: ectx: attribute (title), widget (QWidget, columnsTab)
 #: part/dialogs/KWPageSettingsDialog.cpp:36 part/dialogs/KWStartupWidget.ui:29
@@ -564,123 +566,123 @@ msgid "Columns"
 msgstr "Các cột"
 
 #: part/dialogs/KWPageSettingsDialog.cpp:41
-#, fuzzy, kde-format
+#, kde-format
 msgid "Style"
-msgstr "Kiểu:"
+msgstr "Kiểu cách"
 
 #: part/dialogs/KWPageSettingsDialog.cpp:47
-#, fuzzy, kde-format
+#, kde-format
 msgid "Clone"
-msgstr "Lời kết"
+msgstr "Nhân bản"
 
 #: part/dialogs/KWPageSettingsDialog.cpp:50 part/KWView.cpp:302
-#, fuzzy, kde-format
+#, kde-format
 msgid "Delete"
-msgstr "Xoá(delete)"
+msgstr "Xóa"
 
 #: part/dialogs/KWPageSettingsDialog.cpp:136
-#, fuzzy
+#, 
 msgctxt "(qtundo-format)"
 msgid "Change Page Style"
-msgstr "&Khung"
+msgstr "Thay đổi kiểu cách trang"
 
 #: part/dialogs/KWPageSettingsDialog.cpp:217
-#, fuzzy, kde-format
+#, kde-format
 msgid "Clone Page Style"
-msgstr "&Khung"
+msgstr "Nhân bản kiểu cách trang"
 
 #: part/dialogs/KWPageSettingsDialog.cpp:218
 #, kde-format
 msgid "Add a new page style with the name:"
-msgstr ""
+msgstr "Thêm kiểu cách trang mới với tên:"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
 #: part/dialogs/KWRunAroundProperties.ui:17
 #, kde-format
 msgid "Text elsewhere will:"
-msgstr ""
+msgstr "Văn bản ở nơi khác sẽ:"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: part/dialogs/KWRunAroundProperties.ui:105
 #, kde-format
 msgid "The shape affects the text by its:"
-msgstr ""
+msgstr "Hình dạng ảnh hưởng đến văn bản bởi:"
 
 #. i18n: ectx: property (text), widget (QRadioButton, box)
 #: part/dialogs/KWRunAroundProperties.ui:114
 #, kde-format
 msgid "Bounding box"
-msgstr ""
+msgstr "Hộp giới hạn"
 
 #. i18n: ectx: property (text), widget (QRadioButton, outside)
 #: part/dialogs/KWRunAroundProperties.ui:121
 #, kde-format
 msgid "Contour"
-msgstr ""
+msgstr "Đường viền"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
 #: part/dialogs/KWRunAroundProperties.ui:131
 #, kde-format
 msgid "Shape and text is separated:"
-msgstr ""
+msgstr "Hình dạng và văn bản được tách biệt:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #: part/dialogs/KWRunAroundProperties.ui:140
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Left:"
 msgid "Left by:"
-msgstr "Trái:"
+msgstr "Trái bởi:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_6)
 #: part/dialogs/KWRunAroundProperties.ui:169
 #, kde-format
 msgid "Above by:"
-msgstr ""
+msgstr "Phía trên:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_8)
 #: part/dialogs/KWRunAroundProperties.ui:198
 #, kde-format
 msgid "Below by:"
-msgstr ""
+msgstr "Bên dưới:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_7)
 #: part/dialogs/KWRunAroundProperties.ui:227
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Right:"
 msgid "Right by:"
-msgstr "Phải:"
+msgstr "Phải bởi:"
 
 #. i18n: ectx: property (text), widget (QPushButton, buttonRename)
 #: part/dialogs/KWSelectBookmark.ui:20
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Rename"
-msgstr " Chọn font "
+msgstr "Đổi tê&n"
 
 #. i18n: ectx: property (text), widget (QPushButton, buttonDelete)
 #: part/dialogs/KWSelectBookmark.ui:27
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Delete"
-msgstr "Xoá(delete)"
+msgstr "&Xóa"
 
 #: part/dialogs/KWSelectBookmarkDialog.cpp:66
 #, kde-format
 msgid "Please provide a new name for the bookmark"
-msgstr ""
+msgstr "Vui lòng đặt tên mới cho dấu nhớ"
 
 #: part/dialogs/KWSelectBookmarkDialog.cpp:66
-#, fuzzy, kde-format
+#, kde-format
 msgid "Rename Bookmark"
-msgstr " Chọn font "
+msgstr "Đổi tên dấu nhớ"
 
 #: part/dialogs/KWSelectBookmarkDialog.cpp:72
-#, fuzzy, kde-format
+#, kde-format
 msgid "A bookmark with the name \"%1\" already exists."
-msgstr "the\n"
+msgstr "Đã tồn tại dấu nhớ có tên \"%1\"."
 
 #: part/dialogs/KWSelectBookmarkDialog.cpp:104
-#, fuzzy, kde-format
+#, kde-format
 msgid "Select Bookmark"
-msgstr " Chọn font "
+msgstr "Bôi đen dấu nhớ"
 
 #: part/dialogs/KWShapeConfigFactory.cpp:43
 #, kde-format
@@ -702,30 +704,30 @@ msgstr "Tạo"
 #: part/dockers/KWDebugDocker.cpp:18
 #, kde-format
 msgid "Debug"
-msgstr ""
+msgstr "Gỡ lỗi"
 
 #: part/dockers/KWNavigationDocker.cpp:20
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Salutation"
 msgid "Navigation"
-msgstr "Lời chào"
+msgstr "Điều hướng"
 
 #: part/dockers/KWNavigationWidget.cpp:94
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Pages"
 msgid "Page #"
-msgstr "Các trang"
+msgstr "Trang #"
 
 #: part/dockers/KWNavigationWidget.cpp:94
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Functions"
 msgid "Section"
-msgstr "Các hàm số"
+msgstr "Khu vực"
 
 #: part/dockers/KWRdfDocker.cpp:38
 #, kde-format
 msgid "RDF"
-msgstr ""
+msgstr "RDF"
 
 #: part/dockers/KWStatisticsDocker.cpp:20
 #, kde-format
@@ -748,16 +750,16 @@ msgid "Syllables:"
 msgstr "Âm tiết:"
 
 #: part/dockers/KWStatisticsWidget.cpp:136
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Characters including spaces:"
 msgid "Characters (spaces):"
-msgstr "Kí tự bao gồm các khoảng trắng:"
+msgstr "Kí tự (khoảng trắng):"
 
 #: part/dockers/KWStatisticsWidget.cpp:139
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Characters including spaces:"
 msgid "Characters (no spaces):"
-msgstr "Kí tự bao gồm các khoảng trắng:"
+msgstr "Kí tự (không khoảng trắng):"
 
 #: part/dockers/KWStatisticsWidget.cpp:142
 #, kde-format
@@ -767,25 +769,25 @@ msgstr "Dòng: "
 #: part/dockers/KWStatisticsWidget.cpp:145
 #, kde-format
 msgid "Readability:"
-msgstr ""
+msgstr "Khả năng đọc:"
 
 #: part/dockers/KWStatisticsWidget.cpp:147
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Flesch reading ease"
 msgid "Flesch reading ease"
 msgstr "Độ dễ đọc Flesch"
 
 #: part/dockers/KWStatisticsWidget.cpp:149
-#, fuzzy, kde-format
+#, kde-format
 msgid "East asian characters:"
-msgstr "Các kí tự Định dạng"
+msgstr "Kí tự Đông Á:"
 
 #. i18n: ectx: property (text), widget (QCheckBox, check_words)
 #: part/dockers/StatisticsPreferencesPopup.ui:17
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Words"
 msgid "Words"
-msgstr "Các từ"
+msgstr "Từ"
 
 #. i18n: ectx: property (text), widget (QCheckBox, check_sentences)
 #: part/dockers/StatisticsPreferencesPopup.ui:24
@@ -807,10 +809,10 @@ msgstr "Các dòng"
 
 #. i18n: ectx: property (text), widget (QCheckBox, check_charspace)
 #: part/dockers/StatisticsPreferencesPopup.ui:45
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Characters without spaces"
 msgid "Characters With Spaces"
-msgstr "Các kí tự không bao gồm khoảng trắng"
+msgstr "Các kí tự bao gồm khoảng trắng"
 
 #. i18n: ectx: property (text), widget (QCheckBox, check_charnospace)
 #: part/dockers/StatisticsPreferencesPopup.ui:52
@@ -820,13 +822,13 @@ msgstr "Các kí tự không bao gồm khoảng trắng"
 
 #. i18n: ectx: property (text), widget (QCheckBox, check_east)
 #: part/dockers/StatisticsPreferencesPopup.ui:59
-#, fuzzy, kde-format
+#, kde-format
 msgid "East Asian characters"
-msgstr "Các kí tự Định dạng"
+msgstr "Ký tự Đông Á"
 
 #. i18n: ectx: property (text), widget (QCheckBox, check_flesch)
 #: part/dockers/StatisticsPreferencesPopup.ui:66
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Flesch reading ease"
 msgid "Flesch Reading Ease"
 msgstr "Độ dễ đọc Flesch"
@@ -838,7 +840,7 @@ msgid "Standard"
 msgstr "Tiêu chuẩn"
 
 #: part/i18n/stylenames.cpp:9
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Style name"
 msgid "Head 1"
 msgstr "Tiêu đề 1"
@@ -862,16 +864,16 @@ msgid "Enumerated List"
 msgstr "Danh sách được đánh số"
 
 #: part/i18n/stylenames.cpp:13
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Style name"
 msgid "Alphabetical List"
-msgstr "Danh sách được xếp theo bảng chữ cái"
+msgstr "Danh sách theo bảng chữ cái"
 
 #: part/i18n/stylenames.cpp:14
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Style name"
 msgid "Bullet List"
-msgstr "Danh sách không được xếp thứ tự"
+msgstr "Danh sách đánh dấu"
 
 #: part/i18n/stylenames.cpp:15
 #, kde-format
@@ -904,24 +906,24 @@ msgid "Document Title"
 msgstr "Tiêu đề Tài liệu"
 
 #: part/i18n/stylenames.cpp:20
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Style name"
 #| msgid "Header 1"
 msgctxt "Style name"
 msgid "Header"
-msgstr "Tiêu đề 1"
+msgstr "Đầu tải"
 
 #: part/i18n/stylenames.cpp:21
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Style name"
 msgid "Footer"
-msgstr "Chèn"
+msgstr "Chân trang"
 
 #: part/i18n/stylenames.cpp:24
 #, kde-format
 msgctxt "Style name"
 msgid "Plain"
-msgstr ""
+msgstr "Đơn giản"
 
 #: part/i18n/stylenames.cpp:25
 #, kde-format
@@ -1083,25 +1085,25 @@ msgstr "Lưới 3"
 #, kde-format
 msgctxt "Style name"
 msgid "Gray Heading"
-msgstr ""
+msgstr "Tiêu đề Xám"
 
 #: part/i18n/stylenames.cpp:56
 #, kde-format
 msgctxt "Style name"
 msgid "Blue Heading"
-msgstr ""
+msgstr "Tiêu đề Xanh"
 
 #: part/i18n/stylenames.cpp:57
 #, kde-format
 msgctxt "Style name"
 msgid "Blue Traditional"
-msgstr ""
+msgstr "Xanh Truyền thống"
 
 #: part/i18n/stylenames.cpp:58
 #, kde-format
 msgctxt "Style name"
 msgid "Gray Traditional"
-msgstr ""
+msgstr "Truyền thống Xám"
 
 #: part/i18n/stylenames.cpp:59
 #, kde-format
@@ -1116,155 +1118,155 @@ msgid "Gray Top and Bottom"
 msgstr "Xám trên và dưới"
 
 #: part/KWAboutData.h:19
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "KOffice Word Processor"
 msgctxt "application name"
 msgid "Calligra Words"
-msgstr "Trình soạn thảo văn bản của KOffice"
+msgstr "Calligra Words"
 
 #: part/KWAboutData.h:21
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "KOffice Word Processor"
 msgid "Word processor"
-msgstr "Trình soạn thảo văn bản của KOffice"
+msgstr "Trình soạn thảo văn bản"
 
 #: part/KWAboutData.h:23
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "(c) 1998-2007, The KWord Team"
 msgid "Copyright 1998-%1, The Words Team"
-msgstr "Bản quyền 1998-2007, nhóm KWord"
+msgstr "Bản quyền 1998-%1, Nhóm Words"
 
 #: part/KWAboutData.h:31 part/KWAboutData.h:32
 #, kde-format
 msgid "Co maintainer"
-msgstr ""
+msgstr "Đồng bảo trì viên"
 
 #: part/KWAboutData.h:31
 #, kde-format
 msgid "Pierre Ducroquet"
-msgstr ""
+msgstr "Pierre Ducroquet"
 
 #: part/KWAboutData.h:32
 #, kde-format
 msgid "C. Boemann"
-msgstr ""
+msgstr "C. Boemann"
 
 #: part/KWAboutData.h:33 part/KWAboutData.h:34 part/KWAboutData.h:35
 #: part/KWAboutData.h:37
 #, kde-format
 msgid "Everything"
-msgstr ""
+msgstr "Tất cả"
 
 #: part/KWAboutData.h:33
 #, kde-format
 msgid "Sebastian Sauer"
-msgstr ""
+msgstr "Sebastian Sauer"
 
 #: part/KWAboutData.h:34
 #, kde-format
 msgid "Boudewijn Rempt"
-msgstr ""
+msgstr "Boudewijn Rempt"
 
 #: part/KWAboutData.h:35
 #, kde-format
 msgid "Pierre Stirnweiss"
-msgstr ""
+msgstr "Pierre Stirnweiss"
 
 #: part/KWAboutData.h:36
-#, fuzzy, kde-format
+#, kde-format
 msgid "Formatting stuff"
-msgstr "Các kí tự Định dạng"
+msgstr "Định dạng"
 
 #: part/KWAboutData.h:36
 #, kde-format
 msgid "Inge Wallin"
-msgstr ""
+msgstr "Inge Wallin"
 
 #: part/KWAboutData.h:37
 #, kde-format
 msgid "Thorsten Zachmann"
-msgstr ""
+msgstr "Thorsten Zachmann"
 
 #: part/KWAboutData.h:38 part/KWAboutData.h:44 part/KWAboutData.h:45
 #: part/KWAboutData.h:46 part/KWAboutData.h:58 part/KWAboutData.h:59
 #: part/KWAboutData.h:60 part/KWAboutData.h:61 part/KWAboutData.h:62
 #: part/KWAboutData.h:63 part/KWAboutData.h:64 part/KWAboutData.h:65
 #: part/KWAboutData.h:66 part/KWAboutData.h:67
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&File"
 msgid "Filter"
-msgstr "&Tệp"
+msgstr "Bộ lọc"
 
 #: part/KWAboutData.h:38
 #, kde-format
 msgid "Matus Uzak"
-msgstr ""
+msgstr "Matus Uzak"
 
 #: part/KWAboutData.h:39
 #, kde-format
 msgid "Layout and Painting"
-msgstr ""
+msgstr "Bố cục và Vẽ"
 
 #: part/KWAboutData.h:39
 #, kde-format
 msgid "Pavol Korinek"
-msgstr ""
+msgstr "Pavol Korinek"
 
 #: part/KWAboutData.h:40
 #, kde-format
 msgid "Shreya Pandit"
-msgstr ""
+msgstr "Shreya Pandit"
 
 #: part/KWAboutData.h:40
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Statistics"
 msgid "Statistics docker"
-msgstr "Thống kê"
+msgstr "Docker thống kê"
 
 #: part/KWAboutData.h:41
 #, kde-format
 msgid "Brijesh Patel"
-msgstr ""
+msgstr "Brijesh Patel"
 
 #: part/KWAboutData.h:41
-#, fuzzy, kde-format
+#, kde-format
 msgid "Foot and endnotes"
-msgstr "Chèn"
+msgstr "Chú thích cuối trang và cuối văn bản"
 
 #: part/KWAboutData.h:42
 #, kde-format
 msgid "Bibliography"
-msgstr ""
+msgstr "Thư mục"
 
 #: part/KWAboutData.h:42
 #, kde-format
 msgid "Smit Patel"
-msgstr ""
+msgstr "Smit Patel"
 
 #: part/KWAboutData.h:43
 #, kde-format
 msgid "Mojtaba Shahi"
-msgstr ""
+msgstr "Mojtaba Shahi"
 
 #: part/KWAboutData.h:43
-#, fuzzy, kde-format
+#, kde-format
 msgid "Style Manager"
-msgstr "Bảng"
+msgstr "Trình quản lý kiểu cách"
 
 #: part/KWAboutData.h:44
 #, kde-format
 msgid "Lassi Nieminen"
-msgstr ""
+msgstr "Lassi Nieminen"
 
 #: part/KWAboutData.h:45
 #, kde-format
 msgid "Hanzes Matus"
-msgstr ""
+msgstr "Hanzes Matus"
 
 #: part/KWAboutData.h:46
 #, kde-format
 msgid "Lukáš Tvrdý"
-msgstr ""
+msgstr "Lukáš Tvrdý"
 
 #: part/KWAboutData.h:47
 #, kde-format
@@ -1274,18 +1276,18 @@ msgstr "Thomas Zander"
 #: part/KWAboutData.h:48
 #, kde-format
 msgid "Girish Ramakrishnan"
-msgstr ""
+msgstr "Girish Ramakrishnan"
 
 #: part/KWAboutData.h:48 part/KWAboutData.h:49
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Sorting Order"
 msgid "ODF Support"
-msgstr "Thứ tự Sắp xếp"
+msgstr "Hỗ trợ ODF"
 
 #: part/KWAboutData.h:49
 #, kde-format
 msgid "Robert Mathias Marmorstein"
-msgstr ""
+msgstr "Robert Mathias Marmorstein"
 
 #: part/KWAboutData.h:50
 #, kde-format
@@ -1385,13 +1387,13 @@ msgstr "Michael Johnson"
 #: part/KWAboutData.h:68
 #, kde-format
 msgid "Fatcow Web Hosting"
-msgstr ""
+msgstr "Fatcow Tiếp đãi Web"
 
 #: part/KWAboutData.h:68
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Page Break"
 msgid "Page break icon"
-msgstr "Ngắt Trang"
+msgstr "Biểu tượng ngắt trang"
 
 #: part/KWAboutData.h:70
 #, kde-format
@@ -1412,48 +1414,48 @@ msgid "Copy"
 msgstr "Chép"
 
 #: part/KWDocument.cpp:538 part/KWStatusBar.cpp:154
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Style name"
 #| msgid "Standard"
 msgid "Standard"
 msgstr "Tiêu chuẩn"
 
 #: part/KWDocument.cpp:544
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Style name"
 #| msgid "Document Title"
 msgid "Document Title"
-msgstr "Tiêu đề Tài liệu"
+msgstr "Tiêu đề tài liệu"
 
 #: part/KWDocument.cpp:551
-#, fuzzy, kde-format
+#, kde-format
 msgid "Head 1"
 msgstr "Tiêu đề 1"
 
 #: part/KWDocument.cpp:557
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Style name"
 #| msgid "Head 2"
 msgid "Head 2"
 msgstr "Tiêu đề 2"
 
 #: part/KWDocument.cpp:563
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Style name"
 #| msgid "Head 3"
 msgid "Head 3"
 msgstr "Tiêu đề 3"
 
 #: part/KWDocument.cpp:569
-#, fuzzy, kde-format
+#, kde-format
 msgid "Bullet List"
-msgstr "Danh sách không được xếp thứ tự"
+msgstr "Danh sách đánh dấu"
 
 #: part/KWGui.cpp:68
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Tools"
 msgid "Tools"
-msgstr "Cô&ng cụ"
+msgstr "Công cụ"
 
 #: part/KWOdfLoader.cpp:83
 #, kde-format
@@ -1478,7 +1480,7 @@ msgstr ""
 "hợp."
 
 #: part/KWPageManager.cpp:24 part/KWPageManager.cpp:413
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Style name"
 #| msgid "Standard"
 msgctxt "Default page style display name"
@@ -1486,10 +1488,10 @@ msgid "Standard"
 msgstr "Tiêu chuẩn"
 
 #: part/KWPart.cpp:139
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Can not find needed text component, KWord will quit now"
 msgid "Can not find needed text component, Words will quit now"
-msgstr "Không thể tìm thấy thành phần văn bản cần thiết, KWord sẽ thoát ngay"
+msgstr "Không thể tìm thành phần văn bản cần thiết, Words sẽ thoát"
 
 #: part/KWPart.cpp:139
 #, kde-format
@@ -1507,59 +1509,59 @@ msgid "Saved"
 msgstr "Đã lưu"
 
 #: part/KWStatusBar.cpp:37
-#, fuzzy, kde-format
+#, kde-format
 msgid "Page %1 of %2"
-msgstr "Trang"
+msgstr "Trang %1 / %2"
 
 #: part/KWStatusBar.cpp:38
-#, fuzzy, kde-format
+#, kde-format
 msgid "Page %1-%2 of %3"
-msgstr "Trang"
+msgstr "Trang %1-%2 / %3"
 
 #: part/KWStatusBar.cpp:39
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Lines"
 msgid "Line %1"
-msgstr "Các dòng"
+msgstr "Dòng %1"
 
 #: part/KWStatusBar.cpp:132
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Page number:"
 msgid "Page Number"
-msgstr "Trang số:"
+msgstr "Số trang"
 
 #: part/KWStatusBar.cpp:145
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Page number:"
 msgid "Line Number"
-msgstr "Trang số:"
+msgstr "Số dòng"
 
 #: part/KWStatusBar.cpp:157
-#, fuzzy, kde-format
+#, kde-format
 msgid "Change the page style"
-msgstr "&Khung"
+msgstr "Thay đổi kiểu cách trang"
 
 #: part/KWStatusBar.cpp:165
-#, fuzzy, kde-format
+#, kde-format
 msgid "Page Style"
-msgstr "&Khung"
+msgstr "Kiểu cách trang"
 
 #: part/KWStatusBar.cpp:179
-#, fuzzy, kde-format
+#, kde-format
 msgid "Page Size"
-msgstr "Thay đổi"
+msgstr "Kích thước trang"
 
 #: part/KWStatusBar.cpp:194
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "State: saved/modified"
 msgid "Saved/Modified"
-msgstr "Trạng thái: đã lưu/đã thay đổi"
+msgstr "Đã lưu/Đã sửa"
 
 #: part/KWStatusBar.cpp:207
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Mouseposition: X:Y"
 msgid "Mouse Cursor X:Y"
-msgstr "Vị trí con trỏ: X:Y"
+msgstr "Con trỏ chuột X:Y"
 
 #: part/KWStatusBar.cpp:220
 #, kde-format
@@ -1569,28 +1571,28 @@ msgstr "Điều khiển Phóng"
 #: part/KWView.cpp:184
 #, kde-format
 msgid "Exit Fullscreen Mode"
-msgstr ""
+msgstr "Thoát Chế Độ Toàn Màn Hình"
 
 #: part/KWView.cpp:276
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Page Properties"
 msgid "Shape Properties..."
-msgstr "Thuộc tính của Trang"
+msgstr "Thuộc tính Hình dạng..."
 
 #: part/KWView.cpp:278
 #, kde-format
 msgid "Change how the shape behave"
-msgstr ""
+msgstr "Thay đổi cách hình dạng ứng xử"
 
 #: part/KWView.cpp:287
-#, fuzzy, kde-format
+#, kde-format
 msgid "Create Template From Document..."
-msgstr "Chèn Mới "
+msgstr "Tạo Bản Mẫu Từ Tài Liệu..."
 
 #: part/KWView.cpp:288
 #, kde-format
 msgid "Save this document and use it later as a template"
-msgstr ""
+msgstr "Lưu tài liệu này và sử dụng nó sau như một bản mẫu"
 
 #: part/KWView.cpp:290
 #, kde-format
@@ -1598,11 +1600,13 @@ msgid ""
 "You can save this document as a template.<br><br>You can use this new "
 "template as a starting point for another document."
 msgstr ""
+"Bạn có thể lưu tài liệu này thành bản mẫu.<br><br>Bạn có thể dùng bản mẫu "
+"mới này làm điểm khởi đầu cho tài liệu khác."
 
 #: part/KWView.cpp:309
-#, fuzzy, kde-format
+#, kde-format
 msgid "Show Formatting Characters"
-msgstr "Các kí tự Định dạng"
+msgstr "Hiển thị kí tự định dạng"
 
 #: part/KWView.cpp:315
 #, kde-format
@@ -1610,7 +1614,7 @@ msgid "Toggle the display of non-printing characters"
 msgstr "Hiện/ẩn các kí tự không in được"
 
 #: part/KWView.cpp:317
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "Toggle the display of non-printing characters.<br/><br/>When this is "
 #| "enabled, KWord shows you tabs, spaces, carriage returns and other non-"
@@ -1620,18 +1624,18 @@ msgid ""
 "enabled, Words shows you tabs, spaces, carriage returns and other non-"
 "printing characters."
 msgstr ""
-"Hiện/ẩn các kí tự không in được.<br/><br/>Nếu được chọn, KWord hiện tab, "
-"khoảng trống, xuống dòng và các kí tự không in được khác."
+"Bật/tắt bộ hiển thị kí tự không in.<br/><br/>Khi bật, Words hiện tab, "
+"khoảng trống, xuống dòng và các kí tự không in khác."
 
 #: part/KWView.cpp:320
 #, kde-format
 msgid "Show Field Shadings"
-msgstr ""
+msgstr "Hiện Bóng Trường"
 
 #: part/KWView.cpp:326
 #, kde-format
 msgid "Toggle the shaded background of fields"
-msgstr ""
+msgstr "Bật/tắt nền tô bóng của các trường"
 
 #: part/KWView.cpp:327
 #, kde-format
@@ -1639,12 +1643,14 @@ msgid ""
 "Toggle the visualization of fields (variables etc.) by drawing their "
 "background in a contrasting color."
 msgstr ""
+"Bật/tắt hiển thị các trường (biến, v.v.) bằng cách tô nền chúng bằng màu "
+"tương phản."
 
 #: part/KWView.cpp:329
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Configure Table Borders"
 msgid "Show Text Shape Borders"
-msgstr "Cấu hình Viền Bảng"
+msgstr "Hiện Viền Hình Dạng Văn Bản"
 
 #: part/KWView.cpp:330
 #, kde-format
@@ -1662,19 +1668,19 @@ msgstr ""
 "này hữu hiệu cho việc xem tài liệu sẽ in ra như thế nào."
 
 #: part/KWView.cpp:340
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Configure Table Borders"
 msgid "Show Table Borders"
-msgstr "Cấu hình Viền Bảng"
+msgstr "Hiện Viền Bảng"
 
 #: part/KWView.cpp:346
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Toggle the display of non-printing characters"
 msgid "Toggle the display of table borders"
-msgstr "Hiện/ẩn các kí tự không in được"
+msgstr "Bật/tắt bộ hiển thị đường viền bảng"
 
 #: part/KWView.cpp:348
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "Toggle the display of non-printing characters.<br/><br/>When this is "
 #| "enabled, KWord shows you tabs, spaces, carriage returns and other non-"
@@ -1683,22 +1689,22 @@ msgid ""
 "Toggle the display of table borders.<br/><br/>When this is enabled, Words "
 "shows you any invisible table borders with a thin gray line."
 msgstr ""
-"Hiện/ẩn các kí tự không in được.<br/><br/>Nếu được chọn, KWord hiện tab, "
-"khoảng trống, xuống dòng và các kí tự không in được khác."
+"Bật/tắt bộ hiển thị đường viền bảng.<br/><br/>Khi bật, Words hiển thị đường "
+"viền bảng ẩn bằng đường mảnh màu xám."
 
 #: part/KWView.cpp:350
 #, kde-format
 msgid "Show Section Bounds"
-msgstr ""
+msgstr "Hiển thị ranh giới khu vực"
 
 #: part/KWView.cpp:356
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Toggle the display of non-printing characters"
 msgid "Toggle the display of section bounds"
-msgstr "Hiện/ẩn các kí tự không in được"
+msgstr "Bật/tắt hiển thị ranh giới khu vực"
 
 #: part/KWView.cpp:358
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "Toggle the display of non-printing characters.<br/><br/>When this is "
 #| "enabled, KWord shows you tabs, spaces, carriage returns and other non-"
@@ -1707,8 +1713,8 @@ msgid ""
 "Toggle the display of section bounds.<br/><br/>When this is enabled, any "
 "section bounds will be indicated with a thin gray horizontal brackets."
 msgstr ""
-"Hiện/ẩn các kí tự không in được.<br/><br/>Nếu được chọn, KWord hiện tab, "
-"khoảng trống, xuống dòng và các kí tự không in được khác."
+"Bật/tắt hiển thị ranh giới khu vực.<br/><br/>Khi bật, ranh giới khu vực sẽ "
+"được đánh dấu bằng dấu ngoặc ngang mỏng màu xám."
 
 #: part/KWView.cpp:360
 #, kde-format
@@ -1734,41 +1740,41 @@ msgstr ""
 "<p>Bỏ chọn ở đây để ẩn các thước kẻ.</p>"
 
 #: part/KWView.cpp:375
-#, fuzzy, kde-format
+#, kde-format
 msgid "Snap to Grid"
 msgstr "Bắt vào Lưới"
 
 #: part/KWView.cpp:383
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Status Bar"
 msgid "Show Status Bar"
-msgstr "Thanh Trạng thái"
+msgstr "Hiện Thanh Trạng thái"
 
 #: part/KWView.cpp:384
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Show the status bar"
 msgid "Shows or hides the status bar"
-msgstr "Hiện thanh trạng thái"
+msgstr "Hiện hoặc ẩn thanh trạng thái"
 
 #: part/KWView.cpp:390
 #, kde-format
 msgid "Fullscreen Mode"
-msgstr ""
+msgstr "Chế độ toàn màn hình"
 
 #: part/KWView.cpp:391
 #, kde-format
 msgid "Set view in fullscreen mode"
-msgstr ""
+msgstr "Đặt khung xem ở chế độ toàn màn hình"
 
 #: part/KWView.cpp:398
-#, fuzzy, kde-format
+#, kde-format
 msgid "Semantic Stylesheets..."
-msgstr "Viền"
+msgstr "Bảng định kiểu ngữ nghĩa..."
 
 #: part/KWView.cpp:400
-#, fuzzy, kde-format
+#, kde-format
 msgid "Modify and add semantic stylesheets"
-msgstr "Viền"
+msgstr "Chỉnh sửa và thêm bảng định kiểu ngữ nghĩa"
 
 #: part/KWView.cpp:401
 #, kde-format
@@ -1776,11 +1782,13 @@ msgid ""
 "Stylesheets are used to format the display of information which is stored in "
 "RDF."
 msgstr ""
+"Stylesheet được sử dụng để định dạng bộ hiển thị thông tin được lưu trữ "
+"trong RDF."
 
 #: part/KWView.cpp:416
-#, fuzzy, kde-format
+#, kde-format
 msgid "Configure..."
-msgstr "Cấu hình"
+msgstr "Cấu hình..."
 
 #: part/KWView.cpp:425
 #, kde-format
@@ -1793,64 +1801,64 @@ msgid "Change properties of entire page"
 msgstr "Thay đổi thuộc tính của toàn bộ trang"
 
 #: part/KWView.cpp:429
-#, fuzzy, kde-format
+#, kde-format
 msgid ""
 "Change properties of the entire page.<p>Currently you can change paper size, "
 "paper orientation, header and footer sizes, and column settings.</p>"
 msgstr ""
-"Thay đổi thuộc tính của toàn bộ trang.<p>Hiện tại bạn có thể thay đổi khích "
-"thước trang, hướng giấy, cỡ header và footer, và thiết lập cột.</p>"
+"Thay đổi thuộc tính toàn trang.<p>Hiện tại bạn có thể thay đổi kích thước "
+"giấy, hướng giấy, cỡ đầu tải và chân trang, và thiết lập cột.</p>"
 
 #: part/KWView.cpp:432
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Create Frame"
 msgid "Create Header"
-msgstr "Tạo Khung"
+msgstr "Tạo Đầu Tải"
 
 #: part/KWView.cpp:438
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Create Frame"
 msgid "Create Footer"
-msgstr "Tạo Khung"
+msgstr "Tạo Chân Trang"
 
 #: part/KWView.cpp:445
-#, fuzzy, kde-format
+#, kde-format
 msgid "Show Comments"
-msgstr "Tháo gỡ"
+msgstr "Hiển thị Bình luận"
 
 #: part/KWView.cpp:446
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "No framesets in document"
 msgid "Shows comments in the document"
-msgstr "Không có bộ khung nào trong tài liệu"
+msgstr "Hiển thị bình luận trong tài liệu"
 
 #: part/KWView.cpp:452
 #, kde-format
 msgid "Word Count"
-msgstr ""
+msgstr "Số từ"
 
 #: part/KWView.cpp:453
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Show the status bar"
 msgid "Shows or hides word counting in status bar"
-msgstr "Hiện thanh trạng thái"
+msgstr "Hiện hoặc ẩn đếm từ trong thanh trạng thái"
 
 #: part/pagetool/KWPageTool.cpp:85
-#, fuzzy, kde-format
+#, kde-format
 msgid "Page Setup"
-msgstr "Thay đổi"
+msgstr "Thiết lập trang"
 
 #: part/pagetool/KWPageTool.cpp:89
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Style name"
 #| msgid "Header 1"
 msgid "Header & Footer"
-msgstr "Tiêu đề 1"
+msgstr "Đầu tải & Chân trang"
 
 #: part/pagetool/KWPageToolFactory.cpp:17
-#, fuzzy, kde-format
+#, kde-format
 msgid "Page layout"
-msgstr "Bố trí Trang:"
+msgstr "Bố cục trang"
 
 #. i18n: ectx: property (text), widget (QToolButton, setup)
 #. i18n: ectx: property (text), widget (QToolButton, insertHeader)
@@ -1866,48 +1874,48 @@ msgstr "..."
 #, kde-format
 msgctxt "Label for the Find text input box"
 msgid "Find:"
-msgstr ""
+msgstr "Tìm:"
 
 #: part/widgets/KoFindToolbar.cpp:81
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Index Page"
 msgctxt "Next search result"
 msgid "Next"
-msgstr "Chèn Trang"
+msgstr "Tiếp"
 
 #: part/widgets/KoFindToolbar.cpp:93
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Previous search result"
 msgid "Previous"
-msgstr "Xem trước"
+msgstr "Trước"
 
 #: part/widgets/KoFindToolbar.cpp:104
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Options"
 msgctxt "Search options"
 msgid "Options"
-msgstr "Tuỳ chọn"
+msgstr "Tùy chọn"
 
 #: part/widgets/KoFindToolbar.cpp:134
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Label for the Replace text input box"
 msgid "Replace:"
-msgstr "Thay thế"
+msgstr "Thay thế:"
 
 #: part/widgets/KoFindToolbar.cpp:146
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Replace the current match"
 msgid "Replace"
 msgstr "Thay thế"
 
 #: part/widgets/KoFindToolbar.cpp:154
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Replace all found matches"
 msgid "Replace All"
-msgstr "Thay thế"
+msgstr "Thay thế tất cả"
 
 #: part/widgets/KoFindToolbar.cpp:164
-#, fuzzy, kde-format
+#, kde-format
 msgid "Replace"
 msgstr "Thay thế"
 
@@ -1916,43 +1924,43 @@ msgstr "Thay thế"
 msgctxt "Total number of matches"
 msgid "1 match found"
 msgid_plural "%1 matches found"
-msgstr[0] ""
+msgstr[0] "Tìm thấy %1 kết quả"
 
 #: part/widgets/KoFindToolbar.cpp:235
 #, kde-format
 msgid "No matches found"
-msgstr ""
+msgstr "Không tìm thấy kết quả"
 
 #: part/widgets/KoFindToolbar.cpp:241
 #, kde-format
 msgid "Search hit bottom, continuing from top."
-msgstr ""
+msgstr "Tìm kiếm đã đến cuối, tiếp tục từ đầu."
 
 #: part/widgets/KoFindToolbar.cpp:243
 #, kde-format
 msgid "Search hit top, continuing from bottom."
-msgstr ""
+msgstr "Tìm kiếm đến đầu, tiếp tục từ cuối."
 
 #: part/Words.cpp:41
-#, fuzzy, kde-format
+#, kde-format
 msgid "Odd Pages Header"
-msgstr "Nội dung"
+msgstr "Đầu tải trang lẻ"
 
 #: part/Words.cpp:43
-#, fuzzy, kde-format
+#, kde-format
 msgid "Even Pages Header"
-msgstr "Nội dung"
+msgstr "Đầu tải trang chẵn"
 
 #: part/Words.cpp:45
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Create Frame"
 msgid "Odd Pages Footer"
-msgstr "Tạo Khung"
+msgstr "Chân trang trang lẻ"
 
 #: part/Words.cpp:47
-#, fuzzy, kde-format
+#, kde-format
 msgid "Even Pages Footer"
-msgstr "Nội dung"
+msgstr "Chân trang trang chẵn"
 
 #: part/Words.cpp:49
 #, kde-format
@@ -1960,7 +1968,7 @@ msgid "Main text"
 msgstr "Văn bản chính"
 
 #: part/Words.cpp:51
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Other Pages"
 msgid "Other text"
-msgstr "Các trang Khác"
+msgstr "Văn bản khác"

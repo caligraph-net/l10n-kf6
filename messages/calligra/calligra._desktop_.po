@@ -1,0 +1,7147 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-04 00:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: braindump/data/braindump_extensions.desktop:4
+msgctxt "Comment"
+msgid "Extensions for Braindump"
+msgstr "Phần mở rộng cho Braindump"
+
+#: braindump/data/org.kde.braindump.desktop:5
+msgctxt "GenericName"
+msgid "Notes and idea gathering"
+msgstr "Ghi chú và tập hợp ý tưởng"
+
+#: braindump/data/org.kde.braindump.desktop:45
+msgctxt "Name"
+msgid "Braindump"
+msgstr "Braindump"
+
+#: doc/calligra.desktop:3
+msgctxt "Name"
+msgid "Calligra"
+msgstr "Calligra"
+
+#: extras/filemanagertemplates/Illustration.desktop:2
+msgctxt "Name"
+msgid "Illustration Document..."
+msgstr "Tài liệu minh họa..."
+
+#: extras/filemanagertemplates/Illustration.desktop:57
+msgctxt "Comment"
+msgid "New Karbon document:"
+msgstr "Tài liệu Karbon mới:"
+
+#: extras/filemanagertemplates/Presentation.desktop:2
+msgctxt "Name"
+msgid "Presentation Document..."
+msgstr "Tài liệu trình bày..."
+
+#: extras/filemanagertemplates/Presentation.desktop:62
+msgctxt "Comment"
+msgid "New Stage presentation document:"
+msgstr "Tài liệu trình bày Stage mới:"
+
+#: extras/filemanagertemplates/SpreadSheet.desktop:2
+msgctxt "Name"
+msgid "Spread Sheet Document..."
+msgstr "Tài liệu Bảng tính..."
+
+#: extras/filemanagertemplates/SpreadSheet.desktop:62
+msgctxt "Comment"
+msgid "New Sheets document:"
+msgstr "Tài liệu Sheets mới:"
+
+#: extras/filemanagertemplates/TextDocument.desktop:2
+msgctxt "Name"
+msgid "Text Document..."
+msgstr "Tài liệu văn bản..."
+
+#: extras/filemanagertemplates/TextDocument.desktop:64
+msgctxt "Comment"
+msgid "New Words document:"
+msgstr "Tài liệu Words mới:"
+
+#: extras/okularodpgenerator/okularApplication_odp_calligra.desktop:4
+#: extras/okularodtgenerator/okularApplication_odt_calligra.desktop:4
+#: filters/stage/powerpoint/okularApplication_powerpoint_calligra.desktop:4
+#: filters/stage/pptx/okularApplication_pptx_calligra.desktop:4
+#: filters/words/docx/import/okularApplication_docx_calligra.desktop:4
+#: filters/words/docx/import/okularDocx_calligra.desktop:3
+#: filters/words/msword-odf/okularApplication_doc_calligra.desktop:4
+#: filters/words/rtf/import/okularApplication_rtf_calligra.desktop:4
+#: filters/words/rtf/import/okularRtf_calligra.desktop:3
+#: filters/words/wordperfect/import/okularApplication_wpd_calligra.desktop:4
+#: filters/words/wordperfect/import/okularWpd_calligra.desktop:3
+msgctxt "Name"
+msgid "okular"
+msgstr "okular"
+
+#: extras/okularodpgenerator/okularApplication_odp_calligra.desktop:51
+#: extras/okularodtgenerator/okularApplication_odt_calligra.desktop:51
+#: filters/stage/powerpoint/okularApplication_powerpoint_calligra.desktop:51
+#: filters/stage/pptx/okularApplication_pptx_calligra.desktop:51
+#: filters/words/docx/import/okularApplication_docx_calligra.desktop:51
+#: filters/words/msword-odf/okularApplication_doc_calligra.desktop:51
+#: filters/words/rtf/import/okularApplication_rtf_calligra.desktop:51
+#: filters/words/wordperfect/import/okularApplication_wpd_calligra.desktop:51
+msgctxt "GenericName"
+msgid "Document Viewer"
+msgstr "Trình xem tài liệu"
+
+#: extras/quickprint/karbon_print.desktop:8
+msgctxt "Name"
+msgid "Print with Karbon..."
+msgstr "In bằng Karbon..."
+
+#: extras/quickprint/sheets_print.desktop:8
+msgctxt "Name"
+msgid "Print with Calligra Sheets..."
+msgstr "In bằng Calligra Sheets..."
+
+#: extras/quickprint/stage_print.desktop:8
+msgctxt "Name"
+msgid "Print with Calligra Stage..."
+msgstr "In bằng Calligra Stage..."
+
+#: extras/quickprint/words_print.desktop:9
+msgctxt "Name"
+msgid "Print with Calligra Words..."
+msgstr "In bằng Calligra Words..."
+
+#: filters/words/ascii/org.kde.calligrawords_ascii.desktop:6
+#: words/app/org.kde.calligrawords.desktop:3
+msgctxt "Name"
+msgid "Calligra Words"
+msgstr "Calligra Words"
+
+#: gemini/org.kde.calligragemini.desktop:3
+msgctxt "Name"
+msgid "Calligra Gemini"
+msgstr "Calligra Gemini"
+
+#: gemini/org.kde.calligragemini.desktop:41
+msgctxt "GenericName"
+msgid "Word Processing and Presentation"
+msgstr "Xử lý Văn bản và Trình chiếu"
+
+#: karbon/data/karbon_dock.desktop:4
+msgctxt "Comment"
+msgid "Docker for Karbon"
+msgstr "Docker cho Karbon"
+
+#: karbon/data/karbon_plugin.desktop:4 karbon/data/karbon_viewplugin.desktop:4
+msgctxt "Comment"
+msgid "GUI functionality for Karbon"
+msgstr "Chức năng giao diện cho Karbon"
+
+#: karbon/data/org.kde.karbon.desktop:3
+msgctxt "Name"
+msgid "Karbon"
+msgstr "Karbon"
+
+#: karbon/data/org.kde.karbon.desktop:46
+msgctxt "GenericName"
+msgid "Scalable Graphics"
+msgstr "Đồ họa Co giãn"
+
+#: karbon/data/org.kde.karbon.desktop:115
+msgctxt "Comment"
+msgid "Create scalable vector drawings"
+msgstr "Tạo bản vẽ vector có thể thay đổi kích thước"
+
+#: karbon/templates/basic/.directory:2
+msgctxt "Name"
+msgid "Basic"
+msgstr "Cơ bản"
+
+#: karbon/templates/basic/empty.desktop:5
+msgctxt "Name"
+msgid "Empty Document"
+msgstr "Tài liệu trống"
+
+#: karbon/templates/basic/empty.desktop:65
+msgctxt "Comment"
+msgid "Creates an empty document"
+msgstr "Tạo tài liệu trống"
+
+#: libs/flake/filtereffect.desktop:2
+msgctxt "Name"
+msgid "Filter effect definition"
+msgstr "Định nghĩa hiệu ứng lọc"
+
+#: libs/flake/filtereffect.desktop:43
+msgctxt "Comment"
+msgid "Definition of a flake filter effect"
+msgstr "Định nghĩa của hiệu ứng lọc flake"
+
+#: libs/flake/flakeborder.desktop:2
+msgctxt "Name"
+msgid "Shape border definition"
+msgstr "Định nghĩa viền hình dạng"
+
+#: libs/flake/flakeborder.desktop:46
+msgctxt "Comment"
+msgid "Definition of a flake shape border"
+msgstr "Định nghĩa đường viền hình dạng flake"
+
+#: libs/flake/flake.desktop:2
+msgctxt "Name"
+msgid "Flake Plugin"
+msgstr "Phần cài cắm Flake"
+
+#: libs/flake/flake.desktop:50
+msgctxt "Comment"
+msgid "A plugin that contains a set of a shape and a tool"
+msgstr "Một phần cài cắm chứa một bộ gồm hình dạng và công cụ"
+
+#: libs/flake/flakedevice.desktop:2
+msgctxt "Name"
+msgid "Flake device definition"
+msgstr "Định nghĩa thiết bị Flake"
+
+#: libs/flake/flakedevice.desktop:42
+msgctxt "Comment"
+msgid "Definition of flake devices"
+msgstr "Định nghĩa các thiết bị flake"
+
+#: libs/flake/flakeshape.desktop:2
+msgctxt "Name"
+msgid "Shape definition"
+msgstr "Định nghĩa hình dạng"
+
+#: libs/flake/flakeshape.desktop:48
+msgctxt "Comment"
+msgid "Definition of a flake shape object"
+msgstr "Định nghĩa của một đối tượng hình dạng flake"
+
+#: libs/flake/flaketool.desktop:2
+msgctxt "Name"
+msgid "Flake tool definition"
+msgstr "Định nghĩa công cụ Flake"
+
+#: libs/flake/flaketool.desktop:46
+msgctxt "Comment"
+msgid "Definition of flake tools"
+msgstr "Định nghĩa của công cụ flake"
+
+#: libs/flake/presentationeventaction.desktop:2
+msgctxt "Name"
+msgid "Presentation Event Action Plugin"
+msgstr "Phần cài cắm Hành động Sự kiện Trình bày"
+
+#: libs/flake/presentationeventaction.desktop:41
+msgctxt "Comment"
+msgid "A plugin that contains a presentation event action"
+msgstr "Một phần cài cắm chứa hành động sự kiện trình bày"
+
+#: libs/flake/scripteventaction.desktop:2
+msgctxt "Name"
+msgid "Script Event Action Plugin"
+msgstr "Phần cài cắm Hành động Sự kiện Kịch bản"
+
+#: libs/flake/scripteventaction.desktop:41
+msgctxt "Comment"
+msgid "A plugin that contains a script event action"
+msgstr "Một phần cài cắm chứa hành động sự kiện kịch bản"
+
+#: libs/main/calligradocker.desktop:2
+msgctxt "Name"
+msgid "Calligra Docker Plugin"
+msgstr "Phần cài cắm Docker Calligra"
+
+#: libs/main/calligradocker.desktop:43
+msgctxt "Comment"
+msgid "A plugin that contains a so called 'dockwidget'"
+msgstr "Một phần cài cắm chứa một 'dockwidget'"
+
+#: libs/pageapp/tools/kopa_tool.desktop:4
+msgctxt "Comment"
+msgid "Tool for Calligra Page Applications"
+msgstr "Công cụ cho Ứng dụng Trang Calligra"
+
+#: libs/pigment/pigment.desktop:4
+msgctxt "Comment"
+msgid ""
+"A module implementing a complete colorspace for use with Pigment Color "
+"Manipulation System"
+msgstr ""
+"Một khối thực thi một không gian màu hoàn tất để sử dụng với Hệ thống Thao "
+"tác Màu Pigment"
+
+#: libs/pigment/pigmentextension.desktop:4
+msgctxt "Comment"
+msgid ""
+"A module implementing an extension to a colorspace of the Pigment Color "
+"Manipulation System"
+msgstr ""
+"Một khối thực hiện phần mở rộng cho không gian màu của Hệ thống Xử lý Màu "
+"Pigment"
+
+#: libs/rdf/calligra_semanticitem.desktop:2
+msgctxt "Name"
+msgid "Semantic item definition"
+msgstr "Định nghĩa mục ngữ nghĩa"
+
+#: libs/rdf/calligra_semanticitem.desktop:36
+msgctxt "Comment"
+msgid "Definition of a semantic item object"
+msgstr "Định nghĩa của một đối tượng mục ngữ nghĩa"
+
+#: libs/text/inlinetextobject.desktop:2
+msgctxt "Name"
+msgid "Inline Text Object Plugin"
+msgstr "Phần cài cắm đối tượng văn bản nội tuyến"
+
+#: libs/text/inlinetextobject.desktop:46
+msgctxt "Comment"
+msgid "Definition of a text object"
+msgstr "Định nghĩa của một đối tượng văn bản"
+
+#: libs/text/texteditingplugin.desktop:2
+msgctxt "Name"
+msgid "Text Editing plugin for the Calligra text tool"
+msgstr "Phần cài cắm chỉnh sửa văn bản cho công cụ văn bản Calligra"
+
+#: libs/text/texteditingplugin.desktop:43
+msgctxt "Comment"
+msgid "Definition of a text-editing plugin"
+msgstr "Định nghĩa của một phần cài cắm chỉnh sửa văn bản"
+
+#: plugins/stencilsdocker/stencils/Assorted/arrow-chevron.desktop:2
+msgctxt "Name"
+msgid "Chevron"
+msgstr "Mũi tên hình chữ V"
+
+#: plugins/stencilsdocker/stencils/Assorted/arrow-down.desktop:2
+msgctxt "Name"
+msgid "Down Arrow"
+msgstr "Mũi tên xuống"
+
+#: plugins/stencilsdocker/stencils/Assorted/arrow-left.desktop:2
+msgctxt "Name"
+msgid "Left Arrow"
+msgstr "Mũi tên trái"
+
+#: plugins/stencilsdocker/stencils/Assorted/arrow-left-notched.desktop:2
+msgctxt "Name"
+msgid "Notched Left Arrow"
+msgstr "Mũi Tên Trái Có Khấc"
+
+#: plugins/stencilsdocker/stencils/Assorted/arrow-left-right.desktop:2
+msgctxt "Name"
+msgid "Left-Right Arrow"
+msgstr "Mũi tên trái-phải"
+
+#: plugins/stencilsdocker/stencils/Assorted/arrow-left-right-up.desktop:2
+msgctxt "Name"
+msgid "Left-Right-Up Arrow"
+msgstr "Mũi Tên Trái-Phải-Lên"
+
+#: plugins/stencilsdocker/stencils/Assorted/arrow-left-up.desktop:2
+msgctxt "Name"
+msgid "Left-Up Arrow"
+msgstr "Mũi tên Trái-Lên"
+
+#: plugins/stencilsdocker/stencils/Assorted/arrow-pentagon.desktop:2
+#: plugins/stencilsdocker/stencils/Assorted/pentagon.desktop:2
+msgctxt "Name"
+msgid "Pentagon"
+msgstr "Ngũ giác"
+
+#: plugins/stencilsdocker/stencils/Assorted/arrow-quad.desktop:2
+msgctxt "Name"
+msgid "Quad Arrow"
+msgstr "Mũi Tên Bốn Hướng"
+
+#: plugins/stencilsdocker/stencils/Assorted/arrow-right.desktop:2
+#: plugins/stencilsdocker/stencils/Civil/civil_arrow_right.desktop:2
+msgctxt "Name"
+msgid "Right Arrow"
+msgstr "Mũi tên phải"
+
+#: plugins/stencilsdocker/stencils/Assorted/arrow-right-notched.desktop:2
+msgctxt "Name"
+msgid "Notched Right Arrow"
+msgstr "Mũi Tên Phải Có Khấc"
+
+#: plugins/stencilsdocker/stencils/Assorted/arrow-turn-up.desktop:2
+msgctxt "Name"
+msgid "Turn-Up Arrow"
+msgstr "Mũi Tên Rẽ Lên"
+
+#: plugins/stencilsdocker/stencils/Assorted/arrow-up.desktop:2
+#: plugins/stencilsdocker/stencils/Civil/civil_arrow_up.desktop:2
+msgctxt "Name"
+msgid "Up Arrow"
+msgstr "Mũi tên lên"
+
+#: plugins/stencilsdocker/stencils/Assorted/arrow-up-down.desktop:2
+msgctxt "Name"
+msgid "Up-Down Arrow"
+msgstr "Mũi Tên Lên-Xuống"
+
+#: plugins/stencilsdocker/stencils/Assorted/arrow-up-down-left.desktop:2
+msgctxt "Name"
+msgid "Up-Down-Left Arrow"
+msgstr "Mũi Tên Lên-Xuống-Trái"
+
+#: plugins/stencilsdocker/stencils/Assorted/circle.desktop:2
+msgctxt "Name"
+msgid "Perfect Circle"
+msgstr "Hình tròn hoàn hảo"
+
+#: plugins/stencilsdocker/stencils/Assorted/circle-quarter.desktop:2
+msgctxt "Name"
+msgid "Quarter Circle"
+msgstr "Một Phần Tư Hình Tròn"
+
+#: plugins/stencilsdocker/stencils/Assorted/collection.desktop:2
+msgctxt "Name"
+msgid "Assorted"
+msgstr "Hỗn hợp"
+
+#: plugins/stencilsdocker/stencils/Assorted/cross-maltese.desktop:2
+msgctxt "Name"
+msgid "Maltese Cross"
+msgstr "Liên Maltese"
+
+#: plugins/stencilsdocker/stencils/Assorted/cross-swiss.desktop:2
+msgctxt "Name"
+msgid "Swiss Cross"
+msgstr "Chéo Thụy Sĩ"
+
+#: plugins/stencilsdocker/stencils/Assorted/diamond.desktop:2
+msgctxt "Name"
+msgid "Diamond"
+msgstr "Kim cương"
+
+#: plugins/stencilsdocker/stencils/Assorted/heart.desktop:2
+msgctxt "Name"
+msgid "Heart"
+msgstr "Trái tim"
+
+#: plugins/stencilsdocker/stencils/Assorted/heptagon.desktop:2
+msgctxt "Name"
+msgid "Heptagon"
+msgstr "Hình thất giác"
+
+#: plugins/stencilsdocker/stencils/Assorted/hexagon.desktop:2
+msgctxt "Name"
+msgid "Hexagon"
+msgstr "Lục giác"
+
+#: plugins/stencilsdocker/stencils/Assorted/moon-quarter.desktop:2
+msgctxt "Name"
+msgid "Quarter Moon"
+msgstr "Trăng Bán Nguyệt"
+
+#: plugins/stencilsdocker/stencils/Assorted/octagon.desktop:2
+msgctxt "Name"
+msgid "Octogon"
+msgstr "Bát giác"
+
+#: plugins/stencilsdocker/stencils/Assorted/parallelogram-horizontal.desktop:2
+msgctxt "Name"
+msgid "Horizontal Parallelogram"
+msgstr "Hình bình hành ngang"
+
+#: plugins/stencilsdocker/stencils/Assorted/parallelogram-vertical.desktop:2
+msgctxt "Name"
+msgid "Vertical Parallelogram"
+msgstr "Hình bình hành dọc"
+
+#: plugins/stencilsdocker/stencils/Assorted/square.desktop:2
+msgctxt "Name"
+msgid "Perfect Square"
+msgstr "Hình vuông hoàn hảo"
+
+#: plugins/stencilsdocker/stencils/Assorted/star4curved.desktop:2
+msgctxt "Name"
+msgid "Curved Four Point Star"
+msgstr "Ngôi Sao Bốn Cánh Cong"
+
+#: plugins/stencilsdocker/stencils/Assorted/star4.desktop:2
+msgctxt "Name"
+msgid "Four Point Star"
+msgstr "Ngôi Sao Bốn Cánh"
+
+#: plugins/stencilsdocker/stencils/Assorted/star5.desktop:2
+msgctxt "Name"
+msgid "Five Point Star"
+msgstr "Ngôi Sao Năm Cánh"
+
+#: plugins/stencilsdocker/stencils/Assorted/star6.desktop:2
+msgctxt "Name"
+msgid "Six Point Star"
+msgstr "Ngôi Sao Sáu Cánh"
+
+#: plugins/stencilsdocker/stencils/Assorted/star7.desktop:2
+msgctxt "Name"
+msgid "Seven Point Star"
+msgstr "Ngôi Sao Bảy Cánh"
+
+#: plugins/stencilsdocker/stencils/Assorted/star8curved.desktop:2
+msgctxt "Name"
+msgid "Curved Eight Point Star"
+msgstr "Ngôi Sao Tám Cánh Cong"
+
+#: plugins/stencilsdocker/stencils/Assorted/star8.desktop:2
+msgctxt "Name"
+msgid "Eight Point Star"
+msgstr "Ngôi Sao Tám Cánh"
+
+#: plugins/stencilsdocker/stencils/Assorted/star8sharp.desktop:2
+msgctxt "Name"
+msgid "Sharp Eight Point Star"
+msgstr "Ngôi Sao Tám Cánh Sắc"
+
+#: plugins/stencilsdocker/stencils/Assorted/sun.desktop:2
+msgctxt "Name"
+msgid "Sun"
+msgstr "Mặt trời"
+
+#: plugins/stencilsdocker/stencils/Assorted/trapezoid.desktop:2
+msgctxt "Name"
+msgid "Trapezoid"
+msgstr "Hình thang"
+
+#: plugins/stencilsdocker/stencils/Assorted/triangle-isoceles.desktop:2
+msgctxt "Name"
+msgid "Isosceles Triangle"
+msgstr "Tam giác cân"
+
+#: plugins/stencilsdocker/stencils/Assorted/triangle-rightangle.desktop:2
+msgctxt "Name"
+msgid "Right Angle Triangle"
+msgstr "Tam giác vuông"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/card.desktop:2
+msgctxt "Name"
+msgid "Card"
+msgstr "Thẻ"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/collection.desktop:2
+msgctxt "Name"
+msgid "Basic Flowchart"
+msgstr "Lưu đồ cơ bản"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/database.desktop:2
+msgctxt "Name"
+msgid "Database"
+msgstr "Cơ sở dữ liệu"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/data.desktop:2
+msgctxt "Name"
+msgid "Data"
+msgstr "Dữ liệu"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/decision.desktop:2
+#: plugins/stencilsdocker/stencils/SDL/decision.desktop:2
+msgctxt "Name"
+msgid "Decision"
+msgstr "Quyết định"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/delay.desktop:2
+msgctxt "Name"
+msgid "Delay"
+msgstr "Trì hoãn"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/direct_data.desktop:2
+msgctxt "Name"
+msgid "Direct Data"
+msgstr "Dữ liệu trực tiếp"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/display.desktop:2
+msgctxt "Name"
+msgid "Display"
+msgstr "Bộ hiển thị"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/document.desktop:2
+msgctxt "Name"
+msgid "Document"
+msgstr "Tài liệu"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/internal_storage.desktop:2
+msgctxt "Name"
+msgid "Internal Storage"
+msgstr "Lưu trữ nội bộ"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/loop_limit.desktop:2
+msgctxt "Name"
+msgid "Loop Limit"
+msgstr "Giới hạn vòng lặp"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/manual_input.desktop:2
+msgctxt "Name"
+msgid "Manual Input"
+msgstr "Nhập thủ công"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/manual_operation.desktop:2
+msgctxt "Name"
+msgid "Manual Operation"
+msgstr "Thao tác sổ tay"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/off-page_reference.desktop:2
+msgctxt "Name"
+msgid "Off-page Reference"
+msgstr "Tham chiếu ngoài trang"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/paper_tape.desktop:2
+msgctxt "Name"
+msgid "Paper Tape"
+msgstr "Băng giấy"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/parallel_mode.desktop:2
+msgctxt "Name"
+msgid "Parallel Mode"
+msgstr "Chế độ song song"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/predefined_process.desktop:2
+msgctxt "Name"
+msgid "Predefined Process"
+msgstr "Quy trình định sẵn"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/preparation.desktop:2
+msgctxt "Name"
+msgid "Preparation"
+msgstr "Chuẩn bị"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/process.desktop:2
+#: plugins/stencilsdocker/stencils/Gane_and_Sarson/process.desktop:2
+#: plugins/stencilsdocker/stencils/SDL/process.desktop:2
+msgctxt "Name"
+msgid "Process"
+msgstr "Xử lý"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/sequential_data.desktop:2
+msgctxt "Name"
+msgid "Sequential Data"
+msgstr "Dữ liệu tuần tự"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/start_1.desktop:2
+msgctxt "Name"
+msgid "Start 1"
+msgstr "Khởi động 1"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/start_2.desktop:2
+msgctxt "Name"
+msgid "Start 2"
+msgstr "Khởi động 2"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/stored_data.desktop:2
+msgctxt "Name"
+msgid "Stored Data"
+msgstr "Dữ liệu lưu trữ"
+
+#: plugins/stencilsdocker/stencils/Basic_Flowchart/terminator.desktop:2
+msgctxt "Name"
+msgid "Terminator"
+msgstr "Kết thúc"
+
+#: plugins/stencilsdocker/stencils/BPMN/Activity-Looping.desktop:2
+msgctxt "Name"
+msgid "Activity-Looping"
+msgstr "Hoạt động lặp"
+
+#: plugins/stencilsdocker/stencils/BPMN/Ad-Hoc-Collapsed-Sub-Process.desktop:2
+msgctxt "Name"
+msgid "Ad-Hoc-Collapsed-Sub-Process"
+msgstr "Tiến-Trình-Con-Thu-Gọn-Đặc-Biệt"
+
+#: plugins/stencilsdocker/stencils/BPMN/Collapsed-Sub-Process.desktop:2
+msgctxt "Name"
+msgid "Collapsed-Sub-Process"
+msgstr "Tiến-trình-con-Thu-gọn"
+
+#: plugins/stencilsdocker/stencils/BPMN/collection.desktop:2
+msgctxt "Name"
+msgid "BPMN"
+msgstr "BPMN"
+
+#: plugins/stencilsdocker/stencils/BPMN/Compensation-Collapsed-Sub-Process.desktop:2
+msgctxt "Name"
+msgid "Compensation-Collapsed-Sub-Process"
+msgstr "Tiến-trình-con-Thu-gọn-Bồi-thường"
+
+#: plugins/stencilsdocker/stencils/BPMN/Compensation.desktop:2
+msgctxt "Name"
+msgid "Compensation"
+msgstr "Bồi thường"
+
+#: plugins/stencilsdocker/stencils/BPMN/Data-Object.desktop:2
+msgctxt "Name"
+msgid "Data-Object"
+msgstr "Đối tượng dữ liệu"
+
+#: plugins/stencilsdocker/stencils/BPMN/End-Event-Cancel.desktop:2
+msgctxt "Name"
+msgid "End-Event-Cancel"
+msgstr "Sự-Kiện-Kết-Thúc-Hủy"
+
+#: plugins/stencilsdocker/stencils/BPMN/End-Event-Compensation.desktop:2
+msgctxt "Name"
+msgid "End-Event-Compensation"
+msgstr "Sự-Kiện-Kết-Thúc-Bồi-Thường"
+
+#: plugins/stencilsdocker/stencils/BPMN/End-Event.desktop:2
+msgctxt "Name"
+msgid "End-Event"
+msgstr "Sự-kiện-kết-thúc"
+
+#: plugins/stencilsdocker/stencils/BPMN/End-Event-Error.desktop:2
+msgctxt "Name"
+msgid "End-Event-Error"
+msgstr "Sự-Kiện-Kết-Thúc-Lỗi"
+
+#: plugins/stencilsdocker/stencils/BPMN/End-Event-Link.desktop:2
+msgctxt "Name"
+msgid "End-Event-Link"
+msgstr "Sự-Kiện-Kết-Thúc-Liên-Kết"
+
+#: plugins/stencilsdocker/stencils/BPMN/End-Event-Message.desktop:2
+msgctxt "Name"
+msgid "End-Event-Message"
+msgstr "Sự-Kiện-Kết-Thúc-Thông-Điệp"
+
+#: plugins/stencilsdocker/stencils/BPMN/End-Event-Multiple.desktop:2
+msgctxt "Name"
+msgid "End-Event-Multiple"
+msgstr "Sự-Kiện-Kết-Thúc-Đa-Dạng"
+
+#: plugins/stencilsdocker/stencils/BPMN/End-Event-Terminate.desktop:2
+msgctxt "Name"
+msgid "End-Event-Terminate"
+msgstr "Sự-Kiện-Kết-Thúc-Chấm-Dứt"
+
+#: plugins/stencilsdocker/stencils/BPMN/Gateway-Complex.desktop:2
+msgctxt "Name"
+msgid "Gateway-Complex"
+msgstr "Cổng phức hợp"
+
+#: plugins/stencilsdocker/stencils/BPMN/Gateway.desktop:2
+msgctxt "Name"
+msgid "Gateway"
+msgstr "Cổng"
+
+#: plugins/stencilsdocker/stencils/BPMN/Gateway-Exclusive-XOR-Data-Based.desktop:2
+msgctxt "Name"
+msgid "Gateway-Exclusive-XOR-Data-Based"
+msgstr "Cổng-Loại-Trừ-XOR-Dựa-Trên-Dữ-Liệu"
+
+#: plugins/stencilsdocker/stencils/BPMN/Gateway-Exclusive-XOR-Event-Based.desktop:2
+msgctxt "Name"
+msgid "Gateway-Exclusive-XOR-Event-Based"
+msgstr "Cổng-Loại-Trừ-XOR-Dựa-Trên-Sự-Kiện"
+
+#: plugins/stencilsdocker/stencils/BPMN/Gateway-Inclusive-OR.desktop:2
+msgctxt "Name"
+msgid "Gateway-Inclusive-OR"
+msgstr "Cổng-Bao-gồm-HOẶC"
+
+#: plugins/stencilsdocker/stencils/BPMN/Gateway-Parallel-AND.desktop:2
+msgctxt "Name"
+msgid "Gateway-Parallel-AND"
+msgstr "Cổng song song-VÀ"
+
+#: plugins/stencilsdocker/stencils/BPMN/Group.desktop:2
+msgctxt "Name"
+msgid "Group"
+msgstr "Nhóm"
+
+#: plugins/stencilsdocker/stencils/BPMN/Intermediate-Event-Cancel.desktop:2
+msgctxt "Name"
+msgid "Intermediate-Event-Cancel"
+msgstr "Sự-Kiện-Trung-Gian-Hủy-Bỏ"
+
+#: plugins/stencilsdocker/stencils/BPMN/Intermediate-Event-Compensation.desktop:2
+msgctxt "Name"
+msgid "Intermediate-Event-Compensation"
+msgstr "Sự-Kiện-Trung-Gian-Bồi-Thường"
+
+#: plugins/stencilsdocker/stencils/BPMN/Intermediate-Event.desktop:2
+msgctxt "Name"
+msgid "Intermediate-Event"
+msgstr "Sự kiện trung gian"
+
+#: plugins/stencilsdocker/stencils/BPMN/Intermediate-Event-Error.desktop:2
+msgctxt "Name"
+msgid "Intermediate-Event-Error"
+msgstr "Sự-Kiện-Lỗi-Trung-Gian"
+
+#: plugins/stencilsdocker/stencils/BPMN/Intermediate-Event-Link.desktop:2
+msgctxt "Name"
+msgid "Intermediate-Event-Link"
+msgstr "Sự-kiện-liên-kết-trung-gian"
+
+#: plugins/stencilsdocker/stencils/BPMN/Intermediate-Event-Message.desktop:2
+msgctxt "Name"
+msgid "Intermediate-Event-Message"
+msgstr "Sự-Kiện-Trung-Gian-Thông-Điệp"
+
+#: plugins/stencilsdocker/stencils/BPMN/Intermediate-Event-Multiple.desktop:2
+msgctxt "Name"
+msgid "Intermediate-Event-Multiple"
+msgstr "Sự-Kiện-Trung-Gian-Đa-Dạng"
+
+#: plugins/stencilsdocker/stencils/BPMN/Intermediate-Event-Rule.desktop:2
+msgctxt "Name"
+msgid "Intermediate-Event-Rule"
+msgstr "Sự-Kiện-Quy-Tắc-Trung-Gian"
+
+#: plugins/stencilsdocker/stencils/BPMN/Intermediate-Event-Timer.desktop:2
+msgctxt "Name"
+msgid "Intermediate-Event-Timer"
+msgstr "Sự-Kiện-Trung-Gian-Hẹn-Giờ"
+
+#: plugins/stencilsdocker/stencils/BPMN/Looping-Collapsed-Sub-Process.desktop:2
+msgctxt "Name"
+msgid "Looping-Collapsed-Sub-Process"
+msgstr "Tiến-trình-con-thu-gọn-lặp-lại"
+
+#: plugins/stencilsdocker/stencils/BPMN/Multiple-Instance-Collapsed-Sub-Process.desktop:2
+msgctxt "Name"
+msgid "Multiple-Instance-Collapsed-Sub-Process"
+msgstr "Tiến-Trình-Con-Thu-Gọn-Đa-Thể-Hiện"
+
+#: plugins/stencilsdocker/stencils/BPMN/Multiple-Instance-Task.desktop:2
+msgctxt "Name"
+msgid "Multiple-Instance-Task"
+msgstr "Tác vụ Đa phiên bản"
+
+#: plugins/stencilsdocker/stencils/BPMN/Start-Event.desktop:2
+msgctxt "Name"
+msgid "Start-Event"
+msgstr "Sự-kiện-Bắt-đầu"
+
+#: plugins/stencilsdocker/stencils/BPMN/Start-Event-Link.desktop:2
+msgctxt "Name"
+msgid "Start-Event-Link"
+msgstr "Sự-Kiện-Bắt-Đầu-Liên-Kết"
+
+#: plugins/stencilsdocker/stencils/BPMN/Start-Event-Message.desktop:2
+msgctxt "Name"
+msgid "Start-Event-Message"
+msgstr "Sự-Kiện-Bắt-Đầu-Thông-Điệp"
+
+#: plugins/stencilsdocker/stencils/BPMN/Start-Event-Multiple.desktop:2
+msgctxt "Name"
+msgid "Start-Event-Multiple"
+msgstr "Sự-Kiện-Khởi-Đầu-Đa-Dạng"
+
+#: plugins/stencilsdocker/stencils/BPMN/Start-Event-Rule.desktop:2
+msgctxt "Name"
+msgid "Start-Event-Rule"
+msgstr "Sự-Kiện-Bắt-Đầu-Quy-Tắc"
+
+#: plugins/stencilsdocker/stencils/BPMN/Start-Event-Timer.desktop:2
+msgctxt "Name"
+msgid "Start-Event-Timer"
+msgstr "Sự-Kiện-Bắt-Đầu-Hẹn-Giờ"
+
+#: plugins/stencilsdocker/stencils/BPMN/Task.desktop:2
+#: plugins/stencilsdocker/stencils/SDL/task.desktop:2
+msgctxt "Name"
+msgid "Task"
+msgstr "Tác vụ"
+
+#: plugins/stencilsdocker/stencils/BPMN/Text-Annotation.desktop:2
+msgctxt "Name"
+msgid "Text-Annotation"
+msgstr "Chú thích văn bản"
+
+#: plugins/stencilsdocker/stencils/BPMN/Transaction.desktop:2
+msgctxt "Name"
+msgid "Transaction"
+msgstr "Giao dịch"
+
+#: plugins/stencilsdocker/stencils/Building_Site/circle_diagonal_quarters_filled.desktop:2
+msgctxt "Name"
+msgid "Circle Diagonal Quarters Filled"
+msgstr "Hình Tròn Phần Tư Chéo Đã Tô"
+
+#: plugins/stencilsdocker/stencils/Building_Site/collection.desktop:2
+msgctxt "Name"
+msgid "Building Site"
+msgstr "Công trường"
+
+#: plugins/stencilsdocker/stencils/Building_Site/concrete_mixer.desktop:2
+msgctxt "Name"
+msgid "Concrete Mixer"
+msgstr "Máy Trộn Bê Tông"
+
+#: plugins/stencilsdocker/stencils/Building_Site/fence_horizontal.desktop:2
+msgctxt "Name"
+msgid "Horizontal Fence"
+msgstr "Hàng Rào Ngang"
+
+#: plugins/stencilsdocker/stencils/Building_Site/fence_vertical.desktop:2
+msgctxt "Name"
+msgid "Vertical Fence"
+msgstr "Hàng Rào Dọc"
+
+#: plugins/stencilsdocker/stencils/Building_Site/pre_silo.desktop:2
+msgctxt "Name"
+msgid "Pre-Silo"
+msgstr "Silo Trước"
+
+#: plugins/stencilsdocker/stencils/Building_Site/proportioning_batcher.desktop:2
+msgctxt "Name"
+msgid "Proportioning Batcher"
+msgstr "Máy Trộn Tỷ Lệ"
+
+#: plugins/stencilsdocker/stencils/Building_Site/road_crossroads.desktop:2
+msgctxt "Name"
+msgid "Road Crossroads"
+msgstr "Ngã tư đường"
+
+#: plugins/stencilsdocker/stencils/Building_Site/road_horizontal.desktop:2
+msgctxt "Name"
+msgid "Horizontal Road"
+msgstr "Đường ngang"
+
+#: plugins/stencilsdocker/stencils/Building_Site/road_rotated_tee.desktop:2
+msgctxt "Name"
+msgid "Road Rotated Tee"
+msgstr "Đường Chữ T Xoay"
+
+#: plugins/stencilsdocker/stencils/Building_Site/road_tee.desktop:2
+msgctxt "Name"
+msgid "Road Tee"
+msgstr "Đường chữ T"
+
+#: plugins/stencilsdocker/stencils/Building_Site/road_turn.desktop:2
+msgctxt "Name"
+msgid "Road Turn"
+msgstr "Khúc Cua Đường"
+
+#: plugins/stencilsdocker/stencils/Building_Site/road_vertical.desktop:2
+msgctxt "Name"
+msgid "Vertical Road"
+msgstr "Đường Dọc"
+
+#: plugins/stencilsdocker/stencils/Building_Site/slope_horizontal.desktop:2
+msgctxt "Name"
+msgid "Horizontal Slope"
+msgstr "Dốc Ngang"
+
+#: plugins/stencilsdocker/stencils/Building_Site/slope_vertical.desktop:2
+msgctxt "Name"
+msgid "Vertical Slope"
+msgstr "Dốc Thẳng Đứng"
+
+#: plugins/stencilsdocker/stencils/Building_Site/wall_horizontal.desktop:2
+msgctxt "Name"
+msgid "Horizontal Wall"
+msgstr "Tường ngang"
+
+#: plugins/stencilsdocker/stencils/Building_Site/wall_vertical.desktop:2
+msgctxt "Name"
+msgid "Vertical Wall"
+msgstr "Tường Dọc"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/collection.desktop:2
+msgctxt "Name"
+msgid "Central Data Processing"
+msgstr "Xử lý dữ liệu trung tâm"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/CPD_rack_15.desktop:2
+msgctxt "Name"
+msgid "Rack15U"
+msgstr "Giá đỡ 15U"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/CPD_rack_32.desktop:2
+msgctxt "Name"
+msgid "Rack32U"
+msgstr "Giá đỡ 32U"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/CPD_rack_36.desktop:2
+msgctxt "Name"
+msgid "Rack36U"
+msgstr "Giá đỡ 36U"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/CPD_rack_42.desktop:2
+msgctxt "Name"
+msgid "Rack42U"
+msgstr "Giá đỡ 42U"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/CPD_rack_44.desktop:2
+msgctxt "Name"
+msgid "Rack44U"
+msgstr "Giá đỡ 44U"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/CPD_rack_5.desktop:2
+msgctxt "Name"
+msgid "Rack5U"
+msgstr "Giá đỡ 5U"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/CPD_rack_7.desktop:2
+msgctxt "Name"
+msgid "Rack7U"
+msgstr "Giá đỡ 7U"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Litter.desktop:2
+msgctxt "Name"
+msgid "Litter"
+msgstr "Rác"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Modem.desktop:2
+#: plugins/stencilsdocker/stencils/Cisco/modem.desktop:2
+#: plugins/stencilsdocker/stencils/Network/modem.desktop:2
+msgctxt "Name"
+msgid "Modem"
+msgstr "Bộ điều giải"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Organizador_Rack_1U.desktop:2
+msgctxt "Name"
+msgid "OrganizadorRack1U"
+msgstr "OrganizadorRack1U"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Organizador_Rack_2U.desktop:2
+msgctxt "Name"
+msgid "OrganizadorRack2U"
+msgstr "OrganizadorRack2U"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Organizer_Rack_1U.desktop:2
+msgctxt "Name"
+msgid "OrganizerRack1U"
+msgstr "Giá Tổ Chức 1U"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Organizer_Rack_2U.desktop:2
+msgctxt "Name"
+msgid "OrganizerRack2U"
+msgstr "Giá Tổ Chức 2U"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Path_Painel_24P.desktop:2
+msgctxt "Name"
+msgid "PatchPanel24P"
+msgstr "BảngĐấuNối24P"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Router.desktop:2
+#: plugins/stencilsdocker/stencils/Cisco/router.desktop:2
+msgctxt "Name"
+msgid "Router"
+msgstr "Bộ định tuyến"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Server_Rack_1U.desktop:2
+msgctxt "Name"
+msgid "ServerRack1U"
+msgstr "ServerRack1U"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Server_Rack_2U.desktop:2
+msgctxt "Name"
+msgid "ServerRack2U"
+msgstr "ServerRack2U"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Server_Rack_2U_Slow.desktop:2
+msgctxt "Name"
+msgid "ServerRack2USlow"
+msgstr "ServerRack2UChậm"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Server_Rack_2U_Very_Slow.desktop:2
+msgctxt "Name"
+msgid "ServerRack2UVerySlow"
+msgstr "ServerRack2UChậmNhất"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Server_Rack_3U.desktop:2
+msgctxt "Name"
+msgid "ServerRack3U"
+msgstr "ServerRack3U"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Server_Rack_3U_Slow_Density.desktop:2
+msgctxt "Name"
+msgid "ServerRack3USlowDensity"
+msgstr "Giá Đỡ Máy Chủ 3U Mật Độ Thấp"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Server_Rack_4U.desktop:2
+msgctxt "Name"
+msgid "ServerRack4U"
+msgstr "ServerRack4U"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Server_Rack_4U_Right_Capacity.desktop:2
+msgctxt "Name"
+msgid "ServerRack4URightCapacity"
+msgstr "Giá Đỡ Máy Chủ 4U Dung Lượng Phải"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Server_Rack_4U_Slow_Capacity.desktop:2
+msgctxt "Name"
+msgid "ServerRack4USlowCapacity"
+msgstr "Giá Đỡ Máy Chủ 4U Dung Lượng Thấp"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Server_Rack_4U_Very_Right_Capacity.desktop:2
+msgctxt "Name"
+msgid "ServerRack4UVeryRightCapacity"
+msgstr "Giá Đỡ Máy Chủ 4U Dung Lượng Rất Cao"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Server_Rack_5U.desktop:2
+msgctxt "Name"
+msgid "ServerRack5U"
+msgstr "ServerRack5U"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Server_Rack_5U_Right_Density.desktop:2
+msgctxt "Name"
+msgid "ServerRack5URightDensity"
+msgstr "GiáĐỡMáyChủ5UMậtĐộCao"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Storage_Rack_3U.desktop:2
+msgctxt "Name"
+msgid "StorageRack3U"
+msgstr "Giá Lưu Trữ 3U"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Storage_Rack_3U_SAN.desktop:2
+msgctxt "Name"
+msgid "StorageRack3USAN"
+msgstr "Giá Lưu Trữ 3U SAN"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Switch_Rack_16P.desktop:2
+msgctxt "Name"
+msgid "SwitchRack16P"
+msgstr "SwitchRack16P"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Switch_Rack_24P.desktop:2
+msgctxt "Name"
+msgid "SwitchRack24P"
+msgstr "SwitchRack24P"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Switch_Rack_48P.desktop:2
+msgctxt "Name"
+msgid "SwitchRack48P"
+msgstr "SwitchRack48P"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Switch_Rack_50P.desktop:2
+msgctxt "Name"
+msgid "SwitchRack50P"
+msgstr "SwitchRack50P"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Telephone_exchange.desktop:2
+msgctxt "Name"
+msgid "TelephoneExchange"
+msgstr "Tổng đài điện thoại"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Voice_Painel_20P.desktop:2
+msgctxt "Name"
+msgid "VoicePanel20P"
+msgstr "VoicePanel20P"
+
+#: plugins/stencilsdocker/stencils/Central_Data_Processing/Voice_Painel_50P.desktop:2
+msgctxt "Name"
+msgid "VoicePanel50P"
+msgstr "VoicePanel50P"
+
+#: plugins/stencilsdocker/stencils/ChemEng/ACgen.desktop:2
+msgctxt "Name"
+msgid "ACgen"
+msgstr "ACgen"
+
+#: plugins/stencilsdocker/stencils/ChemEng/aircooler.desktop:2
+msgctxt "Name"
+msgid "aircooler"
+msgstr "bộ làm mát không khí"
+
+#: plugins/stencilsdocker/stencils/ChemEng/airforced.desktop:2
+msgctxt "Name"
+msgid "airforced"
+msgstr "khí nén"
+
+#: plugins/stencilsdocker/stencils/ChemEng/airinduced.desktop:2
+msgctxt "Name"
+msgid "airinduced"
+msgstr "khí cảm ứng"
+
+#: plugins/stencilsdocker/stencils/ChemEng/autoclave.desktop:2
+msgctxt "Name"
+msgid "autoclave"
+msgstr "nồi hấp"
+
+#: plugins/stencilsdocker/stencils/ChemEng/bigtraycol.desktop:2
+msgctxt "Name"
+msgid "bigtraycol"
+msgstr "bigtraycol"
+
+#: plugins/stencilsdocker/stencils/ChemEng/centrifuge.desktop:2
+msgctxt "Name"
+msgid "centrifuge"
+msgstr "máy ly tâm"
+
+#: plugins/stencilsdocker/stencils/ChemEng/coil.desktop:2
+msgctxt "Name"
+msgid "coil"
+msgstr "cuộn dây"
+
+#: plugins/stencilsdocker/stencils/ChemEng/coilv.desktop:2
+msgctxt "Name"
+msgid "coilv"
+msgstr "cuộn dọc"
+
+#: plugins/stencilsdocker/stencils/ChemEng/collection.desktop:2
+msgctxt "Name"
+msgid "ChemEng"
+msgstr "Kỹ thuật Hóa học"
+
+#: plugins/stencilsdocker/stencils/ChemEng/compr.desktop:2
+msgctxt "Name"
+msgid "compr"
+msgstr "máy nén"
+
+#: plugins/stencilsdocker/stencils/ChemEng/coveredtank.desktop:2
+msgctxt "Name"
+msgid "coveredtank"
+msgstr "bồn chứa có nắp"
+
+#: plugins/stencilsdocker/stencils/ChemEng/cyclone.desktop:2
+msgctxt "Name"
+msgid "cyclone"
+msgstr "xyclon"
+
+#: plugins/stencilsdocker/stencils/ChemEng/displa.desktop:2
+msgctxt "Name"
+msgid "displa"
+msgstr "displa"
+
+#: plugins/stencilsdocker/stencils/ChemEng/doublepipe.desktop:2
+msgctxt "Name"
+msgid "doublepipe"
+msgstr "ống đôi"
+
+#: plugins/stencilsdocker/stencils/ChemEng/ejector.desktop:2
+msgctxt "Name"
+msgid "ejector"
+msgstr "bộ phận đẩy"
+
+#: plugins/stencilsdocker/stencils/ChemEng/fan.desktop:2
+msgctxt "Name"
+msgid "fan"
+msgstr "quạt"
+
+#: plugins/stencilsdocker/stencils/ChemEng/filter.desktop:2
+msgctxt "Name"
+msgid "filter"
+msgstr "bộ lọc"
+
+#: plugins/stencilsdocker/stencils/ChemEng/fixedroof.desktop:2
+msgctxt "Name"
+msgid "fixedroof"
+msgstr "mái cố định"
+
+#: plugins/stencilsdocker/stencils/ChemEng/floatingroof.desktop:2
+msgctxt "Name"
+msgid "floatingroof"
+msgstr "mái nổi"
+
+#: plugins/stencilsdocker/stencils/ChemEng/flowfan.desktop:2
+msgctxt "Name"
+msgid "flowfan"
+msgstr "quạt dòng"
+
+#: plugins/stencilsdocker/stencils/ChemEng/fluidcont.desktop:2
+msgctxt "Name"
+msgid "fluidcont"
+msgstr "fluidcont"
+
+#: plugins/stencilsdocker/stencils/ChemEng/furnace.desktop:2
+msgctxt "Name"
+msgid "furnace"
+msgstr "lò"
+
+#: plugins/stencilsdocker/stencils/ChemEng/gasholder.desktop:2
+msgctxt "Name"
+msgid "gasholder"
+msgstr "bình chứa khí"
+
+#: plugins/stencilsdocker/stencils/ChemEng/hx.desktop:2
+msgctxt "Name"
+msgid "hx"
+msgstr "hx"
+
+#: plugins/stencilsdocker/stencils/ChemEng/hxv.desktop:2
+msgctxt "Name"
+msgid "hxv"
+msgstr "hxv"
+
+#: plugins/stencilsdocker/stencils/ChemEng/kettle.desktop:2
+msgctxt "Name"
+msgid "kettle"
+msgstr "nồi hơi"
+
+#: plugins/stencilsdocker/stencils/ChemEng/knockout.desktop:2
+msgctxt "Name"
+msgid "knockout"
+msgstr "loại trừ"
+
+#: plugins/stencilsdocker/stencils/ChemEng/measure.desktop:2
+msgctxt "Name"
+msgid "measure"
+msgstr "đo lường"
+
+#: plugins/stencilsdocker/stencils/ChemEng/mixer.desktop:2
+msgctxt "Name"
+msgid "mixer"
+msgstr "máy trộn"
+
+#: plugins/stencilsdocker/stencils/ChemEng/plate.desktop:2
+msgctxt "Name"
+msgid "plate"
+msgstr "đĩa"
+
+#: plugins/stencilsdocker/stencils/ChemEng/pneum.desktop:2
+msgctxt "Name"
+msgid "pneum"
+msgstr "khí nén"
+
+#: plugins/stencilsdocker/stencils/ChemEng/pneumv.desktop:2
+msgctxt "Name"
+msgid "pneumv"
+msgstr "van khí nén"
+
+#: plugins/stencilsdocker/stencils/ChemEng/pnuemv.desktop:2
+msgctxt "Name"
+msgid "pnuemv"
+msgstr "pnuemv"
+
+#: plugins/stencilsdocker/stencils/ChemEng/pump.desktop:2
+msgctxt "Name"
+msgid "pump"
+msgstr "bơm"
+
+#: plugins/stencilsdocker/stencils/ChemEng/reactor.desktop:2
+msgctxt "Name"
+msgid "reactor"
+msgstr "lò phản ứng"
+
+#: plugins/stencilsdocker/stencils/ChemEng/recipr.desktop:2
+msgctxt "Name"
+msgid "recipr"
+msgstr "recipr"
+
+#: plugins/stencilsdocker/stencils/ChemEng/regval.desktop:2
+msgctxt "Name"
+msgid "regval"
+msgstr "van điều chỉnh"
+
+#: plugins/stencilsdocker/stencils/ChemEng/regvalv.desktop:2
+msgctxt "Name"
+msgid "regvalv"
+msgstr "van điều chỉnh"
+
+#: plugins/stencilsdocker/stencils/ChemEng/SaT-fixedtube.desktop:2
+msgctxt "Name"
+msgid "SaT-fixedtube"
+msgstr "SaT-ống cố định"
+
+#: plugins/stencilsdocker/stencils/ChemEng/SaT-floatinghead.desktop:2
+msgctxt "Name"
+msgid "SaT-floatinghead"
+msgstr "SaT-đầu nổi"
+
+#: plugins/stencilsdocker/stencils/ChemEng/sealedtank.desktop:2
+msgctxt "Name"
+msgid "sealedtank"
+msgstr "bồn kín"
+
+#: plugins/stencilsdocker/stencils/ChemEng/settling.desktop:2
+msgctxt "Name"
+msgid "settling"
+msgstr "lắng cặn"
+
+#: plugins/stencilsdocker/stencils/ChemEng/spray.desktop:2
+msgctxt "Name"
+msgid "spray"
+msgstr "phun"
+
+#: plugins/stencilsdocker/stencils/ChemEng/spraydrier.desktop:2
+msgctxt "Name"
+msgid "spraydrier"
+msgstr "máy sấy phun"
+
+#: plugins/stencilsdocker/stencils/ChemEng/storagesphere.desktop:2
+msgctxt "Name"
+msgid "storagesphere"
+msgstr "cầu chứa"
+
+#: plugins/stencilsdocker/stencils/ChemEng/tank.desktop:2
+msgctxt "Name"
+msgid "tank"
+msgstr "bồn chứa"
+
+#: plugins/stencilsdocker/stencils/ChemEng/traycol.desktop:2
+msgctxt "Name"
+msgid "traycol"
+msgstr "cột khay"
+
+#: plugins/stencilsdocker/stencils/ChemEng/val.desktop:2
+msgctxt "Name"
+msgid "val"
+msgstr "van"
+
+#: plugins/stencilsdocker/stencils/ChemEng/valv.desktop:2
+msgctxt "Name"
+msgid "valv"
+msgstr "van"
+
+#: plugins/stencilsdocker/stencils/ChemEng/vessel.desktop:2
+msgctxt "Name"
+msgid "vessel"
+msgstr "bình chứa"
+
+#: plugins/stencilsdocker/stencils/ChemEng/wcool.desktop:2
+msgctxt "Name"
+msgid "wcool"
+msgstr "wcool"
+
+#: plugins/stencilsdocker/stencils/ChemEng/wcoolv.desktop:2
+msgctxt "Name"
+msgid "wcoolv"
+msgstr "wcoolv"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/30-degree-bend.desktop:2
+msgctxt "Name"
+msgid "30-degree-bend"
+msgstr "Cong 30 độ"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/beaker.desktop:2
+msgctxt "Name"
+msgid "beaker"
+msgstr "bình cổ rộng"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/buechner-funnel.desktop:2
+msgctxt "Name"
+msgid "buechner-funnel"
+msgstr "phễu Büchner"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/burette.desktop:2
+msgctxt "Name"
+msgid "burette"
+msgstr "buret"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/clamp.desktop:2
+msgctxt "Name"
+msgid "clamp"
+msgstr "kẹp"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/clamp-extra-large.desktop:2
+msgctxt "Name"
+msgid "clamp-extra-large"
+msgstr "kẹp cực lớn"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/clamp-front.desktop:2
+msgctxt "Name"
+msgid "clamp-front"
+msgstr "kẹp phía trước"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/clamp-large.desktop:2
+msgctxt "Name"
+msgid "clamp-large"
+msgstr "kẹp lớn"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/collection.desktop:2
+msgctxt "Name"
+msgid "Chemistry Lab"
+msgstr "Phòng thí nghiệm Hóa học"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/column-reflux.desktop:2
+msgctxt "Name"
+msgid "column-reflux"
+msgstr "cột hồi lưu"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/column-reflux-red-blue.desktop:2
+msgctxt "Name"
+msgid "column-reflux-red-blue"
+msgstr "cột-hồi-lưu-đỏ-xanh"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/column-reflux-red.desktop:2
+msgctxt "Name"
+msgid "column-reflux-red"
+msgstr "cột hồi lưu đỏ"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/condenser-black.desktop:2
+msgctxt "Name"
+msgid "condenser-black"
+msgstr "bình ngưng đen"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/condenser-blue.desktop:2
+msgctxt "Name"
+msgid "condenser-blue"
+msgstr "bình ngưng màu xanh"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/condenser.desktop:2
+msgctxt "Name"
+msgid "condenser"
+msgstr "bình ngưng"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/condenser-green.desktop:2
+msgctxt "Name"
+msgid "condenser-green"
+msgstr "bình ngưng xanh lá"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/condenser-liebig-vertical.desktop:2
+msgctxt "Name"
+msgid "condenser-liebig-vertical"
+msgstr "ống sinh hàn Liebig dọc"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/condenser-orange.desktop:2
+msgctxt "Name"
+msgid "condenser-orange"
+msgstr "bình ngưng màu cam"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/condenser-pale-blue.desktop:2
+msgctxt "Name"
+msgid "condenser-pale-blue"
+msgstr "bình ngưng màu xanh nhạt"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/condenser-red.desktop:2
+msgctxt "Name"
+msgid "condenser-red"
+msgstr "bình ngưng đỏ"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/erlenmeyer.desktop:2
+msgctxt "Name"
+msgid "ryan -Erlenmeyer Flask"
+msgstr "Bình Erlenmeyer"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/funnel.desktop:2
+msgctxt "Name"
+msgid "funnel"
+msgstr "phễu"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/gooseneck.desktop:2
+msgctxt "Name"
+msgid "gooseneck"
+msgstr "ống cong hình cổ ngỗng"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/lab-stand.desktop:2
+msgctxt "Name"
+msgid "lab-stand"
+msgstr "giá đỡ thí nghiệm"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/lab-stand-front.desktop:2
+msgctxt "Name"
+msgid "lab-stand-front"
+msgstr "giá đỡ phòng thí nghiệm - mặt trước"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/ring.desktop:2
+msgctxt "Name"
+msgid "ring"
+msgstr "vòng"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/ring-front.desktop:2
+msgctxt "Name"
+msgid "ring-front"
+msgstr "vòng-mặt trước"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/sep-funnel.desktop:2
+msgctxt "Name"
+msgid "sep-funnel"
+msgstr "phễu chiết"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/sep-funnel-three-phases.desktop:2
+msgctxt "Name"
+msgid "sep-funnel-three-phases"
+msgstr "phễu chiết ba pha"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/sep-funnel-two-phases.desktop:2
+msgctxt "Name"
+msgid "sep-funnel-two-phases"
+msgstr "phễu chiết hai pha"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/stirbar.desktop:2
+msgctxt "Name"
+msgid "stirbar"
+msgstr "thanh khuấy"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/stirplate.desktop:2
+msgctxt "Name"
+msgid "stirplate"
+msgstr "máy khuấy từ"
+
+#: plugins/stencilsdocker/stencils/Chemistry_Lab/stirplate-front.desktop:2
+msgctxt "Name"
+msgid "stirplate-front"
+msgstr "máy khuấy từ-mặt trước"
+
+#: plugins/stencilsdocker/stencils/Circuit2/collection.desktop:2
+msgctxt "Name"
+msgid "Circuit2"
+msgstr "Mạch2"
+
+#: plugins/stencilsdocker/stencils/Circuit2/dcapacitor.desktop:2
+msgctxt "Name"
+msgid "Diagonal Capacitor"
+msgstr "Tụ điện chéo"
+
+#: plugins/stencilsdocker/stencils/Circuit2/ddiode.desktop:2
+msgctxt "Name"
+msgid "Diagonal Diode"
+msgstr "Điốt Chéo"
+
+#: plugins/stencilsdocker/stencils/Circuit2/dinductor_de.desktop:2
+msgctxt "Name"
+msgid "Diagonal Inductor (European)"
+msgstr "Cuộn cảm chéo (Châu Âu)"
+
+#: plugins/stencilsdocker/stencils/Circuit2/dinductor.desktop:2
+msgctxt "Name"
+msgid "Diagonal Inductor"
+msgstr "Cuộn Cảm Chéo"
+
+#: plugins/stencilsdocker/stencils/Circuit2/dled_de.desktop:2
+msgctxt "Name"
+msgid "Diagonal Led (European)"
+msgstr "Đèn LED chéo (Châu Âu)"
+
+#: plugins/stencilsdocker/stencils/Circuit2/dpcapacitor.desktop:2
+msgctxt "Name"
+msgid "Diagonal Polarized Capacitor"
+msgstr "Tụ Phân Cực Chéo"
+
+#: plugins/stencilsdocker/stencils/Circuit2/dresistor_de.desktop:2
+msgctxt "Name"
+msgid "Diagonal Resistor (European)"
+msgstr "Điện trở chéo (Châu Âu)"
+
+#: plugins/stencilsdocker/stencils/Circuit2/dresistor.desktop:2
+msgctxt "Name"
+msgid "Diagonal Resistor"
+msgstr "Điện trở chéo"
+
+#: plugins/stencilsdocker/stencils/Circuit2/dzener.desktop:2
+msgctxt "Name"
+msgid "Diagonal Zener Diode"
+msgstr "Điốt Zener Chéo"
+
+#: plugins/stencilsdocker/stencils/Circuit2/hammeter.desktop:2
+msgctxt "Name"
+msgid "Horizontal Ammeter"
+msgstr "Ampe kế ngang"
+
+#: plugins/stencilsdocker/stencils/Circuit2/hpcapacitor.desktop:2
+msgctxt "Name"
+msgid "Horizontal Polarized Capacitor"
+msgstr "Tụ Điện Phân Ngang"
+
+#: plugins/stencilsdocker/stencils/Circuit2/hvoltmeter.desktop:2
+msgctxt "Name"
+msgid "Horizontal Voltmeter"
+msgstr "Vôn kế ngang"
+
+#: plugins/stencilsdocker/stencils/Circuit2/newhled.desktop:2
+msgctxt "Name"
+msgid "Horizontal LED"
+msgstr "LED ngang"
+
+#: plugins/stencilsdocker/stencils/Circuit2/newvled.desktop:2
+msgctxt "Name"
+msgid "Vertical LED"
+msgstr "LED dọc"
+
+#: plugins/stencilsdocker/stencils/Circuit2/opto.desktop:2
+msgctxt "Name"
+msgid "Optoisolator"
+msgstr "Bộ cách ly quang"
+
+#: plugins/stencilsdocker/stencils/Circuit2/ramp.desktop:2
+msgctxt "Name"
+msgid "Ramp Wave"
+msgstr "Sóng Răng Cưa"
+
+#: plugins/stencilsdocker/stencils/Circuit2/relay.desktop:2
+msgctxt "Name"
+msgid "Relay"
+msgstr "Rơ le"
+
+#: plugins/stencilsdocker/stencils/Circuit2/sine.desktop:2
+#: plugins/stencilsdocker/stencils/Optics/sine.desktop:2
+msgctxt "Name"
+msgid "Sine Wave"
+msgstr "Sóng Sin"
+
+#: plugins/stencilsdocker/stencils/Circuit2/square.desktop:2
+#: plugins/stencilsdocker/stencils/Optics/square.desktop:2
+msgctxt "Name"
+msgid "Square Wave"
+msgstr "Sóng vuông"
+
+#: plugins/stencilsdocker/stencils/Circuit2/triac.desktop:2
+msgctxt "Name"
+msgid "TRIAC"
+msgstr "TRIAC"
+
+#: plugins/stencilsdocker/stencils/Circuit2/triangle.desktop:2
+msgctxt "Name"
+msgid "Triangle Wave"
+msgstr "Sóng Tam Giác"
+
+#: plugins/stencilsdocker/stencils/Circuit2/vammeter.desktop:2
+msgctxt "Name"
+msgid "Vertical Ammeter"
+msgstr "Ampe kế dọc"
+
+#: plugins/stencilsdocker/stencils/Circuit2/vpcapacitor.desktop:2
+msgctxt "Name"
+msgid "Vertical Polarized Capacitor"
+msgstr "Tụ Phân Cực Dọc"
+
+#: plugins/stencilsdocker/stencils/Circuit2/vvoltmeter.desktop:2
+msgctxt "Name"
+msgid "Vertical Voltmeter"
+msgstr "Vôn kế dọc"
+
+#: plugins/stencilsdocker/stencils/Circuit/collection.desktop:2
+msgctxt "Name"
+msgid "Circuit"
+msgstr "Mạch điện"
+
+#: plugins/stencilsdocker/stencils/Circuit/ground.desktop:2
+msgctxt "Name"
+msgid "Ground"
+msgstr "Đất"
+
+#: plugins/stencilsdocker/stencils/Circuit/hcapacitor.desktop:2
+msgctxt "Name"
+msgid "Horizontal Capacitor"
+msgstr "Tụ điện ngang"
+
+#: plugins/stencilsdocker/stencils/Circuit/hdiode.desktop:2
+msgctxt "Name"
+msgid "Horizontal Diode"
+msgstr "Điốt ngang"
+
+#: plugins/stencilsdocker/stencils/Circuit/hfuse_de.desktop:2
+msgctxt "Name"
+msgid "Horizontal Fuse (European)"
+msgstr "Cầu chì ngang (Châu Âu)"
+
+#: plugins/stencilsdocker/stencils/Circuit/hinductor_de.desktop:2
+msgctxt "Name"
+msgid "Horizontal Inductor (European)"
+msgstr "Cuộn cảm ngang (Châu Âu)"
+
+#: plugins/stencilsdocker/stencils/Circuit/hinductor.desktop:2
+msgctxt "Name"
+msgid "Horizontal Inductor"
+msgstr "Cuộn Cảm Ngang"
+
+#: plugins/stencilsdocker/stencils/Circuit/hjumper.desktop:2
+msgctxt "Name"
+msgid "Horizontal Jumper"
+msgstr "Cầu nối ngang"
+
+#: plugins/stencilsdocker/stencils/Circuit/hled_de.desktop:2
+msgctxt "Name"
+msgid "Horizontal Led (European)"
+msgstr "Đèn LED ngang (Châu Âu)"
+
+#: plugins/stencilsdocker/stencils/Circuit/hpowersource_de.desktop:2
+msgctxt "Name"
+msgid "Horizontal Powersource (European)"
+msgstr "Nguồn điện ngang (Châu Âu)"
+
+#: plugins/stencilsdocker/stencils/Circuit/hresistor_de.desktop:2
+msgctxt "Name"
+msgid "Horizontal Resistor (European)"
+msgstr "Điện trở ngang (Châu Âu)"
+
+#: plugins/stencilsdocker/stencils/Circuit/hresistor.desktop:2
+msgctxt "Name"
+msgid "Horizontal Resistor"
+msgstr "Điện trở ngang"
+
+#: plugins/stencilsdocker/stencils/Circuit/hzener.desktop:2
+msgctxt "Name"
+msgid "Horizontal Zener Diode"
+msgstr "Điốt Zener ngang"
+
+#: plugins/stencilsdocker/stencils/Circuit/lamp_de.desktop:2
+msgctxt "Name"
+msgid "Lamp (European)"
+msgstr "Đèn (Châu Âu)"
+
+#: plugins/stencilsdocker/stencils/Circuit/microphone_de.desktop:2
+msgctxt "Name"
+msgid "Microphone (European)"
+msgstr "Micrô (Châu Âu)"
+
+#: plugins/stencilsdocker/stencils/Circuit/nmos_de.desktop:2
+msgctxt "Name"
+msgid "NMOS Transistor (European)"
+msgstr "Bóng bán dẫn NMOS (Kiểu Châu Âu)"
+
+#: plugins/stencilsdocker/stencils/Circuit/npn.desktop:2
+msgctxt "Name"
+msgid "NPN Transistor"
+msgstr "Transistor NPN"
+
+#: plugins/stencilsdocker/stencils/Circuit/opamp.desktop:2
+msgctxt "Name"
+msgid "Op Amp"
+msgstr "Khuếch đại thuật toán"
+
+#: plugins/stencilsdocker/stencils/Circuit/pmos_de.desktop:2
+msgctxt "Name"
+msgid "PMOS Transistor (European)"
+msgstr "Bóng bán dẫn PMOS (Kiểu Châu Âu)"
+
+#: plugins/stencilsdocker/stencils/Circuit/pnp.desktop:2
+msgctxt "Name"
+msgid "PNP Transistor"
+msgstr "Transistor PNP"
+
+#: plugins/stencilsdocker/stencils/Circuit/speaker_de.desktop:2
+msgctxt "Name"
+msgid "Speaker (European)"
+msgstr "Loa (Châu Âu)"
+
+#: plugins/stencilsdocker/stencils/Circuit/vcapacitor.desktop:2
+msgctxt "Name"
+msgid "Vertical Capacitor"
+msgstr "Tụ điện dọc"
+
+#: plugins/stencilsdocker/stencils/Circuit/vdiode.desktop:2
+msgctxt "Name"
+msgid "Vertical Diode"
+msgstr "Điốt Dọc"
+
+#: plugins/stencilsdocker/stencils/Circuit/vfuse_de.desktop:2
+msgctxt "Name"
+msgid "Vertical Fuse (European)"
+msgstr "Cầu chì dọc (Châu Âu)"
+
+#: plugins/stencilsdocker/stencils/Circuit/vinductor_de.desktop:2
+msgctxt "Name"
+msgid "Vertical Inductor (European)"
+msgstr "Cuộn cảm dọc (Châu Âu)"
+
+#: plugins/stencilsdocker/stencils/Circuit/vinductor.desktop:2
+msgctxt "Name"
+msgid "Vertical Inductor"
+msgstr "Cuộn Cảm Dọc"
+
+#: plugins/stencilsdocker/stencils/Circuit/vled_de.desktop:2
+msgctxt "Name"
+msgid "Vertical Led (European)"
+msgstr "Đèn LED dọc (Châu Âu)"
+
+#: plugins/stencilsdocker/stencils/Circuit/vpowersource_de.desktop:2
+msgctxt "Name"
+msgid "Vertical Powersource (European)"
+msgstr "Nguồn điện dọc (Châu Âu)"
+
+#: plugins/stencilsdocker/stencils/Circuit/vresistor_de.desktop:2
+msgctxt "Name"
+msgid "Vertical Resistor (European)"
+msgstr "Điện trở dọc (Châu Âu)"
+
+#: plugins/stencilsdocker/stencils/Circuit/vresistor.desktop:2
+msgctxt "Name"
+msgid "Vertical Resistor"
+msgstr "Điện trở dọc"
+
+#: plugins/stencilsdocker/stencils/Circuit/vzener.desktop:2
+msgctxt "Name"
+msgid "Vertical Zener Diode"
+msgstr "Điốt Zener Dọc"
+
+#: plugins/stencilsdocker/stencils/Cisco/1000.desktop:2
+msgctxt "Name"
+msgid "Cisco 1000"
+msgstr "Cisco 1000"
+
+#: plugins/stencilsdocker/stencils/Cisco/100baset_hub.desktop:2
+msgctxt "Name"
+msgid "100BaseT Hub"
+msgstr "Bộ chia 100BaseT"
+
+#: plugins/stencilsdocker/stencils/Cisco/10700.desktop:2
+msgctxt "Name"
+msgid "10700"
+msgstr "10700"
+
+#: plugins/stencilsdocker/stencils/Cisco/15200.desktop:2
+msgctxt "Name"
+msgid "15200"
+msgstr "15200"
+
+#: plugins/stencilsdocker/stencils/Cisco/15800.desktop:2
+msgctxt "Name"
+msgid "15800"
+msgstr "15800"
+
+#: plugins/stencilsdocker/stencils/Cisco/3174.desktop:2
+msgctxt "Name"
+msgid "3174 (desktop) cluster controller"
+msgstr "Bộ điều khiển cụm 3174 (máy tính để bàn)"
+
+#: plugins/stencilsdocker/stencils/Cisco/3x74.desktop:2
+msgctxt "Name"
+msgid "3X74 (floor) cluster controller"
+msgstr "Bộ điều khiển cụm 3X74 (sàn)"
+
+#: plugins/stencilsdocker/stencils/Cisco/5000.desktop:2
+msgctxt "Name"
+msgid "Workgroup 5000"
+msgstr "Workgroup 5000"
+
+#: plugins/stencilsdocker/stencils/Cisco/5002.desktop:2
+msgctxt "Name"
+msgid "Workgroup 5002"
+msgstr "Nhóm làm việc 5002"
+
+#: plugins/stencilsdocker/stencils/Cisco/5500.desktop:2
+msgctxt "Name"
+msgid "Workgroup 5500"
+msgstr "Nhóm làm việc 5500"
+
+#: plugins/stencilsdocker/stencils/Cisco/6701.desktop:2
+msgctxt "Name"
+msgid "6701"
+msgstr "6701"
+
+#: plugins/stencilsdocker/stencils/Cisco/6705.desktop:2
+msgctxt "Name"
+msgid "6705"
+msgstr "6705"
+
+#: plugins/stencilsdocker/stencils/Cisco/6732.desktop:2
+msgctxt "Name"
+msgid "6732"
+msgstr "6732"
+
+#: plugins/stencilsdocker/stencils/Cisco/7500ars.desktop:2
+msgctxt "Name"
+msgid "7500ARS (7513) Router"
+msgstr "Bộ định tuyến 7500ARS (7513)"
+
+#: plugins/stencilsdocker/stencils/Cisco/7505.desktop:2
+msgctxt "Name"
+msgid "7505 Router"
+msgstr "Bộ định tuyến 7505"
+
+#: plugins/stencilsdocker/stencils/Cisco/7507.desktop:2
+msgctxt "Name"
+msgid "7507 Router"
+msgstr "Bộ định tuyến 7507"
+
+#: plugins/stencilsdocker/stencils/Cisco/access_gateway.desktop:2
+msgctxt "Name"
+msgid "Access Gateway"
+msgstr "Cổng Truy Cập"
+
+#: plugins/stencilsdocker/stencils/Cisco/accesspoint.desktop:2
+msgctxt "Name"
+msgid "AccessPoint"
+msgstr "Điểm truy cập"
+
+#: plugins/stencilsdocker/stencils/Cisco/access_server.desktop:2
+msgctxt "Name"
+msgid "Access server"
+msgstr "Máy chủ truy cập"
+
+#: plugins/stencilsdocker/stencils/Cisco/adm.desktop:2
+msgctxt "Name"
+msgid "ADM"
+msgstr "ADM"
+
+#: plugins/stencilsdocker/stencils/Cisco/androgynous_person.desktop:2
+msgctxt "Name"
+msgid "Androgynous Person"
+msgstr "Người Lưỡng Tính"
+
+#: plugins/stencilsdocker/stencils/Cisco/antenna.desktop:2
+#: plugins/stencilsdocker/stencils/Network/antenna.desktop:2
+msgctxt "Name"
+msgid "Antenna"
+msgstr "Ăng-ten"
+
+#: plugins/stencilsdocker/stencils/Cisco/asic.desktop:2
+msgctxt "Name"
+msgid "ASIC Processor"
+msgstr "Bộ xử lý ASIC"
+
+#: plugins/stencilsdocker/stencils/Cisco/ata.desktop:2
+msgctxt "Name"
+msgid "ATA"
+msgstr "ATA"
+
+#: plugins/stencilsdocker/stencils/Cisco/atm3800.desktop:2
+msgctxt "Name"
+msgid "ATM 3800"
+msgstr "ATM 3800"
+
+#: plugins/stencilsdocker/stencils/Cisco/atm_fast_gigabit_etherswitch.desktop:2
+msgctxt "Name"
+msgid "ATM Fast Gigabit Etherswitch"
+msgstr "Bộ chuyển mạch Ethernet Gigabit Nhanh ATM"
+
+#: plugins/stencilsdocker/stencils/Cisco/atm_router.desktop:2
+msgctxt "Name"
+msgid "ATM Router"
+msgstr "Bộ định tuyến ATM"
+
+#: plugins/stencilsdocker/stencils/Cisco/atm_switch.desktop:2
+msgctxt "Name"
+msgid "ATM Switch"
+msgstr "Bộ chuyển mạch ATM"
+
+#: plugins/stencilsdocker/stencils/Cisco/atm_tag_switch_router.desktop:2
+msgctxt "Name"
+msgid "ATM Tag Switch Router"
+msgstr "Bộ định tuyến chuyển mạch thẻ ATM"
+
+#: plugins/stencilsdocker/stencils/Cisco/automatic_protection_switching.desktop:2
+msgctxt "Name"
+msgid "Automatic Protection Switching"
+msgstr "Chuyển Mạch Bảo Vệ Tự Động"
+
+#: plugins/stencilsdocker/stencils/Cisco/bbfw.desktop:2
+msgctxt "Name"
+msgid "BBFW"
+msgstr "BBFW"
+
+#: plugins/stencilsdocker/stencils/Cisco/bbfw_media.desktop:2
+msgctxt "Name"
+msgid "BBFW media"
+msgstr "Phương tiện BBFW"
+
+#: plugins/stencilsdocker/stencils/Cisco/bbs.desktop:2
+msgctxt "Name"
+msgid "BBS"
+msgstr "BBS"
+
+#: plugins/stencilsdocker/stencils/Cisco/bbsm.desktop:2
+msgctxt "Name"
+msgid "BBSM"
+msgstr "BBSM"
+
+#: plugins/stencilsdocker/stencils/Cisco/branch_office_blue.desktop:2
+msgctxt "Name"
+msgid "Branch office blue"
+msgstr "Chi nhánh văn phòng màu xanh"
+
+#: plugins/stencilsdocker/stencils/Cisco/branch_office.desktop:2
+msgctxt "Name"
+msgid "Branch office"
+msgstr "Chi nhánh"
+
+#: plugins/stencilsdocker/stencils/Cisco/branch_office_subdued.desktop:2
+msgctxt "Name"
+msgid "Branch office subdued"
+msgstr "Chi nhánh văn phòng giảm nhẹ"
+
+#: plugins/stencilsdocker/stencils/Cisco/breakout_box.desktop:2
+msgctxt "Name"
+msgid "Breakout box"
+msgstr "Hộp phân tách"
+
+#: plugins/stencilsdocker/stencils/Cisco/bridge.desktop:2
+msgctxt "Name"
+msgid "Bridge"
+msgstr "Cầu nối"
+
+#: plugins/stencilsdocker/stencils/Cisco/broadband_router.desktop:2
+msgctxt "Name"
+msgid "Broadband router"
+msgstr "Bộ định tuyến băng thông rộng"
+
+#: plugins/stencilsdocker/stencils/Cisco/bts10200.desktop:2
+msgctxt "Name"
+msgid "BTS 10200"
+msgstr "BTS 10200"
+
+#: plugins/stencilsdocker/stencils/Cisco/cable_modem.desktop:2
+msgctxt "Name"
+msgid "Cable Modem"
+msgstr "Bộ điều giải cáp"
+
+#: plugins/stencilsdocker/stencils/Cisco/ca.desktop:2
+msgctxt "Name"
+msgid "Cisco CA"
+msgstr "Cisco CA"
+
+#: plugins/stencilsdocker/stencils/Cisco/callmanager.desktop:2
+msgctxt "Name"
+msgid "CallManager"
+msgstr "CallManager"
+
+#: plugins/stencilsdocker/stencils/Cisco/car.desktop:2
+msgctxt "Name"
+msgid "Car"
+msgstr "Xe hơi"
+
+#: plugins/stencilsdocker/stencils/Cisco/carrier_routing_system.desktop:2
+msgctxt "Name"
+msgid "Carrier Routing System"
+msgstr "Hệ thống Định tuyến Mạng"
+
+#: plugins/stencilsdocker/stencils/Cisco/catalyst_access_gateway.desktop:2
+msgctxt "Name"
+msgid "Catalyst Access Gateway"
+msgstr "Cổng Truy Cập Catalyst"
+
+#: plugins/stencilsdocker/stencils/Cisco/cddi_fddi_concentrator.desktop:2
+msgctxt "Name"
+msgid "CDDI-FDDI"
+msgstr "CDDI-FDDI"
+
+#: plugins/stencilsdocker/stencils/Cisco/cdm.desktop:2
+msgctxt "Name"
+msgid "CDM Content Distribution Manager"
+msgstr "Trình quản lý phân phối nội dung CDM"
+
+#: plugins/stencilsdocker/stencils/Cisco/cellular_phone.desktop:2
+msgctxt "Name"
+msgid "Cellular phone"
+msgstr "Điện thoại di động"
+
+#: plugins/stencilsdocker/stencils/Cisco/centri_firewall.desktop:2
+msgctxt "Name"
+msgid "Centri Firewall"
+msgstr "Tường lửa Centri"
+
+#: plugins/stencilsdocker/stencils/Cisco/channelized_pipe.desktop:2
+msgctxt "Name"
+msgid "Channelized Pipe"
+msgstr "Ống Kênh"
+
+#: plugins/stencilsdocker/stencils/Cisco/cisco_hub.desktop:2
+msgctxt "Name"
+msgid "Cisco Hub"
+msgstr "Bộ chia Cisco"
+
+#: plugins/stencilsdocker/stencils/Cisco/ciscosecurity.desktop:2
+msgctxt "Name"
+msgid "CiscoSecurity"
+msgstr "CiscoSecurity"
+
+#: plugins/stencilsdocker/stencils/Cisco/ciscoworks.desktop:2
+msgctxt "Name"
+msgid "CiscoWorks workstation"
+msgstr "Trạm làm việc CiscoWorks"
+
+#: plugins/stencilsdocker/stencils/Cisco/ciscoworks_man.desktop:2
+msgctxt "Name"
+msgid "CiscoWorks Man"
+msgstr "Người CiscoWorks"
+
+#: plugins/stencilsdocker/stencils/Cisco/class45_switch.desktop:2
+msgctxt "Name"
+msgid "Class 4/5 switch"
+msgstr "Bộ chuyển mạch lớp 4/5"
+
+#: plugins/stencilsdocker/stencils/Cisco/cloud_dark.desktop:2
+msgctxt "Name"
+msgid "Cloud Dark"
+msgstr "Đám mây tối"
+
+#: plugins/stencilsdocker/stencils/Cisco/cloud.desktop:2
+#: plugins/stencilsdocker/stencils/Network/nwcloud.desktop:2
+msgctxt "Name"
+msgid "Cloud"
+msgstr "Đám mây"
+
+#: plugins/stencilsdocker/stencils/Cisco/cloud_gold.desktop:2
+msgctxt "Name"
+msgid "Cloud Gold"
+msgstr "Đám mây Vàng"
+
+#: plugins/stencilsdocker/stencils/Cisco/cloud_white.desktop:2
+msgctxt "Name"
+msgid "Cloud White"
+msgstr "Đám Mây Trắng"
+
+#: plugins/stencilsdocker/stencils/Cisco/collection.desktop:2
+msgctxt "Name"
+msgid "Cisco"
+msgstr "Cisco"
+
+#: plugins/stencilsdocker/stencils/Cisco/communications_server.desktop:2
+msgctxt "Name"
+msgid "Communications server"
+msgstr "Máy chủ truyền thông"
+
+#: plugins/stencilsdocker/stencils/Cisco/concatenated_payload.desktop:2
+msgctxt "Name"
+msgid "Concatenated Payload"
+msgstr "Tải trọng nối tiếp"
+
+#: plugins/stencilsdocker/stencils/Cisco/content_engine.desktop:2
+msgctxt "Name"
+msgid "Content Engine (Cache Director)"
+msgstr "Dụng cụ Nội dung (Bộ điều khiển Bộ nhớ đệm)"
+
+#: plugins/stencilsdocker/stencils/Cisco/content_router.desktop:2
+msgctxt "Name"
+msgid "Content Service Router"
+msgstr "Bộ định tuyến dịch vụ nội dung"
+
+#: plugins/stencilsdocker/stencils/Cisco/content_service_module.desktop:2
+msgctxt "Name"
+msgid "Content Switch module"
+msgstr "Khối chuyển mạch nội dung"
+
+#: plugins/stencilsdocker/stencils/Cisco/content_switch.desktop:2
+msgctxt "Name"
+msgid "Content Switch"
+msgstr "Bộ Chuyển Mạch Nội Dung"
+
+#: plugins/stencilsdocker/stencils/Cisco/csm-s.desktop:2
+msgctxt "Name"
+msgid "CSM-S"
+msgstr "CSM-S"
+
+#: plugins/stencilsdocker/stencils/Cisco/css1100.desktop:2
+msgctxt "Name"
+msgid "Content Service Switch 1100"
+msgstr "Bộ chuyển mạch dịch vụ nội dung 1100"
+
+#: plugins/stencilsdocker/stencils/Cisco/csu_dsu.desktop:2
+msgctxt "Name"
+msgid "CSU/DSU"
+msgstr "CSU/DSU"
+
+#: plugins/stencilsdocker/stencils/Cisco/cte.desktop:2
+msgctxt "Name"
+msgid "Content Transformation Engine (CTE)"
+msgstr "Dụng cụ Chuyển đổi Nội dung (CTE)"
+
+#: plugins/stencilsdocker/stencils/Cisco/data_center_switch.desktop:2
+msgctxt "Name"
+msgid "Data Center Switch"
+msgstr "Bộ Chuyển Mạch Trung Tâm Dữ Liệu"
+
+#: plugins/stencilsdocker/stencils/Cisco/data_center_switch_reversed.desktop:2
+msgctxt "Name"
+msgid "Data Center Switch Reversed"
+msgstr "Bộ Chuyển Mạch Trung Tâm Dữ Liệu Đảo Ngược"
+
+#: plugins/stencilsdocker/stencils/Cisco/data_switch_processor.desktop:2
+msgctxt "Name"
+msgid "Data Switch Processor"
+msgstr "Bộ xử lý chuyển mạch dữ liệu"
+
+#: plugins/stencilsdocker/stencils/Cisco/detector.desktop:2
+#: plugins/stencilsdocker/stencils/Optics/detector.desktop:2
+msgctxt "Name"
+msgid "Detector"
+msgstr "Bộ dò"
+
+#: plugins/stencilsdocker/stencils/Cisco/digital_cross-connect.desktop:2
+msgctxt "Name"
+msgid "Digital Cross-Connect"
+msgstr "Bộ Kết Nối Chéo Kỹ Thuật Số"
+
+#: plugins/stencilsdocker/stencils/Cisco/director_fcis.desktop:2
+msgctxt "Name"
+msgid "Director-class Fibre Channel intelligent switch"
+msgstr "Bộ chuyển mạch thông minh Fibre Channel loại Director"
+
+#: plugins/stencilsdocker/stencils/Cisco/directory_server.desktop:2
+msgctxt "Name"
+msgid "Directory Server"
+msgstr "Máy chủ Thư mục"
+
+#: plugins/stencilsdocker/stencils/Cisco/diskette.desktop:2
+msgctxt "Name"
+msgid "Diskette"
+msgstr "Đĩa mềm"
+
+#: plugins/stencilsdocker/stencils/Cisco/disk_subsystem.desktop:2
+msgctxt "Name"
+msgid "Disk subsystem"
+msgstr "Hệ thống phụ đĩa"
+
+#: plugins/stencilsdocker/stencils/Cisco/distributed_director.desktop:2
+msgctxt "Name"
+msgid "Distributed Director"
+msgstr "Bộ phân phối"
+
+#: plugins/stencilsdocker/stencils/Cisco/dot_dot.desktop:2
+msgctxt "Name"
+msgid "Dot-Dot"
+msgstr "Chấm-Chấm"
+
+#: plugins/stencilsdocker/stencils/Cisco/dpt.desktop:2
+msgctxt "Name"
+msgid "DPT"
+msgstr "DPT"
+
+#: plugins/stencilsdocker/stencils/Cisco/dslam.desktop:2
+msgctxt "Name"
+msgid "DSLAM"
+msgstr "DSLAM"
+
+#: plugins/stencilsdocker/stencils/Cisco/dual_mode_accesspoint.desktop:2
+msgctxt "Name"
+msgid "Dual Mode AccessPoint"
+msgstr "Điểm Truy Cập Hai Chế Độ"
+
+#: plugins/stencilsdocker/stencils/Cisco/dwdm_filter.desktop:2
+msgctxt "Name"
+msgid "DWDM Filter"
+msgstr "Bộ lọc DWDM"
+
+#: plugins/stencilsdocker/stencils/Cisco/edge_label_switch_router_with_netflow.desktop:2
+msgctxt "Name"
+msgid "Edge Label Switch Router with NetFlow"
+msgstr "Bộ định tuyến chuyển mạch nhãn biên với NetFlow"
+
+#: plugins/stencilsdocker/stencils/Cisco/end_office.desktop:2
+msgctxt "Name"
+msgid "End Office"
+msgstr "Văn phòng cuối"
+
+#: plugins/stencilsdocker/stencils/Cisco/etherclient.desktop:2
+msgctxt "Name"
+msgid "EtherClient"
+msgstr "EtherClient"
+
+#: plugins/stencilsdocker/stencils/Cisco/fax.desktop:2
+msgctxt "Name"
+msgid "Fax"
+msgstr "Fax"
+
+#: plugins/stencilsdocker/stencils/Cisco/fc_storage.desktop:2
+msgctxt "Name"
+msgid "FC Storage"
+msgstr "Lưu trữ FC"
+
+#: plugins/stencilsdocker/stencils/Cisco/fddi_ring.desktop:2
+msgctxt "Name"
+msgid "FDDI Ring"
+msgstr "Vòng FDDI"
+
+#: plugins/stencilsdocker/stencils/Cisco/file_cabinet.desktop:2
+msgctxt "Name"
+msgid "File cabinet"
+msgstr "Tủ hồ sơ"
+
+#: plugins/stencilsdocker/stencils/Cisco/file_engine.desktop:2
+msgctxt "Name"
+msgid "File Engine"
+msgstr "Dụng cụ tệp"
+
+#: plugins/stencilsdocker/stencils/Cisco/file_server.desktop:2
+msgctxt "Name"
+msgid "File Server"
+msgstr "Máy chủ tệp"
+
+#: plugins/stencilsdocker/stencils/Cisco/firewall.desktop:2
+#: plugins/stencilsdocker/stencils/Network/firewall.desktop:2
+msgctxt "Name"
+msgid "Firewall"
+msgstr "Tường lửa"
+
+#: plugins/stencilsdocker/stencils/Cisco/firewall_horizontal.desktop:2
+msgctxt "Name"
+msgid "Firewall horizontal"
+msgstr "Tường lửa ngang"
+
+#: plugins/stencilsdocker/stencils/Cisco/firewall_subdued.desktop:2
+msgctxt "Name"
+msgid "Firewall subdued"
+msgstr "Tường lửa giảm nhẹ"
+
+#: plugins/stencilsdocker/stencils/Cisco/front_end_processor.desktop:2
+msgctxt "Name"
+msgid "Front End Processor"
+msgstr "Bộ xử lý tiền phương"
+
+#: plugins/stencilsdocker/stencils/Cisco/fwsm.desktop:2
+msgctxt "Name"
+msgid "Firewall Service Module"
+msgstr "Khối Dịch vụ Tường lửa"
+
+#: plugins/stencilsdocker/stencils/Cisco/general_appliance.desktop:2
+msgctxt "Name"
+msgid "General appliance"
+msgstr "Thiết bị chung"
+
+#: plugins/stencilsdocker/stencils/Cisco/generic_building_blue.desktop:2
+msgctxt "Name"
+msgid "Generic Building blue"
+msgstr "Tòa nhà chung màu xanh"
+
+#: plugins/stencilsdocker/stencils/Cisco/generic_building.desktop:2
+msgctxt "Name"
+msgid "Generic Building"
+msgstr "Tòa nhà chung"
+
+#: plugins/stencilsdocker/stencils/Cisco/generic_building_subdued.desktop:2
+msgctxt "Name"
+msgid "Generic Building subdued"
+msgstr "Tòa nhà chung chung mờ nhạt"
+
+#: plugins/stencilsdocker/stencils/Cisco/generic_gateway.desktop:2
+msgctxt "Name"
+msgid "Generic gateway"
+msgstr "Cổng kết nối chung"
+
+#: plugins/stencilsdocker/stencils/Cisco/generic_processor.desktop:2
+msgctxt "Name"
+msgid "Generic processor"
+msgstr "Bộ xử lý chung"
+
+#: plugins/stencilsdocker/stencils/Cisco/generic_softswitch.desktop:2
+msgctxt "Name"
+msgid "Generic softswitch"
+msgstr "Softswitch chung"
+
+#: plugins/stencilsdocker/stencils/Cisco/gigabit_switch_router_atm_tag.desktop:2
+msgctxt "Name"
+msgid "Gigabit Switch Router (ATM Tag)"
+msgstr "Bộ định tuyến Chuyển mạch Gigabit (Thẻ ATM)"
+
+#: plugins/stencilsdocker/stencils/Cisco/government_building.desktop:2
+msgctxt "Name"
+msgid "Government Building"
+msgstr "Tòa nhà Chính phủ"
+
+#: plugins/stencilsdocker/stencils/Cisco/guard.desktop:2
+msgctxt "Name"
+msgid "Guard"
+msgstr "Bảo vệ"
+
+#: plugins/stencilsdocker/stencils/Cisco/h323.desktop:2
+msgctxt "Name"
+msgid "H.323"
+msgstr "H.323"
+
+#: plugins/stencilsdocker/stencils/Cisco/handheld.desktop:2
+msgctxt "Name"
+msgid "Handheld"
+msgstr "Cầm tay"
+
+#: plugins/stencilsdocker/stencils/Cisco/headphones.desktop:2
+msgctxt "Name"
+msgid "Headphones"
+msgstr "Tai nghe"
+
+#: plugins/stencilsdocker/stencils/Cisco/home_office.desktop:2
+msgctxt "Name"
+msgid "Home office"
+msgstr "Văn phòng tại nhà"
+
+#: plugins/stencilsdocker/stencils/Cisco/hootphone.desktop:2
+msgctxt "Name"
+msgid "HootPhone"
+msgstr "HootPhone"
+
+#: plugins/stencilsdocker/stencils/Cisco/host.desktop:2
+msgctxt "Name"
+msgid "Host"
+msgstr "Máy"
+
+#: plugins/stencilsdocker/stencils/Cisco/house_blue.desktop:2
+msgctxt "Name"
+msgid "House blue"
+msgstr "Nhà màu xanh"
+
+#: plugins/stencilsdocker/stencils/Cisco/house.desktop:2
+msgctxt "Name"
+msgid "House"
+msgstr "Nhà"
+
+#: plugins/stencilsdocker/stencils/Cisco/hp_mini.desktop:2
+msgctxt "Name"
+msgid "HP Mini"
+msgstr "HP Mini"
+
+#: plugins/stencilsdocker/stencils/Cisco/hub.desktop:2
+#: plugins/stencilsdocker/stencils/Network/hub.desktop:2
+msgctxt "Name"
+msgid "Hub"
+msgstr "Bộ chia"
+
+#: plugins/stencilsdocker/stencils/Cisco/hub_subdued.desktop:2
+msgctxt "Name"
+msgid "Hub subdued"
+msgstr "Bộ chia tín hiệu giảm"
+
+#: plugins/stencilsdocker/stencils/Cisco/iad_router.desktop:2
+msgctxt "Name"
+msgid "IAD router"
+msgstr "Bộ định tuyến IAD"
+
+#: plugins/stencilsdocker/stencils/Cisco/ibm_mainframe.desktop:2
+msgctxt "Name"
+msgid "IBM mainframe"
+msgstr "Máy chủ lớn IBM"
+
+#: plugins/stencilsdocker/stencils/Cisco/ibm_mainframe_with_fep.desktop:2
+msgctxt "Name"
+msgid "IBM mainframe with FEP"
+msgstr "Máy chủ IBM với FEP"
+
+#: plugins/stencilsdocker/stencils/Cisco/ibm_mini.desktop:2
+msgctxt "Name"
+msgid "IBM Mini (AS400)"
+msgstr "IBM Mini (AS400)"
+
+#: plugins/stencilsdocker/stencils/Cisco/ibm_tower.desktop:2
+msgctxt "Name"
+msgid "IBM Tower"
+msgstr "Tháp IBM"
+
+#: plugins/stencilsdocker/stencils/Cisco/icm.desktop:2
+msgctxt "Name"
+msgid "ICM"
+msgstr "ICM"
+
+#: plugins/stencilsdocker/stencils/Cisco/ics.desktop:2
+msgctxt "Name"
+msgid "ICS"
+msgstr "ICS"
+
+#: plugins/stencilsdocker/stencils/Cisco/intelliswitch_stack.desktop:2
+msgctxt "Name"
+msgid "IntelliSwitch Stack"
+msgstr "Ngăn xếp IntelliSwitch"
+
+#: plugins/stencilsdocker/stencils/Cisco/ios_firewall.desktop:2
+msgctxt "Name"
+msgid "IOS Firewall"
+msgstr "Tường lửa IOS"
+
+#: plugins/stencilsdocker/stencils/Cisco/ios_slb.desktop:2
+msgctxt "Name"
+msgid "IOS SLB"
+msgstr "IOS SLB"
+
+#: plugins/stencilsdocker/stencils/Cisco/ip.desktop:2
+msgctxt "Name"
+msgid "IP"
+msgstr "IP"
+
+#: plugins/stencilsdocker/stencils/Cisco/ip_dsl.desktop:2
+msgctxt "Name"
+msgid "IP DSL"
+msgstr "IP DSL"
+
+#: plugins/stencilsdocker/stencils/Cisco/ip_old-style.desktop:2
+msgctxt "Name"
+msgid "IP Old-style"
+msgstr "IP Kiểu cũ"
+
+#: plugins/stencilsdocker/stencils/Cisco/ip_phone.desktop:2
+msgctxt "Name"
+msgid "IP Phone"
+msgstr "Điện thoại IP"
+
+#: plugins/stencilsdocker/stencils/Cisco/ip_softphone.desktop:2
+msgctxt "Name"
+msgid "IP Softphone"
+msgstr "Điện thoại IP phần mềm"
+
+#: plugins/stencilsdocker/stencils/Cisco/ip_telephony_router.desktop:2
+msgctxt "Name"
+msgid "IP Telephony Router"
+msgstr "Bộ định tuyến Điện thoại IP"
+
+#: plugins/stencilsdocker/stencils/Cisco/ip_transport_concentrator.desktop:2
+msgctxt "Name"
+msgid "IPTC"
+msgstr "IPTC"
+
+#: plugins/stencilsdocker/stencils/Cisco/iptv_broadcast_server.desktop:2
+msgctxt "Name"
+msgid "IPTV broadcast server"
+msgstr "Máy chủ phát sóng IPTV"
+
+#: plugins/stencilsdocker/stencils/Cisco/iptv_content_manager.desktop:2
+msgctxt "Name"
+msgid "IPTV content manager"
+msgstr "Trình quản lý nội dung IPTV"
+
+#: plugins/stencilsdocker/stencils/Cisco/iscsi_switch.desktop:2
+msgctxt "Name"
+msgid "iSCSI switch"
+msgstr "Bộ chuyển mạch iSCSI"
+
+#: plugins/stencilsdocker/stencils/Cisco/isdn_switch.desktop:2
+msgctxt "Name"
+msgid "ISDN switch"
+msgstr "Bộ chuyển mạch ISDN"
+
+#: plugins/stencilsdocker/stencils/Cisco/itp.desktop:2
+msgctxt "Name"
+msgid "ITP"
+msgstr "ITP"
+
+#: plugins/stencilsdocker/stencils/Cisco/jbod.desktop:2
+msgctxt "Name"
+msgid "JBOD"
+msgstr "JBOD"
+
+#: plugins/stencilsdocker/stencils/Cisco/key.desktop:2
+msgctxt "Name"
+msgid "Key"
+msgstr "Khóa"
+
+#: plugins/stencilsdocker/stencils/Cisco/label_switch_router.desktop:2
+msgctxt "Name"
+msgid "ATM Tag Sw Gigabit Router"
+msgstr "Bộ định tuyến Gigabit gắn thẻ ATM"
+
+#: plugins/stencilsdocker/stencils/Cisco/lan2lan_switch.desktop:2
+msgctxt "Name"
+msgid "LAN2LAN Switch"
+msgstr "Bộ chuyển mạch LAN2LAN"
+
+#: plugins/stencilsdocker/stencils/Cisco/lan_to_lan.desktop:2
+msgctxt "Name"
+msgid "LAN to LAN"
+msgstr "LAN đến LAN"
+
+#: plugins/stencilsdocker/stencils/Cisco/laptop.desktop:2
+msgctxt "Name"
+msgid "Laptop"
+msgstr "Máy tính xách tay"
+
+#: plugins/stencilsdocker/stencils/Cisco/layer_2_remote_switch.desktop:2
+msgctxt "Name"
+msgid "Layer 2 Remote Switch"
+msgstr "Bộ chuyển mạch Lớp 2 từ xa"
+
+#: plugins/stencilsdocker/stencils/Cisco/layer3_switch.desktop:2
+msgctxt "Name"
+msgid "Layer 3 Switch"
+msgstr "Bộ chuyển mạch Lớp 3"
+
+#: plugins/stencilsdocker/stencils/Cisco/lightweight_ap.desktop:2
+msgctxt "Name"
+msgid "Lightweight AP"
+msgstr "AP nhẹ"
+
+#: plugins/stencilsdocker/stencils/Cisco/localdirector.desktop:2
+msgctxt "Name"
+msgid "LocalDirector"
+msgstr "LocalDirector"
+
+#: plugins/stencilsdocker/stencils/Cisco/location_server.desktop:2
+msgctxt "Name"
+msgid "Location server"
+msgstr "Máy chủ địa điểm"
+
+#: plugins/stencilsdocker/stencils/Cisco/lock_and_key.desktop:2
+msgctxt "Name"
+msgid "Lock and Key"
+msgstr "Khóa và Chìa khóa"
+
+#: plugins/stencilsdocker/stencils/Cisco/lock.desktop:2
+msgctxt "Name"
+msgid "Lock"
+msgstr "Khóa"
+
+#: plugins/stencilsdocker/stencils/Cisco/longreach_cpe.desktop:2
+msgctxt "Name"
+msgid "LongReach CPE"
+msgstr "CPE LongReach"
+
+#: plugins/stencilsdocker/stencils/Cisco/macintosh.desktop:2
+msgctxt "Name"
+msgid "Macintosh"
+msgstr "Macintosh"
+
+#: plugins/stencilsdocker/stencils/Cisco/mac_woman.desktop:2
+msgctxt "Name"
+msgid "Mac Woman"
+msgstr "Phụ nữ Mac"
+
+#: plugins/stencilsdocker/stencils/Cisco/mac_woman_right.desktop:2
+msgctxt "Name"
+msgid "Sitting Woman right"
+msgstr "Phụ nữ ngồi bên phải"
+
+#: plugins/stencilsdocker/stencils/Cisco/man_blue.desktop:2
+msgctxt "Name"
+msgid "Man blue"
+msgstr "Người đàn ông màu xanh"
+
+#: plugins/stencilsdocker/stencils/Cisco/man.desktop:2
+msgctxt "Name"
+msgid "Man"
+msgstr "Người"
+
+#: plugins/stencilsdocker/stencils/Cisco/man_gold.desktop:2
+msgctxt "Name"
+msgid "Man gold"
+msgstr "Người vàng"
+
+#: plugins/stencilsdocker/stencils/Cisco/man_red.desktop:2
+msgctxt "Name"
+msgid "Man red"
+msgstr "Người đàn ông đỏ"
+
+#: plugins/stencilsdocker/stencils/Cisco/man_woman.desktop:2
+msgctxt "Name"
+msgid "Man/Woman"
+msgstr "Nam/Nữ"
+
+#: plugins/stencilsdocker/stencils/Cisco/mas_gateway.desktop:2
+msgctxt "Name"
+msgid "MAS Gateway"
+msgstr "Cổng MAS"
+
+#: plugins/stencilsdocker/stencils/Cisco/mau.desktop:2
+msgctxt "Name"
+msgid "MAU"
+msgstr "MAU"
+
+#: plugins/stencilsdocker/stencils/Cisco/mcu.desktop:2
+msgctxt "Name"
+msgid "MCU"
+msgstr "MCU"
+
+#: plugins/stencilsdocker/stencils/Cisco/mdu.desktop:2
+msgctxt "Name"
+msgid "MDU"
+msgstr "MDU"
+
+#: plugins/stencilsdocker/stencils/Cisco/me1100.desktop:2
+msgctxt "Name"
+msgid "ME 1100"
+msgstr "ME 1100"
+
+#: plugins/stencilsdocker/stencils/Cisco/medium_building_blue.desktop:2
+msgctxt "Name"
+msgid "Medium Building blue"
+msgstr "Tòa nhà trung bình màu xanh"
+
+#: plugins/stencilsdocker/stencils/Cisco/medium_building.desktop:2
+msgctxt "Name"
+msgid "Medium Building"
+msgstr "Tòa nhà trung bình"
+
+#: plugins/stencilsdocker/stencils/Cisco/medium_building_subdued.desktop:2
+msgctxt "Name"
+msgid "Medium Building subdued"
+msgstr "Tòa nhà trung bình mờ nhạt"
+
+#: plugins/stencilsdocker/stencils/Cisco/metro1500.desktop:2
+msgctxt "Name"
+msgid "Metro 1500"
+msgstr "Metro 1500"
+
+#: plugins/stencilsdocker/stencils/Cisco/mgx_8000_series_voice_gateway.desktop:2
+msgctxt "Name"
+msgid "MGX 8000 Series Voice Gateway"
+msgstr "Cổng Thoại MGX 8000 Series"
+
+#: plugins/stencilsdocker/stencils/Cisco/mgx8220.desktop:2
+msgctxt "Name"
+msgid "MGX 8220"
+msgstr "MGX 8220"
+
+#: plugins/stencilsdocker/stencils/Cisco/mgx8240.desktop:2
+msgctxt "Name"
+msgid "MGX 8240"
+msgstr "MGX 8240"
+
+#: plugins/stencilsdocker/stencils/Cisco/mgx8260.desktop:2
+msgctxt "Name"
+msgid "MGX 8260"
+msgstr "MGX 8260"
+
+#: plugins/stencilsdocker/stencils/Cisco/microphone.desktop:2
+msgctxt "Name"
+msgid "Microphone"
+msgstr "Micrô"
+
+#: plugins/stencilsdocker/stencils/Cisco/microwebserver.desktop:2
+msgctxt "Name"
+msgid "MicroWebserver"
+msgstr "MicroWebserver"
+
+#: plugins/stencilsdocker/stencils/Cisco/mini_vax.desktop:2
+msgctxt "Name"
+msgid "Mini VAX"
+msgstr "Mini VAX"
+
+#: plugins/stencilsdocker/stencils/Cisco/mobile_access_ip_phone.desktop:2
+msgctxt "Name"
+msgid "Mobile Access IP Phone"
+msgstr "Điện thoại IP Di động"
+
+#: plugins/stencilsdocker/stencils/Cisco/mobile_access_router.desktop:2
+msgctxt "Name"
+msgid "Mobile Access Router"
+msgstr "Bộ định tuyến truy cập di động"
+
+#: plugins/stencilsdocker/stencils/Cisco/moh_server.desktop:2
+msgctxt "Name"
+msgid "MoH server (Music on Hold)"
+msgstr "Máy chủ MoH (Nhạc chờ)"
+
+#: plugins/stencilsdocker/stencils/Cisco/monitor.desktop:2
+msgctxt "Name"
+msgid "Monitor"
+msgstr "Màn hình"
+
+#: plugins/stencilsdocker/stencils/Cisco/multi-fabric_server_switch.desktop:2
+msgctxt "Name"
+msgid "Multi-Fabric Server Switch"
+msgstr "Bộ chuyển mạch máy chủ đa kết cấu"
+
+#: plugins/stencilsdocker/stencils/Cisco/multilayer_remote_switch.desktop:2
+msgctxt "Name"
+msgid "Multilayer Remote Switch"
+msgstr "Bộ chuyển mạch đa lớp từ xa"
+
+#: plugins/stencilsdocker/stencils/Cisco/multilayer_switch.desktop:2
+msgctxt "Name"
+msgid "Multilayer switch"
+msgstr "Bộ chuyển mạch đa lớp"
+
+#: plugins/stencilsdocker/stencils/Cisco/multilayer_switch_with_silicon.desktop:2
+msgctxt "Name"
+msgid "Multilayer Switch with Silicon"
+msgstr "Bộ chuyển mạch đa lớp với Silicon"
+
+#: plugins/stencilsdocker/stencils/Cisco/multilayer_switch_with_silicon_subdued.desktop:2
+msgctxt "Name"
+msgid "Multilayer Switch with Silicon subdued"
+msgstr "Bộ chuyển mạch đa lớp với Silicon giảm nhẹ"
+
+#: plugins/stencilsdocker/stencils/Cisco/multiswitch_device.desktop:2
+msgctxt "Name"
+msgid "MultiSwitch Device"
+msgstr "Thiết bị MultiSwitch"
+
+#: plugins/stencilsdocker/stencils/Cisco/mux.desktop:2
+msgctxt "Name"
+msgid "MUX"
+msgstr "MUX"
+
+#: plugins/stencilsdocker/stencils/Cisco/nat.desktop:2
+msgctxt "Name"
+msgid "NAT"
+msgstr "NAT"
+
+#: plugins/stencilsdocker/stencils/Cisco/netflow_router.desktop:2
+msgctxt "Name"
+msgid "NetFlow router"
+msgstr "Bộ định tuyến NetFlow"
+
+#: plugins/stencilsdocker/stencils/Cisco/netranger.desktop:2
+msgctxt "Name"
+msgid "NetRanger"
+msgstr "NetRanger"
+
+#: plugins/stencilsdocker/stencils/Cisco/netsonar.desktop:2
+msgctxt "Name"
+msgid "NetSonar"
+msgstr "NetSonar"
+
+#: plugins/stencilsdocker/stencils/Cisco/network_management.desktop:2
+msgctxt "Name"
+msgid "Network Management"
+msgstr "Quản lý Mạng"
+
+#: plugins/stencilsdocker/stencils/Cisco/newton.desktop:2
+msgctxt "Name"
+msgid "Newton"
+msgstr "Newton"
+
+#: plugins/stencilsdocker/stencils/Cisco/octel.desktop:2
+msgctxt "Name"
+msgid "Octel"
+msgstr "Octel"
+
+#: plugins/stencilsdocker/stencils/Cisco/ons15104.desktop:2
+msgctxt "Name"
+msgid "ONS15104"
+msgstr "ONS15104"
+
+#: plugins/stencilsdocker/stencils/Cisco/ons15540.desktop:2
+msgctxt "Name"
+msgid "ONS15500"
+msgstr "ONS15500"
+
+#: plugins/stencilsdocker/stencils/Cisco/optical_amplifier.desktop:2
+msgctxt "Name"
+msgid "Optical Amplifier"
+msgstr "Bộ khuếch đại quang"
+
+#: plugins/stencilsdocker/stencils/Cisco/optical_cross-connect.desktop:2
+msgctxt "Name"
+msgid "Optical Cross-Connect"
+msgstr "Bộ Chuyển Mạch Quang"
+
+#: plugins/stencilsdocker/stencils/Cisco/optical_fiber.desktop:2
+msgctxt "Name"
+msgid "Optical Fiber"
+msgstr "Cáp quang"
+
+#: plugins/stencilsdocker/stencils/Cisco/optical_services_router.desktop:2
+msgctxt "Name"
+msgid "Optical Services Router"
+msgstr "Bộ định tuyến Dịch vụ Quang"
+
+#: plugins/stencilsdocker/stencils/Cisco/optical_transport.desktop:2
+msgctxt "Name"
+msgid "Optical Transport"
+msgstr "Vận chuyển quang học"
+
+#: plugins/stencilsdocker/stencils/Cisco/pad.desktop:2
+msgctxt "Name"
+msgid "PAD X.28"
+msgstr "PAD X.28"
+
+#: plugins/stencilsdocker/stencils/Cisco/pager.desktop:2
+msgctxt "Name"
+msgid "Pager"
+msgstr "Máy nhắn tin"
+
+#: plugins/stencilsdocker/stencils/Cisco/pbx.desktop:2
+msgctxt "Name"
+msgid "PBX"
+msgstr "PBX"
+
+#: plugins/stencilsdocker/stencils/Cisco/pbx_switch.desktop:2
+msgctxt "Name"
+msgid "PBX Switch"
+msgstr "Bộ chuyển mạch PBX"
+
+#: plugins/stencilsdocker/stencils/Cisco/pc_adapter_card.desktop:2
+msgctxt "Name"
+msgid "PC Adapter Card"
+msgstr "Card Chuyển Đổi PC"
+
+#: plugins/stencilsdocker/stencils/Cisco/pc_card.desktop:2
+msgctxt "Name"
+msgid "PC Card"
+msgstr "Thẻ PC"
+
+#: plugins/stencilsdocker/stencils/Cisco/pc.desktop:2
+msgctxt "Name"
+msgid "PC"
+msgstr "PC"
+
+#: plugins/stencilsdocker/stencils/Cisco/pc_man.desktop:2
+msgctxt "Name"
+msgid "PC Man"
+msgstr "Người PC"
+
+#: plugins/stencilsdocker/stencils/Cisco/pc_man_left.desktop:2
+msgctxt "Name"
+msgid "PC Man left"
+msgstr "Người PC bên trái"
+
+#: plugins/stencilsdocker/stencils/Cisco/pc_router_card.desktop:2
+msgctxt "Name"
+msgid "PC Router Card"
+msgstr "Card Router PC"
+
+#: plugins/stencilsdocker/stencils/Cisco/pc_software.desktop:2
+msgctxt "Name"
+msgid "PC Software"
+msgstr "Phần mềm PC"
+
+#: plugins/stencilsdocker/stencils/Cisco/pc_video.desktop:2
+msgctxt "Name"
+msgid "PC Video"
+msgstr "PC Hình"
+
+#: plugins/stencilsdocker/stencils/Cisco/pc_with_router-based_software.desktop:2
+msgctxt "Name"
+msgid "PC with Router-Based Software"
+msgstr "PC với Phần mềm Dựa trên Bộ định tuyến"
+
+#: plugins/stencilsdocker/stencils/Cisco/pda.desktop:2
+msgctxt "Name"
+msgid "PDA"
+msgstr "PDA"
+
+#: plugins/stencilsdocker/stencils/Cisco/phone_2.desktop:2
+msgctxt "Name"
+msgid "Phone 2"
+msgstr "Điện thoại 2"
+
+#: plugins/stencilsdocker/stencils/Cisco/phone_appliance.desktop:2
+msgctxt "Name"
+msgid "Phone Appliance"
+msgstr "Thiết bị Điện thoại"
+
+#: plugins/stencilsdocker/stencils/Cisco/phone.desktop:2
+msgctxt "Name"
+msgid "Phone"
+msgstr "Điện thoại"
+
+#: plugins/stencilsdocker/stencils/Cisco/phone_ethernet.desktop:2
+msgctxt "Name"
+msgid "Phone Ethernet"
+msgstr "Điện thoại Ethernet"
+
+#: plugins/stencilsdocker/stencils/Cisco/phone_fax.desktop:2
+msgctxt "Name"
+msgid "Phone/Fax"
+msgstr "Điện thoại/Fax"
+
+#: plugins/stencilsdocker/stencils/Cisco/phone_feature.desktop:2
+msgctxt "Name"
+msgid "Phone Feature"
+msgstr "Tính năng điện thoại"
+
+#: plugins/stencilsdocker/stencils/Cisco/pix_firewall.desktop:2
+msgctxt "Name"
+msgid "PIX Firewall"
+msgstr "Tường lửa PIX"
+
+#: plugins/stencilsdocker/stencils/Cisco/pix_firewall_left.desktop:2
+msgctxt "Name"
+msgid "PIX Firewall Left"
+msgstr "Tường lửa PIX trái"
+
+#: plugins/stencilsdocker/stencils/Cisco/printer.desktop:2
+msgctxt "Name"
+msgid "Printer"
+msgstr "Máy in"
+
+#: plugins/stencilsdocker/stencils/Cisco/programmable_switch.desktop:2
+msgctxt "Name"
+msgid "Programmable Switch"
+msgstr "Bộ chuyển mạch lập trình được"
+
+#: plugins/stencilsdocker/stencils/Cisco/protocol_translator.desktop:2
+msgctxt "Name"
+msgid "Protocol Translator"
+msgstr "Bộ Dịch Giao Thức"
+
+#: plugins/stencilsdocker/stencils/Cisco/pxf.desktop:2
+msgctxt "Name"
+msgid "PXF"
+msgstr "PXF"
+
+#: plugins/stencilsdocker/stencils/Cisco/radio_tower.desktop:2
+msgctxt "Name"
+msgid "Radio Tower"
+msgstr "Tháp Radio"
+
+#: plugins/stencilsdocker/stencils/Cisco/ratemux.desktop:2
+msgctxt "Name"
+msgid "RateMUX"
+msgstr "RateMUX"
+
+#: plugins/stencilsdocker/stencils/Cisco/relational_database.desktop:2
+msgctxt "Name"
+msgid "Relational Database"
+msgstr "Cơ sở dữ liệu quan hệ"
+
+#: plugins/stencilsdocker/stencils/Cisco/repeater.desktop:2
+msgctxt "Name"
+msgid "Repeater"
+msgstr "Bộ lặp"
+
+#: plugins/stencilsdocker/stencils/Cisco/router_in_building.desktop:2
+msgctxt "Name"
+msgid "Router in building"
+msgstr "Bộ định tuyến trong tòa nhà"
+
+#: plugins/stencilsdocker/stencils/Cisco/router_subdued.desktop:2
+msgctxt "Name"
+msgid "Router subdued"
+msgstr "Bộ định tuyến mờ"
+
+#: plugins/stencilsdocker/stencils/Cisco/router_with_firewall.desktop:2
+msgctxt "Name"
+msgid "Router with Firewall"
+msgstr "Bộ định tuyến có Tường lửa"
+
+#: plugins/stencilsdocker/stencils/Cisco/router_with_silicon_switch.desktop:2
+msgctxt "Name"
+msgid "Router with Silicon Switch"
+msgstr "Bộ định tuyến với Bộ chuyển mạch Silicon"
+
+#: plugins/stencilsdocker/stencils/Cisco/route_switch_processor.desktop:2
+msgctxt "Name"
+msgid "Route Switch Processor"
+msgstr "Bộ xử lý chuyển mạch tuyến"
+
+#: plugins/stencilsdocker/stencils/Cisco/route_switch_processor_with_si.desktop:2
+msgctxt "Name"
+msgid "Route Switch Processor with Si"
+msgstr "Bộ xử lý chuyển mạch tuyến với Si"
+
+#: plugins/stencilsdocker/stencils/Cisco/rps.desktop:2
+msgctxt "Name"
+msgid "RPS"
+msgstr "RPS"
+
+#: plugins/stencilsdocker/stencils/Cisco/running_man.desktop:2
+msgctxt "Name"
+msgid "Running man"
+msgstr "Người chạy"
+
+#: plugins/stencilsdocker/stencils/Cisco/running_man_subdued.desktop:2
+msgctxt "Name"
+msgid "Running man subdued"
+msgstr "Người chạy mờ"
+
+#: plugins/stencilsdocker/stencils/Cisco/running_woman.desktop:2
+msgctxt "Name"
+msgid "Running woman"
+msgstr "Phụ nữ chạy"
+
+#: plugins/stencilsdocker/stencils/Cisco/satellite.desktop:2
+msgctxt "Name"
+msgid "Satellite"
+msgstr "Vệ tinh"
+
+#: plugins/stencilsdocker/stencils/Cisco/satellite_dish.desktop:2
+msgctxt "Name"
+msgid "Satellite dish"
+msgstr "Chảo vệ tinh"
+
+#: plugins/stencilsdocker/stencils/Cisco/sc2200.desktop:2
+msgctxt "Name"
+msgid "SC2200 (Signalling Controller)"
+msgstr "SC2200 (Bộ điều khiển tín hiệu)"
+
+#: plugins/stencilsdocker/stencils/Cisco/sc2200_vsc3000_host.desktop:2
+msgctxt "Name"
+msgid "SC2200/VSC3000 host"
+msgstr "SC2200/VSC3000 máy"
+
+#: plugins/stencilsdocker/stencils/Cisco/scanner.desktop:2
+#: plugins/stencilsdocker/stencils/Lights/Scanner.desktop:2
+msgctxt "Name"
+msgid "Scanner"
+msgstr "Máy quét"
+
+#: plugins/stencilsdocker/stencils/Cisco/security_appliance.desktop:2
+msgctxt "Name"
+msgid "Security appliance"
+msgstr "Thiết bị an ninh"
+
+#: plugins/stencilsdocker/stencils/Cisco/server_switch.desktop:2
+msgctxt "Name"
+msgid "Server Switch"
+msgstr "Bộ chuyển mạch máy chủ"
+
+#: plugins/stencilsdocker/stencils/Cisco/server_with_pc_router.desktop:2
+msgctxt "Name"
+msgid "Server with PC Router"
+msgstr "Máy chủ với Bộ định tuyến PC"
+
+#: plugins/stencilsdocker/stencils/Cisco/service_control.desktop:2
+msgctxt "Name"
+msgid "Service Control"
+msgstr "Điều khiển Dịch vụ"
+
+#: plugins/stencilsdocker/stencils/Cisco/sip_proxy_server.desktop:2
+msgctxt "Name"
+msgid "SIP Proxy server"
+msgstr "Máy chủ uỷ nhiệm SIP"
+
+#: plugins/stencilsdocker/stencils/Cisco/sitting_woman.desktop:2
+msgctxt "Name"
+msgid "Sitting woman"
+msgstr "Phụ nữ ngồi"
+
+#: plugins/stencilsdocker/stencils/Cisco/small_business.desktop:2
+msgctxt "Name"
+msgid "Small Business"
+msgstr "Doanh nghiệp nhỏ"
+
+#: plugins/stencilsdocker/stencils/Cisco/small_hub.desktop:2
+msgctxt "Name"
+msgid "Small hub"
+msgstr "Bộ chia nhỏ"
+
+#: plugins/stencilsdocker/stencils/Cisco/softphone.desktop:2
+msgctxt "Name"
+msgid "Softphone"
+msgstr "Điện thoại mềm"
+
+#: plugins/stencilsdocker/stencils/Cisco/software-based_router_on_file_server.desktop:2
+msgctxt "Name"
+msgid "Software based server"
+msgstr "Máy chủ dựa trên phần mềm"
+
+#: plugins/stencilsdocker/stencils/Cisco/sonet_mux.desktop:2
+msgctxt "Name"
+msgid "SONET MUX"
+msgstr "MUX SONET"
+
+#: plugins/stencilsdocker/stencils/Cisco/speaker.desktop:2
+msgctxt "Name"
+msgid "Speaker"
+msgstr "Loa"
+
+#: plugins/stencilsdocker/stencils/Cisco/ssl_terminator.desktop:2
+msgctxt "Name"
+msgid "SSL Terminator"
+msgstr "Bộ chấm dứt SSL"
+
+#: plugins/stencilsdocker/stencils/Cisco/standing_man.desktop:2
+msgctxt "Name"
+msgid "Standing Man"
+msgstr "Người Đứng"
+
+#: plugins/stencilsdocker/stencils/Cisco/stb.desktop:2
+msgctxt "Name"
+msgid "STB (set top box)"
+msgstr "STB (hộp giải mã)"
+
+#: plugins/stencilsdocker/stencils/Cisco/storage_array.desktop:2
+msgctxt "Name"
+msgid "Storage array"
+msgstr "Mảng lưu trữ"
+
+#: plugins/stencilsdocker/stencils/Cisco/storage_router.desktop:2
+msgctxt "Name"
+msgid "Storage Router"
+msgstr "Bộ định tuyến lưu trữ"
+
+#: plugins/stencilsdocker/stencils/Cisco/storage_solution_engine.desktop:2
+msgctxt "Name"
+msgid "Storage Solution Engine"
+msgstr "Dụng cụ Giải pháp Lưu trữ"
+
+#: plugins/stencilsdocker/stencils/Cisco/stp.desktop:2
+msgctxt "Name"
+msgid "STP"
+msgstr "STP"
+
+#: plugins/stencilsdocker/stencils/Cisco/sun_workstation.desktop:2
+msgctxt "Name"
+msgid "SUN workstation"
+msgstr "Trạm làm việc SUN"
+
+#: plugins/stencilsdocker/stencils/Cisco/supercomputer.desktop:2
+msgctxt "Name"
+msgid "Supercomputer"
+msgstr "Siêu máy tính"
+
+#: plugins/stencilsdocker/stencils/Cisco/svx.desktop:2
+msgctxt "Name"
+msgid "SVX (interchangeable with End office)"
+msgstr "SVX (có thể thay thế với Tổng đài)"
+
+#: plugins/stencilsdocker/stencils/Cisco/switch_processor.desktop:2
+msgctxt "Name"
+msgid "Switch Processor"
+msgstr "Bộ xử lý chuyển mạch"
+
+#: plugins/stencilsdocker/stencils/Cisco/system_controller.desktop:2
+msgctxt "Name"
+msgid "System controller"
+msgstr "Bộ điều khiển hệ thống"
+
+#: plugins/stencilsdocker/stencils/Cisco/tablet.desktop:2
+msgctxt "Name"
+msgid "Tablet"
+msgstr "Máy tính bảng"
+
+#: plugins/stencilsdocker/stencils/Cisco/tape_array.desktop:2
+msgctxt "Name"
+msgid "Tape array"
+msgstr "Mảng băng từ"
+
+#: plugins/stencilsdocker/stencils/Cisco/tdm_router.desktop:2
+msgctxt "Name"
+msgid "TDM router"
+msgstr "Bộ định tuyến TDM"
+
+#: plugins/stencilsdocker/stencils/Cisco/telecommuter.desktop:2
+msgctxt "Name"
+msgid "Telecommuter"
+msgstr "Người làm việc từ xa"
+
+#: plugins/stencilsdocker/stencils/Cisco/telecommuter_house.desktop:2
+msgctxt "Name"
+msgid "Telecommuter house"
+msgstr "Nhà làm việc từ xa"
+
+#: plugins/stencilsdocker/stencils/Cisco/telecommuter_house_router.desktop:2
+msgctxt "Name"
+msgid "Telecommuter house/router"
+msgstr "Nhà/bộ định tuyến từ xa"
+
+#: plugins/stencilsdocker/stencils/Cisco/telecommuter_house_subdued.desktop:2
+msgctxt "Name"
+msgid "Telecommuter house subdued"
+msgstr "Nhà làm việc từ xa giảm nhẹ"
+
+#: plugins/stencilsdocker/stencils/Cisco/terminal.desktop:2
+msgctxt "Name"
+msgid "Terminal"
+msgstr "Dòng lệnh"
+
+#: plugins/stencilsdocker/stencils/Cisco/terminal_server.desktop:2
+msgctxt "Name"
+msgid "Terminal Server"
+msgstr "Máy chủ dòng lệnh"
+
+#: plugins/stencilsdocker/stencils/Cisco/tokenring.desktop:2
+msgctxt "Name"
+msgid "TokenRing"
+msgstr "TokenRing"
+
+#: plugins/stencilsdocker/stencils/Cisco/transpath.desktop:2
+msgctxt "Name"
+msgid "Transpath"
+msgstr "Transpath"
+
+#: plugins/stencilsdocker/stencils/Cisco/truck.desktop:2
+msgctxt "Name"
+msgid "Truck"
+msgstr "Xe tải"
+
+#: plugins/stencilsdocker/stencils/Cisco/turret.desktop:2
+msgctxt "Name"
+msgid "Turret"
+msgstr "Tháp pháo"
+
+#: plugins/stencilsdocker/stencils/Cisco/tv.desktop:2
+msgctxt "Name"
+msgid "TV"
+msgstr "TV"
+
+#: plugins/stencilsdocker/stencils/Cisco/ubr910_cable_dsu.desktop:2
+msgctxt "Name"
+msgid "uBR910"
+msgstr "uBR910"
+
+#: plugins/stencilsdocker/stencils/Cisco/umg_series.desktop:2
+msgctxt "Name"
+msgid "uMG series"
+msgstr "Dòng uMG"
+
+#: plugins/stencilsdocker/stencils/Cisco/unity_express.desktop:2
+msgctxt "Name"
+msgid "Unity Express"
+msgstr "Unity Express"
+
+#: plugins/stencilsdocker/stencils/Cisco/unity_server.desktop:2
+msgctxt "Name"
+msgid "Unity server"
+msgstr "Máy chủ Unity"
+
+#: plugins/stencilsdocker/stencils/Cisco/universal_gateway.desktop:2
+msgctxt "Name"
+msgid "Universal Gateway"
+msgstr "Cổng Vạn Năng"
+
+#: plugins/stencilsdocker/stencils/Cisco/university.desktop:2
+msgctxt "Name"
+msgid "University"
+msgstr "Trường đại học"
+
+#: plugins/stencilsdocker/stencils/Cisco/ups.desktop:2
+msgctxt "Name"
+msgid "UPS"
+msgstr "UPS"
+
+#: plugins/stencilsdocker/stencils/Cisco/video_camera.desktop:2
+msgctxt "Name"
+msgid "Video camera"
+msgstr "Máy quay phim"
+
+#: plugins/stencilsdocker/stencils/Cisco/video_camera_right.desktop:2
+msgctxt "Name"
+msgid "Video Camera right"
+msgstr "Máy quay phim bên phải"
+
+#: plugins/stencilsdocker/stencils/Cisco/vip.desktop:2
+msgctxt "Name"
+msgid "VIP"
+msgstr "VIP"
+
+#: plugins/stencilsdocker/stencils/Cisco/virtual_layer_switch.desktop:2
+msgctxt "Name"
+msgid "Virtual Layer Switch"
+msgstr "Bộ Chuyển Mạch Lớp Ảo"
+
+#: plugins/stencilsdocker/stencils/Cisco/vn2900.desktop:2
+msgctxt "Name"
+msgid "VN2900"
+msgstr "VN2900"
+
+#: plugins/stencilsdocker/stencils/Cisco/vn5900.desktop:2
+msgctxt "Name"
+msgid "VN5900"
+msgstr "VN5900"
+
+#: plugins/stencilsdocker/stencils/Cisco/vn5902.desktop:2
+msgctxt "Name"
+msgid "VN5902"
+msgstr "VN5902"
+
+#: plugins/stencilsdocker/stencils/Cisco/voice-enabled_access_server.desktop:2
+msgctxt "Name"
+msgid "Voice commserver"
+msgstr "Máy chủ thoại"
+
+#: plugins/stencilsdocker/stencils/Cisco/voice-enabled_atm_switch.desktop:2
+msgctxt "Name"
+msgid "Voice ATM Switch"
+msgstr "Bộ chuyển mạch ATM thoại"
+
+#: plugins/stencilsdocker/stencils/Cisco/voice-enabled_router.desktop:2
+msgctxt "Name"
+msgid "Voice router"
+msgstr "Bộ định tuyến thoại"
+
+#: plugins/stencilsdocker/stencils/Cisco/voice_switch2.desktop:2
+msgctxt "Name"
+msgid "Voice switch 2"
+msgstr "Bộ chuyển mạch thoại 2"
+
+#: plugins/stencilsdocker/stencils/Cisco/vpn_concentrator.desktop:2
+msgctxt "Name"
+msgid "VPN concentrator"
+msgstr "Bộ tập trung VPN"
+
+#: plugins/stencilsdocker/stencils/Cisco/vpn_gateway.desktop:2
+msgctxt "Name"
+msgid "VPN Gateway"
+msgstr "Cổng VPN"
+
+#: plugins/stencilsdocker/stencils/Cisco/vsc3000.desktop:2
+msgctxt "Name"
+msgid "Virtual switch controller (VSC 3000)"
+msgstr "Bộ điều khiển chuyển mạch ảo (VSC 3000)"
+
+#: plugins/stencilsdocker/stencils/Cisco/wan.desktop:2
+msgctxt "Name"
+msgid "WAN"
+msgstr "WAN"
+
+#: plugins/stencilsdocker/stencils/Cisco/wavelength_router.desktop:2
+msgctxt "Name"
+msgid "Wavelength router"
+msgstr "Bộ định tuyến bước sóng"
+
+#: plugins/stencilsdocker/stencils/Cisco/wdm.desktop:2
+msgctxt "Name"
+msgid "WDM"
+msgstr "WDM"
+
+#: plugins/stencilsdocker/stencils/Cisco/web_browser.desktop:2
+msgctxt "Name"
+msgid "Web browser"
+msgstr "Trình duyệt web"
+
+#: plugins/stencilsdocker/stencils/Cisco/web_cluster.desktop:2
+msgctxt "Name"
+msgid "Web cluster"
+msgstr "Cụm web"
+
+#: plugins/stencilsdocker/stencils/Cisco/wi-fi_tag.desktop:2
+msgctxt "Name"
+msgid "Wi-Fi Tag"
+msgstr "Thẻ Wi-Fi"
+
+#: plugins/stencilsdocker/stencils/Cisco/wireless_bridge.desktop:2
+msgctxt "Name"
+msgid "Wireless Bridge"
+msgstr "Cầu Không Dây"
+
+#: plugins/stencilsdocker/stencils/Cisco/wireless_connectivity.desktop:2
+msgctxt "Name"
+msgid "Wireless Connectivity"
+msgstr "Kết nối không dây"
+
+#: plugins/stencilsdocker/stencils/Cisco/wireless.desktop:2
+msgctxt "Name"
+msgid "Wireless"
+msgstr "Không dây"
+
+#: plugins/stencilsdocker/stencils/Cisco/wireless_location_appliance.desktop:2
+msgctxt "Name"
+msgid "Wireless Location Appliance"
+msgstr "Thiết bị Định vị Không dây"
+
+#: plugins/stencilsdocker/stencils/Cisco/wireless_router.desktop:2
+msgctxt "Name"
+msgid "Wireless router"
+msgstr "Bộ định tuyến không dây"
+
+#: plugins/stencilsdocker/stencils/Cisco/wireless_transport.desktop:2
+msgctxt "Name"
+msgid "Wireless Transport"
+msgstr "Truyền tải Không dây"
+
+#: plugins/stencilsdocker/stencils/Cisco/wlan_controller.desktop:2
+msgctxt "Name"
+msgid "WLAN controller"
+msgstr "Bộ điều khiển WLAN"
+
+#: plugins/stencilsdocker/stencils/Cisco/woman_blue.desktop:2
+msgctxt "Name"
+msgid "Woman blue"
+msgstr "Phụ nữ màu xanh"
+
+#: plugins/stencilsdocker/stencils/Cisco/woman.desktop:2
+msgctxt "Name"
+msgid "Woman"
+msgstr "Phụ nữ"
+
+#: plugins/stencilsdocker/stencils/Cisco/woman_gold.desktop:2
+msgctxt "Name"
+msgid "Woman gold"
+msgstr "Phụ nữ vàng"
+
+#: plugins/stencilsdocker/stencils/Cisco/woman_red.desktop:2
+msgctxt "Name"
+msgid "Woman red"
+msgstr "Phụ nữ đỏ"
+
+#: plugins/stencilsdocker/stencils/Cisco/workgroup_director.desktop:2
+msgctxt "Name"
+msgid "Workgroup director"
+msgstr "Bộ điều khiển nhóm làm việc"
+
+#: plugins/stencilsdocker/stencils/Cisco/workgroup_fcis.desktop:2
+msgctxt "Name"
+msgid "Workgroup Fibre Channel intelligent switch"
+msgstr "Bộ chuyển mạch thông minh Fibre Channel cho nhóm làm việc"
+
+#: plugins/stencilsdocker/stencils/Cisco/workgroup_switch.desktop:2
+msgctxt "Name"
+msgid "Workgroup switch"
+msgstr "Bộ chuyển mạch nhóm làm việc"
+
+#: plugins/stencilsdocker/stencils/Cisco/workgroup_switch_subdued.desktop:2
+msgctxt "Name"
+msgid "Workgroup switch Subdued"
+msgstr "Bộ chuyển mạch nhóm làm việc Mờ nhạt"
+
+#: plugins/stencilsdocker/stencils/Cisco/workgroup_switch_voice-enabled.desktop:2
+msgctxt "Name"
+msgid "Voice switch"
+msgstr "Bộ chuyển mạch thoại"
+
+#: plugins/stencilsdocker/stencils/Cisco/workstation.desktop:2
+msgctxt "Name"
+msgid "Workstation"
+msgstr "Trạm làm việc"
+
+#: plugins/stencilsdocker/stencils/Cisco/www_server.desktop:2
+msgctxt "Name"
+msgid "WWW server"
+msgstr "Máy chủ WWW"
+
+#: plugins/stencilsdocker/stencils/Civil/bvrest.desktop:2
+msgctxt "Name"
+msgid "Bivalent Vertical Rest"
+msgstr "Dấu Lặng Thẳng Đứng Hai Giá Trị"
+
+#: plugins/stencilsdocker/stencils/Civil/civil_aerator.desktop:2
+msgctxt "Name"
+msgid "Aerator"
+msgstr "Máy sục khí"
+
+#: plugins/stencilsdocker/stencils/Civil/civil_backflow_preventer.desktop:2
+msgctxt "Name"
+msgid "Backflow Preventer"
+msgstr "Van một chiều"
+
+#: plugins/stencilsdocker/stencils/Civil/civil_basin.desktop:2
+msgctxt "Name"
+msgid "Basin"
+msgstr "Bồn"
+
+#: plugins/stencilsdocker/stencils/Civil/civil_container.desktop:2
+msgctxt "Name"
+msgid "Container"
+msgstr "Container"
+
+#: plugins/stencilsdocker/stencils/Civil/civil_final-settling_basin.desktop:2
+msgctxt "Name"
+msgid "Final-Settling Basin"
+msgstr "Bể Lắng Cuối"
+
+#: plugins/stencilsdocker/stencils/Civil/civil_frequency_converter.desktop:2
+msgctxt "Name"
+msgid "Frequency Converter"
+msgstr "Bộ Chuyển Đổi Tần Số"
+
+#: plugins/stencilsdocker/stencils/Civil/civil_gas_bottle.desktop:2
+msgctxt "Name"
+msgid "Gas Bottle"
+msgstr "Bình Gas"
+
+#: plugins/stencilsdocker/stencils/Civil/civil_horizontal_limiting_line.desktop:2
+msgctxt "Name"
+msgid "Horizontal Limiting Line"
+msgstr "Đường Giới Hạn Ngang"
+
+#: plugins/stencilsdocker/stencils/Civil/civil_horizontal_valve.desktop:2
+msgctxt "Name"
+msgid "Horizontal Valve"
+msgstr "Van ngang"
+
+#: plugins/stencilsdocker/stencils/Civil/civil_motor.desktop:2
+#: plugins/stencilsdocker/stencils/LST/motor.desktop:2
+msgctxt "Name"
+msgid "Motor"
+msgstr "Động cơ"
+
+#: plugins/stencilsdocker/stencils/Civil/civil_preliminary_clarification_tank.desktop:2
+msgctxt "Name"
+msgid "Preliminary Clarification Tank"
+msgstr "Bể Lắng Sơ Bộ"
+
+#: plugins/stencilsdocker/stencils/Civil/civil_rotor.desktop:2
+msgctxt "Name"
+msgid "Rotor"
+msgstr "Rôto"
+
+#: plugins/stencilsdocker/stencils/Civil/civil_soil.desktop:2
+msgctxt "Name"
+msgid "Soil"
+msgstr "Đất"
+
+#: plugins/stencilsdocker/stencils/Civil/civil_vertical_limiting_line.desktop:2
+msgctxt "Name"
+msgid "Vertical Limiting Line"
+msgstr "Đường Giới Hạn Dọc"
+
+#: plugins/stencilsdocker/stencils/Civil/civil_vertical_propeller.desktop:2
+msgctxt "Name"
+msgid "Vertical Propeller"
+msgstr "Cánh quạt dọc"
+
+#: plugins/stencilsdocker/stencils/Civil/collection.desktop:2
+msgctxt "Name"
+msgid "Civil"
+msgstr "Dân sự"
+
+#: plugins/stencilsdocker/stencils/Civil/hcompressor.desktop:2
+msgctxt "Name"
+msgid "Horizontal Compressor"
+msgstr "Máy nén ngang"
+
+#: plugins/stencilsdocker/stencils/Civil/hpump.desktop:2
+msgctxt "Name"
+msgid "Horizontal Pump"
+msgstr "Bơm Ngang"
+
+#: plugins/stencilsdocker/stencils/Civil/hrest.desktop:2
+msgctxt "Name"
+msgid "Horizontal Rest"
+msgstr "Nghỉ Ngang"
+
+#: plugins/stencilsdocker/stencils/Civil/line.desktop:2
+msgctxt "Name"
+msgid "Reference Line"
+msgstr "Đường Tham Chiếu"
+
+#: plugins/stencilsdocker/stencils/Civil/vcompressor.desktop:2
+msgctxt "Name"
+msgid "Vertical Compressor"
+msgstr "Máy Nén Dọc"
+
+#: plugins/stencilsdocker/stencils/Civil/vpump.desktop:2
+msgctxt "Name"
+msgid "Vertical Pump"
+msgstr "Bơm Đứng"
+
+#: plugins/stencilsdocker/stencils/Civil/vrest.desktop:2
+msgctxt "Name"
+msgid "Vertical Rest"
+msgstr "Nghỉ Dọc"
+
+#: plugins/stencilsdocker/stencils/Civil/water_level.desktop:2
+msgctxt "Name"
+msgid "Water Level"
+msgstr "Mực nước"
+
+#: plugins/stencilsdocker/stencils/CMOS/collection.desktop:2
+msgctxt "Name"
+msgid "CMOS"
+msgstr "CMOS"
+
+#: plugins/stencilsdocker/stencils/CMOS/gnd_h.desktop:2
+msgctxt "Name"
+msgid "gnd h"
+msgstr "gnd g"
+
+#: plugins/stencilsdocker/stencils/CMOS/gnd_v.desktop:2
+msgctxt "Name"
+msgid "gnd v"
+msgstr "gnd v"
+
+#: plugins/stencilsdocker/stencils/CMOS/nmos_h.desktop:2
+msgctxt "Name"
+msgid "nmos h"
+msgstr "nmos g"
+
+#: plugins/stencilsdocker/stencils/CMOS/nmos_v.desktop:2
+msgctxt "Name"
+msgid "nmos v"
+msgstr "nmos v"
+
+#: plugins/stencilsdocker/stencils/CMOS/pmos_h.desktop:2
+msgctxt "Name"
+msgid "pmos h"
+msgstr "pmos g"
+
+#: plugins/stencilsdocker/stencils/CMOS/pmos_v.desktop:2
+msgctxt "Name"
+msgid "pmos v"
+msgstr "pmos v"
+
+#: plugins/stencilsdocker/stencils/CMOS/vdd_h.desktop:2
+msgctxt "Name"
+msgid "vdd h"
+msgstr "vdd g"
+
+#: plugins/stencilsdocker/stencils/CMOS/vdd_v.desktop:2
+msgctxt "Name"
+msgid "vdd v"
+msgstr "vdd v"
+
+#: plugins/stencilsdocker/stencils/Contact/c_if.desktop:2
+#: plugins/stencilsdocker/stencils/Contact/l_if.desktop:2
+msgctxt "Name"
+msgid "if"
+msgstr "nếu"
+
+#: plugins/stencilsdocker/stencils/Contact/c_ifnot.desktop:2
+#: plugins/stencilsdocker/stencils/Contact/l_ifnot.desktop:2
+msgctxt "Name"
+msgid "ifnot"
+msgstr "ifnot"
+
+#: plugins/stencilsdocker/stencils/Contact/c_lamp.desktop:2
+#: plugins/stencilsdocker/stencils/Electric/lamp.desktop:2
+msgctxt "Name"
+msgid "lamp"
+msgstr "đèn"
+
+#: plugins/stencilsdocker/stencils/Contact/collection.desktop:2
+msgctxt "Name"
+msgid "Contact"
+msgstr "Liên hệ"
+
+#: plugins/stencilsdocker/stencils/Contact/c_relay.desktop:2
+#: plugins/stencilsdocker/stencils/Cybernetics/relay.desktop:2
+#: plugins/stencilsdocker/stencils/Electric/relay.desktop:2
+msgctxt "Name"
+msgid "relay"
+msgstr "rơ le"
+
+#: plugins/stencilsdocker/stencils/Contact/l_out.desktop:2
+msgctxt "Name"
+msgid "out"
+msgstr "ra"
+
+#: plugins/stencilsdocker/stencils/Contact/l_outj.desktop:2
+msgctxt "Name"
+msgid "outj"
+msgstr "outj"
+
+#: plugins/stencilsdocker/stencils/Contact/l_outnot.desktop:2
+msgctxt "Name"
+msgid "outnot"
+msgstr "outnot"
+
+#: plugins/stencilsdocker/stencils/Contact/l_outrcep.desktop:2
+msgctxt "Name"
+msgid "outrcep"
+msgstr "outrcep"
+
+#: plugins/stencilsdocker/stencils/Contact/l_outr.desktop:2
+msgctxt "Name"
+msgid "outr"
+msgstr "ngoài"
+
+#: plugins/stencilsdocker/stencils/Contact/l_outs.desktop:2
+msgctxt "Name"
+msgid "outs"
+msgstr "đầu ra"
+
+#: plugins/stencilsdocker/stencils/Contact/l_sout.desktop:2
+msgctxt "Name"
+msgid "sout"
+msgstr "sout"
+
+#: plugins/stencilsdocker/stencils/Contact/l_soutnot.desktop:2
+msgctxt "Name"
+msgid "soutnot"
+msgstr "soutnot"
+
+#: plugins/stencilsdocker/stencils/Contact/l_soutr.desktop:2
+msgctxt "Name"
+msgid "soutr"
+msgstr "soutr"
+
+#: plugins/stencilsdocker/stencils/Contact/l_souts.desktop:2
+msgctxt "Name"
+msgid "souts"
+msgstr "souts"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/b-integrator.desktop:2
+msgctxt "Name"
+msgid "b-integrator"
+msgstr "bộ tích phân b"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/b-minus.desktop:2
+msgctxt "Name"
+msgid "b-minus"
+msgstr "b-âm"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/b-sens.desktop:2
+msgctxt "Name"
+msgid "b-sens"
+msgstr "b-sens"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/collection.desktop:2
+msgctxt "Name"
+msgid "Cybernetics"
+msgstr "Điều khiển học"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/delta-t.desktop:2
+msgctxt "Name"
+msgid "delta-t"
+msgstr "delta-t"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/empty-func.desktop:2
+msgctxt "Name"
+msgid "empty-func"
+msgstr "hàm-rỗng"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/factor-0to-1.desktop:2
+msgctxt "Name"
+msgid "factor-0to-1"
+msgstr "hệ số-0đến-1"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/factor-0to1.desktop:2
+msgctxt "Name"
+msgid "factor-0to1"
+msgstr "hệ số-0đến1"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/factor-greater1.desktop:2
+msgctxt "Name"
+msgid "factor-greater1"
+msgstr "hệ số lớn hơn 1"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/factor-smaller-1.desktop:2
+msgctxt "Name"
+msgid "factor-smaller-1"
+msgstr "hệ số-nhỏ hơn-1"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/full-wave-rectifier.desktop:2
+msgctxt "Name"
+msgid "full-wave-rectifier"
+msgstr "bộ chỉnh lưu toàn sóng"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/half-wave-rectifier.desktop:2
+msgctxt "Name"
+msgid "half-wave-rectifier"
+msgstr "bộ chỉnh lưu nửa sóng"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/hpf.desktop:2
+msgctxt "Name"
+msgid "hpf"
+msgstr "hpf"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/l-integrator.desktop:2
+msgctxt "Name"
+msgid "l-integrator"
+msgstr "bộ tích phân l"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/l-minus.desktop:2
+msgctxt "Name"
+msgid "l-minus"
+msgstr "l-âm"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/lpf.desktop:2
+msgctxt "Name"
+msgid "lpf"
+msgstr "lpf"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/l-sens.desktop:2
+msgctxt "Name"
+msgid "l-sens"
+msgstr "l-sens"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/negative-shift.desktop:2
+msgctxt "Name"
+msgid "negative-shift"
+msgstr "dịch chuyển âm"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/positive-shift.desktop:2
+msgctxt "Name"
+msgid "positive-shift"
+msgstr "dịch chuyển dương"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/product.desktop:2
+msgctxt "Name"
+msgid "product"
+msgstr "sản phẩm"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/r-integrator.desktop:2
+msgctxt "Name"
+msgid "r-integrator"
+msgstr "bộ tích phân r"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/r-minus.desktop:2
+msgctxt "Name"
+msgid "r-minus"
+msgstr "r-âm"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/r-sens.desktop:2
+msgctxt "Name"
+msgid "r-sens"
+msgstr "r-sens"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/saturation.desktop:2
+msgctxt "Name"
+msgid "saturation"
+msgstr "độ bão hòa"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/sigmoid.desktop:2
+msgctxt "Name"
+msgid "sigmoid"
+msgstr "sigmoid"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/sine.desktop:2
+msgctxt "Name"
+msgid "sine"
+msgstr "sin"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/sum.desktop:2
+msgctxt "Name"
+msgid "sum"
+msgstr "tổng"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/t-integrator.desktop:2
+msgctxt "Name"
+msgid "t-integrator"
+msgstr "bộ tích phân t"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/t-minus.desktop:2
+msgctxt "Name"
+msgid "t-minus"
+msgstr "t-âm"
+
+#: plugins/stencilsdocker/stencils/Cybernetics/t-sens.desktop:2
+msgctxt "Name"
+msgid "t-sens"
+msgstr "t-sens"
+
+#: plugins/stencilsdocker/stencils/Digital/add_h.desktop:2
+msgctxt "Name"
+msgid "add h"
+msgstr "thêm g"
+
+#: plugins/stencilsdocker/stencils/Digital/add_v.desktop:2
+msgctxt "Name"
+msgid "add v"
+msgstr "cộng v"
+
+#: plugins/stencilsdocker/stencils/Digital/and_h.desktop:2
+msgctxt "Name"
+msgid "and h"
+msgstr "và g"
+
+#: plugins/stencilsdocker/stencils/Digital/and_v.desktop:2
+msgctxt "Name"
+msgid "and v"
+msgstr "và v"
+
+#: plugins/stencilsdocker/stencils/Digital/buff_h.desktop:2
+msgctxt "Name"
+msgid "buff h"
+msgstr "buff g"
+
+#: plugins/stencilsdocker/stencils/Digital/buff_v.desktop:2
+msgctxt "Name"
+msgid "buff v"
+msgstr "bộ đệm v"
+
+#: plugins/stencilsdocker/stencils/Digital/collection.desktop:2
+msgctxt "Name"
+msgid "Digital"
+msgstr "Kỹ thuật số"
+
+#: plugins/stencilsdocker/stencils/Digital/conn.desktop:2
+msgctxt "Name"
+msgid "conn"
+msgstr "kết nối"
+
+#: plugins/stencilsdocker/stencils/Digital/inv_h.desktop:2
+msgctxt "Name"
+msgid "inv h"
+msgstr "đảo g"
+
+#: plugins/stencilsdocker/stencils/Digital/inv_v.desktop:2
+msgctxt "Name"
+msgid "inv v"
+msgstr "đảo v"
+
+#: plugins/stencilsdocker/stencils/Digital/mux_h.desktop:2
+msgctxt "Name"
+msgid "mux h"
+msgstr "mux g"
+
+#: plugins/stencilsdocker/stencils/Digital/mux_v.desktop:2
+msgctxt "Name"
+msgid "mux v"
+msgstr "mux v"
+
+#: plugins/stencilsdocker/stencils/Digital/nand_h.desktop:2
+msgctxt "Name"
+msgid "nand h"
+msgstr "nand g"
+
+#: plugins/stencilsdocker/stencils/Digital/nand_v.desktop:2
+msgctxt "Name"
+msgid "nand v"
+msgstr "nand v"
+
+#: plugins/stencilsdocker/stencils/Digital/nor_h.desktop:2
+msgctxt "Name"
+msgid "nor h"
+msgstr "nor g"
+
+#: plugins/stencilsdocker/stencils/Digital/nor_v.desktop:2
+msgctxt "Name"
+msgid "nor v"
+msgstr "nor v"
+
+#: plugins/stencilsdocker/stencils/Digital/or_h.desktop:2
+msgctxt "Name"
+msgid "or h"
+msgstr "hoặc g"
+
+#: plugins/stencilsdocker/stencils/Digital/or_v.desktop:2
+msgctxt "Name"
+msgid "or v"
+msgstr "hoặc v"
+
+#: plugins/stencilsdocker/stencils/Digital/reg_h.desktop:2
+msgctxt "Name"
+msgid "reg h"
+msgstr "reg g"
+
+#: plugins/stencilsdocker/stencils/Digital/reg_v.desktop:2
+msgctxt "Name"
+msgid "reg v"
+msgstr "reg v"
+
+#: plugins/stencilsdocker/stencils/Digital/xnor_h.desktop:2
+msgctxt "Name"
+msgid "xnor h"
+msgstr "xnor g"
+
+#: plugins/stencilsdocker/stencils/Digital/xnor_v.desktop:2
+msgctxt "Name"
+msgid "xnor v"
+msgstr "xnor v"
+
+#: plugins/stencilsdocker/stencils/Digital/xor_h.desktop:2
+msgctxt "Name"
+msgid "xor h"
+msgstr "xor g"
+
+#: plugins/stencilsdocker/stencils/Digital/xor_v.desktop:2
+msgctxt "Name"
+msgid "xor v"
+msgstr "xor v"
+
+#: plugins/stencilsdocker/stencils/Edpc/and.desktop:2
+msgctxt "Name"
+msgid "And Operator"
+msgstr "Toán tử And"
+
+#: plugins/stencilsdocker/stencils/Edpc/collection.desktop:2
+msgctxt "Name"
+msgid "Edpc"
+msgstr "Edpc"
+
+#: plugins/stencilsdocker/stencils/Edpc/function.desktop:2
+#: plugins/stencilsdocker/stencils/SDL/function.desktop:2
+msgctxt "Name"
+msgid "Function"
+msgstr "Chức năng"
+
+#: plugins/stencilsdocker/stencils/Edpc/or.desktop:2
+msgctxt "Name"
+msgid "Or Operator"
+msgstr "Toán tử Or"
+
+#: plugins/stencilsdocker/stencils/Edpc/organisation_unit.desktop:2
+msgctxt "Name"
+msgid "Organisation Unit"
+msgstr "Đơn vị tổ chức"
+
+#: plugins/stencilsdocker/stencils/Edpc/xor.desktop:2
+msgctxt "Name"
+msgid "XOR Operator"
+msgstr "Toán tử XOR"
+
+#: plugins/stencilsdocker/stencils/Electric2/ckt-breaker.desktop:2
+msgctxt "Name"
+msgid "ckt-breaker"
+msgstr "cầu dao"
+
+#: plugins/stencilsdocker/stencils/Electric2/collection.desktop:2
+msgctxt "Name"
+msgid "Electric2"
+msgstr "Điện2"
+
+#: plugins/stencilsdocker/stencils/Electric2/generator.desktop:2
+msgctxt "Name"
+msgid "generator"
+msgstr "máy phát điện"
+
+#: plugins/stencilsdocker/stencils/Electric2/isolator.desktop:2
+msgctxt "Name"
+msgid "isolator"
+msgstr "bộ cách ly"
+
+#: plugins/stencilsdocker/stencils/Electric2/transformer.desktop:2
+msgctxt "Name"
+msgid "transformer"
+msgstr "máy biến áp"
+
+#: plugins/stencilsdocker/stencils/Electric/cnx.desktop:2
+#: plugins/stencilsdocker/stencils/Pneumatic/cnx.desktop:2
+msgctxt "Name"
+msgid "connpoint"
+msgstr "điểm kết nối"
+
+#: plugins/stencilsdocker/stencils/Electric/collection.desktop:2
+msgctxt "Name"
+msgid "Electric"
+msgstr "Điện"
+
+#: plugins/stencilsdocker/stencils/Electric/command.desktop:2
+msgctxt "Name"
+msgid "command"
+msgstr "lệnh"
+
+#: plugins/stencilsdocker/stencils/Electric/contact_f.desktop:2
+msgctxt "Name"
+msgid "contact f"
+msgstr "liên hệ f"
+
+#: plugins/stencilsdocker/stencils/Electric/contact_o.desktop:2
+msgctxt "Name"
+msgid "contact o"
+msgstr "liên hệ o"
+
+#: plugins/stencilsdocker/stencils/Electric/intpos_f.desktop:2
+msgctxt "Name"
+msgid "intpos f"
+msgstr "intpos f"
+
+#: plugins/stencilsdocker/stencils/Electric/intpos_o.desktop:2
+msgctxt "Name"
+msgid "intpos o"
+msgstr "intpos o"
+
+#: plugins/stencilsdocker/stencils/Electric/vcommand.desktop:2
+msgctxt "Name"
+msgid "vcommand"
+msgstr "vcommand"
+
+#: plugins/stencilsdocker/stencils/Electric/vcontact_f.desktop:2
+msgctxt "Name"
+msgid "vcontact f"
+msgstr "tiếp điểm f"
+
+#: plugins/stencilsdocker/stencils/Electric/vcontact_o.desktop:2
+msgctxt "Name"
+msgid "vcontact o"
+msgstr "tiếp điểm dọc mở"
+
+#: plugins/stencilsdocker/stencils/Electric/vintpos_f.desktop:2
+msgctxt "Name"
+msgid "vintpos f"
+msgstr "vintpos f"
+
+#: plugins/stencilsdocker/stencils/Electric/vintpos_o.desktop:2
+msgctxt "Name"
+msgid "vintpos o"
+msgstr "vintpos o"
+
+#: plugins/stencilsdocker/stencils/Electric/vlamp.desktop:2
+msgctxt "Name"
+msgid "vlamp"
+msgstr "đèn điện áp"
+
+#: plugins/stencilsdocker/stencils/Electric/vrelay.desktop:2
+msgctxt "Name"
+msgid "vrelay"
+msgstr "rơle điện áp"
+
+#: plugins/stencilsdocker/stencils/Electronic/ampermeter.desktop:2
+msgctxt "Name"
+msgid "ampermeter"
+msgstr "ampe kế"
+
+#: plugins/stencilsdocker/stencils/Electronic/antenna.desktop:2
+msgctxt "Name"
+msgid "antenna"
+msgstr "ăng-ten"
+
+#: plugins/stencilsdocker/stencils/Electronic/bell.desktop:2
+msgctxt "Name"
+msgid "bell"
+msgstr "chuông"
+
+#: plugins/stencilsdocker/stencils/Electronic/button.desktop:2
+msgctxt "Name"
+msgid "button"
+msgstr "nút"
+
+#: plugins/stencilsdocker/stencils/Electronic/capacitor.desktop:2
+msgctxt "Name"
+msgid "capacitor"
+msgstr "tụ điện"
+
+#: plugins/stencilsdocker/stencils/Electronic/capacitor_electrolytic.desktop:2
+msgctxt "Name"
+msgid "capacitor electrolytic"
+msgstr "tụ điện phân"
+
+#: plugins/stencilsdocker/stencils/Electronic/collection.desktop:2
+msgctxt "Name"
+msgid "Electronic"
+msgstr "Điện tử"
+
+#: plugins/stencilsdocker/stencils/Electronic/contact.desktop:2
+msgctxt "Name"
+msgid "contact"
+msgstr "liên hệ"
+
+#: plugins/stencilsdocker/stencils/Electronic/contact_pair.desktop:2
+msgctxt "Name"
+msgid "contact pair"
+msgstr "cặp tiếp xúc"
+
+#: plugins/stencilsdocker/stencils/Electronic/crystal.desktop:2
+msgctxt "Name"
+msgid "crystal"
+msgstr "tinh thể"
+
+#: plugins/stencilsdocker/stencils/Electronic/diac.desktop:2
+msgctxt "Name"
+msgid "diac"
+msgstr "diac"
+
+#: plugins/stencilsdocker/stencils/Electronic/di_gate.desktop:2
+msgctxt "Name"
+msgid "di gate"
+msgstr "cổng di"
+
+#: plugins/stencilsdocker/stencils/Electronic/diode_inverse.desktop:2
+msgctxt "Name"
+msgid "diode inverse"
+msgstr "đi-ốt ngược"
+
+#: plugins/stencilsdocker/stencils/Electronic/diode_schottky.desktop:2
+msgctxt "Name"
+msgid "diode schottky"
+msgstr "điốt schottky"
+
+#: plugins/stencilsdocker/stencils/Electronic/diode_tunnel.desktop:2
+msgctxt "Name"
+msgid "diode tunnel"
+msgstr "đi-ốt đường hầm"
+
+#: plugins/stencilsdocker/stencils/Electronic/diode_zenner.desktop:2
+msgctxt "Name"
+msgid "diode zener"
+msgstr "điốt zener"
+
+#: plugins/stencilsdocker/stencils/Electronic/engine.desktop:2
+#: plugins/stencilsdocker/stencils/Scenegraph/engine.desktop:2
+msgctxt "Name"
+msgid "engine"
+msgstr "dụng cụ"
+
+#: plugins/stencilsdocker/stencils/Electronic/ground.desktop:2
+msgctxt "Name"
+msgid "ground"
+msgstr "nối đất"
+
+#: plugins/stencilsdocker/stencils/Electronic/headphone.desktop:2
+msgctxt "Name"
+msgid "headphone"
+msgstr "tai nghe"
+
+#: plugins/stencilsdocker/stencils/Electronic/inductor.desktop:2
+msgctxt "Name"
+msgid "inductor"
+msgstr "cuộn cảm"
+
+#: plugins/stencilsdocker/stencils/Electronic/led_display.desktop:2
+msgctxt "Name"
+msgid "led display"
+msgstr "bộ hiển thị led"
+
+#: plugins/stencilsdocker/stencils/Electronic/microphone.desktop:2
+msgctxt "Name"
+msgid "microphone"
+msgstr "micrô"
+
+#: plugins/stencilsdocker/stencils/Electronic/photo_emiting_part.desktop:2
+msgctxt "Name"
+msgid "photo emitting part"
+msgstr "bộ phận phát ảnh"
+
+#: plugins/stencilsdocker/stencils/Electronic/photo_sensitive_part.desktop:2
+msgctxt "Name"
+msgid "photo sensitive part"
+msgstr "phần nhạy ảnh"
+
+#: plugins/stencilsdocker/stencils/Electronic/port_in.desktop:2
+msgctxt "Name"
+msgid "port in"
+msgstr "cổng vào"
+
+#: plugins/stencilsdocker/stencils/Electronic/port_inout.desktop:2
+msgctxt "Name"
+msgid "port inout"
+msgstr "cổng vào/ra"
+
+#: plugins/stencilsdocker/stencils/Electronic/port_out.desktop:2
+msgctxt "Name"
+msgid "port out"
+msgstr "cổng ra"
+
+#: plugins/stencilsdocker/stencils/Electronic/potenciometer.desktop:2
+msgctxt "Name"
+msgid "potentiometer"
+msgstr "biến trở"
+
+#: plugins/stencilsdocker/stencils/Electronic/source_current.desktop:2
+msgctxt "Name"
+msgid "source current"
+msgstr "nguồn dòng điện"
+
+#: plugins/stencilsdocker/stencils/Electronic/source.desktop:2
+msgctxt "Name"
+msgid "source"
+msgstr "nguồn"
+
+#: plugins/stencilsdocker/stencils/Electronic/source_substitution.desktop:2
+msgctxt "Name"
+msgid "source substitution"
+msgstr "thay thế nguồn"
+
+#: plugins/stencilsdocker/stencils/Electronic/source_voltage_alternating.desktop:2
+msgctxt "Name"
+msgid "source voltage alternating"
+msgstr "nguồn điện áp xoay chiều"
+
+#: plugins/stencilsdocker/stencils/Electronic/source_voltage.desktop:2
+msgctxt "Name"
+msgid "source voltage"
+msgstr "nguồn điện áp"
+
+#: plugins/stencilsdocker/stencils/Electronic/source_voltage_direct.desktop:2
+msgctxt "Name"
+msgid "source voltage direct"
+msgstr "nguồn điện áp một chiều"
+
+#: plugins/stencilsdocker/stencils/Electronic/transistor_bipolar_npn_1.desktop:2
+msgctxt "Name"
+msgid "transistor bipolar npn 1"
+msgstr "transistor lưỡng cực npn 1"
+
+#: plugins/stencilsdocker/stencils/Electronic/transistor_bipolar_npn_2.desktop:2
+msgctxt "Name"
+msgid "transistor bipolar npn 2"
+msgstr "transistor lưỡng cực npn 2"
+
+#: plugins/stencilsdocker/stencils/Electronic/transistor_bipolar_pnp_1.desktop:2
+msgctxt "Name"
+msgid "transistor bipolar pnp 1"
+msgstr "transistor lưỡng cực pnp 1"
+
+#: plugins/stencilsdocker/stencils/Electronic/transistor_bipolar_pnp_2.desktop:2
+msgctxt "Name"
+msgid "transistor bipolar pnp 2"
+msgstr "transistor lưỡng cực pnp 2"
+
+#: plugins/stencilsdocker/stencils/Electronic/transistor_jfe_n.desktop:2
+msgctxt "Name"
+msgid "transistor jfe n"
+msgstr "transistor jfe n"
+
+#: plugins/stencilsdocker/stencils/Electronic/transistor_jfe_p.desktop:2
+msgctxt "Name"
+msgid "transistor jfe p"
+msgstr "transistor jfe p"
+
+#: plugins/stencilsdocker/stencils/Electronic/transistor_misfe_c_n.desktop:2
+msgctxt "Name"
+msgid "transistor misfe c n"
+msgstr "transistor misfe c n"
+
+#: plugins/stencilsdocker/stencils/Electronic/transistor_misfe_c_p.desktop:2
+msgctxt "Name"
+msgid "transistor misfe c p"
+msgstr "transistor misfe c p"
+
+#: plugins/stencilsdocker/stencils/Electronic/transistor_misfe_i_n.desktop:2
+msgctxt "Name"
+msgid "transistor misfe i n"
+msgstr "transistor misfe i n"
+
+#: plugins/stencilsdocker/stencils/Electronic/transistor_misfe_i_p.desktop:2
+msgctxt "Name"
+msgid "transistor misfe i p"
+msgstr "transistor misfe i p"
+
+#: plugins/stencilsdocker/stencils/Electronic/transistor_single_pn.desktop:2
+msgctxt "Name"
+msgid "transistor single pn"
+msgstr "transistor pn đơn"
+
+#: plugins/stencilsdocker/stencils/Electronic/triac.desktop:2
+msgctxt "Name"
+msgid "triac"
+msgstr "triac"
+
+#: plugins/stencilsdocker/stencils/Electronic/tyristor_diode.desktop:2
+msgctxt "Name"
+msgid "tyristor diode"
+msgstr "điốt thyristor"
+
+#: plugins/stencilsdocker/stencils/Electronic/tyristor_triode.desktop:2
+msgctxt "Name"
+msgid "tyristor triode"
+msgstr "thyristor ba cực"
+
+#: plugins/stencilsdocker/stencils/Electronic/vacuum_diode.desktop:2
+msgctxt "Name"
+msgid "vacuum diode"
+msgstr "đèn điện tử"
+
+#: plugins/stencilsdocker/stencils/Electronic/vacuum_pentode.desktop:2
+msgctxt "Name"
+msgid "vacuum pentode"
+msgstr "đèn ngũ cực chân không"
+
+#: plugins/stencilsdocker/stencils/Electronic/vacuum_triode.desktop:2
+msgctxt "Name"
+msgid "vacuum triode"
+msgstr "đèn ba cực chân không"
+
+#: plugins/stencilsdocker/stencils/Electronic/variable_linear_part.desktop:2
+msgctxt "Name"
+msgid "variable linear part"
+msgstr "phần tuyến tính biến đổi"
+
+#: plugins/stencilsdocker/stencils/Electronic/variable_nonlinear_part.desktop:2
+msgctxt "Name"
+msgid "variable nonlinear part"
+msgstr "phần phi tuyến biến đổi"
+
+#: plugins/stencilsdocker/stencils/Electronic/varicap.desktop:2
+msgctxt "Name"
+msgid "varicap"
+msgstr "varicap"
+
+#: plugins/stencilsdocker/stencils/Electronic/voltmeter.desktop:2
+msgctxt "Name"
+msgid "voltmeter"
+msgstr "vôn kế"
+
+#: plugins/stencilsdocker/stencils/Flags/afghanistan.desktop:2
+msgctxt "Name"
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: plugins/stencilsdocker/stencils/Flags/albania.desktop:2
+msgctxt "Name"
+msgid "Albania"
+msgstr "Albania"
+
+#: plugins/stencilsdocker/stencils/Flags/algeria.desktop:2
+msgctxt "Name"
+msgid "Algeria"
+msgstr "Algeria"
+
+#: plugins/stencilsdocker/stencils/Flags/andorra.desktop:2
+msgctxt "Name"
+msgid "Andorra"
+msgstr "Andorra"
+
+#: plugins/stencilsdocker/stencils/Flags/angola.desktop:2
+msgctxt "Name"
+msgid "Angola"
+msgstr "Angola"
+
+#: plugins/stencilsdocker/stencils/Flags/antarctica.desktop:2
+msgctxt "Name"
+msgid "Antarctica"
+msgstr "Nam Cực"
+
+#: plugins/stencilsdocker/stencils/Flags/antigua_and_barbuda.desktop:2
+msgctxt "Name"
+msgid "Antigua And Barbuda"
+msgstr "Antigua và Barbuda"
+
+#: plugins/stencilsdocker/stencils/Flags/argentina.desktop:2
+msgctxt "Name"
+msgid "Argentina"
+msgstr "Argentina"
+
+#: plugins/stencilsdocker/stencils/Flags/armenia.desktop:2
+msgctxt "Name"
+msgid "Armenia"
+msgstr "Armenia"
+
+#: plugins/stencilsdocker/stencils/Flags/australia.desktop:2
+msgctxt "Name"
+msgid "Australia"
+msgstr "Úc"
+
+#: plugins/stencilsdocker/stencils/Flags/austria.desktop:2
+msgctxt "Name"
+msgid "Austria"
+msgstr "Áo"
+
+#: plugins/stencilsdocker/stencils/Flags/azerbaijan.desktop:2
+msgctxt "Name"
+msgid "Azerbaijan"
+msgstr "Azerbaijan"
+
+#: plugins/stencilsdocker/stencils/Flags/bahamas.desktop:2
+msgctxt "Name"
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: plugins/stencilsdocker/stencils/Flags/bahrain.desktop:2
+msgctxt "Name"
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: plugins/stencilsdocker/stencils/Flags/bangladesh.desktop:2
+msgctxt "Name"
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: plugins/stencilsdocker/stencils/Flags/barbados.desktop:2
+msgctxt "Name"
+msgid "Barbados"
+msgstr "Barbados"
+
+#: plugins/stencilsdocker/stencils/Flags/belarus.desktop:2
+msgctxt "Name"
+msgid "Belarus"
+msgstr "Belarus"
+
+#: plugins/stencilsdocker/stencils/Flags/belgium.desktop:2
+msgctxt "Name"
+msgid "Belgium"
+msgstr "Bỉ"
+
+#: plugins/stencilsdocker/stencils/Flags/belize.desktop:2
+msgctxt "Name"
+msgid "Belize"
+msgstr "Belize"
+
+#: plugins/stencilsdocker/stencils/Flags/benin.desktop:2
+msgctxt "Name"
+msgid "Benin"
+msgstr "Bênin"
+
+#: plugins/stencilsdocker/stencils/Flags/bhutan.desktop:2
+msgctxt "Name"
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: plugins/stencilsdocker/stencils/Flags/bolivia.desktop:2
+msgctxt "Name"
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: plugins/stencilsdocker/stencils/Flags/bosnia_and_herzegovina.desktop:2
+msgctxt "Name"
+msgid "Bosnia And Herzegovina"
+msgstr "Bosnia và Herzegovina"
+
+#: plugins/stencilsdocker/stencils/Flags/botswana.desktop:2
+msgctxt "Name"
+msgid "Botswana"
+msgstr "Botswana"
+
+#: plugins/stencilsdocker/stencils/Flags/brazil.desktop:2
+msgctxt "Name"
+msgid "Brazil"
+msgstr "Brazil"
+
+#: plugins/stencilsdocker/stencils/Flags/brunei_darussalam.desktop:2
+msgctxt "Name"
+msgid "Brunei Darussalam"
+msgstr "Brunei"
+
+#: plugins/stencilsdocker/stencils/Flags/bulgaria.desktop:2
+msgctxt "Name"
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+#: plugins/stencilsdocker/stencils/Flags/burkina_faso.desktop:2
+msgctxt "Name"
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: plugins/stencilsdocker/stencils/Flags/burundi.desktop:2
+msgctxt "Name"
+msgid "Burundi"
+msgstr "Burundi"
+
+#: plugins/stencilsdocker/stencils/Flags/cambodia.desktop:2
+msgctxt "Name"
+msgid "Cambodia"
+msgstr "Campuchia"
+
+#: plugins/stencilsdocker/stencils/Flags/cameroon.desktop:2
+msgctxt "Name"
+msgid "Cameroon"
+msgstr "Cameroon"
+
+#: plugins/stencilsdocker/stencils/Flags/canada.desktop:2
+msgctxt "Name"
+msgid "Canada"
+msgstr "Canada"
+
+#: plugins/stencilsdocker/stencils/Flags/cape_verde.desktop:2
+msgctxt "Name"
+msgid "Cape Verde"
+msgstr "Cape Verde"
+
+#: plugins/stencilsdocker/stencils/Flags/central_african_republic.desktop:2
+msgctxt "Name"
+msgid "Central African Republic"
+msgstr "Cộng hòa Trung Phi"
+
+#: plugins/stencilsdocker/stencils/Flags/chad.desktop:2
+msgctxt "Name"
+msgid "Chad"
+msgstr "Chad"
+
+#: plugins/stencilsdocker/stencils/Flags/chile.desktop:2
+msgctxt "Name"
+msgid "Chile"
+msgstr "Chile"
+
+#: plugins/stencilsdocker/stencils/Flags/china_hong_kong.desktop:2
+msgctxt "Name"
+msgid "China Hong Kong"
+msgstr "Hồng Kông, Trung Quốc"
+
+#: plugins/stencilsdocker/stencils/Flags/china_macao.desktop:2
+msgctxt "Name"
+msgid "China Macao"
+msgstr "Trung Quốc Macao"
+
+#: plugins/stencilsdocker/stencils/Flags/china_prc.desktop:2
+msgctxt "Name"
+msgid "China (PRC)"
+msgstr "Trung Quốc"
+
+#: plugins/stencilsdocker/stencils/Flags/china_roc.desktop:2
+msgctxt "Name"
+msgid "China (ROC)"
+msgstr "Trung Quốc (Đài Loan)"
+
+#: plugins/stencilsdocker/stencils/Flags/collection.desktop:2
+msgctxt "Name"
+msgid "Flags"
+msgstr "Cờ"
+
+#: plugins/stencilsdocker/stencils/Flags/colombia.desktop:2
+msgctxt "Name"
+msgid "Colombia"
+msgstr "Colombia"
+
+#: plugins/stencilsdocker/stencils/Flags/comoros.desktop:2
+msgctxt "Name"
+msgid "Comoros"
+msgstr "Comoros"
+
+#: plugins/stencilsdocker/stencils/Flags/congo_brazzaville.desktop:2
+msgctxt "Name"
+msgid "Congo Brazzaville"
+msgstr "Congo Brazzaville"
+
+#: plugins/stencilsdocker/stencils/Flags/congo_kinshasa.desktop:2
+msgctxt "Name"
+msgid "Congo Kinshasa"
+msgstr "Congo Kinshasa"
+
+#: plugins/stencilsdocker/stencils/Flags/costa_rica.desktop:2
+msgctxt "Name"
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: plugins/stencilsdocker/stencils/Flags/cote_divoire.desktop:2
+msgctxt "Name"
+msgid "Cote d'Ivoire"
+msgstr "Bờ Biển Ngà"
+
+#: plugins/stencilsdocker/stencils/Flags/croatia.desktop:2
+msgctxt "Name"
+msgid "Croatia"
+msgstr "Croatia"
+
+#: plugins/stencilsdocker/stencils/Flags/cuba.desktop:2
+msgctxt "Name"
+msgid "Cuba"
+msgstr "Cuba"
+
+#: plugins/stencilsdocker/stencils/Flags/cyprus.desktop:2
+msgctxt "Name"
+msgid "Cyprus"
+msgstr "Síp"
+
+#: plugins/stencilsdocker/stencils/Flags/czechia.desktop:2
+msgctxt "Name"
+msgid "Czechia"
+msgstr "Séc"
+
+#: plugins/stencilsdocker/stencils/Flags/denmark.desktop:2
+msgctxt "Name"
+msgid "Denmark"
+msgstr "Đan Mạch"
+
+#: plugins/stencilsdocker/stencils/Flags/djibouti.desktop:2
+msgctxt "Name"
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: plugins/stencilsdocker/stencils/Flags/dominica.desktop:2
+msgctxt "Name"
+msgid "Dominica"
+msgstr "Dominica"
+
+#: plugins/stencilsdocker/stencils/Flags/dominican_republic.desktop:2
+msgctxt "Name"
+msgid "Dominican Republic"
+msgstr "Cộng hòa Dominica"
+
+#: plugins/stencilsdocker/stencils/Flags/ecuador.desktop:2
+msgctxt "Name"
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: plugins/stencilsdocker/stencils/Flags/egypt.desktop:2
+msgctxt "Name"
+msgid "Egypt"
+msgstr "Ai Cập"
+
+#: plugins/stencilsdocker/stencils/Flags/el_salvador.desktop:2
+msgctxt "Name"
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: plugins/stencilsdocker/stencils/Flags/equatorial_guinea.desktop:2
+msgctxt "Name"
+msgid "Equatorial Guinea"
+msgstr "Guinea Xích Đạo"
+
+#: plugins/stencilsdocker/stencils/Flags/eritrea.desktop:2
+msgctxt "Name"
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: plugins/stencilsdocker/stencils/Flags/estonia.desktop:2
+msgctxt "Name"
+msgid "Estonia"
+msgstr "Estonia"
+
+#: plugins/stencilsdocker/stencils/Flags/ethiopia.desktop:2
+msgctxt "Name"
+msgid "Ethiopia"
+msgstr "Ethiopia"
+
+#: plugins/stencilsdocker/stencils/Flags/europeanunion.desktop:2
+msgctxt "Name"
+msgid "European Union"
+msgstr "Liên minh Châu Âu"
+
+#: plugins/stencilsdocker/stencils/Flags/fiji.desktop:2
+msgctxt "Name"
+msgid "Fiji"
+msgstr "Fiji"
+
+#: plugins/stencilsdocker/stencils/Flags/finland.desktop:2
+msgctxt "Name"
+msgid "Finland"
+msgstr "Phần Lan"
+
+#: plugins/stencilsdocker/stencils/Flags/france.desktop:2
+msgctxt "Name"
+msgid "France"
+msgstr "Pháp"
+
+#: plugins/stencilsdocker/stencils/Flags/gabon.desktop:2
+msgctxt "Name"
+msgid "Gabon"
+msgstr "Gabon"
+
+#: plugins/stencilsdocker/stencils/Flags/gambia.desktop:2
+msgctxt "Name"
+msgid "Gambia"
+msgstr "Gambia"
+
+#: plugins/stencilsdocker/stencils/Flags/georgia.desktop:2
+msgctxt "Name"
+msgid "Georgia"
+msgstr "Georgia"
+
+#: plugins/stencilsdocker/stencils/Flags/germany.desktop:2
+msgctxt "Name"
+msgid "Germany"
+msgstr "Đức"
+
+#: plugins/stencilsdocker/stencils/Flags/ghana.desktop:2
+msgctxt "Name"
+msgid "Ghana"
+msgstr "Ghana"
+
+#: plugins/stencilsdocker/stencils/Flags/greece.desktop:2
+msgctxt "Name"
+msgid "Greece"
+msgstr "Hy Lạp"
+
+#: plugins/stencilsdocker/stencils/Flags/grenada.desktop:2
+msgctxt "Name"
+msgid "Grenada"
+msgstr "Grenada"
+
+#: plugins/stencilsdocker/stencils/Flags/guatemala.desktop:2
+msgctxt "Name"
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: plugins/stencilsdocker/stencils/Flags/guinea.desktop:2
+msgctxt "Name"
+msgid "Guinea"
+msgstr "Guinea"
+
+#: plugins/stencilsdocker/stencils/Flags/guyana.desktop:2
+msgctxt "Name"
+msgid "Guyana"
+msgstr "Guyana"
+
+#: plugins/stencilsdocker/stencils/Flags/haiti.desktop:2
+msgctxt "Name"
+msgid "Haiti"
+msgstr "Haiti"
+
+#: plugins/stencilsdocker/stencils/Flags/honduras.desktop:2
+msgctxt "Name"
+msgid "Honduras"
+msgstr "Honduras"
+
+#: plugins/stencilsdocker/stencils/Flags/hungary.desktop:2
+msgctxt "Name"
+msgid "Hungary"
+msgstr "Hungary"
+
+#: plugins/stencilsdocker/stencils/Flags/iceland.desktop:2
+msgctxt "Name"
+msgid "Iceland"
+msgstr "Iceland"
+
+#: plugins/stencilsdocker/stencils/Flags/india.desktop:2
+msgctxt "Name"
+msgid "India"
+msgstr "Ấn Độ"
+
+#: plugins/stencilsdocker/stencils/Flags/indonesia.desktop:2
+msgctxt "Name"
+msgid "Indonesia"
+msgstr "Indonesia"
+
+#: plugins/stencilsdocker/stencils/Flags/iran.desktop:2
+msgctxt "Name"
+msgid "Iran"
+msgstr "Iran"
+
+#: plugins/stencilsdocker/stencils/Flags/iraq.desktop:2
+msgctxt "Name"
+msgid "Iraq"
+msgstr "Iraq"
+
+#: plugins/stencilsdocker/stencils/Flags/ireland.desktop:2
+msgctxt "Name"
+msgid "Ireland"
+msgstr "Ireland"
+
+#: plugins/stencilsdocker/stencils/Flags/israel.desktop:2
+msgctxt "Name"
+msgid "Israel"
+msgstr "Israel"
+
+#: plugins/stencilsdocker/stencils/Flags/italy.desktop:2
+msgctxt "Name"
+msgid "Italy"
+msgstr "Ý"
+
+#: plugins/stencilsdocker/stencils/Flags/jamaica.desktop:2
+msgctxt "Name"
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: plugins/stencilsdocker/stencils/Flags/japan.desktop:2
+msgctxt "Name"
+msgid "Japan"
+msgstr "Nhật Bản"
+
+#: plugins/stencilsdocker/stencils/Flags/jordan.desktop:2
+msgctxt "Name"
+msgid "Jordan"
+msgstr "Jordan"
+
+#: plugins/stencilsdocker/stencils/Flags/kazakhstan.desktop:2
+msgctxt "Name"
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+#: plugins/stencilsdocker/stencils/Flags/kenya.desktop:2
+msgctxt "Name"
+msgid "Kenya"
+msgstr "Kenya"
+
+#: plugins/stencilsdocker/stencils/Flags/kiribati.desktop:2
+msgctxt "Name"
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: plugins/stencilsdocker/stencils/Flags/kuwait.desktop:2
+msgctxt "Name"
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: plugins/stencilsdocker/stencils/Flags/kyrgyzstan.desktop:2
+msgctxt "Name"
+msgid "Kyrgyzstan"
+msgstr "Kyrgyzstan"
+
+#: plugins/stencilsdocker/stencils/Flags/laos.desktop:2
+msgctxt "Name"
+msgid "Laos"
+msgstr "Lào"
+
+#: plugins/stencilsdocker/stencils/Flags/latvia.desktop:2
+msgctxt "Name"
+msgid "Latvia"
+msgstr "Latvia"
+
+#: plugins/stencilsdocker/stencils/Flags/lebanon.desktop:2
+msgctxt "Name"
+msgid "Lebanon"
+msgstr "Li-băng"
+
+#: plugins/stencilsdocker/stencils/Flags/lesotho.desktop:2
+msgctxt "Name"
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: plugins/stencilsdocker/stencils/Flags/liberia.desktop:2
+msgctxt "Name"
+msgid "Liberia"
+msgstr "Liberia"
+
+#: plugins/stencilsdocker/stencils/Flags/libyan_arab_jamahiriya.desktop:2
+msgctxt "Name"
+msgid "Libyan Arab Jamahiriya"
+msgstr "Libya"
+
+#: plugins/stencilsdocker/stencils/Flags/liechtenstein.desktop:2
+msgctxt "Name"
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: plugins/stencilsdocker/stencils/Flags/lithuania.desktop:2
+msgctxt "Name"
+msgid "Lithuania"
+msgstr "Lithuania"
+
+#: plugins/stencilsdocker/stencils/Flags/luxembourg.desktop:2
+msgctxt "Name"
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+#: plugins/stencilsdocker/stencils/Flags/macedonia.desktop:2
+msgctxt "Name"
+msgid "Macedonia"
+msgstr "Macedonia"
+
+#: plugins/stencilsdocker/stencils/Flags/madagascar.desktop:2
+msgctxt "Name"
+msgid "Madagascar"
+msgstr "Madagascar"
+
+#: plugins/stencilsdocker/stencils/Flags/malawi.desktop:2
+msgctxt "Name"
+msgid "Malawi"
+msgstr "Malawi"
+
+#: plugins/stencilsdocker/stencils/Flags/malaysia.desktop:2
+msgctxt "Name"
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: plugins/stencilsdocker/stencils/Flags/maldives.desktop:2
+msgctxt "Name"
+msgid "Maldives"
+msgstr "Maldives"
+
+#: plugins/stencilsdocker/stencils/Flags/mali.desktop:2
+msgctxt "Name"
+msgid "Mali"
+msgstr "Mali"
+
+#: plugins/stencilsdocker/stencils/Flags/malta.desktop:2
+msgctxt "Name"
+msgid "Malta"
+msgstr "Malta"
+
+#: plugins/stencilsdocker/stencils/Flags/marshall_islands.desktop:2
+msgctxt "Name"
+msgid "Marshall Islands"
+msgstr "Quần đảo Marshall"
+
+#: plugins/stencilsdocker/stencils/Flags/mauritania.desktop:2
+msgctxt "Name"
+msgid "Mauritania"
+msgstr "Mauritania"
+
+#: plugins/stencilsdocker/stencils/Flags/mauritius.desktop:2
+msgctxt "Name"
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: plugins/stencilsdocker/stencils/Flags/mexico.desktop:2
+msgctxt "Name"
+msgid "Mexico"
+msgstr "Mexico"
+
+#: plugins/stencilsdocker/stencils/Flags/micronesia.desktop:2
+msgctxt "Name"
+msgid "Micronesia"
+msgstr "Micronesia"
+
+#: plugins/stencilsdocker/stencils/Flags/moldova.desktop:2
+msgctxt "Name"
+msgid "Moldova"
+msgstr "Moldova"
+
+#: plugins/stencilsdocker/stencils/Flags/monaco.desktop:2
+msgctxt "Name"
+msgid "Monaco"
+msgstr "Monaco"
+
+#: plugins/stencilsdocker/stencils/Flags/mongolia.desktop:2
+msgctxt "Name"
+msgid "Mongolia"
+msgstr "Mông Cổ"
+
+#: plugins/stencilsdocker/stencils/Flags/montenegro.desktop:2
+msgctxt "Name"
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: plugins/stencilsdocker/stencils/Flags/morocco.desktop:2
+msgctxt "Name"
+msgid "Morocco"
+msgstr "Ma Rốc"
+
+#: plugins/stencilsdocker/stencils/Flags/mozambique.desktop:2
+msgctxt "Name"
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: plugins/stencilsdocker/stencils/Flags/myanmar.desktop:2
+msgctxt "Name"
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: plugins/stencilsdocker/stencils/Flags/namibia.desktop:2
+msgctxt "Name"
+msgid "Namibia"
+msgstr "Namibia"
+
+#: plugins/stencilsdocker/stencils/Flags/nauru.desktop:2
+msgctxt "Name"
+msgid "Nauru"
+msgstr "Nauru"
+
+#: plugins/stencilsdocker/stencils/Flags/nepal.desktop:2
+msgctxt "Name"
+msgid "Nepal"
+msgstr "Nepal"
+
+#: plugins/stencilsdocker/stencils/Flags/netherlands_antilles.desktop:2
+msgctxt "Name"
+msgid "Netherlands Antilles"
+msgstr "Antilles Hà Lan"
+
+#: plugins/stencilsdocker/stencils/Flags/netherlands.desktop:2
+msgctxt "Name"
+msgid "Netherlands"
+msgstr "Hà Lan"
+
+#: plugins/stencilsdocker/stencils/Flags/newzealand.desktop:2
+msgctxt "Name"
+msgid "New Zealand"
+msgstr "New Zealand"
+
+#: plugins/stencilsdocker/stencils/Flags/nicaragua.desktop:2
+msgctxt "Name"
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: plugins/stencilsdocker/stencils/Flags/niger.desktop:2
+msgctxt "Name"
+msgid "Niger"
+msgstr "Niger"
+
+#: plugins/stencilsdocker/stencils/Flags/nigeria.desktop:2
+msgctxt "Name"
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: plugins/stencilsdocker/stencils/Flags/north_korea.desktop:2
+msgctxt "Name"
+msgid "North Korea"
+msgstr "Triều Tiên"
+
+#: plugins/stencilsdocker/stencils/Flags/norway.desktop:2
+msgctxt "Name"
+msgid "Norway"
+msgstr "Na Uy"
+
+#: plugins/stencilsdocker/stencils/Flags/olympic.desktop:2
+msgctxt "Name"
+msgid "Olympic"
+msgstr "Olympic"
+
+#: plugins/stencilsdocker/stencils/Flags/oman.desktop:2
+msgctxt "Name"
+msgid "Oman"
+msgstr "Oman"
+
+#: plugins/stencilsdocker/stencils/Flags/pakistan.desktop:2
+msgctxt "Name"
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: plugins/stencilsdocker/stencils/Flags/palau.desktop:2
+msgctxt "Name"
+msgid "Palau"
+msgstr "Palau"
+
+#: plugins/stencilsdocker/stencils/Flags/palestine.desktop:2
+msgctxt "Name"
+msgid "Palestine"
+msgstr "Palestine"
+
+#: plugins/stencilsdocker/stencils/Flags/panama.desktop:2
+msgctxt "Name"
+msgid "Panama"
+msgstr "Panama"
+
+#: plugins/stencilsdocker/stencils/Flags/papua_new_guinea.desktop:2
+msgctxt "Name"
+msgid "Papua New Guinea"
+msgstr "Papua New Guinea"
+
+#: plugins/stencilsdocker/stencils/Flags/paraguay.desktop:2
+msgctxt "Name"
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: plugins/stencilsdocker/stencils/Flags/peru.desktop:2
+msgctxt "Name"
+msgid "Peru"
+msgstr "Peru"
+
+#: plugins/stencilsdocker/stencils/Flags/philippines.desktop:2
+msgctxt "Name"
+msgid "Philippines"
+msgstr "Philippines"
+
+#: plugins/stencilsdocker/stencils/Flags/poland.desktop:2
+msgctxt "Name"
+msgid "Poland"
+msgstr "Ba Lan"
+
+#: plugins/stencilsdocker/stencils/Flags/portugal.desktop:2
+msgctxt "Name"
+msgid "Portugal"
+msgstr "Bồ Đào Nha"
+
+#: plugins/stencilsdocker/stencils/Flags/qatar.desktop:2
+msgctxt "Name"
+msgid "Qatar"
+msgstr "Qatar"
+
+#: plugins/stencilsdocker/stencils/Flags/romania.desktop:2
+msgctxt "Name"
+msgid "Romania"
+msgstr "Romania"
+
+#: plugins/stencilsdocker/stencils/Flags/russian_federation.desktop:2
+msgctxt "Name"
+msgid "Russian Federation"
+msgstr "Liên bang Nga"
+
+#: plugins/stencilsdocker/stencils/Flags/rwanda.desktop:2
+msgctxt "Name"
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: plugins/stencilsdocker/stencils/Flags/saint_kitts_and_nevis.desktop:2
+msgctxt "Name"
+msgid "Saint Kitts And Nevis"
+msgstr "Saint Kitts và Nevis"
+
+#: plugins/stencilsdocker/stencils/Flags/saint_lucia.desktop:2
+msgctxt "Name"
+msgid "Saint Lucia"
+msgstr "Saint Lucia"
+
+#: plugins/stencilsdocker/stencils/Flags/saint_vincent_and_the_grenadines.desktop:2
+msgctxt "Name"
+msgid "Saint Vincent And The Grenadines"
+msgstr "Saint Vincent và Grenadines"
+
+#: plugins/stencilsdocker/stencils/Flags/samoa.desktop:2
+msgctxt "Name"
+msgid "Samoa"
+msgstr "Samoa"
+
+#: plugins/stencilsdocker/stencils/Flags/san_marino.desktop:2
+msgctxt "Name"
+msgid "San Marino"
+msgstr "San Marino"
+
+#: plugins/stencilsdocker/stencils/Flags/sao_tome_and_principe.desktop:2
+msgctxt "Name"
+msgid "Sao Tome And Principe"
+msgstr "São Tomé và Príncipe"
+
+#: plugins/stencilsdocker/stencils/Flags/saudi_arabia.desktop:2
+msgctxt "Name"
+msgid "Saudi Arabia"
+msgstr "Ả Rập Saudi"
+
+#: plugins/stencilsdocker/stencils/Flags/senegal.desktop:2
+msgctxt "Name"
+msgid "Senegal"
+msgstr "Sénégal"
+
+#: plugins/stencilsdocker/stencils/Flags/serbia.desktop:2
+msgctxt "Name"
+msgid "Serbia"
+msgstr "Serbia"
+
+#: plugins/stencilsdocker/stencils/Flags/seychelles.desktop:2
+msgctxt "Name"
+msgid "Seychelles"
+msgstr "Seychelles"
+
+#: plugins/stencilsdocker/stencils/Flags/sierra_leone.desktop:2
+msgctxt "Name"
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: plugins/stencilsdocker/stencils/Flags/singapore.desktop:2
+msgctxt "Name"
+msgid "Singapore"
+msgstr "Singapore"
+
+#: plugins/stencilsdocker/stencils/Flags/slovakia.desktop:2
+msgctxt "Name"
+msgid "Slovakia"
+msgstr "Slovakia"
+
+#: plugins/stencilsdocker/stencils/Flags/slovenia.desktop:2
+msgctxt "Name"
+msgid "Slovenia"
+msgstr "Slovenia"
+
+#: plugins/stencilsdocker/stencils/Flags/solomonislands.desktop:2
+msgctxt "Name"
+msgid "Solomon Islands"
+msgstr "Quần đảo Solomon"
+
+#: plugins/stencilsdocker/stencils/Flags/somalia.desktop:2
+msgctxt "Name"
+msgid "Somalia"
+msgstr "Somalia"
+
+#: plugins/stencilsdocker/stencils/Flags/south_africa.desktop:2
+msgctxt "Name"
+msgid "South Africa"
+msgstr "Nam Phi"
+
+#: plugins/stencilsdocker/stencils/Flags/south_korea.desktop:2
+msgctxt "Name"
+msgid "South Korea"
+msgstr "Hàn Quốc"
+
+#: plugins/stencilsdocker/stencils/Flags/spain.desktop:2
+msgctxt "Name"
+msgid "Spain"
+msgstr "Tây Ban Nha"
+
+#: plugins/stencilsdocker/stencils/Flags/sri_lanka.desktop:2
+msgctxt "Name"
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: plugins/stencilsdocker/stencils/Flags/sudan.desktop:2
+msgctxt "Name"
+msgid "Sudan"
+msgstr "Sudan"
+
+#: plugins/stencilsdocker/stencils/Flags/suisse.desktop:2
+msgctxt "Name"
+msgid "Switzerland"
+msgstr "Thụy Sĩ"
+
+#: plugins/stencilsdocker/stencils/Flags/suriname.desktop:2
+msgctxt "Name"
+msgid "Suriname"
+msgstr "Suriname"
+
+#: plugins/stencilsdocker/stencils/Flags/swaziland.desktop:2
+msgctxt "Name"
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: plugins/stencilsdocker/stencils/Flags/sweden.desktop:2
+msgctxt "Name"
+msgid "Sweden"
+msgstr "Thụy Điển"
+
+#: plugins/stencilsdocker/stencils/Flags/syrian_arab_republic.desktop:2
+msgctxt "Name"
+msgid "Syrian Arab Republic"
+msgstr "Cộng hòa Ả Rập Syria"
+
+#: plugins/stencilsdocker/stencils/Flags/tajikistan.desktop:2
+msgctxt "Name"
+msgid "Tajikistan"
+msgstr "Tajikistan"
+
+#: plugins/stencilsdocker/stencils/Flags/tanzania.desktop:2
+msgctxt "Name"
+msgid "Tanzania"
+msgstr "Tanzania"
+
+#: plugins/stencilsdocker/stencils/Flags/thailand.desktop:2
+msgctxt "Name"
+msgid "Thailand"
+msgstr "Thái Lan"
+
+#: plugins/stencilsdocker/stencils/Flags/timor_leste.desktop:2
+msgctxt "Name"
+msgid "Timor-Leste"
+msgstr "Đông Timor"
+
+#: plugins/stencilsdocker/stencils/Flags/togo.desktop:2
+msgctxt "Name"
+msgid "Togo"
+msgstr "Togo"
+
+#: plugins/stencilsdocker/stencils/Flags/tonga.desktop:2
+msgctxt "Name"
+msgid "Tonga"
+msgstr "Tonga"
+
+#: plugins/stencilsdocker/stencils/Flags/trinidad_and_tobago.desktop:2
+msgctxt "Name"
+msgid "Trinidad And Tobago"
+msgstr "Trinidad và Tobago"
+
+#: plugins/stencilsdocker/stencils/Flags/tunisia.desktop:2
+msgctxt "Name"
+msgid "Tunisia"
+msgstr "Tunisia"
+
+#: plugins/stencilsdocker/stencils/Flags/turkey.desktop:2
+msgctxt "Name"
+msgid "Turkey"
+msgstr "Thổ Nhĩ Kỳ"
+
+#: plugins/stencilsdocker/stencils/Flags/turkmenistan.desktop:2
+msgctxt "Name"
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: plugins/stencilsdocker/stencils/Flags/tuvalu.desktop:2
+msgctxt "Name"
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: plugins/stencilsdocker/stencils/Flags/uganda.desktop:2
+msgctxt "Name"
+msgid "Uganda"
+msgstr "Uganda"
+
+#: plugins/stencilsdocker/stencils/Flags/ukraine.desktop:2
+msgctxt "Name"
+msgid "Ukraine"
+msgstr "Ukraina"
+
+#: plugins/stencilsdocker/stencils/Flags/unesco.desktop:2
+msgctxt "Name"
+msgid "UNESCO"
+msgstr "UNESCO"
+
+#: plugins/stencilsdocker/stencils/Flags/unicef.desktop:2
+msgctxt "Name"
+msgid "UNICEF"
+msgstr "UNICEF"
+
+#: plugins/stencilsdocker/stencils/Flags/united_arab_emirates.desktop:2
+msgctxt "Name"
+msgid "United Arab Emirates"
+msgstr "Các Tiểu vương quốc Ả Rập Thống nhất"
+
+#: plugins/stencilsdocker/stencils/Flags/united_kingdom.desktop:2
+msgctxt "Name"
+msgid "United Kingdom"
+msgstr "Vương quốc Anh"
+
+#: plugins/stencilsdocker/stencils/Flags/unitednations.desktop:2
+msgctxt "Name"
+msgid "United Nations"
+msgstr "Liên Hợp Quốc"
+
+#: plugins/stencilsdocker/stencils/Flags/united_states.desktop:2
+msgctxt "Name"
+msgid "United States"
+msgstr "Hoa Kỳ"
+
+#: plugins/stencilsdocker/stencils/Flags/uruguay.desktop:2
+msgctxt "Name"
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: plugins/stencilsdocker/stencils/Flags/uzbekistan.desktop:2
+msgctxt "Name"
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+#: plugins/stencilsdocker/stencils/Flags/vanuatu.desktop:2
+msgctxt "Name"
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: plugins/stencilsdocker/stencils/Flags/vatican.desktop:2
+msgctxt "Name"
+msgid "Vatican"
+msgstr "Vatican"
+
+#: plugins/stencilsdocker/stencils/Flags/venezuela.desktop:2
+msgctxt "Name"
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: plugins/stencilsdocker/stencils/Flags/vietnam.desktop:2
+msgctxt "Name"
+msgid "Vietnam"
+msgstr "Việt Nam"
+
+#: plugins/stencilsdocker/stencils/Flags/wake_island.desktop:2
+msgctxt "Name"
+msgid "Wake Island"
+msgstr "Đảo Wake"
+
+#: plugins/stencilsdocker/stencils/Flags/western_sahara.desktop:2
+msgctxt "Name"
+msgid "Western Sahara"
+msgstr "Tây Sahara"
+
+#: plugins/stencilsdocker/stencils/Flags/who.desktop:2
+msgctxt "Name"
+msgid "WHO"
+msgstr "WHO"
+
+#: plugins/stencilsdocker/stencils/Flags/yemen.desktop:2
+msgctxt "Name"
+msgid "Yemen"
+msgstr "Yemen"
+
+#: plugins/stencilsdocker/stencils/Flags/zambia.desktop:2
+msgctxt "Name"
+msgid "Zambia"
+msgstr "Zambia"
+
+#: plugins/stencilsdocker/stencils/Flags/zimbabwe.desktop:2
+msgctxt "Name"
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: plugins/stencilsdocker/stencils/Gane_and_Sarson/alt-entity.desktop:2
+msgctxt "Name"
+msgid "Alternative External Entity"
+msgstr "Thực thể bên ngoài thay thế"
+
+#: plugins/stencilsdocker/stencils/Gane_and_Sarson/collection.desktop:2
+msgctxt "Name"
+msgid "Gane and Sarson"
+msgstr "Gane và Sarson"
+
+#: plugins/stencilsdocker/stencils/Gane_and_Sarson/data_store.desktop:2
+msgctxt "Name"
+msgid "Data Store"
+msgstr "Kho dữ liệu"
+
+#: plugins/stencilsdocker/stencils/Gane_and_Sarson/entity.desktop:2
+msgctxt "Name"
+msgid "External Entity"
+msgstr "Thực thể bên ngoài"
+
+#: plugins/stencilsdocker/stencils/Jigsaw/collection.desktop:2
+msgctxt "Name"
+msgid "Jigsaw"
+msgstr "Ghép hình"
+
+#: plugins/stencilsdocker/stencils/Jigsaw/part_iiii.desktop:2
+msgctxt "Name"
+msgid "part iiii"
+msgstr "phần iiii"
+
+#: plugins/stencilsdocker/stencils/Jigsaw/part_iiio.desktop:2
+msgctxt "Name"
+msgid "part iiio"
+msgstr "phần iiio"
+
+#: plugins/stencilsdocker/stencils/Jigsaw/part_iioi.desktop:2
+msgctxt "Name"
+msgid "part iioi"
+msgstr "phần iioi"
+
+#: plugins/stencilsdocker/stencils/Jigsaw/part_iioo.desktop:2
+msgctxt "Name"
+msgid "part iioo"
+msgstr "phần iioo"
+
+#: plugins/stencilsdocker/stencils/Jigsaw/part_ioii.desktop:2
+msgctxt "Name"
+msgid "part ioii"
+msgstr "phần ioii"
+
+#: plugins/stencilsdocker/stencils/Jigsaw/part_ioio.desktop:2
+msgctxt "Name"
+msgid "part ioio"
+msgstr "phần ioio"
+
+#: plugins/stencilsdocker/stencils/Jigsaw/part_iooi.desktop:2
+msgctxt "Name"
+msgid "part iooi"
+msgstr "phần iooi"
+
+#: plugins/stencilsdocker/stencils/Jigsaw/part_iooo.desktop:2
+msgctxt "Name"
+msgid "part iooo"
+msgstr "phần iooo"
+
+#: plugins/stencilsdocker/stencils/Jigsaw/part_oiii.desktop:2
+msgctxt "Name"
+msgid "part oiii"
+msgstr "phần oiii"
+
+#: plugins/stencilsdocker/stencils/Jigsaw/part_oiio.desktop:2
+msgctxt "Name"
+msgid "part oiio"
+msgstr "phần oiio"
+
+#: plugins/stencilsdocker/stencils/Jigsaw/part_oioi.desktop:2
+msgctxt "Name"
+msgid "part oioi"
+msgstr "phần oioi"
+
+#: plugins/stencilsdocker/stencils/Jigsaw/part_oioo.desktop:2
+msgctxt "Name"
+msgid "part oioo"
+msgstr "phần oioo"
+
+#: plugins/stencilsdocker/stencils/Jigsaw/part_ooii.desktop:2
+msgctxt "Name"
+msgid "part ooii"
+msgstr "phần ooii"
+
+#: plugins/stencilsdocker/stencils/Jigsaw/part_ooio.desktop:2
+msgctxt "Name"
+msgid "part ooio"
+msgstr "phần ooio"
+
+#: plugins/stencilsdocker/stencils/Jigsaw/part_oooi.desktop:2
+msgctxt "Name"
+msgid "part oooi"
+msgstr "phần oooi"
+
+#: plugins/stencilsdocker/stencils/Jigsaw/part_oooo.desktop:2
+msgctxt "Name"
+msgid "part oooo"
+msgstr "phần oooo"
+
+#: plugins/stencilsdocker/stencils/Lights/ACL.desktop:2
+msgctxt "Name"
+msgid "ACL"
+msgstr "ACL"
+
+#: plugins/stencilsdocker/stencils/Lights/Blacklight.desktop:2
+msgctxt "Name"
+msgid "Blacklight"
+msgstr "Đèn cực tím"
+
+#: plugins/stencilsdocker/stencils/Lights/Blinders.desktop:2
+msgctxt "Name"
+msgid "Blinders"
+msgstr "Màn chắn sáng"
+
+#: plugins/stencilsdocker/stencils/Lights/collection.desktop:2
+msgctxt "Name"
+msgid "Lights"
+msgstr "Đèn"
+
+#: plugins/stencilsdocker/stencils/Lights/ERS.desktop:2
+msgctxt "Name"
+msgid "ERS"
+msgstr "ERS"
+
+#: plugins/stencilsdocker/stencils/Lights/Fresnel.desktop:2
+msgctxt "Name"
+msgid "Fresnel"
+msgstr "Fresnel"
+
+#: plugins/stencilsdocker/stencils/Lights/Moving_head.desktop:2
+msgctxt "Name"
+msgid "Moving head"
+msgstr "Đèn moving head"
+
+#: plugins/stencilsdocker/stencils/Lights/PAR.desktop:2
+msgctxt "Name"
+msgid "PAR"
+msgstr "PAR"
+
+#: plugins/stencilsdocker/stencils/Lights/PAR_floor.desktop:2
+msgctxt "Name"
+msgid "PAR floor"
+msgstr "PAR sàn"
+
+#: plugins/stencilsdocker/stencils/Lights/PC.desktop:2
+msgctxt "Name"
+msgid "Pebble Convex lantern"
+msgstr "Đèn lồng lồi hình cuội"
+
+#: plugins/stencilsdocker/stencils/Lights/Striplight.desktop:2
+msgctxt "Name"
+msgid "Striplight"
+msgstr "Đèn dải"
+
+#: plugins/stencilsdocker/stencils/Lights/Stroboscope.desktop:2
+msgctxt "Name"
+msgid "Stroboscope light"
+msgstr "Đèn nhấp nháy"
+
+#: plugins/stencilsdocker/stencils/Lights/Structure.desktop:2
+msgctxt "Name"
+msgid "Structure"
+msgstr "Cấu trúc"
+
+#: plugins/stencilsdocker/stencils/Logic/and.desktop:2
+msgctxt "Name"
+msgid "And"
+msgstr "Và"
+
+#: plugins/stencilsdocker/stencils/Logic/buffer.desktop:2
+msgctxt "Name"
+msgid "Buffer"
+msgstr "Bộ nhớ đệm"
+
+#: plugins/stencilsdocker/stencils/Logic/collection.desktop:2
+msgctxt "Name"
+msgid "Logic"
+msgstr "Luận lí"
+
+#: plugins/stencilsdocker/stencils/Logic/connector.desktop:2
+msgctxt "Name"
+msgid "Connector"
+msgstr "Kết nối"
+
+#: plugins/stencilsdocker/stencils/Logic/inverter.desktop:2
+msgctxt "Name"
+msgid "Inverter"
+msgstr "Bộ đảo"
+
+#: plugins/stencilsdocker/stencils/Logic/nand.desktop:2
+msgctxt "Name"
+msgid "Nand"
+msgstr "Nand"
+
+#: plugins/stencilsdocker/stencils/Logic/nor.desktop:2
+msgctxt "Name"
+msgid "Nor"
+msgstr "Nor"
+
+#: plugins/stencilsdocker/stencils/Logic/not.desktop:2
+msgctxt "Name"
+msgid "Not"
+msgstr "Không"
+
+#: plugins/stencilsdocker/stencils/Logic/or.desktop:2
+msgctxt "Name"
+msgid "Or"
+msgstr "Hoặc"
+
+#: plugins/stencilsdocker/stencils/Logic/xor.desktop:2
+msgctxt "Name"
+msgid "Xor"
+msgstr "Xor"
+
+#: plugins/stencilsdocker/stencils/LST/associator_subsystem.desktop:2
+msgctxt "Name"
+msgid "Associator"
+msgstr "Bộ liên kết"
+
+#: plugins/stencilsdocker/stencils/LST/cn_subsystem.desktop:2
+msgctxt "Name"
+msgid "Channel Network"
+msgstr "Mạng Kênh"
+
+#: plugins/stencilsdocker/stencils/LST/collection.desktop:2
+msgctxt "Name"
+msgid "LST"
+msgstr "LST"
+
+#: plugins/stencilsdocker/stencils/LST/convert_subsystem.desktop:2
+msgctxt "Name"
+msgid "Converter"
+msgstr "Bộ chuyển đổi"
+
+#: plugins/stencilsdocker/stencils/LST/decider_subsystem.desktop:2
+msgctxt "Name"
+msgid "Decider"
+msgstr "Bộ quyết định"
+
+#: plugins/stencilsdocker/stencils/LST/decoder.desktop:2
+msgctxt "Name"
+msgid "Decoder"
+msgstr "Bộ giải mã"
+
+#: plugins/stencilsdocker/stencils/LST/decode_subsystem.desktop:2
+msgctxt "Name"
+msgid "Decode Subsystem"
+msgstr "Hệ thống con Giải mã"
+
+#: plugins/stencilsdocker/stencils/LST/distributor_subsystem.desktop:2
+msgctxt "Name"
+msgid "Distributor"
+msgstr "Bộ phân phối"
+
+#: plugins/stencilsdocker/stencils/LST/encoder.desktop:2
+msgctxt "Name"
+msgid "Encoder"
+msgstr "Bộ mã hóa"
+
+#: plugins/stencilsdocker/stencils/LST/encode_subsystem.desktop:2
+msgctxt "Name"
+msgid "Encode Subsystem"
+msgstr "Hệ thống phụ mã hoá"
+
+#: plugins/stencilsdocker/stencils/LST/extruder.desktop:2
+msgctxt "Name"
+msgid "Extruder"
+msgstr "Máy đùn"
+
+#: plugins/stencilsdocker/stencils/LST/ingestor_subsystem.desktop:2
+msgctxt "Name"
+msgid "Ingestor"
+msgstr "Bộ nạp"
+
+#: plugins/stencilsdocker/stencils/LST/internal_subsystem.desktop:2
+msgctxt "Name"
+msgid "Internal Transducer"
+msgstr "Bộ biến đổi nội bộ"
+
+#: plugins/stencilsdocker/stencils/LST/it_subsystem.desktop:2
+msgctxt "Name"
+msgid "Input Transducer"
+msgstr "Bộ biến đổi đầu vào"
+
+#: plugins/stencilsdocker/stencils/LST/memory_subsystem.desktop:2
+msgctxt "Name"
+msgid "Memory"
+msgstr "Bộ nhớ"
+
+#: plugins/stencilsdocker/stencils/LST/mestorage.desktop:2
+msgctxt "Name"
+msgid "ME Storage"
+msgstr "Lưu trữ ME"
+
+#: plugins/stencilsdocker/stencils/LST/ot_subsystem.desktop:2
+msgctxt "Name"
+msgid "Output Transducer"
+msgstr "Bộ biến đổi đầu ra"
+
+#: plugins/stencilsdocker/stencils/LST/producer.desktop:2
+msgctxt "Name"
+msgid "Producer"
+msgstr "Nhà sản xuất"
+
+#: plugins/stencilsdocker/stencils/LST/reproducer_subsystem.desktop:2
+msgctxt "Name"
+msgid "Reproducer"
+msgstr "Bộ tái tạo"
+
+#: plugins/stencilsdocker/stencils/LST/supporter_subsystem.desktop:2
+msgctxt "Name"
+msgid "Supporter"
+msgstr "Hỗ trợ"
+
+#: plugins/stencilsdocker/stencils/LST/timer.desktop:2
+msgctxt "Name"
+msgid "Timer"
+msgstr "Bộ hẹn giờ"
+
+#: plugins/stencilsdocker/stencils/Map/Block1.desktop:2
+msgctxt "Name"
+msgid "Block1"
+msgstr "Khối 1"
+
+#: plugins/stencilsdocker/stencils/Map/Block2.desktop:2
+msgctxt "Name"
+msgid "Block2"
+msgstr "Khối 2"
+
+#: plugins/stencilsdocker/stencils/Map/Block3.desktop:2
+msgctxt "Name"
+msgid "Block3"
+msgstr "Khối 3"
+
+#: plugins/stencilsdocker/stencils/Map/Block4.desktop:2
+msgctxt "Name"
+msgid "Block4"
+msgstr "Khối 4"
+
+#: plugins/stencilsdocker/stencils/Map/Block5.desktop:2
+msgctxt "Name"
+msgid "Block5"
+msgstr "Khối 5"
+
+#: plugins/stencilsdocker/stencils/Map/Block6.desktop:2
+msgctxt "Name"
+msgid "Block6"
+msgstr "Khối 6"
+
+#: plugins/stencilsdocker/stencils/Map/Block7.desktop:2
+msgctxt "Name"
+msgid "Block7"
+msgstr "Khối 7"
+
+#: plugins/stencilsdocker/stencils/Map/Car1.desktop:2
+msgctxt "Name"
+msgid "Car1"
+msgstr "Xe hơi 1"
+
+#: plugins/stencilsdocker/stencils/Map/Car2.desktop:2
+msgctxt "Name"
+msgid "Car2"
+msgstr "Xe hơi 2"
+
+#: plugins/stencilsdocker/stencils/Map/collection.desktop:2
+msgctxt "Name"
+msgid "Map"
+msgstr "Bản đồ"
+
+#: plugins/stencilsdocker/stencils/Map/Corner1.desktop:2
+msgctxt "Name"
+msgid "Corner1"
+msgstr "Góc 1"
+
+#: plugins/stencilsdocker/stencils/Map/Corner2.desktop:2
+msgctxt "Name"
+msgid "Corner2"
+msgstr "Góc 2"
+
+#: plugins/stencilsdocker/stencils/Map/Crossroads.desktop:2
+msgctxt "Name"
+msgid "Crossroads"
+msgstr "Ngã tư"
+
+#: plugins/stencilsdocker/stencils/Map/Elevated.desktop:2
+msgctxt "Name"
+msgid "Elevated"
+msgstr "Nâng cao"
+
+#: plugins/stencilsdocker/stencils/Map/Factory.desktop:2
+msgctxt "Name"
+msgid "Factory"
+msgstr "Nhà máy"
+
+#: plugins/stencilsdocker/stencils/Map/FootBridge.desktop:2
+msgctxt "Name"
+msgid "FootBridge"
+msgstr "Cầu đi bộ"
+
+#: plugins/stencilsdocker/stencils/Map/OneWay.desktop:2
+msgctxt "Name"
+msgid "OneWay"
+msgstr "Một chiều"
+
+#: plugins/stencilsdocker/stencils/Map/RedCar.desktop:2
+msgctxt "Name"
+msgid "RedCar"
+msgstr "Xe Đỏ"
+
+#: plugins/stencilsdocker/stencils/Map/River.desktop:2
+msgctxt "Name"
+msgid "River"
+msgstr "Sông"
+
+#: plugins/stencilsdocker/stencils/Map/Road1.desktop:2
+msgctxt "Name"
+msgid "Road1"
+msgstr "Đường1"
+
+#: plugins/stencilsdocker/stencils/Map/Roof1.desktop:2
+msgctxt "Name"
+msgid "Roof1"
+msgstr "Mái nhà 1"
+
+#: plugins/stencilsdocker/stencils/Map/StraightRoad1.desktop:2
+msgctxt "Name"
+msgid "StraightRoad1"
+msgstr "ĐườngThẳng1"
+
+#: plugins/stencilsdocker/stencils/Map/T-Junction.desktop:2
+msgctxt "Name"
+msgid "T-Junction"
+msgstr "Ngã ba"
+
+#: plugins/stencilsdocker/stencils/Map/Train1.desktop:2
+msgctxt "Name"
+msgid "Train1"
+msgstr "Tàu hỏa 1"
+
+#: plugins/stencilsdocker/stencils/Map/Train2.desktop:2
+msgctxt "Name"
+msgid "Train2"
+msgstr "Tàu hỏa 2"
+
+#: plugins/stencilsdocker/stencils/Map/Tree1.desktop:2
+msgctxt "Name"
+msgid "Tree1"
+msgstr "Cây1"
+
+#: plugins/stencilsdocker/stencils/Misc/collection.desktop:2
+msgctxt "Name"
+msgid "Misc"
+msgstr "Khác"
+
+#: plugins/stencilsdocker/stencils/Misc/expended-node.desktop:2
+msgctxt "Name"
+msgid "expended node"
+msgstr "nút mở rộng"
+
+#: plugins/stencilsdocker/stencils/Misc/expensible-node.desktop:2
+msgctxt "Name"
+msgid "expansible node"
+msgstr "nút mở rộng"
+
+#: plugins/stencilsdocker/stencils/Misc/file.desktop:2
+msgctxt "Name"
+msgid "File"
+msgstr "Tệp"
+
+#: plugins/stencilsdocker/stencils/Misc/folder.desktop:2
+msgctxt "Name"
+msgid "Folder"
+msgstr "Thư mục"
+
+#: plugins/stencilsdocker/stencils/MSE/collection.desktop:2
+msgctxt "Name"
+msgid "MSE"
+msgstr "MSE"
+
+#: plugins/stencilsdocker/stencils/MSE/demultiplexer.desktop:2
+msgctxt "Name"
+msgid "Demultiplexer"
+msgstr "Bộ giải ghép"
+
+#: plugins/stencilsdocker/stencils/MSE/large_extension_node.desktop:2
+msgctxt "Name"
+msgid "Large Extension Node"
+msgstr "Nút Phần Mở Rộng Lớn"
+
+#: plugins/stencilsdocker/stencils/MSE/multiplexer.desktop:2
+msgctxt "Name"
+msgid "Multiplexer"
+msgstr "Bộ ghép kênh"
+
+#: plugins/stencilsdocker/stencils/MSE/node_center.desktop:2
+msgctxt "Name"
+msgid "Node Center"
+msgstr "Nút Trung Tâm"
+
+#: plugins/stencilsdocker/stencils/MSE/small_extension_node.desktop:2
+msgctxt "Name"
+msgid "Small Extension Node"
+msgstr "Nút Phần Mở Rộng Nhỏ"
+
+#: plugins/stencilsdocker/stencils/MSE/tacsat.desktop:2
+msgctxt "Name"
+msgid "Tactical Satellite Communications Terminal"
+msgstr "Trình dòng lệnh thông tin liên lạc vệ tinh chiến thuật"
+
+#: plugins/stencilsdocker/stencils/Network/collection.desktop:2
+msgctxt "Name"
+msgid "Network"
+msgstr "Mạng"
+
+#: plugins/stencilsdocker/stencils/Network/computer.desktop:2
+msgctxt "Name"
+msgid "General Computer (Tower)"
+msgstr "Máy tính chung (Tháp)"
+
+#: plugins/stencilsdocker/stencils/Network/dat_external.desktop:2
+msgctxt "Name"
+msgid "An external DAT drive"
+msgstr "Ổ DAT ngoại vi"
+
+#: plugins/stencilsdocker/stencils/Network/digitizing_board.desktop:2
+msgctxt "Name"
+msgid "Digitizing Board"
+msgstr "Bảng Số Hóa"
+
+#: plugins/stencilsdocker/stencils/Network/disc.desktop:2
+msgctxt "Name"
+msgid "Storage"
+msgstr "Lưu trữ"
+
+#: plugins/stencilsdocker/stencils/Network/diskette.desktop:2
+msgctxt "Name"
+msgid "A Diskette"
+msgstr "Đĩa mềm"
+
+#: plugins/stencilsdocker/stencils/Network/flash.desktop:2
+msgctxt "Name"
+msgid "WAN Connection"
+msgstr "Kết nối WAN"
+
+#: plugins/stencilsdocker/stencils/Network/genmonitor.desktop:2
+msgctxt "Name"
+msgid "General Monitor (With Stand)"
+msgstr "Màn hình chung (Có chân đế)"
+
+#: plugins/stencilsdocker/stencils/Network/mobile_phone.desktop:2
+msgctxt "Name"
+msgid "A Mobile Phone"
+msgstr "Điện thoại di động"
+
+#: plugins/stencilsdocker/stencils/Network/modularswitch.desktop:2
+msgctxt "Name"
+msgid "Modular Switch"
+msgstr "Bộ Chuyển Mạch Mô-đun"
+
+#: plugins/stencilsdocker/stencils/Network/monitor.desktop:2
+msgctxt "Name"
+msgid "A Workstation Monitor"
+msgstr "Màn hình Máy trạm"
+
+#: plugins/stencilsdocker/stencils/Network/patch-panel.desktop:2
+msgctxt "Name"
+msgid "Patch Panel"
+msgstr "Bảng Kết Nối"
+
+#: plugins/stencilsdocker/stencils/Network/pc_bigtower.desktop:2
+msgctxt "Name"
+msgid "A Bigtower PC"
+msgstr "Máy tính tháp lớn"
+
+#: plugins/stencilsdocker/stencils/Network/pc_desktop.desktop:2
+msgctxt "Name"
+msgid "A Desktop PC"
+msgstr "Máy tính để bàn"
+
+#: plugins/stencilsdocker/stencils/Network/pc_miditower.desktop:2
+msgctxt "Name"
+msgid "A Miditower PC"
+msgstr "Máy tính tháp trung"
+
+#: plugins/stencilsdocker/stencils/Network/pc_minitower.desktop:2
+msgctxt "Name"
+msgid "A Minitower PC"
+msgstr "PC Tháp nhỏ"
+
+#: plugins/stencilsdocker/stencils/Network/plotter.desktop:2
+msgctxt "Name"
+msgid "Plotter"
+msgstr "Máy vẽ"
+
+#: plugins/stencilsdocker/stencils/Network/printer.desktop:2
+msgctxt "Name"
+msgid "General Printer"
+msgstr "Máy in chung"
+
+#: plugins/stencilsdocker/stencils/Network/rj45plug.desktop:2
+msgctxt "Name"
+msgid "RJ45 Wall-Plug"
+msgstr "Ổ cắm tường RJ45"
+
+#: plugins/stencilsdocker/stencils/Network/router-symbol.desktop:2
+msgctxt "Name"
+msgid "Router Symbol"
+msgstr "Kí hiệu bộ định tuyến"
+
+#: plugins/stencilsdocker/stencils/Network/sceadplug.desktop:2
+msgctxt "Name"
+msgid "scEAD Wall-Plug"
+msgstr "Ổ cắm scEAD"
+
+#: plugins/stencilsdocker/stencils/Network/speaker_amp.desktop:2
+msgctxt "Name"
+msgid "An amplifier speaker"
+msgstr "Loa khuếch đại"
+
+#: plugins/stencilsdocker/stencils/Network/speaker.desktop:2
+msgctxt "Name"
+msgid "A speaker"
+msgstr "Loa"
+
+#: plugins/stencilsdocker/stencils/Network/switch-atm-symbol.desktop:2
+msgctxt "Name"
+msgid "Switch ATM Symbol"
+msgstr "Kí hiệu Chuyển mạch ATM"
+
+#: plugins/stencilsdocker/stencils/Network/switch-symbol.desktop:2
+msgctxt "Name"
+msgid "Switch Symbol"
+msgstr "Kí hiệu chuyển mạch"
+
+#: plugins/stencilsdocker/stencils/Network/telephone.desktop:2
+msgctxt "Name"
+msgid "A Telephone"
+msgstr "Điện thoại"
+
+#: plugins/stencilsdocker/stencils/Network/workstation.desktop:2
+msgctxt "Name"
+msgid "A Workstation"
+msgstr "Máy trạm"
+
+#: plugins/stencilsdocker/stencils/Network/zip-disk.desktop:2
+msgctxt "Name"
+msgid "A ZIP Disk"
+msgstr "Đĩa ZIP"
+
+#: plugins/stencilsdocker/stencils/Optics/atten.desktop:2
+msgctxt "Name"
+msgid "Variable Attenuator"
+msgstr "Bộ Suy Giảm Biến Đổi"
+
+#: plugins/stencilsdocker/stencils/Optics/beam.desktop:2
+msgctxt "Name"
+msgid "Beam"
+msgstr "Chùm tia"
+
+#: plugins/stencilsdocker/stencils/Optics/circulator.desktop:2
+msgctxt "Name"
+msgid "Circulator"
+msgstr "Bộ tuần hoàn"
+
+#: plugins/stencilsdocker/stencils/Optics/collection.desktop:2
+msgctxt "Name"
+msgid "Optics"
+msgstr "Quang học"
+
+#: plugins/stencilsdocker/stencils/Optics/coupler.desktop:2
+msgctxt "Name"
+msgid "Coupler"
+msgstr "Bộ ghép nối"
+
+#: plugins/stencilsdocker/stencils/Optics/coupler_vert.desktop:2
+msgctxt "Name"
+msgid "Coupler (vertical)"
+msgstr "Bộ ghép nối (dọc)"
+
+#: plugins/stencilsdocker/stencils/Optics/detector_vert.desktop:2
+msgctxt "Name"
+msgid "Detector (vertical)"
+msgstr "Bộ dò (dọc)"
+
+#: plugins/stencilsdocker/stencils/Optics/dfb_laser.desktop:2
+msgctxt "Name"
+msgid "DFB Laser"
+msgstr "Laser DFB"
+
+#: plugins/stencilsdocker/stencils/Optics/dfb_laser_vert.desktop:2
+msgctxt "Name"
+msgid "DFB Laser (vertical)"
+msgstr "Laser DFB (dọc)"
+
+#: plugins/stencilsdocker/stencils/Optics/edfa.desktop:2
+msgctxt "Name"
+msgid "EDFA"
+msgstr "EDFA"
+
+#: plugins/stencilsdocker/stencils/Optics/edfa_vert.desktop:2
+msgctxt "Name"
+msgid "EDFA (vertical)"
+msgstr "EDFA (dọc)"
+
+#: plugins/stencilsdocker/stencils/Optics/fibre.desktop:2
+msgctxt "Name"
+msgid "Fibre"
+msgstr "Sợi quang"
+
+#: plugins/stencilsdocker/stencils/Optics/fibre_vert.desktop:2
+msgctxt "Name"
+msgid "Fibre (vertical)"
+msgstr "Sợi quang (dọc)"
+
+#: plugins/stencilsdocker/stencils/Optics/isolator.desktop:2
+msgctxt "Name"
+msgid "Isolator"
+msgstr "Bộ cách ly"
+
+#: plugins/stencilsdocker/stencils/Optics/isolator_vert.desktop:2
+msgctxt "Name"
+msgid "Isolator (vertical)"
+msgstr "Bộ cách ly (dọc)"
+
+#: plugins/stencilsdocker/stencils/Optics/lpg.desktop:2
+msgctxt "Name"
+msgid "LPG"
+msgstr "LPG"
+
+#: plugins/stencilsdocker/stencils/Optics/lpg_vert.desktop:2
+msgctxt "Name"
+msgid "LPG (vertical)"
+msgstr "LPG (dọc)"
+
+#: plugins/stencilsdocker/stencils/Optics/mod.desktop:2
+msgctxt "Name"
+msgid "MZ Modulator"
+msgstr "Điều biến MZ"
+
+#: plugins/stencilsdocker/stencils/Optics/mod_vert.desktop:2
+msgctxt "Name"
+msgid "MZ Modulator (vertical)"
+msgstr "Điều biến MZ (dọc)"
+
+#: plugins/stencilsdocker/stencils/Optics/phasemod.desktop:2
+msgctxt "Name"
+msgid "Phase Modulator"
+msgstr "Bộ điều biến pha"
+
+#: plugins/stencilsdocker/stencils/Optics/phasemod_vert.desktop:2
+msgctxt "Name"
+msgid "Phase Modulator (vertical)"
+msgstr "Bộ điều biến pha (dọc)"
+
+#: plugins/stencilsdocker/stencils/Optics/polarisation_control.desktop:2
+msgctxt "Name"
+msgid "Polarisation Control"
+msgstr "Điều khiển phân cực"
+
+#: plugins/stencilsdocker/stencils/Optics/polarisation_control_vert.desktop:2
+msgctxt "Name"
+msgid "Polarisation Control (vertical)"
+msgstr "Điều khiển phân cực (dọc)"
+
+#: plugins/stencilsdocker/stencils/Optics/scope.desktop:2
+msgctxt "Name"
+msgid "Oscilloscope"
+msgstr "Dao động ký"
+
+#: plugins/stencilsdocker/stencils/Optics/spectrum.desktop:2
+msgctxt "Name"
+msgid "Spectrum"
+msgstr "Quang phổ"
+
+#: plugins/stencilsdocker/stencils/Optics/tuneable.desktop:2
+msgctxt "Name"
+msgid "Tuneable Coupler"
+msgstr "Bộ ghép có thể điều chỉnh"
+
+#: plugins/stencilsdocker/stencils/Optics/wave.desktop:2
+msgctxt "Name"
+msgid "Wave"
+msgstr "Sóng"
+
+#: plugins/stencilsdocker/stencils/Pneumatic/collection.desktop:2
+msgctxt "Name"
+msgid "Pneumatic"
+msgstr "Khí nén"
+
+#: plugins/stencilsdocker/stencils/Pneumatic/comelec1.desktop:2
+msgctxt "Name"
+msgid "comelec1"
+msgstr "comelec1"
+
+#: plugins/stencilsdocker/stencils/Pneumatic/comelec2.desktop:2
+msgctxt "Name"
+msgid "comelec2"
+msgstr "comelec2"
+
+#: plugins/stencilsdocker/stencils/Pneumatic/commusc.desktop:2
+msgctxt "Name"
+msgid "commusc"
+msgstr "commusc"
+
+#: plugins/stencilsdocker/stencils/Pneumatic/compb.desktop:2
+msgctxt "Name"
+msgid "compb"
+msgstr "compb"
+
+#: plugins/stencilsdocker/stencils/Pneumatic/compilh.desktop:2
+msgctxt "Name"
+msgid "compilh"
+msgstr "compilh"
+
+#: plugins/stencilsdocker/stencils/Pneumatic/compilp.desktop:2
+msgctxt "Name"
+msgid "compilp"
+msgstr "compilp"
+
+#: plugins/stencilsdocker/stencils/Pneumatic/compush.desktop:2
+msgctxt "Name"
+msgid "compush"
+msgstr "compush"
+
+#: plugins/stencilsdocker/stencils/Pneumatic/comspr.desktop:2
+msgctxt "Name"
+msgid "comspr"
+msgstr "comspr"
+
+#: plugins/stencilsdocker/stencils/Pneumatic/dejack.desktop:2
+msgctxt "Name"
+msgid "DEJack"
+msgstr "DEJack"
+
+#: plugins/stencilsdocker/stencils/Pneumatic/dist22.desktop:2
+msgctxt "Name"
+msgid "dist22"
+msgstr "dist22"
+
+#: plugins/stencilsdocker/stencils/Pneumatic/dist32.desktop:2
+msgctxt "Name"
+msgid "dist32"
+msgstr "dist32"
+
+#: plugins/stencilsdocker/stencils/Pneumatic/dist42.desktop:2
+msgctxt "Name"
+msgid "dist42"
+msgstr "dist42"
+
+#: plugins/stencilsdocker/stencils/Pneumatic/dist52.desktop:2
+msgctxt "Name"
+msgid "dist52"
+msgstr "dist52"
+
+#: plugins/stencilsdocker/stencils/Pneumatic/drain.desktop:2
+msgctxt "Name"
+msgid "drain"
+msgstr "xả"
+
+#: plugins/stencilsdocker/stencils/Pneumatic/press.desktop:2
+msgctxt "Name"
+msgid "press"
+msgstr "ấn"
+
+#: plugins/stencilsdocker/stencils/Pneumatic/presshy.desktop:2
+msgctxt "Name"
+msgid "presshy"
+msgstr "presshy"
+
+#: plugins/stencilsdocker/stencils/Pneumatic/presspn.desktop:2
+msgctxt "Name"
+msgid "presspn"
+msgstr "presspn"
+
+#: plugins/stencilsdocker/stencils/Pneumatic/seijack.desktop:2
+msgctxt "Name"
+msgid "SEIJack"
+msgstr "SEIJack"
+
+#: plugins/stencilsdocker/stencils/Pneumatic/seojack.desktop:2
+msgctxt "Name"
+msgid "SEOJack"
+msgstr "SEOJack"
+
+#: plugins/stencilsdocker/stencils/Racks/collection.desktop:2
+msgctxt "Name"
+msgid "Racks"
+msgstr "Giá đỡ"
+
+#: plugins/stencilsdocker/stencils/Racks/equipment_10u.desktop:2
+msgctxt "Name"
+msgid "Equipment 10U"
+msgstr "Thiết bị 10U"
+
+#: plugins/stencilsdocker/stencils/Racks/equipment_11u.desktop:2
+msgctxt "Name"
+msgid "Equipment 11U"
+msgstr "Thiết bị 11U"
+
+#: plugins/stencilsdocker/stencils/Racks/equipment_12u.desktop:2
+msgctxt "Name"
+msgid "Equipment 12U"
+msgstr "Thiết bị 12U"
+
+#: plugins/stencilsdocker/stencils/Racks/equipment_1u.desktop:2
+msgctxt "Name"
+msgid "Equipment 1U"
+msgstr "Thiết bị 1U"
+
+#: plugins/stencilsdocker/stencils/Racks/equipment_2u.desktop:2
+msgctxt "Name"
+msgid "Equipment 2U"
+msgstr "Thiết bị 2U"
+
+#: plugins/stencilsdocker/stencils/Racks/equipment_3u.desktop:2
+msgctxt "Name"
+msgid "Equipment 3U"
+msgstr "Thiết bị 3U"
+
+#: plugins/stencilsdocker/stencils/Racks/equipment_4u.desktop:2
+msgctxt "Name"
+msgid "Equipment 4U"
+msgstr "Thiết bị 4U"
+
+#: plugins/stencilsdocker/stencils/Racks/equipment_5u.desktop:2
+msgctxt "Name"
+msgid "Equipment 5U"
+msgstr "Thiết bị 5U"
+
+#: plugins/stencilsdocker/stencils/Racks/equipment_6u.desktop:2
+msgctxt "Name"
+msgid "Equipment 6U"
+msgstr "Thiết bị 6U"
+
+#: plugins/stencilsdocker/stencils/Racks/equipment_7u.desktop:2
+msgctxt "Name"
+msgid "Equipment 7U"
+msgstr "Thiết bị 7U"
+
+#: plugins/stencilsdocker/stencils/Racks/equipment_8u.desktop:2
+msgctxt "Name"
+msgid "Equipment 8U"
+msgstr "Thiết bị 8U"
+
+#: plugins/stencilsdocker/stencils/Racks/equipment_9u.desktop:2
+msgctxt "Name"
+msgid "Equipment 9U"
+msgstr "Thiết bị 9U"
+
+#: plugins/stencilsdocker/stencils/Racks/power_strip_bs_7.desktop:2
+msgctxt "Name"
+msgid "Power Strip BS 7"
+msgstr "Ổ cắm điện BS 7"
+
+#: plugins/stencilsdocker/stencils/Racks/power_strip_schuko_8.desktop:2
+msgctxt "Name"
+msgid "Power Strip Schuko 8"
+msgstr "Ổ cắm nguồn điện Schuko 8"
+
+#: plugins/stencilsdocker/stencils/Racks/power_strip_ute_8.desktop:2
+msgctxt "Name"
+msgid "Power Strip UTE 8"
+msgstr "Ổ cắm nguồn điện UTE 8"
+
+#: plugins/stencilsdocker/stencils/Racks/rack_12u.desktop:2
+msgctxt "Name"
+msgid "Rack 12U"
+msgstr "Giá đỡ 12U"
+
+#: plugins/stencilsdocker/stencils/Racks/rack_16u.desktop:2
+msgctxt "Name"
+msgid "Rack 16U"
+msgstr "Giá đỡ 16U"
+
+#: plugins/stencilsdocker/stencils/Racks/rack_20u.desktop:2
+msgctxt "Name"
+msgid "Rack 20U"
+msgstr "Giá đỡ 20U"
+
+#: plugins/stencilsdocker/stencils/Racks/rack_38u.desktop:2
+msgctxt "Name"
+msgid "Rack 38U"
+msgstr "Giá đỡ 38U"
+
+#: plugins/stencilsdocker/stencils/Racks/rack_42u.desktop:2
+msgctxt "Name"
+msgid "Rack 42U"
+msgstr "Giá đỡ 42U"
+
+#: plugins/stencilsdocker/stencils/Racks/rack_label_anchors_42u.desktop:2
+msgctxt "Name"
+msgid "Label Anchors 42U"
+msgstr "Điểm neo nhãn 42U"
+
+#: plugins/stencilsdocker/stencils/RDP/collection.desktop:2
+msgctxt "Name"
+msgid "RDP"
+msgstr "RDP"
+
+#: plugins/stencilsdocker/stencils/RDP/place.desktop:2
+msgctxt "Name"
+msgid "place"
+msgstr "địa điểm"
+
+#: plugins/stencilsdocker/stencils/RDP/place_marquee.desktop:2
+msgctxt "Name"
+msgid "place marquee"
+msgstr "địa điểm marquee"
+
+#: plugins/stencilsdocker/stencils/RDP/transition.desktop:2
+msgctxt "Name"
+msgid "transition"
+msgstr "chuyển tiếp"
+
+#: plugins/stencilsdocker/stencils/RDP/t_transition.desktop:2
+msgctxt "Name"
+msgid "timed transition"
+msgstr "chuyển tiếp định thời"
+
+#: plugins/stencilsdocker/stencils/Renewable_Energy/collection.desktop:2
+msgctxt "Name"
+msgid "Renewable Energy"
+msgstr "Năng lượng tái tạo"
+
+#: plugins/stencilsdocker/stencils/Renewable_Energy/cup_anemometer.desktop:2
+msgctxt "Name"
+msgid "Cup Anemometer"
+msgstr "Máy đo gió kiểu cốc"
+
+#: plugins/stencilsdocker/stencils/Renewable_Energy/data_logger.desktop:2
+msgctxt "Name"
+msgid "Data Logger"
+msgstr "Bộ ghi dữ liệu"
+
+#: plugins/stencilsdocker/stencils/Renewable_Energy/meas_tower.desktop:2
+msgctxt "Name"
+msgid "Wind Measurement Tower"
+msgstr "Tháp Đo Gió"
+
+#: plugins/stencilsdocker/stencils/Renewable_Energy/solar_module.desktop:2
+msgctxt "Name"
+msgid "Solar Module"
+msgstr "Khối năng lượng mặt trời"
+
+#: plugins/stencilsdocker/stencils/Renewable_Energy/temp_humi_sensor.desktop:2
+msgctxt "Name"
+msgid "Temperature and Humidity Sensor"
+msgstr "Cảm biến Nhiệt độ và Độ ẩm"
+
+#: plugins/stencilsdocker/stencils/Renewable_Energy/wind_turbine.desktop:2
+msgctxt "Name"
+msgid "Wind Turbine"
+msgstr "Tuabin gió"
+
+#: plugins/stencilsdocker/stencils/Renewable_Energy/wind_vane.desktop:2
+msgctxt "Name"
+msgid "Wind Vane"
+msgstr "Cánh Gió"
+
+#: plugins/stencilsdocker/stencils/Scenegraph/appearance.desktop:2
+msgctxt "Name"
+msgid "appearance"
+msgstr "diện mạo"
+
+#: plugins/stencilsdocker/stencils/Scenegraph/callback.desktop:2
+msgctxt "Name"
+msgid "callback"
+msgstr "gọi lại"
+
+#: plugins/stencilsdocker/stencils/Scenegraph/camera.desktop:2
+msgctxt "Name"
+msgid "camera"
+msgstr "máy ảnh"
+
+#: plugins/stencilsdocker/stencils/Scenegraph/collection.desktop:2
+msgctxt "Name"
+msgid "Scenegraph"
+msgstr "Đồ thị cảnh"
+
+#: plugins/stencilsdocker/stencils/Scenegraph/component.desktop:2
+msgctxt "Name"
+msgid "component"
+msgstr "thành phần"
+
+#: plugins/stencilsdocker/stencils/Scenegraph/field.desktop:2
+msgctxt "Name"
+msgid "field"
+msgstr "trường"
+
+#: plugins/stencilsdocker/stencils/Scenegraph/group.desktop:2
+msgctxt "Name"
+msgid "group"
+msgstr "nhóm"
+
+#: plugins/stencilsdocker/stencils/Scenegraph/light.desktop:2
+msgctxt "Name"
+msgid "light"
+msgstr "ánh sáng"
+
+#: plugins/stencilsdocker/stencils/Scenegraph/manipulator.desktop:2
+msgctxt "Name"
+msgid "manipulator"
+msgstr "bộ điều khiển"
+
+#: plugins/stencilsdocker/stencils/Scenegraph/metric.desktop:2
+msgctxt "Name"
+msgid "metric"
+msgstr "hệ mét"
+
+#: plugins/stencilsdocker/stencils/Scenegraph/nodekit.desktop:2
+msgctxt "Name"
+msgid "nodekit"
+msgstr "nodekit"
+
+#: plugins/stencilsdocker/stencils/Scenegraph/property.desktop:2
+msgctxt "Name"
+msgid "property"
+msgstr "thuộc tính"
+
+#: plugins/stencilsdocker/stencils/Scenegraph/realtimeglobalfield.desktop:2
+msgctxt "Name"
+msgid "realtimeglobalfield"
+msgstr "trường toàn cục thời gian thực"
+
+#: plugins/stencilsdocker/stencils/Scenegraph/separator.desktop:2
+msgctxt "Name"
+msgid "separator"
+msgstr "phần phân cách"
+
+#: plugins/stencilsdocker/stencils/Scenegraph/shape.desktop:2
+msgctxt "Name"
+msgid "shape"
+msgstr "hình dạng"
+
+#: plugins/stencilsdocker/stencils/Scenegraph/soselection.desktop:2
+msgctxt "Name"
+msgid "soselection"
+msgstr "soselection"
+
+#: plugins/stencilsdocker/stencils/Scenegraph/subgraph.desktop:2
+msgctxt "Name"
+msgid "subgraph"
+msgstr "đồ thị con"
+
+#: plugins/stencilsdocker/stencils/Scenegraph/switch.desktop:2
+msgctxt "Name"
+msgid "switch"
+msgstr "chuyển đổi"
+
+#: plugins/stencilsdocker/stencils/Scenegraph/transform.desktop:2
+msgctxt "Name"
+msgid "transform"
+msgstr "biến đổi"
+
+#: plugins/stencilsdocker/stencils/SDL/block.desktop:2
+msgctxt "Name"
+msgid "Block"
+msgstr "Ngưng trệ"
+
+#: plugins/stencilsdocker/stencils/SDL/collection.desktop:2
+msgctxt "Name"
+msgid "SDL"
+msgstr "SDL"
+
+#: plugins/stencilsdocker/stencils/SDL/comment.desktop:2
+msgctxt "Name"
+msgid "Comment"
+msgstr "Chú thích"
+
+#: plugins/stencilsdocker/stencils/SDL/header.desktop:2
+msgctxt "Name"
+msgid "Function Header"
+msgstr "Đầu tải Chức năng"
+
+#: plugins/stencilsdocker/stencils/SDL/inout.desktop:2
+msgctxt "Name"
+msgid "InOut"
+msgstr "VàoRa"
+
+#: plugins/stencilsdocker/stencils/SDL/macro.desktop:2
+msgctxt "Name"
+msgid "Macro"
+msgstr "Vĩ lệnh"
+
+#: plugins/stencilsdocker/stencils/SDL/note.desktop:2
+msgctxt "Name"
+msgid "Note"
+msgstr "Ghi chú"
+
+#: plugins/stencilsdocker/stencils/SDL/receive.desktop:2
+msgctxt "Name"
+msgid "Receive"
+msgstr "Nhận"
+
+#: plugins/stencilsdocker/stencils/SDL/return.desktop:2
+msgctxt "Name"
+msgid "Return"
+msgstr "Trả về"
+
+#: plugins/stencilsdocker/stencils/SDL/save.desktop:2
+msgctxt "Name"
+msgid "Save"
+msgstr "Lưu"
+
+#: plugins/stencilsdocker/stencils/SDL/send.desktop:2
+msgctxt "Name"
+msgid "Send"
+msgstr "Gửi"
+
+#: plugins/stencilsdocker/stencils/SDL/service.desktop:2
+msgctxt "Name"
+msgid "Service"
+msgstr "Dịch vụ"
+
+#: plugins/stencilsdocker/stencils/SDL/state.desktop:2
+msgctxt "Name"
+msgid "State"
+msgstr "Trạng thái"
+
+#: plugins/stencilsdocker/stencils/SDL/stop.desktop:2
+msgctxt "Name"
+msgid "Stop"
+msgstr "Dừng"
+
+#: plugins/stencilsdocker/stencils/Sybase/client.desktop:2
+msgctxt "Name"
+msgid "Client Application"
+msgstr "Ứng dụng trình khách"
+
+#: plugins/stencilsdocker/stencils/Sybase/collection.desktop:2
+msgctxt "Name"
+msgid "Sybase"
+msgstr "Sybase"
+
+#: plugins/stencilsdocker/stencils/Sybase/dataserver.desktop:2
+msgctxt "Name"
+msgid "Dataserver"
+msgstr "Máy chủ dữ liệu"
+
+#: plugins/stencilsdocker/stencils/Sybase/ltm.desktop:2
+msgctxt "Name"
+msgid "Log Transfer Manager/Rep Agent"
+msgstr "Trình Quản Lý Truyền Nhật Kí/Đại Diện Rep"
+
+#: plugins/stencilsdocker/stencils/Sybase/repserver.desktop:2
+msgctxt "Name"
+msgid "Replication Server"
+msgstr "Máy chủ Sao chép"
+
+#: plugins/stencilsdocker/stencils/Sybase/rsm.desktop:2
+msgctxt "Name"
+msgid "Replication Server Manager"
+msgstr "Trình Quản Lý Máy Chủ Sao Chép"
+
+#: plugins/stencilsdocker/stencils/Sybase/stableq.desktop:2
+msgctxt "Name"
+msgid "Stable Queue"
+msgstr "Hàng đợi ổn định"
+
+#: plugins/stencilsdocker/stencils/Value_Stream_Mapping/collection.desktop:2
+msgctxt "Name"
+msgid "Value Stream Mapping"
+msgstr "Lập bản đồ dòng giá trị"
+
+#: plugins/stencilsdocker/stencils/Value_Stream_Mapping/happy_face.desktop:2
+msgctxt "Name"
+msgid "Happy Face"
+msgstr "Mặt Cười"
+
+#: servicetypes/calligra_application.desktop:4
+msgctxt "Comment"
+msgid "Calligra Application"
+msgstr "Ứng dụng Calligra"
+
+#: servicetypes/calligra_deferred_plugin.desktop:2
+msgctxt "Name"
+msgid "Calligra Deferred Loading Plugin"
+msgstr "Phần cài cắm tải trễ Calligra"
+
+#: servicetypes/calligra_filter.desktop:4
+msgctxt "Comment"
+msgid "Calligra Filter"
+msgstr "Bộ lọc Calligra"
+
+#: servicetypes/calligra_part.desktop:4
+msgctxt "Comment"
+msgid "Calligra Component"
+msgstr "Thành phần Calligra"
+
+#: sheets/app/org.kde.calligrasheets.desktop:2
+msgctxt "Name"
+msgid "Calligra Sheets"
+msgstr "Calligra Sheets"
+
+#: sheets/app/org.kde.calligrasheets.desktop:44
+msgctxt "GenericName"
+msgid "Spreadsheet"
+msgstr "Bảng tính"
+
+#: sheets/app/org.kde.calligrasheets.desktop:94
+msgctxt "Comment"
+msgid "Write spreadsheet documents"
+msgstr "Viết tài liệu bảng tính"
+
+#: sheets/data/templates/Business/BalanceSheet.desktop:4
+msgctxt "Name"
+msgid "Balance Sheet"
+msgstr "Bảng cân đối kế toán"
+
+#: sheets/data/templates/Business/.directory:2
+#: stage/templates/odf/business.desktop:3
+msgctxt "Name"
+msgid "Business"
+msgstr "Kinh doanh"
+
+#: sheets/data/templates/Business/ExpenseReport.desktop:4
+msgctxt "Name"
+msgid "Expense Report"
+msgstr "Báo cáo chi phí"
+
+#: sheets/data/templates/Business/Invoice.desktop:4
+msgctxt "Name"
+msgid "Invoice"
+msgstr "Hóa đơn"
+
+#: sheets/data/templates/Business/PackingSlip.desktop:4
+msgctxt "Name"
+msgid "Packing Slip"
+msgstr "Phiếu đóng gói"
+
+#: sheets/data/templates/Business/PriceQuotation.desktop:4
+msgctxt "Name"
+msgid "Price Quotation"
+msgstr "Báo Giá"
+
+#: sheets/data/templates/General/.directory:2
+msgctxt "Name"
+msgid "General"
+msgstr "Chung"
+
+#: sheets/data/templates/General/StudentIDCard.desktop:4
+msgctxt "Name"
+msgid "Student ID Card"
+msgstr "Thẻ mã định danh sinh viên"
+
+#: sheets/data/templates/General/Worksheet.desktop:4
+msgctxt "Name"
+msgid "Blank Worksheet"
+msgstr "Bảng tính trống"
+
+#: sheets/data/templates/HomeFamily/BMI.desktop:4
+msgctxt "Name"
+msgid "BMI Calculator"
+msgstr "Máy tính BMI"
+
+#: sheets/data/templates/HomeFamily/BMI.desktop:59
+msgctxt "Comment"
+msgid "Simple Body Mass Index Calculator"
+msgstr "Máy tính Chỉ số Khối cơ thể Đơn giản"
+
+#: sheets/data/templates/HomeFamily/CreditCardTracker.desktop:4
+msgctxt "Name"
+msgid "Credit Card Tracker"
+msgstr "Theo dõi thẻ tín dụng"
+
+#: sheets/data/templates/HomeFamily/.directory:2
+msgctxt "Name"
+msgid "Home and Family"
+msgstr "Gia đình và Nhà cửa"
+
+#: sheets/data/templates/HomeFamily/MenuPlan.desktop:4
+msgctxt "Name"
+msgid "Menu Plan"
+msgstr "Kế hoạch trình đơn"
+
+#: sheets/data/templates/HomeFamily/VacationChecklist.desktop:4
+msgctxt "Name"
+msgid "Vacation Checklist"
+msgstr "Danh sách kiểm tra kỳ nghỉ"
+
+#: sheets/sheets_plugin.desktop:4
+msgctxt "Comment"
+msgid "Plugin for Calligra Sheets"
+msgstr "Phần cài cắm cho Calligra Sheets"
+
+#: sheets/sheets_viewplugin.desktop:4
+msgctxt "Comment"
+msgid "GUI functionality for Sheets"
+msgstr "Chức năng giao diện cho Sheets"
+
+#: stage/app/org.kde.calligrastage.desktop:3
+msgctxt "Name"
+msgid "Calligra Stage"
+msgstr "Calligra Chấp nhận"
+
+#: stage/app/org.kde.calligrastage.desktop:46
+msgctxt "GenericName"
+msgid "Presentation"
+msgstr "Trình chiếu"
+
+#: stage/app/org.kde.calligrastage.desktop:99
+msgctxt "Comment"
+msgid "Write presentation documents"
+msgstr "Viết tài liệu trình bày"
+
+#: stage/data/kpr_pageeffect.desktop:4
+msgctxt "Comment"
+msgid "Page effect plugin for Calligra Stage"
+msgstr "Phần cài cắm hiệu ứng trang cho Calligra Stage"
+
+#: stage/data/kpr_shapeanimation.desktop:4
+msgctxt "Comment"
+msgid "Shape animation plugin for Calligra Stage"
+msgstr "Phần cài cắm hiệu ứng động hình dạng cho Calligra Stage"
+
+#: stage/data/kpr_tool.desktop:4
+msgctxt "Comment"
+msgid "Tool for Calligra Stage"
+msgstr "Công cụ cho Calligra chấp nhận"
+
+#: stage/templates/common_desktop/emptyLandscape.desktop:3
+msgctxt "Name"
+msgid "Empty"
+msgstr "Trống"
+
+#: stage/templates/common_desktop/emptyLandscape.desktop:67
+msgctxt "Comment"
+msgid "Empty presentation"
+msgstr "Bài thuyết trình trống"
+
+#: stage/templates/common_desktop/emptyLandscapeWide.desktop:3
+msgctxt "Name"
+msgid "Empty 16:10"
+msgstr "Trống 16:10"
+
+#: stage/templates/common_desktop/emptyLandscapeWide.desktop:49
+msgctxt "Comment"
+msgid "Empty presentation 10:16"
+msgstr "Bài thuyết trình trống 10:16"
+
+#: stage/templates/odf/blue_orange_vector.desktop:3
+msgctxt "Name"
+msgid "Blue Orange Vector"
+msgstr "Vector Xanh Cam"
+
+#: stage/templates/odf/blue_orange_vector.desktop:39
+msgctxt "Comment"
+msgid "Blue Orange Vector"
+msgstr "Vector Xanh Cam"
+
+#: stage/templates/odf/burning_desire.desktop:3
+msgctxt "Name"
+msgid "Burning Desire"
+msgstr "Khát Khao Cháy Bỏng"
+
+#: stage/templates/odf/burning_desire.desktop:38
+msgctxt "Comment"
+msgid "Burning Desire"
+msgstr "Khát Khao Cháy Bỏng"
+
+#: stage/templates/odf/business.desktop:65
+msgctxt "Comment"
+msgid "Business"
+msgstr "Kinh doanh"
+
+#: stage/templates/odf/cohere-blue.desktop:3
+#: stage/templates/odf/cohere-gold.desktop:3
+#: stage/templates/odf/cohere-magenta.desktop:3
+#: stage/templates/odf/cohere-red.desktop:3
+msgctxt "Name"
+msgid "Cohere"
+msgstr "Kết hợp"
+
+#: stage/templates/odf/cohere-blue.desktop:32
+#: stage/templates/odf/cohere-gold.desktop:32
+#: stage/templates/odf/cohere-magenta.desktop:32
+#: stage/templates/odf/cohere-red.desktop:32
+msgctxt "Comment"
+msgid "Cohere designed presentation template"
+msgstr "Bản mẫu trình bày được thiết kế Cohere"
+
+#: stage/templates/odf/curious_penguin.desktop:3
+msgctxt "Name"
+msgid "Curious Penguin"
+msgstr "Chim Cánh Cụt Tò Mò"
+
+#: stage/templates/odf/curious_penguin.desktop:39
+msgctxt "Comment"
+msgid "Curious Penguin"
+msgstr "Chim cánh cụt tò mò"
+
+#: stage/templates/odf/.directory:2
+msgctxt "Name"
+msgid "Templates"
+msgstr "Mẫu"
+
+#: stage/templates/odf/flood_light.desktop:3
+msgctxt "Name"
+msgid "Flood Light"
+msgstr "Ánh sáng tràn"
+
+#: stage/templates/odf/flood_light.desktop:38
+msgctxt "Comment"
+msgid "Flood Light"
+msgstr "Đèn Pha"
+
+#: stage/templates/odf/kde_events.desktop:3
+msgctxt "Name"
+msgid "KDE Events"
+msgstr "Sự kiện KDE"
+
+#: stage/templates/odf/kde_events.desktop:42
+msgctxt "Comment"
+msgid "KDE Events"
+msgstr "Sự kiện KDE"
+
+#: stage/templates/odf/rounded_square.desktop:3
+msgctxt "Name"
+msgid "Rounded Square"
+msgstr "Hình Vuông Bo Góc"
+
+#: stage/templates/odf/rounded_square.desktop:41
+msgctxt "Comment"
+msgid "Rounded Square"
+msgstr "Hình vuông bo góc"
+
+#: stage/templates/odf/simple_waves.desktop:3
+msgctxt "Name"
+msgid "Simple Waves"
+msgstr "Sóng Đơn Giản"
+
+#: stage/templates/odf/simple_waves.desktop:42
+msgctxt "Comment"
+msgid "Simple Waves"
+msgstr "Sóng Đơn Giản"
+
+#: stage/templates/odf/skyline_monotone.desktop:3
+#: stage/templates/odf/skyline_morning.desktop:3
+#: stage/templates/odf/skyline_night.desktop:3
+msgctxt "Name"
+msgid "Skyline"
+msgstr "Đường chân trời"
+
+#: stage/templates/odf/skyline_monotone.desktop:35
+msgctxt "Comment"
+msgid "Skyline Monotone"
+msgstr "Đường chân trời đơn sắc"
+
+#: stage/templates/odf/skyline_monotone_wide.desktop:3
+#: stage/templates/odf/skyline_morning_wide.desktop:3
+#: stage/templates/odf/skyline_night_wide.desktop:3
+msgctxt "Name"
+msgid "Skyline Wide"
+msgstr "Đường chân trời Rộng"
+
+#: stage/templates/odf/skyline_monotone_wide.desktop:36
+msgctxt "Comment"
+msgid "Skyline Monotone Wide"
+msgstr "Đường chân trời đơn sắc rộng"
+
+#: stage/templates/odf/skyline_morning.desktop:35
+msgctxt "Comment"
+msgid "Skyline Morning"
+msgstr "Đường chân trời buổi sáng"
+
+#: stage/templates/odf/skyline_morning_wide.desktop:36
+msgctxt "Comment"
+msgid "Skyline Morning Wide"
+msgstr "Đường chân trời buổi sáng rộng"
+
+#: stage/templates/odf/skyline_night.desktop:35
+msgctxt "Comment"
+msgid "Skyline Night"
+msgstr "Đường chân trời ban đêm"
+
+#: stage/templates/odf/skyline_night_wide.desktop:36
+msgctxt "Comment"
+msgid "Skyline Night Wide"
+msgstr "Đường chân trời Ban đêm Rộng"
+
+#: stage/templates/odf/strange_far_hills.desktop:3
+msgctxt "Name"
+msgid "Strange Far Hills"
+msgstr "Những Ngọn Đồi Xa Lạ"
+
+#: stage/templates/odf/strange_far_hills.desktop:38
+msgctxt "Comment"
+msgid "Strange Far Hills"
+msgstr "Những Ngọn Đồi Xa Lạ"
+
+#: stage/templates/Screen/.directory:2
+msgctxt "Name"
+msgid "Screen"
+msgstr "Màn hình"
+
+#: words/app/org.kde.calligrawords.desktop:47
+msgctxt "GenericName"
+msgid "Word Processor"
+msgstr "Trình xử lý văn bản"
+
+#: words/app/org.kde.calligrawords.desktop:100
+msgctxt "Comment"
+msgid "Write documents"
+msgstr "Viết tài liệu"
+
+#: words/templates/Wordprocessing/A4.desktop:4
+msgctxt "Name"
+msgid "Blank Document"
+msgstr "Tài liệu trống"
+
+#: words/templates/Wordprocessing/A4.desktop:60
+msgctxt "Comment"
+msgid "Creates a blank A4 document, with a small page margin."
+msgstr "Tạo tài liệu A4 trống với lề trang nhỏ."
+
+#: words/templates/Wordprocessing/ColorfulLetter.desktop:4
+msgctxt "Name"
+msgid "Colorful Document"
+msgstr "Tài liệu Nhiều màu"
+
+#: words/templates/Wordprocessing/ColorfulLetter.desktop:60
+msgctxt "Comment"
+msgid "A two-column template with stylishly colored headers and footers"
+msgstr "Bản mẫu hai cột với đầu trang và chân trang màu sắc phong cách"
+
+#: words/templates/Wordprocessing/.directory:2
+msgctxt "Name"
+msgid "Blank Documents"
+msgstr "Tài liệu trống"
+
+#: words/templates/Wordprocessing/FaxLetter.desktop:4
+msgctxt "Name"
+msgid "Fax Template"
+msgstr "Bản mẫu fax"
+
+#: words/templates/Wordprocessing/FaxLetter.desktop:65
+msgctxt "Comment"
+msgid "A template to quickly create a facsimile communication"
+msgstr "Một bản mẫu để nhanh chóng tạo liên lạc fax"
+
+#: words/templates/Wordprocessing/ProfessionalLetter.desktop:4
+msgctxt "Name"
+msgid "Professional Letter"
+msgstr "Thư Chuyên Nghiệp"
+
+#: words/templates/Wordprocessing/ProfessionalLetter.desktop:59
+msgctxt "Comment"
+msgid ""
+"Creates a blank document with wide margins for professional looking documents"
+msgstr "Tạo tài liệu trống với lề rộng cho các văn bản chuyên nghiệp"

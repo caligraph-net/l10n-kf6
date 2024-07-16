@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2023-11-05 12:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: component/name
+#: org.kde.karbon.appdata.xml:6
+msgid "Karbon"
+msgstr "Karbon"
+
+#. (itstool) path: component/summary
+#: org.kde.karbon.appdata.xml:7
+msgid "Scalable Graphics"
+msgstr "Đồ họa có thể co giãn"
+
+#. (itstool) path: description/p
+#: org.kde.karbon.appdata.xml:9
+msgid "Karbon is a vector drawing application with a user interface that is easy to use, highly customizable and extensible. That makes Karbon a great application for users starting to explore the world of vector graphics as well as for artists wanting to create breathtaking vector art."
+msgstr ""
+"Karbon là ứng dụng vẽ vector với giao diện dễ sử dụng, tùy biến cao và mở "
+"rộng được. Điều này khiến Karbon trở thành ứng dụng tuyệt vời cho người mới "
+"bắt đầu khám phá đồ họa vector cũng như cho nghệ sĩ muốn tạo ra tác phẩm "
+"vector ấn tượng."
+
+#. (itstool) path: description/p
+#: org.kde.karbon.appdata.xml:14
+msgid "Features:"
+msgstr "Tính năng:"
+
+#. (itstool) path: ul/li
+#: org.kde.karbon.appdata.xml:16
+msgid "Loading support for ODG, SVG, WPG, WMF, EPS/PS"
+msgstr "Hỗ trợ tải ODG, SVG, WPG, WMF, EPS/PS"
+
+#. (itstool) path: ul/li
+#: org.kde.karbon.appdata.xml:19
+msgid "Writing support for ODG, SVG, PNG, PDF, WMF"
+msgstr "Hỗ trợ ghi ODG, SVG, PNG, PDF, WMF"
+
+#. (itstool) path: ul/li
+#: org.kde.karbon.appdata.xml:22
+msgid "Customizable user interface with freely placeable toolbars and dockers"
+msgstr "Giao diện người dùng tùy chỉnh với thanh công cụ và dock có thể đặt tự do"
+
+#. (itstool) path: ul/li
+#: org.kde.karbon.appdata.xml:25
+msgid "Layer docker for easy handling of complex documents including preview thumbnails, support for grouping shapes via drag and drop, controlling visibility of shapes or locking"
+msgstr ""
+"Docker lớp để xử lý dễ dàng tài liệu phức tạp, bao gồm xem thử hình thu "
+"nhỏ, hỗ trợ nhóm hình dạng bằng kéo thả, kiểm soát tính khả kiến hoặc khóa "
+"hình dạng"
+
+#. (itstool) path: ul/li
+#: org.kde.karbon.appdata.xml:29
+msgid "Advanced path editing tool with great on-canvas editing capabilities"
+msgstr ""
+"Công cụ chỉnh sửa đường dẫn nâng cao với khả năng chỉnh sửa trên canvas "
+"tuyệt vời"
+
+#. (itstool) path: ul/li
+#: org.kde.karbon.appdata.xml:32
+msgid "Various drawing tools for creating path shapes including a draw path tool, a pencil tool as well as a calligraphy drawing tool"
+msgstr ""
+"Các công cụ vẽ khác nhau để tạo hình dạng đường dẫn bao gồm công cụ vẽ "
+"đường dẫn, công cụ bút chì và công cụ vẽ thư pháp"
+
+#. (itstool) path: ul/li
+#: org.kde.karbon.appdata.xml:35
+msgid "Gradient and pattern tools for easy on-canvas editing of gradient and pattern styles"
+msgstr "Công cụ dốc màu và dạng mẫu để chỉnh sửa trực tiếp trên vùng vẽ"
+
+#. (itstool) path: ul/li
+#: org.kde.karbon.appdata.xml:38
+msgid "Top notch snapping facilities for guided drawing and editing (e.g. snapping to grid, guide lines, path nodes, bounding boxes, orthogonal positions, intersections of path shapes or extensions of lines and paths)"
+msgstr ""
+"Tính năng bám dính hàng đầu để hướng dẫn vẽ và chỉnh sửa (ví dụ: bám vào "
+"lưới, đường dẫn, nút đường dẫn, hộp giới hạn, vị trí trực giao, giao điểm "
+"của hình dạng đường dẫn hoặc phần mở rộng của đường thẳng và đường dẫn)"
+
+#. (itstool) path: ul/li
+#: org.kde.karbon.appdata.xml:42
+msgid "Includes many predefined shapes including basic shapes like stars, circle/ellipse, rectangle, image"
+msgstr ""
+"Bao gồm nhiều hình dạng có sẵn như hình cơ bản: sao, tròn/elip, chữ nhật, "
+"ảnh"
+
+#. (itstool) path: ul/li
+#: org.kde.karbon.appdata.xml:45
+msgid "Artistic text shape with support for following path outlines (i.e. text on path)"
+msgstr "Hình dạng văn bản nghệ thuật hỗ trợ theo đường viền (tức là chữ trên đường)"
+
+#. (itstool) path: ul/li
+#: org.kde.karbon.appdata.xml:48
+msgid "Complex path operations and effects like boolean set operations, path flattening, rounding and refining as well as whirl/pinch effects"
+msgstr ""
+"Thao tác và hiệu ứng đường dẫn phức tạp như thao tác tập hợp luận lí, làm "
+"phẳng đường dẫn, làm tròn và tinh chỉnh cũng như hiệu ứng xoáy/véo"
+
+#. (itstool) path: ul/li
+#: org.kde.karbon.appdata.xml:51
+msgid "Extensible by writing plugins for new tools, shapes and dockers"
+msgstr ""
+"Có thể mở rộng bằng cách viết phần bổ trợ cho công cụ, hình dạng và thanh "
+"docker mới"
