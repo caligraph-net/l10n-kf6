@@ -1,0 +1,117 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the powerdevil package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: powerdevil\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-18 00:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: PowerButtonActionModel.cpp:32
+#, kde-format
+msgid "Do nothing"
+msgstr "Không làm gì"
+
+#: PowerButtonActionModel.cpp:41
+#, kde-format
+msgctxt "Suspend to RAM"
+msgid "Sleep"
+msgstr "Ngủ"
+
+#: PowerButtonActionModel.cpp:51
+#, kde-format
+msgid "Hibernate"
+msgstr "Ngủ đông"
+
+#: PowerButtonActionModel.cpp:60
+#, kde-format
+msgctxt "Power down the computer"
+msgid "Shut down"
+msgstr "Tắt máy"
+
+#: PowerButtonActionModel.cpp:68
+#, kde-format
+msgid "Lock screen"
+msgstr "Khóa màn hình"
+
+#: PowerButtonActionModel.cpp:76
+#, kde-format
+msgid "Show logout screen"
+msgstr "Hiện màn hình đăng xuất"
+
+#: PowerButtonActionModel.cpp:84
+#, kde-format
+msgid "Turn off screen"
+msgstr "Tắt màn hình"
+
+#: PowerButtonActionModel.cpp:92
+#, kde-format
+msgid "Toggle screen on/off"
+msgstr "Bật/tắt màn hình"
+
+#: PowerProfileModel.cpp:40
+#, kde-format
+msgctxt "@option:combobox Power profile"
+msgid "Power Save"
+msgstr "Tiết kiệm nguồn điện"
+
+#: PowerProfileModel.cpp:41
+#, kde-format
+msgctxt "@option:combobox Power profile"
+msgid "Balanced"
+msgstr "Cân bằng"
+
+#: PowerProfileModel.cpp:42
+#, kde-format
+msgctxt "@option:combobox Power profile"
+msgid "Performance"
+msgstr "Hiệu suất"
+
+#: PowerProfileModel.cpp:47
+#, kde-format
+msgid "Leave unchanged"
+msgstr "Giữ nguyên"
+
+#: SleepModeModel.cpp:21
+#, kde-format
+msgctxt "Suspend to RAM"
+msgid "Standby"
+msgstr "Chờ"
+
+#: SleepModeModel.cpp:22
+#, kde-format
+msgctxt "Subtitle description for 'Standby' sleep option"
+msgid "Save session to memory"
+msgstr "Lưu phiên vào bộ nhớ"
+
+#: SleepModeModel.cpp:29
+#, kde-format
+msgid "Hybrid sleep"
+msgstr "Ngủ đông kết hợp"
+
+#: SleepModeModel.cpp:30
+#, kde-format
+msgctxt "Subtitle description for 'Hybrid sleep' sleep option"
+msgid "Save session to both memory and disk"
+msgstr "Lưu phiên vào cả bộ nhớ và ổ đĩa"
+
+#: SleepModeModel.cpp:37
+#, kde-format
+msgid "Standby, then hibernate"
+msgstr "Chờ, sau đó ngủ đông"
+
+#: SleepModeModel.cpp:38
+#, kde-format
+msgctxt "Subtitle description for 'Standby, then hibernate' sleep option"
+msgid "Switch to hibernation after a period of inactivity"
+msgstr "Chuyển sang chế độ ngủ đông sau một thời gian không hoạt động"

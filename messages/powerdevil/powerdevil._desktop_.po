@@ -1,0 +1,219 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-04 00:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: daemon/chargethreshold_helper_actions.actions:2
+#: daemon/controllers/backlight_helper_actions.actions:2
+#: daemon/discretegpu_helper_actions.actions:2
+msgctxt "Name"
+msgid "KDE"
+msgstr "KDE"
+
+#: daemon/chargethreshold_helper_actions.actions:62
+msgctxt "Name"
+msgid "Get current battery charge limit"
+msgstr "Lấy giới hạn sạc pin hiện tại"
+
+#: daemon/chargethreshold_helper_actions.actions:108
+msgctxt "Description"
+msgid "Authenticate to see the current battery charge limit."
+msgstr "Xác thực để xem giới hạn sạc pin hiện tại."
+
+#: daemon/chargethreshold_helper_actions.actions:151
+msgctxt "Name"
+msgid "Set battery charge limit"
+msgstr "Đặt giới hạn sạc pin"
+
+#: daemon/chargethreshold_helper_actions.actions:197
+msgctxt "Description"
+msgid "Authenticate to set the battery charge limit."
+msgstr "Xác thực để đặt giới hạn sạc pin."
+
+#: daemon/chargethreshold_helper_actions.actions:240
+msgctxt "Name"
+msgid "Check battery conservation mode"
+msgstr "Kiểm tra chế độ bảo toàn pin"
+
+#: daemon/chargethreshold_helper_actions.actions:269
+msgctxt "Description"
+msgid "Authenticate to check the current state of battery conservation mode."
+msgstr "Xác thực để kiểm tra trạng thái hiện tại của chế độ bảo tồn pin."
+
+#: daemon/chargethreshold_helper_actions.actions:302
+msgctxt "Name"
+msgid "Set battery conservation mode"
+msgstr "Đặt chế độ bảo tồn pin"
+
+#: daemon/chargethreshold_helper_actions.actions:331
+msgctxt "Description"
+msgid "Authenticate to set the battery conservation mode."
+msgstr "Xác thực để thiết lập chế độ bảo tồn pin."
+
+#: daemon/controllers/backlight_helper_actions.actions:62
+msgctxt "Name"
+msgid "Get maximum brightness value"
+msgstr "Lấy giá trị độ sáng tối đa"
+
+#: daemon/controllers/backlight_helper_actions.actions:118
+msgctxt "Description"
+msgid "Authenticate to see the maximum brightness level."
+msgstr "Xác thực để xem mức độ sáng tối đa."
+
+#: daemon/controllers/backlight_helper_actions.actions:161
+msgctxt "Name"
+msgid "Get brightness"
+msgstr "Lấy độ sáng"
+
+#: daemon/controllers/backlight_helper_actions.actions:217
+msgctxt "Description"
+msgid "Authenticate to see the brightness level."
+msgstr "Xác thực để xem mức độ sáng."
+
+#: daemon/controllers/backlight_helper_actions.actions:260
+msgctxt "Name"
+msgid "Set brightness"
+msgstr "Đặt độ sáng"
+
+#: daemon/controllers/backlight_helper_actions.actions:316
+msgctxt "Description"
+msgid "Authenticate to set the brightness level."
+msgstr "Xác thực để đặt mức độ sáng."
+
+#: daemon/controllers/backlight_helper_actions.actions:358
+msgctxt "Name"
+msgid "Get syspath"
+msgstr "Lấy syspath"
+
+#: daemon/controllers/backlight_helper_actions.actions:412
+msgctxt "Description"
+msgid "Authenticate to see the syspath."
+msgstr "Xác thực để xem đường dẫn hệ thống."
+
+#: daemon/discretegpu_helper_actions.actions:62
+msgctxt "Name"
+msgid "Check for existence of discrete GPU"
+msgstr "Kiểm tra sự tồn tại của GPU rời"
+
+#: daemon/discretegpu_helper_actions.actions:101
+msgctxt "Description"
+msgid "Authenticate to check for the existence of a discrete GPU."
+msgstr "Xác thực để kiểm tra sự tồn tại của GPU rời."
+
+#: daemon/powerdevil.desktop.cmake:4 powerdevil.notifyrc:2
+msgctxt "Name"
+msgid "Power Management"
+msgstr "Quản lý nguồn điện"
+
+#: daemon/powerdevil.desktop.cmake:65
+msgctxt "Comment"
+msgid "Battery, Display and CPU power management and notification"
+msgstr "Quản lý và thông báo về nguồn điện cho pin, bộ hiển thị và CPU"
+
+#: powerdevil.notifyrc:58
+msgctxt "Comment"
+msgid "Power Management System"
+msgstr "Hệ thống Quản lý Nguồn điện"
+
+#: powerdevil.notifyrc:116
+msgctxt "Name"
+msgid "Warning"
+msgstr "Cảnh báo"
+
+#: powerdevil.notifyrc:171
+msgctxt "Comment"
+msgid "Used for warning notifications"
+msgstr "Dùng cho thông báo cảnh báo"
+
+#: powerdevil.notifyrc:228
+msgctxt "Name"
+msgid "Notification"
+msgstr "Thông báo"
+
+#: powerdevil.notifyrc:284
+msgctxt "Comment"
+msgid "Used for standard notifications"
+msgstr "Dùng cho thông báo tiêu chuẩn"
+
+#: powerdevil.notifyrc:341
+msgctxt "Name"
+msgid "Critical notification"
+msgstr "Thông báo quan trọng"
+
+#: powerdevil.notifyrc:396
+msgctxt "Comment"
+msgid "Notifies a critical event"
+msgstr "Thông báo sự kiện quan trọng"
+
+#: powerdevil.notifyrc:453
+msgctxt "Name"
+msgid "Battery Low"
+msgstr "Pin Yếu"
+
+#: powerdevil.notifyrc:508
+msgctxt "Comment"
+msgid "Your battery has reached low level"
+msgstr "Pin của bạn đã xuống mức thấp"
+
+#: powerdevil.notifyrc:569
+msgctxt "Name"
+msgid "Battery Critical"
+msgstr "Pin Nguy Kịch"
+
+#: powerdevil.notifyrc:624
+msgctxt "Comment"
+msgid ""
+"Your battery has reached critical level. This notification triggers a "
+"countdown before doing the configured action, hence it is strongly advised "
+"to leave that on."
+msgstr ""
+"Pin của bạn đã đạt mức cực kỳ thấp. Thông báo này kích hoạt đếm ngược trước "
+"khi thực hiện hành động đã cấu hình, nên rất khuyến khích để nó bật."
+
+#: powerdevil.notifyrc:685
+msgctxt "Name"
+msgid "Charge Complete"
+msgstr "Sạc Hoàn Tất"
+
+#: powerdevil.notifyrc:739
+msgctxt "Comment"
+msgid "The battery is fully charged"
+msgstr "Pin đã sạc đầy"
+
+#: powerdevil.notifyrc:799
+msgctxt "Name"
+msgid "Peripheral Battery Low"
+msgstr "Pin Thiết Bị Ngoại Vi Yếu"
+
+#: powerdevil.notifyrc:851
+msgctxt "Comment"
+msgid "The battery in a connected device, such as mouse or keyboard, is low"
+msgstr "Pin của thiết bị kết nối, như chuột hoặc bàn phím, yếu"
+
+#: powerdevil.notifyrc:909
+msgctxt "Name"
+msgid "Power source connected"
+msgstr "Đã kết nối nguồn điện"
+
+#: powerdevil.notifyrc:955
+msgctxt "Comment"
+msgid "The power source has been connected"
+msgstr "Đã kết nối nguồn điện"
+
+#: powerdevil.notifyrc:1007
+msgctxt "Name"
+msgid "Power source disconnected"
+msgstr "Ngắt kết nối nguồn điện"
+
+#: powerdevil.notifyrc:1053
+msgctxt "Comment"
+msgid "The power source has been disconnected"
+msgstr "Nguồn điện đã bị ngắt kết nối"

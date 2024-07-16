@@ -1,0 +1,352 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the powerdevil package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: powerdevil\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-29 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Địa chỉ email của bạn"
+
+#: actions/bundled/brightnesscontrol.cpp:39
+#: actions/bundled/dpms.cpp:73 actions/bundled/handlebuttonevents.cpp:44
+#: actions/bundled/keyboardbrightnesscontrol.cpp:47
+#, kde-format
+msgctxt "Name for powerdevil shortcuts category"
+msgid "Power Management"
+msgstr "Quản lý nguồn điện"
+
+#: actions/bundled/brightnesscontrol.cpp:42
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Increase Screen Brightness"
+msgstr "Tăng Độ Sáng Màn Hình"
+
+#: actions/bundled/brightnesscontrol.cpp:47
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Increase Screen Brightness by 1%"
+msgstr "Tăng độ sáng màn hình 1%"
+
+#: actions/bundled/brightnesscontrol.cpp:52
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Decrease Screen Brightness"
+msgstr "Giảm Độ Sáng Màn Hình"
+
+#: actions/bundled/brightnesscontrol.cpp:57
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Decrease Screen Brightness by 1%"
+msgstr "Giảm độ sáng màn hình 1%"
+
+#: actions/bundled/dpms.cpp:76
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Turn Off Screen"
+msgstr "Tắt Màn Hình"
+
+#: actions/bundled/handlebuttonevents.cpp:49
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Suspend"
+msgstr "Tạm ngưng"
+
+#: actions/bundled/handlebuttonevents.cpp:54
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Hibernate"
+msgstr "Ngủ đông"
+
+#: actions/bundled/handlebuttonevents.cpp:59
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Power Off"
+msgstr "Tắt nguồn"
+
+#: actions/bundled/handlebuttonevents.cpp:73
+#, kde-format
+msgctxt ""
+"@action:inmenu Global shortcut, used for long presses of the power button"
+msgid "Power Down"
+msgstr "Tắt nguồn"
+
+#: actions/bundled/keyboardbrightnesscontrol.cpp:51
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Increase Keyboard Brightness"
+msgstr "Tăng độ sáng bàn phím"
+
+#: actions/bundled/keyboardbrightnesscontrol.cpp:56
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Decrease Keyboard Brightness"
+msgstr "Giảm Độ Sáng Bàn Phím"
+
+#: actions/bundled/keyboardbrightnesscontrol.cpp:61
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Toggle Keyboard Backlight"
+msgstr "Bật/Tắt Đèn Nền Bàn Phím"
+
+#: controllers/backlightbrightness.cpp:164
+#, kde-format
+msgctxt "Display label"
+msgid "Built-in Screen"
+msgstr "Màn hình tích hợp"
+
+#: controllers/kwinbrightness.cpp:132
+#, kde-format
+msgctxt "Display label: vendor + product name"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: powerdevilapp.cpp:55
+#, kde-format
+msgid "KDE Power Management System"
+msgstr "Hệ thống Quản lý Nguồn điện KDE"
+
+#: powerdevilapp.cpp:57
+#, kde-format
+msgctxt "@title"
+msgid ""
+"PowerDevil, an advanced, modular and lightweight power management daemon"
+msgstr "PowerDevil, trình nền quản lý nguồn điện tiên tiến, mô-đun và nhẹ"
+
+#: powerdevilapp.cpp:59
+#, kde-format
+msgctxt "@info:credit"
+msgid "(c) 2015-2019 Kai Uwe Broulik"
+msgstr "(c) 2015-2019 Kai Uwe Broulik"
+
+#: powerdevilapp.cpp:60
+#, kde-format
+msgctxt "@info:credit"
+msgid "Kai Uwe Broulik"
+msgstr "Kai Uwe Broulik"
+
+#: powerdevilapp.cpp:60
+#, kde-format
+msgctxt "@info:credit"
+msgid "Maintainer"
+msgstr "Người bảo trì"
+
+#: powerdevilapp.cpp:61
+#, kde-format
+msgctxt "@info:credit"
+msgid "Dario Freddi"
+msgstr "Dario Freddi"
+
+#: powerdevilapp.cpp:61
+#, kde-format
+msgctxt "@info:credit"
+msgid "Previous maintainer"
+msgstr "Người bảo trì trước"
+
+#: powerdevilapp.cpp:103
+#, kde-format
+msgid "Switch Power Profile"
+msgstr "Chuyển hồ sơ nguồn điện"
+
+#: powerdevilapp.cpp:118
+#, kde-format
+msgid "Replace an existing instance"
+msgstr "Thay thế một hiện thể đang tồn tại"
+
+#: powerdevilcore.cpp:378 powerdevilcore.cpp:389
+#, kde-format
+msgid "Activity Manager"
+msgstr "Trình quản lý Hoạt động"
+
+#: powerdevilcore.cpp:379
+#, kde-format
+msgid "This activity's policies prevent the system from going to sleep"
+msgstr "Chính sách của hoạt động này ngăn hệ thống chuyển sang chế độ ngủ"
+
+#: powerdevilcore.cpp:390
+#, kde-format
+msgid "This activity's policies prevent screen power management"
+msgstr "Chính sách của hoạt động này ngăn quản lý nguồn điện màn hình"
+
+#: powerdevilcore.cpp:452
+#, kde-format
+msgid "Extra Battery Added"
+msgstr "Đã Thêm Pin Phụ"
+
+#: powerdevilcore.cpp:453 powerdevilcore.cpp:673
+#, kde-format
+msgid "The computer will no longer go to sleep."
+msgstr "Máy tính sẽ không còn chuyển sang chế độ ngủ."
+
+#: powerdevilcore.cpp:517
+#, kde-format
+msgctxt "%1 is vendor name, %2 is product name"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: powerdevilcore.cpp:520
+#, kde-format
+msgctxt "The battery in an external device"
+msgid "Device Battery Low (%1% Remaining)"
+msgstr "Pin Thiết Bị Yếu (Còn %1%)"
+
+#: powerdevilcore.cpp:522
+#, kde-format
+msgctxt "Placeholder is device name"
+msgid ""
+"The battery in \"%1\" is running low, and the device may turn off at any "
+"time. Please recharge or replace the battery."
+msgstr ""
+"Pin trong \"%1\" sắp hết, và thiết bị có thể tắt bất cứ lúc nào. Vui lòng "
+"sạc hoặc thay pin."
+
+#: powerdevilcore.cpp:529
+#, kde-format
+msgid "Mouse Battery Low (%1% Remaining)"
+msgstr "Pin Chuột Yếu (Còn %1%)"
+
+#: powerdevilcore.cpp:533
+#, kde-format
+msgid "Keyboard Battery Low (%1% Remaining)"
+msgstr "Pin Bàn Phím Yếu (Còn %1%)"
+
+#: powerdevilcore.cpp:537
+#, kde-format
+msgid "Bluetooth Device Battery Low (%1% Remaining)"
+msgstr "Pin Thiết bị Bluetooth Yếu (Còn %1%)"
+
+#: powerdevilcore.cpp:539
+#, kde-format
+msgctxt "Placeholder is device name"
+msgid ""
+"The battery in Bluetooth device \"%1\" is running low, and the device may "
+"turn off at any time. Please recharge or replace the battery."
+msgstr ""
+"Pin của thiết bị Bluetooth \"%1\" sắp hết, và thiết bị có thể tắt bất cứ "
+"lúc nào. Vui lòng sạc lại hoặc thay pin."
+
+#: powerdevilcore.cpp:581
+#, kde-format
+msgid "Ensure that the power adapter is plugged in and provides enough power."
+msgstr "Đảm bảo bộ đổi nguồn điện được cắm vào và cung cấp đủ điện."
+
+#: powerdevilcore.cpp:583
+#, kde-format
+msgid "Plug in the computer."
+msgstr "Cắm điện máy tính."
+
+#: powerdevilcore.cpp:602
+#, kde-format
+msgid "Battery level critical. Your computer will shut down in 60 seconds."
+msgstr "Pin yếu nghiêm trọng. Máy tính sẽ tắt sau 60 giây."
+
+#: powerdevilcore.cpp:604
+#, kde-format
+msgctxt ""
+"@action:button Shut down without waiting for the battery critical timer"
+msgid "Shut Down Now"
+msgstr "Tắt Máy Ngay"
+
+#: powerdevilcore.cpp:610
+#, kde-format
+msgid ""
+"Battery level critical. Your computer will enter hibernation mode in 60 "
+"seconds."
+msgstr "Pin yếu nghiêm trọng. Máy tính sẽ vào chế độ ngủ đông sau 60 giây."
+
+#: powerdevilcore.cpp:612
+#, kde-format
+msgctxt ""
+"@action:button Enter hibernation mode without waiting for the battery "
+"critical timer"
+msgid "Hibernate Now"
+msgstr "Ngủ đông ngay"
+
+#: powerdevilcore.cpp:618
+#, kde-format
+msgid "Battery level critical. Your computer will go to sleep in 60 seconds."
+msgstr "Pin yếu nghiêm trọng. Máy tính sẽ vào chế độ ngủ sau 60 giây."
+
+#: powerdevilcore.cpp:620
+#, kde-format
+msgctxt ""
+"@action:button Suspend to ram without waiting for the battery critical timer"
+msgid "Sleep Now"
+msgstr "Ngủ Ngay"
+
+#: powerdevilcore.cpp:626
+#, kde-format
+msgid "Please save your work."
+msgstr "Vui lòng lưu công việc của bạn."
+
+#: powerdevilcore.cpp:632
+#, kde-format
+msgctxt ""
+"Cancel timeout that will automatically put system to sleep because of low "
+"battery"
+msgid "Cancel"
+msgstr "Huỷ"
+
+#: powerdevilcore.cpp:644
+#, kde-format
+msgid "Battery Low (%1% Remaining)"
+msgstr "Pin Yếu (Còn %1%)"
+
+#: powerdevilcore.cpp:648
+#, kde-format
+msgid "Battery Critical (%1% Remaining)"
+msgstr "Pin Cạn Kiệt (%1% Còn Lại)"
+
+#: powerdevilcore.cpp:672
+#, kde-format
+msgid "AC Adapter Plugged In"
+msgstr "Đã Cắm Bộ Đổi Nguồn AC"
+
+#: powerdevilcore.cpp:675
+#, kde-format
+msgid "Running on AC power"
+msgstr "Đang chạy bằng nguồn điện AC"
+
+#: powerdevilcore.cpp:675
+#, kde-format
+msgid "The power adapter has been plugged in."
+msgstr "Đã cắm nguồn điện."
+
+#: powerdevilcore.cpp:678
+#, kde-format
+msgid "Running on Battery Power"
+msgstr "Đang chạy bằng pin"
+
+#: powerdevilcore.cpp:678
+#, kde-format
+msgid "The power adapter has been unplugged."
+msgstr "Đã ngắt kết nối bộ đổi nguồn điện."
+
+#: powerdevilcore.cpp:739
+#, kde-format
+msgid "Charging Complete"
+msgstr "Sạc hoàn tất"
+
+#: powerdevilcore.cpp:739
+#, kde-format
+msgid "Battery now fully charged."
+msgstr "Pin đã sạc đầy."

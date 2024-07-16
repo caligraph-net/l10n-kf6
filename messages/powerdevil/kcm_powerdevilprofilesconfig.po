@@ -1,0 +1,795 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the powerdevil package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: powerdevil\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-05 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: PowerKCM.cpp:455
+#, kde-format
+msgid "The Power Management Service appears not to be running."
+msgstr "Dịch vụ Quản lý Nguồn điện dường như không hoạt động."
+
+#: ui/DurationPromptDialog.qml:130
+#, kde-format
+msgctxt "The unit of the time input field"
+msgid "millisecond"
+msgid_plural "milliseconds"
+msgstr[0] "mili giây"
+
+#: ui/DurationPromptDialog.qml:132
+#, kde-format
+msgctxt "The unit of the time input field"
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "giây"
+
+#: ui/DurationPromptDialog.qml:134
+#, kde-format
+msgctxt "The unit of the time input field"
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "phút"
+
+#: ui/DurationPromptDialog.qml:136
+#, kde-format
+msgctxt "The unit of the time input field"
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "giờ"
+
+#: ui/DurationPromptDialog.qml:138
+#, kde-format
+msgctxt "The unit of the time input field"
+msgid "day"
+msgid_plural "days"
+msgstr[0] "ngày"
+
+#: ui/DurationPromptDialog.qml:140
+#, kde-format
+msgctxt "The unit of the time input field"
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "tuần"
+
+#: ui/DurationPromptDialog.qml:142
+#, kde-format
+msgctxt "The unit of the time input field"
+msgid "month"
+msgid_plural "months"
+msgstr[0] "tháng"
+
+#: ui/DurationPromptDialog.qml:144
+#, kde-format
+msgctxt "The unit of the time input field"
+msgid "year"
+msgid_plural "years"
+msgstr[0] "năm"
+
+#: ui/DurationPromptDialog.qml:171
+#, kde-format
+msgctxt "@text:radiobutton Unit of the time input field"
+msgid "milliseconds"
+msgstr "mili giây"
+
+#: ui/DurationPromptDialog.qml:173
+#, kde-format
+msgctxt "@text:radiobutton Unit of the time input field"
+msgid "seconds"
+msgstr "giây"
+
+#: ui/DurationPromptDialog.qml:175
+#, kde-format
+msgctxt "@text:radiobutton Unit of the time input field"
+msgid "minutes"
+msgstr "phút"
+
+#: ui/DurationPromptDialog.qml:177
+#, kde-format
+msgctxt "@text:radiobutton Unit of the time input field"
+msgid "hours"
+msgstr "giờ"
+
+#: ui/DurationPromptDialog.qml:179
+#, kde-format
+msgctxt "@text:radiobutton Unit of the time input field"
+msgid "days"
+msgstr "ngày"
+
+#: ui/DurationPromptDialog.qml:181
+#, kde-format
+msgctxt "@text:radiobutton Unit of the time input field"
+msgid "weeks"
+msgstr "tuần"
+
+#: ui/DurationPromptDialog.qml:183
+#, kde-format
+msgctxt "@text:radiobutton Unit of the time input field"
+msgid "months"
+msgstr "tháng"
+
+#: ui/DurationPromptDialog.qml:185
+#, kde-format
+msgctxt "@text:radiobutton Unit of the time input field"
+msgid "years"
+msgstr "năm"
+
+#: ui/GlobalConfig.qml:16
+#, kde-format
+msgctxt "@title"
+msgid "Advanced Power Settings"
+msgstr "Thiết lập nguồn điện nâng cao"
+
+#: ui/GlobalConfig.qml:21
+#, kde-format
+msgctxt ""
+"Percentage value example, used for formatting battery levels in the power "
+"management settings"
+msgid "10%"
+msgstr "10%"
+
+#: ui/GlobalConfig.qml:57
+#, kde-format
+msgctxt "@title:group"
+msgid "Battery Levels"
+msgstr "Mức Pin"
+
+#: ui/GlobalConfig.qml:65
+#, kde-format
+msgctxt ""
+"@label:spinbox Low battery level percentage for the main power supply battery"
+msgid "&Low level:"
+msgstr "Mức t&hấp:"
+
+#: ui/GlobalConfig.qml:73
+#, kde-format
+msgctxt "@accessible:name:spinbox"
+msgid "Low battery level"
+msgstr "Mức pin yếu"
+
+#: ui/GlobalConfig.qml:98
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"The battery charge will be considered low when it drops to this level. "
+"Settings for low battery will be used instead of regular battery settings."
+msgstr ""
+"Pin sẽ được coi là yếu khi giảm xuống mức này. Thiết lập cho pin yếu sẽ "
+"được sử dụng thay vì thiết lập pin thông thường."
+
+#: ui/GlobalConfig.qml:105
+#, kde-format
+msgctxt ""
+"@label:spinbox Critical battery level percentage for the main power supply "
+"battery"
+msgid "Cr&itical level:"
+msgstr "Mức nguy h&iểm:"
+
+#: ui/GlobalConfig.qml:113
+#, kde-format
+msgctxt "@accessible:name:spinbox"
+msgid "Critical battery level"
+msgstr "Mức pin nguy hiểm"
+
+#: ui/GlobalConfig.qml:138
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"The battery charge will be considered critical when it drops to this level. "
+"After a brief warning, the system will automatically suspend or shut down, "
+"according to the configured critical battery level action."
+msgstr ""
+"Pin sẽ được coi là cạn khi giảm xuống mức này. Sau cảnh báo ngắn, hệ thống "
+"sẽ tự động tạm ngưng hoặc tắt, theo hành động đã cấu hình cho mức pin cạn."
+
+#: ui/GlobalConfig.qml:147
+#, kde-format
+msgctxt "@info:status"
+msgid ""
+"The action you had previously configured for reaching the critical battery "
+"level is now unsupported on your system. Please select a different one."
+msgstr ""
+"Hành động bạn đã cấu hình trước đó khi pin đạt mức cạn kiệt không còn được "
+"hỗ trợ trên hệ thống của bạn. Vui lòng bôi đen một hành động khác."
+
+#: ui/GlobalConfig.qml:154
+#, kde-format
+msgctxt ""
+"@label:combobox Power action such as sleep/hibernate that will be executed "
+"when the critical battery level is reached"
+msgid "A&t critical level:"
+msgstr "Ở mức ngu&y hiểm:"
+
+#: ui/GlobalConfig.qml:156
+#, kde-format
+msgctxt "@accessible:name:combobox"
+msgid "Action performed at critical battery level"
+msgstr "Hành động thực hiện khi pin ở mức cạn kiệt"
+
+#: ui/GlobalConfig.qml:181
+#, kde-format
+msgctxt "@label:spinbox Low battery level percentage for peripheral devices"
+msgid "Low level for peripheral d&evices:"
+msgstr "Mức thấp cho th&iết bị ngoại vi:"
+
+#: ui/GlobalConfig.qml:189
+#, kde-format
+msgctxt "@accessible:name:spinbox"
+msgid "Low battery level for peripheral devices"
+msgstr "Mức pin thấp cho thiết bị ngoại vi"
+
+#: ui/GlobalConfig.qml:214
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"The battery charge for peripheral devices will be considered low when it "
+"reaches this level."
+msgstr "Pin của các thiết bị ngoại vi sẽ được coi là yếu khi đạt mức này."
+
+#: ui/GlobalConfig.qml:222
+#, kde-format
+msgctxt "@title:group"
+msgid "Charge Limit"
+msgstr "Giới hạn sạc"
+
+#: ui/GlobalConfig.qml:233
+#, kde-format
+msgctxt "@label:checkbox"
+msgid "&Battery protection:"
+msgstr "&Bảo vệ pin:"
+
+#: ui/GlobalConfig.qml:234
+#, kde-format
+msgctxt "@text:checkbox"
+msgid "Limit the maximum battery charge"
+msgstr "Giới hạn mức sạc pin tối đa"
+
+#: ui/GlobalConfig.qml:242
+#, kde-format
+msgctxt ""
+"@label:spinbox Battery will stop charging when this charge percentage is "
+"reached"
+msgid "&Stop charging at:"
+msgstr "&Dừng sạc tại:"
+
+#: ui/GlobalConfig.qml:268
+#, kde-format
+msgctxt ""
+"@label:spinbox Battery will start charging again when this charge percentage "
+"is reached, after having hit the stop-charging threshold earlier"
+msgid "Start charging once &below:"
+msgstr "Khởi độn&g sạc khi dưới:"
+
+#: ui/GlobalConfig.qml:325
+#, kde-format
+msgctxt "@info:status"
+msgid ""
+"You might have to disconnect and re-connect the power source to start "
+"charging the battery again."
+msgstr ""
+"Bạn có thể cần ngắt kết nối và kết nối lại nguồn điện để khởi động lại quá "
+"trình sạc pin."
+
+#: ui/GlobalConfig.qml:336
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Regularly charging the battery close to 100%, or fully discharging it, may "
+"accelerate deterioration of battery health. By limiting the maximum battery "
+"charge, you can help extend the battery lifespan."
+msgstr ""
+"Thường xuyên sạc pin gần 100% hoặc xả hết pin có thể đẩy nhanh quá trình "
+"xuống cấp của pin. Bằng cách giới hạn mức sạc tối đa, bạn có thể trợ giúp "
+"kéo dài tuổi thọ pin."
+
+#: ui/GlobalConfig.qml:344
+#, kde-format
+msgctxt ""
+"@title:group Miscellaneous power management settings that didn't fit "
+"elsewhere"
+msgid "Other Settings"
+msgstr "Thiết lập khác"
+
+#: ui/GlobalConfig.qml:352
+#, kde-format
+msgctxt "@label:checkbox"
+msgid "&Media playback:"
+msgstr "Phát &phương tiện:"
+
+#: ui/GlobalConfig.qml:353
+#, kde-format
+msgctxt "@text:checkbox"
+msgid "Pause media players when suspending"
+msgstr "Tạm dừng trình phát phương tiện khi tạm ngưng"
+
+#: ui/GlobalConfig.qml:366
+#, kde-format
+msgctxt "@label:button"
+msgid "Related pages:"
+msgstr "Trang liên quan:"
+
+#: ui/GlobalConfig.qml:381
+#, kde-format
+msgctxt "@text:button Name of KCM, plus Power Management notification category"
+msgid "Notifications: Power Management"
+msgstr "Thông báo: Quản lý nguồn điện"
+
+#: ui/GlobalConfig.qml:383
+#, kde-format
+msgid "Open \"Notifications\" settings page, \"Power Management\" section"
+msgstr "Mở trang thiết lập \"Thông báo\", khu vực \"Quản lý nguồn điện\""
+
+#: ui/GlobalConfig.qml:390
+#, kde-format
+msgctxt "@text:button Name of KCM"
+msgid "Desktop Session"
+msgstr "Phiên làm việc"
+
+#: ui/GlobalConfig.qml:391
+#, kde-format
+msgid "Open \"Desktop Session\" settings page"
+msgstr "Mở trang thiết lập \"Phiên làm việc\""
+
+#: ui/GlobalConfig.qml:398
+#, kde-format
+msgctxt "@text:button Name of KCM"
+msgid "Activities"
+msgstr "Hoạt động"
+
+#: ui/GlobalConfig.qml:399
+#, kde-format
+msgid "Open \"Activities\" settings page"
+msgstr "Mở trang thiết lập \"Hoạt động\""
+
+#: ui/main.qml:19
+#, kde-format
+msgctxt "@action:button"
+msgid "Advanced Power &Settings…"
+msgstr "Cài đặt &nguồn điện nâng cao…"
+
+#: ui/main.qml:43
+#, kde-format
+msgctxt "@text:placeholdermessage"
+msgid "Power Management settings could not be loaded"
+msgstr "Không tải được thiết lập quản lý nguồn điện"
+
+#: ui/main.qml:65
+#, kde-format
+msgid "On AC Power"
+msgstr "Đang dùng nguồn điện AC"
+
+#: ui/main.qml:66
+#, kde-format
+msgid "On Battery"
+msgstr "Dùng Pin"
+
+#: ui/main.qml:67
+#, kde-format
+msgid "On Low Battery"
+msgstr "Khi Pin Yếu"
+
+#: ui/ProfileConfig.qml:24
+#, kde-format
+msgctxt ""
+"Percentage value example, used for formatting brightness levels in the power "
+"management settings"
+msgid "10%"
+msgstr "10%"
+
+#: ui/ProfileConfig.qml:33
+#, kde-format
+msgctxt "@title:group"
+msgid "Suspend Session"
+msgstr "Tạm Dừng Phiên"
+
+#: ui/ProfileConfig.qml:48
+#, kde-format
+msgctxt "@info:status"
+msgid ""
+"The action you had previously configured for after a period of inactivity is "
+"now unsupported on your system. Please select a different one."
+msgstr ""
+"Hành động bạn đã cấu hình trước đó sau một khoảng thời gian không hoạt động "
+"hiện không được hỗ trợ trên hệ thống của bạn. Vui lòng bôi đen một hành "
+"động khác."
+
+#: ui/ProfileConfig.qml:55
+#, kde-format
+msgctxt ""
+"@label:combobox Suspend action such as sleep/hibernate to perform when the "
+"system is idle"
+msgid "A&fter a period of inactivity:"
+msgstr "Sau một thờ&i gian không hoạt động:"
+
+#: ui/ProfileConfig.qml:63
+#, kde-format
+msgctxt "@accessible:name:combobox"
+msgid "Action to perform when the system is idle"
+msgstr "Hành động thực hiện khi hệ thống không hoạt động"
+
+#: ui/ProfileConfig.qml:95 ui/ProfileConfig.qml:847
+#, kde-format
+msgctxt "@option:combobox"
+msgid "After %1 second"
+msgid_plural "After %1 seconds"
+msgstr[0] "Sau %1 giây"
+
+#: ui/ProfileConfig.qml:97 ui/ProfileConfig.qml:849
+#, kde-format
+msgctxt "@option:combobox"
+msgid "After %1 minute"
+msgid_plural "After %1 minutes"
+msgstr[0] "Sau %1 phút"
+
+#: ui/ProfileConfig.qml:110 ui/ProfileConfig.qml:383 ui/ProfileConfig.qml:526
+#: ui/ProfileConfig.qml:862
+#, kde-format
+msgctxt ""
+"@option:combobox Choose a custom value outside the list of preset values"
+msgid "Custom…"
+msgstr "Tùy chỉnh…"
+
+#: ui/ProfileConfig.qml:148
+#, kde-format
+msgctxt "@info:status"
+msgid ""
+"The action you had previously configured for when the power button is "
+"pressed is now unsupported on your system. Please select a different one."
+msgstr ""
+"Hành động bạn đã cấu hình trước đó khi nút nguồn điện được nhấn hiện không "
+"được hỗ trợ trên hệ thống của bạn. Vui lòng bôi đen một hành động khác."
+
+#: ui/ProfileConfig.qml:155
+#, kde-format
+msgctxt ""
+"@label:combobox Suspend action such as sleep/hibernate to perform when the "
+"power button is pressed"
+msgid "When &power button pressed:"
+msgstr "K&hi nhấn nút nguồn điện:"
+
+#: ui/ProfileConfig.qml:157
+#, kde-format
+msgctxt "@accessible:name:combobox"
+msgid "Action to perform when the power button is pressed"
+msgstr "Hành động khi nhấn nút nguồn điện"
+
+#: ui/ProfileConfig.qml:187
+#, kde-format
+msgctxt "@info:status"
+msgid ""
+"The action you had previously configured for when the lid is closed is now "
+"unsupported on your system. Please select a different one."
+msgstr ""
+"Hành động bạn đã cấu hình trước đó khi đóng nắp giờ không được hỗ trợ trên "
+"hệ thống. Vui lòng bôi đen một hành động khác."
+
+#: ui/ProfileConfig.qml:194
+#, kde-format
+msgctxt ""
+"@label:combobox Suspend action such as sleep/hibernate to perform when the "
+"power button is pressed"
+msgid "When laptop &lid closed:"
+msgstr "Khi đóng nắp &laptop:"
+
+#: ui/ProfileConfig.qml:196
+#, kde-format
+msgctxt "@accessible:name:combobox"
+msgid "Action to perform when the laptop lid is closed"
+msgstr "Hành động thực hiện khi đóng nắp laptop"
+
+#: ui/ProfileConfig.qml:225
+#, kde-format
+msgctxt ""
+"@text:checkbox Trigger laptop lid action even when an external monitor is "
+"connected"
+msgid "Even when an external monitor is connected"
+msgstr "Ngay cả khi có màn hình ngoài được kết nối"
+
+#: ui/ProfileConfig.qml:227
+#, kde-format
+msgid "Perform laptop lid action even when an external monitor is connected"
+msgstr "Thực hiện hành động nắp laptop ngay cả khi có màn hình ngoài kết nối"
+
+#: ui/ProfileConfig.qml:245
+#, kde-format
+msgctxt "@info:status"
+msgid ""
+"The sleep mode you had previously configured is now unsupported on your "
+"system. Please select a different one."
+msgstr ""
+"Chế độ ngủ bạn đã cấu hình trước đây hiện không được hỗ trợ trên hệ thống "
+"của bạn. Vui lòng bôi đen một chế độ khác."
+
+#: ui/ProfileConfig.qml:252
+#, kde-format
+msgctxt ""
+"@label:combobox Sleep mode selection - suspend to memory, disk or both"
+msgid "When sleeping, enter:"
+msgstr "Khi ngủ, chuyển sang:"
+
+#: ui/ProfileConfig.qml:254
+#, kde-format
+msgctxt "@accessible:name:combobox"
+msgid "When sleeping, enter this power-save mode"
+msgstr "Khi ngủ, vào chế độ tiết kiệm điện này"
+
+#: ui/ProfileConfig.qml:303
+#, kde-format
+msgctxt "@title:group"
+msgid "Display and Brightness"
+msgstr "Bộ hiển thị và Độ sáng"
+
+#: ui/ProfileConfig.qml:313
+#, kde-format
+msgctxt "@label:slider Brightness level"
+msgid "Change scr&een brightness:"
+msgstr "T&hay đổi độ sáng màn hình:"
+
+#: ui/ProfileConfig.qml:359
+#, kde-format
+msgctxt "@label:combobox Dim screen after X minutes"
+msgid "Di&m automatically:"
+msgstr "Tự động là&m mờ:"
+
+#: ui/ProfileConfig.qml:362
+#, kde-format
+msgctxt "@label:spinbox Dim screen after X minutes"
+msgid "Di&m automatically after:"
+msgstr "Tự động là&m mờ sau:"
+
+#: ui/ProfileConfig.qml:367
+#, kde-format
+msgctxt "@option:combobox"
+msgid "%1 second"
+msgid_plural "%1 seconds"
+msgstr[0] "%1 giây"
+
+#: ui/ProfileConfig.qml:369
+#, kde-format
+msgctxt "@option:combobox"
+msgid "%1 minute"
+msgid_plural "%1 minutes"
+msgstr[0] "%1 phút"
+
+#: ui/ProfileConfig.qml:376
+#, kde-format
+msgctxt "@option:combobox Dim screen automatically"
+msgid "Never"
+msgstr "Không bao giờ"
+
+#: ui/ProfileConfig.qml:428
+#, kde-format
+msgctxt "@info:status"
+msgid ""
+"The screen will not be dimmed because it is configured to turn off sooner."
+msgstr "Màn hình sẽ không mờ đi vì đã được cấu hình để tắt sớm hơn."
+
+#: ui/ProfileConfig.qml:433
+#, kde-format
+msgctxt "@label:combobox After X minutes"
+msgid "&Turn off screen:"
+msgstr "&Tắt màn hình:"
+
+#: ui/ProfileConfig.qml:446
+#, kde-format
+msgctxt "@label:spinbox After X minutes"
+msgid "Turn off screen after:"
+msgstr "Tắt màn hình sau:"
+
+#: ui/ProfileConfig.qml:450
+#, kde-format
+msgctxt "@option:combobox Turn off screen (caution: watch for string length)"
+msgid "%1 second"
+msgid_plural "%1 seconds"
+msgstr[0] "%1 giây"
+
+#: ui/ProfileConfig.qml:452
+#, kde-format
+msgctxt "@option:combobox Turn off screen (caution: watch for string length)"
+msgid "%1 minute"
+msgid_plural "%1 minutes"
+msgstr[0] "%1 phút"
+
+#: ui/ProfileConfig.qml:459
+#, kde-format
+msgctxt "@option:combobox Turn off screen (caution: watch for string length)"
+msgid "Never"
+msgstr "Không bao giờ"
+
+#: ui/ProfileConfig.qml:466
+#, kde-format
+msgctxt ""
+"@option:combobox Choose a custom value outside the list of preset values "
+"(caution: watch for string length)"
+msgid "Custom…"
+msgstr "Tùy chỉnh…"
+
+#: ui/ProfileConfig.qml:506
+#, kde-format
+msgctxt "@label:spinbox After X minutes"
+msgid "When locked, turn off screen after:"
+msgstr "Khi khóa, tắt màn hình sau:"
+
+#: ui/ProfileConfig.qml:510
+#, kde-format
+msgctxt "@option:combobox Turn off screen (caution: watch for string length)"
+msgid "When locked: %1 second"
+msgid_plural "When locked: %1 seconds"
+msgstr[0] "Khi khóa: %1 giây"
+
+#: ui/ProfileConfig.qml:512
+#, kde-format
+msgctxt "@option:combobox Turn off screen (caution: watch for string length)"
+msgid "When locked: %1 minute"
+msgid_plural "When locked: %1 minutes"
+msgstr[0] "Khi khóa: %1 phút"
+
+#: ui/ProfileConfig.qml:519
+#, kde-format
+msgctxt ""
+"@option:combobox Turn off screen after X minutes regardless of lock screen "
+"(caution: watch for string length)"
+msgid "When locked and unlocked"
+msgstr "Khi khóa và mở khóa"
+
+#: ui/ProfileConfig.qml:521
+#, kde-format
+msgctxt "@option:combobox Turn off screen (caution: watch for string length)"
+msgid "When locked: Immediately"
+msgstr "Khi khóa: Ngay lập tức"
+
+#: ui/ProfileConfig.qml:560
+#, kde-format
+msgctxt "@label:slider Brightness level"
+msgid "Change key&board brightness:"
+msgstr "Thay đổi độ sáng &bàn phím:"
+
+#: ui/ProfileConfig.qml:607
+#, kde-format
+msgctxt "@title:group"
+msgid "Other Settings"
+msgstr "Thiết lập khác"
+
+#: ui/ProfileConfig.qml:615
+#, kde-format
+msgctxt ""
+"@label:combobox Power Save, Balanced or Performance profile - same options "
+"as in the Battery applet"
+msgid "Switch to po&wer profile:"
+msgstr "C&huyển sang cấu hình nguồn điện:"
+
+#: ui/ProfileConfig.qml:619
+#, kde-format
+msgctxt ""
+"@accessible:name:combobox Power Save, Balanced or Performance profile - same "
+"options as in the Battery applet"
+msgid "Switch to power profile"
+msgstr "Chuyển sang hồ sơ nguồn điện"
+
+#: ui/ProfileConfig.qml:646
+#, kde-format
+msgctxt "@label:button"
+msgid "Run custom script:"
+msgstr "Chạy tập lệnh tùy chỉnh:"
+
+#: ui/ProfileConfig.qml:656
+#, kde-format
+msgctxt ""
+"@text:button Determine what will trigger a script command to run in this "
+"power state"
+msgid "Choose run conditions…"
+msgstr "Chọn điều kiện chạy…"
+
+#: ui/ProfileConfig.qml:658
+#, kde-format
+msgctxt "@accessible:name:button"
+msgid "Choose run conditions for script command"
+msgstr "Chọn điều kiện chạy cho lệnh kịch bản"
+
+#: ui/ProfileConfig.qml:677
+#, kde-format
+msgctxt ""
+"@text:action:menu Script command to execute for power state (On AC Power, On "
+"Battery, ...)"
+msgid "When entering \"%1\" state"
+msgstr "Khi vào trạng thái \"%1\""
+
+#: ui/ProfileConfig.qml:695
+#, kde-format
+msgctxt ""
+"@text:action:menu Script command to execute for power state (On AC Power, On "
+"Battery, ...)"
+msgid "When exiting \"%1\" state"
+msgstr "Khi thoát trạng thái \"%1\""
+
+#: ui/ProfileConfig.qml:713
+#, kde-format
+msgctxt "@text:action:menu Script command to execute"
+msgid "After a period of inactivity"
+msgstr "Sau một khoảng thời gian không hoạt động"
+
+#: ui/ProfileConfig.qml:736
+#, kde-format
+msgctxt ""
+"@label:textfield Script command to execute for power state (On AC Power, On "
+"Battery, ...)"
+msgid "When e&ntering \"%1\" state:"
+msgstr "Khi vào trạ&ng thái \"%1\":"
+
+#: ui/ProfileConfig.qml:740
+#, kde-format
+msgctxt "@label:textfield for power state (On AC Power, On Battery, ...)"
+msgid "Script command when entering \"%1\" state"
+msgstr "Lệnh kịch bản khi vào trạng thái \"%1\""
+
+#: ui/ProfileConfig.qml:771
+#, kde-format
+msgctxt ""
+"@label:textfield Script command to execute for power state (On AC Power, On "
+"Battery, ...)"
+msgid "When e&xiting \"%1\" state:"
+msgstr "Khi thoát trạn&g thái \"%1\":"
+
+#: ui/ProfileConfig.qml:775
+#, kde-format
+msgctxt "@label:textfield for power state (On AC Power, On Battery, ...)"
+msgid "Script command when exiting \"%1\" state"
+msgstr "Lệnh kịch bản khi thoát trạng thái \"%1\""
+
+#: ui/ProfileConfig.qml:806
+#, kde-format
+msgctxt "@label:textfield Script command to execute"
+msgid "After a period of inacti&vity:"
+msgstr "Sau một khoản&g thời gian không hoạt động:"
+
+#: ui/ProfileConfig.qml:808
+#, kde-format
+msgctxt "@@accessible:name:textfield"
+msgid "Script command after a period of inactivity"
+msgstr "Lệnh kịch bản sau thời gian không hoạt động"
+
+#: ui/ProfileConfig.qml:837
+#, kde-format
+msgctxt "@accessible:name:spinbox"
+msgid "Period of inactivity until the script command executes"
+msgstr "Thời gian không hoạt động trước khi lệnh kịch bản thực thi"
+
+#: ui/ProfileConfig.qml:842
+#, kde-format
+msgctxt "@label:spinbox After X minutes"
+msgid "Execute script after:"
+msgstr "Thực thi kịch bản sau:"
+
+#: ui/RunScriptEdit.qml:33
+#, kde-format
+msgid "Enter command or select file…"
+msgstr "Nhập lệnh hoặc bôi đen tệp…"
+
+#: ui/RunScriptEdit.qml:51
+#, kde-format
+msgid "Select executable file…"
+msgstr "Chọn tập tin thực thi…"
+
+#: ui/RunScriptEdit.qml:66
+#, kde-format
+msgid "Select executable file"
+msgstr "Chọn tệp thực thi"
+
+#: ui/TimeDurationComboBox.qml:22
+#, kde-format
+msgctxt "@title:window"
+msgid "Custom Duration"
+msgstr "Khoảng thời gian tự chọn"

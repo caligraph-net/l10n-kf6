@@ -1,0 +1,155 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-25 00:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: applets/batterymonitor/package/metadata.json
+msgctxt "Name"
+msgid "Power and Battery"
+msgstr "Nguồn điện và Pin"
+
+#: applets/brightness/package/metadata.json
+msgctxt "Name"
+msgid "Brightness and Color"
+msgstr "Độ sáng và Màu sắc"
+
+#: daemon/actions/bundled/powerdevilbrightnesscontrolaction.json
+msgctxt "Name"
+msgid "Screen brightness"
+msgstr "Độ sáng màn hình"
+
+#: daemon/actions/bundled/powerdevildimdisplayaction.json
+msgctxt "Name"
+msgid "Dim screen"
+msgstr "Làm mờ màn hình"
+
+#: daemon/actions/bundled/powerdevildpmsaction.json
+msgctxt "Name"
+msgid "Screen Energy Saving"
+msgstr "Tiết kiệm năng lượng màn hình"
+
+#: daemon/actions/bundled/powerdevilhandlebuttoneventsaction.json
+msgctxt "Name"
+msgid "Button events handling"
+msgstr "Xử lý sự kiện nút"
+
+#: daemon/actions/bundled/powerdevilkeyboardbrightnesscontrolaction.json
+msgctxt "Name"
+msgid "Keyboard backlight"
+msgstr "Đèn nền bàn phím"
+
+#: daemon/actions/bundled/powerdevilpowerprofileaction.json
+msgctxt "Name"
+msgid "Power management profile"
+msgstr "Hồ sơ quản lý nguồn điện"
+
+#: daemon/actions/bundled/powerdevilrunscriptaction.json
+msgctxt "Name"
+msgid "Run script"
+msgstr "Chạy kịch bản"
+
+#: daemon/actions/bundled/powerdevilsuspendsessionaction.json
+msgctxt "Name"
+msgid "Suspend session"
+msgstr "Tạm ngưng phiên"
+
+#: kcmodule/profiles/kcm_powerdevilprofilesconfig.json
+msgctxt "Name"
+msgid "Power Management"
+msgstr "Quản lý nguồn điện"
+
+#: runners/powerdevil/plasma-runner-powerdevil.json
+msgctxt "Name"
+msgid "Power"
+msgstr "Nguồn điện"
+
+#: applets/batterymonitor/package/metadata.json
+msgctxt "Description"
+msgid ""
+"Control power management settings and see the power status of your battery"
+msgstr "Điều chỉnh thiết lập quản lý nguồn điện và xem trạng thái pin"
+
+#: applets/brightness/package/metadata.json
+msgctxt "Description"
+msgid "Control brightness and color of your screens and keyboards"
+msgstr "Điều chỉnh độ sáng và màu sắc của màn hình và bàn phím"
+
+#: daemon/actions/bundled/powerdevilbrightnesscontrolaction.json
+msgctxt "Description"
+msgid "Basic Controls for brightness"
+msgstr "Điều khiển cơ bản độ sáng"
+
+#: daemon/actions/bundled/powerdevildimdisplayaction.json
+msgctxt "Description"
+msgid "Dims gradually the display on a time basis"
+msgstr "Làm mờ dần bộ hiển thị theo thời gian"
+
+#: daemon/actions/bundled/powerdevildpmsaction.json
+msgctxt "Description"
+msgid "Controls DPMS settings"
+msgstr "Điều khiển thiết lập DPMS"
+
+#: daemon/actions/bundled/powerdevilhandlebuttoneventsaction.json
+msgctxt "Description"
+msgid "Performs an action whenever a button is pressed"
+msgstr "Thực hiện một hành động khi nút được nhấn"
+
+#: daemon/actions/bundled/powerdevilkeyboardbrightnesscontrolaction.json
+msgctxt "Description"
+msgid "Basic Controls for the keyboard backlight brightness"
+msgstr "Điều khiển cơ bản cho độ sáng đèn nền bàn phím"
+
+#: daemon/actions/bundled/powerdevilpowerprofileaction.json
+msgctxt "Description"
+msgid "Apply a power management profile"
+msgstr "Áp dụng hồ sơ quản lý nguồn điện"
+
+#: daemon/actions/bundled/powerdevilrunscriptaction.json
+msgctxt "Description"
+msgid "Runs a custom script"
+msgstr "Chạy kịch bản tự chọn"
+
+#: daemon/actions/bundled/powerdevilsuspendsessionaction.json
+msgctxt "Description"
+msgid "Suspends the session"
+msgstr "Tạm ngưng phiên"
+
+#: kcmodule/profiles/kcm_powerdevilprofilesconfig.json
+msgctxt "Description"
+msgid "Power Management"
+msgstr "Quản lý nguồn điện"
+
+#: runners/powerdevil/plasma-runner-powerdevil.json
+msgctxt "Description"
+msgid "Basic Power Management Operations"
+msgstr "Thao tác Quản lý Nguồn điện Cơ bản"
+
+#: applets/batterymonitor/package/metadata.json
+#: applets/brightness/package/metadata.json
+msgctxt "Authors Name"
+msgid "Sebastian Kügler"
+msgstr "Sebastian Kügler"
+
+#: applets/batterymonitor/package/metadata.json
+#: applets/brightness/package/metadata.json
+msgctxt "Authors Name"
+msgid "Kai Uwe Broulik"
+msgstr "Kai Uwe Broulik"
+
+#: applets/brightness/package/metadata.json
+msgctxt "Authors Name"
+msgid "Natalie Clarius"
+msgstr "Natalie Clarius"
+
+#: runners/powerdevil/plasma-runner-powerdevil.json
+msgctxt "Authors Name"
+msgid "Dario Freddi"
+msgstr "Dario Freddi"
