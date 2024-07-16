@@ -15,14 +15,20 @@ To illustrate the issue, as of July 2024 when this repository was created, it's 
 We firmly believe that Large Language Models (LLMs) and Generative AI are now more than capable of overcoming these limitations. They can produce highly polished translations that require minimal manual maintenance and editing. This, in turn, gives the UI a polished feel that encourages people to switch to their native language. By solving the chicken-and-egg problem, we expect to drive up adoption significantly.
 
 
+## How to Test
+
+Currently, the project is very experimental, it is not recommended for everyday use. However, if you want to test the translations yourself and help out, you're very welcome to do so.
+
+- First, download and install the [User edition of KDE Neon](https://neon.kde.org/download) to your virtual machine (recommended) or a real machine.
+
+- Then, go to the [Releases tab](https://github.com/caligraph-net/l10n-kf6-vi/releases) of the `l10n-kf6-vi` project, download the tarball.
+
+- Untar the file to your home directory. Change the language of KDE to Vietnamese, log off and log on again, you should see the latest transations. To remove, `rm -rf .local/share/locale/vi` should get rid of everything.
+
+## How to build from source
+
+Please install `msgfmt` tool to build individual translation files for applications. Please follow the [testing instructions in the Vietnamese Localization wiki](https://community.kde.org/KDE_Localization/vi/checking) for more information.
+
 ## Upstreaming Approach
 
 We're actively sending patches to the KDE Vietnamese localization team. However, due to the slow review process, we've decided to publish our changes here first to avoid overloading the review pipeline. We're committed to collaborating with the Vietnamese localization team and contributing our knowledge to their wiki and databases in the true open-source spirit.
-
-## How to Test
-
-We're in the process of developing pipelines that will allow you to test these translations on your KDE Neon User Edition build. Stay tuned for updates on how to implement and evaluate our localization efforts.
-
-## How to build
-
-Please install `msgfmt` tool to build individual translation files for applications. Please follow the [testing instructions in the Vietnamese Localization wiki](https://community.kde.org/KDE_Localization/vi/checking) for more information.
