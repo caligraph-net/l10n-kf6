@@ -58,32 +58,32 @@ msgid "&Focus Terminal Panel"
 msgstr "&Nhắm vào bảng \"Dòng lệnh\""
 
 #: kateconsole.cpp:182
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@action"
 #| msgid "&Hide Terminal Panel"
 msgctxt "@action"
 msgid "&Split Terminal Vertically"
-msgstr "Ẩn bảng \"Dòng &lệnh\""
+msgstr "Chia &dọc dòng lệnh"
 
 #: kateconsole.cpp:187
 #, kde-format
 msgctxt "@action"
 msgid "&Split Terminal Horizontally"
-msgstr ""
+msgstr "Chia đôi dò&ng lệnh theo chiều ngang"
 
 #: kateconsole.cpp:192
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@action"
 #| msgid "S&how Terminal Panel"
 msgctxt "@action"
 msgid "&New Terminal Tab"
-msgstr "Hiện bảng \"Dòng &lệnh\""
+msgstr "Thẻ &dòng lệnh mới"
 
 #: kateconsole.cpp:355
 #, kde-format
 msgid ""
 "Konsole not installed. Please install konsole to be able to use the terminal."
-msgstr ""
+msgstr "Konsole chưa được cài đặt. Vui lòng cài đặt konsole để sử dụng terminal."
 
 #: kateconsole.cpp:431
 #, kde-format
@@ -151,34 +151,38 @@ msgstr "Nhắm vào bảng \"Dòng lệnh\""
 #: kateconsole.cpp:677
 #, kde-format
 msgid "Terminal Synchronization Mode"
-msgstr ""
+msgstr "Chế độ đồng bộ hóa dòng lệnh"
 
 #: kateconsole.cpp:680
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@action"
 #| msgid "S&ynchronize Terminal with Current Document"
 msgid "&Don't synchronize terminal tab with current document"
-msgstr "Đồng &bộ hoá dòng lệnh với tài liệu hiện tại"
+msgstr "Không đồng bộ hoá &thẻ dòng lệnh với tài liệu hiện tại"
 
 #: kateconsole.cpp:683
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "&Automatically synchronize the terminal with the current document when "
 #| "possible"
 msgid ""
 "&Automatically synchronize the current terminal tab with the current "
 "document when possible"
-msgstr "&Tự động đồng bộ hoá dòng lệnh với tài liệu hiện tại khi có thể"
+msgstr ""
+"Tự động đồng bộ hoá thẻ dòng lệnh hiện tại &với tài liệu hiện tại khi có "
+"thể"
 
 #: kateconsole.cpp:686
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "&Automatically synchronize the terminal with the current document when "
 #| "possible"
 msgid ""
 "&Automatically create a terminal tab for the directory of the current "
 "document and switch to it"
-msgstr "&Tự động đồng bộ hoá dòng lệnh với tài liệu hiện tại khi có thể"
+msgstr ""
+"Tự động tạo thẻ dòng lệnh cho thư mục của tài liệu hiện tại &và chuyển đến "
+"nó"
 
 #: kateconsole.cpp:693 kateconsole.cpp:714
 #, kde-format

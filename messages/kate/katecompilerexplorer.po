@@ -1,0 +1,135 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kate package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kate\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-15 00:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: AsmView.cpp:299
+#, kde-format
+msgid "Scroll to source"
+msgstr "Cuộn đến mã nguồn"
+
+#: AsmView.cpp:309
+#, kde-format
+msgid "Jump to label"
+msgstr "Nhảy đến nhãn"
+
+#: AsmView.cpp:335
+#, kde-format
+msgid "Copy"
+msgstr "Sao chép"
+
+#: AsmView.cpp:347
+#, kde-format
+msgid "Select All"
+msgstr "Bôi đen tất cả"
+
+#: ce_plugin.cpp:35
+#, kde-format
+msgid "Compiler Explorer"
+msgstr "Trình khám phá trình biên dịch"
+
+#: ce_plugin.cpp:38
+#, kde-format
+msgid "&Open Current File in Compiler Explorer"
+msgstr "Mở &Tệp Hiện Tại trong Compiler Explorer"
+
+#: ce_plugin.cpp:54
+#, kde-format
+msgid "No file open"
+msgstr "Không có tệp nào mở"
+
+#: ce_plugin.cpp:54
+#, kde-format
+msgctxt "error category title"
+msgid "CompilerExplorer"
+msgstr "CompilerExplorer"
+
+#: ce_widget.cpp:125
+#, kde-format
+msgid "Do you really want to close %1?"
+msgstr "Bạn có thực sự muốn đóng %1?"
+
+#: ce_widget.cpp:185
+#, kde-format
+msgid "Compile"
+msgstr "Biên dịch"
+
+#: ce_widget.cpp:282
+#, kde-format
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: ce_widget.cpp:299
+#, kde-format
+msgid "Demangle Identifiers"
+msgstr "Tháo gỡ định danh"
+
+#: ce_widget.cpp:300
+#, kde-format
+msgid "Filter Library Functions"
+msgstr "Lọc Chức Năng Thư Viện"
+
+#: ce_widget.cpp:301
+#, kde-format
+msgid "Filter Unused Labels"
+msgstr "Lọc Nhãn Không Sử Dụng"
+
+#: ce_widget.cpp:302
+#, kde-format
+msgid "Filter Comments"
+msgstr "Lọc bình luận"
+
+#: ce_widget.cpp:303
+#, kde-format
+msgid "Intel Syntax"
+msgstr "Cú pháp Intel"
+
+#: ce_widget.cpp:305
+#, kde-format
+msgid "Change Url..."
+msgstr "Đổi Url..."
+
+#: ce_widget.cpp:311
+#, kde-format
+msgid "Enter Url"
+msgstr "Nhập URL"
+
+#: ce_widget.cpp:312
+#, kde-format
+msgid ""
+"Enter Url to CompilerExplorer instance. For e.g., http://localhost:10240"
+msgstr "Nhập URL cho phiên bản CompilerExplorer. Ví dụ: http://localhost:10240"
+
+#: ce_widget.cpp:372
+#, kde-format
+msgid "Compiler returned: %1"
+msgstr "Trình biên dịch trả về: %1"
+
+#: ce_widget.cpp:521
+#, kde-format
+msgid "Reveal linked code"
+msgstr "Hiện mã liên kết"
+
+#: ce_widget.cpp:543
+#, kde-format
+msgid "CompilerExplorer"
+msgstr "CompilerExplorer"
+
+#: ce_widget.cpp:559
+#, kde-format
+msgid "'%1' compiler flags were found. Output may not be useful."
+msgstr "Đã tìm thấy cờ trình biên dịch '%1'. Kết quả có thể không hữu ích."

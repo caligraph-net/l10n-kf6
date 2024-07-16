@@ -19,7 +19,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, u_gdbLabel)
 #: advanced_settings.ui:17
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "GDB command"
 msgid "GDB command"
 msgstr "Lệnh GDB"
@@ -499,47 +499,47 @@ msgstr "Khung hiện tại [%3]: %1:%2 (%4)"
 #: debugconfig.ui:33
 #, kde-format
 msgid "User Debug Adapter Settings"
-msgstr ""
+msgstr "Thiết lập bộ điều hợp gỡ lỗi người dùng"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: debugconfig.ui:41
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Tab label"
 #| msgid "Settings"
 msgid "Settings File:"
-msgstr "Thiết lập"
+msgstr "Tệp thiết lập:"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_2)
 #: debugconfig.ui:68
 #, kde-format
 msgid "Default Debug Adapter Settings"
-msgstr ""
+msgstr "Thiết lập Bộ Gỡ Lỗi Mặc Định"
 
 #: debugconfigpage.cpp:72 debugconfigpage.cpp:77
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Debug"
 msgid "Debugger"
-msgstr "Gỡ lỗi"
+msgstr "Trình gỡ lỗi"
 
 #: debugconfigpage.cpp:128
 #, kde-format
 msgid "No JSON data to validate."
-msgstr ""
+msgstr "Không có dữ liệu JSON để xác thực."
 
 #: debugconfigpage.cpp:136
 #, kde-format
 msgid "JSON data is valid."
-msgstr ""
+msgstr "Dữ liệu JSON hợp lệ."
 
 #: debugconfigpage.cpp:138
 #, kde-format
 msgid "JSON data is invalid: no JSON object"
-msgstr ""
+msgstr "Dữ liệu JSON không hợp lệ: không có đối tượng JSON"
 
 #: debugconfigpage.cpp:141
 #, kde-format
 msgid "JSON data is invalid: %1"
-msgstr ""
+msgstr "Dữ liệu JSON không hợp lệ: %1"
 
 #: gdbbackend.cpp:35
 #, kde-format
@@ -644,10 +644,10 @@ msgid "named items"
 msgstr "mục được đặt tên"
 
 #: plugin_kategdb.cpp:103
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Kate GDB"
 msgid "Kate Debug"
-msgstr "GDB trong Kate"
+msgstr "Gỡ lỗi Kate"
 
 #: plugin_kategdb.cpp:107
 #, kde-format
@@ -677,12 +677,12 @@ msgid "Frame"
 msgstr "Khung"
 
 #: plugin_kategdb.cpp:197
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Tab label"
 #| msgid "GDB Output"
 msgctxt "Tab label"
 msgid "Debug Output"
-msgstr "Đầu ra GDB"
+msgstr "Đầu ra gỡ lỗi"
 
 #: plugin_kategdb.cpp:198
 #, kde-format
@@ -804,10 +804,10 @@ msgstr "&Gỡ lỗi"
 
 #. i18n: ectx: ToolBar (gdbplugin)
 #: ui.rc:29
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "GDB Plugin"
 msgid "Debug Plugin"
-msgstr "Phần cài cắm GDB"
+msgstr "Phần cài cắm gỡ lỗi"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"

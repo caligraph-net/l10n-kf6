@@ -190,14 +190,14 @@ msgstr "Tìm kiếm"
 
 #. i18n: ectx: property (text), widget (QPushButton, replaceCheckedBtn)
 #: search.ui:50
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Replace Checked"
 msgctxt ""
 "Checked here refers to the items  on the list below that can have a "
 "checkmark or not. It's not about any verification or similar, plainly about "
 "user interface"
 msgid "Replace Checked"
-msgstr "Thay thế các mục đã chọn"
+msgstr "Thay thế đã đánh dấu"
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, nextButton)
 #. i18n: ectx: property (text), widget (QPushButton, nextButton)
@@ -344,13 +344,13 @@ msgstr "Gồm tệp nhị phân"
 #: search.ui:465
 #, kde-format
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: search.ui:478
 #, kde-format
 msgid "Size limit"
-msgstr ""
+msgstr "Giới hạn kích thước"
 
 #: SearchPlugin.cpp:81 SearchPlugin.cpp:114
 #, kde-format

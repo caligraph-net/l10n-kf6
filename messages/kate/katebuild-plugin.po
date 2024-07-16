@@ -48,24 +48,24 @@ msgstr "Huỷ"
 #: buildconfig.cpp:26
 #, kde-format
 msgid "Add errors and warnings to Diagnostics"
-msgstr ""
+msgstr "Thêm lỗi và cảnh báo vào Chẩn đoán"
 
 #: buildconfig.cpp:27
 #, kde-format
 msgid "Automatically switch to output pane on executing the selected target"
-msgstr ""
+msgstr "Tự động chuyển sang ô đầu ra khi thực thi mục tiêu đã chọn"
 
 #: buildconfig.cpp:44
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Build again"
 msgid "Build & Run"
-msgstr "Xây lại"
+msgstr "Xây & Chạy"
 
 #: buildconfig.cpp:50
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Build and Run Selected Target"
 msgid "Build & Run Settings"
-msgstr "Xây và chạy mục tiêu được chọn"
+msgstr "Thiết lập Xây & Chạy"
 
 #: plugin_katebuild.cpp:229 plugin_katebuild.cpp:236 plugin_katebuild.cpp:713
 #: plugin_katebuild.cpp:915 plugin_katebuild.cpp:928 targets.cpp:244
@@ -91,12 +91,12 @@ msgstr "Xây và chạy mục tiêu được chọn"
 #: plugin_katebuild.cpp:254
 #, kde-format
 msgid "Compile Current File"
-msgstr ""
+msgstr "Biên dịch tệp hiện tại"
 
 #: plugin_katebuild.cpp:255
 #, kde-format
 msgid "Try to compile the current file by searching a compile_commands.json"
-msgstr ""
+msgstr "Thử biên dịch tệp hiện tại bằng cách tìm kiếm compile_commands.json"
 
 #: plugin_katebuild.cpp:260
 #, kde-format
@@ -106,7 +106,7 @@ msgstr "Dừng"
 #: plugin_katebuild.cpp:265
 #, kde-format
 msgid "Load targets from CMake Build Dir"
-msgstr ""
+msgstr "Tải mục tiêu từ thư mục xây CMake"
 
 #: plugin_katebuild.cpp:269
 #, kde-format
@@ -127,7 +127,7 @@ msgid "Target Settings"
 msgstr "Thiết lập mục tiêu"
 
 #: plugin_katebuild.cpp:350
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@info"
 #| msgid ""
 #| "<title>Could not open file:</title><nl/>%1<br/>Try adding a search path "
@@ -136,14 +136,14 @@ msgid ""
 "<b>File not found:</b> %1<br><b>Search paths:</b><br>%2<br>Try adding a "
 "search path to the \"Working Directory\""
 msgstr ""
-"<title>Không mở được tệp:</title><nl/>%1<br/>Hãy thử thêm một đường dẫn tìm "
-"kiếm vào thư mục làm việc trong Thiết lập mục tiêu"
+"<b>Không tìm thấy tệp:</b> %1<br><b>Đường dẫn tìm kiếm:</b><br>%2<br>Hãy "
+"thử thêm đường dẫn tìm kiếm vào \"Thư mục làm việc\""
 
 #: plugin_katebuild.cpp:433
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Build again"
 msgid "Build Information"
-msgstr "Xây lại"
+msgstr "Thông tin Xây dựng"
 
 #: plugin_katebuild.cpp:720
 #, kde-format
@@ -179,12 +179,12 @@ msgstr "Việc xây <b>%1</b> bị huỷ"
 #: plugin_katebuild.cpp:914
 #, kde-format
 msgid "Did not find a compile_commands.json for file \"%1\". "
-msgstr ""
+msgstr "Không tìm thấy compile_commands.json cho tệp \"%1\"."
 
 #: plugin_katebuild.cpp:927
 #, kde-format
 msgid "Did not find a compile command for file \"%1\" in \"%2\". "
-msgstr ""
+msgstr "Không tìm thấy lệnh biên dịch cho tệp \"%1\" trong \"%2\"."
 
 #: plugin_katebuild.cpp:1035
 #, kde-format
@@ -211,17 +211,17 @@ msgstr "Đang xây mục tiêu <b>%1</b> ..."
 msgid ""
 "Cannot load targets, the file %1 does not contain a proper CMAKE_COMMAND "
 "entry !"
-msgstr ""
+msgstr "Không thể tải mục tiêu, tệp %1 không chứa mục CMAKE_COMMAND hợp lệ!"
 
 #: plugin_katebuild.cpp:1115
 #, kde-format
 msgid "Could not write CMake File API query files for build directory %1 !"
-msgstr ""
+msgstr "Không ghi được tệp truy vấn API Tệp CMake cho thư mục xây dựng %1!"
 
 #: plugin_katebuild.cpp:1121
 #, kde-format
 msgid "Could not run CMake (%2) for build directory %1 !"
-msgstr ""
+msgstr "Không chạy được CMake (%2) cho thư mục xây %1!"
 
 #: plugin_katebuild.cpp:1130
 #, kde-format
@@ -229,11 +229,13 @@ msgid ""
 "Generating CMake File API reply files for build directory %1 failed (using "
 "%2) !"
 msgstr ""
+"Tạo tệp hồi đáp API Tệp CMake cho thư mục xây dựng %1 thất bại (sử dụng "
+"%2)!"
 
 #: plugin_katebuild.cpp:1258
 #, kde-format
 msgid "Build plugin wants to execute program"
-msgstr ""
+msgstr "Phần cài cắm xây muốn thực thi chương trình"
 
 #: plugin_katebuild.cpp:1261
 #, kde-format
@@ -243,6 +245,10 @@ msgid ""
 "b><br><br>Proceed and allow to run this command ?<br><br>The choice can be "
 "altered via the config page of the plugin."
 msgstr ""
+"Phần cài cắm xây Kate cần thực thi lệnh ngoài để đọc các mục tiêu từ cây "
+"xây.<br><br>Dòng lệnh đầy đủ là:<br><br><b>%1</b><br><br>Tiếp tục và cho "
+"phép chạy lệnh này?<br><br>Lựa chọn có thể thay đổi qua trang cấu hình của "
+"phần cài cắm."
 
 #: plugin_katebuild.cpp:1293
 #, kde-kuit-format
@@ -253,7 +259,7 @@ msgstr "<title>Kết quả Make:</title><nl/>%1"
 #: plugin_katebuild.cpp:1329
 #, kde-format
 msgid "Build <b>%1</b> completed. %2 error(s), %3 warning(s), %4 note(s)"
-msgstr ""
+msgstr "Xây <b>%1</b> hoàn tất. %2 lỗi, %3 cảnh báo, %4 ghi chú"
 
 #: plugin_katebuild.cpp:1335
 #, kde-format
@@ -268,12 +274,12 @@ msgid_plural "Found %1 warnings."
 msgstr[0] "Có %1 cảnh báo."
 
 #: plugin_katebuild.cpp:1342
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Found one error."
 #| msgid_plural "Found %1 errors."
 msgid "Found one note."
 msgid_plural "Found %1 notes."
-msgstr[0] "Có %1 lỗi."
+msgstr[0] "Tìm thấy %1 ghi chú."
 
 #: plugin_katebuild.cpp:1347
 #, kde-format
@@ -288,7 +294,7 @@ msgstr "Việc xây hoàn tất không gặp vấn đề gì."
 #: plugin_katebuild.cpp:1354
 #, kde-format
 msgid "Build <b>%1 canceled</b>. %2 error(s), %3 warning(s), %4 note(s)"
-msgstr ""
+msgstr "Xây <b>%1 đã hủy</b>. %2 lỗi, %3 cảnh báo, %4 ghi chú"
 
 #: plugin_katebuild.cpp:1378
 #, kde-format
@@ -296,7 +302,7 @@ msgid "Cannot execute: %1 No working directory set."
 msgstr "Không thể thực thi: %1 Chưa đặt thư mục làm việc."
 
 #: plugin_katebuild.cpp:1604
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "The same word as 'make' uses to mark an error."
 #| msgid "error"
 msgctxt "The same word as 'gcc' uses for an error."
@@ -304,7 +310,7 @@ msgid "error"
 msgstr "lỗi"
 
 #: plugin_katebuild.cpp:1607
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "The same word as 'make' uses to mark a warning."
 #| msgid "warning"
 msgctxt "The same word as 'gcc' uses for a warning."
@@ -315,7 +321,7 @@ msgstr "cảnh báo"
 #, kde-format
 msgctxt "The same words as 'gcc' uses for note or info."
 msgid "note|info"
-msgstr ""
+msgstr "ghi chú|thông tin"
 
 #: plugin_katebuild.cpp:1613
 #, kde-format
@@ -326,7 +332,7 @@ msgstr "tham chiếu không được định nghĩa"
 #: plugin_katebuild.cpp:1747
 #, kde-format
 msgid "Cannot save build targets in: %1"
-msgstr ""
+msgstr "Không thể lưu mục tiêu xây trong: %1"
 
 #: TargetHtmlDelegate.cpp:51
 #, kde-format
@@ -356,6 +362,9 @@ msgid ""
 "\"%B\" for project base directory\n"
 "\"%b\" for name of project base directory"
 msgstr ""
+"Sử dụng:\n"
+"\"%B\" cho thư mục gốc dự án\n"
+"\"%b\" cho tên thư mục gốc dự án"
 
 #: TargetHtmlDelegate.cpp:114
 #, kde-format
@@ -378,12 +387,12 @@ msgstr "Tập hợp mục tiêu"
 #: TargetModel.cpp:500
 #, kde-format
 msgid "Project"
-msgstr ""
+msgstr "Dự án"
 
 #: TargetModel.cpp:500
 #, kde-format
 msgid "Session"
-msgstr ""
+msgstr "Phiên"
 
 #: TargetModel.cpp:594
 #, kde-format
@@ -411,10 +420,10 @@ msgid "Create new set of targets"
 msgstr "Tạo tập hợp mục tiêu mới"
 
 #: targets.cpp:39
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Copy command or target set"
 msgid "Clone command or target set"
-msgstr "Chép lệnh hoặc tập hợp mục tiêu"
+msgstr "Nhân bản lệnh hoặc tập hợp mục tiêu"
 
 #: targets.cpp:43
 #, kde-format
@@ -449,17 +458,17 @@ msgstr "Chuyển mục tiêu được chọn xuống"
 #: targets.cpp:203
 #, kde-format
 msgid "Copy"
-msgstr ""
+msgstr "Sao chép"
 
 #: targets.cpp:207
 #, kde-format
 msgid "Cut"
-msgstr ""
+msgstr "Cắt"
 
 #: targets.cpp:211
 #, kde-format
 msgid "Paste after"
-msgstr ""
+msgstr "Dán sau"
 
 #: targets.cpp:245
 #, kde-format

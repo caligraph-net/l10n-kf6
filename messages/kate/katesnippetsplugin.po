@@ -98,18 +98,16 @@ msgstr "Tạo mảnh mã mới trong kho %1"
 #: editsnippet.cpp:146
 #, kde-format
 msgid "Snippet names with spaces may not work well in completions"
-msgstr ""
+msgstr "Tên mảnh mã có dấu cách có thể không hoạt động tốt khi tự động hoàn thành"
 
 #: editsnippet.cpp:186
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "The snippet contains unsaved changes. Do you want to continue and lose "
 #| "all changes?"
 msgid ""
 "The snippet contains unsaved changes. Do you want to discard all changes?"
-msgstr ""
-"Mảnh mã có các thay đổi chưa được lưu. Bạn có muốn tiếp tục và sẽ mất tất cả "
-"các thay đổi đó không?"
+msgstr "Mảnh mã có thay đổi chưa lưu. Bạn có muốn loại bỏ tất cả thay đổi?"
 
 #: editsnippet.cpp:187
 #, kde-format
@@ -119,7 +117,7 @@ msgstr "Cảnh báo - thay đổi chưa lưu"
 #: editsnippet.cpp:189
 #, kde-format
 msgid "Continue editing"
-msgstr ""
+msgstr "Tiếp tục chỉnh sửa"
 
 #. i18n: ectx: property (placeholderText), widget (QLineEdit, snippetNameEdit)
 #: editsnippet.ui:42

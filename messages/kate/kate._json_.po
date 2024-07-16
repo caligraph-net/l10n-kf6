@@ -67,7 +67,7 @@ msgstr "Định dạng"
 #: addons/gdbplugin/kategdbplugin.json
 msgctxt "Name"
 msgid "Kate Debugger"
-msgstr ""
+msgstr "Trình gỡ lỗi Kate"
 
 #: addons/git-blame/kategitblameplugin.json
 msgctxt "Name"
@@ -75,12 +75,12 @@ msgid "Git Blame"
 msgstr "Git Blame"
 
 #: addons/katebuild-plugin/katebuildplugin.json
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Build Plugin"
 msgctxt "Name"
 msgid "Build & Run"
-msgstr "Phần cài cắm \"xây\""
+msgstr "Xây & Chạy"
 
 #: addons/kate-ctags/katectagsplugin.json
 msgctxt "Name"
@@ -115,7 +115,7 @@ msgstr "Trình khách LSP"
 #: addons/openlink/OpenLinkPlugin.json
 msgctxt "Name"
 msgid "Open Link"
-msgstr ""
+msgstr "Mở Liên Kết"
 
 #: addons/preview/ktexteditorpreview.json
 msgctxt "Name"
@@ -135,7 +135,7 @@ msgstr "Dấu ngoặc được tô màu"
 #: addons/rbql/RBQLPlugin.json
 msgctxt "Name"
 msgid "Rainbow CSV"
-msgstr ""
+msgstr "Rainbow CSV"
 
 #: addons/replicode/katereplicodeplugin.json
 msgctxt "Name"
@@ -235,7 +235,7 @@ msgstr "Phần cài cắm để định dạng mã"
 #: addons/gdbplugin/kategdbplugin.json
 msgctxt "Description"
 msgid "Provides debugger integration"
-msgstr ""
+msgstr "Cung cấp tích hợp trình gỡ lỗi"
 
 #: addons/git-blame/kategitblameplugin.json
 msgctxt "Description"
@@ -245,7 +245,7 @@ msgstr "Thêm một phần xem thử git-blame tại chỗ ở cuối dòng"
 #: addons/katebuild-plugin/katebuildplugin.json
 msgctxt "Description"
 msgid "Build, parse output and run applications"
-msgstr ""
+msgstr "Xây dựng, phân tách kết quả và chạy ứng dụng"
 
 #: addons/kate-ctags/katectagsplugin.json
 msgctxt "Description"
@@ -280,7 +280,7 @@ msgstr "Trình khách Giao thức Trình chủ Ngôn ngữ"
 #: addons/openlink/OpenLinkPlugin.json
 msgctxt "Description"
 msgid "Highlight and open links"
-msgstr ""
+msgstr "Tô sáng và mở liên kết"
 
 #: addons/preview/ktexteditorpreview.json
 msgctxt "Description"
@@ -300,7 +300,7 @@ msgstr "Dấu ngoặc được tô màu cho dễ đọc"
 #: addons/rbql/RBQLPlugin.json
 msgctxt "Description"
 msgid "Run SQL-like queries using RBQL"
-msgstr ""
+msgstr "Chạy truy vấn giống SQL bằng RBQL"
 
 #: addons/replicode/katereplicodeplugin.json
 msgctxt "Description"
