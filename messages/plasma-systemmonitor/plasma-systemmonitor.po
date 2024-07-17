@@ -1,0 +1,749 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-systemmonitor package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-systemmonitor\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-03 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/GlobalMenu.qml:15
+#, kde-format
+msgctxt "@menu"
+msgid "File"
+msgstr "Tệp"
+
+#: src/GlobalMenu.qml:18
+#, kde-format
+msgctxt "@menu-action"
+msgid "Add New Page…"
+msgstr "Thêm Trang Mới..."
+
+#: src/GlobalMenu.qml:24
+#, kde-format
+msgctxt "@menu-action"
+msgid "Import Page…"
+msgstr "Nhập khẩu Trang..."
+
+#: src/GlobalMenu.qml:30
+#, kde-format
+msgctxt "@menu-action"
+msgid "Export Current Page…"
+msgstr "Xuất khẩu Trang Hiện Tại..."
+
+#: src/GlobalMenu.qml:37
+#, kde-format
+msgctxt "@menu-action"
+msgid "Get New Pages…"
+msgstr "Nhận Trang Mới..."
+
+#: src/GlobalMenu.qml:54
+#, kde-format
+msgctxt "@menu-action"
+msgid "Quit"
+msgstr "Thoát"
+
+#: src/GlobalMenu.qml:62
+#, kde-format
+msgctxt "@menu"
+msgid "View"
+msgstr "Xem"
+
+#: src/GlobalMenu.qml:65
+#, kde-format
+msgctxt "@menu-action"
+msgid "Expand Sidebar"
+msgstr "Mở rộng thanh bên"
+
+#: src/GlobalMenu.qml:65
+#, kde-format
+msgctxt "@menu-action"
+msgid "Collapse Sidebar"
+msgstr "Thu gọn thanh bên"
+
+#: src/GlobalMenu.qml:72
+#, kde-format
+msgctxt "@menu"
+msgid "Settings"
+msgstr "Thiết lập"
+
+#: src/GlobalMenu.qml:75
+#, kde-format
+msgctxt "@menu-action"
+msgid "Edit or Remove pages…"
+msgstr "Sửa hoặc Xoá các trang..."
+
+#: src/GlobalMenu.qml:82
+#, kde-format
+msgctxt "@menu"
+msgid "Help"
+msgstr "Trợ giúp"
+
+#: src/GlobalMenu.qml:85
+#, kde-format
+msgctxt "@menu-action"
+msgid "Report Bug…"
+msgstr "Báo lỗi..."
+
+#: src/GlobalMenu.qml:91
+#, kde-format
+msgctxt "@menu-action"
+msgid "About System Monitor"
+msgstr "Thông tin về Trình giám sát hệ thống"
+
+#: src/main.cpp:65
+#, kde-format
+msgid "System Monitor"
+msgstr "Trình giám sát hệ thống"
+
+#: src/main.cpp:67
+#, kde-format
+msgid "An application for monitoring system resources"
+msgstr "Một ứng dụng để theo dõi tài nguyên hệ thống"
+
+#: src/main.cpp:69
+#, kde-format
+msgid "© 2020 Plasma Development Team"
+msgstr "© 2020 Nhóm Phát triển Plasma"
+
+#: src/main.cpp:75
+#, kde-format
+msgid "Arjen Hiemstra"
+msgstr "Arjen Hiemstra"
+
+#: src/main.cpp:75 src/main.cpp:78 src/main.cpp:80 src/main.cpp:81
+#, kde-format
+msgid "Development"
+msgstr "Phát triển"
+
+#: src/main.cpp:76
+#, kde-format
+msgid "Uri Herrera"
+msgstr "Uri Herrera"
+
+#: src/main.cpp:76
+#, kde-format
+msgid "Design"
+msgstr "Thiết kế"
+
+#: src/main.cpp:77
+#, kde-format
+msgid "Nate Graham"
+msgstr "Nate Graham"
+
+#: src/main.cpp:77 src/main.cpp:79
+#, kde-format
+msgid "Design and Quality Assurance"
+msgstr "Thiết kế và Đảm bảo Chất lượng"
+
+#: src/main.cpp:78
+#, kde-format
+msgid "David Redondo"
+msgstr "David Redondo"
+
+#: src/main.cpp:79
+#, kde-format
+msgid "Noah Davis"
+msgstr "Noah Davis"
+
+#: src/main.cpp:80
+#, kde-format
+msgid "Marco Martin"
+msgstr "Marco Martin"
+
+#: src/main.cpp:81
+#, kde-format
+msgid "David Edmundson"
+msgstr "David Edmundson"
+
+#: src/main.cpp:83
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#: src/main.cpp:83
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Địa chỉ email của bạn"
+
+#: src/Main.qml:69
+#, kde-format
+msgctxt "@action"
+msgid "Tools"
+msgstr "Công cụ"
+
+#: src/Main.qml:75
+#, kde-format
+msgctxt "@action"
+msgid "Edit or Remove pages…"
+msgstr "Sửa hoặc Xoá các trang..."
+
+#: src/Main.qml:81
+#, kde-format
+msgctxt "@action"
+msgid "Export Current Page…"
+msgstr "Xuất khẩu Trang Hiện Tại..."
+
+#: src/Main.qml:89
+#, kde-format
+msgctxt "@action"
+msgid "Import Page…"
+msgstr "Nhập khẩu Trang..."
+
+#: src/Main.qml:95
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Get New Pages…"
+msgstr "Nhận Trang Mới..."
+
+#: src/Main.qml:108
+#, kde-format
+msgctxt "@action"
+msgid "Expand Sidebar"
+msgstr "Mở rộng thanh bên"
+
+#: src/Main.qml:108
+#, kde-format
+msgctxt "@action"
+msgid "Collapse Sidebar"
+msgstr "Thu gọn thanh bên"
+
+#: src/Main.qml:118
+#, kde-format
+msgctxt "@action"
+msgid "Report Bug…"
+msgstr "Báo lỗi..."
+
+#: src/Main.qml:124
+#, kde-format
+msgctxt "@action"
+msgid "About System Monitor"
+msgstr "Thông tin về Trình giám sát hệ thống"
+
+#: src/Main.qml:131
+#, kde-format
+msgctxt "@action"
+msgid "About KDE"
+msgstr "Về KDE"
+
+#: src/Main.qml:161
+#, kde-format
+msgctxt "@action"
+msgid "Add New Page…"
+msgstr "Thêm trang mới..."
+
+#: src/Main.qml:230
+#, kde-format
+msgctxt "@window:title"
+msgid "Add New Page"
+msgstr "Thêm Trang Mới"
+
+#: src/Main.qml:251
+#, kde-format
+msgctxt "@window:title"
+msgid "Edit Pages"
+msgstr "Chỉnh sửa trang"
+
+#: src/Main.qml:274
+#, kde-format
+msgctxt "@title:window %1 is the name of the page that is being exported"
+msgid "Export %1"
+msgstr "Xuất khẩu %1"
+
+#: src/Main.qml:276 src/Main.qml:286
+#, kde-format
+msgctxt "Name filter in file dialog"
+msgid "System Monitor page (*.page)"
+msgstr "Trang Trình giám sát hệ thống (*.page)"
+
+#: src/Main.qml:284
+#, kde-format
+msgctxt "@title:window"
+msgid "Import Page"
+msgstr "Trang Nhập Khẩu"
+
+#: src/Main.qml:348
+#, kde-format
+msgid ""
+"System Monitor has fallen back to software rendering because hardware "
+"acceleration is not available, and visual glitches may appear. Please check "
+"your graphics drivers."
+msgstr ""
+"Trình giám sát hệ thống đã chuyển sang kết xuất phần mềm vì tăng tốc phần "
+"cứng không khả dụng, và có thể xuất hiện các lỗi trực quan. Vui lòng kiểm "
+"tra các trình điều khiển đồ họa của bạn."
+
+#: src/page/ColumnControl.qml:117
+#, kde-format
+msgctxt "@action"
+msgid "Add Section"
+msgstr "Thêm khu vực"
+
+#: src/page/ColumnControl.qml:121
+#, kde-format
+msgctxt "@action"
+msgid "Add Separator"
+msgstr "Thêm phần phân cách"
+
+#: src/page/ColumnControl.qml:130
+#, kde-format
+msgctxt "@action"
+msgid "Show Background"
+msgstr "Hiện nền"
+
+#: src/page/ColumnControl.qml:137
+#, kde-format
+msgctxt "@action"
+msgid "Remove Background Margins"
+msgstr "Xoá Lề Nền"
+
+#: src/page/EditablePage.qml:86
+#, kde-format
+msgctxt "@action"
+msgid "Edit Page"
+msgstr "Sửa Trang"
+
+#: src/page/EditablePage.qml:96
+#, kde-format
+msgctxt "@action"
+msgid "Save Changes"
+msgstr "Lưu thay đổi"
+
+#: src/page/EditablePage.qml:106
+#, kde-format
+msgctxt "@action"
+msgid "Discard Changes"
+msgstr "Loại bỏ thay đổi"
+
+#: src/page/EditablePage.qml:117
+#, kde-format
+msgctxt "@action"
+msgid "Configure Page…"
+msgstr "Cấu hình Trang..."
+
+#: src/page/EditablePage.qml:126
+#, kde-format
+msgctxt "@action"
+msgid "Add Row"
+msgstr "Thêm hàng"
+
+#: src/page/EditablePage.qml:135
+#, kde-format
+msgctxt "@action"
+msgid "Add Title"
+msgstr "Thêm tiêu đề"
+
+#: src/page/EditablePage.qml:165
+#, kde-format
+msgctxt "@title:window %1 is page title"
+msgid "Configure Page \"%1\""
+msgstr "Cấu hình Trang \"%1\""
+
+#: src/page/EditablePage.qml:167
+#, kde-format
+msgctxt "@action:button"
+msgid "Save"
+msgstr "Lưu"
+
+#: src/page/EditorToolBar.qml:36
+#, kde-format
+msgctxt "@action"
+msgid "Add"
+msgstr "Thêm"
+
+#: src/page/EditorToolBar.qml:56
+#, kde-format
+msgctxt "@action"
+msgid "Remove"
+msgstr "Xoá"
+
+#: src/page/FaceConfigurationPage.qml:25
+#, kde-format
+msgctxt "@title:window %1 is face name"
+msgid "Configure %1"
+msgstr "Cấu hình %1"
+
+#: src/page/FaceConfigurationPage.qml:32
+#, kde-format
+msgctxt "@action"
+msgid "Close"
+msgstr "Đóng"
+
+#: src/page/FaceConfigurationPage.qml:39
+#, kde-format
+msgctxt "@action"
+msgid "Load Preset…"
+msgstr "Tải Preset..."
+
+#: src/page/FaceConfigurationPage.qml:45
+#, kde-format
+msgctxt "@action"
+msgid "Get new presets…"
+msgstr "Nhận các cài đặt trước mới..."
+
+#: src/page/FaceConfigurationPage.qml:56
+#, kde-format
+msgctxt "@action"
+msgid "Save Settings as Preset"
+msgstr "Lưu Thiết Lập dưới Dạng Preset"
+
+#: src/page/FaceConfigurationPage.qml:60
+#, kde-format
+msgctxt "@info:status %1 is preset name"
+msgid "Saved settings as preset %1."
+msgstr "Đã lưu thiết lập dưới dạng preset %1."
+
+#: src/page/FaceConfigurationPage.qml:66 src/page/PageContents.qml:298
+#, kde-format
+msgctxt "@action"
+msgid "Add Chart as Desktop Widget"
+msgstr "Thêm Biểu đồ làm Tiện ích Màn hình"
+
+#: src/page/FaceConfigurationPage.qml:77
+#, kde-format
+msgctxt "@action"
+msgid "Get new display styles…"
+msgstr "Nhận các kiểu hiển thị mới..."
+
+#: src/page/FaceConfigurationPage.qml:100
+#, kde-format
+msgctxt "@info:status %1 is preset name"
+msgid "Loaded preset %1."
+msgstr "Đã tải sẵn %1."
+
+#: src/page/FaceConfigurationPage.qml:117
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: src/page/FaceConfigurationPage.qml:123
+#, kde-format
+msgctxt "@option:check"
+msgid "Show Title"
+msgstr "Hiện tiêu đề"
+
+#: src/page/FaceConfigurationPage.qml:141
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Display Style"
+msgstr "Kiểu hiển thị"
+
+#: src/page/FaceConfigurationPage.qml:169
+#, kde-format
+msgctxt "@label"
+msgid "Minimum time between updates:"
+msgstr "Thời gian tối thiểu giữa các bản cập nhật:"
+
+#: src/page/FaceConfigurationPage.qml:186
+#, kde-format
+msgid "No Limit"
+msgstr "Không giới hạn"
+
+#. i18ndp doesn't handle floats :(
+#: src/page/FaceConfigurationPage.qml:190
+#, kde-format
+msgid "1 second"
+msgstr "1 giây"
+
+#: src/page/FaceConfigurationPage.qml:192
+#, kde-format
+msgid "%1 seconds"
+msgstr "%1 giây"
+
+#: src/page/FacesModel.cpp:46
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "No Chart"
+msgstr "Không có biểu đồ"
+
+#: src/page/LoadPresetDialog.qml:23
+#, kde-format
+msgctxt "@title:window"
+msgid "Load Preset"
+msgstr "Tải Preset"
+
+#: src/page/LoadPresetDialog.qml:37
+#, kde-format
+msgctxt "@action:button"
+msgid "Load"
+msgstr "Tải"
+
+#: src/page/MissingSensorsDialog.qml:23
+#, kde-format
+msgctxt "@title"
+msgid "Replace Missing Sensors"
+msgstr "Thay thế Cảm biến Bị Thiếu"
+
+#: src/page/MoveButton.qml:23
+#, kde-format
+msgctxt "@action"
+msgid "Move"
+msgstr "Di chuyển"
+
+#: src/page/PageContents.qml:99 src/page/PageEditor.qml:131
+#, kde-format
+msgid "This page is missing some sensors and will not display correctly."
+msgstr "Trang này thiếu một số cảm biến và sẽ không hiển thị chính xác."
+
+#: src/page/PageContents.qml:103 src/page/PageEditor.qml:135
+#, kde-format
+msgctxt "@action:button"
+msgid "Fix…"
+msgstr "Sửa..."
+
+#: src/page/PageDialog.qml:21
+#, kde-format
+msgctxt "@action:button"
+msgid "Add"
+msgstr "Thêm"
+
+#: src/page/PageDialog.qml:24
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "New Page"
+msgstr "Trang mới"
+
+#: src/page/PageDialog.qml:85
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Name:"
+msgstr "Tên:"
+
+#: src/page/PageDialog.qml:96
+#, kde-format
+msgctxt "@info:status"
+msgid "Name cannot be empty."
+msgstr "Tên không thể để trống."
+
+#: src/page/PageDialog.qml:100
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Icon:"
+msgstr "Biểu tượng:"
+
+#: src/page/PageDialog.qml:105
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Page Margins:"
+msgstr "Lề trang:"
+
+#: src/page/PageDialog.qml:118
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "None"
+msgstr "Không"
+
+#: src/page/PageDialog.qml:119
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Small"
+msgstr "Nhỏ"
+
+#: src/page/PageDialog.qml:120
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Large"
+msgstr "Lớn"
+
+#: src/page/PageDialog.qml:129
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Use Actions From:"
+msgstr "Sử dụng Hành Động Từ:"
+
+#: src/page/PageDialog.qml:147
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Load this page:"
+msgstr "Tải trang này:"
+
+#: src/page/PageDialog.qml:160
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "When needed"
+msgstr "Khi cần thiết"
+
+#: src/page/PageDialog.qml:161
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "During application startup"
+msgstr "Trong khi khởi động ứng dụng"
+
+#: src/page/PageEditor.qml:181
+#, kde-format
+msgid "New Title"
+msgstr "Tiêu đề mới"
+
+#: src/page/PageSortDialog.qml:96
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Show Page"
+msgstr "Hiển thị trang"
+
+#: src/page/PageSortDialog.qml:97
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Hide Page"
+msgstr "Ẩn trang"
+
+#: src/page/PageSortDialog.qml:141
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Do not reset the page"
+msgstr "Không đặt lại trang"
+
+#: src/page/PageSortDialog.qml:145
+#, kde-format
+msgctxt "@item:intable"
+msgid "The page will be reset to its default state"
+msgstr "Trang sẽ được đặt lại về trạng thái mặc định"
+
+#: src/page/PageSortDialog.qml:154
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Reset the page to its default state"
+msgstr "Đặt lại trang về trạng thái mặc định"
+
+#: src/page/PageSortDialog.qml:163
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Do not remove this page"
+msgstr "Không được xoá trang này"
+
+#: src/page/PageSortDialog.qml:167
+#, kde-format
+msgctxt "@item:intable"
+msgid "The page will be removed"
+msgstr "Trang này sẽ bị xóa"
+
+#: src/page/PageSortDialog.qml:176
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Remove this page"
+msgstr "Xoá trang này"
+
+#: src/page/PageSortDialog.qml:194
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Start with:"
+msgstr "Bắt đầu với:"
+
+#: src/page/PageSortDialog.qml:203
+#, kde-format
+msgid "Last Visited Page"
+msgstr "Trang đã truy cập gần đây"
+
+#: src/page/RowControl.qml:128
+#, kde-format
+msgctxt "@action"
+msgid "Add Column"
+msgstr "Thêm cột"
+
+#: src/page/RowControl.qml:137
+#, kde-format
+msgctxt "@action"
+msgid "Height"
+msgstr "Chiều cao"
+
+#: src/page/RowControl.qml:141
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Balanced"
+msgstr "Cân bằng"
+
+#: src/page/RowControl.qml:142
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Try and use the same height across different rows."
+msgstr "Hãy cố gắng sử dụng cùng một chiều cao trên các hàng khác nhau."
+
+#: src/page/RowControl.qml:150
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Minimum"
+msgstr "Tối thiểu"
+
+#: src/page/RowControl.qml:151
+#, kde-format
+msgctxt "@info:tooltop"
+msgid "Use the minimum amount of height needed to display contents correctly."
+msgstr "Sử dụng chiều cao tối thiểu cần thiết để hiển thị nội dung chính xác."
+
+#: src/page/RowControl.qml:159
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Maximum"
+msgstr "Tối đa"
+
+#: src/page/RowControl.qml:160
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Try to use as much height as possible."
+msgstr "Cố gắng sử dụng càng nhiều chiều cao càng tốt."
+
+#: src/table/ColumnConfigurationDialog.qml:27
+#, kde-format
+msgctxt "@window:title"
+msgid "Configure Columns"
+msgstr "Cấu hình Cột"
+
+#: src/table/ColumnConfigurationDialog.qml:143
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Hidden"
+msgstr "Ẩn"
+
+#: src/table/ColumnConfigurationDialog.qml:144
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Text Only"
+msgstr "Chỉ Văn Bản"
+
+#: src/table/ColumnConfigurationDialog.qml:150
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Line Chart"
+msgstr "Biểu đồ đường"
+
+#: src/table/ColumnConfigurationDialog.qml:154
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Text Only (Scaled to 100%)"
+msgstr "Chỉ Văn Bản (Tỷ Lệ 100%)"
+
+#: src/table/ColumnConfigurationDialog.qml:155
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Line Chart (Scaled to 100%)"
+msgstr "Biểu đồ đường (Tỷ lệ 100%)"
+
+#: src/table/KillDialog.qml:81
+#, kde-format
+msgctxt "@option:check"
+msgid "Do not ask again"
+msgstr "Không hỏi lại"
+
+#: src/ToolsModel.cpp:37
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Kill a Window…"
+msgstr "Diệt một Cửa sổ..."
+
+#: src/ToolsModel.cpp:115
+#, kde-format
+msgctxt "@action:inmenu %1 is application name"
+msgid "Launch %1"
+msgstr "Khởi chạy %1"

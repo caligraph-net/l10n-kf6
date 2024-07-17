@@ -1,0 +1,104 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-01-31 00:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kcm_external_plasma-systemmonitor.desktop:14
+#: org.kde.plasma-systemmonitor.desktop:2
+msgctxt "Name"
+msgid "System Monitor"
+msgstr "Trình giám sát hệ thống"
+
+#: kcm_external_plasma-systemmonitor.desktop:63
+msgctxt "X-KDE-Keywords"
+msgid "Memory,RAM,cpu,disk,gpu,network"
+msgstr "Bộ nhớ,RAM,cpu,đĩa,gpu,mạng"
+
+#: org.kde.plasma-systemmonitor.desktop:50
+msgctxt "GenericName"
+msgid "System Monitor"
+msgstr "Trình giám sát hệ thống"
+
+#: org.kde.plasma-systemmonitor.desktop:102
+msgctxt "Keywords"
+msgid "task;manager;process;cpu;memory;"
+msgstr "nhiệm vụ;quản lý;tiến trình;cpu;bộ nhớ;"
+
+#: src/pages/applications.page:10 src/pages/overview.page:531
+msgctxt "Title"
+msgid "Applications"
+msgstr "Ứng dụng"
+
+#: src/pages/history.page:34
+msgctxt "Title"
+msgid "History"
+msgstr "Lịch sử"
+
+#: src/pages/history.page:86 src/pages/overview.page:180
+msgctxt "Title"
+msgid "CPU"
+msgstr "CPU"
+
+#: src/pages/history.page:138 src/pages/history.page:249
+#: src/pages/history.page:360
+msgctxt "Title"
+msgid "false"
+msgstr "sai"
+
+#: src/pages/history.page:197 src/pages/overview.page:6
+msgctxt "Title"
+msgid "Memory"
+msgstr "Bộ nhớ"
+
+#: src/pages/history.page:308
+msgctxt "Title"
+msgid "Network"
+msgstr "Mạng lưới"
+
+#: src/pages/overview.page:63
+msgctxt "Title"
+msgid "Networks"
+msgstr "Mạng"
+
+#: src/pages/overview.page:123
+msgctxt "Title"
+msgid "Disk"
+msgstr "Đĩa"
+
+#: src/pages/overview.page:240
+msgctxt "Title"
+msgid "System"
+msgstr "Hệ thống"
+
+#: src/pages/overview.page:293
+msgctxt "Title"
+msgid "Network Rates"
+msgstr "Tốc độ mạng"
+
+#: src/pages/overview.page:355
+msgctxt "Title"
+msgid "Overview"
+msgstr "Tổng quan"
+
+#: src/pages/overview.page:443
+msgctxt "Title"
+msgid "Network & System"
+msgstr "Mạng & Hệ thống"
+
+#: src/pages/processes.page:10
+msgctxt "Title"
+msgid "Processes"
+msgstr "Quy trình"
+
+#: src/plasma-systemmonitor.knsrc:4
+msgctxt "Name"
+msgid "Pages"
+msgstr "Trang"
