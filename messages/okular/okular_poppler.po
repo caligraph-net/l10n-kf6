@@ -31,7 +31,7 @@ msgstr "phu.nguyen@kdemail.net"
 #: conf/pdfsettingswidget.ui:17
 #, kde-format
 msgid "Enable overprint preview"
-msgstr ""
+msgstr "Bật xem thử overprint"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: conf/pdfsettingswidget.ui:26
@@ -59,10 +59,10 @@ msgstr "Hình dạng"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: conf/pdfsettingswidget.ui:72
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Scaling mode for the printed pages"
 msgid "Default scaling mode when printing:"
-msgstr "Chế độ đổi cỡ cho các trang được in"
+msgstr "Chế độ đổi cỡ mặc định khi in:"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, kcfg_PrintScaleMode)
 #: conf/pdfsettingswidget.ui:80 generator_pdf.cpp:100
@@ -107,7 +107,7 @@ msgstr ""
 #: conf/pdfsettingswidget.ui:138
 #, kde-format
 msgid "Signature backend:"
-msgstr ""
+msgstr "Nền tảng chữ ký:"
 
 #. i18n: ectx: property (title), widget (QGroupBox, certDBGroupBox)
 #: conf/pdfsettingswidget.ui:164

@@ -888,7 +888,7 @@ msgstr "Chứng chỉ chưa được xác minh."
 #: gui/signatureguiutils.cpp:72
 #, kde-format
 msgid "Certificate validation in progress"
-msgstr ""
+msgstr "Đang tiến hành kiểm nhận chứng chỉ"
 
 #: gui/signatureguiutils.cpp:74
 #, kde-format
@@ -1084,10 +1084,10 @@ msgid "Reason: %1"
 msgstr "Lí do: %1"
 
 #: gui/signaturemodel.cpp:177
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Reason: %1"
 msgid "Location: %1"
-msgstr "Lí do: %1"
+msgstr "Vị trí: %1"
 
 #: part/annotationactionhandler.cpp:148
 #, kde-format
@@ -3261,256 +3261,256 @@ msgstr "Độ dày nét &bút:"
 #, kde-format
 msgctxt "Suffix for the pen width, eg '10 px'"
 msgid " px"
-msgstr ""
+msgstr "px"
 
 #: part/editdrawingtooldialog.cpp:73
 #, kde-format
 msgctxt "Suffix for the opacity level, eg '80 %'"
 msgid " %"
-msgstr ""
+msgstr "%"
 
 #: part/editdrawingtooldialog.cpp:78
 #, kde-format
 msgid "Create drawing tool"
-msgstr ""
+msgstr "Tạo công cụ vẽ"
 
 #: part/editdrawingtooldialog.cpp:83
 #, kde-format
 msgid "Edit drawing tool"
-msgstr ""
+msgstr "Sửa công cụ vẽ"
 
 #: part/embeddedfilesdialog.cpp:42
 #, kde-format
 msgctxt "Unknown date"
 msgid "Unknown"
-msgstr ""
+msgstr "không rõ"
 
 #: part/embeddedfilesdialog.cpp:48
 #, kde-format
 msgctxt "@title:window"
 msgid "Embedded Files"
-msgstr ""
+msgstr "Tệp nhúng"
 
 #: part/embeddedfilesdialog.cpp:62
 #, kde-format
 msgctxt "@action:button"
 msgid "View"
-msgstr ""
+msgstr "Xem"
 
 #: part/embeddedfilesdialog.cpp:70
 #, kde-format
 msgctxt "@title:column"
 msgid "Name"
-msgstr ""
+msgstr "Tên"
 
 #: part/embeddedfilesdialog.cpp:71
 #, kde-format
 msgctxt "@title:column"
 msgid "Description"
-msgstr ""
+msgstr "Mô tả"
 
 #: part/embeddedfilesdialog.cpp:72
 #, kde-format
 msgctxt "@title:column"
 msgid "Size"
-msgstr ""
+msgstr "Kích thước"
 
 #: part/embeddedfilesdialog.cpp:73
 #, kde-format
 msgctxt "@title:column"
 msgid "Created"
-msgstr ""
+msgstr "Đã tạo"
 
 #: part/embeddedfilesdialog.cpp:74
 #, kde-format
 msgctxt "@title:column"
 msgid "Modified"
-msgstr ""
+msgstr "Đã chỉnh sửa"
 
 #: part/embeddedfilesdialog.cpp:154
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Save As..."
-msgstr ""
+msgstr "Lư&u Dưới Tên..."
 
 #: part/embeddedfilesdialog.cpp:155
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&View..."
-msgstr ""
+msgstr "X&em..."
 
 #: part/fileprinterpreview.cpp:113
 #, kde-format
 msgid "Could not load print preview part"
-msgstr ""
+msgstr "Không thể tải phần xem thử trước khi in"
 
 #: part/fileprinterpreview.cpp:125
 #, kde-format
 msgid "Print Preview"
-msgstr ""
+msgstr "Xem thử trước khi in"
 
 #: part/findbar.cpp:34 part/presentationsearchbar.cpp:63
 #, kde-format
 msgid "Close"
-msgstr ""
+msgstr "Đóng"
 
 #: part/findbar.cpp:38
 #, kde-format
 msgctxt "Find text"
 msgid "F&ind:"
-msgstr ""
+msgstr "&Tìm:"
 
 #: part/findbar.cpp:49
 #, kde-format
 msgid "Text to search for"
-msgstr ""
+msgstr "Văn bản cần tìm"
 
 #: part/findbar.cpp:54
 #, kde-format
 msgctxt "Find and go to the next search match"
 msgid "Next"
-msgstr ""
+msgstr "Tiếp"
 
 #: part/findbar.cpp:55
 #, kde-format
 msgid "Jump to next match"
-msgstr ""
+msgstr "Nhảy đến kết quả tiếp theo"
 
 #: part/findbar.cpp:58
 #, kde-format
 msgctxt "Find and go to the previous search match"
 msgid "Previous"
-msgstr ""
+msgstr "Trước"
 
 #: part/findbar.cpp:59
 #, kde-format
 msgid "Jump to previous match"
-msgstr ""
+msgstr "Nhảy đến kết quả trước"
 
 #: part/findbar.cpp:64
 #, kde-format
 msgid "Modify search behavior"
-msgstr ""
+msgstr "Chỉnh sửa hành vi tìm kiếm"
 
 #: part/findbar.cpp:66
 #, kde-format
 msgid "Case sensitive"
-msgstr ""
+msgstr "Phân biệt chữ hoa chữ thường"
 
 #: part/findbar.cpp:68
 #, kde-format
 msgid "From current page"
-msgstr ""
+msgstr "Từ trang hiện tại"
 
 #: part/findbar.cpp:70
 #, kde-format
 msgid "Find as you type"
-msgstr ""
+msgstr "Tìm khi bạn đang gõ"
 
 #: part/formwidgets.cpp:862
 #, kde-format
 msgid "All Files (*)"
-msgstr ""
+msgstr "Tất cả tệp (*)"
 
 #: part/formwidgets.cpp:1223
 #, kde-format
 msgid "Unsigned Signature Field (Click to Sign)"
-msgstr ""
+msgstr "Trường Chữ Ký Chưa Ký (Nhấp để Ký)"
 
 #: part/formwidgets.cpp:1289 part/signaturepanel.cpp:97
 #, kde-format
 msgid "&Sign..."
-msgstr ""
+msgstr "&Ký..."
 
 #: part/formwidgets.cpp:1293 part/signaturepropertiesdialog.cpp:40
 #, kde-format
 msgid "Signature Properties"
-msgstr ""
+msgstr "Thuộc tính chữ ký"
 
 #: part/ktreeviewsearchline.cpp:283
 #, kde-format
 msgid "Search Options"
-msgstr ""
+msgstr "Tùy chọn tìm kiếm"
 
 #: part/ktreeviewsearchline.cpp:284
 #, kde-format
 msgctxt "Enable case sensitive search in the side navigation panels"
 msgid "Case Sensitive"
-msgstr ""
+msgstr "Tìm kiếm phân biệt chữ hoa chữ thường"
 
 #: part/ktreeviewsearchline.cpp:287
 #, kde-format
 msgctxt "Enable regular expression search in the side navigation panels"
 msgid "Regular Expression"
-msgstr ""
+msgstr "Biểu thức chính quy"
 
 #: part/ktreeviewsearchline.cpp:386
 #, kde-format
 msgid "S&earch:"
-msgstr ""
+msgstr "&Tìm kiếm:"
 
 #: part/layers.cpp:35 part/part.cpp:2267
 #, kde-format
 msgid "Layers"
-msgstr ""
+msgstr "Lớp"
 
 #: part/minibar.cpp:190
 #, kde-format
 msgctxt "Layouted like: '5 [pages] of 10'"
 msgid "of"
-msgstr ""
+msgstr "trên"
 
 #: part/pageview.cpp:480
 #, kde-format
 msgid "Zoom"
-msgstr ""
+msgstr "Thu phóng"
 
 #: part/pageview.cpp:492
 #, kde-format
 msgid "Zoom to 100%"
-msgstr ""
+msgstr "Thu phóng 100%"
 
 #: part/pageview.cpp:503
 #, kde-format
 msgid "Rotate &Right"
-msgstr ""
+msgstr "Xoay P&hải"
 
 #: part/pageview.cpp:504
 #, kde-format
 msgctxt "Rotate right"
 msgid "Right"
-msgstr ""
+msgstr "Xoay sang phải"
 
 #: part/pageview.cpp:508
 #, kde-format
 msgid "Rotate &Left"
-msgstr ""
+msgstr "X&oay Trái"
 
 #: part/pageview.cpp:509
 #, kde-format
 msgctxt "Rotate left"
 msgid "Left"
-msgstr ""
+msgstr "Xoay trái"
 
 #: part/pageview.cpp:513
 #, kde-format
 msgid "Original Orientation"
-msgstr ""
+msgstr "Hướng ban đầu"
 
 #: part/pageview.cpp:519
 #, kde-format
 msgid "&Trim View"
-msgstr ""
+msgstr "Cắt Xe&m"
 
 #: part/pageview.cpp:523
 #, kde-format
 msgid "&Trim Margins"
-msgstr ""
+msgstr "&Cắt Lề"
 
 #: part/pageview.cpp:530
 #, kde-format
 msgid "Trim To &Selection"
-msgstr ""
+msgstr "Cắt th&eo phần bôi đen"
 
 #: part/pageview.cpp:536
 #, kde-format
@@ -3662,7 +3662,7 @@ msgstr "Hiển thị biểu mẫu"
 #, kde-format
 msgid " Loaded a one-page document."
 msgid_plural " Loaded a %1-page document."
-msgstr[0] "Đã tải tài liệu một trang."
+msgstr[0] "Đã tải tài liệu có %1 trang."
 
 #: part/pageview.cpp:2490
 #, kde-format
@@ -3673,7 +3673,7 @@ msgstr "Sao chép nội dung bảng vào bảng nháp"
 #, kde-format
 msgid "Text (1 character)"
 msgid_plural "Text (%1 characters)"
-msgstr[0] "Văn bản (1 ký tự)"
+msgstr[0] "Văn bản (%1 ký tự)"
 
 #: part/pageview.cpp:2810 part/pageview.cpp:2828
 #, kde-format
@@ -3743,10 +3743,10 @@ msgstr "Vừa trang"
 #: part/pageview.cpp:4029
 #, kde-format
 msgid "Auto Fit"
-msgstr ""
+msgstr "Tự động vừa khít"
 
 #: part/pageview.cpp:4052
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@item:inlistbox"
 #| msgid "%1%"
 msgctxt ""
@@ -3759,62 +3759,62 @@ msgstr "%1%"
 #: part/pageview.cpp:4335
 #, kde-format
 msgid "Search for '%1' with"
-msgstr ""
+msgstr "Tìm kiếm '%1' với"
 
 #: part/pageview.cpp:4349
 #, kde-format
 msgid "Configure Web Shortcuts..."
-msgstr ""
+msgstr "Cấu hình Lối tắt Web..."
 
 #: part/pageview.cpp:4375
 #, kde-format
 msgid "Follow This Link"
-msgstr ""
+msgstr "Theo liên kết này"
 
 #: part/pageview.cpp:4378
 #, kde-format
 msgid "Play this Sound"
-msgstr ""
+msgstr "Phát âm thanh này"
 
 #: part/pageview.cpp:4380
 #, kde-format
 msgid "Stop Sound"
-msgstr ""
+msgstr "Dừng âm thanh"
 
 #: part/pageview.cpp:4386
 #, kde-format
 msgid "Copy Link Address"
-msgstr ""
+msgstr "Sao chép địa chỉ liên kết"
 
 #: part/pageview.cpp:4407
 #, kde-format
 msgid "Search for '%1' in this document"
-msgstr ""
+msgstr "Tìm kiếm '%1' trong tài liệu này"
 
 #: part/pageview.cpp:4939
 #, kde-format
 msgid "Welcome"
-msgstr ""
+msgstr "Chào mừng"
 
 #: part/pageview.cpp:5061
 #, kde-format
 msgid "Select zooming area. Right-click to zoom out."
-msgstr ""
+msgstr "Chọn vùng thu phóng. Nhấn chuột phải để thu nhỏ."
 
 #: part/pageview.cpp:5074
 #, kde-format
 msgid "Click to see the magnified view."
-msgstr ""
+msgstr "Bấm để xem chế độ phóng to."
 
 #: part/pageview.cpp:5089
 #, kde-format
 msgid "Draw a rectangle around the text/graphics to copy."
-msgstr ""
+msgstr "Vẽ một hình chữ nhật xung quanh văn bản/đồ họa để sao chép."
 
 #: part/pageview.cpp:5103
 #, kde-format
 msgid "Select text"
-msgstr ""
+msgstr "Bôi đen văn bản"
 
 #: part/pageview.cpp:5117
 #, kde-format
@@ -3837,31 +3837,33 @@ msgid ""
 "please see the section about <a href=\"%1\">Adding Digital Signatures</a> in "
 "the manual."
 msgstr ""
+"Không có chứng chỉ ký số khả dụng.<br/>Để biết thêm thông tin, vui lòng xem "
+"khu vực <a href=\"%1\">Thêm Chữ Ký Số</a> trong hướng dẫn sử dụng."
 
 #: part/pageview.cpp:5148
 #, kde-format
 msgid "You have unsaved changes. Please save the document before signing it."
-msgstr ""
+msgstr "Bạn có những thay đổi chưa được lưu. Vui lòng lưu tài liệu trước khi ký nó."
 
 #: part/pageview.cpp:5164
 #, kde-format
 msgid "Draw a rectangle to insert the signature field"
-msgstr ""
+msgstr "Vẽ một hình chữ nhật để chèn trường chữ ký"
 
 #: part/pageview.cpp:5308
 #, kde-format
 msgid "Draw a rectangle around the page area you wish to keep visible"
-msgstr ""
+msgstr "Vẽ một hình chữ nhật xung quanh khu vực trang mà bạn muốn giữ hiển thị"
 
 #: part/pageviewannotator.cpp:218
 #, kde-format
 msgid "New Text Note"
-msgstr ""
+msgstr "Ghi chú mới"
 
 #: part/pageviewannotator.cpp:218
 #, kde-format
 msgid "Text of the new note:"
-msgstr ""
+msgstr "Văn bản của ghi chú mới:"
 
 #: part/pageviewannotator.cpp:362
 #, kde-kuit-format

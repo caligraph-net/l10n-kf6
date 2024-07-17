@@ -1,0 +1,549 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the dolphin-plugins package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: dolphin-plugins\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-01 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: fileviewsvnplugin.cpp:71
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "SVN Update"
+msgstr "Cập nhật SVN"
+
+#: fileviewsvnplugin.cpp:76
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Show Local SVN Changes"
+msgstr "Hiện Thay Đổi SVN Cục Bộ"
+
+#: fileviewsvnplugin.cpp:81
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "SVN Commit..."
+msgstr "Cam kết SVN..."
+
+#: fileviewsvnplugin.cpp:86
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "SVN Add"
+msgstr "Thêm SVN"
+
+#: fileviewsvnplugin.cpp:91
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "SVN Delete"
+msgstr "Xóa SVN"
+
+#: fileviewsvnplugin.cpp:96
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "SVN Revert"
+msgstr "Hoàn nguyên SVN"
+
+#: fileviewsvnplugin.cpp:101
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Show SVN Updates"
+msgstr "Hiển thị cập nhật SVN"
+
+#: fileviewsvnplugin.cpp:107
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "SVN Log..."
+msgstr "Nhật ký SVN..."
+
+#: fileviewsvnplugin.cpp:111
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "SVN Checkout..."
+msgstr "Kiểm tra SVN..."
+
+#: fileviewsvnplugin.cpp:115
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "SVN Cleanup..."
+msgstr "Dọn dẹp SVN..."
+
+#: fileviewsvnplugin.cpp:225
+#, kde-format
+msgctxt "@info:status"
+msgid "SVN status update failed. Disabling Option \"Show SVN Updates\"."
+msgstr ""
+"Cập nhật trạng thái SVN không thành công. Đang tắt tùy chọn \"Hiển thị cập "
+"nhật SVN\"."
+
+#: fileviewsvnplugin.cpp:361
+#, kde-format
+msgctxt "@title:window"
+msgid "SVN Update"
+msgstr "Cập nhật SVN"
+
+#: fileviewsvnplugin.cpp:366
+#, kde-format
+msgctxt "@info:status"
+msgid "Updating SVN repository..."
+msgstr "Đang cập nhật kho lưu trữ SVN..."
+
+#: fileviewsvnplugin.cpp:367
+#, kde-format
+msgctxt "@info:status"
+msgid "Update of SVN repository failed."
+msgstr "Cập nhật kho SVN không thành công."
+
+#: fileviewsvnplugin.cpp:368
+#, kde-format
+msgctxt "@info:status"
+msgid "Updated SVN repository."
+msgstr "Kho lưu trữ SVN đã được cập nhật."
+
+#: fileviewsvnplugin.cpp:382
+#, kde-format
+msgctxt "@info:status"
+msgid "Could not show local SVN changes."
+msgstr "Không thể hiển thị các thay đổi SVN cục bộ."
+
+#: fileviewsvnplugin.cpp:390
+#, kde-format
+msgctxt "@info:status"
+msgid "Could not show local SVN changes: svn diff failed."
+msgstr "Không thể hiển thị các thay đổi SVN cục bộ: svn diff thất bại."
+
+#: fileviewsvnplugin.cpp:397 fileviewsvnplugin.cpp:598
+#: fileviewsvnplugin.cpp:621
+#, kde-format
+msgctxt "@info:status"
+msgid "Could not show local SVN changes: could not start kompare."
+msgstr "Không thể hiển thị các thay đổi SVN cục bộ: không thể khởi động kompare."
+
+#: fileviewsvnplugin.cpp:430
+#, kde-format
+msgctxt "@info:status"
+msgid "Adding files to SVN repository..."
+msgstr "Đang thêm tệp vào kho lưu trữ SVN..."
+
+#: fileviewsvnplugin.cpp:431
+#, kde-format
+msgctxt "@info:status"
+msgid "Adding of files to SVN repository failed."
+msgstr "Thêm tệp vào kho SVN không thành công."
+
+#: fileviewsvnplugin.cpp:432
+#, kde-format
+msgctxt "@info:status"
+msgid "Added files to SVN repository."
+msgstr "Đã thêm tệp vào kho lưu trữ SVN."
+
+#: fileviewsvnplugin.cpp:439
+#, kde-format
+msgctxt "@info:status"
+msgid "Removing files from SVN repository..."
+msgstr "Đang xóa tệp khỏi kho lưu trữ SVN..."
+
+#: fileviewsvnplugin.cpp:440
+#, kde-format
+msgctxt "@info:status"
+msgid "Removing of files from SVN repository failed."
+msgstr "Xóa tệp khỏi kho SVN không thành công."
+
+#: fileviewsvnplugin.cpp:441
+#, kde-format
+msgctxt "@info:status"
+msgid "Removed files from SVN repository."
+msgstr "Đã xóa các tệp khỏi kho lưu trữ SVN."
+
+#: fileviewsvnplugin.cpp:461 fileviewsvnplugin.cpp:567
+#, kde-format
+msgctxt "@title:window"
+msgid "SVN Revert"
+msgstr "Hoàn nguyên SVN"
+
+#: fileviewsvnplugin.cpp:466
+#, kde-format
+msgctxt "@info:status"
+msgid "Reverting files from SVN repository..."
+msgstr "Đang hoàn tác các tệp từ kho lưu trữ SVN..."
+
+#: fileviewsvnplugin.cpp:467
+#, kde-format
+msgctxt "@info:status"
+msgid "Reverting of files from SVN repository failed."
+msgstr "Việc hoàn tác các tệp từ kho SVN đã thất bại."
+
+#: fileviewsvnplugin.cpp:468
+#, kde-format
+msgctxt "@info:status"
+msgid "Reverted files from SVN repository."
+msgstr "Đã hoàn tác các tệp từ kho lưu trữ SVN."
+
+#: fileviewsvnplugin.cpp:493
+#, kde-format
+msgctxt "@info:status"
+msgid "SVN checkout: checkout in process..."
+msgstr "Lấy ra SVN: đang trong quá trình lấy ra..."
+
+#: fileviewsvnplugin.cpp:497
+#, kde-format
+msgctxt "@info:status"
+msgid "SVN error starting: %1"
+msgstr "Lỗi SVN khi bắt đầu: %1"
+
+#: fileviewsvnplugin.cpp:501
+#, kde-format
+msgctxt "@info:status"
+msgid "SVN checkout: checkout failed: %1"
+msgstr "Lấy ra SVN: lấy ra không thành công: %1"
+
+#: fileviewsvnplugin.cpp:503
+#, kde-format
+msgctxt "@info:status"
+msgid "SVN checkout: checkout successful."
+msgstr "Lấy ra SVN: lấy ra thành công."
+
+#: fileviewsvnplugin.cpp:507
+#, kde-format
+msgctxt "@title:window"
+msgid "SVN Checkout"
+msgstr "Lấy ra SVN"
+
+#: fileviewsvnplugin.cpp:572
+#, kde-format
+msgctxt "@info:status"
+msgid "Reverting changes to file..."
+msgstr "Đang hoàn tác các thay đổi trên tệp..."
+
+#: fileviewsvnplugin.cpp:573
+#, kde-format
+msgctxt "@info:status"
+msgid "Revert file failed."
+msgstr "Hoàn nguyên tệp không thành công."
+
+#: fileviewsvnplugin.cpp:574
+#, kde-format
+msgctxt "@info:status"
+msgid "File reverted."
+msgstr "Tệp đã được hoàn tác."
+
+#: fileviewsvnplugin.cpp:591 fileviewsvnplugin.cpp:608
+#: fileviewsvnplugin.cpp:613
+#, kde-format
+msgctxt "@info:status"
+msgid "Could not show local SVN changes for a file: could not get file."
+msgstr "Không thể hiển thị các thay đổi SVN cục bộ cho một tệp: không thể lấy tệp."
+
+#: fileviewsvnplugin.cpp:648 fileviewsvnplugin.cpp:674
+#, kde-format
+msgctxt "@info:status"
+msgid "Commit of SVN changes failed."
+msgstr "Chuyển giao các thay đổi của SVN đã thất bại."
+
+#: fileviewsvnplugin.cpp:668 svncommitdialog.cpp:152
+#, kde-format
+msgctxt "@title:window"
+msgid "SVN Commit"
+msgstr "Chuyển giao SVN"
+
+#: fileviewsvnplugin.cpp:673
+#, kde-format
+msgctxt "@info:status"
+msgid "Committing SVN changes..."
+msgstr "Đang thực hiện commit các thay đổi SVN..."
+
+#: fileviewsvnplugin.cpp:675
+#, kde-format
+msgctxt "@info:status"
+msgid "Committed SVN changes."
+msgstr "Đã thực hiện các thay đổi SVN."
+
+#. i18n: ectx: label, entry (showUpdates), group (General)
+#: fileviewsvnpluginsettings.kcfg:9
+#, kde-format
+msgid "Show updates"
+msgstr "Hiển thị cập nhật"
+
+#: svncheckoutdialog.cpp:63
+#, kde-format
+msgctxt "@title:window"
+msgid "Choose a directory to checkout"
+msgstr "Chọn một thư mục để lấy ra"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, SvnCheckoutDialog)
+#: svncheckoutdialog.ui:20
+#, kde-format
+msgid "SVN Checkout"
+msgstr "Lấy ra từ SVN"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: svncheckoutdialog.ui:26
+#, kde-format
+msgid "URL of repository:"
+msgstr "Đường dẫn kho lưu trữ:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: svncheckoutdialog.ui:36
+#, kde-format
+msgid "Checkout directory:"
+msgstr "Thư mục lấy ra:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbOmitExternals)
+#: svncheckoutdialog.ui:46
+#, kde-format
+msgid "Omit externals"
+msgstr "Bỏ qua các thành phần bên ngoài"
+
+#. i18n: ectx: property (text), widget (QPushButton, pbOk)
+#. i18n: ectx: property (text), widget (QPushButton, buttonOk)
+#: svncheckoutdialog.ui:71 svncleanupdialog.ui:80 svnlogdialog.ui:146
+#: svnprogressdialog.ui:46
+#, kde-format
+msgid "OK"
+msgstr "Đồng ý"
+
+#. i18n: ectx: property (text), widget (QPushButton, pbCancel)
+#. i18n: ectx: property (text), widget (QPushButton, buttonCancel)
+#: svncheckoutdialog.ui:81 svncleanupdialog.ui:96 svnprogressdialog.ui:33
+#, kde-format
+msgid "Cancel"
+msgstr "Huỷ"
+
+#: svncleanupdialog.cpp:27
+#, kde-format
+msgctxt "@title:window"
+msgid "Choose a directory to clean up"
+msgstr "Chọn một thư mục để dọn dẹp"
+
+#: svncleanupdialog.cpp:62
+#, kde-format
+msgctxt "@info:status"
+msgid "SVN clean up completed successfully."
+msgstr "Dọn dẹp SVN đã hoàn thành thành công."
+
+#: svncleanupdialog.cpp:64
+#, kde-format
+msgctxt "@info:status"
+msgid "SVN clean up failed for %1"
+msgstr "Dọn dẹp SVN không thành công cho %1"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, SvnCleanupDialog)
+#: svncleanupdialog.ui:20
+#, kde-format
+msgid "SVN Cleanup..."
+msgstr "Dọn dẹp SVN..."
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: svncleanupdialog.ui:26
+#, kde-format
+msgid "Clean up directory:"
+msgstr "Dọn dẹp thư mục:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxUnversioned)
+#: svncleanupdialog.ui:43
+#, kde-format
+msgid "Delete unversioned files and directories"
+msgstr "Xóa các tệp và thư mục chưa được đưa vào phiên bản"
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxIgnored)
+#: svncleanupdialog.ui:50
+#, kde-format
+msgid "Delete ignored files and directories"
+msgstr "Xóa các tệp và thư mục bị bỏ qua"
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxExternals)
+#: svncleanupdialog.ui:57
+#, kde-format
+msgid "Include externals"
+msgstr "Bao gồm các mục bên ngoài"
+
+#: svncommitdialog.cpp:86
+#, kde-format
+msgctxt "@label"
+msgid "Description:"
+msgstr "Mô tả:"
+
+#: svncommitdialog.cpp:101
+#, kde-format
+msgctxt "@action:button"
+msgid "Refresh"
+msgstr "Cập nhật"
+
+#: svncommitdialog.cpp:106
+#, kde-format
+msgctxt "@action:button"
+msgid "Commit"
+msgstr "Chuyển giao"
+
+#: svncommitdialog.cpp:112
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Revert"
+msgstr "Hoàn nguyên"
+
+#: svncommitdialog.cpp:119
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Show changes"
+msgstr "Hiện thị thay đổi"
+
+#: svncommitdialog.cpp:126
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Add file"
+msgstr "Thêm tệp"
+
+#: svncommitdialog.cpp:154
+#, kde-format
+msgctxt "@title:column"
+msgid "Path"
+msgstr "Đường dẫn"
+
+#: svncommitdialog.cpp:154
+#, kde-format
+msgctxt "@title:column"
+msgid "Status"
+msgstr "Trạng thái"
+
+#: svncommitdialog.cpp:207
+#, kde-format
+msgctxt "@item:intable"
+msgid "Unversioned"
+msgstr "Chưa được quản lý"
+
+#: svncommitdialog.cpp:210
+#, kde-format
+msgctxt "@item:intable"
+msgid "Modified"
+msgstr "chỉnh sửa"
+
+#: svncommitdialog.cpp:213
+#, kde-format
+msgctxt "@item:intable"
+msgid "Added"
+msgstr "Đã thêm"
+
+#: svncommitdialog.cpp:216
+#, kde-format
+msgctxt "@item:intable"
+msgid "Deleted"
+msgstr "Đã xóa"
+
+#: svncommitdialog.cpp:219
+#, kde-format
+msgctxt "@item:intable"
+msgid "Conflict"
+msgstr "Xung đột"
+
+#: svncommitdialog.cpp:222
+#, kde-format
+msgctxt "@item:intable"
+msgid "Missing"
+msgstr "Thiếu"
+
+#: svncommitdialog.cpp:225
+#, kde-format
+msgctxt "@item:intable"
+msgid "Update required"
+msgstr "Yêu cầu cập nhật"
+
+#: svnlogdialog.cpp:90
+#, kde-format
+msgid "Update to revision"
+msgstr "Cập nhật đến tu bản"
+
+#: svnlogdialog.cpp:94 svnlogdialog.cpp:112
+#, kde-format
+msgid "Revert to revision"
+msgstr "Hoàn nguyên về tu bản"
+
+#: svnlogdialog.cpp:98
+#, kde-format
+msgid "Show changes"
+msgstr "Hiện thay đổi"
+
+#: svnlogdialog.cpp:105
+#, kde-format
+msgid "Changes against working copy"
+msgstr "Thay đổi so với bản sao làm việc"
+
+#: svnlogdialog.cpp:267
+#, kde-format
+msgctxt "@info:status"
+msgid "SVN log: update to revision failed."
+msgstr "Nhật ký SVN: cập nhật đến tu bản không thành công."
+
+#: svnlogdialog.cpp:269
+#, kde-format
+msgctxt "@info:status"
+msgid "SVN log: update to revision %1 successful."
+msgstr "Nhật ký SVN: cập nhật lên tu bản %1 thành công."
+
+#: svnlogdialog.cpp:279 svnlogdialog.cpp:290
+#, kde-format
+msgctxt "@info:status"
+msgid "SVN log: revert to revision failed."
+msgstr "Nhật ký SVN: hoàn nguyên về tu bản không thành công."
+
+#: svnlogdialog.cpp:281 svnlogdialog.cpp:292
+#, kde-format
+msgctxt "@info:status"
+msgid "SVN log: revert to revision %1 successful."
+msgstr "Nhật ký SVN: hoàn nguyên về tu bản %1 thành công."
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, SvnLogDialog)
+#: svnlogdialog.ui:20
+#, kde-format
+msgid "SVN Log"
+msgstr "Nhật kí SVN"
+
+#. i18n: ectx: property (text), widget (QTableWidget, tLog)
+#: svnlogdialog.ui:55
+#, kde-format
+msgid "Revision"
+msgstr "tu bản"
+
+#. i18n: ectx: property (text), widget (QTableWidget, tLog)
+#: svnlogdialog.ui:60
+#, kde-format
+msgid "Author"
+msgstr "Tác giả"
+
+#. i18n: ectx: property (text), widget (QTableWidget, tLog)
+#: svnlogdialog.ui:65
+#, kde-format
+msgid "Date"
+msgstr "Ngày"
+
+#. i18n: ectx: property (text), widget (QTableWidget, tLog)
+#: svnlogdialog.ui:70
+#, kde-format
+msgid "Message"
+msgstr "thông điệp"
+
+#. i18n: ectx: property (text), widget (QPushButton, pbNext100)
+#: svnlogdialog.ui:104
+#, kde-format
+msgid "Next 100"
+msgstr "100 tiếp theo"
+
+#. i18n: ectx: property (text), widget (QPushButton, pbRefresh)
+#: svnlogdialog.ui:114
+#, kde-format
+msgid "Refresh"
+msgstr "Cập nhật"
+
+#: svnprogressdialog.cpp:53
+#, kde-format
+msgctxt "@info:status"
+msgid "Error starting: %1"
+msgstr "Lỗi khi bắt đầu: %1"

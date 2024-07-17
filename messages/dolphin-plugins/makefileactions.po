@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the dolphin-plugins package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: dolphin-plugins\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-04-22 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: makefileactions.cpp:225
+#, kde-format
+msgid "Make '%1'%2."
+msgstr "Tạo '%1'%2."
+
+#: makefileactions.cpp:254 makefileactions.cpp:262 makefileactions.cpp:264
+#, kde-format
+msgid "Makefile Actions"
+msgstr "Hành động Makefile"
+
+#: makefileactions.cpp:254
+#, kde-format
+msgid "An error occurred while making target '%1'."
+msgstr "Đã xảy ra lỗi khi tạo mục tiêu '%1'."
+
+#: makefileactions.cpp:262
+#, kde-format
+msgid "Running process for '%1' successfully stopped."
+msgstr "Đã dừng thành công quá trình chạy cho '%1'."
+
+#: makefileactions.cpp:264
+#, kde-format
+msgid "An error occurred trying to make target '%1'."
+msgstr "Đã xảy ra lỗi khi cố gắng tạo mục tiêu '%1'."
+
+#: makefileactions.cpp:296
+#, kde-format
+msgid "&Make…"
+msgstr "Tạ&o..."
+
+#: makefileactions.cpp:301
+#, kde-format
+msgid "Only trusted files can be used by the Makefile Actions plugin."
+msgstr ""
+"Chỉ các tệp đáng tin cậy mới có thể được sử dụng bởi plugin Makefile "
+"Actions."
+
+#: makefileactions.cpp:304
+#, kde-format
+msgid "Trusted file — uncheck to remove trust"
+msgstr "Tệp đáng tin cậy — bỏ chọn để xoá bỏ sự tin cậy"
+
+#: makefileactions.cpp:304
+#, kde-format
+msgid "Untrusted file — check to trust"
+msgstr "Tệp không đáng tin cậy — kiểm tra để tin tưởng"
+
+#: makefileactions.cpp:311
+#, kde-format
+msgid "Dolphin Makefile Plugin"
+msgstr "Phần cài cắm Makefile của Dolphin"
+
+#: makefileactions.cpp:312
+#, kde-format
+msgid ""
+"<b>Are you sure you can trust this file?</b><br>Trusted files may execute "
+"arbitrary code on context-menu invocation."
+msgstr ""
+"<b>Bạn có chắc chắn tin tưởng tệp này không?</b><br>Các tệp đáng tin cậy có "
+"thể thực thi mã tùy ý khi được gọi từ menu ngữ cảnh."
+
+#: makefileactions.cpp:326
+#, kde-format
+msgid "Open a terminal window"
+msgstr "Mở cửa sổ dòng lệnh"
+
+#: makefileactions.cpp:327
+#, kde-format
+msgid ""
+"Open a new terminal window to see the output of making the chosen target."
+msgstr "Mở một cửa sổ dòng lệnh mới để xem kết quả của việc tạo mục tiêu được chọn."
+
+#: makefileactions.cpp:339
+#, kde-format
+msgid "Cancel running process (%1)"
+msgstr "Huỷ tiến trình đang chạy (%1)"
+
+#: makefileactions.cpp:340
+#, kde-format
+msgid "Interrupt the currently running process (%1)."
+msgstr "Ngắt quá trình đang chạy hiện tại (%1)."

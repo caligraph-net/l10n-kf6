@@ -1,0 +1,1212 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the dolphin-plugins package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: dolphin-plugins\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-03 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: backoutdialog.cpp:29
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "<application>Hg</application> Backout"
+msgstr "Hoàn tác <application>Hg</application>"
+
+#: backoutdialog.cpp:31
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Backout"
+msgstr "Hủy bỏ"
+
+#: backoutdialog.cpp:53
+#, kde-kuit-format
+msgctxt "@label:checkbox"
+msgid "Merge with old dirstate parent after backout"
+msgstr "Trộn với cha dirstate cũ sau khi lùi lại"
+
+#: backoutdialog.cpp:54 backoutdialog.cpp:55 bundledialog.cpp:51
+#, kde-kuit-format
+msgctxt "@label:button"
+msgid "Select Changeset"
+msgstr "Bôi đen Changeset"
+
+#: backoutdialog.cpp:58
+#, kde-kuit-format
+msgctxt "@label"
+msgid "Revision to Backout: "
+msgstr "Tu bản để Backout: "
+
+#: backoutdialog.cpp:62
+#, kde-kuit-format
+msgctxt "@label"
+msgid "Parent Revision (optional): "
+msgstr "Phiên bản cha (tùy chọn): "
+
+#: backoutdialog.cpp:128 bundledialog.cpp:178
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Select Changeset"
+msgstr "Chọn Changeset"
+
+#: backoutdialog.cpp:129 bundledialog.cpp:179
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Select"
+msgstr "Bôi đen"
+
+#: branchdialog.cpp:23
+#, kde-format
+msgctxt "@title:window"
+msgid "<application>Hg</application> Branch"
+msgstr "Nhánh <application>Hg</application>"
+
+#: branchdialog.cpp:36
+#, kde-format
+msgid "Create New Branch"
+msgstr "Tạo nhánh mới"
+
+#: branchdialog.cpp:37
+#, kde-format
+msgid "Switch Branch"
+msgstr "Chuyển nhánh"
+
+#: branchdialog.cpp:65
+#, kde-format
+msgid "<b>Current Branch: </b>"
+msgstr "<b>Nhánh Hiện Tại: </b>"
+
+#: branchdialog.cpp:99 branchdialog.cpp:113 tagdialog.cpp:92 tagdialog.cpp:107
+#: tagdialog.cpp:121
+#, kde-format
+msgid "Some error occurred"
+msgstr "Đã xảy ra lỗi"
+
+#: bundledialog.cpp:29
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "<application>Hg</application> Bundle"
+msgstr "Gói <application>Hg</application>"
+
+#: bundledialog.cpp:30
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Bundle"
+msgstr "Gói"
+
+#: bundledialog.cpp:52
+#, kde-kuit-format
+msgctxt "@label"
+msgid "Base Revision (optional): "
+msgstr "Bản tu bản (tùy chọn): "
+
+#: bundledialog.cpp:53
+#, kde-kuit-format
+msgctxt "@label"
+msgid "Bundle all changesets in repository."
+msgstr "Gom tất cả các bộ thay đổi trong kho lưu trữ."
+
+#: bundledialog.cpp:68 exportdialog.cpp:52 importdialog.cpp:56
+#: pulldialog.cpp:36 pushdialog.cpp:36
+#, kde-format, kde-kuit-format
+msgctxt "@label:group"
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: bundledialog.cpp:70
+#, kde-kuit-format
+msgctxt "@label:checkbox"
+msgid "Run even when the destination is unrelated (force)"
+msgstr "Chạy ngay cả khi đích không liên quan (ép buộc)"
+
+#: bundledialog.cpp:72 pulldialog.cpp:34 pushdialog.cpp:34
+#, kde-kuit-format
+msgctxt "@label:checkbox"
+msgid "Do not verify server certificate"
+msgstr "Không xác minh chứng chỉ máy chủ"
+
+#: clonedialog.cpp:31
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "<application>Hg</application> Clone"
+msgstr "Nhân bản <application>Hg</application>"
+
+#: clonedialog.cpp:32
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Clone"
+msgstr "Nhân bản"
+
+#: clonedialog.cpp:39
+#, kde-format
+msgid "URLs"
+msgstr "URL"
+
+#: clonedialog.cpp:41
+#, kde-kuit-format
+msgctxt "@label"
+msgid "Source"
+msgstr "Nguồn"
+
+#: clonedialog.cpp:42
+#, kde-kuit-format
+msgctxt "@lobel"
+msgid "Destination"
+msgstr "Đích đến"
+
+#: clonedialog.cpp:43 clonedialog.cpp:44
+#, kde-kuit-format
+msgctxt "@button"
+msgid "Browse"
+msgstr "Duyệt"
+
+#: clonedialog.cpp:56
+#, kde-format
+msgctxt "@label"
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: clonedialog.cpp:59
+#, kde-format
+msgid "Do not update the new working directory."
+msgstr "Không cập nhật thư mục làm việc mới."
+
+#: clonedialog.cpp:60
+#, kde-format
+msgid "Use pull protocol to copy metadata."
+msgstr "Sử dụng giao thức kéo để sao chép siêu dữ liệu."
+
+#: clonedialog.cpp:61
+#, kde-format
+msgid "Use uncompressed transfer."
+msgstr "Sử dụng chuyển giao không nén."
+
+#: clonedialog.cpp:62
+#, kde-format
+msgid "Do not verify server certificate (ignoring web.cacerts config)."
+msgstr "Không xác minh chứng chỉ máy chủ (bỏ qua cấu hình web.cacerts)."
+
+#: clonedialog.cpp:147
+#, kde-format
+msgid "Terminating cloning!"
+msgstr "Đang kết thúc quá trình sao chép!"
+
+#: clonedialog.cpp:172
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Close"
+msgstr "Đóng"
+
+#: clonedialog.cpp:175
+#, kde-kuit-format
+msgctxt "@message:error"
+msgid "Error Cloning Repository!"
+msgstr "Lỗi khi nhân bản Kho lưu trữ!"
+
+#: commitdialog.cpp:31
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "<application>Hg</application> Commit"
+msgstr "Chuyển giao <application>Hg</application>"
+
+#: commitdialog.cpp:33
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Commit"
+msgstr "Chuyển giao"
+
+#: commitdialog.cpp:40
+#, kde-format
+msgid ""
+"The KTextEditor component could not be found;\n"
+"please check your KDE Frameworks installation."
+msgstr ""
+"Không thể tìm thấy thành phần KTextEditor;\nvui lòng kiểm tra cài đặt KDE "
+"Frameworks của bạn."
+
+#: commitdialog.cpp:52
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Commit to current branch"
+msgstr "Chuyển giao vào nhánh hiện tại"
+
+#: commitdialog.cpp:56
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Create new branch"
+msgstr "Tạo nhánh mới"
+
+#: commitdialog.cpp:60
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Close current branch"
+msgstr "Đóng nhánh hiện tại"
+
+#: commitdialog.cpp:80
+#, kde-format
+msgid "Copy Message"
+msgstr "Sao chép thông điệp"
+
+#: commitdialog.cpp:81 updatedialog.cpp:32
+#, kde-format
+msgid "Branch"
+msgstr "Nhánh"
+
+#: commitdialog.cpp:101
+#, kde-kuit-format
+msgctxt "@title:group"
+msgid "Commit Message"
+msgstr "Thông điệp chuyển giao"
+
+#: commitdialog.cpp:108
+#, kde-kuit-format
+msgctxt "@title:group"
+msgid "Diff/Content"
+msgstr "Khác biệt/Nội dung"
+
+#: commitdialog.cpp:204
+#, kde-format
+msgid "Could not create branch! Aborting commit!"
+msgstr "Không thể tạo nhánh! Huỷ bỏ commit!"
+
+#: commitdialog.cpp:212
+#, kde-format
+msgid "Commit unsuccessful!"
+msgstr "Chuyển giao không thành công!"
+
+#: commitdialog.cpp:215
+#, kde-format
+msgid "No files for commit!"
+msgstr "Không có tệp để commit!"
+
+#: commitdialog.cpp:241
+#, kde-format
+msgid "Branch: Current Branch"
+msgstr "Nhánh: Nhánh hiện tại"
+
+#: commitdialog.cpp:247
+#, kde-format
+msgid "Branch: "
+msgstr "Nhánh: "
+
+#: commitdialog.cpp:257
+#, kde-format
+msgid "Branch: Close Current"
+msgstr "Nhánh: Đóng hiện tại"
+
+#: commitdialog.cpp:269
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "<application>Hg</application> Commit: New Branch"
+msgstr "Cam kết <application>Hg</application>: Nhánh Mới"
+
+#: commitdialog.cpp:277
+#, kde-kuit-format
+msgctxt "@label"
+msgid "Enter new branch name"
+msgstr "Nhập tên nhánh mới"
+
+#: commitdialog.cpp:297
+#, kde-kuit-format
+msgctxt "@label"
+msgid "<b>Branch already exists!</b>"
+msgstr "<b>Nhánh đã tồn tại!</b>"
+
+#: commitdialog.cpp:303
+#, kde-kuit-format
+msgctxt "@label"
+msgid "<b>Enter some text!</b>"
+msgstr "<b>Nhập một số văn bản!</b>"
+
+#: commitinfowidget.cpp:37
+#, kde-format
+msgid ""
+"A KDE text-editor component could not be found;\n"
+"please check your KDE installation."
+msgstr ""
+"Không thể tìm thấy một thành phần trình soạn thảo văn bản của KDE;\nvui "
+"lòng kiểm tra cài đặt KDE của bạn."
+
+#: configdialog.cpp:27
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "<application>Hg</application> Repository Configuration"
+msgstr "Cấu hình Kho <application>Hg</application>"
+
+#: configdialog.cpp:29
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "<application>Hg</application> Global Configuration"
+msgstr "Cấu hình toàn cục <application>Hg</application>"
+
+#: configdialog.cpp:42
+#, kde-kuit-format
+msgctxt "@label:group"
+msgid "General Settings"
+msgstr "Thiết lập chung"
+
+#: configdialog.cpp:46
+#, kde-kuit-format
+msgctxt "@label:group"
+msgid "Repository Paths"
+msgstr "Đường dẫn kho"
+
+#: configdialog.cpp:49
+#, kde-kuit-format
+msgctxt "@label:group"
+msgid "Ignored Files"
+msgstr "Các tệp bị bỏ qua"
+
+#: configdialog.cpp:52
+#, kde-kuit-format
+msgctxt "@label:group"
+msgid "Plugin Settings"
+msgstr "Thiết lập phần cài cắm"
+
+#: createdialog.cpp:22
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "<application>Hg</application> Initialize Repository"
+msgstr "Khởi tạo Kho <application>Hg</application>"
+
+#: createdialog.cpp:23
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Initialize Repository"
+msgstr "Khởi tạo Kho"
+
+#: createdialog.cpp:56
+#, kde-kuit-format
+msgctxt "error message"
+msgid "Error creating repository!"
+msgstr "Lỗi khi tạo kho lưu trữ!"
+
+#: exportdialog.cpp:26
+#, kde-format
+msgctxt "@title:window"
+msgid "<application>Hg</application> Export"
+msgstr "Xuất khẩu <application>Hg</application>"
+
+#: exportdialog.cpp:27
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Export"
+msgstr "xuất khẩu"
+
+#: exportdialog.cpp:53
+#, kde-format
+msgctxt "@label"
+msgid "Treat all files as text"
+msgstr "Coi tất cả các tệp như văn bản"
+
+#: exportdialog.cpp:54
+#, kde-format
+msgctxt "@label"
+msgid "Use Git extended diff format"
+msgstr "Sử dụng định dạng phần chênh Git mở rộng"
+
+#: exportdialog.cpp:55
+#, kde-format
+msgctxt "@label"
+msgid "Omit dates from diff headers"
+msgstr "Bỏ qua ngày tháng trong tiêu đề phần chênh"
+
+#: exportdialog.cpp:124
+#, kde-format
+msgctxt "@message:error"
+msgid "Please select at least one changeset to be exported!"
+msgstr "Vui lòng bôi đen ít nhất một bộ thay đổi để xuất!"
+
+#: fileviewhgplugin.cpp:90
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Add"
+msgstr "Thêm <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:95
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Remove"
+msgstr "<application>Hg</application> Xoá bỏ"
+
+#: fileviewhgplugin.cpp:100
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Rename"
+msgstr "Đổi tên <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:105
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Commit"
+msgstr "Chuyển giao <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:110
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Tag"
+msgstr "Gắn thẻ <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:115
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Branch"
+msgstr "Nhánh <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:120
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Clone"
+msgstr "Nhân bản <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:125
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Init"
+msgstr "Khởi tạo <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:130
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Update"
+msgstr "Cập nhật <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:135
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Global Config"
+msgstr "Cấu hình toàn cục <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:140
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Repository Config"
+msgstr "Cấu hình kho <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:145
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Push"
+msgstr "Đẩy <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:150
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Pull"
+msgstr "Kéo <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:155
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Revert"
+msgstr "Hoàn nguyên <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:160
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Revert All"
+msgstr "Hoàn nguyên tất cả <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:165
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Rollback"
+msgstr "Hoàn tác <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:170
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Merge"
+msgstr "Trộn <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:175
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Bundle"
+msgstr "Gói <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:180
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Export"
+msgstr "Xuất khẩu <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:185
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Import"
+msgstr "Nhập khẩu <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:190
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Unbundle"
+msgstr "<application>Hg</application> Giải gói"
+
+#: fileviewhgplugin.cpp:195
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Serve"
+msgstr "Phục vụ <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:200
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Backout"
+msgstr "Hoàn tác <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:205
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Hg</application> Diff"
+msgstr "Phần chênh <application>Hg</application>"
+
+#: fileviewhgplugin.cpp:227
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "<application>Mercurial</application>"
+msgstr "Mercurial"
+
+#: fileviewhgplugin.cpp:424
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Adding files to <application>Hg</application> repository..."
+msgstr "Đang thêm các tệp vào kho lưu trữ <application>Hg</application>..."
+
+#: fileviewhgplugin.cpp:425
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Adding files to <application>Hg</application> repository failed."
+msgstr "Thêm tệp vào kho <application>Hg</application> thất bại."
+
+#: fileviewhgplugin.cpp:426
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Added files to <application>Hg</application> repository."
+msgstr "Đã thêm các tệp vào kho lưu trữ <application>Hg</application>."
+
+#: fileviewhgplugin.cpp:439
+#, kde-kuit-format
+msgctxt "@message:yesorno"
+msgid "Would you like to remove selected files from the repository?"
+msgstr "Bạn có muốn xoá bỏ các tệp đã chọn khỏi kho lưu trữ không?"
+
+#: fileviewhgplugin.cpp:441
+#, kde-format
+msgid "Remove Files"
+msgstr "Xoá Tệp"
+
+#: fileviewhgplugin.cpp:448
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Removing files from <application>Hg</application> repository..."
+msgstr "Đang xóa các tệp khỏi kho lưu trữ <application>Hg</application>..."
+
+#: fileviewhgplugin.cpp:449
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Removing files from <application>Hg</application> repository failed."
+msgstr "Xóa tệp khỏi kho <application>Hg</application> thất bại."
+
+#: fileviewhgplugin.cpp:450
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Removed files from <application>Hg</application> repository."
+msgstr "Đã xóa các tệp khỏi kho lưu trữ <application>Hg</application>."
+
+#: fileviewhgplugin.cpp:460
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Renaming of file in <application>Hg</application> repository failed."
+msgstr "Đổi tên tệp trong kho <application>Hg</application> thất bại."
+
+#: fileviewhgplugin.cpp:461
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Renamed file in <application>Hg</application> repository successfully."
+msgstr "Đổi tên tệp trong kho <application>Hg</application> thành công."
+
+#: fileviewhgplugin.cpp:462
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Renaming file in <application>Hg</application> repository."
+msgstr "Đang đổi tên tệp trong kho lưu trữ <application>Hg</application>."
+
+#: fileviewhgplugin.cpp:472
+#, kde-kuit-format
+msgctxt "@message"
+msgid "No changes for commit!"
+msgstr "Không có thay đổi để commit!"
+
+#: fileviewhgplugin.cpp:476
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Commit to <application>Hg</application> repository failed."
+msgstr "Chuyển giao vào kho <application>Hg</application> thất bại."
+
+#: fileviewhgplugin.cpp:477
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Committed to <application>Hg</application> repository."
+msgstr "Đã commit vào kho lưu trữ <application>Hg</application>."
+
+#: fileviewhgplugin.cpp:478
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Commit <application>Hg</application> repository."
+msgstr "Chuyển giao kho chứa <application>Hg</application>."
+
+#: fileviewhgplugin.cpp:488
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Tag operation in <application>Hg</application> repository failed."
+msgstr "Thao tác gắn thẻ trong kho <application>Hg</application> thất bại."
+
+#: fileviewhgplugin.cpp:489
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid ""
+"Tagging operation in <application>Hg</application> repository is successful."
+msgstr "Thao tác gắn thẻ trong kho <application>Hg</application> đã thành công."
+
+#: fileviewhgplugin.cpp:490
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Tagging operation in <application>Hg</application> repository."
+msgstr "Thao tác gắn thẻ trong kho chứa <application>Hg</application>."
+
+#: fileviewhgplugin.cpp:498
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Update of <application>Hg</application> working directory failed."
+msgstr "Cập nhật thư mục làm việc <application>Hg</application> thất bại."
+
+#: fileviewhgplugin.cpp:499
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid ""
+"Update of <application>Hg</application> working directory is successful."
+msgstr "Cập nhật thư mục làm việc <application>Hg</application> thành công."
+
+#: fileviewhgplugin.cpp:500
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Updating <application>Hg</application> working directory."
+msgstr "Đang cập nhật thư mục làm việc <application>Hg</application>."
+
+#: fileviewhgplugin.cpp:508
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Branch operation on <application>Hg</application> repository failed."
+msgstr "Thao tác nhánh trên kho <application>Hg</application> thất bại."
+
+#: fileviewhgplugin.cpp:509
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid ""
+"Branch operation on <application>Hg</application> repository completed "
+"successfully."
+msgstr ""
+"Thao tác nhánh trên kho <application>Hg</application> đã hoàn tất thành "
+"công."
+
+#: fileviewhgplugin.cpp:510
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Branch operation on <application>Hg</application> repository."
+msgstr "Thao tác nhánh trên kho chứa <application>Hg</application>."
+
+#: fileviewhgplugin.cpp:607
+#, kde-kuit-format
+msgctxt "@message:yesorno"
+msgid "Would you like to revert changes made to selected files?"
+msgstr ""
+"Bạn có muốn hoàn nguyên các thay đổi đã thực hiện trên các tệp đã chọn "
+"không?"
+
+#: fileviewhgplugin.cpp:609 fileviewhgplugin.cpp:610 fileviewhgplugin.cpp:631
+#, kde-format
+msgid "Revert"
+msgstr "hoàn nguyên"
+
+#: fileviewhgplugin.cpp:616 fileviewhgplugin.cpp:637
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Reverting files in <application>Hg</application> repository..."
+msgstr "Đang hoàn nguyên các tệp trong kho chứa <application>Hg</application>..."
+
+#: fileviewhgplugin.cpp:617 fileviewhgplugin.cpp:638
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Reverting files in <application>Hg</application> repository failed."
+msgstr "Hoàn tác các tệp trong kho <application>Hg</application> thất bại."
+
+#: fileviewhgplugin.cpp:618 fileviewhgplugin.cpp:639
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid ""
+"Reverting files in <application>Hg</application> repository completed "
+"successfully."
+msgstr ""
+"Hoàn tất thành công việc hoàn nguyên các tệp trong kho "
+"<application>Hg</application>."
+
+#: fileviewhgplugin.cpp:628
+#, kde-kuit-format
+msgctxt "@message:yesorno"
+msgid "Would you like to revert all changes made to current working directory?"
+msgstr ""
+"Bạn có muốn hoàn nguyên tất cả các thay đổi được thực hiện trong thư mục "
+"làm việc hiện tại không?"
+
+#: fileviewhgplugin.cpp:630
+#, kde-format
+msgid "Revert All"
+msgstr "Hoàn nguyên tất cả"
+
+#: fileviewhgplugin.cpp:647
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Generating diff for <application>Hg</application> repository..."
+msgstr "Đang tạo phần chênh cho kho chứa <application>Hg</application>..."
+
+#: fileviewhgplugin.cpp:648
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Could not get <application>Hg</application> repository diff."
+msgstr "Không lấy được phần khác biệt của kho <application>Hg</application>."
+
+#: fileviewhgplugin.cpp:649
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Generated <application>Hg</application> diff successfully."
+msgstr "Đã tạo phần chênh <application>Hg</application> thành công."
+
+#: fileviewhgplugin.cpp:678
+#, kde-kuit-format
+msgctxt "@message:error"
+msgid "abort: Uncommitted changes in working directory!"
+msgstr "hủy bỏ: Có những thay đổi chưa được lưu trong thư mục làm việc!"
+
+#: fileviewhgplugin.cpp:693
+#, kde-kuit-format
+msgctxt "@info:message"
+msgid "No rollback information available!"
+msgstr "Không có thông tin về việc hoàn tác!"
+
+#: fileviewhgplugin.cpp:704
+#, kde-kuit-format
+msgctxt "@message:yesorno"
+msgid "Would you like to rollback last transaction?"
+msgstr "Bạn có muốn hoàn tác giao dịch cuối cùng không?"
+
+#: fileviewhgplugin.cpp:706 fileviewhgplugin.cpp:707
+#, kde-format
+msgid "Rollback"
+msgstr "Quay lại"
+
+#: fileviewhgplugin.cpp:713
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Executing Rollback <application>Hg</application> repository..."
+msgstr "Đang thực hiện Hoàn tác kho lưu trữ <application>Hg</application>..."
+
+#: fileviewhgplugin.cpp:714
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Rollback of <application>Hg</application> repository failed."
+msgstr "Hoàn tác kho <application>Hg</application> thất bại."
+
+#: fileviewhgplugin.cpp:715
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid ""
+"Rollback of <application>Hg</application> repository completed successfully."
+msgstr "Hoàn tất thành công việc quay lại kho <application>Hg</application>."
+
+#. i18n: ectx: label, entry (commitDialogHeight), group (CommitDialogSettings)
+#. i18n: ectx: label, entry (configDialogHeight), group (ConfigDialogSettings)
+#. i18n: ectx: label, entry (cloneDialogHeight), group (CloneDialogSettings)
+#. i18n: ectx: label, entry (pushDialogBigHeight), group (PushDialogSettings)
+#. i18n: ectx: label, entry (pullDialogBigHeight), group (PullDialogSettings)
+#. i18n: ectx: label, entry (mergeDialogHeight), group (MergeDialogSettings)
+#. i18n: ectx: label, entry (bundleDialogHeight), group (BundleDialogSettings)
+#. i18n: ectx: label, entry (exportDialogHeight), group (ExportDialogSettings)
+#. i18n: ectx: label, entry (importDialogHeight), group (ImportDialogSettings)
+#. i18n: ectx: label, entry (serveDialogHeight), group (ServeDialogSettings)
+#. i18n: ectx: label, entry (backoutDialogHeight), group (BackoutDialogSettings)
+#: fileviewhgpluginsettings.kcfg:7 fileviewhgpluginsettings.kcfg:27
+#: fileviewhgpluginsettings.kcfg:39 fileviewhgpluginsettings.kcfg:49
+#: fileviewhgpluginsettings.kcfg:59 fileviewhgpluginsettings.kcfg:69
+#: fileviewhgpluginsettings.kcfg:79 fileviewhgpluginsettings.kcfg:89
+#: fileviewhgpluginsettings.kcfg:99 fileviewhgpluginsettings.kcfg:109
+#: fileviewhgpluginsettings.kcfg:119
+#, kde-format
+msgid "Dialog height"
+msgstr "Chiều cao hộp thoại"
+
+#. i18n: ectx: label, entry (commitDialogWidth), group (CommitDialogSettings)
+#. i18n: ectx: label, entry (configDialogWidth), group (ConfigDialogSettings)
+#. i18n: ectx: label, entry (cloneDialogWidth), group (CloneDialogSettings)
+#. i18n: ectx: label, entry (pushDialogBigWidth), group (PushDialogSettings)
+#. i18n: ectx: label, entry (pullDialogBigWidth), group (PullDialogSettings)
+#. i18n: ectx: label, entry (mergeDialogWidth), group (MergeDialogSettings)
+#. i18n: ectx: label, entry (bundleDialogWidth), group (BundleDialogSettings)
+#. i18n: ectx: label, entry (exportDialogWidth), group (ExportDialogSettings)
+#. i18n: ectx: label, entry (importDialogWidth), group (ImportDialogSettings)
+#. i18n: ectx: label, entry (serveDialogWidth), group (ServeDialogSettings)
+#. i18n: ectx: label, entry (backoutDialogWidth), group (BackoutDialogSettings)
+#: fileviewhgpluginsettings.kcfg:12 fileviewhgpluginsettings.kcfg:32
+#: fileviewhgpluginsettings.kcfg:43 fileviewhgpluginsettings.kcfg:53
+#: fileviewhgpluginsettings.kcfg:63 fileviewhgpluginsettings.kcfg:73
+#: fileviewhgpluginsettings.kcfg:83 fileviewhgpluginsettings.kcfg:93
+#: fileviewhgpluginsettings.kcfg:103 fileviewhgpluginsettings.kcfg:113
+#: fileviewhgpluginsettings.kcfg:123
+#, kde-format
+msgid "Dialog width"
+msgstr "Chiều rộng hộp thoại"
+
+#. i18n: ectx: label, entry (verticalSplitterSizes), group (CommitDialogSettings)
+#: fileviewhgpluginsettings.kcfg:17
+#, kde-format
+msgid "Divides file list and editors with commit details"
+msgstr "Chia tệp danh sách và trình chỉnh sửa với chi tiết chuyển giao"
+
+#. i18n: ectx: label, entry (horizontalSplitterSizes), group (CommitDialogSettings)
+#: fileviewhgpluginsettings.kcfg:21
+#, kde-format
+msgid "Divides commit editor and diff editor"
+msgstr "Chia tách trình biên tập chuyển giao và trình biên tập phần chênh"
+
+#: importdialog.cpp:28
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "<application>Hg</application> Import"
+msgstr "Nhập khẩu <application>Hg</application>"
+
+#: importdialog.cpp:29
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Import"
+msgstr "Nhập khẩu"
+
+#: importdialog.cpp:57
+#, kde-kuit-format
+msgctxt "@label"
+msgid "Do not commit, just update the working directory"
+msgstr "Không cam kết, chỉ cập nhật thư mục làm việc"
+
+#: importdialog.cpp:58
+#, kde-kuit-format
+msgctxt "@label"
+msgid "Skip test for outstanding uncommitted changes"
+msgstr "Bỏ qua kiểm thử các thay đổi chưa được xác nhận"
+
+#: importdialog.cpp:59
+#, kde-kuit-format
+msgctxt "@label"
+msgid "Apply patch to the nodes from which it was generated"
+msgstr "Áp dụng bản vá vào các nút từ đó nó được tạo ra"
+
+#: importdialog.cpp:60
+#, kde-kuit-format
+msgctxt "@label"
+msgid "Apply patch without touching working directory"
+msgstr "Áp dụng bản vá mà không chạm vào thư mục làm việc"
+
+#: importdialog.cpp:71
+#, kde-kuit-format
+msgctxt "@label:button"
+msgid "Add Patches"
+msgstr "Thêm Bản Vá"
+
+#: importdialog.cpp:72
+#, kde-kuit-format
+msgctxt "@label:button"
+msgid "Remove Patches"
+msgstr "Xoá Bỏ Các Mảnh Vá"
+
+#: mergedialog.cpp:25
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "<application>Hg</application> Merge"
+msgstr "Trộn <application>Hg</application>"
+
+#: mergedialog.cpp:26
+#, kde-kuit-format
+msgctxt "@label:button"
+msgid "Merge"
+msgstr "Trộn"
+
+#: mergedialog.cpp:103
+#, kde-kuit-format
+msgctxt "@message"
+msgid "No head selected for merge!"
+msgstr "Không có đầu được chọn để hợp nhất!"
+
+#: pathselector.cpp:57
+#, kde-kuit-format
+msgctxt "@label:combobox"
+msgid "edit"
+msgstr "sửa"
+
+#: pulldialog.cpp:27
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "<application>Hg</application> Pull Repository"
+msgstr "Kéo Kho <application>Hg</application>"
+
+#: pulldialog.cpp:33
+#, kde-kuit-format
+msgctxt "@label:checkbox"
+msgid "Update to new branch head if changesets were pulled"
+msgstr "Cập nhật lên nhánh mới nếu các bộ thay đổi đã được kéo về"
+
+#: pulldialog.cpp:35
+#, kde-kuit-format
+msgctxt "@label:checkbox"
+msgid "Force Pull"
+msgstr "Buộc kéo"
+
+#: pulldialog.cpp:45
+#, kde-kuit-format
+msgctxt "@label:group"
+msgid "Incoming Changes"
+msgstr "Thay đổi đến"
+
+#: pulldialog.cpp:138
+#, kde-kuit-format
+msgctxt "@message:info"
+msgid "No incoming changes!"
+msgstr "Không có thay đổi đến!"
+
+#: pushdialog.cpp:27
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "<application>Hg</application> Push Repository"
+msgstr "Nhấn Kho <application>Hg</application>"
+
+#: pushdialog.cpp:33
+#, kde-kuit-format
+msgctxt "@label:checkbox"
+msgid "Allow pushing a new branch"
+msgstr "Cho phép nhấn một nhánh mới"
+
+#: pushdialog.cpp:35
+#, kde-kuit-format
+msgctxt "@label:checkbox"
+msgid "Force Push"
+msgstr "Buộc Nhấn"
+
+#: pushdialog.cpp:45
+#, kde-kuit-format
+msgctxt "@label:group"
+msgid "Outgoing Changes"
+msgstr "Thay đổi đi ra"
+
+#: pushdialog.cpp:159
+#, kde-kuit-format
+msgctxt "@message:info"
+msgid "No outgoing changes!"
+msgstr "Không có thay đổi đi ra!"
+
+#: renamedialog.cpp:24
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "<application>Hg</application> Rename"
+msgstr "Đổi tên <application>Hg</application>"
+
+#: renamedialog.cpp:26
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Rename"
+msgstr "Đổi tên"
+
+#: renamedialog.cpp:31
+#, kde-kuit-format
+msgctxt "@label:label to source file"
+msgid "Source "
+msgstr "Nguồn "
+
+#: renamedialog.cpp:36
+#, kde-kuit-format
+msgctxt "@label:rename"
+msgid "Rename to "
+msgstr "Đổi tên thành "
+
+#: servedialog.cpp:24
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "<application>Hg</application> Serve"
+msgstr "Phục vụ <application>Hg</application>"
+
+#: servedialog.cpp:56
+#, kde-kuit-format
+msgctxt "@label:button"
+msgid "Start Server"
+msgstr "Khởi động Máy chủ"
+
+#: servedialog.cpp:57
+#, kde-kuit-format
+msgctxt "@label:button"
+msgid "Stop Server"
+msgstr "Dừng máy chủ"
+
+#: servedialog.cpp:58
+#, kde-kuit-format
+msgctxt "@label:button"
+msgid "Open in browser"
+msgstr "Mở trong trình duyệt"
+
+#: servedialog.cpp:74
+#, kde-kuit-format
+msgctxt "@label"
+msgid "Port"
+msgstr "Cổng"
+
+#: servewrapper.cpp:62
+#, kde-format
+msgid "## Starting Server ##"
+msgstr "## Đang khởi động Máy chủ ##"
+
+#: servewrapper.h:144
+#, kde-format
+msgid "## Server Stopped! ##\n"
+msgstr "## Máy chủ đã dừng! ##\n"
+
+#: statuslist.cpp:29
+#, kde-format
+msgid "Filename"
+msgstr "Tên tệp"
+
+#: statuslist.cpp:39
+#, kde-format
+msgctxt "@title:group"
+msgid "File Status"
+msgstr "Trạng thái tệp"
+
+#: syncdialogbase.cpp:73
+#, kde-format
+msgctxt "@label:button"
+msgid "Show Incoming Changes"
+msgstr "Hiển thị các thay đổi đến"
+
+#: syncdialogbase.cpp:75
+#, kde-format
+msgctxt "@label:button"
+msgid "Show Outgoing Changes"
+msgstr "Hiển thị các thay đổi đi ra"
+
+#: syncdialogbase.cpp:108
+#, kde-format
+msgctxt "@action:button"
+msgid "Pull"
+msgstr "Kéo"
+
+#: syncdialogbase.cpp:108
+#, kde-format
+msgctxt "@action:button"
+msgid "Push"
+msgstr "Nhấn"
+
+#: syncdialogbase.cpp:146
+#, kde-format
+msgctxt "@message"
+msgid "No changes found!"
+msgstr "Không tìm thấy thay đổi!"
+
+#: syncdialogbase.cpp:197 syncdialogbase.cpp:263 syncdialogbase.cpp:270
+#, kde-format
+msgid "Error!"
+msgstr "Lỗi!"
+
+#: syncdialogbase.cpp:302
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: tagdialog.cpp:19
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "<application>Hg</application> Tag"
+msgstr "Thẻ gắn <application>Hg</application>"
+
+#: tagdialog.cpp:29
+#, kde-format
+msgid "Create New Tag"
+msgstr "Tạo Thẻ Mới"
+
+#: tagdialog.cpp:30
+#, kde-format
+msgid "Remove Tag"
+msgstr "Xoá Thẻ"
+
+#: tagdialog.cpp:31
+#, kde-format
+msgid "Switch Tag"
+msgstr "Chuyển Thẻ"
+
+#: tagdialog.cpp:118
+#, kde-format
+msgid "Created tag successfully!"
+msgstr "Đã tạo thẻ thành công!"
+
+#: updatedialog.cpp:23
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "<application>Hg</application> Update"
+msgstr "Cập nhật <application>Hg</application>"
+
+#: updatedialog.cpp:25
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Update"
+msgstr "Cập nhật"
+
+#: updatedialog.cpp:28
+#, kde-format
+msgid "New working directory"
+msgstr "Thư mục làm việc mới"
+
+#: updatedialog.cpp:33
+#, kde-format
+msgid "Tag"
+msgstr "Thẻ"
+
+#: updatedialog.cpp:34
+#, kde-format
+msgid "Changeset/Revision"
+msgstr "Bộ thay đổi/Sửa đổi"
+
+#: updatedialog.cpp:39
+#, kde-format
+msgid "Current Parent"
+msgstr "Phụ huynh hiện tại"
+
+#: updatedialog.cpp:45
+#, kde-format
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: updatedialog.cpp:47
+#, kde-format
+msgid "Discard uncommitted changes"
+msgstr "Loại bỏ các thay đổi chưa được lưu"
+
+#: updatedialog.cpp:120
+#, kde-format
+msgid ""
+"Some error occurred! \n"
+"Maybe there are uncommitted changes."
+msgstr "Đã xảy ra lỗi! \nCó thể có những thay đổi chưa được xác nhận."
