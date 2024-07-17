@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kscreenlocker package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kscreenlocker\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-23 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: abstractlocker.cpp:43
+#, kde-format
+msgid ""
+"The screen locker is broken and unlocking is not possible anymore.\n"
+"In order to unlock it either ConsoleKit or LoginD is needed, neither\n"
+"of which could be found on your system."
+msgstr ""
+"Trình khóa màn hình bị hỏng và không thể mở khóa nữa.\nĐể mở khóa, cần có "
+"ConsoleKit hoặc LoginD, nhưng không tìm thấy\nbất kỳ cái nào trong hệ thống "
+"của bạn."
+
+#: abstractlocker.cpp:47
+#, kde-format
+msgctxt "%1 = other terminal"
+msgid ""
+"The screen locker is broken and unlocking is not possible anymore.\n"
+"In order to unlock it, switch to a virtual terminal (e.g. Ctrl+Alt+F%1),\n"
+"log in as root and execute the command:\n"
+"\n"
+"# ck-unlock-session <session-name>\n"
+"\n"
+msgstr ""
+"Trình khóa màn hình bị hỏng và không thể mở khóa nữa.\nĐể mở khóa, hãy "
+"chuyển sang một dòng lệnh ảo (ví dụ: Ctrl+Alt+F%1),\nđăng nhập với tư cách "
+"root và thực thi lệnh:\n\n# ck-unlock-session <session-name>\n\n"
+
+#: abstractlocker.cpp:52
+#, kde-format
+msgctxt "%1 = other terminal, %2 = session ID, %3 = this terminal"
+msgid ""
+"The screen locker is broken and unlocking is not possible anymore.\n"
+"In order to unlock it, switch to a virtual terminal (e.g. Ctrl+Alt+F%1),\n"
+"log in to your account and execute the command:\n"
+"\n"
+"loginctl unlock-session %2\n"
+"\n"
+"Then log out of the virtual session by pressing Ctrl+D, and switch\n"
+"back to the running session (Ctrl+Alt+F%3).\n"
+"Should you have forgotten the instructions, you can get back to this\n"
+"screen by pressing Ctrl+Alt+F%3\n"
+"\n"
+msgstr ""
+"Trình khóa màn hình bị hỏng và không thể mở khóa nữa.\nĐể mở khóa, hãy "
+"chuyển sang một dòng lệnh ảo (ví dụ: Ctrl+Alt+F%1),\nđăng nhập vào tài "
+"khoản của bạn và thực thi lệnh:\n\nloginctl unlock-session %2\n\nSau đó, "
+"đăng xuất khỏi phiên dòng lệnh ảo bằng cách nhấn Ctrl+D, và chuyển\nlại về "
+"phiên đang chạy (Ctrl+Alt+F%3).\nNếu bạn quên các hướng dẫn, bạn có thể "
+"quay lại màn hình này bằng cách nhấn Ctrl+Alt+F%3\n\n"
+
+#: ksldapp.cpp:184
+#, kde-format
+msgid "Lock Session"
+msgstr "Khóa Phiên"
+
+#: ksldapp.cpp:449
+#, kde-format
+msgid "Screen locked"
+msgstr "Màn hình đã bị khóa"
+
+#: ksldapp.cpp:617
+#, kde-format
+msgid "Screen unlocked"
+msgstr "Màn hình đã mở khóa"
+
+#: logind.cpp:161
+#, kde-format
+msgid "Screen Locker"
+msgstr "Trình khóa màn hình"
+
+#: logind.cpp:161
+#, kde-format
+msgid "Ensuring that the screen gets locked before going to sleep"
+msgstr "Đảm bảo rằng màn hình được khóa trước khi đi vào chế độ ngủ"
