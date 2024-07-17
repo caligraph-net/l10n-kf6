@@ -1,0 +1,1311 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the gcompris package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: gcompris\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-31 00:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "adjacent_numbers"
+#: ./activities/adjacent_numbers/ActivityInfo.qml:17
+#, kde-format
+msgid "Find the missing numbers."
+msgstr "Tìm các số bị thiếu."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "advanced_colors"
+#: ./activities/advanced_colors/ActivityInfo.qml:18
+#, kde-format
+msgid "click on the required color"
+msgstr "bấm vào màu cần thiết"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "algebra_by"
+#: ./activities/algebra_by/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Multiply the two numbers together and type in your answer before the balloon "
+"lands in the water"
+msgstr "Nhân hai số với nhau và gõ câu trả lời trước khi quả bóng rơi xuống nước"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "algebra_div"
+#: ./activities/algebra_div/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Find the result of the division and type in your answer before the balloon "
+"lands in the water"
+msgstr ""
+"Tìm kết quả của phép chia và nhập câu trả lời trước khi quả bóng rơi xuống "
+"nước"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "algebra_minus"
+#: ./activities/algebra_minus/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Subtract the two numbers and type in your answer before the balloon lands in "
+"the water"
+msgstr "Trừ hai số và gõ câu trả lời trước khi quả bóng rơi vào nước"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "algebra_plus"
+#: ./activities/algebra_plus/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Add the two numbers together and type in your answer before the balloon "
+"lands in the water"
+msgstr ""
+"Cộng hai số lại với nhau và gõ câu trả lời trước khi quả bóng rơi xuống "
+"nước"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "algorithm"
+#: ./activities/algorithm/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Click on the missing items on the table and follow the logical sequence "
+"displayed above it."
+msgstr ""
+"Bấm vào các mục còn thiếu trên bảng và làm theo trình tự luận lí hiển thị "
+"phía trên."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "align4"
+#: ./activities/align4/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Click on the column where you wish your token to fall and try to align 4 "
+"tokens before Tux."
+msgstr ""
+"Bấm vào cột mà bạn muốn đặt hiệu bài của mình và cố gắng căn lề 4 hiệu bài "
+"trước Tux."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "align4_2players"
+#: ./activities/align4_2players/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Click on the column where you wish your token to fall and try to align 4 "
+"tokens to win."
+msgstr ""
+"Bấm vào cột mà bạn muốn đặt hiệu bài của mình và cố gắng căn lề 4 hiệu bài "
+"để thắng."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "alphabet-sequence"
+#: ./activities/alphabet-sequence/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Move the helicopter to catch the clouds following the order of the alphabet."
+msgstr "Di chuyển trực thăng để bắt các đám mây theo thứ tự bảng chữ cái."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "analog_electricity"
+#: ./activities/analog_electricity/ActivityInfo.qml:18
+#, kde-format
+msgid "Learn how analog electricity works and create your own circuit."
+msgstr ""
+"Tìm hiểu cách hoạt động của điện tử analog và tạo ra mạch điện của riêng "
+"bạn."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "baby_keyboard"
+#: ./activities/baby_keyboard/ActivityInfo.qml:18
+#, kde-format
+msgid "Type any key on the keyboard and observe the result."
+msgstr "Nhấn bất kỳ phím nào trên bàn phím và quan sát kết quả."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "baby_mouse"
+#: ./activities/baby_mouse/ActivityInfo.qml:17
+#, kde-format
+msgid "Move the mouse or touch the screen and observe the result."
+msgstr "Di chuyển chuột hoặc chạm vào màn hình và quan sát kết quả."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "baby_tangram"
+#: ./activities/baby_tangram/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Move each puzzle piece, to obtain the completed puzzle. You can change their "
+"orientation by clicking on the arrows."
+msgstr ""
+"Di chuyển từng mảnh ghép, để hoàn thành bài xếp hình. Bạn có thể thay đổi "
+"hướng của chúng bằng cách nhấp vào các mũi tên."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "baby_wordprocessor"
+#: ./activities/baby_wordprocessor/ActivityInfo.qml:18
+#, kde-format
+msgid "A simplistic word processor to play around with the keyboard"
+msgstr "Một trình xử lý văn bản đơn giản để chơi với bàn phím"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "babymatch"
+#: ./activities/babymatch/ActivityInfo.qml:21
+#, kde-format
+msgid "Drag and drop the objects matching the pictures"
+msgstr "Kéo và thả các đối tượng khớp với các hình ảnh"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "babyshapes"
+#: ./activities/babyshapes/ActivityInfo.qml:22
+#, kde-format
+msgid "Drag and drop the objects matching the shapes."
+msgstr "Kéo và thả các đối tượng khớp với các hình dạng."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "balancebox"
+#: ./activities/balancebox/ActivityInfo.qml:21
+#, kde-format
+msgid "Tilt the box to navigate the ball to the door."
+msgstr "Nghiêng hộp để điều hướng bóng đến cửa."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "ballcatch"
+#: ./activities/ballcatch/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Press the left and right arrows at the same time to send the ball straight on"
+msgstr "Nhấn các mũi tên trái và phải cùng một lúc để gửi bóng thẳng về phía trước"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "bargame"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "bargame_2players"
+#: ./activities/bargame/ActivityInfo.qml:18
+#: ./activities/bargame_2players/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Select the number of balls you wish to place in the holes and then click on "
+"the OK button. The winner is the one who hasn't put a ball in the red hole."
+msgstr ""
+"Chọn số quả bóng bạn muốn đặt vào các lỗ, sau đó bấm nút OK. Người chiến "
+"thắng là người không đặt bóng vào lỗ đỏ."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "binary_bulb"
+#: ./activities/binary_bulb/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Turn on the right bulbs to represent the binary of the given decimal number. "
+"When you have achieved it, press OK"
+msgstr ""
+"Bật các bóng đèn đúng để biểu diễn số nhị phân của số thập phân đã cho. Khi "
+"đạt được, hãy nhấn OK"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "braille_alphabets"
+#: ./activities/braille_alphabets/ActivityInfo.qml:18
+#, kde-format
+msgid "Click on Tux to start and then re-create the Braille cells."
+msgstr "Bấm vào Tux để khởi động và sau đó tạo lại các ô Braille."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "braille_fun"
+#: ./activities/braille_fun/ActivityInfo.qml:18
+#, kde-format
+msgid "Create the Braille cell for the letter."
+msgstr "Tạo ô Braille cho chữ cái."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "calcudoku"
+#: ./activities/calcudoku/ActivityInfo.qml:17
+#, kde-format
+msgid ""
+"Select a number and click on its target position. Each number must appear "
+"only once in a row and in a column. The numbers in the cells of a cage must "
+"produce the given result when combined using the given operator."
+msgstr ""
+"Chọn một số và bấm vào vị trí mục tiêu của nó. Mỗi số chỉ được xuất hiện "
+"một lần trong một hàng và một cột. Các số trong các ô của một lồng phải tạo "
+"ra kết quả đã cho khi kết hợp bằng toán tử đã cho."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "calendar"
+#: ./activities/calendar/ActivityInfo.qml:18
+#, kde-format
+msgid "Select the asked date on the calendar"
+msgstr "Chọn ngày được yêu cầu trên lịch"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "canal_lock"
+#: ./activities/canal_lock/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"You are responsible for the lock and you must help Tux pass through. Click "
+"on the valves to cause either a drop or an increase in the water level, and "
+"click on the gates to open or close a path."
+msgstr ""
+"Bạn chịu trách nhiệm về cửa đập và bạn phải giúp Tux đi qua. Bấm vào các "
+"van để làm giảm hoặc tăng mức nước, và bấm vào các cổng để mở hoặc đóng "
+"đường đi."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "categorization"
+#: ./activities/categorization/ActivityInfo.qml:18
+#, kde-format
+msgid "Categorize the items into the correct group"
+msgstr "Phân nhóm các mục vào nhóm đúng"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "checkers"
+#: ./activities/checkers/ActivityInfo.qml:18
+#, kde-format
+msgid "play checkers against Tux"
+msgstr "phát cờ caro với Tux"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "checkers_2players"
+#: ./activities/checkers_2players/ActivityInfo.qml:18
+#, kde-format
+msgid "play checkers with your friend"
+msgstr "chơi cờ caro với bạn của bạn"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "chess"
+#: ./activities/chess/ActivityInfo.qml:18
+#, kde-format
+msgid "play chess against Tux"
+msgstr "phát cờ vua với Tux"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "chess_2players"
+#: ./activities/chess_2players/ActivityInfo.qml:18
+#, kde-format
+msgid "play chess against your friend"
+msgstr "chơi cờ vua với bạn của bạn"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "chess_partyend"
+#: ./activities/chess_partyend/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Click on a white chess piece and green boxes will appear to indicate all the "
+"movements that piece can make. Try and get the black king into checkmate."
+msgstr ""
+"Bấm vào một quân cờ trắng và các ô xanh sẽ xuất hiện để chỉ ra tất cả các "
+"di chuyển mà quân cờ đó có thể thực hiện. Hãy cố gắng đưa vua đen vào tình "
+"trạng chiếu tướng."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "chronos"
+#: ./activities/chronos/ActivityInfo.qml:22
+#, kde-format
+msgid "Slide the pictures into the order that tells the story"
+msgstr "Trượt các bức ảnh vào thứ tự kể câu chuyện"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "click_on_letter_up"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "click_on_letter"
+#: ./activities/click_on_letter/ActivityInfo.qml:18
+#: ./activities/click_on_letter_up/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Click on the required letter. You can listen to it again by clicking on the "
+"mouth."
+msgstr "Bấm vào chữ cần thiết. Bạn có thể nghe lại bằng cách bấm vào miệng."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "clickanddraw"
+#: ./activities/clickanddraw/ActivityInfo.qml:18
+#, kde-format
+msgid "Click on the selected points and draw"
+msgstr "Bấm vào các điểm đã chọn và vẽ"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "clickgame"
+#: ./activities/clickgame/ActivityInfo.qml:18
+#, kde-format
+msgid "Catch the fish before they leave the aquarium."
+msgstr "Bắt những con cá trước khi chúng rời khỏi bể cá."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "clockgame"
+#: ./activities/clockgame/ActivityInfo.qml:18
+#, kde-format
+msgid "Drag and drop the needles of the clock to display the required time"
+msgstr "Kéo và thả kim đồng hồ để hiển thị thời gian yêu cầu"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "color_mix"
+#: ./activities/color_mix/ActivityInfo.qml:18
+#, kde-format
+msgid "Match the color by moving the sliders on the tubes of paint"
+msgstr "Khớp màu bằng cách di chuyển các thanh trượt trên các ống sơn"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "color_mix_light"
+#: ./activities/color_mix_light/ActivityInfo.qml:18
+#, kde-format
+msgid "Match the color by moving the sliders on the torches"
+msgstr "Khớp màu bằng cách di chuyển các thanh trượt trên các ngọn đuốc"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "colors"
+#: ./activities/colors/ActivityInfo.qml:18
+#, kde-format
+msgid "Click on the right color"
+msgstr "Bấm vào màu đúng"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "comparator"
+#: ./activities/comparator/ActivityInfo.qml:20
+#, kde-format
+msgid ""
+"Select the correct comparator sign for each pair of numbers in the list."
+msgstr "Chọn dấu so sánh chính xác cho mỗi cặp số trong danh sách."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "crane"
+#: ./activities/crane/ActivityInfo.qml:23
+#, kde-format
+msgid ""
+" Click on each item in turn, in the blue frame, and move them to reproduce "
+"the pattern from the pink frame."
+msgstr ""
+"Bấm vào từng mục trong khung xanh, rồi di chuyển chúng để tái tạo dạng mẫu "
+"từ khung hồng."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "details"
+#: ./activities/details/ActivityInfo.qml:21
+#, kde-format
+msgid "Slide the images on their respective targets"
+msgstr "Trượt các hình ảnh vào các mục tiêu tương ứng của chúng"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "digital_electricity"
+#: ./activities/digital_electricity/ActivityInfo.qml:18
+#, kde-format
+msgid "Learn how digital electronics work and create your own circuit."
+msgstr "Tìm hiểu cách hoạt động của điện tử số và tạo ra mạch điện của riêng bạn."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "drawletters"
+#: ./activities/drawletters/ActivityInfo.qml:18
+#, kde-format
+msgid "Click on the selected points and draw the letter"
+msgstr "Bấm vào các điểm đã chọn và vẽ chữ"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "drawnumbers"
+#: ./activities/drawnumbers/ActivityInfo.qml:18
+#, kde-format
+msgid "Draw the numbers by connecting the dots in the correct order."
+msgstr "Vẽ các số bằng cách nối các điểm theo đúng thứ tự."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "enumerate"
+#: ./activities/enumerate/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Count the elements by organizing them then type the answer on your keyboard."
+msgstr ""
+"Đếm các phần tử bằng cách sắp xếp chúng, sau đó gõ câu trả lời trên bàn "
+"phím."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "erase"
+#: ./activities/erase/ActivityInfo.qml:18
+#, kde-format
+msgid " Clear the window with your sponge and discover the hidden picture."
+msgstr "Dùng miếng bọt biển của bạn để làm trống cửa sổ và khám phá bức tranh ẩn."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "erase_2clic"
+#: ./activities/erase_2clic/ActivityInfo.qml:18
+#, kde-format
+msgid "Double tap or double click on the bricks to discover the hidden picture"
+msgstr "Bấm đúp hoặc vỗ đúp lên các viên gạch để khám phá bức ảnh ẩn"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "erase_clic"
+#: ./activities/erase_clic/ActivityInfo.qml:18
+#, kde-format
+msgid "Click or tap on the transparent bricks and discover the hidden picture."
+msgstr "Bấm hoặc vỗ vào các viên gạch trong suốt và khám phá bức tranh ẩn bên dưới."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "explore_farm_animals"
+#: ./activities/explore_farm_animals/ActivityInfo.qml:18
+#, kde-format
+msgid "Learn about farmyard animals and the noises that they make."
+msgstr ""
+"Tìm hiểu về các con vật trong trang trại và những tiếng kêu mà chúng phát "
+"ra."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "explore_monuments"
+#: ./activities/explore_monuments/ActivityInfo.qml:18
+#, kde-format
+msgid "Explore Monuments around the world."
+msgstr "Khám phá các công trình kiến trúc nổi tiếng trên thế giới."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "explore_world_animals"
+#: ./activities/explore_world_animals/ActivityInfo.qml:22
+#, kde-format
+msgid "Learn about world animals and locate them on a map."
+msgstr "Tìm hiểu về các loài động vật trên thế giới và định vị chúng trên bản đồ."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "explore_world_music"
+#: ./activities/explore_world_music/ActivityInfo.qml:18
+#, kde-format
+msgid "Click on the suitcases to learn about music from around the world."
+msgstr "Bấm vào các vali để tìm hiểu về âm nhạc từ khắp nơi trên thế giới."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "family"
+#: ./activities/family/ActivityInfo.qml:18
+#, kde-format
+msgid "Let us understand what to call our relatives"
+msgstr "Hãy cùng tìm hiểu cách gọi những người thân của chúng ta"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "family_find_relative"
+#: ./activities/family_find_relative/ActivityInfo.qml:18
+#, kde-format
+msgid "Click on a pair that defines the given relation"
+msgstr "Bấm vào một cặp xác định mối quan hệ được cho"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "fifteen"
+#: ./activities/fifteen/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Click or drag an element next to a free space, the element will move and "
+"release its space. You must put all the pieces in the correct order. The "
+"numbers on the pieces can help you."
+msgstr ""
+"Bấm hoặc kéo một phần tử đến vị trí trống, phần tử sẽ di chuyển và giải "
+"phóng không gian của nó. Bạn phải đặt tất cả các mảnh vào đúng thứ tự. Các "
+"số trên các mảnh có thể giúp bạn."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "find_the_day"
+#: ./activities/find_the_day/ActivityInfo.qml:18
+#, kde-format
+msgid "Select the required day."
+msgstr "Chọn ngày cần thiết."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "followline"
+#: ./activities/followline/ActivityInfo.qml:18
+#, kde-format
+msgid " Move the mouse or your finger along the pipe to stop the fire."
+msgstr "Di chuyển chuột hoặc ngón tay dọc theo ống để dập tắt lửa."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "football"
+#: ./activities/football/ActivityInfo.qml:18
+#, kde-format
+msgid "Drag a line from the ball to set the speed and direction of your kick."
+msgstr "Kéo một đường từ quả bóng để đặt tốc độ và hướng của cú đá của bạn."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "fractions_create"
+#: ./activities/fractions_create/ActivityInfo.qml:17
+#, kde-format
+msgid ""
+"Select the appropriate number of parts as described in the instructions."
+msgstr "Chọn số phần thích hợp như mô tả trong hướng dẫn."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "fractions_find"
+#: ./activities/fractions_find/ActivityInfo.qml:17
+#, kde-format
+msgid "Find the correct numerator and denominator of the represented fraction"
+msgstr "Tìm tử số và mẫu số đúng của phân số được biểu diễn"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "frieze"
+#: ./activities/frieze/ActivityInfo.qml:17
+#, kde-format
+msgid "Reproduce and complete the frieze model."
+msgstr "Tái tạo và hoàn tất mô hình frieze."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "geo-country"
+#: ./activities/geo-country/ActivityInfo.qml:22
+#, kde-format
+msgid "Drag and drop the regions to complete the country maps."
+msgstr "Kéo và thả các vùng để hoàn tất bản đồ quốc gia."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "geography"
+#: ./activities/geography/ActivityInfo.qml:22
+#, kde-format
+msgid "Drag and drop the objects to complete the map."
+msgstr "Kéo và thả các đối tượng để hoàn tất bản đồ."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "gletters"
+#: ./activities/gletters/ActivityInfo.qml:18
+#, kde-format
+msgid "Type the letters on your keyboard before they reach the ground."
+msgstr "Gõ các chữ cái trên bàn phím của bạn trước khi chúng chạm đất."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "gnumch-equality"
+#: ./activities/gnumch-equality/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Guide the number eater with the arrow keys to the required numbers and press "
+"the space bar to swallow them."
+msgstr ""
+"Hướng dẫn con ăn số bằng các phím mũi tên để đến các số cần thiết và nhấn "
+"phím cách để nuốt chúng."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "gnumch-factors"
+#: ./activities/gnumch-factors/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Guide the number eater with the arrow keys to the factors of the displayed "
+"number and press space to swallow them."
+msgstr ""
+"Hướng dẫn con ăn số bằng các phím mũi tên đến các yếu tố của số hiển thị và "
+"nhấn phím cách để nuốt chúng."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "gnumch-inequality"
+#: ./activities/gnumch-inequality/ActivityInfo.qml:19
+#, kde-format
+msgid ""
+"Guide the number eater with the arrow keys to the numbers that are different "
+"from the ones displayed and press the space bar to swallow them."
+msgstr ""
+"Hướng dẫn con ăn số bằng các phím mũi tên đến những số khác với số hiển thị "
+"và nhấn phím cách để nuốt chúng."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "gnumch-multiples"
+#: ./activities/gnumch-multiples/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Guide the number eater with the arrow keys to the multiples of the displayed "
+"number and press space to swallow them."
+msgstr ""
+"Hướng dẫn con ăn số bằng các phím mũi tên đến các bội số của số hiển thị và "
+"nhấn phím cách để nuốt chúng."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "gnumch-primes"
+#: ./activities/gnumch-primes/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Guide the number eater with the arrow keys to the prime numbers and press "
+"space to swallow them."
+msgstr ""
+"Hướng dẫn con ăn số với các phím mũi tên để đến các số nguyên tố và nhấn "
+"phím cách để nuốt chúng."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "graduated_line_read"
+#: ./activities/graduated_line_read/ActivityInfo.qml:17
+#, kde-format
+msgid "Find the value corresponding to the given spot on the graduated line."
+msgstr "Tìm giá trị tương ứng với vị trí cho trên đường chia độ."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "graduated_line_use"
+#: ./activities/graduated_line_use/ActivityInfo.qml:17
+#, kde-format
+msgid "Place the given value on the graduated line."
+msgstr "Đặt giá trị đã cho lên đường chia độ."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "grammar_classes"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "grammar_analysis"
+#: ./activities/grammar_analysis/ActivityInfo.qml:21
+#: ./activities/grammar_classes/ActivityInfo.qml:21
+#, kde-format
+msgid "Assign the requested grammatical classes to the corresponding words."
+msgstr "Gán các lớp ngữ pháp được yêu cầu cho các từ tương ứng."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "graph-coloring"
+#: ./activities/graph-coloring/ActivityInfo.qml:18
+#, kde-format
+msgid "Color the graph so that no two adjacent nodes have the same color."
+msgstr "Tô màu cho đồ thị sao cho không có hai nút liền kề có cùng màu."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "gravity"
+#: ./activities/gravity/ActivityInfo.qml:22
+#, kde-format
+msgid ""
+"Move the spaceship to avoid hitting the planets and reach the space station."
+msgstr "Di chuyển tàu vũ trụ để tránh va chạm với các hành tinh và đến trạm vũ trụ."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "guess24"
+#: ./activities/guess24/ActivityInfo.qml:17
+#, kde-format
+msgid "Use the four numbers with given operators to find 24"
+msgstr "Sử dụng bốn số với các toán tử đã cho để tìm ra 24"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "guesscount"
+#: ./activities/guesscount/ActivityInfo.qml:22
+#, kde-format
+msgid ""
+"Use the numbers and operations suggested to find the results proposed above."
+msgstr "Sử dụng các số và thao tác được đề xuất để tìm kết quả được đề xuất ở trên."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "guessnumber"
+#: ./activities/guessnumber/ActivityInfo.qml:18
+#, kde-format
+msgid "Find out the number by typing a number from the range proposed."
+msgstr "Tìm ra số bằng cách nhập một số từ phạm vi đề xuất."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "hangman"
+#: ./activities/hangman/ActivityInfo.qml:21
+#, kde-format
+msgid "A word is hidden, you must discover it letter by letter."
+msgstr "Một từ đã được ẩn, bạn phải khám phá từng chữ cái của nó."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "hanoi"
+#: ./activities/hanoi/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Rebuild the same tower in the empty area as the one you see on the right "
+"hand side."
+msgstr "Xây lại cùng một tháp giống như cái bạn thấy ở bên phải."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "hanoi_real"
+#: ./activities/hanoi_real/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Rebuild the model tower on the right support. Take care, no disc may be "
+"placed atop a smaller disc."
+msgstr ""
+"Xây lại tháp mô hình trên giá đỡ bên phải. Cẩn thận, không được đặt đĩa lên "
+"trên đĩa nhỏ hơn."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "hexagon"
+#: ./activities/hexagon/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Click on the hexagons to find the hidden object, the red zone indicates that "
+"you're close to it!"
+msgstr "Bấm vào các lục giác để tìm vật ẩn, vùng màu đỏ cho biết bạn đang ở gần nó!"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "imagename"
+#: ./activities/imagename/ActivityInfo.qml:21
+#, kde-format
+msgid "Drag and drop each item above its name."
+msgstr "Kéo và thả mỗi mục lên trên tên của nó."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "instruments"
+#: ./activities/instruments/ActivityInfo.qml:18
+#, kde-format
+msgid "Click on the correct musical instrument."
+msgstr "Bấm vào nhạc cụ âm nhạc đúng."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "land_safe"
+#: ./activities/land_safe/ActivityInfo.qml:18
+#, kde-format
+msgid "Use the arrow keys to pilot your spaceship safely onto the landing pad."
+msgstr ""
+"Sử dụng các phím mũi tên để điều khiển tàu vũ trụ của bạn an toàn đến bệ "
+"đáp."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "lang"
+#: ./activities/lang/ActivityInfo.qml:24
+#, kde-format
+msgid ""
+"Select the language you want to learn then review the words before doing the "
+"exercises."
+msgstr ""
+"Chọn ngôn ngữ bạn muốn học, sau đó xét duyệt các từ trước khi thực hiện các "
+"bài tập."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "learn_additions"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "learn_subtractions"
+#: ./activities/learn_additions/ActivityInfo.qml:18
+#: ./activities/learn_subtractions/ActivityInfo.qml:18
+#, kde-format
+msgid "Click on the circles to give the operation's result."
+msgstr "Bấm vào các vòng tròn để cho kết quả của phép toán."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "learn_decimals"
+#: ./activities/learn_decimals/ActivityInfo.qml:17
+#, kde-format
+msgid ""
+"Drag the arrow to select a part of the bar, and drag the selected part of "
+"the bar to the empty area to represent the decimal number."
+msgstr ""
+"Kéo mũi tên để chọn một phần của thanh, và kéo phần đã chọn của thanh đến "
+"khu vực trống để biểu diễn số thập phân."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "learn_decimals_additions"
+#: ./activities/learn_decimals_additions/ActivityInfo.qml:17
+#, kde-format
+msgid ""
+"Drag the arrow to select a part of the bar, and drag the selected part of "
+"the bar to the empty area to represent the result of the addition."
+msgstr ""
+"Kéo mũi tên để chọn một phần của thanh, và kéo phần đã chọn của thanh đến "
+"khu vực trống để thể hiện kết quả của phép cộng."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "learn_decimals_subtractions"
+#: ./activities/learn_decimals_subtractions/ActivityInfo.qml:17
+#, kde-format
+msgid "Click on the squares to represent the result of the subtraction."
+msgstr "Bấm vào các ô vuông để biểu diễn kết quả của phép trừ."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "learn_digits"
+#: ./activities/learn_digits/ActivityInfo.qml:18
+#, kde-format
+msgid "Click on the circles to match the given digit."
+msgstr "Bấm vào các vòng tròn để khớp với chữ số đã cho."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "learn_quantities"
+#: ./activities/learn_quantities/ActivityInfo.qml:17
+#, kde-format
+msgid ""
+"Drag the arrow to select a number of oranges, and drag the oranges to the "
+"empty area to represent the requested quantity."
+msgstr ""
+"Kéo mũi tên để chọn số cam, và kéo các cam vào khu vực trống để thể hiện số "
+"lượng được yêu cầu."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "left_right_click"
+#: ./activities/left_right_click/ActivityInfo.qml:17
+#, kde-format
+msgid ""
+"Move animals to their homes using a left click or right click on your mouse."
+msgstr ""
+"Di chuyển các con vật đến nhà của chúng bằng cách bấm trái hoặc bấm phải "
+"chuột."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "leftright"
+#: ./activities/leftright/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Guess if the picture presents a left or right hand and click on the correct "
+"answer."
+msgstr ""
+"Đoán xem ảnh hiển thị bàn tay trái hay bàn tay phải và bấm vào câu trả lời "
+"đúng."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "letter-in-word"
+#: ./activities/letter-in-word/ActivityInfo.qml:18
+#, kde-format
+msgid "Click on all the words containing the wanted letter."
+msgstr "Bấm vào tất cả các từ chứa chữ cái mong muốn."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "lightsoff"
+#: ./activities/lightsoff/ActivityInfo.qml:18
+#, kde-format
+msgid "Click on the lamps to turn them off."
+msgstr "Bấm vào các đèn để tắt chúng."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "louis-braille"
+#: ./activities/louis-braille/ActivityInfo.qml:18
+#, kde-format
+msgid "Discover the history of Louis Braille."
+msgstr "Khám phá lịch sử của Louis Braille."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "magic-hat-minus"
+#: ./activities/magic-hat-minus/ActivityInfo.qml:18
+#, kde-format
+msgid "Click on the hat. How many stars are still hiding under the hat."
+msgstr "Bấm vào chiếc mũ. Còn bao nhiêu ngôi sao đang ẩn dưới mũ."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "magic-hat-plus"
+#: ./activities/magic-hat-plus/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Count the number of stars hidden under the hat and then click on the stars "
+"to indicate their number."
+msgstr ""
+"Đếm số ngôi sao ẩn dưới chiếc mũ và sau đó bấm vào các ngôi sao để chỉ ra "
+"số lượng của chúng."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "maze"
+#: ./activities/maze/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Use the arrows keys or swipe the touch screen to help Tux find his way out."
+msgstr ""
+"Sử dụng các phím mũi tên hoặc hất màn hình cảm ứng để giúp Tux tìm đường "
+"ra."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "mazeinvisible"
+#: ./activities/mazeinvisible/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Use the arrow keys or swipe the touch screen to guide Tux out. Use the maze "
+"icon or the space key to see the map."
+msgstr ""
+"Sử dụng các phím mũi tên hoặc vuốt màn hình cảm ứng để hướng dẫn Tux ra "
+"ngoài. Sử dụng biểu tượng của mê cung hoặc phím cách để xem bản đồ."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "mazerelative"
+#: ./activities/mazerelative/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Help Tux find his way out. Left and right are used to turn and up to go "
+"forward."
+msgstr ""
+"Giúp Tux tìm đường ra. Sang trái và sang phải dùng để quay, và lên để di "
+"chuyển về phía trước."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "melody"
+#: ./activities/melody/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Listen to the sound sequence played, and reproduce it by clicking on the "
+"xylophone's bars"
+msgstr ""
+"Nghe dãy âm thanh được phát, và tái tạo nó bằng cách nhấp vào các thanh của "
+"cây sáo"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-case-association-tux"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-case-association"
+#: ./activities/memory-case-association-tux/ActivityInfo.qml:18
+#: ./activities/memory-case-association/ActivityInfo.qml:18
+#, kde-format
+msgid "Match the upper case card with its lower case pair."
+msgstr "Ghép thẻ in hoa với cặp thẻ in thường tương ứng."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-enumerate"
+#: ./activities/memory-enumerate/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Match a number card with a card displaying the same number of butterflies."
+msgstr "Ghép một thẻ số với một thẻ hiển thị cùng số lượng bướm."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-math-minus"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-math-add-tux"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-math-div-tux"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-math-add-minus-tux"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-math-add-minus-mult-div"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-math-add-minus-mult-div-tux"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-math-add-minus"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-math-mult-div"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-math-mult"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-math-mult-div-tux"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-math-div"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-math-add"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-math-mult-tux"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-math-minus-tux"
+#: ./activities/memory-math-add-minus-mult-div-tux/ActivityInfo.qml:18
+#: ./activities/memory-math-add-minus-mult-div/ActivityInfo.qml:18
+#: ./activities/memory-math-add-minus-tux/ActivityInfo.qml:18
+#: ./activities/memory-math-add-minus/ActivityInfo.qml:18
+#: ./activities/memory-math-add-tux/ActivityInfo.qml:18
+#: ./activities/memory-math-add/ActivityInfo.qml:18
+#: ./activities/memory-math-div-tux/ActivityInfo.qml:18
+#: ./activities/memory-math-div/ActivityInfo.qml:18
+#: ./activities/memory-math-minus-tux/ActivityInfo.qml:18
+#: ./activities/memory-math-minus/ActivityInfo.qml:18
+#: ./activities/memory-math-mult-div-tux/ActivityInfo.qml:18
+#: ./activities/memory-math-mult-div/ActivityInfo.qml:18
+#: ./activities/memory-math-mult-tux/ActivityInfo.qml:18
+#: ./activities/memory-math-mult/ActivityInfo.qml:18
+#, kde-format
+msgid "Turn over two cards to match the calculation with its answer."
+msgstr "Lật hai thẻ để khớp phép tính với kết quả của nó."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-sound"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-sound-tux"
+#: ./activities/memory-sound-tux/ActivityInfo.qml:18
+#: ./activities/memory-sound/ActivityInfo.qml:18
+#, kde-format
+msgid "Click on an audio card and find its double."
+msgstr "Bấm vào một thẻ âm thanh và tìm bản sao của nó."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-tux"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory"
+#: ./activities/memory-tux/ActivityInfo.qml:18
+#: ./activities/memory/ActivityInfo.qml:18
+#, kde-format
+msgid "Click on a card and find its double."
+msgstr "Bấm vào một lá bài và tìm cặp đôi của nó."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-wordnumber"
+#: ./activities/memory-wordnumber/ActivityInfo.qml:18
+#, kde-format
+msgid "Match the numeric with the word."
+msgstr "Khớp số với từ."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "mining"
+#: ./activities/mining/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Looking at the rockwall, you can see a sparkle somewhere. Move the mouse "
+"cursor next to this sparkle and use the mousewheel or the zoom gesture to "
+"zoom in."
+msgstr ""
+"Nhìn vào vách đá, bạn có thể thấy một tia lấp lánh ở đâu đó. Di chuyển con "
+"trỏ chuột gần tia lấp lánh này và sử dụng bánh lăn chuột hoặc cử chỉ thu "
+"phóng để phóng to."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "missing-letter"
+#: ./activities/missing-letter/ActivityInfo.qml:19
+#, kde-format
+msgid ""
+"Find the missing letter and complete the word by clicking on one of the "
+"letters proposed on the side."
+msgstr ""
+"Tìm chữ cái bị thiếu và hoàn tất từ bằng cách nhấp vào một trong những chữ "
+"cái được đề xuất ở bên."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "money"
+#: ./activities/money/ActivityInfo.qml:18
+#, kde-format
+msgid "Click or tap on the money to pay."
+msgstr "Bấm hoặc vỗ vào tiền để thanh toán."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "money_back_cents"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "money_back"
+#: ./activities/money_back/ActivityInfo.qml:18
+#: ./activities/money_back_cents/ActivityInfo.qml:18
+#, kde-format
+msgid "Click on the money at the bottom of the screen to give Tux his change."
+msgstr "Bấm vào tiền ở dưới cùng của màn hình để trả lại tiền thừa cho Tux."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "money_cents"
+#: ./activities/money_cents/ActivityInfo.qml:18
+#, kde-format
+msgid "Click on the money to pay."
+msgstr "Bấm vào tiền để thanh toán."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "morse_code"
+#: ./activities/morse_code/ActivityInfo.qml:21
+#, kde-format
+msgid "Learn and practice the International Morse code"
+msgstr "Học và thực hành mã Morse quốc tế"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "mosaic"
+#: ./activities/mosaic/ActivityInfo.qml:18
+#, kde-format
+msgid "Put each item at the same place as in the given example."
+msgstr "Đặt mỗi mục ở cùng một địa điểm như trong ví dụ đã cho."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "nine_men_morris"
+#: ./activities/nine_men_morris/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Click on the dot where you wish to place your piece and try to take all "
+"Tux's pieces."
+msgstr ""
+"Bấm vào chấm nơi bạn muốn đặt quân cờ của mình và cố gắng lấy hết quân cờ "
+"của Tux."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "nine_men_morris_2players"
+#: ./activities/nine_men_morris_2players/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Click on the dot where you wish to place your piece and try to take all your "
+"friend's pieces."
+msgstr ""
+"Bấm vào chấm nơi bạn muốn đặt quân của mình và cố gắng lấy hết quân của "
+"bạn."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "note_names"
+#: ./activities/note_names/ActivityInfo.qml:21
+#, kde-format
+msgid "Identify the note and press the correct piano key"
+msgstr "Xác định ghi chú và nhấn phím đàn piano đúng"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "number_sequence"
+#: ./activities/number_sequence/ActivityInfo.qml:18
+#, kde-format
+msgid "Draw the picture by touching the numbers in ascending order."
+msgstr "Vẽ bức tranh bằng cách chạm vào các số theo thứ tự tăng dần."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "numbers-odd-even"
+#: ./activities/numbers-odd-even/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Move the helicopter to catch the clouds having even or odd numbers, in the "
+"shown order."
+msgstr ""
+"Di chuyển trực thăng để bắt những đám mây có số chẵn hoặc lẻ, theo thứ tự "
+"hiển thị."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "ordering_alphabets"
+#: ./activities/ordering_alphabets/ActivityInfo.qml:24
+#, kde-format
+msgid "Arrange the letters in the correct order."
+msgstr "Sắp xếp các chữ cái theo đúng thứ tự."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "ordering_chronology"
+#: ./activities/ordering_chronology/ActivityInfo.qml:24
+#, kde-format
+msgid "Arrange the given events in their chronological order."
+msgstr "Sắp xếp các sự kiện đã cho theo thứ tự thời gian."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "ordering_numbers"
+#: ./activities/ordering_numbers/ActivityInfo.qml:23
+#, kde-format
+msgid "Arrange the numbers in the correct order."
+msgstr "Sắp xếp các số theo đúng thứ tự."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "ordering_sentences"
+#: ./activities/ordering_sentences/ActivityInfo.qml:23
+#, kde-format
+msgid "Arrange the given words to form a meaningful sentence."
+msgstr "Sắp xếp các từ được cung cấp để tạo thành một câu có ý nghĩa."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "oware_2players"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "oware"
+#: ./activities/oware/ActivityInfo.qml:17
+#: ./activities/oware_2players/ActivityInfo.qml:17
+#, kde-format
+msgid "Capture at least 25 seeds to win the game"
+msgstr "Thu thập ít nhất 25 hạt để thắng bàn chơi"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "paintings"
+#: ./activities/paintings/ActivityInfo.qml:23
+#, kde-format
+msgid "Catch and drop each piece on the points."
+msgstr "Bắt và thả từng mảnh lên các điểm."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "path_decoding"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "path_decoding_relative"
+#: ./activities/path_decoding/ActivityInfo.qml:17
+#: ./activities/path_decoding_relative/ActivityInfo.qml:17
+#, kde-format
+msgid ""
+"Click on the grid squares following the given directions to help Tux reach "
+"the target."
+msgstr "Bấm vào các ô lưới theo hướng dẫn để giúp Tux đến mục tiêu."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "path_encoding"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "path_encoding_relative"
+#: ./activities/path_encoding/ActivityInfo.qml:17
+#: ./activities/path_encoding_relative/ActivityInfo.qml:17
+#, kde-format
+msgid "Use the arrows to move Tux along the path and reach the target."
+msgstr "Sử dụng các mũi tên để di chuyển Tux dọc theo đường đi và đến mục tiêu."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "penalty"
+#: ./activities/penalty/ActivityInfo.qml:18
+#, kde-format
+msgid "Double click or double tap on the goal, in order to score."
+msgstr "Nhấp đúp hoặc vỗ đúp vào khung thành để ghi bàn."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "photo_hunter"
+#: ./activities/photo_hunter/ActivityInfo.qml:18
+#, kde-format
+msgid "look at the two pictures carefully and click where you see a difference"
+msgstr "nhìn kỹ hai bức ảnh và bấm vào nơi bạn thấy khác biệt"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "piano_composition"
+#: ./activities/piano_composition/ActivityInfo.qml:19
+#, kde-format
+msgid ""
+"Learn to compose piano music using the octaves and the tools presented above "
+"the staff."
+msgstr ""
+"Học cách sáng tác nhạc piano bằng cách sử dụng các octave và các công cụ "
+"được trình bày trên dòng nhạc."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "planegame"
+#: ./activities/planegame/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Move the helicopter with the arrow keys and catch the numbers in the clouds, "
+"in ascending order."
+msgstr ""
+"Di chuyển trực thăng bằng các phím mũi tên và bắt các số trong mây, theo "
+"thứ tự tăng dần."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "play_piano"
+#: ./activities/play_piano/ActivityInfo.qml:22
+#, kde-format
+msgid "Click on the keyboard keys that match the notes that you see and hear"
+msgstr "Bấm vào các phím trên bàn phím khớp với các ghi chú mà bạn thấy và nghe"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "play_rhythm"
+#: ./activities/play_rhythm/ActivityInfo.qml:22
+#, kde-format
+msgid "Click the drum to recreate the rhythm"
+msgstr "Bấm vào trống để tái tạo nhịp điệu"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "positions"
+#: ./activities/positions/ActivityInfo.qml:18
+#, kde-format
+msgid "Find the correct position"
+msgstr "Tìm vị trí chính xác"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "programmingMaze"
+#: ./activities/programmingMaze/ActivityInfo.qml:19
+#, kde-format
+msgid ""
+"Arrange the instructions and traverse the correct path to reach the fish."
+msgstr "Sắp xếp các hướng dẫn và đi theo đường đúng để đến được con cá."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "railroad"
+#: ./activities/railroad/ActivityInfo.qml:20
+#, kde-format
+msgid "Observe the train and then click on the items to set up a similar train"
+msgstr "Quan sát tàu và sau đó bấm vào các mục để thiết lập một tàu tương tự"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "readingh"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "readingv"
+#: ./activities/readingh/ActivityInfo.qml:18
+#: ./activities/readingv/ActivityInfo.qml:18
+#, kde-format
+msgid "Read a list of words and say if a given word is in it."
+msgstr ""
+"Đọc một danh sách từ và nói xem một từ cho trước có trong danh sách đó "
+"không."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "redraw"
+#: ./activities/redraw/ActivityInfo.qml:18
+#, kde-format
+msgid "Use the drawing tools to build an identical pattern on the right."
+msgstr "Sử dụng các công cụ vẽ để xây dựng một dạng mẫu giống hệt ở bên phải."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "redraw_symmetrical"
+#: ./activities/redraw_symmetrical/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Use the drawing tools to reproduce symmetrically the pattern on the right."
+msgstr "Sử dụng các công cụ vẽ để tái tạo đối xứng mẫu ở bên phải."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "renewable_energy"
+#: ./activities/renewable_energy/ActivityInfo.qml:18
+#, kde-format
+msgid "Click on the different stages that go to make up the power supply."
+msgstr "Bấm vào các giai đoạn khác nhau để tạo ra nguồn điện."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "reversecount"
+#: ./activities/reversecount/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Click on the domino and validate your choice with the OK button to indicate "
+"the number of ice blocks Tux will have to follow to eat a fish."
+msgstr ""
+"Bấm vào quân domino và kiểm nhận lựa chọn của bạn bằng nút OK để chỉ ra số "
+"khối băng mà Tux sẽ phải đi theo để ăn một con cá."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "roman_numerals"
+#: ./activities/roman_numerals/ActivityInfo.qml:18
+#, kde-format
+msgid "Learn and practice roman to arabic numerals conversion"
+msgstr "Học và thực hành chuyển đổi số La Mã sang số Ả Rập"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "scalesboard"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "scalesboard_weight_avoirdupois"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "scalesboard_weight"
+#: ./activities/scalesboard/ActivityInfo.qml:18
+#: ./activities/scalesboard_weight/ActivityInfo.qml:18
+#: ./activities/scalesboard_weight_avoirdupois/ActivityInfo.qml:18
+#, kde-format
+msgid "Drag the weights up to balance the scales."
+msgstr "Kéo các trọng lượng lên để cân bằng các cân."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "share"
+#: ./activities/share/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Share the candies equally among the specified number of children and notice "
+"that there may be a rest left"
+msgstr ""
+"Chia sẻ kẹo đều giữa số trẻ em được chỉ định và lưu ý rằng có thể còn lại "
+"một số"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "simplepaint"
+#: ./activities/simplepaint/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Select a color and paint the rectangles as you like to create a drawing."
+msgstr ""
+"Chọn một màu và vẽ các hình chữ nhật theo ý thích của bạn để tạo ra một bức "
+"vẽ."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "smallnumbers"
+#: ./activities/smallnumbers/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Count the number on the dice and type it on your keyboard before it reaches "
+"the ground."
+msgstr ""
+"Đếm số trên con xúc xắc và gõ nó trên bàn phím của bạn trước khi nó chạm "
+"đất."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "smallnumbers2"
+#: ./activities/smallnumbers2/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Count the numbers on the dominoes then type the result on your keyboard."
+msgstr "Đếm số trên những quân domino rồi gõ kết quả trên bàn phím của bạn."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "solar_system"
+#: ./activities/solar_system/ActivityInfo.qml:21
+#, kde-format
+msgid ""
+"Answer the questions presented and get a 100% correctness among the options."
+msgstr ""
+"Trả lời các câu hỏi được trình bày và đạt 100% chính xác trong các lựa "
+"chọn."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "submarine"
+#: ./activities/submarine/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Drive the submarine to the right end of the screen without colliding with "
+"any objects"
+msgstr ""
+"Lái tàu ngầm đến cuối màn hình bên phải mà không va chạm với bất kỳ vật thể "
+"nào"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "sudoku"
+#: ./activities/sudoku/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Select a number or a symbol and click its target area. Each symbol must "
+"appear only once in a row, in a column and in a subregion if any."
+msgstr ""
+"Chọn một số hoặc một kí hiệu và bấm vào vùng mục tiêu của nó. Mỗi kí hiệu "
+"phải chỉ xuất hiện một lần trong một hàng, trong một cột và trong một tiểu "
+"vùng nếu có."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "superbrain"
+#: ./activities/superbrain/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Find out the right combination of colors. A dot framed in a black square "
+"means that you found the correct colour in the correct position, while a dot "
+"framed in a white square means it's the correct colour, but in the wrong "
+"position."
+msgstr ""
+"Tìm ra sự kết hợp màu sắc đúng. Một chấm được khung trong một ô vuông đen "
+"có nghĩa là bạn đã tìm ra màu đúng ở vị trí đúng, trong khi một chấm được "
+"khung trong một ô vuông trắng có nghĩa là đây là màu đúng, nhưng ở vị trí "
+"sai."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "tangram"
+#: ./activities/tangram/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Click on each object to obtain the same figure. You can change their "
+"orientation by clicking on the arrows."
+msgstr ""
+"Bấm vào mỗi đối tượng để nhận được cùng một hình. Bạn có thể thay đổi hướng "
+"của chúng bằng cách bấm vào các mũi tên."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "target"
+#: ./activities/target/ActivityInfo.qml:18
+#, kde-format
+msgid "Click on the target to launch darts, then count your final score!"
+msgstr "Bấm vào mục tiêu để khởi chạy phi tiêu, sau đó đếm điểm cuối cùng của bạn!"
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "tens_complement_calculate"
+#: ./activities/tens_complement_calculate/ActivityInfo.qml:17
+#, kde-format
+msgid ""
+"Create pairs of numbers equal to ten. Select a number, then select another "
+"number of the same operation to swap their position. Then, select the result "
+"box to type the result."
+msgstr ""
+"Tạo các cặp số bằng mười. Chọn một số, sau đó chọn một số khác cùng phép "
+"toán để hoán đổi vị trí của chúng. Sau đó, chọn ô kết quả để nhập kết quả."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "tens_complement_find"
+#: ./activities/tens_complement_find/ActivityInfo.qml:17
+#, kde-format
+msgid ""
+"Create pairs of numbers equal to ten. Select a number in the list, then "
+"select an empty spot of an operation to move the selected number there."
+msgstr ""
+"Tạo các cặp số bằng mười. Chọn một số trong danh sách, sau đó chọn một vị "
+"trí trống của một phép toán để di chuyển số đã chọn đến đó."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "tens_complement_swap"
+#: ./activities/tens_complement_swap/ActivityInfo.qml:17
+#, kde-format
+msgid ""
+"Create pairs of numbers equal to ten. Select a number, then select another "
+"number of the same operation to swap their position."
+msgstr ""
+"Tạo các cặp số bằng mười. Chọn một số, sau đó chọn một số khác cùng phép "
+"toán để hoán đổi vị trí của chúng."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "tens_complement_use"
+#: ./activities/tens_complement_use/ActivityInfo.qml:17
+#, kde-format
+msgid ""
+"Decompose the operations to include a pair of numbers equal to ten. Select a "
+"number in the list, then select an empty spot of an operation to move the "
+"selected number there."
+msgstr ""
+"Phân tích các thao tác để bao gồm một cặp số bằng mười. Chọn một số trong "
+"danh sách, sau đó chọn một vị trí trống của một thao tác để di chuyển số đã "
+"chọn đến đó."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "tic_tac_toe_2players"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "tic_tac_toe"
+#: ./activities/tic_tac_toe/ActivityInfo.qml:21
+#: ./activities/tic_tac_toe_2players/ActivityInfo.qml:21
+#, kde-format
+msgid ""
+"Click on the square which you wish to mark and try to mark 3 consecutive "
+"squares before Tux."
+msgstr "Bấm vào ô bạn muốn đánh dấu và cố gắng đánh dấu 3 ô liên tiếp trước Tux."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "traffic"
+#: ./activities/traffic/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Slide the cars to make a space so that the red car can go out of the box."
+msgstr "Trượt các xe để tạo ra một khoảng trống để xe đỏ có thể ra khỏi hộp."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "watercycle"
+#: ./activities/watercycle/ActivityInfo.qml:18
+#, kde-format
+msgid ""
+"Click on the various active elements that make up the water supply. Then "
+"press the shower button for Tux."
+msgstr ""
+"Bấm vào các phần tử hoạt động khác nhau tạo nên nguồn cung cấp nước. Sau đó "
+"nhấn nút tắm cho Tux."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "wordsgame"
+#: ./activities/wordsgame/ActivityInfo.qml:18
+#, kde-format
+msgid "Type the words on your keyboard before they reach the ground."
+msgstr "Gõ các từ trên bàn phím của bạn trước khi chúng chạm đất."
