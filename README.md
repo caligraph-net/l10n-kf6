@@ -19,7 +19,7 @@ We firmly believe that Large Language Models (LLMs) and Generative AI are now mo
 
 Currently, the project is very experimental, it is not recommended for everyday use. However, if you want to test the translations yourself and help out, you're very welcome to do so.
 
-- First, download and install the [User edition of KDE Neon](https://neon.kde.org/download) to your virtual machine (recommended) or a real machine.
+- First, download and install the [User edition of KDE Neon](https://neon.kde.org/download) to your virtual machine (recommended) or a real machine. I think if you have a Fedora or any Linux distro shipped with KDE 6, it will work the same.
 
 - Then, go to the [Releases tab](https://github.com/caligraph-net/l10n-kf6-vi/releases) of the `l10n-kf6-vi` project, download the tarball.
 
