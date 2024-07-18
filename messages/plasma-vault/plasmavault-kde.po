@@ -1,0 +1,732 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-vault package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-vault\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-15 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: fileitemplugin/plasmavaultfileitemaction.cpp:74
+#, kde-format
+msgctxt "@action Action to unmount a vault"
+msgid "Close this Plasma Vault"
+msgstr "Đóng Két Sắt Plasma này"
+
+#: fileitemplugin/plasmavaultfileitemaction.cpp:75
+#, kde-format
+msgctxt "@action Action to mount a vault"
+msgid "Open this Plasma Vault"
+msgstr "Mở Két sắt Plasma này"
+
+#: kded/engine/backend_p.cpp:46
+#, kde-format
+msgctxt "formatting the message for a command, as in encfs: not found"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: kded/engine/backends/cryfs/cryfsbackend.cpp:92
+#: kded/engine/backends/encfs/encfsbackend.cpp:51
+#: kded/engine/backends/gocryptfs/gocryptfsbackend.cpp:77
+#, kde-format
+msgid "Failed to create directories, check your permissions"
+msgstr "Không thể tạo thư mục, hãy kiểm tra quyền của bạn"
+
+#: kded/engine/backends/cryfs/cryfsbackend.cpp:131
+#, kde-format
+msgid "Upgrade the vault?"
+msgstr "Nâng cấp két sắc?"
+
+#: kded/engine/backends/cryfs/cryfsbackend.cpp:132
+#, kde-format
+msgid ""
+"This vault was created with an older version of cryfs and needs to be "
+"upgraded.\n"
+"\n"
+"Mind that this process is irreversible and the vault will no longer work "
+"with older versions of cryfs.\n"
+"\n"
+"Do you want to perform the upgrade now?"
+msgstr ""
+"Két này được tạo bằng một phiên bản cũ hơn của cryfs và cần được nâng "
+"cấp.\n\nLưu ý rằng quá trình này là không thể đảo ngược và két sẽ không còn "
+"hoạt động với các phiên bản cũ hơn của cryfs.\n\nBạn có muốn thực hiện nâng "
+"cấp ngay bây giờ không?"
+
+#: kded/engine/backends/cryfs/cryfsbackend.cpp:136
+#, kde-format
+msgid ""
+"The vault needs to be upgraded before it can be opened with this version of "
+"cryfs"
+msgstr "Kho cần được nâng cấp trước khi có thể mở với phiên bản cryfs này"
+
+#: kded/engine/backends/cryfs/cryfsbackend.cpp:150
+#: kded/engine/fusebackend_p.cpp:42
+#, kde-format
+msgid "The mount point directory is not empty, refusing to open the vault"
+msgstr "Thư mục điểm gắn kết không rỗng, từ chối mở két sắc"
+
+#: kded/engine/backends/cryfs/cryfsbackend.cpp:158
+#, kde-format
+msgid "You entered the wrong password"
+msgstr "Bạn đã nhập sai mật khẩu"
+
+#: kded/engine/backends/cryfs/cryfsbackend.cpp:162
+#, kde-format
+msgid "The installed version of cryfs is too old to open this vault."
+msgstr "Phiên bản cryfs đã cài đặt quá cũ để mở két này."
+
+#: kded/engine/backends/cryfs/cryfsbackend.cpp:169
+#: kded/engine/backends/gocryptfs/gocryptfsbackend.cpp:118
+#, kde-format
+msgid "Unable to perform the operation (error code %1)."
+msgstr "Không thể thực hiện thao tác (mã lỗi %1)."
+
+#: kded/engine/backends/gocryptfs/gocryptfsbackend.cpp:108
+#, kde-format
+msgid "The cipher directory is not empty, cannot initialise the vault."
+msgstr "Thư mục mã hóa không rỗng, không thể khởi tạo két sắc."
+
+#: kded/engine/backends/gocryptfs/gocryptfsbackend.cpp:111
+#, kde-format
+msgid "The password is empty, cannot initialise the vault."
+msgstr "Mật khẩu trống, không thể khởi tạo két sắc."
+
+#: kded/engine/backends/gocryptfs/gocryptfsbackend.cpp:114
+#, kde-format
+msgid ""
+"Cannot write gocryptfs.conf inside cipher directory, check your permissions."
+msgstr ""
+"Không thể ghi gocryptfs.conf bên trong thư mục mã hóa, hãy kiểm tra quyền "
+"của bạn."
+
+#: kded/engine/backends/gocryptfs/gocryptfsbackend.cpp:142
+#: kded/engine/fusebackend_p.cpp:165
+#, kde-format
+msgid "Failed to execute"
+msgstr "Thực thi không thành công"
+
+#: kded/engine/backends/gocryptfs/gocryptfsbackend.cpp:152
+#: kded/engine/backends/gocryptfs/gocryptfsbackend.cpp:167
+#: kded/engine/fusebackend_p.cpp:177
+#, kde-format
+msgid "Unable to detect the version"
+msgstr "Không thể phát hiện phiên bản"
+
+#: kded/engine/backends/gocryptfs/gocryptfsbackend.cpp:161
+#, kde-format
+msgid "Unable to detect the version, the version string is invalid"
+msgstr "Không thể phát hiện phiên bản, chuỗi phiên bản không hợp lệ"
+
+#: kded/engine/backends/gocryptfs/gocryptfsbackend.cpp:175
+#, kde-format
+msgid "Wrong version installed. The required version is %1.%2"
+msgstr "Phiên bản đã cài đặt không đúng. Phiên bản yêu cầu là %1.%2"
+
+#: kded/engine/backends/gocryptfs/gocryptfsbackend.cpp:178
+#: kded/engine/fusebackend_p.cpp:191
+#, kde-format
+msgid "Correct version found"
+msgstr "Đã tìm thấy phiên bản chính xác"
+
+#: kded/engine/fusebackend_p.cpp:51
+#, kde-format
+msgid "Unable to perform the operation"
+msgstr "Không thể thực hiện thao tác"
+
+#: kded/engine/fusebackend_p.cpp:96
+#, kde-format
+msgid "This directory already contains encrypted data"
+msgstr "Thư mục này đã chứa dữ liệu mật mã hoá"
+
+#: kded/engine/fusebackend_p.cpp:99
+#, kde-format
+msgid ""
+"You need to select empty directories for the encrypted storage and for the "
+"mount point"
+msgstr "Bạn cần bôi đen các thư mục trống cho bộ nhớ mật mã hoá và điểm gắn kết"
+
+#: kded/engine/fusebackend_p.cpp:114
+#, kde-format
+msgid "This directory doesn't contain encrypted data"
+msgstr "Thư mục này không chứa dữ liệu mật mã hoá"
+
+#: kded/engine/fusebackend_p.cpp:118
+#, kde-format
+msgid "You need to select an empty directory for the mount point"
+msgstr "Bạn cần bôi đen một thư mục trống để làm điểm gắn kết"
+
+#: kded/engine/fusebackend_p.cpp:128
+#, kde-format
+msgid "Device is already open"
+msgstr "Thiết bị đã được mở"
+
+#: kded/engine/fusebackend_p.cpp:136
+#, kde-format
+msgid "Device is not open"
+msgstr "Thiết bị không được mở"
+
+#: kded/engine/fusebackend_p.cpp:185
+#, kde-format
+msgid "Wrong version installed. The required version is %1.%2.%3"
+msgstr "Phiên bản đã cài đặt không đúng. Phiên bản yêu cầu là %1.%2.%3"
+
+#: kded/engine/vault.cpp:239
+#, kde-format
+msgid "Unknown device"
+msgstr "Thiết bị không rõ"
+
+#: kded/engine/vault.cpp:269
+#, kde-format
+msgid "Configured backend does not exist: %1"
+msgstr "Hậu phương được cấu hình không tồn tại: %1"
+
+#: kded/engine/vault.cpp:274
+#, kde-format
+msgid "Mount point is not specified"
+msgstr "Điểm gắn kết không được chỉ định"
+
+#: kded/engine/vault.cpp:279
+#, kde-format
+msgid "Cannot create the mount point"
+msgstr "Không thể tạo điểm gắn kết"
+
+#: kded/engine/vault.cpp:284
+#, kde-format
+msgid "Configured backend cannot be instantiated: %1"
+msgstr "Không thể khởi tạo hậu phương đã được cấu hình: %1"
+
+#: kded/engine/vault.cpp:399
+#, kde-format
+msgid "This device is already registered. Cannot recreate it."
+msgstr "Thiết bị này đã được đăng ký. Không thể tạo lại nó."
+
+#: kded/engine/vault.cpp:404 kded/engine/vault.cpp:438
+#, kde-format
+msgid "Unknown error; unable to create the backend."
+msgstr "Lỗi không rõ; không thể tạo backend."
+
+#: kded/engine/vault.cpp:433
+#, kde-format
+msgid "This device is not initialized. Cannot import it."
+msgstr "Thiết bị này chưa được khởi tạo. Không thể nhập khẩu nó."
+
+#: kded/engine/vault.cpp:464
+#, kde-format
+msgid "Cannot open an unknown vault."
+msgstr "Không thể mở một két sắt không rõ."
+
+#: kded/engine/vault.cpp:481
+#, kde-format
+msgid "The vault is unknown; cannot close it."
+msgstr "Két sắt không xác định; không thể đóng nó."
+
+#: kded/engine/vault.cpp:496 kded/engine/vault.cpp:505
+#, kde-format
+msgid "Unable to close the vault because an application is using it"
+msgstr "Không thể đóng két sắt vì một ứng dụng đang sử dụng nó"
+
+#: kded/engine/vault.cpp:528
+#, kde-format
+msgid "Unable to close the vault because it is being used by %1"
+msgstr "Không thể đóng két sắt vì nó đang được sử dụng bởi %1"
+
+#: kded/engine/vault.cpp:552
+#, kde-format
+msgid "Failed to fetch the list of applications using this vault"
+msgstr "Không thể tìm nạp danh sách các ứng dụng đang sử dụng két sắt này"
+
+#: kded/engine/vault.cpp:604
+#, kde-format
+msgid "Cannot delete the vault; there are other vaults with overlapping paths."
+msgstr "Không thể xóa két sắt; có các két sắt khác với các đường dẫn chồng chéo."
+
+#: kded/engine/vault.cpp:609
+#, kde-format
+msgid "The vault is unknown; cannot dismantle it."
+msgstr "Két sắt không xác định; không thể tháo dỡ nó."
+
+#: kded/engine/vault.cpp:612
+#, kde-format
+msgid "Are you sure you want to delete this vault"
+msgstr "Bạn có chắc chắn muốn xóa két sắc này không"
+
+#: kded/engine/vault.cpp:613
+#, kde-format
+msgid ""
+"This operation will irreversibly delete the following:\n"
+"%1\n"
+"%2"
+msgstr "Thao tác này sẽ xóa vĩnh viễn những thứ sau:\n%1\n%2"
+
+#: kded/engine/vault.cpp:615
+#, kde-format
+msgid "Delete operation cancelled"
+msgstr "Thao tác xóa đã bị hủy"
+
+#: kded/service.cpp:440
+#, kde-format
+msgid "Error deleting vault"
+msgstr "Lỗi khi xóa két sắt"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: kded/ui/activitieslinkingwidget.ui:22
+#, kde-format
+msgid ""
+"If you limit this vault only to certain activities, it will be shown in the "
+"applet only when you are in those activities. Furthermore, when you switch "
+"to an activity it should not be available in, it will automatically be "
+"closed."
+msgstr ""
+"Nếu bạn chỉ giới hạn két an toàn này cho một số hoạt động nhất định, nó sẽ "
+"chỉ được hiển thị trong tiểu ứng dụng khi bạn đang ở trong những hoạt động "
+"đó. Hơn nữa, khi bạn chuyển sang một hoạt động mà nó không có sẵn, nó sẽ tự "
+"động bị đóng lại."
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkLimitActivities)
+#: kded/ui/activitieslinkingwidget.ui:32
+#, kde-format
+msgid "Limit to the selected activities:"
+msgstr "Giới hạn vào các hoạt động đã chọn:"
+
+#: kded/ui/backendchooserwidget.cpp:74
+#, kde-format
+msgid "The specified backend is not available"
+msgstr "Hậu phương được chỉ định không khả dụng"
+
+#. i18n: ectx: property (text), widget (QLabel, labelVaultName)
+#: kded/ui/backendchooserwidget.ui:17 kded/ui/namechooserwidget.ui:22
+#, kde-format
+msgid "Vaul&t name:"
+msgstr "Tên ké&t sắt:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: kded/ui/backendchooserwidget.ui:67
+#, kde-format
+msgid "Backend:"
+msgstr "Nền tảng:"
+
+#. i18n: ectx: property (text), widget (QPushButton, pickBackendButton)
+#: kded/ui/backendchooserwidget.ui:94
+#, kde-format
+msgid "Change"
+msgstr "Thay đổi"
+
+#. i18n: ectx: property (text), widget (QLabel, labelEncryptionSystem)
+#: kded/ui/backendchooserwidget.ui:132
+#, kde-format
+msgid "Choose the encryption system you want to use for this vault:"
+msgstr "Chọn hệ thống mật mã hoá bạn muốn sử dụng cho két sắt này:"
+
+#: kded/ui/cryfscypherchooserwidget.cpp:59
+#, kde-format
+msgid "Use the default cipher"
+msgstr "Sử dụng mã hóa mặc định"
+
+#. i18n: ectx: property (text), widget (QLabel, labelCypher)
+#: kded/ui/cryfscypherchooserwidget.ui:22
+#, kde-format
+msgid "Choose the used cipher:"
+msgstr "Chọn mã hóa được sử dụng:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelDevice)
+#: kded/ui/directorychooserwidget.ui:22
+#, kde-format
+msgid "Mount point:"
+msgstr "Điểm gắn kết:"
+
+#: kded/ui/directorypairchooserwidget.cpp:58
+#, kde-format
+msgid "The specified path does not exist"
+msgstr "Đường dẫn đã chỉ định không tồn tại"
+
+#: kded/ui/directorypairchooserwidget.cpp:64
+#, kde-format
+msgid "The specified directory is not empty"
+msgstr "Thư mục đã chỉ định không rỗng"
+
+#: kded/ui/directorypairchooserwidget.cpp:70
+#, kde-format
+msgid "The specified directory is empty"
+msgstr "Thư mục đã chỉ định trống"
+
+#. i18n: ectx: property (text), widget (QLabel, labelDevice)
+#: kded/ui/directorypairchooserwidget.ui:22
+#, kde-format
+msgid "Encrypted data location"
+msgstr "Địa điểm dữ liệu mật mã hoá"
+
+#. i18n: ectx: property (text), widget (QLabel, labelMountPoint)
+#: kded/ui/directorypairchooserwidget.ui:36
+#, kde-format
+msgid "Mount point"
+msgstr "Điểm gắn kết"
+
+#: kded/ui/mountdialog.cpp:20
+#, kde-format
+msgctxt "%1 is the name of the Plasma Vault to open"
+msgid "Open '%1' Plasma Vault"
+msgstr "Mở Két Két Plasma '%1'"
+
+#: kded/ui/mountdialog.cpp:29
+#, kde-format
+msgid "Details…"
+msgstr "Chi tiết..."
+
+#: kded/ui/mountdialog.cpp:38
+#, kde-format
+msgid ""
+"Command output:\n"
+"%1\n"
+"\n"
+"Error output: %2"
+msgstr "Đầu ra lệnh:\n%1\n\nĐầu ra lỗi: %2"
+
+#: kded/ui/mountdialog.cpp:43
+#, kde-format
+msgid "Error details"
+msgstr "Chi tiết lỗi"
+
+#: kded/ui/mountdialog.cpp:83
+#, kde-format
+msgid "Failed to open: %1"
+msgstr "Không thể mở: %1"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: kded/ui/mountdialog.ui:61
+#, kde-format
+msgid "Please enter the password to open this vault:"
+msgstr "Vui lòng nhập mật khẩu để mở két này:"
+
+#. i18n: ectx: property (text), widget (QLabel, pwdLabel)
+#: kded/ui/mountdialog.ui:93
+#, kde-format
+msgid "Password:"
+msgstr "Mật khẩu:"
+
+#. i18n: ectx: property (html), widget (QTextBrowser, textNotice)
+#: kded/ui/noticewidget.ui:38
+#, kde-format
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'hlv'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:12px; margin-bottom:12px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"
+"\"><br /></p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta "
+"name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { "
+"white-space: pre-wrap; }\n</style></head><body style=\" font-family:'hlv'; "
+"font-size:9pt; font-weight:400; font-style:normal;\">\n<p "
+"style=\"-qt-paragraph-type:empty; margin-top:12px; margin-bottom:12px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px;\"><br /></p></body></html>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkShouldBeHidden)
+#: kded/ui/noticewidget.ui:45
+#, kde-format
+msgid "Do not show this notice again"
+msgstr "Không hiển thị thông báo này nữa"
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkShouldBeOffline)
+#: kded/ui/offlineonlywidget.ui:34
+#, kde-format
+msgid ""
+"Go offline while this vault is open (switch off networking and bluetooth)"
+msgstr ""
+"Chuyển sang chế độ ngoại tuyến khi két này đang mở (tắt kết nối mạng và "
+"Bluetooth)"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: kded/ui/passwordchooserwidget.ui:22
+#, kde-format
+msgid ""
+"Mind that there is no way to recover a forgotten password. If you forget the "
+"password, your data is as good as gone."
+msgstr ""
+"Lưu ý rằng không có cách nào để phục hồi mật khẩu bị quên. Nếu bạn quên mật "
+"khẩu, dữ liệu của bạn sẽ như thể đã biến mất."
+
+#: kded/ui/vaultconfigurationdialog.cpp:47
+#, kde-format
+msgid "General"
+msgstr "chung"
+
+#: kded/ui/vaultconfigurationdialog.cpp:49
+#, kde-format
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: kded/ui/vaultconfigurationdialog.cpp:51
+#, kde-format
+msgid "Delete"
+msgstr "Xóa"
+
+#: kded/ui/vaultconfigurationdialog.cpp:53
+#: kded/ui/vaultcreationwizard.cpp:34 kded/ui/vaultimportingwizard.cpp:34
+#, kde-format
+msgid "EncFS"
+msgstr "EncFS"
+
+#: kded/ui/vaultconfigurationdialog.cpp:55
+#: kded/ui/vaultcreationwizard.cpp:55 kded/ui/vaultimportingwizard.cpp:40
+#, kde-format
+msgid "CryFS"
+msgstr "CryFS"
+
+#: kded/ui/vaultconfigurationdialog.cpp:57
+#: kded/ui/vaultcreationwizard.cpp:75 kded/ui/vaultimportingwizard.cpp:46
+#, kde-format
+msgid "gocryptfs"
+msgstr "gocryptfs"
+
+#: kded/ui/vaultconfigurationdialog.cpp:142
+#, kde-format
+msgid "Configure"
+msgstr "Cấu hình"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, VaultConfigurationDialog)
+#. i18n: ectx: property (windowTitle), widget (QDialog, VaultImportingWizard)
+#. i18n: ectx: property (windowTitle), widget (QDialog, VaultCreationWizard)
+#: kded/ui/vaultconfigurationdialog.ui:19
+#: kded/ui/vaultcreationwizard.ui:19 kded/ui/vaultimportingwizard.ui:19
+#, kde-format
+msgid "Dialog"
+msgstr "Hộp thoại"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: kded/ui/vaultconfigurationdialog.ui:37
+#, kde-format
+msgid "The vault configuration can only be changed while it is closed."
+msgstr "Cấu hình két sắt chỉ có thể được thay đổi khi nó đã đóng."
+
+#. i18n: ectx: property (text), widget (QPushButton, buttonCloseVault)
+#: kded/ui/vaultconfigurationdialog.ui:57
+#, kde-format
+msgid "Close the vault"
+msgstr "Đóng két an toàn"
+
+#: kded/ui/vaultcreationwizard.cpp:35
+#, kde-format
+msgid ""
+"<b>Security notice:</b>\n"
+"                             According to a security audit by Taylor Hornby "
+"(Defuse Security),\n"
+"                             the current implementation of Encfs is "
+"vulnerable or potentially vulnerable\n"
+"                             to multiple types of attacks.\n"
+"                             For example, an attacker with read/write "
+"access\n"
+"                             to encrypted data might lower the decryption "
+"complexity\n"
+"                             for subsequently encrypted data without this "
+"being noticed by a legitimate user,\n"
+"                             or might use timing analysis to deduce "
+"information.\n"
+"                             <br /><br />\n"
+"                             This means that you should not synchronize\n"
+"                             the encrypted data to a cloud storage service,\n"
+"                             or use it in other circumstances where the "
+"attacker\n"
+"                             can frequently access the encrypted data.\n"
+"                             <br /><br />\n"
+"                             See <a href='https://defuse.ca/audits/encfs."
+"htm'>defuse.ca/audits/encfs.htm</a> for more information."
+msgstr ""
+"<b>Thông báo an ninh:</b>\n                             Theo một cuộc kiểm "
+"tra an ninh bởi Taylor Hornby (Defuse Security),\n                          "
+"   việc triển khai hiện tại của Encfs dễ bị tổn thương hoặc có khả năng dễ "
+"bị tổn thương\n                             trước nhiều loại tấn công.\n    "
+"                         Ví dụ, một kẻ tấn công có quyền đọc/ghi\n          "
+"                   vào dữ liệu đã mật mã hoá có thể làm giảm độ phức tạp "
+"của việc giải mật mã\n                             đối với dữ liệu được mật "
+"mã hoá sau đó mà người dùng hợp pháp không nhận ra,\n                       "
+"      hoặc có thể sử dụng phân tích thời gian để suy ra thông tin.\n        "
+"                     <br /><br />\n                             Điều này có "
+"nghĩa là bạn không nên đồng bộ hóa\n                             dữ liệu đã "
+"mật mã hoá lên dịch vụ lưu trữ đám mây,\n                             hoặc "
+"sử dụng nó trong các trường hợp khác mà kẻ tấn công\n                       "
+"      có thể thường xuyên truy cập vào dữ liệu đã mật mã hoá.\n             "
+"                <br /><br />\n                             Xem <a "
+"href='https://defuse.ca/audits/encfs.htm'>defuse.ca/audits/encfs.htm</a> để "
+"biết thêm thông tin."
+
+#: kded/ui/vaultcreationwizard.cpp:56
+#, kde-format
+msgid ""
+"<b>Security notice:</b>\n"
+"                             CryFS encrypts your files, so you can safely "
+"store them anywhere.\n"
+"                             It works well together with cloud services like "
+"Dropbox, iCloud, OneDrive and others.\n"
+"                             <br /><br />\n"
+"                             Unlike some other file-system overlay "
+"solutions,\n"
+"                             it does not expose the directory structure,\n"
+"                             the number of files nor the file sizes\n"
+"                             through the encrypted data format.\n"
+"                             <br /><br />\n"
+"                             One important thing to note is that,\n"
+"                             while CryFS is considered safe,\n"
+"                             there is no independent security audit\n"
+"                             which confirms this."
+msgstr ""
+"<b>Lưu ý về an ninh:</b>\n                             CryFS mật mã hoá các "
+"tệp của bạn, vì vậy bạn có thể lưu trữ chúng an toàn ở bất kỳ đâu.\n        "
+"                     Nó hoạt động tốt với các dịch vụ đám mây như Dropbox, "
+"iCloud, OneDrive và các dịch vụ khác.\n                             <br "
+"/><br />\n                             Không giống như một số giải pháp lớp "
+"phủ hệ thống tệp khác,\n                             nó không tiết lộ cấu "
+"trúc thư mục,\n                             số lượng tệp hay kích thước "
+"tệp\n                             thông qua định dạng dữ liệu đã mật mã "
+"hoá.\n                             <br /><br />\n                           "
+"  Một điều quan trọng cần lưu ý là,\n                             mặc dù "
+"CryFS được coi là an toàn,\n                             không có cuộc kiểm "
+"tra an ninh độc lập nào\n                             xác nhận điều này."
+
+#: kded/ui/vaultcreationwizard.cpp:76
+#, kde-format
+msgid ""
+"<b>Security notice:</b>\n"
+"                             Gocryptfs encrypts your files, so you can "
+"safely store them anywhere.\n"
+"                             It works well together with cloud services like "
+"Dropbox, iCloud, OneDrive and others.\n"
+"                             <br /><br />\n"
+"                             A threat model for gocryptfs is provided by the "
+"author at                              <a href='https://nuetzlich.net/"
+"gocryptfs/threat_model'>nuetzlich.net/gocryptfs/threat_model</"
+"a>.                              <br /><br />\n"
+"                             According to a security audit performed in 2017 "
+"by Taylor Hornby (Defuse Security),\n"
+"                             gocryptfs keeps file contents secret against an "
+"adversary that can read and modify the                              "
+"ciphertext.                              <br /><br />\n"
+"                             See <a href='https://defuse.ca/audits/gocryptfs."
+"htm'>defuse.ca/audits/gocryptfs.htm</a> for more information."
+msgstr ""
+"<b>Thông báo an ninh:</b>\n                             Gocryptfs mã hóa "
+"các tệp của bạn, vì vậy bạn có thể lưu trữ chúng an toàn ở bất kỳ đâu.\n    "
+"                         Nó hoạt động tốt với các dịch vụ đám mây như "
+"Dropbox, iCloud, OneDrive và các dịch vụ khác.\n                            "
+" <br /><br />\n                             Một mô hình đe dọa cho "
+"gocryptfs được cung cấp bởi tác giả tại                              <a "
+"href='https://nuetzlich.net/gocryptfs/threat_model'>nuetzlich.net/gocryptfs/threat_model</a>. "
+"                             <br /><br />\n                             "
+"Theo một cuộc kiểm tra an ninh được thực hiện vào năm 2017 bởi Taylor "
+"Hornby (Defuse Security),\n                             gocryptfs giữ bí "
+"mật nội dung tệp chống lại kẻ thù có thể đọc và chỉnh sửa văn bản mã hóa.   "
+"                           <br /><br />\n                             Xem "
+"<a "
+"href='https://defuse.ca/audits/gocryptfs.htm'>defuse.ca/audits/gocryptfs.htm</a> "
+"để biết thêm thông tin."
+
+#: kded/ui/vaultcreationwizard.cpp:138
+#, kde-format
+msgctxt "@title:window"
+msgid "Create a New Vault"
+msgstr "Tạo Két Sắt Mới"
+
+#. i18n: ectx: property (text), widget (QLabel, labelWarning)
+#: kded/ui/vaultdeletionwidget.ui:22
+#, kde-format
+msgid ""
+"This action <b>cannot</b> be undone. This will permanently delete the "
+"selected vault!"
+msgstr ""
+"Hành động này <b>không thể</b> hoàn tác. Điều này sẽ xóa vĩnh viễn vault đã "
+"chọn!"
+
+#. i18n: ectx: property (text), widget (QLabel, labelConfirm)
+#: kded/ui/vaultdeletionwidget.ui:29
+#, kde-format
+msgid "Please type in the name of the vault to confirm:"
+msgstr "Vui lòng kiểu vào tên của két sắt để xác nhận:"
+
+#. i18n: ectx: property (text), widget (QPushButton, buttonDeleteVault)
+#: kded/ui/vaultdeletionwidget.ui:44
+#, kde-format
+msgid "Delete this vault"
+msgstr "Xóa két này"
+
+#: kded/ui/vaultimportingwizard.cpp:55
+#, kde-format
+msgid "Import"
+msgstr "nhập khẩu"
+
+#: kded/ui/vaultimportingwizard.cpp:93
+#, kde-format
+msgctxt "@title:window"
+msgid "Import an Existing Vault"
+msgstr "Nhập khẩu Két Sắt Hiện Có"
+
+#: kded/ui/vaultwizardbase.h:39 kded/ui/vaultwizardbase.h:90
+#, kde-format
+msgid "Next"
+msgstr "Tiếp"
+
+#: kded/ui/vaultwizardbase.h:80
+#, kde-format
+msgid "Create"
+msgstr "Tạo"
+
+#: kded/ui/vaultwizardbase.h:87
+#, kde-format
+msgid "Previous"
+msgstr "Trước"
+
+#: plasma/package/contents/ui/main.qml:51
+#, kde-format
+msgid "Create a New Vault…"
+msgstr "Tạo Két Sắt Mới..."
+
+#: plasma/package/contents/ui/main.qml:102
+#, kde-format
+msgid "No Vaults have been set up"
+msgstr "Chưa thiết lập Vaults nào"
+
+#: plasma/package/contents/ui/VaultItem.qml:42
+#, kde-format
+msgid "Lock Vault"
+msgstr "Khóa két sắt"
+
+#: plasma/package/contents/ui/VaultItem.qml:42
+#, kde-format
+msgid "Unlock and Open"
+msgstr "Mở khóa và Mở"
+
+#: plasma/package/contents/ui/VaultItem.qml:57
+#, kde-format
+msgid "Show in File Manager"
+msgstr "Hiển thị trong Trình quản lý tệp"
+
+#: plasma/package/contents/ui/VaultItem.qml:64
+#, kde-format
+msgid "Forcefully Lock Vault"
+msgstr "Khóa Két Mạnh Mẽ"
+
+#: plasma/package/contents/ui/VaultItem.qml:64
+#, kde-format
+msgid "Unlock Vault"
+msgstr "Mở khóa Két"
+
+#: plasma/package/contents/ui/VaultItem.qml:75
+#, kde-format
+msgid "Configure Vault…"
+msgstr "Cấu hình Vault..."

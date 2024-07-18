@@ -20,28 +20,28 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "Tên của bạn"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "Emails của bạn"
 
 #: audiocd.cpp:115
 #, kde-format
 msgid "Information"
-msgstr ""
+msgstr "Thông tin"
 
 #: audiocd.cpp:116
 #, kde-format
 msgid "Full CD"
-msgstr ""
+msgstr "Đĩa CD đầy đủ"
 
 #: audiocd.cpp:447 audiocd.cpp:451 audiocd.cpp:519 audiocd.cpp:536
 #: audiocd.cpp:661 audiocd.cpp:760 audiocd.cpp:762 audiocd.cpp:768
 #, kde-format
 msgid "CDDB Information"
-msgstr ""
+msgstr "Thông tin CDDB"
 
 #: audiocd.cpp:490
 #, kde-format
@@ -49,12 +49,14 @@ msgid ""
 "You cannot specify a host with this protocol. Please use the audiocd:/ "
 "format instead."
 msgstr ""
+"Bạn không thể chỉ định một máy chủ với giao thức này. Vui lòng sử dụng định "
+"dạng audiocd:/ thay vào đó."
 
 #: audiocd.cpp:874
 #, kde-format
 msgctxt "The URL does not include a device name"
 msgid "Missing device specification"
-msgstr ""
+msgstr "Thiếu đặc tính thiết bị"
 
 #: audiocd.cpp:884
 #, kde-format
@@ -62,6 +64,8 @@ msgid ""
 "Device does not have read permissions for this account.  Check the read "
 "permissions on the device."
 msgstr ""
+"Thiết bị không có quyền đọc cho tài khoản này. Kiểm tra quyền đọc trên "
+"thiết bị."
 
 #: audiocd.cpp:888
 #, kde-format
@@ -69,6 +73,8 @@ msgid ""
 "Device does not have write permissions for this account.  Check the write "
 "permissions on the device."
 msgstr ""
+"Thiết bị không có quyền ghi cho tài khoản này. Kiểm tra quyền ghi trên "
+"thiết bị."
 
 #: audiocd.cpp:894
 #, kde-format
@@ -82,21 +88,31 @@ msgid ""
 "audiocd:/?device=/dev/sg0 (or similar) to tell kio_audiocd which device your "
 "CD-ROM is."
 msgstr ""
+"Lỗi không rõ. Nếu bạn có đĩa CD trong ổ đĩa, hãy thử chạy cdparanoia -vsQ "
+"với tư cách là chính bạn (không phải root). Bạn có thấy danh sách các bản "
+"nhạc không? Nếu không, hãy đảm bảo rằng bạn có quyền truy cập vào thiết bị "
+"CD. Nếu bạn đang sử dụng giả lập SCSI (có thể nếu bạn có bộ ghi CD IDE) thì "
+"hãy đảm bảo rằng bạn kiểm tra rằng bạn có quyền đọc và ghi trên thiết bị "
+"SCSI chung, có thể là /dev/sg0, /dev/sg1, v.v.. Nếu vẫn không hoạt động, "
+"hãy thử gõ audiocd:/?device=/dev/sg0 (hoặc tương tự) để nói với kio_audiocd "
+"thiết bị CD-ROM của bạn là gì."
 
 #: audiocd.cpp:972
 #, kde-format
 msgid "AudioCD: Disk damage detected on this track, risk of data corruption."
 msgstr ""
+"AudioCD: Phát hiện đĩa bị hư hỏng trên bản nhạc này, có nguy cơ dữ liệu bị "
+"hư hỏng."
 
 #: audiocd.cpp:979
 #, kde-format
 msgid "Error reading audio data for %1 from the CD"
-msgstr ""
+msgstr "Lỗi khi đọc dữ liệu âm thanh cho %1 từ đĩa CD"
 
 #: audiocd.cpp:989 audiocd.cpp:1067
 #, kde-format
 msgid "Could not read %1: encoding failed"
-msgstr ""
+msgstr "Không thể đọc %1: mã hoá thất bại"
 
 #: audiocd.cpp:1198
 #, kde-format

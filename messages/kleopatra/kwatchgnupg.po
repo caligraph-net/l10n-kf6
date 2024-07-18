@@ -1,0 +1,238 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kleopatra package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kleopatra\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-18 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: aboutdata.cpp:26
+msgid "Steffen Hansen"
+msgstr "Steffen Hansen"
+
+#: aboutdata.cpp:26
+msgid "Original Author"
+msgstr "Tác giả gốc"
+
+#: aboutdata.cpp:31
+#, kde-format
+msgid "KWatchGnuPG"
+msgstr "KWatchGnuPG"
+
+#: aboutdata.cpp:33
+#, kde-format
+msgid "GnuPG log viewer"
+msgstr "Trình xem nhật kí GnuPG"
+
+#: aboutdata.cpp:35
+#, kde-format
+msgid "(c) 2004 Klarälvdalens Datakonsult AB\n"
+msgstr "(c) 2004 Klarälvdalens Datakonsult AB\n"
+
+#: kwatchgnupgconfig.cpp:55
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure KWatchGnuPG"
+msgstr "Cấu hình KWatchGnuPG"
+
+#: kwatchgnupgconfig.cpp:71
+#, kde-format
+msgid "WatchGnuPG"
+msgstr "WatchGnuPG"
+
+#: kwatchgnupgconfig.cpp:81
+#, kde-format
+msgctxt "@label:textbox"
+msgid "&Executable:"
+msgstr "Chương &trình thực thi:"
+
+#: kwatchgnupgconfig.cpp:90
+#, kde-format
+msgctxt "@label:textbox"
+msgid "&Socket:"
+msgstr "Ổ cắ&m:"
+
+#: kwatchgnupgconfig.cpp:99
+#, kde-format
+msgid "None"
+msgstr "Không có"
+
+#: kwatchgnupgconfig.cpp:100
+#, kde-format
+msgid "Basic"
+msgstr "Cơ bản"
+
+#: kwatchgnupgconfig.cpp:101
+#, kde-format
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: kwatchgnupgconfig.cpp:102
+#, kde-format
+msgid "Expert"
+msgstr "Chuyên gia"
+
+#: kwatchgnupgconfig.cpp:103
+#, kde-format
+msgid "Guru"
+msgstr "Guru"
+
+#: kwatchgnupgconfig.cpp:104
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Default &log level:"
+msgstr "Mức độ ghi nhậ&t kí mặc định:"
+
+#: kwatchgnupgconfig.cpp:112
+#, kde-format
+msgid "Log Window"
+msgstr "Cửa sổ nhật kí"
+
+#: kwatchgnupgconfig.cpp:124
+#, kde-format
+msgctxt "history size spinbox suffix"
+msgid " line"
+msgid_plural " lines"
+msgstr[0] "dòng"
+
+#: kwatchgnupgconfig.cpp:125
+#, kde-format
+msgid "unlimited"
+msgstr "không giới hạn"
+
+#: kwatchgnupgconfig.cpp:126
+#, kde-format
+msgctxt "@label:textbox"
+msgid "&History size:"
+msgstr "Kích thước lịch &sử:"
+
+#: kwatchgnupgconfig.cpp:130
+#, kde-format
+msgctxt "@action:button"
+msgid "Set &Unlimited"
+msgstr "Đặt k&hông giới hạn"
+
+#: kwatchgnupgconfig.cpp:137
+#, kde-format
+msgid "Enable &word wrapping"
+msgstr "&Bật ngắt dòng"
+
+#: kwatchgnupgmainwin.cpp:77
+#, kde-format
+msgid "[%1] Log cleared"
+msgstr "[%1] Nhật kí đã được xóa"
+
+#: kwatchgnupgmainwin.cpp:84
+#, kde-format
+msgid "C&lear History"
+msgstr "Làm trống &lịch sử"
+
+#: kwatchgnupgmainwin.cpp:114
+#, kde-format
+msgid "[%1] Log stopped"
+msgstr "[%1] Nhật kí đã dừng"
+
+#: kwatchgnupgmainwin.cpp:131
+#, kde-format
+msgid ""
+"The watchgnupg logging process could not be started.\n"
+"Please install watchgnupg somewhere in your $PATH.\n"
+"This log window is unable to display any useful information."
+msgstr ""
+"Quá trình ghi nhật kí watchgnupg không thể được khởi động.\nVui lòng cài "
+"đặt watchgnupg ở đâu đó trong $PATH của bạn.\nCửa sổ nhật kí này không thể "
+"hiển thị bất kỳ thông tin hữu ích nào."
+
+#: kwatchgnupgmainwin.cpp:134
+#, kde-format
+msgid "[%1] Log started"
+msgstr "[%1] Nhật kí đã bắt đầu"
+
+#: kwatchgnupgmainwin.cpp:169
+#, kde-format
+msgid "There are no components available that support logging."
+msgstr "Không có thành phần nào hỗ trợ ghi nhật ký."
+
+#: kwatchgnupgmainwin.cpp:176
+#, kde-format
+msgid ""
+"The watchgnupg logging process died.\n"
+"Do you want to try to restart it?"
+msgstr ""
+"Quá trình ghi nhật kí của watchgnupg đã chết.\nBạn có muốn thử khởi động "
+"lại nó không?"
+
+#: kwatchgnupgmainwin.cpp:178
+#, kde-format
+msgctxt "@action:button"
+msgid "Try Restart"
+msgstr "Thử khởi động lại"
+
+#: kwatchgnupgmainwin.cpp:179
+#, kde-format
+msgctxt "@action:button"
+msgid "Do Not Try"
+msgstr "Không Thử"
+
+#: kwatchgnupgmainwin.cpp:181
+#, kde-format
+msgid "====== Restarting logging process ====="
+msgstr "====== Đang khởi động lại quá trình ghi nhật kí ====="
+
+#: kwatchgnupgmainwin.cpp:185
+#, kde-format
+msgid ""
+"The watchgnupg logging process is not running.\n"
+"This log window is unable to display any useful information."
+msgstr ""
+"Quá trình ghi nhật kí watchgnupg không đang chạy.\nCửa sổ nhật kí này không "
+"thể hiển thị bất kỳ thông tin hữu ích nào."
+
+#: kwatchgnupgmainwin.cpp:220
+#, kde-format
+msgid "Save Log to File"
+msgstr "Lưu nhật kí vào tệp"
+
+#: kwatchgnupgmainwin.cpp:228
+#, kde-format
+msgid "Could not save file %1: %2"
+msgstr "Không thể lưu tệp %1: %2"
+
+#. i18n: ectx: Menu (file)
+#: kwatchgnupgui.rc:4
+#, kde-format
+msgid "&File"
+msgstr "&Tệp"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kwatchgnupgui.rc:13
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Thanh công cụ"
+
+#: tray.cpp:30
+#, kde-format
+msgid "KWatchGnuPG Log Viewer"
+msgstr "Trình xem nhật kí KWatchGnuPG"

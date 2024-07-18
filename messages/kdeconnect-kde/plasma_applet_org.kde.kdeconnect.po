@@ -1,0 +1,204 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdeconnect-kde package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeconnect-kde\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-08 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: package/contents/ui/Battery.qml:25
+#, kde-format
+msgid "%1% charging"
+msgstr "%1% đang sạc"
+
+#: package/contents/ui/Battery.qml:25
+#, kde-format
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/Battery.qml:25
+#, kde-format
+msgid "No info"
+msgstr "Không có thông tin"
+
+#: package/contents/ui/Connectivity.qml:40
+#, kde-format
+msgid "Unknown"
+msgstr "không rõ"
+
+#: package/contents/ui/Connectivity.qml:50
+#, kde-format
+msgid "No signal"
+msgstr "Không có tín hiệu"
+
+#: package/contents/ui/DeviceDelegate.qml:31
+#, kde-format
+msgid "Virtual Monitor is not available"
+msgstr "Màn hình ảo không khả dụng"
+
+#: package/contents/ui/DeviceDelegate.qml:63
+#, kde-format
+msgid "File Transfer"
+msgstr "Truyền tệp"
+
+#: package/contents/ui/DeviceDelegate.qml:64
+#, kde-format
+msgid "Drop a file to transfer it onto your phone."
+msgstr "Thả một tệp để truyền nó vào điện thoại của bạn."
+
+#: package/contents/ui/DeviceDelegate.qml:102
+#, kde-format
+msgid "Virtual Display"
+msgstr "Bộ hiển thị ảo"
+
+#: package/contents/ui/DeviceDelegate.qml:106
+#, kde-format
+msgid "Remote device does not have a VNC client (eg. krdc) installed."
+msgstr "Thiết bị từ xa không có trình khách VNC (ví dụ như krdc) được cài đặt."
+
+#: package/contents/ui/DeviceDelegate.qml:110
+#, kde-format
+msgid "The krfb package is required on the local device."
+msgstr "Gói krfb là cần thiết trên thiết bị cục bộ."
+
+#: package/contents/ui/DeviceDelegate.qml:117
+#, kde-format
+msgid "Failed to create the virtual monitor."
+msgstr "Không thể tạo màn hình ảo."
+
+#: package/contents/ui/DeviceDelegate.qml:167
+#, kde-format
+msgctxt "Battery charge percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/DeviceDelegate.qml:189
+#, kde-format
+msgid "Please choose a file"
+msgstr "Vui lòng chọn một tệp"
+
+#: package/contents/ui/DeviceDelegate.qml:198
+#, kde-format
+msgid "Share file"
+msgstr "Chia sẻ tệp"
+
+#: package/contents/ui/DeviceDelegate.qml:213
+#, kde-format
+msgid "Send Clipboard"
+msgstr "Gửi bảng nháp"
+
+#: package/contents/ui/DeviceDelegate.qml:232
+#, kde-format
+msgid "Ring my phone"
+msgstr "Gọi điện thoại của tôi"
+
+#: package/contents/ui/DeviceDelegate.qml:250
+#, kde-format
+msgid "Browse this device"
+msgstr "Duyệt thiết bị này"
+
+#: package/contents/ui/DeviceDelegate.qml:267
+#, kde-format
+msgid "SMS Messages"
+msgstr "Tin nhắn SMS"
+
+#: package/contents/ui/DeviceDelegate.qml:288
+#, kde-format
+msgid "Remote Keyboard"
+msgstr "Bàn phím từ xa"
+
+#: package/contents/ui/DeviceDelegate.qml:309
+#, kde-format
+msgid "Notifications:"
+msgstr "Thông báo:"
+
+#: package/contents/ui/DeviceDelegate.qml:317
+#, kde-format
+msgid "Dismiss all notifications"
+msgstr "Bỏ qua tất cả thông báo"
+
+#: package/contents/ui/DeviceDelegate.qml:364
+#, kde-format
+msgid "Reply"
+msgstr "hồi đáp"
+
+#: package/contents/ui/DeviceDelegate.qml:374
+#, kde-format
+msgid "Dismiss"
+msgstr "Bỏ qua"
+
+#: package/contents/ui/DeviceDelegate.qml:387
+#, kde-format
+msgid "Cancel"
+msgstr "Huỷ"
+
+#: package/contents/ui/DeviceDelegate.qml:401
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Reply to %1…"
+msgstr "Hồi đáp %1..."
+
+#: package/contents/ui/DeviceDelegate.qml:419
+#, kde-format
+msgid "Send"
+msgstr "Gửi"
+
+#: package/contents/ui/DeviceDelegate.qml:445
+#, kde-format
+msgid "Run command"
+msgstr "Chạy lệnh"
+
+#: package/contents/ui/DeviceDelegate.qml:453
+#, kde-format
+msgid "Add command"
+msgstr "Thêm lệnh"
+
+#: package/contents/ui/FullRepresentation.qml:58
+#, kde-format
+msgid "No paired devices"
+msgstr "Không có thiết bị ghép đôi"
+
+#: package/contents/ui/FullRepresentation.qml:58
+#, kde-format
+msgid "Paired device is unavailable"
+msgid_plural "All paired devices are unavailable"
+msgstr[0] "Tất cả các thiết bị được ghép đôi đều không khả dụng"
+
+#: package/contents/ui/FullRepresentation.qml:60
+#, kde-format
+msgid "Install KDE Connect on your Android device to integrate it with Plasma!"
+msgstr ""
+"Cài đặt KDE Connect trên thiết bị Android của bạn để tích hợp nó với "
+"Plasma!"
+
+#: package/contents/ui/FullRepresentation.qml:64
+#, kde-format
+msgid "Pair a Device..."
+msgstr "Ghép cặp Thiết bị..."
+
+#: package/contents/ui/FullRepresentation.qml:76
+#, kde-format
+msgid "Install from Google Play"
+msgstr "Cài đặt từ Google Play"
+
+#: package/contents/ui/FullRepresentation.qml:86
+#, kde-format
+msgid "Install from F-Droid"
+msgstr "Cài đặt từ F-Droid"
+
+#: package/contents/ui/main.qml:59
+#, kde-format
+msgid "KDE Connect Settings..."
+msgstr "Cài đặt KDE Connect..."

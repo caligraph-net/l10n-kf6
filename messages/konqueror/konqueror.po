@@ -36,6 +36,9 @@ msgid ""
 "<p>You're running Konqueror as root. This requires enabling a highly "
 "insecure mode in the browser component.</p><p>What do you want to do?</p>"
 msgstr ""
+"<p>Bạn đang chạy Konqueror với quyền root. Điều này yêu cầu kích hoạt một "
+"chế độ rất không an toàn trong thành phần trình duyệt.</p><p>Bạn muốn làm "
+"gì?</p>"
 
 #: src/konqapplication.cpp:161
 #, kde-format
@@ -48,38 +51,39 @@ msgid "Web browser, file manager and document viewer."
 msgstr "Trình duyệt Mạng, quản lí tệp, và xem tài liệu."
 
 #: src/konqapplication.cpp:164
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "(C) 1999-2007, The Konqueror developers"
 msgid "(C) 1999-2023, The Konqueror developers"
-msgstr "© năm 1999-2002 của các Nhà phát triển Konqueror"
+msgstr "(C) 1999-2023, Các nhà phát triển Konqueror"
 
 #: src/konqapplication.cpp:167
 #, kde-format
 msgid "Stefano Crocco"
-msgstr ""
+msgstr "Stefano Crocco"
 
 #: src/konqapplication.cpp:167
 #, kde-format
 msgid "Current maintainer"
-msgstr ""
+msgstr "Bảo trì viên hiện tại"
 
 #: src/konqapplication.cpp:168
 #, kde-format
 msgid "David Faure"
-msgstr ""
+msgstr "David Faure"
 
 #: src/konqapplication.cpp:168
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Developer (framework, parts, JavaScript, I/O library) and maintainer"
 msgid ""
 "Developer (framework, parts, JavaScript, I/O library) and former maintainer"
 msgstr ""
-"Nhà phát triển (khuôn khổ, phần, JavaScript, thư viện V/R) và nhà duy trì"
+"Nhà phát triển (khuôn khổ, phần, JavaScript, thư viện V/R) và cựu bảo trì "
+"viên"
 
 #: src/konqapplication.cpp:169
 #, kde-format
 msgid "Simon Hausmann"
-msgstr ""
+msgstr "Simon Hausmann"
 
 #: src/konqapplication.cpp:169
 #, kde-format
@@ -89,7 +93,7 @@ msgstr "Nhà phát triển (khuôn khổ, phần)"
 #: src/konqapplication.cpp:170
 #, kde-format
 msgid "Michael Reiher"
-msgstr ""
+msgstr "Michael Reiher"
 
 #: src/konqapplication.cpp:170 src/konqapplication.cpp:198
 #: src/konqapplication.cpp:204
@@ -100,7 +104,7 @@ msgstr "Nhà phát triển (khuôn khổ)"
 #: src/konqapplication.cpp:171
 #, kde-format
 msgid "Matthias Welk"
-msgstr ""
+msgstr "Matthias Welk"
 
 #: src/konqapplication.cpp:171
 #, kde-format
@@ -110,7 +114,7 @@ msgstr "Nhà phát triển"
 #: src/konqapplication.cpp:172
 #, kde-format
 msgid "Alexander Neundorf"
-msgstr ""
+msgstr "Alexander Neundorf"
 
 #: src/konqapplication.cpp:172
 #, kde-format
@@ -120,7 +124,7 @@ msgstr "Nhà phát triển (xem danh sách)"
 #: src/konqapplication.cpp:173
 #, kde-format
 msgid "Michael Brade"
-msgstr ""
+msgstr "Michael Brade"
 
 #: src/konqapplication.cpp:173
 #, kde-format
@@ -130,7 +134,7 @@ msgstr "Nhà phát triển (xem danh sách, thư viện V/R)"
 #: src/konqapplication.cpp:174
 #, kde-format
 msgid "Lars Knoll"
-msgstr ""
+msgstr "Lars Knoll"
 
 #: src/konqapplication.cpp:174 src/konqapplication.cpp:175
 #: src/konqapplication.cpp:176 src/konqapplication.cpp:178
@@ -144,17 +148,17 @@ msgstr "Nhà phát triển (cơ chế vẽ HTML)"
 #: src/konqapplication.cpp:175
 #, kde-format
 msgid "Dirk Mueller"
-msgstr ""
+msgstr "Dirk Mueller"
 
 #: src/konqapplication.cpp:176
 #, kde-format
 msgid "Peter Kelly"
-msgstr ""
+msgstr "Peter Kelly"
 
 #: src/konqapplication.cpp:177
 #, kde-format
 msgid "Waldo Bastian"
-msgstr ""
+msgstr "Waldo Bastian"
 
 #: src/konqapplication.cpp:177
 #, kde-format
@@ -164,17 +168,17 @@ msgstr "Nhà phát triển (cơ chế vẽ HTML, thư viện V/R)"
 #: src/konqapplication.cpp:178
 #, kde-format
 msgid "Germain Garand"
-msgstr ""
+msgstr "Germain Garand"
 
 #: src/konqapplication.cpp:179 src/konqapplication.cpp:207
 #, kde-format
 msgid "Leo Savernik"
-msgstr ""
+msgstr "Leo Savernik"
 
 #: src/konqapplication.cpp:180
 #, kde-format
 msgid "Stephan Kulow"
-msgstr ""
+msgstr "Stephan Kulow"
 
 #: src/konqapplication.cpp:180
 #, kde-format
@@ -186,27 +190,27 @@ msgstr ""
 #: src/konqapplication.cpp:181
 #, kde-format
 msgid "Antti Koivisto"
-msgstr ""
+msgstr "Antti Koivisto"
 
 #: src/konqapplication.cpp:182
 #, kde-format
 msgid "Zack Rusin"
-msgstr ""
+msgstr "Zack Rusin"
 
 #: src/konqapplication.cpp:183
 #, kde-format
 msgid "Tobias Anton"
-msgstr ""
+msgstr "Tobias Anton"
 
 #: src/konqapplication.cpp:184
 #, kde-format
 msgid "Lubos Lunak"
-msgstr ""
+msgstr "Lubos Lunak"
 
 #: src/konqapplication.cpp:185
 #, kde-format
 msgid "Maks Orlovich"
-msgstr ""
+msgstr "Maks Orlovich"
 
 #: src/konqapplication.cpp:185 src/konqapplication.cpp:187
 #, kde-format
@@ -216,17 +220,17 @@ msgstr "Nhà phát triển cơ chế vẽ HTML, JavaScript)"
 #: src/konqapplication.cpp:186
 #, kde-format
 msgid "Allan Sandfeld Jensen"
-msgstr ""
+msgstr "Allan Sandfeld Jensen"
 
 #: src/konqapplication.cpp:187
 #, kde-format
 msgid "Apple Safari Developers"
-msgstr ""
+msgstr "Nhà phát triển Safari của Apple"
 
 #: src/konqapplication.cpp:188
 #, kde-format
 msgid "Harri Porten"
-msgstr ""
+msgstr "Harri Porten"
 
 #: src/konqapplication.cpp:188
 #, kde-format
@@ -236,7 +240,7 @@ msgstr "Nhà phát triển (JavaScript)"
 #: src/konqapplication.cpp:189
 #, kde-format
 msgid "Koos Vriezen"
-msgstr ""
+msgstr "Koos Vriezen"
 
 #: src/konqapplication.cpp:189
 #, kde-format
@@ -246,7 +250,7 @@ msgstr "Nhà phát triển (các tiểu dụng Java và các đối tượng nh�
 #: src/konqapplication.cpp:190
 #, kde-format
 msgid "Matt Koss"
-msgstr ""
+msgstr "Matt Koss"
 
 #: src/konqapplication.cpp:190 src/konqapplication.cpp:191
 #, kde-format
@@ -256,12 +260,12 @@ msgstr "Nhà phát triển (thư viện V/R)"
 #: src/konqapplication.cpp:191
 #, kde-format
 msgid "Alex Zepeda"
-msgstr ""
+msgstr "Alex Zepeda"
 
 #: src/konqapplication.cpp:192
 #, kde-format
 msgid "Richard Moore"
-msgstr ""
+msgstr "Richard Moore"
 
 #: src/konqapplication.cpp:192 src/konqapplication.cpp:193
 #, kde-format
@@ -271,12 +275,12 @@ msgstr "Nhà phát triển (hỗ trợ tiểu dụng Java)"
 #: src/konqapplication.cpp:193
 #, kde-format
 msgid "Dima Rogozin"
-msgstr ""
+msgstr "Dima Rogozin"
 
 #: src/konqapplication.cpp:194
 #, kde-format
 msgid "Wynn Wilkes"
-msgstr ""
+msgstr "Wynn Wilkes"
 
 #: src/konqapplication.cpp:194
 #, kde-format
@@ -290,7 +294,7 @@ msgstr ""
 #: src/konqapplication.cpp:195
 #, kde-format
 msgid "Stefan Schimanski"
-msgstr ""
+msgstr "Stefan Schimanski"
 
 #: src/konqapplication.cpp:195
 #, kde-format
@@ -298,10 +302,10 @@ msgid "Developer (Netscape plugin support)"
 msgstr "Nhà phát triển (hỗ trợ bổ sung Netscape)"
 
 #: src/konqapplication.cpp:196
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "(c) 2001 George Staikos"
 msgid "George Staikos"
-msgstr "© năm 2001 của George Staikos"
+msgstr "George Staikos"
 
 #: src/konqapplication.cpp:196
 #, kde-format
@@ -311,7 +315,7 @@ msgstr "Nhà phát triển (SSL, bổ sung Netscape)"
 #: src/konqapplication.cpp:197
 #, kde-format
 msgid "Dawit Alemayehu"
-msgstr ""
+msgstr "Dawit Alemayehu"
 
 #: src/konqapplication.cpp:197
 #, kde-format
@@ -321,12 +325,12 @@ msgstr "Nhà phát triển (thư viện V/R, hỗ trợ xác thực)"
 #: src/konqapplication.cpp:198
 #, kde-format
 msgid "Carsten Pfeiffer"
-msgstr ""
+msgstr "Carsten Pfeiffer"
 
 #: src/konqapplication.cpp:199
 #, kde-format
 msgid "Torsten Rahn"
-msgstr ""
+msgstr "Torsten Rahn"
 
 #: src/konqapplication.cpp:199
 #, kde-format
@@ -336,7 +340,7 @@ msgstr "Đồ hoạ/biểu tượng"
 #: src/konqapplication.cpp:200
 #, kde-format
 msgid "Torben Weis"
-msgstr ""
+msgstr "Torben Weis"
 
 #: src/konqapplication.cpp:200
 #, kde-format
@@ -346,7 +350,7 @@ msgstr "Tác giả KFM"
 #: src/konqapplication.cpp:201
 #, kde-format
 msgid "Joseph Wenninger"
-msgstr ""
+msgstr "Joseph Wenninger"
 
 #: src/konqapplication.cpp:201
 #, kde-format
@@ -356,7 +360,7 @@ msgstr "Nhà phát triển (khuôn khổ bảng di chuyển)"
 #: src/konqapplication.cpp:202
 #, kde-format
 msgid "Stephan Binner"
-msgstr ""
+msgstr "Stephan Binner"
 
 #: src/konqapplication.cpp:202
 #, kde-format
@@ -366,7 +370,7 @@ msgstr "Nhà phát triển (những cái lặt vặt)"
 #: src/konqapplication.cpp:203
 #, kde-format
 msgid "Ivor Hewitt"
-msgstr ""
+msgstr "Ivor Hewitt"
 
 #: src/konqapplication.cpp:203
 #, kde-format
@@ -376,64 +380,64 @@ msgstr "Nhà phát triển (bộ lọc chặn quảng cáo AdBlock)"
 #: src/konqapplication.cpp:204
 #, kde-format
 msgid "Eduardo Robles Elvira"
-msgstr ""
+msgstr "Eduardo Robles Elvira"
 
 #: src/konqapplication.cpp:205
 #, kde-format
 msgid "Matthias Kalle Dalheimer"
-msgstr ""
+msgstr "Matthias Kalle Dalheimer"
 
 #: src/konqapplication.cpp:206
 #, kde-format
 msgid "Daniel Molkentin"
-msgstr ""
+msgstr "Daniel Molkentin"
 
 #: src/konqapplication.cpp:207
 #, kde-format
 msgid ""
 "JavaScript access controls\n"
 "Per-domain policies extensions"
-msgstr ""
+msgstr "Kiểm soát truy cập JavaScript\nPhần mở rộng chính sách theo miền"
 
 #: src/konqapplication.cpp:218
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Start without a default window"
 msgid "Start without a default window, when called without URLs"
-msgstr "Bắt đầu không có cửa sổ mặc định"
+msgstr "Khởi động mà không có cửa sổ mặc định, khi được gọi mà không có URL"
 
 #: src/konqapplication.cpp:219
 #, kde-format
 msgid ""
 "Preload for later use. This mode does not support URLs on the command line"
-msgstr ""
+msgstr "Tải trước để sử dụng sau. Chế độ này không hỗ trợ các URL trên dòng lệnh"
 
 #: src/konqapplication.cpp:220
 #, kde-format
 msgid "Profile to open (DEPRECATED, IGNORED)"
-msgstr ""
+msgstr "Hồ sơ để mở (ĐÃ LỖI THỜI, BỊ BỎ QUA)"
 
 #: src/konqapplication.cpp:220
 #, kde-format
 msgid "profile"
-msgstr ""
+msgstr "hồ sơ"
 
 #: src/konqapplication.cpp:221
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "List available profiles"
 msgid "List available sessions"
-msgstr "Liệt kê các xác lập có"
+msgstr "Liệt kê các phiên làm việc hiện có"
 
 #: src/konqapplication.cpp:222
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Location to open"
 msgid "Session to open"
-msgstr "Vị trí để mở"
+msgstr "Phiên để mở"
 
 #: src/konqapplication.cpp:222
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Permissions"
 msgid "session"
-msgstr "Quyền hạn"
+msgstr "phiên"
 
 #: src/konqapplication.cpp:223
 #, kde-format
@@ -443,18 +447,18 @@ msgstr "Dạng Mime sẽ dùng cho URL này (vd. text/html hay inode/directory)"
 #: src/konqapplication.cpp:223
 #, kde-format
 msgid "mimetype"
-msgstr ""
+msgstr "kiểu MIME"
 
 #: src/konqapplication.cpp:224
 #, kde-format
 msgid "Part to use (e.g. khtml or kwebkitpart)"
-msgstr ""
+msgstr "Phần sử dụng (ví dụ khtml hoặc kwebkitpart)"
 
 #: src/konqapplication.cpp:224
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add Service"
 msgid "service"
-msgstr "Thêm dịch vụ"
+msgstr "dịch vụ"
 
 #: src/konqapplication.cpp:225
 #, kde-format
@@ -467,7 +471,7 @@ msgstr ""
 #: src/konqapplication.cpp:226
 #, kde-format
 msgid "The files/URLs opened by the application will be deleted after use"
-msgstr ""
+msgstr "Các tệp/URL được mở bởi ứng dụng sẽ bị xóa sau khi sử dụng"
 
 #: src/konqapplication.cpp:228
 #, kde-format
@@ -475,11 +479,13 @@ msgid ""
 "Create a new Konqueror process, even if one already exists. Meant to be used "
 "only when developing Konqueror itself"
 msgstr ""
+"Tạo một tiến trình Konqueror mới, ngay cả khi đã tồn tại một tiến trình. "
+"Chỉ dành để sử dụng khi phát triển Konqueror"
 
 #: src/konqapplication.cpp:230
 #, kde-format
 msgid "TEST"
-msgstr ""
+msgstr "kiểm thử"
 
 #: src/konqapplication.cpp:231
 #, kde-format
@@ -487,11 +493,11 @@ msgid "Location to open"
 msgstr "Vị trí để mở"
 
 #: src/konqapplication.cpp:340
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Location to open"
 msgctxt "The session asked by the user doesn't exist or can't be opened"
 msgid "Session %1 couldn't be opened"
-msgstr "Vị trí để mở"
+msgstr "Phiên %1 không thể được mở"
 
 #: src/konqapplication.cpp:465
 #, kde-format
@@ -499,21 +505,23 @@ msgid ""
 "You can't pass URLs when using the --preload switch. The URLs will be "
 "ignored\n"
 msgstr ""
+"Bạn không thể truyền các URL khi sử dụng công tắc --preload. Các URL sẽ bị "
+"bỏ qua\n"
 
 #: src/konqclosedwindowsmanager.cpp:213 src/konqmainwindow.cpp:4789
 #: src/konqmainwindow.cpp:4835
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "NAME OF TRANSLATORS"
 #| msgid "Your names"
 msgid "no name"
-msgstr "Phan Vĩnh Thịnh"
+msgstr "không tên"
 
 #: src/konqextensionmanager.cpp:49
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Configure Extensions..."
 msgctxt "@title:window"
 msgid "Configure Extensions"
-msgstr "Cấu hình phần mở rộng..."
+msgstr "Cấu hình phần mở rộng"
 
 #: src/konqextensionmanager.cpp:69
 #, kde-format
@@ -550,7 +558,7 @@ msgstr ""
 #, kde-format
 msgctxt "%p is the percent value, % is the percent sign"
 msgid "%p%"
-msgstr ""
+msgstr "%p%"
 
 #: src/konqframestatusbar.cpp:155
 #, kde-format
@@ -568,10 +576,10 @@ msgid "Stalled"
 msgstr "Ngừng chạy"
 
 #: src/konqguiclients.cpp:52
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Preview in %1"
 msgid "Preview &in %1"
-msgstr "Xem trước trong %1"
+msgstr "&Xem thử trong %1"
 
 #: src/konqguiclients.cpp:122
 #, kde-format
@@ -579,21 +587,21 @@ msgid "Show %1"
 msgstr "Hiện %1"
 
 #: src/konqhistorydialog.cpp:39
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "History"
 msgctxt "@title:window"
 msgid "History"
 msgstr "Lịch sử"
 
 #: src/konqhistorydialog.cpp:55 src/konqhistoryview.cpp:142
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Sort"
 msgctxt "@action:inmenu Parent of 'By Name' and 'By Date'"
 msgid "Sort"
 msgstr "Sắp xếp"
 
 #: src/konqhistorymodel.cpp:119
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "<qt><center><b>%1</b></center><hr>Last visited: %2<br>First visited: "
 #| "%3<br>Number of times visited: %4</qt>"
@@ -601,14 +609,14 @@ msgid ""
 "<qt><center><b>%1</b></center><hr />Last visited: %2<br />First visited: "
 "%3<br />Number of times visited: %4</qt>"
 msgstr ""
-"<qt><center><b>%1</b></center><hr>Xem lần cuối: %2<br>Xem lần đầu: %3<br>Số "
-"lần xem: %4</qt>"
+"<qt><center><b>%1</b></center><hr />Lần truy cập cuối: %2<br />Lần truy cập "
+"đầu: %3<br />Số lần truy cập: %4</qt>"
 
 #: src/konqhistorymodel.cpp:213
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Local file"
 msgid "Local"
-msgstr "Tệp trên máy"
+msgstr "Cục bộ"
 
 #: src/konqhistorymodel.cpp:216
 #, kde-format
@@ -626,16 +634,16 @@ msgid "Open in New Tab"
 msgstr "Mở trong thẻ mới"
 
 #: src/konqhistoryview.cpp:65
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Open in New Tab"
 msgid "Open in Current Tab"
-msgstr "Mở trong thẻ mới"
+msgstr "Mở trong thẻ hiện tại"
 
 #: src/konqhistoryview.cpp:69
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Copy Link Address"
 msgid "&Copy Link Address"
-msgstr "Sao chép địa chỉ liên kết"
+msgstr "Sao chép địa chỉ liê&n kết"
 
 #: src/konqhistoryview.cpp:74
 #, kde-format
@@ -663,10 +671,10 @@ msgid "By &Date"
 msgstr "Theo &ngày"
 
 #: src/konqhistoryview.cpp:109
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Clear History"
 msgid "Search in history"
-msgstr "Xoá lịch sử"
+msgstr "Tìm kiếm trong lịch sử"
 
 #: src/konqhistoryview.cpp:170
 #, kde-format
@@ -674,7 +682,7 @@ msgid "Do you really want to clear the entire history?"
 msgstr "Bạn có thực sự muốn xoá toàn bộ lịch sử?"
 
 #: src/konqhistoryview.cpp:171
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Clear History?"
 msgctxt "@title:window"
 msgid "Clear History?"
@@ -684,19 +692,19 @@ msgstr "Xoá lịch sử?"
 #, kde-format
 msgctxt "@title:tab"
 msgid "Loading..."
-msgstr ""
+msgstr "Đang tải..."
 
 #: src/konqmainwindow.cpp:717
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Accessed"
 msgid "Access denied"
-msgstr "Truy cập"
+msgstr "Truy cập bị từ chối"
 
 #: src/konqmainwindow.cpp:1486
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "S&end File..."
 msgid "Open File"
-msgstr "&Gửi tệp..."
+msgstr "Mở tệp"
 
 #: src/konqmainwindow.cpp:1550
 #, kde-format
@@ -716,11 +724,11 @@ msgstr ""
 #: src/konqmainwindow.cpp:2314 src/konqmainwindow.cpp:2346
 #: src/konqmainwindow.cpp:2389 src/konqmainwindow.cpp:2411
 #: src/konqmainwindow.cpp:4754
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Discard Changes?"
 msgctxt "@title:window"
 msgid "Discard Changes?"
-msgstr "Bỏ các thay đổi?"
+msgstr "Loại bỏ các thay đổi?"
 
 #: src/konqmainwindow.cpp:1587 src/konqmainwindow.cpp:2225
 #: src/konqmainwindow.cpp:2314 src/konqmainwindow.cpp:2346
@@ -736,38 +744,38 @@ msgid "Home Folder"
 msgstr "Thư mục cá nhân"
 
 #: src/konqmainwindow.cpp:1902 src/konqmainwindow.cpp:3324
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Home"
 msgid "Home"
 msgstr "Nhà"
 
 #: src/konqmainwindow.cpp:1908
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Navigate to your 'Home Location'"
 msgid "Navigate to your 'Home Folder'"
-msgstr "Chuyển tới 'Vị trí nhà'"
+msgstr "Điều hướng tới 'Thư mục Nhà' của bạn"
 
 #: src/konqmainwindow.cpp:1909
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Navigate to your 'Home Location'"
 msgid "Navigate to your local 'Home Folder'"
-msgstr "Chuyển tới 'Vị trí nhà'"
+msgstr "Điều hướng tới 'Thư mục Nhà' của bạn"
 
 #. i18n: ectx: label, entry, group (UserSettings)
 #: src/konqmainwindow.cpp:1912 src/konqueror.kcfg:16
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Home"
 msgid "Home Page"
-msgstr "Nhà"
+msgstr "Trang chủ"
 
 #: src/konqmainwindow.cpp:1914
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Navigate to your 'Home Location'"
 msgid "Navigate to your 'Home Page'"
-msgstr "Chuyển tới 'Vị trí nhà'"
+msgstr "Điều hướng tới 'Trang chủ' của bạn"
 
 #: src/konqmainwindow.cpp:1915
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "Navigate to your 'Home Location'<p>You can configure the location this "
 #| "button takes you to in the <b>KDE Control Center</b>, under <b>File "
@@ -777,9 +785,9 @@ msgid ""
 "where this button takes you under <b>Settings -> Configure Konqueror -> "
 "General</b>.</html>"
 msgstr ""
-"Chuyển tới 'Vị trí nhà'\n"
-"<p>Bạn cũng có thể cấu hình vị trí mà nút này sẽ đưa đến trong <b> Trung tâm "
-"điều khiển KDE</b>, dưới phần <b>Quản lí tệp</b>/<b>Thái độ</b>"
+"<html>Chuyển đến 'Trang chủ' của bạn<br /><br />Bạn có thể cấu hình địa "
+"điểm mà nút này đưa bạn đến trong phần <b>Cài đặt -> Cấu hình Konqueror -> "
+"Chung</b>.</html>"
 
 #: src/konqmainwindow.cpp:2224
 #, kde-format
@@ -819,11 +827,11 @@ msgid "Close &Other Tabs"
 msgstr "Đóng những thẻ &khác"
 
 #: src/konqmainwindow.cpp:2372
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Close Other Tabs Confirmation"
 msgctxt "@title:window"
 msgid "Close Other Tabs Confirmation"
-msgstr "Xác nhận đóng những thẻ khác"
+msgstr "Xác nhận đóng các thẻ khác"
 
 #: src/konqmainwindow.cpp:2388
 #, kde-format
@@ -844,7 +852,7 @@ msgstr ""
 "Nạp lại mọi thẻ tab sẽ bỏ đi những thay đổi này."
 
 #: src/konqmainwindow.cpp:2467
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Enter Target"
 msgctxt "@title:window"
 msgid "Enter Target"
@@ -866,23 +874,23 @@ msgid "Move selected files from %1 to:"
 msgstr "Di chuyển tệp đã chọn từ %1 tới:"
 
 #: src/konqmainwindow.cpp:2665
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Clear History"
 msgctxt "This menu entry empties the closed items history"
 msgid "Empty Closed Items History"
-msgstr "Xoá lịch sử"
+msgstr "Xóa lịch sử các mục đã đóng"
 
 #: src/konqmainwindow.cpp:2687
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Set Name..."
 msgid "Save As..."
-msgstr "Đặt tên..."
+msgstr "Lưu Với Tên..."
 
 #: src/konqmainwindow.cpp:2689
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Chan&ge..."
 msgid "Manage..."
-msgstr "Đổ&i..."
+msgstr "Quản lý..."
 
 #: src/konqmainwindow.cpp:3233
 #, kde-format
@@ -905,16 +913,16 @@ msgid "S&end File..."
 msgstr "&Gửi tệp..."
 
 #: src/konqmainwindow.cpp:3251
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Open Location"
 msgid "&Open Location"
-msgstr "Mở vị trí"
+msgstr "Mở địa đ&iểm"
 
 #: src/konqmainwindow.cpp:3257
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "S&end File..."
 msgid "&Open File..."
-msgstr "&Gửi tệp..."
+msgstr "&Mở tệp..."
 
 #: src/konqmainwindow.cpp:3262
 #, kde-format
@@ -927,11 +935,11 @@ msgid "Lock to Current Location"
 msgstr "Khoá vị trí hiện tại"
 
 #: src/konqmainwindow.cpp:3274
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Lin&k View"
 msgctxt "This option links konqueror views"
 msgid "Lin&k View"
-msgstr "Xem liên &kết"
+msgstr "Liên &kết xem"
 
 #: src/konqmainwindow.cpp:3279
 #, kde-format
@@ -939,36 +947,36 @@ msgid "&Up"
 msgstr "&Lên"
 
 #: src/konqmainwindow.cpp:3289
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Copy Items"
 msgid "Closed Items"
-msgstr "Sao chép mục"
+msgstr "Mục đã đóng"
 
 #: src/konqmainwindow.cpp:3302
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Permissions"
 msgid "Sessions"
-msgstr "Quyền hạn"
+msgstr "Phiên làm việc"
 
 #: src/konqmainwindow.cpp:3329
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Most Often Visited"
 msgctxt "@action:inmenu Go"
 msgid "Most Often Visited"
-msgstr "Hay ghé thăm nhất"
+msgstr "Thường xuyên ghé thăm"
 
 #: src/konqmainwindow.cpp:3333
 #, kde-format
 msgctxt "@action:inmenu Go"
 msgid "Recently Visited"
-msgstr ""
+msgstr "Đã Truy Cập Gần Đây"
 
 #: src/konqmainwindow.cpp:3342
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Show History Sidebar"
 msgctxt "@action:inmenu Go"
 msgid "Show History"
-msgstr "Hiển thị thanh nằm bên của Lịch sử"
+msgstr "Hiển thị Lịch sử"
 
 #: src/konqmainwindow.cpp:3354
 #, kde-format
@@ -1056,10 +1064,10 @@ msgid "&Reload All Tabs"
 msgstr "&Nạp lại tất cả các thẻ"
 
 #: src/konqmainwindow.cpp:3468
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Reload"
 msgid "&Force Reload"
-msgstr "Nạp &lại"
+msgstr "Buộc nạp lạ&i"
 
 #: src/konqmainwindow.cpp:3493
 #, kde-format
@@ -1069,7 +1077,7 @@ msgstr "&Dừng "
 #: src/konqmainwindow.cpp:3502
 #, kde-format
 msgid "Throbber"
-msgstr ""
+msgstr "Thanh trạng thái"
 
 #: src/konqmainwindow.cpp:3506 src/konqmainwindow.cpp:3509
 #, kde-format
@@ -1082,11 +1090,13 @@ msgid "Location Bar"
 msgstr "Thanh vị trí"
 
 #: src/konqmainwindow.cpp:3522
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Location Bar<p>Enter a web address or search term."
 msgid ""
 "<html>Location Bar<br /><br />Enter a web address or search term.</html>"
-msgstr "Thanh vị trí<p>Nhập một địa chỉ web hoặc thuật ngữ tìm kiếm."
+msgstr ""
+"<html>Thanh vị trí<br /><br />Nhập một địa chỉ web hoặc thuật ngữ tìm "
+"kiếm.</html>"
 
 #: src/konqmainwindow.cpp:3526
 #, kde-format
@@ -1094,12 +1104,12 @@ msgid "Clear Location Bar"
 msgstr "Xoá thanh vị trí"
 
 #: src/konqmainwindow.cpp:3529
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Clear Location bar<p>Clears the content of the location bar."
 msgid ""
 "<html>Clear Location bar<br /><br />Clears the contents of the location bar."
 "</html>"
-msgstr "Xoá thanh vị trí<p>Xoá nội dung của thanh vị trí."
+msgstr "<html>Xóa thanh địa điểm<br /><br />Xóa nội dung của thanh địa điểm.</html>"
 
 #: src/konqmainwindow.cpp:3534
 #, kde-format
@@ -1117,15 +1127,15 @@ msgid "Go"
 msgstr "Đi tới"
 
 #: src/konqmainwindow.cpp:3562
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Go<p>Goes to the page that has been entered into the location bar."
 msgid ""
 "<html>Go<br /><br />Goes to the page that has been entered into the location "
 "bar.</html>"
-msgstr "Đi tới<p>Đi tới trang web đã nhập vào thanh vị trí."
+msgstr "<html>Đi<br /><br />Đi đến trang đã được nhập vào thanh địa điểm.</html>"
 
 #: src/konqmainwindow.cpp:3570
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "Enter the parent folder<p>For instance, if the current location is file:/"
 #| "home/%1 clicking this button will take you to file:/home."
@@ -1134,8 +1144,8 @@ msgid ""
 "location is file:/home/%1 clicking this button will take you to file:/home.</"
 "html>"
 msgstr ""
-"Vào thư mục mẹ<p>Ví dụ, nếu thư mục hiện thời là file:/home/%1 nhấn nút này "
-"sẽ chuyển tới file:/home."
+"<html>Vào thư mục mẹ<br /><br />Ví dụ, nếu địa điểm hiện tại là "
+"file:/home/%1 thì nhấn nút này sẽ đưa bạn đến file:/home.</html>"
 
 #: src/konqmainwindow.cpp:3573
 #, kde-format
@@ -1153,10 +1163,10 @@ msgid "Move forward one step in the browsing history"
 msgstr "Chuyển một bước lên trước trong lịch sử duyệt"
 
 #: src/konqmainwindow.cpp:3581 src/konqmainwindow.cpp:3582
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Move backwards one step in the browsing history"
 msgid "Move backwards one step in the closed tabs history"
-msgstr "Chuyển ngược lại một bước trong lịch sử duyệt"
+msgstr "Di chuyển lùi một bước trong lịch sử các tab đã đóng"
 
 #: src/konqmainwindow.cpp:3584
 #, kde-format
@@ -1191,7 +1201,7 @@ msgid "Reload all currently displayed document in tabs"
 msgstr "Nạp lại tất cả các tài liệu đang hiển thị"
 
 #: src/konqmainwindow.cpp:3594
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "Stop loading the document<p>All network transfers will be stopped and "
 #| "Konqueror will display the content that has been received so far."
@@ -1200,8 +1210,9 @@ msgid ""
 "stopped and Konqueror will display the content that has been received so far."
 "</html>"
 msgstr ""
-"Dừng nạp tài liệu<p>Mọi truyền tải qua mạng sẽ dừng lại và Konqueror sẽ chỉ "
-"hiển thị nội dung đã nhận được."
+"<html>Dừng tải tài liệu<br /><br />Tất cả các truyền tải qua mạng sẽ bị "
+"dừng và Konqueror sẽ hiển thị nội dung đã nhận được cho đến thời điểm "
+"này.</html>"
 
 #: src/konqmainwindow.cpp:3598
 #, kde-format
@@ -1217,11 +1228,13 @@ msgstr ""
 "khi đã có bản sao được lưu sẵn.</html>"
 
 #: src/konqmainwindow.cpp:3602
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Reload all currently displayed document in tabs"
 msgid ""
 "Force a reload of the currently displayed document and any contained images"
-msgstr "Nạp lại tất cả các tài liệu đang hiển thị"
+msgstr ""
+"Buộc tải lại tài liệu hiện đang hiển thị và bất kỳ hình ảnh nào được chứa "
+"trong đó"
 
 #: src/konqmainwindow.cpp:3604
 #, kde-format
@@ -1275,7 +1288,7 @@ msgid "Paste the clipboard contents"
 msgstr "Dán nội dung bảng nháp"
 
 #: src/konqmainwindow.cpp:3623
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "Print the currently displayed document<p>You will be presented with a "
 #| "dialog where you can set various options, such as the number of copies to "
@@ -1289,9 +1302,10 @@ msgid ""
 "also provides access to special KDE printing services such as creating a PDF "
 "file from the current document.</html>"
 msgstr ""
-"In tài liệu đang hiển thị<p>Sẽ mở ra hộp thoại cho phép đặt một số tuỳ chọn, "
-"như số bản sẽ in và máy in sẽ dùng.<p>Hộp thoại này còn cho phép truy cập "
-"đến các dịch vụ in KDE đặc biệt như tạo tệp PDF từ tài liệu hiện thời."
+"<html>In tài liệu đang hiển thị<br /><br />Bạn sẽ thấy một hộp thoại cho "
+"phép đặt các tùy chọn khác nhau, như số bản sao cần in và máy in sẽ sử "
+"dụng.<br /><br />Hộp thoại này cũng cung cấp quyền truy cập vào các dịch vụ "
+"in đặc biệt của KDE như tạo tệp PDF từ tài liệu hiện tại.</html>"
 
 #: src/konqmainwindow.cpp:3629
 #, kde-format
@@ -1317,10 +1331,10 @@ msgstr ""
 "đã liên kết khác."
 
 #: src/konqmainwindow.cpp:3636
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "C&lose Current Tab"
 msgid "&Inspect Current Page"
-msgstr "Đóng thẻ &hiện thời"
+msgstr "&Kiểm tra trang hiện tại"
 
 #: src/konqmainwindow.cpp:3637
 #, kde-format
@@ -1328,11 +1342,14 @@ msgid ""
 "<html>Shows the developer tools for the current page<br/><br/>The current "
 "view is split in two and the developer tools are displayed in the second half"
 msgstr ""
+"<html>Hiển thị công cụ nhà phát triển cho trang hiện tại<br/><br/>Khung xem "
+"hiện tại được chia đôi và công cụ nhà phát triển được hiển thị ở nửa thứ "
+"hai"
 
 #: src/konqmainwindow.cpp:3638
 #, kde-format
 msgid "Shows the developer tools for the current page"
-msgstr ""
+msgstr "Hiển thị các công cụ dành cho nhà phát triển của trang hiện tại"
 
 #: src/konqmainwindow.cpp:3800
 #, kde-format
@@ -1350,20 +1367,22 @@ msgid ""
 "You have requested to open more than 20 bookmarks in tabs. This might take a "
 "while. Continue?"
 msgstr ""
+"Bạn đã yêu cầu mở hơn 20 dấu trang trong các tab. Điều này có thể mất một "
+"lúc. Tiếp tục?"
 
 #: src/konqmainwindow.cpp:4132
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Open Folder in Tabs"
 msgctxt "@title:window"
 msgid "Open bookmarks folder in new tabs"
-msgstr "Mở thư mục trong thẻ"
+msgstr "Mở thư mục dấu trang trong các thẻ mới"
 
 #: src/konqmainwindow.cpp:4133
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "S&end File..."
 msgctxt "@action:button"
 msgid "Open"
-msgstr "&Gửi tệp..."
+msgstr "Mở"
 
 #: src/konqmainwindow.cpp:4295
 #, kde-format
@@ -1391,10 +1410,10 @@ msgid "Open the document in a new tab"
 msgstr "Mở tài liệu trong một thẻ mới"
 
 #: src/konqmainwindow.cpp:4534
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Open with %1"
 msgid "&Open With"
-msgstr "Mở bằng %1"
+msgstr "&Mở bằng"
 
 #: src/konqmainwindow.cpp:4547
 #, kde-format
@@ -1402,11 +1421,11 @@ msgid "Open with %1"
 msgstr "Mở bằng %1"
 
 #: src/konqmainwindow.cpp:4597
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&View Mode"
 msgctxt "@action:inmenu View"
 msgid "&View Mode"
-msgstr "Chế độ &xem"
+msgstr "Chế độ xe&m"
 
 #: src/konqmainwindow.cpp:4718
 #, kde-format
@@ -1415,11 +1434,11 @@ msgid ""
 msgstr "Bạn đang mở nhiều thẻ trong cửa sổ này, vẫn thoát?"
 
 #: src/konqmainwindow.cpp:4720
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Confirmation"
 msgctxt "@title:window"
 msgid "Confirmation"
-msgstr "Hỏi lại"
+msgstr "Xác nhận"
 
 #: src/konqmainwindow.cpp:4722
 #, kde-format
@@ -1451,7 +1470,7 @@ msgid ""
 msgstr "Thanh nằm bên không làm việc hoặc không có. Không thêm được mục mới."
 
 #: src/konqmainwindow.cpp:4911 src/konqmainwindow.cpp:4918
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Web Sidebar"
 msgctxt "@title:window"
 msgid "Web Sidebar"
@@ -1493,23 +1512,30 @@ msgid ""
 "proxy URL manually in the settings dialog. Do you want to change proxy "
 "settings now?"
 msgstr ""
+"Cấu hình uỷ nhiệm của bạn không thể được sử dụng với trình duyệt web "
+"QtWebEngine. Sẽ không sử dụng uỷ nhiệm nào\n\nQtWebEngine chỉ hỗ trợ uỷ "
+"nhiệm cố định, vì vậy cấu hình uỷ nhiệm tự động (PAC) và giao thức Khám phá "
+"Uỷ nhiệm Web tự động không thể được sử dụng với QtWebEngine. Nếu bạn cần uỷ "
+"nhiệm, vui lòng bôi đen cấu hình uỷ nhiệm hệ thống hoặc chỉ định URL uỷ "
+"nhiệm thủ công trong hộp thoại thiết lập. Bạn có muốn thay đổi cài đặt uỷ "
+"nhiệm ngay bây giờ không?"
 
 #: src/konqmainwindow.cpp:5356
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Manual Proxy Configuration"
 msgid "Unsupported proxy configuration"
-msgstr "Cấu hình uỷ nhiệm thủ công"
+msgstr "Cấu hình uỷ nhiệm không được hỗ trợ"
 
 #: src/konqmainwindow.cpp:5356
 #, kde-format
 msgid "Don't use a proxy"
-msgstr ""
+msgstr "Không sử dụng uỷ nhiệm"
 
 #: src/konqmainwindow.cpp:5357 src/konqmainwindow.cpp:5385
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Show Configuration Button"
 msgid "Show proxy configuration dialog"
-msgstr "Hiện nút cấu hình"
+msgstr "Hiện hộp thoại cấu hình uỷ nhiệm"
 
 #: src/konqmainwindow.cpp:5381
 #, kde-format
@@ -1519,22 +1545,26 @@ msgid ""
 "protocols. Your current settings are:<p><b>HTTP proxy:</b> <tt>%1</tt></"
 "p><p><b>HTTPS proxy: </b><tt>%2</tt></p>What do you want to do?"
 msgstr ""
+"Cấu hình uỷ nhiệm của bạn không thể được sử dụng với dụng cụ HTML "
+"QtWebEngine vì nó không hỗ trợ việc có các uỷ nhiệm khác nhau cho giao thức "
+"HTTP và HTTPS. Thiết lập hiện tại của bạn là:<p><b>Uỷ nhiệm HTTP:</b> "
+"<tt>%1</tt></p><p><b>Uỷ nhiệm HTTPS: </b><tt>%2</tt></p>Bạn muốn làm gì?"
 
 #: src/konqmainwindow.cpp:5384
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Manual Proxy Configuration"
 msgid "Conflicting proxy configuration"
-msgstr "Cấu hình uỷ nhiệm thủ công"
+msgstr "Cấu hình uỷ nhiệm xung đột"
 
 #: src/konqmainwindow.cpp:5385
 #, kde-format
 msgid "Use HTTP proxy (only this time)"
-msgstr ""
+msgstr "Sử dụng proxy HTTP (chỉ lần này)"
 
 #: src/konqmainwindow.cpp:5385
 #, kde-format
 msgid "Use HTTPS proxy (only this time)"
-msgstr ""
+msgstr "Sử dụng uỷ nhiệm HTTPS (chỉ lần này)"
 
 #: src/konqmainwindow.cpp:5401
 #, kde-format
@@ -1543,113 +1573,116 @@ msgid ""
 "hidden). You can exit it by pressing the keyboard shortcut for Full Screen "
 "Mode (%1)"
 msgstr ""
+"Bạn đã vào chế độ toàn màn hình hoàn tất (giao diện người dùng hoàn toàn bị "
+"ẩn). Bạn có thể thoát khỏi nó bằng cách nhấn phím tắt cho chế độ toàn màn "
+"hình (%1)"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: src/konqnewsessiondlg_base.ui:28
 #, kde-format
 msgid "Save open &tabs and windows for easy retrieval"
-msgstr ""
+msgstr "Lưu các &tab và cửa sổ đang mở để dễ dàng truy xuất"
 
 #. i18n: ectx: property (text), widget (QRadioButton, m_pAllWindows)
 #: src/konqnewsessiondlg_base.ui:34
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Open new windows:"
 msgid "A&ll open windows"
-msgstr "Mở cửa sổ mới:"
+msgstr "Tấ&t cả cửa sổ đang mở"
 
 #. i18n: ectx: property (text), widget (QRadioButton, m_pCurrentWindow)
 #: src/konqnewsessiondlg_base.ui:44
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Open the document in current window"
 msgid "Onl&y current window"
-msgstr "Mở tài liệu trong cửa sổ hiện tại"
+msgstr "Chỉ cửa sổ h&iện tại"
 
 #. i18n: ectx: property (text), widget (QLabel, lblSessionName)
 #: src/konqnewsessiondlg_base.ui:56
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Permissions"
 msgid "Session n&ame:"
-msgstr "Quyền hạn"
+msgstr "Tên p&hiên:"
 
 #: src/konqsessiondlg.cpp:60
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Management"
 msgctxt "@title:window"
 msgid "Manage Sessions"
-msgstr "&Quản lí"
+msgstr "Quản lý Phiên"
 
 #: src/konqsessiondlg.cpp:168
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "End of session"
 msgctxt "@title:window"
 msgid "Rename Session"
-msgstr "Kết thúc phiên chạy"
+msgstr "Đổi tên phiên"
 
 #: src/konqsessiondlg.cpp:215
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "End of session"
 msgctxt "@title:window"
 msgid "Save Session"
-msgstr "Kết thúc phiên chạy"
+msgstr "Lưu phiên"
 
 #: src/konqsessiondlg.cpp:251
 #, kde-format
 msgid ""
 "A session with the name '%1' already exists, do you want to overwrite it?"
-msgstr ""
+msgstr "Một phiên với tên '%1' đã tồn tại, bạn có muốn ghi đè lên nó không?"
 
 #: src/konqsessiondlg.cpp:252
 #, kde-format
 msgctxt "@title:window"
 msgid "Session exists. Overwrite?"
-msgstr ""
+msgstr "Phiên tồn tại. Ghi đè?"
 
 #. i18n: ectx: property (text), widget (QPushButton, m_pNewButton)
 #: src/konqsessiondlg_base.ui:26
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&New..."
 msgctxt "@action:button New session"
 msgid "New..."
-msgstr "&Mới..."
+msgstr "Mới..."
 
 #. i18n: ectx: property (text), widget (QPushButton, m_pSaveCurrentButton)
 #: src/konqsessiondlg_base.ui:33
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Close Current Tab"
 msgctxt "@action:button Save current session"
 msgid "Save Current..."
-msgstr "Đóng thẻ hiện thời"
+msgstr "Lưu hiện tại..."
 
 #. i18n: ectx: property (text), widget (QPushButton, m_pRenameButton)
 #: src/konqsessiondlg_base.ui:40
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Rename"
 msgctxt "@action:button Rename session"
 msgid "Rename..."
-msgstr "Thay tên"
+msgstr "Đổi tên..."
 
 #. i18n: ectx: property (text), widget (QPushButton, m_pDeleteButton)
 #: src/konqsessiondlg_base.ui:47
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "D&elete"
 msgctxt "@action:button Delete session"
 msgid "Delete"
-msgstr "&Xoá"
+msgstr "Xoá"
 
 #. i18n: ectx: property (text), widget (QCheckBox, m_pOpenTabsInsideCurrentWindow)
 #. i18n: ectx: label, entry, group (Trash)
 #: src/konqsessiondlg_base.ui:73 src/konqueror.kcfg:517
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Open the document in current window"
 msgid "Open tabs inside current window"
-msgstr "Mở tài liệu trong cửa sổ hiện tại"
+msgstr "Mở các tab bên trong cửa sổ hiện tại"
 
 #: src/konqsessionmanager.cpp:97
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "End of session"
 msgctxt "@title:window"
 msgid "Restore Session?"
-msgstr "Kết thúc phiên chạy"
+msgstr "Khôi phục phiên chạy?"
 
 #: src/konqsessionmanager.cpp:118
 #, kde-format
@@ -1657,66 +1690,68 @@ msgid ""
 "Konqueror did not close correctly. Would you like to restore these previous "
 "sessions?"
 msgstr ""
+"Konqueror không đóng đúng cách. Bạn có muốn khôi phục các phiên trước "
+"không?"
 
 #: src/konqsessionmanager.cpp:130
 #, kde-format
 msgctxt "@tooltip:session list"
 msgid "Uncheck the sessions you do not want to be restored"
-msgstr ""
+msgstr "Bỏ chọn các phiên làm việc mà bạn không muốn khôi phục lại"
 
 #: src/konqsessionmanager.cpp:163
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Window"
 msgctxt "@item:treewidget"
 msgid "Window %1"
-msgstr "&Cửa sổ"
+msgstr "Cửa sổ %1"
 
 #: src/konqsessionmanager.cpp:201
 #, kde-format
 msgid "Do not ask again"
-msgstr ""
+msgstr "Không hỏi lại"
 
 #: src/konqsessionmanager.cpp:215
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "End of session"
 msgctxt "@action:button yes"
 msgid "Restore Session"
-msgstr "Kết thúc phiên chạy"
+msgstr "Khôi phục phiên"
 
 #: src/konqsessionmanager.cpp:216
 #, kde-format
 msgctxt "@action:button no"
 msgid "Do Not Restore"
-msgstr ""
+msgstr "Không khôi phục"
 
 #: src/konqsessionmanager.cpp:217
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "As New Folder"
 msgctxt "@action:button ask later"
 msgid "Ask Me Later"
-msgstr "Thành thư mục mới"
+msgstr "Hỏi tôi sau"
 
 #: src/konqstatusbarmessagelabel.cpp:67
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Close View"
 msgctxt "@info"
 msgid "Close"
-msgstr "Đóng xem"
+msgstr "Đóng"
 
 #: src/konqstatusbarmessagelabel.cpp:68
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Close View"
 msgid "Close"
-msgstr "Đóng xem"
+msgstr "Đóng"
 
 #: src/konqstatusbarmessagelabel.cpp:147
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Error "
 msgid "Error: %1"
-msgstr "Lỗi "
+msgstr "Lỗi: %1"
 
 #: src/konqtabs.cpp:51
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "This bar contains the list of currently open tabs. Click on a tab to make "
 #| "it active. The option to show a close button instead of the website icon "
@@ -1732,11 +1767,10 @@ msgid ""
 "tab width."
 msgstr ""
 "Thanh này chứa danh sách của những thẻ đang mở. Nhấn vào một thẻ để đặt nó "
-"làm hiện thời. Có thể cấu hình hiển thị một nút đóng thay cho biểu tượng "
-"trang web ở góc trái của thẻ. Bạn cũng có thể dùng các phím nóng để di "
-"chuyển qua các thẻ. Chữ trên các thẻ là tiêu đề của trang web đang mở trong "
-"nó, đặt con chuột lên thẻ để xem tiêu đề đầy đủ khi nó bị cắt ngắn để tương "
-"ứng với kích thước thẻ."
+"làm hiện thời. Bạn cũng có thể dùng các phím nóng để di chuyển qua các thẻ. "
+"Chữ trên các thẻ là tiêu đề của trang web đang mở trong nó, đặt con chuột "
+"lên thẻ để xem tiêu đề đầy đủ khi nó bị cắt ngắn để tương ứng với kích "
+"thước thẻ."
 
 #: src/konqtabs.cpp:85
 #, kde-format
@@ -1777,17 +1811,17 @@ msgstr "Đó&ng thẻ"
 #: src/konqueror.kcfg:11
 #, kde-format
 msgid "Start Page"
-msgstr ""
+msgstr "Trang khởi động"
 
 #. i18n: ectx: whatsthis, entry, group (UserSettings)
 #: src/konqueror.kcfg:12
 #, kde-format
 msgid "This is the URL of the web page where Konqueror will start from."
-msgstr ""
+msgstr "Đây là URL của trang web mà Konqueror sẽ khởi động từ đó."
 
 #. i18n: ectx: whatsthis, entry, group (UserSettings)
 #: src/konqueror.kcfg:17
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "This is the URL (e.g. a folder or a web page) where Konqueror will jump "
 #| "to when the \"Home\" button is pressed. This is usually your home folder, "
@@ -1795,17 +1829,14 @@ msgstr ""
 msgid ""
 "This is the URL of the web page where Konqueror will jump to when the \\"
 "\"Home\\\" button is pressed."
-msgstr ""
-"Đây là địa chỉ URL (ví dụ một thư mục hay một trang Mạng) mà Konqueror sẽ mở "
-"khi nhấn nút « Nhà ». Đây thường là thư mục cá nhân của bạn, có biểu tượng "
-"là một « dấu sóng » (~)."
+msgstr "Đây là địa chỉ URL của trang web mà Konqueror sẽ mở khi nhấn nút \"Nhà\"."
 
 #. i18n: ectx: label, entry, group (UndoManagerSettings)
 #: src/konqueror.kcfg:26
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Maximum &number of URLs:"
 msgid "Maximum number of Closed Items"
-msgstr "&Số URL lớn nhất:"
+msgstr "Số lượng mục đã đóng tối đa"
 
 #. i18n: ectx: whatsthis, entry, group (UndoManagerSettings)
 #: src/konqueror.kcfg:27
@@ -1814,6 +1845,8 @@ msgid ""
 "This sets the maximum number of closed items that will be stored in memory. "
 "This limit will not be surpassed."
 msgstr ""
+"Điều này thiết lập số lượng tối đa của các mục đã đóng sẽ được lưu trữ "
+"trong bộ nhớ. Giới hạn này sẽ không bị vượt quá."
 
 #. i18n: ectx: label, entry, group (FMSettings)
 #: src/konqueror.kcfg:36
@@ -1871,7 +1904,7 @@ msgstr "Hiển thị mục thực đơn 'Xoá' để xoá thẳng không qua s�
 
 #. i18n: ectx: whatsthis, entry, group (FMSettings)
 #: src/konqueror.kcfg:61
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "Uncheck this if you do not want 'Delete' menu commands to be displayed on "
 #| "the desktop and in the file manager's menus and context menus. You can "
@@ -1882,22 +1915,22 @@ msgid ""
 "and in the file manager's menus and context menus. You can always delete "
 "files when hidden by holding the Shift key while calling 'Move to Trash'."
 msgstr ""
-"Bỏ đánh dấu nếu không muốn hiển thị mục 'Xoá' trong thực đơn khi nhấn chuột "
-"phải. Khi này bạn vẫn có thể xoá tệp bằng cách giữ phím Shift khi chọn "
-"'Chuyển tới sọt rác'."
+"Đánh dấu vào ô này nếu bạn muốn hiển thị lệnh 'Xóa' trong trình đơn trên "
+"desktop và trình quản lý tệp tin. Bạn vẫn có thể xóa tệp tin bằng cách giữ "
+"phím Shift khi chọn 'Chuyển tới Sọt rác'."
 
 #. i18n: ectx: whatsthis, entry, group (FMSettings)
 #: src/konqueror.kcfg:149
 #, kde-format
 msgid "Choose where to display the tabs bar"
-msgstr ""
+msgstr "Chọn nơi để hiển thị thanh tab"
 
 #. i18n: ectx: label, entry, group (FMSettings)
 #. i18n: ectx: whatsthis, entry, group (FMSettings)
 #: src/konqueror.kcfg:153 src/konqueror.kcfg:154
 #, kde-format
 msgid "Number of Open With items in the File menu"
-msgstr ""
+msgstr "Số lượng mục \"Mở bằng\" trong trình đơn Tệp"
 
 #. i18n: ectx: label, entry, group (HTML Settings)
 #: src/konqueror.kcfg:163
@@ -1915,7 +1948,7 @@ msgstr "Đây là phông chữ dùng để hiển thị chữ trong các cửa s
 #: src/konqueror.kcfg:314
 #, kde-format
 msgid "Maximum number of history items per view"
-msgstr ""
+msgstr "Số lượng mục lịch sử tối đa mỗi khung xem"
 
 #. i18n: ectx: label, entry, group (Trash)
 #: src/konqueror.kcfg:504
@@ -1925,7 +1958,7 @@ msgstr "Hỏi lại trước khi xoá một tệp."
 
 #. i18n: ectx: whatsthis, entry, group (Trash)
 #: src/konqueror.kcfg:505
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "This option tells Konqueror whether to ask for a confirmation when you "
 #| "move the file to your trash folder, from where it can be recovered very "
@@ -1935,8 +1968,9 @@ msgid ""
 "delete a file without using the trash folder. Warning, deleted files can not "
 "be recovered, so it is recommended to leave this confirmation enabled."
 msgstr ""
-"Tuỳ chọn này nói Konqueror có hỏi lại hay không khi bạn di chuyển tệp vào "
-"thư mục sọt rác, từ đó có thể phụ hồi tệp rất dễ dàng."
+"Lựa chọn này nói Konqueror có hỏi lại hay không khi bạn xoá tệp mà không sử "
+"dụng thư mục sọt rác. Cảnh báo, các tệp đã xoá không thể phục hồi, vì vậy "
+"khuyến nghị để giữ xác nhận này được bật."
 
 #. i18n: ectx: label, entry, group (Trash)
 #: src/konqueror.kcfg:510
@@ -1961,13 +1995,15 @@ msgid ""
 "If true, when opening a session from within the sessions dialog the tabs "
 "will be opened inside current window."
 msgstr ""
+"Nếu đúng, khi mở một phiên từ bên trong hộp thoại phiên, các tab sẽ được mở "
+"bên trong cửa sổ hiện tại."
 
 #. i18n: ectx: Menu (file)
 #: src/konqueror.rc:5
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Filters"
 msgid "&File"
-msgstr "&Lọc"
+msgstr "Tệ&p"
 
 #. i18n: ectx: Menu (edit)
 #: src/konqueror.rc:24
@@ -1991,7 +2027,7 @@ msgstr "&Go"
 #: src/konqueror.rc:54
 #, kde-format
 msgid "&Tools"
-msgstr ""
+msgstr "Cô&ng cụ"
 
 #. i18n: ectx: Menu (settings)
 #: src/konqueror.rc:59
@@ -2036,22 +2072,22 @@ msgid "Bookmark Toolbar"
 msgstr "Thanh công cụ bookmark"
 
 #: src/konqundomanager.cpp:91 src/konqundomanager.cpp:248
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Close Tab"
 msgid "Und&o: Closed Tab"
-msgstr "Đó&ng thẻ"
+msgstr "H&oàn tác: Đóng thẻ"
 
 #: src/konqundomanager.cpp:93 src/konqundomanager.cpp:104
 #: src/konqundomanager.cpp:148
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Close Tab"
 msgid "Und&o: Closed Window"
-msgstr "Đó&ng thẻ"
+msgstr "H&oàn tác: Đóng cửa sổ"
 
 #: src/konqundomanager.cpp:106
 #, kde-format
 msgid "Und&o"
-msgstr ""
+msgstr "đả&o ngược"
 
 #: src/konqview.cpp:1280
 #, kde-format
@@ -2065,7 +2101,7 @@ msgstr ""
 "trực tuyến) sẽ bị lặp lại. "
 
 #: src/konqview.cpp:1282
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Warning"
 msgctxt "@title:window"
 msgid "Warning"
@@ -2080,13 +2116,13 @@ msgstr "Gửi lại"
 #, kde-format
 msgctxt "Execute an executable file"
 msgid "Execute"
-msgstr ""
+msgstr "Thực thi"
 
 #: src/urlloader.cpp:467
 #, kde-format
 msgctxt "Display an executable file"
 msgid "Display"
-msgstr ""
+msgstr "Hiển thị"
 
 #: src/urlloader.cpp:474
 #, kde-kuit-format
@@ -2097,6 +2133,8 @@ msgid ""
 "<filename>%1</filename> can be executed. Do you want to execute it or to "
 "display it?"
 msgstr ""
+"<filename>%1</filename> có thể được thực thi. Bạn muốn thực thi nó hay hiển "
+"thị nó?"
 
 #: src/urlloader.cpp:480
 #, kde-kuit-format
@@ -2104,12 +2142,14 @@ msgctxt ""
 "@info The user has to decide whether to execute an executable file or not"
 msgid "<filename>%1</filename> can be executed. Do you want to execute it?"
 msgstr ""
+"<filename>%1</filename> có thể được thực thi. Bạn có muốn thực thi nó "
+"không?"
 
 #: src/urlloader.cpp:807
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Set Name..."
 msgid "Save As"
-msgstr "Đặt tên..."
+msgstr "Lưu thành"
 
 #~ msgid "File Management"
 #~ msgstr "Quản lí tệp"

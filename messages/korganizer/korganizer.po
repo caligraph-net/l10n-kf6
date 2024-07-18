@@ -1,0 +1,5863 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the korganizer package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: korganizer\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-30 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: aboutdata.cpp:18 kontactplugin/korganizer/journalplugin.cpp:26
+#: kontactplugin/korganizer/korganizerplugin.cpp:42
+#: kontactplugin/korganizer/todoplugin.cpp:38
+#: kontactplugin/specialdates/specialdates_plugin.cpp:23
+#: korganizer_part.cpp:56
+#, kde-format
+msgid "KOrganizer"
+msgstr "KOrganizer"
+
+#: aboutdata.cpp:20
+#, kde-format
+msgid "A Personal Organizer"
+msgstr "Một Trình Quản Lý Cá Nhân"
+
+#: aboutdata.cpp:22
+#, kde-format
+msgid ""
+"Copyright © 1997–1999 Preston Brown\n"
+"Copyright © 2000–2004, 2007 Cornelius Schumacher\n"
+"Copyright © 2004–2005 Reinhold Kainhofer\n"
+"Copyright © 2006–2012 Allen Winter\n"
+"Copyright © 2012–2024 KOrganizer authors"
+msgstr ""
+"Bản quyền © 1997–1999 Preston Brown\nBản quyền © 2000–2004, 2007 Cornelius "
+"Schumacher\nBản quyền © 2004–2005 Reinhold Kainhofer\nBản quyền © 2006–2012 "
+"Allen Winter\nBản quyền © 2012–2024 các tác giả của KOrganizer"
+
+#: aboutdata.cpp:30 kontactplugin/specialdates/specialdates_plugin.cpp:42
+#, kde-format
+msgctxt "@info:credit"
+msgid "Allen Winter"
+msgstr "Allen Winter"
+
+#: aboutdata.cpp:30
+#, kde-format
+msgid "Maintainer"
+msgstr "Bảo trì viên"
+
+#: aboutdata.cpp:31
+#, kde-format
+msgctxt "@info:credit"
+msgid "Reinhold Kainhofer"
+msgstr "Reinhold Kainhofer"
+
+#: aboutdata.cpp:31 aboutdata.cpp:32
+#, kde-format
+msgid "Former Maintainer"
+msgstr "Cựu bảo trì viên"
+
+#: aboutdata.cpp:32
+#, kde-format
+msgctxt "@info:credit"
+msgid "Cornelius Schumacher"
+msgstr "Cornelius Schumacher"
+
+#: aboutdata.cpp:33
+#, kde-format
+msgctxt "@info:credit"
+msgid "Preston Brown"
+msgstr "Preston Brown"
+
+#: aboutdata.cpp:33
+#, kde-format
+msgid "Original Author"
+msgstr "Tác giả gốc"
+
+#: aboutdata.cpp:34
+#, kde-format
+msgctxt "@info:credit"
+msgid "Laurent Montel"
+msgstr "Laurent Montel"
+
+#: aboutdata.cpp:34
+#, kde-format
+msgid "Developer"
+msgstr "nhà phát triển"
+
+#: aboutdata.cpp:35
+#, kde-format
+msgctxt "@info:credit"
+msgid "Richard Apodaca"
+msgstr "Richard Apodaca"
+
+#: aboutdata.cpp:36
+#, kde-format
+msgctxt "@info:credit"
+msgid "Björn Balazs"
+msgstr "Björn Balazs"
+
+#: aboutdata.cpp:37
+#, kde-format
+msgctxt "@info:credit"
+msgid "Jan-Pascal van Best"
+msgstr "Jan-Pascal van Best"
+
+#: aboutdata.cpp:38
+#, kde-format
+msgctxt "@info:credit"
+msgid "Bertjan Broeksema"
+msgstr "Bertjan Broeksema"
+
+#: aboutdata.cpp:39
+#, kde-format
+msgctxt "@info:credit"
+msgid "Laszlo Boloni"
+msgstr "Laszlo Boloni"
+
+#: aboutdata.cpp:40
+#, kde-format
+msgctxt "@info:credit"
+msgid "Barry Benowitz"
+msgstr "Barry Benowitz"
+
+#: aboutdata.cpp:41
+#, kde-format
+msgctxt "@info:credit"
+msgid "Christopher Beard"
+msgstr "Christopher Beard"
+
+#: aboutdata.cpp:42
+#, kde-format
+msgctxt "@info:credit"
+msgid "Kalle Dalheimer"
+msgstr "Kalle Dalheimer"
+
+#: aboutdata.cpp:43
+#, kde-format
+msgctxt "@info:credit"
+msgid "Ian Dawes"
+msgstr "Ian Dawes"
+
+#: aboutdata.cpp:44
+#, kde-format
+msgctxt "@info:credit"
+msgid "Thomas Eitzenberger"
+msgstr "Thomas Eitzenberger"
+
+#: aboutdata.cpp:45
+#, kde-format
+msgctxt "@info:credit"
+msgid "Neil Hart"
+msgstr "Neil Hart"
+
+#: aboutdata.cpp:46
+#, kde-format
+msgctxt "@info:credit"
+msgid "Declan Houlihan"
+msgstr "Declan Houlihan"
+
+#: aboutdata.cpp:47
+#, kde-format
+msgctxt "@info:credit"
+msgid "Hans-Jürgen Husel"
+msgstr "Hans-Jürgen Husel"
+
+#: aboutdata.cpp:48
+#, kde-format
+msgctxt "@info:credit"
+msgid "Tim Jansen"
+msgstr "Tim Jansen"
+
+#: aboutdata.cpp:49
+#, kde-format
+msgctxt "@info:credit"
+msgid "Christian Kirsch"
+msgstr "Christian Kirsch"
+
+#: aboutdata.cpp:50
+#, kde-format
+msgctxt "@info:credit"
+msgid "Tobias König"
+msgstr "Tobias König"
+
+#: aboutdata.cpp:51
+#, kde-format
+msgctxt "@info:credit"
+msgid "Martin Koller"
+msgstr "Martin Koller"
+
+#: aboutdata.cpp:52
+#, kde-format
+msgctxt "@info:credit"
+msgid "Uwe Koloska"
+msgstr "Uwe Koloska"
+
+#: aboutdata.cpp:53
+#, kde-format
+msgctxt "@info:credit"
+msgid "Sergio Luis Martins"
+msgstr "Sergio Luis Martins"
+
+#: aboutdata.cpp:54
+#, kde-format
+msgctxt "@info:credit"
+msgid "Mike McQuaid"
+msgstr "Mike McQuaid"
+
+#: aboutdata.cpp:55
+#, kde-format
+msgctxt "@info:credit"
+msgid "Glen Parker"
+msgstr "Glen Parker"
+
+#: aboutdata.cpp:56
+#, kde-format
+msgctxt "@info:credit"
+msgid "Dan Pilone"
+msgstr "Dan Pilone"
+
+#: aboutdata.cpp:57
+#, kde-format
+msgctxt "@info:credit"
+msgid "Roman Rohr"
+msgstr "Roman Rohr"
+
+#: aboutdata.cpp:58
+#, kde-format
+msgctxt "@info:credit"
+msgid "Rafał Rzepecki"
+msgstr "Rafał Rzepecki"
+
+#: aboutdata.cpp:58
+#, kde-format
+msgid "Part of work sponsored by Google with Summer of Code 2005"
+msgstr "Một phần công việc được tài trợ bởi Google với Summer of Code 2005"
+
+#: aboutdata.cpp:59
+#, kde-format
+msgctxt "@info:credit"
+msgid "Don Sanders"
+msgstr "Don Sanders"
+
+#: aboutdata.cpp:60
+#, kde-format
+msgctxt "@info:credit"
+msgid "Bram Schoenmakers"
+msgstr "Bram Schoenmakers"
+
+#: aboutdata.cpp:61
+#, kde-format
+msgctxt "@info:credit"
+msgid "Günter Schwann"
+msgstr "Günter Schwann"
+
+#: aboutdata.cpp:62
+#, kde-format
+msgctxt "@info:credit"
+msgid "Herwin Jan Steehouwer"
+msgstr "Herwin Jan Steehouwer"
+
+#: aboutdata.cpp:63
+#, kde-format
+msgctxt "@info:credit"
+msgid "Mario Teijeiro"
+msgstr "Mario Teijeiro"
+
+#: aboutdata.cpp:64
+#, kde-format
+msgctxt "@info:credit"
+msgid "Nick Thompson"
+msgstr "Nick Thompson"
+
+#: aboutdata.cpp:65
+#, kde-format
+msgctxt "@info:credit"
+msgid "Bo Thorsen"
+msgstr "Bo Thorsen"
+
+#: aboutdata.cpp:66
+#, kde-format
+msgctxt "@info:credit"
+msgid "Larry Wright"
+msgstr "Larry Wright"
+
+#: aboutdata.cpp:67
+#, kde-format
+msgctxt "@info:credit"
+msgid "Thomas Zander"
+msgstr "Thomas Zander"
+
+#: aboutdata.cpp:68
+#, kde-format
+msgctxt "@info:credit"
+msgid "Fester Zigterman"
+msgstr "Fester Zigterman"
+
+#: actionmanager.cpp:130
+#, kde-format
+msgid ""
+"<qt>This will hide the menu bar completely. You can show it again by typing "
+"%1.</qt>"
+msgstr ""
+"<qt>Thao tác này sẽ ẩn hoàn toàn thanh trình đơn. Bạn có thể hiển thị lại "
+"nó bằng cách gõ %1.</qt>"
+
+#: actionmanager.cpp:133
+#, kde-format
+msgid "Hide menu bar"
+msgstr "Ẩn thanh trình đơn"
+
+#: actionmanager.cpp:244
+#, kde-format
+msgctxt "@action"
+msgid "Import &Calendar…"
+msgstr "Nhập khẩu &Lịch..."
+
+#: actionmanager.cpp:245
+#, kde-format
+msgctxt "@info:status"
+msgid "Import a calendar"
+msgstr "Nhập khẩu lịch"
+
+#: actionmanager.cpp:246
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Import an iCalendar or vCalendar file"
+msgstr "Nhập khẩu một tệp iCalendar hoặc vCalendar"
+
+#: actionmanager.cpp:248
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Select this menu entry if you would like to import the contents of an "
+"iCalendar or vCalendar file into your current calendar collection."
+msgstr ""
+"Chọn mục này trong trình đơn nếu bạn muốn nhập khẩu nội dung của một tệp "
+"iCalendar hoặc vCalendar vào bộ sưu tập lịch hiện tại của bạn."
+
+#: actionmanager.cpp:254
+#, kde-format
+msgid "Get New Calendars…"
+msgstr "Nhận Lịch Mới..."
+
+#: actionmanager.cpp:255
+#, kde-format
+msgctxt "@info:status"
+msgid "Load a calendar from \"Get Hot New Stuff\""
+msgstr "Tải lịch từ \"Get Hot New Stuff\""
+
+#: actionmanager.cpp:256
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Search \"Get Hot New Stuff\" for calendars to import"
+msgstr "Tìm kiếm \"Get Hot New Stuff\" để nhập khẩu lịch"
+
+#: actionmanager.cpp:258
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"This menu entry opens the \"Get Hot New Stuff\" dialog that allows you to "
+"search and import fun and useful calendars donated to the community."
+msgstr ""
+"Mục này trong trình đơn mở hộp thoại \"Get Hot New Stuff\" cho phép bạn tìm "
+"kiếm và nhập khẩu các lịch lễ hữu ích và thú vị do cộng đồng đóng góp."
+
+#: actionmanager.cpp:279
+#, kde-format
+msgid "Could not load calendar %1."
+msgstr "Không thể tải lịch %1."
+
+#: actionmanager.cpp:289
+#, kde-format
+msgid "The downloaded events will be merged into your current calendar."
+msgstr "Các sự kiện đã tải về sẽ được hợp nhất vào lịch hiện tại của bạn."
+
+#: actionmanager.cpp:306
+#, kde-format
+msgctxt "@action"
+msgid "Export as &iCalendar…"
+msgstr "Xuất khẩu dướ&i dạng iCalendar..."
+
+#: actionmanager.cpp:307
+#, kde-format
+msgctxt "@info:status"
+msgid "Export calendar to file"
+msgstr "Xuất khẩu lịch vào tệp"
+
+#: actionmanager.cpp:308
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Export your calendar to an iCalendar file"
+msgstr "Xuất lịch của bạn ra tệp iCalendar"
+
+#: actionmanager.cpp:309
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Allows you to export your entire calendar collection to one iCalendar file."
+msgstr ""
+"Cho phép bạn xuất khẩu toàn bộ bộ sưu tập lịch của bạn vào một tệp "
+"iCalendar."
+
+#: actionmanager.cpp:315
+#, kde-format
+msgctxt "@action"
+msgid "Archive O&ld Incidences…"
+msgstr "Lưu &Trữ Các Sự Cố Cũ..."
+
+#: actionmanager.cpp:316
+#, kde-format
+msgctxt "@info:status"
+msgid "Archive events and to-dos to a file"
+msgstr "Lưu trữ các sự kiện và công việc cần làm vào một tệp"
+
+#: actionmanager.cpp:317
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Archive old events and to-dos to an iCalendar file"
+msgstr "Lưu trữ các sự kiện và công việc cũ vào một tệp iCalendar"
+
+#: actionmanager.cpp:319
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"This menu entry opens a dialog that allows you to select old events and to-"
+"dos that you can archive into an iCalendar file.  They will be removed from "
+"your existing calendar collection."
+msgstr ""
+"Mục này trong trình đơn mở ra một hộp thoại cho phép bạn bôi đen các sự "
+"kiện và công việc cũ để lưu trữ vào một tệp iCalendar. Chúng sẽ được xóa "
+"khỏi bộ sưu tập lịch hiện tại của bạn."
+
+#: actionmanager.cpp:327
+#, kde-format
+msgctxt "@action"
+msgid "Pur&ge Completed To-dos"
+msgstr "Xóa sạch các côn&g việc đã hoàn thành"
+
+#: actionmanager.cpp:328
+#, kde-format
+msgctxt "@info:status"
+msgid "Purge completed to-dos"
+msgstr "Đã hoàn thành việc xóa các công việc đã hoàn thành"
+
+#: actionmanager.cpp:329
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Remove completed to-dos from your calendar"
+msgstr "Xoá các công việc đã hoàn thành khỏi lịch của bạn"
+
+#: actionmanager.cpp:331
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Allows you to remove all completed to-dos from your calendar collection. "
+"This action cannot be undone!"
+msgstr ""
+"Cho phép bạn xoá tất cả các công việc đã hoàn thành khỏi bộ sưu tập lịch "
+"của bạn. Hành động này không thể hoàn tác!"
+
+#. i18n: ectx: property (text), widget (QPushButton, mDeleteButton)
+#: actionmanager.cpp:368 actionmanager.cpp:623 actionmanager.cpp:1307
+#: actionmanager.cpp:1344 ui/filteredit_base.ui:56
+#, kde-format
+msgid "&Delete"
+msgstr "Xó&a"
+
+#: actionmanager.cpp:385
+#, kde-format
+msgid "What's &Next"
+msgstr "Tiếp the&o"
+
+#: actionmanager.cpp:386
+#, kde-format
+msgctxt "@info:status"
+msgid "What's Next View"
+msgstr "Xem Tiếp"
+
+#: actionmanager.cpp:387
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Switch to the What's Next View"
+msgstr "Chuyển đến Xem Tiếp Theo"
+
+#: actionmanager.cpp:389
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Switches to the \"What's Next\" View, which shows your events and to-dos "
+"that are \"coming soon\" in a short list for quick reading.  All open to-dos "
+"will be displayed, but only the events from the days selected in the Date "
+"Navigator sidebar will be shown."
+msgstr ""
+"Chuyển sang chế độ xem \"Tiếp theo\", hiển thị các sự kiện và công việc cần "
+"làm sắp tới trong một danh sách ngắn để đọc nhanh. Tất cả các công việc "
+"chưa hoàn thành sẽ được hiển thị, nhưng chỉ có các sự kiện từ các ngày được "
+"chọn trong thanh bên Điều hướng Ngày mới được hiển thị."
+
+#: actionmanager.cpp:397
+#, kde-format
+msgid "&Month"
+msgstr "Thán&g"
+
+#: actionmanager.cpp:398
+#, kde-format
+msgctxt "@info:status"
+msgid "Month View"
+msgstr "Xem theo tháng"
+
+#: actionmanager.cpp:399
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Switch to the Month View"
+msgstr "Chuyển sang Xem Tháng"
+
+#: actionmanager.cpp:401
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Switches to the Month View, which shows all the events and due to-dos in a "
+"familiar monthly calendar layout."
+msgstr ""
+"Chuyển sang Chế độ xem Tháng, hiển thị tất cả các sự kiện và công việc cần "
+"làm trong bố cục lịch tháng quen thuộc."
+
+#: actionmanager.cpp:407
+#, kde-format
+msgid "&Agenda"
+msgstr "&Lịch"
+
+#: actionmanager.cpp:408
+#, kde-format
+msgctxt "@info:status"
+msgid "Agenda View"
+msgstr "Khung xem Lịch"
+
+#: actionmanager.cpp:409
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Switch to the Agenda View"
+msgstr "Chuyển sang Khung xem Lịch"
+
+#: actionmanager.cpp:411
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Switches to the Agenda View, which presents your events or due to-dos for "
+"one or more days, sorted chronologically.  You can also see the length of "
+"each event in the day timetable."
+msgstr ""
+"Chuyển sang Chế độ xem Lịch, hiển thị các sự kiện hoặc công việc đến hạn "
+"của bạn trong một hoặc nhiều ngày, được sắp xếp theo thứ tự thời gian. Bạn "
+"cũng có thể xem độ dài của mỗi sự kiện trong lịch thời gian của ngày."
+
+#: actionmanager.cpp:418
+#, kde-format
+msgid "&Event List"
+msgstr "Danh sách sự k&iện"
+
+#: actionmanager.cpp:419
+#, kde-format
+msgctxt "@info:status"
+msgid "List View"
+msgstr "Xem dạng danh sách"
+
+#: actionmanager.cpp:420
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Switch to the List View"
+msgstr "Chuyển sang Chế độ Xem Danh sách"
+
+#: actionmanager.cpp:422
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Switches to the List View, which displays all your to-dos, events and "
+"journal entries for the dates selected in the Date Navigator as a list."
+msgstr ""
+"Chuyển sang Chế độ xem Danh sách, hiển thị tất cả các công việc, sự kiện và "
+"mục nhật ký của bạn cho các ngày được chọn trong Trình điều hướng Ngày dưới "
+"dạng danh sách."
+
+#: actionmanager.cpp:428
+#, kde-format
+msgid "&To-do List"
+msgstr "&Danh sách công việc"
+
+#: actionmanager.cpp:429
+#, kde-format
+msgctxt "@info:status"
+msgid "To-do List View"
+msgstr "Khung xem Danh sách Việc cần làm"
+
+#: actionmanager.cpp:430
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Switch to the To-do List View"
+msgstr "Chuyển sang Xem Danh sách Công việc"
+
+#: actionmanager.cpp:432
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Switches to the To-do List view, which provides a place for you to track "
+"tasks that need to be done."
+msgstr ""
+"Chuyển sang chế độ xem Danh sách công việc, cung cấp một nơi để bạn theo "
+"dõi các công việc cần thực hiện."
+
+#: actionmanager.cpp:438
+#, kde-format
+msgid "&Journal"
+msgstr "N&hật ký"
+
+#: actionmanager.cpp:439
+#, kde-format
+msgctxt "@info:status"
+msgid "Journal View"
+msgstr "Khung xem"
+
+#: actionmanager.cpp:440
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Switch to the Journal View"
+msgstr "Chuyển sang Khung xem Nhật ký"
+
+#: actionmanager.cpp:442
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Switches to the Journal View, which provides a place for you to record your "
+"reflections, occurrences or experiences."
+msgstr ""
+"Chuyển sang Chế độ Nhật ký, nơi bạn có thể ghi lại suy nghĩ, sự kiện hoặc "
+"trải nghiệm của mình."
+
+#: actionmanager.cpp:448
+#, kde-format
+msgid "Time&line"
+msgstr "Dòng &thời gian"
+
+#: actionmanager.cpp:449
+#, kde-format
+msgctxt "@info:status"
+msgid "Timeline View"
+msgstr "Khung xem Dòng thời gian"
+
+#: actionmanager.cpp:450
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Switch to the Timeline View"
+msgstr "Chuyển sang Khung xem Dòng thời gian"
+
+#: actionmanager.cpp:452
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Switches to the Timeline View, which shows all events for the selected "
+"timespan in a Gantt view. Each calendar is displayed in a separate line."
+msgstr ""
+"Chuyển sang Chế độ xem Dòng thời gian, hiển thị tất cả các sự kiện trong "
+"khoảng thời gian đã chọn dưới dạng biểu đồ Gantt. Mỗi lịch được hiển thị "
+"trên một dòng riêng."
+
+#: actionmanager.cpp:461
+#, kde-format
+msgctxt "@action"
+msgid "&Refresh"
+msgstr "&Cập nhật"
+
+#: actionmanager.cpp:462
+#, kde-format
+msgctxt "@info:status"
+msgid "Refresh"
+msgstr "Cập nhật"
+
+#: actionmanager.cpp:463
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Refresh the display"
+msgstr "Làm mới bộ hiển thị"
+
+#: actionmanager.cpp:465
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"This action will refresh and redraw the current calendar view. It does not "
+"sync or update any calendar folders."
+msgstr ""
+"Hành động này sẽ làm mới và vẽ lại chế độ xem lịch hiện tại. Nó không đồng "
+"bộ hóa hoặc cập nhật bất kỳ thư mục lịch nào."
+
+#: actionmanager.cpp:474
+#, kde-format
+msgid "F&ilter"
+msgstr "Bộ &lọc"
+
+#: actionmanager.cpp:475
+#, kde-format
+msgctxt "@info:status"
+msgid "Filter incidences"
+msgstr "Lọc sự kiện"
+
+#: actionmanager.cpp:476
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Filter incidences from the calendar"
+msgstr "Lọc các sự kiện từ lịch"
+
+#: actionmanager.cpp:478
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Runs user-defined view filters on the calendar collection. Filters must be "
+"created first. See \"Manage View Filters\" option in the Settings menu."
+msgstr ""
+"Chạy bộ lọc khung xem do người dùng định nghĩa trên bộ sưu tập lịch. Các bộ "
+"lọc phải được tạo trước. Xem tùy chọn \"Quản lý Bộ lọc Khung xem\" trong "
+"menu Thiết lập."
+
+#: actionmanager.cpp:490
+#, kde-format
+msgid "In Horizontally"
+msgstr "Theo chiều ngang"
+
+#: actionmanager.cpp:495
+#, kde-format
+msgid "Out Horizontally"
+msgstr "Ngang"
+
+#: actionmanager.cpp:500
+#, kde-format
+msgid "In Vertically"
+msgstr "Theo chiều dọc"
+
+#: actionmanager.cpp:505
+#, kde-format
+msgid "Out Vertically"
+msgstr "Sắp xếp theo chiều dọc"
+
+#: actionmanager.cpp:514
+#, kde-format
+msgctxt "@action Jump to today"
+msgid "To &Today"
+msgstr "Đến hô&m nay"
+
+#. i18n: ectx: property (text), widget (QPushButton, mTodayBtn)
+#: actionmanager.cpp:515 views/collectionview/quickview.ui:94
+#, kde-format
+msgid "Today"
+msgstr "Hôm nay"
+
+#: actionmanager.cpp:516
+#, kde-format
+msgctxt "@info:status"
+msgid "Scroll to Today"
+msgstr "Cuộn đến Hôm nay"
+
+#: actionmanager.cpp:517
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Scroll the view to today"
+msgstr "Cuộn xem đến hôm nay"
+
+#: actionmanager.cpp:518
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Scrolls the current view to the today's date."
+msgstr "Cuộn khung xem đến ngày hôm nay."
+
+#: actionmanager.cpp:523
+#, kde-format
+msgctxt "scroll backward"
+msgid "&Backward"
+msgstr "&Lùi"
+
+#: actionmanager.cpp:524
+#, kde-format
+msgctxt "scroll backward"
+msgid "Back"
+msgstr "Lùi"
+
+#: actionmanager.cpp:525
+#, kde-format
+msgctxt "@info:status"
+msgid "Scroll Backward"
+msgstr "Cuộn lùi"
+
+#: actionmanager.cpp:526
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Scroll the view backward"
+msgstr "Cuộn khung xem về phía sau"
+
+#: actionmanager.cpp:528
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Scrolls backward by a day, week, month or year, depending on the current "
+"calendar view."
+msgstr ""
+"Cuộn lùi về một ngày, tuần, tháng hoặc năm, tùy thuộc vào chế độ xem lịch "
+"hiện tại."
+
+#: actionmanager.cpp:534
+#, kde-format
+msgctxt "scroll forward"
+msgid "&Forward"
+msgstr "&Tiến"
+
+#: actionmanager.cpp:535
+#, kde-format
+msgctxt "scroll forward"
+msgid "Forward"
+msgstr "Tiến"
+
+#: actionmanager.cpp:536
+#, kde-format
+msgctxt "@info:status"
+msgid "Scroll Forward"
+msgstr "Cuộn về phía trước"
+
+#: actionmanager.cpp:537
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Scroll the view forward"
+msgstr "Cuộn xem về phía trước"
+
+#: actionmanager.cpp:539
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Scrolls forward by a day, week, month or year, depending on the current "
+"calendar view."
+msgstr ""
+"Cuộn về phía trước một ngày, tuần, tháng hoặc năm, tùy thuộc vào chế độ xem "
+"lịch hiện tại."
+
+#: actionmanager.cpp:544
+#, kde-format
+msgid "&Day"
+msgstr "Ngà&y"
+
+#: actionmanager.cpp:553 actionmanager.cpp:1064
+#, kde-format
+msgid "&Next Day"
+msgid_plural "&Next %1 Days"
+msgstr[0] "Tiếp %1 &Ngày"
+
+#: actionmanager.cpp:555
+#, kde-format
+msgid "W&ork Week"
+msgstr "Tuần là&m việc"
+
+#: actionmanager.cpp:560
+#, kde-format
+msgid "&Week"
+msgstr "Tuầ&n"
+
+#: actionmanager.cpp:567 kodaymatrix.cpp:484
+#, kde-format
+msgid "New E&vent…"
+msgstr "Sự kiệ&n mới..."
+
+#: actionmanager.cpp:568
+#, kde-format
+msgctxt "@info:status"
+msgid "Create a new Event"
+msgstr "Tạo một sự kiện mới"
+
+#: actionmanager.cpp:569
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Create a new Event"
+msgstr "Tạo một sự kiện mới"
+
+#: actionmanager.cpp:571
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Starts a dialog that allows you to create a new Event with reminders, "
+"attendees, recurrences and much more."
+msgstr ""
+"Bắt đầu một hộp thoại cho phép bạn tạo một Sự kiện mới với lời nhắc, người "
+"tham dự, lặp lại và nhiều tính năng khác."
+
+#: actionmanager.cpp:577 kodaymatrix.cpp:485
+#, kde-format
+msgid "New &To-do…"
+msgstr "Côn&g việc mới..."
+
+#: actionmanager.cpp:578
+#, kde-format
+msgctxt "@info:status"
+msgid "Create a new To-do"
+msgstr "Tạo một công việc mới"
+
+#: actionmanager.cpp:579
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Create a new To-do"
+msgstr "Tạo một công việc mới"
+
+#: actionmanager.cpp:581
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Starts a dialog that allows you to create a new To-do with reminders, "
+"attendees, recurrences and much more."
+msgstr ""
+"Bắt đầu một hộp thoại cho phép bạn tạo một công việc cần làm mới với các "
+"lời nhắc, người tham dự, lặp lại và nhiều tính năng khác."
+
+#: actionmanager.cpp:588
+#, kde-format
+msgctxt "@action"
+msgid "New Su&b-to-do…"
+msgstr "Nh&iệm vụ con mới..."
+
+#: actionmanager.cpp:596 kodaymatrix.cpp:486
+#, kde-format
+msgid "New &Journal…"
+msgstr "Nhật ký &mới..."
+
+#: actionmanager.cpp:597
+#, kde-format
+msgctxt "@info:status"
+msgid "Create a new Journal"
+msgstr "Tạo một Nhật ký mới"
+
+#: actionmanager.cpp:598
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Create a new Journal"
+msgstr "Tạo một Nhật ký mới"
+
+#: actionmanager.cpp:599
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Starts a dialog that allows you to create a new Journal entry."
+msgstr "Bắt đầu một hộp thoại cho phép bạn tạo một mục nhập mới trong Nhật ký."
+
+#: actionmanager.cpp:604
+#, kde-format
+msgid "Configure View…"
+msgstr "Cấu hình Xem..."
+
+#: actionmanager.cpp:605
+#, kde-format
+msgid "Configure"
+msgstr "Cấu hình"
+
+#: actionmanager.cpp:606
+#, kde-format
+msgctxt "@info:status"
+msgid "Configure the view"
+msgstr "Cấu hình khung xem"
+
+#: actionmanager.cpp:607
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Configure the current view"
+msgstr "Cấu hình khung xem hiện tại"
+
+#: actionmanager.cpp:609
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Starts a configuration dialog that allows you to change the settings for the "
+"current calendar view."
+msgstr ""
+"Bắt đầu một hộp thoại cấu hình cho phép bạn thay đổi các thiết lập cho chế "
+"độ xem lịch hiện tại."
+
+#: actionmanager.cpp:615 actionmanager.cpp:1301 actionmanager.cpp:1342
+#, kde-format
+msgid "&Show"
+msgstr "H&iện"
+
+#: actionmanager.cpp:619 actionmanager.cpp:1304 actionmanager.cpp:1343
+#, kde-format
+msgid "&Edit…"
+msgstr "Chỉ&nh sửa..."
+
+#: actionmanager.cpp:628
+#, kde-format
+msgctxt "@action"
+msgid "&Make Sub-to-do Independent"
+msgstr "Làm &cho Công việc phụ trở nên độc lập"
+
+#. i18n( "&Activate Reminder" ), 0,
+#. mCalendarView, SLOT(toggleAlarm()),
+#. mACollection, "activate_alarm" );
+#. ************************* SCHEDULE MENU *******************************
+#: actionmanager.cpp:640
+#, kde-format
+msgid "&Publish Item Information…"
+msgstr "Xuấ&t bản Thông tin Mục..."
+
+#: actionmanager.cpp:647
+#, kde-format
+msgid "Send &Invitation to Attendees"
+msgstr "Gửi lời mời đến n&hững người tham dự"
+
+#: actionmanager.cpp:655
+#, kde-format
+msgctxt "@action"
+msgid "Re&quest Update"
+msgstr "Yêu &cầu cập nhật"
+
+#: actionmanager.cpp:663
+#, kde-format
+msgctxt "@action"
+msgid "Send &Cancellation to Attendees"
+msgstr "Gửi thông báo hủy &cho người tham dự"
+
+#: actionmanager.cpp:671
+#, kde-format
+msgid "Send Status &Update"
+msgstr "&Gửi cập nhật trạng thái"
+
+#: actionmanager.cpp:679
+#, kde-format
+msgctxt "counter proposal"
+msgid "Request Chan&ge"
+msgstr "Yêu cầu th&ay đổi"
+
+#: actionmanager.cpp:687
+#, kde-format
+msgctxt "@action"
+msgid "&Mail Free Busy Information…"
+msgstr "Thông tin Bận/Rảnh của &Mail..."
+
+#: actionmanager.cpp:692
+#, kde-format
+msgid "&Send as iCalendar…"
+msgstr "Gửi &dưới dạng iCalendar..."
+
+#: actionmanager.cpp:699
+#, kde-format
+msgctxt "@action"
+msgid "&Upload Free Busy Information"
+msgstr "Tải lên thông tin Bận/&Rảnh"
+
+#: actionmanager.cpp:705
+#, kde-format
+msgid "&Address Book"
+msgstr "Sổ đị&a chỉ"
+
+#: actionmanager.cpp:713
+#, kde-format
+msgid "Show Date Navigator"
+msgstr "Hiển thị Trình điều hướng ngày"
+
+#: actionmanager.cpp:717
+#, kde-format
+msgid "Show To-do View"
+msgstr "Hiển thị Khung Xem Công Việc"
+
+#: actionmanager.cpp:721
+#, kde-format
+msgid "Show Item Viewer"
+msgstr "Hiển thị Trình xem Mục"
+
+#: actionmanager.cpp:737
+#, kde-format
+msgid "Show Calendar Manager"
+msgstr "Hiển thị Trình quản lý lịch"
+
+#: actionmanager.cpp:750
+#, kde-format
+msgctxt "@action"
+msgid "Configure &Date && Time…"
+msgstr "Cấu hình Ngà&y & Giờ..."
+
+#: actionmanager.cpp:754
+#, kde-format
+msgid "Manage View &Filters…"
+msgstr "Quản lý &bộ lọc xem..."
+
+#: actionmanager.cpp:758
+#, kde-format
+msgctxt "@action"
+msgid "Manage T&ags…"
+msgstr "Quản lý &thẻ..."
+
+#: actionmanager.cpp:766
+#, kde-format
+msgid "&Configure KOrganizer…"
+msgstr "&Cấu hình KOrganizer..."
+
+#: actionmanager.cpp:844
+#, kde-format
+msgid "1 incidence was imported successfully."
+msgid_plural "%1 incidences were imported successfully."
+msgstr[0] "%1 sự kiện đã được nhập thành công."
+
+#: actionmanager.cpp:847
+#, kde-format
+msgid "There was an error while merging the calendar: %1"
+msgstr "Đã xảy ra lỗi khi hợp nhất lịch: %1"
+
+#: actionmanager.cpp:858
+#, kde-format
+msgid "New calendar added successfully"
+msgstr "Đã thêm lịch mới thành công"
+
+#: actionmanager.cpp:860
+#, kde-format
+msgid "Could not add a calendar. Error: %1"
+msgstr "Không thể thêm lịch. Lỗi: %1"
+
+#: actionmanager.cpp:917
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Calendar File to Open"
+msgstr "Chọn Tệp Lịch để Mở"
+
+#: actionmanager.cpp:945
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Calendar File to Import"
+msgstr "Chọn Tệp Lịch để Nhập Khẩu"
+
+#: actionmanager.cpp:976
+#, kde-format
+msgid "An error occurred: %1"
+msgstr "Đã xảy ra lỗi: %1"
+
+#: actionmanager.cpp:994
+#, kde-format
+msgid "Cannot upload calendar to '%1'"
+msgstr "Không thể tải lịch lên '%1'"
+
+#: actionmanager.cpp:1000
+#, kde-format
+msgid "Saved calendar '%1'."
+msgstr "Đã lưu lịch '%1'."
+
+#: actionmanager.cpp:1038
+#, kde-format
+msgid "Unable to save calendar to the file %1."
+msgstr "Không thể lưu lịch vào tệp %1."
+
+#: actionmanager.cpp:1038
+#, kde-format
+msgctxt "@title:window"
+msgid "Error"
+msgstr "Lỗi"
+
+#: actionmanager.cpp:1083
+#, kde-format
+msgid "Could not start control module for date and time format."
+msgstr "Không thể khởi động khối điều khiển cho định dạng ngày và giờ."
+
+#: actionmanager.cpp:1262
+#, kde-format
+msgid "&Show Event"
+msgstr "H&iện sự kiện"
+
+#: actionmanager.cpp:1265
+#, kde-format
+msgid "&Edit Event…"
+msgstr "&Sửa Sự kiện..."
+
+#: actionmanager.cpp:1268
+#, kde-format
+msgid "&Delete Event"
+msgstr "Xóa &sự kiện"
+
+#: actionmanager.cpp:1276
+#, kde-format
+msgid "&Show To-do"
+msgstr "Hiện Công việc cần &làm"
+
+#: actionmanager.cpp:1279 kontactplugin/korganizer/todosummarywidget.cpp:321
+#, kde-format
+msgid "&Edit To-do…"
+msgstr "Sửa Cô&ng việc..."
+
+#: actionmanager.cpp:1282 kontactplugin/korganizer/todosummarywidget.cpp:323
+#, kde-format
+msgid "&Delete To-do"
+msgstr "Xóa Công việ&c"
+
+#: actionmanager.cpp:1420 actionmanager.cpp:1526
+#, kde-format
+msgid "Attach as &link"
+msgstr "Đính kèm như &liên kết"
+
+#: actionmanager.cpp:1421 actionmanager.cpp:1527
+#, kde-format
+msgid "Attach &inline"
+msgstr "Đính kèm nộ&i tuyến"
+
+#: actionmanager.cpp:1422
+#, kde-format
+msgid "Attach inline &without attachments"
+msgstr "Đín&h kèm nội tuyến không có tệp đính kèm"
+
+#: actionmanager.cpp:1424 actionmanager.cpp:1529
+#, kde-format
+msgid "C&ancel"
+msgstr "H&uỷ"
+
+#: actionmanager.cpp:1462
+#, kde-format
+msgid "Removing attachments from an email might invalidate its signature."
+msgstr ""
+"Việc loại bỏ các tệp đính kèm khỏi một email có thể làm mất hiệu lực chữ ký "
+"của nó."
+
+#: actionmanager.cpp:1463
+#, kde-format
+msgctxt "@title:window"
+msgid "Remove Attachments"
+msgstr "Xoá Tệp Đính Kèm"
+
+#: actionmanager.cpp:1614
+#, kde-format
+msgid "Undo: %1"
+msgstr "Hoàn tác: %1"
+
+#: actionmanager.cpp:1617 actionmanager.cpp:1633
+#, kde-format
+msgid "Undo"
+msgstr "đảo ngược"
+
+#: actionmanager.cpp:1627
+#, kde-format
+msgid "Redo: %1"
+msgstr "Làm lại: %1"
+
+#: actionmanager.cpp:1630
+#, kde-format
+msgid "Redo"
+msgstr "làm lại"
+
+#: actionmanager.cpp:1644
+#, kde-format
+msgid "URL '%1' is invalid."
+msgstr "URL '%1' không hợp lệ."
+
+#: actionmanager.cpp:1649
+#, kde-format
+msgctxt "@info"
+msgid ""
+"<p>Would you like to merge this calendar item into an existing calendar or "
+"use it to create a brand new calendar?</p><p>If you select merge, then you "
+"will be given the opportunity to select the destination calendar.</p><p>If "
+"you select add, then a new calendar will be created for you automatically.</"
+"p>"
+msgstr ""
+"<p>Bạn có muốn trộn mục lịch này vào một lịch hiện có hoặc sử dụng nó để "
+"tạo một lịch hoàn toàn mới không?</p><p>Nếu bạn chọn trộn, bạn sẽ có cơ hội "
+"chọn lịch đích.</p><p>Nếu bạn chọn thêm, một lịch mới sẽ được tạo tự động "
+"cho bạn.</p>"
+
+#: actionmanager.cpp:1657
+#, kde-format
+msgctxt "@title:window"
+msgid "Import Calendar"
+msgstr "Nhập khẩu Lịch"
+
+#: actionmanager.cpp:1658
+#, kde-format
+msgctxt "@action:button"
+msgid "Merge into existing calendar"
+msgstr "Trộn vào lịch hiện có"
+
+#: actionmanager.cpp:1659
+#, kde-format
+msgctxt "@action:button"
+msgid "Add as new calendar"
+msgstr "Thêm như lịch mới"
+
+#: akonadicollectionview.cpp:285
+#, kde-format
+msgctxt "@item this is the default calendar"
+msgid "%1 (Offline)"
+msgstr "%1 (Ngoại tuyến)"
+
+#: akonadicollectionview.cpp:288
+#, kde-format
+msgctxt "@item this is the default calendar"
+msgid "%1 (Default)"
+msgstr "%1 (Mặc định)"
+
+#: akonadicollectionview.cpp:405
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Set search keyword"
+msgstr "Đặt từ khóa tìm kiếm"
+
+#: akonadicollectionview.cpp:406
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Lets you search for a keyword in your calendars"
+msgstr "Cho phép bạn tìm kiếm một từ khóa trong lịch của bạn"
+
+#: akonadicollectionview.cpp:411
+#, kde-format
+msgctxt "@info/plain Displayed grayed-out inside the textbox, verb to search"
+msgid "Search…"
+msgstr "Tìm kiếm..."
+
+#: akonadicollectionview.cpp:495 manageshowcollectionproperties.cpp:76
+#, kde-format
+msgctxt "@title:window"
+msgid "Properties of Calendar Folder %1"
+msgstr "Thuộc tính của Thư mục Lịch %1"
+
+#: akonadicollectionview.cpp:507
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Set Folder Color…"
+msgstr "Đặt &Màu Thư Mục..."
+
+#: akonadicollectionview.cpp:513
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Set as &Default Folder"
+msgstr "Đặt là&m Thư mục Mặc định"
+
+#: akonadicollectionview.cpp:518
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Serverside Subscription…"
+msgstr "Đăng ký phía máy chủ..."
+
+#: akonadicollectionview.cpp:563
+#, kde-format
+msgctxt "@info"
+msgid "Do you really want replace your current default calendar with \"%1\"?"
+msgstr ""
+"Bạn có thực sự muốn thay thế lịch mặc định hiện tại của bạn bằng \"%1\" "
+"không?"
+
+#: akonadicollectionview.cpp:564
+#, kde-format
+msgctxt "@title:window"
+msgid "Replace Default Calendar?"
+msgstr "Thay thế Lịch mặc định?"
+
+#: akonadicollectionview.cpp:701
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Calendar"
+msgstr "Thêm Lịch"
+
+#: akonadicollectionview.cpp:743
+#, kde-format
+msgctxt "@info"
+msgid "Do you really want to delete calendar %1?"
+msgstr "Bạn có thực sự muốn xóa lịch %1?"
+
+#: akonadicollectionview.cpp:744
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete Calendar"
+msgstr "Xóa Lịch"
+
+#: calendarview.cpp:249
+#, kde-format
+msgid ""
+"<p><em>No Item Selected</em></p><p>Select an event, to-do or journal entry "
+"to view its details here.</p>"
+msgstr ""
+"<p><em>Không có mục nào được chọn</em></p><p>Chọn một sự kiện, công việc "
+"cần làm hoặc mục nhật ký để xem chi tiết tại đây.</p>"
+
+#: calendarview.cpp:255
+#, kde-format
+msgid ""
+"View the details of events, journal entries or to-dos selected in "
+"KOrganizer's main view here."
+msgstr ""
+"Xem chi tiết các sự kiện, mục nhật ký hoặc công việc cần làm được chọn "
+"trong khung xem chính của KOrganizer."
+
+#: calendarview.cpp:664
+#, kde-format
+msgid "Todo completed: %1 (%2)"
+msgstr "Công việc đã hoàn thành: %1 (%2)"
+
+#: calendarview.cpp:673
+#, kde-format
+msgid "Journal of %1"
+msgstr "Nhật ký của %1"
+
+#: calendarview.cpp:722
+#, kde-format
+msgid ""
+"The item \"%1\" is filtered by your current filter rules, so it will be "
+"hidden and not appear in the view."
+msgstr ""
+"Mục \"%1\" đã bị lọc bởi các quy tắc lọc hiện tại của bạn, vì vậy nó sẽ bị "
+"ẩn và không hiện trong chế độ xem."
+
+#: calendarview.cpp:791
+#, kde-format
+msgctxt "@info"
+msgid "Do you really want to permanently remove the item \"%1\"?"
+msgstr "Bạn có thực sự muốn xoá vĩnh viễn mục \"%1\" không?"
+
+#: calendarview.cpp:792
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete Item?"
+msgstr "Xóa mục?"
+
+#: calendarview.cpp:867
+#, kde-format
+msgid "Paste failed: unable to determine a valid target date."
+msgstr "Dán thất bại: không thể xác định ngày mục tiêu hợp lệ."
+
+#: calendarview.cpp:1297
+#, kde-format
+msgid "Make sub-to-dos independent"
+msgstr "Làm các công việc phụ độc lập"
+
+#: calendarview.cpp:1354
+#, kde-format
+msgid "Toggle Reminder"
+msgstr "Bật/Tắt Nhắc nhở"
+
+#: calendarview.cpp:1386 calendarview.cpp:1438
+#, kde-format
+msgid "Toggle To-do Completed"
+msgstr "Chuyển đổi Công việc Hoàn thành"
+
+#: calendarview.cpp:1490
+#, kde-format
+msgctxt "@info"
+msgid "\"%1\" was successfully copied to %2."
+msgstr "\"%1\" đã được sao chép thành công đến %2."
+
+#: calendarview.cpp:1491
+#, kde-format
+msgctxt "@title:window"
+msgid "Copying Succeeded"
+msgstr "Sao chép thành công"
+
+#: calendarview.cpp:1495
+#, kde-format
+msgctxt "@info"
+msgid "Unable to copy the item \"%1\" to %2."
+msgstr "Không thể sao chép mục \"%1\" đến %2."
+
+#: calendarview.cpp:1496 calendarview.cpp:2488
+#, kde-format
+msgctxt "@title:window"
+msgid "Copying Failed"
+msgstr "Sao chép thất bại"
+
+#: calendarview.cpp:1555
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Unable to remove the item \"%1\" from the original calendar. However, a copy "
+"of this item has been put into %2"
+msgstr ""
+"Không thể xoá mục \"%1\" khỏi lịch gốc. Tuy nhiên, một bản sao của mục này "
+"đã được đặt vào %2"
+
+#: calendarview.cpp:1559 calendarview.cpp:1575 calendarview.cpp:2523
+#, kde-format
+msgctxt "@title:window"
+msgid "Moving Failed"
+msgstr "Di chuyển thất bại"
+
+#: calendarview.cpp:1564
+#, kde-format
+msgctxt "@info"
+msgid "\"%1\" was successfully moved from %2 to %3."
+msgstr "\"%1\" đã được di chuyển thành công từ %2 đến %3."
+
+#: calendarview.cpp:1565
+#, kde-format
+msgctxt "@title:window"
+msgid "Moving Succeeded"
+msgstr "Di chuyển thành công"
+
+#: calendarview.cpp:1571
+#, kde-format
+msgctxt "@info"
+msgid "Unable to add the item \"%1\" into %2. This item has not been moved."
+msgstr "Không thể thêm mục \"%1\" vào %2. Mục này chưa được di chuyển."
+
+#: calendarview.cpp:1609
+#, kde-format
+msgid "Do you want to dissociate the occurrence on %1 from the recurrence?"
+msgstr "Bạn có muốn ngắt liên kết sự kiện vào %1 khỏi chuỗi lặp lại không?"
+
+#: calendarview.cpp:1613 calendarview.cpp:1625 calendarview.cpp:2293
+#, kde-format
+msgctxt "@title:window"
+msgid "KOrganizer Confirmation"
+msgstr "Xác nhận KOrganizer"
+
+#: calendarview.cpp:1614
+#, kde-format
+msgctxt "@action:button"
+msgid "&Dissociate"
+msgstr "Ngắ&t liên kết"
+
+#: calendarview.cpp:1620
+#, kde-format
+msgid ""
+"Do you want to dissociate the occurrence on %1 from the recurrence or also "
+"dissociate future ones?"
+msgstr ""
+"Bạn có muốn ngắt liên kết sự kiện vào %1 khỏi chuỗi lặp lại hay cũng ngắt "
+"liên kết các sự kiện trong tương lai?"
+
+#: calendarview.cpp:1626
+#, kde-format
+msgctxt "@action:button"
+msgid "&Only Dissociate This One"
+msgstr "Chỉ Ngắt L&iên Kết Cái Này"
+
+#: calendarview.cpp:1627
+#, kde-format
+msgctxt "@action:button"
+msgid "&Also Dissociate Future Ones"
+msgstr "Cũng Ngắt Liên Kết Cá&c Mục Tương Lai"
+
+#: calendarview.cpp:1645
+#, kde-format
+msgid "Dissociate future occurrences"
+msgstr "Ngắt liên kết các sự kiện trong tương lai"
+
+#: calendarview.cpp:1647
+#, kde-format
+msgid "Dissociate occurrence"
+msgstr "Ngắt liên kết sự kiện"
+
+#: calendarview.cpp:1654
+#, kde-format
+msgid "Dissociating the future occurrences failed."
+msgstr "Không thể ngắt liên kết các sự kiện sắp tới."
+
+#: calendarview.cpp:1654 calendarview.cpp:1656
+#, kde-format
+msgctxt "@title:window"
+msgid "Dissociating Failed"
+msgstr "Không thể tách rời"
+
+#: calendarview.cpp:1656
+#, kde-format
+msgid "Dissociating the occurrence failed."
+msgstr "Không thể tách sự kiện."
+
+#: calendarview.cpp:1818
+#, kde-format
+msgid "iCalendars (*.ics)"
+msgstr "iCalendars (*.ics)"
+
+#: calendarview.cpp:1827
+#, kde-format
+msgid "Do you want to overwrite %1?"
+msgstr "Bạn có muốn ghi đè %1 không?"
+
+#: calendarview.cpp:1828
+#, kde-format
+msgctxt "@title:window"
+msgid "Export Calendar"
+msgstr "Xuất khẩu Lịch"
+
+#: calendarview.cpp:1842
+#, kde-format
+msgctxt "save failure cause unknown"
+msgid "Reason unknown"
+msgstr "Lý do không rõ"
+
+#: calendarview.cpp:1844
+#, kde-format
+msgctxt "@info"
+msgid "Cannot write iCalendar file %1. %2"
+msgstr "Không thể ghi tệp iCalendar %1. %2"
+
+#: calendarview.cpp:1945 calendarview.cpp:1990
+#, kde-format
+msgid "No filter"
+msgstr "Không có bộ lọc"
+
+#: calendarview.cpp:2288
+#, kde-format
+msgid ""
+"The item \"%1\" has sub-to-dos. Do you want to delete just this item and "
+"make all its sub-to-dos independent, or delete the to-do with all its sub-to-"
+"dos?"
+msgstr ""
+"Mục \"%1\" có các công việc con. Bạn có muốn xóa chỉ mục này và làm cho tất "
+"cả các công việc con của nó trở nên độc lập, hay xóa công việc này cùng với "
+"tất cả các công việc con của nó?"
+
+#: calendarview.cpp:2294
+#, kde-format
+msgctxt "@action:button"
+msgid "Delete Only This"
+msgstr "Chỉ xóa cái này"
+
+#: calendarview.cpp:2295 calendarview.cpp:2353
+#, kde-format
+msgctxt "@action:button"
+msgid "Delete All"
+msgstr "Xóa Tất Cả"
+
+#: calendarview.cpp:2326
+#, kde-format
+msgid ""
+"The item \"%1\" is marked read-only and cannot be deleted; it probably "
+"belongs to a read-only calendar."
+msgstr ""
+"Mục \"%1\" được đánh dấu là chỉ đọc và không thể xóa; nó có thể thuộc về "
+"một lịch chỉ đọc."
+
+#: calendarview.cpp:2330
+#, kde-format
+msgid "Removing not possible"
+msgstr "Không thể xóa"
+
+#: calendarview.cpp:2348
+#, kde-format
+msgid ""
+"The calendar item \"%1\" recurs over multiple dates; are you sure you want "
+"to delete it and all its recurrences?"
+msgstr ""
+"Mục lịch \"%1\" lặp lại nhiều ngày; bạn có chắc muốn xóa nó và tất cả các "
+"lần lặp lại không?"
+
+#: calendarview.cpp:2352 calendarview.cpp:2382
+#, kde-format
+msgid "KOrganizer Confirmation"
+msgstr "Xác nhận KOrganizer"
+
+#: calendarview.cpp:2360
+#, kde-format
+msgid "Also Delete &Future"
+msgstr "&Cũng xóa tương lai"
+
+#: calendarview.cpp:2364
+#, kde-format
+msgid ""
+"The calendar item \"%1\" recurs over multiple dates. Do you want to delete "
+"only the current one on %2, also future occurrences, or all its occurrences?"
+msgstr ""
+"Mục lịch \"%1\" lặp lại trên nhiều ngày. Bạn có muốn xóa chỉ mục hiện tại "
+"vào %2, cả các lần xuất hiện trong tương lai, hay tất cả các lần xuất hiện?"
+
+#: calendarview.cpp:2371
+#, kde-format
+msgid ""
+"The calendar item \"%1\" recurs over multiple dates. Do you want to delete "
+"only the current one on %2 or all its occurrences?"
+msgstr ""
+"Mục lịch \"%1\" lặp lại trên nhiều ngày. Bạn có muốn xóa chỉ mục hiện tại "
+"vào %2 hay tất cả các lần xuất hiện của nó?"
+
+#: calendarview.cpp:2383
+#, kde-format
+msgid "Delete C&urrent"
+msgstr "Xóa h&iện tại"
+
+#: calendarview.cpp:2385
+#, kde-format
+msgid "Delete &All"
+msgstr "&Xóa Tất Cả"
+
+#: calendarview.cpp:2416 calendarview.cpp:2423
+#, kde-format
+msgid "Delete \"%1\""
+msgstr "Xóa \"%1\""
+
+#: calendarview.cpp:2453
+#, kde-format
+msgid ""
+"All calendars are unchecked in the Calendar Manager. No to-do was purged."
+msgstr ""
+"Tất cả các lịch đều không được chọn trong Trình quản lý lịch. Không có công "
+"việc nào bị xóa."
+
+#: calendarview.cpp:2458 calendarview.cpp:2741
+#, kde-format
+msgid "There are no completed to-dos to purge."
+msgstr "Không có công việc hoàn thành nào để xóa."
+
+#: calendarview.cpp:2463
+#, kde-format
+msgid "Delete all completed to-dos from checked calendars?"
+msgstr "Xóa tất cả các công việc đã hoàn thành từ các lịch đã được chọn?"
+
+#: calendarview.cpp:2464
+#, kde-format
+msgctxt "@title:window"
+msgid "Purge To-dos"
+msgstr "Xóa Công việc cần làm"
+
+#: calendarview.cpp:2465
+#, kde-format
+msgctxt "@action:button"
+msgid "Purge"
+msgstr "Dọn sạch"
+
+#: calendarview.cpp:2476
+#, kde-format
+msgctxt "@info"
+msgid "Unable to edit \"%1\" because it is locked by another process."
+msgstr "Không thể chỉnh sửa \"%1\" vì nó đang bị khóa bởi một tiến trình khác."
+
+#: calendarview.cpp:2488
+#, kde-format
+msgid "Unable to copy the item to %1."
+msgstr "Không thể sao chép mục này sang %1."
+
+#: calendarview.cpp:2523
+#, kde-format
+msgid "Unable to move the item to  %1."
+msgstr "Không thể di chuyển mục này đến %1."
+
+#: calendarview.cpp:2734
+#, kde-format
+msgid "0 completed to-dos were purged."
+msgstr "0 công việc đã hoàn thành đã được xóa."
+
+#: calendarview.cpp:2735 calendarview.cpp:2745
+#, kde-format
+msgid "%1 to-do was ignored because it has uncompleted or read-only children."
+msgid_plural ""
+"%1 to-dos were ignored because they have uncompleted or read-only children."
+msgstr[0] "%1 công việc đã bị bỏ qua vì chúng có con chưa hoàn thành hoặc chỉ đọc."
+
+#: calendarview.cpp:2739 calendarview.cpp:2744
+#, kde-format
+msgid "%1 completed to-do was purged."
+msgid_plural "%1 completed to-dos were purged."
+msgstr[0] "%1 nhiệm vụ đã hoàn thành đã được xóa."
+
+#: calendarview.cpp:2750
+#, kde-format
+msgid "An error occurred while purging completed to-dos: %1"
+msgstr "Đã xảy ra lỗi khi xóa các công việc đã hoàn thành: %1"
+
+#: calendarview.cpp:2804
+#, kde-format
+msgid ""
+"You created an incidence in a calendar that is currently filtered out.\n"
+"On the left sidebar, enable it in the calendar manager to see the incidence."
+msgstr ""
+"Bạn đã tạo một sự kiện trong lịch hiện đang được lọc ra.\nTrong thanh bên "
+"trái, hãy bật nó trong trình quản lý lịch để xem sự kiện."
+
+#: calendarview.cpp:2808
+#, kde-format
+msgid ""
+"You created an incidence in a calendar that is currently filtered out.\n"
+"You can enable it through the calendar manager (Settings->Sidebar->Show "
+"Calendar Manager)"
+msgstr ""
+"Bạn đã tạo một sự kiện trong lịch hiện đang được lọc ra.\nBạn có thể bật nó "
+"thông qua trình quản lý lịch (Cài đặt->Thanh bên->Hiện Trình quản lý lịch)"
+
+#: collectiongeneralpage.cpp:37
+#, kde-format
+msgctxt "@title:tab General settings for a folder."
+msgid "General"
+msgstr "chung"
+
+#: collectiongeneralpage.cpp:45
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Set the folder name"
+msgstr "Đặt tên thư mục"
+
+#: collectiongeneralpage.cpp:46
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Enter a name here to set the name of this folder."
+msgstr "Nhập tên ở đây để đặt tên cho thư mục này."
+
+#: collectiongeneralpage.cpp:47
+#, kde-format
+msgctxt "@label:textbox Name of the folder."
+msgid "&Name:"
+msgstr "Tê&n:"
+
+#: collectiongeneralpage.cpp:50
+#, kde-format
+msgctxt "@option:check"
+msgid "Block reminders locally"
+msgstr "Ngưng trệ nhắc nhở tại máy cục bộ"
+
+#: collectiongeneralpage.cpp:51
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Ignore reminders from this calendar"
+msgstr "Bỏ qua lời nhắc từ lịch này"
+
+#: collectiongeneralpage.cpp:53
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Check this box if you do not want to receive reminders from items associated "
+"with this calendar."
+msgstr ""
+"Chọn hộp này nếu bạn không muốn nhận thông báo nhắc nhở từ các mục liên kết "
+"với lịch này."
+
+#: collectiongeneralpage.cpp:58
+#, kde-format
+msgctxt "@option:check"
+msgid "&Use custom icon:"
+msgstr "Sử dụ&ng biểu tượng tùy chỉnh:"
+
+#: collectiongeneralpage.cpp:59
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Set a custom icon"
+msgstr "Đặt biểu tượng tùy chỉnh"
+
+#: collectiongeneralpage.cpp:60
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Check this box if you want to set a custom icon for this folder."
+msgstr "Chọn hộp kiểm này nếu bạn muốn đặt biểu tượng tùy chỉnh cho thư mục này."
+
+#. i18n: ectx: Menu (file)
+#: data/korganizer_part.rc:4 data/korganizerui.rc:4
+#, kde-format
+msgid "&File"
+msgstr "&Tệp"
+
+#. i18n: ectx: Menu (import)
+#: data/korganizer_part.rc:11 data/korganizerui.rc:5
+#, kde-format
+msgid "&Import"
+msgstr "N&hập khẩu"
+
+#. i18n: ectx: Menu (export)
+#: data/korganizer_part.rc:18 data/korganizerui.rc:12
+#, kde-format
+msgid "&Export"
+msgstr "x&uất khẩu"
+
+#. i18n: ectx: Menu (edit)
+#: data/korganizer_part.rc:30 data/korganizerui.rc:23
+#, kde-format
+msgid "&Edit"
+msgstr "Sử&a"
+
+#. i18n: ectx: Menu (view)
+#: data/korganizer_part.rc:42 data/korganizerui.rc:28
+#, kde-format
+msgid "&View"
+msgstr "Xe&m"
+
+#. i18n: ectx: Menu (zoom)
+#: data/korganizer_part.rc:58 data/korganizerui.rc:44
+#, kde-format
+msgid "&Zoom"
+msgstr "thu phón&g"
+
+#. i18n: ectx: Menu (go)
+#: data/korganizer_part.rc:66 data/korganizerui.rc:52
+#, kde-format
+msgid "&Go"
+msgstr "Đ&i"
+
+#. i18n: ectx: Menu (actions)
+#: data/korganizer_part.rc:78 data/korganizerui.rc:65
+#, kde-format
+msgid "&Actions"
+msgstr "Hàn&h động"
+
+#. i18n: ectx: Menu (schedule)
+#: data/korganizer_part.rc:93 data/korganizerui.rc:81
+#, kde-format
+msgid "S&chedule"
+msgstr "Lị&ch"
+
+#. i18n: ectx: Menu (settings)
+#: data/korganizer_part.rc:105 data/korganizerui.rc:93
+#, kde-format
+msgid "&Settings"
+msgstr "T&hiết lập"
+
+#. i18n: ectx: Menu (sidebar)
+#: data/korganizer_part.rc:106 data/korganizerui.rc:95
+#, kde-format
+msgid "&Sidebar"
+msgstr "tha&nh bên"
+
+#. i18n: ectx: Menu (help)
+#: data/korganizer_part.rc:124 data/korganizerui.rc:109
+#, kde-format
+msgid "&Help"
+msgstr "&trợ giúp"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: data/korganizer_part.rc:129 data/korganizerui.rc:114
+#, kde-format
+msgctxt "main toolbar"
+msgid "Main"
+msgstr "Chính"
+
+#. i18n: ectx: ToolBar (korganizer_toolbar)
+#: data/korganizer_part.rc:144 data/korganizerui.rc:129
+#, kde-format
+msgid "Views"
+msgstr "Chế độ xem"
+
+#. i18n: ectx: ToolBar (schedule_toolbar)
+#: data/korganizer_part.rc:154 data/korganizerui.rc:139
+#, kde-format
+msgid "Schedule"
+msgstr "Lịch trình"
+
+#. i18n: ectx: ToolBar (filter_toolbar)
+#: data/korganizer_part.rc:160 data/korganizerui.rc:146
+#, kde-format
+msgid "Filters Toolbar"
+msgstr "Thanh công cụ bộ lọc"
+
+#: datenavigatorcontainer.cpp:28
+#, kde-format
+msgid ""
+"<qt><p>Select the dates you want to display in KOrganizer's main view here. "
+"Hold the mouse button to select more than one day.</p><p>Press the top "
+"buttons to browse to the next / previous months or years.</p><p>Each line "
+"shows a week. The number in the left column is the number of the week in the "
+"year. Press it to select the whole week.</p></qt>"
+msgstr ""
+"<qt><p>Chọn các ngày bạn muốn hiển thị trong khung xem chính của KOrganizer "
+"tại đây. Giữ nút chuột để chọn nhiều ngày.</p><p>Nhấn các nút phía trên để "
+"duyệt đến các tháng hoặc năm tiếp theo / trước đó.</p><p>Mỗi dòng hiển thị "
+"một tuần. Số ở cột bên trái là số thứ tự của tuần trong năm. Nhấn vào nó để "
+"chọn cả tuần.</p></qt>"
+
+#: dialog/filtereditdialog.cpp:31
+#, kde-format
+msgctxt "@title::window"
+msgid "Edit Calendar Filters"
+msgstr "Sửa Bộ Lọc Lịch"
+
+#: dialog/filtereditdialog.cpp:87
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Press this button to define a new filter."
+msgstr "Nhấn nút này để định nghĩa một bộ lọc mới."
+
+#: dialog/filtereditdialog.cpp:88
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Press this button to remove the currently active filter."
+msgstr "Nhấn nút này để xoá bỏ bộ lọc đang hoạt động."
+
+#: dialog/filtereditdialog.cpp:219
+#, kde-format
+msgctxt "@label default filter name"
+msgid "New Filter %1"
+msgstr "Bộ lọc mới %1"
+
+#: dialog/filtereditdialog.cpp:242
+#, kde-format
+msgctxt "@info"
+msgid "Do you really want to permanently remove the filter \"%1\"?"
+msgstr "Bạn có thực sự muốn xoá vĩnh viễn bộ lọc \"%1\" không?"
+
+#: dialog/filtereditdialog.cpp:243
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete Filter?"
+msgstr "Xóa bộ lọc?"
+
+#: dialog/koeventviewerdialog.cpp:32
+#, kde-format
+msgctxt "@title:window"
+msgid "Event Viewer"
+msgstr "Trình xem sự kiện"
+
+#: dialog/koeventviewerdialog.cpp:40
+#, kde-format
+msgctxt "@action:button"
+msgid "Edit…"
+msgstr "Chỉnh sửa..."
+
+#: dialog/koeventviewerdialog.cpp:41
+#, kde-format
+msgctxt "@action:button"
+msgid "Show in Context"
+msgstr "Hiển thị trong Ngữ cảnh"
+
+#: dialog/searchdialog.cpp:40
+#, kde-format
+msgctxt "@title:window"
+msgid "Find in Calendars"
+msgstr "Tìm trong Lịch"
+
+#: dialog/searchdialog.cpp:73
+#, kde-format
+msgctxt "@action:button search in calendar"
+msgid "&Search"
+msgstr "&Tìm kiếm"
+
+#: dialog/searchdialog.cpp:75
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Start the search"
+msgstr "Bắt đầu tìm kiếm"
+
+#: dialog/searchdialog.cpp:76
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Press this button to start the search."
+msgstr "Nhấn nút này để khởi động tìm kiếm."
+
+#: dialog/searchdialog.cpp:145
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Invalid search expression, cannot perform the search. Please enter a search "
+"expression using the wildcard characters '*' and '?' where needed."
+msgstr ""
+"Biểu thức tìm kiếm không hợp lệ, không thể thực hiện tìm kiếm. Vui lòng "
+"nhập biểu thức tìm kiếm sử dụng các ký tự đại diện '*' và '?' khi cần "
+"thiết."
+
+#: dialog/searchdialog.cpp:157
+#, kde-format
+msgctxt "@info"
+msgid "No items were found that match your search pattern."
+msgstr "Không tìm thấy mục nào phù hợp với mẫu tìm kiếm của bạn."
+
+#: dialog/searchdialog.cpp:158
+#, kde-format
+msgctxt "@title:window"
+msgid "Search Results"
+msgstr "Kết quả tìm kiếm"
+
+#: dialog/searchdialog.cpp:173
+#, kde-format
+msgctxt "@label"
+msgid "%1 match"
+msgid_plural "%1 matches"
+msgstr[0] "%1 kết quả"
+
+#: koapp.cpp:63
+#, kde-format
+msgid "Failed to retrieve incidence from Akonadi"
+msgstr "Không thể lấy sự kiện từ Akonadi"
+
+#: koapp.cpp:68
+#, kde-format
+msgid ""
+"Failed to retrieve incidence from Akonadi: requested incidence doesn't exist."
+msgstr "Không thể lấy sự kiện từ Akonadi: sự kiện được yêu cầu không tồn tại."
+
+#: kocorehelper.cpp:30
+#, kde-format
+msgctxt "@item:intext delimiter for joining holiday names"
+msgid ","
+msgstr ","
+
+#: kodaymatrix.cpp:226
+#, kde-format
+msgctxt "delimiter for joining holiday names"
+msgid ","
+msgstr ","
+
+#: kodaymatrix.cpp:630
+#, kde-format
+msgid "&Move"
+msgstr "Di ch&uyển"
+
+#: kodaymatrix.cpp:632
+#, kde-format
+msgid "&Copy"
+msgstr "&Sao chép"
+
+#: kodaymatrix.cpp:635
+#, kde-format
+msgid "&Add"
+msgstr "Thê&m"
+
+#: kodaymatrix.cpp:639
+#, kde-format
+msgid "&Cancel"
+msgstr "&huỷ"
+
+#: koeventpopupmenu.cpp:43
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Show"
+msgstr "Hiệ&n"
+
+#: koeventpopupmenu.cpp:45
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Edit…"
+msgstr "&Chỉnh sửa..."
+
+#: koeventpopupmenu.cpp:47
+#, kde-format
+msgctxt "@action:inmenu delete this incidence"
+msgid "&Delete"
+msgstr "&Xóa"
+
+#: koeventpopupmenu.cpp:51
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Print…"
+msgstr "I&n..."
+
+#: koeventpopupmenu.cpp:53
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Print Previe&w…"
+msgstr "Xem t&rước khi in..."
+
+#: koeventpopupmenu.cpp:74
+#, kde-format
+msgctxt "@action:inmenu cut this incidence"
+msgid "C&ut"
+msgstr "Cắ&t"
+
+#: koeventpopupmenu.cpp:76
+#, kde-format
+msgctxt "@action:inmenu copy this incidence"
+msgid "&Copy"
+msgstr "Sao ché&p"
+
+#: koeventpopupmenu.cpp:77
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Paste"
+msgstr "&Dán"
+
+#: koeventpopupmenu.cpp:85
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Create To-do from Event"
+msgstr "Tạo Công việc từ Sự kiện"
+
+#: koeventpopupmenu.cpp:89
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Create Note for Event"
+msgstr "Tạo Ghi chú cho Sự kiện"
+
+#: koeventpopupmenu.cpp:100
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Togg&le To-do Completed"
+msgstr "Chuyển đổi Hoàn thành Công việ&c"
+
+#: koeventpopupmenu.cpp:105
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Create Event from To-do"
+msgstr "Tạo sự kiện từ Công việc cần làm"
+
+#: koeventpopupmenu.cpp:111
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Create Note for To-do"
+msgstr "Tạo Lưu ý cho Việc cần làm"
+
+#: koeventpopupmenu.cpp:122
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Toggle Reminder"
+msgstr "Bật/&Tắt Nhắc nhở"
+
+#: koeventpopupmenu.cpp:129
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Dissociate From Recurrence…"
+msgstr "Ngắt &liên kết khỏi lặp lại..."
+
+#: koeventpopupmenu.cpp:137
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Send as iCalendar…"
+msgstr "Gửi dưới dạng iCalendar..."
+
+#: koeventpopupmenu.cpp:187
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Toggle Reminder Off"
+msgstr "&Tắt Lời Nhắc"
+
+#: koeventpopupmenu.cpp:188
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Toggle Reminder On"
+msgstr "Bật/&Tắt Lời nhắc"
+
+#: kohelper.cpp:52
+#, kde-format
+msgid "Unable to save %1 \"%2\"."
+msgstr "Không thể lưu %1 \"%2\"."
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, ApptSummaryConfig_Base)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:8
+#, kde-format
+msgid "Event Summary Configuration"
+msgstr "Cấu hình Tóm tắt Sự kiện"
+
+#. i18n: ectx: property (title), widget (QGroupBox, mDaysButtonGroup)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:14
+#, kde-format
+msgid "Show Upcoming Events Starting"
+msgstr "Hiển thị các sự kiện sắp tới bắt đầu từ"
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, mDateTodayButton)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:20
+#, kde-format
+msgid "Show events for today only"
+msgstr "Chỉ hiển thị sự kiện cho hôm nay"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, mDateTodayButton)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:23
+#, kde-format
+msgid "Check this box if you want to see events occurring on this date only."
+msgstr "Chọn hộp này nếu bạn muốn chỉ xem các sự kiện diễn ra vào ngày này."
+
+#. i18n: ectx: property (text), widget (QRadioButton, mDateTodayButton)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:26
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:34
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:34
+#, kde-format
+msgid "&Today only"
+msgstr "Chỉ hô&m nay"
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, mDateMonthButton)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:36
+#, kde-format
+msgid "Show events starting within the next month"
+msgstr "Hiển thị các sự kiện bắt đầu trong vòng một tháng tới"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, mDateMonthButton)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:39
+#, kde-format
+msgid ""
+"Check this box if you want to see events that start sometime during the next "
+"31 days."
+msgstr ""
+"Đánh dấu vào ô này nếu bạn muốn xem các sự kiện bắt đầu vào bất kỳ lúc nào "
+"trong 31 ngày tiếp theo."
+
+#. i18n: ectx: property (text), widget (QRadioButton, mDateMonthButton)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:42
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:50
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:50
+#, kde-format
+msgid "Within the next &month (31 days)"
+msgstr "Trong vòng 31 ngày tớ&i"
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, mDateRangeButton)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:57
+#, kde-format
+msgid "Select the days for showing upcoming events"
+msgstr "Chọn các ngày để hiển thị các sự kiện sắp tới"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, mDateRangeButton)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:60
+#, kde-format
+msgid ""
+"Check this box if you want to specify the number of days in the future for "
+"upcoming events."
+msgstr ""
+"Chọn hộp này nếu bạn muốn chỉ định số ngày trong tương lai cho các sự kiện "
+"sắp tới."
+
+#. i18n: ectx: property (text), widget (QRadioButton, mDateRangeButton)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:63
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:74
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:71
+#, kde-format
+msgid "Within the &next:"
+msgstr "Tro&ng vòng:"
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, mCustomDays)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:76
+#, kde-format
+msgid "Set the number of days to show upcoming events"
+msgstr "Đặt số ngày để hiển thị các sự kiện sắp tới"
+
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, mCustomDays)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:79
+#, kde-format
+msgid ""
+"Use this spinbox to set the number of days to show upcoming events up to 1 "
+"year in the future."
+msgstr ""
+"Sử dụng hộp số này để đặt số ngày hiển thị các sự kiện sắp tới lên đến 1 "
+"năm trong tương lai."
+
+#. i18n: ectx: property (specialValueText), widget (QSpinBox, mCustomDays)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:82
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:93
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:90
+#, kde-format
+msgid "1 day"
+msgstr "1 ngày"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, mCustomDays)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:85
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:96
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:93
+#, kde-format
+msgctxt "days to show in summary"
+msgid " days"
+msgstr "ngày"
+
+#. i18n: ectx: property (title), widget (QGroupBox, mShowButtonGroup)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:122
+#, kde-format
+msgid "Show These Upcoming Events From Your Calendar"
+msgstr "Hiển thị các sự kiện sắp tới này từ lịch của bạn"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mShowBirthdaysFromCal)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:128
+#, kde-format
+msgid "Show birthdays from your calendar when also using the Birthday resource"
+msgstr "Hiển thị sinh nhật từ lịch của bạn khi cũng sử dụng tài nguyên Sinh nhật"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mShowBirthdaysFromCal)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:131
+#, kde-format
+msgid ""
+"Enable this option to include birthdays from your calendar in the upcoming "
+"events summary. This option is only available if you are using the Birthdays "
+"resource in your calendar."
+msgstr ""
+"Bật tùy chọn này để bao gồm các ngày sinh nhật từ lịch của bạn trong tóm "
+"tắt các sự kiện sắp tới. Tùy chọn này chỉ khả dụng nếu bạn đang sử dụng tài "
+"nguyên Ngày sinh nhật trong lịch của bạn."
+
+#. i18n: ectx: property (text), widget (QCheckBox, mShowBirthdaysFromCal)
+#. i18n: ectx: property (text), widget (QCheckBox, mShowBirthdaysFromCalBox)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:134
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:142
+#, kde-format
+msgid "Show &birthdays"
+msgstr "Hiển t&hị ngày sinh"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mShowAnniversariesFromCal)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:141
+#, kde-format
+msgid ""
+"Shows anniversaries from your calendar when using the Birthdays resource"
+msgstr "Hiển thị các kỷ niệm từ lịch của bạn khi sử dụng tài nguyên Sinh nhật"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mShowAnniversariesFromCal)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:144
+#, kde-format
+msgid ""
+"Enable this option to include anniversaries from your calendar in the "
+"upcoming events summary. This option is only available if you are using the "
+"Birthdays resource in your calendar."
+msgstr ""
+"Bật tùy chọn này để bao gồm các kỷ niệm từ lịch của bạn trong tóm tắt sự "
+"kiện sắp tới. Tùy chọn này chỉ khả dụng nếu bạn đang sử dụng tài nguyên "
+"Sinh nhật trong lịch của bạn."
+
+#. i18n: ectx: property (text), widget (QCheckBox, mShowAnniversariesFromCal)
+#. i18n: ectx: property (text), widget (QCheckBox, mShowAnniversariesFromCalBox)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:147
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:158
+#, kde-format
+msgid "Show &anniversaries"
+msgstr "Hiển &thị kỷ niệm"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. i18n: ectx: property (title), widget (QGroupBox, mGroupwareGroup)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:157
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:216
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:244
+#, kde-format
+msgid "Groupware Settings"
+msgstr "Thiết lập Groupware"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mShowMineOnly)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:163
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:250
+#, kde-format
+msgid "Show events belonging to my calendars only"
+msgstr "Chỉ hiển thị các sự kiện thuộc lịch của tôi"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mShowMineOnly)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:166
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:253
+#, kde-format
+msgid ""
+"Check this box if you want the summary to show events belonging to your "
+"calendars only."
+msgstr ""
+"Chọn hộp này nếu bạn muốn bản tóm tắt chỉ hiển thị các sự kiện thuộc lịch "
+"của bạn."
+
+#. i18n: ectx: property (text), widget (QCheckBox, mShowMineOnly)
+#: kontactplugin/korganizer/apptsummaryconfig_base.ui:169
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:256
+#, kde-format
+msgid "Show &my events only"
+msgstr "Chỉ hiển thị &các sự kiện của tôi"
+
+#: kontactplugin/korganizer/apptsummarywidget.cpp:46
+#, kde-format
+msgid "Upcoming Events"
+msgstr "Sự kiện sắp tới"
+
+#: kontactplugin/korganizer/apptsummarywidget.cpp:207
+#, kde-format
+msgid "No upcoming events starting within the next day"
+msgid_plural "No upcoming events starting within the next %1 days"
+msgstr[0] "Không có sự kiện sắp tới bắt đầu trong vòng %1 ngày tới"
+
+#: kontactplugin/korganizer/apptsummarywidget.cpp:240
+#, kde-format
+msgid "&Edit Appointment…"
+msgstr "&Sửa Cuộc hẹn..."
+
+#: kontactplugin/korganizer/apptsummarywidget.cpp:242
+#, kde-format
+msgid "&Delete Appointment"
+msgstr "Xóa &cuộc hẹn"
+
+#: kontactplugin/korganizer/apptsummarywidget.cpp:261
+#, kde-format
+msgid "Edit Event: \"%1\""
+msgstr "Sửa Sự kiện: \"%1\""
+
+#: kontactplugin/korganizer/journalplugin.cpp:28
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "New Journal…"
+msgstr "Nhật ký mới..."
+
+#: kontactplugin/korganizer/journalplugin.cpp:31
+#, kde-format
+msgctxt "@info:status"
+msgid "Create a new journal"
+msgstr "Tạo một nhật ký mới"
+
+#: kontactplugin/korganizer/journalplugin.cpp:36
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"You will be presented with a dialog where you can create a new journal entry."
+msgstr "Bạn sẽ được hiển thị một hộp thoại nơi bạn có thể tạo một mục nhật ký mới."
+
+#: kontactplugin/korganizer/kcmapptsummary.cpp:71
+#: kontactplugin/korganizer/kcmtodosummary.cpp:63
+#: kontactplugin/specialdates/kcmsdsummary.cpp:64
+#, kde-format
+msgid " day"
+msgid_plural " days"
+msgstr[0] "ngày"
+
+#: kontactplugin/korganizer/korganizerplugin.cpp:44
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "New Event…"
+msgstr "Sự kiện mới..."
+
+#: kontactplugin/korganizer/korganizerplugin.cpp:47
+#, kde-format
+msgctxt "@info:status"
+msgid "Create a new event"
+msgstr "Tạo một sự kiện mới"
+
+#: kontactplugin/korganizer/korganizerplugin.cpp:51
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"You will be presented with a dialog where you can create a new event item."
+msgstr "Bạn sẽ được hiển thị một hộp thoại nơi bạn có thể tạo một mục sự kiện mới."
+
+#: kontactplugin/korganizer/korganizerplugin.cpp:146
+#: kontactplugin/korganizer/todoplugin.cpp:145
+#, kde-format
+msgctxt "@item"
+msgid "Meeting"
+msgstr "Cuộc họp"
+
+#: kontactplugin/korganizer/korganizerplugin.cpp:160
+#: kontactplugin/korganizer/todoplugin.cpp:159
+#, kde-format
+msgctxt "@item"
+msgid "Note: %1"
+msgstr "Ghi chú: %1"
+
+#: kontactplugin/korganizer/korganizerplugin.cpp:189
+#: kontactplugin/korganizer/todoplugin.cpp:188
+#, kde-format
+msgctxt "Event from email summary"
+msgid "Mail: %1"
+msgstr "Thư: %1"
+
+#: kontactplugin/korganizer/korganizerplugin.cpp:191
+#: kontactplugin/korganizer/todoplugin.cpp:190
+#, kde-format
+msgctxt "Event from email content"
+msgid "<b>From:</b> %1<br /><b>To:</b> %2<br /><b>Subject:</b> %3"
+msgstr "<b>Từ:</b> %1<br /><b>Đến:</b> %2<br /><b>Chủ đề:</b> %3"
+
+#: kontactplugin/korganizer/summaryeventinfo.cpp:136
+#, kde-format
+msgctxt "the appointment is today"
+msgid "Today"
+msgstr "Hôm nay"
+
+#: kontactplugin/korganizer/summaryeventinfo.cpp:139
+#, kde-format
+msgctxt "the appointment is tomorrow"
+msgid "Tomorrow"
+msgstr "Ngày mai"
+
+#: kontactplugin/korganizer/summaryeventinfo.cpp:171
+#: kontactplugin/korganizer/todosummarywidget.cpp:214
+#: kontactplugin/specialdates/sdsummarywidget.cpp:487
+#, kde-format
+msgid "in 1 day"
+msgid_plural "in %1 days"
+msgstr[0] "trong %1 ngày"
+
+#: kontactplugin/korganizer/summaryeventinfo.cpp:184
+#, kde-format
+msgctxt "eg. in 1 hour 2 minutes"
+msgid "in "
+msgstr "trong "
+
+#: kontactplugin/korganizer/summaryeventinfo.cpp:187
+#, kde-format
+msgctxt "use abbreviation for hour to keep the text short"
+msgid "1 hr"
+msgid_plural "%1 hrs"
+msgstr[0] "%1 giờ"
+
+#: kontactplugin/korganizer/summaryeventinfo.cpp:193
+#, kde-format
+msgctxt "use abbreviation for minute to keep the text short"
+msgid "1 min"
+msgid_plural "%1 mins"
+msgstr[0] "%1 phút"
+
+#: kontactplugin/korganizer/summaryeventinfo.cpp:200
+#: kontactplugin/specialdates/sdsummarywidget.cpp:485
+#, kde-format
+msgid "now"
+msgstr "hiện tại"
+
+#: kontactplugin/korganizer/summaryeventinfo.cpp:203
+#, kde-format
+msgid "all day"
+msgstr "cả ngày"
+
+#: kontactplugin/korganizer/summaryeventinfo.cpp:243
+#, kde-format
+msgctxt "Time from - to"
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+#: kontactplugin/korganizer/summaryeventinfo.cpp:259
+#, kde-format
+msgctxt "next occurrence"
+msgid "Next: %1"
+msgstr "Tiếp theo: %1"
+
+#: kontactplugin/korganizer/todoplugin.cpp:40
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "New To-do…"
+msgstr "Công việc mới..."
+
+#: kontactplugin/korganizer/todoplugin.cpp:43
+#, kde-format
+msgctxt "@info:status"
+msgid "Create a new to-do"
+msgstr "Tạo một công việc mới"
+
+#: kontactplugin/korganizer/todoplugin.cpp:47
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"You will be presented with a dialog where you can create a new to-do item."
+msgstr ""
+"Bạn sẽ được hiển thị một hộp thoại nơi bạn có thể tạo một mục công việc "
+"mới."
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, TodoSummaryConfig_Base)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:16
+#, kde-format
+msgid "To-do Summary Configuration"
+msgstr "Cấu hình Tóm tắt Công việc"
+
+#. i18n: ectx: property (title), widget (QGroupBox, mDaysGroup)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:22
+#, kde-format
+msgid "Show To-dos Due"
+msgstr "Hiển thị Công việc đến hạn"
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, mDateTodayButton)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:28
+#, kde-format
+msgid "Show To-dos due today only"
+msgstr "Chỉ hiển thị công việc cần làm hôm nay"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, mDateTodayButton)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:31
+#, kde-format
+msgid "Check this box if you want to see To-dos due on this date only."
+msgstr ""
+"Chọn hộp này nếu bạn muốn chỉ xem các công việc cần làm đến hạn vào ngày "
+"này."
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, mDateMonthButton)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:44
+#, kde-format
+msgid "Show To-dos due within the next month"
+msgstr "Hiển thị các công việc cần làm trong tháng tới"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, mDateMonthButton)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:47
+#, kde-format
+msgid ""
+"Check this box if you want to see To-dos that are due sometime during the "
+"next 31 days."
+msgstr ""
+"Chọn hộp này nếu bạn muốn xem Công việc cần làm đến hạn trong vòng 31 ngày "
+"tới."
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, mDateRangeButton)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:65
+#, kde-format
+msgid "Select the days for showing pending To-dos"
+msgstr "Chọn các ngày để hiển thị các công việc chưa hoàn thành"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, mDateRangeButton)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:71
+#, kde-format
+msgid ""
+"Check this box if you want specify the number of days in the future for "
+"pending To-dos."
+msgstr ""
+"Chọn hộp này nếu bạn muốn chỉ định số ngày trong tương lai cho các công "
+"việc chưa hoàn thành."
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, mCustomDays)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:87
+#, kde-format
+msgid "Set the number of days to show pending To-dos"
+msgstr "Đặt số ngày để hiển thị các công việc chưa hoàn thành"
+
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, mCustomDays)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:90
+#, kde-format
+msgid ""
+"Use this spinbox to set the number of days to show pending To-dos up to 1 "
+"year in the future."
+msgstr ""
+"Sử dụng hộp số này để đặt số ngày hiển thị các công việc chưa hoàn thành "
+"trong tương lai lên đến 1 năm."
+
+#. i18n: ectx: property (title), widget (QGroupBox, mHideGroup)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:133
+#, kde-format
+msgid "Hide Following To-do Types"
+msgstr "Ẩn các loại Công việc sau"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mHideCompletedBox)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:139
+#, kde-format
+msgid "Hide completed To-dos"
+msgstr "Ẩn các công việc đã hoàn thành"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mHideCompletedBox)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:142
+#, kde-format
+msgid ""
+"Check this box if you do not want to see To-dos that have already been "
+"completed."
+msgstr "Đánh dấu vào ô này nếu bạn không muốn xem các công việc đã hoàn thành."
+
+#. i18n: ectx: property (text), widget (QCheckBox, mHideCompletedBox)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:145
+#, kde-format
+msgid "&Completed"
+msgstr "Đã hoà&n thành"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mHideOpenEndedBox)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:155
+#, kde-format
+msgid "Hide To-dos without a due date"
+msgstr "Ẩn các công việc cần làm không có ngày hạn"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mHideOpenEndedBox)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:158
+#, kde-format
+msgid "Check this box if you do not want to see open-ended To-dos."
+msgstr "Đánh dấu vào ô này nếu bạn không muốn xem các công việc chưa hoàn thành."
+
+#. i18n: ectx: property (text), widget (QCheckBox, mHideOpenEndedBox)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:161
+#, kde-format
+msgid "&Open-ended (no due date)"
+msgstr "Không hạn định (không &có ngày hết hạn)"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mHideUnstartedBox)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:171
+#, kde-format
+msgid "Hide unstarted To-dos"
+msgstr "Ẩn các công việc chưa bắt đầu"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mHideUnstartedBox)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:174
+#, kde-format
+msgid ""
+"Check this box if you do not want to see To-dos with a start date in the "
+"future."
+msgstr ""
+"Đánh dấu vào ô này nếu bạn không muốn xem Công việc cần làm có ngày bắt đầu "
+"trong tương lai."
+
+#. i18n: ectx: property (text), widget (QCheckBox, mHideUnstartedBox)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:177
+#, kde-format
+msgid "&Unstarted (start date is in the future)"
+msgstr "Chưa bắt đầ&u (ngày bắt đầu ở trong tương lai)"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mHideInProgressBox)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:184
+#, kde-format
+msgid "Hide in-progress To-dos"
+msgstr "Ẩn các công việc đang thực hiện"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mHideInProgressBox)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:187
+#, kde-format
+msgid ""
+"Check this box if you do not want to see To-dos that have been started but "
+"are not yet completed."
+msgstr ""
+"Đánh dấu vào ô này nếu bạn không muốn xem các công việc cần làm đã được bắt "
+"đầu nhưng chưa hoàn thành."
+
+#. i18n: ectx: property (text), widget (QCheckBox, mHideInProgressBox)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:190
+#, kde-format
+msgid "&In-progress (started but not completed)"
+msgstr "Đa&ng thực hiện (đã bắt đầu nhưng chưa hoàn thành)"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mHideOverdueBox)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:197
+#, kde-format
+msgid "Hide overdue To-dos"
+msgstr "Ẩn các công việc quá hạn"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mHideOverdueBox)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:203
+#, kde-format
+msgid ""
+"Check this box if you do not want to see To-dos that are past their due date "
+"but have not yet been completed."
+msgstr ""
+"Đánh dấu vào ô này nếu bạn không muốn xem các công việc cần làm đã quá hạn "
+"nhưng chưa được hoàn thành."
+
+#. i18n: ectx: property (text), widget (QCheckBox, mHideOverdueBox)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:206
+#, kde-format
+msgid "Over&due (not completed and beyond due-date)"
+msgstr "Quá hạn (&chưa hoàn thành và quá ngày đến hạn)"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mShowMineOnly)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:222
+#, kde-format
+msgid "Show To-dos belonging to my calendars only"
+msgstr "Chỉ hiển thị công việc cần làm thuộc lịch của tôi"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mShowMineOnly)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:225
+#, kde-format
+msgid ""
+"Check this box if you want the summary to show To-dos belonging to your "
+"calendars only."
+msgstr ""
+"Chọn hộp này nếu bạn muốn tóm tắt chỉ hiển thị các công việc cần làm thuộc "
+"lịch của bạn."
+
+#. i18n: ectx: property (text), widget (QCheckBox, mShowMineOnly)
+#: kontactplugin/korganizer/todosummaryconfig_base.ui:228
+#, kde-format
+msgid "Show &my To-dos only"
+msgstr "Chỉ hiển &thị công việc của tôi"
+
+#: kontactplugin/korganizer/todosummarywidget.cpp:42
+#, kde-format
+msgid "Pending To-dos"
+msgstr "Công việc chưa hoàn thành"
+
+#: kontactplugin/korganizer/todosummarywidget.cpp:180
+#, kde-format
+msgctxt "the to-do is due today"
+msgid "Today"
+msgstr "Hôm nay"
+
+#: kontactplugin/korganizer/todosummarywidget.cpp:182
+#, kde-format
+msgctxt "the to-do is due tomorrow"
+msgid "Tomorrow"
+msgstr "Ngày mai"
+
+#: kontactplugin/korganizer/todosummarywidget.cpp:188
+#, kde-format
+msgctxt "1. weekday, 2. time"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: kontactplugin/korganizer/todosummarywidget.cpp:216
+#, kde-format
+msgid "1 day ago"
+msgid_plural "%1 days ago"
+msgstr[0] "%1 ngày trước"
+
+#: kontactplugin/korganizer/todosummarywidget.cpp:218
+#, kde-format
+msgctxt "the to-do is due"
+msgid "due"
+msgstr "đến hạn"
+
+#: kontactplugin/korganizer/todosummarywidget.cpp:271
+#, kde-format
+msgid "No pending to-dos due within the next day"
+msgid_plural "No pending to-dos due within the next %1 days"
+msgstr[0] "Không có công việc chưa hoàn thành đến hạn trong vòng %1 ngày tới"
+
+#: kontactplugin/korganizer/todosummarywidget.cpp:329
+#, kde-format
+msgid "&Mark To-do Completed"
+msgstr "Đánh dấu côn&g việc đã hoàn thành"
+
+#: kontactplugin/korganizer/todosummarywidget.cpp:349
+#, kde-format
+msgid "Edit To-do: \"%1\""
+msgstr "Sửa Công việc: \"%1\""
+
+#: kontactplugin/korganizer/todosummarywidget.cpp:369
+#, kde-format
+msgid "open-ended"
+msgstr "không giới hạn"
+
+#: kontactplugin/korganizer/todosummarywidget.cpp:371
+#, kde-format
+msgctxt "the to-do is overdue"
+msgid "overdue"
+msgstr "quá hạn"
+
+#: kontactplugin/korganizer/todosummarywidget.cpp:373
+#, kde-format
+msgctxt "the to-do starts today"
+msgid "starts today"
+msgstr "bắt đầu hôm nay"
+
+#: kontactplugin/korganizer/todosummarywidget.cpp:377
+#, kde-format
+msgctxt "the to-do has not been started yet"
+msgid "not-started"
+msgstr "chưa bắt đầu"
+
+#: kontactplugin/korganizer/todosummarywidget.cpp:379
+#, kde-format
+msgctxt "the to-do is completed"
+msgid "completed"
+msgstr "đã hoàn thành"
+
+#: kontactplugin/korganizer/todosummarywidget.cpp:381
+#, kde-format
+msgctxt "the to-do is in-progress"
+msgid "in-progress "
+msgstr "đang tiến hành"
+
+#: kontactplugin/korganizer/todosummarywidget.cpp:386
+#, kde-format
+msgctxt "Separator for status like this: overdue, completed"
+msgid ","
+msgstr ","
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, SDSummaryConfig_Base)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:16
+#, kde-format
+msgid "Special Dates Summary Configuration"
+msgstr "Cấu hình Tóm tắt Ngày Đặc biệt"
+
+#. i18n: ectx: property (title), widget (QGroupBox, mDaysGroup)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:22
+#, kde-format
+msgid "Show Special Dates Starting"
+msgstr "Hiển thị Ngày Đặc Biệt Bắt Đầu"
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, mDateTodayButton)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:28
+#, kde-format
+msgid "Show special occasions for today only"
+msgstr "Chỉ hiển thị các sự kiện đặc biệt cho hôm nay"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, mDateTodayButton)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:31
+#, kde-format
+msgid ""
+"Check this box if you want to see special occasions occurring on this date "
+"only."
+msgstr "Chọn hộp này nếu bạn muốn xem các dịp đặc biệt chỉ diễn ra vào ngày này."
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, mDateMonthButton)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:44
+#, kde-format
+msgid "Show special occasions starting within the next month"
+msgstr "Hiển thị các dịp đặc biệt bắt đầu trong vòng một tháng tới"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, mDateMonthButton)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:47
+#, kde-format
+msgid ""
+"Check this box if you want to see special occasions that start sometime "
+"during the next 31 days."
+msgstr ""
+"Đánh dấu vào ô này nếu bạn muốn xem các sự kiện đặc biệt bắt đầu vào bất kỳ "
+"lúc nào trong vòng 31 ngày tới."
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, mDateRangeButton)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:65
+#, kde-format
+msgid "Select the days for showing upcoming special occasions"
+msgstr "Chọn các ngày để hiển thị các dịp đặc biệt sắp tới"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, mDateRangeButton)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:68
+#, kde-format
+msgid ""
+"Check this box if you want to specify the number of days in the future for "
+"upcoming special occasions."
+msgstr ""
+"Chọn hộp này nếu bạn muốn chỉ định số ngày trong tương lai cho các sự kiện "
+"đặc biệt sắp tới."
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, mCustomDays)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:84
+#, kde-format
+msgid "Set the number of days to show upcoming special occasions"
+msgstr "Đặt số ngày để hiển thị các sự kiện đặc biệt sắp tới"
+
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, mCustomDays)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:87
+#, kde-format
+msgid ""
+"Use this spinbox to set the number of days to show upcoming special "
+"occasions up to one year in the future."
+msgstr ""
+"Sử dụng hộp số này để đặt số ngày hiển thị các sự kiện đặc biệt sắp tới "
+"trong vòng một năm."
+
+#. i18n: ectx: property (title), widget (QGroupBox, mShowFromCalGroup)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:130
+#, kde-format
+msgid "Show These Special Dates From Your Calendar"
+msgstr "Hiển thị những ngày đặc biệt này từ lịch của bạn"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mShowBirthdaysFromCalBox)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:136
+#, kde-format
+msgid "Show birthdays from your calendar"
+msgstr "Hiển thị ngày sinh từ lịch của bạn"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mShowBirthdaysFromCalBox)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:139
+#, kde-format
+msgid ""
+"Enable this option to include birthdays from your calendar in the upcoming "
+"special occasions summary. Typically, these are events with the \"Birthday\" "
+"tag."
+msgstr ""
+"Bật tùy chọn này để bao gồm ngày sinh nhật từ lịch của bạn trong bản tóm "
+"tắt các sự kiện đặc biệt sắp tới. Thông thường, đây là các sự kiện có thẻ "
+"\"Sinh nhật\"."
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mShowAnniversariesFromCalBox)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:152
+#, kde-format
+msgid "Show anniversaries from your calendar"
+msgstr "Hiển thị các kỷ niệm từ lịch của bạn"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mShowAnniversariesFromCalBox)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:155
+#, kde-format
+msgid ""
+"Enable this option to include anniversaries from your calendar in the "
+"upcoming special occasions summary. Typically, these are events with the "
+"\"Anniversary\" tag."
+msgstr ""
+"Bật tùy chọn này để bao gồm các kỷ niệm từ lịch của bạn trong bản tóm tắt "
+"các sự kiện đặc biệt sắp tới. Thông thường, đây là các sự kiện có thẻ \"Kỷ "
+"niệm\"."
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mShowHolidaysFromCalBox)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:168
+#, kde-format
+msgid "Show holidays from your calendar"
+msgstr "Hiển thị ngày lễ từ lịch của bạn"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mShowHolidaysFromCalBox)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:171
+#, kde-format
+msgid ""
+"Enable this option to include holidays from your calendar in the upcoming "
+"special occasions summary. These are events from your configured holiday "
+"region, or events with the \"Holiday\" tag."
+msgstr ""
+"Bật tùy chọn này để bao gồm các ngày lễ từ lịch của bạn trong bản tóm tắt "
+"các sự kiện đặc biệt sắp tới. Đây là các sự kiện từ khu vực lễ hội được cấu "
+"hình của bạn, hoặc các sự kiện có thẻ \"Ngày lễ\"."
+
+#. i18n: ectx: property (text), widget (QCheckBox, mShowHolidaysFromCalBox)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:174
+#, kde-format
+msgid "Show &holidays"
+msgstr "Hiển t&hị ngày lễ"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mShowSpecialsFromCalBox)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:184
+#, kde-format
+msgid "Show special occasions from your calendar"
+msgstr "Hiển thị các sự kiện đặc biệt từ lịch của bạn"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mShowSpecialsFromCalBox)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:187
+#, kde-format
+msgid ""
+"Enable this option to include events from your calendar with the \"special "
+"occasion\" tag."
+msgstr ""
+"Bật tùy chọn này để bao gồm các sự kiện từ lịch của bạn với thẻ \"dịp đặc "
+"biệt\"."
+
+#. i18n: ectx: property (text), widget (QCheckBox, mShowSpecialsFromCalBox)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:190
+#, kde-format
+msgid "Show s&pecial occasions"
+msgstr "Hiển thị các dị&p đặc biệt"
+
+#. i18n: ectx: property (title), widget (QGroupBox, mShowFromKABButtonGroup)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:203
+#, kde-format
+msgid "Show These Special Dates From Your Contact List"
+msgstr "Hiển thị những ngày đặc biệt này từ danh sách liên hệ của bạn"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mShowBirthdaysFromKABBox)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:209
+#, kde-format
+msgid "Show birthdays from your address book"
+msgstr "Hiển thị ngày sinh từ sổ địa chỉ của bạn"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mShowBirthdaysFromKABBox)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:212
+#, kde-format
+msgid ""
+"Enable this option to include birthdays from your address book in the "
+"upcoming special occasions summary."
+msgstr ""
+"Bật tùy chọn này để bao gồm ngày sinh nhật từ sổ địa chỉ của bạn trong bản "
+"tóm tắt các sự kiện đặc biệt sắp tới."
+
+#. i18n: ectx: property (text), widget (QCheckBox, mShowBirthdaysFromKABBox)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:215
+#, kde-format
+msgid "Show birth&days"
+msgstr "Hiển thị n&gày sinh"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mShowAnniversariesFromKABBox)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:225
+#, kde-format
+msgid "Show anniversaries from your address book"
+msgstr "Hiển thị các ngày kỷ niệm từ sổ địa chỉ của bạn"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mShowAnniversariesFromKABBox)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:228
+#, kde-format
+msgid ""
+"Enable this option to include anniversaries from your address book in the "
+"upcoming special occasions summary."
+msgstr ""
+"Bật tùy chọn này để bao gồm các kỷ niệm từ sổ địa chỉ của bạn trong bản tóm "
+"tắt các sự kiện đặc biệt sắp tới."
+
+#. i18n: ectx: property (text), widget (QCheckBox, mShowAnniversariesFromKABBox)
+#: kontactplugin/specialdates/sdsummaryconfig_base.ui:231
+#, kde-format
+msgid "Show anni&versaries"
+msgstr "H&iển thị kỷ niệm"
+
+#: kontactplugin/specialdates/sdsummarywidget.cpp:97
+#, kde-format
+msgid "Upcoming Special Dates"
+msgstr "Các Ngày Đặc Biệt Sắp Tới"
+
+#: kontactplugin/specialdates/sdsummarywidget.cpp:450
+#, kde-format
+msgctxt "the special day is today"
+msgid "Today"
+msgstr "Hôm nay"
+
+#: kontactplugin/specialdates/sdsummarywidget.cpp:452
+#, kde-format
+msgctxt "the special day is tomorrow"
+msgid "Tomorrow"
+msgstr "Ngày mai"
+
+#: kontactplugin/specialdates/sdsummarywidget.cpp:498
+#, kde-format
+msgid "Birthday"
+msgstr "Sinh nhật"
+
+#: kontactplugin/specialdates/sdsummarywidget.cpp:501
+#, kde-format
+msgid "Anniversary"
+msgstr "Kỷ niệm"
+
+#: kontactplugin/specialdates/sdsummarywidget.cpp:504
+#, kde-format
+msgid "Holiday"
+msgstr "Ngày lễ"
+
+#: kontactplugin/specialdates/sdsummarywidget.cpp:507
+#, kde-format
+msgid "Change of Seasons"
+msgstr "Thay đổi mùa"
+
+#: kontactplugin/specialdates/sdsummarywidget.cpp:510
+#, kde-format
+msgid "Special Occasion"
+msgstr "Sự kiện đặc biệt"
+
+#: kontactplugin/specialdates/sdsummarywidget.cpp:552
+#, kde-format
+msgid "one year"
+msgid_plural "%1 years"
+msgstr[0] "%1 năm"
+
+#: kontactplugin/specialdates/sdsummarywidget.cpp:562
+#, kde-format
+msgid "No special dates within the next 1 day"
+msgid_plural "No special dates pending within the next %1 days"
+msgstr[0] "Không có ngày đặc biệt nào sắp tới trong vòng %1 ngày tới"
+
+#: kontactplugin/specialdates/sdsummarywidget.cpp:656
+#, kde-format
+msgid "Send &Mail"
+msgstr "&Gửi thư"
+
+#: kontactplugin/specialdates/sdsummarywidget.cpp:657
+#, kde-format
+msgid "View &Contact"
+msgstr "X&em liên hệ"
+
+#: kontactplugin/specialdates/sdsummarywidget.cpp:672
+#, kde-format
+msgid "Mail to:\"%1\""
+msgstr "Gửi email đến:\"%1\""
+
+#: kontactplugin/specialdates/specialdates_plugin.cpp:36
+#, kde-format
+msgid "Special Dates Summary"
+msgstr "Tóm tắt Ngày Đặc Biệt"
+
+#: kontactplugin/specialdates/specialdates_plugin.cpp:38
+#, kde-format
+msgid "Kontact Special Dates Summary"
+msgstr "Tóm tắt Ngày Đặc Biệt của Kontact"
+
+#: kontactplugin/specialdates/specialdates_plugin.cpp:40
+#, kde-format
+msgid ""
+"Copyright © 2003 Tobias Koenig\n"
+"Copyright © 2004–2010 Allen Winter"
+msgstr "Bản quyền © 2003 Tobias Koenig\nBản quyền © 2004–2010 Allen Winter"
+
+#: kontactplugin/specialdates/specialdates_plugin.cpp:42
+#, kde-format
+msgid "Current Maintainer"
+msgstr "Người bảo trì hiện tại"
+
+#: kontactplugin/specialdates/specialdates_plugin.cpp:43
+#, kde-format
+msgctxt "@info:credit"
+msgid "Tobias Koenig"
+msgstr "Tobias Koenig"
+
+#: korganizer.cpp:284
+#, kde-format
+msgid "New Calendar"
+msgstr "Lịch mới"
+
+#: korganizer.cpp:288
+#, kde-format
+msgctxt "the calendar is read-only"
+msgid "read-only"
+msgstr "chỉ đọc"
+
+#: korganizer.cpp:291
+#, kde-format
+msgid "Calendar"
+msgstr "Lịch"
+
+#: korganizer_options.h:18
+#, kde-format
+msgctxt "@info:shell"
+msgid "Import the specified files as separate calendars"
+msgstr "Nhập khẩu các tệp được chỉ định dưới dạng lịch riêng biệt"
+
+#: korganizer_options.h:20
+#, kde-format
+msgctxt "@info:shell"
+msgid "Merge the specified files into an existing calendar"
+msgstr "Trộn các tệp đã chỉ định vào lịch hiện có"
+
+#: korganizer_options.h:21
+#, kde-format
+msgctxt "@info:shell"
+msgid "Display the specified incidence (by URL)"
+msgstr "Hiển thị sự kiện được chỉ định (bằng URL)"
+
+#: korganizer_options.h:25
+#, kde-format
+msgctxt "@info:shell"
+msgid ""
+"Calendar files or urls. Unless -i or -m is explicitly specified, the user "
+"will be asked whether to import or merge"
+msgstr ""
+"Các tệp lịch hoặc URL. Trừ khi -i hoặc -m được chỉ định rõ ràng, người dùng "
+"sẽ được hỏi xem có muốn nhập khẩu hay trộn hợp không"
+
+#: korganizer_options.h:29
+#, kde-format
+msgctxt "@info:shell"
+msgid "Lists the available options for user feedback"
+msgstr "Liệt kê các tùy chọn hiện có để phản hồi của người dùng"
+
+#: koviewmanager.cpp:427
+#, kde-format
+msgid "Merged calendar"
+msgstr "Lịch đã được hợp nhất"
+
+#: koviewmanager.cpp:442
+#, kde-format
+msgid "Calendars Side by Side"
+msgstr "Lịch xếp cạnh nhau"
+
+#: koviewmanager.cpp:475
+#, kde-format
+msgid ""
+"Unable to display the work week since there are no work days configured. "
+"Please properly configure at least 1 work day in the Time and Date "
+"preferences."
+msgstr ""
+"Không thể hiển thị tuần làm việc vì không có ngày làm việc được cấu hình. "
+"Vui lòng cấu hình ít nhất 1 ngày làm việc trong tùy chọn Thời gian và Ngày."
+
+#: prefs/koprefsdialogcolorsandfonts.cpp:43
+#, kde-format
+msgctxt "@title:tab"
+msgid "Colors"
+msgstr "Màu sắc"
+
+#: prefs/koprefsdialogcolorsandfonts.cpp:93
+#, kde-format
+msgctxt "@title:group"
+msgid "Tags"
+msgstr "Thẻ"
+
+#: prefs/koprefsdialogcolorsandfonts.cpp:107
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Select the tag you want to modify. You can change the selected tag's color "
+"using the adjacent color button."
+msgstr ""
+"Chọn thẻ bạn muốn sửa đổi. Bạn có thể thay đổi màu của thẻ đã chọn bằng "
+"cách sử dụng nút màu kế bên."
+
+#: prefs/koprefsdialogcolorsandfonts.cpp:115
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Choose the color of the tag selected in the adjacent combo box."
+msgstr "Chọn màu của thẻ được chọn trong hộp thoại kết hợp liền kề."
+
+#: prefs/koprefsdialogcolorsandfonts.cpp:123
+#, kde-format
+msgctxt "@title:group"
+msgid "Resources"
+msgstr "Tài nguyên"
+
+#: prefs/koprefsdialogcolorsandfonts.cpp:134
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Select the calendar you want to modify. You can change the selected calendar "
+"color using the button below."
+msgstr ""
+"Chọn lịch bạn muốn chỉnh sửa. Bạn có thể thay đổi màu của lịch đã chọn bằng "
+"nút bên dưới."
+
+#: prefs/koprefsdialogcolorsandfonts.cpp:142
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Choose here the color of the calendar selected using the combo box above."
+msgstr "Chọn ở đây màu của lịch được chọn bằng hộp kết hợp ở trên."
+
+#: prefs/koprefsdialogcolorsandfonts.cpp:150
+#, kde-format
+msgctxt "@title:tab"
+msgid "Fonts"
+msgstr "Phông chữ"
+
+#: prefs/koprefsdialogcolorsandfonts.cpp:163
+#: prefs/koprefsdialogcolorsandfonts.cpp:169
+#, kde-format
+msgctxt "@label"
+msgid "Event text"
+msgstr "Văn bản sự kiện"
+
+#: prefs/koprefsdialoggroupscheduling.cpp:42
+#, kde-format
+msgctxt "@label"
+msgid "Mail transport:"
+msgstr "Giao thức thư:"
+
+#: prefs/koprefsdialogmain.cpp:42
+#, kde-format
+msgctxt "@title:tab personal settings"
+msgid "Personal"
+msgstr "Cá nhân"
+
+#: prefs/koprefsdialogmain.cpp:48
+#, kde-format
+msgctxt "@title:group email settings"
+msgid "Email Settings"
+msgstr "Thiết lập Thư điện tử"
+
+#: prefs/koprefsdialogmain.cpp:62 prefs/koprefsdialogtime.cpp:193
+#, kde-format
+msgctxt "@title:group"
+msgid "Reminders"
+msgstr "Lời nhắc nhở"
+
+#: prefs/koprefsdialogmain.cpp:71
+#, kde-format
+msgctxt "@title:tab"
+msgid "Save"
+msgstr "Lưu"
+
+#: prefs/koprefsdialogmain.cpp:83
+#, kde-format
+msgctxt "@title:tab calendar account settings"
+msgid "Calendars"
+msgstr "Lịch"
+
+#: prefs/koprefsdialogmain.cpp:87
+#, kde-format
+msgctxt "@title"
+msgid "Calendar Accounts"
+msgstr "Tài khoản lịch"
+
+#: prefs/koprefsdialogplugins.cpp:61
+#, kde-format
+msgctxt "@title:group"
+msgid "Position"
+msgstr "Vị trí"
+
+#. i18nc( "@option:check", "Show in the month view" ), mPositioningGroupBox );
+#: prefs/koprefsdialogplugins.cpp:88
+#, kde-format
+msgctxt "@option:check"
+msgid "Show at the top of the agenda views"
+msgstr "Hiển thị ở đầu các chế độ xem lịch"
+
+#: prefs/koprefsdialogplugins.cpp:89
+#, kde-format
+msgctxt "@option:check"
+msgid "Show at the bottom of the agenda views"
+msgstr "Hiển thị ở cuối các chế độ xem lịch"
+
+#: prefs/koprefsdialogplugins.cpp:122
+#, kde-format
+msgctxt "@title:group"
+msgid "Calendar Decorations"
+msgstr "Trang trí Lịch"
+
+#: prefs/koprefsdialogplugins.cpp:142
+#, kde-format
+msgctxt "@action"
+msgid "Configure"
+msgstr "Cấu hình"
+
+#: prefs/koprefsdialogplugins.cpp:201
+#, kde-format
+msgctxt "@info"
+msgid "Unable to configure this plugin"
+msgstr "Không thể cấu hình phần cài cắm này"
+
+#: prefs/koprefsdialogtime.cpp:43
+#, kde-format
+msgctxt "@title:tab"
+msgid "Regional"
+msgstr "Khu vực"
+
+#: prefs/koprefsdialogtime.cpp:47
+#, kde-format
+msgctxt "@title:group"
+msgid "General Time and Date"
+msgstr "Chung Thời gian và Ngày tháng"
+
+#: prefs/koprefsdialogtime.cpp:56
+#, kde-format
+msgctxt "@title:group"
+msgid "Holidays"
+msgstr "Ngày lễ"
+
+#: prefs/koprefsdialogtime.cpp:67
+#, kde-format
+msgctxt "@label"
+msgid "Use holiday region:"
+msgstr "Sử dụng khu vực lễ hội:"
+
+#: prefs/koprefsdialogtime.cpp:90
+#, kde-format
+msgctxt "@item:inlistbox Holiday region, region language"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: prefs/koprefsdialogtime.cpp:99
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Select Holiday Regions"
+msgstr "Chọn Khu Vực Lễ Hội"
+
+#: prefs/koprefsdialogtime.cpp:111
+#, kde-format
+msgctxt "@title:group"
+msgid "Working Period"
+msgstr "Thời gian làm việc"
+
+#: prefs/koprefsdialogtime.cpp:126
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Check this box to make KOrganizer mark the working hours for this day of the "
+"week. If this is a work day for you, check this box, or the working hours "
+"will not be marked with color."
+msgstr ""
+"Đánh dấu vào ô này để KOrganizer đánh dấu giờ làm việc cho ngày trong tuần "
+"này. Nếu đây là ngày làm việc của bạn, hãy đánh dấu vào ô này, nếu không "
+"thì giờ làm việc sẽ không được đánh dấu bằng màu."
+
+#: prefs/koprefsdialogtime.cpp:144
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Monday"
+msgstr "Thứ Hai"
+
+#: prefs/koprefsdialogtime.cpp:144
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Tuesday"
+msgstr "Thứ Ba"
+
+#: prefs/koprefsdialogtime.cpp:144
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Wednesday"
+msgstr "Thứ Tư"
+
+#: prefs/koprefsdialogtime.cpp:145
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Thursday"
+msgstr "Thứ Năm"
+
+#: prefs/koprefsdialogtime.cpp:145
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Friday"
+msgstr "Thứ Sáu"
+
+#: prefs/koprefsdialogtime.cpp:145
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Saturday"
+msgstr "Thứ Bảy"
+
+#: prefs/koprefsdialogtime.cpp:146
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Sunday"
+msgstr "Chủ nhật"
+
+#: prefs/koprefsdialogtime.cpp:175
+#, kde-format
+msgctxt "@title:tab"
+msgid "Default Values"
+msgstr "Giá trị mặc định"
+
+#: prefs/koprefsdialogtime.cpp:178
+#, kde-format
+msgctxt "@title:group"
+msgid "Appointments"
+msgstr "Lịch hẹn"
+
+#: prefs/koprefsdialogtime.cpp:198
+#, kde-format
+msgctxt "@label"
+msgid "Default reminder time:"
+msgstr "Thời gian nhắc nhở mặc định:"
+
+#: prefs/koprefsdialogtime.cpp:211
+#, kde-format
+msgctxt "@item:inlistbox reminder units in minutes"
+msgid "minute(s)"
+msgstr "phút"
+
+#: prefs/koprefsdialogtime.cpp:212
+#, kde-format
+msgctxt "@item:inlistbox reminder time units in hours"
+msgid "hour(s)"
+msgstr "giờ"
+
+#: prefs/koprefsdialogtime.cpp:213
+#, kde-format
+msgctxt "@item:inlistbox reminder time units in days"
+msgid "day(s)"
+msgstr "ngày"
+
+#: prefs/koprefsdialogtime.cpp:223
+#, kde-format
+msgid "Audio Files (*.ogg *.wav *.mp3 *.wma *.flac *.aiff *.raw *.au *.ra)"
+msgstr "Tệp âm thanh (*.ogg *.wav *.mp3 *.wma *.flac *.aiff *.raw *.au *.ra)"
+
+#: prefs/koprefsdialogviews.cpp:44
+#, kde-format
+msgctxt "@title:tab general settings"
+msgid "General"
+msgstr "Chung"
+
+#: prefs/koprefsdialogviews.cpp:50 prefs/koprefsdialogviews.cpp:87
+#: prefs/koprefsdialogviews.cpp:131 prefs/koprefsdialogviews.cpp:158
+#, kde-format
+msgctxt "@title:group"
+msgid "Display Options"
+msgstr "Tùy chọn hiển thị"
+
+#: prefs/koprefsdialogviews.cpp:56
+#, kde-format
+msgctxt "@label suffix in the N days spin box"
+msgid " days"
+msgstr "ngày"
+
+#: prefs/koprefsdialogviews.cpp:69
+#, kde-format
+msgctxt "@title:group"
+msgid "Date Navigator"
+msgstr "Trình điều hướng ngày tháng"
+
+#: prefs/koprefsdialogviews.cpp:81
+#, kde-format
+msgctxt "@title:tab"
+msgid "Agenda View"
+msgstr "Khung xem Lịch"
+
+#: prefs/koprefsdialogviews.cpp:93
+#, kde-format
+msgctxt "@label suffix in the hour size spin box"
+msgid " pixels"
+msgstr "điểm ảnh"
+
+#: prefs/koprefsdialogviews.cpp:125
+#, kde-format
+msgctxt "@title:tab"
+msgid "Month View"
+msgstr "Xem theo Tháng"
+
+#: prefs/koprefsdialogviews.cpp:152
+#, kde-format
+msgctxt "@title:tab"
+msgid "Todo View"
+msgstr "Khung xem việc cần làm"
+
+#: prefs/koprefsdialogviews.cpp:165
+#, kde-format
+msgctxt "@title:group"
+msgid "Other Options"
+msgstr "Các Tùy Chọn Khác"
+
+#: prefs/kprefsdialog.cpp:234
+#, kde-format
+msgctxt "@action:button"
+msgid "Choose…"
+msgstr "Chọn..."
+
+#: prefs/kprefsdialog.cpp:765
+#, kde-format
+msgctxt "@title:window"
+msgid "Preferences"
+msgstr "các thiết lập"
+
+#: prefs/kprefsdialog.cpp:867
+#, kde-format
+msgid ""
+"You are about to set all preferences to default values. All custom "
+"modifications will be lost."
+msgstr ""
+"Bạn sắp đặt lại tất cả các thiết lập về giá trị mặc định. Tất cả các tuỳ "
+"biến sẽ bị mất."
+
+#: prefs/kprefsdialog.cpp:869
+#, kde-format
+msgctxt "@title:window"
+msgid "Setting Default Preferences"
+msgstr "Thiết lập các thiết lập mặc định"
+
+#: prefs/kprefsdialog.cpp:870
+#, kde-format
+msgctxt "@action:button"
+msgid "Reset to Defaults"
+msgstr "Đặt lại về Mặc định"
+
+#. i18n: ectx: label, entry (Confirm), group (Save Settings)
+#: settings/korganizer.kcfg:15
+#, kde-format
+msgid "Confirm deletes"
+msgstr "Xác nhận xóa"
+
+#. i18n: ectx: tooltip, entry (Confirm), group (Save Settings)
+#: settings/korganizer.kcfg:16
+#, kde-format
+msgid "Always confirm when deleting items"
+msgstr "Luôn xác nhận khi xóa các mục"
+
+#. i18n: ectx: whatsthis, entry (Confirm), group (Save Settings)
+#: settings/korganizer.kcfg:17
+#, kde-format
+msgid "Check this box to display a confirmation dialog when deleting items."
+msgstr "Chọn hộp này để hiển thị hộp thoại xác nhận khi xóa các mục."
+
+#. i18n: ectx: label, entry (Destination), group (Save Settings)
+#: settings/korganizer.kcfg:22
+#, kde-format
+msgid "New Events, To-dos and Journal Entries Should"
+msgstr "Các sự kiện, công việc và mục nhật ký mới nên"
+
+#. i18n: ectx: label, entry (Destination), group (Save Settings)
+#: settings/korganizer.kcfg:25
+#, kde-format
+msgid "Be added to the default calendar"
+msgstr "Được thêm vào lịch mặc định"
+
+#. i18n: ectx: whatsthis, entry (Destination), group (Save Settings)
+#: settings/korganizer.kcfg:26
+#, kde-format
+msgid ""
+"Select this option to always record new events, to-dos and journal entries "
+"using the current default calendar."
+msgstr ""
+"Chọn tùy chọn này để luôn ghi lại các sự kiện, công việc cần làm và mục "
+"nhật ký mới bằng lịch mặc định hiện tại."
+
+#. i18n: ectx: label, entry (Destination), group (Save Settings)
+#: settings/korganizer.kcfg:29
+#, kde-format
+msgid "Be asked which calendar to use"
+msgstr "Được hỏi lịch nào để sử dụng"
+
+#. i18n: ectx: whatsthis, entry (Destination), group (Save Settings)
+#: settings/korganizer.kcfg:30
+#, kde-format
+msgid ""
+"Select this option to choose the calendar to be used to record the item each "
+"time you create a new event, to-do or journal entry. This choice is "
+"recommended if you intend to use the shared folders functionality of the "
+"Kolab server or have to manage multiple accounts using Kontact as a KDE "
+"Kolab client. "
+msgstr ""
+"Chọn tùy chọn này để chọn lịch được sử dụng để ghi lại mục mỗi khi bạn tạo "
+"một sự kiện, công việc cần làm hoặc mục nhập nhật ký mới. Lựa chọn này được "
+"khuyến nghị nếu bạn định sử dụng chức năng thư mục chia sẻ của máy chủ "
+"Kolab hoặc phải quản lý nhiều tài khoản bằng cách sử dụng Kontact như một "
+"máy chủ Kolab của KDE."
+
+#. i18n: ectx: whatsthis, entry (TimeZoneId), group (Time &amp; Date)
+#: settings/korganizer.kcfg:40
+#, kde-format
+msgid ""
+"Select your timezone from the list of locations on this drop down box. If "
+"your city is not listed, select one which shares the same timezone. "
+"KOrganizer will automatically adjust for daylight savings."
+msgstr ""
+"Chọn múi giờ của bạn từ danh sách các địa điểm trong hộp thả xuống này. Nếu "
+"thành phố của bạn không được liệt kê, hãy chọn một thành phố cùng múi giờ. "
+"KOrganizer sẽ tự động điều chỉnh cho tiết kiệm ánh sáng ban ngày."
+
+#. i18n: ectx: label, entry (WeekStartDay), group (Time &amp; Date)
+#: settings/korganizer.kcfg:44
+#, kde-format
+msgid "Weekly start day:"
+msgstr "Ngày bắt đầu tuần:"
+
+#. i18n: ectx: tooltip, entry (WeekStartDay), group (Time &amp; Date)
+#: settings/korganizer.kcfg:45
+#, kde-format
+msgid "Select the first day of each week"
+msgstr "Chọn ngày đầu tiên của mỗi tuần"
+
+#. i18n: ectx: whatsthis, entry (WeekStartDay), group (Time &amp; Date)
+#: settings/korganizer.kcfg:46
+#, kde-format
+msgid ""
+"Select the first day of each week. Normally, you can ignore this since it is "
+"set in your locale."
+msgstr ""
+"Chọn ngày đầu tiên của mỗi tuần. Thông thường, bạn có thể bỏ qua điều này "
+"vì nó được đặt trong miền địa phương của bạn."
+
+#. i18n: ectx: label, entry (WorkingHoursStart), group (Time &amp; Date)
+#: settings/korganizer.kcfg:51
+#, kde-format
+msgid "Daily starting hour"
+msgstr "Giờ bắt đầu hàng ngày"
+
+#. i18n: ectx: whatsthis, entry (WorkingHoursStart), group (Time &amp; Date)
+#: settings/korganizer.kcfg:52
+#, kde-format
+msgid ""
+"Enter the start time for the working hours here. The working hours will be "
+"marked with color by KOrganizer."
+msgstr ""
+"Nhập thời gian bắt đầu giờ làm việc tại đây. Giờ làm việc sẽ được "
+"KOrganizer đánh dấu bằng màu sắc."
+
+#. i18n: ectx: label, entry (WorkingHoursEnd), group (Time &amp; Date)
+#: settings/korganizer.kcfg:57
+#, kde-format
+msgid "Daily ending hour"
+msgstr "Giờ kết thúc hàng ngày"
+
+#. i18n: ectx: whatsthis, entry (WorkingHoursEnd), group (Time &amp; Date)
+#: settings/korganizer.kcfg:58
+#, kde-format
+msgid ""
+"Enter the ending time for the working hours here. The working hours will be "
+"marked with color by KOrganizer."
+msgstr ""
+"Nhập thời gian kết thúc giờ làm việc ở đây. Giờ làm việc sẽ được KOrganizer "
+"đánh dấu bằng màu sắc."
+
+#. i18n: ectx: label, entry (ColorMonthBusyDaysEnabled), group (Time &amp; Date)
+#. i18n: ectx: label, entry (ColorBusyDaysEnabled), group (Agenda View)
+#: settings/korganizer.kcfg:63 settings/korganizer.kcfg:195
+#, kde-format
+msgid "Color busy days with a different background color"
+msgstr "Sử dụng màu nền khác để tô màu các ngày bận"
+
+#. i18n: ectx: whatsthis, entry (ColorMonthBusyDaysEnabled), group (Time &amp; Date)
+#: settings/korganizer.kcfg:64
+#, kde-format
+msgid ""
+"Check this box if you want month view's background to be filled with a "
+"different color on days which have at least one all day event marked as "
+"busy. Also, you can change the background color used for this option on the "
+"Colors configuration page. Look for the \"Busy days background color\" "
+"setting."
+msgstr ""
+"Đánh dấu vào ô này nếu bạn muốn nền của chế độ xem tháng được tô màu khác "
+"cho các ngày có ít nhất một sự kiện cả ngày được đánh dấu là bận. Bạn cũng "
+"có thể thay đổi màu nền được sử dụng cho lựa chọn này trên trang cấu hình "
+"Màu sắc. Tìm kiếm cài đặt \"Màu nền các ngày bận\"."
+
+#. i18n: ectx: label, entry, group (General View)
+#: settings/korganizer.kcfg:73
+#, kde-format
+msgid "Enable tooltips for displaying summaries"
+msgstr "Bật chú giải để hiển thị tóm tắt"
+
+#. i18n: ectx: whatsthis, entry, group (General View)
+#: settings/korganizer.kcfg:74
+#, kde-format
+msgid ""
+"Check this box to display summary tooltips when hovering the mouse over an "
+"event or a to-do."
+msgstr ""
+"Chọn hộp này để hiển thị chú giải tóm tắt khi di chuột qua một sự kiện hoặc "
+"một công việc cần làm."
+
+#. i18n: ectx: label, entry, group (General View)
+#: settings/korganizer.kcfg:79
+#, kde-format
+msgid "To-dos use tag colors"
+msgstr "Công việc cần làm sử dụng màu của thẻ"
+
+#. i18n: ectx: whatsthis, entry, group (General View)
+#: settings/korganizer.kcfg:80
+#, kde-format
+msgid ""
+"Check this box so that to-dos will use tag colors and not colors specific to "
+"their due, due today or overdue state"
+msgstr ""
+"Đánh dấu vào hộp này để các công việc cần làm sẽ sử dụng màu của thẻ gắn "
+"thay vì màu cụ thể cho trạng thái đến hạn, đến hạn hôm nay hoặc quá hạn"
+
+#. i18n: ectx: label, entry, group (General View)
+#: settings/korganizer.kcfg:85
+#, kde-format
+msgid "Next x days"
+msgstr "Tiếp x ngày"
+
+#. i18n: ectx: whatsthis, entry, group (General View)
+#: settings/korganizer.kcfg:86
+#, kde-format
+msgid ""
+"Select the number of \"x\" days to be displayed in the next days view. To "
+"access the next \"x\" days view, choose the \"Next X Days\" menu item from "
+"the \"View\" menu."
+msgstr ""
+"Chọn số \"x\" ngày để hiển thị trong chế độ xem các ngày tiếp theo. Để truy "
+"cập chế độ xem các ngày tiếp theo, chọn mục \"Các ngày tiếp theo\" từ trình "
+"đơn \"Xem\"."
+
+#. i18n: ectx: tooltip, entry, group (General View)
+#: settings/korganizer.kcfg:87
+#, kde-format
+msgid "Show this many days at a time in the Next \"x\" days view"
+msgstr "Hiển thị bao nhiêu ngày trong khung xem \"Tiếp x ngày\""
+
+#. i18n: ectx: label, entry (DailyRecur), group (General View)
+#: settings/korganizer.kcfg:92
+#, kde-format
+msgid "Show items that recur daily"
+msgstr "Hiển thị các mục lặp lại hàng ngày"
+
+#. i18n: ectx: whatsthis, entry (DailyRecur), group (General View)
+#: settings/korganizer.kcfg:93
+#, kde-format
+msgid ""
+"Check this box to show the days containing daily recurring events in bold "
+"typeface in the Date Navigator, or uncheck it to give more prominence to "
+"other (non daily recurring) events."
+msgstr ""
+"Đánh dấu vào ô này để hiển thị các ngày có sự kiện lặp lại hàng ngày bằng "
+"phông chữ đậm trong Trình điều hướng ngày, hoặc bỏ đánh dấu để làm nổi bật "
+"hơn các sự kiện khác (không lặp lại hàng ngày)."
+
+#. i18n: ectx: label, entry (WeeklyRecur), group (General View)
+#: settings/korganizer.kcfg:98
+#, kde-format
+msgid "Show items that recur weekly"
+msgstr "Hiển thị các mục lặp lại hàng tuần"
+
+#. i18n: ectx: whatsthis, entry (WeeklyRecur), group (General View)
+#: settings/korganizer.kcfg:99
+#, kde-format
+msgid ""
+"Check this box to show the days containing weekly recurring events in bold "
+"typeface in the Date Navigator, or uncheck it to give more prominence to "
+"other (non weekly recurring) events."
+msgstr ""
+"Đánh dấu vào ô này để hiển thị các ngày có sự kiện định kỳ hàng tuần bằng "
+"phông chữ đậm trong Trình điều hướng ngày, hoặc bỏ đánh dấu để tăng cường "
+"sự nổi bật của các sự kiện khác (không định kỳ hàng tuần)."
+
+#. i18n: ectx: label, entry (HighlightTodos), group (General View)
+#: settings/korganizer.kcfg:104
+#, kde-format
+msgid "Show to-dos instead of events when in Todo View"
+msgstr "Hiển thị các việc cần làm thay vì các sự kiện khi ở chế độ Xem Việc Cần Làm"
+
+#. i18n: ectx: whatsthis, entry (HighlightTodos), group (General View)
+#: settings/korganizer.kcfg:105
+#, kde-format
+msgid ""
+"Check this box to show the days containing to-dos in bold typeface in the "
+"Date Navigator when in to-do view."
+msgstr ""
+"Đánh dấu vào ô này để hiển thị các ngày có công việc cần làm bằng kiểu chữ "
+"đậm trong Trình điều hướng ngày khi ở chế độ xem công việc cần làm."
+
+#. i18n: ectx: label, entry (HighlightJournals), group (General View)
+#: settings/korganizer.kcfg:110
+#, kde-format
+msgid "Show journals instead of events when in Journal View"
+msgstr "Hiển thị nhật ký thay vì sự kiện khi ở chế độ Xem Nhật ký"
+
+#. i18n: ectx: whatsthis, entry (HighlightJournals), group (General View)
+#: settings/korganizer.kcfg:111
+#, kde-format
+msgid ""
+"Check this box to show the days containing journals in bold typeface in the "
+"Date Navigator when in journal view."
+msgstr ""
+"Đánh dấu vào ô này để hiển thị các ngày có nhật ký bằng phông chữ đậm trong "
+"Trình điều hướng ngày khi ở chế độ xem nhật ký."
+
+#. i18n: ectx: label, entry (WeekNumbersShowWork), group (General View)
+#: settings/korganizer.kcfg:116
+#, kde-format
+msgid "Week numbers select a work week when in work week mode"
+msgstr "Chọn số tuần khi ở chế độ tuần làm việc"
+
+#. i18n: ectx: whatsthis, entry (WeekNumbersShowWork), group (General View)
+#: settings/korganizer.kcfg:117
+#, kde-format
+msgid ""
+"Check this box to select a working week when clicking on the Date "
+"Navigator's week numbers, or uncheck it to choose the whole week."
+msgstr ""
+"Chọn hộp này để bôi đen một tuần làm việc khi nhấp vào số tuần của Trình "
+"điều hướng ngày, hoặc bỏ chọn nó để chọn cả tuần."
+
+#. i18n: ectx: label, entry, group (Agenda View)
+#: settings/korganizer.kcfg:125
+#, kde-format
+msgid "Hour size"
+msgstr "Kích thước giờ"
+
+#. i18n: ectx: whatsthis, entry, group (Agenda View)
+#: settings/korganizer.kcfg:126
+#, kde-format
+msgid ""
+"Select the height of the hour rows in the agenda grid, in pixels. Increasing "
+"this value will make each row in the agenda grid taller."
+msgstr ""
+"Chọn chiều cao của các hàng giờ trong lưới lịch, tính bằng pixel. Tăng giá "
+"trị này sẽ làm cho mỗi hàng trong lưới lịch cao hơn."
+
+#. i18n: ectx: tooltip, entry, group (Agenda View)
+#: settings/korganizer.kcfg:127
+#, kde-format
+msgid "Set the height (in pixels) for an hour in the agenda grid"
+msgstr "Đặt chiều cao (tính bằng pixel) cho một giờ trong lưới lịch"
+
+#. i18n: ectx: label, entry (EnableAgendaItemIcons), group (Agenda View)
+#: settings/korganizer.kcfg:134
+#, kde-format
+msgid "Show icons in agenda view items"
+msgstr "Hiển thị biểu tượng trong các mục xem lịch"
+
+#. i18n: ectx: whatsthis, entry (EnableAgendaItemIcons), group (Agenda View)
+#: settings/korganizer.kcfg:135
+#, kde-format
+msgid ""
+"Check this box to display icons (alarm, recursion, etc.) in agenda view "
+"items."
+msgstr ""
+"Chọn hộp này để hiển thị các biểu tượng (báo thức, lặp lại, v.v.) trong các "
+"mục xem lịch."
+
+#. i18n: ectx: tooltip, entry (EnableAgendaItemIcons), group (Agenda View)
+#: settings/korganizer.kcfg:136
+#, kde-format
+msgid "Display icons in agenda view items"
+msgstr "Hiển thị biểu tượng trong các mục xem lịch"
+
+#. i18n: ectx: label, entry (ShowTodosAgendaView), group (Agenda View)
+#. i18n: ectx: label, entry (ShowTodosMonthView), group (Month View)
+#: settings/korganizer.kcfg:141 settings/korganizer.kcfg:239
+#, kde-format
+msgid "Show to-dos"
+msgstr "Hiển thị công việc cần làm"
+
+#. i18n: ectx: whatsthis, entry (ShowTodosAgendaView), group (Agenda View)
+#: settings/korganizer.kcfg:142
+#, kde-format
+msgid "Check this box to display to-dos in the agenda view."
+msgstr ""
+"Đánh dấu vào hộp này để hiển thị các công việc cần làm trong chế độ xem "
+"lịch."
+
+#. i18n: ectx: tooltip, entry (ShowTodosAgendaView), group (Agenda View)
+#: settings/korganizer.kcfg:143
+#, kde-format
+msgid "Display to-dos in the agenda view"
+msgstr "Hiển thị công việc cần làm trong khung xem lịch"
+
+#. i18n: ectx: label, entry (MarcusBainsEnabled), group (Agenda View)
+#: settings/korganizer.kcfg:148
+#, kde-format
+msgid "Show current-time (Marcus Bains) line"
+msgstr "Hiển thị dòng thời gian hiện tại (Marcus Bains)"
+
+#. i18n: ectx: whatsthis, entry (MarcusBainsEnabled), group (Agenda View)
+#: settings/korganizer.kcfg:149
+#, kde-format
+msgid ""
+"Check this box to display a line in the day or week view indicating the "
+"current-time line (Marcus Bains line)."
+msgstr ""
+"Đánh dấu vào hộp này để hiển thị một đường thẳng trong khung xem ngày hoặc "
+"tuần chỉ ra đường thời gian hiện tại (đường Marcus Bains)."
+
+#. i18n: ectx: tooltip, entry (MarcusBainsEnabled), group (Agenda View)
+#: settings/korganizer.kcfg:150
+#, kde-format
+msgid "Display the current-time indicator"
+msgstr "Hiển thị chỉ báo thời gian hiện tại"
+
+#. i18n: ectx: label, entry (MarcusBainsShowSeconds), group (Agenda View)
+#: settings/korganizer.kcfg:155
+#, kde-format
+msgid "Show seconds on the current-time (Marcus Bains) line"
+msgstr "Hiển thị giây trên dòng thời gian hiện tại (Marcus Bains)"
+
+#. i18n: ectx: whatsthis, entry (MarcusBainsShowSeconds), group (Agenda View)
+#: settings/korganizer.kcfg:156
+#, kde-format
+msgid "Check this box if you want to show seconds on the current-time line."
+msgstr "Chọn hộp này nếu bạn muốn hiển thị giây trên dòng thời gian hiện tại."
+
+#. i18n: ectx: tooltip, entry (MarcusBainsShowSeconds), group (Agenda View)
+#: settings/korganizer.kcfg:157
+#, kde-format
+msgid "Display seconds with the current-time indicator"
+msgstr "Hiển thị giây với chỉ báo thời gian hiện tại"
+
+#. i18n: ectx: label, entry (SelectionStartsEditor), group (Agenda View)
+#: settings/korganizer.kcfg:162
+#, kde-format
+msgid "Time range selection in agenda view starts event editor"
+msgstr ""
+"Phần bôi đen khoảng thời gian trong khung xem lịch sự kiện bắt đầu trình "
+"biên tập sự kiện"
+
+#. i18n: ectx: whatsthis, entry (SelectionStartsEditor), group (Agenda View)
+#: settings/korganizer.kcfg:163
+#, kde-format
+msgid ""
+"Check this box to start the event editor automatically when you select a "
+"time range in the daily and weekly view. To select a time range, drag the "
+"mouse from the start time to the end time of the event you are about to plan."
+msgstr ""
+"Đánh dấu vào ô này để tự động mở trình biên tập sự kiện khi bạn bôi đen một "
+"khoảng thời gian trong chế độ xem hàng ngày và hàng tuần. Để bôi đen một "
+"khoảng thời gian, kéo chuột từ thời gian bắt đầu đến thời gian kết thúc của "
+"sự kiện bạn sắp lên kế hoạch."
+
+#. i18n: ectx: tooltip, entry (SelectionStartsEditor), group (Agenda View)
+#: settings/korganizer.kcfg:164
+#, kde-format
+msgid "Enable automatic event editor with time range selection"
+msgstr "Bật trình biên tập sự kiện tự động với phần bôi đen khoảng thời gian"
+
+#. i18n: ectx: label, entry, group (Agenda View)
+#. i18n: ectx: label, entry, group (Month View)
+#: settings/korganizer.kcfg:169 settings/korganizer.kcfg:259
+#, kde-format
+msgid "Color Usage"
+msgstr "Sử dụng màu"
+
+#. i18n: ectx: label, entry, group (Agenda View)
+#. i18n: ectx: label, entry, group (Month View)
+#: settings/korganizer.kcfg:172 settings/korganizer.kcfg:262
+#, kde-format
+msgid "Tag inside, calendar outside"
+msgstr "Gắn thẻ bên trong, lịch bên ngoài"
+
+#. i18n: ectx: whatsthis, entry, group (Agenda View)
+#. i18n: ectx: whatsthis, entry, group (Month View)
+#: settings/korganizer.kcfg:173 settings/korganizer.kcfg:263
+#, kde-format
+msgid ""
+"Select the \"Tag inside, calendar outside\" option if you would like to draw "
+"calendar items using their associated tag color, with the item's border "
+"drawn in the color of its calendar.  Please use the Colors and Fonts "
+"configuration page for setting these colors."
+msgstr ""
+"Chọn tùy chọn \"Thẻ bên trong, lịch bên ngoài\" nếu bạn muốn vẽ các mục "
+"lịch bằng màu thẻ liên kết, với đường viền của mục được vẽ bằng màu của "
+"lịch. Vui lòng sử dụng trang cấu hình Màu sắc và Phông chữ để thiết lập các "
+"màu này."
+
+#. i18n: ectx: tooltip, entry, group (Agenda View)
+#: settings/korganizer.kcfg:174
+#, kde-format
+msgid ""
+"Draw agenda items with their tag color inside and calendar color for their "
+"border"
+msgstr ""
+"Vẽ các mục lịch trình với màu thẻ gắn bên trong và màu lịch trình cho đường "
+"viền của chúng"
+
+#. i18n: ectx: label, entry, group (Agenda View)
+#. i18n: ectx: label, entry, group (Month View)
+#: settings/korganizer.kcfg:177 settings/korganizer.kcfg:267
+#, kde-format
+msgid "Calendar inside, tag outside"
+msgstr "Lịch bên trong, thẻ gắn bên ngoài"
+
+#. i18n: ectx: whatsthis, entry, group (Agenda View)
+#. i18n: ectx: whatsthis, entry, group (Month View)
+#: settings/korganizer.kcfg:178 settings/korganizer.kcfg:268
+#, kde-format
+msgid ""
+"Select the \"Calendar inside, tag outside\" option if you would like to draw "
+"calendar items using their associated calendar color, with the item's border "
+"drawn in the color of its tag.  Please use the Colors and Fonts "
+"configuration page for setting these colors."
+msgstr ""
+"Chọn tùy chọn \"Lịch bên trong, thẻ bên ngoài\" nếu bạn muốn vẽ các mục "
+"lịch bằng màu lịch liên kết của chúng, với viền của mục được vẽ bằng màu "
+"của thẻ của nó. Vui lòng sử dụng trang cấu hình Màu sắc và Phông chữ để "
+"thiết lập các màu này."
+
+#. i18n: ectx: tooltip, entry, group (Agenda View)
+#: settings/korganizer.kcfg:179
+#, kde-format
+msgid ""
+"Draw agenda items with their calendar color inside and tag color for their "
+"border"
+msgstr ""
+"Vẽ các mục lịch trình với màu lịch trình bên trong và màu thẻ gắn cho đường "
+"viền của chúng"
+
+#. i18n: ectx: label, entry, group (Agenda View)
+#. i18n: ectx: label, entry, group (Month View)
+#: settings/korganizer.kcfg:182 settings/korganizer.kcfg:272
+#, kde-format
+msgid "Only tag"
+msgstr "Chỉ gắn thẻ"
+
+#. i18n: ectx: whatsthis, entry, group (Agenda View)
+#: settings/korganizer.kcfg:183
+#, kde-format
+msgid ""
+"Select the \"Only tag\" option if you would like to draw calendar items "
+"(both inside and border) using the color of their associated tag.  Please "
+"use the Colors and Fonts configuration page for setting these colors."
+msgstr ""
+"Chọn tùy chọn \"Chỉ gắn thẻ\" nếu bạn muốn vẽ các mục lịch (cả bên trong và "
+"viền) bằng màu của thẻ liên kết của chúng. Vui lòng sử dụng trang cấu hình "
+"Màu sắc và Phông chữ để thiết lập các màu này."
+
+#. i18n: ectx: tooltip, entry, group (Agenda View)
+#: settings/korganizer.kcfg:184
+#, kde-format
+msgid "Draw agenda items using their tag color for the inside and border"
+msgstr "Vẽ các mục lịch sử dụng màu thẻ của chúng cho phần bên trong và viền"
+
+#. i18n: ectx: label, entry, group (Agenda View)
+#. i18n: ectx: label, entry, group (Month View)
+#: settings/korganizer.kcfg:187 settings/korganizer.kcfg:277
+#, kde-format
+msgid "Only calendar"
+msgstr "Chỉ lịch"
+
+#. i18n: ectx: whatsthis, entry, group (Agenda View)
+#: settings/korganizer.kcfg:188
+#, kde-format
+msgid ""
+"Select the \"Only calendar\" option if you would like to draw calendar items "
+"(both inside and border) using the color of their calendar. Please use the "
+"Colors and Fonts configuration page for setting these colors."
+msgstr ""
+"Chọn tùy chọn \"Chỉ lịch\" nếu bạn muốn vẽ các mục lịch (cả bên trong và "
+"viền) bằng màu của lịch của chúng. Vui lòng sử dụng trang cấu hình Màu sắc "
+"và Phông chữ để thiết lập các màu này."
+
+#. i18n: ectx: tooltip, entry, group (Agenda View)
+#: settings/korganizer.kcfg:189
+#, kde-format
+msgid "Draw agenda items using their calendar color for the inside and border"
+msgstr "Vẽ các mục lịch sử dụng màu lịch của chúng cho phần bên trong và viền"
+
+#. i18n: ectx: whatsthis, entry (ColorBusyDaysEnabled), group (Agenda View)
+#: settings/korganizer.kcfg:196
+#, kde-format
+msgid ""
+"Check this box if you want agenda's background to be filled with a different "
+"color on days which have at least one all day event marked as busy. Also, "
+"you can change the background color used for this option on the Colors "
+"configuration page. Look for the \"Busy days background color\" setting."
+msgstr ""
+"Đánh dấu vào ô này nếu bạn muốn nền của lịch trình được điền bằng một màu "
+"khác vào những ngày có ít nhất một sự kiện cả ngày được đánh dấu là bận. "
+"Bạn cũng có thể thay đổi màu nền được sử dụng cho lựa chọn này trên trang "
+"cấu hình Màu sắc. Tìm kiếm cài đặt \"Màu nền của những ngày bận\"."
+
+#. i18n: ectx: label, entry (AgendaViewCalendarDisplay), group (Agenda View)
+#: settings/korganizer.kcfg:200
+#, kde-format
+msgid "Multiple Calendar Display"
+msgstr "Hiển thị nhiều lịch"
+
+#. i18n: ectx: label, entry (AgendaViewCalendarDisplay), group (Agenda View)
+#: settings/korganizer.kcfg:203
+#, kde-format
+msgid "Merge all calendars into one view"
+msgstr "Trộn tất cả các lịch vào một khung xem"
+
+#. i18n: ectx: whatsthis, entry (AgendaViewCalendarDisplay), group (Agenda View)
+#: settings/korganizer.kcfg:204
+#, kde-format
+msgid ""
+"Select the \"Merge all calendars into one view\" option if you would like "
+"all your calendars to be shown together in one agenda view."
+msgstr ""
+"Chọn lựa chọn \"Hợp nhất tất cả lịch vào một chế độ xem\" nếu bạn muốn tất "
+"cả lịch của bạn được hiển thị cùng nhau trong một chế độ xem lịch."
+
+#. i18n: ectx: tooltip, entry (AgendaViewCalendarDisplay), group (Agenda View)
+#: settings/korganizer.kcfg:205
+#, kde-format
+msgid "Show all calendars merged together"
+msgstr "Hiển thị tất cả lịch hợp nhất lại"
+
+#. i18n: ectx: label, entry (AgendaViewCalendarDisplay), group (Agenda View)
+#: settings/korganizer.kcfg:208
+#, kde-format
+msgid "Show calendars side by side"
+msgstr "Hiển thị lịch cạnh nhau"
+
+#. i18n: ectx: whatsthis, entry (AgendaViewCalendarDisplay), group (Agenda View)
+#: settings/korganizer.kcfg:209
+#, kde-format
+msgid ""
+"Select the \"Show calendars side by side\" option if you would like to see "
+"two calendars at once, in a side-by-side view."
+msgstr ""
+"Chọn lựa chọn \"Hiển thị lịch cạnh nhau\" nếu bạn muốn xem hai lịch cùng "
+"một lúc, trong chế độ xem cạnh nhau."
+
+#. i18n: ectx: tooltip, entry (AgendaViewCalendarDisplay), group (Agenda View)
+#: settings/korganizer.kcfg:210
+#, kde-format
+msgid "Show two calendars side-by-side"
+msgstr "Hiển thị hai lịch cạnh nhau"
+
+#. i18n: ectx: label, entry (AgendaViewCalendarDisplay), group (Agenda View)
+#: settings/korganizer.kcfg:213
+#, kde-format
+msgid "Switch between views with tabs"
+msgstr "Chuyển đổi giữa các chế độ xem bằng các tab"
+
+#. i18n: ectx: whatsthis, entry (AgendaViewCalendarDisplay), group (Agenda View)
+#: settings/korganizer.kcfg:214
+#, kde-format
+msgid ""
+"Select \"Switch between views with tabs\" if you would like to alternate "
+"between calendars using the tab key."
+msgstr ""
+"Chọn \"Chuyển đổi giữa các chế độ xem bằng thẻ\" nếu bạn muốn chuyển đổi "
+"giữa các lịch sử dụng phím thẻ."
+
+#. i18n: ectx: tooltip, entry (AgendaViewCalendarDisplay), group (Agenda View)
+#: settings/korganizer.kcfg:215
+#, kde-format
+msgid "Tab through calendars"
+msgstr "Chuyển qua lại giữa các lịch"
+
+#. i18n: ectx: label, entry (EnableMonthItemIcons), group (Month View)
+#: settings/korganizer.kcfg:225
+#, kde-format
+msgid "Show icons in month view items"
+msgstr "Hiển thị biểu tượng trong các mục xem tháng"
+
+#. i18n: ectx: whatsthis, entry (EnableMonthItemIcons), group (Month View)
+#: settings/korganizer.kcfg:226
+#, kde-format
+msgid ""
+"Check this box to display icons (alarm, recursion, etc.) in month view items."
+msgstr ""
+"Chọn hộp này để hiển thị các biểu tượng (báo thức, lặp lại, v.v.) trong các "
+"mục xem tháng."
+
+#. i18n: ectx: tooltip, entry (EnableMonthItemIcons), group (Month View)
+#: settings/korganizer.kcfg:227
+#, kde-format
+msgid "Display icons in month view items"
+msgstr "Hiển thị biểu tượng trong các mục xem tháng"
+
+#. i18n: ectx: label, entry (ShowTimeInMonthView), group (Month View)
+#: settings/korganizer.kcfg:232
+#, kde-format
+msgid "Show time in month view items"
+msgstr "Hiển thị thời gian trong các mục xem tháng"
+
+#. i18n: ectx: whatsthis, entry (ShowTimeInMonthView), group (Month View)
+#: settings/korganizer.kcfg:233
+#, kde-format
+msgid "Check this box to display the time in month view items."
+msgstr "Chọn hộp này để hiển thị thời gian trong các mục xem tháng."
+
+#. i18n: ectx: tooltip, entry (ShowTimeInMonthView), group (Month View)
+#: settings/korganizer.kcfg:234
+#, kde-format
+msgid "Display time in month view items"
+msgstr "Hiển thị thời gian trong các mục xem tháng"
+
+#. i18n: ectx: whatsthis, entry (ShowTodosMonthView), group (Month View)
+#: settings/korganizer.kcfg:240
+#, kde-format
+msgid "Check this box to display to-dos in the month view."
+msgstr "Đánh dấu vào hộp này để hiển thị công việc cần làm trong chế độ xem tháng."
+
+#. i18n: ectx: tooltip, entry (ShowTodosMonthView), group (Month View)
+#: settings/korganizer.kcfg:241
+#, kde-format
+msgid "Display to-dos in the month view"
+msgstr "Hiển thị công việc cần làm trong khung xem tháng"
+
+#. i18n: ectx: label, entry (ShowJournalsMonthView), group (Month View)
+#: settings/korganizer.kcfg:246
+#, kde-format
+msgid "Show journals"
+msgstr "Hiển thị nhật ký"
+
+#. i18n: ectx: whatsthis, entry (ShowJournalsMonthView), group (Month View)
+#: settings/korganizer.kcfg:247
+#, kde-format
+msgid "Check this box to display journals in the month view."
+msgstr "Chọn hộp này để hiển thị nhật ký trong chế độ xem tháng."
+
+#. i18n: ectx: tooltip, entry (ShowJournalsMonthView), group (Month View)
+#: settings/korganizer.kcfg:248
+#, kde-format
+msgid "Display journals in the month view"
+msgstr "Hiển thị nhật ký trong khung xem tháng"
+
+#. i18n: ectx: label, entry, group (Month View)
+#: settings/korganizer.kcfg:253
+#, kde-format
+msgid "Month view uses full window"
+msgstr "Chế độ xem tháng sử dụng toàn bộ cửa sổ"
+
+#. i18n: ectx: whatsthis, entry, group (Month View)
+#: settings/korganizer.kcfg:254
+#, kde-format
+msgid ""
+"Check this box to use the full KOrganizer window when displaying the month "
+"view. If this box is checked, you will gain some space for the monthly view, "
+"but other widgets, such as the date navigator, the item details and the "
+"calendars list, will not be displayed."
+msgstr ""
+"Đánh dấu vào ô này để sử dụng cửa sổ KOrganizer đầy đủ khi hiển thị chế độ "
+"xem tháng. Nếu ô này được đánh dấu, bạn sẽ có thêm không gian cho chế độ "
+"xem tháng, nhưng các tiện ích khác như trình điều hướng ngày, chi tiết mục "
+"và danh sách lịch sẽ không được hiển thị."
+
+#. i18n: ectx: tooltip, entry, group (Month View)
+#: settings/korganizer.kcfg:264
+#, kde-format
+msgid ""
+"Draw month items with their tag color inside and calendar color for their "
+"border"
+msgstr ""
+"Vẽ các mục tháng với màu thẻ gắn bên trong và màu lịch cho đường viền của "
+"chúng"
+
+#. i18n: ectx: tooltip, entry, group (Month View)
+#: settings/korganizer.kcfg:269
+#, kde-format
+msgid ""
+"Draw month items with their calendar color inside and tag color for their "
+"border"
+msgstr "Vẽ các mục tháng với màu lịch bên trong và màu thẻ cho đường viền của chúng"
+
+#. i18n: ectx: whatsthis, entry, group (Month View)
+#: settings/korganizer.kcfg:273
+#, kde-format
+msgid ""
+"Select the \"Only tag\" option if you would like to draw calendar items "
+"(both inside and border) in the color of their associated tag.  Please use "
+"the Colors and Fonts configuration page for setting these colors."
+msgstr ""
+"Chọn tùy chọn \"Chỉ gắn thẻ\" nếu bạn muốn vẽ các mục lịch (cả bên trong và "
+"viền) bằng màu của thẻ liên kết của chúng. Vui lòng sử dụng trang cấu hình "
+"Màu sắc và Phông chữ để thiết lập các màu này."
+
+#. i18n: ectx: tooltip, entry, group (Month View)
+#: settings/korganizer.kcfg:274
+#, kde-format
+msgid "Draw month items using their tag color for the inside and border"
+msgstr ""
+"Vẽ các mục tháng bằng cách sử dụng màu thẻ của chúng cho phần bên trong và "
+"viền"
+
+#. i18n: ectx: whatsthis, entry, group (Month View)
+#: settings/korganizer.kcfg:278
+#, kde-format
+msgid ""
+"Select the \"Only calendar\" option if you would like to draw calendar items "
+"(both inside and border) in the color of their calendar.  Please use the "
+"Colors and Fonts configuration page for setting these colors."
+msgstr ""
+"Chọn tùy chọn \"Chỉ lịch\" nếu bạn muốn vẽ các mục lịch (cả bên trong và "
+"viền) bằng màu của lịch của chúng. Vui lòng sử dụng trang cấu hình Màu sắc "
+"và Phông chữ để thiết lập các màu này."
+
+#. i18n: ectx: tooltip, entry, group (Month View)
+#: settings/korganizer.kcfg:279
+#, kde-format
+msgid "Draw month items using their calendar color for the inside and border"
+msgstr ""
+"Vẽ các mục tháng bằng cách sử dụng màu lịch của chúng cho phần bên trong và "
+"viền"
+
+#. i18n: ectx: label, entry, group (Todo View)
+#: settings/korganizer.kcfg:289
+#, kde-format
+msgid "Always display completed to-dos at the bottom of the list"
+msgstr "Luôn hiển thị các công việc đã hoàn thành ở cuối danh sách"
+
+#. i18n: ectx: tooltip, entry, group (Todo View)
+#: settings/korganizer.kcfg:290
+#, kde-format
+msgid ""
+"Completed to-dos are displayed at the bottom of the list, regardless of "
+"priority"
+msgstr "Các công việc đã hoàn thành được hiển thị ở cuối danh sách, bất kể ưu tiên"
+
+#. i18n: ectx: whatsthis, entry, group (Todo View)
+#: settings/korganizer.kcfg:291
+#, kde-format
+msgid ""
+"Check this box if you want all completed to-dos to be always grouped at the "
+"bottom of the to-do list."
+msgstr ""
+"Chọn hộp này nếu bạn muốn tất cả các công việc đã hoàn thành luôn được nhóm "
+"ở cuối danh sách công việc."
+
+#. i18n: ectx: label, entry, group (Todo View)
+#: settings/korganizer.kcfg:296
+#, kde-format
+msgid "To-do list view uses full window"
+msgstr "Khung xem danh sách công việc cần làm sử dụng toàn bộ cửa sổ"
+
+#. i18n: ectx: tooltip, entry, group (Todo View)
+#: settings/korganizer.kcfg:297
+#, kde-format
+msgid "Display to-do list in a full KOrganizer window"
+msgstr "Hiển thị danh sách công việc cần làm trong cửa sổ KOrganizer đầy đủ"
+
+#. i18n: ectx: whatsthis, entry, group (Todo View)
+#: settings/korganizer.kcfg:298
+#, kde-format
+msgid ""
+"Check this box to use the full KOrganizer window when displaying the to-do "
+"list view. If this box is checked, you will gain some space for the to-do "
+"list view, but other widgets, such as the date navigator, the to-do details "
+"and the calendars list, will not be displayed."
+msgstr ""
+"Đánh dấu vào hộp này để sử dụng cửa sổ KOrganizer đầy đủ khi hiển thị chế "
+"độ xem danh sách công việc cần làm. Nếu hộp này được đánh dấu, bạn sẽ có "
+"thêm không gian cho chế độ xem danh sách công việc cần làm, nhưng các tiện "
+"ích khác như trình điều hướng ngày, chi tiết công việc cần làm và danh sách "
+"lịch sẽ không được hiển thị."
+
+#. i18n: ectx: label, entry, group (Todo View)
+#: settings/korganizer.kcfg:303
+#, kde-format
+msgid "Display to-dos in a flat list"
+msgstr "Hiển thị công việc cần làm dưới dạng danh sách phẳng"
+
+#. i18n: ectx: tooltip, entry, group (Todo View)
+#: settings/korganizer.kcfg:304
+#, kde-format
+msgid "Display to-dos as a flat list instead of a hierarchical tree"
+msgstr ""
+"Hiển thị các công việc cần làm dưới dạng danh sách phẳng thay vì cây phân "
+"cấp"
+
+#. i18n: ectx: whatsthis, entry, group (Todo View)
+#: settings/korganizer.kcfg:305
+#, kde-format
+msgid ""
+"Check this box if you want to see all your to-dos in a flat list instead of "
+"being arranged in a hierarchical tree."
+msgstr ""
+"Đánh dấu vào ô này nếu bạn muốn xem tất cả các công việc cần làm của mình "
+"trong một danh sách phẳng thay vì được sắp xếp trong một cây phân cấp."
+
+#. i18n: ectx: label, entry, group (Todo View)
+#: settings/korganizer.kcfg:310
+#, kde-format
+msgid "Record completed to-dos in journal entries"
+msgstr "Ghi lại các công việc đã hoàn thành trong các mục nhật ký"
+
+#. i18n: ectx: whatsthis, entry, group (Todo View)
+#: settings/korganizer.kcfg:311
+#, kde-format
+msgid ""
+"Check this box to record the completion of a to-do in a new entry of your "
+"journal automatically."
+msgstr ""
+"Đánh dấu vào ô này để ghi lại việc hoàn tất một công việc cần làm trong một "
+"mục mới của nhật ký của bạn một cách tự động."
+
+#. i18n: ectx: label, entry, group (Colors)
+#. i18n: ectx: label, entry, group (Theming)
+#. i18n: ectx: label, entry, group (Theme/Month view)
+#: settings/korganizer.kcfg:319 settings/korganizer.kcfg:536
+#: settings/korganizer.kcfg:645
+#, kde-format
+msgid "Holiday color"
+msgstr "Màu sắc ngày lễ"
+
+#. i18n: ectx: whatsthis, entry, group (Colors)
+#. i18n: ectx: whatsthis, entry, group (Theming)
+#. i18n: ectx: whatsthis, entry, group (Theme/Month view)
+#: settings/korganizer.kcfg:320 settings/korganizer.kcfg:537
+#: settings/korganizer.kcfg:646
+#, kde-format
+msgid ""
+"Select the holiday color here. The holiday color will be used for the "
+"holiday name in the month view and the holiday number in the date navigator."
+msgstr ""
+"Chọn màu sắc cho ngày lễ ở đây. Màu sắc của ngày lễ sẽ được sử dụng cho tên "
+"ngày lễ trong khung xem tháng và số ngày lễ trong bộ điều hướng ngày."
+
+#. i18n: ectx: label, entry (AgendaBgColor), group (Colors)
+#. i18n: ectx: label, entry, group (Theming)
+#: settings/korganizer.kcfg:325 settings/korganizer.kcfg:465
+#, kde-format
+msgid "Agenda view background color"
+msgstr "Màu nền của khung xem lịch"
+
+#. i18n: ectx: whatsthis, entry (AgendaBgColor), group (Colors)
+#. i18n: ectx: whatsthis, entry, group (Theming)
+#: settings/korganizer.kcfg:326 settings/korganizer.kcfg:466
+#, kde-format
+msgid "Select the agenda view background color here."
+msgstr "Chọn màu nền cho khung xem lịch."
+
+#. i18n: ectx: label, entry, group (Colors)
+#: settings/korganizer.kcfg:331
+#, kde-format
+msgid "Agenda view current-time line color"
+msgstr "Màu dòng thời gian hiện tại trong khung xem lịch"
+
+#. i18n: ectx: whatsthis, entry, group (Colors)
+#: settings/korganizer.kcfg:332
+#, kde-format
+msgid "Select a color to use for the current-time (Marcus Bains) line."
+msgstr "Chọn một màu để sử dụng cho dòng thời gian hiện tại (Marcus Bains)."
+
+#. i18n: ectx: tooltip, entry, group (Colors)
+#: settings/korganizer.kcfg:333
+#, kde-format
+msgid "Use this color for the Agenda View current-time (Marcus Bains) line"
+msgstr ""
+"Sử dụng màu này cho dòng thời gian hiện tại (Marcus Bains) trong Khung xem "
+"Lịch"
+
+#. i18n: ectx: label, entry (ViewBgBusyColor), group (Colors)
+#: settings/korganizer.kcfg:338
+#, kde-format
+msgid "Busy days background color"
+msgstr "Màu nền của các ngày bận rộn"
+
+#. i18n: ectx: whatsthis, entry (ViewBgBusyColor), group (Colors)
+#: settings/korganizer.kcfg:339
+#, kde-format
+msgid ""
+"When you have an all day event marked as busy, you can have a different "
+"agenda or month view background color for that day. Select the color here."
+msgstr ""
+"Khi bạn có một sự kiện cả ngày được đánh dấu là bận, bạn có thể có một màu "
+"nền khác nhau cho lịch hoặc xem tháng. Chọn màu ở đây."
+
+#. i18n: ectx: label, entry, group (Colors)
+#. i18n: ectx: label, entry, group (Theme/Month view)
+#: settings/korganizer.kcfg:344 settings/korganizer.kcfg:565
+#, kde-format
+msgid "Working hours color"
+msgstr "Màu giờ làm việc"
+
+#. i18n: ectx: whatsthis, entry, group (Colors)
+#: settings/korganizer.kcfg:345
+#, kde-format
+msgid "Select the working hours color for the agenda view here."
+msgstr "Chọn màu giờ làm việc cho khung xem lịch tại đây."
+
+#. i18n: ectx: label, entry (TodoDueTodayColor), group (Colors)
+#. i18n: ectx: label, entry, group (Theme/Month view)
+#: settings/korganizer.kcfg:350 settings/korganizer.kcfg:616
+#, kde-format
+msgid "To-do due today color"
+msgstr "Màu công việc đến hạn hôm nay"
+
+#. i18n: ectx: whatsthis, entry (TodoDueTodayColor), group (Colors)
+#. i18n: ectx: whatsthis, entry, group (Theme/Month view)
+#: settings/korganizer.kcfg:351 settings/korganizer.kcfg:617
+#, kde-format
+msgid "Select the to-do due today color here."
+msgstr "Chọn màu của công việc cần hoàn thành hôm nay tại đây."
+
+#. i18n: ectx: label, entry (TodoOverdueColor), group (Colors)
+#. i18n: ectx: label, entry, group (Theme/Month view)
+#: settings/korganizer.kcfg:356 settings/korganizer.kcfg:630
+#, kde-format
+msgid "To-do overdue color"
+msgstr "Màu công việc quá hạn"
+
+#. i18n: ectx: whatsthis, entry (TodoOverdueColor), group (Colors)
+#. i18n: ectx: whatsthis, entry, group (Theme/Month view)
+#: settings/korganizer.kcfg:357 settings/korganizer.kcfg:631
+#, kde-format
+msgid "Select the to-do overdue color here."
+msgstr "Chọn màu quá hạn của công việc cần làm ở đây."
+
+#. i18n: ectx: label, entry, group (Fonts)
+#: settings/korganizer.kcfg:365
+#, kde-format
+msgid "Time bar"
+msgstr "Thanh thời gian"
+
+#. i18n: ectx: whatsthis, entry, group (Fonts)
+#: settings/korganizer.kcfg:366
+#, kde-format
+msgid ""
+"Press this button to configure the time bar font. The time bar is the widget "
+"that shows the hours in the agenda view. This button will open the \"Select "
+"Font\" dialog, allowing you to choose the hour font for the time bar."
+msgstr ""
+"Nhấn nút này để cấu hình phông chữ của thanh thời gian. Thanh thời gian là "
+"phụ kiện hiển thị các giờ trong chế độ xem lịch. Nút này sẽ mở hộp thoại "
+"\"Chọn Phông Chữ\", cho phép bạn chọn phông chữ giờ cho thanh thời gian."
+
+#. i18n: ectx: label, entry, group (Fonts)
+#: settings/korganizer.kcfg:370
+#, kde-format
+msgid "Month view"
+msgstr "Xem theo tháng"
+
+#. i18n: ectx: whatsthis, entry, group (Fonts)
+#: settings/korganizer.kcfg:371
+#, kde-format
+msgid ""
+"Press this button to configure the month view font. This button will open "
+"the \"Select Font\" dialog, allowing you to choose the font for the items in "
+"the month view."
+msgstr ""
+"Nhấn nút này để cấu hình phông chữ cho khung xem tháng. Nút này sẽ mở hộp "
+"thoại \"Chọn Phông Chữ\", cho phép bạn chọn phông chữ cho các mục trong "
+"khung xem tháng."
+
+#. i18n: ectx: label, entry, group (Fonts)
+#: settings/korganizer.kcfg:375
+#, kde-format
+msgid "Agenda view"
+msgstr "Khung xem lịch"
+
+#. i18n: ectx: whatsthis, entry, group (Fonts)
+#: settings/korganizer.kcfg:376
+#, kde-format
+msgid ""
+"Press this button to configure the agenda view font. This button will open "
+"the \"Select Font\" dialog, allowing you to choose the font for the events "
+"in the agenda view."
+msgstr ""
+"Nhấn nút này để cấu hình phông chữ cho khung xem lịch. Nút này sẽ mở hộp "
+"thoại \"Chọn Phông Chữ\", cho phép bạn chọn phông chữ cho các sự kiện trong "
+"khung xem lịch."
+
+#. i18n: ectx: label, entry, group (Fonts)
+#: settings/korganizer.kcfg:380
+#, kde-format
+msgid "Current-time line"
+msgstr "Dòng thời gian hiện tại"
+
+#. i18n: ectx: whatsthis, entry, group (Fonts)
+#: settings/korganizer.kcfg:381
+#, kde-format
+msgid ""
+"Press this button to configure the current-time line font. This button will "
+"open the \"Select Font\" dialog, allowing you to choose the font for the "
+"current-time line in the agenda view."
+msgstr ""
+"Nhấn nút này để cấu hình phông chữ của dòng thời gian hiện tại. Nút này sẽ "
+"mở hộp thoại \"Chọn Phông Chữ\", cho phép bạn chọn phông chữ cho dòng thời "
+"gian hiện tại trong chế độ xem lịch."
+
+#. i18n: ectx: label, entry (DefaultTodoAttachMethod), group (Hidden Options)
+#: settings/korganizer.kcfg:405
+#, kde-format
+msgid "Default todo attachment method"
+msgstr "Phương thức đính kèm công việc mặc định"
+
+#. i18n: ectx: whatsthis, entry (DefaultTodoAttachMethod), group (Hidden Options)
+#: settings/korganizer.kcfg:406
+#, kde-format
+msgid "The default way of attaching dropped emails to a task"
+msgstr "Cách mặc định để đính kèm email đã thả vào một tác vụ"
+
+#. i18n: ectx: label, entry (DefaultTodoAttachMethod), group (Hidden Options)
+#: settings/korganizer.kcfg:409
+#, kde-format
+msgid "Always ask"
+msgstr "Luôn hỏi"
+
+#. i18n: ectx: label, entry (DefaultTodoAttachMethod), group (Hidden Options)
+#: settings/korganizer.kcfg:412
+#, kde-format
+msgid "Only attach link to message"
+msgstr "Chỉ đính kèm liên kết vào thông điệp"
+
+#. i18n: ectx: label, entry (DefaultTodoAttachMethod), group (Hidden Options)
+#: settings/korganizer.kcfg:415
+#, kde-format
+msgid "Attach complete message"
+msgstr "Đính kèm thông điệp hoàn tất"
+
+#. i18n: ectx: label, entry, group (Theming)
+#. i18n: ectx: label, entry, group (Theme/Month view)
+#: settings/korganizer.kcfg:472 settings/korganizer.kcfg:560
+#, kde-format
+msgid "Highlight color"
+msgstr "Màu tô sáng"
+
+#. i18n: ectx: whatsthis, entry, group (Theming)
+#: settings/korganizer.kcfg:473
+#, kde-format
+msgid ""
+"Select the highlight color here. The highlight color will be used for "
+"marking the currently selected area in your agenda and in the date navigator."
+msgstr ""
+"Chọn màu tô sáng ở đây. Màu tô sáng sẽ được sử dụng để đánh dấu khu vực "
+"đang được chọn trong lịch của bạn và trong trình điều hướng ngày."
+
+#. i18n: ectx: label, entry, group (Theming)
+#: settings/korganizer.kcfg:541
+#, kde-format
+msgid "Use system color"
+msgstr "Sử dụng màu hệ thống"
+
+#. i18n: ectx: whatsthis, entry, group (Theming)
+#: settings/korganizer.kcfg:542
+#, kde-format
+msgid ""
+"Use system color instead of user defined color. If enabled will ignore all "
+"other color settings"
+msgstr ""
+"Sử dụng màu hệ thống thay vì màu do người dùng định nghĩa. Nếu được bật, sẽ "
+"bỏ qua tất cả các thiết lập màu khác"
+
+#. i18n: ectx: label, entry, group (Theme/Month view)
+#: settings/korganizer.kcfg:553
+#, kde-format
+msgid "Month view background color"
+msgstr "Màu nền khung xem tháng"
+
+#. i18n: ectx: whatsthis, entry, group (Theme/Month view)
+#: settings/korganizer.kcfg:554
+#, kde-format
+msgid "Select the Month view background color here."
+msgstr "Chọn màu nền cho chế độ xem Tháng ở đây."
+
+#. i18n: ectx: whatsthis, entry, group (Theme/Month view)
+#: settings/korganizer.kcfg:561
+#, kde-format
+msgid ""
+"Select the highlight color here. The highlight color will be used for "
+"marking the currently selected area in your Month and in the date navigator."
+msgstr ""
+"Chọn màu tô sáng ở đây. Màu tô sáng sẽ được sử dụng để đánh dấu khu vực "
+"đang được chọn trong Tháng và trong trình điều hướng ngày."
+
+#. i18n: ectx: whatsthis, entry, group (Theme/Month view)
+#: settings/korganizer.kcfg:566
+#, kde-format
+msgid "Select the working hours background color for the Month view here."
+msgstr "Chọn màu nền cho giờ làm việc trong khung xem Tháng ở đây."
+
+#. i18n: ectx: label, entry, group (Theme/Month view)
+#: settings/korganizer.kcfg:588
+#, kde-format
+msgid "Default event color"
+msgstr "Màu sự kiện mặc định"
+
+#. i18n: ectx: whatsthis, entry, group (Theme/Month view)
+#: settings/korganizer.kcfg:589
+#, kde-format
+msgid ""
+"Select the default event color here. The default event color will be used "
+"for events in your Month. Note that you can specify a separate color for "
+"each event tag below."
+msgstr ""
+"Chọn màu sự kiện mặc định ở đây. Màu sự kiện mặc định sẽ được sử dụng cho "
+"các sự kiện trong Tháng của bạn. Lưu ý rằng bạn có thể chỉ định một màu "
+"riêng cho mỗi thẻ sự kiện bên dưới."
+
+#. i18n: ectx: property (placeholderText), widget (KListWidgetSearchLine, searchline)
+#: ui/filteredit_base.ui:35
+#, kde-format
+msgctxt "Displayed grayed-out inside the textbox, verb to search"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#. i18n: ectx: property (text), widget (QPushButton, mNewButton)
+#: ui/filteredit_base.ui:49
+#, kde-format
+msgid "&New"
+msgstr "&Mới"
+
+#. i18n: ectx: property (title), widget (QGroupBox, mDetailsFrame)
+#: ui/filteredit_base.ui:67
+#, kde-format
+msgid "Filter Details"
+msgstr "Chi tiết bộ lọc"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: ui/filteredit_base.ui:105
+#, kde-format
+msgctxt "filter name"
+msgid "Name:"
+msgstr "Tên:"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mRecurringCheck)
+#: ui/filteredit_base.ui:121
+#, kde-format
+msgid ""
+"Select this option if you do not want to show recurring events and to-dos in "
+"your views. Daily and weekly recurring items may take a lot of space, so it "
+"might be handy to hide them."
+msgstr ""
+"Chọn tùy chọn này nếu bạn không muốn hiển thị các sự kiện và công việc định "
+"kỳ trong các chế độ xem của bạn. Các mục lặp lại hàng ngày và hàng tuần có "
+"thể chiếm nhiều không gian, vì vậy việc ẩn chúng có thể rất tiện lợi."
+
+#. i18n: ectx: property (text), widget (QCheckBox, mRecurringCheck)
+#: ui/filteredit_base.ui:124
+#, kde-format
+msgid "Hide &recurring events and to-dos"
+msgstr "Ẩn các sự kiện &và công việc định kỳ"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mCompletedCheck)
+#: ui/filteredit_base.ui:131
+#, kde-format
+msgid ""
+"If this box is checked, the filter will hide all to-do items from the list, "
+"that have been completed. Optionally, only items that have been completed a "
+"given number of days are hidden."
+msgstr ""
+"Nếu hộp này được chọn, bộ lọc sẽ ẩn tất cả các mục công việc đã hoàn thành "
+"khỏi danh sách. Tùy chọn, chỉ ẩn các mục đã hoàn thành trong một số ngày "
+"nhất định."
+
+#. i18n: ectx: property (text), widget (QCheckBox, mCompletedCheck)
+#: ui/filteredit_base.ui:134
+#, kde-format
+msgid "Hide co&mpleted to-dos"
+msgstr "Ẩn &các công việc đã hoàn thành"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, mCompletedTimeSpanLabel)
+#: ui/filteredit_base.ui:177
+#, kde-format
+msgid ""
+"This option will allow you to select which completed to-dos should be "
+"hidden. When you choose <i>Immediately</i>, it will hide the to-do as soon "
+"as you check it. You can increase or decrease the number of days in the "
+"spinbox."
+msgstr ""
+"Lựa chọn này cho phép bạn bôi đen những việc cần làm đã hoàn thành nên được "
+"ẩn đi. Khi bạn chọn <i>Ngay lập tức</i>, nó sẽ ẩn việc cần làm ngay khi bạn "
+"đánh dấu. Bạn có thể tăng hoặc giảm số ngày trong ô điều chỉnh số."
+
+#. i18n: ectx: property (text), widget (QLabel, mCompletedTimeSpanLabel)
+#: ui/filteredit_base.ui:180
+#, kde-format
+msgid "Da&ys after completion:"
+msgstr "Ngà&y sau khi hoàn thành:"
+
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, mCompletedTimeSpan)
+#: ui/filteredit_base.ui:193
+#, kde-format
+msgid ""
+"Here you can give the number of days a to-do item has to be completed to be "
+"hidden from the to-do list. If you select \"Immediately\", all completed to-"
+"dos will be hidden. If you, for example, choose a value of 1, all to-do "
+"items will be hidden, that have been marked finished longer than 24 hours "
+"ago."
+msgstr ""
+"Ở đây bạn có thể đặt số ngày mà một mục công việc cần được hoàn thành để "
+"được ẩn khỏi danh sách công việc. Nếu bạn chọn \"Ngay lập tức\", tất cả các "
+"công việc đã hoàn thành sẽ được ẩn. Ví dụ, nếu bạn chọn 1 ngày, tất cả các "
+"mục công việc đã được đánh dấu là hoàn thành từ hơn 24 giờ trước sẽ được "
+"ẩn."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mHideInactiveTodosCheck)
+#: ui/filteredit_base.ui:218
+#, kde-format
+msgid ""
+"This option hides all to-dos from your list, where the start date has not "
+"been reached. (Note that the start date is not the due date of the to-do "
+"item.)"
+msgstr ""
+"Tùy chọn này ẩn tất cả các công việc cần làm khỏi danh sách của bạn, nơi mà "
+"ngày bắt đầu chưa được đạt tới. (Lưu ý rằng ngày bắt đầu không phải là ngày "
+"đến hạn của công việc cần làm.)"
+
+#. i18n: ectx: property (text), widget (QCheckBox, mHideInactiveTodosCheck)
+#: ui/filteredit_base.ui:221
+#, kde-format
+msgid "Hide &inactive to-dos"
+msgstr "Ẩn các công v&iệc bất hoạt"
+
+#. i18n: ectx: property (title), widget (QGroupBox, mCategoriesButtonGroup)
+#: ui/filteredit_base.ui:228
+#, kde-format
+msgid "Tags"
+msgstr "Thẻ"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, mCatHideCheck)
+#: ui/filteredit_base.ui:272
+#, kde-format
+msgid ""
+"When this option is chosen, this filter will show all items which do <i>not</"
+"i> contain any of the selected tags."
+msgstr ""
+"Khi lựa chọn này được chọn, bộ lọc này sẽ hiển thị tất cả các mục "
+"<i>không</i> chứa bất kỳ thẻ đã chọn nào."
+
+#. i18n: ectx: property (text), widget (QRadioButton, mCatHideCheck)
+#: ui/filteredit_base.ui:275
+#, kde-format
+msgid "Show all except selected"
+msgstr "Hiển thị tất cả ngoại trừ những mục đã chọn"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, mCatShowCheck)
+#: ui/filteredit_base.ui:288
+#, kde-format
+msgid ""
+"When this option is chosen, this filter will show all items containing any "
+"of the selected tags."
+msgstr ""
+"Khi lựa chọn này được chọn, bộ lọc này sẽ hiển thị tất cả các mục chứa bất "
+"kỳ thẻ nào được chọn."
+
+#. i18n: ectx: property (text), widget (QRadioButton, mCatShowCheck)
+#: ui/filteredit_base.ui:291
+#, kde-format
+msgid "Show only selected"
+msgstr "Chỉ hiển thị đã chọn"
+
+#. i18n: ectx: property (text), widget (QPushButton, mCatEditButton)
+#: ui/filteredit_base.ui:301
+#, kde-format
+msgid "Change…"
+msgstr "Thay đổi..."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, mHideTodosNotAssignedToMeCheck)
+#: ui/filteredit_base.ui:315
+#, kde-format
+msgid ""
+"This option hides all to-dos from your list which are assigned to someone "
+"else.<br>\n"
+"Only to-dos which have least one attendee will be checked.  If you are not "
+"in the list of attendees the to-do will be hidden."
+msgstr ""
+"Lựa chọn này ẩn tất cả các việc cần làm từ danh sách của bạn mà được giao "
+"cho người khác.<br>\nChỉ những việc cần làm có ít nhất một người tham gia "
+"mới được kiểm tra. Nếu bạn không có trong danh sách người tham gia, việc "
+"cần làm sẽ bị ẩn."
+
+#. i18n: ectx: property (text), widget (QCheckBox, mHideTodosNotAssignedToMeCheck)
+#: ui/filteredit_base.ui:318
+#, kde-format
+msgid "Hide to-dos not assigned to me"
+msgstr "Ẩn các công việc chưa được giao cho tôi"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tabPublish)
+#: ui/kogroupwareprefspage.ui:39
+#, kde-format
+msgid "P&ublish"
+msgstr "Cô&ng bố"
+
+#. i18n: ectx: property (text), widget (QLabel, TextLabel1)
+#: ui/kogroupwareprefspage.ui:60
+#, kde-format
+msgid ""
+"By publishing Free/Busy information, you allow others to take your calendar "
+"into account when inviting you for a meeting. Only the times you have "
+"already busy are published, not why they are busy."
+msgstr ""
+"Bằng cách công bố thông tin Rảnh/Bận, bạn cho phép những người khác tính "
+"đến lịch của bạn khi mời bạn tham gia một cuộc họp. Chỉ có những thời gian "
+"bạn đã bận được công bố, không phải lý do tại sao họ bận."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, publishEnable)
+#: ui/kogroupwareprefspage.ui:72
+#, kde-format
+msgid ""
+"Check this box to upload your Free/Busy information automatically.\n"
+"It is possible to skip this option and mail or upload your Free/Busy "
+"information using the Schedule menu of KOrganizer.\n"
+"Note: If KOrganizer is acting as a KDE Kolab client, this is not required, "
+"as the Kolab2 server taking care of publishing your Free/Busy information "
+"and manages the access to it from other users."
+msgstr ""
+"Đánh dấu vào ô này để tự động tải lên thông tin Rảnh/Bận của bạn.\nBạn cũng "
+"có thể bỏ qua tùy chọn này và gửi email hoặc tải lên thông tin Rảnh/Bận "
+"bằng cách sử dụng trình đơn Lịch trình của KOrganizer.\nLưu ý: Nếu "
+"KOrganizer đang hoạt động như một máy chủ Kolab KDE, điều này không cần "
+"thiết, vì máy chủ Kolab2 sẽ chịu trách nhiệm công bố thông tin Rảnh/Bận của "
+"bạn và quản lý quyền truy cập vào nó từ những người dùng khác."
+
+#. i18n: ectx: property (text), widget (QCheckBox, publishEnable)
+#: ui/kogroupwareprefspage.ui:75
+#, kde-format
+msgid "Publish your free/&busy information automatically"
+msgstr "Tự động công &bố thông tin lịch rảnh/bận của bạn"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, publishDelayLabel)
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, publishDelay)
+#: ui/kogroupwareprefspage.ui:99 ui/kogroupwareprefspage.ui:112
+#, kde-format
+msgid ""
+"Configure minimum the interval of time in minutes between each upload here. "
+"This configuration is only effective in case you choose to publish your "
+"information automatically."
+msgstr ""
+"Cấu hình khoảng thời gian tối thiểu bằng phút giữa mỗi lần tải lên ở đây. "
+"Cấu hình này chỉ có hiệu lực nếu bạn chọn tự động chia sẻ thông tin của "
+"mình."
+
+#. i18n: ectx: property (text), widget (QLabel, publishDelayLabel)
+#: ui/kogroupwareprefspage.ui:102
+#, kde-format
+msgid "Minimum time between uploads (in minutes):"
+msgstr "Thời gian tối thiểu giữa các lần tải lên (tính bằng phút):"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, TextLabel3)
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, publishDays)
+#. i18n: ectx: property (whatsThis), widget (QLabel, TextLabel4)
+#: ui/kogroupwareprefspage.ui:141 ui/kogroupwareprefspage.ui:154
+#: ui/kogroupwareprefspage.ui:170
+#, kde-format
+msgid ""
+"Configure the number of calendar days you wish to be published and available "
+"to others here."
+msgstr ""
+"Cấu hình số ngày lịch mà bạn muốn được công bố và khả dụng cho người khác ở "
+"đây."
+
+#. i18n: ectx: property (text), widget (QLabel, TextLabel3)
+#: ui/kogroupwareprefspage.ui:144
+#, kde-format
+msgid "Publish"
+msgstr "Công bố"
+
+#. i18n: ectx: property (text), widget (QLabel, TextLabel4)
+#: ui/kogroupwareprefspage.ui:173
+#, kde-format
+msgid "days of free/busy information"
+msgstr "thông tin lịch trống/bận trong số ngày"
+
+#. i18n: ectx: property (title), widget (QGroupBox, ButtonGroup2)
+#. i18n: ectx: property (title), widget (QGroupBox, ButtonGroup2_2)
+#: ui/kogroupwareprefspage.ui:198 ui/kogroupwareprefspage.ui:395
+#, kde-format
+msgid "Server Information"
+msgstr "Thông tin máy chủ"
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, publishUrl)
+#. i18n: ectx: property (whatsThis), widget (QLabel, TextLabel7)
+#: ui/kogroupwareprefspage.ui:226 ui/kogroupwareprefspage.ui:298
+#, kde-format
+msgid ""
+"Enter the URL for the server on which your Free/Busy information shall be "
+"published here.\n"
+"Ask the server administrator for this information."
+msgstr ""
+"Nhập URL của máy chủ nơi thông tin Rảnh/Bận của bạn sẽ được công bố ở "
+"đây.\nHãy hỏi quản trị viên máy chủ để có thông tin này."
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, publishPassword)
+#. i18n: ectx: property (whatsThis), widget (QLabel, textLabel2)
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, retrievePassword)
+#. i18n: ectx: property (whatsThis), widget (QLabel, textLabel4)
+#: ui/kogroupwareprefspage.ui:233 ui/kogroupwareprefspage.ui:243
+#: ui/kogroupwareprefspage.ui:416 ui/kogroupwareprefspage.ui:489
+#, kde-format
+msgid "Enter your groupware server login password here."
+msgstr "Nhập mật khẩu đăng nhập máy chủ groupware của bạn tại đây."
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: ui/kogroupwareprefspage.ui:246
+#, kde-format
+msgid "Password:"
+msgstr "Mật khẩu:"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, TextLabel6)
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, publishUser)
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, retrieveUser)
+#. i18n: ectx: property (whatsThis), widget (QLabel, textLabel3)
+#: ui/kogroupwareprefspage.ui:258 ui/kogroupwareprefspage.ui:279
+#: ui/kogroupwareprefspage.ui:428 ui/kogroupwareprefspage.ui:476
+#, kde-format
+msgid ""
+"Enter the login information relative to your account on the server here.\n"
+"\n"
+"A Kolab2 server specificity: Registered your UID (Unique IDentifier). By "
+"default your UID would be your email address on the Kolab2 server but it may "
+"also be different. In the last case enter your UID."
+msgstr ""
+"Nhập thông tin đăng nhập liên quan đến tài khoản của bạn trên máy chủ ở "
+"đây.\n\nĐiều đặc biệt của máy chủ Kolab2: Đăng ký UID (Unique IDentifier) "
+"của bạn. Theo mặc định, UID của bạn sẽ là địa chỉ thư điện tử của bạn trên "
+"máy chủ Kolab2, nhưng nó cũng có thể khác. Trong trường hợp cuối cùng, hãy "
+"nhập UID của bạn."
+
+#. i18n: ectx: property (text), widget (QLabel, TextLabel6)
+#: ui/kogroupwareprefspage.ui:261
+#, kde-format
+msgctxt "login name on the Kolab server"
+msgid "Username:"
+msgstr "Tên người dùng:"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, publishSavePassword)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, retrieveSavePassword)
+#: ui/kogroupwareprefspage.ui:287 ui/kogroupwareprefspage.ui:509
+#, kde-format
+msgid ""
+"Check this box to make KOrganizer remember your password and skip asking you "
+"each time it uploads your Free/Busy information, by storing it in the "
+"configuration file.\n"
+"For security reasons, it is not recommended to store your password in the "
+"configuration file."
+msgstr ""
+"Đánh dấu vào ô này để KOrganizer ghi nhớ mật khẩu của bạn và không cần hỏi "
+"mỗi lần tải thông tin Rảnh/Bận của bạn, bằng cách lưu trữ nó trong tệp cấu "
+"hình.\nVì lý do an ninh, không khuyến khích lưu trữ mật khẩu của bạn trong "
+"tệp cấu hình."
+
+#. i18n: ectx: property (text), widget (QCheckBox, publishSavePassword)
+#: ui/kogroupwareprefspage.ui:290
+#, kde-format
+msgid "Remember p&assword"
+msgstr "G&hi nhớ mật khẩu"
+
+#. i18n: ectx: property (text), widget (QLabel, TextLabel7)
+#. i18n: ectx: property (text), widget (QLabel, TextLabel7_2)
+#: ui/kogroupwareprefspage.ui:301 ui/kogroupwareprefspage.ui:464
+#, kde-format
+msgid "Server URL:"
+msgstr "Địa chỉ máy chủ:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: ui/kogroupwareprefspage.ui:311
+#, kde-format
+msgid "(No need if using Kolab server version 2)"
+msgstr "(Không cần nếu sử dụng phiên bản máy chủ Kolab 2)"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tabRetrieve)
+#: ui/kogroupwareprefspage.ui:338
+#, kde-format
+msgid "&Retrieve"
+msgstr "Lấ&y"
+
+#. i18n: ectx: property (text), widget (QLabel, TextLabel2)
+#: ui/kogroupwareprefspage.ui:359
+#, kde-format
+msgid ""
+"By retrieving Free/Busy information that others have published, you can take "
+"their calendar into account when inviting them to a meeting."
+msgstr ""
+"Bằng cách lấy thông tin Rảnh/Bận mà người khác đã công bố, bạn có thể tính "
+"đến lịch của họ khi mời họ tham gia một cuộc họp."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, retrieveEnable)
+#: ui/kogroupwareprefspage.ui:369
+#, kde-format
+msgid ""
+"Check this box to retrieve other people's Free/Busy information "
+"automatically. Note that you have to fill the correct server information to "
+"make this possible."
+msgstr ""
+"Đánh dấu vào ô này để tự động lấy thông tin Rảnh/Bận của những người khác. "
+"Lưu ý rằng bạn phải điền đúng thông tin máy chủ để làm điều này có thể."
+
+#. i18n: ectx: property (text), widget (QCheckBox, retrieveEnable)
+#: ui/kogroupwareprefspage.ui:372
+#, kde-format
+msgid "Retrieve other people's free/&busy information automatically"
+msgstr "Tự động lấy thông tin lịch trống/&bận của người khác"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, fullDomainRetrieval)
+#: ui/kogroupwareprefspage.ui:382
+#, kde-format
+msgid ""
+"Set this to retrieve user@domain.ifb instead of user.ifb from the server"
+msgstr "Đặt điều này để lấy user@domain.ifb thay vì user.ifb từ máy chủ"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, fullDomainRetrieval)
+#: ui/kogroupwareprefspage.ui:385
+#, kde-format
+msgid ""
+"Check this box to download a free/busy file in the format \"user@domain.ifb"
+"\" (for example joe@company.com.ifb). Otherwise, it will download a free/"
+"busy file in the format user.ifb (for example joe.ifb). Ask the server "
+"Administrator if you are not sure about how to configure this option."
+msgstr ""
+"Đánh dấu vào ô này để tải về tệp lịch trống/bận ở định dạng "
+"\"user@domain.ifb\" (ví dụ joe@company.com.ifb). Nếu không, nó sẽ tải về "
+"tệp lịch trống/bận ở định dạng user.ifb (ví dụ joe.ifb). Hãy hỏi quản trị "
+"viên máy chủ nếu bạn không chắc về cách cấu hình tùy chọn này."
+
+#. i18n: ectx: property (text), widget (QCheckBox, fullDomainRetrieval)
+#: ui/kogroupwareprefspage.ui:388
+#, kde-format
+msgid "Use full email &address for retrieval"
+msgstr "Sử dụng đị&a chỉ email đầy đủ để truy xuất"
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, retrieveUrl)
+#. i18n: ectx: property (whatsThis), widget (QLabel, TextLabel7_2)
+#: ui/kogroupwareprefspage.ui:446 ui/kogroupwareprefspage.ui:461
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Enter the URL for the server on which the Free/Busy information is published "
+"here.\n"
+"Ask the server administrator for this information.\n"
+"Here is a Kolab2 Server URL example:\n"
+"\n"
+"https://kolab2.example.com/freebusy/\n"
+"\n"
+"Alternatively, you can specify a full path to the Free/Busy. For example: \n"
+"\n"
+"https://kolab2.example.com/freebusy/user.xfb"
+msgstr ""
+"Nhập URL của máy chủ nơi thông tin Rảnh/Bận được công bố ở đây.\nHãy hỏi "
+"quản trị viên máy chủ để có thông tin này.\nDưới đây là ví dụ về URL máy "
+"chủ Kolab2:\n\nhttps://kolab2.example.com/freebusy/\n\nNgoài ra, bạn cũng "
+"có thể chỉ định đường dẫn đầy đủ đến Rảnh/Bận. Ví "
+"dụ:\n\nhttps://kolab2.example.com/freebusy/user.xfb"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: ui/kogroupwareprefspage.ui:479
+#, kde-format
+msgid "User&name:"
+msgstr "Tê&n người dùng:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: ui/kogroupwareprefspage.ui:492
+#, kde-format
+msgid "Passwor&d:"
+msgstr "&Mật khẩu:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, retrieveSavePassword)
+#: ui/kogroupwareprefspage.ui:512
+#, kde-format
+msgid "Re&member password"
+msgstr "Ghi nhớ &mật khẩu"
+
+#. i18n: ectx: property (text), widget (QLabel, searchLabel)
+#: ui/searchdialog_base.ui:36
+#, kde-format
+msgid "&Search for:"
+msgstr "Tì&m kiếm:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, searchEdit)
+#: ui/searchdialog_base.ui:49
+#, kde-format
+msgid "Search pattern. Use wildcards “*” and “?” as desired."
+msgstr "Mẫu tìm kiếm. Sử dụng ký tự đại diện \"*\" và \"?\" theo ý muốn."
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, searchEdit)
+#: ui/searchdialog_base.ui:52
+#, kde-format
+msgid ""
+"Examine various fields to see if they contain the search pattern: The "
+"pattern “meet” would match “kick-off meeting”. Wildcards “*” (matches any "
+"number of characters) and “?” (matches any single character) are supported.  "
+"For example, the search pattern “meet*boss” matches “Meeting with boss”. The "
+"pattern “c?t” would match “cat”, “cot”, and so on."
+msgstr ""
+"Kiểm tra các trường khác nhau để xem chúng có chứa dạng mẫu tìm kiếm hay "
+"không: Dạng mẫu \"meet\" sẽ khớp với \"kick-off meeting\". Các ký tự đại "
+"diện \"*\" (khớp với bất kỳ số lượng ký tự) và \"?\" (khớp với bất kỳ ký tự "
+"đơn lẻ) được hỗ trợ. Ví dụ, dạng mẫu tìm kiếm \"meet*boss\" khớp với "
+"\"Meeting with boss\". Dạng mẫu \"c?t\" sẽ khớp với \"cat\", \"cot\" và các "
+"từ tương tự."
+
+#. i18n: ectx: property (text), widget (QLineEdit, searchEdit)
+#: ui/searchdialog_base.ui:55
+#, kde-format
+msgid "*"
+msgstr "*"
+
+#. i18n: ectx: property (title), widget (QGroupBox, searchTypeGroup)
+#: ui/searchdialog_base.ui:67
+#, kde-format
+msgid "Search For"
+msgstr "Tìm kiếm"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, eventsCheck)
+#: ui/searchdialog_base.ui:73
+#, kde-format
+msgid "Search for events with matching criteria."
+msgstr "Tìm kiếm các sự kiện khớp với tiêu chí."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, eventsCheck)
+#: ui/searchdialog_base.ui:76
+#, kde-format
+msgid ""
+"Check this box if you want to search for events that match the search "
+"pattern and have start dates or end dates in the given date range."
+msgstr ""
+"Chọn hộp này nếu bạn muốn tìm kiếm các sự kiện phù hợp với dạng mẫu tìm "
+"kiếm và có ngày khởi động hoặc ngày kết thúc trong khoảng thời gian đã cho."
+
+#. i18n: ectx: property (text), widget (QCheckBox, eventsCheck)
+#: ui/searchdialog_base.ui:79
+#, kde-format
+msgid "&Events"
+msgstr "Sự &kiện"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, journalsCheck)
+#: ui/searchdialog_base.ui:89
+#, kde-format
+msgid "Search for journal entries with matching criteria."
+msgstr "Tìm kiếm các mục nhật ký khớp với tiêu chí."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, journalsCheck)
+#: ui/searchdialog_base.ui:92
+#, kde-format
+msgid ""
+"Check this box if you want to search for journal entries that match the "
+"search pattern and have start dates in the given date range."
+msgstr ""
+"Chọn hộp này nếu bạn muốn tìm kiếm các mục nhật ký phù hợp với dạng mẫu tìm "
+"kiếm và có ngày khởi động trong khoảng thời gian đã cho."
+
+#. i18n: ectx: property (text), widget (QCheckBox, journalsCheck)
+#: ui/searchdialog_base.ui:95
+#, kde-format
+msgid "&Journals"
+msgstr "&Nhật ký"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, todosCheck)
+#: ui/searchdialog_base.ui:102
+#, kde-format
+msgid "Search for to-dos with matching criteria."
+msgstr "Tìm kiếm các công việc cần làm với tiêu chí phù hợp."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, todosCheck)
+#: ui/searchdialog_base.ui:105
+#, kde-format
+msgid ""
+"Check this box if you want to search for to-dos that match the search "
+"pattern and have due dates in the given date range."
+msgstr ""
+"Chọn hộp này nếu bạn muốn tìm kiếm các công việc cần làm phù hợp với dạng "
+"mẫu tìm kiếm và có ngày hết hạn trong khoảng thời gian đã cho."
+
+#. i18n: ectx: property (text), widget (QCheckBox, todosCheck)
+#: ui/searchdialog_base.ui:108
+#, kde-format
+msgid "To-&dos"
+msgstr "Cô&ng việc cần làm"
+
+#. i18n: ectx: property (title), widget (QGroupBox, searchGroup)
+#: ui/searchdialog_base.ui:121
+#, kde-format
+msgid "Search In"
+msgstr "Tìm kiếm trong"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, categoryCheck)
+#: ui/searchdialog_base.ui:127
+#, kde-format
+msgid "Include tags in your search."
+msgstr "Bao gồm thẻ trong tìm kiếm của bạn."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, categoryCheck)
+#: ui/searchdialog_base.ui:130
+#, kde-format
+msgid "Check this box if you want to match tags against your search pattern."
+msgstr "Chọn hộp này nếu bạn muốn so khớp thẻ với mẫu tìm kiếm của bạn."
+
+#. i18n: ectx: property (text), widget (QCheckBox, categoryCheck)
+#: ui/searchdialog_base.ui:133
+#, kde-format
+msgid "Ta&gs"
+msgstr "T&hẻ"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, locationCheck)
+#: ui/searchdialog_base.ui:140
+#, kde-format
+msgid "Include locations in your search."
+msgstr "Bao gồm địa điểm trong tìm kiếm của bạn."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, locationCheck)
+#: ui/searchdialog_base.ui:143
+#, kde-format
+msgid ""
+"Check this box if you want to match locations against your search pattern."
+msgstr "Chọn hộp này nếu bạn muốn so khớp địa điểm với mẫu tìm kiếm của bạn."
+
+#. i18n: ectx: property (text), widget (QCheckBox, locationCheck)
+#: ui/searchdialog_base.ui:146
+#, kde-format
+msgid "Locations"
+msgstr "địa điểm"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, descriptionCheck)
+#: ui/searchdialog_base.ui:153
+#, kde-format
+msgid "Include descriptions in your search."
+msgstr "Bao gồm mô tả trong tìm kiếm của bạn."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, descriptionCheck)
+#: ui/searchdialog_base.ui:156
+#, kde-format
+msgid ""
+"Check this box if you want to match descriptions against your search pattern."
+msgstr "Chọn hộp này nếu bạn muốn so khớp mô tả với mẫu tìm kiếm của bạn."
+
+#. i18n: ectx: property (text), widget (QCheckBox, descriptionCheck)
+#: ui/searchdialog_base.ui:159
+#, kde-format
+msgid "Desc&riptions"
+msgstr "Mô &tả"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, summaryCheck)
+#: ui/searchdialog_base.ui:166
+#, kde-format
+msgid "Include summaries in your search."
+msgstr "Bao gồm tóm tắt trong tìm kiếm của bạn."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, summaryCheck)
+#: ui/searchdialog_base.ui:169
+#, kde-format
+msgid ""
+"Check this box if you want to match summaries against your search pattern."
+msgstr "Chọn hộp này nếu bạn muốn so khớp tóm tắt với mẫu tìm kiếm của bạn."
+
+#. i18n: ectx: property (text), widget (QCheckBox, summaryCheck)
+#: ui/searchdialog_base.ui:172
+#, kde-format
+msgid "Su&mmaries"
+msgstr "Tó&m tắt"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, attendeeCheck)
+#: ui/searchdialog_base.ui:182
+#, kde-format
+msgid "Include attendees in your search."
+msgstr "Bao gồm người tham dự trong tìm kiếm của bạn."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, attendeeCheck)
+#: ui/searchdialog_base.ui:185
+#, kde-format
+msgid ""
+"Check this box if you want to match attendees against your search pattern."
+msgstr "Chọn hộp này nếu bạn muốn so khớp người tham dự với mẫu tìm kiếm của bạn."
+
+#. i18n: ectx: property (text), widget (QCheckBox, attendeeCheck)
+#: ui/searchdialog_base.ui:188
+#, kde-format
+msgid "Attendees"
+msgstr "Người tham dự"
+
+#. i18n: ectx: property (title), widget (QGroupBox, dateRangeGroup)
+#: ui/searchdialog_base.ui:198
+#, kde-format
+msgid "Date Range"
+msgstr "Khoảng thời gian"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, dateRangeCheckbox)
+#: ui/searchdialog_base.ui:204
+#, kde-format
+msgid "When checked, the search will be limited to the specified date range."
+msgstr ""
+"Khi được chọn, tìm kiếm sẽ bị giới hạn trong khoảng thời gian được chỉ "
+"định."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, dateRangeCheckbox)
+#: ui/searchdialog_base.ui:207
+#, kde-format
+msgid ""
+"Check this box to search for events within a specified date range. If the "
+"box is unchecked, all events will be searched."
+msgstr ""
+"Chọn hộp này để tìm kiếm các sự kiện trong khoảng thời gian được chỉ định. "
+"Nếu hộp không được chọn, tất cả các sự kiện sẽ được tìm kiếm."
+
+#. i18n: ectx: property (text), widget (QCheckBox, dateRangeCheckbox)
+#: ui/searchdialog_base.ui:210
+#, kde-format
+msgid "Limit search to specified date range"
+msgstr "Giới hạn tìm kiếm trong phạm vi ngày đã chỉ định"
+
+#. i18n: ectx: property (text), widget (QLabel, startDateLabel)
+#: ui/searchdialog_base.ui:222
+#, kde-format
+msgid "Fr&om:"
+msgstr "&Từ:"
+
+#. i18n: ectx: property (toolTip), widget (KDateComboBox, startDate)
+#: ui/searchdialog_base.ui:241
+#, kde-format
+msgid "The starting date of the period to search."
+msgstr "Ngày bắt đầu của khoảng thời gian cần tìm kiếm."
+
+#. i18n: ectx: property (whatsThis), widget (KDateComboBox, startDate)
+#: ui/searchdialog_base.ui:244
+#, kde-format
+msgid "Search for items in the time period starting at the date given here."
+msgstr ""
+"Tìm kiếm các mục trong khoảng thời gian bắt đầu từ ngày được chỉ định ở "
+"đây."
+
+#. i18n: ectx: property (text), item, widget (KDateComboBox, startDate)
+#. i18n: ectx: property (text), item, widget (KDateComboBox, endDate)
+#: ui/searchdialog_base.ui:248 ui/searchdialog_base.ui:286
+#, kde-format
+msgid "2008-08-18"
+msgstr "2008-08-18"
+
+#. i18n: ectx: property (text), widget (QLabel, endDateLabel)
+#: ui/searchdialog_base.ui:260
+#, kde-format
+msgid "&To:"
+msgstr "Đế&n:"
+
+#. i18n: ectx: property (toolTip), widget (KDateComboBox, endDate)
+#: ui/searchdialog_base.ui:279
+#, kde-format
+msgid "The ending date of the period to search."
+msgstr "Ngày kết thúc của khoảng thời gian cần tìm kiếm."
+
+#. i18n: ectx: property (whatsThis), widget (KDateComboBox, endDate)
+#: ui/searchdialog_base.ui:282
+#, kde-format
+msgid "Search for items in the time period ending at the date given here."
+msgstr ""
+"Tìm kiếm các mục trong khoảng thời gian kết thúc vào ngày được chỉ định ở "
+"đây."
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, inclusiveCheck)
+#: ui/searchdialog_base.ui:296
+#, kde-format
+msgid ""
+"Display events only if their start date and end date are both in the date "
+"range specified."
+msgstr ""
+"Chỉ hiển thị các sự kiện nếu cả ngày bắt đầu và ngày kết thúc đều nằm trong "
+"phạm vi ngày được chỉ định."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, inclusiveCheck)
+#: ui/searchdialog_base.ui:299
+#, kde-format
+msgid ""
+"Check this box if you only want to find events that occur entirely within "
+"the date range specified.  Events that start during the date range but end "
+"after it, or end during the date range but start before it, will be excluded "
+"from the search results."
+msgstr ""
+"Đánh dấu vào ô này nếu bạn chỉ muốn tìm các sự kiện diễn ra hoàn toàn trong "
+"khoảng thời gian được chỉ định. Các sự kiện bắt đầu trong khoảng thời gian "
+"này nhưng kết thúc sau đó, hoặc kết thúc trong khoảng thời gian này nhưng "
+"bắt đầu trước đó, sẽ bị loại khỏi kết quả tìm kiếm."
+
+#. i18n: ectx: property (text), widget (QCheckBox, inclusiveCheck)
+#: ui/searchdialog_base.ui:302
+#, kde-format
+msgid "Exclude e&vents that extend outside the specified date range"
+msgstr "Loại trừ các sự kiện kéo dài ngoài phạm &vi ngày được chỉ định"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, includeUndatedTodos)
+#: ui/searchdialog_base.ui:309
+#, kde-format
+msgid ""
+"Include to-dos that have a start date, due date,  or completion date in the "
+"date range specified, or have neither a start date nor an end date."
+msgstr ""
+"Bao gồm các công việc cần làm có ngày bắt đầu, ngày đến hạn hoặc ngày hoàn "
+"thành trong khoảng thời gian được chỉ định, hoặc không có ngày bắt đầu cũng "
+"như ngày kết thúc."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, includeUndatedTodos)
+#: ui/searchdialog_base.ui:312
+#, kde-format
+msgid ""
+"Check this box to search for to-dos that have a start date, due date, or "
+"completion date in the date range specified, or have neither a start date "
+"nor an end date.  If the box is unchecked, only to-dos that have a due date "
+"in the date range will be displayed."
+msgstr ""
+"Đánh dấu vào ô này để tìm kiếm các công việc cần làm có ngày bắt đầu, ngày "
+"đến hạn hoặc ngày hoàn thành trong khoảng thời gian được chỉ định, hoặc "
+"không có ngày bắt đầu và ngày kết thúc. Nếu ô này không được đánh dấu, chỉ "
+"những công việc cần làm có ngày đến hạn trong khoảng thời gian được chỉ "
+"định mới được hiển thị."
+
+#. i18n: ectx: property (text), widget (QCheckBox, includeUndatedTodos)
+#: ui/searchdialog_base.ui:315
+#, kde-format
+msgid "Include all to-dos &within the specified date range"
+msgstr "Bao gồm tất cả các công v&iệc cần làm trong khoảng thời gian được chỉ định"
+
+#. i18n: ectx: property (text), widget (QPushButton, mDayBtn)
+#: views/collectionview/quickview.ui:34
+#, kde-format
+msgid "Day"
+msgstr "Ngày"
+
+#. i18n: ectx: property (text), widget (QPushButton, mWeekBtn)
+#: views/collectionview/quickview.ui:41
+#, kde-format
+msgid "Week"
+msgstr "Tuần"
+
+#. i18n: ectx: property (text), widget (QPushButton, mMothBtn)
+#: views/collectionview/quickview.ui:51
+#, kde-format
+msgid "Month"
+msgstr "Tháng"
+
+#. i18n: ectx: property (text), widget (QPushButton, mAgendaBtn)
+#: views/collectionview/quickview.ui:61
+#, kde-format
+msgid "Agenda"
+msgstr "Lịch"
+
+#. i18n: ectx: property (text), widget (QPushButton, mPreviousBtn)
+#: views/collectionview/quickview.ui:84
+#, kde-format
+msgid "<"
+msgstr "&lt;"
+
+#. i18n: ectx: property (text), widget (QPushButton, mNextBtn)
+#: views/collectionview/quickview.ui:104
+#, kde-format
+msgid ">"
+msgstr ">"
+
+#: views/multiagendaview/multiagendaview.cpp:37
+#, kde-format
+msgid "Agenda %1"
+msgstr "Lịch %1"
+
+#: views/multiagendaview/multiagendaview.cpp:340
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure Side-By-Side View"
+msgstr "Cấu hình Xem Ngang"
+
+#. i18n: ectx: property (text), widget (QRadioButton, useDefaultRB)
+#: views/multiagendaview/multiagendaviewconfigwidget.ui:17
+#, kde-format
+msgid "Show one calendar per agenda column"
+msgstr "Hiển thị một lịch cho mỗi cột lịch"
+
+#. i18n: ectx: property (text), widget (QRadioButton, useCustomRB)
+#: views/multiagendaview/multiagendaviewconfigwidget.ui:27
+#, kde-format
+msgid "Use custom calendar setup"
+msgstr "Sử dụng thiết lập lịch tùy chỉnh"
+
+#. i18n: ectx: property (text), widget (QLabel, columnNumberLabel)
+#: views/multiagendaview/multiagendaviewconfigwidget.ui:36
+#, kde-format
+msgid "Number of columns"
+msgstr "Số cột"
+
+#. i18n: ectx: property (text), widget (QLabel, titleLabel)
+#: views/multiagendaview/multiagendaviewconfigwidget.ui:84
+#, kde-format
+msgctxt "Agenda title"
+msgid "Title"
+msgstr "Tiêu đề"
+
+#. i18n: ectx: property (text), widget (QLabel, selectedCalendarsLabel)
+#: views/multiagendaview/multiagendaviewconfigwidget.ui:102
+#, kde-format
+msgid "Selected Calendars"
+msgstr "Lịch đã chọn"
+
+#: widgets/kdatenavigator.cpp:169
+#, kde-format
+msgctxt "start/end week number of line in date picker"
+msgid "%1/%2"
+msgstr "%1/%2"
+
+#: widgets/kdatenavigator.cpp:174
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Scroll to week number %1"
+msgstr "Cuộn đến tuần số %1"
+
+#: widgets/kdatenavigator.cpp:176
+#, kde-format
+msgid ""
+"Click here to scroll the display to week number %1 of the currently "
+"displayed year."
+msgstr "Bấm vào đây để cuộn bộ hiển thị đến tuần thứ %1 của năm hiện tại."
+
+#: widgets/kdatenavigator.cpp:222
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "%1"
+msgstr "%1"
+
+#: widgets/kdatenavigator.cpp:223
+#, kde-format
+msgid "A column header of the %1 dates in the month."
+msgstr "Một đầu tải cột của các ngày %1 trong tháng."
+
+#: widgets/kitemiconcheckcombo.cpp:16
+#, kde-format
+msgid "Calendar's custom icon"
+msgstr "Biểu tượng tùy chỉnh của lịch"
+
+#: widgets/kitemiconcheckcombo.cpp:17
+#, kde-format
+msgid "To-do"
+msgstr "Công việc cần làm"
+
+#: widgets/kitemiconcheckcombo.cpp:18
+#, kde-format
+msgid "Journal"
+msgstr "Nhật ký"
+
+#: widgets/kitemiconcheckcombo.cpp:19
+#, kde-format
+msgid "Recurring"
+msgstr "Định kỳ"
+
+#: widgets/kitemiconcheckcombo.cpp:20
+#, kde-format
+msgid "Alarm"
+msgstr "Báo động"
+
+#: widgets/kitemiconcheckcombo.cpp:21
+#, kde-format
+msgid "Read Only"
+msgstr "Chỉ đọc"
+
+#: widgets/kitemiconcheckcombo.cpp:22
+#, kde-format
+msgid "Needs Reply"
+msgstr "Cần hồi đáp"
+
+#: widgets/kitemiconcheckcombo.cpp:23
+#, kde-format
+msgid "Attending"
+msgstr "Tham dự"
+
+#: widgets/kitemiconcheckcombo.cpp:24
+#, kde-format
+msgid "Maybe Attending"
+msgstr "Có thể tham dự"
+
+#: widgets/kitemiconcheckcombo.cpp:25
+#, kde-format
+msgid "Organizer"
+msgstr "Trình quản lý"
+
+#: widgets/kitemiconcheckcombo.cpp:34
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Icons to use"
+msgstr "Biểu tượng để sử dụng"
+
+#: widgets/navigatorbar.cpp:31
+#, kde-format
+msgid "Scroll backward to the previous year"
+msgstr "Cuộn về năm trước"
+
+#: widgets/navigatorbar.cpp:32
+#, kde-format
+msgid ""
+"Click this button to scroll the display to the same approximate day of the "
+"previous year"
+msgstr "Bấm nút này để cuộn bộ hiển thị đến ngày gần bằng ngày của năm trước"
+
+#: widgets/navigatorbar.cpp:36
+#, kde-format
+msgid "Scroll backward to the previous month"
+msgstr "Cuộn về tháng trước"
+
+#: widgets/navigatorbar.cpp:37
+#, kde-format
+msgid ""
+"Click this button to scroll the display to the same approximate date of the "
+"previous month"
+msgstr "Bấm nút này để cuộn bộ hiển thị về ngày gần tương tự của tháng trước"
+
+#: widgets/navigatorbar.cpp:41
+#, kde-format
+msgid "Scroll forward to the next month"
+msgstr "Cuộn về phía trước đến tháng tiếp theo"
+
+#: widgets/navigatorbar.cpp:42
+#, kde-format
+msgid ""
+"Click this button to scroll the display to the same approximate date of the "
+"next month"
+msgstr "Bấm nút này để cuộn bộ hiển thị đến ngày gần đúng của tháng tiếp theo"
+
+#: widgets/navigatorbar.cpp:46
+#, kde-format
+msgid "Scroll forward to the next year"
+msgstr "Cuộn về phía trước đến năm tiếp theo"
+
+#: widgets/navigatorbar.cpp:47
+#, kde-format
+msgid ""
+"Click this button to scroll the display to the same approximate day of the "
+"next year"
+msgstr "Bấm nút này để cuộn bộ hiển thị đến ngày gần tương tự của năm tiếp theo"
+
+#: widgets/navigatorbar.cpp:54
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Select a month"
+msgstr "Chọn một tháng"
+
+#: widgets/navigatorbar.cpp:60
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Select a year"
+msgstr "Chọn một năm"
+
+#: widgets/navigatorbar.cpp:109
+#, kde-format
+msgctxt "monthname"
+msgid "%1"
+msgstr "%1"
+
+#: widgets/navigatorbar.cpp:110
+#, kde-format
+msgctxt "4 digit year"
+msgid "%1"
+msgstr "%1"

@@ -1,0 +1,1269 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdepim-runtime package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdepim-runtime\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-12 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ewsautodiscoveryjob.cpp:45 ewsautodiscoveryjob.cpp:52
+#, kde-format
+msgid "Incorrect email address"
+msgstr "Địa chỉ thư điện tử không chính xác"
+
+#: ewsautodiscoveryjob.cpp:116
+#, kde-format
+msgid "Exchange protocol information not found"
+msgstr "Không tìm thấy thông tin giao thức Exchange"
+
+#: ewsclient/auth/ewsoauth.cpp:513
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Microsoft Exchange credentials for the account <b>%1</b> are no longer "
+"valid. You need to authenticate in order to continue using it."
+msgstr ""
+"Thông tin đăng nhập Microsoft Exchange cho tài khoản <b>%1</b> không còn "
+"hợp lệ. Bạn cần xác thực để tiếp tục sử dụng nó."
+
+#: ewsclient/auth/ewsoauth.cpp:522
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Failed to obtain credentials for Microsoft Exchange account <b>%1</b>. "
+"Please update it in the account settings page."
+msgstr ""
+"Không thể lấy được thông tin xác thực cho tài khoản Microsoft Exchange "
+"<b>%1</b>. Vui lòng cập nhật nó trong trang thiết lập tài khoản."
+
+#: ewsclient/auth/ewspasswordauth.cpp:57
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The username/password for the Microsoft Exchange EWS account <b>%1</b> is "
+"not valid. Please update it in the account settings page."
+msgstr ""
+"Tên người dùng/mật khẩu cho tài khoản Microsoft Exchange EWS <b>%1</b> "
+"không hợp lệ. Vui lòng cập nhật nó trong trang thiết lập tài khoản."
+
+#: ewsconfigdialog.cpp:76
+#, kde-format
+msgctxt "@title:window"
+msgid "Microsoft Exchange Configuration"
+msgstr "Cấu hình Microsoft Exchange"
+
+#: ewsconfigdialog.cpp:102
+#, kde-format
+msgctxt "Server status"
+msgid "OK"
+msgstr "Tốt"
+
+#: ewsconfigdialog.cpp:122 ewsconfigdialog.cpp:124
+#, kde-format
+msgid "PEM file"
+msgstr "tệp PEM"
+
+#: ewsconfigdialog.cpp:142
+#, kde-format
+msgctxt "User Agent"
+msgid "Custom"
+msgstr "Tự chọn"
+
+#: ewsconfigdialog.cpp:153
+#, kde-format
+msgctxt "@info"
+msgid "Akonadi Resource for Microsoft Exchange Web Services (EWS)"
+msgstr "Tài nguyên Akonadi cho Dịch vụ Web Microsoft Exchange (EWS)"
+
+#: ewsconfigdialog.cpp:154
+#, kde-format
+msgctxt "@info"
+msgid "Copyright (c) Krzysztof Nowicki 2015-2020"
+msgstr "Bản quyền (c) Krzysztof Nowicki 2015-2020"
+
+#: ewsconfigdialog.cpp:155
+#, kde-format
+msgctxt "@info"
+msgid "Version %1"
+msgstr "Phiên bản %1"
+
+#: ewsconfigdialog.cpp:156
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Distributed under the GNU Library General Public License version 2.0 or "
+"later."
+msgstr ""
+"Được phân phối theo Giấy phép Công cộng GNU Library phiên bản 2.0 hoặc mới "
+"hơn."
+
+#: ewsconfigdialog.cpp:251
+#, kde-format
+msgctxt "Exchange server autodiscovery"
+msgid "Autodiscovery failed"
+msgstr "Tự động khám phá thất bại"
+
+#: ewsconfigdialog.cpp:266
+#, kde-format
+msgctxt "Exchange server connection"
+msgid "Connection failed"
+msgstr "Kết nối không thành công"
+
+#: ewsconfigdialog.cpp:267 ewsconfigdialog.cpp:425
+#, kde-format
+msgctxt "Exchange server status"
+msgid "Failed"
+msgstr "Thất bại"
+
+#: ewsconfigdialog.cpp:268 ewsconfigdialog.cpp:426
+#, kde-format
+msgctxt "Exchange server version"
+msgid "Unknown"
+msgstr "không rõ"
+
+#: ewsconfigdialog.cpp:271 ewsconfigdialog.cpp:430
+#, kde-format
+msgctxt "Exchange server status"
+msgid "OK"
+msgstr "Tốt"
+
+#: ewsconfigdialog.cpp:341
+#, kde-format
+msgid ""
+"Autodiscovery failed. This can be caused by incorrect parameters. Do you "
+"still want to save your settings?"
+msgstr ""
+"Tự động phát hiện thất bại. Điều này có thể do các tham số không chính xác. "
+"Bạn vẫn muốn lưu cài đặt của mình?"
+
+#: ewsconfigdialog.cpp:342
+#, kde-format
+msgid "Exchange server autodiscovery"
+msgstr "Tự động khám phá máy chủ Exchange"
+
+#: ewsconfigdialog.cpp:372
+#, kde-format
+msgid ""
+"Connecting to Exchange failed. This can be caused by incorrect parameters. "
+"Do you still want to save your settings?"
+msgstr ""
+"Kết nối với Exchange không thành công. Điều này có thể do các tham số không "
+"chính xác. Bạn vẫn muốn lưu cài đặt của mình?"
+
+#: ewsconfigdialog.cpp:373
+#, kde-format
+msgid "Exchange server connection"
+msgstr "Kết nối máy chủ Exchange"
+
+#: ewsconfigdialog.cpp:427
+#, kde-format
+msgid "Connection failed"
+msgstr "Kết nối không thành công"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, SetupServerView)
+#: ewsconfigdialog.ui:14
+#, kde-format
+msgid "EWS Configuration"
+msgstr "Cấu hình EWS"
+
+#. i18n: ectx: attribute (title), widget (QWidget, generalTab)
+#: ewsconfigdialog.ui:24
+#, kde-format
+msgctxt "General settings tab"
+msgid "General"
+msgstr "Chung"
+
+#. i18n: ectx: property (title), widget (QGroupBox, accountInfoGroupBox)
+#: ewsconfigdialog.ui:45
+#, kde-format
+msgid "Account Information"
+msgstr "Thông tin tài khoản"
+
+#. i18n: ectx: property (text), widget (QLabel, accountNameLabel)
+#. i18n: ectx: property (text), widget (QLabel, accountLabel)
+#: ewsconfigdialog.ui:57 ewsmtaconfigdialog.ui:32
+#, kde-format
+msgid "Account Name:"
+msgstr "Tên tài khoản:"
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, accountName)
+#: ewsconfigdialog.ui:64
+#, kde-format
+msgid "This is the account name that will appear in all Akonadi applications"
+msgstr "Đây là tên tài khoản sẽ hiển thị trong tất cả các ứng dụng Akonadi"
+
+#. i18n: ectx: property (text), widget (QLabel, emailLabel)
+#: ewsconfigdialog.ui:71
+#, kde-format
+msgctxt "Exchange account e-mail address"
+msgid "Email:"
+msgstr "Email:"
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, kcfg_Email)
+#: ewsconfigdialog.ui:78
+#, kde-format
+msgid "The e-mail address of this account"
+msgstr "Địa chỉ email của tài khoản này"
+
+#. i18n: ectx: property (title), widget (QGroupBox, authenticationGroupBox)
+#. i18n: ectx: property (title), widget (QGroupBox, advAuthenticationGroupBox)
+#: ewsconfigdialog.ui:88 ewsconfigdialog.ui:486
+#, kde-format
+msgid "Authentication"
+msgstr "Xác thực"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, authUsernameRadioButton)
+#: ewsconfigdialog.ui:94
+#, kde-format
+msgid ""
+"<html><head/><body><p>Enables traditional username/password authentication "
+"against the Exchange server. This includes methods like Basic, NTLM or "
+"Kerberos.</p><p>This authentication method is considered to be somewhat "
+"legacy and is mostly used for smaller on-premise Exchange installations and "
+"hosted Office 365 instances, where the administrator has chosen to enable it."
+"</p></body></html>"
+msgstr ""
+"<html><head/><body><p>Cho phép xác thực tên người dùng/mật khẩu truyền "
+"thống đối với máy chủ Exchange. Điều này bao gồm các phương thức như Basic, "
+"NTLM hoặc Kerberos.</p><p>Phương thức xác thực này được coi là hơi đời cũ "
+"và chủ yếu được sử dụng cho các cài đặt Exchange tại chỗ nhỏ hơn và các "
+"phiên bản Office 365 được lưu trữ, nơi quản trị viên đã chọn bật "
+"nó.</p></body></html>"
+
+#. i18n: ectx: property (text), widget (QRadioButton, authUsernameRadioButton)
+#: ewsconfigdialog.ui:97
+#, kde-format
+msgctxt "authentication type"
+msgid "&Username/Password"
+msgstr "Tê&n người dùng/Mật khẩu"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_HasDomain)
+#: ewsconfigdialog.ui:143
+#, kde-format
+msgid ""
+"<html><head/><body><p>Allows to specify an Active Directory domain for the "
+"user.</p><p><span style=\" font-weight:600;\">Note:</span> There is a subtle "
+"difference between &quot;empty domain&quot; and &quot;no-domain&quot;.</"
+"p><p>With an empty domain (Domain checkbox checked, empty domain in edit "
+"box) the EWS resource will pass the user with an explicitly empty domain "
+"(&quot;\\username&quot;).</p><p>With no domain set (Domain checkbox cleared) "
+"the username will be passed without the domain (&quot;username&quot;), which "
+"will cause the server to set the domain to the default one its configured "
+"with.</p></body></html>"
+msgstr ""
+"<&html><head/><body><p>Cho phép chỉ định một miền Active Directory cho "
+"người dùng.</p><p><span style=\" font-weight:600;\">Lưu ý:</span> Có sự "
+"khác biệt nhỏ giữa \"miền trống\" và \"không có miền\".</p><p>Với miền "
+"trống (hộp kiểm Miền được đánh dấu, miền trống trong hộp sửa) tài nguyên "
+"EWS sẽ truyền người dùng với một miền rỗng rõ ràng (\"\\tên người "
+"dùng\").</p><p>Khi không đặt miền (hộp kiểm Miền không được đánh dấu) tên "
+"người dùng sẽ được truyền mà không có miền (\"tên người dùng\"), điều này "
+"sẽ khiến máy chủ đặt miền thành miền mặc định mà nó được cấu "
+"hình.</p></body></html>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_HasDomain)
+#: ewsconfigdialog.ui:146
+#, kde-format
+msgid "Domain:"
+msgstr "Miền:"
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, kcfg_Domain)
+#: ewsconfigdialog.ui:156
+#, kde-format
+msgid "The Active Directory domain the user belongs to."
+msgstr "Miền Active Directory mà người dùng thuộc về."
+
+#. i18n: ectx: property (text), widget (QLabel, usernameLabel)
+#: ewsconfigdialog.ui:169
+#, kde-format
+msgctxt "Exchange account username/login"
+msgid "Username:"
+msgstr "Tên người dùng:"
+
+#. i18n: ectx: property (text), widget (QLabel, passwordLabel)
+#: ewsconfigdialog.ui:179
+#, kde-format
+msgid "Password:"
+msgstr "Mật khẩu:"
+
+#. i18n: ectx: property (whatsThis), widget (KPasswordLineEdit, passwordEdit)
+#: ewsconfigdialog.ui:186
+#, kde-format
+msgid ""
+"<html><head/><body><p>The password used to login to the Exchange server.</"
+"p><p><span style=\" font-weight:600;\">Note:</span> This can be left empty "
+"when using Kerberos authentication.</p></body></html>"
+msgstr ""
+"<html><head/><body><p>Mật khẩu được sử dụng để đăng nhập vào máy chủ "
+"Exchange.</p><p><span style=\" font-weight:600;\">Lưu ý:</span> Có thể để "
+"trống khi sử dụng xác thực Kerberos.</p></body></html>"
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, kcfg_Username)
+#: ewsconfigdialog.ui:193
+#, kde-format
+msgid ""
+"<html><head/><body><p>The username used to login to the Exchange server.</"
+"p><p><span style=\" font-weight:600;\">Note:</span> This can be left empty "
+"when using Kerberos authentication.</p></body></html>"
+msgstr ""
+"<html><head/><body><p>Tên người dùng được sử dụng để đăng nhập vào máy chủ "
+"Exchange.</p><p><span style=\" font-weight:600;\">Lưu ý:</span> Có thể để "
+"trống khi sử dụng xác thực Kerberos.</p></body></html>"
+
+#. i18n: ectx: property (text), widget (QLabel, kerberosNoteLabel)
+#: ewsconfigdialog.ui:203
+#, kde-format
+msgid ""
+"<html><head/><body><p><span style=\" font-weight:600;\">Note:</span> "
+"Username and password are not needed (can be empty) when Kerberos is "
+"properly configured on your system.</p></body></html>"
+msgstr ""
+"<html><head/><body><p><span style=\" font-weight:600;\">Lưu ý:</span> Tên "
+"người dùng và mật khẩu không cần thiết (có thể để trống) khi Kerberos được "
+"cấu hình đúng cách trên hệ thống của bạn.</p></body></html>"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, authOAuth2RadioButton)
+#: ewsconfigdialog.ui:222
+#, kde-format
+msgid ""
+"<html><head/><body><p>Enables more modern and stronger authentication based "
+"on OAuth2.</p><p>This type of authentication will open an organization-"
+"supplied webpage, where the user will be able to enter authentication "
+"information, which may also include multifactor authentication in form of "
+"one-time-passwords generated by tokens.</p><p>This method is mostly used for "
+"hosted Office 365 instances.</p></body></html>"
+msgstr ""
+"<html><head/><body><p>Kích hoạt xác thực hiện đại và mạnh mẽ hơn dựa trên "
+"OAuth2.</p><p>Kiểu xác thực này sẽ mở một trang web do tổ chức cung cấp, "
+"nơi người dùng có thể nhập thông tin xác thực, có thể bao gồm cả xác thực "
+"đa yếu tố dưới dạng mật khẩu một lần được tạo bởi mã thông "
+"báo.</p><p>Phương pháp này chủ yếu được sử dụng cho các phiên bản Office "
+"365 được lưu trữ.</p></body></html>"
+
+#. i18n: ectx: property (text), widget (QRadioButton, authOAuth2RadioButton)
+#: ewsconfigdialog.ui:225
+#, kde-format
+msgid "OAuth&2 (Office 365)"
+msgstr "OAuth&2 (Office 365)"
+
+#. i18n: ectx: property (title), widget (QGroupBox, ewsSettingsGroupBox)
+#: ewsconfigdialog.ui:235
+#, kde-format
+msgid "EWS Settings"
+msgstr "Thiết lập EWS"
+
+#. i18n: ectx: property (text), widget (QLabel, serverUrlLabel)
+#: ewsconfigdialog.ui:250
+#, kde-format
+msgid "EWS URL:"
+msgstr "URL EWS:"
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, kcfg_BaseUrl)
+#: ewsconfigdialog.ui:263
+#, kde-format
+msgid "The Microsoft Exchange server URL used to send EWS requests."
+msgstr "URL của máy chủ Microsoft Exchange được sử dụng để gửi các yêu cầu EWS."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_AutoDiscovery)
+#: ewsconfigdialog.ui:285
+#, kde-format
+msgid ""
+"<html><head/><body><p>Attempts to find out the Microsoft Exchange server "
+"address relevant to the supplied e-mail address.</p></body></html>"
+msgstr ""
+"<html><head/><body><p>Cố gắng tìm ra địa chỉ máy chủ Microsoft Exchange "
+"liên quan đến địa chỉ e-mail đã cung cấp.</p></body></html>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AutoDiscovery)
+#. i18n: ectx: label, entry (AutoDiscovery), group (General)
+#: ewsconfigdialog.ui:288 ewsresource.kcfg:35
+#, kde-format
+msgid "Server Autodiscovery"
+msgstr "Tự động phát hiện máy chủ"
+
+#. i18n: ectx: property (text), widget (QPushButton, autodiscoverButton)
+#: ewsconfigdialog.ui:298
+#, kde-format
+msgid "Perform"
+msgstr "Thực hiện"
+
+#. i18n: ectx: property (text), widget (QPushButton, tryConnectButton)
+#: ewsconfigdialog.ui:308
+#, kde-format
+msgid "Try connect"
+msgstr "Thử kết nối"
+
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, pkeyAuthGroupBox)
+#: ewsconfigdialog.ui:324
+#, kde-format
+msgid ""
+"<html><head/><body><p>Private Key (PKey) Authentication is used as an "
+"additional authentication step to OAuth2-based authentication. It uses an "
+"X.509 certificate and private key that identifies a trusted device, which "
+"was joined to the Azure Directory using a Workplace Join.</p><p>Some "
+"administrators may mandate use of PKey authentication when connecting to "
+"Office 365 from outside of corporate network. In other cases, when multi-"
+"factor authentication is set-up, using the PKey authentication can satisfy "
+"requirements for strong authentication, in which case entering the MFA code "
+"is not required.</p></body></html>"
+msgstr ""
+"<html><head/><body><p>Xác thực Khoá bí mật (PKey) được sử dụng như một bước "
+"xác thực bổ sung cho xác thực dựa trên OAuth2. Nó sử dụng một chứng chỉ "
+"X.509 và khoá bí mật để xác định một thiết bị đáng tin cậy, đã được kết nối "
+"với Azure Directory thông qua Workplace Join.</p><p>Một số quản trị viên có "
+"thể yêu cầu sử dụng xác thực PKey khi kết nối với Office 365 từ bên ngoài "
+"mạng doanh nghiệp. Trong các trường hợp khác, khi xác thực đa yếu tố được "
+"thiết lập, việc sử dụng xác thực PKey có thể đáp ứng yêu cầu xác thực mạnh, "
+"trong trường hợp đó không cần nhập mã MFA.</p></body></html>"
+
+#. i18n: ectx: property (title), widget (QGroupBox, pkeyAuthGroupBox)
+#: ewsconfigdialog.ui:327
+#, kde-format
+msgid "Private Key (PKey) Authentication (Office 365)"
+msgstr "Xác thực Khoá Bí Mật (PKey) (Office 365)"
+
+#. i18n: ectx: property (text), widget (QLabel, pkeyAuthCertLabel)
+#: ewsconfigdialog.ui:339
+#, kde-format
+msgid "Certificate:"
+msgstr "Chứng chỉ:"
+
+#. i18n: ectx: property (text), widget (QLabel, pkeyAuthKeyLabel)
+#: ewsconfigdialog.ui:353
+#, kde-format
+msgid "Private key:"
+msgstr "Khóa riêng tư:"
+
+#. i18n: ectx: property (text), widget (QLabel, pkeyAuthPasswordLabel)
+#: ewsconfigdialog.ui:364
+#, kde-format
+msgid "Key password:"
+msgstr "Mật khẩu khóa:"
+
+#. i18n: ectx: attribute (title), widget (QWidget, subscriptionTab)
+#: ewsconfigdialog.ui:395
+#, kde-format
+msgid "Subscriptions"
+msgstr "Đăng ký"
+
+#. i18n: ectx: attribute (title), widget (QWidget, advancedTab)
+#: ewsconfigdialog.ui:401
+#, kde-format
+msgctxt "Advanced settings tab"
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#. i18n: ectx: property (title), widget (QGroupBox, retrievalMethodGroupBox)
+#. i18n: ectx: label, entry (RetrievalMethod), group (General)
+#: ewsconfigdialog.ui:407 ewsresource.kcfg:45
+#, kde-format
+msgid "Retrieval"
+msgstr "Truy xuất"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, pollRadioButton)
+#: ewsconfigdialog.ui:413
+#, kde-format
+msgid ""
+"<html><head/><body><p>Periodically asks for new item change events.</p></"
+"body></html>"
+msgstr ""
+"<html><head/><body><p>Định kỳ yêu cầu các sự kiện thay đổi mục "
+"mới.</p></body></html>"
+
+#. i18n: ectx: property (text), widget (QRadioButton, pollRadioButton)
+#: ewsconfigdialog.ui:416
+#, kde-format
+msgid "Po&ll for new messages"
+msgstr "Kiểm tr&a tin nhắn mới"
+
+#. i18n: ectx: property (suffix), widget (QDoubleSpinBox, kcfg_PollInterval)
+#: ewsconfigdialog.ui:441
+#, kde-format
+msgid " minutes"
+msgstr "phút"
+
+#. i18n: ectx: property (text), widget (QLabel, pollIntervalLabel)
+#: ewsconfigdialog.ui:460
+#, kde-format
+msgid "Interval"
+msgstr "Khoảng thời gian"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, streamingRadioButton)
+#: ewsconfigdialog.ui:470
+#, kde-format
+msgid ""
+"<html><head/><body><p>Streaming notifications behave similarly to push mode "
+"- a connection is kept alive and notifications about item changes are "
+"delivered instantly.</p><p><br/></p><p>This option requires Exchange server "
+"version 2010 SP1 or later.</p></body></html>"
+msgstr ""
+"<html><head/><body><p>Thông báo trực tuyến ứng xử tương tự như chế độ đẩy - "
+"một kết nối được duy trì và thông báo về các thay đổi mục được gửi ngay lập "
+"tức.</p><p><br/></p><p>Lựa chọn này yêu cầu phiên bản máy chủ Exchange 2010 "
+"SP1 hoặc mới hơn.</p></body></html>"
+
+#. i18n: ectx: property (text), widget (QRadioButton, streamingRadioButton)
+#: ewsconfigdialog.ui:473
+#, kde-format
+msgid "&Use streaming notifications"
+msgstr "Sử dụng thông báo trực t&uyến"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_EnableNTLMv2)
+#: ewsconfigdialog.ui:492
+#, kde-format
+msgid ""
+"<html><head/><body><p>By default KDE uses the less secure NTLMv1 "
+"authentication. Enabling this will cause the more secure NTLMv2 protocol to "
+"be used.</p><p>Some newer Microsoft Exchange servers are configured to only "
+"allow NTLMv2 authentication. In such case this option must be enabled in "
+"order to connect successfully.</p></body></html>"
+msgstr ""
+"<html><head/><body><p>Mặc định KDE sử dụng xác thực NTLMv1 kém an toàn hơn. "
+"Bật lựa chọn này sẽ khiến giao thức NTLMv2 an toàn hơn được sử "
+"dụng.</p><p>Một số máy chủ Microsoft Exchange mới hơn được cấu hình để chỉ "
+"cho phép xác thực NTLMv2. Trong trường hợp đó, lựa chọn này phải được bật "
+"để kết nối thành công.</p></body></html>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_EnableNTLMv2)
+#: ewsconfigdialog.ui:495
+#, kde-format
+msgid "Enable NTLMv2"
+msgstr "Bật NTLMv2"
+
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, userAgentGroupBox)
+#: ewsconfigdialog.ui:505
+#, kde-format
+msgid ""
+"<html><head/><body><p>Some organizations restrict access to mail only to "
+"approved clients, such as Microsoft Outlook. On the server-side this is "
+"implemented by analyzing the User-Agent string and only allowing a list of "
+"approved clients.</p><p>This setting allows to emulate some well known "
+"clients as well as providing a custom User-Agent string.</p><p>Please be "
+"advised that bypassing company policies may result in personal consequences."
+"</p></body></html>"
+msgstr ""
+"<html><head/><body><p>Một số tổ chức hạn chế quyền truy cập thư chỉ cho các "
+"ứng dụng khách được phê chuẩn, như Microsoft Outlook. Trên phía máy chủ, "
+"điều này được thực hiện bằng cách phân tích chuỗi User-Agent và chỉ cho "
+"phép một danh sách các ứng dụng khách được phê chuẩn.</p><p>Thiết lập này "
+"cho phép giả lập một số ứng dụng khách nổi tiếng cũng như cung cấp một "
+"chuỗi User-Agent tùy chỉnh.</p><p>Xin lưu ý rằng việc bỏ qua chính sách "
+"công ty có thể dẫn đến hậu quả cá nhân.</p></body></html>"
+
+#. i18n: ectx: property (title), widget (QGroupBox, userAgentGroupBox)
+#: ewsconfigdialog.ui:508
+#, kde-format
+msgid "Use custo&m User Agent"
+msgstr "Sử dụ&ng đại diện người dùng tự chọn"
+
+#. i18n: ectx: property (title), widget (QGroupBox, clearSyncStateGroupBox)
+#: ewsconfigdialog.ui:533
+#, kde-format
+msgid "Clear Synchronization State"
+msgstr "Làm trống Trạng thái Đồng bộ"
+
+#. i18n: ectx: property (text), widget (QLabel, clearSyncStateLabel)
+#: ewsconfigdialog.ui:539
+#, kde-format
+msgid ""
+"Resets synchronization state between Exchange and Akonadi. Use in case some "
+"items or folders are not showing up despite existing in Exchange."
+msgstr ""
+"Đặt lại trạng thái đồng bộ hóa giữa Exchange và Akonadi. Sử dụng trong "
+"trường hợp một số mục hoặc thư mục không hiển thị mặc dù tồn tại trong "
+"Exchange."
+
+#. i18n: ectx: property (text), widget (QPushButton, clearFolderTreeSyncStateButton)
+#: ewsconfigdialog.ui:564
+#, kde-format
+msgid "Clear Folder Tree State"
+msgstr "Làm trống Trạng thái Cây Thư mục"
+
+#. i18n: ectx: property (text), widget (QPushButton, clearFolderItemSyncStateButton)
+#: ewsconfigdialog.ui:571
+#, kde-format
+msgid "Clear Folder Item State"
+msgstr "Làm trống Trạng thái Mục Thư mục"
+
+#. i18n: ectx: attribute (title), widget (QWidget, statusTab)
+#: ewsconfigdialog.ui:598
+#, kde-format
+msgid "Status"
+msgstr "Trạng thái"
+
+#. i18n: ectx: property (title), widget (QGroupBox, serverStatusGroupBox)
+#: ewsconfigdialog.ui:604
+#, kde-format
+msgid "Server Status"
+msgstr "Trạng thái máy chủ"
+
+#. i18n: ectx: property (text), widget (QLabel, serverStatusLabel)
+#: ewsconfigdialog.ui:610
+#, kde-format
+msgid "Status:"
+msgstr "Trạng thái:"
+
+#. i18n: ectx: property (text), widget (QLabel, serverStatusText)
+#: ewsconfigdialog.ui:617
+#, kde-format
+msgctxt "Unknown server status"
+msgid "Unknown"
+msgstr "không rõ"
+
+#. i18n: ectx: property (text), widget (QLabel, serverVersionLabel)
+#: ewsconfigdialog.ui:627
+#, kde-format
+msgid "Version:"
+msgstr "Phiên bản:"
+
+#. i18n: ectx: property (text), widget (QLabel, serverVersionText)
+#: ewsconfigdialog.ui:634
+#, kde-format
+msgctxt "Unknown server version"
+msgid "Unknown"
+msgstr "không rõ"
+
+#. i18n: ectx: attribute (title), widget (QWidget, aboutTab)
+#: ewsconfigdialog.ui:658
+#, kde-format
+msgid "About"
+msgstr "Thông tin"
+
+#: ewsfetchitempayloadjob.cpp:63
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to process items retrieval request"
+msgstr "Không thể xử lý yêu cầu lấy mục"
+
+#: ewsfetchitempayloadjob.cpp:71 ewsresource.cpp:333 ewsresource.cpp:338
+#: ewsresource.cpp:529
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to retrieve items"
+msgstr "Không thể lấy các mục"
+
+#: ewsfetchitempayloadjob.cpp:78
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to retrieve items - incorrect number of responses"
+msgstr "Không thể lấy các mục - số lượng phản hồi không chính xác"
+
+#: ewsfetchitempayloadjob.cpp:91
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to retrieve items - Akonadi item not found for item %1"
+msgstr "Không thể lấy các mục - Không tìm thấy mục Akonadi cho mục %1"
+
+#: ewsfetchitempayloadjob.cpp:98
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to retrieve items - Unknown item type for item %1"
+msgstr "Không thể lấy các mục - Không rõ kiểu mục cho mục %1"
+
+#: ewsfetchitempayloadjob.cpp:104
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to fetch item payload"
+msgstr "Không thể tìm nạp nội dung mục"
+
+#: ewsfetchitemsjob.cpp:98
+#, kde-format
+msgctxt "@info:status"
+msgid "Retrieving %1 item list"
+msgstr "Đang lấy danh sách %1 mục"
+
+#: ewsfetchitemsjob.cpp:214
+#, kde-format
+msgctxt "@info:status"
+msgid "Retrieving %1 item list (%2 items)"
+msgstr "Đang lấy danh sách %1 (%2 mục)"
+
+#: ewsfetchitemsjob.cpp:399
+#, kde-format
+msgctxt "@info:status"
+msgid "Retrieving %1 items"
+msgstr "Đang lấy %1 mục"
+
+#: ewsmtaconfigdialog.cpp:45
+#, kde-format
+msgctxt "@title:window"
+msgid "Microsoft Exchange Mail Transport Configuration"
+msgstr "Cấu hình Vận chuyển Thư điện tử Microsoft Exchange"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, SetupServerView)
+#: ewsmtaconfigdialog.ui:14
+#, kde-format
+msgid "EWS Mail Transport Configuration"
+msgstr "Cấu hình Vận chuyển Thư EWS"
+
+#. i18n: ectx: property (text), widget (QLabel, recourceLabel)
+#: ewsmtaconfigdialog.ui:42
+#, kde-format
+msgid "Parent Exchange account:"
+msgstr "Tài khoản Exchange cha:"
+
+#: ewsmtaresource.cpp:57
+#, kde-format
+msgid "Unable to connect to master EWS resource"
+msgstr "Không thể kết nối với tài nguyên EWS chính"
+
+#. i18n: ectx: label, entry (EwsResource), group (General)
+#: ewsmtaresource.kcfg:10
+#, kde-format
+msgid "Ews Resource"
+msgstr "Tài nguyên Ews"
+
+#. i18n: ectx: tooltip, entry (EwsResource), group (General)
+#. i18n: ectx: whatsthis, entry (EwsResource), group (General)
+#: ewsmtaresource.kcfg:11 ewsmtaresource.kcfg:12
+#, kde-format
+msgid "The name of the parent EWS Resource to use when sending mail"
+msgstr "Tên của tài nguyên EWS cha để sử dụng khi gửi thư"
+
+#: ewsprogressdialog.cpp:34
+#, kde-format
+msgid "Cancel"
+msgstr "huỷ"
+
+#: ewsprogressdialog.cpp:48
+#, kde-format
+msgctxt "@title:window"
+msgid "Exchange server autodiscovery"
+msgstr "Tự động khám phá máy chủ Exchange"
+
+#: ewsprogressdialog.cpp:49
+#, kde-format
+msgid "Performing Microsoft Exchange server autodiscovery…"
+msgstr "Đang thực hiện tự động khám phá máy chủ Microsoft Exchange..."
+
+#: ewsprogressdialog.cpp:52
+#, kde-format
+msgctxt "@title:window"
+msgid "Connecting to Exchange"
+msgstr "Đang kết nối với Exchange"
+
+#: ewsprogressdialog.cpp:53
+#, kde-format
+msgid "Connecting to Microsoft Exchange server…"
+msgstr "Đang kết nối với máy chủ Microsoft Exchange..."
+
+#: ewsresource.cpp:143
+#, kde-format
+msgctxt "@info:status"
+msgid "Connecting to Exchange server"
+msgstr "Đang kết nối với máy chủ Exchange"
+
+#: ewsresource.cpp:161 ewsresource.cpp:168 ewsresource.cpp:175
+#: ewsresource.cpp:313
+#, kde-format
+msgctxt "@info:status"
+msgid "Unable to connect to Exchange server"
+msgstr "Không thể kết nối với máy chủ Exchange"
+
+#: ewsresource.cpp:253
+#, kde-format
+msgctxt "@info:status"
+msgid "Root folder id not known."
+msgstr "Không biết mã định danh của thư mục gốc."
+
+#: ewsresource.cpp:257
+#, kde-format
+msgctxt "@info:status"
+msgid "Retrieving collection tree"
+msgstr "Đang lấy cây bộ sưu tập"
+
+#: ewsresource.cpp:406
+#, kde-format
+msgctxt "@info:status"
+msgid "Retrieving items"
+msgstr "Đang lấy các mục"
+
+#: ewsresource.cpp:428 ewsresource.cpp:514
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to retrieve items - internal error"
+msgstr "Không thể lấy các mục - lỗi nội bộ"
+
+#: ewsresource.cpp:462
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to retrieve folders - internal error"
+msgstr "Không thể lấy các thư mục - lỗi nội bộ"
+
+#: ewsresource.cpp:468
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to process folders retrieval request"
+msgstr "Không thể xử lý yêu cầu lấy thư mục"
+
+#: ewsresource.cpp:485
+#, kde-format
+msgctxt "@info:status"
+msgid "Invalid incremental folders retrieval request job object"
+msgstr "Đối tượng công việc yêu cầu truy xuất thư mục tăng dần không hợp lệ"
+
+#: ewsresource.cpp:548
+#, kde-format
+msgctxt "@info:status"
+msgid "Item type not supported for changing"
+msgstr "Kiểu mục không được hỗ trợ để thay đổi"
+
+#: ewsresource.cpp:561
+#, kde-format
+msgctxt "@info:status"
+msgid "Updating item flags"
+msgstr "Đang cập nhật cờ mục"
+
+#: ewsresource.cpp:573
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to process item flags update request"
+msgstr "Không thể xử lý yêu cầu cập nhật cờ mục"
+
+#: ewsresource.cpp:580
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to update item flags - internal error"
+msgstr "Không thể cập nhật cờ mục - lỗi nội bộ"
+
+#: ewsresource.cpp:594
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to process item update request"
+msgstr "Không thể xử lý yêu cầu cập nhật mục"
+
+#: ewsresource.cpp:601
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to update item - internal error"
+msgstr "Không thể cập nhật mục - lỗi nội bộ"
+
+#: ewsresource.cpp:636
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to process item move request"
+msgstr "Không thể xử lý yêu cầu di chuyển mục"
+
+#: ewsresource.cpp:643
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to move item - internal error"
+msgstr "Không thể di chuyển mục - lỗi nội bộ"
+
+#: ewsresource.cpp:650
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to move item - invalid number of responses received from server"
+msgstr "Không thể di chuyển mục - số lượng phản hồi từ máy chủ không hợp lệ"
+
+#: ewsresource.cpp:743
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to process item delete request"
+msgstr "Không thể xử lý yêu cầu xóa mục"
+
+#: ewsresource.cpp:750
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to delete item - internal error"
+msgstr "Không thể xóa mục - lỗi nội bộ"
+
+#: ewsresource.cpp:757
+#, kde-format
+msgctxt "@info:status"
+msgid ""
+"Failed to delete item - invalid number of responses received from server"
+msgstr "Không thể xóa mục - số lượng phản hồi từ máy chủ không hợp lệ"
+
+#: ewsresource.cpp:802 ewsresource.cpp:1015
+#, kde-format
+msgctxt "@info:status"
+msgid "Item type not supported for creation"
+msgstr "Kiểu mục không được hỗ trợ để tạo"
+
+#: ewsresource.cpp:813
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to process item create request"
+msgstr "Không thể xử lý yêu cầu tạo mục"
+
+#: ewsresource.cpp:819
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to create item - internal error"
+msgstr "Không thể tạo mục - lỗi nội bộ"
+
+#: ewsresource.cpp:840
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to add collection - cannot determine EWS folder type"
+msgstr "Không thể thêm bộ sưu tập - không thể xác định kiểu thư mục EWS"
+
+#: ewsresource.cpp:859
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to process folder create request"
+msgstr "Không thể xử lý yêu cầu tạo thư mục"
+
+#: ewsresource.cpp:865
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to create folder - internal error"
+msgstr "Không thể tạo thư mục - lỗi nội bộ"
+
+#: ewsresource.cpp:877
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to create folder"
+msgstr "Không thể tạo thư mục"
+
+#: ewsresource.cpp:900
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to process folder move request"
+msgstr "Không thể xử lý yêu cầu di chuyển thư mục"
+
+#: ewsresource.cpp:906
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to move folder - internal error"
+msgstr "Không thể di chuyển thư mục - lỗi nội bộ"
+
+#: ewsresource.cpp:912
+#, kde-format
+msgctxt "@info:status"
+msgid ""
+"Failed to move folder - invalid number of responses received from server"
+msgstr "Không thể di chuyển thư mục - số lượng phản hồi từ máy chủ không hợp lệ"
+
+#: ewsresource.cpp:923
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to move folder"
+msgstr "Không thể di chuyển thư mục"
+
+#: ewsresource.cpp:951
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to process folder update request"
+msgstr "Không thể xử lý yêu cầu cập nhật thư mục"
+
+#: ewsresource.cpp:957
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to update folder - internal error"
+msgstr "Không thể cập nhật thư mục - lỗi nội bộ"
+
+#: ewsresource.cpp:963
+#, kde-format
+msgctxt "@info:status"
+msgid ""
+"Failed to update folder - invalid number of responses received from server"
+msgstr "Không thể cập nhật thư mục - số lượng phản hồi từ máy chủ không hợp lệ"
+
+#: ewsresource.cpp:974
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to update folder"
+msgstr "Không thể cập nhật thư mục"
+
+#: ewsresource.cpp:991
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to process folder delete request"
+msgstr "Không thể xử lý yêu cầu xóa thư mục"
+
+#: ewsresource.cpp:997
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to delete folder - internal error"
+msgstr "Không thể xóa thư mục - lỗi nội bộ"
+
+#: ewsresource.cpp:1005
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to delete folder"
+msgstr "Không thể xóa thư mục"
+
+#: ewsresource.cpp:1029 ewsresource.cpp:1063
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to process item send request"
+msgstr "Không thể xử lý yêu cầu gửi mục"
+
+#: ewsresource.cpp:1035 ewsresource.cpp:1069
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to send item - internal error"
+msgstr "Không thể gửi mục - lỗi nội bộ"
+
+#: ewsresource.cpp:1074
+#, kde-format
+msgctxt "@info:status"
+msgid "Invalid number of responses received from server"
+msgstr "Số lượng phản hồi nhận được từ máy chủ không hợp lệ"
+
+#: ewsresource.cpp:1266
+#, kde-format
+msgctxt "@info:status"
+msgid "Updating item tags"
+msgstr "Đang cập nhật thẻ mục"
+
+#: ewsresource.cpp:1279
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to process item tags update request"
+msgstr "Không thể xử lý yêu cầu cập nhật thẻ mục"
+
+#: ewsresource.cpp:1285
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to update item tags - internal error"
+msgstr "Không thể cập nhật thẻ mục - lỗi nội bộ"
+
+#: ewsresource.cpp:1322
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to process global tag update request"
+msgstr "Không thể xử lý yêu cầu cập nhật thẻ toàn cục"
+
+#: ewsresource.cpp:1338
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed to process global tags retrieval request"
+msgstr "Không thể xử lý yêu cầu lấy thẻ toàn cục"
+
+#: ewsresource.cpp:1416
+#, kde-format
+msgctxt "@action:button"
+msgid "Authenticate"
+msgstr "Xác thực"
+
+#: ewsresource.cpp:1428 ewsresource.cpp:1443
+#, kde-format
+msgctxt "@info:status"
+msgid "Authentication failed"
+msgstr "Xác thực không thành công"
+
+#: ewsresource.cpp:1451
+#, kde-format
+msgctxt "@info:status Resource is ready"
+msgid "Ready"
+msgstr "Sẵn sàng"
+
+#. i18n: ectx: label, entry (BaseUrl), group (General)
+#: ewsresource.kcfg:10
+#, kde-format
+msgid "Server URL"
+msgstr "URL máy chủ"
+
+#. i18n: ectx: tooltip, entry (BaseUrl), group (General)
+#. i18n: ectx: whatsthis, entry (BaseUrl), group (General)
+#: ewsresource.kcfg:12 ewsresource.kcfg:13
+#, kde-format
+msgid ""
+"The URL of the Microsoft Exchange server, should be something like https://"
+"myserver.org/EWS/Exchange.asmx"
+msgstr ""
+"URL của máy chủ Microsoft Exchange, nên là cái gì đó như "
+"https://myserver.org/EWS/Exchange.asmx"
+
+#. i18n: ectx: label, entry (Username), group (General)
+#: ewsresource.kcfg:16
+#, kde-format
+msgctxt "The username to login into the server"
+msgid "Username"
+msgstr "Tên người dùng"
+
+#. i18n: ectx: tooltip, entry (Username), group (General)
+#. i18n: ectx: whatsthis, entry (Username), group (General)
+#: ewsresource.kcfg:17 ewsresource.kcfg:18
+#, kde-format
+msgid "The username that is used to log into the Microsoft Exchange server"
+msgstr "Tên người dùng được sử dụng để đăng nhập vào máy chủ Microsoft Exchange"
+
+#. i18n: ectx: label, entry (Domain), group (General)
+#: ewsresource.kcfg:21
+#, kde-format
+msgid "Domain"
+msgstr "miền"
+
+#. i18n: ectx: tooltip, entry (Domain), group (General)
+#. i18n: ectx: whatsthis, entry (Domain), group (General)
+#: ewsresource.kcfg:22 ewsresource.kcfg:23
+#, kde-format
+msgid "The Active Directory domain the user belongs to"
+msgstr "Miền Active Directory mà người dùng thuộc về"
+
+#. i18n: ectx: label, entry (HasDomain), group (General)
+#: ewsresource.kcfg:26
+#, kde-format
+msgid "Use a domain name during authentication"
+msgstr "Sử dụng tên miền trong xác thực"
+
+#. i18n: ectx: label, entry (Email), group (General)
+#: ewsresource.kcfg:30
+#, kde-format
+msgctxt "Account e-mail address"
+msgid "E-mail"
+msgstr "Email"
+
+#. i18n: ectx: tooltip, entry (Email), group (General)
+#. i18n: ectx: whatsthis, entry (Email), group (General)
+#: ewsresource.kcfg:31 ewsresource.kcfg:32
+#, kde-format
+msgid "The primary e-mail address of this account"
+msgstr "Địa chỉ email chính của tài khoản này"
+
+#. i18n: ectx: tooltip, entry (AutoDiscovery), group (General)
+#: ewsresource.kcfg:36
+#, kde-format
+msgid "Attempt to automatically discover Exchange server address"
+msgstr "Cố gắng tự động phát hiện địa chỉ máy chủ Exchange"
+
+#. i18n: ectx: whatsthis, entry (AutoDiscovery), group (General)
+#: ewsresource.kcfg:37
+#, kde-format
+msgid ""
+"Attempts to find out the Microsoft Exchange server address relevant to the "
+"supplied e-mail address."
+msgstr ""
+"Cố gắng tìm ra địa chỉ máy chủ Microsoft Exchange liên quan đến địa chỉ "
+"email được cung cấp."
+
+#. i18n: ectx: label, entry (PollInterval), group (General)
+#: ewsresource.kcfg:40
+#, kde-format
+msgid "Poll Interval"
+msgstr "Khoảng thời gian lấy dữ liệu"
+
+#. i18n: ectx: tooltip, entry (PollInterval), group (General)
+#: ewsresource.kcfg:41
+#, kde-format
+msgid "Sets the interval for checking for new mail"
+msgstr "Đặt khoảng thời gian để kiểm tra thư mới"
+
+#. i18n: ectx: whatsthis, entry (PollInterval), group (General)
+#: ewsresource.kcfg:42
+#, kde-format
+msgid "Sets the interval for checking for new mail."
+msgstr "Đặt khoảng thời gian để kiểm tra thư mới."
+
+#. i18n: ectx: label, entry (ServerSubscription), group (General)
+#: ewsresource.kcfg:48
+#, kde-format
+msgid "Enable Server-Side Subscriptions"
+msgstr "Bật Đăng ký Phía Máy Chủ"
+
+#. i18n: ectx: label, entry (ServerSubscriptionList), group (General)
+#: ewsresource.kcfg:51
+#, kde-format
+msgid "List of folders to subscribe to"
+msgstr "Danh sách các thư mục để đăng ký"
+
+#. i18n: ectx: label, entry (EnableNTLMv2), group (General)
+#: ewsresource.kcfg:55
+#, kde-format
+msgid "Enable NTLMv2 authentication"
+msgstr "Bật xác thực NTLMv2"
+
+#. i18n: ectx: label, entry (UserAgent), group (General)
+#: ewsresource.kcfg:59
+#, kde-format
+msgid "Forces a non-default User-Agent string"
+msgstr "Buộc một chuỗi User-Agent không mặc định"
+
+#. i18n: ectx: label, entry (OAuth2AppId), group (General)
+#: ewsresource.kcfg:65
+#, kde-format
+msgid "OAuth2 application identifier"
+msgstr "Mã định danh ứng dụng OAuth2"
+
+#. i18n: ectx: label, entry (OAuth2ReturnUri), group (General)
+#: ewsresource.kcfg:69
+#, kde-format
+msgid "OAuth2 return URI"
+msgstr "URI trả về OAuth2"
+
+#. i18n: ectx: label, entry (PKeyCert), group (General)
+#: ewsresource.kcfg:73
+#, kde-format
+msgid "Path to PKey authentication PEM certificate"
+msgstr "Đường dẫn đến chứng chỉ PEM xác thực PKey"
+
+#. i18n: ectx: label, entry (PKeyKey), group (General)
+#: ewsresource.kcfg:76
+#, kde-format
+msgid "Path to PKey authentication PEM private key"
+msgstr "Đường dẫn đến khoá bí mật PEM của xác thực PKey"
+
+#: ewssubscriptionwidget.cpp:171
+#, kde-format
+msgctxt "@info"
+msgid "Exchange server not configured."
+msgstr "Máy chủ Exchange chưa được cấu hình."
+
+#: ewssubscriptionwidget.cpp:180 ewssubscriptionwidget.cpp:201
+#, kde-format
+msgctxt "@info"
+msgid "Failed to retrieve folder list."
+msgstr "Không thể lấy danh sách thư mục."
+
+#: ewssubscriptionwidget.cpp:286
+#, kde-format
+msgctxt "@option:check"
+msgid "Enable server-side subscriptions"
+msgstr "Bật đăng ký phía máy chủ"
+
+#: ewssubscriptionwidget.cpp:294
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Filter folders"
+msgstr "Lọc thư mục"
+
+#: ewssubscriptionwidget.cpp:314
+#, kde-format
+msgctxt "@action:button"
+msgid "Reload &List"
+msgstr "&Tải lại Danh sách"
+
+#: ewssubscriptionwidget.cpp:317
+#, kde-format
+msgctxt "@action:button"
+msgid "&Reset"
+msgstr "Đặt &lại"
+
+#: ewssubscriptionwidget.cpp:326
+#, kde-format
+msgctxt "@option:check"
+msgid "Subscribed only"
+msgstr "Chỉ đăng ký"
+
+#: mail/ewscreatemailjob.cpp:148 mail/ewscreatemailjob.cpp:185
+#: mail/ewscreatemailjob.cpp:218
+#, kde-format
+msgid "Failed to create mail item"
+msgstr "Không thể tạo mục thư"
+
+#: mail/ewsmodifymailjob.cpp:92
+#, kde-format
+msgctxt "@info:status"
+msgid "Item update failed: "
+msgstr "Cập nhật mục không thành công:"
+
+#: mail/ewsmodifymailjob.cpp:103
+#, kde-format
+msgctxt "@info:status"
+msgid "Item out of order while processing update item response."
+msgstr "Mục không đúng thứ tự khi xử lý phản hồi cập nhật mục."

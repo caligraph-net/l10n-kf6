@@ -1,0 +1,3441 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the merkuro package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: merkuro\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-05 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: calendar/calendarapplication.cpp:28 calendar/calendarapplication.cpp:32
+#: calendar/qml/MainViews/TodoView.qml:69
+#, kde-format
+msgid "Sort"
+msgstr "Sắp xếp"
+
+#: calendar/calendarapplication.cpp:53
+#, kde-format
+msgid "Tasks View"
+msgstr "Xem Nhiệm vụ"
+
+#: calendar/calendarapplication.cpp:63
+#, kde-format
+msgid "Ctrl+6"
+msgstr "Ctrl+6"
+
+#: calendar/calendarapplication.cpp:69
+#, kde-format
+msgid "Week View"
+msgstr "Xem Tuần"
+
+#: calendar/calendarapplication.cpp:79
+#, kde-format
+msgid "Ctrl+2"
+msgstr "Ctrl+2"
+
+#: calendar/calendarapplication.cpp:85
+#, kde-format
+msgid "3 Day View"
+msgstr "Xem 3 ngày"
+
+#: calendar/calendarapplication.cpp:95
+#, kde-format
+msgid "Ctrl+3"
+msgstr "Ctrl+3"
+
+#: calendar/calendarapplication.cpp:101
+#, kde-format
+msgid "Day View"
+msgstr "Xem theo Ngày"
+
+#: calendar/calendarapplication.cpp:111
+#, kde-format
+msgid "Ctrl+4"
+msgstr "Ctrl+4"
+
+#: calendar/calendarapplication.cpp:117
+#, kde-format
+msgid "Schedule View"
+msgstr "Xem lịch"
+
+#: calendar/calendarapplication.cpp:127
+#, kde-format
+msgid "Ctrl+5"
+msgstr "Ctrl+5"
+
+#: calendar/calendarapplication.cpp:133
+#, kde-format
+msgid "Month View"
+msgstr "Xem theo Tháng"
+
+#: calendar/calendarapplication.cpp:143
+#, kde-format
+msgid "Ctrl+1"
+msgstr "Ctrl+1"
+
+#: calendar/calendarapplication.cpp:149
+#, kde-format
+msgid "Backwards"
+msgstr "Ngược lại"
+
+#: calendar/calendarapplication.cpp:162
+#, kde-format
+msgid "Forwards"
+msgstr "Tiến về phía trước"
+
+#: calendar/calendarapplication.cpp:175
+#, kde-format
+msgid "To Today"
+msgstr "Đến hôm nay"
+
+#: calendar/calendarapplication.cpp:188
+#, kde-format
+msgid "To Date…"
+msgstr "Đến ngày..."
+
+#: calendar/calendarapplication.cpp:201 calendar/qml/Controls/DayMouseArea.qml:50
+#: calendar/qml/main.qml:269
+#, kde-format
+msgid "New Event…"
+msgstr "Sự kiện mới..."
+
+#: calendar/calendarapplication.cpp:208 calendar/qml/Controls/DayMouseArea.qml:55
+#: calendar/qml/main.qml:275
+#, kde-format
+msgid "New Task…"
+msgstr "Nhiệm vụ mới..."
+
+#: calendar/calendarapplication.cpp:221
+#, kde-format
+msgid "Import Calendar…"
+msgstr "Nhập khẩu Lịch..."
+
+#: calendar/calendarapplication.cpp:241
+#, kde-format
+msgid "Alphabetically"
+msgstr "Theo thứ tự bảng chữ cái"
+
+#: calendar/calendarapplication.cpp:257
+#, kde-format
+msgid "By Due Date"
+msgstr "Theo Ngày Đến Hạn"
+
+#: calendar/calendarapplication.cpp:273
+#, kde-format
+msgid "By Priority Level"
+msgstr "Theo Mức Độ Ưu Tiên"
+
+#: calendar/calendarapplication.cpp:289
+#, kde-format
+msgid "Ascending order"
+msgstr "Thứ tự tăng dần"
+
+#: calendar/calendarapplication.cpp:305
+#, kde-format
+msgid "Descending Order"
+msgstr "Thứ tự giảm dần"
+
+#: calendar/calendarapplication.cpp:321
+#, kde-format
+msgid "Show Completed Tasks"
+msgstr "Hiển thị Nhiệm vụ Đã Hoàn thành"
+
+#: calendar/calendarapplication.cpp:335
+#, kde-format
+msgid "Refresh All"
+msgstr "Cập nhật Tất cả"
+
+#: calendar/calendarmanager.cpp:525
+#, kde-format
+msgid "Move occurrence(s)"
+msgstr "Di chuyển sự kiện"
+
+#: calendar/calendarmanager.cpp:530
+#, kde-format
+msgid ""
+"Unable to add the exception item to the calendar. No change will be done."
+msgstr "Không thể thêm mục ngoại lệ vào lịch. Không có thay đổi nào được thực hiện."
+
+#: calendar/calendarmanager.cpp:570
+#, kde-format
+msgid "Delete task and its sub-tasks"
+msgstr "Xóa tác vụ và các tác vụ con của nó"
+
+#: calendar/calendarmanager.cpp:573
+#, kde-format
+msgid "Delete task and make sub-tasks independent"
+msgstr "Xóa tác vụ và làm các tác vụ con độc lập"
+
+#: calendar/calendarmanager.cpp:735
+#, kde-format
+msgctxt "@title:window"
+msgid "Properties of Calendar %1"
+msgstr "Thuộc tính của Lịch %1"
+
+#: calendar/importer.cpp:49
+#, kde-format
+msgid "An error occurred: %1"
+msgstr "Đã xảy ra lỗi: %1"
+
+#: calendar/incidencewrapper.cpp:136 calendar/models/incidenceoccurrencemodel.cpp:305
+#: calendar/models/todosortfilterproxymodel.cpp:150
+#, kde-format
+msgid "Task"
+msgstr "tác vụ"
+
+#: calendar/main.cpp:69
+#, kde-format
+msgctxt "@title"
+msgid "Merkuro Calendar"
+msgstr "Lịch Merkuro"
+
+#: calendar/main.cpp:72
+#, kde-format
+msgid "Calendar Application"
+msgstr "Ứng dụng Lịch"
+
+#: calendar/main.cpp:76 contacts/main.cpp:68 mail/main.cpp:70
+#, kde-format
+msgid "(c) KDE Community 2021-2024"
+msgstr "(c) Cộng đồng KDE 2021-2024"
+
+#: calendar/main.cpp:78 contacts/main.cpp:70 mail/main.cpp:72
+#, kde-format
+msgctxt "@info:credit"
+msgid "Carl Schwan"
+msgstr "Carl Schwan"
+
+#: calendar/main.cpp:79 calendar/main.cpp:83 contacts/main.cpp:71
+#: contacts/main.cpp:75 mail/main.cpp:73 mail/main.cpp:77
+#, kde-format
+msgctxt "@info:credit"
+msgid "Maintainer"
+msgstr "Bảo trì viên"
+
+#: calendar/main.cpp:82 contacts/main.cpp:74 mail/main.cpp:76
+#, kde-format
+msgctxt "@info:credit"
+msgid "Clau Cambra"
+msgstr "Clau Cambra"
+
+#: calendar/main.cpp:86
+#, kde-format
+msgctxt "@info:credit"
+msgid "Felipe Kinoshita"
+msgstr "Felipe Kinoshita"
+
+#: calendar/main.cpp:87
+#, kde-format
+msgctxt "@info:credit"
+msgid "Developer"
+msgstr "nhà phát triển"
+
+#: calendar/models/todosortfilterproxymodel.cpp:162
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:860
+#, kde-format
+msgctxt "List separator"
+msgid ", "
+msgstr ", "
+
+#: calendar/models/todosortfilterproxymodel.cpp:180
+#, kde-format
+msgid "No set date"
+msgstr "Không có ngày đặt"
+
+#: calendar/models/todosortfilterproxymodel.cpp:184
+#: calendar/qml/MainViews/TodoTreeView.qml:67
+#, kde-format
+msgid "Overdue"
+msgstr "Quá hạn"
+
+#: calendar/models/todosortfilterproxymodel.cpp:190
+#: calendar/qml/MainViews/MonthView.qml:44
+#: calendar/qml/MainViews/ScheduleView.qml:39
+#: calendar/qml/MainViews/TodoTreeView.qml:68
+#, kde-format
+msgid "Today"
+msgstr "Hôm nay"
+
+#: calendar/models/todosortfilterproxymodel.cpp:213
+#, kde-format
+msgctxt "Please retain space"
+msgid " at %1"
+msgstr " vào lúc %1"
+
+#: calendar/models/todosortfilterproxymodel.cpp:214
+#, kde-format
+msgctxt "Please retain parenthesis and space"
+msgid " (overdue)"
+msgstr "(quá hạn)"
+
+#: calendar/qml/Bars/FilterHeaderBar.qml:41
+#, kde-format
+msgid "Filtering by tags"
+msgstr "Lọc theo thẻ"
+
+#: calendar/qml/Bars/FilterHeaderBar.qml:42
+#, kde-format
+msgid "All Tasks"
+msgstr "Tất cả các nhiệm vụ"
+
+#: calendar/qml/Bars/FilterHeaderBar.qml:86
+#, kde-format
+msgid "Remove filtering tag"
+msgstr "Xoá bỏ thẻ lọc"
+
+#: calendar/qml/CalendarUtils/labelutils.js:30
+#, kde-format
+msgid "Every week"
+msgid_plural "Every %1 weeks"
+msgstr[0] "Mỗi %1 tuần"
+
+#: calendar/qml/CalendarUtils/labelutils.js:33
+#, kde-format
+msgid "Every week on"
+msgid_plural "Every %1 weeks on"
+msgstr[0] "Mỗi %1 tuần vào"
+
+#: calendar/qml/CalendarUtils/labelutils.js:66
+#: calendar/qml/CalendarUtils/labelutils.js:105
+#, kde-format
+msgid "Every year on the %2 of %3"
+msgid_plural "Every %1 years on the %2 of %3"
+msgstr[0] "Mỗi %1 năm vào ngày %2 tháng %3"
+
+#: calendar/qml/CalendarUtils/labelutils.js:82
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:413
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:614
+#, kde-format
+msgid "Never"
+msgstr "Không bao giờ"
+
+#: calendar/qml/CalendarUtils/labelutils.js:85
+#, kde-format
+msgid "Every minute"
+msgid_plural "Every %1 minutes"
+msgstr[0] "Mỗi %1 phút"
+
+#: calendar/qml/CalendarUtils/labelutils.js:88
+#, kde-format
+msgid "Every hour"
+msgid_plural "Every %1 hours"
+msgstr[0] "Mỗi %1 giờ"
+
+#: calendar/qml/CalendarUtils/labelutils.js:91
+#, kde-format
+msgid "Every day"
+msgid_plural "Every %1 days"
+msgstr[0] "Mỗi %1 ngày"
+
+#: calendar/qml/CalendarUtils/labelutils.js:97
+#: calendar/qml/CalendarUtils/labelutils.js:101
+#, kde-format
+msgid "Every month on the %2"
+msgid_plural "Every %1 months on the %2"
+msgstr[0] "Mỗi %1 tháng vào ngày %2"
+
+#: calendar/qml/CalendarUtils/labelutils.js:109
+#, kde-format
+msgid "Every year on the %2 day of the year"
+msgid_plural "Every %1 years on the %2 day of the year"
+msgstr[0] "Mỗi %1 năm vào ngày %2 của năm"
+
+#: calendar/qml/CalendarUtils/labelutils.js:115
+#, kde-format
+msgid "Complex recurrence rule"
+msgstr "Quy tắc lặp lại phức tạp"
+
+#: calendar/qml/CalendarUtils/labelutils.js:118
+#, kde-format
+msgid "Unknown"
+msgstr "không rõ"
+
+#: calendar/qml/CalendarUtils/labelutils.js:126
+#, kde-format
+msgid "Never ends"
+msgstr "Không bao giờ kết thúc"
+
+#: calendar/qml/CalendarUtils/labelutils.js:128
+#, kde-format
+msgid "Ends on %1"
+msgstr "Kết thúc vào %1"
+
+#: calendar/qml/CalendarUtils/labelutils.js:130
+#, kde-format
+msgid "Ends after %1 occurrences"
+msgstr "Kết thúc sau %1 lần xuất hiện"
+
+#: calendar/qml/CalendarUtils/labelutils.js:189
+#, kde-format
+msgctxt "%1 is the priority level number"
+msgid "%1 (Highest priority)"
+msgstr "%1 (Ưu tiên cao nhất)"
+
+#: calendar/qml/CalendarUtils/labelutils.js:191
+#, kde-format
+msgctxt "%1 is the priority level number"
+msgid "%1 (Mid-high priority)"
+msgstr "%1 (Ưu tiên trung bình-cao)"
+
+#: calendar/qml/CalendarUtils/labelutils.js:193
+#, kde-format
+msgctxt "%1 is the priority level number"
+msgid "%1 (Medium priority)"
+msgstr "%1 (Ưu tiên trung bình)"
+
+#: calendar/qml/CalendarUtils/labelutils.js:195
+#, kde-format
+msgctxt "%1 is the priority level number"
+msgid "%1 (Mid-low priority)"
+msgstr "%1 (Ưu tiên trung bình thấp)"
+
+#: calendar/qml/CalendarUtils/labelutils.js:197
+#, kde-format
+msgctxt "%1 is the priority level number"
+msgid "%1 (Lowest priority)"
+msgstr "%1 (Ưu tiên thấp nhất)"
+
+#: calendar/qml/CalendarUtils/labelutils.js:199
+#, kde-format
+msgid "No set priority level"
+msgstr "Không có mức độ ưu tiên được đặt"
+
+#: calendar/qml/Controls/CalendarItemTapHandler.qml:44
+#, kde-format
+msgctxt "@title:window"
+msgid "Choose Calendar Color"
+msgstr "Chọn Màu Lịch"
+
+#: calendar/qml/Controls/CheckableCollectionNavigationView.qml:55
+#, kde-format
+msgid "Tags"
+msgstr "Thẻ"
+
+#: calendar/qml/Controls/CheckableCollectionNavigationView.qml:131
+#, kde-format
+msgid "Calendars"
+msgstr "Lịch"
+
+#: calendar/qml/Controls/DateControls/TimePicker.qml:50
+#, kde-format
+msgid "Min. Interval:"
+msgstr "Khoảng cách tối thiểu:"
+
+#: calendar/qml/Controls/ImportHandler.qml:45
+#, kde-format
+msgctxt "%1 is a number"
+msgid "%1 incidences were imported successfully."
+msgstr "%1 sự kiện đã được nhập thành công."
+
+#: calendar/qml/Controls/ImportHandler.qml:50
+#: calendar/qml/Controls/ImportHandler.qml:64
+#, kde-format
+msgctxt "%1 is the error message"
+msgid "An error occurred importing incidences: %1"
+msgstr "Đã xảy ra lỗi khi nhập các sự kiện: %1"
+
+#: calendar/qml/Controls/ImportHandler.qml:59
+#, kde-format
+msgid "New calendar created from imported file successfully."
+msgstr "Lịch mới được tạo từ tệp đã nhập thành công."
+
+#: calendar/qml/Controls/ImportHandler.qml:85
+#, kde-format
+msgid "Import a calendar"
+msgstr "Nhập khẩu lịch"
+
+#: calendar/qml/Controls/ImportHandler.qml:87
+#, kde-format
+msgid "Calendar files (*.ics *.vcs)"
+msgstr "Tệp lịch (*.ics *.vcs)"
+
+#: calendar/qml/Controls/ImportHandler.qml:99
+#, kde-format
+msgctxt "@title:dialog"
+msgid "Import Calendar"
+msgstr "Nhập khẩu Lịch"
+
+#: calendar/qml/Controls/ImportHandler.qml:104
+#, kde-format
+msgid ""
+"Would you like to merge this calendar file's events and tasks into one of "
+"your existing calendars, or would prefer to create a new calendar from this "
+"file?\n"
+" "
+msgstr ""
+"Bạn có muốn trộn các sự kiện và nhiệm vụ từ tệp lịch này vào một trong các "
+"lịch hiện có của bạn, hay bạn muốn tạo một lịch mới từ tệp này?\n"
+" "
+
+#: calendar/qml/Controls/ImportHandler.qml:116
+#, kde-format
+msgctxt "@action:button merge with existing calendar"
+msgid "Merge with Existing"
+msgstr "Trộn với Hiện Có"
+
+#: calendar/qml/Controls/ImportHandler.qml:134
+#, kde-format
+msgctxt "@action:button Create new calendar"
+msgid "Create New"
+msgstr "Tạo mới"
+
+#: calendar/qml/Controls/ImportHandler.qml:148
+#, kde-format
+msgctxt "@action:button"
+msgid "Cancel"
+msgstr "Huỷ"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:115
+#, kde-format
+msgid "This event is recurring"
+msgstr "Sự kiện này lặp lại"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:126
+#, kde-format
+msgid "This event has reminder"
+msgid_plural "This event has reminders"
+msgstr[0] "Sự kiện này có lời nhắc"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:148
+#, kde-format
+msgctxt "%1 is a percentage number"
+msgid "<b>%1%</b> Complete"
+msgstr "<b>%1%</b> Hoàn tất"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:178
+#, kde-format
+msgid "<b>Calendar:</b>"
+msgstr "<b>Lịch:</b>"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:190
+#, kde-format
+msgid "<b>Tags:</b>"
+msgstr "<b>Thẻ:</b>"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:203
+#, kde-format
+msgid "Remove %1 tag"
+msgstr "Xoá bỏ thẻ %1"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:215
+#, kde-format
+msgid "<b>Date:</b>"
+msgstr "<b>Ngày:</b>"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:242
+#, kde-format
+msgid "<b>Time:</b>"
+msgstr "<b>Thời gian:</b>"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:269
+#, kde-format
+msgid "<b>Duration:</b>"
+msgstr "<b>Thời lượng:</b>"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:283
+#, kde-format
+msgid "<b>Priority level:</b>"
+msgstr "<b>Mức độ ưu tiên:</b>"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:295
+#, kde-format
+msgid "<b>Completed:</b>"
+msgstr "<b>Đã hoàn thành:</b>"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:315
+#, kde-format
+msgid "<b>Recurrence:</b>"
+msgstr "<b>Lặp lại:</b>"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:338
+#, kde-format
+msgid "Except on:"
+msgstr "Ngoại trừ vào:"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:368
+#, kde-format
+msgid "<b>Location:</b>"
+msgstr "<b>Địa điểm:</b>"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:425
+#, kde-format
+msgid "Unable to find location."
+msgstr "Không thể tìm thấy vị trí."
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:461
+#, kde-format
+msgid "<b>Description:</b>"
+msgstr "<b>Mô tả:</b>"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:476
+#, kde-format
+msgid "<b>Attachment:</b>"
+msgid_plural "<b>Attachments:</b>"
+msgstr[0] "<b>Tệp đính kèm:</b>"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:501
+#, kde-format
+msgid "<b>Reminders:</b>"
+msgstr "<b>Nhắc nhở:</b>"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:529
+#, kde-format
+msgid "<b>Organizer:</b>"
+msgstr "<b>Người tổ chức:</b>"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:546
+#, kde-format
+msgid "<b>Google Meet:</b>"
+msgstr "<b>Google Meet:</b>"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:557
+#, kde-format
+msgid "<b>Guests:</b>"
+msgstr "<b>Khách mời:</b>"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:593
+#, kde-format
+msgid "Super-task"
+msgstr "Nhiệm vụ chính"
+
+#: calendar/qml/Controls/IncidenceInfoContents.qml:618
+#, kde-format
+msgid "Sub-task"
+msgid_plural "Sub-tasks"
+msgstr[0] "Các công việc con"
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:61
+#, kde-format
+msgid "View"
+msgstr "Xem"
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:66
+#: calendar/qml/Drawers/IncidenceInfoDrawer.qml:90
+#, kde-format
+msgid "Edit"
+msgstr "Sửa"
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:72
+#: calendar/qml/Dialogs/DeleteIncidenceDialog.qml:32
+#: calendar/qml/Dialogs/DeleteIncidenceDialog.qml:112
+#: calendar/qml/Drawers/IncidenceInfoDrawer.qml:96
+#: quick/qml/AgentConfigurationForm.qml:52
+#, kde-format
+msgid "Delete"
+msgstr "Xóa"
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:81
+#, kde-format
+msgid "Mark Task as Incomplete"
+msgstr "Đánh dấu tác vụ là chưa hoàn thành"
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:81
+#, kde-format
+msgid "Mark Task as Complete"
+msgstr "Đánh dấu tác vụ là hoàn tất"
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:88
+#: calendar/qml/Drawers/IncidenceInfoDrawer.qml:68
+#, kde-format
+msgid "Add Sub-Task"
+msgstr "Thêm Nhiệm Vụ Con"
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:99
+#, kde-format
+msgid "Set priority..."
+msgstr "Đặt ưu tiên..."
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:112
+#: calendar/qml/Controls/IncidenceMouseArea.qml:184
+#, kde-format
+msgid "None"
+msgstr "Không"
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:117
+#, kde-format
+msgid "1 (highest priority)"
+msgstr "1 (ưu tiên cao nhất)"
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:122
+#, kde-format
+msgid "2 (mid-high priority)"
+msgstr "2 (ưu tiên trung bình)"
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:127
+#, kde-format
+msgid "3 (mid-high priority)"
+msgstr "3 (ưu tiên trung bình)"
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:132
+#, kde-format
+msgid "4 (mid-high priority)"
+msgstr "4 (ưu tiên trung bình)"
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:137
+#, kde-format
+msgid "5 (medium priority)"
+msgstr "5 (ưu tiên trung bình)"
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:142
+#, kde-format
+msgid "6 (mid-low priority)"
+msgstr "6 (ưu tiên trung bình thấp)"
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:147
+#, kde-format
+msgid "7 (mid-low priority)"
+msgstr "7 (ưu tiên trung bình thấp)"
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:152
+#, kde-format
+msgid "8 (mid-low priority)"
+msgstr "8 (ưu tiên trung bình)"
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:157
+#, kde-format
+msgid "9 (lowest priority)"
+msgstr "9 (ưu tiên thấp nhất)"
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:163
+#, kde-format
+msgid "Set due date..."
+msgstr "Đặt ngày hết hạn..."
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:191
+#, kde-format
+msgid "Today (%1)"
+msgstr "Hôm nay (%1)"
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:202
+#, kde-format
+msgid "Tomorrow (%1)"
+msgstr "Ngày mai (%1)"
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:212
+#, kde-format
+msgid "In a week (%1)"
+msgstr "Trong một tuần (%1)"
+
+#: calendar/qml/Controls/IncidenceMouseArea.qml:223
+#, kde-format
+msgid "In a month (%1)"
+msgstr "Trong một tháng (%1)"
+
+#: calendar/qml/Controls/MainDrawerToggleButton.qml:25
+#, kde-format
+msgid "Expand Main Drawer"
+msgstr "Mở rộng Ngăn kéo chính"
+
+#: calendar/qml/Controls/MainDrawerToggleButton.qml:25
+#, kde-format
+msgid "Collapse Main Drawer"
+msgstr "Thu gọn Ngăn kéo chính"
+
+#: calendar/qml/Controls/Tag.qml:111
+#, kde-format
+msgid "Remove Tag"
+msgstr "Xoá Thẻ"
+
+#: calendar/qml/Controls/TitleDateButton.qml:31
+#: calendar/qml/Controls/TitleDateButton.qml:36
+#, kde-format
+msgctxt "%1 is month name, %2 is year"
+msgid "<b>%1</b> %2"
+msgstr "<b>%1</b> %2"
+
+#: calendar/qml/Controls/TitleDateButton.qml:39
+#, kde-format
+msgctxt ""
+"%1 is the month and year of the range start, %2 is the same for range end"
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+#: calendar/qml/Controls/TitleDateButton.qml:41
+#, kde-format
+msgctxt "%1 is month of range start, %2 is month + year of range end"
+msgid "<b>%1</b> - %2"
+msgstr "<b>%1</b> - %2"
+
+#: calendar/qml/Dialogs/CollectionPickerPage.qml:21
+#, kde-format
+msgid "Choose a Task Calendar"
+msgstr "Chọn một Lịch Tác Vụ"
+
+#: calendar/qml/Dialogs/CollectionPickerPage.qml:23
+#, kde-format
+msgid "Choose a Calendar"
+msgstr "Chọn một Lịch"
+
+#: calendar/qml/Dialogs/CollectionPickerPage.qml:25
+#, kde-format
+msgid "Choose an Address Book"
+msgstr "Chọn một sổ địa chỉ"
+
+#: calendar/qml/Dialogs/DeleteCalendarDialog.qml:22
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete calendar"
+msgstr "Xóa lịch"
+
+#: calendar/qml/Dialogs/DeleteCalendarDialog.qml:22
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete"
+msgstr "Xóa"
+
+#: calendar/qml/Dialogs/DeleteCalendarDialog.qml:42
+#, kde-format
+msgid "Do you want to delete the calendar: \"%1\"?"
+msgstr "Bạn có muốn xóa lịch: \"%1\"?"
+
+#: calendar/qml/Dialogs/DeleteCalendarDialog.qml:48
+#: contacts/qml/private/DeleteContactAction.qml:25
+#, kde-format
+msgid "You won't be able to revert this action"
+msgstr "Bạn sẽ không thể hoàn nguyên lại hành động này"
+
+#: calendar/qml/Dialogs/DeleteCalendarDialog.qml:62
+#: calendar/qml/Dialogs/DeleteIncidenceDialog.qml:122
+#: calendar/qml/Dialogs/RecurringIncidenceChangePage.qml:86
+#: contacts/qml/private/DeleteContactAction.qml:47
+#: mail/qml/actions/DeleteFolderAction.qml:32
+#: mail/qml/actions/NewFolderAction.qml:31
+#: quick/qml/ProgressStatusBar.qml:105
+#, kde-format
+msgid "Cancel"
+msgstr "Huỷ"
+
+#: calendar/qml/Dialogs/DeleteCalendarDialog.qml:66
+#, kde-format
+msgid "Delete calendar"
+msgstr "Xóa lịch"
+
+#: calendar/qml/Dialogs/DeleteIncidenceDialog.qml:31
+#, kde-format
+msgctxt "%1 is the type of the incidence (e.g event, todo, journal entry)"
+msgid "Delete %1"
+msgstr "Xóa %1"
+
+#: calendar/qml/Dialogs/DeleteIncidenceDialog.qml:49
+#, kde-format
+msgid "Do you want to delete item: \"%1\"?"
+msgstr "Bạn có muốn xóa mục: \"%1\"?"
+
+#: calendar/qml/Dialogs/DeleteIncidenceDialog.qml:51
+#, kde-format
+msgid ""
+"Item \"%1\" has sub-items. Do you want to delete all related items, or just "
+"the currently selected item?"
+msgstr ""
+"Mục \"%1\" có các mục con. Bạn có muốn xóa tất cả các mục liên quan, hay "
+"chỉ mục đang được chọn?"
+
+#: calendar/qml/Dialogs/DeleteIncidenceDialog.qml:53
+#, kde-format
+msgid ""
+"The calendar item \"%1\" recurs over multiple dates. This item also has sub-"
+"items.\n"
+"\n"
+"Do you want to delete the selected occurrence on %2, also future "
+"occurrences, or all of its occurrences?\n"
+"\n"
+"Deleting all will also delete sub-items!"
+msgstr ""
+"Mục lịch \"%1\" lặp lại nhiều ngày. Mục này cũng có các mục con.\n\nBạn có "
+"muốn xóa mục được chọn vào %2, cũng như các lần lặp lại trong tương lai, "
+"hay xóa tất cả các lần lặp lại?\n\nXóa tất cả sẽ cũng xóa các mục con!"
+
+#: calendar/qml/Dialogs/DeleteIncidenceDialog.qml:55
+#, kde-format
+msgid ""
+"The calendar item \"%1\" recurs over multiple dates. Do you want to delete "
+"the selected occurrence on %2, also future occurrences, or all of its "
+"occurrences?"
+msgstr ""
+"Mục lịch \"%1\" lặp lại trên nhiều ngày. Bạn có muốn xóa lần xuất hiện đã "
+"chọn vào %2, cả các lần xuất hiện trong tương lai, hay tất cả các lần xuất "
+"hiện của nó?"
+
+#: calendar/qml/Dialogs/DeleteIncidenceDialog.qml:70
+#, kde-format
+msgid "Only Delete Current"
+msgstr "Chỉ xóa mục hiện tại"
+
+#: calendar/qml/Dialogs/DeleteIncidenceDialog.qml:80
+#, kde-format
+msgid "Also Delete Future"
+msgstr "Cũng xóa các sự kiện trong tương lai"
+
+#: calendar/qml/Dialogs/DeleteIncidenceDialog.qml:97
+#, kde-format
+msgid "Delete Only This"
+msgstr "Chỉ xóa cái này"
+
+#: calendar/qml/Dialogs/DeleteIncidenceDialog.qml:112
+#, kde-format
+msgid "Delete All"
+msgstr "Xóa Tất Cả"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:45
+#, kde-format
+msgctxt "%1 is incidence type"
+msgid "Edit %1"
+msgstr "Sửa %1"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:46
+#, kde-format
+msgctxt "%1 is incidence type"
+msgid "Add %1"
+msgstr "Thêm %1"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:59
+#, kde-format
+msgid "Invalid dates provided."
+msgstr "Ngày tháng không hợp lệ."
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:61
+#, kde-format
+msgid "End date cannot be before start date."
+msgstr "Ngày kết thúc không thể trước ngày khởi động."
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:70
+#: contacts/qml/private/contact_editor/ContactEditorPage.qml:159
+#: contacts/qml/private/contact_editor/ContactGroupEditorPage.qml:175
+#, kde-format
+msgid "Save"
+msgstr "Lưu"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:70
+#: contacts/qml/private/contact_editor/ContactEditorPage.qml:159
+#: contacts/qml/private/contact_editor/ContactGroupEditorPage.qml:175
+#, kde-format
+msgid "Add"
+msgstr "Thêm"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:156
+#, kde-format
+msgid "Calendar:"
+msgstr "Lịch:"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:184
+#, kde-format
+msgid "Summary:"
+msgstr "Tóm tắt:"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:187
+#, kde-format
+msgid "Add a title for your task"
+msgstr "Thêm tiêu đề cho tác vụ của bạn"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:189
+#, kde-format
+msgid "Add a title for your event"
+msgstr "Thêm tiêu đề cho sự kiện của bạn"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:191
+#, kde-format
+msgid "Add a title for your journal entry"
+msgstr "Thêm tiêu đề cho mục nhật ký của bạn"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:202
+#, kde-format
+msgid "Completion:"
+msgstr "Hoàn thành:"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:236
+#, kde-format
+msgid "All day"
+msgstr "Cả ngày"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:268
+#, kde-format
+msgid "Start:"
+msgstr "Bắt đầu:"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:315
+#, kde-format
+msgid "Due:"
+msgstr "Hạn chót:"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:315
+#, kde-format
+msgid "End:"
+msgstr "Kết thúc:"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:364
+#, kde-format
+msgid "Timezone:"
+msgstr "Múi giờ:"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:383
+#, kde-format
+msgid "Repeat:"
+msgstr "Lặp lại:"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:414
+#, kde-format
+msgid "Daily"
+msgstr "Hàng ngày"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:415
+#, kde-format
+msgid "Weekly"
+msgstr "Hàng tuần"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:416
+#, kde-format
+msgid "Monthly"
+msgstr "Hàng tháng"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:417
+#, kde-format
+msgid "Yearly"
+msgstr "Hàng năm"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:418
+#: calendar/qml/incidenceeditor/ReminderDelegate.qml:82
+#, kde-format
+msgid "Custom"
+msgstr "Tự chọn"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:449
+#, kde-format
+msgid "Every:"
+msgstr "Mỗi:"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:496
+#, kde-format
+msgid "day"
+msgid_plural "days"
+msgstr[0] "ngày"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:497
+#, kde-format
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "tuần"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:498
+#, kde-format
+msgid "month"
+msgid_plural "months"
+msgstr[0] "tháng"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:499
+#, kde-format
+msgid "year"
+msgid_plural "years"
+msgstr[0] "năm"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:569
+#, kde-format
+msgid "On:"
+msgstr "Vào:"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:577
+#, kde-format
+msgctxt "%1 is the day number of month"
+msgid "The %1 of each month"
+msgstr "Ngày %1 của mỗi tháng"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:589
+#, kde-format
+msgctxt "the weekOfMonth dayOfWeekString of each month"
+msgid "The %1 %2 of each month"
+msgstr "Tuần thứ %1 %2 của mỗi tháng"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:600
+#, kde-format
+msgid "Ends:"
+msgstr "Kết thúc:"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:615
+#, kde-format
+msgid "On"
+msgstr "Vào"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:616
+#, kde-format
+msgid "After"
+msgstr "Sau"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:654
+#, kde-format
+msgid "occurrence"
+msgid_plural "occurrences"
+msgstr[0] "lần xuất hiện"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:660
+#, kde-format
+msgid "Exceptions:"
+msgstr "Ngoại lệ:"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:667
+#, kde-format
+msgid "Add Recurrence Exception"
+msgstr "Thêm ngoại lệ lặp lại"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:724
+#, kde-format
+msgid "Location:"
+msgstr "Địa điểm:"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:749
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:836
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:994
+#, kde-format
+msgid "Optional"
+msgstr "tuỳ chọn"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:798
+#, kde-format
+msgid "Show map"
+msgstr "Hiển thị bản đồ"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:830
+#, kde-format
+msgid "Description:"
+msgstr "Mô tả:"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:851
+#, kde-format
+msgid "Tags:"
+msgstr "Thẻ:"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:861
+#, kde-format
+msgid "Tap to set tags…"
+msgstr "Vỗ để đặt thẻ..."
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:861
+#, kde-format
+msgid "Click to set tags…"
+msgstr "Bấm để đặt thẻ..."
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:904
+#, kde-format
+msgid "Manage tags…"
+msgstr "Quản lý thẻ..."
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:915
+#, kde-format
+msgid "Reminders:"
+msgstr "Nhắc nhở:"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:938
+#, kde-format
+msgid "Add Reminder"
+msgstr "Thêm lời nhắc"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:952
+#, kde-format
+msgid "Attendees:"
+msgstr "Người tham dự:"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:987
+#: contacts/qml/private/contact_editor/ContactGroupEditorPage.qml:81
+#: contacts/qml/private/ContactPage.qml:133
+#, kde-format
+msgid "Name:"
+msgstr "Tên:"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:1012
+#, kde-format
+msgid "Email:"
+msgstr "Email:"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:1019
+#, kde-format
+msgid "Required"
+msgstr "Bắt buộc"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:1028
+#, kde-format
+msgid "Status:"
+msgstr "Trạng thái:"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:1052
+#, kde-format
+msgid "Request RSVP"
+msgstr "Yêu cầu RSVP"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:1066
+#, kde-format
+msgid "Add Attendee"
+msgstr "Thêm người tham dự"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:1077
+#, kde-format
+msgid "Choose from Contacts"
+msgstr "Chọn từ Danh bạ"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:1081
+#, kde-format
+msgid "Fill in Manually"
+msgstr "Điền thủ công"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:1095
+#, kde-format
+msgid "Attachments:"
+msgstr "Tệp đính kèm:"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:1130
+#, kde-format
+msgid "Add Attachment"
+msgstr "Thêm tệp đính kèm"
+
+#: calendar/qml/Dialogs/IncidenceEditorPage.qml:1137
+#, kde-format
+msgid "Add an attachment"
+msgstr "Thêm một tệp đính kèm"
+
+#: calendar/qml/Dialogs/RecurringIncidenceChangePage.qml:29
+#, kde-format
+msgid "Change incidence date"
+msgstr "Thay đổi ngày sự kiện"
+
+#: calendar/qml/Dialogs/RecurringIncidenceChangePage.qml:47
+#, kde-format
+msgid ""
+"The item you are trying to change is a recurring item. Should the changes be "
+"applied only to this single occurrence, also to future items, or to all "
+"items in the recurrence?"
+msgstr ""
+"Mục bạn đang cố gắng thay đổi là một mục định kỳ. Liệu những thay đổi này "
+"chỉ nên được áp dụng cho lần xuất hiện đơn lẻ này, cũng như các mục trong "
+"tương lai, hay tất cả các mục trong chu kỳ?"
+
+#: calendar/qml/Dialogs/RecurringIncidenceChangePage.qml:62
+#, kde-format
+msgid "Only This Item"
+msgstr "Chỉ Mục Này"
+
+#: calendar/qml/Dialogs/RecurringIncidenceChangePage.qml:70
+#, kde-format
+msgid "Also Future Items"
+msgstr "Cả các mục trong tương lai"
+
+#: calendar/qml/Dialogs/RecurringIncidenceChangePage.qml:78
+#, kde-format
+msgid "All Occurrences"
+msgstr "Tất cả các sự kiện"
+
+#: calendar/qml/Drawers/IncidenceInfoDrawer.qml:81
+#, kde-format
+msgid "Mark Incomplete"
+msgstr "Đánh dấu chưa hoàn thành"
+
+#: calendar/qml/Drawers/IncidenceInfoDrawer.qml:81
+#, kde-format
+msgid "Mark Complete"
+msgstr "Đánh dấu hoàn tất"
+
+#: calendar/qml/Drawers/MainDrawer.qml:118
+#, kde-format
+msgid "Calendar"
+msgstr "Lịch"
+
+#: calendar/qml/Drawers/MainDrawer.qml:162
+#: calendar/qml/Drawers/MainDrawer.qml:297
+#, kde-format
+msgid "Undo: "
+msgstr "Hoàn tác:"
+
+#: calendar/qml/Drawers/MainDrawer.qml:170
+#: calendar/qml/Drawers/MainDrawer.qml:303
+#, kde-format
+msgid "Redo: "
+msgstr "Làm lại:"
+
+#: calendar/qml/Drawers/MainDrawer.qml:180
+#: calendar/qml/Menus/GlobalMenuBar.qml:122
+#: calendar/qml/Menus/MenuBar.qml:126
+#, kde-format
+msgid "Refresh All Calendars"
+msgstr "Cập nhật tất cả lịch"
+
+#: calendar/qml/Drawers/MainDrawer.qml:189
+#, kde-format
+msgid "Configure"
+msgstr "Cấu hình"
+
+#: calendar/qml/Drawers/MainDrawer.qml:297
+#, kde-format
+msgid "Undo"
+msgstr "đảo ngược"
+
+#: calendar/qml/Drawers/MainDrawer.qml:303
+#, kde-format
+msgid "Redo"
+msgstr "làm lại"
+
+#: calendar/qml/Drawers/MainDrawer.qml:316
+#, kde-format
+msgid "Settings"
+msgstr "thiết lập"
+
+#: calendar/qml/Drawers/MainDrawer.qml:391
+#, kde-format
+msgid "View all tasks"
+msgstr "Xem tất cả các nhiệm vụ"
+
+#: calendar/qml/incidenceeditor/PriorityComboBox.qml:18
+#, kde-format
+msgid "Priority:"
+msgstr "Ưu tiên:"
+
+#: calendar/qml/incidenceeditor/PriorityComboBox.qml:21
+#, kde-format
+msgid "Unassigned"
+msgstr "Chưa được gán"
+
+#: calendar/qml/incidenceeditor/PriorityComboBox.qml:22
+#, kde-format
+msgid "1 (Highest Priority)"
+msgstr "1 (Ưu tiên cao nhất)"
+
+#: calendar/qml/incidenceeditor/PriorityComboBox.qml:23
+#, kde-format
+msgid "2"
+msgstr "2"
+
+#: calendar/qml/incidenceeditor/PriorityComboBox.qml:24
+#, kde-format
+msgid "3"
+msgstr "3"
+
+#: calendar/qml/incidenceeditor/PriorityComboBox.qml:25
+#, kde-format
+msgid "4"
+msgstr "4"
+
+#: calendar/qml/incidenceeditor/PriorityComboBox.qml:26
+#, kde-format
+msgid "5 (Medium Priority)"
+msgstr "5 (Ưu tiên trung bình)"
+
+#: calendar/qml/incidenceeditor/PriorityComboBox.qml:27
+#, kde-format
+msgid "6"
+msgstr "6"
+
+#: calendar/qml/incidenceeditor/PriorityComboBox.qml:28
+#, kde-format
+msgid "7"
+msgstr "7"
+
+#: calendar/qml/incidenceeditor/PriorityComboBox.qml:29
+#, kde-format
+msgid "8"
+msgstr "8"
+
+#: calendar/qml/incidenceeditor/PriorityComboBox.qml:30
+#, kde-format
+msgid "9 (Lowest Priority)"
+msgstr "9 (Ưu tiên thấp nhất)"
+
+#: calendar/qml/incidenceeditor/ReminderDelegate.qml:50
+#, kde-format
+msgctxt "Custom reminder"
+msgid "Custom"
+msgstr "Tự chọn"
+
+#: calendar/qml/incidenceeditor/ReminderDelegate.qml:145
+#, kde-format
+msgid "minutes"
+msgstr "phút"
+
+#: calendar/qml/incidenceeditor/ReminderDelegate.qml:146
+#, kde-format
+msgid "hours"
+msgstr "giờ"
+
+#: calendar/qml/incidenceeditor/ReminderDelegate.qml:147
+#, kde-format
+msgid "days"
+msgstr "ngày"
+
+#: calendar/qml/incidenceeditor/ReminderDelegate.qml:159
+#, kde-format
+msgid "before start of event"
+msgstr "trước khi sự kiện khởi động"
+
+#: calendar/qml/incidenceeditor/ReminderDelegate.qml:160
+#, kde-format
+msgid "after start of event"
+msgstr "sau khi sự kiện khởi động"
+
+#: calendar/qml/incidenceeditor/ReminderDelegate.qml:170
+#, kde-format
+msgid "Remove"
+msgstr "Xoá"
+
+#: calendar/qml/Location/LocationMap.qml:59
+#, kde-format
+msgid "Return to Location"
+msgstr "Quay lại Địa điểm"
+
+#: calendar/qml/main.qml:264 calendar/qml/MainViews/TodoTreeView.qml:141
+#: calendar/qml/MainViews/TodoView.qml:64
+#, kde-format
+msgid "Create"
+msgstr "Tạo"
+
+#: calendar/qml/main.qml:284
+#, kde-format
+msgid "Month"
+msgstr "Tháng"
+
+#: calendar/qml/main.qml:287
+#, kde-format
+msgid "Week"
+msgstr "Tuần"
+
+#: calendar/qml/main.qml:290
+#, kde-format
+msgid "3 Days"
+msgstr "3 ngày"
+
+#: calendar/qml/main.qml:293
+#, kde-format
+msgid "Day"
+msgstr "Ngày"
+
+#: calendar/qml/main.qml:296
+#, kde-format
+msgid "Schedule"
+msgstr "Lịch trình"
+
+#: calendar/qml/main.qml:299 calendar/qml/MainViews/TodoView.qml:52
+#, kde-format
+msgid "Tasks"
+msgstr "Nhiệm vụ"
+
+#: calendar/qml/MainViews/BasicInternalHourlyView.qml:240
+#, kde-format
+msgctxt "@action:button"
+msgid "Reset"
+msgstr "Đặt lại"
+
+#: calendar/qml/MainViews/BasicInternalHourlyView.qml:253
+#, kde-format
+msgid "All day or Multi day"
+msgstr "Cả ngày hoặc Nhiều ngày"
+
+#: calendar/qml/MainViews/BasicMonthListView.qml:266
+#, kde-format
+msgctxt "Date has no events or tasks set"
+msgid "Clear day."
+msgstr "Ngày trống."
+
+#: calendar/qml/MainViews/BasicMonthListView.qml:285
+#, kde-format
+msgid "Tap"
+msgstr "Vỗ"
+
+#: calendar/qml/MainViews/BasicMonthListView.qml:285
+#, kde-format
+msgid "Click"
+msgstr "Bấm"
+
+#: calendar/qml/MainViews/BasicMonthListView.qml:286
+#, kde-format
+msgid "Nothing on the books today. %1 to add something."
+msgstr "Không có gì trong lịch hôm nay. %1 để thêm một cái gì đó."
+
+#: calendar/qml/MainViews/BasicMonthListView.qml:409
+#, kde-format
+msgctxt "%1 is the name of the event"
+msgid "%1 (Day %2 of %3)"
+msgstr "%1 (Ngày %2 của %3)"
+
+#: calendar/qml/MainViews/BasicMonthListView.qml:465
+#, kde-format
+msgid "Runs all day"
+msgstr "Diễn ra cả ngày"
+
+#: calendar/qml/MainViews/BasicMonthListView.qml:469
+#, kde-format
+msgctxt "Displays times between incidence start and end"
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+#: calendar/qml/MainViews/BasicMonthListView.qml:472
+#, kde-format
+msgid "Starts at %1"
+msgstr "Bắt đầu vào %1"
+
+#: calendar/qml/MainViews/BasicMonthListView.qml:474
+#, kde-format
+msgid "Ends at %1"
+msgstr "Kết thúc vào %1"
+
+#: calendar/qml/MainViews/BasicMonthListView.qml:476
+#, kde-format
+msgid "Runs All Day"
+msgstr "Chạy cả ngày"
+
+#: calendar/qml/MainViews/DayGridView.qml:235
+#, kde-format
+msgid "<b>Today</b>"
+msgstr "<b>Hôm nay</b>"
+
+#: calendar/qml/MainViews/HourlyView.qml:46
+#, kde-format
+msgid "Previous Week"
+msgstr "Tuần trước"
+
+#: calendar/qml/MainViews/HourlyView.qml:53
+#, kde-format
+msgid "Next Week"
+msgstr "Tuần tới"
+
+#: calendar/qml/MainViews/HourlyView.qml:60
+#, kde-format
+msgid "Now"
+msgstr "Hiện tại"
+
+#: calendar/qml/MainViews/HourlyView.qml:99
+#, kde-format
+msgctxt "@action:inmenu open week view"
+msgid "Week"
+msgstr "Tuần"
+
+#: calendar/qml/MainViews/HourlyView.qml:108
+#, kde-format
+msgctxt "@action:inmenu open 3 days view"
+msgid "3 Days"
+msgstr "3 Ngày"
+
+#: calendar/qml/MainViews/HourlyView.qml:116
+#, kde-format
+msgctxt "@action:inmenu open day view"
+msgid "Day"
+msgstr "Ngày"
+
+#: calendar/qml/MainViews/MonthView.qml:28
+#: calendar/qml/MainViews/ScheduleView.qml:25
+#, kde-format
+msgid "Previous Month"
+msgstr "Tháng trước"
+
+#: calendar/qml/MainViews/MonthView.qml:36
+#: calendar/qml/MainViews/ScheduleView.qml:32
+#, kde-format
+msgid "Next Month"
+msgstr "Tháng sau"
+
+#: calendar/qml/MainViews/TodoTreeView.qml:73
+#, kde-format
+msgid "Priority %1"
+msgstr "Ưu tiên %1"
+
+#: calendar/qml/MainViews/TodoTreeView.qml:73
+#, kde-format
+msgid "No set priority"
+msgstr "Không có mức độ ưu tiên được đặt"
+
+#: calendar/qml/MainViews/TodoTreeView.qml:120
+#, kde-format
+msgid "No task calendars enabled."
+msgstr "Không có lịch tác vụ nào được bật."
+
+#: calendar/qml/MainViews/TodoTreeView.qml:127
+#, kde-format
+msgid "Calendar is not enabled"
+msgstr "Lịch không được bật"
+
+#: calendar/qml/MainViews/TodoTreeView.qml:130
+#, kde-format
+msgid "Enable"
+msgstr "Bật"
+
+#: calendar/qml/MainViews/TodoTreeView.qml:139
+#, kde-format
+msgid "No tasks completed"
+msgstr "Không có nhiệm vụ nào được hoàn thành"
+
+#: calendar/qml/MainViews/TodoTreeView.qml:139
+#, kde-format
+msgid "No tasks left to complete"
+msgstr "Không còn nhiệm vụ nào để hoàn tất"
+
+#: calendar/qml/MainViews/TodoTreeView.qml:236
+#, kde-format
+msgid " , is overdue"
+msgstr "đã quá hạn"
+
+#: calendar/qml/MainViews/TodoView.qml:109
+#, kde-format
+msgid "Show Completed"
+msgstr "Hiển thị đã hoàn thành"
+
+#: calendar/qml/MainViews/TodoView.qml:116
+#, kde-format
+msgid "Completed Tasks in %1"
+msgstr "Nhiệm vụ đã hoàn thành trong %1"
+
+#: calendar/qml/MainViews/TodoView.qml:116
+#, kde-format
+msgid "Completed Tasks"
+msgstr "Nhiệm vụ đã hoàn thành"
+
+#: calendar/qml/MainViews/TodoView.qml:164
+#, kde-format
+msgid "Create a New Task…"
+msgstr "Tạo một Nhiệm vụ Mới..."
+
+#: calendar/qml/MainViews/TodoView.qml:204
+#: calendar/qml/MainViews/TodoView.qml:205
+#, kde-format
+msgid "Quickly Add a New Task."
+msgstr "Nhanh chóng thêm một nhiệm vụ mới."
+
+#: calendar/qml/Menus/CalendarItemMenu.qml:22
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Edit calendar…"
+msgstr "Sửa lịch..."
+
+#: calendar/qml/Menus/CalendarItemMenu.qml:28
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Update calendar"
+msgstr "Cập nhật lịch"
+
+#: calendar/qml/Menus/CalendarItemMenu.qml:34
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Delete calendar"
+msgstr "Xóa lịch"
+
+#: calendar/qml/Menus/CalendarItemMenu.qml:56
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Set calendar colour…"
+msgstr "Đặt màu lịch..."
+
+#: calendar/qml/Menus/CalendarItemMenu.qml:68
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Calendar source settings…"
+msgstr "Cài đặt nguồn lịch..."
+
+#: calendar/qml/Menus/CalendarItemMenu.qml:74
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Update calendar source"
+msgstr "Cập nhật nguồn lịch"
+
+#: calendar/qml/Menus/CalendarItemMenu.qml:80
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Delete calendar source"
+msgstr "Xóa nguồn lịch"
+
+#: calendar/qml/Menus/GlobalMenuBar.qml:39
+#: calendar/qml/Menus/MenuBar.qml:44 contacts/qml/GlobalMenuBar.qml:19
+#: contacts/qml/MenuBar.qml:17 mail/qml/app/GlobalMenuBar.qml:19
+#: mail/qml/app/MenuBar.qml:18
+#, kde-format
+msgctxt "@action:menu"
+msgid "View"
+msgstr "Xem"
+
+#: calendar/qml/Menus/GlobalMenuBar.qml:80
+#, kde-format
+msgctxt "@action:menu"
+msgid "Sort Tasks"
+msgstr "Sắp xếp Nhiệm vụ"
+
+#: calendar/qml/Menus/GlobalMenuBar.qml:129
+#: calendar/qml/Menus/MenuBar.qml:133
+#, kde-format
+msgctxt "@action:menu"
+msgid "Go"
+msgstr "Đi"
+
+#: calendar/qml/Menus/GlobalMenuBar.qml:157
+#: calendar/qml/Menus/MenuBar.qml:163 contacts/qml/GlobalMenuBar.qml:33
+#: contacts/qml/MenuBar.qml:31 mail/qml/app/GlobalMenuBar.qml:55
+#: mail/qml/app/MenuBar.qml:27 mail/qml/FolderView.qml:51
+#, kde-format
+msgctxt "@action:menu"
+msgid "Create"
+msgstr "Tạo"
+
+#: calendar/qml/Menus/GlobalMenuBar.qml:173
+#: components/qml/SettingsMenu.qml:14 contacts/qml/GlobalMenuBar.qml:49
+#, kde-format
+msgctxt "@action:menu"
+msgid "Settings"
+msgstr "thiết lập"
+
+#: calendar/qml/Menus/MenuBar.qml:80
+#, kde-format
+msgid "Sort Tasks"
+msgstr "Sắp xếp Nhiệm vụ"
+
+#: calendar/qml/Settings/ConfigurationsView.qml:16
+#: calendar/qml/Settings/ViewSettingsPage.qml:14
+#, kde-format
+msgid "Appearance"
+msgstr "diện mạo"
+
+#: calendar/qml/Settings/ConfigurationsView.qml:22
+#: calendar/qml/Settings/SourceSettingsPage.qml:16
+#, kde-format
+msgid "Accounts"
+msgstr "Tài khoản"
+
+#: calendar/qml/Settings/ConfigurationsView.qml:28
+#, kde-format
+msgid "Free/Busy"
+msgstr "Rảnh/Bận"
+
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:15
+#, kde-format
+msgid "Configure Free/Busy"
+msgstr "Cấu hình Rảnh/Bận"
+
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:18
+#, kde-format
+msgid "Free/Busy Publishing settings"
+msgstr "Thiết lập Xuất bản Rảnh/Bận"
+
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:26
+#, kde-format
+msgid ""
+"When you publish your free/busy information, it enables others to consider "
+"your calendar availability when inviting you to a meeting. Only the times "
+"that are already marked as busy are disclosed, without revealing the "
+"specific reasons for your availability."
+msgstr ""
+"Khi bạn công bố thông tin lịch trống/bận của mình, điều này cho phép những "
+"người khác xem xét tình trạng lịch của bạn khi mời bạn tham gia cuộc họp. "
+"Chỉ những thời gian đã được đánh dấu là bận mới được tiết lộ, mà không tiết "
+"lộ lý do cụ thể về tình trạng sẵn sàng của bạn."
+
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:31
+#, kde-format
+msgid "Publish your free/busy information automatically"
+msgstr "Tự động công bố thông tin lịch rảnh/bận của bạn"
+
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:43
+#, kde-format
+msgid "Minimum time (in minutes) between uploads"
+msgstr "Thời gian tối thiểu (tính bằng phút) giữa các lần tải lên"
+
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:56
+#, kde-format
+msgid "Number of days of free/busy info to publish: "
+msgstr "Số ngày thông tin lịch trống/bận để công bố:"
+
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:68
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:171
+#, kde-format
+msgid "Server information"
+msgstr "Thông tin máy chủ"
+
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:72
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:175
+#, kde-format
+msgid "Server URL"
+msgstr "URL máy chủ"
+
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:82
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:185
+#, kde-format
+msgid "Username"
+msgstr "Tên người dùng"
+
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:92
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:195
+#, kde-format
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:102
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:205
+#, kde-format
+msgid "Save password"
+msgstr "Lưu mật khẩu"
+
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:112
+#, kde-format
+msgid "Click here to publish Free/Busy information manually"
+msgstr "Bấm vào đây để xuất bản thông tin Rảnh/Bận thủ công"
+
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:123
+#, kde-format
+msgid "Email Free/Busy"
+msgstr "Thư điện tử Rảnh/Bận"
+
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:128
+#, kde-format
+msgid "Enter email of recipient..."
+msgstr "Nhập email của người nhận..."
+
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:131
+#: mail/qml/MailComposer.qml:138
+#, kde-format
+msgid "Send"
+msgstr "Gửi"
+
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:139
+#, kde-format
+msgid "Free/Busy Retrieval settings"
+msgstr "Thiết lập truy xuất Rảnh/Bận"
+
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:147
+#, kde-format
+msgid ""
+"By retrieving Free/Busy information that others have published, you can take "
+"their calendar into account when inviting them to a meeting."
+msgstr ""
+"Bằng cách lấy thông tin Rảnh/Bận mà người khác đã công bố, bạn có thể tính "
+"đến lịch của họ khi mời họ tham gia một cuộc họp."
+
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:152
+#, kde-format
+msgid "Retrieve others' free/busy information automatically"
+msgstr "Tự động lấy thông tin lịch trống/bận của người khác"
+
+#: calendar/qml/Settings/FreeBusySettingsPage.qml:161
+#, kde-format
+msgid "Use full email address for retrieval"
+msgstr "Sử dụng địa chỉ thư điện tử đầy đủ để truy xuất"
+
+#: calendar/qml/Settings/SourceSettingsPage.qml:27
+#, kde-format
+msgid "Add New Calendar Source…"
+msgstr "Thêm nguồn lịch mới..."
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:17
+#, kde-format
+msgid "General settings"
+msgstr "Thiết lập chung"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:23
+#, kde-format
+msgid "Use popup to show incidence information"
+msgstr "Sử dụng ô bật lên để hiển thị thông tin sự kiện"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:34
+#, kde-format
+msgid "Show tasks in calendar views"
+msgstr "Hiển thị nhiệm vụ trong các chế độ xem lịch"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:44
+#, kde-format
+msgid "Show sub-tasks in calendar views"
+msgstr "Hiển thị các công việc con trong lịch"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:58
+#, kde-format
+msgid "Past event transparency"
+msgstr "Độ trong suốt của sự kiện đã qua"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:77
+#, kde-format
+msgid "Month view settings"
+msgstr "Thiết lập khung xem tháng"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:108
+#, kde-format
+msgid "Month view mode"
+msgstr "Chế độ xem tháng"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:115
+#, kde-format
+msgid "Swipeable month grid"
+msgstr "Lưới tháng có thể vuốt"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:122
+#, kde-format
+msgid "Basic month grid"
+msgstr "Lưới tháng cơ bản"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:128
+#, kde-format
+msgid "Swipeable month grid requires higher system performance."
+msgstr "Lưới tháng có thể vuốt yêu cầu hiệu suất hệ thống cao hơn."
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:135
+#, kde-format
+msgid "Weekday label alignment"
+msgstr "Căn chỉnh nhãn ngày trong tuần"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:142
+#, kde-format
+msgid "Left"
+msgstr "Trái"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:149
+#, kde-format
+msgid "Center"
+msgstr "Giữa"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:156
+#, kde-format
+msgid "Right"
+msgstr "Phải"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:166
+#, kde-format
+msgid "Weekday label length:"
+msgstr "Độ dài nhãn ngày trong tuần:"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:171
+#, kde-format
+msgid "Full name (Monday)"
+msgstr "Tên đầy đủ (Thứ Hai)"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:178
+#, kde-format
+msgid "Abbreviated (Mon)"
+msgstr "Viết tắt (Thứ 2)"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:186
+#, kde-format
+msgid "Letter only (M)"
+msgstr "Chỉ chữ cái (M)"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:195
+#, kde-format
+msgid "Show week numbers"
+msgstr "Hiển thị số tuần"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:209
+#, kde-format
+msgid "Grid border width (pixels):"
+msgstr "Độ rộng viền lưới (pixel):"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:233
+#, kde-format
+msgid "Week view settings"
+msgstr "Thiết lập khung xem tuần"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:246
+#, kde-format
+msgid "Week view mode"
+msgstr "Chế độ xem tuần"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:253
+#, kde-format
+msgid "Swipeable week view"
+msgstr "Khung xem tuần có thể vuốt"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:260
+#, kde-format
+msgid "Basic week view"
+msgstr "Xem tuần cơ bản"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:266
+#, kde-format
+msgid "Swipeable week view requires higher system performance."
+msgstr "Chế độ xem tuần có thể vuốt yêu cầu hiệu suất hệ thống cao hơn."
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:273
+#, kde-format
+msgid "Schedule View settings"
+msgstr "Thiết lập khung xem Lịch"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:286
+#, kde-format
+msgid "Schedule view mode"
+msgstr "Chế độ xem lịch trình"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:293
+#, kde-format
+msgid "Swipeable schedule view"
+msgstr "Khung xem lịch có thể vuốt"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:300
+#, kde-format
+msgid "Basic schedule view"
+msgstr "Khung xem lịch cơ bản"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:306
+#, kde-format
+msgid "Swipeable schedule view requires higher system performance."
+msgstr "Chế độ xem lịch có thể vuốt yêu cầu hiệu suất hệ thống cao hơn."
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:315
+#, kde-format
+msgid "Show week headers"
+msgstr "Hiển thị tiêu đề tuần"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:326
+#, kde-format
+msgid "Tasks View settings"
+msgstr "Thiết lập khung xem Nhiệm vụ"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:331
+#, kde-format
+msgid "Show completed sub-tasks"
+msgstr "Hiển thị các công việc con đã hoàn thành"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:342
+#, kde-format
+msgid "Maps"
+msgstr "Bản đồ"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:348
+#, kde-format
+msgid "Enable maps"
+msgstr "Bật bản đồ"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:355
+#, kde-format
+msgid "May cause crashing on some systems."
+msgstr "Có thể gây treo máy trên một số hệ thống."
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:362
+#, kde-format
+msgid "Location marker"
+msgstr "Dấu vị trí"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:368
+#, kde-format
+msgid "Circle (shows area of location)"
+msgstr "Hình tròn (hiển thị khu vực của địa điểm)"
+
+#: calendar/qml/Settings/ViewSettingsPage.qml:375
+#, kde-format
+msgid "Pin (shows exact location)"
+msgstr "Ghim (hiển thị vị trí chính xác)"
+
+#: calendar/utils.cpp:21
+#, kde-format
+msgctxt "%1 is 2 or more"
+msgid "%1 days"
+msgstr "%1 ngày"
+
+#: calendar/utils.cpp:23
+#, kde-format
+msgid "1 day"
+msgstr "1 ngày"
+
+#: calendar/utils.cpp:25
+#, kde-format
+msgctxt "%1 is 2 or mores"
+msgid "%1 hours"
+msgstr "%1 giờ"
+
+#: calendar/utils.cpp:27
+#, kde-format
+msgid "1 hour"
+msgstr "1 giờ"
+
+#: calendar/utils.cpp:29
+#, kde-format
+msgid "%1 minutes"
+msgstr "%1 phút"
+
+#: calendar/utils.cpp:47
+#, kde-format
+msgid "%1 before start of event"
+msgstr "%1 trước khi bắt đầu sự kiện"
+
+#: calendar/utils.cpp:49
+#, kde-format
+msgid "%1 after start of event"
+msgstr "%1 sau khi khởi động sự kiện"
+
+#: calendar/utils.cpp:51
+#, kde-format
+msgid "On event start"
+msgstr "Khi sự kiện bắt đầu"
+
+#: components/abstractmerkuroapplication.cpp:33
+#, kde-format
+msgid "Manage Tags…"
+msgstr "Quản lý thẻ..."
+
+#: components/abstractmerkuroapplication.cpp:40
+#, kde-format
+msgid "Show Menubar"
+msgstr "Hiện thanh menu"
+
+#: components/colorproxymodel.cpp:80
+#, kde-format
+msgctxt "@item this is the default calendar"
+msgid "%1 (Offline)"
+msgstr "%1 (Ngoại tuyến)"
+
+#: components/colorproxymodel.cpp:83
+#, kde-format
+msgctxt "@item this is the default calendar"
+msgid "%1 (Default)"
+msgstr "%1 (Mặc định)"
+
+#: components/qml/EditMenu.qml:14 components/qml/NativeEditMenu.qml:11
+#, kde-format
+msgctxt "@action:menu"
+msgid "Edit"
+msgstr "Sửa"
+
+#: components/qml/EditMenu.qml:40
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Undo Text"
+msgstr "Đảo ngược văn bản"
+
+#: components/qml/EditMenu.qml:49
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Redo Text"
+msgstr "Làm lại văn bản"
+
+#: components/qml/EditMenu.qml:61 components/qml/NativeEditMenu.qml:63
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Cut"
+msgstr "Cắt"
+
+#: components/qml/EditMenu.qml:70 components/qml/NativeEditMenu.qml:73
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Copy"
+msgstr "Sao chép"
+
+#: components/qml/EditMenu.qml:79 components/qml/NativeEditMenu.qml:83
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Paste"
+msgstr "Dán"
+
+#: components/qml/EditMenu.qml:88 components/qml/NativeEditMenu.qml:93
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Delete"
+msgstr "Xóa"
+
+#: components/qml/EditMenu.qml:100 components/qml/NativeEditMenu.qml:106
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Select All"
+msgstr "Chọn Tất Cả"
+
+#: components/qml/FileMenu.qml:15 components/qml/NativeFileMenu.qml:10
+#, kde-format
+msgctxt "@action:menu"
+msgid "File"
+msgstr "Tệp"
+
+#: components/qml/FileMenu.qml:20 components/qml/NativeFileMenu.qml:16
+#, kde-format
+msgctxt "@action:menu"
+msgid "Quit Merkuro"
+msgstr "Thoát Merkuro"
+
+#: components/qml/HelpMenu.qml:14 components/qml/NativeHelpMenu.qml:13
+#, kde-format
+msgctxt "@action:menu"
+msgid "Help"
+msgstr "trợ giúp"
+
+#: components/qml/HelpMenu.qml:27 components/qml/NativeHelpMenu.qml:26
+#, kde-format
+msgctxt "@action:menu"
+msgid "Merkuro Handbook"
+msgstr "Sổ tay Merkuro"
+
+#: components/qml/NativeEditMenu.qml:40
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Undo"
+msgstr "đảo ngược"
+
+#: components/qml/NativeEditMenu.qml:50
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Redo"
+msgstr "làm lại"
+
+#: components/qml/NativeWindowMenu.qml:12
+#: components/qml/WindowMenu.qml:12 mail/qml/app/GlobalMenuBar.qml:62
+#, kde-format
+msgctxt "@action:menu"
+msgid "Window"
+msgstr "Cửa sổ"
+
+#: components/qml/NativeWindowMenu.qml:15
+#: components/qml/WindowMenu.qml:15 mail/qml/app/GlobalMenuBar.qml:65
+#, kde-format
+msgctxt "@action:menu"
+msgid "Exit Full Screen"
+msgstr "Thoát toàn màn hình"
+
+#: components/qml/NativeWindowMenu.qml:15
+#: components/qml/WindowMenu.qml:15 mail/qml/app/GlobalMenuBar.qml:65
+#, kde-format
+msgctxt "@action:menu"
+msgid "Enter Full Screen"
+msgstr "Vào toàn màn hình"
+
+#: contacts/autotests/emailmodeltest.cpp:36
+#: contacts/emailmodel.cpp:45 contacts/qml/private/ContactPage.qml:234
+#, kde-format
+msgid "Home:"
+msgstr "Nhà:"
+
+#: contacts/contactapplication.cpp:15 contacts/contactapplication.cpp:17
+#, kde-format
+msgid "Contact"
+msgstr "liên hệ"
+
+#: contacts/contactapplication.cpp:36
+#, kde-format
+msgid "New Contact…"
+msgstr "Liên hệ mới..."
+
+#: contacts/contactapplication.cpp:43
+#, kde-format
+msgid "Refresh All Address Books"
+msgstr "Cập nhật Tất cả Sổ địa chỉ"
+
+#: contacts/contactapplication.cpp:53
+#, kde-format
+msgid "New Contact Group…"
+msgstr "Nhóm Liên Hệ Mới..."
+
+#: contacts/contactgroupeditor.cpp:231
+#, kde-format
+msgid "No address book selected"
+msgstr "Không có sổ địa chỉ nào được chọn"
+
+#: contacts/contactgroupmodel.cpp:185
+#, kde-format
+msgid "The member with name <b>%1</b> is missing an email address"
+msgstr "Thành viên có tên <b>%1</b> thiếu địa chỉ thư điện tử"
+
+#: contacts/contactgroupmodel.cpp:228
+#, kde-format
+msgid "Contact does not exist any more"
+msgstr "Liên hệ không còn tồn tại nữa"
+
+#: contacts/contactgroupmodel.cpp:348
+#, kde-format
+msgctxt "contact's name"
+msgid "Name"
+msgstr "Tên"
+
+#: contacts/contactgroupmodel.cpp:350
+#, kde-format
+msgctxt "contact's email address"
+msgid "EMail"
+msgstr "Thư điện tử"
+
+#: contacts/contactmanager.cpp:203
+#, kde-format
+msgctxt "@title:window"
+msgid "Properties of Address Book %1"
+msgstr "Thuộc tính của Sổ địa chỉ %1"
+
+#: contacts/emailmodel.cpp:39
+#, kde-format
+msgid "Both:"
+msgstr "Cả hai:"
+
+#: contacts/emailmodel.cpp:42
+#, kde-format
+msgid "Work:"
+msgstr "Công việc:"
+
+#: contacts/emailmodel.cpp:47
+#, kde-format
+msgid "Other:"
+msgstr "Khác:"
+
+#: contacts/main.cpp:61
+#, kde-format
+msgctxt "@title"
+msgid "Merkuro Contact"
+msgstr "Liên hệ Merkuro"
+
+#: contacts/main.cpp:64
+#, kde-format
+msgid "Address Book Application"
+msgstr "Ứng dụng Sổ địa chỉ"
+
+#: contacts/qml/AddressBookCollectionHandler.qml:34
+#, kde-format
+msgctxt "@title:window"
+msgid "Choose Address Book Color"
+msgstr "Chọn Màu Sách Địa Chỉ"
+
+#: contacts/qml/ContactChooserPage.qml:22
+#, kde-format
+msgid "Done"
+msgstr "Xong"
+
+#: contacts/qml/ContactChooserPage.qml:51
+#, kde-format
+msgid "Select Email Address"
+msgstr "Bôi đen Địa chỉ Thư điện tử"
+
+#: contacts/qml/ContactView.qml:17 contacts/qml/private/ContactsPage.qml:20
+#: contacts/qml/Sidebar.qml:124
+#, kde-format
+msgid "Contacts"
+msgstr "Danh bạ"
+
+#: contacts/qml/ContactView.qml:21
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Create"
+msgstr "Tạo"
+
+#: contacts/qml/ContactView.qml:24
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "New Contact"
+msgstr "Liên hệ mới"
+
+#: contacts/qml/ContactView.qml:31
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "New Contact Group"
+msgstr "Nhóm Liên Hệ Mới"
+
+#: contacts/qml/ContactView.qml:57 contacts/qml/ContactView.qml:65
+#: contacts/qml/private/ContactPage.qml:63
+#, kde-format
+msgctxt "Placeholder"
+msgid "No Name"
+msgstr "Không có tên"
+
+#: contacts/qml/ContactView.qml:92
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Edit contact…"
+msgstr "Sửa liên hệ..."
+
+#: contacts/qml/ContactView.qml:107 contacts/qml/private/DeleteContactAction.qml:59
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Delete contact"
+msgstr "Xóa liên hệ"
+
+#: contacts/qml/ContactView.qml:125 contacts/qml/private/ContactsPage.qml:46
+#, kde-format
+msgid "No contacts"
+msgstr "Không có liên hệ"
+
+#: contacts/qml/private/AddressBookMenu.qml:24
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Edit address book…"
+msgstr "Sửa sổ địa chỉ..."
+
+#: contacts/qml/private/AddressBookMenu.qml:29
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Update address book"
+msgstr "Cập nhật sổ địa chỉ"
+
+#: contacts/qml/private/AddressBookMenu.qml:34
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Delete address book"
+msgstr "Xóa sổ địa chỉ"
+
+#: contacts/qml/private/AddressBookMenu.qml:42
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Set address book colour…"
+msgstr "Đặt màu sổ địa chỉ..."
+
+#: contacts/qml/private/AddressBookMenu.qml:54
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Address book source settings…"
+msgstr "Cài đặt nguồn sổ địa chỉ..."
+
+#: contacts/qml/private/AddressBookMenu.qml:60
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Update address book source"
+msgstr "Cập nhật nguồn sổ địa chỉ"
+
+#: contacts/qml/private/AddressBookMenu.qml:66
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Delete address source"
+msgstr "Xóa nguồn địa chỉ"
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:30
+#, kde-format
+msgid "Address book:"
+msgstr "Sổ địa chỉ:"
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:55
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:62
+#, kde-format
+msgid "Name"
+msgstr "Tên"
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:66
+#, kde-format
+msgid "Contact name"
+msgstr "Tên liên hệ"
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:72
+#, kde-format
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:85
+#, kde-format
+msgid "Honorific prefix"
+msgstr "Tiền tố danh xưng"
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:88
+#, kde-format
+msgid "Dr."
+msgstr "Tiến sĩ."
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:88
+#, kde-format
+msgid "Miss"
+msgstr "Cô"
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:88
+#, kde-format
+msgid "Mr."
+msgstr "Ông."
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:88
+#, kde-format
+msgid "Mrs."
+msgstr "Bà."
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:88
+#, kde-format
+msgid "Ms."
+msgstr "Cô."
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:88
+#, kde-format
+msgid "Prof."
+msgstr "Giáo sư."
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:97
+#, kde-format
+msgid "Given name"
+msgstr "Tên"
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:100
+#, kde-format
+msgid "First name or chosen name"
+msgstr "Tên hoặc tên được chọn"
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:106
+#, kde-format
+msgid "Additional name"
+msgstr "Tên bổ sung"
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:109
+#, kde-format
+msgid "Middle name or other name"
+msgstr "Tên đệm hoặc tên khác"
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:115
+#, kde-format
+msgid "Family name:"
+msgstr "Họ:"
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:118
+#, kde-format
+msgid "Surname or last name"
+msgstr "Họ hoặc tên đệm"
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:124
+#, kde-format
+msgid "Honorific suffix"
+msgstr "Danh hiệu"
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:128
+#, kde-format
+msgid "I"
+msgstr "Tôi"
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:128
+#, kde-format
+msgid "II"
+msgstr "II"
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:128
+#, kde-format
+msgid "III"
+msgstr "III"
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:128
+#, kde-format
+msgid "Jr."
+msgstr "Jr."
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:128
+#, kde-format
+msgid "Sr."
+msgstr "Ông"
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:135
+#, kde-format
+msgid "Nickname"
+msgstr "Biệt danh"
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:138
+#, kde-format
+msgid "Alternative name"
+msgstr "Tên thay thế"
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:146
+#, kde-format
+msgid "Blog Feed"
+msgstr "Nguồn cấp dữ liệu blog"
+
+#: contacts/qml/private/contact_editor/AddressBookEditorCard.qml:149
+#, kde-format
+msgid "https://planet.kde.org/"
+msgstr "https://planet.kde.org/"
+
+#: contacts/qml/private/contact_editor/BusinessEditorCard.qml:23
+#, kde-format
+msgid "Organization"
+msgstr "Tổ chức"
+
+#: contacts/qml/private/contact_editor/BusinessEditorCard.qml:26
+#, kde-format
+msgctxt "Placeholder value for name of Organization"
+msgid "KDE"
+msgstr "KDE"
+
+#: contacts/qml/private/contact_editor/BusinessEditorCard.qml:33
+#, kde-format
+msgid "Profession"
+msgstr "Nghề nghiệp"
+
+#: contacts/qml/private/contact_editor/BusinessEditorCard.qml:36
+#, kde-format
+msgctxt "Placeholder value for name of Profession"
+msgid "Software Developer"
+msgstr "Nhà phát triển phần mềm"
+
+#: contacts/qml/private/contact_editor/BusinessEditorCard.qml:43
+#, kde-format
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: contacts/qml/private/contact_editor/BusinessEditorCard.qml:46
+#, kde-format
+msgctxt "Placeholder value for Title"
+msgid "SDE-1"
+msgstr "SDE-1"
+
+#: contacts/qml/private/contact_editor/BusinessEditorCard.qml:53
+#, kde-format
+msgid "Department"
+msgstr "Bộ phận"
+
+#: contacts/qml/private/contact_editor/BusinessEditorCard.qml:56
+#, kde-format
+msgctxt "Placeholder value for name of Department"
+msgid "Merkuro-Team"
+msgstr "Nhóm Merkuro"
+
+#: contacts/qml/private/contact_editor/BusinessEditorCard.qml:63
+#, kde-format
+msgid "Office"
+msgstr "Văn phòng"
+
+#: contacts/qml/private/contact_editor/BusinessEditorCard.qml:66
+#, kde-format
+msgctxt "Placeholder value for Office"
+msgid "Tech Wing, 4th Floor"
+msgstr "Cánh công nghệ, tầng 4"
+
+#: contacts/qml/private/contact_editor/BusinessEditorCard.qml:73
+#, kde-format
+msgid "Manager's Name"
+msgstr "Tên Quản lý"
+
+#: contacts/qml/private/contact_editor/BusinessEditorCard.qml:76
+#, kde-format
+msgctxt "Placeholder value for Manager's Name"
+msgid "Bob"
+msgstr "Bob"
+
+#: contacts/qml/private/contact_editor/BusinessEditorCard.qml:83
+#, kde-format
+msgid "Assistant's Name"
+msgstr "Tên trợ lý"
+
+#: contacts/qml/private/contact_editor/BusinessEditorCard.qml:86
+#, kde-format
+msgctxt "Placeholder value for Assistants's Name"
+msgid "Jill"
+msgstr "Jill"
+
+#: contacts/qml/private/contact_editor/ContactEditorPage.qml:60
+#, kde-format
+msgid "Add Contact"
+msgstr "Thêm liên hệ"
+
+#: contacts/qml/private/contact_editor/ContactEditorPage.qml:62
+#, kde-format
+msgid "Edit Contact"
+msgstr "Sửa Liên Hệ"
+
+#: contacts/qml/private/contact_editor/ContactEditorPage.qml:103
+#, kde-format
+msgid "Personal Information"
+msgstr "Thông tin cá nhân"
+
+#: contacts/qml/private/contact_editor/ContactEditorPage.qml:111
+#: contacts/qml/private/ContactPage.qml:271
+#, kde-format
+msgid "Business Information"
+msgstr "Thông tin kinh doanh"
+
+#: contacts/qml/private/contact_editor/ContactEditorPage.qml:119
+#, kde-format
+msgid "Phone"
+msgstr "Điện thoại"
+
+#: contacts/qml/private/contact_editor/ContactEditorPage.qml:128
+#, kde-format
+msgid "E-mail"
+msgstr "Email"
+
+#: contacts/qml/private/contact_editor/ContactEditorPage.qml:137
+#, kde-format
+msgid "Instant Messenger"
+msgstr "Tin nhắn tức thời"
+
+#: contacts/qml/private/contact_editor/ContactEditorPage.qml:176
+#: contacts/qml/private/contact_editor/ContactGroupEditorPage.qml:191
+#, kde-format
+msgid "Warning"
+msgstr "Cảnh báo"
+
+#: contacts/qml/private/contact_editor/ContactEditorPage.qml:186
+#, kde-format
+msgid "This contact was changed elsewhere during editing."
+msgstr "Liên hệ này đã được thay đổi ở nơi khác trong quá trình chỉnh sửa."
+
+#: contacts/qml/private/contact_editor/ContactEditorPage.qml:191
+#: contacts/qml/private/contact_editor/ContactGroupEditorPage.qml:206
+#, kde-format
+msgid "Which changes should be kept?"
+msgstr "Những thay đổi nào nên được giữ lại?"
+
+#: contacts/qml/private/contact_editor/ContactEditorPage.qml:204
+#: contacts/qml/private/contact_editor/ContactGroupEditorPage.qml:219
+#, kde-format
+msgid "Current changes"
+msgstr "Thay đổi hiện tại"
+
+#: contacts/qml/private/contact_editor/ContactEditorPage.qml:209
+#: contacts/qml/private/contact_editor/ContactGroupEditorPage.qml:224
+#, kde-format
+msgid "External changes"
+msgstr "Thay đổi bên ngoài"
+
+#: contacts/qml/private/contact_editor/ContactGroupEditorPage.qml:30
+#, kde-format
+msgid "Edit %1"
+msgstr "Sửa %1"
+
+#: contacts/qml/private/contact_editor/ContactGroupEditorPage.qml:30
+#, kde-format
+msgid "Create Contact Group"
+msgstr "Tạo Nhóm Liên Hệ"
+
+#: contacts/qml/private/contact_editor/ContactGroupEditorPage.qml:63
+#, kde-format
+msgid "Address Book:"
+msgstr "Sổ địa chỉ:"
+
+#: contacts/qml/private/contact_editor/ContactGroupEditorPage.qml:84
+#, kde-format
+msgid "Contact group name"
+msgstr "Tên nhóm liên hệ"
+
+#: contacts/qml/private/contact_editor/ContactGroupEditorPage.qml:89
+#, kde-format
+msgid "Members"
+msgstr "Thành viên"
+
+#: contacts/qml/private/contact_editor/ContactGroupEditorPage.qml:166
+#, kde-format
+msgid "Only contacts with an email address can be added to a contact group"
+msgstr "Chỉ những liên hệ có địa chỉ email mới có thể được thêm vào nhóm liên hệ"
+
+#: contacts/qml/private/contact_editor/ContactGroupEditorPage.qml:201
+#, kde-format
+msgid "This contact group was changed elsewhere during editing."
+msgstr "Nhóm liên hệ này đã được thay đổi ở nơi khác trong quá trình chỉnh sửa."
+
+#: contacts/qml/private/contact_editor/EmailEditorCard.qml:36
+#: contacts/qml/private/contact_editor/EmailEditorCard.qml:78
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:34
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:82
+#, kde-format
+msgid "Home"
+msgstr "Nhà"
+
+#: contacts/qml/private/contact_editor/EmailEditorCard.qml:37
+#: contacts/qml/private/contact_editor/EmailEditorCard.qml:79
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:35
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:83
+#, kde-format
+msgid "Work"
+msgstr "Công việc"
+
+#: contacts/qml/private/contact_editor/EmailEditorCard.qml:38
+#, kde-format
+msgid "Other"
+msgstr "Khác"
+
+#: contacts/qml/private/contact_editor/EmailEditorCard.qml:59
+#, kde-format
+msgid "Remove email"
+msgstr "Xoá thư điện tử"
+
+#: contacts/qml/private/contact_editor/EmailEditorCard.qml:80
+#, kde-format
+msgid "Both"
+msgstr "Cả hai"
+
+#: contacts/qml/private/contact_editor/EmailEditorCard.qml:81
+#, kde-format
+msgid "Other…"
+msgstr "Khác..."
+
+#: contacts/qml/private/contact_editor/EmailEditorCard.qml:90
+#, kde-format
+msgid "user@example.org"
+msgstr "user@example.org"
+
+#: contacts/qml/private/contact_editor/EmailEditorCard.qml:99
+#, kde-format
+msgid "Add email"
+msgstr "Thêm thư điện tử"
+
+#: contacts/qml/private/contact_editor/InstantMessengerEditorCard.qml:58
+#, kde-format
+msgid "protocol:person@example.com"
+msgstr "giao thức:person@example.com"
+
+#: contacts/qml/private/contact_editor/PersonalInfoEditorCard.qml:23
+#, kde-format
+msgctxt "@label"
+msgid "Partners's name"
+msgstr "Tên người bạn đời"
+
+#: contacts/qml/private/contact_editor/PersonalInfoEditorCard.qml:32
+#, kde-format
+msgctxt "@label"
+msgid "Anniversary"
+msgstr "Kỷ niệm"
+
+#: contacts/qml/private/contact_editor/PersonalInfoEditorCard.qml:42
+#, kde-format
+msgctxt "@label"
+msgid "Birthday"
+msgstr "Ngày sinh"
+
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:36
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:84
+#, kde-format
+msgid "Messaging"
+msgstr "Nhắn tin"
+
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:37
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:85
+#, kde-format
+msgid "Voice"
+msgstr "Thoại"
+
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:38
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:86
+#, kde-format
+msgid "Fax"
+msgstr "Fax"
+
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:39
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:87
+#, kde-format
+msgid "Cell"
+msgstr "Di động"
+
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:40
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:88
+#, kde-format
+msgid "Video"
+msgstr "phim, hình, phần hình"
+
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:41
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:89
+#, kde-format
+msgid "Mailbox"
+msgstr "Hộp thư"
+
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:42
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:90
+#, kde-format
+msgid "Modem"
+msgstr "bộ điều giải"
+
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:43
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:91
+#, kde-format
+msgid "Car"
+msgstr "Xe"
+
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:44
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:92
+#, kde-format
+msgid "ISDN"
+msgstr "ISDN"
+
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:45
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:93
+#, kde-format
+msgid "PCS"
+msgstr "PCS"
+
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:46
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:94
+#, kde-format
+msgid "Pager"
+msgstr "Máy gọi số"
+
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:47
+#, kde-format
+msgid "Undefined"
+msgstr "Không xác định"
+
+#: contacts/qml/private/contact_editor/PhoneEditorCard.qml:106
+#, kde-format
+msgid "+33 7 55 23 68 67"
+msgstr "+33 7 55 23 68 67"
+
+#: contacts/qml/private/contact_editor/PhotoEditor.qml:28
+#, kde-format
+msgid "Select a file"
+msgstr "Bôi đen một tệp"
+
+#: contacts/qml/private/contact_editor/PhotoEditor.qml:29
+#, kde-format
+msgid "Images files (*.png *.jpeg *.jpg)"
+msgstr "Tệp hình ảnh (*.png *.jpeg *.jpg)"
+
+#: contacts/qml/private/contact_editor/PhotoEditor.qml:43
+#, kde-format
+msgid "Photo"
+msgstr "Ảnh"
+
+#: contacts/qml/private/contact_editor/PhotoEditor.qml:86
+#, kde-format
+msgid "Add Profile Picture"
+msgstr "Thêm ảnh tiểu sử"
+
+#: contacts/qml/private/contact_editor/PhotoEditor.qml:86
+#, kde-format
+msgid "Update Profile Picture"
+msgstr "Cập nhật ảnh hồ sơ"
+
+#: contacts/qml/private/ContactGroupPage.qml:35
+#, kde-format
+msgctxt "@action:button"
+msgid "Edit"
+msgstr "Sửa"
+
+#: contacts/qml/private/ContactPage.qml:36
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Edit"
+msgstr "Sửa"
+
+#: contacts/qml/private/ContactPage.qml:44
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Cancel"
+msgstr "Huỷ"
+
+#: contacts/qml/private/ContactPage.qml:66
+#, kde-format
+msgid "Call"
+msgstr "Gọi"
+
+#: contacts/qml/private/ContactPage.qml:77
+#, kde-format
+msgid "Select number to call"
+msgstr "Chọn số để gọi"
+
+#: contacts/qml/private/ContactPage.qml:85
+#, kde-format
+msgid "Send SMS"
+msgstr "Gửi tin nhắn SMS"
+
+#: contacts/qml/private/ContactPage.qml:96
+#, kde-format
+msgid "Select number to send message to"
+msgstr "Chọn số để gửi thông điệp"
+
+#: contacts/qml/private/ContactPage.qml:104
+#, kde-format
+msgid "Send email"
+msgstr "Gửi thư điện tử"
+
+#: contacts/qml/private/ContactPage.qml:110
+#, kde-format
+msgid "Show QR Code"
+msgstr "Hiển thị mã QR"
+
+#: contacts/qml/private/ContactPage.qml:126
+#, kde-format
+msgid "Contact information"
+msgstr "Thông tin liên hệ"
+
+#: contacts/qml/private/ContactPage.qml:139
+#, kde-format
+msgid "Nickname:"
+msgstr "Biệt danh:"
+
+#: contacts/qml/private/ContactPage.qml:145
+#, kde-format
+msgid "Blog Feed:"
+msgstr "Nguồn cấp dữ liệu blog:"
+
+#: contacts/qml/private/ContactPage.qml:153
+#, kde-format
+msgid "Personal information"
+msgstr "Thông tin cá nhân"
+
+#: contacts/qml/private/ContactPage.qml:163
+#, kde-format
+msgid "Birthday:"
+msgstr "Ngày sinh:"
+
+#: contacts/qml/private/ContactPage.qml:181
+#, kde-format
+msgid "Anniversary:"
+msgstr "Kỷ niệm:"
+
+#: contacts/qml/private/ContactPage.qml:188
+#, kde-format
+msgid "Partner's name:"
+msgstr "Tên người bạn đời:"
+
+#: contacts/qml/private/ContactPage.qml:193
+#, kde-format
+msgid "Phone Number"
+msgid_plural "Phone Numbers"
+msgstr[0] "Số điện thoại"
+
+#: contacts/qml/private/ContactPage.qml:209
+#, kde-format
+msgctxt "Label for a phone number type"
+msgid "%1:"
+msgstr "%1:"
+
+#: contacts/qml/private/ContactPage.qml:217
+#, kde-format
+msgid "Address"
+msgid_plural "Addresses"
+msgstr[0] "Địa chỉ"
+
+#: contacts/qml/private/ContactPage.qml:234
+#, kde-format
+msgctxt "%1 is the type of the address, e.g. home, work, ..."
+msgid "%1:"
+msgstr "%1:"
+
+#: contacts/qml/private/ContactPage.qml:241
+#, kde-format
+msgid "Instant Messaging"
+msgstr "Nhắn tin nhanh"
+
+#: contacts/qml/private/ContactPage.qml:262
+#, kde-format
+msgctxt "Label for a messaging protocol"
+msgid "%1:"
+msgstr "%1:"
+
+#: contacts/qml/private/ContactPage.qml:290
+#, kde-format
+msgid "Organization:"
+msgstr "Tổ chức:"
+
+#: contacts/qml/private/ContactPage.qml:297
+#, kde-format
+msgid "Profession:"
+msgstr "Nghề nghiệp:"
+
+#: contacts/qml/private/ContactPage.qml:304
+#, kde-format
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: contacts/qml/private/ContactPage.qml:311
+#, kde-format
+msgid "Department:"
+msgstr "Bộ phận:"
+
+#: contacts/qml/private/ContactPage.qml:318
+#, kde-format
+msgid "Office:"
+msgstr "Văn phòng:"
+
+#: contacts/qml/private/ContactPage.qml:325
+#, kde-format
+msgid "Manager's name:"
+msgstr "Tên quản lý:"
+
+#: contacts/qml/private/ContactPage.qml:332
+#, kde-format
+msgid "Assistants's name:"
+msgstr "Tên trợ lý:"
+
+#: contacts/qml/private/ContactPage.qml:338
+#, kde-format
+msgid "Email Address"
+msgid_plural "Email Addresses"
+msgstr[0] "Địa chỉ email"
+
+#: contacts/qml/private/DeleteContactAction.qml:20
+#, kde-format
+msgctxt "@title:dialog"
+msgid "Confirm Contact Deletion"
+msgstr "Xác nhận xóa liên hệ"
+
+#: contacts/qml/private/DeleteContactAction.qml:25
+#, kde-format
+msgctxt "Placeholder when no name is set"
+msgid "No name"
+msgstr "Không có tên"
+
+#: contacts/qml/private/DeleteContactAction.qml:25
+#, kde-format
+msgid "Do you really want to delete your contact: <b>%1</b>?"
+msgstr "Bạn có thực sự muốn xóa liên hệ của mình: <b>%1</b>?"
+
+#: contacts/qml/private/DeleteContactAction.qml:51
+#, kde-format
+msgid "Delete contact"
+msgstr "Xóa liên hệ"
+
+#: contacts/qml/private/QrCodePage.qml:15
+#, kde-format
+msgid "QR Code"
+msgstr "Mã QR"
+
+#: contacts/qml/private/QrCodePage.qml:27
+#, kde-format
+msgid "Creating QR code failed"
+msgstr "Tạo mã QR không thành công"
+
+#: contacts/qml/Settings.qml:13
+#, kde-format
+msgctxt "@title:window"
+msgid "Settings"
+msgstr "thiết lập"
+
+#: contacts/qml/Settings.qml:16
+#, kde-format
+msgid "Contact Books"
+msgstr "Sổ liên hệ"
+
+#: contacts/qml/Settings.qml:21
+#, kde-format
+msgid "Add New Address Book Source…"
+msgstr "Thêm nguồn sổ địa chỉ mới..."
+
+#: mail/contactimageprovider.cpp:147
+#, kde-format
+msgid "Image request has been cancelled"
+msgstr "Yêu cầu ảnh đã bị hủy"
+
+#: mail/identity/identitykeylistmodel.cpp:33
+#, kde-format
+msgid "No key"
+msgstr "Không có khóa"
+
+#: mail/mailapplication.cpp:24
+#, kde-format
+msgid "New Mail…"
+msgstr "Thư mới..."
+
+#: mail/mailapplication.cpp:31
+#, kde-format
+msgid "Check Mail"
+msgstr "Kiểm tra thư"
+
+#: mail/mailclient.cpp:48 mail/mailclient.cpp:74
+#, kde-format
+msgid "There are no attendees to e-mail"
+msgstr "Không có người tham dự để gửi email"
+
+#: mail/mailclient.cpp:93
+#, kde-format
+msgid "Error creating transport"
+msgstr "Lỗi khi tạo phương tiện vận chuyển"
+
+#: mail/mailclient.cpp:186
+#, kde-format
+msgid "Error loading transport"
+msgstr "Lỗi khi tải phương thức vận chuyển"
+
+#: mail/mailclient.cpp:203
+#, kde-format
+msgid "Error queuing message in outbox: %1"
+msgstr "Lỗi khi đưa thông điệp vào hộp thư đi: %1"
+
+#: mail/mailkernel.cpp:185
+#, kde-format
+msgid ""
+"Resource %1 is broken.\n"
+"%2"
+msgstr "Tài nguyên %1 bị hỏng.\n%2"
+
+#: mail/mailmanager.cpp:240
+#, kde-format
+msgctxt "@title:window"
+msgid "Account Configuration: %1"
+msgstr "Cấu hình Tài khoản: %1"
+
+#: mail/mailmodel.cpp:48
+#, kde-format
+msgctxt "displayed as subject when the subject of a mail is empty"
+msgid "No Subject"
+msgstr "Không có chủ đề"
+
+#: mail/mailmodel.cpp:49
+#, kde-format
+msgctxt "displayed when a mail has unknown sender, receiver or date"
+msgid "Unknown"
+msgstr "không rõ"
+
+#: mail/main.cpp:63
+#, kde-format
+msgctxt "@title"
+msgid "Merkuro Mail"
+msgstr "Merkuro Mail"
+
+#: mail/main.cpp:66
+#, kde-format
+msgid "Email Client"
+msgstr "Trình khách thư điện tử"
+
+#: mail/qml/actions/DeleteFolderAction.qml:19
+#: mail/qml/actions/DeleteFolderAction.qml:24
+#: mail/qml/actions/MailItemMenu.qml:32
+#, kde-format
+msgid "Delete Folder"
+msgstr "Xóa thư mục"
+
+#: mail/qml/actions/DeleteFolderAction.qml:39
+#, kde-format
+msgid ""
+"Are you sure you want to delete the folder %1, discarding its contents? <br /"
+"> <b>Beware</b> that discarded messages are not saved into your Trash folder "
+"and are permanently deleted."
+msgstr ""
+"Bạn có chắc chắn muốn xóa thư mục %1, loại bỏ nội dung của nó không? <br /> "
+"<b>Hãy cẩn thận</b> vì các thư bị loại bỏ sẽ không được lưu vào thư mục "
+"Thùng rác và sẽ bị xóa vĩnh viễn."
+
+#: mail/qml/actions/MailItemMenu.qml:25
+#, kde-format
+msgid "Add Folder"
+msgstr "Thêm Thư mục"
+
+#: mail/qml/actions/MailItemMenu.qml:40
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Folder Properties"
+msgstr "Thuộc tính thư mục"
+
+#: mail/qml/actions/MailItemMenu.qml:49
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Restart Account"
+msgstr "Khởi động lại Tài khoản"
+
+#: mail/qml/actions/MailItemMenu.qml:55
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Account Settings"
+msgstr "Thiết lập Tài khoản"
+
+#: mail/qml/actions/NewFolderAction.qml:18
+#, kde-format
+msgid "New Folder"
+msgstr "Thư mục mới"
+
+#: mail/qml/actions/NewFolderAction.qml:23
+#, kde-format
+msgid "Create Folder"
+msgstr "Tạo Thư Mục"
+
+#: mail/qml/actions/NewFolderAction.qml:39
+#, kde-format
+msgid "Folder Name..."
+msgstr "Tên thư mục..."
+
+#: mail/qml/ConversationViewer.qml:29
+#, kde-format
+msgid "Move to trash"
+msgstr "Chuyển vào thùng rác"
+
+#: mail/qml/desktopactions/OpenMbox.qml:15
+#, kde-format
+msgid "Open File"
+msgstr "Mở tệp"
+
+#: mail/qml/desktopactions/OpenMbox.qml:21
+#, kde-format
+msgid "Choose file"
+msgstr "Chọn tệp"
+
+#: mail/qml/FolderView.qml:29
+#, kde-format
+msgid "Save Message - Merkuro-Mail"
+msgstr "Lưu Thông Điệp - Merkuro-Mail"
+
+#: mail/qml/FolderView.qml:30
+#, kde-format
+msgid "email messages (*.mbox)"
+msgstr "thư, thư điện tử (*.mbox)"
+
+#: mail/qml/FolderView.qml:68
+#, kde-format
+msgctxt "@action:menu"
+msgid "Mark Message"
+msgstr "Đánh dấu thông điệp"
+
+#: mail/qml/FolderView.qml:70
+#, kde-format
+msgid "Mark Message as Read"
+msgstr "Đánh dấu thông điệp là đã đọc"
+
+#: mail/qml/FolderView.qml:73
+#, kde-format
+msgid "Mark Message as Unread"
+msgstr "Đánh dấu thông điệp là chưa đọc"
+
+#: mail/qml/FolderView.qml:79
+#, kde-format
+msgid "Don't Mark as Important"
+msgstr "Không đánh dấu là quan trọng"
+
+#: mail/qml/FolderView.qml:79
+#, kde-format
+msgid "Mark as Important"
+msgstr "Đánh dấu là quan trọng"
+
+#: mail/qml/FolderView.qml:85
+#, kde-format
+msgid "Move to Trash"
+msgstr "Chuyển vào Thùng rác"
+
+#: mail/qml/FolderView.qml:90
+#, kde-format
+msgid "Move Message to..."
+msgstr "Di chuyển thông điệp đến..."
+
+#: mail/qml/FolderView.qml:95
+#, kde-format
+msgid "Copy Message to..."
+msgstr "Sao chép Thông điệp đến..."
+
+#: mail/qml/FolderView.qml:100
+#, kde-format
+msgid "Add Followup Reminder"
+msgstr "Thêm lời nhắc theo dõi"
+
+#: mail/qml/FolderView.qml:105
+#, kde-format
+msgctxt "@action:button"
+msgid "Save as..."
+msgstr "Lưu với tên..."
+
+#: mail/qml/FolderView.qml:123
+#, kde-format
+msgid "No mailbox selected"
+msgstr "Không có hộp thư được chọn"
+
+#: mail/qml/FolderView.qml:124
+#, kde-format
+msgid "Select a mailbox from the sidebar."
+msgstr "Chọn một hộp thư từ thanh bên."
+
+#: mail/qml/FolderView.qml:131
+#, kde-format
+msgid "Mailbox is empty"
+msgstr "Hộp thư trống"
+
+#: mail/qml/mailboxselector/MailBoxListPage.qml:16
+#, kde-format
+msgid "Mailboxes"
+msgstr "Hộp thư"
+
+#: mail/qml/mailboxselector/MailBoxListSidebar.qml:17
+#: mail/qml/mailboxselector/MailBoxListSidebar.qml:39
+#, kde-format
+msgid "Mail"
+msgstr "Thư"
+
+#: mail/qml/MailComposer.qml:16
+#, kde-format
+msgctxt "@title:window"
+msgid "New Message"
+msgstr "Thông điệp mới"
+
+#: mail/qml/MailComposer.qml:29
+#, kde-format
+msgid "From:"
+msgstr "Từ:"
+
+#: mail/qml/MailComposer.qml:40
+#, kde-format
+msgid "Identity:"
+msgstr "Danh tính:"
+
+#: mail/qml/MailComposer.qml:66
+#, kde-format
+msgid "To:"
+msgstr "Đến:"
+
+#: mail/qml/MailComposer.qml:67
+#, kde-format
+msgid "CC:"
+msgstr "Cc:"
+
+#: mail/qml/MailComposer.qml:68
+#, kde-format
+msgid "BCC:"
+msgstr "Bcc:"
+
+#: mail/qml/MailComposer.qml:69
+#, kde-format
+msgid "Reply-To:"
+msgstr "Trả lời đến:"
+
+#: mail/qml/MailComposer.qml:89
+#, kde-format
+msgid "Subject:"
+msgstr "Chủ đề:"
+
+#: mail/qml/mailpartview/ICalPart.qml:28
+#, kde-format
+msgid "This mail contains an invitation"
+msgstr "Thư này chứa một lời mời"
+
+#: mail/qml/private/AttachmentDelegate.qml:57
+#, kde-format
+msgctxt "@action:button"
+msgid "Import key"
+msgstr "Nhập khẩu khóa"
+
+#: mail/settings/AccountSettingsPage.qml:17
+#, kde-format
+msgctxt "@action:group"
+msgid "Identities"
+msgstr "Danh tính"
+
+#: mail/settings/AccountSettingsPage.qml:27
+#, kde-format
+msgctxt ""
+"@title:group Title for the list of receiving accounts which are imap or pop3 "
+"email accounts"
+msgid "Receiving Accounts"
+msgstr "Tài khoản nhận thư"
+
+#: mail/settings/AccountSettingsPage.qml:32
+#, kde-format
+msgid "Mail Account Configuration"
+msgstr "Cấu hình Tài khoản Thư"
+
+#: mail/settings/Settings.qml:12
+#, kde-format
+msgctxt "@title"
+msgid "Accounts"
+msgstr "Tài khoản"
+
+#: quick/qml/AgentConfigurationForm.qml:38
+#, kde-format
+msgid "Configure %1"
+msgstr "Cấu hình %1"
+
+#: quick/qml/AgentConfigurationForm.qml:39
+#, kde-format
+msgid "Modify or delete this account agent."
+msgstr "Chỉnh sửa hoặc xóa tài khoản đại lý này."
+
+#: quick/qml/AgentConfigurationForm.qml:44
+#, kde-format
+msgid "Modify"
+msgstr "Chỉnh sửa"
+
+#: quick/qml/AgentConfigurationForm.qml:84
+#, kde-format
+msgid "Add Account"
+msgstr "Thêm tài khoản"
+
+#: quick/qml/TagManagerPage.qml:15
+#, kde-format
+msgid "Manage Tags"
+msgstr "Quản lý thẻ"
+
+#: quick/qml/TagManagerPage.qml:25
+#, kde-format
+msgctxt "@title:dialog"
+msgid "Confirm Tag Deletion"
+msgstr "Xác nhận xóa thẻ"
+
+#: quick/qml/TagManagerPage.qml:29
+#, kde-format
+msgid "Are you sure you want to delete tag <b>%1</b>?"
+msgstr "Bạn có chắc chắn muốn xóa thẻ <b>%1</b> không?"
+
+#: quick/qml/TagManagerPage.qml:29
+#, kde-format
+msgid "You won't be able to revert this action."
+msgstr "Bạn sẽ không thể hoàn nguyên lại hành động này."
+
+#: quick/qml/TagManagerPage.qml:130
+#, kde-format
+msgid "Create a New Tag…"
+msgstr "Tạo Thẻ Mới..."
+
+#: quick/qml/TagManagerPage.qml:141
+#, kde-format
+msgid "Quickly Add a New Tag."
+msgstr "Nhanh chóng thêm một thẻ mới."

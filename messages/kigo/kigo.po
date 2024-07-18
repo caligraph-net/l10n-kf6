@@ -1,0 +1,881 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kigo package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kigo\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-04 00:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: game/game.cpp:317
+#, kde-format
+msgctxt "@item undo/redo, %1 stone coordinate"
+msgid "White %1"
+msgstr "Trắng %1"
+
+#: game/game.cpp:320 game/game.cpp:390
+#, kde-format
+msgctxt "@item undo/redo"
+msgid "White passed"
+msgstr "Trắng đã qua"
+
+#: game/game.cpp:326
+#, kde-format
+msgctxt "@item undo/redo, %1 stone coordinate"
+msgid "Black %1"
+msgstr "Đen %1"
+
+#: game/game.cpp:329 game/game.cpp:392
+#, kde-format
+msgctxt "@item undo/redo"
+msgid "Black passed"
+msgstr "Quân đen đã bỏ lượt"
+
+#: game/game.cpp:399
+#, kde-format
+msgctxt "@item undo/redo"
+msgid "White resigned"
+msgstr "Người chơi trắng đã từ bỏ"
+
+#: game/game.cpp:401
+#, kde-format
+msgctxt "@item undo/redo"
+msgid "Black resigned"
+msgstr "Đen đã từ bỏ"
+
+#: game/game.cpp:409
+#, kde-format
+msgctxt "@item undo/redo, %1 response from Go engine"
+msgid "White %1"
+msgstr "Trắng %1"
+
+#: game/game.cpp:411
+#, kde-format
+msgctxt "@item undo/redo, %1 response from Go engine"
+msgid "Black %1"
+msgstr "Đen %1"
+
+#. i18n: ectx: property (title), widget (QGroupBox, backendGroupBox)
+#: gui/config/generalconfig.ui:17
+#, kde-format
+msgid "Backend"
+msgstr "Hậu phương"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: gui/config/generalconfig.ui:23
+#, kde-format
+msgid "Executable:"
+msgstr "Chương trình thực thi:"
+
+#. i18n: ectx: property (toolTip), widget (KUrlRequester, engineExecutable)
+#: gui/config/generalconfig.ui:42
+#, kde-format
+msgid "Select the executable file to start the Go engine"
+msgstr "Chọn tệp thực thi để khởi động dụng cụ Go"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: gui/config/generalconfig.ui:49
+#, kde-format
+msgid "Parameters:"
+msgstr "Tham số:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, engineParameters)
+#: gui/config/generalconfig.ui:62
+#, kde-format
+msgid "Add here the necessary parameters to start the Engine in GTP mode"
+msgstr "Thêm các tham số cần thiết để khởi động Dụng cụ ở chế độ GTP"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, kcfg_EngineCommand)
+#: gui/config/generalconfig.ui:75
+#, kde-format
+msgid "This is the resulting engine command which will be used by Kigo"
+msgstr "Đây là lệnh dụng cụ kết quả sẽ được sử dụng bởi Kigo"
+
+#. i18n: ectx: property (toolTip), widget (KLed, engineLed)
+#: gui/config/generalconfig.ui:94
+#, kde-format
+msgid "Indicates whether the Go engine works correctly"
+msgstr "Chỉ ra liệu dụng cụ Go có hoạt động đúng không"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: gui/config/generalconfig.ui:108
+#, kde-format
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Please select a Go engine "
+"that supports the <span style=\" font-style:italic;\">GnuGo Text Protocol "
+"(GTP)</span>. The indicator light turns green when the selected backend is "
+"working.</p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta "
+"name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { "
+"white-space: pre-wrap; }\n</style></head><body style=\" font-family:'Sans "
+"Serif'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" "
+"margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; "
+"-qt-block-indent:0; text-indent:0px;\">Vui lòng bôi đen một dụng cụ Go hỗ "
+"trợ <span style=\" font-style:italic;\">GnuGo Text Protocol (GTP)</span>. "
+"Đèn báo sẽ chuyển sang màu xanh lá cây khi hậu phương được chọn hoạt "
+"động.</p></body></html>"
+
+#. i18n: ectx: property (title), widget (QGroupBox, appearanceGroupBox)
+#: gui/config/generalconfig.ui:128
+#, kde-format
+msgid "Appearance"
+msgstr "diện mạo"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowBoardLabels)
+#: gui/config/generalconfig.ui:137
+#, kde-format
+msgid "Display Board Labels"
+msgstr "Hiển thị Nhãn Bảng"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: gui/config/generalconfig.ui:144
+#, kde-format
+msgid "Hint Visibility Time:"
+msgstr "Thời gian hiển thị gợi ý:"
+
+#. i18n: ectx: property (suffix), widget (QDoubleSpinBox, kcfg_HintVisibleTime)
+#: gui/config/generalconfig.ui:163
+#, kde-format
+msgid " Seconds"
+msgstr "Giây"
+
+#. i18n: ectx: Menu (game)
+#: gui/kigoui.rc:9
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Game"
+msgstr "Bà&n chơi"
+
+#. i18n: ectx: Menu (move)
+#: gui/kigoui.rc:20
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Move"
+msgstr "Di chuyể&n"
+
+#. i18n: ectx: Menu (settings)
+#: gui/kigoui.rc:25
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Settings"
+msgstr "Thiết &lập"
+
+#. i18n: ectx: Menu (dockers)
+#: gui/kigoui.rc:27
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Dockers"
+msgstr "&Dockers"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: gui/kigoui.rc:36
+#, kde-format
+msgctxt "@title:menu"
+msgid "Main Toolbar"
+msgstr "Thanh công cụ chính"
+
+#. i18n: ectx: ToolBar (moveToolBar)
+#: gui/kigoui.rc:42
+#, kde-format
+msgctxt "@title:menu"
+msgid "Move Toolbar"
+msgstr "Di chuyển thanh công cụ"
+
+#: gui/mainwindow.cpp:90
+#, kde-format
+msgctxt "@info"
+msgid "Set up a new game…"
+msgstr "Thiết lập một trò chơi mới..."
+
+#: gui/mainwindow.cpp:96 gui/mainwindow.cpp:170
+#, kde-format
+msgid "Kigo Game Files (*.sgf)"
+msgstr "Tệp bàn chơi Kigo (*.sgf)"
+
+#: gui/mainwindow.cpp:133
+#, kde-format
+msgctxt "@info"
+msgid "Set up a loaded game…"
+msgstr "Thiết lập một trò chơi đã tải..."
+
+#: gui/mainwindow.cpp:136
+#, kde-format
+msgctxt "@info"
+msgid "Unable to load game…"
+msgstr "Không thể tải trò chơi..."
+
+#: gui/mainwindow.cpp:174
+#, kde-format
+msgctxt "@info"
+msgid "Game saved…"
+msgstr "Bàn chơi đã được lưu..."
+
+#: gui/mainwindow.cpp:176
+#, kde-format
+msgctxt "@info"
+msgid "Unable to save game."
+msgstr "Không thể lưu trò chơi."
+
+#: gui/mainwindow.cpp:223
+#, kde-format
+msgctxt "@info"
+msgid "Game started…"
+msgstr "Bàn chơi đã bắt đầu..."
+
+#: gui/mainwindow.cpp:248
+#, kde-format
+msgctxt "@item:intext"
+msgid "%1 (White)"
+msgstr "%1 (Trắng)"
+
+#: gui/mainwindow.cpp:250
+#, kde-format
+msgctxt "@item:intext"
+msgid "%1 (Black)"
+msgstr "%1 (Đen)"
+
+#: gui/mainwindow.cpp:255
+#, kde-format
+msgid "%1 won with a score of %2."
+msgstr "%1 đã thắng với điểm số %2."
+
+#: gui/mainwindow.cpp:258
+#, kde-format
+msgid "%1 won with a score of %2 (bounds: %3 and %4)."
+msgstr "%1 đã thắng với điểm số %2 (giới hạn: %3 và %4)."
+
+#: gui/mainwindow.cpp:266
+#, kde-format
+msgctxt "@info"
+msgid "Undone move."
+msgstr "Đã đảo ngược di chuyển."
+
+#: gui/mainwindow.cpp:274
+#, kde-format
+msgctxt "@info"
+msgid "Redone move."
+msgstr "Đã di chuyển lại."
+
+#: gui/mainwindow.cpp:298
+#, kde-format
+msgctxt "@title:tab"
+msgid "General"
+msgstr "Chung"
+
+#: gui/mainwindow.cpp:300
+#, kde-format
+msgctxt "@title:tab"
+msgid "Themes"
+msgstr "Chủ đề"
+
+#: gui/mainwindow.cpp:317
+#, kde-format
+msgctxt "@info"
+msgid "Backend was changed, restart necessary…"
+msgstr "Hậu phương đã thay đổi, cần khởi động lại..."
+
+#: gui/mainwindow.cpp:367
+#, kde-format
+msgctxt "@info"
+msgid "White passed."
+msgstr "Trắng đã qua."
+
+#: gui/mainwindow.cpp:369
+#, kde-format
+msgctxt "@info"
+msgid "Black passed."
+msgstr "Quân đen đã qua."
+
+#: gui/mainwindow.cpp:380
+#, kde-format
+msgctxt "@action"
+msgid "Get More Games…"
+msgstr "Tìm thêm trò chơi..."
+
+#: gui/mainwindow.cpp:386
+#, kde-format
+msgctxt "@action"
+msgid "Start Game"
+msgstr "Khởi động Bàn chơi"
+
+#: gui/mainwindow.cpp:391
+#, kde-format
+msgctxt "@action"
+msgid "Finish Game"
+msgstr "Kết thúc bàn chơi"
+
+#: gui/mainwindow.cpp:400
+#, kde-format
+msgctxt "@action:inmenu Move"
+msgid "Pass Move"
+msgstr "Chuyển"
+
+#: gui/mainwindow.cpp:405
+#, kde-format
+msgctxt "@option:check"
+msgid "Show Move &Numbers"
+msgstr "H&iển thị số nước đi"
+
+#: gui/mainwindow.cpp:418
+#, kde-format
+msgctxt "@title:window"
+msgid "Game Setup"
+msgstr "Thiết lập bàn chơi"
+
+#: gui/mainwindow.cpp:427 gui/mainwindow.cpp:433
+#, kde-format
+msgctxt "@title:window"
+msgid "Information"
+msgstr "Thông tin"
+
+#: gui/mainwindow.cpp:439 gui/mainwindow.cpp:448
+#, kde-format
+msgctxt "@title:window"
+msgid "Moves"
+msgstr "Chuyển động"
+
+#: gui/mainwindow.cpp:442
+#, kde-format
+msgctxt "@info"
+msgid "No move"
+msgstr "Không di chuyển"
+
+#: gui/mainwindow.cpp:453
+#, kde-format
+msgctxt "@title:window"
+msgid "Error"
+msgstr "Lỗi"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: gui/widgets/errorwidget.ui:21
+#, kde-format
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:8pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans Serif'; font-size:10pt; color:#ff0000;\">Kigo was unable to "
+"find a  Go engine backend.</span></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
+"family:'Sans Serif'; font-size:10pt; color:#ff0000;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans Serif'; font-size:10pt;\">If you are sure that you already "
+"installed a suitable Go engine, you might want to configure Kigo to use that "
+"engine. Otherwise you should install a Go engine (like GnuGo).</span></p></"
+"body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta "
+"name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { "
+"white-space: pre-wrap; }\n</style></head><body style=\" font-family:'DejaVu "
+"Sans'; font-size:8pt; font-weight:400; font-style:normal;\">\n<p style=\" "
+"margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; "
+"-qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'Sans "
+"Serif'; font-size:10pt; color:#ff0000;\">Kigo không thể tìm thấy dụng cụ Go "
+"backend.</span></p>\n<p style=\"-qt-paragraph-type:empty; margin-top:0px; "
+"margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px; font-family:'Sans Serif'; font-size:10pt; "
+"color:#ff0000;\"></p>\n<p style=\" margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px;\"><span style=\" font-family:'Sans Serif'; "
+"font-size:10pt;\">Nếu bạn chắc chắn rằng bạn đã cài đặt một dụng cụ Go phù "
+"hợp, bạn có thể muốn cấu hình Kigo để sử dụng dụng cụ đó. Nếu không, bạn "
+"nên cài đặt một dụng cụ Go (như GnuGo).</span></p></body></html>"
+
+#. i18n: ectx: property (text), widget (QPushButton, configureButton)
+#: gui/widgets/errorwidget.ui:49
+#, kde-format
+msgid "Configure Kigo…"
+msgstr "Cấu hình Kigo..."
+
+#: gui/widgets/gamewidget.cpp:41 gui/widgets/gamewidget.cpp:46
+#, kde-format
+msgid "Computer (level %1)"
+msgstr "Máy tính (cấp độ %1)"
+
+#: gui/widgets/gamewidget.cpp:49
+#, kde-format
+msgid "%1 Stone"
+msgid_plural "%1 Stones"
+msgstr[0] "%1 Viên đá"
+
+#: gui/widgets/gamewidget.cpp:66
+#, kde-format
+msgctxt "Indication who played the last move"
+msgid "%1 (white)"
+msgstr "%1 (trắng)"
+
+#: gui/widgets/gamewidget.cpp:68
+#, kde-format
+msgctxt "Indication who played the last move"
+msgid "%1 (black)"
+msgstr "%1 (đen)"
+
+#: gui/widgets/gamewidget.cpp:77
+#, kde-format
+msgid "White's turn"
+msgstr "Lượt của Trắng"
+
+#: gui/widgets/gamewidget.cpp:81
+#, kde-format
+msgid "Black's turn"
+msgstr "Lượt của Đen"
+
+#: gui/widgets/gamewidget.cpp:86 gui/widgets/gamewidget.cpp:87
+#, kde-format
+msgid "%1 capture"
+msgid_plural "%1 captures"
+msgstr[0] "%1 bắt được"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: gui/widgets/gamewidget.ui:19 gui/widgets/setupwidget.ui:103
+#, kde-format
+msgid "Handicap:"
+msgstr "Hạn chế:"
+
+#. i18n: ectx: property (text), widget (QLabel, handicapLabel)
+#: gui/widgets/gamewidget.ui:35
+#, kde-format
+msgid "2"
+msgstr "2"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#. i18n: ectx: property (text), widget (QLabel, komiStaticLabel)
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: gui/widgets/gamewidget.ui:42 gui/widgets/setupwidget.ui:151
+#: gui/widgets/setupwidget.ui:403
+#, kde-format
+msgid "Komi:"
+msgstr "Komi:"
+
+#. i18n: ectx: property (text), widget (QLabel, komiLabel)
+#: gui/widgets/gamewidget.ui:58
+#, kde-format
+msgid "0.5 Points"
+msgstr "0,5 điểm"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: gui/widgets/gamewidget.ui:78
+#, kde-format
+msgid "Last move:"
+msgstr "Nước đi cuối:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: gui/widgets/gamewidget.ui:101
+#, kde-format
+msgid "Move:"
+msgstr "Di chuyển:"
+
+#. i18n: ectx: property (text), widget (QLabel, whiteNameLabel)
+#: gui/widgets/gamewidget.ui:184 kigo.kcfg:60
+#, kde-format
+msgid "White Player"
+msgstr "Người chơi Trắng"
+
+#. i18n: ectx: property (text), widget (QLabel, whiteCapturesLabel)
+#. i18n: ectx: property (text), widget (QLabel, blackCapturesLabel)
+#: gui/widgets/gamewidget.ui:191 gui/widgets/gamewidget.ui:265
+#, kde-format
+msgid "Captures:"
+msgstr "Bắt được:"
+
+#. i18n: ectx: property (text), widget (QLabel, blackNameLabel)
+#: gui/widgets/gamewidget.ui:233 kigo.kcfg:46
+#, kde-format
+msgid "Black Player"
+msgstr "Người chơi Đen"
+
+#. i18n: ectx: property (text), widget (QPushButton, finishButton)
+#: gui/widgets/gamewidget.ui:308
+#, kde-format
+msgid "Finish Game"
+msgstr "Kết thúc bàn chơi"
+
+#: gui/widgets/setupwidget.cpp:54
+#, kde-format
+msgctxt "@item:valuesuffix"
+msgid " Stone"
+msgid_plural " Stones"
+msgstr[0] "Đá"
+
+#: gui/widgets/setupwidget.cpp:160
+#, kde-format
+msgctxt "Time limit of a game in minutes"
+msgid "%1 minute"
+msgid_plural "%1 minutes"
+msgstr[0] "%1 phút"
+
+#: gui/widgets/setupwidget.cpp:162
+#, kde-format
+msgctxt "Time limit of a game, hours, minutes"
+msgid "%1 hour, %2"
+msgid_plural "%1 hours, %2"
+msgstr[0] "%1 giờ, %2"
+
+#: gui/widgets/setupwidget.cpp:184
+#, kde-format
+msgctxt "@item:valuesuffix"
+msgid " of %1"
+msgstr "của %1"
+
+#: gui/widgets/setupwidget.cpp:227
+#, kde-format
+msgid "White to play"
+msgstr "Trắng phát"
+
+#. i18n: ectx: property (text), widget (QLabel, playerLabel)
+#: gui/widgets/setupwidget.cpp:229 gui/widgets/setupwidget.ui:448
+#, kde-format
+msgid "Black to play"
+msgstr "Đen phát"
+
+#. i18n: ectx: property (text), widget (QLabel, label_12)
+#: gui/widgets/setupwidget.ui:30
+#, kde-format
+msgid "Board size:"
+msgstr "Kích thước bảng:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, sizeSmall)
+#: gui/widgets/setupwidget.ui:37
+#, kde-format
+msgid "&Tiny (9x9)"
+msgstr "Rất nhỏ (9&x9)"
+
+#. i18n: ectx: property (text), widget (QRadioButton, sizeMedium)
+#: gui/widgets/setupwidget.ui:47
+#, kde-format
+msgid "Small (&13x13)"
+msgstr "Nhỏ (&13x13)"
+
+#. i18n: ectx: property (text), widget (QRadioButton, sizeBig)
+#: gui/widgets/setupwidget.ui:54
+#, kde-format
+msgid "No&rmal (19x19)"
+msgstr "Bì&nh thường (19x19)"
+
+#. i18n: ectx: property (text), widget (QRadioButton, sizeOther)
+#: gui/widgets/setupwidget.ui:66
+#, kde-format
+msgid "&Custom:"
+msgstr "&Tùy chỉnh:"
+
+#. i18n: ectx: property (toolTip), widget (KPluralHandlingSpinBox, handicapSpinBox)
+#: gui/widgets/setupwidget.ui:126
+#, kde-format
+msgid ""
+"Handicap stones are an advantage for the black player.\n"
+"Black gets a number of stones on the board before the game starts."
+msgstr ""
+"Đá cân bằng là một lợi thế cho người chơi đen.\nNgười chơi đen được đặt một "
+"số quân cờ trên bàn chơi trước khi bắt đầu."
+
+#. i18n: ectx: property (specialValueText), widget (KPluralHandlingSpinBox, handicapSpinBox)
+#: gui/widgets/setupwidget.ui:129
+#, kde-format
+msgid "No handicap"
+msgstr "Không có khuyết tật"
+
+#. i18n: ectx: property (toolTip), widget (QDoubleSpinBox, komiSpinBox)
+#: gui/widgets/setupwidget.ui:171
+#, kde-format
+msgid ""
+"Komi are points given to the white player at the end of the game.\n"
+"It balances out the advantage black has by making the first move."
+msgstr ""
+"Komi là điểm được trao cho người chơi trắng ở cuối trò chơi.\nNó cân bằng "
+"lợi thế của người chơi đen khi đi trước."
+
+#. i18n: ectx: property (suffix), widget (QDoubleSpinBox, komiSpinBox)
+#: gui/widgets/setupwidget.ui:174
+#, kde-format
+msgid " Points"
+msgstr "Điểm"
+
+#. i18n: ectx: property (text), widget (QLabel, eventStaticLabel)
+#: gui/widgets/setupwidget.ui:237
+#, kde-format
+msgid "Event:"
+msgstr "Sự kiện:"
+
+#. i18n: ectx: property (text), widget (QLabel, locationStaticLabel)
+#: gui/widgets/setupwidget.ui:272
+#, kde-format
+msgid "Location:"
+msgstr "Vị trí:"
+
+#. i18n: ectx: property (text), widget (QLabel, dateStaticLabel)
+#: gui/widgets/setupwidget.ui:307
+#, kde-format
+msgid "Date:"
+msgstr "Ngày:"
+
+#. i18n: ectx: property (text), widget (QLabel, roundStaticLabel)
+#: gui/widgets/setupwidget.ui:339
+#, kde-format
+msgid "Round:"
+msgstr "Vòng:"
+
+#. i18n: ectx: property (text), widget (QLabel, scoreStaticLabel)
+#: gui/widgets/setupwidget.ui:371
+#, kde-format
+msgid "Score:"
+msgstr "Điểm:"
+
+#. i18n: ectx: property (text), widget (QLabel, continueStaticLabel)
+#: gui/widgets/setupwidget.ui:435
+#, kde-format
+msgid "Continue:"
+msgstr "Tiếp tục:"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, startMoveSpinBox)
+#: gui/widgets/setupwidget.ui:467
+#, kde-format
+msgid " of 999"
+msgstr "trong số 999"
+
+#. i18n: ectx: property (prefix), widget (QSpinBox, startMoveSpinBox)
+#: gui/widgets/setupwidget.ui:470
+#, kde-format
+msgid "Move "
+msgstr "Di chuyển"
+
+#. i18n: ectx: property (text), widget (QLabel, timeStaticLabel)
+#: gui/widgets/setupwidget.ui:489
+#, kde-format
+msgid "Time limit:"
+msgstr "Giới hạn thời gian:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, whiteIsComputerCheckBox)
+#: gui/widgets/setupwidget.ui:572
+#, kde-format
+msgid "&Computer"
+msgstr "Máy &tính"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: gui/widgets/setupwidget.ui:595
+#, kde-format
+msgid "&Name:"
+msgstr "&Tên:"
+
+#. i18n: ectx: property (text), widget (QLabel, label1)
+#. i18n: ectx: property (text), widget (QLabel, label1_3)
+#: gui/widgets/setupwidget.ui:637 gui/widgets/setupwidget.ui:823
+#, kde-format
+msgid "Weak"
+msgstr "Yếu"
+
+#. i18n: ectx: property (text), widget (QLabel, label2)
+#. i18n: ectx: property (text), widget (QLabel, label2_3)
+#: gui/widgets/setupwidget.ui:656 gui/widgets/setupwidget.ui:804
+#, kde-format
+msgid "Strong"
+msgstr "Mạnh"
+
+#. i18n: ectx: property (text), widget (QCheckBox, blackIsComputerCheckBox)
+#: gui/widgets/setupwidget.ui:742
+#, kde-format
+msgid "C&omputer"
+msgstr "Máy &tính"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: gui/widgets/setupwidget.ui:762
+#, kde-format
+msgid "Na&me:"
+msgstr "&Tên:"
+
+#. i18n: ectx: property (text), widget (QPushButton, startButton)
+#: gui/widgets/setupwidget.ui:1003
+#, kde-format
+msgid "Start Game"
+msgstr "Khởi động Bàn chơi"
+
+#. i18n: ectx: label, entry (EngineCommand), group (Backend)
+#: kigo.kcfg:10
+#, kde-format
+msgid "The current game engine command with (optional) parameters"
+msgstr "Lệnh của dụng cụ bàn chơi hiện tại với (tùy chọn) tham số"
+
+#. i18n: ectx: label, entry (Theme), group (UserInterface)
+#: kigo.kcfg:21
+#, kde-format
+msgid "The graphical theme to be used"
+msgstr "Chủ đề đồ họa sẽ được sử dụng"
+
+#. i18n: ectx: label, entry (ShowBoardLabels), group (UserInterface)
+#: kigo.kcfg:25
+#, kde-format
+msgid "Determines whether board labels are shown"
+msgstr "Xác định xem có hiển thị nhãn bảng hay không"
+
+#. i18n: ectx: label, entry (ShowMoveNumbers), group (UserInterface)
+#: kigo.kcfg:29
+#, kde-format
+msgid "Move numbers are drawn onto stones if enabled"
+msgstr "Nếu được bật, các số di chuyển sẽ được vẽ lên các quân cờ"
+
+#. i18n: ectx: label, entry (HintVisibleTime), group (UserInterface)
+#: kigo.kcfg:33
+#, kde-format
+msgid "Number of seconds for which a hint is visible"
+msgstr "Số giây mà một gợi ý được hiển thị"
+
+#. i18n: ectx: label, entry (BlackPlayerHuman), group (Game)
+#: kigo.kcfg:41
+#, kde-format
+msgid "Is black a human player?"
+msgstr "Đen có phải là người chơi không?"
+
+#. i18n: ectx: label, entry (BlackPlayerName), group (Game)
+#: kigo.kcfg:45
+#, kde-format
+msgid "The name of the black player"
+msgstr "Tên của người chơi đen"
+
+#. i18n: ectx: label, entry (BlackPlayerStrength), group (Game)
+#: kigo.kcfg:49
+#, kde-format
+msgid "The strength of the black player"
+msgstr "Sức mạnh của người chơi đen"
+
+#. i18n: ectx: label, entry (WhitePlayerHuman), group (Game)
+#: kigo.kcfg:55
+#, kde-format
+msgid "Is white a human player?"
+msgstr "Người chơi trắng có phải là người chơi không?"
+
+#. i18n: ectx: label, entry (WhitePlayerName), group (Game)
+#: kigo.kcfg:59
+#, kde-format
+msgid "The name of the white player"
+msgstr "Tên của người chơi trắng"
+
+#. i18n: ectx: label, entry (WhitePlayerStrength), group (Game)
+#: kigo.kcfg:63
+#, kde-format
+msgid "The strength of the white player"
+msgstr "Sức mạnh của người chơi trắng"
+
+#. i18n: ectx: label, entry (BoardSize), group (Game)
+#: kigo.kcfg:69
+#, kde-format
+msgid "Go board size"
+msgstr "Kích thước bàn cờ Go"
+
+#. i18n: ectx: label, entry (Komi), group (Game)
+#: kigo.kcfg:76
+#, kde-format
+msgid "Komi"
+msgstr "Komi"
+
+#. i18n: ectx: tooltip, entry (Komi), group (Game)
+#: kigo.kcfg:77
+#, kde-format
+msgid "With komi you can give the black player some extra points"
+msgstr "Với komi, bạn có thể cho người chơi đen một số điểm bổ sung"
+
+#. i18n: ectx: label, entry (FixedHandicapValue), group (Game)
+#: kigo.kcfg:83
+#, kde-format
+msgid "Extra stones for the black player"
+msgstr "Đá phụ thêm cho người chơi đen"
+
+#: main.cpp:36
+#, kde-format
+msgid "Kigo"
+msgstr "Kigo"
+
+#: main.cpp:37
+#, kde-format
+msgid "KDE Go Board Game"
+msgstr "Trò chơi cờ vây KDE"
+
+#: main.cpp:38
+#, kde-format
+msgid "Copyright (c) 2008-2010 Sascha Peilicke"
+msgstr "Bản quyền (c) 2008-2010 Sascha Peilicke"
+
+#: main.cpp:39
+#, kde-format
+msgid "Sascha Peilicke (saschpe)"
+msgstr "Sascha Peilicke (saschpe)"
+
+#: main.cpp:39
+#, kde-format
+msgid "Original author"
+msgstr "Tác giả gốc"
+
+#: main.cpp:41
+#, kde-format
+msgid "Yuri Chornoivan"
+msgstr "Yuri Chornoivan"
+
+#: main.cpp:41
+#, kde-format
+msgid "Documentation editor"
+msgstr "Trình biên tập tài liệu"
+
+#: main.cpp:43
+#, kde-format
+msgid "Arturo Silva"
+msgstr "Arturo Silva"
+
+#: main.cpp:43
+#, kde-format
+msgid "Default theme designer"
+msgstr "Trình thiết kế chủ đề mặc định"
+
+#: main.cpp:54 main.cpp:55
+#, kde-format
+msgctxt "@info:shell"
+msgid "Game to load (SGF file)"
+msgstr "Bàn chơi (tệp SGF) để tải"
+
+#: main.cpp:54
+#, kde-format
+msgctxt "@info:shell"
+msgid "gamefile"
+msgstr "tệp trò chơi"
+
+#: main.cpp:55
+#, kde-format
+msgctxt "@info:shell"
+msgid "[gamefile]"
+msgstr "[tệp trò chơi]"

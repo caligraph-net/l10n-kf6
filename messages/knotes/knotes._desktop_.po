@@ -14,33 +14,33 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: notesagent/akonadi_notes_agent.notifyrc:3
-#, fuzzy
+#, 
 #| msgid "Name=User Agent"
 msgctxt "Comment"
 msgid "Notes Agent"
-msgstr "Name=User Agent"
+msgstr "Đại diện Ghi chú"
 
 #: notesagent/akonadi_notes_agent.notifyrc:49
 msgctxt "Name"
 msgid "Received a note"
-msgstr ""
+msgstr "Đã nhận được một lưu ý"
 
 #: notesagent/notesagent.desktop:2
-#, fuzzy
+#, 
 #| msgid "Name=User Agent"
 msgctxt "Name"
 msgid "Notes Agent"
-msgstr "Name=User Agent"
+msgstr "Đại diện Ghi chú"
 
 #: notesagent/notesagent.desktop:46
 msgctxt "Comment"
 msgid "Adds notes received via network and handles note alarm notifications"
-msgstr ""
+msgstr "Thêm các ghi chú nhận được qua mạng và xử lý các thông báo cảnh báo ghi chú"
 
 #: src/data/knotes_printing_theme.knsrc:2
 msgctxt "Name"
 msgid "KNotes Printing Theme"
-msgstr ""
+msgstr "Chủ đề In KNotes"
 
 #: src/data/org.kde.knotes.desktop:7
 msgctxt "GenericName"
@@ -53,30 +53,30 @@ msgid "KNotes"
 msgstr "KNotes"
 
 #: src/data/org.kde.knotes.desktop:155
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "New Note"
-msgstr "KNotes"
+msgstr "Ghi chú mới"
 
 #: src/print/themes/background-color/theme.desktop:2
 msgctxt "Name"
 msgid "Note with background color"
-msgstr ""
+msgstr "Lưu ý với màu nền"
 
 #: src/print/themes/background-color/theme.desktop:45
 msgctxt "Description"
 msgid "Theme which use note background color"
-msgstr ""
+msgstr "Chủ đề sử dụng màu nền của lưu ý, ghi chú"
 
 #: src/print/themes/big-title/theme.desktop:2
 msgctxt "Name"
 msgid "Big Title"
-msgstr ""
+msgstr "Tiêu đề lớn"
 
 #: src/print/themes/big-title/theme.desktop:47
 msgctxt "Description"
 msgid "KNote printing theme with big title"
-msgstr ""
+msgstr "Chủ đề in KNote với tiêu đề lớn"
 
 #: src/print/themes/default/theme.desktop:2
 msgctxt "Name"
@@ -86,7 +86,7 @@ msgstr "Mặc định"
 #: src/print/themes/default/theme.desktop:73
 msgctxt "Description"
 msgid "Default knotes printing theme"
-msgstr ""
+msgstr "Chủ đề in mặc định của Knotes"
 
 #, fuzzy
 #~ msgctxt "Name"

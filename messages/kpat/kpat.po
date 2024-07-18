@@ -1,0 +1,1169 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kpat package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kpat\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-15 00:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: bakersdozen.cpp:69 castle.cpp:361 freecell.cpp:347
+#, kde-format
+msgctxt "@title:menu"
+msgid "Popular Variant Presets"
+msgstr "Các Thiết Lập Biến Thể Phổ Biến"
+
+#: bakersdozen.cpp:70
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Baker's Dozen"
+msgstr "Một tá"
+
+#: bakersdozen.cpp:71
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Spanish Patience"
+msgstr "Kiên nhẫn Tây Ban Nha"
+
+#: bakersdozen.cpp:72
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Castles in Spain"
+msgstr "Lâu đài ở Tây Ban Nha"
+
+#: bakersdozen.cpp:73
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Portuguese Solitaire"
+msgstr "Solitaire Bồ Đào Nha"
+
+#: bakersdozen.cpp:74 castle.cpp:368 freecell.cpp:353
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Custom"
+msgstr "Tự chọn"
+
+#: bakersdozen.cpp:76 castle.cpp:370 freecell.cpp:355
+#, kde-format
+msgctxt "@title:menu"
+msgid "Empty Stack Fill"
+msgstr "Lấp đầy Ngăn xếp Trống"
+
+#: bakersdozen.cpp:77 castle.cpp:371 freecell.cpp:356
+#, kde-format
+msgctxt "@item:inmenu empty stack fill"
+msgid "Any (Easy)"
+msgstr "Bất kỳ (Dễ)"
+
+#: bakersdozen.cpp:78 castle.cpp:372 freecell.cpp:357
+#, kde-format
+msgctxt "@item:inmenu empty stack fill"
+msgid "Kings only (Medium)"
+msgstr "Chỉ vua (Trung bình)"
+
+#: bakersdozen.cpp:79 castle.cpp:373 freecell.cpp:358
+#, kde-format
+msgctxt "@item:inmenu empty stack fill"
+msgid "None (Hard)"
+msgstr "Không có (Khó)"
+
+#: bakersdozen.cpp:81 castle.cpp:394 spider.cpp:147
+#, kde-format
+msgctxt "@title:menu"
+msgid "Stack Options"
+msgstr "Tùy chọn Ngăn xếp"
+
+#: bakersdozen.cpp:82 spider.cpp:149
+#, kde-format
+msgctxt "@item:inmenu stack option"
+msgid "Face Up (Easier)"
+msgstr "Mặt lên (Dễ hơn)"
+
+#: bakersdozen.cpp:83 spider.cpp:148
+#, kde-format
+msgctxt "@item:inmenu stack option"
+msgid "Face Down (Harder)"
+msgstr "Mặt xuống (Khó hơn)"
+
+#: bakersdozen.cpp:85 castle.cpp:375 freecell.cpp:360
+#, kde-format
+msgctxt "@title:menu"
+msgid "Build Sequence"
+msgstr "Xây Chuỗi"
+
+#: bakersdozen.cpp:86 castle.cpp:376 freecell.cpp:361
+#, kde-format
+msgctxt "@item:inmenu build sequence"
+msgid "Alternating Color"
+msgstr "Màu xen kẽ"
+
+#: bakersdozen.cpp:87 castle.cpp:377 freecell.cpp:362
+#, kde-format
+msgctxt "@item:inmenu build sequence"
+msgid "Matching Suit"
+msgstr "Bộ phù hợp"
+
+#: bakersdozen.cpp:88 castle.cpp:378 freecell.cpp:363
+#, kde-format
+msgctxt "@item:inmenu build sequence"
+msgid "Rank"
+msgstr "Hạng"
+
+#: bakersdozen.cpp:238 bakersdozen.cpp:241
+msgid "Baker's Dozen"
+msgstr "Một tá"
+
+#: bakersdozen.cpp:242
+msgid "Spanish Patience"
+msgstr "Sự kiên nhẫn của Tây Ban Nha"
+
+#: bakersdozen.cpp:243
+msgid "Castles in Spain"
+msgstr "Lâu đài ở Tây Ban Nha"
+
+#: bakersdozen.cpp:244
+msgid "Portuguese Solitaire"
+msgstr "Solitaire Bồ Đào Nha"
+
+#: bakersdozen.cpp:245
+msgid "Baker's Dozen (Custom)"
+msgstr "Một tá (Tùy chỉnh)"
+
+#: castle.cpp:319
+msgid "Castle"
+msgstr "Lâu đài"
+
+#: castle.cpp:322
+msgid "Beleaguered Castle"
+msgstr "Lâu đài bị vây hãm"
+
+#: castle.cpp:323
+msgid "Citadel"
+msgstr "Thành lũy"
+
+#: castle.cpp:324
+msgid "Exiled Kings"
+msgstr "Các vua bị lưu đày"
+
+#: castle.cpp:325
+msgid "Streets and Alleys"
+msgstr "Đường phố và Ngõ hẻm"
+
+#: castle.cpp:326
+msgid "Siegecraft"
+msgstr "Nghệ thuật vây thành"
+
+#: castle.cpp:327
+msgid "Stronghold"
+msgstr "Pháo đài"
+
+#: castle.cpp:328
+msgid "Castle (Custom)"
+msgstr "Lâu đài (Tùy chỉnh)"
+
+#: castle.cpp:362
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Beleaguered Castle"
+msgstr "Lâu đài bị vây hãm"
+
+#: castle.cpp:363
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Citadel"
+msgstr "Thành trì"
+
+#: castle.cpp:364
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Exiled Kings"
+msgstr "Các vua bị lưu đày"
+
+#: castle.cpp:365
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Streets and Alleys"
+msgstr "Đường phố và Ngõ hẻm"
+
+#: castle.cpp:366
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Siegecraft"
+msgstr "Chiến thuật vây thành"
+
+#: castle.cpp:367
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Stronghold"
+msgstr "Pháo đài"
+
+#: castle.cpp:380 freecell.cpp:365
+#, kde-format
+msgctxt "@title:menu"
+msgid "Free Cells"
+msgstr "Ô Trống"
+
+#: castle.cpp:381 freecell.cpp:366
+#, kde-format
+msgid "0"
+msgstr "0"
+
+#: castle.cpp:382 freecell.cpp:367 freecell.cpp:386
+#, kde-format
+msgid "1"
+msgstr "1"
+
+#: castle.cpp:383 freecell.cpp:368 freecell.cpp:387
+#, kde-format
+msgid "2"
+msgstr "2"
+
+#: castle.cpp:384 freecell.cpp:369 freecell.cpp:388
+#, kde-format
+msgid "3"
+msgstr "3"
+
+#: castle.cpp:385 freecell.cpp:370
+#, kde-format
+msgid "4"
+msgstr "4"
+
+#: castle.cpp:387 freecell.cpp:376
+#, kde-format
+msgctxt "@title:menu"
+msgid "Stacks"
+msgstr "Chồng"
+
+#: castle.cpp:388 freecell.cpp:372 freecell.cpp:377
+#, kde-format
+msgid "6"
+msgstr "6"
+
+#: castle.cpp:389 freecell.cpp:373 freecell.cpp:378
+#, kde-format
+msgid "7"
+msgstr "7"
+
+#: castle.cpp:390 freecell.cpp:374 freecell.cpp:379
+#, kde-format
+msgid "8"
+msgstr "8"
+
+#: castle.cpp:391 freecell.cpp:380
+#, kde-format
+msgid "9"
+msgstr "9"
+
+#: castle.cpp:392 freecell.cpp:381
+#, kde-format
+msgid "10"
+msgstr "10"
+
+#: castle.cpp:395
+#, kde-format
+msgctxt "@item:inmenu stack option"
+msgid "Face Down"
+msgstr "Mặt xuống"
+
+#: castle.cpp:396
+#, kde-format
+msgctxt "@item:inmenu stack option"
+msgid "Face Up"
+msgstr "Mặt lên"
+
+#: castle.cpp:397
+#, kde-format
+msgctxt "@item:inmenu stack option"
+msgid "Alternating Face Up"
+msgstr "Luân phiên mặt trên"
+
+#: castle.cpp:399
+#, kde-format
+msgctxt "@title:menu"
+msgid "Foundation Deal"
+msgstr "Giao dịch nền tảng"
+
+#: castle.cpp:400
+#, kde-format
+msgctxt "@item:inmenu foundation deal"
+msgid "None"
+msgstr "Không có"
+
+#: castle.cpp:401
+#, kde-format
+msgctxt "@item:inmenu foundation deal"
+msgid "Aces"
+msgstr "Aces"
+
+#: castle.cpp:402
+#, kde-format
+msgctxt "@item:inmenu foundation deal"
+msgid "Any"
+msgstr "Bất kỳ"
+
+#: castle.cpp:404
+#, kde-format
+msgctxt "@title:menu"
+msgid "Layout"
+msgstr "Bố cục"
+
+#: castle.cpp:405
+#, kde-format
+msgctxt "@item:inmenu layout"
+msgid "Classic"
+msgstr "Cổ điển"
+
+#: castle.cpp:406
+#, kde-format
+msgctxt "@item:inmenu layout"
+msgid "Modern"
+msgstr "Hiện đại"
+
+#: clock.cpp:157
+msgid "Grandfather's Clock"
+msgstr "Đồng hồ cụ ông"
+
+#: dealer.cpp:72
+#, kde-format
+msgid "Solver: This game is winnable."
+msgstr "Trình giải: Ván chơi này có thể thắng được."
+
+#: dealer.cpp:74
+#, kde-format
+msgid "Solver: This game is no longer winnable."
+msgstr "Trình giải: Bàn chơi này không thể thắng được nữa."
+
+#: dealer.cpp:74
+#, kde-format
+msgid "Solver: This game cannot be won."
+msgstr "Trình giải: Bàn chơi này không thể thắng được."
+
+#: dealer.cpp:76
+#, kde-format
+msgid "Solver: Unable to determine if this game is winnable."
+msgstr ""
+"Trình giải: Không thể xác định liệu trò chơi này có thể thắng được hay "
+"không."
+
+#: dealer.cpp:922
+#, kde-format
+msgid "Congratulations! We have won."
+msgstr "Chúc mừng! Chúng ta đã chiến thắng."
+
+#: dealer.cpp:924
+#, kde-format
+msgid "Congratulations! You have won."
+msgstr "Chúc mừng! Bạn đã thắng."
+
+#: dealer.cpp:1211
+#, kde-format
+msgid "Solver: This game is lost."
+msgstr "Trình giải: Bàn chơi này đã thua."
+
+#: dealer.cpp:1349
+#, kde-format
+msgid "Solver: Calculating…"
+msgstr "Trình giải: Đang tính toán..."
+
+#: dealer.cpp:1753
+#, kde-format
+msgid ""
+"A new game has been requested, but there is already a game in progress.\n"
+"\n"
+"A loss will be recorded in the statistics if the current game is abandoned."
+msgstr ""
+"Một bàn chơi mới đã được yêu cầu, nhưng hiện đang có một bàn chơi đang diễn "
+"ra.\n\nNếu bỏ cuộc bàn chơi hiện tại, thống kê sẽ ghi nhận một trận thua."
+
+#: dealer.cpp:1755
+#, kde-format
+msgctxt "@title:window"
+msgid "Abandon Current Game?"
+msgstr "Bỏ Cuộc Chơi Hiện Tại?"
+
+#: dealer.cpp:1756
+#, kde-format
+msgctxt "@action:button"
+msgid "Abandon Current Game"
+msgstr "Bỏ Bàn Chơi Hiện Tại"
+
+#: fortyeight.cpp:229
+msgid "Forty & Eight"
+msgstr "Bốn mươi và Tám"
+
+#: freecell.cpp:308 freecell.cpp:314
+msgid "Freecell"
+msgstr "Freecell"
+
+#: freecell.cpp:311
+msgid "Baker's Game"
+msgstr "Trò chơi Baker"
+
+#: freecell.cpp:312
+msgid "Eight Off"
+msgstr "Tám Rời"
+
+#: freecell.cpp:313
+msgid "Forecell"
+msgstr "Ô trống"
+
+#: freecell.cpp:315
+msgid "Seahaven Towers"
+msgstr "Seahaven Towers"
+
+#: freecell.cpp:316
+msgid "Freecell (Custom)"
+msgstr "Freecell (Tùy chỉnh)"
+
+#: freecell.cpp:348
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Baker's Game"
+msgstr "Trò chơi Baker"
+
+#: freecell.cpp:349
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Eight Off"
+msgstr "Tám Lá Rời"
+
+#: freecell.cpp:350
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Forecell"
+msgstr "Forecell"
+
+#: freecell.cpp:351
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Freecell"
+msgstr "Freecell"
+
+#: freecell.cpp:352
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Seahaven Towers"
+msgstr "Seahaven Towers"
+
+#: freecell.cpp:371
+#, kde-format
+msgid "5"
+msgstr "5"
+
+#: freecell.cpp:382
+#, kde-format
+msgid "11"
+msgstr "11"
+
+#: freecell.cpp:383
+#, kde-format
+msgid "12"
+msgstr "12"
+
+#: freecell.cpp:385
+#, kde-format
+msgctxt "@title:menu"
+msgid "Decks"
+msgstr "Bộ bài"
+
+#: golf.cpp:189
+msgid "Golf"
+msgstr "Golf"
+
+#: grandf.cpp:188
+msgid "Grandfather"
+msgstr "Ông nội"
+
+#: gypsy.cpp:166
+msgid "Gypsy"
+msgstr "Gypsy"
+
+#: idiot.cpp:225
+msgid "Aces Up"
+msgstr "Aces Up"
+
+#: klondike.cpp:135
+#, kde-format
+msgctxt "@title:menu"
+msgid "Klondike &Options"
+msgstr "Tùy c&họn Klondike"
+
+#: klondike.cpp:136
+#, kde-format
+msgctxt "@item:inmenu klondike option"
+msgid "Draw 1"
+msgstr "Rút 1"
+
+#: klondike.cpp:137
+#, kde-format
+msgctxt "@item:inmenu klondike option"
+msgid "Draw 3"
+msgstr "Rút 3"
+
+#: klondike.cpp:313
+msgid "Klondike"
+msgstr "Klondike"
+
+#: klondike.cpp:316
+msgid "Klondike (Draw 1)"
+msgstr "Klondike (Rút 1)"
+
+#: klondike.cpp:317
+msgid "Klondike (Draw 3)"
+msgstr "Klondike (Rút 3)"
+
+#. i18n: ectx: Menu (move)
+#: kpatui.rc:23
+#, kde-format
+msgid "Move"
+msgstr "Di chuyển"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kpatui.rc:42
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Thanh công cụ chính"
+
+#: libkcardgame/kcardthemewidget.cpp:266
+#, kde-format
+msgctxt "@info"
+msgid "Loading…"
+msgstr "Đang tải..."
+
+#: libkcardgame/kcardthemewidget.cpp:352
+#, kde-format
+msgctxt "@action:button"
+msgid "Download New Card Decks…"
+msgstr "Tải về Bộ Bài Mới..."
+
+#: main.cpp:89
+#, kde-format
+msgid "KPatience"
+msgstr "KPatience"
+
+#: main.cpp:91
+#, kde-format
+msgid "KDE Patience Game"
+msgstr "Trò chơi Kiên nhẫn của KDE"
+
+#: main.cpp:93
+#, kde-format
+msgid ""
+"© 1995 Paul Olav Tvete\n"
+"© 2000 Stephan Kulow"
+msgstr "© 1995 Paul Olav Tvete\n© 2000 Stephan Kulow"
+
+#: main.cpp:97
+#, kde-format
+msgid "Paul Olav Tvete"
+msgstr "Paul Olav Tvete"
+
+#: main.cpp:97
+#, kde-format
+msgid "Author of original Qt version"
+msgstr "Tác giả của phiên bản Qt gốc"
+
+#: main.cpp:98
+#, kde-format
+msgid "Mario Weilguni"
+msgstr "Mario Weilguni"
+
+#: main.cpp:98
+#, kde-format
+msgid "Initial KDE port"
+msgstr "Cổng KDE ban đầu"
+
+#: main.cpp:99
+#, kde-format
+msgid "Matthias Ettrich"
+msgstr "Matthias Ettrich"
+
+#: main.cpp:100
+#, kde-format
+msgid "Rodolfo Borges"
+msgstr "Rodolfo Borges"
+
+#: main.cpp:100 main.cpp:113
+#, kde-format
+msgid "New game types"
+msgstr "Các loại bàn chơi mới"
+
+#: main.cpp:101
+#, kde-format
+msgid "Peter H. Ruegg"
+msgstr "Peter H. Ruegg"
+
+#: main.cpp:102
+#, kde-format
+msgid "Michael Koch"
+msgstr "Michael Koch"
+
+#: main.cpp:102 main.cpp:109
+#, kde-format
+msgid "Bug fixes"
+msgstr "Sửa lỗi"
+
+#: main.cpp:103
+#, kde-format
+msgid "Marcus Meissner"
+msgstr "Marcus Meissner"
+
+#: main.cpp:103
+#, kde-format
+msgid "Shuffle algorithm for game numbers"
+msgstr "Thuật toán xáo trộn cho các số bàn chơi"
+
+#: main.cpp:104
+#, kde-format
+msgid "Tom Holroyd"
+msgstr "Tom Holroyd"
+
+#: main.cpp:104
+#, kde-format
+msgid "Initial patience solver"
+msgstr "Trình giải quyết kiên nhẫn ban đầu"
+
+#: main.cpp:105
+#, kde-format
+msgid "Stephan Kulow"
+msgstr "Stephan Kulow"
+
+#: main.cpp:105
+#, kde-format
+msgid "Rewrite and current maintainer"
+msgstr "Viết lại và người bảo trì hiện tại"
+
+#: main.cpp:106
+#, kde-format
+msgid "Erik Sigra"
+msgstr "Erik Sigra"
+
+#: main.cpp:106
+#, kde-format
+msgid "Klondike improvements"
+msgstr "Cải tiến Klondike"
+
+#: main.cpp:107
+#, kde-format
+msgid "Josh Metzler"
+msgstr "Josh Metzler"
+
+#: main.cpp:107
+#, kde-format
+msgid "Spider implementation"
+msgstr "Triển khai Spider"
+
+#: main.cpp:108
+#, kde-format
+msgid "Maren Pakura"
+msgstr "Maren Pakura"
+
+#: main.cpp:108
+#, kde-format
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#: main.cpp:109
+#, kde-format
+msgid "Inge Wallin"
+msgstr "Inge Wallin"
+
+#: main.cpp:110
+#, kde-format
+msgid "Simon Hürlimann"
+msgstr "Simon Hürlimann"
+
+#: main.cpp:110
+#, kde-format
+msgid "Menu and toolbar work"
+msgstr "Trình đơn và thanh công cụ hoạt động"
+
+#: main.cpp:111
+#, kde-format
+msgid "Parker Coates"
+msgstr "Parker Coates"
+
+#: main.cpp:111
+#, kde-format
+msgid "Cleanup and polish"
+msgstr "Dọn dẹp và làm mới"
+
+#: main.cpp:112
+#, kde-format
+msgid "Shlomi Fish"
+msgstr "Shlomi Fish"
+
+#: main.cpp:112
+#, kde-format
+msgid "Integration with Freecell Solver and further work"
+msgstr "Tích hợp với Freecell Solver và công việc tiếp theo"
+
+#: main.cpp:113
+#, kde-format
+msgid "Michael Lang"
+msgstr "Michael Lang"
+
+#: main.cpp:120
+#, kde-format
+msgid "Try to find a solution to the given savegame"
+msgstr "Hãy cố gắng tìm một giải pháp cho tệp lưu game đã cho"
+
+#: main.cpp:121
+#, kde-format
+msgid "Dealer to solve (debug)"
+msgstr "Người bán để giải quyết (gỡ lỗi)"
+
+#: main.cpp:122
+#, kde-format
+msgid "Game range start (default 0:INT_MAX)"
+msgstr "Khởi động bàn chơi (mặc định 0:INT_MAX)"
+
+#: main.cpp:124
+#, kde-format
+msgid "Game range end (default start:start if start given)"
+msgstr ""
+"Kết thúc phạm vi bàn chơi (mặc định bắt đầu:khởi động nếu khởi động được "
+"cung cấp)"
+
+#: main.cpp:125
+#, kde-format
+msgid "Directory with test cases"
+msgstr "Thư mục với các trường hợp kiểm thử"
+
+#: main.cpp:126
+#, kde-format
+msgid "Generate random test cases"
+msgstr "Tạo các trường hợp kiểm thử ngẫu nhiên"
+
+#: main.cpp:127
+#, kde-format
+msgid "File to load"
+msgstr "Tệp để tải"
+
+#: mainwindow.cpp:152
+#, kde-format
+msgctxt "@action Start a new game of a different type"
+msgid "New &Game…"
+msgstr "&Trò chơi mới..."
+
+#: mainwindow.cpp:158
+#, kde-format
+msgctxt "@action Start a new game of without changing the game type"
+msgid "New &Deal"
+msgstr "Ván mớ&i"
+
+#: mainwindow.cpp:164
+#, kde-format
+msgctxt "@action Start a game by giving its particular number"
+msgid "New &Numbered Deal…"
+msgstr "Ván mớ&i có số thứ tự..."
+
+#: mainwindow.cpp:169
+#, kde-format
+msgctxt "@action Replay the current deal from the start"
+msgid "Restart Deal"
+msgstr "Khởi động lại Ván bài"
+
+#: mainwindow.cpp:175
+#, kde-format
+msgctxt ""
+"@action Start the game with the number one greater than the current one"
+msgid "Next Deal"
+msgstr "Ván Tiếp"
+
+#: mainwindow.cpp:184
+#, kde-format
+msgctxt "@action Start the game with the number one less than the current one"
+msgid "Previous Deal"
+msgstr "Ván trước"
+
+#: mainwindow.cpp:198
+#, kde-format
+msgctxt "@action"
+msgid "Statistics"
+msgstr "Thống kê"
+
+#: mainwindow.cpp:227
+#, kde-format
+msgctxt ""
+"@action Take one or more cards from the deck, flip them, and place them in "
+"play"
+msgid "Dra&w"
+msgstr "&Rút"
+
+#: mainwindow.cpp:232
+#, kde-format
+msgctxt "@action Deal a new row of cards from the deck"
+msgid "Dea&l Row"
+msgstr "Chi&a bài"
+
+#: mainwindow.cpp:237
+#, kde-format
+msgctxt "@action Collect the cards in play, shuffle them and redeal them"
+msgid "&Redeal"
+msgstr "Ch&ia lại"
+
+#: mainwindow.cpp:242
+#, kde-format
+msgctxt "@action Automatically move cards to the foundation piles"
+msgid "Dro&p"
+msgstr "&Thả"
+
+#: mainwindow.cpp:249
+#, kde-format
+msgctxt "@option:check"
+msgid "&Enable Autodrop"
+msgstr "Bật Aut&odrop"
+
+#: mainwindow.cpp:254
+#, kde-format
+msgctxt "@option:check"
+msgid "E&nable Solver"
+msgstr "Bật Trì&nh giải"
+
+#: mainwindow.cpp:259
+#, kde-format
+msgctxt "@option:check"
+msgid "Play Sounds"
+msgstr "Phát Âm Thanh"
+
+#: mainwindow.cpp:264
+#, kde-format
+msgctxt "@option:check"
+msgid "&Remember State on Exit"
+msgstr "Ghi nhớ &trạng thái khi thoát"
+
+#: mainwindow.cpp:281
+#, kde-format
+msgctxt "@action"
+msgid "Generate a Theme Preview Image"
+msgstr "Tạo ảnh xem thử chủ đề"
+
+#: mainwindow.cpp:286
+#, kde-format
+msgctxt "@action"
+msgid "Take Game Preview Snapshots"
+msgstr "Chụp ảnh xem thử bàn chơi"
+
+#: mainwindow.cpp:291
+#, kde-format
+msgctxt "@action"
+msgid "Random Cards"
+msgstr "Các Lá Bài Ngẫu Nhiên"
+
+#: mainwindow.cpp:298
+#, kde-format
+msgctxt "@action"
+msgid "Move Focus to Previous Pile"
+msgstr "Di chuyển Tiêu điểm đến Chồng trước"
+
+#: mainwindow.cpp:302
+#, kde-format
+msgctxt "@action"
+msgid "Move Focus to Next Pile"
+msgstr "Di chuyển Nhắm đến Chồng Tiếp theo"
+
+#: mainwindow.cpp:306
+#, kde-format
+msgctxt "@action"
+msgid "Move Focus to Card Below"
+msgstr "Di chuyển nhắm đến Thẻ Bên Dưới"
+
+#: mainwindow.cpp:310
+#, kde-format
+msgctxt "@action"
+msgid "Move Focus to Card Above"
+msgstr "Di chuyển nhắm đến Thẻ phía trên"
+
+#: mainwindow.cpp:314
+#, kde-format
+msgctxt "@action"
+msgid "Cancel Focus"
+msgstr "Huỷ Nhắm"
+
+#: mainwindow.cpp:318
+#, kde-format
+msgctxt "@action"
+msgid "Pick Up or Set Down Focus"
+msgstr "Nhặt hoặc Đặt Xuống Nhắm"
+
+#: mainwindow.cpp:426
+#, kde-format
+msgctxt "@title:tab"
+msgid "Card Deck"
+msgstr "Bộ bài"
+
+#: mainwindow.cpp:428
+#, kde-format
+msgid "Select a card deck"
+msgstr "Chọn một bộ bài"
+
+#: mainwindow.cpp:434
+#, kde-format
+msgctxt "@title:tab"
+msgid "Game Theme"
+msgstr "Chủ đề bàn chơi"
+
+#: mainwindow.cpp:436
+#, kde-format
+msgid "Select a theme for non-card game elements"
+msgstr "Chọn một chủ đề cho các phần tử không phải bàn chơi"
+
+#: mainwindow.cpp:514
+#, kde-format
+msgctxt ""
+"@action Is disabled and changes to \"Help &with Current Game\" when there is "
+"no current game."
+msgid "Help &with %1"
+msgstr "Trợ giú&p với %1"
+
+#: mainwindow.cpp:545
+#, kde-format
+msgctxt "@action Shown when there is no game open. Is always disabled."
+msgid "Help &with Current Game"
+msgstr "Trợ giúp với Bàn C&hơi Hiện Tại"
+
+#: mainwindow.cpp:700
+#, kde-format
+msgid ""
+"Are you sure you want to hide the menubar? The current shortcut to show it "
+"again is %1."
+msgstr ""
+"Bạn có chắc chắn muốn ẩn thanh menu? Phím tắt hiện tại để hiển thị nó lại "
+"là %1."
+
+#: mainwindow.cpp:702
+#, kde-format
+msgctxt "@title:window"
+msgid "Hide Menubar"
+msgstr "Ẩn thanh menu"
+
+#: mainwindow.cpp:795
+#, kde-format
+msgid "Downloading file failed: %1"
+msgstr "Tải về tệp không thành công: %1"
+
+#: mainwindow.cpp:801
+#, kde-format
+msgid "Error reading XML file: "
+msgstr "Lỗi khi đọc tệp XML:"
+
+#: mainwindow.cpp:818
+#, kde-format
+msgid "XML file is not a KPat save."
+msgstr "Tệp XML không phải là tệp lưu của KPat."
+
+#: mainwindow.cpp:823
+#, kde-format
+msgid "Unrecognized game id."
+msgstr "Không nhận ra mã bàn chơi."
+
+#: mainwindow.cpp:842
+#, kde-format
+msgid "Errors encountered while parsing file."
+msgstr "Gặp lỗi khi phân tích tệp."
+
+#: mainwindow.cpp:861
+#, kde-format
+msgctxt "@title:window"
+msgid "Load Game"
+msgstr "Tải Bàn Chơi"
+
+#: mainwindow.cpp:888
+#, kde-format
+msgctxt "@title:window"
+msgid "Save Game"
+msgstr "Lưu Bàn Chơi"
+
+#: mainwindow.cpp:904
+#, kde-format
+msgid "Error opening file for writing. Saving failed."
+msgstr "Lỗi khi mở tệp để ghi. Lưu không thành công."
+
+#: mainwindow.cpp:909
+#, kde-format
+msgid "Unable to create temporary file. Saving failed."
+msgstr "Không thể tạo tệp tạm thời. Lưu không thành công."
+
+#: mainwindow.cpp:925
+#, kde-format
+msgid "Error uploading file. Saving failed: %1"
+msgstr "Lỗi tải lên tệp. Lưu không thành công: %1"
+
+#: mainwindow.cpp:949
+#, kde-format
+msgid "1 move"
+msgid_plural "%1 moves"
+msgstr[0] "%1 di chuyển"
+
+#: mod3.cpp:218
+msgid "Mod3"
+msgstr "Mod3"
+
+#: numbereddealdialog.cpp:36
+#, kde-format
+msgctxt "@title:window"
+msgid "New Numbered Deal"
+msgstr "Giao dịch Số mới"
+
+#: numbereddealdialog.cpp:51
+#, kde-format
+msgctxt "@label"
+msgid "Game:"
+msgstr "Trò chơi:"
+
+#: numbereddealdialog.cpp:55
+#, kde-format
+msgctxt "@label"
+msgid "Deal number:"
+msgstr "Số giao dịch:"
+
+#: simon.cpp:168
+msgid "Simple Simon"
+msgstr "Simon đơn giản"
+
+#: spider.cpp:132
+#, kde-format
+msgctxt "@title:menu"
+msgid "Spider &Options"
+msgstr "Tùy &chọn Spider"
+
+#: spider.cpp:133
+#, kde-format
+msgctxt "@item:inmenu spider option"
+msgid "1 Suit (Easy)"
+msgstr "1 Bộ (Dễ)"
+
+#: spider.cpp:134
+#, kde-format
+msgctxt "@item:inmenu spider option"
+msgid "2 Suits (Medium)"
+msgstr "2 Bộ (Trung bình)"
+
+#: spider.cpp:135
+#, kde-format
+msgctxt "@item:inmenu spider option"
+msgid "3 Suits (Hard)"
+msgstr "3 Bộ (Khó)"
+
+#: spider.cpp:136
+#, kde-format
+msgctxt "@item:inmenu spider option"
+msgid "4 Suits (Very Hard)"
+msgstr "4 Bộ bài (Rất khó)"
+
+#: spider.cpp:467
+msgid "Spider"
+msgstr "Nhện"
+
+#: spider.cpp:470
+msgid "Spider (1 Suit)"
+msgstr "Nhện (1 Bộ)"
+
+#: spider.cpp:471
+msgid "Spider (2 Suit)"
+msgstr "Nhện (2 Bộ)"
+
+#: spider.cpp:472
+msgid "Spider (3 Suit)"
+msgstr "Nhện (3 Bộ)"
+
+#: spider.cpp:473
+msgid "Spider (4 Suit)"
+msgstr "Nhện (4 Suit)"
+
+#: statisticsdialog.cpp:61
+#, kde-format
+msgctxt "@title:window"
+msgid "Statistics"
+msgstr "Thống kê"
+
+#: statisticsdialog.cpp:122
+#, kde-format
+msgid "%1 (%2%)"
+msgstr "%1 (%2%)"
+
+#: statisticsdialog.cpp:134
+#, kde-format
+msgid "1 loss"
+msgid_plural "%1 losses"
+msgstr[0] "%1 lần thua"
+
+#: statisticsdialog.cpp:136
+#, kde-format
+msgid "1 win"
+msgid_plural "%1 wins"
+msgstr[0] "%1 thắng"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, GameStats)
+#: statisticsdialog.ui:13
+#, kde-format
+msgid "Statistics"
+msgstr "Thống kê"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: statisticsdialog.ui:30
+#, kde-format
+msgid "Game:"
+msgstr "Trò chơi:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel7)
+#: statisticsdialog.ui:66
+#, kde-format
+msgid "Longest winning streak:"
+msgstr "Chuỗi thắng liên tiếp dài nhất:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: statisticsdialog.ui:73
+#, kde-format
+msgid "Games played:"
+msgstr "Số trò chơi đã chơi:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8)
+#: statisticsdialog.ui:90
+#, kde-format
+msgid "Longest losing streak:"
+msgstr "Chuỗi thua dài nhất:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: statisticsdialog.ui:107
+#, kde-format
+msgid "Games won:"
+msgstr "Trò chơi đã thắng:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: statisticsdialog.ui:124
+#, kde-format
+msgid "Current streak:"
+msgstr "Chuỗi hiện tại:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: statisticsdialog.ui:138
+#, kde-format
+msgid "Minimal number of moves:"
+msgstr "Số di chuyển tối thiểu:"
+
+#: yukon.cpp:120
+msgid "Yukon"
+msgstr "Yukon"

@@ -1,0 +1,456 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdepim-addons package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdepim-addons\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-18 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: akonadidatabasetools/akonadidatabasetoolsdialog.cpp:26
+#, kde-format
+msgctxt "@title:window"
+msgid "Akonadi Database Tool"
+msgstr "Công cụ cơ sở dữ liệu Akonadi"
+
+#: akonadidatabasetools/akonadidatabasetoolsplugininterface.cpp:26
+#, kde-format
+msgctxt "@action"
+msgid "&Akonadi Vacuum…"
+msgstr "Làm sạch &Akonadi..."
+
+#: akonadidatabasetools/akonadidatabasetoolsplugininterface.cpp:30
+#, kde-format
+msgid "Do you want to vacuum akonadi database?"
+msgstr "Bạn có muốn làm sạch cơ sở dữ liệu akonadi không?"
+
+#: akonadidatabasetools/akonadidatabasetoolsplugininterface.cpp:31
+#: akonadidatabasetools/akonadidatabasetoolsplugininterface.cpp:78
+#, kde-format
+msgctxt "@title:window"
+msgid "Akonadi Vacuum"
+msgstr "Akonadi Vacuum"
+
+#: akonadidatabasetools/akonadidatabasetoolsplugininterface.cpp:32
+#, kde-format
+msgctxt "@action:button"
+msgid "Vacuum"
+msgstr "Làm sạch"
+
+#: akonadidatabasetools/akonadidatabasetoolsplugininterface.cpp:44
+#, kde-format
+msgctxt "@action"
+msgid "&Akonadi Fsck…"
+msgstr "&Akonadi Fsck..."
+
+#: akonadidatabasetools/akonadidatabasetoolsplugininterface.cpp:50
+#, kde-format
+msgid "Do you want to fsck akonadi database?"
+msgstr "Bạn có muốn fsck cơ sở dữ liệu akonadi không?"
+
+#: akonadidatabasetools/akonadidatabasetoolsplugininterface.cpp:51
+#: akonadidatabasetools/akonadidatabasetoolsplugininterface.cpp:75
+#, kde-format
+msgctxt "@title:window"
+msgid "Akonadi Fsck"
+msgstr "Akonadi Fsck"
+
+#: akonadidatabasetools/akonadidatabasetoolsplugininterface.cpp:52
+#, kde-format
+msgctxt "@action:button"
+msgid "Fsck"
+msgstr "Fsck"
+
+#: akonadidatabasetools/akonadidatabasetoolsplugininterface.cpp:92
+#, kde-format
+msgid "Finished."
+msgstr "Hoàn thành."
+
+#: akonadidatabasetools/akonadidatabasetoolsplugininterface.cpp:94
+#, kde-format
+msgid "Start…"
+msgstr "Bắt đầu..."
+
+#: antispamplugin/antispamplugininterface.cpp:22
+#, kde-format
+msgctxt "@action"
+msgid "&Anti-Spam Wizard…"
+msgstr "Trìn&h hướng dẫn chống Spam..."
+
+#: antivirusplugin/antivirusplugininterface.cpp:22
+#, kde-format
+msgctxt "@action"
+msgid "&Anti-Virus Wizard…"
+msgstr "Trìn&h hướng dẫn Phòng chống Virus..."
+
+#: common/antispamwizard.cpp:88
+#, kde-format
+msgctxt "@title:window"
+msgid "Anti-Spam Wizard"
+msgstr "Trình hướng dẫn chống thư rác"
+
+#: common/antispamwizard.cpp:88
+#, kde-format
+msgctxt "@title:window"
+msgid "Anti-Virus Wizard"
+msgstr "Trình hướng dẫn chống virus"
+
+#: common/antispamwizard.cpp:90
+#, kde-format
+msgid "Welcome to the KMail Anti-Spam Wizard"
+msgstr "Chào mừng đến với Trình hướng dẫn Chống Spam của KMail"
+
+#: common/antispamwizard.cpp:90
+#, kde-format
+msgid "Welcome to the KMail Anti-Virus Wizard"
+msgstr "Chào mừng đến với Trình hướng dẫn Chống Virus của KMail"
+
+#: common/antispamwizard.cpp:95
+#, kde-format
+msgid "Options to fine-tune the handling of spam messages"
+msgstr "Tùy chọn để tinh chỉnh việc xử lý thư rác"
+
+#: common/antispamwizard.cpp:99
+#, kde-format
+msgid "Summary of changes to be made by this wizard"
+msgstr "Tóm tắt các thay đổi sẽ được thực hiện bởi trình hướng dẫn này"
+
+#: common/antispamwizard.cpp:102
+#, kde-format
+msgid "Options to fine-tune the handling of virus messages"
+msgstr "Tùy chọn để tinh chỉnh xử lý các tin nhắn virus"
+
+#: common/antispamwizard.cpp:169
+#, kde-format
+msgid "Virus handling"
+msgstr "Xử lý virus"
+
+#: common/antispamwizard.cpp:248 common/antispamwizard.cpp:250
+#: common/antispamwizard.cpp:553
+#, kde-format
+msgid "Spam Handling"
+msgstr "Xử lý thư rác"
+
+#: common/antispamwizard.cpp:284 common/antispamwizard.cpp:286
+#: common/antispamwizard.cpp:568
+#, kde-format
+msgid "Semi spam (unsure) handling"
+msgstr "Xử lý thư rác bán tự động (không chắc chắn)"
+
+#: common/antispamwizard.cpp:340 common/antispamwizard.cpp:342
+#: common/antispamwizard.cpp:575
+#, kde-format
+msgid "Classify as Spam"
+msgstr "Phân loại là Thư rác"
+
+#: common/antispamwizard.cpp:351
+#, kde-format
+msgid "Spam"
+msgstr "Thư rác"
+
+#: common/antispamwizard.cpp:379 common/antispamwizard.cpp:381
+#: common/antispamwizard.cpp:576
+#, kde-format
+msgid "Classify as NOT Spam"
+msgstr "Phân loại là KHÔNG SPAM"
+
+#: common/antispamwizard.cpp:390
+#, kde-format
+msgid "Ham"
+msgstr "Thư không spam"
+
+#: common/antispamwizard.cpp:456
+#, kde-format
+msgid "Scanning for %1…"
+msgstr "Đang quét %1..."
+
+#: common/antispamwizard.cpp:500
+#, kde-format
+msgid "Scanning for anti-spam tools finished."
+msgstr "Quét tìm các công cụ chống spam đã hoàn tất."
+
+#: common/antispamwizard.cpp:500
+#, kde-format
+msgid "Scanning for anti-virus tools finished."
+msgstr "Quét tìm các công cụ chống virus đã hoàn tất."
+
+#: common/antispamwizard.cpp:502
+#, kde-format
+msgid ""
+"<p>Sorry, no spam detection tools have been found. Install your spam "
+"detection software and re-run this wizard.</p>"
+msgstr ""
+"<p>Rất tiếc, không tìm thấy công cụ phát hiện thư rác nào. Hãy cài đặt phần "
+"mềm phát hiện thư rác của bạn và chạy lại trình hướng dẫn này.</p>"
+
+#: common/antispamwizard.cpp:505
+#, kde-format
+msgid "Scanning complete. No anti-virus tools found."
+msgstr "Quét hoàn tất. Không tìm thấy công cụ diệt virus."
+
+#: common/antispamwizard.cpp:527
+#, kde-format
+msgid ""
+"<p>Messages classified as spam are marked as read.<br />Spam messages are "
+"moved into the folder named <i>%1</i>.</p>"
+msgstr ""
+"<p>Thư được phân loại là thư rác sẽ được đánh dấu là đã đọc.<br />Thư rác "
+"sẽ được chuyển vào thư mục có tên <i>%1</i>.</p>"
+
+#: common/antispamwizard.cpp:532
+#, kde-format
+msgid ""
+"<p>Messages classified as spam are marked as read.<br />Spam messages are "
+"not moved into a certain folder.</p>"
+msgstr ""
+"<p>Thư được phân loại là thư rác sẽ được đánh dấu là đã đọc.<br />Thư rác "
+"không được chuyển vào một thư mục cụ thể nào.</p>"
+
+#: common/antispamwizard.cpp:538
+#, kde-format
+msgid ""
+"<p>Messages classified as spam are not marked as read.<br />Spam messages "
+"are moved into the folder named <i>%1</i>.</p>"
+msgstr ""
+"<p>Thư được phân loại là thư rác không được đánh dấu là đã đọc.<br />Thư "
+"rác được chuyển vào thư mục có tên <i>%1</i>.</p>"
+
+#: common/antispamwizard.cpp:543
+#, kde-format
+msgid ""
+"<p>Messages classified as spam are not marked as read.<br />Spam messages "
+"are not moved into a certain folder.</p>"
+msgstr ""
+"<p>Thư được phân loại là thư rác không được đánh dấu là đã đọc.<br />Thư "
+"rác không được chuyển vào một thư mục cụ thể nào.</p>"
+
+#: common/antispamwizard.cpp:570
+#, kde-format
+msgid ""
+"<p>The folder for messages classified as unsure (probably spam) is <i>%1</i>."
+"</p>"
+msgstr ""
+"<p>Thư mục cho các thư được phân loại là không chắc chắn (có thể là thư "
+"rác) là <i>%1</i>.</p>"
+
+#: common/antispamwizard.cpp:580
+#, kde-format
+msgid "<p>The wizard will create the following filters:<ul>%1</ul></p>"
+msgstr "<p>Trình hướng dẫn sẽ tạo các bộ lọc sau:<ul>%1</ul></p>"
+
+#: common/antispamwizard.cpp:583
+#, kde-format
+msgid "<p>The wizard will replace the following filters:<ul>%1</ul></p>"
+msgstr "<p>Trình hướng dẫn sẽ thay thế các bộ lọc sau:<ul>%1</ul></p>"
+
+#: common/antispamwizard.cpp:980
+#, kde-format
+msgid ""
+"The wizard will search for any tools to do spam detection\n"
+"and setup KMail to work with them."
+msgstr ""
+"Trình hướng dẫn sẽ tìm kiếm bất kỳ công cụ nào để phát hiện thư rác\nvà "
+"thiết lập KMail để làm việc với chúng."
+
+#: common/antispamwizard.cpp:982
+#, kde-format
+msgid ""
+"<p>Here you can get some assistance in setting up KMail's filter rules to "
+"use some commonly-known anti-virus tools.</p><p>The wizard can detect those "
+"tools on your computer as well as create filter rules to classify messages "
+"using these tools and to separate messages containing viruses. The wizard "
+"will not take any existing filter rules into consideration: it will always "
+"append the new rules.</p><p><b>Warning:</b> As KMail appears to be frozen "
+"during the scan of the messages for viruses, you may encounter problems with "
+"the responsiveness of KMail because anti-virus tool operations are usually "
+"time consuming; please consider deleting the filter rules created by the "
+"wizard to get back to the former behavior.</p>"
+msgstr ""
+"<p>Ở đây bạn có thể nhận được sự hỗ trợ trong việc thiết lập các quy tắc "
+"lọc của KMail để sử dụng một số công cụ chống virus phổ biến.</p><p>Trình "
+"hướng dẫn có thể phát hiện những công cụ này trên máy tính của bạn cũng như "
+"tạo ra các quy tắc lọc để phân loại thư sử dụng các công cụ này và tách "
+"riêng các thư chứa virus. Trình hướng dẫn sẽ không xem xét bất kỳ quy tắc "
+"lọc hiện có nào: nó sẽ luôn thêm các quy tắc mới vào cuối.</p><p><b>Cảnh "
+"báo:</b> Vì KMail có vẻ như bị đóng băng trong quá trình quét virus của các "
+"thư, bạn có thể gặp vấn đề về khả năng phản hồi của KMail do các thao tác "
+"của công cụ chống virus thường tốn nhiều thời gian; vui lòng cân nhắc việc "
+"xóa các quy tắc lọc được tạo bởi trình hướng dẫn để quay lại hành vi trước "
+"đó.</p>"
+
+#: common/antispamwizard.cpp:1032
+#, kde-format
+msgid ""
+"<p>Please select the tools to be used for the detection and go to the next "
+"page.</p>"
+msgstr ""
+"<p>Vui lòng bôi đen các công cụ sẽ được sử dụng để phát hiện và chuyển đến "
+"trang tiếp.</p>"
+
+#: common/antispamwizard.cpp:1056
+#, kde-format
+msgid "&Mark detected spam messages as read"
+msgstr "Đánh dấu các tin nhắn spam được phát hiện &là đã đọc"
+
+#: common/antispamwizard.cpp:1057
+#, kde-format
+msgid "Mark messages which have been classified as spam as read."
+msgstr "Đánh dấu các tin nhắn đã được phân loại là thư rác là đã đọc."
+
+#: common/antispamwizard.cpp:1060
+#, kde-format
+msgid "Move &known spam to:"
+msgstr "C&huyển thư rác đã biết đến:"
+
+#: common/antispamwizard.cpp:1062
+#, kde-format
+msgid ""
+"The default folder for spam messages is the trash folder, but you may change "
+"that in the folder view below."
+msgstr ""
+"Thư mục mặc định cho thư rác là thư mục thùng rác, nhưng bạn có thể thay "
+"đổi điều đó trong khung xem bên dưới."
+
+#: common/antispamwizard.cpp:1075
+#, kde-format
+msgid "Move &probable spam to:"
+msgstr "Chuyển thư rá&c có khả năng cao đến:"
+
+#: common/antispamwizard.cpp:1077
+#, kde-format
+msgid ""
+"The default folder is the inbox folder, but you may change that in the "
+"folder view below.<p>Not all tools support a classification as unsure. If "
+"you have not selected a capable tool, you cannot select a folder as well.</p>"
+msgstr ""
+"Thư mục mặc định là thư mục hộp thư đến, nhưng bạn có thể thay đổi điều đó "
+"trong khung xem thư mục bên dưới.<p>Không phải tất cả các công cụ đều hỗ "
+"trợ phân loại là không chắc chắn. Nếu bạn chưa chọn một công cụ có khả "
+"năng, bạn cũng không thể chọn một thư mục.</p>"
+
+#: common/antispamwizard.cpp:1187
+#, kde-format
+msgid "Check messages using the anti-virus tools"
+msgstr "Kiểm tra tin nhắn bằng các công cụ chống virus"
+
+#: common/antispamwizard.cpp:1189
+#, kde-format
+msgid ""
+"Let the anti-virus tools check your messages. The wizard will create "
+"appropriate filters. The messages are usually marked by the tools so that "
+"following filters can react on this and, for example, move virus messages to "
+"a special folder."
+msgstr ""
+"Để các công cụ diệt virus kiểm tra tin nhắn của bạn. Trình hướng dẫn sẽ tạo "
+"bộ lọc phù hợp. Các tin nhắn thường được các công cụ đánh dấu để các bộ lọc "
+"tiếp theo có thể phản ứng với điều này và, ví dụ, chuyển các tin nhắn có "
+"virus đến một thư mục đặc biệt."
+
+#: common/antispamwizard.cpp:1195
+#, kde-format
+msgid "Move detected viral messages to the selected folder"
+msgstr "Chuyển các tin nhắn có virus được phát hiện đến thư mục đã chọn"
+
+#: common/antispamwizard.cpp:1197
+#, kde-format
+msgid ""
+"A filter to detect messages classified as virus-infected and to move those "
+"messages into a predefined folder is created. The default folder is the "
+"trash folder, but you may change that in the folder view."
+msgstr ""
+"Một bộ lọc được tạo để phát hiện các tin nhắn được phân loại là bị nhiễm "
+"virus và di chuyển những tin nhắn đó vào một thư mục đã được xác định "
+"trước. Thư mục mặc định là thư mục rác, nhưng bạn có thể thay đổi điều đó "
+"trong chế độ xem thư mục."
+
+#: common/antispamwizard.cpp:1203
+#, kde-format
+msgid "Additionally, mark detected viral messages as read"
+msgstr "Ngoài ra, đánh dấu các tin nhắn được phát hiện là virus là đã đọc"
+
+#: common/antispamwizard.cpp:1206
+#, kde-format
+msgid ""
+"Mark messages which have been classified as virus-infected as read, as well "
+"as moving them to the selected folder."
+msgstr ""
+"Đánh dấu các tin nhắn đã được phân loại là nhiễm virus là đã đọc, cũng như "
+"di chuyển chúng đến thư mục đã chọn."
+
+#: mailmergeplugin/mailmergedialog.cpp:19
+#, kde-format
+msgctxt "@action:button"
+msgid "Preview"
+msgstr "xem thử"
+
+#: mailmergeplugin/mailmergedialog.cpp:22
+#, kde-format
+msgctxt "@title:window"
+msgid "Mail Merge"
+msgstr "Trộn Thư"
+
+#: mailmergeplugin/widgets/csvwidget.cpp:24
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Path:"
+msgstr "Đường dẫn:"
+
+#: mailmergeplugin/widgets/mailmergepreviewdialog.cpp:16
+#: mailmergeplugin/widgets/selectattachmentdialog.cpp:19
+#, kde-format
+msgctxt "@title:window"
+msgid "Attachment"
+msgstr "Tệp đính kèm"
+
+#: mailmergeplugin/widgets/mailmergewidget.cpp:36
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Source:"
+msgstr "Nguồn:"
+
+#: mailmergeplugin/widgets/mailmergewidget.cpp:41
+#, kde-format
+msgid "Address Book"
+msgstr "Sổ địa chỉ"
+
+#: mailmergeplugin/widgets/mailmergewidget.cpp:42
+#, kde-format
+msgid "CSV"
+msgstr "CSV"
+
+#: mailmergeplugin/widgets/mailmergewidget.cpp:58
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Attachment:"
+msgstr "Tệp đính kèm:"
+
+#: mailmergeplugin/widgets/mailmergewidget.cpp:63
+#, kde-format
+msgid "A&dd…"
+msgstr "T&hêm..."
+
+#: mailmergeplugin/widgets/mailmergewidget.cpp:63
+#, kde-format
+msgid "Re&move"
+msgstr "X&oá"
+
+#: mailmergeplugin/widgets/mailmergewidget.cpp:63
+#, kde-format
+msgid "Mod&ify..."
+msgstr "Sửa đổ&i..."
+
+#: mailmergeplugin/widgets/selectattachmentdialog.cpp:31
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Select attachment:"
+msgstr "Chọn tệp đính kèm:"

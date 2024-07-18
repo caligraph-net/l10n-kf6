@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+
+#: sbi_imagesicon.cpp:34
+msgctxt "SBI_ImagesIcon|"
+msgid "Modify images loading settings per-site and globally"
+msgstr "Chỉnh sửa thiết lập tải ảnh theo từng trang web và toàn cục"
+
+#: sbi_imagesicon.cpp:58
+msgctxt "SBI_ImagesIcon|"
+msgid "Current Page Settings"
+msgstr "Thiết lập Trang Hiện Tại"
+
+#: sbi_imagesicon.cpp:61
+msgctxt "SBI_ImagesIcon|"
+msgid "Disable loading images (temporarily)"
+msgstr "Tạm thời vô hiệu hóa tải ảnh"
+
+#: sbi_imagesicon.cpp:64
+msgctxt "SBI_ImagesIcon|"
+msgid "Enable loading images (temporarily)"
+msgstr "Bật tải ảnh (tạm thời)"
+
+#: sbi_imagesicon.cpp:68
+msgctxt "SBI_ImagesIcon|"
+msgid "Global Settings"
+msgstr "Thiết lập Toàn cục"
+
+#: sbi_imagesicon.cpp:70
+msgctxt "SBI_ImagesIcon|"
+msgid "Automatically load images"
+msgstr "Tự động tải hình ảnh"
+
+#: sbi_javascripticon.cpp:35
+msgctxt "SBI_JavaScriptIcon|"
+msgid "Modify JavaScript settings per-site and globally"
+msgstr "Chỉnh sửa thiết lập JavaScript cho từng trang và toàn cục"
+
+#: sbi_javascripticon.cpp:52
+msgctxt "SBI_JavaScriptIcon|"
+msgid "Current Page Settings"
+msgstr "Thiết lập trang hiện tại"
+
+#: sbi_javascripticon.cpp:55
+msgctxt "SBI_JavaScriptIcon|"
+msgid "Disable JavaScript (temporarily)"
+msgstr "Tạm thời vô hiệu hóa JavaScript"
+
+#: sbi_javascripticon.cpp:58
+msgctxt "SBI_JavaScriptIcon|"
+msgid "Enable JavaScript (temporarily)"
+msgstr "Bật JavaScript (tạm thời)"
+
+#: sbi_javascripticon.cpp:67
+msgctxt "SBI_JavaScriptIcon|"
+msgid "Global Settings"
+msgstr "Thiết lập Toàn cục"
+
+#: sbi_javascripticon.cpp:68
+msgctxt "SBI_JavaScriptIcon|"
+msgid "Manage JavaScript settings"
+msgstr "Quản lý thiết lập JavaScript"
+
+#: sbi_networkicon.cpp:62
+msgctxt "SBI_NetworkIcon|"
+msgid "Proxy Configuration"
+msgstr "Cấu hình Uỷ nhiệm"
+
+#: sbi_networkicon.cpp:64
+msgctxt "SBI_NetworkIcon|"
+msgid "Select proxy"
+msgstr "Bôi đen uỷ nhiệm"
+
+#: sbi_networkicon.cpp:78
+msgctxt "SBI_NetworkIcon|"
+msgid "Empty"
+msgstr "Trống"
+
+#: sbi_networkicon.cpp:82
+msgctxt "SBI_NetworkIcon|"
+msgid "Manage proxies"
+msgstr "Quản lý proxy"
+
+#: sbi_networkicon.cpp:95
+#, qt-format
+msgctxt "SBI_NetworkIcon|"
+msgid ""
+"Shows network status and manages "
+"proxy<br/><br/><b>Network:</b><br/>%1<br/><br/><b>Proxy:</b><br/>%2"
+msgstr ""
+"Hiển thị trạng thái mạng và quản lý "
+"proxy<br/><br/><b>Mạng:</b><br/>%1<br/><br/><b>Proxy:</b><br/>%2"
+
+#: sbi_networkicon.cpp:99
+msgctxt "SBI_NetworkIcon|"
+msgid "Connected"
+msgstr "Đã kết nối"
+
+#: sbi_networkicon.cpp:103
+msgctxt "SBI_NetworkIcon|"
+msgid "System proxy"
+msgstr "Proxy hệ thống"
+
+#: sbi_networkicon.cpp:107
+msgctxt "SBI_NetworkIcon|"
+msgid "No proxy"
+msgstr "Không uỷ nhiệm"
+
+#: sbi_networkicon.cpp:111
+msgctxt "SBI_NetworkIcon|"
+msgid "User defined"
+msgstr "Người dùng định nghĩa"
+
+#: sbi_networkicondialog.cpp:57 sbi_networkicondialog.ui:38
+msgctxt "SBI_NetworkIconDialog|"
+msgid "Add proxy"
+msgstr "Thêm uỷ nhiệm"
+
+#: sbi_networkicondialog.cpp:57
+msgctxt "SBI_NetworkIconDialog|"
+msgid "Name of proxy:"
+msgstr "Tên proxy:"
+
+#: sbi_networkicondialog.cpp:70
+msgctxt "SBI_NetworkIconDialog|"
+msgid "Remove current proxy"
+msgstr "Xoá proxy hiện tại"
+
+#: sbi_networkicondialog.cpp:70
+msgctxt "SBI_NetworkIconDialog|"
+msgid "Are you sure you want to remove current proxy?"
+msgstr "Bạn có chắc chắn muốn xoá proxy hiện tại?"
+
+#: sbi_networkicondialog.ui:14
+msgctxt "SBI_NetworkIconDialog|"
+msgid "Proxy Manager"
+msgstr "Quản lý Uỷ nhiệm"
+
+#: sbi_networkicondialog.ui:28
+msgctxt "SBI_NetworkIconDialog|"
+msgid "Select proxy: "
+msgstr "Chọn proxy:"
+
+#: sbi_networkicondialog.ui:45
+msgctxt "SBI_NetworkIconDialog|"
+msgid "Remove proxy"
+msgstr "Xoá uỷ nhiệm"
+
+#: sbi_networkicondialog.ui:69
+msgctxt "SBI_NetworkIconDialog|"
+msgid "No proxies. You can add proxy by clicking on <b>Add</b> button."
+msgstr ""
+"Không có uỷ nhiệm nào. Bạn có thể thêm uỷ nhiệm bằng cách nhấp vào nút "
+"<b>Thêm</b>."
+
+#: sbi_networkicondialog.ui:104
+msgctxt "SBI_NetworkIconDialog|"
+msgid "All changes must be saved with <b>Save</b> button."
+msgstr "Tất cả thay đổi phải được lưu bằng nút <b>Lưu</b>."
+
+#: sbi_proxywidget.ui:14
+msgctxt "SBI_ProxyWidget|"
+msgid "Form"
+msgstr "biểu mẫu"
+
+#: sbi_proxywidget.ui:23
+msgctxt "SBI_ProxyWidget|"
+msgid "HTTP"
+msgstr "HTTP"
+
+#: sbi_proxywidget.ui:28
+msgctxt "SBI_ProxyWidget|"
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+#: sbi_proxywidget.ui:39
+msgctxt "SBI_ProxyWidget|"
+msgid "Port:"
+msgstr "Cổng:"
+
+#: sbi_proxywidget.ui:76
+msgctxt "SBI_ProxyWidget|"
+msgid "Username:"
+msgstr "Tên người dùng:"
+
+#: sbi_proxywidget.ui:86
+msgctxt "SBI_ProxyWidget|"
+msgid "Password:"
+msgstr "Mật khẩu:"
+
+#: sbi_proxywidget.ui:111
+msgctxt "SBI_ProxyWidget|"
+msgid "S&ystem proxy configuration"
+msgstr "&Cấu hình uỷ nhiệm hệ thống"
+
+#: sbi_proxywidget.ui:118
+msgctxt "SBI_ProxyWidget|"
+msgid "&Manual configuration"
+msgstr "Cấ&u hình thủ công"
+
+#: sbi_settingsdialog.ui:14
+msgctxt "SBI_SettingsDialog|"
+msgid "StatusBar Icons"
+msgstr "Biểu tượng thanh trạng thái"
+
+#: sbi_settingsdialog.ui:48
+msgctxt "SBI_SettingsDialog|"
+msgid "<h3>StatusBar Icons</h3>"
+msgstr "<h3>Biểu tượng thanh trạng thái</h3>"
+
+#: sbi_settingsdialog.ui:70
+msgctxt "SBI_SettingsDialog|"
+msgid "These icons will be displayed in statusbar:"
+msgstr "Các biểu tượng này sẽ được hiển thị trong thanh trạng thái:"
+
+#: sbi_settingsdialog.ui:97
+msgctxt "SBI_SettingsDialog|"
+msgid "Images Icon"
+msgstr "Biểu tượng Hình ảnh"
+
+#: sbi_settingsdialog.ui:104
+msgctxt "SBI_SettingsDialog|"
+msgid "JavaScript Icon"
+msgstr "Biểu tượng JavaScript"
+
+#: sbi_settingsdialog.ui:111
+msgctxt "SBI_SettingsDialog|"
+msgid "Network Icon"
+msgstr "Biểu tượng mạng"
+
+#: sbi_settingsdialog.ui:118
+msgctxt "SBI_SettingsDialog|"
+msgid "Zoom widget"
+msgstr "Phụ kiện thu phóng"
+
+#: sbi_zoomwidget.cpp:48
+#, qt-format
+msgctxt "SBI_ZoomWidget|"
+msgid "Zoom: %1%"
+msgstr "Phóng to: %1%"

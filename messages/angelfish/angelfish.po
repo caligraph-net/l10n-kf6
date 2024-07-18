@@ -1,0 +1,949 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the angelfish package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: angelfish\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-03 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: angelfish-webapp/main.cpp:71
+#, kde-format
+msgid "desktop file to open"
+msgstr "tệp desktop để mở"
+
+#: angelfish-webapp/main.cpp:98
+#, kde-format
+msgid "Angelfish Web App runtime"
+msgstr "Ứng dụng web Angelfish"
+
+#: angelfish-webapp/main.cpp:100
+#, kde-format
+msgid "Copyright 2020 Angelfish developers"
+msgstr "Bản quyền 2020 của nhà phát triển Angelfish"
+
+#: angelfish-webapp/main.cpp:102
+#, kde-format
+msgid "Marco Martin"
+msgstr "Marco Martin"
+
+#: lib/angelfishwebprofile.cpp:63
+#, kde-format
+msgid "Download finished"
+msgstr "Tải về hoàn tất"
+
+#: lib/angelfishwebprofile.cpp:67
+#, kde-format
+msgid "Download failed"
+msgstr "Tải về không thành công"
+
+#: lib/angelfishwebprofile.cpp:88 src/contents/ui/NewTabQuestion.qml:19
+#, kde-format
+msgid "Open"
+msgstr "Mở"
+
+#: lib/contents/ui/AuthSheet.qml:17
+#, kde-format
+msgid "Authentication required"
+msgstr "Yêu cầu xác thực"
+
+#: lib/contents/ui/AuthSheet.qml:30
+#, kde-format
+msgid "Username"
+msgstr "Tên người dùng"
+
+#: lib/contents/ui/AuthSheet.qml:37
+#, kde-format
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: lib/contents/ui/DownloadQuestion.qml:15
+#, kde-format
+msgid "Do you want to download this file?"
+msgstr "Bạn có muốn tải về tệp này không?"
+
+#: lib/contents/ui/DownloadQuestion.qml:23
+#: src/contents/ui/AdblockFilterDownloadQuestion.qml:30
+#, kde-format
+msgid "Download"
+msgstr "Tải về"
+
+#: lib/contents/ui/DownloadQuestion.qml:31
+#: lib/contents/ui/PrintPreview.qml:163 src/contents/ui/Downloads.qml:92
+#, kde-format
+msgid "Cancel"
+msgstr "Huỷ"
+
+#: lib/contents/ui/ErrorHandler.qml:47
+#, kde-format
+msgid "Error loading the page"
+msgstr "Lỗi khi tải trang"
+
+#: lib/contents/ui/ErrorHandler.qml:58
+#, kde-format
+msgid "Retry"
+msgstr "Thử lại"
+
+#: lib/contents/ui/ErrorHandler.qml:71
+#, kde-format
+msgid ""
+"Do you wish to continue?\n"
+"\n"
+" If you wish so, you may continue with an unverified certificate.\n"
+" Accepting an unverified certificate means\n"
+" you may not be connected with the host you tried to connect to.\n"
+" Do you wish to override the security check and continue?"
+msgstr ""
+"Bạn có muốn tiếp tục không?\n\nNếu bạn muốn, bạn có thể tiếp tục với một "
+"chứng chỉ chưa được xác minh.\nChấp nhận một chứng chỉ chưa được xác minh "
+"có nghĩa là\nbạn có thể không được kết nối với máy chủ mà bạn đã cố kết "
+"nối.\nBạn có muốn vượt hiệu lực kiểm tra an ninh và tiếp tục không?"
+
+#: lib/contents/ui/ErrorHandler.qml:79
+#, kde-format
+msgid "Yes"
+msgstr "Có"
+
+#: lib/contents/ui/ErrorHandler.qml:88
+#, kde-format
+msgid "No"
+msgstr "Không"
+
+#: lib/contents/ui/JavaScriptDialogSheet.qml:49
+#, kde-format
+msgid "This page says"
+msgstr "Trang này nói"
+
+#: lib/contents/ui/JavaScriptDialogSheet.qml:64
+#, kde-format
+msgid ""
+"The website asks for confirmation that you want to leave. Unsaved "
+"information might not be saved."
+msgstr ""
+"Trang web yêu cầu xác nhận rằng bạn muốn rời đi. Thông tin chưa được lưu có "
+"thể không được lưu."
+
+#: lib/contents/ui/JavaScriptDialogSheet.qml:79
+#, kde-format
+msgid "Leave page"
+msgstr "Rời trang"
+
+#: lib/contents/ui/JavaScriptDialogSheet.qml:87
+#, kde-format
+msgid "Submit"
+msgstr "Gửi"
+
+#: lib/contents/ui/PermissionQuestion.qml:19
+#, kde-format
+msgid "Do you want to allow the website to access the geo location?"
+msgstr "Bạn có muốn cho phép trang web truy cập vị trí địa lý của bạn không?"
+
+#: lib/contents/ui/PermissionQuestion.qml:22
+#, kde-format
+msgid "Do you want to allow the website to access the microphone?"
+msgstr "Bạn có muốn cho phép trang web truy cập vào micro không?"
+
+#: lib/contents/ui/PermissionQuestion.qml:25
+#, kde-format
+msgid "Do you want to allow the website to access the camera?"
+msgstr "Bạn có muốn cho phép trang web truy cập vào camera không?"
+
+#: lib/contents/ui/PermissionQuestion.qml:28
+#, kde-format
+msgid ""
+"Do you want to allow the website to access the camera and the microphone?"
+msgstr "Bạn có muốn cho phép trang web truy cập vào camera và micro không?"
+
+#: lib/contents/ui/PermissionQuestion.qml:31
+#, kde-format
+msgid "Do you want to allow the website to share your screen?"
+msgstr "Bạn có muốn cho phép trang web chia sẻ màn hình của bạn không?"
+
+#: lib/contents/ui/PermissionQuestion.qml:34
+#, kde-format
+msgid "Do you want to allow the website to share the sound output?"
+msgstr "Bạn có muốn cho phép trang web chia sẻ đầu ra âm thanh không?"
+
+#: lib/contents/ui/PermissionQuestion.qml:37
+#, kde-format
+msgid "Do you want to allow the website to send you notifications?"
+msgstr "Bạn có muốn cho phép trang web gửi thông báo cho bạn không?"
+
+#: lib/contents/ui/PermissionQuestion.qml:46
+#, kde-format
+msgid "Accept"
+msgstr "Chấp nhận"
+
+#: lib/contents/ui/PermissionQuestion.qml:56
+#, kde-format
+msgid "Decline"
+msgstr "Từ chối"
+
+#: lib/contents/ui/PrintPreview.qml:24 src/contents/ui/desktop/desktop.qml:295
+#, kde-format
+msgid "Print"
+msgstr "In"
+
+#: lib/contents/ui/PrintPreview.qml:64
+#, kde-format
+msgid "Destination"
+msgstr "Đích đến"
+
+#: lib/contents/ui/PrintPreview.qml:68
+#, kde-format
+msgid "Save to PDF"
+msgstr "Lưu thành PDF"
+
+#: lib/contents/ui/PrintPreview.qml:74
+#, kde-format
+msgid "Orientation"
+msgstr "Hướng"
+
+#: lib/contents/ui/PrintPreview.qml:99
+#, kde-format
+msgid "Paper size"
+msgstr "Kích thước giấy"
+
+#: lib/contents/ui/PrintPreview.qml:145
+#, kde-format
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: lib/contents/ui/PrintPreview.qml:149
+#, kde-format
+msgid "Print backgrounds"
+msgstr "In nền"
+
+#: lib/contents/ui/PrintPreview.qml:168
+#, kde-format
+msgid "Save"
+msgstr "Lưu"
+
+#: lib/contents/ui/WebView.qml:243
+#, kde-format
+msgid "Website was opened in a new tab"
+msgstr "Trang web đã được mở trong một thẻ mới"
+
+#: lib/contents/ui/WebView.qml:261
+#, kde-format
+msgid "Entered Full Screen Mode"
+msgstr "Đã vào chế độ toàn màn hình"
+
+#: lib/contents/ui/WebView.qml:262
+#, kde-format
+msgid "Exit Full Screen (Esc)"
+msgstr "Thoát toàn màn hình (Esc)"
+
+#: lib/contents/ui/WebView.qml:395
+#, kde-format
+msgid "Play"
+msgstr "Phát"
+
+#: lib/contents/ui/WebView.qml:396 src/contents/ui/Downloads.qml:105
+#, kde-format
+msgid "Pause"
+msgstr "Tạm dừng"
+
+#: lib/contents/ui/WebView.qml:403
+#, kde-format
+msgid "Unmute"
+msgstr "Bỏ tắt tiếng"
+
+#: lib/contents/ui/WebView.qml:404
+#, kde-format
+msgid "Mute"
+msgstr "Tắt tiếng"
+
+#: lib/contents/ui/WebView.qml:414
+#, kde-format
+msgid "Speed"
+msgstr "Tốc độ"
+
+#: lib/contents/ui/WebView.qml:437
+#, kde-format
+msgid "Loop"
+msgstr "Lặp lại"
+
+#: lib/contents/ui/WebView.qml:444
+#, kde-format
+msgid "Exit fullscreen"
+msgstr "Thoát toàn màn hình"
+
+#: lib/contents/ui/WebView.qml:444
+#, kde-format
+msgid "Fullscreen"
+msgstr "Toàn màn hình"
+
+#: lib/contents/ui/WebView.qml:457
+#, kde-format
+msgid "Hide controls"
+msgstr "Ẩn các điều khiển"
+
+#: lib/contents/ui/WebView.qml:458
+#, kde-format
+msgid "Show controls"
+msgstr "Hiện các điều khiển"
+
+#: lib/contents/ui/WebView.qml:466
+#, kde-format
+msgid "Open video"
+msgstr "Mở phim"
+
+#: lib/contents/ui/WebView.qml:466
+#, kde-format
+msgid "Open audio"
+msgstr "Mở âm thanh"
+
+#: lib/contents/ui/WebView.qml:467
+#, kde-format
+msgid "Open video in new Tab"
+msgstr "Mở video trong thẻ mới"
+
+#: lib/contents/ui/WebView.qml:467
+#, kde-format
+msgid "Open audio in new Tab"
+msgstr "Mở âm thanh trong thẻ mới"
+
+#: lib/contents/ui/WebView.qml:479
+#, kde-format
+msgid "Save video"
+msgstr "Lưu phim"
+
+#: lib/contents/ui/WebView.qml:485
+#, kde-format
+msgid "Copy video Link"
+msgstr "Sao chép liên kết phim"
+
+#: lib/contents/ui/WebView.qml:491
+#, kde-format
+msgid "Open image"
+msgstr "Mở ảnh"
+
+#: lib/contents/ui/WebView.qml:491
+#, kde-format
+msgid "Open image in new Tab"
+msgstr "Mở ảnh trong thẻ mới"
+
+#: lib/contents/ui/WebView.qml:503
+#, kde-format
+msgid "Save image"
+msgstr "Lưu ảnh"
+
+#: lib/contents/ui/WebView.qml:509
+#, kde-format
+msgid "Copy image"
+msgstr "Sao chép ảnh"
+
+#: lib/contents/ui/WebView.qml:515
+#, kde-format
+msgid "Copy image link"
+msgstr "Sao chép liên kết ảnh"
+
+#: lib/contents/ui/WebView.qml:521
+#, kde-format
+msgid "Open link"
+msgstr "Mở liên kết"
+
+#: lib/contents/ui/WebView.qml:521
+#, kde-format
+msgid "Open link in new Tab"
+msgstr "Mở liên kết trong thẻ mới"
+
+#: lib/contents/ui/WebView.qml:533
+#, kde-format
+msgid "Bookmark link"
+msgstr "Dấu nhớ liên kết"
+
+#: lib/contents/ui/WebView.qml:545
+#, kde-format
+msgid "Save link"
+msgstr "Lưu liên kết"
+
+#: lib/contents/ui/WebView.qml:551
+#, kde-format
+msgid "Copy link"
+msgstr "Sao chép liên kết"
+
+#: lib/contents/ui/WebView.qml:558
+#, kde-format
+msgid "Copy"
+msgstr "Sao chép"
+
+#: lib/contents/ui/WebView.qml:564
+#, kde-format
+msgid "Cut"
+msgstr "Cắt"
+
+#: lib/contents/ui/WebView.qml:570
+#, kde-format
+msgid "Paste"
+msgstr "Dán"
+
+#: lib/contents/ui/WebView.qml:591 src/contents/ui/desktop/desktop.qml:344
+#: src/contents/ui/mobile.qml:290
+#, kde-format
+msgid "Share page"
+msgstr "Chia sẻ trang"
+
+#: lib/contents/ui/WebView.qml:603
+#, kde-format
+msgid "View page source"
+msgstr "Xem mã nguồn trang"
+
+#: src/contents/ui/AdblockFilterDownloadQuestion.qml:14
+#, kde-format
+msgid ""
+"The ad blocker is missing its filter lists, do you want to download them now?"
+msgstr ""
+"Trình chặn quảng cáo đang thiếu danh sách bộ lọc của nó, bạn có muốn tải về "
+"chúng ngay bây giờ không?"
+
+#: src/contents/ui/AdblockFilterDownloadQuestion.qml:35
+#, kde-format
+msgid "Downloading..."
+msgstr "Đang tải xuống..."
+
+#: src/contents/ui/Bookmarks.qml:12 src/contents/ui/desktop/desktop.qml:274
+#: src/contents/ui/mobile.qml:81
+#, kde-format
+msgid "Bookmarks"
+msgstr "Dấu trang"
+
+#: src/contents/ui/desktop/BookmarksPage.qml:30
+#, kde-format
+msgid "Search bookmarks…"
+msgstr "Tìm kiếm dấu trang..."
+
+#: src/contents/ui/desktop/BookmarksPage.qml:77
+#, kde-format
+msgid "No bookmarks yet"
+msgstr "Chưa có dấu trang nào"
+
+#: src/contents/ui/desktop/desktop.qml:125
+#, kde-format
+msgid "Search or enter URL…"
+msgstr "Tìm kiếm hoặc nhập URL..."
+
+#: src/contents/ui/desktop/desktop.qml:249
+#: src/contents/ui/desktop/Tabs.qml:349 src/contents/ui/Tabs.qml:50
+#, kde-format
+msgid "New Tab"
+msgstr "Thẻ mới"
+
+#: src/contents/ui/desktop/desktop.qml:256
+#: src/contents/ui/mobile.qml:73
+#, kde-format
+msgid "Leave private mode"
+msgstr "Thoát chế độ riêng tư"
+
+#: src/contents/ui/desktop/desktop.qml:256
+#: src/contents/ui/mobile.qml:73
+#, kde-format
+msgid "Private mode"
+msgstr "Chế độ riêng tư"
+
+#: src/contents/ui/desktop/desktop.qml:265
+#: src/contents/ui/History.qml:12 src/contents/ui/mobile.qml:89
+#, kde-format
+msgid "History"
+msgstr "Lịch sử"
+
+#: src/contents/ui/desktop/desktop.qml:283
+#: src/contents/ui/Downloads.qml:16 src/contents/ui/mobile.qml:93
+#, kde-format
+msgid "Downloads"
+msgstr "Tải xuống"
+
+#: src/contents/ui/desktop/desktop.qml:301
+#, kde-format
+msgid "Full Screen"
+msgstr "Toàn màn hình"
+
+#: src/contents/ui/desktop/desktop.qml:318
+#, kde-format
+msgid "Hide developer tools"
+msgstr "Ẩn công cụ nhà phát triển"
+
+#: src/contents/ui/desktop/desktop.qml:319
+#: src/contents/ui/mobile.qml:386
+#, kde-format
+msgid "Show developer tools"
+msgstr "Hiện công cụ nhà phát triển"
+
+#: src/contents/ui/desktop/desktop.qml:328
+#: src/contents/ui/mobile.qml:286
+#, kde-format
+msgid "Find in page"
+msgstr "Tìm trong trang"
+
+#: src/contents/ui/desktop/desktop.qml:337
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Reader Mode"
+msgstr "Chế độ đọc"
+
+#: src/contents/ui/desktop/desktop.qml:354
+#, kde-format
+msgid "Add to application launcher"
+msgstr "Thêm vào trình khởi chạy ứng dụng"
+
+#: src/contents/ui/desktop/desktop.qml:373
+#: src/contents/ui/mobile.qml:101
+#, kde-format
+msgid "Settings"
+msgstr "thiết lập"
+
+#: src/contents/ui/desktop/HistoryPage.qml:30
+#, kde-format
+msgid "Search history…"
+msgstr "Tìm kiếm lịch sử..."
+
+#: src/contents/ui/desktop/HistoryPage.qml:46
+#, kde-format
+msgid "Clear all history"
+msgstr "Làm trống toàn bộ lịch sử"
+
+#: src/contents/ui/desktop/HistoryPage.qml:83
+#, kde-format
+msgid "Not history yet"
+msgstr "Chưa có lịch sử"
+
+#: src/contents/ui/desktop/Tabs.qml:226 src/contents/ui/Tabs.qml:192
+#, kde-format
+msgid "Reader Mode: %1"
+msgstr "Chế độ đọc: %1"
+
+#: src/contents/ui/desktop/Tabs.qml:255 src/contents/ui/Tabs.qml:223
+#, kde-format
+msgid "Close tab"
+msgstr "Đóng thẻ"
+
+#: src/contents/ui/desktop/Tabs.qml:285
+#, kde-format
+msgid "Open a new tab"
+msgstr "Mở một thẻ mới"
+
+#: src/contents/ui/desktop/Tabs.qml:318
+#, kde-format
+msgid "List all tabs"
+msgstr "Liệt kê tất cả các tab"
+
+#: src/contents/ui/desktop/Tabs.qml:358
+#, kde-format
+msgid "Reload Tab"
+msgstr "Tải lại Thẻ"
+
+#: src/contents/ui/desktop/Tabs.qml:366
+#, kde-format
+msgid "Duplicate Tab"
+msgstr "Nhân bản Thẻ"
+
+#: src/contents/ui/desktop/Tabs.qml:374
+#, kde-format
+msgid "Bookmark Tab"
+msgstr "Thẻ Dấu Nhớ"
+
+#: src/contents/ui/desktop/Tabs.qml:390
+#, kde-format
+msgid "Close Tab"
+msgstr "Đóng Thẻ"
+
+#: src/contents/ui/Downloads.qml:28
+#, kde-format
+msgid "No running downloads"
+msgstr "Không có tải xuống đang chạy"
+
+#: src/contents/ui/Downloads.qml:77
+#, kde-format
+msgctxt "download state"
+msgid "Starting…"
+msgstr "Đang bắt đầu..."
+
+#: src/contents/ui/Downloads.qml:79
+#, kde-format
+msgid "Completed"
+msgstr "Đã hoàn thành"
+
+#: src/contents/ui/Downloads.qml:81
+#, kde-format
+msgid "Cancelled"
+msgstr "Đã hủy"
+
+#: src/contents/ui/Downloads.qml:83
+#, kde-format
+msgctxt "download state"
+msgid "Interrupted"
+msgstr "Bị gián đoạn"
+
+#: src/contents/ui/Downloads.qml:85
+#, kde-format
+msgctxt "download state"
+msgid "In progress"
+msgstr "Đang tiến hành"
+
+#: src/contents/ui/Downloads.qml:117
+#, kde-format
+msgid "Continue"
+msgstr "Tiếp tục"
+
+#: src/contents/ui/FindInPageBar.qml:45
+#, kde-format
+msgid "Search..."
+msgstr "Tìm kiếm..."
+
+#: src/contents/ui/mobile.qml:20
+#, kde-format
+msgid "Angelfish Web Browser"
+msgstr "Trình duyệt web Angelfish"
+
+#: src/contents/ui/mobile.qml:66 src/contents/ui/Tabs.qml:43
+#, kde-format
+msgid "Tabs"
+msgstr "Các tab"
+
+#: src/contents/ui/mobile.qml:301
+#, kde-format
+msgid "Add to homescreen"
+msgstr "Thêm vào màn hình chính"
+
+#: src/contents/ui/mobile.qml:311
+#, kde-format
+msgid "Open in app"
+msgstr "Mở trong ứng dụng"
+
+#: src/contents/ui/mobile.qml:319
+#, kde-format
+msgid "Go previous"
+msgstr "Về trước"
+
+#: src/contents/ui/mobile.qml:327 src/settings/SettingsNavigationBarPage.qml:59
+#, kde-format
+msgid "Go forward"
+msgstr "Tiến lên"
+
+#: src/contents/ui/mobile.qml:334
+#, kde-format
+msgid "Stop loading"
+msgstr "Dừng tải"
+
+#: src/contents/ui/mobile.qml:334
+#, kde-format
+msgid "Refresh"
+msgstr "Cập nhật"
+
+#: src/contents/ui/mobile.qml:344
+#, kde-format
+msgid "Bookmarked"
+msgstr "Lưu dấu"
+
+#: src/contents/ui/mobile.qml:344
+#, kde-format
+msgid "Bookmark"
+msgstr "Dấu nhớ"
+
+#: src/contents/ui/mobile.qml:360
+#, kde-format
+msgid "Show desktop site"
+msgstr "Hiển thị trang web trên máy tính"
+
+#: src/contents/ui/mobile.qml:369
+#, kde-format
+msgid "Reader Mode"
+msgstr "Chế độ đọc"
+
+#: src/contents/ui/mobile.qml:377
+#, kde-format
+msgid "Hide navigation bar"
+msgstr "Ẩn thanh điều hướng"
+
+#: src/contents/ui/mobile.qml:377
+#, kde-format
+msgid "Show navigation bar"
+msgstr "Hiện thanh điều hướng"
+
+#: src/contents/ui/NewTabQuestion.qml:11
+#, kde-format
+msgid ""
+"Site wants to open a new tab: \n"
+"%1"
+msgstr "Trang web muốn mở một tab mới: \n%1"
+
+#: src/contents/ui/ShareSheet.qml:18
+#, kde-format
+msgid "Share page to"
+msgstr "Chia sẻ trang đến"
+
+#: src/main.cpp:82
+#, kde-format
+msgid "URL to open"
+msgstr "URL để mở"
+
+#: src/settings/AngelfishConfigurationView.qml:14
+#: src/settings/SettingsGeneral.qml:18
+#, kde-format
+msgid "General"
+msgstr "chung"
+
+#: src/settings/AngelfishConfigurationView.qml:20
+#, kde-format
+msgid "Ad Block"
+msgstr "Chặn quảng cáo"
+
+#: src/settings/AngelfishConfigurationView.qml:26
+#: src/settings/SettingsWebApps.qml:16
+#, kde-format
+msgid "Web Apps"
+msgstr "Ứng dụng web"
+
+#: src/settings/AngelfishConfigurationView.qml:32
+#: src/settings/SettingsSearchEnginePage.qml:17
+#: src/settings/SettingsSearchEnginePage.qml:112
+#, kde-format
+msgid "Search Engine"
+msgstr "Dụng cụ tìm kiếm"
+
+#: src/settings/AngelfishConfigurationView.qml:38
+#: src/settings/DesktopHomeSettingsPage.qml:15
+#, kde-format
+msgid "Toolbars"
+msgstr "thanh công cụ"
+
+#: src/settings/DesktopHomeSettingsPage.qml:24
+#, kde-format
+msgid "Show home button:"
+msgstr "Hiển thị nút trang chủ:"
+
+#: src/settings/DesktopHomeSettingsPage.qml:25
+#, kde-format
+msgid "The home button will be shown next to the reload button in the toolbar."
+msgstr "Nút trang chủ sẽ được hiển thị kế bên nút tải lại trong thanh công cụ."
+
+#: src/settings/DesktopHomeSettingsPage.qml:35
+#, kde-format
+msgid "Homepage:"
+msgstr "Trang chủ:"
+
+#: src/settings/DesktopHomeSettingsPage.qml:58
+#, kde-format
+msgid "New tabs:"
+msgstr "Thẻ mới:"
+
+#: src/settings/DesktopHomeSettingsPage.qml:81
+#, kde-format
+msgid "Always show the tab bar"
+msgstr "Luôn hiển thị thanh thẻ"
+
+#: src/settings/DesktopHomeSettingsPage.qml:82
+#, kde-format
+msgid "The tab bar will be displayed even if there is only one tab open"
+msgstr "Thanh thẻ sẽ được hiển thị ngay cả khi chỉ có một thẻ mở"
+
+#: src/settings/SettingsAdblock.qml:16
+#, kde-format
+msgid "Adblock settings"
+msgstr "Thiết lập Adblock"
+
+#: src/settings/SettingsAdblock.qml:23
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "Add Filterlist"
+msgstr "Thêm danh sách bộ lọc"
+
+#: src/settings/SettingsAdblock.qml:27
+#, kde-format
+msgid "Update lists"
+msgstr "Cập nhật danh sách"
+
+#: src/settings/SettingsAdblock.qml:49
+#, kde-format
+msgid "The adblock functionality isn't included in this build."
+msgstr "Chức năng chặn quảng cáo không được bao gồm trong bản dựng này."
+
+#: src/settings/SettingsAdblock.qml:100
+#, kde-format
+msgid "Remove this filter list"
+msgstr "Xoá danh sách bộ lọc này"
+
+#: src/settings/SettingsAdblock.qml:112
+#, kde-format
+msgid "Add Filterlist"
+msgstr "Thêm danh sách bộ lọc"
+
+#: src/settings/SettingsAdblock.qml:124
+#, kde-format
+msgid "Add filterlist"
+msgstr "Thêm danh sách bộ lọc"
+
+#: src/settings/SettingsAdblock.qml:129
+#, kde-format
+msgid "Name"
+msgstr "Tên"
+
+#: src/settings/SettingsAdblock.qml:138
+#, kde-format
+msgid "Url"
+msgstr "URL"
+
+#: src/settings/SettingsGeneral.qml:27
+#, kde-format
+msgid "Enable JavaScript"
+msgstr "Bật JavaScript"
+
+#: src/settings/SettingsGeneral.qml:28
+#, kde-format
+msgid "This may be required on certain websites for them to work."
+msgstr "Điều này có thể được yêu cầu trên một số trang web để chúng hoạt động."
+
+#: src/settings/SettingsGeneral.qml:37
+#, kde-format
+msgid "Load images"
+msgstr "Tải hình ảnh"
+
+#: src/settings/SettingsGeneral.qml:38
+#, kde-format
+msgid "Whether to load images on websites."
+msgstr "Có tải hình ảnh trên các trang web hay không."
+
+#: src/settings/SettingsGeneral.qml:47
+#, kde-format
+msgid "Enable adblock"
+msgstr "Bật chặn quảng cáo"
+
+#: src/settings/SettingsGeneral.qml:48
+#, kde-format
+msgid "Attempts to prevent advertisements on websites from showing."
+msgstr "Cố gắng ngăn chặn quảng cáo trên các trang web hiển thị."
+
+#: src/settings/SettingsGeneral.qml:48
+#, kde-format
+msgid "AdBlock functionality was not included in this build."
+msgstr "Chức năng AdBlock không được bao gồm trong bản dựng này."
+
+#: src/settings/SettingsGeneral.qml:58
+#, kde-format
+msgid "Switch to new tab immediately"
+msgstr "Chuyển sang thẻ mới ngay lập tức"
+
+#: src/settings/SettingsGeneral.qml:59
+#, kde-format
+msgid ""
+"When you open a link, image or media in a new tab, switch to it immediately"
+msgstr ""
+"Khi bạn mở một liên kết, ảnh hoặc phương tiện trong một tab mới, chuyển đến "
+"nó ngay lập tức"
+
+#: src/settings/SettingsGeneral.qml:68
+#, kde-format
+msgid "Use Smooth Scrolling"
+msgstr "Sử dụng cuộn mượt mà"
+
+#: src/settings/SettingsGeneral.qml:69
+#, kde-format
+msgid ""
+"Scrolling is smoother and will not stop suddenly when you stop scrolling. "
+"Requires app restart to take effect."
+msgstr ""
+"Cuộn sẽ mượt mà hơn và không dừng đột ngột khi bạn ngừng cuộn. Yêu cầu khởi "
+"động lại ứng dụng để có hiệu lực."
+
+#: src/settings/SettingsGeneral.qml:78
+#, kde-format
+msgid "Use dark color scheme"
+msgstr "Sử dụng quy hoạch màu tối"
+
+#: src/settings/SettingsGeneral.qml:79
+#, kde-format
+msgid ""
+"Websites will have their color schemes set to dark. Requires app restart to "
+"take effect."
+msgstr ""
+"Các trang web sẽ có bảng màu tối. Yêu cầu khởi động lại ứng dụng để có hiệu "
+"lực."
+
+#: src/settings/SettingsNavigationBarPage.qml:18
+#, kde-format
+msgid "Navigation bar"
+msgstr "Thanh điều hướng"
+
+#: src/settings/SettingsNavigationBarPage.qml:26
+#, kde-format
+msgid ""
+"Choose the buttons enabled in navigation bar. Some of the buttons can be "
+"hidden only in portrait orientation of the browser and are always shown if "
+"the browser is wider than its height.\n"
+"\n"
+" Note that if you disable the menu buttons, you will be able to access the "
+"menus either by swiping from the left or right side or to a side along the "
+"bottom of the window."
+msgstr ""
+"Chọn các nút được bật trong thanh điều hướng. Một số nút có thể chỉ được ẩn "
+"khi màn hình ở chế độ dọc và luôn hiển thị nếu trình duyệt rộng hơn chiều "
+"cao.\n\nLưu ý rằng nếu bạn tắt các nút trình đơn, bạn vẫn có thể truy cập "
+"các trình đơn bằng cách vuốt từ cạnh trái hoặc phải hoặc dọc theo phía dưới "
+"cửa sổ."
+
+#: src/settings/SettingsNavigationBarPage.qml:35
+#, kde-format
+msgid "Main menu in portrait"
+msgstr "Trình đơn chính ở chế độ dọc"
+
+#: src/settings/SettingsNavigationBarPage.qml:41
+#, kde-format
+msgid "Tabs in portrait"
+msgstr "Các tab ở chế độ dọc"
+
+#: src/settings/SettingsNavigationBarPage.qml:47
+#, kde-format
+msgid "Context menu in portrait"
+msgstr "Trình đơn ngữ cảnh ở chế độ dọc"
+
+#: src/settings/SettingsNavigationBarPage.qml:53
+#, kde-format
+msgid "Go back"
+msgstr "Quay lại"
+
+#: src/settings/SettingsNavigationBarPage.qml:65
+#, kde-format
+msgid "Reload/Stop"
+msgstr "Tải lại/Dừng"
+
+#: src/settings/SettingsSearchEnginePage.qml:20
+#, kde-format
+msgid "Custom"
+msgstr "Tự chọn"
+
+#: src/settings/SettingsSearchEnginePage.qml:117
+#, kde-format
+msgid "Base URL of your preferred search engine"
+msgstr "URL cơ sở của dụng cụ tìm kiếm ưa thích của bạn"
+
+#: src/settings/SettingsWebApps.qml:73
+#, kde-format
+msgid "Remove app"
+msgstr "Xoá ứng dụng"
+
+#: src/settings/SettingsWebApps.qml:85
+#, kde-format
+msgctxt "placeholder message"
+msgid "No Web Apps installed"
+msgstr "Không có ứng dụng web nào được cài đặt"

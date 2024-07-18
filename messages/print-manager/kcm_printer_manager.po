@@ -1,0 +1,789 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the print-manager package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: print-manager\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-06 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: printermanager.cpp:254
+#, kde-format
+msgctxt "@info"
+msgid "Failed to configure class: "
+msgstr "Không thể cấu hình lớp:"
+
+#: printermanager.cpp:254
+#, kde-format
+msgctxt "@info"
+msgid "Failed to configure printer: "
+msgstr "Không thể cấu hình máy in:"
+
+#: printermanager.cpp:421
+#, kde-format
+msgid "Failed to perform request: %1"
+msgstr "Không thể thực hiện yêu cầu: %1"
+
+#: printermanager.cpp:473
+#, kde-format
+msgctxt "@info"
+msgid "Failed to get server settings: %1"
+msgstr "Không thể lấy cài đặt máy chủ: %1"
+
+#: printermanager.cpp:509
+#, kde-format
+msgctxt "@info"
+msgid "Server Settings Not Saved: (%1): %2"
+msgstr "Thiết lập máy chủ không được lưu: (%1): %2"
+
+#: printermanager.cpp:516
+#, kde-format
+msgctxt "@info"
+msgid "Fatal Save Server Settings: (%1): %2"
+msgstr "Lỗi Lưu Cài Đặt Máy Chủ: (%1): %2"
+
+#: printermanager.cpp:568
+#, kde-format
+msgid "Print Self-Test Page"
+msgstr "In trang kiểm tra tự động"
+
+#: printermanager.cpp:574
+#, kde-format
+msgid "Clean Print Heads"
+msgstr "Làm sạch đầu in"
+
+#: scpinstaller.cpp:70
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Install Error (package: %1)\n"
+"Check authentication credentials and make sure PackageKit is installed "
+"properly."
+msgstr ""
+"Lỗi cài đặt (gói: %1)\nKiểm tra thông tin xác thực và đảm bảo PackageKit "
+"được cài đặt đúng cách."
+
+#: ui/components/AddressExamples.qml:28
+#, kde-format
+msgctxt "@info:usagetip"
+msgid "Example Addresses"
+msgstr "Địa chỉ ví dụ"
+
+#: ui/components/BaseDevice.qml:111
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Address:"
+msgstr "Địa chỉ:"
+
+#: ui/components/BaseDevice.qml:121
+#, kde-format
+msgctxt "@info The printer/device address"
+msgid "Enter device address"
+msgstr "Nhập địa chỉ thiết bị"
+
+#: ui/components/Direct.qml:23
+#, kde-format
+msgctxt "@info:usagetip"
+msgid "Choose a device connection"
+msgstr "Chọn kết nối thiết bị"
+
+#: ui/components/Drivers.qml:39
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid ""
+"Unable to locate recommended drivers.  Click <interface>Refresh</interface> "
+"to try again or choose a driver manually."
+msgstr ""
+"Không thể tìm thấy trình điều khiển được đề xuất. Bấm <interface>Làm "
+"mới</interface> để thử lại hoặc chọn trình điều khiển thủ công."
+
+#: ui/components/Drivers.qml:47
+#, kde-format
+msgctxt "@action:button"
+msgid "Choose Driverless…"
+msgstr "Chọn không cần trình điều khiển..."
+
+#: ui/components/Drivers.qml:52
+#, kde-format
+msgctxt "@action:button"
+msgid "Choose Driver…"
+msgstr "Chọn trình điều khiển..."
+
+#: ui/components/Drivers.qml:87
+#, kde-format
+msgctxt "@action:button"
+msgid "Select Recommended Driver"
+msgstr "Chọn Trình điều khiển Được Khuyến nghị"
+
+#: ui/components/Drivers.qml:92
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Recommended drivers are based on printer make/model and connection type"
+msgstr ""
+"Các trình điều khiển được khuyến nghị dựa trên nhãn hiệu/mẫu máy in và kiểu "
+"kết nối"
+
+#: ui/components/Drivers.qml:130
+#, kde-format
+msgctxt "@label:listitem"
+msgid "Driverless (%1)"
+msgstr "Không cần lái (%1)"
+
+#: ui/components/Drivers.qml:132
+#, kde-format
+msgctxt "@label:listitem"
+msgid "PPD File (%1)"
+msgstr "Tệp PPD (%1)"
+
+#: ui/components/Lpd.qml:20
+#, kde-format
+msgctxt "@title:group"
+msgid "Line Printer Daemon (LPD) Protocol"
+msgstr "Giao thức Trình nền Máy in Dòng (LPD)"
+
+#: ui/components/Lpd.qml:21
+#, kde-format
+msgctxt "@info:usagetip"
+msgid "Enter the address of the LPD device"
+msgstr "Nhập địa chỉ của thiết bị LPD"
+
+#: ui/components/Lpd.qml:61
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Queue:"
+msgstr "Hàng đợi:"
+
+#: ui/components/Lpd.qml:66
+#, kde-format
+msgctxt "@info:placeholder The LPD device queue name"
+msgid "LPD queue name"
+msgstr "Tên hàng đợi thiết bị LPD"
+
+#: ui/components/Lpd.qml:73 ui/components/ManualUri.qml:81
+#: ui/components/Socket.qml:47
+#, kde-format
+msgctxt "@action:button"
+msgid "Continue with Address…"
+msgstr "Tiếp tục với Địa chỉ..."
+
+#: ui/components/Lpd.qml:90
+#, kde-format
+msgctxt "@info:status"
+msgid "Invalid LPD URL: %1"
+msgstr "URL LPD không hợp lệ: %1"
+
+#: ui/components/ManualUri.qml:21
+#, kde-format
+msgctxt "@title:group"
+msgid "Find remote printing devices"
+msgstr "Tìm thiết bị in từ xa"
+
+#: ui/components/ManualUri.qml:22
+#, kde-format
+msgctxt "@info:usagetip"
+msgid "Enter the address of the remote host/device"
+msgstr "Nhập địa chỉ của máy chủ/thiết bị từ xa"
+
+#: ui/components/ManualUri.qml:56
+#, kde-format
+msgctxt "@info:status"
+msgid "No Printers found at host: %1"
+msgstr "Không tìm thấy máy in nào tại máy chủ: %1"
+
+#: ui/components/ManualUri.qml:61
+#, kde-format
+msgctxt "@info:status"
+msgid "CUPS request error (%1): %2"
+msgstr "Lỗi yêu cầu CUPS (%1): %2"
+
+#: ui/components/ManualUri.qml:71
+#, kde-format
+msgctxt "@action:button"
+msgid "Select Printer…"
+msgstr "Chọn máy in..."
+
+#: ui/components/ManualUri.qml:92
+#, kde-kuit-format
+msgctxt "@info:whatsthis"
+msgid ""
+"If the printer address is known, enter it and choose <interface>Continue</"
+"interface>."
+msgstr ""
+"Nếu biết địa chỉ máy in, hãy nhập vào và chọn <interface>Tiếp "
+"tục</interface>."
+
+#: ui/components/NotAvailable.qml:19
+#, kde-format
+msgctxt "@info:status"
+msgid "This feature is not yet available (%1)"
+msgstr "Tính năng này chưa khả dụng (%1)"
+
+#: ui/components/Socket.qml:17
+#, kde-format
+msgctxt "@title:group"
+msgid "AppSocket Protocol (aka JetDirect)"
+msgstr "Giao thức AppSocket (còn gọi là JetDirect)"
+
+#: ui/components/Socket.qml:18
+#, kde-format
+msgctxt "@info:usagetip"
+msgid "Enter the address of the AppSocket device"
+msgstr "Nhập địa chỉ của thiết bị AppSocket"
+
+#: ui/components/Socket.qml:63
+#, kde-format
+msgid "Invalid Socket URL: %1"
+msgstr "Địa chỉ URL ổ cắm không hợp lệ: %1"
+
+#: ui/FindPrinter.qml:86
+#, kde-format
+msgctxt "@title:window"
+msgid "Set up a Printer Connection"
+msgstr "Thiết lập kết nối máy in"
+
+#: ui/FindPrinter.qml:93
+#, kde-format
+msgctxt "@action:button"
+msgid "Show Detected Devices"
+msgstr "Hiển thị các thiết bị đã phát hiện"
+
+#: ui/FindPrinter.qml:94
+#, kde-format
+msgctxt "@action:button"
+msgid "Show Manual Options"
+msgstr "Hiện Tùy Chọn Sổ Tay"
+
+#: ui/FindPrinter.qml:113
+#, kde-format
+msgid "Refresh"
+msgstr "Cập nhật"
+
+#: ui/FindPrinter.qml:124
+#, kde-format
+msgid "CUPS Network Printers Help"
+msgstr "Trợ giúp Máy in Mạng CUPS"
+
+#: ui/FindPrinter.qml:183
+#, kde-format
+msgctxt "@info:status"
+msgid "Unable to automatically discover any printing devices"
+msgstr "Không thể tự động phát hiện bất kỳ thiết bị in nào"
+
+#: ui/FindPrinter.qml:184
+#, kde-format
+msgctxt "@info:usagetip"
+msgid ""
+"Choose \"Refresh\" to try again or choose a manual configuration option from "
+"the list"
+msgstr ""
+"Chọn \"Làm mới\" để thử lại hoặc chọn một tùy chọn cấu hình thủ công từ "
+"danh sách"
+
+#: ui/FindPrinter.qml:193
+#, kde-format
+msgctxt "@info:usagetip"
+msgid "Choose a manual configuration option from the list"
+msgstr "Chọn một tùy chọn cấu hình thủ công từ danh sách"
+
+#: ui/Global.qml:16
+#, kde-format
+msgctxt "@title:window"
+msgid "CUPS Server Settings"
+msgstr "Thiết lập Máy chủ CUPS"
+
+#: ui/Global.qml:23
+#, kde-format
+msgctxt "@action:button"
+msgid "CUPS Print Server Admin"
+msgstr "Quản trị máy chủ In CUPS"
+
+#: ui/Global.qml:30
+#, kde-format
+msgctxt "@action:button Reset to current settings"
+msgid "Reset"
+msgstr "Đặt lại"
+
+#: ui/Global.qml:36
+#, kde-format
+msgctxt "@action:button Apply new settings"
+msgid "Apply"
+msgstr "Áp dụng"
+
+#: ui/Global.qml:88
+#, kde-format
+msgid "Please wait while the CUPS server restarts"
+msgstr "Vui lòng chờ trong khi máy chủ CUPS khởi động lại"
+
+#: ui/Global.qml:126
+#, kde-format
+msgctxt "@option:check"
+msgid "Share printers connected to this system"
+msgstr "Chia sẻ máy in được kết nối với hệ thống này"
+
+#: ui/Global.qml:138
+#, kde-format
+msgctxt "@option:check"
+msgid "Allow printing from the Internet"
+msgstr "Cho phép in từ Internet"
+
+#: ui/Global.qml:144
+#, kde-format
+msgctxt "@option:check"
+msgid "Allow remote administration"
+msgstr "Cho phép quản trị từ xa"
+
+#: ui/Global.qml:149
+#, kde-format
+msgctxt "@option:check"
+msgid "Allow users to cancel any job (not just their own)"
+msgstr "Cho phép người dùng huỷ bất kỳ công việc nào (không chỉ công việc của họ)"
+
+#: ui/InstallDialog.qml:14
+#, kde-format
+msgctxt "@title:window"
+msgid "Printer Setup Helpers"
+msgstr "Trợ giúp thiết lập máy in"
+
+#: ui/InstallDialog.qml:70
+#, kde-format
+msgctxt "@info:status"
+msgid "Install has completed successfully"
+msgstr "Cài đặt đã hoàn thành thành công"
+
+#: ui/InstallDialog.qml:72
+#, kde-format
+msgctxt "@info:status"
+msgid "Installation failed"
+msgstr "Cài đặt không thành công"
+
+#: ui/InstallDialog.qml:74
+#, kde-format
+msgctxt "@info:status"
+msgid "Installing…"
+msgstr "Đang cài đặt..."
+
+#: ui/InstallDialog.qml:90
+#, kde-format
+msgctxt "@info:usagetip"
+msgid "Report this issue to %1"
+msgstr "Báo cáo vấn đề này cho %1"
+
+#: ui/main.qml:29
+#, kde-format
+msgid "new_queue"
+msgstr "hàng đợi mới"
+
+#: ui/main.qml:29
+#, kde-format
+msgid "new_group"
+msgstr "nhóm mới"
+
+#: ui/main.qml:69
+#, kde-kuit-format
+msgctxt "@info:usagetip"
+msgid ""
+"A printer support package that provides convenience features does not appear "
+"to be installed.<nl/><nl/>Because this distro does not include PackageKit, "
+"we cannot provide an install option, so you will have to use your package "
+"manager to install the <command>system-config-printer</command> package "
+"manually."
+msgstr ""
+"Một gói hỗ trợ máy in cung cấp các tính năng tiện ích dường như chưa được "
+"cài đặt.<nl/><nl/>Vì bản phân phối này không bao gồm PackageKit, chúng tôi "
+"không thể cung cấp tùy chọn cài đặt, vì vậy bạn sẽ phải sử dụng trình quản "
+"lý gói của mình để cài đặt gói <command>system-config-printer</command> "
+"theo cách thủ công."
+
+#: ui/main.qml:71
+#, kde-format
+msgctxt "@info:usagetip"
+msgid ""
+"A printer support package that provides convenience features does not appear "
+"to be installed."
+msgstr ""
+"Gói hỗ trợ máy in cung cấp các tính năng tiện lợi dường như chưa được cài "
+"đặt."
+
+#: ui/main.qml:77
+#, kde-format
+msgctxt "@action:button Install printer setup helper package"
+msgid "Install It"
+msgstr "Cài đặt"
+
+#: ui/main.qml:108
+#, kde-format
+msgctxt "@action:button The thing being added is a printer"
+msgid "Add…"
+msgstr "Thêm..."
+
+#: ui/main.qml:109
+#, kde-format
+msgctxt "@action:button"
+msgid "Add Printer…"
+msgstr "Thêm máy in..."
+
+#: ui/main.qml:118
+#, kde-format
+msgctxt "@action:button"
+msgid "Add Group…"
+msgstr "Thêm Nhóm..."
+
+#: ui/main.qml:127
+#, kde-format
+msgctxt "@action:button"
+msgid "Configure Print Server…"
+msgstr "Cấu hình Máy chủ In..."
+
+#: ui/main.qml:232
+#, kde-format
+msgctxt "@info:status"
+msgid "No printers are currently set up"
+msgstr "Hiện không có máy in nào được thiết lập"
+
+#: ui/main.qml:233
+#, kde-kuit-format
+msgctxt "@info:usagetip"
+msgid ""
+"Click <interface>Add Printer…</interface> to set up a new printer on this "
+"computer"
+msgstr ""
+"Bấm <interface>Thêm máy in…</interface> để thiết lập máy in mới trên máy "
+"tính này"
+
+#: ui/main.qml:243
+#, kde-format
+msgid "Printers"
+msgstr "Máy in"
+
+#: ui/main.qml:243
+#, kde-format
+msgid "Printer Groups"
+msgstr "Nhóm máy in"
+
+#: ui/main.qml:281
+#, kde-format
+msgctxt "@action:button"
+msgid "Configure…"
+msgstr "Cấu hình..."
+
+#: ui/main.qml:302
+#, kde-format
+msgctxt "@action:button"
+msgid "Open Print Queue…"
+msgstr "Mở Hàng Đợi In..."
+
+#: ui/main.qml:319
+#, kde-format
+msgctxt "@action:button Resume printing"
+msgid "Resume"
+msgstr "Tiếp tục"
+
+#: ui/main.qml:320
+#, kde-format
+msgctxt "@action:button Pause printing"
+msgid "Pause"
+msgstr "Tạm dừng"
+
+#: ui/main.qml:334
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Resume printing"
+msgstr "Tiếp tục in"
+
+#: ui/main.qml:335
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Pause printing"
+msgstr "Tạm dừng in"
+
+#: ui/MakeModel.qml:87
+#, kde-format
+msgctxt "@title:window"
+msgid "Select a printer make/model"
+msgstr "Chọn một nhãn hiệu/mẫu máy in"
+
+#: ui/MakeModel.qml:89
+#, kde-format
+msgctxt "@title:window"
+msgid "Printer Driver (%1)"
+msgstr "Trình điều khiển máy in (%1)"
+
+#: ui/MakeModel.qml:96
+#, kde-format
+msgctxt "@title:window"
+msgid "Printer Driver"
+msgstr "Trình điều khiển máy in"
+
+#: ui/MakeModel.qml:143
+#, kde-format
+msgid "Save"
+msgstr "Lưu"
+
+#: ui/MakeModel.qml:148
+#, kde-format
+msgid "Select a PostScript Printer Description (PPD) file"
+msgstr "Chọn một tệp mô tả máy in PostScript (PPD)"
+
+#: ui/MakeModel.qml:155
+#, kde-format
+msgid "Printer model is required.  Please select a printer model."
+msgstr "Cần phải có mẫu máy in. Vui lòng bôi đen một mẫu máy in."
+
+#: ui/MakeModel.qml:212
+#, kde-format
+msgctxt "@option:radio"
+msgid "Select Make and Model:"
+msgstr "Chọn Hãng và Mẫu:"
+
+#: ui/MakeModel.qml:224
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Filter Models"
+msgstr "Lọc Mẫu"
+
+#: ui/MakeModel.qml:319
+#, kde-format
+msgctxt "@option:radio"
+msgid "PPD file:"
+msgstr "Tệp PPD:"
+
+#: ui/MakeModel.qml:338
+#, kde-format
+msgctxt "@action:button"
+msgid "Select PPD File…"
+msgstr "Chọn tệp PPD..."
+
+#: ui/MakeModel.qml:346
+#, kde-format
+msgid "Select"
+msgstr "Bôi đen"
+
+#: ui/MakeModel.qml:347
+#, kde-format
+msgid "PostScript Printer Description Files (*.ppd)"
+msgstr "Tệp Mô tả Máy in PostScript (*.ppd)"
+
+#: ui/PrinterSettings.qml:49
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Group"
+msgstr "Thêm Nhóm"
+
+#: ui/PrinterSettings.qml:50
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Printer"
+msgstr "Thêm máy in"
+
+#: ui/PrinterSettings.qml:61
+#, kde-format
+msgid "Configure…"
+msgstr "Cấu hình..."
+
+#: ui/PrinterSettings.qml:66
+#, kde-format
+msgid "Remove"
+msgstr "Xoá"
+
+#: ui/PrinterSettings.qml:83
+#, kde-format
+msgctxt "@action:button"
+msgid "CUPS Printers Overview Help"
+msgstr "Trợ giúp Tổng quan về Máy in CUPS"
+
+#: ui/PrinterSettings.qml:89
+#, kde-format
+msgctxt "@action:button"
+msgid "Printer/Device Admin Page"
+msgstr "Trang quản trị máy in/thiết bị"
+
+#: ui/PrinterSettings.qml:107
+#, kde-format
+msgctxt "@action:button Add printer"
+msgid "Add"
+msgstr "Thêm"
+
+#: ui/PrinterSettings.qml:108
+#, kde-format
+msgctxt "@action:button Apply changes"
+msgid "Apply"
+msgstr "Áp dụng"
+
+#: ui/PrinterSettings.qml:116
+#, kde-format
+msgctxt "@info:status"
+msgid "Queue name is required. Enter a unique queue name."
+msgstr "Tên hàng đợi là bắt buộc. Nhập một tên hàng đợi duy nhất."
+
+#: ui/PrinterSettings.qml:121
+#, kde-format
+msgctxt "@info:status"
+msgid "Queue name must be unique. Enter a unique queue name."
+msgstr "Tên hàng đợi phải là duy nhất. Nhập tên hàng đợi duy nhất."
+
+#: ui/PrinterSettings.qml:129
+#, kde-format
+msgctxt "@info:status"
+msgid "Make/Model is required. Choose \"Select\" to pick Make/Model"
+msgstr "Yêu cầu Nhãn hiệu/Mẫu mã. Chọn \"Chọn\" để chọn Nhãn hiệu/Mẫu mã"
+
+#: ui/PrinterSettings.qml:139
+#, kde-format
+msgctxt "@info:status"
+msgid "Configuring %1, please wait…."
+msgstr "Đang cấu hình %1, vui lòng chờ..."
+
+#: ui/PrinterSettings.qml:180
+#, kde-format
+msgid "Failed to remove the printer: %1"
+msgstr "Không thể xoá máy in: %1"
+
+#: ui/PrinterSettings.qml:201
+#, kde-format
+msgctxt "@title:window"
+msgid "Remove Group?"
+msgstr "Xoá Nhóm?"
+
+#: ui/PrinterSettings.qml:202
+#, kde-format
+msgctxt "@title:window"
+msgid "Remove Printer?"
+msgstr "Xoá Máy In?"
+
+#: ui/PrinterSettings.qml:204
+#, kde-format
+msgctxt "@info %1 is the name of a printer or printer group"
+msgid "'%1' will be removed."
+msgstr "'%1' sẽ bị xóa."
+
+#: ui/PrinterSettings.qml:211
+#, kde-format
+msgctxt "@action:button"
+msgid "Remove Group"
+msgstr "Xoá Nhóm"
+
+#: ui/PrinterSettings.qml:212
+#, kde-format
+msgctxt "@action:button"
+msgid "Remove Printer"
+msgstr "Xoá Máy In"
+
+#: ui/PrinterSettings.qml:221
+#, kde-format
+msgid "Cancel"
+msgstr "Huỷ"
+
+#: ui/PrinterSettings.qml:389
+#, kde-format
+msgctxt "@info:status This is the default printer"
+msgid "** Default Printer"
+msgstr "** Máy in mặc định"
+
+#: ui/PrinterSettings.qml:395
+#, kde-format
+msgctxt "@action:check Set default printer"
+msgid "Default printer"
+msgstr "Máy in mặc định"
+
+#: ui/PrinterSettings.qml:410
+#, kde-format
+msgctxt "@action:check"
+msgid "Share this group"
+msgstr "Chia sẻ nhóm này"
+
+#: ui/PrinterSettings.qml:411
+#, kde-format
+msgctxt "@action:check"
+msgid "Share this printer"
+msgstr "Chia sẻ máy in này"
+
+#: ui/PrinterSettings.qml:418
+#, kde-format
+msgctxt "@action:check"
+msgid "Accepting print jobs"
+msgstr "Chấp nhận các công việc in"
+
+#: ui/PrinterSettings.qml:467
+#, kde-format
+msgctxt "@action:button"
+msgid "Print Test Page"
+msgstr "In Trang Kiểm Thử"
+
+#: ui/PrinterSettings.qml:473
+#, kde-format
+msgctxt "@action:button"
+msgid "Print Self-Test Page"
+msgstr "In trang kiểm tra"
+
+#: ui/PrinterSettings.qml:480
+#, kde-format
+msgctxt "@action:button"
+msgid "Clean Print Heads"
+msgstr "Làm sạch đầu in"
+
+#: ui/PrinterSettings.qml:500
+#, kde-format
+msgctxt "@action:button"
+msgid "Find a Printer…"
+msgstr "Tìm một máy in..."
+
+#: ui/PrinterSettings.qml:508
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Queue Name:"
+msgstr "Tên hàng đợi:"
+
+#: ui/PrinterSettings.qml:525
+#, kde-kuit-format
+msgctxt "@info:whatsthis"
+msgid ""
+"A <interface>printer group</interface> is used to pool printing resources."
+msgstr ""
+"Một <interface>nhóm máy in</interface> được sử dụng để gộp các tài nguyên "
+"in ấn."
+
+#: ui/PrinterSettings.qml:533
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Description:"
+msgstr "Mô tả:"
+
+#: ui/PrinterSettings.qml:545
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Location:"
+msgstr "Vị trí:"
+
+#: ui/PrinterSettings.qml:557
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Connection:"
+msgstr "Kết nối:"
+
+#: ui/PrinterSettings.qml:571
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Member Printers:"
+msgstr "Máy in thành viên:"
+
+#: ui/PrinterSettings.qml:708
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Make/Model:"
+msgstr "Nhãn hiệu/Mẫu mã:"
+
+#: ui/PrinterSettings.qml:723
+#, kde-format
+msgctxt "@action:button Select printer make/model"
+msgid "Select…"
+msgstr "Chọn..."

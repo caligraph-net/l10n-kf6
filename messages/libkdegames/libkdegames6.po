@@ -1,0 +1,643 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the libkdegames package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: libkdegames\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-15 00:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: highscore/kgamehighscore.cpp:154
+#, kde-format
+msgctxt "@action:button"
+msgid "Retry"
+msgstr "Thử lại"
+
+#: highscore/kgamehighscore.cpp:156
+#, kde-format
+msgid ""
+"Cannot access the highscore file. Another user is probably currently writing "
+"to it."
+msgstr "Không thể truy cập tệp điểm cao. Có lẽ người dùng khác đang ghi vào nó."
+
+#: highscore/kgamehighscoredialog.cpp:100
+#, kde-format
+msgctxt "@title:window"
+msgid "High Scores"
+msgstr "Điểm cao"
+
+#: highscore/kgamehighscoredialog.cpp:114
+#, kde-format
+msgctxt "@title:column"
+msgid "Name"
+msgstr "Tên"
+
+#: highscore/kgamehighscoredialog.cpp:116
+#, kde-format
+msgctxt "@title:column"
+msgid "Date"
+msgstr "Ngày"
+
+#: highscore/kgamehighscoredialog.cpp:118
+#, kde-format
+msgctxt "@title:column"
+msgid "Level"
+msgstr "Cấp độ"
+
+#: highscore/kgamehighscoredialog.cpp:120
+#, kde-format
+msgctxt "@title:column"
+msgid "Score"
+msgstr "Điểm"
+
+#: highscore/kgamehighscoredialog.cpp:122
+#, kde-format
+msgctxt "@title:column"
+msgid "Time"
+msgstr "Thời gian"
+
+#: highscore/kgamehighscoredialog.cpp:271
+#, kde-format
+msgctxt "@title:tab"
+msgid "High Scores"
+msgstr "Điểm cao"
+
+#: highscore/kgamehighscoredialog.cpp:288
+#, kde-format
+msgctxt "@title:group"
+msgid "Rank"
+msgstr "Hạng"
+
+#: highscore/kgamehighscoredialog.cpp:309
+#, kde-format
+msgctxt "Enumeration (#1, #2 ...) of the highscore entries"
+msgid "#%1"
+msgstr "#%1"
+
+#: highscore/kgamehighscoredialog.cpp:548
+#, kde-format
+msgctxt "@action:button"
+msgid "&Remember"
+msgstr "&Ghi nhớ"
+
+#: highscore/kgamehighscoredialog.cpp:549
+#, kde-format
+msgctxt "@action:button"
+msgid "&Forget"
+msgstr "Q&uên"
+
+#: highscore/kgamehighscoredialog.cpp:550
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Remember this high score"
+msgstr "Ghi nhớ điểm cao này"
+
+#: highscore/kgamehighscoredialog.cpp:551
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Forget this high score"
+msgstr "Quên điểm cao này"
+
+#: highscore/kgamehighscoredialog.cpp:559
+#, kde-format
+msgid ""
+"Excellent!\n"
+"You have a new high score!"
+msgstr "Tuyệt vời!\nBạn đã đạt được điểm cao mới!"
+
+#: highscore/kgamehighscoredialog.cpp:561
+#, kde-format
+msgid ""
+"Well done!\n"
+"You made it to the high score list!"
+msgstr "Tuyệt vời!\nBạn đã lọt vào danh sách điểm cao!"
+
+#: kgamedifficulty.cpp:76
+#, kde-format
+msgctxt "Game difficulty level 1 out of 8"
+msgid "Ridiculously Easy"
+msgstr "Cực kỳ Dễ"
+
+#: kgamedifficulty.cpp:79
+#, kde-format
+msgctxt "Game difficulty level 2 out of 8"
+msgid "Very Easy"
+msgstr "Rất dễ"
+
+#: kgamedifficulty.cpp:82
+#, kde-format
+msgctxt "Game difficulty level 3 out of 8"
+msgid "Easy"
+msgstr "Dễ"
+
+#: kgamedifficulty.cpp:85
+#, kde-format
+msgctxt "Game difficulty level 4 out of 8"
+msgid "Medium"
+msgstr "Trung bình"
+
+#: kgamedifficulty.cpp:88
+#, kde-format
+msgctxt "Game difficulty level 5 out of 8"
+msgid "Hard"
+msgstr "Khó"
+
+#: kgamedifficulty.cpp:91
+#, kde-format
+msgctxt "Game difficulty level 6 out of 8"
+msgid "Very Hard"
+msgstr "Rất khó"
+
+#: kgamedifficulty.cpp:94
+#, kde-format
+msgctxt "Game difficulty level 7 out of 8"
+msgid "Extremely Hard"
+msgstr "Cực kỳ khó"
+
+#: kgamedifficulty.cpp:97
+#, kde-format
+msgctxt "Game difficulty level 8 out of 8"
+msgid "Impossible"
+msgstr "Không thể"
+
+#: kgamedifficulty.cpp:316
+#, kde-format
+msgid "Changing the difficulty level will end the current game!"
+msgstr "Thay đổi mức độ khó sẽ kết thúc trò chơi hiện tại!"
+
+#: kgamedifficulty.cpp:318
+#, kde-format
+msgctxt "@action:button"
+msgid "Change the Difficulty Level"
+msgstr "Thay đổi mức độ khó"
+
+#: kgamedifficulty.cpp:402
+#, kde-format
+msgctxt "@info:tooltip Game difficulty level"
+msgid "Difficulty"
+msgstr "Độ khó"
+
+#: kgamedifficulty.cpp:410
+#, kde-format
+msgctxt "@title:menu Game difficulty level"
+msgid "Difficulty"
+msgstr "Độ khó"
+
+#: kgamedifficulty.cpp:411
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Set the difficulty level"
+msgstr "Đặt mức độ khó"
+
+#: kgamedifficulty.cpp:412
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Sets the difficulty level of the game."
+msgstr "Đặt mức độ khó của trò chơi."
+
+#: kgamestandardaction.cpp:68
+msgctxt "new game"
+msgid "&New"
+msgstr "&Mới"
+
+#: kgamestandardaction.cpp:68
+msgid "Start a new game."
+msgstr "Bắt đầu một trò chơi mới."
+
+#: kgamestandardaction.cpp:68
+msgid "Start a new game"
+msgstr "Bắt đầu một bàn chơi mới"
+
+#: kgamestandardaction.cpp:70
+msgid "&Load…"
+msgstr "Tả&i…"
+
+#: kgamestandardaction.cpp:70
+msgid "Open a saved game"
+msgstr "Mở một bàn chơi đã lưu"
+
+#: kgamestandardaction.cpp:72
+msgid "Load &Recent"
+msgstr "Tải &gần đây"
+
+#: kgamestandardaction.cpp:72
+msgid "Open a recently saved game"
+msgstr "Mở một bàn chơi đã lưu gần đây"
+
+#: kgamestandardaction.cpp:74
+msgid "Restart &Game"
+msgstr "Khởi độ&ng lại Bàn chơi"
+
+#: kgamestandardaction.cpp:74
+msgid "Restart the game"
+msgstr "Khởi động lại bàn chơi"
+
+#: kgamestandardaction.cpp:76
+msgid "&Save"
+msgstr "&Lưu"
+
+#: kgamestandardaction.cpp:76
+msgid "Save the current game"
+msgstr "Lưu bàn chơi hiện tại"
+
+#: kgamestandardaction.cpp:78
+msgid "Save &As…"
+msgstr "Lưu Với Tê&n..."
+
+#: kgamestandardaction.cpp:78
+msgid "Save the current game to another file"
+msgstr "Lưu bàn chơi hiện tại vào một tệp khác"
+
+#: kgamestandardaction.cpp:80
+msgid "&End Game"
+msgstr "Kết t&húc bàn chơi"
+
+#: kgamestandardaction.cpp:80
+msgid "End the current game"
+msgstr "Kết thúc bàn chơi hiện tại"
+
+#: kgamestandardaction.cpp:82
+msgid "Pa&use"
+msgstr "Tạm &dừng"
+
+#: kgamestandardaction.cpp:82
+msgid "Pause the game"
+msgstr "Tạm dừng bàn chơi"
+
+#: kgamestandardaction.cpp:84
+msgid "Show &High Scores"
+msgstr "&Hiển thị Điểm cao"
+
+#: kgamestandardaction.cpp:84
+msgid "Show high scores"
+msgstr "Hiển thị điểm cao"
+
+#: kgamestandardaction.cpp:86
+msgid "&Clear High Scores"
+msgstr "Làm trống Đ&iểm cao"
+
+#: kgamestandardaction.cpp:86
+msgid "Clear high scores"
+msgstr "Làm trống điểm cao"
+
+#: kgamestandardaction.cpp:88
+msgid "Show Statistics"
+msgstr "Hiện Thống Kê"
+
+#: kgamestandardaction.cpp:88
+msgid "Show statistics"
+msgstr "Hiển thị thống kê"
+
+#: kgamestandardaction.cpp:90
+msgid "&Clear Statistics"
+msgstr "Là&m trống Thống kê"
+
+#: kgamestandardaction.cpp:90
+msgid "Delete all-time statistics."
+msgstr "Xóa tất cả số liệu thống kê."
+
+#: kgamestandardaction.cpp:92
+msgid "&Print…"
+msgstr "I&n..."
+
+#: kgamestandardaction.cpp:94
+msgid "&Quit"
+msgstr "T&hoát"
+
+#: kgamestandardaction.cpp:94
+msgid "Quit the program"
+msgstr "Thoát khỏi chương trình"
+
+#: kgamestandardaction.cpp:98
+msgid "Repeat"
+msgstr "Lặp lại"
+
+#: kgamestandardaction.cpp:98
+msgid "Repeat the last move"
+msgstr "Lặp lại bước cuối cùng"
+
+#: kgamestandardaction.cpp:100
+msgid "Und&o"
+msgstr "đả&o ngược"
+
+#: kgamestandardaction.cpp:100
+msgid "Undo the last move"
+msgstr "Đảo ngược lại bước di chuyển cuối cùng"
+
+#: kgamestandardaction.cpp:102
+msgid "Re&do"
+msgstr "&làm lại"
+
+#: kgamestandardaction.cpp:102
+msgid "Redo the latest move"
+msgstr "Làm lại động tác gần đây nhất"
+
+#: kgamestandardaction.cpp:104
+msgid "&Roll Dice"
+msgstr "Lăn &xúc xắc"
+
+#: kgamestandardaction.cpp:104
+msgid "Roll the dice"
+msgstr "Lăn xúc xắc"
+
+#: kgamestandardaction.cpp:106
+msgid "End Turn"
+msgstr "Kết thúc lượt"
+
+#: kgamestandardaction.cpp:108
+msgid "&Hint"
+msgstr "&Gợi ý"
+
+#: kgamestandardaction.cpp:108
+msgid "Give a hint"
+msgstr "Cho gợi ý"
+
+#: kgamestandardaction.cpp:110
+msgid "&Demo"
+msgstr "&Demo"
+
+#: kgamestandardaction.cpp:110
+msgid "Play a demo"
+msgstr "Phát một demo"
+
+#: kgamestandardaction.cpp:112
+msgid "&Solve"
+msgstr "G&iải"
+
+#: kgamestandardaction.cpp:112
+msgid "Solve the game"
+msgstr "Giải quyết bàn chơi"
+
+#: kgamestandardaction.cpp:116
+msgid "Configure &Carddecks…"
+msgstr "&Cấu hình bộ bài..."
+
+#: kgamestandardaction.cpp:118
+msgid "Configure &High Scores…"
+msgstr "Cấu hình Đ&iểm cao..."
+
+#: kgamethemeselector.cpp:108
+#, kde-format
+msgctxt "@action:button"
+msgid "Download New Themes…"
+msgstr "Tải về Chủ đề Mới..."
+
+#: kgamethemeselector.cpp:210
+#, kde-format
+msgctxt "@title:window config dialog"
+msgid "Select theme"
+msgstr "Bôi đen chủ đề"
+
+#: kgamethemeselector.cpp:282
+#, kde-format
+msgctxt "@item name of theme, missing"
+msgid "[No name]"
+msgstr "[Không có tên]"
+
+#: kgamethemeselector.cpp:298
+#, kde-format
+msgctxt "@info author attribution"
+msgid "By %1"
+msgstr "Bởi %1"
+
+#: private/kchatbase.cpp:98
+#, kde-format
+msgid "Send to All Players"
+msgstr "Gửi cho tất cả người chơi"
+
+#: private/kchatbase.cpp:262 private/kgame/kgamechat.cpp:174
+#, kde-format
+msgid "Send to %1"
+msgstr "Gửi đến %1"
+
+#: private/kchatbaseitemdelegate.cpp:41 private/kchatbaseitemdelegate.cpp:43
+#: private/kchatbaseitemdelegate.cpp:60
+#, kde-format
+msgid "%1: "
+msgstr "%1: "
+
+#: private/kgame/kgame.cpp:69
+#, kde-format
+msgid "MaxPlayers"
+msgstr "Số người chơi tối đa"
+
+#: private/kgame/kgame.cpp:71
+#, kde-format
+msgid "MinPlayers"
+msgstr "Số lượng người chơi tối thiểu"
+
+#: private/kgame/kgame.cpp:73
+#, kde-format
+msgid "GameStatus"
+msgstr "Trạng thái trò chơi"
+
+#: private/kgame/kgamechat.cpp:81
+#, kde-format
+msgid "Player %1"
+msgstr "Người chơi %1"
+
+#: private/kgame/kgamechat.cpp:89
+#, kde-format
+msgctxt "Unknown player"
+msgid "Unknown"
+msgstr "không rõ"
+
+#: private/kgame/kgamechat.cpp:231
+#, kde-format
+msgid "Send to My Group (\"%1\")"
+msgstr "Gửi đến Nhóm của Tôi (\"%1\")"
+
+#: private/kgame/kgameerror.cpp:51
+#, kde-format
+msgid ""
+"Cookie mismatch!\n"
+"Expected Cookie: %1\n"
+"Received Cookie: %2"
+msgstr "Không khớp bánh quy!\nBánh quy dự kiến: %1\nBánh quy nhận được: %2"
+
+#: private/kgame/kgameerror.cpp:59
+#, kde-format
+msgid ""
+"KGame Version mismatch!\n"
+"Expected Version: %1\n"
+"Received Version: %2\n"
+msgstr ""
+"Không khớp phiên bản KGame!\nPhiên bản mong đợi: %1\nPhiên bản nhận được: "
+"%2\n"
+
+#: private/kgame/kgameerror.cpp:63
+#, kde-format
+msgid "Unknown error code %1"
+msgstr "Mã lỗi không rõ %1"
+
+#: private/kgame/kgamemessage.cpp:102
+#, kde-format
+msgid "Setup Game"
+msgstr "Thiết lập bàn chơi"
+
+#: private/kgame/kgamemessage.cpp:104
+#, kde-format
+msgid "Setup Game Continue"
+msgstr "Tiếp tục Thiết lập Bàn chơi"
+
+#: private/kgame/kgamemessage.cpp:106
+#, kde-format
+msgid "Load Game"
+msgstr "Tải bàn chơi"
+
+#: private/kgame/kgamemessage.cpp:108
+#, kde-format
+msgid "Client game connected"
+msgstr "Trình khách đã kết nối với bàn chơi"
+
+#: private/kgame/kgamemessage.cpp:110
+#, kde-format
+msgid "Game setup done"
+msgstr "Bàn chơi đã được thiết lập"
+
+#: private/kgame/kgamemessage.cpp:112
+#, kde-format
+msgid "Synchronize Random"
+msgstr "Đồng bộ hóa Ngẫu nhiên"
+
+#: private/kgame/kgamemessage.cpp:114
+#, kde-format
+msgid "Disconnect"
+msgstr "Ngắt kết nối"
+
+#: private/kgame/kgamemessage.cpp:116
+#, kde-format
+msgid "Player Property"
+msgstr "Thuộc tính Người chơi"
+
+#: private/kgame/kgamemessage.cpp:118
+#, kde-format
+msgid "Game Property"
+msgstr "Thuộc tính Bàn Chơi"
+
+#: private/kgame/kgamemessage.cpp:120
+#, kde-format
+msgid "Add Player"
+msgstr "Thêm người chơi"
+
+#: private/kgame/kgamemessage.cpp:122
+#, kde-format
+msgid "Remove Player"
+msgstr "Xoá Người chơi"
+
+#: private/kgame/kgamemessage.cpp:124
+#, kde-format
+msgid "Activate Player"
+msgstr "Kích hoạt người chơi"
+
+#: private/kgame/kgamemessage.cpp:126
+#, kde-format
+msgid "Inactivate Player"
+msgstr "Vô hiệu hóa người chơi"
+
+#: private/kgame/kgamemessage.cpp:128
+#, kde-format
+msgid "Id Turn"
+msgstr "Mã định danh Lượt"
+
+#: private/kgame/kgamemessage.cpp:130
+#, kde-format
+msgid "Error Message"
+msgstr "thông điệp"
+
+#: private/kgame/kgamemessage.cpp:132
+#, kde-format
+msgid "Player Input"
+msgstr "Đầu vào của người chơi"
+
+#: private/kgame/kgamemessage.cpp:134
+#, kde-format
+msgid "An IO was added"
+msgstr "Một IO đã được thêm vào"
+
+#: private/kgame/kgamemessage.cpp:136
+#, kde-format
+msgid "Process Query"
+msgstr "Xử lý truy vấn"
+
+#: private/kgame/kgamemessage.cpp:138
+#, kde-format
+msgid "Player ID"
+msgstr "mã định danh"
+
+#: private/kgame/kgamepropertyhandler.cpp:160
+#, kde-format
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: private/kgame/kgamepropertyhandler.cpp:162
+#, kde-format
+msgid "Unnamed - ID: %1"
+msgstr "Chưa đặt tên - ID: %1"
+
+#: private/kgame/kgamepropertyhandler.cpp:166
+#, kde-format
+msgid "%1 unregistered"
+msgid_plural "%1 unregistered"
+msgstr[0] "%1 chưa được đăng ký"
+
+#: private/kgame/kgamepropertyhandler.cpp:338
+#, kde-format
+msgid "NULL pointer"
+msgstr "con trỏ NULL"
+
+#: private/kgame/kgamepropertyhandler.cpp:355
+#, kde-format
+msgid "True"
+msgstr "Đúng"
+
+#: private/kgame/kgamepropertyhandler.cpp:355
+#, kde-format
+msgid "False"
+msgstr "Sai"
+
+#: private/kgame/kgamepropertyhandler.cpp:361
+#, kde-format
+msgid "Unknown"
+msgstr "không rõ"
+
+#: private/kgame/kplayer.cpp:73
+#, kde-format
+msgid "UserId"
+msgstr "Mã người dùng"
+
+#: private/kgame/kplayer.cpp:75
+#, kde-format
+msgid "Group"
+msgstr "Nhóm"
+
+#: private/kgame/kplayer.cpp:76 private/kgame/kplayer.cpp:78
+#, kde-format
+msgid "default"
+msgstr "mặc định"
+
+#: private/kgame/kplayer.cpp:77
+#, kde-format
+msgid "Name"
+msgstr "Tên"
+
+#: private/kgame/kplayer.cpp:80
+#, kde-format
+msgid "AsyncInput"
+msgstr "AsyncInput"
+
+#: private/kgame/kplayer.cpp:82
+#, kde-format
+msgid "myTurn"
+msgstr "lượt của tôi"

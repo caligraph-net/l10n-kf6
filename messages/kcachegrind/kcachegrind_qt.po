@@ -1,0 +1,2197 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: libcore/cachegrindloader.cpp:135
+msgctxt "QObject|"
+msgid "Import filter for Cachegrind/Callgrind generated profile data files"
+msgstr "Bộ lọc nhập khẩu dữ liệu hồ sơ được tạo ra bởi Cachegrind/Callgrind"
+
+#: libcore/context.cpp:60
+msgctxt "ProfileContext|"
+msgid "Invalid Context"
+msgstr "Ngữ cảnh không hợp lệ"
+
+#: libcore/context.cpp:61
+msgctxt "ProfileContext|"
+msgid "Unknown Context"
+msgstr "Ngữ cảnh không rõ"
+
+#: libcore/context.cpp:62
+msgctxt "ProfileContext|"
+msgid "Part Source Line"
+msgstr "Phần Nguồn Dòng"
+
+#: libcore/context.cpp:63
+msgctxt "ProfileContext|"
+msgid "Source Line"
+msgstr "Dòng nguồn"
+
+#: libcore/context.cpp:64
+msgctxt "ProfileContext|"
+msgid "Part Line Call"
+msgstr "Gọi Phần"
+
+#: libcore/context.cpp:65
+msgctxt "ProfileContext|"
+msgid "Line Call"
+msgstr "Gọi dòng"
+
+#: libcore/context.cpp:66
+msgctxt "ProfileContext|"
+msgid "Part Jump"
+msgstr "Nhảy Phần"
+
+#: libcore/context.cpp:67
+msgctxt "ProfileContext|"
+msgid "Jump"
+msgstr "Nhảy"
+
+#: libcore/context.cpp:68
+msgctxt "ProfileContext|"
+msgid "Part Instruction"
+msgstr "Hướng dẫn phần"
+
+#: libcore/context.cpp:69
+msgctxt "ProfileContext|"
+msgid "Instruction"
+msgstr "Hướng dẫn"
+
+#: libcore/context.cpp:70
+msgctxt "ProfileContext|"
+msgid "Part Instruction Jump"
+msgstr "Nhảy Hướng Dẫn Phần"
+
+#: libcore/context.cpp:71
+msgctxt "ProfileContext|"
+msgid "Instruction Jump"
+msgstr "Nhảy chỉ dẫn"
+
+#: libcore/context.cpp:72
+msgctxt "ProfileContext|"
+msgid "Part Instruction Call"
+msgstr "Lời gọi Hướng dẫn Bộ phận"
+
+#: libcore/context.cpp:73
+msgctxt "ProfileContext|"
+msgid "Instruction Call"
+msgstr "Lời gọi hướng dẫn"
+
+#: libcore/context.cpp:74
+msgctxt "ProfileContext|"
+msgid "Part Call"
+msgstr "Cuộc gọi một phần"
+
+#: libcore/context.cpp:75
+msgctxt "ProfileContext|"
+msgid "Call"
+msgstr "Gọi"
+
+#: libcore/context.cpp:76
+msgctxt "ProfileContext|"
+msgid "Part Function"
+msgstr "Chức năng"
+
+#: libcore/context.cpp:77
+msgctxt "ProfileContext|"
+msgid "Function Source File"
+msgstr "Tệp nguồn chức năng"
+
+#: libcore/context.cpp:78
+msgctxt "ProfileContext|"
+msgid "Function"
+msgstr "Chức năng"
+
+#: libcore/context.cpp:79
+msgctxt "ProfileContext|"
+msgid "Function Cycle"
+msgstr "Chu trình chức năng"
+
+#: libcore/context.cpp:80
+msgctxt "ProfileContext|"
+msgid "Part Class"
+msgstr "Lớp Bộ phận"
+
+#: libcore/context.cpp:81
+msgctxt "ProfileContext|"
+msgid "Class"
+msgstr "Lớp"
+
+#: libcore/context.cpp:82
+msgctxt "ProfileContext|"
+msgid "Part Source File"
+msgstr "Phần Tệp Nguồn"
+
+#: libcore/context.cpp:83
+msgctxt "ProfileContext|"
+msgid "Source File"
+msgstr "Tệp nguồn"
+
+#: libcore/context.cpp:84
+msgctxt "ProfileContext|"
+msgid "Part ELF Object"
+msgstr "Phần Đối tượng ELF"
+
+#: libcore/context.cpp:85
+msgctxt "ProfileContext|"
+msgid "ELF Object"
+msgstr "Đối tượng ELF"
+
+#: libcore/context.cpp:86
+msgctxt "ProfileContext|"
+msgid "Profile Part"
+msgstr "Phần Tiểu sử"
+
+#: libcore/context.cpp:87
+msgctxt "ProfileContext|"
+msgid "Program Trace"
+msgstr "Dấu vết chương trình"
+
+#: libcore/costitem.cpp:48
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 from %2"
+msgstr "%1 từ %2"
+
+#: libcore/costitem.cpp:54 libcore/costitem.cpp:59 libcore/tracedata.cpp:1978
+#: libcore/tracedata.cpp:2040 libcore/tracedata.cpp:2860
+#: libcore/tracedata.cpp:2961 libviews/partgraph.cpp:409
+msgctxt "QObject|"
+msgid "(unknown)"
+msgstr "(không xác định)"
+
+#: libcore/globalconfig.cpp:77
+msgctxt "QObject|"
+msgid "Instruction Fetch"
+msgstr "Tìm nạp chỉ thị"
+
+#: libcore/globalconfig.cpp:78
+msgctxt "QObject|"
+msgid "Data Read Access"
+msgstr "Truy cập đọc dữ liệu"
+
+#: libcore/globalconfig.cpp:79
+msgctxt "QObject|"
+msgid "Data Write Access"
+msgstr "Quyền truy cập ghi dữ liệu"
+
+#: libcore/globalconfig.cpp:80
+msgctxt "QObject|"
+msgid "L1 Instr. Fetch Miss"
+msgstr "Lỗi tìm nạp chỉ thị cấp 1"
+
+#: libcore/globalconfig.cpp:81
+msgctxt "QObject|"
+msgid "L1 Data Read Miss"
+msgstr "Lỗi đọc dữ liệu L1"
+
+#: libcore/globalconfig.cpp:82
+msgctxt "QObject|"
+msgid "L1 Data Write Miss"
+msgstr "Lỗi ghi dữ liệu L1"
+
+#: libcore/globalconfig.cpp:83
+msgctxt "QObject|"
+msgid "L2 Instr. Fetch Miss"
+msgstr "Lỗi tìm nạp chỉ thị L2"
+
+#: libcore/globalconfig.cpp:84
+msgctxt "QObject|"
+msgid "L2 Data Read Miss"
+msgstr "Lỗi đọc dữ liệu L2"
+
+#: libcore/globalconfig.cpp:85
+msgctxt "QObject|"
+msgid "L2 Data Write Miss"
+msgstr "Lỗi ghi dữ liệu L2"
+
+#: libcore/globalconfig.cpp:86
+msgctxt "QObject|"
+msgid "LL Instr. Fetch Miss"
+msgstr "Lỗi tìm nạp hướng dẫn LL"
+
+#: libcore/globalconfig.cpp:87
+msgctxt "QObject|"
+msgid "LL Data Read Miss"
+msgstr "Lỗi đọc dữ liệu LL"
+
+#: libcore/globalconfig.cpp:88
+msgctxt "QObject|"
+msgid "LL Data Write Miss"
+msgstr "Lỗi ghi dữ liệu LL"
+
+#: libcore/globalconfig.cpp:89
+msgctxt "QObject|"
+msgid "L1 Miss Sum"
+msgstr "Tổng số lỗi L1"
+
+#: libcore/globalconfig.cpp:90
+msgctxt "QObject|"
+msgid "L2 Miss Sum"
+msgstr "Tổng số lỗi L2"
+
+#: libcore/globalconfig.cpp:91
+msgctxt "QObject|"
+msgid "Last-level Miss Sum"
+msgstr "Tổng số lần bỏ lỡ cấp cuối"
+
+#: libcore/globalconfig.cpp:92
+msgctxt "QObject|"
+msgid "Indirect Branch"
+msgstr "Nhánh gián tiếp"
+
+#: libcore/globalconfig.cpp:93
+msgctxt "QObject|"
+msgid "Mispredicted Ind. Branch"
+msgstr "Sai dự đoán nhánh độc lập"
+
+#: libcore/globalconfig.cpp:94
+msgctxt "QObject|"
+msgid "Conditional Branch"
+msgstr "Điều kiện phân nhánh"
+
+#: libcore/globalconfig.cpp:95
+msgctxt "QObject|"
+msgid "Mispredicted Cond. Branch"
+msgstr "Nhánh điều kiện dự đoán sai"
+
+#: libcore/globalconfig.cpp:96
+msgctxt "QObject|"
+msgid "Mispredicted Branch"
+msgstr "Nhánh dự đoán sai"
+
+#: libcore/globalconfig.cpp:97
+msgctxt "QObject|"
+msgid "Global Bus Event"
+msgstr "Sự kiện Bus Toàn cục"
+
+#: libcore/globalconfig.cpp:98
+msgctxt "QObject|"
+msgid "Samples"
+msgstr "Mẫu"
+
+#: libcore/globalconfig.cpp:99
+msgctxt "QObject|"
+msgid "System Time"
+msgstr "Thời gian hệ thống"
+
+#: libcore/globalconfig.cpp:100
+msgctxt "QObject|"
+msgid "User Time"
+msgstr "Thời gian người dùng"
+
+#: libcore/globalconfig.cpp:101
+msgctxt "QObject|"
+msgid "Cycle Estimation"
+msgstr "Ước tính Chu kỳ"
+
+#: libcore/tracedata.cpp:1240
+msgctxt "QObject|"
+msgid "(no caller)"
+msgstr "(không có người gọi)"
+
+#: libcore/tracedata.cpp:1247 libcore/tracedata.cpp:1266
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 via %2"
+msgstr "%1 thông qua %2"
+
+#: libcore/tracedata.cpp:1256
+msgctxt "QObject|"
+msgid "(no callee)"
+msgstr "(không có người gọi)"
+
+#: libcore/tracedata.cpp:2709
+msgctxt "QObject|"
+msgid "(global)"
+msgstr "(toàn cục)"
+
+#: libcore/tracedata.cpp:3144
+msgctxt "QObject|"
+msgid "(not found)"
+msgstr "(không tìm thấy)"
+
+#: libcore/tracedata.cpp:3692
+msgctxt "TraceData|"
+msgid "Recalculating Function Cycles..."
+msgstr "Đang tính lại Chu kỳ Chức năng..."
+
+#: libviews/callgraphview.cpp:414
+#, qt-format
+msgctxt "QObject|"
+msgid "Call(s) from %1"
+msgstr "Lời gọi từ %1"
+
+#: libviews/callgraphview.cpp:417
+#, qt-format
+msgctxt "QObject|"
+msgid "Call(s) to %1"
+msgstr "Lời gọi đến %1"
+
+#: libviews/callgraphview.cpp:419
+msgctxt "QObject|"
+msgid "(unknown call)"
+msgstr "(cuộc gọi không xác định)"
+
+#: libviews/callgraphview.cpp:908
+msgctxt "QObject|"
+msgid "Export Graph"
+msgstr "Xuất khẩu Đồ thị"
+
+#: libviews/callgraphview.cpp:1608
+msgctxt "CallGraphView|"
+msgid ""
+"<b>Call Graph around active Function</b><p>Depending on configuration, this "
+"view shows the call graph environment of the active function. Note: the "
+"shown cost is <b>only</b> the cost which is spent while the active function "
+"was actually running; i.e. the cost shown for main() - if it is visible - "
+"should be the same as the cost of the active function, as that is the part "
+"of inclusive cost of main() spent while the active function was "
+"running.</p><p>For cycles, blue call arrows indicate that this is an "
+"artificial call added for correct drawing which actually never "
+"happened.</p><p>If the graph is larger than the widget area, an overview "
+"panner is shown in one edge. There are similar visualization options to the "
+"Call Treemap; the selected function is highlighted.</p>"
+msgstr ""
+"<b>Đồ thị Cuộc gọi xung quanh Chức năng đang hoạt động</b><p>Tùy thuộc vào "
+"cấu hình, khung xem này hiển thị môi trường đồ thị cuộc gọi của chức năng "
+"đang hoạt động. Lưu ý: chi phí được hiển thị <b>chỉ</b> là chi phí được sử "
+"dụng khi chức năng đang hoạt động thực sự đang chạy; nghĩa là chi phí hiển "
+"thị cho main() - nếu nó hiển thị - sẽ giống như chi phí của chức năng đang "
+"hoạt động, vì đó là phần chi phí bao gồm của main() được sử dụng khi chức "
+"năng đang hoạt động đang chạy.</p><p>Đối với các chu kỳ, các mũi tên cuộc "
+"gọi màu xanh chỉ ra rằng đây là một cuộc gọi nhân tạo được thêm vào để vẽ "
+"chính xác mà thực tế không bao giờ xảy ra.</p><p>Nếu đồ thị lớn hơn khu vực "
+"khiển tố, một bảng điều khiển tổng quan sẽ được hiển thị ở một cạnh. Có các "
+"tùy chọn trực quan hóa tương tự như Bản đồ cây Cuộc gọi; chức năng được "
+"chọn được làm nổi bật.</p>"
+
+#: libviews/callgraphview.cpp:2020
+msgctxt "CallGraphView|"
+msgid ""
+"Warning: a long lasting graph layouting is in progress.\n"
+"Reduce node/edge limits for speedup.\n"
+msgstr ""
+"Cảnh báo: việc bố trí đồ thị đang diễn ra lâu.\nGiảm giới hạn nút/cạnh để "
+"tăng tốc.\n"
+
+#: libviews/callgraphview.cpp:2023
+msgctxt "CallGraphView|"
+msgid "Layouting stopped.\n"
+msgstr "Bố cục đã dừng.\n"
+
+#: libviews/callgraphview.cpp:2025
+#, qt-format
+msgctxt "CallGraphView|"
+msgid "The call graph has %1 nodes and %2 edges.\n"
+msgstr "Đồ thị gọi có %1 nút và %2 cạnh.\n"
+
+#: libviews/callgraphview.cpp:2034
+msgctxt "CallGraphView|"
+msgid "No graph available because the layouting process failed.\n"
+msgstr "Không có biểu đồ khả dụng vì quá trình bố trí đã thất bại.\n"
+
+#: libviews/callgraphview.cpp:2036
+#, qt-format
+msgctxt "CallGraphView|"
+msgid ""
+"Trying to run the following command did not work:\n"
+"'%1'\n"
+msgstr "Cố gắng chạy lệnh sau không hoạt động:\n'%1'\n"
+
+#: libviews/callgraphview.cpp:2038 libviews/callgraphview.cpp:2555
+msgctxt "CallGraphView|"
+msgid "Please check that 'dot' is installed (package GraphViz)."
+msgstr "Vui lòng kiểm tra rằng 'dot' đã được cài đặt (gói GraphViz)."
+
+#: libviews/callgraphview.cpp:2080
+msgctxt "CallGraphView|"
+msgid "No item activated for which to draw the call graph."
+msgstr "Không có mục nào được kích hoạt để vẽ biểu đồ gọi."
+
+#: libviews/callgraphview.cpp:2092
+msgctxt "CallGraphView|"
+msgid "No call graph can be drawn for the active item."
+msgstr "Không thể vẽ biểu đồ gọi cho mục hoạt động."
+
+#: libviews/callgraphview.cpp:2554
+msgctxt "CallGraphView|"
+msgid "Error running the graph layouting tool.\n"
+msgstr "Lỗi khi chạy công cụ bố trí đồ thị.\n"
+
+#: libviews/callgraphview.cpp:2559
+#, qt-format
+msgctxt "CallGraphView|"
+msgid ""
+"There is no call graph available for function\n"
+"\t'%1'\n"
+"because it has no cost of the selected event type."
+msgstr ""
+"Không có đồ thị gọi hàm khả dụng cho hàm\n\t'%1'\nvì nó không có chi phí "
+"của loại sự kiện đã chọn."
+
+#: libviews/callgraphview.cpp:2800
+msgctxt "CallGraphView|"
+msgid "Caller Depth"
+msgstr "Độ sâu của người gọi"
+
+#: libviews/callgraphview.cpp:2801 libviews/callgraphview.cpp:2841
+msgctxt "CallGraphView|"
+msgid "Unlimited"
+msgstr "Không giới hạn"
+
+#: libviews/callgraphview.cpp:2804 libviews/callgraphview.cpp:2844
+msgctxt "CallGraphView|None"
+msgid "Depth 0"
+msgstr "Độ sâu 0"
+
+#: libviews/callgraphview.cpp:2805 libviews/callgraphview.cpp:2845
+msgctxt "CallGraphView|"
+msgid "max. 1"
+msgstr "tối đa 1"
+
+#: libviews/callgraphview.cpp:2806 libviews/callgraphview.cpp:2846
+msgctxt "CallGraphView|"
+msgid "max. 2"
+msgstr "tối đa 2"
+
+#: libviews/callgraphview.cpp:2807 libviews/callgraphview.cpp:2847
+msgctxt "CallGraphView|"
+msgid "max. 5"
+msgstr "tối đa 5"
+
+#: libviews/callgraphview.cpp:2808 libviews/callgraphview.cpp:2848
+msgctxt "CallGraphView|"
+msgid "max. 10"
+msgstr "tối đa 10"
+
+#: libviews/callgraphview.cpp:2809 libviews/callgraphview.cpp:2849
+msgctxt "CallGraphView|"
+msgid "max. 15"
+msgstr "tối đa 15"
+
+#: libviews/callgraphview.cpp:2840
+msgctxt "CallGraphView|"
+msgid "Callee Depth"
+msgstr "Độ sâu của người được gọi"
+
+#: libviews/callgraphview.cpp:2880
+msgctxt "CallGraphView|"
+msgid "Min. Node Cost"
+msgstr "Chi phí nút tối thiểu"
+
+#: libviews/callgraphview.cpp:2881
+msgctxt "CallGraphView|"
+msgid "No Minimum"
+msgstr "Không có tối thiểu"
+
+#: libviews/callgraphview.cpp:2887
+msgctxt "CallGraphView|"
+msgid "50 %"
+msgstr "50 %"
+
+#: libviews/callgraphview.cpp:2888
+msgctxt "CallGraphView|"
+msgid "20 %"
+msgstr "20 %"
+
+#: libviews/callgraphview.cpp:2889
+msgctxt "CallGraphView|"
+msgid "10 %"
+msgstr "10 %"
+
+#: libviews/callgraphview.cpp:2890
+msgctxt "CallGraphView|"
+msgid "5 %"
+msgstr "5 %"
+
+#: libviews/callgraphview.cpp:2891
+msgctxt "CallGraphView|"
+msgid "2 %"
+msgstr "2 %"
+
+#: libviews/callgraphview.cpp:2892
+msgctxt "CallGraphView|"
+msgid "1 %"
+msgstr "1 %"
+
+#: libviews/callgraphview.cpp:2922
+msgctxt "CallGraphView|"
+msgid "Min. Call Cost"
+msgstr "Mức gọi tối thiểu"
+
+#: libviews/callgraphview.cpp:2923
+msgctxt "CallGraphView|"
+msgid "Same as Node"
+msgstr "Giống như Nút"
+
+#: libviews/callgraphview.cpp:2925
+msgctxt "CallGraphView|"
+msgid "50 % of Node"
+msgstr "50 % của Nút"
+
+#: libviews/callgraphview.cpp:2927
+msgctxt "CallGraphView|"
+msgid "20 % of Node"
+msgstr "20 % của Nút"
+
+#: libviews/callgraphview.cpp:2929
+msgctxt "CallGraphView|"
+msgid "10 % of Node"
+msgstr "10 % của Nút"
+
+#: libviews/callgraphview.cpp:2958
+msgctxt "CallGraphView|"
+msgid "Birds-eye View"
+msgstr "Chế độ xem toàn cảnh"
+
+#: libviews/callgraphview.cpp:2959
+msgctxt "CallGraphView|"
+msgid "Top Left"
+msgstr "Trên cùng bên trái"
+
+#: libviews/callgraphview.cpp:2960
+msgctxt "CallGraphView|"
+msgid "Top Right"
+msgstr "Trên cùng bên phải"
+
+#: libviews/callgraphview.cpp:2961
+msgctxt "CallGraphView|"
+msgid "Bottom Left"
+msgstr "Dưới cùng bên trái"
+
+#: libviews/callgraphview.cpp:2962
+msgctxt "CallGraphView|"
+msgid "Bottom Right"
+msgstr "Dưới cùng bên phải"
+
+#: libviews/callgraphview.cpp:2963
+msgctxt "CallGraphView|"
+msgid "Automatic"
+msgstr "Tự động"
+
+#: libviews/callgraphview.cpp:2964
+msgctxt "CallGraphView|"
+msgid "Hide"
+msgstr "Ẩn"
+
+#: libviews/callgraphview.cpp:2994
+msgctxt "CallGraphView|"
+msgid "Layout"
+msgstr "Bố cục"
+
+#: libviews/callgraphview.cpp:2995
+msgctxt "CallGraphView|"
+msgid "Top to Down"
+msgstr "Từ trên xuống dưới"
+
+#: libviews/callgraphview.cpp:2996
+msgctxt "CallGraphView|"
+msgid "Left to Right"
+msgstr "Từ trái sang phải"
+
+#: libviews/callgraphview.cpp:2997
+msgctxt "CallGraphView|"
+msgid "Circular"
+msgstr "Hình tròn"
+
+#: libviews/callgraphview.cpp:3037 libviews/callgraphview.cpp:3042
+#: libviews/callgraphview.cpp:3062
+#, qt-format
+msgctxt "CallGraphView|"
+msgid "Go to '%1'"
+msgstr "Đi đến '%1'"
+
+#: libviews/callgraphview.cpp:3073
+msgctxt "CallGraphView|"
+msgid "Stop Layouting"
+msgstr "Dừng bố trí"
+
+#: libviews/callgraphview.cpp:3080
+msgctxt "CallGraphView|"
+msgid "Export Graph"
+msgstr "Xuất khẩu Đồ thị"
+
+#: libviews/callgraphview.cpp:3081
+msgctxt "CallGraphView|"
+msgid "As DOT file..."
+msgstr "Dưới dạng tệp DOT..."
+
+#: libviews/callgraphview.cpp:3082
+msgctxt "CallGraphView|"
+msgid "As Image..."
+msgstr "Như Hình ảnh..."
+
+#: libviews/callgraphview.cpp:3085
+msgctxt "CallGraphView|"
+msgid "Graph"
+msgstr "Đồ thị"
+
+#: libviews/callgraphview.cpp:3093
+msgctxt "CallGraphView|"
+msgid "Arrows for Skipped Calls"
+msgstr "Mũi tên cho các cuộc gọi bị bỏ qua"
+
+#: libviews/callgraphview.cpp:3098
+msgctxt "CallGraphView|"
+msgid "Inner-cycle Calls"
+msgstr "Lời gọi trong vòng lặp"
+
+#: libviews/callgraphview.cpp:3103
+msgctxt "CallGraphView|"
+msgid "Cluster Groups"
+msgstr "Nhóm cụm"
+
+#: libviews/callgraphview.cpp:3107
+msgctxt "CallGraphView|"
+msgid "Visualization"
+msgstr "Trực quan hóa"
+
+#: libviews/callgraphview.cpp:3108
+msgctxt "CallGraphView|"
+msgid "Compact"
+msgstr "Gọn"
+
+#: libviews/callgraphview.cpp:3111
+msgctxt "CallGraphView|"
+msgid "Normal"
+msgstr "Bình thường"
+
+#: libviews/callgraphview.cpp:3114
+msgctxt "CallGraphView|"
+msgid "Tall"
+msgstr "Cao"
+
+#: libviews/callgraphview.cpp:3146
+msgctxt "CallGraphView|"
+msgid "Export Graph As Image"
+msgstr "Xuất Đồ Thị Dưới Dạng Ảnh"
+
+#: libviews/callgraphview.cpp:3148
+msgctxt "CallGraphView|"
+msgid "Images (*.png *.jpg)"
+msgstr "Hình ảnh (*.png *.jpg)"
+
+#: libviews/callitem.cpp:73 libviews/partlistitem.cpp:131
+msgctxt "QObject|"
+msgid "(active)"
+msgstr "(đang hoạt động)"
+
+#: libviews/callmapview.cpp:52
+msgctxt "CallMapView|Name"
+msgid "A thing's name"
+msgstr "Tên của một thứ"
+
+#: libviews/callmapview.cpp:53
+msgctxt "CallMapView|"
+msgid "Cost"
+msgstr "Chi phí"
+
+#: libviews/callmapview.cpp:54
+msgctxt "CallMapView|"
+msgid "Location"
+msgstr "Địa điểm"
+
+#: libviews/callmapview.cpp:56
+msgctxt "CallMapView|"
+msgid "Calls"
+msgstr "Cuộc gọi"
+
+#: libviews/callmapview.cpp:91
+msgctxt "CallMapView|"
+msgid ""
+"<b>Caller Map</b><p>This graph shows the nested hierarchy of all callers of "
+"the current activated function. Each colored rectangle represents a "
+"function; its size tries to be proportional to the cost spent therein while "
+"the active function is running (however, there are drawing constraints).</p>"
+msgstr ""
+"<b>Bản đồ Người gọi</b><p>Biểu đồ này hiển thị cấu trúc phân cấp lồng nhau "
+"của tất cả người gọi đến chức năng đang hoạt động hiện tại. Mỗi hình chữ "
+"nhật màu đại diện cho một chức năng; kích thước của nó cố gắng tỷ lệ thuận "
+"với chi phí dành cho chức năng đó trong khi chức năng đang hoạt động đang "
+"chạy (tuy nhiên, có những ràng buộc về vẽ).</p>"
+
+#: libviews/callmapview.cpp:98
+msgctxt "CallMapView|"
+msgid ""
+"<b>Call Map</b><p>This graph shows the nested hierarchy of all callees of "
+"the current activated function. Each colored rectangle represents a "
+"function; its size tries to be proportional to the cost spent therein while "
+"the active function is running (however, there are drawing constraints).</p>"
+msgstr ""
+"<b>Bản đồ Gọi</b><p>Biểu đồ này hiển thị cấu trúc phân cấp lồng nhau của "
+"tất cả các hàm được gọi từ chức năng đang hoạt động hiện tại. Mỗi hình chữ "
+"nhật màu đại diện cho một chức năng; kích thước của nó cố gắng tỷ lệ thuận "
+"với chi phí được sử dụng trong đó khi chức năng đang hoạt động đang chạy "
+"(tuy nhiên, có những ràng buộc về vẽ).</p>"
+
+#: libviews/callmapview.cpp:106
+msgctxt "CallMapView|"
+msgid ""
+"<p>Appearance options can be found in the context menu. To get exact size "
+"proportions, choose 'Hide incorrect borders'. As this mode can be "
+"<em>very</em> time consuming, you may want to limit the maximum drawn "
+"nesting level before. 'Best' determinates the split direction for children "
+"from the aspect ratio of the parent. 'Always Best' decides on remaining "
+"space for each sibling. 'Ignore Proportions' takes space for function name "
+"drawing <em>before</em> drawing children. Note that size proportions can get "
+"<em>heavily</em> wrong.</p><p>This is a <em>TreeMap</em> widget. Keyboard "
+"navigation is available with the left/right arrow keys for traversing "
+"siblings, and up/down arrow keys to go a nesting level up/down. "
+"<em>Return</em> activates the current item.</p>"
+msgstr ""
+"<p>Các tùy chọn giao diện có thể được tìm thấy trong menu ngữ cảnh. Để có "
+"tỉ lệ kích thước chính xác, chọn 'Ẩn đường viền không chính xác'. Vì chế độ "
+"này có thể <em>rất</em> tốn thời gian, bạn có thể muốn giới hạn mức lồng "
+"ghép tối đa được vẽ trước. 'Tốt nhất' xác định hướng chia cho các phần tử "
+"con từ tỉ lệ khung của phần tử cha. 'Luôn tốt nhất' quyết định không gian "
+"còn lại cho mỗi phần tử anh em. 'Bỏ qua tỉ lệ' lấy không gian để vẽ tên "
+"chức năng <em>trước khi</em> vẽ các phần tử con. Lưu ý rằng tỉ lệ kích "
+"thước có thể trở nên <em>cực kỳ</em> sai lệch.</p><p>Đây là một widget "
+"<em>TreeMap</em>. Điều hướng bàn phím hiện có với các phím mũi tên "
+"trái/phải để duyệt qua các phần tử anh em, và các phím mũi tên lên/xuống để "
+"di chuyển lên/xuống một mức lồng ghép. Phím <em>Enter</em> kích hoạt mục "
+"hiện tại.</p>"
+
+#: libviews/callmapview.cpp:139
+msgctxt "CallMapView|"
+msgid "Go To"
+msgstr "Đi đến"
+
+#: libviews/callmapview.cpp:170
+msgctxt "CallMapView|"
+msgid "Stop at Depth"
+msgstr "Dừng ở độ sâu"
+
+#: libviews/callmapview.cpp:171
+msgctxt "CallMapView|"
+msgid "No Depth Limit"
+msgstr "Không giới hạn độ sâu"
+
+#: libviews/callmapview.cpp:173
+msgctxt "CallMapView|"
+msgid "Depth 10"
+msgstr "Độ sâu 10"
+
+#: libviews/callmapview.cpp:174
+msgctxt "CallMapView|"
+msgid "Depth 15"
+msgstr "Độ sâu 15"
+
+#: libviews/callmapview.cpp:175
+msgctxt "CallMapView|"
+msgid "Depth 20"
+msgstr "Độ sâu 20"
+
+#: libviews/callmapview.cpp:178
+#, qt-format
+msgctxt "CallMapView|"
+msgid "Depth of '%1' (%2)"
+msgstr "Độ sâu của '%1' (%2)"
+
+#: libviews/callmapview.cpp:185
+#, qt-format
+msgctxt "CallMapView|"
+msgid "Decrement Depth (to %1)"
+msgstr "Giảm độ sâu (đến %1)"
+
+#: libviews/callmapview.cpp:187
+#, qt-format
+msgctxt "CallMapView|"
+msgid "Increment Depth (to %1)"
+msgstr "Tăng độ sâu (lên %1)"
+
+#: libviews/callmapview.cpp:213
+msgctxt "CallMapView|"
+msgid "Stop at Function"
+msgstr "Dừng tại Chức năng"
+
+#: libviews/callmapview.cpp:214
+msgctxt "CallMapView|"
+msgid "No Function Limit"
+msgstr "Không giới hạn chức năng"
+
+#: libviews/callmapview.cpp:257
+msgctxt "CallMapView|"
+msgid "Stop at Area"
+msgstr "Dừng tại Khu vực"
+
+#: libviews/callmapview.cpp:258
+msgctxt "CallMapView|"
+msgid "No Area Limit"
+msgstr "Không giới hạn khu vực"
+
+#: libviews/callmapview.cpp:260
+msgctxt "CallMapView|"
+msgid "100 Pixels"
+msgstr "100 Pixel"
+
+#: libviews/callmapview.cpp:261
+msgctxt "CallMapView|"
+msgid "200 Pixels"
+msgstr "200 Pixel"
+
+#: libviews/callmapview.cpp:262
+msgctxt "CallMapView|"
+msgid "500 Pixels"
+msgstr "500 Pixel"
+
+#: libviews/callmapview.cpp:263
+msgctxt "CallMapView|"
+msgid "1000 Pixels"
+msgstr "1000 Pixel"
+
+#: libviews/callmapview.cpp:269
+#, qt-format
+msgctxt "CallMapView|"
+msgid "Area of '%1' (%2)"
+msgstr "Khu vực của '%1' (%2)"
+
+#: libviews/callmapview.cpp:275
+#, qt-format
+msgctxt "CallMapView|"
+msgid "Double Area Limit (to %1)"
+msgstr "Giới hạn Diện tích Gấp đôi (đến %1)"
+
+#: libviews/callmapview.cpp:277
+#, qt-format
+msgctxt "CallMapView|"
+msgid "Half Area Limit (to %1)"
+msgstr "Giới hạn Diện tích Nửa (đến %1)"
+
+#: libviews/callmapview.cpp:327
+msgctxt "CallMapView|"
+msgid "Visualization"
+msgstr "Trực quan hóa"
+
+#: libviews/callmapview.cpp:328
+msgctxt "CallMapView|"
+msgid "Split Direction"
+msgstr "Hướng Chia"
+
+#: libviews/callmapview.cpp:331
+msgctxt "CallMapView|"
+msgid "Skip Incorrect Borders"
+msgstr "Bỏ qua Đường viền Không chính xác"
+
+#: libviews/callmapview.cpp:336
+msgctxt "CallMapView|"
+msgid "Border Width"
+msgstr "Độ rộng viền"
+
+#: libviews/callmapview.cpp:337
+msgctxt "CallMapView|"
+msgid "Border 0"
+msgstr "Viền 0"
+
+#: libviews/callmapview.cpp:339
+msgctxt "CallMapView|"
+msgid "Border 1"
+msgstr "Viền 1"
+
+#: libviews/callmapview.cpp:340
+msgctxt "CallMapView|"
+msgid "Border 2"
+msgstr "Viền 2"
+
+#: libviews/callmapview.cpp:341
+msgctxt "CallMapView|"
+msgid "Border 3"
+msgstr "Viền 3"
+
+#: libviews/callmapview.cpp:346
+msgctxt "CallMapView|"
+msgid "Draw Symbol Names"
+msgstr "Vẽ Tên Kí Hiệu"
+
+#: libviews/callmapview.cpp:348
+msgctxt "CallMapView|"
+msgid "Draw Cost"
+msgstr "Vẽ chi phí"
+
+#: libviews/callmapview.cpp:350
+msgctxt "CallMapView|"
+msgid "Draw Location"
+msgstr "Vẽ địa điểm"
+
+#: libviews/callmapview.cpp:352
+msgctxt "CallMapView|"
+msgid "Draw Calls"
+msgstr "Vẽ các lệnh gọi"
+
+#: libviews/callmapview.cpp:356
+msgctxt "CallMapView|"
+msgid "Ignore Proportions"
+msgstr "Bỏ qua tỷ lệ"
+
+#: libviews/callmapview.cpp:358
+msgctxt "CallMapView|"
+msgid "Allow Rotation"
+msgstr "Cho phép xoay"
+
+#: libviews/callmapview.cpp:376
+msgctxt "CallMapView|"
+msgid "Shading"
+msgstr "Đổ bóng"
+
+#: libviews/callmapview.cpp:428
+#, qt-format
+msgctxt "CallMapView|"
+msgid "Call Map: Current is '%1'"
+msgstr "Bản đồ cuộc gọi: Hiện tại là '%1'"
+
+#: libviews/callmapview.cpp:621
+msgctxt "QObject|"
+msgid "(no function)"
+msgstr "(không có chức năng)"
+
+#: libviews/callmapview.cpp:761 libviews/callmapview.cpp:880
+msgctxt "QObject|"
+msgid "(no call)"
+msgstr "(không có cuộc gọi)"
+
+#: libviews/callview.cpp:37
+msgctxt "CallView|"
+msgid "Cost"
+msgstr "Chi phí"
+
+#: libviews/callview.cpp:38
+msgctxt "CallView|"
+msgid "Cost per call"
+msgstr "Giá mỗi cuộc gọi"
+
+#: libviews/callview.cpp:39
+msgctxt "CallView|"
+msgid "Cost 2"
+msgstr "Chi phí 2"
+
+#: libviews/callview.cpp:40
+msgctxt "CallView|"
+msgid "Cost 2 per call"
+msgstr "Giá 2 mỗi cuộc gọi"
+
+#: libviews/callview.cpp:41
+msgctxt "CallView|"
+msgid "Count"
+msgstr "Số lượng"
+
+#: libviews/callview.cpp:42
+msgctxt "CallView|"
+msgid "Caller"
+msgstr "Người gọi"
+
+#: libviews/callview.cpp:42
+msgctxt "CallView|"
+msgid "Callee"
+msgstr "Người được gọi"
+
+#: libviews/callview.cpp:76
+msgctxt "CallView|"
+msgid ""
+"<b>List of direct Callers</b><p>This list shows all functions calling the "
+"current selected one directly, together with a call count and the cost spent "
+"in the current selected function while being called from the function from "
+"the list.</p><p>An icon instead of an inclusive cost specifies that this is "
+"a call inside of a recursive cycle. An inclusive cost makes no sense "
+"here.</p><p>Selecting a function makes it the current selected one of this "
+"information panel. If there are two panels (Split mode), the function of the "
+"other panel is changed instead.</p>"
+msgstr ""
+"<b>Danh sách các Hàm gọi trực tiếp</b><p>Danh sách này hiển thị tất cả các "
+"chức năng gọi trực tiếp đến chức năng đang được chọn, cùng với số lần gọi "
+"và chi phí được sử dụng trong chức năng đang được chọn khi được gọi từ chức "
+"năng trong danh sách.</p><p>Một biểu tượng thay vì chi phí bao gồm chỉ ra "
+"rằng đây là một cuộc gọi bên trong một chu kỳ đệ quy. Chi phí bao gồm không "
+"có ý nghĩa ở đây.</p><p>Việc chọn một chức năng sẽ làm cho nó trở thành "
+"chức năng đang được chọn của bảng thông tin này. Nếu có hai bảng (chế độ "
+"Chia), chức năng của bảng kia sẽ được thay đổi thay vào đó.</p>"
+
+#: libviews/callview.cpp:89
+msgctxt "CallView|"
+msgid ""
+"<b>List of direct Callees</b><p>This list shows all functions called by the "
+"current selected one directly, together with a call count and the cost spent "
+"in this function while being called from the selected "
+"function.</p><p>Selecting a function makes it the current selected one of "
+"this information panel. If there are two panels (Split mode), the function "
+"of the other panel is changed instead.</p>"
+msgstr ""
+"<b>Danh sách các chức năng được gọi trực tiếp</b><p>Danh sách này hiển thị "
+"tất cả các chức năng được gọi trực tiếp bởi chức năng đang được chọn, cùng "
+"với số lần gọi và chi phí tiêu tốn trong chức năng này khi được gọi từ chức "
+"năng đã chọn.</p><p>Việc chọn một chức năng sẽ đặt nó làm chức năng hiện "
+"tại được chọn của bảng thông tin này. Nếu có hai bảng (chế độ Tách), chức "
+"năng của bảng kia sẽ được thay đổi thay vào đó.</p>"
+
+#: libviews/callview.cpp:118 libviews/callview.cpp:123
+#, qt-format
+msgctxt "CallView|"
+msgid "Go to '%1'"
+msgstr "Đi đến '%1'"
+
+#: libviews/callview.cpp:257 libviews/callview.cpp:261
+#, qt-format
+msgctxt "CallView|"
+msgid "%1 per call"
+msgstr "%1 mỗi cuộc gọi"
+
+#: libviews/costlistitem.cpp:53
+#, qt-format
+msgctxt "QObject|"
+msgid "(%n item(s) skipped)"
+msgid_plural "(%n item(s) skipped)"
+msgstr[0] "(%n mục bị bỏ qua)"
+
+#: libviews/coverageitem.cpp:58 libviews/coverageitem.cpp:195
+#, qt-format
+msgctxt "QObject|"
+msgid "(%n function(s) skipped)"
+msgid_plural "(%n function(s) skipped)"
+msgstr[0] "(%n hàm bị bỏ qua)"
+
+#: libviews/coverageview.cpp:37
+msgctxt "CoverageView|"
+msgid "Incl."
+msgstr "Bao gồm"
+
+#: libviews/coverageview.cpp:40 libviews/coverageview.cpp:47
+msgctxt "CoverageView|"
+msgid "Distance"
+msgstr "Khoảng cách"
+
+#: libviews/coverageview.cpp:41
+msgctxt "CoverageView|"
+msgid "Called"
+msgstr "Đã gọi"
+
+#: libviews/coverageview.cpp:42
+msgctxt "CoverageView|"
+msgid "Caller"
+msgstr "Người gọi"
+
+#: libviews/coverageview.cpp:46
+msgctxt "CoverageView|"
+msgid "Self"
+msgstr "Bản thân"
+
+#: libviews/coverageview.cpp:48
+msgctxt "CoverageView|"
+msgid "Calling"
+msgstr "Gọi"
+
+#: libviews/coverageview.cpp:49
+msgctxt "CoverageView|"
+msgid "Callee"
+msgstr "Người được gọi"
+
+#: libviews/coverageview.cpp:84
+msgctxt "CoverageView|"
+msgid ""
+"<b>List of all Callers</b><p>This list shows all functions calling the "
+"current selected one, either directly or with several functions in-between "
+"on the stack; the number of functions in-between plus one is called the "
+"<em>Distance</em> (e.g. for function A,B,C there exists a call from A to C "
+"when A calls B and B calls C, i.e. A => B => C. The distance here is "
+"2).</p><p>Absolute cost shown is the cost spent in the selected function "
+"while a listed function is active; relative cost is the percentage of all "
+"cost spent in the selected function while the listed one is active. The cost "
+"graphic shows logarithmic percentage with a different color for each "
+"distance.</p><p>As there can be many calls from the same function, the "
+"distance column sometimes shows the range of distances for all calls "
+"happening; then, in parentheses, there is the medium distance, i.e. the "
+"distance where most of the call costs happened.</p><p>Selecting a function "
+"makes it the current selected one of this information panel. If there are "
+"two panels (Split mode), the function of the other panel is changed "
+"instead.</p>"
+msgstr ""
+"<b>Danh sách tất cả Người gọi</b><p>Danh sách này hiển thị tất cả các chức "
+"năng gọi chức năng hiện được chọn, hoặc trực tiếp hoặc với một số chức năng "
+"ở giữa trên ngăn xếp; số lượng chức năng ở giữa cộng thêm một được gọi là "
+"<em>Khoảng cách</em> (ví dụ: đối với chức năng A,B,C có một lệnh gọi từ A "
+"đến C khi A gọi B và B gọi C, tức là A => B => C. Khoảng cách ở đây là "
+"2).</p><p>Chi phí tuyệt đối hiển thị là chi phí được sử dụng trong chức "
+"năng được chọn trong khi một chức năng được liệt kê đang hoạt động; chi phí "
+"tương đối là phần trăm của tất cả chi phí được sử dụng trong chức năng được "
+"chọn trong khi chức năng được liệt kê đang hoạt động. Đồ họa chi phí hiển "
+"thị phần trăm logarit với màu sắc khác nhau cho mỗi khoảng cách.</p><p>Vì "
+"có thể có nhiều lệnh gọi từ cùng một chức năng, cột khoảng cách đôi khi "
+"hiển thị phạm vi khoảng cách cho tất cả các lệnh gọi xảy ra; sau đó, trong "
+"ngoặc đơn, là khoảng cách trung bình, tức là khoảng cách nơi phần lớn chi "
+"phí gọi xảy ra.</p><p>Chọn một chức năng sẽ làm cho nó trở thành chức năng "
+"hiện được chọn của bảng thông tin này. Nếu có hai bảng (chế độ Chia), chức "
+"năng của bảng kia sẽ được thay đổi thay vào đó.</p>"
+
+#: libviews/coverageview.cpp:114
+msgctxt "CoverageView|"
+msgid ""
+"<b>List of all Callees</b><p>This list shows all functions called by the "
+"current selected one, either directly or with several function in-between on "
+"the stack; the number of function in-between plus one is called the "
+"<em>Distance</em> (e.g. for function A,B,C there exists a call from A to C "
+"when A calls B and B calls C, i.e. A => B => C. The distance here is "
+"2).</p><p>Absolute cost shown is the cost spent in the listed function while "
+"the selected is active; relative cost is the percentage of all cost spent in "
+"the listed function while the selected one is active. The cost graphic "
+"always shows logarithmic percentage with a different color for each "
+"distance.</p><p>As there can be many calls to the same function, the "
+"distance column sometimes shows the range of distances for all calls "
+"happening; then, in parentheses, there is the medium distance, i.e. the "
+"distance where most of the call costs happened.</p><p>Selecting a function "
+"makes it the current selected one of this information panel. If there are "
+"two panels (Split mode), the function of the other panel is changed "
+"instead.</p>"
+msgstr ""
+"<b>Danh sách tất cả các Callee</b><p>Danh sách này hiển thị tất cả các chức "
+"năng được gọi bởi chức năng hiện được chọn, hoặc trực tiếp hoặc với một số "
+"chức năng ở giữa trên ngăn xếp; số lượng chức năng ở giữa cộng thêm một "
+"được gọi là <em>Khoảng cách</em> (ví dụ: đối với chức năng A,B,C có một "
+"lệnh gọi từ A đến C khi A gọi B và B gọi C, tức là A => B => C. Khoảng cách "
+"ở đây là 2).</p><p>Chi phí tuyệt đối hiển thị là chi phí được sử dụng trong "
+"chức năng được liệt kê trong khi chức năng được chọn đang hoạt động; chi "
+"phí tương đối là phần trăm của tất cả chi phí được sử dụng trong chức năng "
+"được liệt kê trong khi chức năng được chọn đang hoạt động. Đồ thị chi phí "
+"luôn hiển thị phần trăm logarit với màu sắc khác nhau cho mỗi khoảng "
+"cách.</p><p>Vì có thể có nhiều lệnh gọi đến cùng một chức năng, cột khoảng "
+"cách đôi khi hiển thị phạm vi khoảng cách cho tất cả các lệnh gọi xảy ra; "
+"sau đó, trong ngoặc đơn, là khoảng cách trung bình, tức là khoảng cách nơi "
+"phần lớn chi phí gọi xảy ra.</p><p>Chọn một chức năng sẽ làm cho nó trở "
+"thành chức năng hiện được chọn của bảng thông tin này. Nếu có hai bảng (chế "
+"độ Chia), chức năng của bảng kia sẽ được thay đổi thay vào đó.</p>"
+
+#: libviews/coverageview.cpp:160
+#, qt-format
+msgctxt "CoverageView|"
+msgid "Go to '%1'"
+msgstr "Đi đến '%1'"
+
+#: libviews/eventtypeitem.cpp:48
+msgctxt "QObject|"
+msgid "Unknown Type"
+msgstr "Kiểu không rõ"
+
+#: libviews/eventtypeview.cpp:37
+msgctxt "EventTypeView|"
+msgid "Event Type"
+msgstr "Kiểu sự kiện"
+
+#: libviews/eventtypeview.cpp:38
+msgctxt "EventTypeView|"
+msgid "Incl."
+msgstr "Bao gồm."
+
+#: libviews/eventtypeview.cpp:39
+msgctxt "EventTypeView|"
+msgid "Self"
+msgstr "Bản thân"
+
+#: libviews/eventtypeview.cpp:40
+msgctxt "EventTypeView|"
+msgid "Short"
+msgstr "Ngắn"
+
+#: libviews/eventtypeview.cpp:42
+msgctxt "EventTypeView|"
+msgid "Formula"
+msgstr "Công thức"
+
+#: libviews/eventtypeview.cpp:76
+msgctxt "EventTypeView|"
+msgid ""
+"<b>Cost Types List</b><p>This list shows all cost types available and what "
+"the self/inclusive cost of the current selected function is for that cost "
+"type.</p><p>By choosing a cost type from the list, you change the cost type "
+"of costs shown all over KCachegrind to be the selected one.</p>"
+msgstr ""
+"<b>Danh sách các kiểu chi phí</b><p>Danh sách này hiển thị tất cả các kiểu "
+"chi phí hiện có và chi phí tự thân/bao gồm của chức năng đang được chọn cho "
+"mỗi kiểu chi phí đó.</p><p>Bằng cách chọn một kiểu chi phí từ danh sách, "
+"bạn thay đổi kiểu chi phí được hiển thị trong toàn bộ KCachegrind thành "
+"kiểu được chọn.</p>"
+
+#: libviews/eventtypeview.cpp:96
+msgctxt "EventTypeView|"
+msgid "Set as Secondary Event Type"
+msgstr "Đặt làm Kiểu Sự Kiện Phụ"
+
+#: libviews/eventtypeview.cpp:98
+msgctxt "EventTypeView|"
+msgid "Hide Secondary Event Type"
+msgstr "Ẩn Kiểu Sự Kiện Phụ"
+
+#: libviews/eventtypeview.cpp:107
+msgctxt "EventTypeView|"
+msgid "Edit Long Name"
+msgstr "Sửa Tên Dài"
+
+#: libviews/eventtypeview.cpp:108
+msgctxt "EventTypeView|"
+msgid "Edit Short Name"
+msgstr "Sửa Tên Ngắn"
+
+#: libviews/eventtypeview.cpp:109
+msgctxt "EventTypeView|"
+msgid "Edit Formula"
+msgstr "Sửa Công thức"
+
+#: libviews/eventtypeview.cpp:110
+msgctxt "EventTypeView|"
+msgid "Remove"
+msgstr "Xoá"
+
+#: libviews/eventtypeview.cpp:119
+msgctxt "EventTypeView|"
+msgid "New Event Type..."
+msgstr "Loại sự kiện mới..."
+
+#: libviews/eventtypeview.cpp:154 libviews/eventtypeview.cpp:159
+#, qt-format
+msgctxt "EventTypeView|"
+msgid "New%1"
+msgstr "Mới%1"
+
+#: libviews/eventtypeview.cpp:160
+#, qt-format
+msgctxt "EventTypeView|"
+msgid "New Event Type %1"
+msgstr "Kiểu sự kiện mới %1"
+
+#: libviews/functionlistmodel.cpp:45
+msgctxt "FunctionListModel|"
+msgid "Incl."
+msgstr "Bao gồm"
+
+#: libviews/functionlistmodel.cpp:46
+msgctxt "FunctionListModel|"
+msgid "Self"
+msgstr "Bản thân"
+
+#: libviews/functionlistmodel.cpp:47
+msgctxt "FunctionListModel|"
+msgid "Called"
+msgstr "Đã gọi"
+
+#: libviews/functionlistmodel.cpp:48
+msgctxt "FunctionListModel|"
+msgid "Function"
+msgstr "Chức năng"
+
+#: libviews/functionlistmodel.cpp:49
+msgctxt "FunctionListModel|"
+msgid "Location"
+msgstr "Địa điểm"
+
+#: libviews/functionlistmodel.cpp:89
+#, qt-format
+msgctxt "FunctionListModel|"
+msgid "(%1 function(s) skipped)"
+msgstr "(%1 chức năng bị bỏ qua)"
+
+#: libviews/functionselection.cpp:87
+msgctxt "FunctionSelection|"
+msgid "Function Profile"
+msgstr "Hồ sơ chức năng"
+
+#: libviews/functionselection.cpp:95
+msgctxt "FunctionSelection|"
+msgid "&Search:"
+msgstr "&Tìm kiếm:"
+
+#: libviews/functionselection.cpp:101
+msgctxt "FunctionSelection|"
+msgid "Search Query"
+msgstr "Truy vấn tìm kiếm"
+
+#: libviews/functionselection.cpp:116
+msgctxt "FunctionSelection|"
+msgid "Self"
+msgstr "Bản thân"
+
+#: libviews/functionselection.cpp:116
+msgctxt "FunctionSelection|"
+msgid "Group"
+msgstr "Nhóm"
+
+#: libviews/functionselection.cpp:159 libviews/functionselection.cpp:504
+msgctxt "FunctionSelection|"
+msgid "(No Grouping)"
+msgstr "(Không nhóm)"
+
+#: libviews/functionselection.cpp:209
+msgctxt "FunctionSelection|"
+msgid ""
+"<b>The Flat Profile</b><p>The flat profile contains a group and a function "
+"selection list. The group list contains all groups where costs are spent in, "
+"depending on the chosen group type. The group list is hidden when group type "
+"'Function' is selected.</p><p>The function list contains the functions of "
+"the selected group (or all for 'Function' group type), ordered by the costs "
+"spent therein. Functions with costs less than 1% are hidden on default.</p>"
+msgstr ""
+"<b>Hồ sơ phẳng</b><p>Hồ sơ phẳng chứa một danh sách nhóm và phần bôi đen "
+"chức năng. Danh sách nhóm chứa tất cả các nhóm có chi phí, tùy thuộc vào "
+"kiểu nhóm được chọn. Danh sách nhóm sẽ bị ẩn khi kiểu nhóm 'Chức năng' được "
+"chọn.</p><p>Danh sách chức năng chứa các chức năng của nhóm đã chọn (hoặc "
+"tất cả đối với kiểu nhóm 'Chức năng'), được sắp xếp theo chi phí. Các chức "
+"năng có chi phí dưới 1% sẽ bị ẩn theo mặc định.</p>"
+
+#: libviews/functionselection.cpp:287
+#, qt-format
+msgctxt "FunctionSelection|"
+msgid "Go to '%1'"
+msgstr "Đi đến '%1'"
+
+#: libviews/functionselection.cpp:297 libviews/functionselection.cpp:317
+msgctxt "FunctionSelection|"
+msgid "Grouping"
+msgstr "Nhóm"
+
+#: libviews/functionselection.cpp:353
+msgctxt "FunctionSelection|"
+msgid "No Grouping"
+msgstr "Không nhóm"
+
+#: libviews/instritem.cpp:114 libviews/sourceitem.cpp:94
+#, qt-format
+msgctxt "QObject|"
+msgid "Active call to '%1'"
+msgstr "Cuộc gọi đang hoạt động đến '%1'"
+
+#: libviews/instritem.cpp:116 libviews/sourceitem.cpp:96
+#, qt-format
+msgctxt "QObject|"
+msgid "Call to '%1'"
+msgstr "Gọi '%1'"
+
+#: libviews/instritem.cpp:122 libviews/sourceitem.cpp:100
+#, qt-format
+msgctxt "QObject|"
+msgid "%n call(s) to '%2'"
+msgid_plural "%n call(s) to '%2'"
+msgstr[0] "%n lần gọi đến '%2'"
+
+#: libviews/instritem.cpp:155
+#, qt-format
+msgctxt "QObject|"
+msgid "Jump %1 of %2 times to 0x%3"
+msgstr "Nhảy %1 trong số %2 lần đến 0x%3"
+
+#: libviews/instritem.cpp:160
+#, qt-format
+msgctxt "QObject|"
+msgid "Jump %1 times to 0x%2"
+msgstr "Nhảy %1 lần đến 0x%2"
+
+#: libviews/instritem.cpp:201 libviews/sourceitem.cpp:184
+msgctxt "QObject|"
+msgid "(cycle)"
+msgstr "(chu kỳ)"
+
+#: libviews/instrview.cpp:193
+msgctxt "InstrView|"
+msgid "#"
+msgstr "#"
+
+#: libviews/instrview.cpp:194
+msgctxt "InstrView|"
+msgid "Cost"
+msgstr "Chi phí"
+
+#: libviews/instrview.cpp:195
+msgctxt "InstrView|"
+msgid "Cost 2"
+msgstr "Giá 2"
+
+#: libviews/instrview.cpp:197
+msgctxt "InstrView|"
+msgid "Hex"
+msgstr "Hex"
+
+#: libviews/instrview.cpp:199
+msgctxt "InstrView|"
+msgid "Assembly Instructions"
+msgstr "Hướng dẫn lắp ráp"
+
+#: libviews/instrview.cpp:200
+msgctxt "InstrView|"
+msgid "Source Position"
+msgstr "Vị trí nguồn"
+
+#: libviews/instrview.cpp:236
+msgctxt "InstrView|"
+msgid ""
+"<b>Annotated Machine Code</b><p>The annotated machine code list shows the "
+"assembly instructions of the current selected function together with (self) "
+"cost spent while executing an instruction. If this is a call instruction, "
+"lines with details on the call happening are inserted into the source: the "
+"cost spent inside of the call, the number of calls happening, and the call "
+"destination.</p><p>The machine code shown is generated with the 'objdump' "
+"utility from the 'binutils' package.</p><p>Select a line with call "
+"information to make the destination function of this call current.</p>"
+msgstr ""
+"<b>Mã máy được chú dẫn</b><p>Danh sách mã máy được chú dẫn hiển thị các "
+"lệnh assembly của chức năng đang được chọn cùng với chi phí (tự) tiêu tốn "
+"khi thực thi một lệnh. Nếu đây là một lệnh gọi, các dòng chi tiết về cuộc "
+"gọi xảy ra được chèn vào mã nguồn: chi phí tiêu tốn bên trong cuộc gọi, số "
+"lượng cuộc gọi xảy ra và đích đến của cuộc gọi.</p><p>Mã máy được hiển thị "
+"được tạo ra bằng tiện ích 'objdump' từ gói 'binutils'.</p><p>Chọn một dòng "
+"có thông tin cuộc gọi để đặt chức năng đích của cuộc gọi này làm hiện "
+"tại.</p>"
+
+#: libviews/instrview.cpp:265
+#, qt-format
+msgctxt "InstrView|"
+msgid "Go to '%1'"
+msgstr "Đi đến '%1'"
+
+#: libviews/instrview.cpp:270
+#, qt-format
+msgctxt "InstrView|"
+msgid "Go to Address %1"
+msgstr "Đi đến Địa chỉ %1"
+
+#: libviews/instrview.cpp:282
+msgctxt "InstrView|"
+msgid "Hex Code"
+msgstr "Mã Hex"
+
+#: libviews/instrview.cpp:573
+msgctxt "InstrView|"
+msgid "There is no instruction info in the profile data file."
+msgstr "Không có thông tin hướng dẫn trong tệp dữ liệu hồ sơ."
+
+#: libviews/instrview.cpp:575
+msgctxt "InstrView|"
+msgid "Tip: For Callgrind, rerun with option"
+msgstr "Mẹo: Đối với Callgrind, chạy lại với lựa chọn"
+
+#: libviews/instrview.cpp:576
+msgctxt "InstrView|"
+msgid "      --dump-instr=yes"
+msgstr "      --dump-instr=yes"
+
+#: libviews/instrview.cpp:577
+msgctxt "InstrView|"
+msgid "To see (conditional) jumps, additionally specify"
+msgstr "Để xem các nhảy (có điều kiện), hãy chỉ định thêm"
+
+#: libviews/instrview.cpp:578
+msgctxt "InstrView|"
+msgid "      --collect-jumps=yes"
+msgstr "      --collect-jumps=yes"
+
+#: libviews/instrview.cpp:826
+msgctxt "InstrView|"
+msgid "For annotated machine code, the following object file is needed:"
+msgstr "Để có mã máy được chú dẫn, cần có tệp đối tượng sau:"
+
+#: libviews/instrview.cpp:831
+msgctxt "InstrView|"
+msgid "This file can not be found."
+msgstr "Không thể tìm thấy tệp này."
+
+#: libviews/instrview.cpp:834
+msgctxt "InstrView|"
+msgid "If cross-compiled, set SYSROOT variable."
+msgstr "Nếu được biên dịch chéo, hãy đặt biến SYSROOT."
+
+#: libviews/instrview.cpp:858
+msgctxt "InstrView|"
+msgid "There is an error trying to execute the command"
+msgstr "Có lỗi khi cố gắng thực thi lệnh"
+
+#: libviews/instrview.cpp:862 libviews/instrview.cpp:1158
+msgctxt "InstrView|"
+msgid "Check that you have installed 'objdump'."
+msgstr "Hãy kiểm tra xem bạn đã cài đặt 'objdump' chưa."
+
+#: libviews/instrview.cpp:864 libviews/instrview.cpp:1160
+msgctxt "InstrView|"
+msgid "This utility can be found in the 'binutils' package."
+msgstr "Tiện ích này có thể được tìm thấy trong gói 'binutils'."
+
+#: libviews/instrview.cpp:966
+msgctxt "InstrView|"
+msgid "(No Instruction)"
+msgstr "(Không có hướng dẫn)"
+
+#: libviews/instrview.cpp:1134
+#, qt-format
+msgctxt "InstrView|"
+msgid "There are %n cost line(s) without machine code."
+msgid_plural "There are %n cost line(s) without machine code."
+msgstr[0] "Có %n dòng chi phí không có mã máy."
+
+#: libviews/instrview.cpp:1136
+msgctxt "InstrView|"
+msgid "This happens because the code of"
+msgstr "Điều này xảy ra vì mã của"
+
+#: libviews/instrview.cpp:1139
+msgctxt "InstrView|"
+msgid "does not seem to match the profile data file."
+msgstr "dường như không khớp với tệp dữ liệu hồ sơ."
+
+#: libviews/instrview.cpp:1142
+msgctxt "InstrView|"
+msgid "Are you using an old profile data file or is the above mentioned"
+msgstr ""
+"Bạn có đang sử dụng một tệp dữ liệu tiểu sử cũ hoặc là điều được đề cập ở "
+"trên"
+
+#: libviews/instrview.cpp:1144
+msgctxt "InstrView|"
+msgid "ELF object from an updated installation/another machine?"
+msgstr "ELF đối tượng từ một cài đặt/máy khác được cập nhật?"
+
+#: libviews/instrview.cpp:1152
+msgctxt "InstrView|"
+msgid "There seems to be an error trying to execute the command"
+msgstr "Có vẻ như đã xảy ra lỗi khi cố gắng thực thi lệnh"
+
+#: libviews/instrview.cpp:1156
+msgctxt "InstrView|"
+msgid "Check that the ELF object used in the command exists."
+msgstr "Kiểm tra xem đối tượng ELF được sử dụng trong lệnh có tồn tại hay không."
+
+#: libviews/partgraph.cpp:155
+#, qt-format
+msgctxt "QObject|"
+msgid "Profile Part %1"
+msgstr "Phần Tiểu sử %1"
+
+#: libviews/partgraph.cpp:212
+msgctxt "QObject|"
+msgid "(no trace)"
+msgstr "(không có dấu vết)"
+
+#: libviews/partgraph.cpp:215
+msgctxt "QObject|"
+msgid "(no part)"
+msgstr "(không có phần)"
+
+#: libviews/partlistitem.cpp:39
+msgctxt "QObject|"
+msgid "(none)"
+msgstr "(không)"
+
+#: libviews/partselection.cpp:48
+msgctxt "PartSelection|"
+msgid "Parts Overview"
+msgstr "Tổng quan về các bộ phận"
+
+#: libviews/partselection.cpp:61
+msgctxt "PartSelection|A thing's name"
+msgid "Name"
+msgstr "Tên"
+
+#: libviews/partselection.cpp:62
+msgctxt "PartSelection|"
+msgid "Cost"
+msgstr "Chi phí"
+
+#: libviews/partselection.cpp:69
+msgctxt "PartSelection|"
+msgid "(no trace parts)"
+msgstr "(không có phần vết)"
+
+#: libviews/partselection.cpp:96
+msgctxt "PartSelection|"
+msgid ""
+"<b>The Parts Overview</b><p>A trace consists of multiple trace parts when "
+"there are several profile data files from one profile run. The Trace Part "
+"Overview dockable shows these, horizontally ordered in execution time; the "
+"rectangle sizes are proportional to the total cost spent in the parts. You "
+"can select one or several parts to constrain all costs shown to these parts "
+"only.</p><p>The parts are further subdivided: there is a partitioning and an "
+"callee split mode: <ul><li>Partitioning: You see the partitioning into "
+"groups for a trace part, according to the group type selected. E.g. if ELF "
+"object groups are selected, you see colored rectangles for each used ELF "
+"object (shared library or executable), sized according to the cost spent "
+"therein.</li><li>Callee: A rectangle showing the inclusive cost of the "
+"current selected function in the trace part is shown. This is split up into "
+"smaller rectangles to show the costs of its callees.</li></ul></p>"
+msgstr ""
+"<b>Tổng quan về các Phần</b><p>Một bản theo dõi bao gồm nhiều phần theo dõi "
+"khi có nhiều tệp dữ liệu hồ sơ từ một lần chạy hồ sơ. Tổng quan Phần Theo "
+"dõi có thể gắn kết hiển thị những phần này, được sắp xếp theo thứ tự thời "
+"gian thực thi; kích thước hình chữ nhật tỷ lệ thuận với tổng chi phí dành "
+"cho các phần. Bạn có thể bôi đen một hoặc nhiều phần để giới hạn tất cả các "
+"chi phí hiển thị chỉ cho các phần này.</p><p>Các phần được chia nhỏ hơn "
+"nữa: có chế độ phân vùng và chế độ tách callee: <ul><li>Phân vùng: Bạn thấy "
+"việc phân vùng thành các nhóm cho một phần theo dõi, theo kiểu nhóm được "
+"chọn. Vd. nếu các nhóm đối tượng ELF được chọn, bạn sẽ thấy các hình chữ "
+"nhật có màu cho mỗi đối tượng ELF được sử dụng (thư viện chia sẻ hoặc tệp "
+"thực thi), có kích thước tương ứng với chi phí dành cho nó.</li><li>Callee: "
+"Một hình chữ nhật hiển thị chi phí bao gồm của chức năng hiện được chọn "
+"trong phần theo dõi được hiển thị. Điều này được chia thành các hình chữ "
+"nhật nhỏ hơn để hiển thị chi phí của các callee của nó.</li></ul></p>"
+
+#: libviews/partselection.cpp:231
+#, qt-format
+msgctxt "PartSelection|"
+msgid "Profile Part Overview: Current is '%1'"
+msgstr "Tổng quan về Phần Hồ sơ: Hiện tại là '%1'"
+
+#: libviews/partselection.cpp:337
+#, qt-format
+msgctxt "PartSelection|"
+msgid "Deselect '%1'"
+msgstr "Bỏ chọn '%1'"
+
+#: libviews/partselection.cpp:339
+#, qt-format
+msgctxt "PartSelection|"
+msgid "Select '%1'"
+msgstr "Chọn '%1'"
+
+#: libviews/partselection.cpp:344
+msgctxt "PartSelection|"
+msgid "Select All Parts"
+msgstr "Bôi đen tất cả các phần"
+
+#: libviews/partselection.cpp:345
+msgctxt "PartSelection|"
+msgid "Visible Parts"
+msgstr "Các phần hiển thị"
+
+#: libviews/partselection.cpp:346
+msgctxt "PartSelection|"
+msgid "Hide Selected Parts"
+msgstr "Ẩn các bộ phận đã chọn"
+
+#: libviews/partselection.cpp:347
+msgctxt "PartSelection|"
+msgid "Show Hidden Parts"
+msgstr "Hiện các phần ẩn"
+
+#: libviews/partselection.cpp:361
+#, qt-format
+msgctxt "PartSelection|"
+msgid "Go to '%1'"
+msgstr "Đi đến '%1'"
+
+#: libviews/partselection.cpp:370
+msgctxt "PartSelection|"
+msgid "Visualization"
+msgstr "Trực quan hóa"
+
+#: libviews/partselection.cpp:371
+msgctxt "PartSelection|"
+msgid "Partitioning Mode"
+msgstr "Chế độ phân vùng"
+
+#: libviews/partselection.cpp:373
+msgctxt "PartSelection|"
+msgid "Zoom Function"
+msgstr "Chức năng thu phóng"
+
+#: libviews/partselection.cpp:375
+msgctxt "PartSelection|"
+msgid "Show Direct Calls"
+msgstr "Hiển thị các cuộc gọi trực tiếp"
+
+#: libviews/partselection.cpp:376
+msgctxt "PartSelection|"
+msgid "Increment Shown Call Levels"
+msgstr "Tăng Mức Gọi Hiển Thị"
+
+#: libviews/partselection.cpp:377
+msgctxt "PartSelection|"
+msgid "Diagram Mode"
+msgstr "Chế độ sơ đồ"
+
+#: libviews/partselection.cpp:392
+msgctxt "PartSelection|"
+msgid "Draw Names"
+msgstr "Vẽ tên"
+
+#: libviews/partselection.cpp:394
+msgctxt "PartSelection|"
+msgid "Draw Costs"
+msgstr "Vẽ Chi Phí"
+
+#: libviews/partselection.cpp:396
+msgctxt "PartSelection|"
+msgid "Ignore Proportions"
+msgstr "Bỏ qua tỷ lệ"
+
+#: libviews/partselection.cpp:398
+msgctxt "PartSelection|"
+msgid "Allow Rotation"
+msgstr "Cho phép xoay"
+
+#: libviews/partselection.cpp:400
+msgctxt "PartSelection|"
+msgid "Draw Frames"
+msgstr "Vẽ khung"
+
+#: libviews/partselection.cpp:414
+msgctxt "PartSelection|"
+msgid "Hide Info"
+msgstr "Ẩn thông tin"
+
+#: libviews/partselection.cpp:414
+msgctxt "PartSelection|"
+msgid "Show Info"
+msgstr "Hiển thị thông tin"
+
+#: libviews/partselection.cpp:562
+msgctxt "PartSelection|"
+msgid "(no trace loaded)"
+msgstr "(không có dấu vết nào được tải)"
+
+#: libviews/partview.cpp:37
+msgctxt "PartView|"
+msgid "Profile Part"
+msgstr "Hồ sơ Part"
+
+#: libviews/partview.cpp:38
+msgctxt "PartView|"
+msgid "Incl."
+msgstr "Bao gồm."
+
+#: libviews/partview.cpp:39
+msgctxt "PartView|"
+msgid "Self"
+msgstr "Bản thân"
+
+#: libviews/partview.cpp:40
+msgctxt "PartView|"
+msgid "Called"
+msgstr "Đã gọi"
+
+#: libviews/partview.cpp:41
+msgctxt "PartView|"
+msgid "Comment"
+msgstr "Chú thích"
+
+#: libviews/partview.cpp:68
+msgctxt "PartView|"
+msgid ""
+"<b>Trace Part List</b><p>This list shows all trace parts of the loaded "
+"trace. For each part, the self/inclusive cost of the current selected "
+"function, spent in the part, is shown; percentage costs are always relative "
+"to the total cost <em>of the part</em> (not to the whole trace as in the "
+"Trace Part Overview). Also shown are the calls happening to/from the current "
+"function inside of the trace part.</p><p>By choosing one or more trace parts "
+"from the list, the costs shown all over KCachegrind will only be the ones "
+"spent in the selected part(s). If no list selection is shown, in fact all "
+"trace parts are selected implicitly.</p><p>This is a multi-selection list. "
+"You can select ranges by dragging the mouse or use SHIFT/CTRL modifiers. "
+"Selection/Deselection of trace parts can also be done by using the Trace "
+"Part Overview Dockable. This one also supports multiple "
+"selection.</p><p>Note that the list is hidden if only one trace part is "
+"loaded.</p>"
+msgstr ""
+"<b>Danh sách Phần Theo Dõi</b><p>Danh sách này hiển thị tất cả các phần "
+"theo dõi của bản theo dõi đã tải. Đối với mỗi phần, chi phí riêng/bao gồm "
+"của chức năng đang được chọn, được sử dụng trong phần đó, được hiển thị; "
+"phần trăm chi phí luôn tương đối so với tổng chi phí <em>của phần đó</em> "
+"(không phải so với toàn bộ bản theo dõi như trong Tổng quan Phần Theo Dõi). "
+"Ngoài ra còn hiển thị các lệnh gọi xảy ra đến/từ chức năng hiện tại bên "
+"trong phần theo dõi.</p><p>Bằng cách chọn một hoặc nhiều phần theo dõi từ "
+"danh sách, chi phí hiển thị trên toàn bộ KCachegrind sẽ chỉ là những chi "
+"phí được sử dụng trong (các) phần đã chọn. Nếu không có phần bôi đen nào "
+"được hiển thị trong danh sách, thực tế tất cả các phần theo dõi đều được "
+"chọn ngầm định.</p><p>Đây là danh sách có thể chọn nhiều mục. Bạn có thể "
+"bôi đen các phạm vi bằng cách kéo chuột hoặc sử dụng phím SHIFT/CTRL. Việc "
+"bôi đen/bỏ bôi đen các phần theo dõi cũng có thể được thực hiện bằng cách "
+"sử dụng Tổng quan Phần Theo Dõi có thể gắn kết. Phần này cũng hỗ trợ chọn "
+"nhiều mục.</p><p>Lưu ý rằng danh sách sẽ bị ẩn nếu chỉ có một phần theo dõi "
+"được tải.</p>"
+
+#: libviews/sourceitem.cpp:141
+#, qt-format
+msgctxt "QObject|"
+msgid "Jump %1 of %2 times to %3"
+msgstr "Nhảy %1 trong số %2 lần đến %3"
+
+#: libviews/sourceitem.cpp:146
+#, qt-format
+msgctxt "QObject|"
+msgid "Jump %1 times to %2"
+msgstr "Nhảy %1 lần đến %2"
+
+#: libviews/sourceview.cpp:51
+msgctxt "SourceView|"
+msgid "#"
+msgstr "Mã"
+
+#: libviews/sourceview.cpp:52
+msgctxt "SourceView|"
+msgid "Cost"
+msgstr "Chi phí"
+
+#: libviews/sourceview.cpp:53
+msgctxt "SourceView|"
+msgid "Cost 2"
+msgstr "Chi phí 2"
+
+#: libviews/sourceview.cpp:55
+msgctxt "SourceView|"
+msgid "Source"
+msgstr "Nguồn"
+
+#: libviews/sourceview.cpp:83
+msgctxt "SourceView|"
+msgid ""
+"<b>Annotated Source</b><p>The annotated source list shows the source lines "
+"of the current selected function together with (self) cost spent while "
+"executing the code of this source line. If there was a call in a source "
+"line, lines with details on the call happening are inserted into the source: "
+"the cost spent inside of the call, the number of calls happening, and the "
+"call destination.</p><p>Select a inserted call information line to make the "
+"destination function current.</p>"
+msgstr ""
+"<b>Mã nguồn chú dẫn</b><p>Danh sách mã nguồn chú dẫn hiển thị các dòng mã "
+"nguồn của chức năng đang được chọn cùng với chi phí (tự thân) được sử dụng "
+"trong quá trình thực thi mã của dòng mã nguồn này. Nếu có một lệnh gọi "
+"trong một dòng mã nguồn, các dòng chi tiết về lệnh gọi đó sẽ được chèn vào "
+"mã nguồn: chi phí sử dụng bên trong lệnh gọi, số lượng lệnh gọi xảy ra và "
+"đích đến của lệnh gọi.</p><p>Chọn một dòng thông tin lệnh gọi được chèn để "
+"đặt chức năng đích làm chức năng hiện tại.</p>"
+
+#: libviews/sourceview.cpp:110
+#, qt-format
+msgctxt "SourceView|"
+msgid "Go to '%1'"
+msgstr "Đi đến '%1'"
+
+#: libviews/sourceview.cpp:115
+#, qt-format
+msgctxt "SourceView|"
+msgid "Go to Line %1"
+msgstr "Đi đến dòng %1"
+
+#: libviews/sourceview.cpp:627
+msgctxt "SourceView|"
+msgid "There is no cost of current selected type associated"
+msgstr "Không có chi phí nào liên quan đến kiểu đã chọn"
+
+#: libviews/sourceview.cpp:629
+msgctxt "SourceView|"
+msgid "with any source line of this function in file"
+msgstr "với bất kỳ dòng nguồn nào của chức năng này trong tệp"
+
+#: libviews/sourceview.cpp:633
+msgctxt "SourceView|"
+msgid "Thus, no annotated source can be shown."
+msgstr "Do đó, không thể hiển thị nguồn đã được chú dẫn."
+
+#: libviews/sourceview.cpp:658
+#, qt-format
+msgctxt "SourceView|"
+msgid "--- From '%1' ---"
+msgstr "--- Từ '%1' ---"
+
+#: libviews/sourceview.cpp:663
+#, qt-format
+msgctxt "SourceView|"
+msgid "--- Inlined from '%1' ---"
+msgstr "--- Được nhúng từ '%1' ---"
+
+#: libviews/sourceview.cpp:664
+msgctxt "SourceView|"
+msgid "--- Inlined from unknown source ---"
+msgstr "--- Được nhúng từ nguồn không rõ ---"
+
+#: libviews/sourceview.cpp:669
+msgctxt "SourceView|"
+msgid "There is no source available for the following function:"
+msgstr "Không có mã nguồn khả dụng cho hàm sau:"
+
+#: libviews/sourceview.cpp:674
+msgctxt "SourceView|"
+msgid "This is because no debug information is present."
+msgstr "Đây là do không có thông tin gỡ lỗi hiện diện."
+
+#: libviews/sourceview.cpp:676
+msgctxt "SourceView|"
+msgid "Recompile source and redo the profile run."
+msgstr "Biên dịch lại mã nguồn và làm lại quá trình hồ sơ."
+
+#: libviews/sourceview.cpp:679
+msgctxt "SourceView|"
+msgid "The function is located in this ELF object:"
+msgstr "Chức năng này được định vị trong đối tượng ELF này:"
+
+#: libviews/sourceview.cpp:687
+msgctxt "SourceView|"
+msgid "This is because its source file cannot be found:"
+msgstr "Đây là vì tệp nguồn của nó không thể được tìm thấy:"
+
+#: libviews/sourceview.cpp:691
+msgctxt "SourceView|"
+msgid "Add the folder of this file to the source folder list."
+msgstr "Thêm thư mục của tệp này vào danh sách thư mục nguồn."
+
+#: libviews/sourceview.cpp:693
+msgctxt "SourceView|"
+msgid "The list can be found in the configuration dialog."
+msgstr "Danh sách có thể được tìm thấy trong hộp thoại cấu hình."
+
+#: libviews/stackselection.cpp:36
+msgctxt "StackSelection|"
+msgid "Stack Selection"
+msgstr "Phần bôi đen Ngăn xếp"
+
+#: libviews/stackselection.cpp:44
+msgctxt "StackSelection|"
+msgid "Cost"
+msgstr "Chi phí"
+
+#: libviews/stackselection.cpp:45
+msgctxt "StackSelection|"
+msgid "Cost2"
+msgstr "Chi phí2"
+
+#: libviews/stackselection.cpp:46
+msgctxt "StackSelection|"
+msgid "Calls"
+msgstr "Cuộc gọi"
+
+#: libviews/stackselection.cpp:47
+msgctxt "StackSelection|"
+msgid "Function"
+msgstr "Chức năng"
+
+#: libviews/tabview.cpp:103
+msgctxt "TabBar|"
+msgid "Move to Top"
+msgstr "Di chuyển lên trên"
+
+#: libviews/tabview.cpp:104
+msgctxt "TabBar|Move to Top"
+msgid "Top"
+msgstr "Trên cùng"
+
+#: libviews/tabview.cpp:107
+msgctxt "TabBar|"
+msgid "Move to Right"
+msgstr "Di chuyển sang phải"
+
+#: libviews/tabview.cpp:108
+msgctxt "TabBar|Move to Right"
+msgid "Right"
+msgstr "Phải"
+
+#: libviews/tabview.cpp:111
+msgctxt "TabBar|"
+msgid "Move to Bottom"
+msgstr "Di chuyển xuống dưới"
+
+#: libviews/tabview.cpp:112
+msgctxt "TabBar|Move to Bottom"
+msgid "Bottom"
+msgstr "Dưới cùng"
+
+#: libviews/tabview.cpp:115
+msgctxt "TabBar|"
+msgid "Move to Bottom Left"
+msgstr "Di chuyển đến Dưới Cùng Bên Trái"
+
+#: libviews/tabview.cpp:116
+msgctxt "TabBar|Move to Bottom Left"
+msgid "Bottom Left"
+msgstr "Dưới cùng bên trái"
+
+#: libviews/tabview.cpp:118
+msgctxt "TabBar|"
+msgid "Move Area To"
+msgstr "Di Chuyển Đến"
+
+#: libviews/tabview.cpp:121
+msgctxt "TabBar|"
+msgid "Hide This Tab"
+msgstr "Ẩn Thẻ Này"
+
+#: libviews/tabview.cpp:122
+msgctxt "TabBar|"
+msgid "Hide Area"
+msgstr "Ẩn Khu Vực"
+
+#: libviews/tabview.cpp:131
+msgctxt "TabBar|Show on Top"
+msgid "Top"
+msgstr "Trên cùng"
+
+#: libviews/tabview.cpp:132
+msgctxt "TabBar|Show on Right"
+msgid "Right"
+msgstr "Phải"
+
+#: libviews/tabview.cpp:133
+msgctxt "TabBar|Show on Bottom"
+msgid "Bottom"
+msgstr "Dưới"
+
+#: libviews/tabview.cpp:134
+msgctxt "TabBar|Show on Bottom Left"
+msgid "Bottom Left"
+msgstr "Dưới cùng bên trái"
+
+#: libviews/tabview.cpp:135
+msgctxt "TabBar|"
+msgid "Show Hidden On"
+msgstr "Hiện Ẩn Bật"
+
+#: libviews/tabview.cpp:308 libviews/tabview.cpp:310 libviews/tabview.cpp:727
+msgctxt "TabView|"
+msgid "(No profile data file loaded)"
+msgstr "(Không có tệp dữ liệu tiểu sử được tải)"
+
+#: libviews/tabview.cpp:370
+msgctxt "TabView|"
+msgid "Types"
+msgstr "Các loại"
+
+#: libviews/tabview.cpp:373
+msgctxt "TabView|"
+msgid "Callers"
+msgstr "Người gọi"
+
+#: libviews/tabview.cpp:374
+msgctxt "TabView|"
+msgid "All Callers"
+msgstr "Tất cả người gọi"
+
+#: libviews/tabview.cpp:375
+msgctxt "TabView|"
+msgid "Callee Map"
+msgstr "Bản đồ người gọi"
+
+#: libviews/tabview.cpp:378
+msgctxt "TabView|"
+msgid "Source Code"
+msgstr "Mã nguồn"
+
+#: libviews/tabview.cpp:380
+msgctxt "TabView|"
+msgid "Parts"
+msgstr "Các phần"
+
+#: libviews/tabview.cpp:381
+msgctxt "TabView|"
+msgid "Callees"
+msgstr "Người được gọi"
+
+#: libviews/tabview.cpp:382
+msgctxt "TabView|"
+msgid "Call Graph"
+msgstr "Đồ thị gọi"
+
+#: libviews/tabview.cpp:385
+msgctxt "TabView|"
+msgid "All Callees"
+msgstr "Tất cả các cuộc gọi"
+
+#: libviews/tabview.cpp:386
+msgctxt "TabView|"
+msgid "Caller Map"
+msgstr "Bản đồ người gọi"
+
+#: libviews/tabview.cpp:389
+msgctxt "TabView|"
+msgid "Machine Code"
+msgstr "Mã máy"
+
+#: libviews/tabview.cpp:643
+msgctxt "TabView|"
+msgid ""
+"<b>Information Tabs</b><p>This widget shows information for the currently "
+"selected function in different tabs: <ul><li>The Costs tab shows a list of "
+"available event types and the inclusive and self-costs related to these "
+"types.</li><li>The Parts tab shows a list of trace parts if the trace "
+"consists of more than one part (otherwise, this tab is hidden). The cost of "
+"the selected function spent in the different parts together with the calls "
+"happening is shown.</li><li>The Call Lists tab shows direct callers and "
+"callees of the function in more detail.</li><li>The Coverage tab shows the "
+"same as the Call Lists tab, but also shows indirect callers and callees, not "
+"just direct ones.</li><li>The Call Graph tab shows a graphical visualization "
+"of the calls made by this function.</li><li>The Source Code tab presents "
+"annotated source code if debugging information and the source file are "
+"available.</li><li>The Machine Code tab presents annotated assembly "
+"instructions if profile information at instruction level is "
+"available.</li></ul>For more information, see the <em>What's This?</em> help "
+"of the corresponding tab widget.</p>"
+msgstr ""
+"<b>Các thẻ thông tin</b><p>Phụ kiện này hiển thị thông tin cho chức năng "
+"đang được chọn trong các thẻ khác nhau: <ul><li>Thẻ Chi phí hiển thị danh "
+"sách các loại sự kiện hiện có và chi phí bao gồm và tự thân liên quan đến "
+"các loại này.</li><li>Thẻ Phần hiển thị danh sách các phần theo dõi nếu quá "
+"trình theo dõi bao gồm nhiều hơn một phần (nếu không, thẻ này sẽ bị ẩn). "
+"Chi phí của chức năng được chọn trong các phần khác nhau cùng với các lệnh "
+"gọi xảy ra được hiển thị.</li><li>Thẻ Danh sách cuộc gọi hiển thị chi tiết "
+"hơn về người gọi trực tiếp và người được gọi của chức năng.</li><li>Thẻ "
+"Phạm vi hiển thị tương tự như thẻ Danh sách cuộc gọi, nhưng cũng hiển thị "
+"người gọi và người được gọi gián tiếp, không chỉ trực tiếp.</li><li>Thẻ "
+"Biểu đồ cuộc gọi hiển thị trực quan đồ họa về các cuộc gọi được thực hiện "
+"bởi chức năng này.</li><li>Thẻ Mã nguồn trình bày mã nguồn được chú dẫn nếu "
+"thông tin gỡ lỗi và tệp nguồn có sẵn.</li><li>Thẻ Mã máy trình bày các "
+"hướng dẫn assembly được chú dẫn nếu thông tin hồ sơ ở cấp độ hướng dẫn có "
+"sẵn.</li></ul>Để biết thêm thông tin, xem trợ giúp <em>Cái này là gì?</em> "
+"của phụ kiện thẻ tương ứng.</p>"
+
+#: libviews/tabview.cpp:728
+msgctxt "TabView|"
+msgid "(No function selected)"
+msgstr "(Không có chức năng được chọn)"
+
+#: libviews/traceitemview.cpp:67
+msgctxt "QObject|"
+msgid "No description available"
+msgstr "Không có mô tả khả dụng"
+
+#: libviews/treemap.cpp:1335
+#, qt-format
+msgctxt "TreeMapWidget|"
+msgid "Text %1"
+msgstr "Văn bản %1"
+
+#: libviews/treemap.cpp:2860
+msgctxt "TreeMapWidget|"
+msgid "Recursive Bisection"
+msgstr "Phân chia đệ quy"
+
+#: libviews/treemap.cpp:2861
+msgctxt "TreeMapWidget|"
+msgid "Columns"
+msgstr "Cột"
+
+#: libviews/treemap.cpp:2862
+msgctxt "TreeMapWidget|"
+msgid "Rows"
+msgstr "Hàng"
+
+#: libviews/treemap.cpp:2863
+msgctxt "TreeMapWidget|"
+msgid "Always Best"
+msgstr "Luôn Tốt Nhất"
+
+#: libviews/treemap.cpp:2864
+msgctxt "TreeMapWidget|"
+msgid "Best"
+msgstr "Tốt nhất"
+
+#: libviews/treemap.cpp:2865
+msgctxt "TreeMapWidget|"
+msgid "Alternate (V)"
+msgstr "Thay đổi (V)"
+
+#: libviews/treemap.cpp:2866
+msgctxt "TreeMapWidget|"
+msgid "Alternate (H)"
+msgstr "Thay đổi (H)"
+
+#: libviews/treemap.cpp:2867
+msgctxt "TreeMapWidget|"
+msgid "Horizontal"
+msgstr "Ngang"
+
+#: libviews/treemap.cpp:2868
+msgctxt "TreeMapWidget|"
+msgid "Vertical"
+msgstr "Dọc"

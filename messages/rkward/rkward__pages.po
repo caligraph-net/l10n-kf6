@@ -1,0 +1,2806 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the rkward package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: rkward\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-10 00:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#. i18n: ectx: (RKWard Add-Ons) <title>
+#: rkward/pages/rkward_addons.rkh:8
+#, kde-format
+msgid "RKWard Add-Ons"
+msgstr "Phần bổ sung của RKWard"
+
+#. i18n: ectx: (RKWard Add-Ons) <summary>
+#: rkward/pages/rkward_addons.rkh:9
+#, kde-format
+msgid ""
+"To offer you the best features, RKWard combines different technologies. "
+"Arguably this can make it a bit confusing on where to find the addon "
+"features you are looking for."
+msgstr ""
+"Để cung cấp cho bạn những tính năng tốt nhất, RKWard kết hợp nhiều công "
+"nghệ khác nhau. Điều này có thể khiến bạn hơi lúng túng khi tìm kiếm các "
+"phần bổ sung mà bạn đang tìm kiếm."
+
+#. i18n: ectx: (RKWard Add-Ons) <summary>
+#: rkward/pages/rkward_addons.rkh:9
+#, kde-format
+msgid "In a nutshell:"
+msgstr "Tóm lại:"
+
+#. i18n: ectx: (RKWard Add-Ons) <summary>
+#: rkward/pages/rkward_addons.rkh:9
+#, kde-format
+msgid ""
+"<strong>R packages</strong> offer a sheer incredible amount of data "
+"algorithms and tools. This functionality is (mostly) provided in the form of "
+"additional R functions that you can use in scripts, or in the interactive R "
+"console."
+msgstr ""
+"<strong>Các gói R</strong> cung cấp một lượng đáng kinh ngạc các thuật toán "
+"và công cụ xử lý dữ liệu. Chức năng này (phần lớn) được cung cấp dưới dạng "
+"các chức năng R bổ sung mà bạn có thể sử dụng trong các tập lệnh hoặc trong "
+"bảng điều khiển R tương tác."
+
+#. i18n: ectx: (RKWard Add-Ons) <summary>
+#: rkward/pages/rkward_addons.rkh:9
+#, kde-format
+msgid ""
+"<strong>Kate add-ons</strong>: Kate is the engine behind RKWard's script "
+"editor. It comes with powerful add-on features, many of which should come "
+"pre-installed with RKWard. However, due to their sheer number, not all are "
+"activated by default. It can further be extended with custom scripts, or "
+"color-schemes."
+msgstr ""
+"<strong>Phần bổ sung Kate</strong>: Kate là dụng cụ đằng sau trình soạn "
+"thảo kịch bản của RKWard. Nó đi kèm với các tính năng bổ sung mạnh mẽ, "
+"nhiều tính năng trong số đó nên được cài đặt sẵn với RKWard. Tuy nhiên, do "
+"số lượng lớn của chúng, không phải tất cả đều được kích hoạt theo mặc định. "
+"Nó có thể được mở rộng thêm với các kịch bản tùy chỉnh hoặc các bảng màu."
+
+#. i18n: ectx: (RKWard Add-Ons) <summary>
+#: rkward/pages/rkward_addons.rkh:9
+#, kde-format
+msgid ""
+"<strong>RKWard plugins</strong>: If you are looking for a graphical dialog "
+"to help you import/convert/analyse/visualize your data, such dialogs are "
+"mostly implemented as plugin-ins in RKWard. Many such plugins are available "
+"for download, separately."
+msgstr ""
+"<strong>Phần bổ trợ RKWard</strong>: Nếu bạn đang tìm kiếm một hộp thoại đồ "
+"họa để trợ giúp bạn nhập/chuyển đổi/phân tích/trực quan hóa dữ liệu của "
+"mình, những hộp thoại như vậy chủ yếu được triển khai dưới dạng phần bổ trợ "
+"trong RKWard. Nhiều phần bổ trợ như vậy hiện có sẵn để tải xuống riêng "
+"biệt."
+
+#. i18n: ectx: (RKWard Add-Ons) <summary>
+#: rkward/pages/rkward_addons.rkh:9
+#, kde-format
+msgid ""
+"The following sections deal with these, in turn, showing you how to find / "
+"install, what you need."
+msgstr ""
+"Các phần sau đây sẽ xử lý những điều này, lần lượt, cho bạn biết cách "
+"tìm/cài đặt, những gì bạn cần."
+
+#. i18n: ectx: (RKWard Add-Ons) <section title="...">
+#: rkward/pages/rkward_addons.rkh:24
+#, kde-format
+msgid "R packages"
+msgstr "Các gói R"
+
+#. i18n: ectx: (RKWard Add-Ons) <section title="R packages">
+#: rkward/pages/rkward_addons.rkh:24
+#, kde-format
+msgid ""
+"In addition to the regular R command line tools for managing R packages (see "
+"<link href=\"rkward://rhelp/install.packages\"/>), RKWard offers a graphical "
+"dialog to search, install and/or load packages (Settings->Manage R packages "
+"and plugins)."
+msgstr ""
+"Ngoài các công cụ dòng lệnh R thông thường để quản lý các gói R (xem <link "
+"href=\"rkward://rhelp/install.packages\"/>), RKWard cung cấp một hộp thoại "
+"đồ họa để tìm kiếm, cài đặt và/hoặc tải các gói (Cài đặt->Quản lý các gói R "
+"và plugin)."
+
+#. i18n: ectx: (RKWard Add-Ons) <section title="R packages">
+#: rkward/pages/rkward_addons.rkh:24
+#, kde-format
+msgid ""
+"Note that, by default, R packages are distributed as compiled binaries on "
+"Windows and MacOS, but not Linux. While for the latter, installation from "
+"source is fully automated, you may still have to install additional "
+"libraries or other software for the compilation."
+msgstr ""
+"Lưu ý rằng, theo mặc định, các gói R được phân phối dưới dạng nhị phân đã "
+"biên dịch trên Windows và MacOS, nhưng không phải trên Linux. Trong khi đối "
+"với Linux, việc cài đặt từ mã nguồn được tự động hóa hoàn toàn, bạn vẫn có "
+"thể phải cài đặt thêm các thư viện hoặc phần mềm khác để thực hiện quá "
+"trình biên dịch."
+
+#. i18n: ectx: (RKWard Add-Ons) <section title="...">
+#: rkward/pages/rkward_addons.rkh:32
+#, kde-format
+msgid "Kate Add-ons"
+msgstr "Phần bổ sung của Kate"
+
+#. i18n: ectx: (RKWard Add-Ons) <section title="Kate Add-ons">
+#: rkward/pages/rkward_addons.rkh:32
+#, kde-format
+msgid ""
+"<link href=\"https://kate.kde.org\">Kate</link> is a very powerful text "
+"editor using the same text editing component that is also used in RKWard. It "
+"also comes with a variety of add-ons, e.g. for creating code snippets, or "
+"for managing projects in a git repository. Some of these - like e.g. the C++ "
+"backtrace navigation tool do not make much sense in the context of RKWard, "
+"but many do. To explore what is available, make sure you have kate "
+"installed, then visit <link href=\"rkward://settings/addons\">Settings-"
+">Addons</link>. Addons shown in bold have been reported to be useful and "
+"work well in RKWard, but feel free to explore the others, too."
+msgstr ""
+"<link href=\"https://kate.kde.org\">Kate</link> là một trình biên tập văn "
+"bản rất mạnh mẽ sử dụng cùng một thành phần chỉnh sửa văn bản được sử dụng "
+"trong RKWard. Nó cũng đi kèm với nhiều phần bổ sung, vd. để tạo các đoạn "
+"mã, hoặc để quản lý các dự án trong kho git. Một số trong đó - như công cụ "
+"điều hướng vết ngăn xếp C++ không có nhiều ý nghĩa trong ngữ cảnh của "
+"RKWard, nhưng nhiều cái khác thì có. Để khám phá những gì có sẵn, hãy đảm "
+"bảo bạn đã cài đặt kate, sau đó xem <link "
+"href=\"rkward://settings/addons\">Cài đặt->Phần bổ sung</link>. Các phần bổ "
+"sung được hiển thị in đậm đã được báo cáo là hữu ích và hoạt động tốt trong "
+"RKWard, nhưng bạn cũng có thể tự do khám phá các phần khác."
+
+#. i18n: ectx: (RKWard Add-Ons) <section title="...">
+#: rkward/pages/rkward_addons.rkh:39
+#, kde-format
+msgid "RKWard Plugins"
+msgstr "Các plugin của RKWard"
+
+#. i18n: ectx: (RKWard Add-Ons) <section title="RKWard Plugins">
+#: rkward/pages/rkward_addons.rkh:39
+#, kde-format
+msgid ""
+"RKWard plugins can be installed from a variety of sources, but the usual "
+"distribution of add-on packages is via R packages. To look for R packages "
+"that provide RKWard graphical dialogs, use the regular dialog (<link href="
+"\"rkward://actions/rpackage_install\">Settings->Manage R packages and "
+"plugins</link>), and check the option \"Show only packages providing RKWard "
+"dialogs\"."
+msgstr ""
+"Các plugin RKWard có thể được cài đặt từ nhiều nguồn khác nhau, nhưng bản "
+"phân phối thông thường của các gói phần bổ sung là thông qua các gói R. Để "
+"tìm kiếm các gói R cung cấp hộp thoại đồ họa RKWard, hãy sử dụng hộp thoại "
+"thông thường (<link href=\"rkward://actions/rpackage_install\">Cài "
+"đặt->Quản lý gói R và plugin</link>), và chọn lựa chọn \"Chỉ hiển thị các "
+"gói cung cấp hộp thoại RKWard\"."
+
+#. i18n: ectx: (RKWard Add-Ons) <section title="RKWard Plugins">
+#: rkward/pages/rkward_addons.rkh:39
+#, kde-format
+msgid ""
+"Not all RKWard plugins packaged this way will be visible in the R package "
+"installation dialog, as they are not hosted (yet) in the default "
+"repositories, notably, at the time of this writing, the very extensive <link "
+"href=\"https://github.com/rkward-community/rk.Teaching\">rk.Teaching</link> "
+"set of plugins. Many of these are hosted on platforms such as github.com, "
+"and knowing the repository url, can be installed with few clicks, using "
+"<link href=\"rkward://runplugin/rkward::install_from_git/fullURL."
+"text=https://github.com/rkward-community/rk.Teaching.git\">this dialog</"
+"link> (pre-initialized for installation of rk.Teaching)."
+msgstr ""
+"Không phải tất cả các plugin RKWard được đóng gói theo cách này sẽ hiển thị "
+"trong hộp thoại cài đặt gói R, vì chúng chưa được lưu trữ trong các kho mặc "
+"định, đáng chú ý là tại thời điểm viết bài này, bộ plugin <link "
+"href=\"https://github.com/rkward-community/rk.Teaching\">rk.Teaching</link> "
+"rất mở rộng. Nhiều plugin trong số này được lưu trữ trên các nền tảng như "
+"github.com, và khi biết URL của kho, có thể được cài đặt chỉ với vài cú "
+"nhấp chuột, sử dụng <link "
+"href=\"rkward://runplugin/rkward::install_from_git/fullURL.text=https://github.com/rkward-community/rk.Teaching.git\">hộp "
+"thoại này</link> (được khởi tạo sẵn để cài đặt rk.Teaching)."
+
+#. i18n: ectx: (RKWard Add-Ons) <section title="...">
+#: rkward/pages/rkward_addons.rkh:47
+#, kde-format
+msgid "Creating your own RKWard Plugins"
+msgstr "Tạo các Plugin RKWard của riêng bạn"
+
+#. i18n: ectx: (RKWard Add-Ons) <section title="Creating your own RKWard Plugins">
+#: rkward/pages/rkward_addons.rkh:47
+#, kde-format
+msgid "Still missing something?"
+msgstr "Vẫn còn thiếu gì đó?"
+
+#. i18n: ectx: (RKWard Add-Ons) <section title="Creating your own RKWard Plugins">
+#: rkward/pages/rkward_addons.rkh:47
+#, kde-format
+msgid ""
+"Check out the <link href=\"help:/rkwardplugins/index.html\">Introduction to "
+"Writing Plugins for RKWard</link> (<link href=\"https://rkward.kde.org/doc/"
+"rkwardplugins/\">most recent version online</link>) to learn how easy it is "
+"to enhance RKWard with your custom dialogs. And if you like, how to share "
+"your work with the community of RKWard users. See the <link href=\"rkward://"
+"rhelp/rkward-package\">rkward package overview</link> for RKWard specific "
+"function for development and scripting."
+msgstr ""
+"Hãy xem <link href=\"help:/rkwardplugins/index.html\">Giới thiệu về Viết "
+"Plugin cho RKWard</link> (<link "
+"href=\"https://rkward.kde.org/doc/rkwardplugins/\">phiên bản mới nhất trực "
+"tuyến</link>) để tìm hiểu việc nâng cao RKWard bằng các hộp thoại tùy chỉnh "
+"của bạn dễ dàng như thế nào. Và nếu bạn muốn, cách chia sẻ công việc của "
+"bạn với cộng đồng người dùng RKWard. Xem <link "
+"href=\"rkward://rhelp/rkward-package\">tổng quan về gói rkward</link> để "
+"biết các chức năng đặc thù của RKWard cho phát triển và lập script."
+
+#. i18n: ectx: (Using the RKWard R Console) <title>
+#: rkward/pages/rkward_console.rkh:8
+#, kde-format
+msgid "Using the RKWard R Console"
+msgstr "Sử dụng bàn điều khiển R của RKWard"
+
+#. i18n: ectx: (Using the RKWard R Console) <summary>
+#: rkward/pages/rkward_console.rkh:9
+#, kde-format
+msgid "Describe features and settings regarding the RKWard R Console."
+msgstr "Mô tả các tính năng và thiết lập liên quan đến RKWard R Console."
+
+#. i18n: ectx: (Using the RKWard R Console) <summary>
+#: rkward/pages/rkward_console.rkh:9
+#, kde-format
+msgid ""
+"The console can - by default - be found at the bottom of the application "
+"window. Press the tool button labelled \"R Console\" to invoke it."
+msgstr ""
+"Bàn điều khiển mặc định được tìm thấy ở phía dưới cửa sổ ứng dụng. Nhấn nút "
+"công cụ có nhãn \"Bàn điều khiển R\" để gọi nó."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="...">
+#: rkward/pages/rkward_console.rkh:15
+#, kde-format
+msgid "What is the console?"
+msgstr "Đây là gì?"
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="What is the console?">
+#: rkward/pages/rkward_console.rkh:15
+#, kde-format
+msgid ""
+"RKWard is based on the R language for statistical computing. The console "
+"allows you to enter R commands directly. Obviously, to use this, you need to "
+"know some basics of the R language. Select Help->Help on R for some "
+"introductory information."
+msgstr ""
+"RKWard dựa trên ngôn ngữ R để tính toán thống kê. Bàn điều khiển cho phép "
+"bạn nhập trực tiếp các lệnh R. Rõ ràng, để sử dụng điều này, bạn cần biết "
+"một số cơ bản về ngôn ngữ R. Bôi đen Trợ giúp->Trợ giúp về R để có thông "
+"tin giới thiệu."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="What is the console?">
+#: rkward/pages/rkward_console.rkh:15
+#, kde-format
+msgid ""
+"The console is meant for interactive use and small commands. For editing "
+"complex commands / scripts, using the Script File Editor (File->New->Script "
+"File) is much more comfortable."
+msgstr ""
+"Bàn điều khiển được dùng để sử dụng tương tác và thực hiện các lệnh nhỏ. Để "
+"chỉnh sửa các lệnh/kịch bản phức tạp, việc sử dụng Trình biên tập Tệp Kịch "
+"bản (Tệp->Mới->Tệp Kịch bản) sẽ thoải mái hơn nhiều."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="What is the console?">
+#: rkward/pages/rkward_console.rkh:15
+#, kde-format
+msgid ""
+"Many console features are available from the context menu. To invoke the "
+"context menu, click the right mouse button inside the console window."
+msgstr ""
+"Nhiều tính năng của bàn điều khiển hiện có trong menu ngữ cảnh. Để gọi menu "
+"ngữ cảnh, bấm chuột phải bên trong cửa sổ bàn điều khiển."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="...">
+#: rkward/pages/rkward_console.rkh:23
+#, kde-format
+msgid "Interrupting commands"
+msgstr "Ngắt lệnh"
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="Interrupting commands">
+#: rkward/pages/rkward_console.rkh:23
+#, kde-format
+msgid ""
+"To interrupt a running command, press Ctrl+C, or choose \"Interrupt running "
+"command\" from the context menu. Note that the command will not necessarily "
+"end immediately. If there are several other commands running at the same "
+"time (e.g. some action you invoked from the Analysis menu), the console will "
+"only become available again, when the R backend becomes idle."
+msgstr ""
+"Để ngắt lệnh đang chạy, nhấn Ctrl+C hoặc chọn \"Ngắt lệnh đang chạy\" từ "
+"menu ngữ cảnh. Lưu ý rằng lệnh sẽ không kết thúc ngay lập tức. Nếu có nhiều "
+"lệnh khác đang chạy cùng lúc (ví dụ: một số hành động bạn đã gọi từ menu "
+"Phân tích), bàn điều khiển sẽ chỉ trở nên khả dụng trở lại khi hậu phương R "
+"trở nên rảnh rỗi."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="...">
+#: rkward/pages/rkward_console.rkh:27
+#, kde-format
+msgid "Re-running selected commands"
+msgstr "Chạy lại các lệnh đã chọn"
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="Re-running selected commands">
+#: rkward/pages/rkward_console.rkh:27
+#, kde-format
+msgid ""
+"To re-run (a sequence of) selected commands, select them using the mouse. "
+"Then choose \"Run selection\" from the context menu (default shortcut is Ctrl"
+"+Return). Leading \"> \" and \"+ \" on the selected lines will be removed "
+"automatically."
+msgstr ""
+"Để chạy lại (một chuỗi) các lệnh đã chọn, hãy chọn chúng bằng chuột. Sau đó "
+"chọn \"Chạy lựa chọn\" từ trình đơn ngữ cảnh (phím tắt mặc định là "
+"Ctrl+Return). Các dấu \">\" và \"+\" ở đầu các dòng đã chọn sẽ được loại bỏ "
+"tự động."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="...">
+#: rkward/pages/rkward_console.rkh:31
+#, kde-format
+msgid "Copying commands / output"
+msgstr "Sao chép lệnh / đầu ra"
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="Copying commands / output">
+#: rkward/pages/rkward_console.rkh:31
+#, kde-format
+msgid ""
+"There are two copy modes available from the context menu (or the Edit menu). "
+"One allows you to copy the selection literally, i.e. including the prompts "
+"\"> \" and \"+ \". In contrast, \"Copy commands, only\" will remove the "
+"prompts from the text copied into the clipboard."
+msgstr ""
+"Có hai chế độ sao chép khả dụng từ trình đơn ngữ cảnh (hoặc trình đơn Sửa). "
+"Một chế độ cho phép bạn sao chép phần bôi đen một cách chính xác, tức là "
+"bao gồm cả dấu nhắc \"> \" và \"+ \". Ngược lại, \"Sao chép lệnh, chỉ\" sẽ "
+"xoá bỏ các dấu nhắc khỏi văn bản được sao chép vào khay nhớ tạm."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="Copying commands / output">
+#: rkward/pages/rkward_console.rkh:31
+#, kde-format
+msgid ""
+"Note that the customary shortcut for copying text - Ctrl+C - does NOT work "
+"in the console, as Ctrl+C already means interrupting the current command."
+msgstr ""
+"Lưu ý rằng lối tắt thông thường để sao chép văn bản - Ctrl+C - sẽ KHÔNG "
+"hoạt động trong bảng điều khiển, vì Ctrl+C đã có nghĩa là ngắt lệnh hiện "
+"tại."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="...">
+#: rkward/pages/rkward_console.rkh:37
+#, kde-format
+msgid "Function reference"
+msgstr "Tham chiếu chức năng"
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="Function reference">
+#: rkward/pages/rkward_console.rkh:37
+#, kde-format
+msgid ""
+"Pressing F2 (or selecting \"Function reference\" from the context menu) will "
+"try to look up the R help page for whichever keyword the cursor is currently "
+"on."
+msgstr ""
+"Nhấn F2 (hoặc chọn \"Tham khảo hàm\" từ menu ngữ cảnh) sẽ cố gắng tìm trang "
+"trợ giúp R cho từ khóa mà con trỏ đang ở."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="...">
+#: rkward/pages/rkward_console.rkh:41
+#, kde-format
+msgid "Navigating the command history"
+msgstr "điều hướng lịch sử lệnh"
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="Navigating the command history">
+#: rkward/pages/rkward_console.rkh:41
+#, kde-format
+msgid ""
+"The console provides a mechanism to recall recent commands, similar to the "
+"readline functionality offered in R or most shells."
+msgstr ""
+"Bàn điều khiển cung cấp một cơ chế để gọi lại các lệnh gần đây, tương tự "
+"như chức năng readline được cung cấp trong R hoặc hầu hết các shell."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="Navigating the command history">
+#: rkward/pages/rkward_console.rkh:41
+#, kde-format
+msgid ""
+"To recall the previous command, simply press the up arrow. Press the up "
+"arrow repeatedly to recall the command before that, and so on. Similarly, "
+"pressing the down arrow goes downwards in the command history. Of course, "
+"you can also edit a recalled command line."
+msgstr ""
+"Để gọi lại lệnh trước đó, chỉ cần nhấn mũi tên lên. Nhấn mũi tên lên nhiều "
+"lần để gọi lại lệnh trước đó, và cứ thế. Tương tự, nhấn mũi tên xuống để di "
+"chuyển xuống lịch sử lệnh. Tất nhiên, bạn cũng có thể chỉnh sửa một lệnh đã "
+"được gọi lại."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="Navigating the command history">
+#: rkward/pages/rkward_console.rkh:41
+#, kde-format
+msgid ""
+"It is also possible to search the command history for lines starting with a "
+"specified string. To use this, enter - for example - \"print\" in the "
+"console. Now use Shift+Up / Shift+Down. You will note, that only those "
+"recent command lines that started with \"print\" will be shown."
+msgstr ""
+"Cũng có thể tìm kiếm lịch sử lệnh để tìm các dòng bắt đầu bằng một chuỗi "
+"xác định. Để sử dụng tính năng này, hãy nhập - ví dụ - \"print\" vào bảng "
+"điều khiển. Bây giờ sử dụng Shift+Up / Shift+Down. Bạn sẽ thấy rằng chỉ "
+"những dòng lệnh gần đây bắt đầu bằng \"print\" sẽ được hiển thị."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="Navigating the command history">
+#: rkward/pages/rkward_console.rkh:41
+#, kde-format
+msgid ""
+"It is possible to make the second mode of searching the command history the "
+"default. In this case, pressing Shift+Up/Down will navigate all commands, "
+"while pressing Up/Down without the Shift key will show only matching lines. "
+"(see <link href=\"#settings\">Section settings</link>)."
+msgstr ""
+"Có thể đặt chế độ thứ hai của việc tìm kiếm lịch sử lệnh làm mặc định. "
+"Trong trường hợp này, nhấn Shift+Lên/Xuống sẽ điều hướng tất cả các lệnh, "
+"trong khi nhấn Lên/Xuống mà không có phím Shift sẽ chỉ hiển thị các dòng "
+"phù hợp. (xem <link href=\"#settings\">Phần cài đặt</link>)."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="Navigating the command history">
+#: rkward/pages/rkward_console.rkh:41
+#, kde-format
+msgid ""
+"You can also save / load a command history at any time during your session, "
+"using <i>File->Import / Export command history</i> or the R commands "
+"<i>savehistory()</i> and <i>loadhistory()</i>."
+msgstr ""
+"Bạn cũng có thể lưu / tải lịch sử lệnh bất cứ lúc nào trong phiên làm việc "
+"của mình, bằng cách sử dụng <i>Tệp->Nhập / Xuất khẩu lịch sử lệnh</i> hoặc "
+"các lệnh R <i>savehistory()</i> và <i>loadhistory()</i>."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="...">
+#: rkward/pages/rkward_console.rkh:53
+#, kde-format
+msgid "Filename and Object name completion"
+msgstr "Hoàn tất tên tệp và tên đối tượng"
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="Filename and Object name completion">
+#: rkward/pages/rkward_console.rkh:53
+#, kde-format
+msgid ""
+"Pressing the Tab key while typing the name of an R object will try to "
+"complete the name of that R object. If several objects start with the typed "
+"characters, a list of all those objects will be shown."
+msgstr ""
+"Nhấn phím Tab trong khi gõ tên của một đối tượng R sẽ cố gắng hoàn tất tên "
+"của đối tượng đó. Nếu có nhiều đối tượng bắt đầu bằng các ký tự đã gõ, một "
+"danh sách tất cả những đối tượng đó sẽ được hiển thị."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="Filename and Object name completion">
+#: rkward/pages/rkward_console.rkh:53
+#, kde-format
+msgid ""
+"For an example, enter \"base::pa\" in the console, then press Tab. This will "
+"list all objects from package base starting with \"pa\". Now append an \"s"
+"\", and press Tab again. The word will be changed to \"paste\", as that is "
+"the only matching object name."
+msgstr ""
+"Ví dụ, hãy nhập \"base::pa\" vào bảng điều khiển, sau đó nhấn Tab. Điều này "
+"sẽ liệt kê tất cả các đối tượng từ gói base bắt đầu bằng \"pa\". Bây giờ "
+"hãy thêm một \"s\" và nhấn Tab một lần nữa. Từ sẽ được thay đổi thành "
+"\"paste\", vì đó là tên đối tượng duy nhất khớp."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="Filename and Object name completion">
+#: rkward/pages/rkward_console.rkh:53
+#, kde-format
+msgid ""
+"Based on some simple heuristics, RKWard will try to complete file names "
+"instead of object names, where appropriate. This is done, when the cursor "
+"seems to be inside a quoted string that does not seem to be part of an "
+"object name."
+msgstr ""
+"Dựa trên một số heuristic đơn giản, RKWard sẽ cố gắng hoàn tất tên tệp thay "
+"vì tên đối tượng, khi thích hợp. Điều này được thực hiện khi con trỏ dường "
+"như ở bên trong một chuỗi được trích dẫn mà không phải là một phần của tên "
+"đối tượng."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="...">
+#. i18n: ectx: (Screen device history) <section title="...">
+#. i18n: ectx: (Workspace Browser) <section title="...">
+#: rkward/pages/rkward_console.rkh:61 rkward/pages/rkward_plot_history.rkh:29
+#: rkward/pages/rkward_workspace_browser.rkh:47
+#, kde-format
+msgid "Configurable Settings"
+msgstr "Thiết lập có thể cấu hình"
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="Configurable Settings">
+#: rkward/pages/rkward_console.rkh:61
+#, kde-format
+msgid ""
+"To configure the behavior of the console, select <a href=\"rkward://settings/"
+"console\">Settings->Configure RKWard->R Console</a> or \"Configure\" from "
+"the context menu. The following options are configurable:"
+msgstr ""
+"Để cấu hình hành vi của console, chọn <a "
+"href=\"rkward://settings/console\">Cài đặt->Cấu hình RKWard->R Console</a> "
+"hoặc \"Cấu hình\" từ menu ngữ cảnh. Các tùy chọn sau đây có thể cấu hình "
+"được:"
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="Configurable Settings">
+#: rkward/pages/rkward_console.rkh:61
+#, kde-format
+msgid ""
+"<b>Load/save command history</b>: Whether the <link href=\"#command_history"
+"\">command history</link> is saved when closing RKWard, and reloaded when "
+"next starting RKWard again. If this is not checked, each session of RKWard "
+"will start out with an empty command history."
+msgstr ""
+"<b>Tải/lưu lịch sử lệnh</b>: Xác định xem <link "
+"href=\"#command_history\">lịch sử lệnh</link> có được lưu khi đóng RKWard "
+"và tải lại khi khởi động RKWard lần sau hay không. Nếu không chọn tùy chọn "
+"này, mỗi phiên của RKWard sẽ bắt đầu với lịch sử lệnh trống."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="Configurable Settings">
+#: rkward/pages/rkward_console.rkh:61
+#, kde-format
+msgid ""
+"<b>Maximum length of command history</b>: Only this many lines are kept in "
+"the <link href=\"#command_history\">command history</link>."
+msgstr ""
+"<b>Độ dài tối đa của lịch sử lệnh</b>: Chỉ giữ lại số dòng này trong <link "
+"href=\"#command_history\">lịch sử lệnh</link>."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="Configurable Settings">
+#: rkward/pages/rkward_console.rkh:61
+#, kde-format
+msgid ""
+"<b>Maximum number of paragraphs/lines to display in the console</b>: No more "
+"than this many total lines (commands and output) will be shown in the "
+"console. When this number of lines is exceeded, lines will be removed at the "
+"top of the console window. To clear the console entirely, choose \"Clear\" "
+"from the context menu or the Edit menu."
+msgstr ""
+"<b>Số đoạn/dòng tối đa hiển thị trong bàn điều khiển</b>: Không quá số dòng "
+"này (lệnh và kết quả) sẽ được hiển thị trong bàn điều khiển. Khi vượt quá "
+"số dòng này, các dòng sẽ bị xóa ở đầu cửa sổ bàn điều khiển. Để làm trống "
+"hoàn toàn bàn điều khiển, chọn \"Làm trống\" từ trình đơn ngữ cảnh hoặc "
+"trình đơn Sửa."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="Configurable Settings">
+#: rkward/pages/rkward_console.rkh:61
+#, kde-format
+msgid ""
+"<b>Run commands from script editor through the console</b>: Commands coming "
+"from script editors may be sent through the console, i.e. the commands and "
+"their results will be shown in the console. If this option is not checked, "
+"the commands will only be visible in the Command log, but not in the console."
+msgstr ""
+"<b>Chạy lệnh từ trình biên tập kịch bản thông qua bảng điều khiển</b>: Các "
+"lệnh từ trình biên tập kịch bản có thể được gửi qua bảng điều khiển, nghĩa "
+"là các lệnh và kết quả của chúng sẽ được hiển thị trong bảng điều khiển. "
+"Nếu lựa chọn này không được chọn, các lệnh sẽ chỉ hiển thị trong Nhật ký "
+"lệnh, nhưng không hiển thị trong bảng điều khiển."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="Configurable Settings">
+#: rkward/pages/rkward_console.rkh:61
+#, kde-format
+msgid ""
+"<b>Also add those commands to console history</b>: If the above option is "
+"checked, this affects, whether such commands are also added to the console "
+"history. Turning off this option may help to keep the console history \"clean"
+"\"."
+msgstr ""
+"<b>Cũng thêm những lệnh đó vào lịch sử bàn điều khiển</b>: Nếu lựa chọn "
+"trên được chọn, điều này ảnh hưởng đến việc các lệnh đó có được thêm vào "
+"lịch sử bàn điều khiển hay không. Tắt lựa chọn này có thể giúp giữ cho lịch "
+"sử bàn điều khiển \"sạch sẽ\"."
+
+#. i18n: ectx: (Using the RKWard R Console) <section title="Configurable Settings">
+#: rkward/pages/rkward_console.rkh:61
+#, kde-format
+msgid ""
+"<b>Command history is context-sensitive by default</b>: If this is checked, "
+"the context-sensitive mode of navigating the <link href=\"#command_history"
+"\">command history</link> is the default, i.e. available with Up/Down "
+"without Shift. Else the key binding for this is Shift+Up/Down."
+msgstr ""
+"<b>Lịch sử lệnh nhạy cảm ngữ cảnh theo mặc định</b>: Nếu tùy chọn này được "
+"chọn, chế độ nhạy cảm ngữ cảnh khi điều hướng <link "
+"href=\"#command_history\">lịch sử lệnh</link> sẽ là mặc định, tức là khả "
+"dụng với phím Lên/Xuống mà không cần Shift. Nếu không, phím tắt cho chức "
+"năng này là Shift+Lên/Xuống."
+
+#. i18n: ectx: (RKWard for new Users) <title>
+#: rkward/pages/rkward_for_new_users.rkh:8
+#, kde-format
+msgid "RKWard for new Users"
+msgstr "Người dùng mới của RKWard"
+
+#. i18n: ectx: (RKWard for new Users) <summary>
+#: rkward/pages/rkward_for_new_users.rkh:9
+#, kde-format
+msgid ""
+"Provide some starting points for users new to R and RKWard. For a more in "
+"depth guide see <link href=\"rkward://page/rkward_for_r_users\"/>."
+msgstr ""
+"Cung cấp một số điểm khởi đầu cho người dùng mới với R và RKWard. Để có "
+"hướng dẫn chi tiết hơn, hãy xem <link "
+"href=\"rkward://page/rkward_for_r_users\"/>."
+
+#. i18n: ectx: (RKWard for new Users) <section title="...">
+#: rkward/pages/rkward_for_new_users.rkh:14
+#, kde-format
+msgid "Where's my data?"
+msgstr "Dữ liệu của tôi ở đâu?"
+
+#. i18n: ectx: (RKWard for new Users) <section title="Where's my data?">
+#: rkward/pages/rkward_for_new_users.rkh:14
+#, kde-format
+msgid ""
+"If you have previously used different statistics tools, you may be "
+"accustomed to the idea, that all your data is basically stored in one single "
+"spreadsheet, and that spreadsheet is visible all of the time. While, of "
+"course, R can deal with this sort of data (technically called a \"data.frame"
+"\"), it is much more flexible, and may be slightly confusing at first."
+msgstr ""
+"Nếu bạn đã từng sử dụng các công cụ thống kê khác, bạn có thể quen với ý "
+"tưởng rằng tất cả dữ liệu của bạn được lưu trữ trong một bảng tính duy nhất "
+"và bảng tính này luôn hiển thị. Mặc dù, tất nhiên, R có thể xử lý loại dữ "
+"liệu này (được gọi là \"data.frame\" về mặt kỹ thuật), nhưng nó linh hoạt "
+"hơn nhiều và có thể hơi gây nhầm lẫn ban đầu."
+
+#. i18n: ectx: (RKWard for new Users) <section title="Where's my data?">
+#: rkward/pages/rkward_for_new_users.rkh:14
+#, kde-format
+msgid ""
+"R - and hence RKWard - can deal with a large number of different types of "
+"data: The well known spreadsheets, but also single vectors of data (like a "
+"column in a spreadsheet), so called \"list\"s of different vectors or other "
+"objects that may have different lengths, single data points, etc. Even most "
+"of the language itself, the functions, are stored just like data and can "
+"also be edited."
+msgstr ""
+"R - và do đó RKWard - có thể xử lý nhiều loại dữ liệu khác nhau: Các bảng "
+"tính quen thuộc, nhưng cũng có thể là các vector dữ liệu đơn lẻ (như một "
+"cột trong bảng tính), những \"danh sách\" khác nhau của các vector hoặc các "
+"đối tượng khác có độ dài khác nhau, các điểm dữ liệu đơn lẻ, v.v. Thậm chí "
+"phần lớn ngôn ngữ chính nó, các hàm, cũng được lưu trữ như dữ liệu và có "
+"thể được chỉnh sửa."
+
+#. i18n: ectx: (RKWard for new Users) <section title="Where's my data?">
+#: rkward/pages/rkward_for_new_users.rkh:14
+#, kde-format
+msgid ""
+"At the same time, R is not confined to working with just one piece of data "
+"at a time, but rather you have a \"Workspace\", where all your different "
+"variables, tables, etc. are accessible. You can have many data.frames at "
+"once, and additional data of other types. At the left side of the "
+"application window, there should be an icon labelled \"Workspace\". You can "
+"click on this to see all the objects present in your workspace. All the "
+"objects you create or modify will be visible inside the \".GlobalEnv\". Most "
+"other objects are predefined in libraries, such as \"package:base\". See "
+"<link href=\"rkward://page/rkward_workspace_browser\"/> for details."
+msgstr ""
+"Đồng thời, R không chỉ giới hạn trong việc làm việc với chỉ một mảnh dữ "
+"liệu tại một thời điểm, mà thay vào đó bạn có một \"Workspace\", nơi tất cả "
+"các biến số, bảng, v.v. khác nhau của bạn đều có thể truy cập. Bạn có thể "
+"có nhiều data.frames cùng một lúc, và dữ liệu bổ sung của các loại khác. Ở "
+"bên trái của cửa sổ ứng dụng, sẽ có một biểu tượng được gắn nhãn "
+"\"Workspace\". Bạn có thể bấm vào đây để xem tất cả các đối tượng hiện có "
+"trong không gian làm việc của bạn. Tất cả các đối tượng bạn tạo hoặc chỉnh "
+"sửa sẽ được hiển thị bên trong \".GlobalEnv\". Hầu hết các đối tượng khác "
+"được định nghĩa trước trong các thư viện, chẳng hạn như \"package:base\". "
+"Xem <link href=\"rkward://page/rkward_workspace_browser\"/> để biết chi "
+"tiết."
+
+#. i18n: ectx: (RKWard for new Users) <section title="Where's my data?">
+#: rkward/pages/rkward_for_new_users.rkh:14
+#, kde-format
+msgid ""
+"You do not need to worry about all these details. To create a new "
+"spreadsheet (data.frame), choose File->New->Dataset from the menu. All you "
+"need to do is to assign a name to this table, then you can start editing. To "
+"work with pre-existing data, pick the appropriate option from the File-"
+">Import menu."
+msgstr ""
+"Bạn không cần phải lo lắng về tất cả những chi tiết này. Để tạo một bảng "
+"tính mới (data.frame), hãy chọn Tệp->Mới->Tập dữ liệu từ menu. Tất cả những "
+"gì bạn cần làm là gán một tên cho bảng này, sau đó bạn có thể bắt đầu chỉnh "
+"sửa. Để làm việc với dữ liệu đã có sẵn, hãy chọn tùy chọn thích hợp từ menu "
+"Tệp->Nhập."
+
+#. i18n: ectx: (RKWard for new Users) <section title="...">
+#: rkward/pages/rkward_for_new_users.rkh:23
+#, kde-format
+msgid "How can I make use of my results in an external application?"
+msgstr ""
+"Làm thế nào để tôi có thể sử dụng kết quả của mình trong một ứng dụng bên "
+"ngoài?"
+
+#. i18n: ectx: (RKWard for new Users) <section title="How can I make use of my results in an external application?">
+#: rkward/pages/rkward_for_new_users.rkh:23
+#, kde-format
+msgid ""
+"In this section you will learn about some basic methods how to make use of "
+"your results in external applications."
+msgstr ""
+"Trong khu vực này, bạn sẽ học về một số phương pháp cơ bản để sử dụng kết "
+"quả của mình trong các ứng dụng bên ngoài."
+
+#. i18n: ectx: (RKWard for new Users) <section title="How can I make use of my results in an external application?">
+#: rkward/pages/rkward_for_new_users.rkh:23
+#, kde-format
+msgid ""
+"Suppose you produced a textual output from tests you performed. Such will be "
+"presented in the \"output window\" of RKWard. It's easy to keep track on "
+"your work since a standard of RKWard is to show everything in chronological "
+"order together with the date of creation."
+msgstr ""
+"Giả sử bạn đã tạo ra một đầu ra văn bản từ các bài kiểm tra mà bạn đã thực "
+"hiện. Điều này sẽ được trình bày trong \"cửa sổ đầu ra\" của RKWard. Bạn có "
+"thể dễ dàng theo dõi công việc của mình vì một tiêu chuẩn của RKWard là "
+"hiển thị mọi thứ theo thứ tự thời gian kèm theo ngày tạo."
+
+#. i18n: ectx: (RKWard for new Users) <section title="How can I make use of my results in an external application?">
+#: rkward/pages/rkward_for_new_users.rkh:23
+#, kde-format
+msgid ""
+"See <link href=\"rkward://page/rkward_output\"/> for details on working with "
+"the output. The easiest method of reusing the output is to select the "
+"relevant portion, and copy and paste them to an office suite."
+msgstr ""
+"Xem <link href=\"rkward://page/rkward_output\"/>để biết thêm chi tiết về "
+"cách làm việc với kết quả đầu ra. Cách dễ nhất để tái sử dụng kết quả là "
+"bôi đen phần liên quan, sau đó sao chép và dán vào một phần mềm văn phòng."
+
+#. i18n: ectx: (RKWard for new Users) <section title="...">
+#: rkward/pages/rkward_for_new_users.rkh:30
+#, kde-format
+msgid "Basic Analyses"
+msgstr "Phân tích cơ bản"
+
+#. i18n: ectx: (RKWard for new Users) <section title="Basic Analyses">
+#: rkward/pages/rkward_for_new_users.rkh:30
+#, kde-format
+msgid ""
+"In order to familiarize yourself with RKWard (or with your data), one of the "
+"first things to do might be to choose Analysis->Descriptive Statistics from "
+"the Menu. You will be presented with a dialog that allows you to select one "
+"or more variables to analyse. This looks similar to the workspace browser "
+"introduced above. On the additional tabs you can choose which types of "
+"descriptive statistics should be calculated."
+msgstr ""
+"Để làm quen với RKWard (hoặc với dữ liệu của bạn), một trong những việc đầu "
+"tiên cần làm có thể là chọn Phân tích->Thống kê mô tả từ Menu. Bạn sẽ được "
+"hiển thị một hộp thoại cho phép bạn bôi đen một hoặc nhiều biến để phân "
+"tích. Điều này trông tương tự như trình duyệt không gian làm việc được giới "
+"thiệu ở trên. Trên các tab bổ sung, bạn có thể chọn các loại thống kê mô tả "
+"nào sẽ được tính toán."
+
+#. i18n: ectx: (RKWard for new Users) <section title="Basic Analyses">
+#: rkward/pages/rkward_for_new_users.rkh:30
+#, kde-format
+msgid ""
+"At the lower right of the dialog, there is a button labelled \"Code\". Using "
+"this, you can show/hide a text area. If you look at the contents of this "
+"text area (you may have to resize the window to view it more comfortably), "
+"you can see the text changing according to the settings you choose in the "
+"dialog. This text is actually R syntax. It is the code that is needed to "
+"perform these calculations in R. Most of RKWard is based on generating this "
+"code for you, and then running it inside R. Later, when you feel more "
+"comfortable, have specific needs not covered by RKWard, or you want to "
+"automate repetitive tasks, you can use this syntax to literally program your "
+"analyses. Note that the code is divided into up to three sections: "
+"\"Preprocess\" for loading required libraries or defining helper functions, "
+"\"Calculate\" to perform the actual calculations, and \"Printout\" to "
+"generate output in RKWard's output window."
+msgstr ""
+"Ở góc dưới bên phải của hộp thoại, có một nút được gắn nhãn \"Code\". Bằng "
+"cách sử dụng nút này, bạn có thể hiển thị/ẩn một vùng văn bản. Nếu bạn nhìn "
+"vào nội dung của vùng văn bản này (bạn có thể phải thay đổi kích thước cửa "
+"sổ để xem nó thoải mái hơn), bạn có thể thấy văn bản thay đổi theo các "
+"thiết lập mà bạn chọn trong hộp thoại. Đây thực sự là cú pháp R. Đây là mã "
+"cần thiết để thực hiện các tính toán này trong R. Hầu hết RKWard dựa trên "
+"việc tạo ra mã này cho bạn, sau đó chạy nó bên trong R. Sau này, khi bạn "
+"cảm thấy thoải mái hơn, có những nhu cầu cụ thể không được RKWard đề cập, "
+"hoặc bạn muốn tự động hóa các nhiệm vụ lặp đi lặp lại, bạn có thể sử dụng "
+"cú pháp này để lập trình các phân tích của mình. Lưu ý rằng mã được chia "
+"thành tối đa ba phần: \"Preprocess\" để tải các thư viện cần thiết hoặc "
+"định nghĩa các hàm trợ giúp, \"Calculate\" để thực hiện các tính toán thực "
+"tế, và \"Printout\" để tạo đầu ra trong cửa sổ đầu ra của RKWard."
+
+#. i18n: ectx: (RKWard for new Users) <section title="Basic Analyses">
+#: rkward/pages/rkward_for_new_users.rkh:30
+#, kde-format
+msgid ""
+"For now, just click submit, once you've made your choices, and watch the "
+"results show up in a new window."
+msgstr ""
+"Bây giờ, chỉ cần bấm nút gửi sau khi đã chọn xong, và xem kết quả hiển thị "
+"trong cửa sổ mới."
+
+#. i18n: ectx: (RKWard for new Users) <section title="...">
+#: rkward/pages/rkward_for_new_users.rkh:38
+#, kde-format
+msgid "So much more"
+msgstr "Nhiều hơn thế nữa"
+
+#. i18n: ectx: (RKWard for new Users) <section title="So much more">
+#: rkward/pages/rkward_for_new_users.rkh:38
+#, kde-format
+msgid ""
+"The purpose of RKWard is to make the power of the R language easily "
+"accessible to the user, without having to learn a full programming language, "
+"first. However, for advanced needs, you may want to make use of the full "
+"flexibility of the R language. RKWard offers a lot of tools to make this "
+"easier, both for users new to R, and R experts. Read on in <link href="
+"\"rkward://page/rkward_for_r_users\"/> for more on this."
+msgstr ""
+"Mục đích của RKWard là giúp người dùng dễ dàng tiếp cận với sức mạnh của "
+"ngôn ngữ R, mà không cần phải học một ngôn ngữ lập trình đầy đủ trước. Tuy "
+"nhiên, đối với những nhu cầu nâng cao, bạn có thể muốn sử dụng toàn bộ tính "
+"linh hoạt của ngôn ngữ R. RKWard cung cấp nhiều công cụ để làm điều này trở "
+"nên dễ dàng hơn, cả đối với người mới bắt đầu sử dụng R và chuyên gia R. "
+"Hãy đọc tiếp <link href=\"rkward://page/rkward_for_r_users\">tại đây</link> "
+"để biết thêm về điều này."
+
+#. i18n: ectx: (RKWard for new Users) <section title="So much more">
+#: rkward/pages/rkward_for_new_users.rkh:38
+#, kde-format
+msgid ""
+"Also, you may want to select Help->Help on R from the menu for some starting "
+"points in learning R."
+msgstr ""
+"Ngoài ra, bạn có thể bôi đen Trợ giúp->Trợ giúp về R từ trình đơn để có một "
+"số điểm khởi đầu trong việc học R."
+
+#. i18n: ectx: (RKWard for R Users) <title>
+#: rkward/pages/rkward_for_r_users.rkh:8
+#, kde-format
+msgid "RKWard for R Users"
+msgstr "Người dùng R với RKWard"
+
+#. i18n: ectx: (RKWard for R Users) <summary>
+#: rkward/pages/rkward_for_r_users.rkh:9
+#, kde-format
+msgid ""
+"Briefly explains the main components of RKWard, assuming the user is already "
+"familiar with basic concepts of R."
+msgstr ""
+"Giải thích ngắn gọn các thành phần chính của RKWard, giả định người dùng đã "
+"quen với các khái niệm cơ bản của R."
+
+#. i18n: ectx: (RKWard for R Users) <section title="...">
+#: rkward/pages/rkward_for_r_users.rkh:12
+#, kde-format
+msgid "The Console"
+msgstr "Bàn điều khiển"
+
+#. i18n: ectx: (RKWard for R Users) <section title="The Console">
+#: rkward/pages/rkward_for_r_users.rkh:12
+#, kde-format
+msgid ""
+"First things first: An emulation of the standard R console can be found at "
+"the bottom on the screen. There you will notice several buttons, one of "
+"which is labelled \"R Console\" and has a console icon."
+msgstr ""
+"Trước tiên, một bản giả lập của bàn điều khiển R tiêu chuẩn có thể được tìm "
+"thấy ở phía dưới của màn hình. Ở đó, bạn sẽ thấy một số nút, một trong số "
+"đó được gắn nhãn \"R Console\" và có biểu tượng bàn điều khiển."
+
+#. i18n: ectx: (RKWard for R Users) <section title="The Console">
+#: rkward/pages/rkward_for_r_users.rkh:12
+#, kde-format
+msgid ""
+"This console works almost exactly like the regular R text console, so you "
+"can start working right away. Differences include:"
+msgstr ""
+"Bàn điều khiển này hoạt động gần như giống hệt với bàn điều khiển văn bản R "
+"thông thường, vì vậy bạn có thể khởi động làm việc ngay lập tức. Những khác "
+"biệt bao gồm:"
+
+#. i18n: ectx: (RKWard for R Users) <section title="The Console">
+#: rkward/pages/rkward_for_r_users.rkh:12
+#, kde-format
+msgid "Syntax highlighting"
+msgstr "Tô sáng cú pháp"
+
+#. i18n: ectx: (RKWard for R Users) <section title="The Console">
+#: rkward/pages/rkward_for_r_users.rkh:12
+#, kde-format
+msgid ""
+"While typing function calls, a list of arguments to that function is shown "
+"in a box (argument hinting)"
+msgstr ""
+"Trong khi gõ các lệnh gọi hàm, một danh sách các đối số của hàm đó sẽ được "
+"hiển thị trong một hộp (gợi ý đối số)"
+
+#. i18n: ectx: (RKWard for R Users) <section title="The Console">
+#: rkward/pages/rkward_for_r_users.rkh:12
+#, kde-format
+msgid ""
+"While the cursor is on an R symbol or function, pressing F2 will search the "
+"R help for that symbol. Also available from the Help menu, or the right "
+"mouse button menu"
+msgstr ""
+"Khi con trỏ ở trên một kí hiệu hoặc hàm R, nhấn F2 sẽ tìm kiếm trợ giúp R "
+"cho kí hiệu đó. Cũng có sẵn từ trình đơn Trợ giúp, hoặc trình đơn chuột "
+"phải"
+
+#. i18n: ectx: (RKWard for R Users) <section title="The Console">
+#: rkward/pages/rkward_for_r_users.rkh:12
+#, kde-format
+msgid ""
+"You can easily create a transcript of the commands you run in the console "
+"using Run->CC commands to output..."
+msgstr ""
+"Bạn có thể dễ dàng tạo bản ghi lại các lệnh bạn chạy trong bàn điều khiển "
+"bằng cách sử dụng Chạy->Lệnh CC để xuất..."
+
+#. i18n: ectx: (RKWard for R Users) <section title="The Console">
+#: rkward/pages/rkward_for_r_users.rkh:12
+#, kde-format
+msgid "See <link href=\"rkward://page/rkward_console\"/> for more details."
+msgstr "Xem <link href=\"rkward://page/rkward_console\"/> để biết thêm chi tiết."
+
+#. i18n: ectx: (RKWard for R Users) <section title="...">
+#: rkward/pages/rkward_for_r_users.rkh:26
+#, kde-format
+msgid "Script Editors"
+msgstr "Trình soạn thảo kịch bản"
+
+#. i18n: ectx: (RKWard for R Users) <section title="Script Editors">
+#: rkward/pages/rkward_for_r_users.rkh:26
+#, kde-format
+msgid ""
+"Often it is more convenient to write scripts in a separate file, instead of "
+"typing them directly in the console. To open a new script editor (with "
+"syntax highlighting, and many more features), choose File->New->Script File, "
+"or open an already existing Script file using File->Open R Script File."
+msgstr ""
+"Thường thì viết các kịch bản trong một tệp riêng sẽ tiện lợi hơn so với gõ "
+"trực tiếp vào bảng điều khiển. Để mở một trình biên tập kịch bản mới (với "
+"tô sáng cú pháp và nhiều tính năng khác), chọn Tệp->Mới->Tệp Kịch Bản, hoặc "
+"mở một tệp Kịch Bản R đã tồn tại bằng cách chọn Tệp->Mở Tệp Kịch Bản R."
+
+#. i18n: ectx: (RKWard for R Users) <section title="Script Editors">
+#: rkward/pages/rkward_for_r_users.rkh:26
+#, kde-format
+msgid ""
+"You will note that the editor opens in a new window in the main workplace "
+"(the area of the window, that you are most likely reading this text, in). "
+"You can open any number of script editor windows at the same time."
+msgstr ""
+"Bạn sẽ nhận thấy rằng trình biên tập mở trong một cửa sổ mới trong không "
+"gian làm việc chính (khu vực của cửa sổ, nơi bạn có khả năng lớn nhất đang "
+"đọc văn bản này). Bạn có thể mở bất kỳ số lượng cửa sổ trình biên tập kịch "
+"bản nào cùng một lúc."
+
+#. i18n: ectx: (RKWard for R Users) <section title="Script Editors">
+#: rkward/pages/rkward_for_r_users.rkh:26
+#, kde-format
+msgid ""
+"To run the code in a script editor window, either copy and paste it to the "
+"console, or choose one of the actions in the Run menu, such as Run All or "
+"Run Selection. Note: The contents of the menus may change according to the "
+"type of active window. Hence, if you look at the Run menu while reading "
+"this, there will be no entries."
+msgstr ""
+"Để chạy mã trong cửa sổ trình biên tập, hãy sao chép và dán nó vào bảng "
+"điều khiển, hoặc chọn một trong các hành động trong trình đơn Chạy, chẳng "
+"hạn như Chạy Tất Cả hoặc Chạy Lựa Chọn. Lưu ý: Nội dung của các trình đơn "
+"có thể thay đổi theo kiểu của cửa sổ hoạt động. Do đó, nếu bạn nhìn vào "
+"trình đơn Chạy trong khi đọc điều này, sẽ không có mục nào."
+
+#. i18n: ectx: (RKWard for R Users) <section title="...">
+#: rkward/pages/rkward_for_r_users.rkh:33
+#, kde-format
+msgid "Workspace View"
+msgstr "Khung xem"
+
+#. i18n: ectx: (RKWard for R Users) <section title="Workspace View">
+#: rkward/pages/rkward_for_r_users.rkh:33
+#, kde-format
+msgid ""
+"RKWard comes with a \"workspace view\" or \"object browser\". By default "
+"this is available by clicking on \"Workspace\" on the left side of the "
+"application window. This allows you to examine and manipulate all objects in "
+"the R workspace. By default, only the \".GlobalEnv\" environment is shown "
+"(where you'll typically do your work; see <link href=\"rkward://rhelp/."
+"GlobalEnv\"/>). But, checking \"Show All Environments\", you can easily "
+"explore data and functions in loaded R libraries (and even in package "
+"namespaces)."
+msgstr ""
+"RKWard đi kèm với một \"chế độ xem không gian làm việc\" hoặc \"trình duyệt "
+"đối tượng\". Theo mặc định, điều này có sẵn bằng cách nhấp vào \"Không gian "
+"làm việc\" ở bên trái của cửa sổ ứng dụng. Điều này cho phép bạn kiểm tra "
+"và thao tác tất cả các đối tượng trong không gian làm việc R. Theo mặc "
+"định, chỉ môi trường \".GlobalEnv\" được hiển thị (nơi bạn thường làm việc; "
+"xem <link href=\"rkward://rhelp/.GlobalEnv\"/>). Nhưng bằng cách kiểm tra "
+"\"Hiển thị tất cả các môi trường\", bạn có thể dễ dàng khám phá dữ liệu và "
+"chức năng trong các thư viện R đã tải (và thậm chí trong không gian tên của "
+"gói)."
+
+#. i18n: ectx: (RKWard for R Users) <section title="Workspace View">
+#: rkward/pages/rkward_for_r_users.rkh:33
+#, kde-format
+msgid ""
+"The object browser provides function to select which types of object are "
+"shown (on the top). Hovering the mouse over an item will show some "
+"additional information on the symbol. Right-clicking on an item will show "
+"available actions. See <link href=\"rkward://page/rkward_workspace_browser\"/"
+"> for details."
+msgstr ""
+"Trình duyệt đối tượng cung cấp chức năng để chọn các loại đối tượng được "
+"hiển thị (ở trên). Di chuột qua một mục sẽ hiển thị thêm thông tin về biểu "
+"tượng. Nhấp chuột phải vào một mục sẽ hiển thị các hành động hiện có. Xem "
+"<link href=\"rkward://page/rkward_workspace_browser\"/> để biết chi tiết."
+
+#. i18n: ectx: (RKWard for R Users) <section title="...">
+#: rkward/pages/rkward_for_r_users.rkh:38
+#, kde-format
+msgid "R Help"
+msgstr "Trợ giúp R"
+
+#. i18n: ectx: (RKWard for R Users) <section title="R Help">
+#: rkward/pages/rkward_for_r_users.rkh:38
+#, kde-format
+msgid ""
+"By default R help pages are shown as HTML, inside RKWard. You can invoke the "
+"help in the usual way by running e.g. \"?print\" or \"help (print)\" or "
+"\"help.start ()\" in the console. Additionally, there is a tool window to "
+"search your installed R help pages. This is accessible using a button "
+"located at the bottom of the window (next to the console button). To view a "
+"help page found using this tool, double-click on it."
+msgstr ""
+"Theo mặc định, các trang trợ giúp R được hiển thị dưới dạng HTML, bên trong "
+"RKWard. Bạn có thể gọi trợ giúp theo cách thông thường bằng cách chạy ví dụ "
+"\"?print\" hoặc \"help (print)\" hoặc \"help.start ()\" trong bàn điều "
+"khiển. Ngoài ra, còn có một cửa sổ công cụ để tìm kiếm các trang trợ giúp R "
+"đã cài đặt. Điều này có thể truy cập bằng cách sử dụng nút ở phía dưới cửa "
+"sổ (gần với nút bàn điều khiển). Để xem một trang trợ giúp được tìm thấy "
+"bằng cách sử dụng công cụ này, hãy nhấp đúp vào nó."
+
+#. i18n: ectx: (RKWard for R Users) <section title="...">
+#: rkward/pages/rkward_for_r_users.rkh:41
+#, kde-format
+msgid "Managing installed and loaded Libraries"
+msgstr "Quản lý các thư viện đã cài đặt và đã tải"
+
+#. i18n: ectx: (RKWard for R Users) <section title="Managing installed and loaded Libraries">
+#: rkward/pages/rkward_for_r_users.rkh:41
+#, kde-format
+msgid ""
+"RKWard provides an advanced dialog to have installation, updating, and "
+"loading of packages. This is available from Settings->Manage R Packages."
+msgstr ""
+"RKWard cung cấp một hộp thoại nâng cao để cài đặt, cập nhật và tải các gói. "
+"Điều này có sẵn từ Cài đặt->Quản lý Gói R."
+
+#. i18n: ectx: (RKWard for R Users) <section title="...">
+#: rkward/pages/rkward_for_r_users.rkh:44
+#, kde-format
+msgid "Window management"
+msgstr "Quản lý cửa sổ"
+
+#. i18n: ectx: (RKWard for R Users) <section title="Window management">
+#: rkward/pages/rkward_for_r_users.rkh:44
+#, kde-format
+msgid ""
+"All windows shown in the main view area can be detached to a separate top "
+"level window using Windows->Detach. Similarly, detached windows can be "
+"attached to the main workplace using Window->Attach to main window."
+msgstr ""
+"Tất cả các cửa sổ hiển thị trong khu vực xem chính có thể được tách ra "
+"thành cửa sổ riêng biệt ở cấp độ cao nhất bằng cách sử dụng Cửa sổ->Tách. "
+"Tương tự, các cửa sổ đã tách có thể được gắn vào không gian làm việc chính "
+"bằng cách sử dụng Cửa sổ->Gắn vào cửa sổ chính."
+
+#. i18n: ectx: (RKWard for R Users) <section title="Window management">
+#: rkward/pages/rkward_for_r_users.rkh:44
+#, kde-format
+msgid ""
+"Windows can be closed using Windows->Close (Ctrl+W by default). Ctrl+Tab and "
+"Ctrl+Shift+Tab cycle through all active document / tool windows in your "
+"session."
+msgstr ""
+"Các cửa sổ có thể được đóng bằng cách sử dụng Windows->Close (Ctrl+W mặc "
+"định). Ctrl+Tab và Ctrl+Shift+Tab chuyển qua lại giữa tất cả các tài liệu / "
+"cửa sổ công cụ đang hoạt động trong phiên của bạn."
+
+#. i18n: ectx: (RKWard for R Users) <section title="Window management">
+#: rkward/pages/rkward_for_r_users.rkh:44
+#, kde-format
+msgid ""
+"Tool windows (e.g. the R Console) can be detached and re-attached using the "
+"arrow-icon in their window border."
+msgstr ""
+"Các cửa sổ công cụ (ví dụ như R Console) có thể được tách rời và gắn lại "
+"bằng cách sử dụng biểu tượng mũi tên ở viền cửa sổ."
+
+#. i18n: ectx: (RKWard for R Users) <section title="...">
+#: rkward/pages/rkward_for_r_users.rkh:51
+#, kde-format
+msgid "Editing data"
+msgstr "Chỉnh sửa dữ liệu"
+
+#. i18n: ectx: (RKWard for R Users) <section title="Editing data">
+#: rkward/pages/rkward_for_r_users.rkh:51
+#, kde-format
+msgid ""
+"RKWard provides a built-in editor for data.frames. In fact, you can edit "
+"many data.frames at the same time, and even while running lengthy "
+"calculations. Still the data is stored as a regular data.frame in R. To "
+"explore the data editor, either choose File->New->Dataset, or right-click a "
+"data.frame in the Workspace browser, and choose Edit from the menu."
+msgstr ""
+"RKWard cung cấp một trình biên tập tích hợp sẵn cho data.frames. Thực tế, "
+"bạn có thể chỉnh sửa nhiều data.frames cùng một lúc, thậm chí khi đang chạy "
+"các tính toán dài. Tuy nhiên, dữ liệu vẫn được lưu trữ dưới dạng data.frame "
+"thông thường trong R. Để khám phá trình sửa dữ liệu, hãy chọn "
+"File->New->Dataset, hoặc nhấp chuột phải vào một data.frame trong trình "
+"duyệt Workspace và chọn Edit từ menu."
+
+#. i18n: ectx: (RKWard for R Users) <section title="Editing data">
+#: rkward/pages/rkward_for_r_users.rkh:51
+#, kde-format
+msgid ""
+"Support for adding other types of data, esp. single vectors is planned, but "
+"not currently supported."
+msgstr ""
+"Hỗ trợ thêm các loại dữ liệu khác, đặc biệt là các vector đơn lẻ, đang được "
+"lên kế hoạch, nhưng hiện tại chưa được hỗ trợ."
+
+#. i18n: ectx: (RKWard for R Users) <section title="...">
+#: rkward/pages/rkward_for_r_users.rkh:56
+#, kde-format
+msgid "Graphics"
+msgstr "Đồ họa"
+
+#. i18n: ectx: (RKWard for R Users) <section title="Graphics">
+#: rkward/pages/rkward_for_r_users.rkh:56
+#, kde-format
+msgid ""
+"R has a few immensely powerful graphics systems (although not interactive) "
+"provided by various packages such as <b>graphics</b> and <b>lattice</b>. "
+"RKWard wraps around the standard platform-dependent screen device to provide "
+"a uniform experience. In additional to the standard functionality of these "
+"packages, RKWard provides a screen device history mechanism to store and "
+"browse your plots. See <link href=\"rkward://page/rkward_plot_history\"/> "
+"for details."
+msgstr ""
+"R có một vài hệ thống đồ họa cực kỳ mạnh mẽ (mặc dù không tương tác) được "
+"cung cấp bởi các gói khác nhau như <b>graphics</b> và <b>lattice</b>. "
+"RKWard bao bọc xung quanh thiết bị màn hình phụ thuộc nền tảng tiêu chuẩn "
+"để cung cấp trải nghiệm đồng nhất. Ngoài chức năng tiêu chuẩn của các gói "
+"này, RKWard cung cấp cơ chế lịch sử thiết bị màn hình để lưu trữ và duyệt "
+"các biểu đồ của bạn. Xem <link href=\"rkward://page/rkward_plot_history\"/> "
+"để biết chi tiết."
+
+#. i18n: ectx: (RKWard for R Users) <section title="...">
+#: rkward/pages/rkward_for_r_users.rkh:59
+#, kde-format
+msgid "Utility functions"
+msgstr "Các chức năng tiện ích"
+
+#. i18n: ectx: (RKWard for R Users) <section title="Utility functions">
+#: rkward/pages/rkward_for_r_users.rkh:59
+#, kde-format
+msgid ""
+"RKWard provides various utility functions which are listed in the index of "
+"the <link href=\"rkward://rhelp/rkward-package\">rkward package overview</"
+"link>."
+msgstr ""
+"RKWard cung cấp nhiều chức năng tiện ích được liệt kê trong phần lập chỉ "
+"mục của <link href=\"rkward://rhelp/rkward-package\">tổng quan gói "
+"rkward</link>."
+
+#. i18n: ectx: (RKWard for R Users) <section title="...">
+#: rkward/pages/rkward_for_r_users.rkh:62
+#, kde-format
+msgid "Everything else"
+msgstr "Tất cả những thứ khác"
+
+#. i18n: ectx: (RKWard for R Users) <section title="Everything else">
+#: rkward/pages/rkward_for_r_users.rkh:62
+#, kde-format
+msgid ""
+"You will notice that RKWard provides a lot of further menu options. These "
+"provide access to functionality in R. In fact, they do so by generating R "
+"syntax from settings made in a graphical dialog. For instance, select "
+"Analysis->Descriptive Statistics. You will notice a small window at the "
+"bottom (can be toggled on or off using the \"Code\" button) that contains "
+"the R code needed to generate these statistics. This way, even if you prefer "
+"to script your code by hand, you can use dialogs to gain usage examples or "
+"snippets of code for functions you are less familiar with in R."
+msgstr ""
+"Bạn sẽ nhận thấy rằng RKWard cung cấp rất nhiều tùy chọn trình đơn khác. "
+"Những tùy chọn này cung cấp quyền truy cập vào các chức năng trong R. Thực "
+"tế, chúng tạo ra cú pháp R từ các thiết lập được thực hiện trong hộp thoại "
+"đồ họa. Ví dụ, hãy bôi đen Phân tích->Thống kê mô tả. Bạn sẽ nhận thấy một "
+"cửa sổ nhỏ ở phía dưới (có thể được bật hoặc tắt bằng cách sử dụng nút "
+"\"Mã\") chứa mã R cần thiết để tạo ra các thống kê này. Theo cách này, ngay "
+"cả khi bạn thích viết kịch bản mã bằng tay, bạn vẫn có thể sử dụng các hộp "
+"thoại để có ví dụ về cách sử dụng hoặc đoạn mã cho các chức năng mà bạn "
+"không quen thuộc trong R."
+
+#. i18n: ectx: (RKWard for R Users) <section title="Everything else">
+#: rkward/pages/rkward_for_r_users.rkh:62
+#, kde-format
+msgid ""
+"Also, all commands that are executed get shown in the Command Log, available "
+"as a tool window next to the R Console."
+msgstr ""
+"Ngoài ra, tất cả các lệnh được thực thi đều được hiển thị trong Nhật ký "
+"lệnh, có sẵn như một cửa sổ công cụ bên cạnh Bảng điều khiển R."
+
+#. i18n: ectx: (RKWard for R Users) <related>
+#: rkward/pages/rkward_for_r_users.rkh:68
+#, kde-format
+msgid ""
+"<link href=\"rkward://page/rkward_for_new_users\"/> For an introduction to "
+"some more basic concepts"
+msgstr ""
+"Để tìm hiểu về một số khái niệm cơ bản hơn, hãy xem <link "
+"href=\"rkward://page/rkward_for_new_users\"/>."
+
+#. i18n: ectx: (Version incompatibilities) <title>
+#: rkward/pages/rkward_incompatible_version.rkh:8
+#, kde-format
+msgid "Version incompatibilities"
+msgstr "Không tương thích về phiên bản"
+
+#. i18n: ectx: (Version incompatibilities) <summary>
+#: rkward/pages/rkward_incompatible_version.rkh:9
+#, kde-format
+msgid ""
+"While RKWard tries to support a large number of different R versions, some "
+"of the time, a new version of R will not be compatible with RKWard out of "
+"the box. In these cases you will have to install a new version of RKWard. "
+"Quite often, this does not actually have to be a <i>new</i> version, but "
+"simply one that was compiled against your new version of R."
+msgstr ""
+"Mặc dù RKWard cố gắng hỗ trợ nhiều phiên bản R khác nhau, đôi khi một phiên "
+"bản R mới sẽ không tương thích với RKWard ngay lập tức. Trong những trường "
+"hợp này, bạn sẽ phải cài đặt một phiên bản RKWard mới. Thông thường, đây "
+"không nhất thiết phải là một phiên bản <i>mới</i>, mà chỉ đơn giản là một "
+"phiên bản được biên dịch dựa trên phiên bản R mới của bạn."
+
+#. i18n: ectx: (Version incompatibilities) <summary>
+#: rkward/pages/rkward_incompatible_version.rkh:9
+#, kde-format
+msgid ""
+"If you have installed RKWard using the package manager of your Linux "
+"distribution, but no updated package is available, please contact your "
+"distribution maintainer or file a bug report, there."
+msgstr ""
+"Nếu bạn đã cài đặt RKWard bằng trình quản lý gói của bản phân phối Linux "
+"của mình, nhưng không có gói cập nhật sẵn có, vui lòng liên hệ với bảo trì "
+"viên bản phân phối của bạn hoặc gửi báo cáo lỗi tại đó."
+
+#. i18n: ectx: (Version incompatibilities) <summary>
+#: rkward/pages/rkward_incompatible_version.rkh:9
+#, kde-format
+msgid ""
+"For more information about available versions, and more troubleshooting "
+"information, see <link href=\"https://rkward.kde.org\">the project homepage</"
+"link>."
+msgstr ""
+"Để biết thêm thông tin về các phiên bản hiện có và thông tin khắc phục sự "
+"cố, hãy xem <link href=\"https://rkward.kde.org\">trang chủ dự án</link>."
+
+#. i18n: ectx: (Version incompatibilities) <section title="...">
+#: rkward/pages/rkward_incompatible_version.rkh:17
+#, kde-format
+msgid "Graphics Engine Version Mismatch"
+msgstr "Phiên bản Dụng cụ Đồ họa Không tương thích"
+
+#. i18n: ectx: (Version incompatibilities) <section title="Graphics Engine Version Mismatch">
+#: rkward/pages/rkward_incompatible_version.rkh:17
+#, kde-format
+msgid ""
+"This is the most common kind of version incompatibility. The same advice "
+"applies as above, i.e. please install an updated version of RKWard. However, "
+"if no update appears to be immediately available, and you are desparate to "
+"continue working, set <link href=\"rkward://settings/graphics\">Settings-&gt;"
+"Onscreen Graphics</link>-&gt;\"Integration of R standard device\" to \"No "
+"integration\". Then you can use the vanille onscreen devices (X11() or "
+"Windows() or Quartz()), for plotting."
+msgstr ""
+"Đây là loại khôn&g tương thích phiên bản phổ biến nhất. Lời khuyên tương tự "
+"như trên, tức là vui lòng cài đặt phiên bản RKWard mới nhất. Tuy nhiên, nếu "
+"không có bản cập nhật nào ngay lập tức và bạn rất cần tiếp tục làm việc, "
+"hãy đặt <link href=\"rkward://settings/graphics\">Cài đặt-gt;Đồ họa trên "
+"màn hình</link>-gt;\"Tích hợp thiết bị tiêu chuẩn R\" thành \"Không tích "
+"hợp\". Sau đó, bạn có thể sử dụng các thiết bị trên màn hình thông thường "
+"(X11() hoặc Windows() hoặc Quartz()) để vẽ đồ thị."
+
+#. i18n: ectx: (RKWard Output) <title>
+#: rkward/pages/rkward_output.rkh:8
+#, kde-format
+msgid "RKWard Output"
+msgstr "Đầu ra RKWard"
+
+#. i18n: ectx: (RKWard Output) <summary>
+#: rkward/pages/rkward_output.rkh:9
+#, kde-format
+msgid ""
+"The RKWard output window, or, more generally, RKWard output files (.rko) are "
+"intended as an easy way to keep a log of the work on your data. By default, "
+"one output file is always available. Depending on your configuration (<link "
+"href=\"rkward://settings/output\">Settings->Configure RKWard->Output</"
+"link>), this output file may or may not be shared across different "
+"workspaces."
+msgstr ""
+"Cửa sổ đầu ra của RKWard, hoặc nói chung hơn, các tệp đầu ra của RKWard "
+"(.rko) được thiết kế như một cách dễ dàng để lưu giữ nhật kí công việc trên "
+"dữ liệu của bạn. Mặc định, luôn có sẵn một tệp đầu ra. Tùy thuộc vào cấu "
+"hình của bạn (<link href=\"rkward://settings/output\">Cài đặt->Cấu hình "
+"RKWard->Đầu ra</link>), tệp đầu ra này có thể được chia sẻ hoặc không giữa "
+"các không gian làm việc khác nhau."
+
+#. i18n: ectx: (RKWard Output) <summary>
+#: rkward/pages/rkward_output.rkh:9
+#, kde-format
+msgid ""
+"RKWard output can be saved and opened like regular files. To direct output "
+"to a specific output file, you will have to \"activate\" it. Closing an "
+"output window does not discard the modifications, but on closing RKWard you "
+"will be prompted to save (or discard) any pending changes."
+msgstr ""
+"Đầu ra của RKWard có thể được lưu và mở như các tệp thông thường. Để chuyển "
+"đầu ra đến một tệp đầu ra cụ thể, bạn sẽ phải \"kích hoạt\" nó. Đóng một "
+"cửa sổ đầu ra không loại bỏ các thay đổi, nhưng khi đóng RKWard, bạn sẽ "
+"được nhắc lưu (hoặc loại bỏ) bất kỳ thay đổi nào chưa được lưu."
+
+#. i18n: ectx: (RKWard Output) <section title="...">
+#: rkward/pages/rkward_output.rkh:16
+#, kde-format
+msgid "Producing RKWard output from R"
+msgstr "Tạo đầu ra RKWard từ R"
+
+#. i18n: ectx: (RKWard Output) <section title="Producing RKWard output from R">
+#: rkward/pages/rkward_output.rkh:16
+#, kde-format
+msgid ""
+"To write to the active RKWard output file from custom R code, refer to <link "
+"href=\"rkward://rhelp/rk.print\"/>, and the functions linked from there."
+msgstr ""
+"Để ghi vào tệp đầu ra RKWard đang hoạt động từ mã R tự chọn, hãy tham khảo "
+"<link href=\"rkward://rhelp/rk.print\"/>, và các chức năng được liên kết từ "
+"đó."
+
+#. i18n: ectx: (RKWard Output) <section title="Producing RKWard output from R">
+#: rkward/pages/rkward_output.rkh:16
+#, kde-format
+msgid ""
+"To load / save / switch between output files, etc., refer to <link href="
+"\"rkward://rhelp/rk.output\"/>."
+msgstr ""
+"Để tải / lưu / chuyển đổi giữa các tệp đầu ra, v.v., hãy tham khảo <link "
+"href=\"rkward://rhelp/rk.output\"/>."
+
+#. i18n: ectx: (RKWard Output) <section title="...">
+#: rkward/pages/rkward_output.rkh:22
+#, kde-format
+msgid "Using the output in an office suite"
+msgstr "Sử dụng đầu ra trong bộ công cụ văn phòng"
+
+#. i18n: ectx: (RKWard Output) <section title="Using the output in an office suite">
+#: rkward/pages/rkward_output.rkh:22
+#, kde-format
+msgid ""
+"The easiest way to get output into your office suite, is to first select the "
+"relevant portions, copy them (Edit->Copy), then paste them. This works well, "
+"at least in OpenOffice or LibreOffice. You can also drag and drop images "
+"from the output to an OpenOffice or LibreOffice document."
+msgstr ""
+"Cách dễ nhất để đưa kết quả vào bộ công cụ văn phòng của bạn là trước tiên "
+"chọn các phần liên quan, sao chép chúng (Chỉnh sửa->Sao chép), sau đó dán "
+"chúng. Điều này hoạt động tốt, ít nhất là trong OpenOffice hoặc "
+"LibreOffice. Bạn cũng có thể kéo và thả hình ảnh từ kết quả vào một tài "
+"liệu OpenOffice hoặc LibreOffice."
+
+#. i18n: ectx: (RKWard Output) <section title="Using the output in an office suite">
+#: rkward/pages/rkward_output.rkh:22
+#, kde-format
+msgid ""
+"Internally, RKWard output files are currently simply based on HTML. If you "
+"need access to the raw HTML and image files, a .rko-file is just a zip'ed "
+"folder. You can unzip it using standard tools, or open it in RKWard, and "
+"retrieve the files from the \".rkward\" of your home directory (location "
+"configurable in Settings->Configure RKWard->General)."
+msgstr ""
+"Về mặt nội bộ, các tệp đầu ra của RKWard hiện đang dựa trên HTML. Nếu bạn "
+"cần truy cập vào HTML thô và các tệp ảnh, một tệp .rko chỉ là một thư mục "
+"được nén lại bằng zip. Bạn có thể giải nén nó bằng các công cụ tiêu chuẩn, "
+"hoặc mở nó trong RKWard và lấy các tệp từ \".rkward\" trong thư mục home "
+"của bạn (vị trí có thể cấu hình trong Cài đặt->Cấu hình RKWard->Chung)."
+
+#. i18n: ectx: (RKWard Output) <section title="...">
+#: rkward/pages/rkward_output.rkh:28
+#, kde-format
+msgid "RKWard output vs. R Markdown"
+msgstr "Đầu ra RKWard so với R Markdown"
+
+#. i18n: ectx: (RKWard Output) <section title="RKWard output vs. R Markdown">
+#: rkward/pages/rkward_output.rkh:28
+#, kde-format
+msgid ""
+"RKWard also assists you in writing RMarkdown (Rmd) documents. In particular "
+"there is a powerful preview feature for .Rmd scripts. While RMarkdown is "
+"great for writing interactive \"reports\", the RKWard Output is very easy to "
+"use for ad-hoc documentation while exploring your data."
+msgstr ""
+"RKWard cũng hỗ trợ bạn viết tài liệu RMarkdown (Rmd). Đặc biệt, có một tính "
+"năng xem thử mạnh mẽ cho các tập tin .Rmd. Trong khi RMarkdown rất tuyệt "
+"vời để viết \"báo cáo\" tương tác, đầu ra của RKWard rất dễ sử dụng để tài "
+"liệu ad-hoc trong khi khám phá dữ liệu của bạn."
+
+#. i18n: ectx: (Screen device history) <title>
+#: rkward/pages/rkward_plot_history.rkh:8
+#, kde-format
+msgid "Screen device history"
+msgstr "Lịch sử thiết bị màn hình"
+
+#. i18n: ectx: (Screen device history) <summary>
+#: rkward/pages/rkward_plot_history.rkh:10
+#, kde-format
+msgid ""
+"The screen device history provides an interface to flip through your plots, "
+"similar a web browser. The current implementation understands most function "
+"calls from the graphics and lattice packages. Adding other graphical engines "
+"is planned for future. See the Technical Details section below for more "
+"information."
+msgstr ""
+"Lịch sử thiết bị màn hình cung cấp một giao diện để lật qua các biểu đồ của "
+"bạn, tương tự như trình duyệt web. Phiên bản hiện tại hiểu hầu hết các lệnh "
+"gọi từ các gói đồ họa và lưới. Việc thêm các công cụ đồ họa khác được lên "
+"kế hoạch cho tương lai. Xem phần Thông tin kỹ thuật bên dưới để biết thêm "
+"thông tin."
+
+#. i18n: ectx: (Screen device history) <summary>
+#: rkward/pages/rkward_plot_history.rkh:10
+#, kde-format
+msgid ""
+"The screen device history is only accessible from an open screen device, "
+"under the <i>History</i> menu. It is available on most screen device "
+"windows. Such devices are called \"managed\" devices for the purpose of this "
+"help page. File devices, such as png, pdf, etc. are not, obviously, affected "
+"by this screen history implementation, and hence they are not managed. In "
+"addition, \"preview\" devices, which are available on some of the plugins "
+"are not managed either."
+msgstr ""
+"Lịch sử thiết bị màn hình chỉ có thể truy cập từ một thiết bị màn hình đang "
+"mở, dưới menu <i>Lịch sử</i>. Nó có sẵn trên hầu hết các cửa sổ thiết bị "
+"màn hình. Những thiết bị như vậy được gọi là thiết bị \"được quản lý\" cho "
+"mục đích của trang trợ giúp này. Các thiết bị tệp, như png, pdf, v.v. rõ "
+"ràng không bị ảnh hưởng bởi việc triển khai lịch sử màn hình này, và do đó "
+"chúng không được quản lý. Ngoài ra, các thiết bị \"xem trước\", có sẵn trên "
+"một số plugin cũng không được quản lý."
+
+#. i18n: ectx: (Screen device history) <section title="...">
+#. i18n: ectx: (Workspace Browser) <section title="...">
+#: rkward/pages/rkward_plot_history.rkh:16
+#: rkward/pages/rkward_workspace_browser.rkh:30
+#, kde-format
+msgid "Available actions"
+msgstr "Các hành động hiện có"
+
+#. i18n: ectx: (Screen device history) <section title="Available actions">
+#: rkward/pages/rkward_plot_history.rkh:16
+#, kde-format
+msgid ""
+"Several actions are available either from the <i>History</i> menu or from "
+"the toolbar icons on a managed device. The displayed icons on the toolbar "
+"can be configured from the device window's Settings->Configure Toolbars menu "
+"item."
+msgstr ""
+"Một số hành động có sẵn từ trình đơn <i>History</i> hoặc từ các biểu tượng "
+"trên thanh công cụ của thiết bị được quản lý. Các biểu tượng hiển thị trên "
+"thanh công cụ có thể được cấu hình từ mục trình đơn Settings->Configure "
+"Toolbars của cửa sổ thiết bị."
+
+#. i18n: ectx: (Screen device history) <section title="Available actions">
+#: rkward/pages/rkward_plot_history.rkh:16
+#, kde-format
+msgid ""
+"<b>Go to plot</b>: This provides a drop-down list of _all_ the plots stored "
+"in the history; giving an easily accessible \"jumping\" action. RKWard tries "
+"hard to identify the appropriate plot calls, but this is not always "
+"feasible. In such cases a further attempt is made to identify the <i>X "
+"label</i>, <i>Y label</i> and the <i>Main</i> titles of the plot and the "
+"displayed string looks like \"<b>X:</b> <i>xlab</i>; <b>Y:</b> <i>ylab</i>; "
+"<i>main</i>\". Sometimes even that is not possible (indicated by <b>&lt;"
+"Unknown&gt;</b>). Plots which are pending to be saved are indicated by "
+"<b>&lt;Unsaved plot&gt;</b>. The displayed strings are prepended with their "
+"corresponding position in the history. For the usual \"linear browsing\" see "
+"first / previous / next / last actions below."
+msgstr ""
+"<b>Đi đến biểu đồ</b>: Cung cấp một danh sách thả xuống của _tất cả_ các "
+"biểu đồ được &lưu trong lịch sử; cho phép \"nhảy\" đến biểu đồ một cách dễ "
+"dàng. RKWard cố gắng xác định các lệnh vẽ biểu đồ phù hợp, nhưng điều này "
+"không phải lúc nào cũng khả thi. Trong những trường hợp đó, một nỗ lực khác "
+"được thực hiện để xác định <i>Nhãn X</i>, <i>Nhãn Y</i> và <i>Tiêu đề "
+"chính</i> của biểu đồ và chuỗi hiển thị trông giống như \"<b>X:</b> "
+"<i>xlab</i>; <b>Y:</b> <i>ylab</i>; <i>main</i>\". Đôi khi ngay cả điều đó "
+"cũng không thể (được chỉ ra bằng <b>&lt;Không xác định&gt;</b>). Các biểu "
+"đồ đang chờ được lưu được chỉ ra bằng <b>&lt;Biểu đồ chưa lưu&gt;</b>. Các "
+"chuỗi hiển thị được thêm vào trước với vị trí tương ứng của chúng trong "
+"lịch sử. Để \"duyệt tuyến tính\" thông thường, xem các hành động đầu tiên / "
+"trước / tiếp / cuối cùng bên dưới."
+
+#. i18n: ectx: (Screen device history) <section title="Available actions">
+#: rkward/pages/rkward_plot_history.rkh:16
+#, kde-format
+msgid ""
+"<b>First, Previous, Next, and Last plot</b>: Obvious browsing (or replaying) "
+"actions. These will try to save any unsaved/pending plot before displaying/"
+"replaying the intended (first / previous / next / last) plot. This should be "
+"very helpful for browsing to an already stored in the history and update it. "
+"For example, a base graphics plot modified by, say, <code>abline(h=0, v=0)</"
+"code> will automatically get stored \"in-place\" in the history."
+msgstr ""
+"<b>Đầu tiên, Trước, Tiếp, và Cuối cùng</b>: Các thao tác duyệt (hoặc phát "
+"lại) rõ ràng. Chúng sẽ cố gắng lưu bất kỳ đồ thị chưa lưu/đang chờ xử lý "
+"nào trước khi hiển thị/phát lại đồ thị dự định (đầu tiên / trước / tiếp / "
+"cuối cùng). Điều này rất hữu ích để duyệt đến một đồ thị đã lưu trong lịch "
+"sử và cập nhật nó. Ví dụ, một đồ thị đồ họa cơ bản được chỉnh sửa bởi, "
+"chẳng hạn, <code>abline(h=0, v=0)</code> sẽ tự động được lưu \"tại chỗ\" "
+"trong lịch sử."
+
+#. i18n: ectx: (Screen device history) <section title="Available actions">
+#: rkward/pages/rkward_plot_history.rkh:16
+#, kde-format
+msgid ""
+"<b>Append this plot</b>: This action is provided to forcefully append the "
+"displayed plot to the end of the history, irrespective of its status "
+"(saved / unsaved) and type (graphics / lattice / ...). In cases when a plot "
+"does not automatically get stored in the history, this action should come in "
+"handy. But this flexibility comes at the cost of not being able to identify "
+"the plot call."
+msgstr ""
+"<b>Thêm biểu đồ này</b>: Hành động này được cung cấp để thêm biểu đồ đang "
+"hiển thị vào cuối lịch sử một cách bắt buộc, bất kể trạng thái (đã lưu / "
+"chưa lưu) và kiểu (đồ họa / lattice / ...) của nó. Trong trường hợp một "
+"biểu đồ không tự động được lưu vào lịch sử, hành động này sẽ rất hữu ích. "
+"Tuy nhiên, sự linh hoạt này đi kèm với việc không thể xác định được lệnh "
+"gọi biểu đồ."
+
+#. i18n: ectx: (Screen device history) <section title="Available actions">
+#: rkward/pages/rkward_plot_history.rkh:16
+#, kde-format
+msgid ""
+"<b>Remove this plot</b>: This will remove the currently displayed from the "
+"history (if it is stored) and replay the next \"available\" plot. When "
+"multiple devices are displaying the same plot (to be precise, same position "
+"in the history), then removing a plot from one device will not remove it "
+"from other devices; instead it will set the status of this plot on the other "
+"devices as new / pending. Thus, if you happen to remove one by mistake, and "
+"if it happens to be displayed on a second device, then you can re-add it to "
+"the history from the second device."
+msgstr ""
+"<b>Xoá biểu đồ này</b>: Thao tác này sẽ xoá biểu đồ đang hiển thị khỏi lịch "
+"sử (nếu nó được lưu trữ) và phát lại biểu đồ \"khả dụng\" tiếp theo. Khi "
+"nhiều thiết bị đang hiển thị cùng một biểu đồ (chính xác hơn là cùng vị trí "
+"trong lịch sử), việc xoá biểu đồ từ một thiết bị sẽ không xoá nó khỏi các "
+"thiết bị khác; thay vào đó, nó sẽ đặt trạng thái của biểu đồ này trên các "
+"thiết bị khác thành mới / đang chờ xử lý. Do đó, nếu bạn vô tình xoá một "
+"biểu đồ, và nếu nó đang được hiển thị trên một thiết bị thứ hai, bạn có thể "
+"thêm lại nó vào lịch sử từ thiết bị thứ hai đó."
+
+#. i18n: ectx: (Screen device history) <section title="Available actions">
+#: rkward/pages/rkward_plot_history.rkh:16
+#, kde-format
+msgid ""
+"<b>Clear history</b>: As the name suggests, this action will clear the "
+"plotting history. But the plots currently displayed on the devices, upon "
+"further action, will get added back to the history. To completely reset the "
+"screen device history close all open devices and call <code>rk.clear.plot."
+"history()</code>"
+msgstr ""
+"<b>Làm trống lịch sử</b>: Như tên gọi, hành động này sẽ làm trống lịch sử "
+"vẽ đồ thị. Nhưng các đồ thị hiện đang hiển thị trên các thiết bị, khi có "
+"hành động tiếp theo, sẽ được thêm lại vào lịch sử. Để hoàn toàn đặt lại "
+"lịch sử thiết bị màn hình, hãy đóng tất cả các thiết bị đang mở và gọi "
+"<code>rk.clear.plot.history()</code>"
+
+#. i18n: ectx: (Screen device history) <section title="Available actions">
+#: rkward/pages/rkward_plot_history.rkh:16
+#, kde-format
+msgid ""
+"<b>Plot properties</b>: This shows some additional information such as the "
+"size of the displayed plot as stored in the memory, the position of the "
+"current plot in the history, and, whenever possible the complete plot call."
+msgstr ""
+"<b>Thuộc tính đồ thị</b>: Phần này hiển thị một số thông tin bổ sung như "
+"kích thước của đồ thị được hiển thị như đã lưu trong bộ nhớ, vị trí của đồ "
+"thị hiện tại trong lịch sử, và, khi có thể, lệnh gọi đồ thị hoàn tất."
+
+#. i18n: ectx: (Screen device history) <section title="Configurable Settings">
+#: rkward/pages/rkward_plot_history.rkh:29
+#, kde-format
+msgid ""
+"Some default settings for the Screen device history can be configured from "
+"<a href=\"rkward://settings/graphics\">Settings->Configure RKWard->Onscreen "
+"Graphics</a>:"
+msgstr ""
+"Một số thiết lập mặc định cho lịch sử thiết bị Màn hình có thể được cấu "
+"hình từ <a href=\"rkward://settings/graphics\">Thiết lập->Cấu hình "
+"RKWard->Đồ họa trên màn hình</a>:"
+
+#. i18n: ectx: (Screen device history) <section title="Configurable Settings">
+#: rkward/pages/rkward_plot_history.rkh:29
+#, kde-format
+msgid ""
+"<b>Screen device history</b>: Enables / disables the recording of plots "
+"globally. You can toggle this from within a running RKWard session, which "
+"will affect all currently open and future screen devices. When unchecked, "
+"RKWard will not store any further plots in the history; although, the ones "
+"already stored are not lost! You can access the stored plots by re-enabling "
+"this. When toggling this, RKWard tries to save any unsaved plots, but be "
+"careful especially when the maximum history length is small (see below). You "
+"may want to disable this when the implemented history behavior seems non-"
+"intuitive or when dealing with large plots."
+msgstr ""
+"<b>Lịch sử thiết bị màn hình</b>: Bật / tắt việc ghi lại các biểu đồ trên "
+"toàn cục. Bạn có thể chuyển đổi tính năng này trong một phiên RKWard đang "
+"chạy, điều này sẽ ảnh hưởng đến tất cả các thiết bị màn hình hiện tại và "
+"tương lai. Khi bỏ chọn, RKWard sẽ không lưu trữ thêm bất kỳ biểu đồ nào vào "
+"lịch sử; tuy nhiên, những biểu đồ đã được lưu trữ sẽ không bị mất! Bạn có "
+"thể truy cập các biểu đồ đã lưu bằng cách kích hoạt lại tính năng này. Khi "
+"chuyển đổi, RKWard cố gắng lưu bất kỳ biểu đồ chưa lưu nào, nhưng hãy cẩn "
+"thận đặc biệt khi độ dài lịch sử tối đa nhỏ (xem bên dưới). Bạn có thể muốn "
+"tắt tính năng này khi hành vi lịch sử được triển khai có vẻ không trực quan "
+"hoặc khi xử lý các biểu đồ lớn."
+
+#. i18n: ectx: (Screen device history) <section title="Configurable Settings">
+#: rkward/pages/rkward_plot_history.rkh:29
+#, kde-format
+msgid ""
+"<b>Maximum number of recorded plots</b>: Controls the maximum number of "
+"plots that can be stored in the history. When this limit is reached, plots "
+"from the beginning of the history will get removed one by one, much like a "
+"push-pop stack. A warning dialog is shown when this happens. Be careful when "
+"setting this below the number of already stored plots. In that case an "
+"appropriate number of plots from the beginning of the history stack will get "
+"removed, which may not be desirable."
+msgstr ""
+"<b>Số lượng đồ thị tối đa được ghi lại</b>: Kiểm soát số lượng đồ thị tối "
+"đa có thể được lưu trữ trong lịch sử. Khi đạt đến giới hạn này, các đồ thị "
+"từ đầu lịch sử sẽ bị xóa lần lượt, giống như một ngăn xếp push-pop. Một hộp "
+"thoại cảnh báo sẽ hiển thị khi điều này xảy ra. Hãy cẩn thận khi thiết lập "
+"giá trị này thấp hơn số lượng đồ thị đã lưu trữ. Trong trường hợp đó, một "
+"số lượng đồ thị thích hợp từ đầu ngăn xếp lịch sử sẽ bị xóa, điều này có "
+"thể không mong muốn."
+
+#. i18n: ectx: (Screen device history) <section title="Configurable Settings">
+#: rkward/pages/rkward_plot_history.rkh:29
+#, kde-format
+msgid ""
+"<b>Maximum size of a single recorded plot</b>: Controls the maximum allowed "
+"size (in KB) of a single plot that can be stored in the history. For a plot "
+"larger than this specified size, a dialog box, to save or to ignore the "
+"plot, will be presented. Unlike the above length restriction, this setting "
+"will affect only the future plots (that is, will not remove any already "
+"stored, yet large, plots)."
+msgstr ""
+"<b>Kích thước tối đa của một đồ thị được ghi lại</b>: Kiểm soát kích thước "
+"tối đa cho phép (tính bằng KB) của một đồ thị đơn lẻ có thể được lưu trữ "
+"trong lịch sử. Đối với đồ thị lớn hơn kích thước được chỉ định này, một hộp "
+"thoại để lưu hoặc bỏ qua đồ thị sẽ được hiển thị. Khác với giới hạn độ dài "
+"ở trên, thiết lập này sẽ chỉ ảnh hưởng đến các đồ thị trong tương lai "
+"(nghĩa là, sẽ không xoá bất kỳ đồ thị lớn nào đã được lưu trữ)."
+
+#. i18n: ectx: (Screen device history) <section title="...">
+#: rkward/pages/rkward_plot_history.rkh:39
+#, kde-format
+msgid "Technical Details"
+msgstr "Chi tiết kỹ thuật"
+
+#. i18n: ectx: (Screen device history) <section title="Technical Details">
+#: rkward/pages/rkward_plot_history.rkh:39
+#, kde-format
+msgid "Some assorted technical details:"
+msgstr "Một số chi tiết kỹ thuật khác:"
+
+#. i18n: ectx: (Screen device history) <section title="Technical Details">
+#: rkward/pages/rkward_plot_history.rkh:39
+#, kde-format
+msgid ""
+"<code>rk.plot.history.summary(which,type)</code>: this helper function "
+"provides some summaries about the screen device history. Here, <code>which</"
+"code> is a \"device id\" (default is <i>NULL</i>: summaries about all "
+"managed devices) and <code>type</code> is either <i>devices</i> (returns "
+"device specific information) or <i>history</i> (returns information on all "
+"the saved plots in the history)."
+msgstr ""
+"<code>rk.plot.history.summary(which,type)</code>: chức năng hỗ trợ này cung "
+"cấp một số thông tin tóm tắt về lịch sử thiết bị màn hình. Ở đây, "
+"<code>which</code> là một \"id thiết bị\" (mặc định là <i>NULL</i>: tóm tắt "
+"về tất cả các thiết bị được quản lý) và <code>type</code> là <i>devices</i> "
+"(trả về thông tin cụ thể về thiết bị) hoặc <i>history</i> (trả về thông tin "
+"về tất cả các biểu đồ đã lưu trong lịch sử)."
+
+#. i18n: ectx: (Screen device history) <section title="Technical Details">
+#: rkward/pages/rkward_plot_history.rkh:39
+#, kde-format
+msgid ""
+"Technically speaking, function calls that pass through either "
+"<code>graphics::plot.new()</code> or <code>graphics::persp()</code> or "
+"<code>lattice::print.trellis()</code> are captured."
+msgstr ""
+"Về mặt kỹ thuật, các lệnh gọi chức năng đi qua "
+"<code>graphics::plot.new()</code> hoặc <code>graphics::persp()</code> hoặc "
+"<code>lattice::print.trellis()</code> được ghi lại."
+
+#. i18n: ectx: (Screen device history) <section title="Technical Details">
+#: rkward/pages/rkward_plot_history.rkh:39
+#, kde-format
+msgid ""
+"The base graphics plots are recorded and replayed using <code>recordPlot()</"
+"code> and <code>replayPlot()</code>."
+msgstr ""
+"Các đồ thị đồ họa cơ bản được ghi lại và phát lại bằng cách sử dụng "
+"<code>recordPlot()</code> và <code>replayPlot()</code>."
+
+#. i18n: ectx: (Screen device history) <section title="Technical Details">
+#: rkward/pages/rkward_plot_history.rkh:39
+#, kde-format
+msgid ""
+"The lattice plots are added to the history using a custom <code>print."
+"trellis()</code> function set by <code>lattice.options(\"print.function\")</"
+"code>. So, you are warned against resetting or modifying this from a running "
+"RKWard session. Similarly, you are very strongly advised against using the "
+"<code>plot</code> method on a trellis object since it will not pass through "
+"<code>print.trellis()</code> and hence not be stored in the history. This "
+"may seem innocuous, but it will have irreparable consequences when trying to "
+"use <code>trellis.last.object()</code>, thereafter. You have been warned!"
+msgstr ""
+"Các đồ thị lattice được thêm vào lịch sử sử dụng một hàm "
+"<code>print.trellis()</code> tùy chỉnh được thiết lập bởi "
+"<code>lattice.options(\"print.function\")</code>. Vì vậy, bạn được cảnh báo "
+"không nên đặt lại hoặc sửa đổi điều này từ một phiên RKWard đang chạy. "
+"Tương tự, bạn được khuyến cáo mạnh mẽ không nên sử dụng phương thức "
+"<code>plot</code> trên một đối tượng trellis vì nó sẽ không đi qua "
+"<code>print.trellis()</code> và do đó không được lưu trữ trong lịch sử. "
+"Điều này có vẻ vô hại, nhưng nó sẽ có hậu quả không thể khắc phục khi cố "
+"gắng sử dụng <code>trellis.last.object()</code> sau đó. Bạn đã được cảnh "
+"báo!"
+
+#. i18n: ectx: (Screen device history) <related>
+#: rkward/pages/rkward_plot_history.rkh:49
+#, kde-format
+msgid "<link href=\"rkward://rhelp/lattice.options\"/> (needs lattice)"
+msgstr "<link href=\"rkward://rhelp/lattice.options\"/> (cần lattice)"
+
+#. i18n: ectx: (Screen device history) <related>
+#: rkward/pages/rkward_plot_history.rkh:49
+#, kde-format
+msgid "<link href=\"rkward://rhelp/trellis.last.object\"/> (needs lattice)"
+msgstr "<link href=\"rkward://rhelp/trellis.last.object\"/> (cần lattice)"
+
+#. i18n: ectx: (RKWard Shortcut keys) <title>
+#: rkward/pages/rkward_shortcuts.rkh:8
+#, kde-format
+msgid "RKWard Shortcut keys"
+msgstr "Các phím tắt của RKWard"
+
+#. i18n: ectx: (RKWard Shortcut keys) <summary>
+#: rkward/pages/rkward_shortcuts.rkh:9
+#, kde-format
+msgid ""
+"You can control RKWard in many situations without using a mouse device, "
+"using only the keyboard. The easiest way to find out about shortcuts of "
+"interest is to browse the menu. Shortcuts are listed next to their action in "
+"the menu."
+msgstr ""
+"Bạn có thể điều khiển RKWard trong nhiều tình huống mà không cần sử dụng "
+"thiết bị chuột, chỉ bằng bàn phím. Cách dễ nhất để tìm hiểu về các phím tắt "
+"quan tâm là duyệt qua menu. Các phím tắt được liệt kê bên cạnh hành động "
+"tương ứng trong menu."
+
+#. i18n: ectx: (RKWard Shortcut keys) <summary>
+#: rkward/pages/rkward_shortcuts.rkh:9
+#, kde-format
+msgid ""
+"Another possibility is to use the heads-up display (HUD). The HUD menu is a "
+"search field that allows fuzzy searching in the menus. The HUD was "
+"introduced in current KDE applications and is therefore not yet available in "
+"older RKWard versions. The HUD can be called up using Ctrl+Alt+i. This is "
+"particularly useful if you are looking for a function, the shortcut of a "
+"function or something in the menus, but do not want to go through each menu "
+"individually to find it."
+msgstr ""
+"Một khả năng khác là sử dụng bộ hiển thị đầu tiên (HUD). Trình đơn HUD là "
+"một trường tìm kiếm cho phép tìm kiếm mập mờ trong các trình đơn. HUD đã "
+"được giới thiệu trong các ứng dụng KDE hiện tại và do đó chưa có sẵn trong "
+"các phiên bản RKWard cũ hơn. HUD có thể được gọi lên bằng cách sử dụng "
+"Ctrl+Alt+i. Điều này đặc biệt hữu ích nếu bạn đang tìm kiếm một chức năng, "
+"phím tắt của một chức năng hoặc một cái gì đó trong các trình đơn, nhưng "
+"không muốn đi qua từng trình đơn một để tìm kiếm."
+
+#. i18n: ectx: (RKWard Shortcut keys) <summary>
+#: rkward/pages/rkward_shortcuts.rkh:9
+#, kde-format
+msgid ""
+"Most shortcuts are configurable, using Settings->Configure Shortcuts. For "
+"technical reasons, only the shortcuts of those components will be listed "
+"that are active at that time. Hence, for example, if you want to edit the "
+"shortcuts for the data editor, first open a data editor, then select "
+"Settings->Configure Shortcuts. Most shortcuts for the script editor are "
+"managed separately using Settings->Configure Editor->Shortcuts."
+msgstr ""
+"Hầu hết các phím tắt đều có thể được cấu hình, bằng cách sử dụng Cài "
+"đặt->Cấu hình Phím tắt. Vì lý do kỹ thuật, chỉ có các phím tắt của những "
+"thành phần đang hoạt động lúc đó mới được liệt kê. Do đó, ví dụ, nếu bạn "
+"muốn chỉnh sửa các phím tắt cho trình chỉnh sửa dữ liệu, trước tiên hãy mở "
+"một trình chỉnh sửa dữ liệu, sau đó chọn Cài đặt->Cấu hình Phím tắt. Hầu "
+"hết các phím tắt cho trình chỉnh sửa kịch bản được quản lý riêng biệt bằng "
+"cách sử dụng Cài đặt->Cấu hình Trình chỉnh sửa->Phím tắt."
+
+#. i18n: ectx: (RKWard Shortcut keys) <summary>
+#: rkward/pages/rkward_shortcuts.rkh:9
+#, kde-format
+msgid ""
+"On most systems, you can also configure shortcuts by right-clicking on the "
+"respective menu item."
+msgstr ""
+"Trên hầu hết các hệ thống, bạn cũng có thể cấu hình phím tắt bằng cách nhấp "
+"chuột phải vào mục tương ứng trong trình đơn."
+
+#. i18n: ectx: (RKWard Shortcut keys) <section title="...">
+#: rkward/pages/rkward_shortcuts.rkh:19
+#, kde-format
+msgid "RKWard Default Shortcut keys"
+msgstr "Các phím tắt mặc định của RKWard"
+
+#. i18n: ectx: (RKWard Shortcut keys) <section title="RKWard Default Shortcut keys">
+#: rkward/pages/rkward_shortcuts.rkh:19
+#, kde-format
+msgid "To point out some of the less discoverable or more important shortcuts:"
+msgstr "Để chỉ ra một số lối tắt ít được khám phá hoặc quan trọng hơn:"
+
+#. i18n: ectx: (RKWard Shortcut keys) <section title="RKWard Default Shortcut keys">
+#: rkward/pages/rkward_shortcuts.rkh:19
+#, kde-format
+msgid ""
+"To cycle between document / tool windows inside RKWard, use Ctrl+Tab and Ctrl"
+"+Shift+Tab"
+msgstr ""
+"Để chuyển đổi giữa cửa sổ tài liệu / công cụ bên trong RKWard, hãy sử dụng "
+"Ctrl+Tab và Ctrl+Shift+Tab"
+
+#. i18n: ectx: (RKWard Shortcut keys) <section title="RKWard Default Shortcut keys">
+#: rkward/pages/rkward_shortcuts.rkh:19
+#, kde-format
+msgid ""
+"To run code from scripts / help pages / the console, select it, and use Ctrl"
+"+Enter"
+msgstr ""
+"Để chạy mã từ các tập lệnh / trang trợ giúp / bảng điều khiển, hãy chọn nó "
+"và sử dụng Ctrl+Enter"
+
+#. i18n: ectx: (RKWard Shortcut keys) <section title="RKWard Default Shortcut keys">
+#: rkward/pages/rkward_shortcuts.rkh:19
+#, kde-format
+msgid ""
+"F2 to search the R help for the symbol under the cursor in scripts and the "
+"console"
+msgstr ""
+"Nhấn F2 để tìm kiếm trợ giúp R cho kí hiệu dưới con trỏ trong các tập lệnh "
+"và bàn điều khiển"
+
+#. i18n: ectx: (Split views) <title>
+#: rkward/pages/rkward_split_views.rkh:8
+#, kde-format
+msgid "Split views"
+msgstr "Chia cửa sổ"
+
+#. i18n: ectx: (Split views) <summary>
+#: rkward/pages/rkward_split_views.rkh:10
+#, kde-format
+msgid ""
+"Split views can be used to partition the main window into several view areas."
+msgstr ""
+"Các khung xem có thể được sử dụng để chia cửa sổ chính thành nhiều vùng "
+"xem."
+
+#. i18n: ectx: (Split views) <summary>
+#: rkward/pages/rkward_split_views.rkh:10
+#, kde-format
+msgid ""
+"They can be used to make better use of screen space, but also to view far-"
+"apart portions of a single file, simultaneously."
+msgstr ""
+"Chúng có thể được sử dụng để tận dụng tốt hơn không gian màn hình, nhưng "
+"cũng để xem các phần xa nhau của một tệp duy nhất đồng thời."
+
+#. i18n: ectx: (Split views) <section title="...">
+#: rkward/pages/rkward_split_views.rkh:16
+#, kde-format
+msgid "Splitting views"
+msgstr "Chia cửa sổ"
+
+#. i18n: ectx: (Split views) <section title="Splitting views">
+#: rkward/pages/rkward_split_views.rkh:16
+#, kde-format
+msgid ""
+"Splitting views is currently supported for the main window, only. Use Window-"
+">Split Vertical or Window->Split Horizontal to split the current view area "
+"vertically, or horizontally. For windows that support it (e.g. scripts, help "
+"pages), the newly created view area will contain a copy of the current "
+"window. When splitting other windows (such as onscreen graphics devices), "
+"the new view area will be initialized to show this help page."
+msgstr ""
+"Việc chia tách các khung xem hiện chỉ được hỗ trợ cho cửa sổ chính. Sử dụng "
+"Cửa sổ->Chia tách Dọc hoặc Cửa sổ->Chia tách Ngang để chia tách khu vực xem "
+"hiện tại theo chiều dọc hoặc chiều ngang. Đối với các cửa sổ hỗ trợ tính "
+"năng này (ví dụ: các tập lệnh, trang trợ giúp), khu vực xem mới được tạo ra "
+"sẽ chứa bản sao của cửa sổ hiện tại. Khi chia tách các cửa sổ khác (như các "
+"thiết bị đồ họa trên màn hình), khu vực xem mới sẽ được khởi tạo để hiển "
+"thị trang trợ giúp này."
+
+#. i18n: ectx: (Split views) <section title="Splitting views">
+#: rkward/pages/rkward_split_views.rkh:16
+#, kde-format
+msgid ""
+"To add further files to a view area, simply open them the normal way (from "
+"\"File Browser\" window, the menu, or from the \"R Console\" window). Simply "
+"make sure that the view area where you want them new window to open has "
+"focus / is active."
+msgstr ""
+"Để thêm các tệp khác vào một vùng xem, chỉ cần mở chúng theo cách bình "
+"thường (từ cửa sổ \"Trình duyệt tệp\", menu, hoặc từ cửa sổ \"Bảng điều "
+"khiển R\"). Chỉ cần đảm bảo rằng vùng xem mà bạn muốn các cửa sổ mới mở vào "
+"đang được nhắm/đang hoạt động."
+
+#. i18n: ectx: (Split views) <section title="...">
+#: rkward/pages/rkward_split_views.rkh:22
+#, kde-format
+msgid "Closing split views"
+msgstr "Đóng các chế độ xem được chia"
+
+#. i18n: ectx: (Split views) <section title="Closing split views">
+#: rkward/pages/rkward_split_views.rkh:22
+#, kde-format
+msgid "To remove a view area, simply close all windows inside it."
+msgstr "Để xoá một khung xem, chỉ cần đóng tất cả các cửa sổ bên trong nó."
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <title>
+#: rkward/pages/rkward_trouble_shooting.rkh:8
+#, kde-format
+msgid "Trouble Shooting / FAQ"
+msgstr "Xử lý sự cố / Câu hỏi thường gặp"
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <summary>
+#: rkward/pages/rkward_trouble_shooting.rkh:9
+#, kde-format
+msgid ""
+"This page will try to cover some common issues you may encounter when using "
+"RKWard. See also <link href=\"https://rkward.kde.org/faq\">the online FAQ</"
+"link>."
+msgstr ""
+"Trang này sẽ cố gắng đề cập đến một số vấn đề phổ biến bạn có thể gặp phải "
+"khi sử dụng RKWard. Xem thêm <link href=\"https://rkward.kde.org/faq\">FAQ "
+"trực tuyến</link>."
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="...">
+#: rkward/pages/rkward_trouble_shooting.rkh:12
+#, kde-format
+msgid "The \"Analysis\" menu is missing, or shows up as \"(no label)\""
+msgstr "Trình đơn \"Phân tích\" bị thiếu hoặc hiển thị là \"(không có nhãn)\""
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section shorttitle="...">
+#: rkward/pages/rkward_trouble_shooting.rkh:12
+#, kde-format
+msgid "Missing menu items"
+msgstr "Mục trình đơn bị thiếu"
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="The \"Analysis\" menu is missing, or shows up as \"(no label)\"">
+#: rkward/pages/rkward_trouble_shooting.rkh:12
+#, kde-format
+msgid ""
+"This problem will often occur, when moving an RKWard installation to a "
+"different path, esp. on Windows and Mac. You may have to visit Settings-"
+">Configure RKWard->Plugins and re-add the relevant \".pluginmap\"-files. "
+"Starting with version 0.6.3, RKWard should detect a changed installation "
+"path, and adjust paths, automatically."
+msgstr ""
+"Vấn đề này thường xảy ra khi di chuyển cài đặt RKWard đến một đường dẫn "
+"khác, đặc biệt là trên Windows và Mac. Bạn có thể phải vào Cài đặt->Cấu "
+"hình RKWard->Plugins và thêm lại các tệp \".pluginmap\" liên quan. Bắt đầu "
+"từ phiên bản 0.6.3, RKWard sẽ tự động phát hiện đường dẫn cài đặt thay đổi "
+"và điều chỉnh đường dẫn."
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="...">
+#: rkward/pages/rkward_trouble_shooting.rkh:17
+#, kde-format
+msgid "The R backend crashed or failed to start"
+msgstr "Hậu phương R đã bị sập hoặc không thể khởi động"
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section shorttitle="...">
+#: rkward/pages/rkward_trouble_shooting.rkh:17
+#, kde-format
+msgid "Crashed backend"
+msgstr "Hậu phương bị sập"
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="The R backend crashed or failed to start">
+#: rkward/pages/rkward_trouble_shooting.rkh:17
+#, kde-format
+msgid ""
+"At times the R backend will fail to start due to a configuration or "
+"installation problem. Common causes are changed paths, or an update to R. "
+"Usually, in these cases, the setup dialog is shown when starting RKWard, and "
+"this allows to select a different installation of R. (Note: You will be "
+"offered a selection of installations found a common paths, but you can also "
+"specify a non-detected installation, manually.)"
+msgstr ""
+"Đôi khi hậu phương R sẽ không khởi động được do vấn đề cấu hình hoặc cài "
+"đặt. Những nguyên nhân phổ biến là đường dẫn thay đổi hoặc cập nhật R. "
+"Thông thường, trong những trường hợp này, hộp thoại thiết lập sẽ được hiển "
+"thị khi bắt đầu RKWard, và điều này cho phép bạn chọn một phiên bản cài đặt "
+"R khác. (Lưu ý: Bạn sẽ được đề nghị lựa chọn các phiên bản cài đặt được tìm "
+"thấy ở các đường dẫn thông thường, nhưng bạn cũng có thể chỉ định một phiên "
+"bản cài đặt không được phát hiện, thủ công.)"
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="The R backend crashed or failed to start">
+#: rkward/pages/rkward_trouble_shooting.rkh:17
+#, kde-format
+msgid ""
+"In many cases, it will \"just work\" to select a version of R other than "
+"what has been used at compile time. Should you run into trouble, it is "
+"advised to use the same, or a similar version of R to what was available "
+"during compilation, however."
+msgstr ""
+"Trong nhiều trường hợp, việc chọn một phiên bản của R khác với phiên bản "
+"được sử dụng tại thời điểm biên dịch sẽ \"hoạt động bình thường\". Tuy "
+"nhiên, nếu gặp sự cố, bạn nên sử dụng cùng phiên bản hoặc phiên bản tương "
+"tự của R so với phiên bản có sẵn trong quá trình biên dịch."
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="The R backend crashed or failed to start">
+#: rkward/pages/rkward_trouble_shooting.rkh:17
+#, kde-format
+msgid ""
+"You can manually change the R backend at any time, using Settings->Check "
+"installation. Be sure to save your data, before changing the backend! You "
+"can also use the command-line option --r-executable in order to start a "
+"session using a specific installation of R."
+msgstr ""
+"Bạn có thể thay đổi hậu phương R thủ công bất kỳ lúc nào, bằng cách sử dụng "
+"Cài đặt->Kiểm tra cài đặt. Hãy chắc chắn rằng bạn đã lưu dữ liệu của mình "
+"trước khi thay đổi hậu phương! Bạn cũng có thể sử dụng tùy chọn dòng lệnh "
+"--r-executable để khởi động một phiên bản sử dụng một cài đặt R cụ thể."
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="...">
+#: rkward/pages/rkward_trouble_shooting.rkh:28
+#, kde-format
+msgid "Why shouldn't I use R bundled inside the RKWard AppImage"
+msgstr "Tại sao tôi không nên sử dụng R được đóng gói bên trong RKWard AppImage"
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section shorttitle="...">
+#: rkward/pages/rkward_trouble_shooting.rkh:28
+#, kde-format
+msgid "AppImage"
+msgstr "AppImage"
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="Why shouldn't I use R bundled inside the RKWard AppImage">
+#: rkward/pages/rkward_trouble_shooting.rkh:28
+#, kde-format
+msgid ""
+"The AppImage includes an installation of R for convenience, but this "
+"installation is not, and cannot technically be made fully functional. "
+"Importantly, you will not generally be able to install R packages (other "
+"than ones implemented purely in R). Also, you may run into conflicts between "
+"the R installation inside the AppImage, and R packages that are installed "
+"system-wide. This may cause subtle and surprising bugs."
+msgstr ""
+"AppImage bao gồm một bản cài đặt R để tiện lợi, nhưng bản cài đặt này "
+"không, và kỹ thuật không thể được làm hoàn toàn chức năng. Quan trọng là, "
+"bạn sẽ không thể cài đặt các gói R (ngoài những gói được thực hiện hoàn "
+"toàn bằng R). Ngoài ra, bạn có thể gặp xung đột giữa bản cài đặt R bên "
+"trong AppImage và các gói R được cài đặt trên toàn hệ thống. Điều này có "
+"thể gây ra các lỗi tinh tế và bất ngờ."
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="...">
+#: rkward/pages/rkward_trouble_shooting.rkh:33
+#, kde-format
+msgid ""
+"Sometimes I enter a command short after the start of RKWard but it is not "
+"processed. What's wrong?"
+msgstr ""
+"Đôi khi tôi nhập một lệnh ngay sau khi khởi động RKWard nhưng nó không được "
+"xử lý. Có chuyện gì xảy ra?"
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section shorttitle="...">
+#: rkward/pages/rkward_trouble_shooting.rkh:33
+#, kde-format
+msgid "Commands not processing"
+msgstr "Lệnh không được xử lý"
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="Sometimes I enter a command short after the start of RKWard but it is not processed. What's wrong?">
+#: rkward/pages/rkward_trouble_shooting.rkh:33
+#, kde-format
+msgid ""
+"This happens because RKWard starts first and subsequent R is started in the "
+"background. Depending on the speed of your machine it can take some time to "
+"start R. In any case you can check the state of R within RKWard. Just look "
+"at the little box on the right bottom corner of RKWard. If it is green you "
+"can go ahead."
+msgstr ""
+"Điều này xảy ra vì RKWard khởi động trước và sau đó R được khởi động ở chế "
+"độ nền. Tùy thuộc vào tốc độ của máy tính, việc khởi động R có thể mất một "
+"chút thời gian. Trong mọi trường hợp, bạn có thể kiểm tra trạng thái của R "
+"trong RKWard. Chỉ cần nhìn vào hộp nhỏ ở góc phải dưới cùng của RKWard. Nếu "
+"nó màu xanh lá, bạn có thể tiếp tục."
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="Sometimes I enter a command short after the start of RKWard but it is not processed. What's wrong?">
+#: rkward/pages/rkward_trouble_shooting.rkh:33
+#, kde-format
+msgid ""
+"You can start submitting commands while the backend has not yet started, or "
+"while another lengthy calculation is still taking place. In this case your "
+"commands will be placed into a queue, first, and executed as soon as the "
+"backend becomes available, again."
+msgstr ""
+"Bạn có thể bắt đầu gửi lệnh trong khi hậu phương chưa khởi động, hoặc trong "
+"khi một tính toán dài vẫn đang diễn ra. Trong trường hợp này, các lệnh của "
+"bạn sẽ được đưa vào hàng đợi trước, và được thực hiện ngay khi hậu phương "
+"trở nên khả dụng trở lại."
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="...">
+#: rkward/pages/rkward_trouble_shooting.rkh:38
+#, kde-format
+msgid ""
+"RKWard says it needs a package. Was the installation of RKWard not complete?"
+msgstr ""
+"RKWard nói rằng nó cần một gói. Việc cài đặt RKWard có phải không hoàn "
+"chỉnh?"
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section shorttitle="...">
+#: rkward/pages/rkward_trouble_shooting.rkh:38
+#, kde-format
+msgid "Missing packages"
+msgstr "Thiếu gói"
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="RKWard says it needs a package. Was the installation of RKWard not complete?">
+#: rkward/pages/rkward_trouble_shooting.rkh:38
+#, kde-format
+msgid ""
+"RKWard has basically all the functionality, which comes with the standard "
+"packages of R. But RKWard is at the same time rather extensible. Many "
+"developers made use of this and thus some of the procedures in RKWard depend "
+"on \"external\" packages (obtained from <link href=\"http://cran.r-project."
+"org/\">The Comprehensive R Archive Network (CRAN)</link>) to perform a task."
+msgstr ""
+"RKWard về cơ bản có tất cả các chức năng đi kèm với các gói tiêu chuẩn của "
+"R. Nhưng đồng thời RKWard cũng khá dễ mở rộng. Nhiều nhà phát triển đã tận "
+"dụng điều này và do đó một số thủ tục trong RKWard phụ thuộc vào các gói "
+"\"bên ngoài\" (lấy từ <link href=\"http://cran.r-project.org/\">The "
+"Comprehensive R Archive Network (CRAN)</link>) để thực hiện một tác vụ."
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="RKWard says it needs a package. Was the installation of RKWard not complete?">
+#: rkward/pages/rkward_trouble_shooting.rkh:38
+#, kde-format
+msgid ""
+"Here is an example. All tests related to <link href=\"rkward://rhelp/moments"
+"\">skewness</link> and <link href=\"rkward://rhelp/moments\">kurtosis</link> "
+"(which you would certainly expect to be shipped as a base package of R) are "
+"performed from an external package. If you read this the first time or "
+"restarted RKWard after you installed it and try to follow the link you will "
+"be out of luck. First you need to run a test from Analysis->Moment to "
+"achieve this."
+msgstr ""
+"Đây là một ví dụ. Tất cả các kiểm thử liên quan đến <link "
+"href=\"rkward://rhelp/moments\">độ lệch</link> và <link "
+"href=\"rkward://rhelp/moments\">độ nhọn</link> (mà bạn chắc chắn mong đợi "
+"được cung cấp như một gói cơ bản của R) được thực hiện từ một gói bên "
+"ngoài. Nếu bạn đọc điều này lần đầu tiên hoặc khởi động lại RKWard sau khi "
+"cài đặt và cố gắng theo liên kết, bạn sẽ không thành công. Trước tiên, bạn "
+"cần chạy một kiểm thử từ Phân tích->Moment để đạt được điều này."
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="RKWard says it needs a package. Was the installation of RKWard not complete?">
+#: rkward/pages/rkward_trouble_shooting.rkh:38
+#, kde-format
+msgid ""
+"Typically, you would call them from R via <link href=\"rkward://rhelp/update."
+"packages\">update.packages</link> and <link href=\"rkward://rhelp/library"
+"\">library</link> to achieve this. But RKWard simplifies this for you. "
+"You'll be guided through the install procedure for the required package. "
+"Please note you need root privileges in certain situations."
+msgstr ""
+"Thông thường, bạn sẽ gọi chúng từ R thông qua <link "
+"href=\"rkward://rhelp/update.packages\">update.packages</link> và <link "
+"href=\"rkward://rhelp/library\">library</link> để thực hiện điều này. Nhưng "
+"RKWard đơn giản hóa việc này cho bạn. Bạn sẽ được hướng dẫn qua quy trình "
+"cài đặt gói cần thiết. Vui lòng lưu ý rằng bạn cần đặc quyền gốc trong một "
+"số tình huống nhất định."
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="...">
+#: rkward/pages/rkward_trouble_shooting.rkh:45
+#, kde-format
+msgid ""
+"RKWard claims to take care of seamless integration with an office-suite. Why "
+"is there no native option to save it as an office file?"
+msgstr ""
+"RKWard tuyên bố sẽ chăm sóc tích hợp trơn tru với một bộ văn phòng. Tại sao "
+"không có lựa chọn bản địa để lưu nó dưới dạng tệp văn phòng?"
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section shorttitle="...">
+#: rkward/pages/rkward_trouble_shooting.rkh:45
+#, kde-format
+msgid "RKWard integration with an office-suite"
+msgstr "Tích hợp RKWard với một bộ ứng dụng văn phòng"
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="RKWard claims to take care of seamless integration with an office-suite. Why is there no native option to save it as an office file?">
+#: rkward/pages/rkward_trouble_shooting.rkh:45
+#, kde-format
+msgid ""
+"We agree that RKWard is still very lacking when it comes to office "
+"integration, and \"seamless\" integration is still far away. Refer to <link "
+"href=\"rkward://page/rkward_output\"/> for information on how to accomplish "
+"the most important things right now. In the meantime, it is possible to "
+"carry out analyses in RMarkdown documents. These can be saved as PDF, TeX "
+"document or Office document, among others. Current RKWard versions support "
+"this in principle in the export menu."
+msgstr ""
+"Chúng tôi đồng ý rằng RKWard vẫn còn thiếu sót khi nó đến với tích hợp văn "
+"phòng, và \"tích hợp liền mạch\" vẫn còn xa vời. Tham khảo <link "
+"href=\"rkward://page/rkward_output\"/>để biết thông tin về cách thực hiện "
+"những điều quan trọng nhất hiện nay. Trong khi đó, có thể thực hiện các "
+"phân tích trong các tài liệu RMarkdown. Những tài liệu này có thể được lưu "
+"dưới dạng PDF, tài liệu TeX hoặc tài liệu Office, trong số những định dạng "
+"khác. Các phiên bản RKWard hiện tại hỗ trợ điều này nguyên tắc trong trình "
+"đơn xuất khẩu."
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="...">
+#: rkward/pages/rkward_trouble_shooting.rkh:48
+#, kde-format
+msgid "People tend to ask me what RKWard means. What should I answer?"
+msgstr ""
+"Mọi người thường hỏi tôi RKWard có nghĩa là gì. Tôi nên trả lời như thế "
+"nào?"
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section shorttitle="...">
+#: rkward/pages/rkward_trouble_shooting.rkh:48
+#, kde-format
+msgid "What does \"RKWard\" mean?"
+msgstr "Ý nghĩa của \"RKWard\" là gì?"
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="People tend to ask me what RKWard means. What should I answer?">
+#: rkward/pages/rkward_trouble_shooting.rkh:48
+#, kde-format
+msgid ""
+"Yes, it's a very odd name. ;) However, R comes obviously from the <link href="
+"\"http://www.r-project.org/\">R-language</link>, which is the statistical "
+"basis of RKWard. K is derived from <link href=\"http://kde.org/\">KDE</"
+"link>, which delivered the basic GUI technologies for RKWard. And <link href="
+"\"http://en.wikipedia.org/wiki/Ward\">Ward</link>? That's another story."
+msgstr ""
+"Đúng vậy, đó là một cái tên rất kỳ lạ. ;) Tuy nhiên, R rõ ràng đến từ <link "
+"href=\"http://www.r-project.org/\">ngôn ngữ R</link>, là nền tảng thống kê "
+"của RKWard. K bắt nguồn từ <link href=\"http://kde.org/\">KDE</link>, cung "
+"cấp các công nghệ giao diện người dùng cơ bản cho RKWard. Còn <link "
+"href=\"http://en.wikipedia.org/wiki/Ward\">Ward</link>? Đó là một câu "
+"chuyện khác."
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="...">
+#: rkward/pages/rkward_trouble_shooting.rkh:51
+#, kde-format
+msgid "RKWard is running since ages. Has it hung up?"
+msgstr "RKWard đã chạy từ rất lâu. Nó có bị treo không?"
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section shorttitle="...">
+#: rkward/pages/rkward_trouble_shooting.rkh:51
+#, kde-format
+msgid "RKWard seems to hang"
+msgstr "RKWard dường như bị treo"
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="RKWard is running since ages. Has it hung up?">
+#: rkward/pages/rkward_trouble_shooting.rkh:51
+#, kde-format
+msgid ""
+"This depends. Some test and plots just need some time if you have huge "
+"amounts of data or sophisticated calculations. Therefore patience is "
+"sometimes needed. In any case you can check the state of R within RKWard. "
+"Just look at the little box on the right bottom corner of RKWard. Red means "
+"there is still something to calculate or plot. If it turns green, R is done "
+"calculating."
+msgstr ""
+"Điều này phụ thuộc. Một số kiểm thử và biểu đồ chỉ cần một chút thời gian "
+"nếu bạn có lượng dữ liệu khổng lồ hoặc tính toán phức tạp. Do đó, đôi khi "
+"cần phải kiên nhẫn. Trong mọi trường hợp, bạn có thể kiểm tra trạng thái "
+"của R trong RKWard. Chỉ cần nhìn vào hộp nhỏ ở góc phải dưới cùng của "
+"RKWard. Màu đỏ có nghĩa là vẫn còn một số thứ cần tính toán hoặc vẽ. Nếu nó "
+"chuyển sang màu xanh lá, R đã hoàn tất tính toán."
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="RKWard is running since ages. Has it hung up?">
+#: rkward/pages/rkward_trouble_shooting.rkh:51
+#, kde-format
+msgid ""
+"But some statistical test are rather memory and stack hungry and can make "
+"the entire system unresponsive, if there is a lot of swapping. This is not a "
+"bug in RKWard or R, just the calculation taking your system to its limits. "
+"An example of very memory hungry tests are the <link href=\"rkward://rhelp/"
+"wilcox.test\">Wilcoxon Rank Sum and Signed Rank Tests</link>."
+msgstr ""
+"Nhưng một số kiểm thử thống kê khá tốn bộ nhớ và ngăn xếp và có thể làm cho "
+"toàn bộ hệ thống không phản hồi, nếu có nhiều hoạt động trao đổi bộ nhớ. "
+"Đây không phải là lỗi trong RKWard hoặc R, mà chỉ là việc tính toán đang "
+"đưa hệ thống của bạn đến giới hạn. Một ví dụ về các kiểm thử rất tốn bộ nhớ "
+"là <link href=\"rkward://rhelp/wilcox.test\">Kiểm định Tổng hạng Wilcoxon "
+"và Kiểm định Dấu hạng</link>."
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="RKWard is running since ages. Has it hung up?">
+#: rkward/pages/rkward_trouble_shooting.rkh:51
+#, kde-format
+msgid ""
+"Therefore, it is important you know the test. Moreover, it's very important "
+"to save the workspace and other sections you worked on before you do such "
+"operations. There is currently no recovery functionality within RKWard in "
+"case of a crash! You can find build-in tests from R to address this memory "
+"issue (see: <link href=\"rkward://rhelp/mem.limits\"/>, and <link href="
+"\"rkward://rhelp/memory.limit\"/>)."
+msgstr ""
+"Do đó, điều quan trọng là bạn phải biết các bài kiểm tra. Hơn nữa, rất quan "
+"trọng là phải lưu lại không gian làm việc và các phần khác mà bạn đã làm "
+"việc trước khi thực hiện các thao tác như vậy. Hiện tại, không có chức năng "
+"phục hồi trong RKWard trong trường hợp xảy ra sự cố! Bạn có thể tìm thấy "
+"các bài kiểm tra được tích hợp sẵn từ R để giải quyết vấn đề bộ nhớ này "
+"(xem: <link href=\"rkward://rhelp/mem.limits\"/>, và <link "
+"href=\"rkward://rhelp/memory.limit\"/>)."
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="...">
+#: rkward/pages/rkward_trouble_shooting.rkh:58
+#, kde-format
+msgid "I think I did something wrong? Where is 'Undo' and 'Redo'?"
+msgstr "Tôi nghĩ rằng tôi đã làm sai cái gì đó? 'Hoàn tác' và 'Làm lại' ở đâu?"
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section shorttitle="...">
+#: rkward/pages/rkward_trouble_shooting.rkh:58
+#, kde-format
+msgid "Undo/Redo"
+msgstr "Hoàn tác/Làm lại"
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="I think I did something wrong? Where is 'Undo' and 'Redo'?">
+#: rkward/pages/rkward_trouble_shooting.rkh:58
+#, kde-format
+msgid ""
+"Right now RKWard doesn't have \"undo\" or \"redo\" functionality in all "
+"places. For example there is such functionality for the script editor, but "
+"there is no undo or redo for finished plots or tests. Therefore it's "
+"important that you know what you do before you start. It's recommended to "
+"use copies of original data and to give everything a meaningful name."
+msgstr ""
+"Hiện tại RKWard không có chức năng \"undo\" hoặc \"redo\" ở tất cả các nơi. "
+"Ví dụ, có chức năng này cho trình soạn thảo kịch bản, nhưng không có undo "
+"hoặc redo cho các biểu đồ hoặc kiểm tra đã hoàn thành. Do đó, điều quan "
+"trọng là bạn phải biết những gì bạn đang làm trước khi bắt đầu. Khuyến nghị "
+"sử dụng bản sao của dữ liệu gốc và đặt tên có ý nghĩa cho tất cả."
+
+#. i18n: ectx: (Trouble Shooting / FAQ) <section title="I think I did something wrong? Where is 'Undo' and 'Redo'?">
+#: rkward/pages/rkward_trouble_shooting.rkh:58
+#, kde-format
+msgid ""
+"However, RKWard tries to give you as much information as possible about "
+"things you have done. For tests and plots that you run from the menu, the "
+"<link href=\"rkward://page/rkward_output\"/> will contain a \"run again\" "
+"link below the output. You can use this to re-do this action with identical "
+"or slightly modified settings. Also, tests and plots try to show the most "
+"relevant settings in combination with the creation date. Moreover you can "
+"check and copy any code generated for your documentation purposes."
+msgstr ""
+"Tuy nhiên, RKWard cố gắng cung cấp cho bạn càng nhiều thông tin càng tốt về "
+"những việc bạn đã làm. Đối với các bài kiểm tra và biểu đồ mà bạn chạy từ "
+"menu, <link href=\"rkward://page/rkward_output\"/> sẽ chứa một liên kết "
+"\"chạy lại\" bên dưới kết quả đầu ra. Bạn có thể sử dụng liên kết này để "
+"thực hiện lại hành động này với các thiết lập giống hoặc hơi chỉnh sửa. "
+"Ngoài ra, các bài kiểm tra và biểu đồ cũng cố gắng hiển thị các thiết lập "
+"liên quan nhất kèm theo ngày tạo. Hơn nữa, bạn có thể kiểm tra và sao chép "
+"bất kỳ mã nào được tạo ra cho mục đích tài liệu của bạn."
+
+#. i18n: ectx: (Welcome to RKWard) <title>
+#: rkward/pages/rkward_welcome.rkh:8
+#, kde-format
+msgid "Welcome to RKWard"
+msgstr "Chào mừng đến với RKWard"
+
+#. i18n: ectx: (Welcome to RKWard) <section title="...">
+#: rkward/pages/rkward_welcome.rkh:10
+#, kde-format
+msgid "My recent script files"
+msgstr "Các tệp kịch bản gần đây của tôi"
+
+#. i18n: ectx: (Welcome to RKWard) <section title="...">
+#: rkward/pages/rkward_welcome.rkh:12
+#, kde-format
+msgid "My recent workspaces"
+msgstr "Không gian làm việc gần đây của tôi"
+
+#. i18n: ectx: (Welcome to RKWard) <section title="...">
+#: rkward/pages/rkward_welcome.rkh:14
+#, kde-format
+msgid "My recent output files"
+msgstr "Các tệp đầu ra gần đây của tôi"
+
+#. i18n: ectx: (Welcome to RKWard) <section title="...">
+#: rkward/pages/rkward_welcome.rkh:16
+#, kde-format
+msgid "Import or enter data"
+msgstr "Nhập khẩu hoặc nhập dữ liệu"
+
+#. i18n: ectx: (Welcome to RKWard) <section title="Import or enter data">
+#: rkward/pages/rkward_welcome.rkh:16
+#, kde-format
+msgid "<link href=\"rkward://actions/new_data_frame\">Enter new data</link>"
+msgstr "<link href=\"rkward://actions/new_data_frame\">Nhập dữ liệu mới</link>"
+
+#. i18n: ectx: (Welcome to RKWard) <section title="Import or enter data">
+#: rkward/pages/rkward_welcome.rkh:16
+#, kde-format
+msgid "<link href=\"rkward://actions/import_assistant\">Import data</link>"
+msgstr "<link href=\"rkward://actions/import_assistant\">Nhập dữ liệu</link>"
+
+#. i18n: ectx: (Welcome to RKWard) <section title="...">
+#: rkward/pages/rkward_welcome.rkh:23
+#, kde-format
+msgid "Useful settings"
+msgstr "Thiết lập hữu ích"
+
+#. i18n: ectx: (Welcome to RKWard) <section title="Useful settings">
+#: rkward/pages/rkward_welcome.rkh:23
+#, kde-format
+msgid ""
+"<link href=\"rkward://actions/rpackage_install\">Install R and RKWard "
+"packages</link>"
+msgstr ""
+"<link href=\"rkward://actions/rpackage_install\">Cài đặt các gói R và "
+"RKWard</link>"
+
+#. i18n: ectx: (Welcome to RKWard) <section title="Useful settings">
+#: rkward/pages/rkward_welcome.rkh:23
+#, kde-format
+msgid ""
+"&lrm;<link href=\"rkward://settings/addons\">Further add-on related settings "
+"(e.g., git/project integration)</link>&lrm;"
+msgstr ""
+"&lrm;<link href=\"rkward://settings/addons\">Các thiết lập liên quan đến "
+"phần bổ sung khác (ví dụ: tích hợp git/dự án)</link>lrm;"
+
+#. i18n: ectx: (Welcome to RKWard) <section title="Useful settings">
+#: rkward/pages/rkward_welcome.rkh:23
+#, kde-format
+msgid ""
+"&lrm;<link href=\"rkward://settings/general\">Startup options</link> "
+"(including this page)&lrm;"
+msgstr ""
+"&lrm;<link href=\"rkward://settings/general\">Tùy chọn khởi động</link> "
+"(bao gồm trang này)lrm;"
+
+#. i18n: ectx: (Welcome to RKWard) <section title="...">
+#: rkward/pages/rkward_welcome.rkh:31
+#, kde-format
+msgid "Documentation starting points"
+msgstr "Điểm bắt đầu tài liệu"
+
+#. i18n: ectx: (Welcome to RKWard) <section title="Documentation starting points">
+#: rkward/pages/rkward_welcome.rkh:31
+#, kde-format
+msgid ""
+"External links: <link href=\"https://rkward.kde.org/\">project homepage</"
+"link>"
+msgstr ""
+"Liên kết ngoài: <link href=\"https://rkward.kde.org/\">trang chủ dự "
+"án</link>"
+
+#. i18n: ectx: (Workspace Browser) <title>
+#: rkward/pages/rkward_workspace_browser.rkh:8
+#, kde-format
+msgid "Workspace Browser"
+msgstr "Trình duyệt không gian làm việc"
+
+#. i18n: ectx: (Workspace Browser) <summary>
+#: rkward/pages/rkward_workspace_browser.rkh:10
+#, kde-format
+msgid ""
+"The workspace browser allows to view and manipulate R objects. This includes "
+"both your own objects (data, functions), and so-called \"package environments"
+"\". As a rough analogy, this is similar to a regular file-system browser, "
+"except you browse R objects in your workspace, instead of files on your "
+"computer."
+msgstr ""
+"Trình duyệt không gian làm việc cho phép bạn xem và thao tác các đối tượng "
+"R. Điều này bao gồm cả các đối tượng của riêng bạn (dữ liệu, hàm) và các "
+"\"môi trường gói\". Như một ẩn dụ đại khái, điều này tương tự như một trình "
+"duyệt hệ thống tệp thông thường, ngoại trừ bạn duyệt các đối tượng R trong "
+"không gian làm việc của bạn, thay vì các tệp trên máy tính của bạn."
+
+#. i18n: ectx: (Workspace Browser) <summary>
+#: rkward/pages/rkward_workspace_browser.rkh:10
+#, kde-format
+msgid ""
+"The workspace browser can be invoked using Windows->Activate->Show / Hide "
+"Workspace Browser (default shortcut is Alt+1), or by clicking on the "
+"\"Workspace\" icon, which is located on the top of the left window border, "
+"by default."
+msgstr ""
+"Trình duyệt không gian làm việc có thể được gọi bằng cách sử dụng "
+"Windows->Kích hoạt->Hiện / Ẩn Trình duyệt Không gian làm việc (phím tắt mặc "
+"định là Alt+1), hoặc bằng cách nhấp vào biểu tượng \"Không gian làm việc\", "
+"được đặt ở trên cùng của lề trái cửa sổ, mặc định."
+
+#. i18n: ectx: (Workspace Browser) <section title="...">
+#: rkward/pages/rkward_workspace_browser.rkh:16
+#, kde-format
+msgid "What is shown"
+msgstr "Điều gì được hiển thị"
+
+#. i18n: ectx: (Workspace Browser) <section title="What is shown">
+#: rkward/pages/rkward_workspace_browser.rkh:16
+#, kde-format
+msgid ""
+"Literally hundreds or even thousands of objects are present in a typical R "
+"session. This can be overwhelming at first, therefore the workspace browser "
+"offers to show only a certain subset of objects. The options here are \"Show "
+"Hidden Objects\", \"All vs. Non-Functions vs. Functions\", and \"Show All "
+"Environments\" (available at the top of the browser window, or choosing "
+"\"Show Objects\" from the context menu)."
+msgstr ""
+"Trong một phiên làm việc R điển hình, có thể có hàng trăm hoặc thậm chí "
+"hàng nghìn đối tượng. Điều này có thể gây choáng ngợp ban đầu, vì vậy trình "
+"duyệt không gian làm việc cung cấp tùy chọn để chỉ hiển thị một tập hợp "
+"nhất định các đối tượng. Các tùy chọn ở đây là \"Hiển thị Đối tượng Ẩn\", "
+"\"Tất cả vs. Không phải Hàm vs. Hàm\" và \"Hiển thị Tất cả Môi trường\" (có "
+"sẵn ở đầu cửa sổ trình duyệt, hoặc chọn \"Hiển thị Đối tượng\" từ menu ngữ "
+"cảnh)."
+
+#. i18n: ectx: (Workspace Browser) <section title="What is shown">
+#: rkward/pages/rkward_workspace_browser.rkh:16
+#, kde-format
+msgid ""
+"The first should be obvious. It controls whether objects whose name start "
+"with a dot ('.') are shown or not. Those are often used for internal "
+"objects, which are not meant for direct use, so it's generally safe to hide "
+"them from view."
+msgstr ""
+"Điều đầu tiên nên rõ ràng. Nó kiểm soát việc liệu các đối tượng có tên bắt "
+"đầu bằng dấu chấm ('.') có được hiển thị hay không. Những đối tượng này "
+"thường được sử dụng cho các đối tượng nội bộ, không nhằm mục đích sử dụng "
+"trực tiếp, vì vậy thường an toàn để ẩn chúng khỏi chế độ xem."
+
+#. i18n: ectx: (Workspace Browser) <section title="What is shown">
+#: rkward/pages/rkward_workspace_browser.rkh:16
+#, kde-format
+msgid ""
+"The second allows to select by the type of object. \"All\" does not filter, "
+"while \"Functions\" shows only functions, and \"Non-Functions\" shows all "
+"other objects (typically data)."
+msgstr ""
+"Cái thứ hai cho phép bạn bôi đen theo kiểu đối tượng. \"Tất cả\" không lọc, "
+"trong khi \"Hàm\" chỉ hiển thị các hàm, và \"Phi Hàm\" hiển thị tất cả các "
+"đối tượng khác (thường là dữ liệu)."
+
+#. i18n: ectx: (Workspace Browser) <section title="What is shown">
+#: rkward/pages/rkward_workspace_browser.rkh:16
+#, kde-format
+msgid ""
+"The \"Show All Environments\" option controls, whether package environments "
+"and their objects are shown. Roughly speaking, if you turn off this option, "
+"only your \"own\" objects are shown, while with the option turned on, all "
+"pre-defined objects are also shown. More technically speaking, when the "
+"option is turned off, only the .GlobalEnv (see <link href=\"rkward://rhelp/"
+"globalenv\"/>) is shown, which is the environment, in which you create and "
+"edit your data."
+msgstr ""
+"Tùy chọn \"Hiển thị tất cả môi trường\" điều khiển việc hiển thị các môi "
+"trường gói và các đối tượng của chúng. Nói một cách đơn giản, nếu bạn tắt "
+"tùy chọn này, chỉ các đối tượng \"riêng\" của bạn được hiển thị, trong khi "
+"với tùy chọn bật, tất cả các đối tượng được định nghĩa trước cũng được hiển "
+"thị. Nói một cách kỹ thuật hơn, khi tùy chọn này bị tắt, chỉ .GlobalEnv "
+"(xem <link href=\"rkward://rhelp/globalenv\"/>), môi trường mà bạn tạo và "
+"biên tập dữ liệu của mình, được hiển thị."
+
+#. i18n: ectx: (Workspace Browser) <section title="What is shown">
+#: rkward/pages/rkward_workspace_browser.rkh:16
+#, kde-format
+msgid ""
+"Note that objects are organized in a hierarchy, i.e. some types of objects "
+"contain further \"child\" objects. This is indicated by a \"+\" symbol to "
+"the left of the object name. Clicking on this will expand the view to show "
+"all the children of the object."
+msgstr ""
+"Lưu ý rằng các đối tượng được tổ chức theo cấu trúc phân cấp, tức là một số "
+"loại đối tượng chứa các \"đối tượng con\" khác. Điều này được chỉ báo bằng "
+"một kí hiệu \"+\" ở bên trái tên đối tượng. Nhấp vào kí hiệu này sẽ mở rộng "
+"khung xem để hiển thị tất cả các đối tượng con của đối tượng đó."
+
+#. i18n: ectx: (Workspace Browser) <section title="What is shown">
+#: rkward/pages/rkward_workspace_browser.rkh:16
+#, kde-format
+msgid ""
+"Hovering the mouse pointer over an object will show a short summary of the "
+"objects' basic properties."
+msgstr ""
+"Di chuyển con trỏ chuột qua một đối tượng sẽ hiển thị tóm tắt về các thuộc "
+"tính cơ bản của đối tượng đó."
+
+#. i18n: ectx: (Workspace Browser) <section title="Available actions">
+#: rkward/pages/rkward_workspace_browser.rkh:30
+#, kde-format
+msgid ""
+"Several actions are available from the context menu (by right-clicking on "
+"one of the objects), however some of these actions are only available for "
+"some types of objects. The most important actions for objects in package "
+"environments:"
+msgstr ""
+"Nhiều hành động khác nhau có sẵn trong trình đơn ngữ cảnh (bằng cách nhấp "
+"chuột phải vào một trong các đối tượng), tuy nhiên một số hành động này chỉ "
+"khả dụng với một số loại đối tượng. Các hành động quan trọng nhất đối với "
+"các đối tượng trong môi trường gói:"
+
+#. i18n: ectx: (Workspace Browser) <section title="Available actions">
+#: rkward/pages/rkward_workspace_browser.rkh:30
+#, kde-format
+msgid ""
+"<b>Search Help</b>: This will try to locate and show a relevant R help page "
+"on the object."
+msgstr ""
+"<b>Tìm kiếm trợ giúp</b>: Điều này sẽ cố gắng định vị và hiển thị một trang "
+"trợ giúp R liên quan đến đối tượng."
+
+#. i18n: ectx: (Workspace Browser) <section title="Available actions">
+#: rkward/pages/rkward_workspace_browser.rkh:30
+#, kde-format
+msgid ""
+"<b>View</b>: Open a window with detailed information about the object. This "
+"will, among others, use the R commands <link href=\"rkward://rhelp/print"
+"\">print</link> and <link href=\"rkward://rhelp/summary\">summary</link> to "
+"show more information."
+msgstr ""
+"<b>Xem</b>: Mở cửa sổ với thông tin chi tiết về đối tượng. Điều này sẽ sử "
+"dụng các lệnh R như <link href=\"rkward://rhelp/print\">print</link> và "
+"<link href=\"rkward://rhelp/summary\">summary</link> để hiển thị thêm thông "
+"tin."
+
+#. i18n: ectx: (Workspace Browser) <section title="Available actions">
+#: rkward/pages/rkward_workspace_browser.rkh:30
+#, kde-format
+msgid ""
+"<b>Copy to new symbol / Copy to .GlobalEnv</b>: In order to manipulate "
+"objects, you need to copy them to the .GlobalEnv. For instance, you could "
+"copy an object from the environment \"package:datasets\" into the ."
+"GlobalEnv, and in a second step, edit it."
+msgstr ""
+"<b>Sao chép thành kí hiệu mới / Sao chép vào .GlobalEnv</b>: Để thao tác "
+"với các đối tượng, bạn cần sao chép chúng vào .GlobalEnv. Ví dụ, bạn có thể "
+"sao chép một đối tượng từ môi trường \"package:datasets\" vào .GlobalEnv, "
+"và trong bước tiếp theo, sửa nó."
+
+#. i18n: ectx: (Workspace Browser) <section title="Available actions">
+#: rkward/pages/rkward_workspace_browser.rkh:30
+#, kde-format
+msgid "Further actions available for objects in the .GlobalEnv:"
+msgstr "Các hành động khác hiện có cho các đối tượng trong .GlobalEnv:"
+
+#. i18n: ectx: (Workspace Browser) <section title="Available actions">
+#: rkward/pages/rkward_workspace_browser.rkh:30
+#, kde-format
+msgid ""
+"<b>Edit</b>: Open the object in a data editor. Currently editing is only "
+"supported for data.frames."
+msgstr ""
+"<b>Chỉnh sửa</b>: Mở đối tượng trong trình chỉnh sửa dữ liệu. Hiện tại, chỉ "
+"hỗ trợ chỉnh sửa cho data.frames."
+
+#. i18n: ectx: (Workspace Browser) <section title="Available actions">
+#: rkward/pages/rkward_workspace_browser.rkh:30
+#, kde-format
+msgid "<b>Rename / Delete</b>: These should be obvious."
+msgstr "<b>Đổi tên / Xóa</b>: Những chức năng này khá rõ ràng."
+
+#. i18n: ectx: (Workspace Browser) <section title="Configurable Settings">
+#: rkward/pages/rkward_workspace_browser.rkh:47
+#, kde-format
+msgid ""
+"Some default settings for the Workspace Browser can be configured using the "
+"context menu:"
+msgstr ""
+"Một số thiết lập mặc định cho Trình duyệt Không gian làm việc có thể được "
+"cấu hình bằng cách sử dụng menu ngữ cảnh:"
+
+#. i18n: ectx: (Workspace Browser) <section title="Configurable Settings">
+#: rkward/pages/rkward_workspace_browser.rkh:47
+#, kde-format
+msgid ""
+"<b>Show hidden objects / show all environments</b>: See <link href="
+"\"#introduction\">above</link>. In contrast to the settings made directly in "
+"the workspace browser, these configure the <i>default</i> settings in the "
+"workspace browser (i.e. those that are effectively after restarting RKWard)."
+msgstr ""
+"<b>Hiển thị đối tượng ẩn / hiển thị tất cả môi trường</b>: Xem <link "
+"href=\"#introduction\">ở trên</link>. Khác với các thiết lập được thực hiện "
+"trực tiếp trong trình duyệt không gian làm việc, những thiết lập này cấu "
+"hình các thiết lập <i>mặc định</i> trong trình duyệt không gian làm việc "
+"(tức là những thiết lập có hiệu lực sau khi khởi động lại RKWard)."
+
+#. i18n: ectx: (Workspace Browser) <section title="Configurable Settings">
+#: rkward/pages/rkward_workspace_browser.rkh:47
+#, kde-format
+msgid ""
+"<b>Show objects with children</b>: Controls whether objects with children "
+"(such as environments, lists) are shown, even if they do not correspond to "
+"the current filter."
+msgstr ""
+"<b>Hiển thị đối tượng có phần tử con</b>: Kiểm soát việc hiển thị các đối "
+"tượng có phần tử con (như môi trường, danh sách), ngay cả khi chúng không "
+"tương ứng với bộ lọc hiện tại."
+
+#. i18n: ectx: (Workspace Browser) <section title="Configurable Settings">
+#: rkward/pages/rkward_workspace_browser.rkh:47
+#, kde-format
+msgid ""
+"<b>Show variables / functions</b>: Equivalent to the \"All vs. Non-Function "
+"vs. Functions\" control described <link href=\"#introduction\">above</link>."
+msgstr ""
+"<b>Hiển thị biến / hàm</b>: Tương đương với điều khiển \"Tất cả vs. Không "
+"phải hàm vs. Hàm\" được mô tả <link href=\"#introduction\">ở trên</link>."
+
+#. i18n: ectx: (Workspace Browser) <section title="Configurable Settings">
+#: rkward/pages/rkward_workspace_browser.rkh:47
+#, kde-format
+msgid ""
+"<b>Label field / Type field / Class field</b>: Which columns are shown for "
+"each object?"
+msgstr ""
+"<b>Trường nhãn / Trường kiểu / Trường lớp</b>: Những cột nào được hiển thị "
+"cho mỗi đối tượng?"
+
+#. i18n: ectx: (Workspace Browser) <section title="Configurable Settings">
+#: rkward/pages/rkward_workspace_browser.rkh:47
+#, kde-format
+msgid ""
+"One additional setting is available from <a href=\"rkward://settings/browser"
+"\">Settings->Configure RKWard->Workspace</a>:"
+msgstr ""
+"Một thiết lập bổ sung có sẵn từ <a href=\"rkward://settings/browser\">Cài "
+"đặt->Cấu hình RKWard->Không gian làm việc</a>:"
+
+#. i18n: ectx: (Workspace Browser) <section title="Configurable Settings">
+#: rkward/pages/rkward_workspace_browser.rkh:47
+#, kde-format
+msgid ""
+"<b>Never fetch the structure of these packages</b>: Some (few) R packages "
+"contain <b>very</b> many small objects (tens of thousands). In the worst "
+"case, trying to fetch structure information on those (i.e. fetching the "
+"information to be shown in the workspace browser) can consume a lot of "
+"resources and make RKWard unresponsive. Package \"GO\" is one such package, "
+"and is \"blacklisted\" by default. If you note that loading a package takes "
+"exceedingly long, you may consider adding it to this list."
+msgstr ""
+"<b>Không bao giờ tìm nạp cấu trúc của các gói này</b>: Một số (ít) gói R "
+"chứa <b>rất</b> nhiều đối tượng nhỏ (hàng chục nghìn). Trong trường hợp xấu "
+"nhất, việc cố gắng tìm nạp thông tin cấu trúc của chúng (tức là tìm nạp "
+"thông tin để hiển thị trong trình duyệt không gian làm việc) có thể tiêu "
+"tốn nhiều tài nguyên và làm cho RKWard không phản hồi. Gói \"GO\" là một "
+"gói như vậy và được \"đưa vào danh sách đen\" theo mặc định. Nếu bạn lưu ý "
+"rằng việc tải một gói mất quá nhiều thời gian, bạn có thể cân nhắc thêm nó "
+"vào danh sách này."

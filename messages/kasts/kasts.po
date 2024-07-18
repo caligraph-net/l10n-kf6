@@ -1,0 +1,2307 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kasts package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kasts\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-04-30 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: audiomanager.cpp:397
+#, kde-format
+msgid "Streaming on metered connection not allowed"
+msgstr "Không được phép phát trực tuyến trên kết nối có giới hạn"
+
+#: audiomanager.cpp:406 enclosure.cpp:147 error.cpp:64
+#, kde-format
+msgid "No network connection"
+msgstr "Không có kết nối mạng"
+
+#: audiomanager.cpp:546
+#, kde-format
+msgid "Invalid Media"
+msgstr "Phương tiện không hợp lệ"
+
+#: enclosure.cpp:143
+#, kde-format
+msgid "Podcast downloads not allowed on metered connection"
+msgstr "Không được phép tải podcast trên kết nối có giới hạn"
+
+#: entry.cpp:100 feed.cpp:136
+#, kde-format
+msgctxt "<name> and <name>"
+msgid "%1 and %2"
+msgstr "%1 và %2"
+
+#: entry.cpp:103 feed.cpp:139
+#, kde-format
+msgctxt "<name(s)>, and <name>"
+msgid "%1, and %2"
+msgstr "%1, và %2"
+
+#: error.cpp:48
+#, kde-format
+msgid "Podcast update error"
+msgstr "Lỗi cập nhật podcast"
+
+#: error.cpp:50
+#, kde-format
+msgid "Media download error"
+msgstr "Lỗi tải về phương tiện"
+
+#: error.cpp:52
+#, kde-format
+msgid "Update not allowed on metered connection"
+msgstr "Không được phép cập nhật trên kết nối có giới hạn"
+
+#: error.cpp:54
+#, kde-format
+msgid "Invalid media file"
+msgstr "Tệp phương tiện không hợp lệ"
+
+#: error.cpp:56
+#, kde-format
+msgid "Nothing found"
+msgstr "Không tìm thấy"
+
+#: error.cpp:58
+#, kde-format
+msgid "Error moving storage path"
+msgstr "Lỗi di chuyển đường dẫn lưu trữ"
+
+#: error.cpp:60
+#, kde-format
+msgid "Error syncing feed and/or episode status"
+msgstr "Lỗi đồng bộ hóa nguồn cấp dữ liệu và/hoặc trạng thái tập tin"
+
+#: error.cpp:62
+#, kde-format
+msgid "Streaming not allowed on metered connection"
+msgstr "Không được phép truyền phát trên kết nối có giới hạn"
+
+#: kmediasession/example-app/qml/Main.qml:20
+#, kde-format
+msgid "Example KMediaSession Player"
+msgstr "Trình phát KMediaSession mẫu"
+
+#: kmediasession/example-app/qml/Main.qml:72
+#, kde-format
+msgid "Select File…"
+msgstr "Chọn Tệp..."
+
+#: kmediasession/example-app/qml/Main.qml:78
+#, kde-format
+msgid "Select Media File"
+msgstr "Chọn Tệp Phương Tiện"
+
+#: kmediasession/example-app/qml/Main.qml:85
+#, kde-format
+msgid "OR"
+msgstr "HOẶC"
+
+#: kmediasession/example-app/qml/Main.qml:93
+#, kde-format
+msgid "Open"
+msgstr "Mở"
+
+#: kmediasession/example-app/qml/Main.qml:101
+#: qml/ChapterListDelegate.qml:37 qml/Desktop/DesktopPlayerControls.qml:131
+#: qml/GenericEntryDelegate.qml:368
+#, kde-format
+msgid "Play"
+msgstr "Phát"
+
+#: kmediasession/example-app/qml/Main.qml:109
+#: qml/Desktop/DesktopPlayerControls.qml:131
+#: qml/GenericEntryDelegate.qml:391
+#, kde-format
+msgid "Pause"
+msgstr "Tạm dừng"
+
+#: kmediasession/example-app/qml/Main.qml:117
+#: qml/SleepTimerDialog.qml:42
+#, kde-format
+msgid "Stop"
+msgstr "Dừng"
+
+#: kmediasession/example-app/qml/Main.qml:147
+#, kde-format
+msgid "Mute"
+msgstr "Tắt tiếng"
+
+#: kmediasession/example-app/qml/Main.qml:174
+#, kde-format
+msgid "Title: %1"
+msgstr "Tiêu đề: %1"
+
+#: kmediasession/example-app/qml/Main.qml:177
+#, kde-format
+msgid "Artist: %1"
+msgstr "Nghệ sĩ: %1"
+
+#: kmediasession/example-app/qml/Main.qml:180
+#, kde-format
+msgid "Album: %1"
+msgstr "Album: %1"
+
+#: kmediasession/example-app/qml/Main.qml:191
+#, kde-format
+msgid "Media status: %1"
+msgstr "Trạng thái phương tiện: %1"
+
+#: kmediasession/example-app/qml/Main.qml:194
+#, kde-format
+msgid "Playback status: %1"
+msgstr "Trạng thái phát lại: %1"
+
+#: kmediasession/example-app/qml/Main.qml:197
+#, kde-format
+msgid "Error: %1"
+msgstr "Lỗi: %1"
+
+#: kmediasession/powermanagement/powermanagementinterface.cpp:188
+#: kmediasession/powermanagement/powermanagementinterface.cpp:214
+#, kde-format
+msgctxt "Explanation for sleep inhibit during media playback"
+msgid "Playing Media"
+msgstr "Phát phương tiện"
+
+#: main.cpp:100
+#, kde-format
+msgid "Podcast Application"
+msgstr "Ứng dụng Podcast"
+
+#: main.cpp:102
+#, kde-format
+msgid "Adds a new podcast to subscriptions."
+msgstr "Thêm một podcast mới vào danh sách đăng ký."
+
+#: main.cpp:103
+#, kde-format
+msgid "Podcast URL"
+msgstr "URL của podcast"
+
+#: main.cpp:108 qml/Main.qml:25
+#, kde-format
+msgid "Kasts"
+msgstr "Kasts"
+
+#: main.cpp:110
+#, kde-format
+msgid "Podcast Player"
+msgstr "Trình phát Podcast"
+
+#: main.cpp:112
+#, kde-format
+msgid "© 2020–2024 KDE Community"
+msgstr "© 2020–2024 Cộng đồng KDE"
+
+#: main.cpp:113
+#, kde-format
+msgid "Tobias Fella"
+msgstr "Tobias Fella"
+
+#: main.cpp:114
+#, kde-format
+msgid "Bart De Vries"
+msgstr "Bart De Vries"
+
+#: models/abstractepisodeproxymodel.cpp:184
+#, kde-format
+msgctxt "@label:chooser Choice of filter for episode list"
+msgid "No filter"
+msgstr "Không có bộ lọc"
+
+#: models/abstractepisodeproxymodel.cpp:186
+#, kde-format
+msgctxt "@label:chooser Choice of filter for episode list"
+msgid "Played episodes"
+msgstr "Các tập đã phát"
+
+#: models/abstractepisodeproxymodel.cpp:188
+#, kde-format
+msgctxt "@label:chooser Choice of filter for episode list"
+msgid "Unplayed episodes"
+msgstr "Các tập chưa xem"
+
+#: models/abstractepisodeproxymodel.cpp:190
+#, kde-format
+msgctxt "@label:chooser Choice of filter for episode list"
+msgid "Episodes marked as \"New\""
+msgstr "Các tập đánh dấu là \"Mới\""
+
+#: models/abstractepisodeproxymodel.cpp:192
+#, kde-format
+msgctxt "@label:chooser Choice of filter for episode list"
+msgid "Episodes not marked as \"New\""
+msgstr "Các tập chưa được đánh dấu là \"Mới\""
+
+#: models/abstractepisodeproxymodel.cpp:194
+#, kde-format
+msgctxt "@label:chooser Choice of filter for episode list"
+msgid "Episodes marked as Favorite"
+msgstr "Các tập đã đánh dấu là Yêu thích"
+
+#: models/abstractepisodeproxymodel.cpp:196
+#, kde-format
+msgctxt "@label:chooser Choice of filter for episode list"
+msgid "Episodes not marked as Favorite"
+msgstr "Các tập không được đánh dấu là Yêu thích"
+
+#: models/abstractepisodeproxymodel.cpp:206
+#, kde-format
+msgctxt "@label:chooser Choice of fields to search for string"
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: models/abstractepisodeproxymodel.cpp:208
+#, kde-format
+msgctxt "@label:chooser Choice of fields to search for string"
+msgid "Description"
+msgstr "Mô tả"
+
+#: models/abstractepisodeproxymodel.cpp:210
+#, kde-format
+msgctxt "@label:chooser Choice of fields to search for string"
+msgid "Podcast title"
+msgstr "tiêu đề"
+
+#: models/abstractepisodeproxymodel.cpp:220
+#, kde-format
+msgctxt "@label:chooser Sort episodes by decreasing date"
+msgid "Date: newer first"
+msgstr "Ngày: mới nhất trước"
+
+#: models/abstractepisodeproxymodel.cpp:222
+#, kde-format
+msgctxt "@label:chooser Sort episodes by increasing date"
+msgid "Date: older first"
+msgstr "Ngày: cũ nhất trước"
+
+#: models/feedsproxymodel.cpp:120
+#, kde-format
+msgctxt ""
+"@label:chooser Sort podcasts by decreasing number of unplayed episodes"
+msgid "Unplayed count: descending"
+msgstr "Số lượng chưa phát: giảm dần"
+
+#: models/feedsproxymodel.cpp:122
+#, kde-format
+msgctxt ""
+"@label:chooser Sort podcasts by increasing number of unplayed episodes"
+msgid "Unplayed count: ascending"
+msgstr "Số lượng chưa phát: tăng dần"
+
+#: models/feedsproxymodel.cpp:124
+#, kde-format
+msgctxt "@label:chooser Sort podcasts by decreasing number of new episodes"
+msgid "New count: descending"
+msgstr "Số lượng mới: giảm dần"
+
+#: models/feedsproxymodel.cpp:126
+#, kde-format
+msgctxt "@label:chooser Sort podcasts by increasing number of new episodes"
+msgid "New count: ascending"
+msgstr "Số lượng mới: tăng dần"
+
+#: models/feedsproxymodel.cpp:128
+#, kde-format
+msgctxt "@label:chooser Sort podcasts by decreasing number of favorites"
+msgid "Favorite count: descending"
+msgstr "Số lượng yêu thích: giảm dần"
+
+#: models/feedsproxymodel.cpp:130
+#, kde-format
+msgctxt "@label:chooser Sort podcasts by increasing number of favorites"
+msgid "Favorite count: ascending"
+msgstr "Số lượng yêu thích: tăng dần"
+
+#: models/feedsproxymodel.cpp:132
+#, kde-format
+msgctxt "@label:chooser Sort podcasts titles alphabetically"
+msgid "Podcast title: A → Z"
+msgstr "Tiêu đề podcast: A → Z"
+
+#: models/feedsproxymodel.cpp:134
+#, kde-format
+msgctxt "@label:chooser Sort podcasts titles in reverse alphabetical order"
+msgid "Podcast title: Z → A"
+msgstr "Tiêu đề podcast: Z → A"
+
+#: qml/AddFeedSheet.qml:21
+#, kde-format
+msgid "Add New Podcast"
+msgstr "Thêm Podcast Mới"
+
+#: qml/AddFeedSheet.qml:27
+#, kde-format
+msgid "Url:"
+msgstr "URL:"
+
+#: qml/AddFeedSheet.qml:49
+#, kde-format
+msgid "Add Podcast"
+msgstr "Thêm Podcast"
+
+#: qml/ConnectionCheckAction.qml:22
+#, kde-format
+msgctxt "@info:status"
+msgid "Podcast updates are currently not allowed on metered connections"
+msgstr "Hiện tại không được phép cập nhật podcast trên các kết nối có giới hạn"
+
+#: qml/ConnectionCheckAction.qml:56
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Option"
+msgstr "Bôi đen Lựa chọn"
+
+#: qml/ConnectionCheckAction.qml:56
+#, kde-format
+msgctxt "@title:window"
+msgid "Network not reachable"
+msgstr "Không thể kết nối mạng"
+
+#: qml/ConnectionCheckAction.qml:67
+#, kde-format
+msgctxt "@info:status"
+msgid ""
+"It seems the network cannot be reached. If this is incorrect, this check can "
+"be disabled through: Settings > Network."
+msgstr ""
+"Có vẻ như không thể kết nối mạng. Nếu điều này không chính xác, bạn có thể "
+"tắt kiểm tra này thông qua: Thiết lập > Mạng."
+
+#: qml/ConnectionCheckAction.qml:85
+#, kde-format
+msgid "Don't Allow"
+msgstr "Không cho phép"
+
+#: qml/ConnectionCheckAction.qml:99
+#, kde-format
+msgid "Allow Once"
+msgstr "Cho phép một lần"
+
+#: qml/ConnectionCheckAction.qml:113
+#, kde-format
+msgid "Always Allow"
+msgstr "Luôn cho phép"
+
+#: qml/Desktop/DesktopPlayerControls.qml:121
+#, kde-format
+msgid "Seek backward"
+msgstr "Tua lùi"
+
+#: qml/Desktop/DesktopPlayerControls.qml:140
+#, kde-format
+msgid "Seek forward"
+msgstr "Tua về phía trước"
+
+#: qml/Desktop/DesktopPlayerControls.qml:149
+#, kde-format
+msgid "Skip forward"
+msgstr "Bỏ qua về phía trước"
+
+#: qml/Desktop/DesktopPlayerControls.qml:169
+#, kde-format
+msgid "Playback rate:"
+msgstr "Tốc độ phát lại:"
+
+#: qml/Desktop/DesktopPlayerControls.qml:226
+#, kde-format
+msgctxt "@action:button"
+msgid "Show chapter list"
+msgstr "Hiển thị danh sách chương"
+
+#: qml/Desktop/DesktopPlayerControls.qml:237
+#, kde-format
+msgctxt "@action:button"
+msgid "Show episode info"
+msgstr "Hiển thị thông tin tập"
+
+#: qml/Desktop/DesktopPlayerControls.qml:248
+#, kde-format
+msgctxt "@action:button"
+msgid "Open sleep timer settings"
+msgstr "Mở thiết lập hẹn giờ ngủ"
+
+#: qml/Desktop/DesktopPlayerControls.qml:262
+#: qml/Mobile/MobilePlayerControls.qml:348
+#, kde-format
+msgctxt "@action:button"
+msgid "Open volume settings"
+msgstr "Mở thiết lập âm lượng"
+
+#: qml/Desktop/DesktopPlayerControls.qml:294
+#: qml/Mobile/MobilePlayerControls.qml:378
+#, kde-format
+msgctxt "@action:button"
+msgid "Toggle mute"
+msgstr "Bật/tắt tiếng"
+
+#: qml/Desktop/DesktopPlayerControls.qml:311
+#, kde-format
+msgctxt "@action:button"
+msgid "Show more"
+msgstr "Hiển thị thêm"
+
+#: qml/Desktop/DesktopPlayerControls.qml:341
+#, kde-format
+msgctxt "@action:button"
+msgid "Chapters"
+msgstr "Chương"
+
+#: qml/Desktop/DesktopPlayerControls.qml:349
+#, kde-format
+msgctxt "@action:button"
+msgid "Show Info"
+msgstr "Hiện thông tin"
+
+#: qml/Desktop/DesktopPlayerControls.qml:359
+#, kde-format
+msgctxt "@action:button"
+msgid "Sleep Timer"
+msgstr "Hẹn giờ ngủ"
+
+#: qml/Desktop/DesktopPlayerControls.qml:392
+#, kde-format
+msgid "Chapters"
+msgstr "Chương"
+
+#: qml/Desktop/DesktopPlayerControls.qml:418
+#: qml/Desktop/HeaderBar.qml:119 qml/Mobile/MobilePlayerControls.qml:175
+#, kde-format
+msgid "No Track Title"
+msgstr "Không có tiêu đề"
+
+#: qml/Desktop/DesktopPlayerControls.qml:423
+#: qml/Desktop/HeaderBar.qml:120 qml/Mobile/MobilePlayerControls.qml:185
+#, kde-format
+msgid "No track loaded"
+msgstr "Không có bài hát nào được tải"
+
+#: qml/DiscoverPage.qml:18 qml/FeedListPage.qml:41 qml/KastsGlobalDrawer.qml:79
+#, kde-format
+msgctxt "@title of page allowing to search for new podcasts online"
+msgid "Discover"
+msgstr "Khám phá"
+
+#: qml/DiscoverPage.qml:27
+#, kde-format
+msgid "Search podcastindex.org"
+msgstr "Tìm kiếm podcastindex.org"
+
+#: qml/DiscoverPage.qml:37
+#, kde-format
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: qml/DiscoverPage.qml:83 qml/FeedDetailsPage.qml:160
+#, kde-format
+msgid "Subscribe"
+msgstr "Đăng ký"
+
+#: qml/DiscoverPage.qml:83 qml/FeedDetailsPage.qml:160
+#, kde-format
+msgid "Subscribed"
+msgstr "Đã đăng ký"
+
+#: qml/DownloadListPage.qml:15 qml/EpisodeListPage.qml:41
+#: qml/KastsGlobalDrawer.qml:109
+#, kde-format
+msgctxt "@title of page with list of downloaded episodes"
+msgid "Downloads"
+msgstr "Tải xuống"
+
+#: qml/DownloadListPage.qml:31 qml/EpisodeListPage.qml:48
+#, kde-format
+msgid "Refresh All Podcasts"
+msgstr "Cập nhật tất cả Podcast"
+
+#: qml/DownloadListPage.qml:55
+#, kde-format
+msgid "No downloads"
+msgstr "Không có tải xuống"
+
+#: qml/DownloadListPage.qml:71
+#, kde-format
+msgid "Downloading"
+msgstr "Đang tải về"
+
+#: qml/DownloadListPage.qml:72
+#, kde-format
+msgid "Incomplete Downloads"
+msgstr "Tải xuống chưa hoàn tất"
+
+#: qml/DownloadListPage.qml:73
+#, kde-format
+msgid "Downloaded"
+msgstr "Đã tải về"
+
+#: qml/EntryPage.qml:23
+#, kde-format
+msgctxt "@title"
+msgid "Episode Details"
+msgstr "Chi tiết tập"
+
+#: qml/EntryPage.qml:113
+#, kde-format
+msgctxt "@action:intoolbar Button to open an episode URL in browser"
+msgid "Open in Browser"
+msgstr "Mở trong Trình duyệt"
+
+#: qml/EntryPage.qml:121
+#, kde-format
+msgctxt "@action:intoolbar Button to start episode download"
+msgid "Download"
+msgstr "Tải về"
+
+#: qml/EntryPage.qml:130
+#, kde-format
+msgctxt "@action:intoolbar Button to cancel ongoing download of episode"
+msgid "Cancel Download"
+msgstr "Huỷ Tải về"
+
+#: qml/EntryPage.qml:138
+#, kde-format
+msgctxt "@action:intoolbar Button to pause the playback of the episode"
+msgid "Pause"
+msgstr "Tạm dừng"
+
+#: qml/EntryPage.qml:146
+#, kde-format
+msgctxt "@action:intoolbar Button to start playback of the episode"
+msgid "Play"
+msgstr "Phát"
+
+#: qml/EntryPage.qml:155
+#, kde-format
+msgctxt ""
+"@action:intoolbar Action to start playback by streaming the episode rather "
+"than downloading it first"
+msgid "Stream"
+msgstr "Phát trực tuyến"
+
+#: qml/EntryPage.qml:167
+#, kde-format
+msgctxt "@action:intoolbar Button to add an episode to the play queue"
+msgid "Add to Queue"
+msgstr "Thêm vào Hàng đợi"
+
+#: qml/EntryPage.qml:167
+#, kde-format
+msgctxt "@action:intoolbar Button to remove an episode from the play queue"
+msgid "Remove from Queue"
+msgstr "Xoá khỏi Hàng đợi"
+
+#: qml/EntryPage.qml:183
+#, kde-format
+msgctxt "@action:intoolbar Button to remove the downloaded episode audio file"
+msgid "Delete Download"
+msgstr "Xóa tải về"
+
+#: qml/EntryPage.qml:191
+#, kde-format
+msgctxt ""
+"@action:intoolbar Button to reset the play position of an episode to the "
+"start"
+msgid "Reset Play Position"
+msgstr "Đặt lại vị trí phát"
+
+#: qml/EntryPage.qml:197
+#, kde-format
+msgctxt "@action:intoolbar Button to mark eposide as not played"
+msgid "Mark as Unplayed"
+msgstr "Đánh dấu là chưa xem"
+
+#: qml/EntryPage.qml:197
+#, kde-format
+msgctxt "@action:intoolbar Button to mark episode as played"
+msgid "Mark as Played"
+msgstr "Đánh dấu là Đã xem"
+
+#: qml/EntryPage.qml:204
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "Remove \"New\" Label"
+msgstr "Xoá nhãn \"Mới\""
+
+#: qml/EntryPage.qml:204
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "Label as \"New\""
+msgstr "Gắn nhãn là \"Mới\""
+
+#: qml/EntryPage.qml:211 qml/GenericEntryListView.qml:313
+#, kde-format
+msgctxt ""
+"@action:intoolbar Button to remove the \"favorite\" property of a podcast "
+"episode"
+msgid "Remove from Favorites"
+msgstr "Xoá khỏi Mục yêu thích"
+
+#: qml/EntryPage.qml:211 qml/GenericEntryListView.qml:304
+#, kde-format
+msgctxt "@action:intoolbar Button to add a podcast episode as favorite"
+msgid "Add to Favorites"
+msgstr "Thêm vào Mục yêu thích"
+
+#: qml/EntryPage.qml:219
+#, kde-format
+msgctxt "@action:intoolbar Button to open the podcast URL in browser"
+msgid "Open Podcast"
+msgstr "Mở Podcast"
+
+#: qml/EntryPage.qml:290
+#, kde-format
+msgctxt "@action:button"
+msgid "Copy Episode Download URL"
+msgstr "Sao chép URL tải về tập phim"
+
+#: qml/EntryPage.qml:296
+#, kde-format
+msgctxt "@info:status"
+msgid "Link Copied"
+msgstr "Đã sao chép liên kết"
+
+#: qml/EpisodeListPage.qml:17 qml/KastsGlobalDrawer.qml:99
+#: qml/Mobile/BottomToolbar.qml:39
+#, kde-format
+msgctxt "@title of page with list of podcast episodes"
+msgid "Episodes"
+msgstr "Tập"
+
+#: qml/EpisodeListPage.qml:54 qml/FeedDetailsPage.qml:69
+#: qml/FeedListPage.qml:113
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: qml/EpisodeListPage.qml:90 qml/FeedDetailsPage.qml:361
+#, kde-format
+msgid "No episodes available"
+msgstr "Không có tập phim nào hiện có"
+
+#: qml/ErrorList.qml:30
+#, kde-format
+msgid "No errors logged"
+msgstr "Không có lỗi nào được ghi lại"
+
+#: qml/ErrorList.qml:62
+#, kde-format
+msgid "Error code:"
+msgstr "Mã lỗi:"
+
+#: qml/ErrorListOverlay.qml:22 qml/Settings/ErrorListPage.qml:22
+#, kde-format
+msgctxt "@title"
+msgid "Error Log"
+msgstr "Nhật kí lỗi"
+
+#: qml/ErrorListOverlay.qml:26 qml/Settings/ErrorListPage.qml:41
+#, kde-format
+msgctxt "@action:button"
+msgid "Clear All Errors"
+msgstr "Làm trống tất cả lỗi"
+
+#: qml/ErrorNotification.qml:30
+#, kde-format
+msgid "Show Error Log"
+msgstr "Hiện Nhật Kí Lỗi"
+
+#: qml/FeedDetailsPage.qml:28 qml/FeedListDelegate.qml:240
+#, kde-format
+msgid "Podcast Details"
+msgstr "Chi tiết podcast"
+
+#: qml/FeedDetailsPage.qml:124
+#, kde-format
+msgctxt "by <author(s)>"
+msgid "by %1"
+msgstr "bởi %1"
+
+#: qml/FeedDetailsPage.qml:155
+#, kde-format
+msgid "Refresh Podcast"
+msgstr "Cập nhật Podcast"
+
+#: qml/FeedDetailsPage.qml:174
+#, kde-format
+msgid "Show Details"
+msgstr "Hiển thị chi tiết"
+
+#: qml/FeedDetailsPage.qml:245
+#, kde-format
+msgid "Podcast URL:"
+msgstr "Đường dẫn podcast:"
+
+#: qml/FeedDetailsPage.qml:285
+#, kde-format
+msgid "Weblink:"
+msgstr "Liên kết web:"
+
+#: qml/FeedDetailsPage.qml:313
+#, kde-format
+msgid "Subscribed since: %1"
+msgstr "Đã đăng ký từ: %1"
+
+#: qml/FeedDetailsPage.qml:326
+#, kde-format
+msgid "Last updated: %1"
+msgstr "Cập nhật lần cuối: %1"
+
+#: qml/FeedDetailsPage.qml:339
+#, kde-format
+msgid "1 Episode"
+msgid_plural "%1 Episodes"
+msgstr[0] "%1 tập"
+
+#: qml/FeedDetailsPage.qml:339
+#, kde-format
+msgid "1 Unplayed"
+msgid_plural "%1 Unplayed"
+msgstr[0] "%1 Chưa xem"
+
+#: qml/FeedDetailsPage.qml:361
+#, kde-format
+msgid "Error (%1): %2"
+msgstr "Lỗi (%1): %2"
+
+#: qml/FeedListDelegate.qml:250
+#, kde-format
+msgid "Remove Podcast"
+msgstr "Xoá Podcast"
+
+#: qml/FeedListPage.qml:20 qml/KastsGlobalDrawer.qml:89
+#: qml/Mobile/BottomToolbar.qml:31
+#, kde-format
+msgctxt "@title of page with list of podcast subscriptions"
+msgid "Subscriptions"
+msgstr "Đăng ký"
+
+#: qml/FeedListPage.qml:48 qml/QueuePage.qml:38
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "Refresh All Podcasts"
+msgstr "Cập nhật tất cả Podcast"
+
+#: qml/FeedListPage.qml:54
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "Add Podcast…"
+msgstr "Thêm Podcast..."
+
+#: qml/FeedListPage.qml:63
+#, kde-format
+msgctxt "@action:intoolbar Open menu with options to sort subscriptions"
+msgid "Sort"
+msgstr "Sắp xếp"
+
+#: qml/FeedListPage.qml:65
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Select how to sort subscriptions"
+msgstr "Chọn cách sắp xếp các kênh đăng ký"
+
+#: qml/FeedListPage.qml:118
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "Import Podcasts…"
+msgstr "Nhập khẩu Podcast..."
+
+#: qml/FeedListPage.qml:124
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "Export Podcasts…"
+msgstr "Xuất khẩu Podcast..."
+
+#: qml/FeedListPage.qml:160
+#, kde-format
+msgctxt "@title:window"
+msgid "Import Podcasts"
+msgstr "Nhập khẩu Podcasts"
+
+#: qml/FeedListPage.qml:162 qml/FeedListPage.qml:170
+#, kde-format
+msgctxt "@label:listbox File filter option in file dialog"
+msgid "OPML Files (*.opml)"
+msgstr "Tệp OPML (*.opml)"
+
+#: qml/FeedListPage.qml:162
+#, kde-format
+msgctxt "@label:listbox File filter option in file dialog"
+msgid "XML Files (*.xml)"
+msgstr "Tệp XML (*.xml)"
+
+#: qml/FeedListPage.qml:162 qml/FeedListPage.qml:170
+#, kde-format
+msgctxt "@label:listbox File filter option in file dialog"
+msgid "All Files (*)"
+msgstr "Tất cả các tệp (*)"
+
+#: qml/FeedListPage.qml:168
+#, kde-format
+msgctxt "@title:window"
+msgid "Export Podcasts"
+msgstr "Xuất khẩu Podcast"
+
+#: qml/FeedListPage.qml:186
+#, kde-format
+msgctxt "@info Placeholder message for empty podcast list"
+msgid "No podcasts added yet"
+msgstr "Chưa có podcast nào được thêm"
+
+#: qml/FeedListPage.qml:186
+#, kde-format
+msgctxt ""
+"@info Placeholder message for podcast list when no podcast matches the "
+"search criteria"
+msgid "No podcasts found"
+msgstr "Không tìm thấy podcast"
+
+#: qml/FeedListPage.qml:187
+#, kde-format
+msgctxt "@info:tipoftheday"
+msgid "Get started by adding podcasts:"
+msgstr "Bắt đầu bằng cách thêm podcast:"
+
+#: qml/FeedListPage.qml:201
+#, kde-format
+msgctxt "@action:button"
+msgid "Search Online"
+msgstr "Tìm kiếm trực tuyến"
+
+#: qml/FeedListPage.qml:228
+#, kde-format
+msgctxt "@action:button"
+msgid "Synchronize"
+msgstr "Đồng bộ"
+
+#: qml/FeedListPage.qml:236 qml/Main.qml:74
+#, kde-format
+msgid "Settings"
+msgstr "thiết lập"
+
+#: qml/FeedListPage.qml:371
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "Select All"
+msgstr "Bôi đen tất cả"
+
+#: qml/FeedListPage.qml:380
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "Deselect All"
+msgstr "Bỏ chọn tất cả"
+
+#: qml/FeedListPage.qml:389
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "Remove Podcast"
+msgid_plural "Remove Podcasts"
+msgstr[0] "Xoá Podcast"
+
+#: qml/FeedListPage.qml:412
+#, kde-format
+msgctxt "@action:intoolbar Open view with more podcast details"
+msgid "Podcast Details"
+msgstr "Chi tiết podcast"
+
+#: qml/FilterInlineMessage.qml:32
+#, kde-format
+msgctxt "@action:button Reset filters active on ListView"
+msgid "Reset"
+msgstr "Đặt lại"
+
+#: qml/FilterInlineMessage.qml:41
+#, kde-format
+msgctxt "@info:status Name of the filter which is active on the ListView"
+msgid "Active filter: %1"
+msgstr "Bộ lọc hoạt động: %1"
+
+#: qml/GenericEntryDelegate.qml:221
+#, kde-format
+msgid "Played"
+msgstr "Đã phát"
+
+#: qml/GenericEntryDelegate.qml:221
+#, kde-format
+msgid "Read"
+msgstr "Đọc"
+
+#: qml/GenericEntryDelegate.qml:227
+#, kde-format
+msgid "New"
+msgstr "Mới"
+
+#: qml/GenericEntryDelegate.qml:328 qml/GenericEntryListView.qml:262
+#, kde-format
+msgid "Remove from Queue"
+msgstr "Xoá khỏi Hàng đợi"
+
+#: qml/GenericEntryDelegate.qml:337 qml/GenericEntryListView.qml:322
+#, kde-format
+msgid "Download"
+msgstr "Tải về"
+
+#: qml/GenericEntryDelegate.qml:347
+#, kde-format
+msgid "Cancel Download"
+msgstr "Huỷ Tải về"
+
+#: qml/GenericEntryDelegate.qml:354
+#, kde-format
+msgid "Delete Download"
+msgstr "Xóa tải về"
+
+#: qml/GenericEntryDelegate.qml:361 qml/GenericEntryListView.qml:252
+#, kde-format
+msgid "Add to Queue"
+msgstr "Thêm vào hàng đợi"
+
+#: qml/GenericEntryDelegate.qml:378 qml/GenericEntryListView.qml:341
+#, kde-format
+msgctxt ""
+"@action:inmenu Action to start playback by streaming the episode rather than "
+"downloading it first"
+msgid "Stream"
+msgstr "Phát trực tuyến"
+
+#: qml/GenericEntryListView.qml:136
+#, kde-format
+msgctxt "@action:intoolbar Open menu with options to sort episodes"
+msgid "Sort"
+msgstr "Sắp xếp"
+
+#: qml/GenericEntryListView.qml:138
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Select how to sort episodes"
+msgstr "Chọn cách sắp xếp các tập"
+
+#: qml/GenericEntryListView.qml:187
+#, kde-format
+msgctxt ""
+"@action:intoolbar Button to open menu to filter episodes based on their "
+"status (played, new, etc.)"
+msgid "Filter"
+msgstr "Lọc"
+
+#: qml/GenericEntryListView.qml:189
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Filter episodes by status"
+msgstr "Lọc các tập phim theo trạng thái"
+
+#: qml/GenericEntryListView.qml:235
+#, kde-format
+msgid "Select All"
+msgstr "Bôi đen tất cả"
+
+#: qml/GenericEntryListView.qml:244
+#, kde-format
+msgid "Deselect All"
+msgstr "Bỏ chọn tất cả"
+
+#: qml/GenericEntryListView.qml:272
+#, kde-format
+msgid "Mark as Played"
+msgstr "Đánh dấu là Đã phát"
+
+#: qml/GenericEntryListView.qml:280
+#, kde-format
+msgid "Mark as Unplayed"
+msgstr "Đánh dấu là Chưa Xem"
+
+#: qml/GenericEntryListView.qml:288
+#, kde-format
+msgid "Label as \"New\""
+msgstr "Gắn nhãn là \"Mới\""
+
+#: qml/GenericEntryListView.qml:296
+#, kde-format
+msgid "Remove \"New\" Label"
+msgstr "Xoá nhãn \"Mới\""
+
+#: qml/GenericEntryListView.qml:332
+#, kde-format
+msgctxt "context menu action"
+msgid "Delete Download"
+msgid_plural "Delete Downloads"
+msgstr[0] "Xóa tải về"
+
+#: qml/GlobalSearchField.qml:98
+#, kde-format
+msgctxt "@info Placeholder text in search box"
+msgid "No search results"
+msgstr "Không có kết quả tìm kiếm"
+
+#: qml/GlobalSearchField.qml:105 qml/SearchBar.qml:53
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "Advanced Search Options"
+msgstr "Tùy chọn tìm kiếm nâng cao"
+
+#: qml/GlobalSearchField.qml:139 qml/SearchBar.qml:113
+#, kde-format
+msgctxt "@title:menu"
+msgid "Search Preferences"
+msgstr "Các thiết lập tìm kiếm"
+
+#: qml/GlobalSearchField.qml:143 qml/SearchBar.qml:117
+#, kde-format
+msgctxt "@title:group Group of fields in which can be searched"
+msgid "Search in:"
+msgstr "Tìm kiếm trong:"
+
+#: qml/KastsGlobalDrawer.qml:69 qml/Mobile/BottomToolbar.qml:23
+#: qml/QueuePage.qml:18
+#, kde-format
+msgctxt ""
+"@title of page showing the list queued items; this is the noun 'the queue', "
+"not the verb"
+msgid "Queue"
+msgstr "Hàng đợi"
+
+#: qml/KastsGlobalDrawer.qml:129 qml/Mobile/BottomToolbar.qml:47
+#, kde-format
+msgctxt "@title of dialog with app settings"
+msgid "Settings"
+msgstr "thiết lập"
+
+#: qml/Main.qml:227
+#, kde-format
+msgctxt "Number of Updated Podcasts"
+msgid "Updated %2 of %1 Podcast"
+msgid_plural "Updated %2 of %1 Podcasts"
+msgstr[0] "Đã cập nhật %2 trong số %1 Podcast"
+
+#: qml/Main.qml:254
+#, kde-format
+msgctxt "Number of Moved Files"
+msgid "Moved %2 of %1 File"
+msgid_plural "Moved %2 of %1 Files"
+msgstr[0] "Đã di chuyển %2 trong số %1 tệp"
+
+#: qml/Main.qml:318
+#, kde-format
+msgctxt "@info:status"
+msgid "Podcast downloads are currently not allowed on metered connections"
+msgstr "Hiện tại không được phép tải podcast trên các kết nối có giới hạn"
+
+#: qml/Mobile/MobilePlayerControls.qml:24
+#, kde-format
+msgid "No Track Loaded"
+msgstr "Không có bài hát nào được tải"
+
+#: qml/Mobile/MobilePlayerControls.qml:145
+#, kde-format
+msgid "No Title"
+msgstr "Không có tiêu đề"
+
+#: qml/Mobile/MobilePlayerControls.qml:153
+#, kde-format
+msgid "No podcast title"
+msgstr "Không có tiêu đề podcast"
+
+#: qml/Mobile/MobilePlayerControls.qml:219
+#, kde-format
+msgid "No chapters found"
+msgstr "Không tìm thấy chương"
+
+#: qml/PlaybackRateCustomizerDialog.qml:17
+#, kde-format
+msgctxt "@title:window"
+msgid "Playback Rate Presets"
+msgstr "Các mẫu tốc độ phát lại"
+
+#: qml/PlaybackRateCustomizerDialog.qml:53
+#, kde-format
+msgctxt "@info Label for controls to add new playback rate preset"
+msgid "New Preset:"
+msgstr "Preset mới:"
+
+#: qml/PlaybackRateCustomizerDialog.qml:65
+#, kde-format
+msgctxt "@action:button Add new playback rate value to list"
+msgid "Add"
+msgstr "Thêm"
+
+#: qml/PlaybackRateCustomizerDialog.qml:68
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Add new playback rate value to list"
+msgstr "Thêm giá trị tốc độ phát mới vào danh sách"
+
+#: qml/PlaybackRateCustomizerDialog.qml:101
+#, kde-format
+msgctxt "@action:button"
+msgid "Decrease playback rate"
+msgstr "Giảm tốc độ phát"
+
+#: qml/PlaybackRateCustomizerDialog.qml:120
+#, kde-format
+msgctxt "@action:button"
+msgid "Increase playback rate"
+msgstr "Tăng tốc độ phát lại"
+
+#: qml/PlaybackRateCustomizerDialog.qml:125
+#, kde-format
+msgctxt "@title:group List of custom playback rates"
+msgid "Current Presets:"
+msgstr "Các cài đặt sẵn hiện tại:"
+
+#: qml/PlaybackRateMenu.qml:20
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Playback Rate"
+msgstr "Chọn Tốc Độ Phát"
+
+#: qml/PlaybackRateMenu.qml:52
+#, kde-format
+msgctxt "@action:button"
+msgid "Customize"
+msgstr "Tùy chỉnh"
+
+#: qml/QueuePage.qml:62
+#, kde-format
+msgctxt "@info"
+msgid "Queue is empty"
+msgstr "Hàng đợi trống"
+
+#: qml/QueuePage.qml:71
+#, kde-format
+msgctxt "@info:progress"
+msgid "1 Episode"
+msgid_plural "%1 Episodes"
+msgstr[0] "%1 tập"
+
+#: qml/QueuePage.qml:71
+#, kde-format
+msgctxt "@info:progress"
+msgid "Time Left"
+msgstr "Thời gian còn lại"
+
+#: qml/SearchBar.qml:41
+#, kde-format
+msgctxt "@label:textbox Placeholder text for episode search field"
+msgid "Search episodes…"
+msgstr "Tìm kiếm các tập phim..."
+
+#: qml/Settings/AboutPage.qml:18 qml/Settings/SettingsPage.qml:53
+#, kde-format
+msgctxt "@title:menu Category in settings"
+msgid "About"
+msgstr "Thông tin"
+
+#: qml/Settings/AppearanceSettingsPage.qml:23
+#, kde-format
+msgctxt "@title Form header for settings related to app appearance"
+msgid "Appearance"
+msgstr "diện mạo"
+
+#: qml/Settings/AppearanceSettingsPage.qml:33
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Color theme"
+msgstr "Chủ đề màu"
+
+#: qml/Settings/AppearanceSettingsPage.qml:49
+#, kde-format
+msgctxt "@option:check"
+msgid "Always show podcast titles in subscription view"
+msgstr "Luôn hiển thị tiêu đề podcast trong khung xem theo dõi"
+
+#: qml/Settings/AppearanceSettingsPage.qml:61
+#, kde-format
+msgctxt "@option:check"
+msgid "Show episode image instead of podcast image in lists"
+msgstr "Hiển thị ảnh tập thay vì ảnh podcast trong danh sách"
+
+#: qml/Settings/AppearanceSettingsPage.qml:73
+#, kde-format
+msgctxt "@option:check"
+msgid "Show podcast titles in episode lists"
+msgstr "Hiển thị tiêu đề podcast trong danh sách tập"
+
+#: qml/Settings/AppearanceSettingsPage.qml:83
+#, kde-format
+msgctxt "@title Title header for settings related to the tray icon"
+msgid "Tray icon"
+msgstr "Biểu tượng khay"
+
+#: qml/Settings/AppearanceSettingsPage.qml:94
+#, kde-format
+msgctxt "@option:check"
+msgid "Show icon in system tray"
+msgstr "Hiển thị biểu tượng trong khay hệ thống"
+
+#: qml/Settings/AppearanceSettingsPage.qml:106
+#, kde-format
+msgctxt "@option:check"
+msgid "Minimize to tray instead of closing"
+msgstr "Giảm thiểu vào khay thay vì đóng"
+
+#: qml/Settings/AppearanceSettingsPage.qml:118
+#, kde-format
+msgctxt "@label:listbox Label for selecting the color of the tray icon"
+msgid "Tray icon type"
+msgstr "Kiểu biểu tượng khay"
+
+#: qml/Settings/AppearanceSettingsPage.qml:123
+#, kde-format
+msgctxt "Label describing style of tray icon"
+msgid "Colorful"
+msgstr "Nhiều màu sắc"
+
+#: qml/Settings/AppearanceSettingsPage.qml:124
+#, kde-format
+msgctxt "Label describing style of tray icon"
+msgid "Light"
+msgstr "Sáng"
+
+#: qml/Settings/AppearanceSettingsPage.qml:125
+#, kde-format
+msgctxt "Label describing style of tray icon"
+msgid "Dark"
+msgstr "Tối"
+
+#: qml/Settings/AppearanceSettingsPage.qml:135
+#, kde-format
+msgctxt "@title Form header for settings related to text/fonts"
+msgid "Text"
+msgstr "Văn bản"
+
+#: qml/Settings/AppearanceSettingsPage.qml:145
+#, kde-format
+msgctxt "@option:check"
+msgid "Use system default"
+msgstr "Sử dụng mặc định của hệ thống"
+
+#: qml/Settings/AppearanceSettingsPage.qml:157
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Font size"
+msgstr "Cỡ phông chữ"
+
+#: qml/Settings/ErrorListPage.qml:19 qml/Settings/SettingsPage.qml:47
+#, kde-format
+msgctxt "@title:menu Category in settings"
+msgid "Error Log"
+msgstr "Nhật kí lỗi"
+
+#: qml/Settings/GeneralSettingsPage.qml:23
+#, kde-format
+msgctxt "@title Form header for settings related to playback"
+msgid "Playback settings"
+msgstr "Thiết lập phát lại"
+
+#: qml/Settings/GeneralSettingsPage.qml:32
+#, kde-format
+msgctxt "@label:listbox Label for setting to select audio playback backend"
+msgid "Select audio backend"
+msgstr "Chọn hậu phương âm thanh"
+
+#: qml/Settings/GeneralSettingsPage.qml:63
+#, kde-format
+msgctxt ""
+"@option:check Label for setting whether the total track time is shown or a "
+"countdown of the remaining play time"
+msgid "Show time left instead of total track time"
+msgstr "Hiển thị thời gian còn lại thay vì tổng thời lượng bài hát"
+
+#: qml/Settings/GeneralSettingsPage.qml:73
+#, kde-format
+msgctxt "@option:check"
+msgid "Adjust time left based on current playback speed"
+msgstr "Điều chỉnh thời gian còn lại dựa trên tốc độ phát hiện tại"
+
+#: qml/Settings/GeneralSettingsPage.qml:82
+#, kde-format
+msgctxt "@option:check"
+msgid "Prioritize streaming over downloading"
+msgstr "Ưu tiên phát trực tuyến hơn tải về"
+
+#: qml/Settings/GeneralSettingsPage.qml:94
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Skip forward interval (in seconds)"
+msgstr "Khoảng thời gian chuyển tiếp về phía trước (tính bằng giây)"
+
+#: qml/Settings/GeneralSettingsPage.qml:108
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Skip backward interval (in seconds)"
+msgstr "Khoảng thời gian tua lùi (tính bằng giây)"
+
+#: qml/Settings/GeneralSettingsPage.qml:123
+#, kde-format
+msgctxt "@title Form header for settings related podcast updates"
+msgid "Podcast update settings"
+msgstr "Thiết lập cập nhật podcast"
+
+#: qml/Settings/GeneralSettingsPage.qml:132
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Automatically fetch podcast feeds"
+msgstr "Tự động tìm nạp nguồn cấp dữ liệu podcast"
+
+#: qml/Settings/GeneralSettingsPage.qml:135
+#, kde-format
+msgctxt "@item:inlistbox automatic podcast update interval"
+msgid "Never"
+msgstr "Không bao giờ"
+
+#: qml/Settings/GeneralSettingsPage.qml:136
+#: qml/Settings/GeneralSettingsPage.qml:137
+#: qml/Settings/GeneralSettingsPage.qml:138
+#: qml/Settings/GeneralSettingsPage.qml:139
+#: qml/Settings/GeneralSettingsPage.qml:140
+#, kde-format
+msgctxt "@item:inlistbox automatic podcast update interval"
+msgid "Every hour"
+msgid_plural "Every %1 hours"
+msgstr[0] "Mỗi %1 giờ"
+
+#: qml/Settings/GeneralSettingsPage.qml:141
+#: qml/Settings/GeneralSettingsPage.qml:142
+#, kde-format
+msgctxt "@item:inlistbox automatic podcast update interval"
+msgid "Every day"
+msgid_plural "Every %1 days"
+msgstr[0] "Mỗi %1 ngày"
+
+#: qml/Settings/GeneralSettingsPage.qml:153
+#, kde-format
+msgctxt "@option:check"
+msgid "Fetch podcast updates on startup"
+msgstr "Tìm nạp bản cập nhật podcast khi khởi động"
+
+#: qml/Settings/GeneralSettingsPage.qml:166
+#, kde-format
+msgctxt "@option:check"
+msgid "Update existing episode data on refresh (slower)"
+msgstr "Cập nhật dữ liệu tập phim hiện có khi làm mới (chậm hơn)"
+
+#: qml/Settings/GeneralSettingsPage.qml:176
+#, kde-format
+msgctxt "@option:check"
+msgid "Automatically queue new episodes"
+msgstr "Tự động xếp hàng các tập mới"
+
+#: qml/Settings/GeneralSettingsPage.qml:191
+#, kde-format
+msgctxt "@option:check"
+msgid "Automatically download new episodes"
+msgstr "Tự động tải về các tập mới"
+
+#: qml/Settings/GeneralSettingsPage.qml:202
+#, kde-format
+msgctxt "@title Form header for settings related to the queue"
+msgid "Queue settings"
+msgstr "Thiết lập hàng đợi"
+
+#: qml/Settings/GeneralSettingsPage.qml:212
+#, kde-format
+msgctxt "@option:check"
+msgid "Continue playing next episode after current one finishes"
+msgstr "Tiếp tục phát tập tiếp theo sau khi tập hiện tại kết thúc"
+
+#: qml/Settings/GeneralSettingsPage.qml:224
+#, kde-format
+msgctxt "@option:check"
+msgid "Reset play position after an episode is played"
+msgstr "Đặt lại vị trí phát sau khi một tập phát xong"
+
+#: qml/Settings/GeneralSettingsPage.qml:236
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Played episode behavior"
+msgstr "Hành vi của tập đã phát"
+
+#: qml/Settings/GeneralSettingsPage.qml:239
+#, kde-format
+msgctxt "@item:inlistbox What to do with played episodes"
+msgid "Do not delete"
+msgstr "Không xóa"
+
+#: qml/Settings/GeneralSettingsPage.qml:240
+#, kde-format
+msgctxt "@item:inlistbox What to do with played episodes"
+msgid "Delete immediately"
+msgstr "Xóa ngay lập tức"
+
+#: qml/Settings/GeneralSettingsPage.qml:241
+#, kde-format
+msgctxt "@item:inlistbox What to do with played episodes"
+msgid "Delete at next startup"
+msgstr "Xóa khi khởi động tiếp theo"
+
+#: qml/Settings/GeneralSettingsPage.qml:253
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Mark episodes as played when the given time is remaining (in seconds)"
+msgstr "Đánh dấu tập phim đã xem khi còn lại thời gian (tính bằng giây)"
+
+#: qml/Settings/GeneralSettingsPage.qml:269
+#, kde-format
+msgctxt "@title Form header for settings triggered by adding new podcasts"
+msgid "When adding new podcasts"
+msgstr "Khi thêm podcast mới"
+
+#: qml/Settings/GeneralSettingsPage.qml:278
+#, kde-format
+msgctxt "@option:radio"
+msgid "Mark all episodes as played"
+msgstr "Đánh dấu tất cả các tập đã phát"
+
+#: qml/Settings/GeneralSettingsPage.qml:289
+#, kde-format
+msgctxt "@option:radio"
+msgid "Mark most recent episodes as unplayed"
+msgstr "Đánh dấu các tập mới nhất là chưa xem"
+
+#: qml/Settings/GeneralSettingsPage.qml:312
+#, kde-format
+msgctxt "@option:radio"
+msgid "Mark all episodes as unplayed"
+msgstr "Đánh dấu tất cả các tập chưa xem"
+
+#: qml/Settings/NetworkSettingsPage.qml:28
+#, kde-format
+msgctxt "@title Form header for settings related to network connections"
+msgid "Network"
+msgstr "Mạng"
+
+#: qml/Settings/NetworkSettingsPage.qml:37
+#, kde-format
+msgctxt "@option:check"
+msgid "Enable network connection checks"
+msgstr "Bật kiểm tra kết nối mạng"
+
+#: qml/Settings/NetworkSettingsPage.qml:47
+#, kde-format
+msgctxt "@title Form header for settings related to metered connections"
+msgid "On metered connections"
+msgstr "Trên các kết nối có giới hạn"
+
+#: qml/Settings/NetworkSettingsPage.qml:57
+#, kde-format
+msgctxt "@option:check"
+msgid "Allow podcast updates"
+msgstr "Cho phép cập nhật podcast"
+
+#: qml/Settings/NetworkSettingsPage.qml:68
+#, kde-format
+msgctxt "@option:check"
+msgid "Allow episode downloads"
+msgstr "Cho phép tải xuống tập phim"
+
+#: qml/Settings/NetworkSettingsPage.qml:79
+#, kde-format
+msgctxt "@option:check"
+msgid "Allow image downloads"
+msgstr "Cho phép tải ảnh"
+
+#: qml/Settings/NetworkSettingsPage.qml:90
+#, kde-format
+msgctxt "@option:check"
+msgid "Allow streaming"
+msgstr "Cho phép phát trực tuyến"
+
+#: qml/Settings/NetworkSettingsPage.qml:99
+#, kde-format
+msgctxt "@title Form header for settings related to network proxies"
+msgid "Network Proxy"
+msgstr "Uỷ nhiệm mạng"
+
+#: qml/Settings/NetworkSettingsPage.qml:104
+#, kde-format
+msgctxt "@option:radio Network proxy selection"
+msgid "System Default"
+msgstr "Mặc định hệ thống"
+
+#: qml/Settings/NetworkSettingsPage.qml:113
+#, kde-format
+msgctxt "@option:radio Network proxy selection"
+msgid "No Proxy"
+msgstr "Không có uỷ nhiệm"
+
+#: qml/Settings/NetworkSettingsPage.qml:122
+#, kde-format
+msgctxt "@option:radio Network proxy selection"
+msgid "HTTP"
+msgstr "HTTP"
+
+#: qml/Settings/NetworkSettingsPage.qml:131
+#, kde-format
+msgctxt "@option:radio Network proxy selection"
+msgid "Socks5"
+msgstr "Socks5"
+
+#: qml/Settings/NetworkSettingsPage.qml:146
+#, kde-format
+msgctxt "@label:textbox Hostname for proxy config"
+msgid "Host"
+msgstr "Máy chủ"
+
+#: qml/Settings/NetworkSettingsPage.qml:157
+#, kde-format
+msgctxt "@label:spinbox Port for proxy config"
+msgid "Port"
+msgstr "Cổng"
+
+#: qml/Settings/NetworkSettingsPage.qml:172
+#, kde-format
+msgctxt "@label:textbox Username for proxy config"
+msgid "User"
+msgstr "Người dùng"
+
+#: qml/Settings/NetworkSettingsPage.qml:183
+#, kde-format
+msgctxt "@label:textbox Password for proxy config"
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: qml/Settings/NetworkSettingsPage.qml:197
+#, kde-format
+msgctxt "@action:button"
+msgid "Apply"
+msgstr "Áp dụng"
+
+#: qml/Settings/NetworkSettingsPage.qml:217
+#, kde-format
+msgctxt "@info:status Warning message related to app proxy settings"
+msgid ""
+"Your system level or app level proxy settings might be ignored by the audio "
+"backend when streaming audio. The settings should still be honored by all "
+"other network related actions, including downloading episodes."
+msgstr ""
+"Các thiết lập proxy cấp hệ thống hoặc cấp ứng dụng của bạn có thể bị bỏ qua "
+"bởi backend âm thanh khi phát trực tuyến. Tuy nhiên, các thiết lập này vẫn "
+"sẽ được tuân thủ bởi tất cả các hoạt động liên quan đến mạng khác, bao gồm "
+"cả việc tải về các tập tin."
+
+#: qml/Settings/SettingsPage.qml:17
+#, kde-format
+msgctxt "@title:menu Category in settings"
+msgid "General"
+msgstr "chung"
+
+#: qml/Settings/SettingsPage.qml:23
+#, kde-format
+msgctxt "@title:menu Category in settings"
+msgid "Appearance"
+msgstr "diện mạo"
+
+#: qml/Settings/SettingsPage.qml:29
+#, kde-format
+msgctxt "@title:menu Category in settings"
+msgid "Storage"
+msgstr "Lưu trữ"
+
+#: qml/Settings/SettingsPage.qml:35
+#, kde-format
+msgctxt "@title:menu Category in settings"
+msgid "Network"
+msgstr "Mạng"
+
+#: qml/Settings/SettingsPage.qml:41
+#, kde-format
+msgctxt "@title:menu Category in settings"
+msgid "Synchronization"
+msgstr "Đồng bộ hóa"
+
+#: qml/Settings/StorageSettingsPage.qml:22
+#, kde-format
+msgctxt "@title Form header for settings related to storage paths"
+msgid "Storage path"
+msgstr "Đường dẫn lưu trữ"
+
+#: qml/Settings/StorageSettingsPage.qml:32
+#, kde-format
+msgctxt "@label showing path used for local storage"
+msgid "Storage path"
+msgstr "Đường dẫn lưu trữ"
+
+#: qml/Settings/StorageSettingsPage.qml:38
+#, kde-format
+msgctxt "@action:button"
+msgid "Select folder…"
+msgstr "Chọn thư mục..."
+
+#: qml/Settings/StorageSettingsPage.qml:46
+#, kde-format
+msgctxt "@title of dialog box"
+msgid "Select Storage Path"
+msgstr "Chọn Đường Dẫn Lưu Trữ"
+
+#: qml/Settings/StorageSettingsPage.qml:56
+#, kde-format
+msgctxt "@option:check"
+msgid "Use default path"
+msgstr "Sử dụng đường dẫn mặc định"
+
+#: qml/Settings/StorageSettingsPage.qml:67
+#, kde-format
+msgctxt ""
+"@title Form header for section showing information about local storage"
+msgid "Information"
+msgstr "Thông tin"
+
+#: qml/Settings/StorageSettingsPage.qml:74
+#, kde-format
+msgctxt "@label showing the storage space used by local podcast downloads"
+msgid "Podcast downloads"
+msgstr "Tải xuống podcast"
+
+#: qml/Settings/StorageSettingsPage.qml:75
+#: qml/Settings/StorageSettingsPage.qml:82
+#, kde-format
+msgctxt "@label Using <amount of bytes> of disk space"
+msgid "Using %1 of disk space"
+msgstr "Đang sử dụng %1 dung lượng ổ đĩa"
+
+#: qml/Settings/StorageSettingsPage.qml:81
+#, kde-format
+msgctxt "@label showing the storage space used by the image cache"
+msgid "Image cache"
+msgstr "Bộ nhớ đệm ảnh"
+
+#: qml/Settings/StorageSettingsPage.qml:86
+#, kde-format
+msgctxt "@action:button"
+msgid "Clear Cache"
+msgstr "Làm trống bộ đệm"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:35
+#, kde-format
+msgctxt "@label"
+msgid "Account"
+msgstr "Tài khoản"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:36
+#, kde-format
+msgctxt ""
+"@info:status Shows which sync account and sync server the user is logged into"
+msgid "Logged into account \"%1\" on server \"%2\""
+msgstr "Đã đăng nhập vào tài khoản \"%1\" trên máy chủ \"%2\""
+
+#: qml/Settings/SynchronizationSettingsPage.qml:36
+#, kde-format
+msgctxt "@info:status"
+msgid "Syncing disabled"
+msgstr "Đồng bộ hóa đã bị tắt"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:39
+#, kde-format
+msgctxt "@action:button"
+msgid "Logout"
+msgstr "Đăng xuất"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:39
+#, kde-format
+msgctxt "@action:button"
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:50
+#, kde-format
+msgctxt "@label"
+msgid "Manually sync"
+msgstr "Đồng bộ thủ công"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:53
+#, kde-format
+msgctxt "@action:button"
+msgid "Sync Now"
+msgstr "Đồng bộ ngay"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:65
+#, kde-format
+msgctxt "@info:status"
+msgid "Last full sync with server"
+msgstr "Lần đồng bộ hóa đầy đủ cuối cùng với máy chủ"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:73
+#, kde-format
+msgctxt "@info:status"
+msgid "Last quick upload to sync server"
+msgstr "Lần tải lên nhanh cuối cùng đến máy chủ đồng bộ"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:79
+#, kde-format
+msgctxt "@title Form header for settings related to automatic syncing"
+msgid "Automatic syncing"
+msgstr "Đồng bộ tự động"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:89
+#, kde-format
+msgctxt "@option:check"
+msgid "Do full sync on startup"
+msgstr "Đồng bộ hóa đầy đủ khi khởi động"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:99
+#, kde-format
+msgctxt "@option:check"
+msgid "Do full sync when fetching podcasts"
+msgstr "Đồng bộ hóa đầy đủ khi tải về podcast"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:109
+#, kde-format
+msgctxt "@option:check"
+msgid "Upload episode play positions on play/pause toggle"
+msgstr "Tải lên vị trí phát tập phát khi bật/tắt phát"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:118
+#, kde-format
+msgctxt "@title Form header for advanced settings related to syncing"
+msgid "Advanced options"
+msgstr "Tùy chọn nâng cao"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:127
+#, kde-format
+msgctxt "@label"
+msgid "Fetch all episode states from server"
+msgstr "Tìm nạp tất cả trạng thái tập từ máy chủ"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:130
+#, kde-format
+msgctxt "@action:button"
+msgid "Fetch"
+msgstr "Tìm nạp"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:142
+#, kde-format
+msgctxt "@label"
+msgid "Push all local episode states to server"
+msgstr "Đẩy tất cả trạng thái tập tin cục bộ lên máy chủ"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:146
+#, kde-format
+msgctxt "@action:button"
+msgid "Push"
+msgstr "Nhấn"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:184
+#, kde-format
+msgctxt "@label"
+msgid "Push all local episode states to server?"
+msgstr "Đẩy tất cả trạng thái tập phát sóng cục bộ lên máy chủ?"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:204
+#, kde-format
+msgctxt "@label"
+msgid ""
+"Please note that pushing the playback state of all local episodes to the "
+"server might take a very long time and/or might overload the server. Also "
+"note that this action will overwrite all existing episode states on the "
+"server.\n"
+"\n"
+"Continue?"
+msgstr ""
+"Vui lòng lưu ý rằng việc đẩy trạng thái phát lại của tất cả các tập địa "
+"phương lên máy chủ có thể mất rất nhiều thời gian và/hoặc có thể làm quá "
+"tải máy chủ. Cũng lưu ý rằng hành động này sẽ ghi đè lên tất cả các trạng "
+"thái tập hiện có trên máy chủ.\n\nBạn có muốn tiếp tục?"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:228
+#, kde-format
+msgctxt "@label"
+msgid "Select Sync Provider"
+msgstr "Chọn Nhà Cung Cấp Đồng Bộ"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:240
+#, kde-format
+msgctxt "@label"
+msgid "gpodder.net"
+msgstr "gpodder.net"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:241
+#, kde-format
+msgctxt "@label"
+msgid "Synchronize with official gpodder.net server"
+msgstr "Đồng bộ với máy chủ chính thức gpodder.net"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:244
+#, kde-format
+msgctxt "@label"
+msgid "GPodder Nextcloud"
+msgstr "GPodder Nextcloud"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:245
+#, kde-format
+msgctxt "@label"
+msgid "Synchronize with GPodder Nextcloud app"
+msgstr "Đồng bộ với ứng dụng Nextcloud của GPodder"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:278
+#, kde-format
+msgctxt "@title of dialog box"
+msgid "Sync Login Credentials"
+msgstr "Đồng bộ hóa thông tin đăng nhập"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:307
+#, kde-format
+msgctxt "@label"
+msgid "Sync with GPodder Nextcloud app"
+msgstr "Đồng bộ với ứng dụng Nextcloud của GPodder"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:307
+#, kde-format
+msgctxt "@label"
+msgid "Sync with gpodder.net service"
+msgstr "Đồng bộ với dịch vụ gpodder.net"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:318
+#, kde-format
+msgctxt "@label argument is a weblink"
+msgid ""
+"Sync with a Nextcloud server that has the GPodder Sync app installed: %1.<br/"
+">It is advised to manually create an app password for Kasts through the web "
+"interface and use those credentials."
+msgstr ""
+"Đồng bộ với máy chủ Nextcloud có ứng dụng GPodder Sync cài đặt: "
+"%1.<br/>Khuyến nghị tạo mật khẩu ứng dụng cho Kasts thông qua giao diện web "
+"và sử dụng các thông tin đăng nhập đó."
+
+#: qml/Settings/SynchronizationSettingsPage.qml:319
+#, kde-format
+msgctxt "@label argument is a weblink"
+msgid "If you don't already have an account, you should first create one at %1"
+msgstr "Nếu bạn chưa có tài khoản, bạn nên tạo một tài khoản tại %1 trước"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:331
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Username:"
+msgstr "Tên người dùng:"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:342
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Password:"
+msgstr "Mật khẩu:"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:357
+#, kde-format
+msgctxt "@option:check"
+msgid "Use custom server"
+msgstr "Sử dụng máy chủ tự chọn"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:362
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Hostname:"
+msgstr "Tên máy chủ:"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:396
+#, kde-format
+msgctxt "@title"
+msgid "Sync Device Settings"
+msgstr "Thiết lập Đồng bộ Thiết bị"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:402
+#, kde-format
+msgctxt "@action:button"
+msgid "Create a new device"
+msgstr "Tạo thiết bị mới"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:408
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Device Name:"
+msgstr "Tên thiết bị:"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:418
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Device Description:"
+msgstr "Mô tả thiết bị:"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:427
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Device Type:"
+msgstr "Loại thiết bị:"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:434
+#, kde-format
+msgctxt "@item:inlistbox type of device"
+msgid "other"
+msgstr "khác"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:435
+#, kde-format
+msgctxt "@item:inlistbox type of device"
+msgid "desktop"
+msgstr "máy tính, bàn làm việc, desktop"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:436
+#, kde-format
+msgctxt "@item:inlistbox type of device"
+msgid "laptop"
+msgstr "máy tính xách tay"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:437
+#, kde-format
+msgctxt "@item:inlistbox type of device"
+msgid "server"
+msgstr "máy chủ"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:438
+#, kde-format
+msgctxt "@item:inlistbox type of device"
+msgid "mobile"
+msgstr "di động"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:443
+#, kde-format
+msgctxt "@action:button"
+msgid "Create Device"
+msgstr "Tạo thiết bị"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:460
+#, kde-format
+msgctxt "@label"
+msgid "or select an existing device"
+msgstr "hoặc chọn một thiết bị hiện có"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:508
+#, kde-format
+msgctxt "@title of dialog box"
+msgid "Device Sync Settings"
+msgstr "Thiết lập đồng bộ thiết bị"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:530
+#, kde-format
+msgctxt "@label"
+msgid ""
+"Should all podcast subscriptions on this gpodder.net account be synced "
+"across all devices?\n"
+"If you don't know what this means, you should probably select \"Ok\"."
+msgstr ""
+"Tất cả các đăng ký podcast trên tài khoản gpodder.net này có nên được đồng "
+"bộ hóa trên tất cả các thiết bị không?\nNếu bạn không biết điều này có "
+"nghĩa là gì, bạn nên chọn \"Ok\"."
+
+#: qml/Settings/SynchronizationSettingsPage.qml:552
+#, kde-format
+msgctxt "@title of dialog box"
+msgid "Sync Now?"
+msgstr "Đồng bộ ngay?"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:572
+#, kde-format
+msgctxt "@label"
+msgid "Perform a first sync now?"
+msgstr "Thực hiện đồng bộ lần đầu ngay?"
+
+#: qml/SleepTimerDialog.qml:17
+#, kde-format
+msgid "Sleep Timer"
+msgstr "Hẹn giờ ngủ"
+
+#: qml/SleepTimerDialog.qml:27
+#, kde-format
+msgid "Start"
+msgstr "Khởi động"
+
+#: qml/SleepTimerDialog.qml:54
+#, kde-format
+msgid "Status: Active"
+msgstr "Trạng thái: Hoạt động"
+
+#: qml/SleepTimerDialog.qml:54
+#, kde-format
+msgid "Status: Inactive"
+msgstr "Trạng thái: Bất hoạt"
+
+#: qml/SleepTimerDialog.qml:60
+#, kde-format
+msgid "Remaining time: %1"
+msgstr "Thời gian còn lại: %1"
+
+#: qml/SleepTimerDialog.qml:77
+#, kde-format
+msgid "Seconds"
+msgstr "Giây"
+
+#: qml/SleepTimerDialog.qml:78
+#, kde-format
+msgid "Minutes"
+msgstr "Phút"
+
+#: qml/SleepTimerDialog.qml:79
+#, kde-format
+msgid "Hours"
+msgstr "Giờ"
+
+#: qml/SyncPasswordOverlay.qml:25
+#, kde-format
+msgid "Sync Password Required"
+msgstr "Yêu cầu mật khẩu đồng bộ"
+
+#: qml/SyncPasswordOverlay.qml:49
+#, kde-format
+msgid ""
+"The password for user \"%1\" on Nextcloud server \"%2\" could not be "
+"retrieved."
+msgstr ""
+"Không thể lấy được mật khẩu của người dùng \"%1\" trên máy chủ Nextcloud "
+"\"%2\"."
+
+#: qml/SyncPasswordOverlay.qml:50
+#, kde-format
+msgid "The password for user \"%1\" on \"gpodder.net\" could not be retrieved."
+msgstr "Không thể lấy được mật khẩu cho người dùng \"%1\" trên \"gpodder.net\"."
+
+#: qml/SyncPasswordOverlay.qml:57
+#, kde-format
+msgid "Password:"
+msgstr "Mật khẩu:"
+
+#: qml/UpdateNotification.qml:90 qml/UpdateNotification.qml:91
+#, kde-format
+msgid "Abort"
+msgstr "Huỷ bỏ"
+
+#: qml/VolumeSlider.qml:47
+#, kde-format
+msgctxt "Volume as a percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: sync/sync.cpp:178
+#, kde-format
+msgid "Never"
+msgstr "Không bao giờ"
+
+#: sync/sync.cpp:201
+#, kde-format
+msgctxt ""
+"Suggested description for this device on gpodder sync service; argument is "
+"the hostname"
+msgid "Kasts on %1"
+msgstr "Kasts trên %1"
+
+#: sync/sync.cpp:295
+#, kde-format
+msgid "Could not log into GPodder-nextcloud server"
+msgstr "Không thể đăng nhập vào máy chủ GPodder-nextcloud"
+
+#: sync/sync.cpp:334
+#, kde-format
+msgid "Could not log into GPodder server"
+msgstr "Không thể đăng nhập vào máy chủ GPodder"
+
+#: sync/sync.cpp:486 sync/sync.cpp:487
+#, kde-format
+msgid "I/O denied: Cannot save password."
+msgstr "I/O bị từ chối: Không thể lưu mật khẩu."
+
+#: sync/sync.cpp:567 sync/sync.cpp:568
+#, kde-format
+msgid "I/O denied: Cannot access password file."
+msgstr "I/O bị từ chối: Không thể truy cập tệp mật khẩu."
+
+#: sync/sync.cpp:650
+#, kde-format
+msgid "Could not create GPodder device"
+msgstr "Không thể tạo thiết bị GPodder"
+
+#: sync/sync.cpp:676
+#, kde-format
+msgid "Could not retrieve synced device status"
+msgstr "Không thể lấy trạng thái thiết bị được đồng bộ"
+
+#: sync/sync.cpp:727
+#, kde-format
+msgid "Could not retrieve subscriptions for device %1"
+msgstr "Không thể lấy được các đăng ký cho thiết bị %1"
+
+#: sync/sync.cpp:746
+#, kde-format
+msgid "Could not upload subscriptions for device %1"
+msgstr "Không thể tải lên các đăng ký cho thiết bị %1"
+
+#: sync/syncjob.cpp:67
+#, kde-format
+msgid "Could not retrieve subscription updates from server"
+msgstr "Không thể lấy được cập nhật theo dõi từ máy chủ"
+
+#: sync/syncjob.cpp:70
+#, kde-format
+msgid "Could not upload subscription changes to server"
+msgstr "Không thể tải lên các thay đổi theo dõi lên máy chủ"
+
+#: sync/syncjob.cpp:73
+#, kde-format
+msgid "Could not retrieve episode updates from server"
+msgstr "Không thể lấy được bản cập nhật tập phim từ máy chủ"
+
+#: sync/syncjob.cpp:76
+#, kde-format
+msgid "Could not upload episode updates to server"
+msgstr "Không thể tải lên các bản cập nhật tập phim lên máy chủ"
+
+#: sync/syncjob.cpp:79
+#, kde-format
+msgid "Internal data error"
+msgstr "Lỗi dữ liệu nội bộ"
+
+#: sync/syncjob.cpp:884
+#, kde-format
+msgctxt "Subscription/Episode sync progress step"
+msgid "(Step %1 of %2) Start sync"
+msgstr "(Bước %1 trên %2) Bắt đầu đồng bộ"
+
+#: sync/syncjob.cpp:887
+#, kde-format
+msgctxt "Subscription/Episode sync progress step"
+msgid "(Step %1 of %2) Requesting remote subscription updates"
+msgstr "(Bước %1 của %2) Đang yêu cầu cập nhật theo dõi từ xa"
+
+#: sync/syncjob.cpp:890
+#, kde-format
+msgctxt "Subscription/Episode sync progress step"
+msgid "(Step %1 of %2) Uploading local subscription updates"
+msgstr "(Bước %1 của %2) Đang tải lên các bản cập nhật theo dõi cục bộ"
+
+#: sync/syncjob.cpp:894
+#, kde-format
+msgctxt "Subscription/Episode sync progress step"
+msgid "(Step %3 of %4) Updated %2 of %1 podcast"
+msgid_plural "(Step %3 of %4) Updated %2 of %1 podcasts"
+msgstr[0] "(%3 trên %4) Đã cập nhật %2 trong số %1 podcast"
+
+#: sync/syncjob.cpp:902
+#, kde-format
+msgctxt "Subscription/Episode sync progress step"
+msgid "(Step %1 of %2) Requesting remote episode updates"
+msgstr "(Bước %1 của %2) Yêu cầu cập nhật tập phim từ xa"
+
+#: sync/syncjob.cpp:905
+#, kde-format
+msgctxt "Subscription/Episode sync progress step"
+msgid "(Step %1 of %2) Applying remote episode changes"
+msgstr "(Bước %1 của %2) Áp dụng các thay đổi tập tin từ xa"
+
+#: sync/syncjob.cpp:908
+#, kde-format
+msgctxt "Subscription/Episode sync progress step"
+msgid "(Step %1 of %2) Uploading local episode updates"
+msgstr "(Bước %1 trên %2) Đang tải lên các bản cập nhật tập phim cục bộ"
+
+#: sync/syncjob.cpp:911
+#, kde-format
+msgctxt "Subscription/Episode sync progress step"
+msgid "(Step %1 of %2) Finished sync"
+msgstr "(%1 trên %2) Đã hoàn thành đồng bộ"
+
+#: sync/syncjob.cpp:914
+#, kde-format
+msgctxt "Subscription/Episode sync progress step"
+msgid "Sync aborted"
+msgstr "Đồng bộ hóa bị hủy bỏ"
+
+#: sync/syncjob.cpp:918
+#, kde-format
+msgctxt "Subscription/Episode sync progress step"
+msgid "Sync finished with error"
+msgstr "Đồng bộ hoàn tất với lỗi"
+
+#: utils/enclosuredownloadjob.cpp:33
+#, kde-format
+msgid "Downloading %1"
+msgstr "Đang tải về %1"
+
+#: utils/storagemanager.cpp:90
+#, kde-format
+msgid "Old location:"
+msgstr "Vị trí cũ:"
+
+#: utils/storagemanager.cpp:90
+#, kde-format
+msgid "New location:"
+msgstr "Vị trí mới:"
+
+#: utils/storagemovejob.cpp:58
+#, kde-format
+msgid "Destination path not writable"
+msgstr "Đường dẫn đích không thể ghi"
+
+#: utils/storagemovejob.cpp:75 utils/storagemovejob.cpp:96
+#, kde-format
+msgid "Operation aborted by user"
+msgstr "Thao tác bị người dùng huỷ bỏ"
+
+#: utils/storagemovejob.cpp:112
+#, kde-format
+msgid "An error occurred while copying data"
+msgstr "Đã xảy ra lỗi khi sao chép dữ liệu"
+
+#: utils/systrayicon.cpp:25
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Kasts\n"
+"Middle-click to play/pause"
+msgstr "Kasts\nNhấp chuột giữa để phát/tạm dừng"
+
+#: utils/systrayicon.cpp:51
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Seek Backward"
+msgstr "Tua lùi"
+
+#: utils/systrayicon.cpp:63
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Play"
+msgstr "Phát"
+
+#: utils/systrayicon.cpp:71
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Pause"
+msgstr "Tạm dừng"
+
+#: utils/systrayicon.cpp:90
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Seek Forward"
+msgstr "Tua về phía trước"
+
+#: utils/systrayicon.cpp:102
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Skip Forward"
+msgstr "Bỏ qua về phía trước"
+
+#: utils/systrayicon.cpp:117
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Quit"
+msgstr "Thoát"

@@ -1,0 +1,177 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the bomber package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bomber\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-04-29 00:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: src/bomber.cpp:38 src/bomber.cpp:179
+#, kde-format
+msgctxt "Used to display the current level of play to the user"
+msgid "Level: %1"
+msgstr "Cấp độ: %1"
+
+#: src/bomber.cpp:40 src/bomber.cpp:185
+#, kde-format
+msgctxt "Used to inform the user of their current score"
+msgid "Score: %1"
+msgstr "Điểm số: %1"
+
+#: src/bomber.cpp:42 src/bomber.cpp:192
+#, kde-format
+msgctxt "Used to tell the user how many lives they have left"
+msgid "Lives: %1"
+msgstr "Mạng sống: %1"
+
+#: src/bomber.cpp:83
+#, kde-format
+msgctxt "@option:check"
+msgid "Play Sounds"
+msgstr "Phát Âm Thanh"
+
+#: src/bomber.cpp:88
+#, kde-format
+msgctxt "@action"
+msgid "&Drop Bomb"
+msgstr "Thả Bo&m"
+
+#: src/bomber.cpp:89
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Drop bomb"
+msgstr "Thả bom"
+
+#: src/bomber.cpp:90
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Makes the plane drop a bomb while flying."
+msgstr "Khiến máy bay thả bom khi đang bay."
+
+#: src/bomber.cpp:134
+#, kde-format
+msgctxt ""
+"Message displayed when player tries to quit a game that is currently running"
+msgid "Do you really want to close the running game?"
+msgstr "Bạn có thực sự muốn đóng trò chơi đang chạy?"
+
+#: src/bomber.cpp:165
+#, kde-format
+msgid ""
+"Congratulations!\n"
+"You made it into the hall of fame."
+msgstr "Chúc mừng!\nBạn đã vào Danh sách Danh vọng."
+
+#: src/bomber.cpp:169
+#, kde-format
+msgid "You gained a score of %1 point."
+msgid_plural "You gained a score of %1 points."
+msgstr[0] "Bạn đã đạt được %1 điểm."
+
+#: src/bomber.cpp:170
+#, kde-format
+msgctxt "@title:window"
+msgid "End of Game"
+msgstr "Kết thúc bàn chơi"
+
+#: src/bomber.cpp:208
+#, kde-format
+msgctxt "Game over messaged displayed in the status bar"
+msgid "Game over. Press '%1' for a new game"
+msgstr "Kết thúc trò chơi. Nhấn '%1' để bắt đầu một trò chơi mới"
+
+#. i18n: ectx: label, entry (PlaySounds), group (Sound)
+#: src/bomber.kcfg:9
+#, kde-format
+msgid "Whether game sounds are played."
+msgstr "Liệu âm thanh trò chơi có được phát hay không."
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: src/bomberui.rc:14
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Thanh công cụ chính"
+
+#: src/bomberwidget.cpp:310
+#, kde-format
+msgctxt "Message show to the user when the game is loaded"
+msgid ""
+"Welcome to Bomber.\n"
+"Click to start a game"
+msgstr "Chào mừng đến Bomber.\nBấm để khởi động bàn chơi"
+
+#: src/bomberwidget.cpp:313
+#, kde-format
+msgctxt "Message show to the user while the game is paused"
+msgid "Paused"
+msgstr "Đã tạm dừng"
+
+#: src/bomberwidget.cpp:316
+#, kde-format
+msgctxt "Message telling user which level they just completed"
+msgid "You have successfully cleared level %1\n"
+msgstr "Bạn đã hoàn thành thành công cấp độ %1\n"
+
+#: src/bomberwidget.cpp:317
+#, kde-format
+msgctxt "Message telling user which level they are about to start"
+msgid "On to level %1."
+msgstr "Đến cấp độ %1."
+
+#: src/bomberwidget.cpp:320
+#, kde-format
+msgctxt "Used to tell the user that the game is over"
+msgid "Game over."
+msgstr "Kết thúc bàn chơi."
+
+#: src/main.cpp:27
+#, kde-format
+msgid "Bomber"
+msgstr "Bomber"
+
+#: src/main.cpp:29
+#, kde-format
+msgid "Arcade bombing game"
+msgstr "Trò chơi bắn phá arcade"
+
+#: src/main.cpp:30
+#, kde-format
+msgid "(C) 2007 John-Paul Stanford"
+msgstr "(C) 2007 John-Paul Stanford"
+
+#: src/main.cpp:33
+#, kde-format
+msgid "John-Paul Stanford"
+msgstr "John-Paul Stanford"
+
+#: src/main.cpp:35
+#, kde-format
+msgid "Mehmet Emre"
+msgstr "Mehmet Emre"
+
+#: src/main.cpp:35
+#, kde-format
+msgid "Porting to QGraphicsView."
+msgstr "Chuyển sang QGraphicsView."

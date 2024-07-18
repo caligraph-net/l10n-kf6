@@ -22,7 +22,7 @@ msgstr ""
 #: khtmlsettingsplugin.rc:4
 #, kde-format
 msgid "&Tools"
-msgstr ""
+msgstr "&Công cụ"
 
 #. i18n: ectx: ToolBar (extraToolBar)
 #: khtmlsettingsplugin.rc:8
@@ -91,22 +91,22 @@ msgid "&Offline Browsing Mode"
 msgstr "Chế độ duyệt ng&oại tuyến"
 
 #: settingsplugin.cpp:170
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "I can't enable cookies, because the cookie daemon could not be started."
 msgid ""
 "The cookie setting could not be changed, because the cookie daemon could not "
 "be contacted."
 msgstr ""
-"Không thể bật khả năng sử dụng tệp duy trì thông tin đặc trưng cho chỗ Mạng "
-"(cookie) vì không thể khởi chạy trình nền cookie."
+"Không thể thay đổi thiết lập cookie vì không thể liên lạc với trình nền "
+"cookie."
 
 #: settingsplugin.cpp:172
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Cookies Disabled"
 msgctxt "@title:window"
 msgid "Cookie Settings Unavailable"
-msgstr "Cookie bị tắt"
+msgstr "Thiết lập Bánh Quy Không Khả Dụng"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"

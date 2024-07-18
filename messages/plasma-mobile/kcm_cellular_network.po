@@ -1,0 +1,1012 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-mobile package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-mobile\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-30 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: modem.cpp:130
+#, kde-format
+msgid "Error resetting the modem: %1"
+msgstr "Lỗi khi đặt lại modem: %1"
+
+#: modem.cpp:264 modem.cpp:436
+#, kde-format
+msgid "Error updating connection settings for %1: %2."
+msgstr "Lỗi cập nhật thiết lập kết nối cho %1: %2."
+
+#: modem.cpp:342
+#, kde-format
+msgid "Error activating connection: %1"
+msgstr "Lỗi khi kích hoạt kết nối: %1"
+
+#: modem.cpp:380
+#, kde-format
+msgid "Error adding connection: %1"
+msgstr "Lỗi khi thêm kết nối: %1"
+
+#: modem.cpp:397
+#, kde-format
+msgid "Error removing connection: %1"
+msgstr "Lỗi khi xóa kết nối: %1"
+
+#: modem.cpp:522 modemdetails.cpp:118 modemdetails.cpp:220 modemdetails.cpp:252
+#: modemdetails.cpp:428 modemdetails.cpp:458
+#, kde-format
+msgid "Unknown"
+msgstr "không rõ"
+
+#: modem.cpp:524
+#, kde-format
+msgid "Unmanaged"
+msgstr "Không được quản lý"
+
+#: modem.cpp:526
+#, kde-format
+msgid "Unavailable"
+msgstr "Không khả dụng"
+
+#: modem.cpp:528
+#, kde-format
+msgid "Disconnected"
+msgstr "Đã ngắt kết nối"
+
+#: modem.cpp:530
+#, kde-format
+msgid "Preparing"
+msgstr "Đang chuẩn bị"
+
+#: modem.cpp:532
+#, kde-format
+msgid "ConfiguringHardware"
+msgstr "Đang cấu hình phần cứng"
+
+#: modem.cpp:534
+#, kde-format
+msgid "NeedAuth"
+msgstr "Cần xác thực"
+
+#: modem.cpp:536
+#, kde-format
+msgid "ConfiguringIp"
+msgstr "Đang cấu hình IP"
+
+#: modem.cpp:538
+#, kde-format
+msgid "CheckingIp"
+msgstr "Đang kiểm tra IP"
+
+#: modem.cpp:540
+#, kde-format
+msgid "WaitingForSecondaries"
+msgstr "Đang chờ các thiết bị phụ"
+
+#: modem.cpp:542
+#, kde-format
+msgid "Activated"
+msgstr "Đã kích hoạt"
+
+#: modem.cpp:544
+#, kde-format
+msgid "Deactivating"
+msgstr "Đang vô hiệu hóa"
+
+#: modem.cpp:546 modemdetails.cpp:250
+#, kde-format
+msgid "Failed"
+msgstr "Thất bại"
+
+#: modemdetails.cpp:121 modemdetails.cpp:461
+#, kde-format
+msgid "POTS"
+msgstr "POTS"
+
+#: modemdetails.cpp:124
+#, kde-format
+msgid "GSM"
+msgstr "GSM"
+
+#: modemdetails.cpp:127
+#, kde-format
+msgid "GSM Compact"
+msgstr "GSM Compact"
+
+#: modemdetails.cpp:130
+#, kde-format
+msgid "GPRS"
+msgstr "GPRS"
+
+#: modemdetails.cpp:133
+#, kde-format
+msgid "EDGE"
+msgstr "EDGE"
+
+#: modemdetails.cpp:136
+#, kde-format
+msgid "UMTS"
+msgstr "UMTS"
+
+#: modemdetails.cpp:139
+#, kde-format
+msgid "HSDPA"
+msgstr "HSDPA"
+
+#: modemdetails.cpp:142
+#, kde-format
+msgid "HSUPA"
+msgstr "HSUPA"
+
+#: modemdetails.cpp:145
+#, kde-format
+msgid "HSPA"
+msgstr "HSPA"
+
+#: modemdetails.cpp:148
+#, kde-format
+msgid "HSPA+"
+msgstr "HSPA+"
+
+#: modemdetails.cpp:151
+#, kde-format
+msgid "CDMA2000 1xRTT"
+msgstr "CDMA2000 1xRTT"
+
+#: modemdetails.cpp:154
+#, kde-format
+msgid "CDMA2000 EVDO-0"
+msgstr "CDMA2000 EVDO-0"
+
+#: modemdetails.cpp:157
+#, kde-format
+msgid "CDMA2000 EVDO-A"
+msgstr "CDMA2000 EVDO-A"
+
+#: modemdetails.cpp:160
+#, kde-format
+msgid "CDMA2000 EVDO-B"
+msgstr "CDMA2000 EVDO-B"
+
+#: modemdetails.cpp:163
+#, kde-format
+msgid "LTE"
+msgstr "LTE"
+
+#: modemdetails.cpp:166
+#, kde-format
+msgid "5GNR"
+msgstr "5GNR"
+
+#: modemdetails.cpp:222
+#, kde-format
+msgid "Off"
+msgstr "Tắt"
+
+#: modemdetails.cpp:224
+#, kde-format
+msgid "Low-power mode"
+msgstr "Chế độ tiết kiệm điện"
+
+#: modemdetails.cpp:226
+#, kde-format
+msgid "Full power mode"
+msgstr "Chế độ nguồn điện đầy đủ"
+
+#: modemdetails.cpp:254
+#, kde-format
+msgid "Initializing"
+msgstr "Đang khởi tạo"
+
+#: modemdetails.cpp:256 ui/SimPage.qml:118
+#, kde-format
+msgid "Locked"
+msgstr "Đã khóa"
+
+#: modemdetails.cpp:258
+#, kde-format
+msgid "Disabled"
+msgstr "Tắt"
+
+#: modemdetails.cpp:260
+#, kde-format
+msgid "Disabling"
+msgstr "Đang tắt"
+
+#: modemdetails.cpp:262
+#, kde-format
+msgid "Enabling"
+msgstr "Đang kích hoạt"
+
+#: modemdetails.cpp:264 ui/ModemPage.qml:83
+#, kde-format
+msgid "Enabled"
+msgstr "Bật"
+
+#: modemdetails.cpp:266
+#, kde-format
+msgid "Searching for network provider"
+msgstr "Đang tìm kiếm nhà cung cấp mạng"
+
+#: modemdetails.cpp:268
+#, kde-format
+msgid "Registered with network provider"
+msgstr "Đã đăng ký với nhà cung cấp mạng"
+
+#: modemdetails.cpp:270
+#, kde-format
+msgid "Disconnecting"
+msgstr "Đang ngắt kết nối"
+
+#: modemdetails.cpp:272
+#, kde-format
+msgid "Connecting"
+msgstr "Đang kết nối"
+
+#: modemdetails.cpp:274
+#, kde-format
+msgid "Connected"
+msgstr "Đã kết nối"
+
+#: modemdetails.cpp:283
+#, kde-format
+msgid "No error."
+msgstr "Không có lỗi."
+
+#: modemdetails.cpp:285
+#, kde-format
+msgid "Unknown error."
+msgstr "Lỗi không rõ."
+
+#: modemdetails.cpp:287
+#, kde-format
+msgid "SIM is required but missing."
+msgstr "Cần có SIM nhưng không có."
+
+#: modemdetails.cpp:289
+#, kde-format
+msgid "SIM is available but unusable."
+msgstr "SIM hiện có nhưng không thể sử dụng."
+
+#: modemdetails.cpp:312
+#, kde-format
+msgid "Not registered, not searching for new operator to register."
+msgstr "Chưa đăng ký, không tìm kiếm nhà khai thác mới để đăng ký."
+
+#: modemdetails.cpp:314
+#, kde-format
+msgid "Registered on home network."
+msgstr "Đã đăng ký vào mạng gia đình."
+
+#: modemdetails.cpp:316
+#, kde-format
+msgid "Not registered, searching for new operator to register with."
+msgstr "Chưa đăng ký, đang tìm kiếm nhà khai thác mới để đăng ký."
+
+#: modemdetails.cpp:318
+#, kde-format
+msgid "Registration denied."
+msgstr "Đăng ký bị từ chối."
+
+#: modemdetails.cpp:320
+#, kde-format
+msgid "Unknown registration status."
+msgstr "Trạng thái đăng ký không rõ."
+
+#: modemdetails.cpp:322
+#, kde-format
+msgid "Registered on a roaming network."
+msgstr "Đã đăng ký trên mạng漫游."
+
+#: modemdetails.cpp:324
+#, kde-format
+msgid "Registered for \"SMS only\", on home network."
+msgstr "Đã đăng ký cho \"chỉ SMS\", trên mạng gia đình."
+
+#: modemdetails.cpp:326
+#, kde-format
+msgid "Registered for \"SMS only\", roaming network."
+msgstr "Đã đăng ký cho \"chỉ SMS\", mạng chuyển vùng."
+
+#: modemdetails.cpp:328
+#, kde-format
+msgid "Emergency services only."
+msgstr "Chỉ dành cho các dịch vụ khẩn cấp."
+
+#: modemdetails.cpp:330
+#, kde-format
+msgid "Registered for \"CSFB not preferred\", home network."
+msgstr "Đã đăng ký cho \"CSFB không được ưu tiên\", mạng gia đình."
+
+#: modemdetails.cpp:332
+#, kde-format
+msgid "Registered for \"CSFB not preferred\", roaming network."
+msgstr "Đã đăng ký cho \"CSFB không được ưu tiên\", mạng漫游."
+
+#: modemdetails.cpp:334
+#, kde-format
+msgid "Attached for access to Restricted Local Operator Services."
+msgstr "Được kết nối để truy cập các Dịch vụ Nhà điều hành Địa phương Hạn chế."
+
+#: modemdetails.cpp:373
+#, kde-format
+msgid "Scanning networks failed: %1"
+msgstr "Quét mạng không thành công: %1"
+
+#: modemdetails.cpp:430 ui/ModemPage.qml:176 ui/SimPage.qml:119
+#, kde-format
+msgid "Yes"
+msgstr "Có"
+
+#: modemdetails.cpp:432 ui/ModemPage.qml:176 ui/SimPage.qml:119
+#, kde-format
+msgid "No"
+msgstr "Không"
+
+#: modemdetails.cpp:434
+#, kde-format
+msgid "GuessYes"
+msgstr "Đoán Có"
+
+#: modemdetails.cpp:436
+#, kde-format
+msgid "GuessNo"
+msgstr "Đoán số"
+
+#: modemdetails.cpp:464 modemdetails.cpp:467 modemdetails.cpp:470
+#: modemdetails.cpp:473 ui/EditProfilePage.qml:63
+#, kde-format
+msgid "2G"
+msgstr "2G"
+
+#: modemdetails.cpp:476 modemdetails.cpp:479 modemdetails.cpp:482
+#: modemdetails.cpp:485 modemdetails.cpp:488 modemdetails.cpp:491
+#: modemdetails.cpp:494 modemdetails.cpp:497 modemdetails.cpp:500
+#, kde-format
+msgid "3G"
+msgstr "3G"
+
+#: modemdetails.cpp:503
+#, kde-format
+msgid "4G"
+msgstr "4G"
+
+#: modemdetails.cpp:506
+#, kde-format
+msgid "5G"
+msgstr "5G"
+
+#: modemdetails.cpp:509 ui/EditProfilePage.qml:63
+#, kde-format
+msgid "Any"
+msgstr "Bất kỳ"
+
+#: sim.cpp:74
+#, kde-format
+msgid "Lock reason unknown."
+msgstr "Lý do khóa không rõ."
+
+#: sim.cpp:76
+#, kde-format
+msgid "Modem is unlocked."
+msgstr "Bộ điều giải đã được mở khóa."
+
+#: sim.cpp:78
+#, kde-format
+msgid "SIM requires the PIN code."
+msgstr "SIM yêu cầu mã PIN."
+
+#: sim.cpp:80
+#, kde-format
+msgid "SIM requires the PIN2 code."
+msgstr "SIM yêu cầu mã PIN2."
+
+#: sim.cpp:82
+#, kde-format
+msgid "SIM requires the PUK code."
+msgstr "SIM yêu cầu mã PUK."
+
+#: sim.cpp:84
+#, kde-format
+msgid "SIM requires the PUK2 code."
+msgstr "SIM yêu cầu mã PUK2."
+
+#: sim.cpp:86
+#, kde-format
+msgid "Modem requires the service provider PIN code."
+msgstr "Bộ điều giải yêu cầu mã PIN của nhà cung cấp dịch vụ."
+
+#: sim.cpp:88
+#, kde-format
+msgid "Modem requires the service provider PUK code."
+msgstr "Bộ điều giải yêu cầu mã PUK của nhà cung cấp dịch vụ."
+
+#: sim.cpp:90
+#, kde-format
+msgid "Modem requires the network PIN code."
+msgstr "Bộ điều giải yêu cầu mã PIN mạng."
+
+#: sim.cpp:92
+#, kde-format
+msgid "Modem requires the network PUK code."
+msgstr "Bộ điều giải yêu cầu mã PUK của mạng."
+
+#: sim.cpp:94
+#, kde-format
+msgid "Modem requires the PIN code."
+msgstr "Bộ điều giải yêu cầu mã PIN."
+
+#: sim.cpp:96
+#, kde-format
+msgid "Modem requires the corporate PIN code."
+msgstr "Bộ điều giải yêu cầu mã PIN doanh nghiệp."
+
+#: sim.cpp:98
+#, kde-format
+msgid "Modem requires the corporate PUK code."
+msgstr "Bộ điều giải yêu cầu mã PUK doanh nghiệp."
+
+#: sim.cpp:100
+#, kde-format
+msgid "Modem requires the PH-FSIM PIN code."
+msgstr "Bộ điều giải yêu cầu mã PIN PH-FSIM."
+
+#: sim.cpp:102
+#, kde-format
+msgid "Modem requires the PH-FSIM PUK code."
+msgstr "Bộ điều giải yêu cầu mã PUK PH-FSIM."
+
+#: sim.cpp:104
+#, kde-format
+msgid "Modem requires the network subset PIN code."
+msgstr "Bộ điều giải yêu cầu mã PIN của tập con mạng."
+
+#: sim.cpp:106
+#, kde-format
+msgid "Modem requires the network subset PUK code."
+msgstr "Bộ điều giải yêu cầu mã PUK của tập con mạng."
+
+#: sim.cpp:150
+#, kde-format
+msgid "(empty)"
+msgstr "(trống)"
+
+#: sim.cpp:164
+#, kde-format
+msgid "Error toggling SIM lock: %1"
+msgstr "Lỗi khi chuyển đổi khóa SIM: %1"
+
+#: sim.cpp:173
+#, kde-format
+msgid "Error changing the PIN: %1"
+msgstr "Lỗi khi thay đổi mã PIN: %1"
+
+#: sim.cpp:186
+#, kde-format
+msgid "Error sending the PIN: %1"
+msgstr "Lỗi khi gửi mã PIN: %1"
+
+#: sim.cpp:199
+#, kde-format
+msgid "Error sending the PUK: %1"
+msgstr "Lỗi khi gửi PUK: %1"
+
+#: ui/AvailableNetworks.qml:16
+#, kde-format
+msgid "Available Networks"
+msgstr "Mạng khả dụng"
+
+#: ui/AvailableNetworks.qml:40
+#, kde-format
+msgid "none"
+msgstr "không có"
+
+#: ui/AvailableNetworks.qml:40
+#, kde-format
+msgid "Current operator: %1"
+msgstr "Nhà mạng hiện tại: %1"
+
+#: ui/AvailableNetworks.qml:43
+#, kde-format
+msgid "Scan For Networks"
+msgstr "Quét Tìm Mạng"
+
+#: ui/EditProfilePage.qml:15
+#, kde-format
+msgid "Edit APN"
+msgstr "Sửa APN"
+
+#: ui/EditProfilePage.qml:15
+#, kde-format
+msgid "New APN"
+msgstr "Mạng APN mới"
+
+#: ui/EditProfilePage.qml:30
+#, kde-format
+msgid "Name"
+msgstr "Tên"
+
+#: ui/EditProfilePage.qml:38
+#, kde-format
+msgid "APN"
+msgstr "APN"
+
+#: ui/EditProfilePage.qml:46
+#, kde-format
+msgid "Username"
+msgstr "Tên người dùng"
+
+#: ui/EditProfilePage.qml:54
+#, kde-format
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: ui/EditProfilePage.qml:62
+#, kde-format
+msgid "Network type"
+msgstr "Kiểu mạng"
+
+#: ui/EditProfilePage.qml:63
+#, kde-format
+msgid "4G/3G/2G"
+msgstr "4G/3G/2G"
+
+#: ui/EditProfilePage.qml:63
+#, kde-format
+msgid "3G/2G"
+msgstr "3G/2G"
+
+#: ui/EditProfilePage.qml:63
+#, kde-format
+msgid "Only 4G"
+msgstr "Chỉ 4G"
+
+#: ui/EditProfilePage.qml:63
+#, kde-format
+msgid "Only 3G"
+msgstr "Chỉ 3G"
+
+#: ui/EditProfilePage.qml:63
+#, kde-format
+msgid "Only 2G"
+msgstr "Chỉ 2G"
+
+#: ui/EditProfilePage.qml:75
+#, kde-format
+msgid "Save profile"
+msgstr "Lưu hồ sơ"
+
+#: ui/main.qml:52
+#, kde-format
+msgid "Modem not available"
+msgstr "Bộ điều giải không khả dụng"
+
+#: ui/main.qml:71
+#, kde-format
+msgid "Mobile data"
+msgstr "Dữ liệu di động"
+
+#: ui/main.qml:76
+#, kde-format
+msgid "No SIM is inserted."
+msgstr "Không có SIM được lắp."
+
+#: ui/main.qml:78
+#, kde-format
+msgid "Mobile data is not available with this modem."
+msgstr "Dữ liệu di động không khả dụng với modem này."
+
+#: ui/main.qml:80
+#, kde-format
+msgid "An APN needs to be configured to have mobile data."
+msgstr "Cần cấu hình một APN để có dữ liệu di động."
+
+#: ui/main.qml:82
+#, kde-format
+msgid "Whether mobile data is enabled."
+msgstr "Xem liệu dữ liệu di động có được bật hay không."
+
+#: ui/main.qml:113
+#, kde-format
+msgid "Data Usage"
+msgstr "Sử dụng dữ liệu"
+
+#: ui/main.qml:114
+#, kde-format
+msgid "View data usage."
+msgstr "Xem mức sử dụng dữ liệu."
+
+#: ui/main.qml:122 ui/SimPage.qml:35
+#, kde-format
+msgid "SIM"
+msgid_plural "SIMs"
+msgstr[0] "SIMs"
+
+#: ui/main.qml:143
+#, kde-format
+msgid "SIM %1"
+msgstr "SIM %1"
+
+#: ui/main.qml:144
+#, kde-format
+msgid "View SIM %1 details."
+msgstr "Xem chi tiết SIM %1."
+
+#: ui/ModemPage.qml:20
+#, kde-format
+msgid "Modem %1"
+msgstr "Bộ điều giải %1"
+
+#: ui/ModemPage.qml:30
+#, kde-format
+msgid "Modem Control"
+msgstr "Điều khiển bộ điều giải"
+
+#: ui/ModemPage.qml:36
+#, kde-format
+msgid "Force Modem Restart"
+msgstr "Buộc khởi động lại bộ điều giải"
+
+#: ui/ModemPage.qml:42 ui/SimPage.qml:105
+#, kde-format
+msgid "Modem Details"
+msgstr "Chi tiết bộ điều giải"
+
+#: ui/ModemPage.qml:55
+#, kde-format
+msgid "Access Technologies"
+msgstr "Công nghệ truy cập"
+
+#: ui/ModemPage.qml:75
+#, kde-format
+msgid "IMEI"
+msgstr "IMEI"
+
+#: ui/ModemPage.qml:91
+#, kde-format
+msgid "Manufacturer"
+msgstr "Nhà sản xuất"
+
+#: ui/ModemPage.qml:99
+#, kde-format
+msgid "Model"
+msgstr "Mẫu"
+
+#: ui/ModemPage.qml:114
+#, kde-format
+msgid "Owned Numbers:"
+msgstr "Số thuộc sở hữu:"
+
+#: ui/ModemPage.qml:135
+#, kde-format
+msgid "Revision"
+msgstr "Tu bản"
+
+#: ui/ModemPage.qml:143
+#, kde-format
+msgid "Signal Quality"
+msgstr "Chất lượng tín hiệu"
+
+#: ui/ModemPage.qml:151
+#, kde-format
+msgid "State"
+msgstr "Trạng thái"
+
+#: ui/ModemPage.qml:159
+#, kde-format
+msgid "Failure Reason"
+msgstr "Lý do lỗi"
+
+#: ui/ModemPage.qml:167
+#, kde-format
+msgid "Registration State"
+msgstr "Trạng thái đăng ký"
+
+#: ui/ModemPage.qml:175
+#, kde-format
+msgid "Roaming"
+msgstr "漫游"
+
+#: ui/ModemPage.qml:183
+#, kde-format
+msgid "Firmware Version"
+msgstr "Phiên bản phần sụn"
+
+#: ui/ModemPage.qml:191
+#, kde-format
+msgid "Interface Name"
+msgstr "Tên giao diện"
+
+#: ui/ModemPage.qml:199
+#, kde-format
+msgid "Metered"
+msgstr "Có giới hạn"
+
+#: ui/ModemPage.qml:207
+#, kde-format
+msgid "Active NetworkManager Connection"
+msgstr "Kết nối NetworkManager đang hoạt động"
+
+#: ui/ModemPage.qml:215
+#, kde-format
+msgid "Device"
+msgstr "Thiết bị"
+
+#: ui/ModemPage.qml:223
+#, kde-format
+msgid "Device ID"
+msgstr "Mã định danh"
+
+#: ui/ModemPage.qml:238
+#, kde-format
+msgid "Drivers:"
+msgstr "Trình điều khiển:"
+
+#: ui/ModemPage.qml:258
+#, kde-format
+msgid "Plugin"
+msgstr "phần cài cắm"
+
+#: ui/ModemPage.qml:266
+#, kde-format
+msgid "Power State"
+msgstr "Trạng thái nguồn điện"
+
+#: ui/ModemPage.qml:274
+#, kde-format
+msgid "SIM Path"
+msgstr "Đường dẫn SIM"
+
+#: ui/ProfileList.qml:23
+#, kde-format
+msgid "APNs"
+msgstr "APNs"
+
+#: ui/ProfileList.qml:26 ui/ProfileList.qml:88
+#, kde-format
+msgid "Edit"
+msgstr "Sửa"
+
+#: ui/ProfileList.qml:53
+#, kde-format
+msgid ""
+"Unable to autodetect connection settings for your carrier. Please find your "
+"carrier's APN settings by either contacting support or searching online."
+msgstr ""
+"Không thể tự động phát hiện cài đặt kết nối cho nhà cung cấp dịch vụ của "
+"bạn. Vui lòng tìm thiết lập APN của nhà cung cấp dịch vụ bằng cách liên hệ "
+"với bộ phận hỗ trợ hoặc tìm kiếm trực tuyến."
+
+#: ui/ProfileList.qml:64
+#, kde-format
+msgid "APN List"
+msgstr "Danh sách APN"
+
+#: ui/ProfileList.qml:98
+#, kde-format
+msgid "Delete"
+msgstr "Xóa"
+
+#: ui/ProfileList.qml:107
+#, kde-format
+msgid "Add APN"
+msgstr "Thêm APN"
+
+#: ui/ProfileList.qml:115
+#, kde-format
+msgid "Automatically detect APN"
+msgstr "Tự động phát hiện APN"
+
+#: ui/SimLockPage.qml:19 ui/SimPage.qml:94
+#, kde-format
+msgid "SIM Lock"
+msgstr "Khóa SIM"
+
+#: ui/SimLockPage.qml:38
+#, kde-format
+msgid "SIM is locked"
+msgstr "SIM đã bị khóa"
+
+#: ui/SimLockPage.qml:39
+#, kde-format
+msgid "In order to use this SIM, you must first unlock it."
+msgstr "Để sử dụng SIM này, bạn phải mở khóa nó trước."
+
+#: ui/SimLockPage.qml:61
+#, kde-format
+msgid "SIM is not locked"
+msgstr "SIM không bị khóa"
+
+#: ui/SimLockPage.qml:62
+#, kde-format
+msgid ""
+"You can lock your SIM to require a set PIN code for phone calls and mobile "
+"data."
+msgstr ""
+"Bạn có thể khóa SIM của mình để yêu cầu mã PIN cài đặt trước cho các cuộc "
+"gọi điện thoại và dữ liệu di động."
+
+#: ui/SimLockPage.qml:66
+#, kde-format
+msgid "Lock SIM"
+msgstr "Khóa SIM"
+
+#: ui/SimLockPage.qml:78
+#, kde-format
+msgid "Disable SIM Lock"
+msgstr "Vô hiệu hóa Khóa SIM"
+
+#: ui/SimLockPage.qml:79
+#, kde-format
+msgid "Disable the SIM lock feature and remove the passcode on the SIM."
+msgstr "Vô hiệu hoá tính năng khóa SIM và xoá mã truy cập trên SIM."
+
+#: ui/SimLockPage.qml:91
+#, kde-format
+msgid "Change PIN"
+msgstr "Thay đổi mã PIN"
+
+#: ui/SimLockPage.qml:92
+#, kde-format
+msgid "Change the passcode set on the SIM."
+msgstr "Thay đổi mã PIN đặt trên SIM."
+
+#: ui/SimLockPage.qml:106
+#, kde-format
+msgid "Unlock SIM"
+msgstr "Mở khóa SIM"
+
+#: ui/SimLockPage.qml:114
+#, kde-format
+msgid "Attempts left: %1"
+msgstr "Số lần thử còn lại: %1"
+
+#: ui/SimLockPage.qml:118
+#, kde-format
+msgid "Enter PIN"
+msgstr "Nhập mã PIN"
+
+#: ui/SimLockPage.qml:126
+#, kde-format
+msgid "Change SIM PIN"
+msgstr "Thay đổi mã PIN SIM"
+
+#: ui/SimLockPage.qml:145 ui/SimLockPage.qml:210
+#, kde-format
+msgid "PINs don't match!"
+msgstr "Mã PIN không khớp!"
+
+#: ui/SimLockPage.qml:151 ui/SimLockPage.qml:216
+#, kde-format
+msgid "PINs must be between 4 and 8 digits!"
+msgstr "Mã PIN phải có từ 4 đến 8 chữ số!"
+
+#: ui/SimLockPage.qml:156 ui/SimLockPage.qml:183
+#, kde-format
+msgid "Current PIN"
+msgstr "Mã PIN hiện tại"
+
+#: ui/SimLockPage.qml:161 ui/SimLockPage.qml:221
+#, kde-format
+msgid "New PIN"
+msgstr "Mã PIN mới"
+
+#: ui/SimLockPage.qml:166 ui/SimLockPage.qml:226
+#, kde-format
+msgid "Confirm PIN"
+msgstr "Xác nhận PIN"
+
+#: ui/SimLockPage.qml:174
+#, kde-format
+msgid "Remove SIM PIN"
+msgstr "Xoá mã PIN SIM"
+
+#: ui/SimLockPage.qml:191
+#, kde-format
+msgid "Add SIM PIN"
+msgstr "Thêm mã PIN SIM"
+
+#: ui/SimPage.qml:45
+#, kde-format
+msgid ""
+"This SIM slot is empty, a SIM card needs to be inserted in order for it to "
+"be used."
+msgstr "Khe cắm SIM này trống, cần phải lắp thẻ SIM để có thể sử dụng."
+
+#: ui/SimPage.qml:60
+#, kde-format
+msgid "Data Roaming"
+msgstr "Dữ liệu Roaming"
+
+#: ui/SimPage.qml:61
+#, kde-format
+msgid "Allow your device to use networks other than your carrier."
+msgstr ""
+"Cho phép thiết bị của bạn sử dụng các mạng khác ngoài nhà cung cấp dịch vụ "
+"của bạn."
+
+#: ui/SimPage.qml:72
+#, kde-format
+msgid "Modify APNs"
+msgstr "Chỉnh sửa APN"
+
+#: ui/SimPage.qml:73
+#, kde-format
+msgid "Configure access point names for your carrier."
+msgstr "Cấu hình tên điểm truy cập cho nhà cung cấp của bạn."
+
+#: ui/SimPage.qml:83
+#, kde-format
+msgid "Networks"
+msgstr "Mạng"
+
+#: ui/SimPage.qml:84
+#, kde-format
+msgid "Select a network operator."
+msgstr "Chọn một nhà cung cấp mạng."
+
+#: ui/SimPage.qml:95
+#, kde-format
+msgid "Modify SIM lock settings."
+msgstr "Chỉnh sửa cài đặt khóa SIM."
+
+#: ui/SimPage.qml:106
+#, kde-format
+msgid "View the details of the modem this SIM is connected to."
+msgstr "Xem chi tiết về bộ điều giải mà SIM này được kết nối."
+
+#: ui/SimPage.qml:112
+#, kde-format
+msgid "SIM Details"
+msgstr "Chi tiết SIM"
+
+#: ui/SimPage.qml:126
+#, kde-format
+msgid "IMSI"
+msgstr "IMSI"
+
+#: ui/SimPage.qml:134
+#, kde-format
+msgid "EID"
+msgstr "EID"
+
+#: ui/SimPage.qml:142
+#, kde-format
+msgid "Operator Code (modem)"
+msgstr "Mã Nhà Điều Hành (modem)"
+
+#: ui/SimPage.qml:150
+#, kde-format
+msgid "Operator Name (modem)"
+msgstr "Tên Nhà Điều Hành (modem)"
+
+#: ui/SimPage.qml:158
+#, kde-format
+msgid "Operator Code (provided by SIM)"
+msgstr "Mã Nhà Điều Hành (do SIM cung cấp)"
+
+#: ui/SimPage.qml:166
+#, kde-format
+msgid "Operator Name (provided by SIM)"
+msgstr "Tên Nhà Điều Hành (do SIM cung cấp)"
+
+#: ui/SimPage.qml:174
+#, kde-format
+msgid "SIM ID"
+msgstr "mã định danh"
+
+#: ui/SimPage.qml:190
+#, kde-format
+msgid "Emergency Numbers"
+msgstr "Số điện thoại khẩn cấp"

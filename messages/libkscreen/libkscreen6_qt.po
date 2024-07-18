@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+
+#: getconfigoperation.cpp:62
+msgctxt "KScreen::GetConfigOperationPrivate|"
+msgid "Failed to prepare backend"
+msgstr "Không thể chuẩn bị hậu phương"
+
+#: getconfigoperation.cpp:87
+msgctxt "KScreen::GetConfigOperationPrivate|"
+msgid "Failed to deserialize backend response"
+msgstr "Không thể phân tích chuỗi hồi đáp của hậu phương"
+
+#: getconfigoperation.cpp:99
+msgctxt "KScreen::GetConfigOperationPrivate|"
+msgid "Backend invalidated"
+msgstr "Hậu phương không hợp lệ"
+
+#: setconfigoperation.cpp:58
+msgctxt "KScreen::SetConfigOperationPrivate|"
+msgid "Failed to prepare backend"
+msgstr "Không thể chuẩn bị hậu phương"
+
+#: setconfigoperation.cpp:65
+msgctxt "KScreen::SetConfigOperationPrivate|"
+msgid "Failed to serialize request"
+msgstr "Không thể chuyển đổi yêu cầu thành dạng chuỗi"
+
+#: setconfigoperation.cpp:89
+msgctxt "KScreen::SetConfigOperationPrivate|"
+msgid "Failed to deserialize backend response"
+msgstr "Không thể phân tích chuỗi hồi đáp của hậu phương"

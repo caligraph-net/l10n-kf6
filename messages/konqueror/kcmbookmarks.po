@@ -22,7 +22,7 @@ msgstr ""
 #: bookmarks.ui:16
 #, kde-format
 msgid "Bookmarks"
-msgstr ""
+msgstr "Dấu trang"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, cbShowRoot)
 #: bookmarks.ui:23
@@ -32,12 +32,15 @@ msgid ""
 "a folder) are not displayed.\n"
 "If checked, they are gathered in a \"root\" folder."
 msgstr ""
+"Nếu tùy chọn này không được chọn, các dấu trang ở gốc của cấu trúc phân cấp "
+"(không ở trong một thư mục) sẽ không được hiển thị.\nNếu được chọn, chúng "
+"sẽ được tập hợp trong một thư mục \"gốc\"."
 
 #. i18n: ectx: property (text), widget (QCheckBox, cbShowRoot)
 #: bookmarks.ui:26
 #, kde-format
 msgid "&Show bookmarks without folder"
-msgstr ""
+msgstr "Hiển thị dấu t&rang mà không có thư mục"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, cbFlattenTree)
 #: bookmarks.ui:37
@@ -48,12 +51,16 @@ msgid ""
 "It looks less nice but it may help if you have a very big folder you want to "
 "spread in two columns."
 msgstr ""
+"Các thư mục con được hiển thị trong thư mục cha mặc định. Nếu bạn kích hoạt "
+"tùy chọn này, các thư mục con sẽ được hiển thị riêng biệt.\nNó không đẹp "
+"mắt lắm nhưng có thể hữu ích nếu bạn có một thư mục rất lớn mà bạn muốn "
+"chia thành hai cột."
 
 #. i18n: ectx: property (text), widget (QCheckBox, cbFlattenTree)
 #: bookmarks.ui:40
 #, kde-format
 msgid "&Flatten bookmarks tree"
-msgstr ""
+msgstr "&Làm phẳng cây dấu trang"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, cbShowPlaces)
 #: bookmarks.ui:47
@@ -62,18 +69,20 @@ msgid ""
 "Show a box with KDE places (Home, Network, ...). Useful if you use konqueror "
 "as a file manager."
 msgstr ""
+"Hiển thị một hộp với các địa điểm của KDE (Trang chủ, Mạng, ...). Hữu ích "
+"nếu bạn sử dụng Konqueror làm trình quản lý tệp."
 
 #. i18n: ectx: property (text), widget (QCheckBox, cbShowPlaces)
 #: bookmarks.ui:50
 #, kde-format
 msgid "Show system &places"
-msgstr ""
+msgstr "Hiện t&hị các địa điểm hệ thống"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
 #: bookmarks.ui:63
 #, kde-format
 msgid "General Settings"
-msgstr ""
+msgstr "Thiết lập Chung"
 
 #. i18n: ectx: property (whatsThis), widget (QLabel, label)
 #: bookmarks.ui:71
@@ -83,60 +92,62 @@ msgid ""
 "of columns depends on the width of the konqueror window and the number of "
 "bookmarks you have."
 msgstr ""
+"Các thư mục được phân phối tự động vào nhiều cột. Số cột tối ưu phụ thuộc "
+"vào chiều rộng của cửa sổ Konqueror và số lượng dấu trang mà bạn có."
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: bookmarks.ui:74
 #, kde-format
 msgid "Number of columns to show:"
-msgstr ""
+msgstr "Số cột hiển thị:"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, cbShowBackgrounds)
 #: bookmarks.ui:109
 #, kde-format
 msgid "Disable it on slow system to disable background images."
-msgstr ""
+msgstr "Tắt nó trên hệ thống chậm để tắt hình nền."
 
 #. i18n: ectx: property (text), widget (QCheckBox, cbShowBackgrounds)
 #: bookmarks.ui:112
 #, kde-format
 msgid "Show folder &backgrounds"
-msgstr ""
+msgstr "Hiển thị nền thư mụ&c"
 
 #. i18n: ectx: property (whatsThis), widget (QGroupBox, groupBox_3)
 #: bookmarks.ui:138
 #, kde-format
 msgid "How much disk space is used to cache the pixmaps"
-msgstr ""
+msgstr "Bộ nhớ đệm sử dụng bao nhiêu dung lượng đĩa để lưu sẵn các pixmap"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
 #: bookmarks.ui:141
 #, kde-format
 msgid "Pixmap Cache"
-msgstr ""
+msgstr "Bộ đệm Pixmap"
 
 #. i18n: ectx: property (text), widget (QLabel, lbMaxCacheSize)
 #: bookmarks.ui:150
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Disk cache &size:"
 msgid "Disk cache size:"
-msgstr "Kích cỡ Bộ nhớ tạm đĩ&a:"
+msgstr "Kích cỡ bộ đệm đĩa:"
 
 #. i18n: ectx: property (suffix), widget (QSpinBox, sbCacheSize)
 #: bookmarks.ui:163
-#, fuzzy, kde-format
+#, kde-format
 #| msgid " KB"
 msgid " kB"
-msgstr " KB"
+msgstr "kB"
 
 #. i18n: ectx: property (whatsThis), widget (QPushButton, clearCacheButton)
 #: bookmarks.ui:173
 #, kde-format
 msgid "Clear the pixmap cache"
-msgstr ""
+msgstr "Làm trống bộ đệm hình ảnh"
 
 #. i18n: ectx: property (text), widget (QPushButton, clearCacheButton)
 #: bookmarks.ui:176
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "C&lear Cache"
 msgid "&Clear Cache"
-msgstr "&Xoá bộ nhớ tạm"
+msgstr "&Làm trống Bộ nhớ đệm"

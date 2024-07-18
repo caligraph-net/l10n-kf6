@@ -1,0 +1,309 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdepim-addons package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdepim-addons\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-04 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: common/expandurlplugin/viewerpluginexpandurlinterface.cpp:41
+#, kde-format
+msgid "Current URL is not a shortened URL."
+msgstr "URL hiện tại không phải là URL rút gọn."
+
+#: common/expandurlplugin/viewerpluginexpandurlinterface.cpp:56
+#, kde-format
+msgctxt "@action"
+msgid "Expand URL"
+msgstr "Mở rộng URL"
+
+#: common/translatorplugin/viewerplugintranslatorinterface.cpp:49
+#, kde-format
+msgctxt "@action"
+msgid "Translate…"
+msgstr "Dịch..."
+
+#: createeventplugin/eventedit.cpp:44 createtodoplugin/todoedit.cpp:42
+#, kde-format
+msgid "&Save"
+msgstr "&Lưu"
+
+#: createeventplugin/eventedit.cpp:45 createtodoplugin/todoedit.cpp:43
+#, kde-format
+msgctxt "@action:button"
+msgid "Open &Editor…"
+msgstr "Mở T&rình chỉnh sửa..."
+
+#: createeventplugin/eventedit.cpp:56
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Event:"
+msgstr "Sự kiện:"
+
+#: createeventplugin/eventedit.cpp:74
+#, kde-format
+msgid "Calendar where the new event will be stored."
+msgstr "Lịch mà sự kiện mới sẽ được lưu trữ."
+
+#: createeventplugin/eventedit.cpp:76
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Calendar where the new event will be stored"
+msgstr "Lịch mà sự kiện mới sẽ được lưu trữ"
+
+#: createeventplugin/eventedit.cpp:89
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Start:"
+msgstr "Bắt đầu:"
+
+#: createeventplugin/eventedit.cpp:95
+#, kde-format
+msgid "Select start time for event."
+msgstr "Chọn thời gian bắt đầu cho sự kiện."
+
+#: createeventplugin/eventedit.cpp:102
+#, kde-format
+msgctxt "@label:textbox"
+msgid "End:"
+msgstr "Kết thúc:"
+
+#: createeventplugin/eventedit.cpp:107
+#, kde-format
+msgid "Select end time for event."
+msgstr "Chọn thời gian kết thúc cho sự kiện."
+
+#: createeventplugin/eventedit.cpp:125
+#, kde-format
+msgid "Create new event and close this widget."
+msgstr "Tạo sự kiện mới và đóng widget này."
+
+#: createeventplugin/eventedit.cpp:131
+#, kde-format
+msgid "Open event editor, where more details can be changed."
+msgstr "Mở trình chỉnh sửa sự kiện, nơi có thể thay đổi thêm chi tiết."
+
+#: createeventplugin/eventedit.cpp:142
+#, kde-format
+msgid "Close the widget for creating new events."
+msgstr "Đóng phụ kiện để tạo sự kiện mới."
+
+#: createeventplugin/viewerplugincreateeventinterface.cpp:68
+#, kde-format
+msgid "Create Event…"
+msgstr "Tạo sự kiện..."
+
+#: createeventplugin/viewerplugincreateeventinterface.cpp:69
+#, kde-format
+msgid "Create Event"
+msgstr "Tạo sự kiện"
+
+#: createeventplugin/viewerplugincreateeventinterface.cpp:70
+#, kde-format
+msgid "Allows you to create a calendar Event"
+msgstr "Cho phép bạn tạo một sự kiện lịch"
+
+#: createtodoplugin/todoedit.cpp:61
+#, kde-format
+msgctxt "@label:textbox"
+msgid "To-do:"
+msgstr "Công việc:"
+
+#: createtodoplugin/todoedit.cpp:80
+#, kde-format
+msgid "Todo list where the new task will be stored."
+msgstr "Danh sách các việc cần làm nơi tác vụ mới sẽ được lưu trữ."
+
+#: createtodoplugin/todoedit.cpp:82
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Todo list where the new task will be stored"
+msgstr "Danh sách công việc cần làm mà tác vụ mới sẽ được lưu trữ"
+
+#: createtodoplugin/todoedit.cpp:96
+#, kde-format
+msgid "Create new todo and close this widget."
+msgstr "Tạo mới việc cần làm và đóng widget này."
+
+#: createtodoplugin/todoedit.cpp:103
+#, kde-format
+msgid "Open todo editor, where more details can be changed."
+msgstr "Mở trình chỉnh sửa công việc cần làm, nơi có thể thay đổi thêm chi tiết."
+
+#: createtodoplugin/todoedit.cpp:113
+#, kde-format
+msgid "Close the widget for creating new todos."
+msgstr "Đóng phụ kiện để tạo công việc mới."
+
+#: createtodoplugin/todoedit.cpp:150
+#, kde-format
+msgid "Check I received a reply about \"%1\""
+msgstr "Kiểm tra tôi đã nhận được hồi đáp về \"%1\""
+
+#: createtodoplugin/todoedit.cpp:151
+#, kde-format
+msgid "Reply to \"%1\""
+msgstr "Hồi đáp với \"%1\""
+
+#: createtodoplugin/todoedit.cpp:240
+#, kde-format
+msgctxt ""
+"%1 is summary of the todo, %2 is name of the folder in which it is stored"
+msgid "New todo '%1' was added to task list '%2'"
+msgstr "Công việc cần làm mới '%1' đã được thêm vào danh sách tác vụ '%2'"
+
+#: createtodoplugin/viewerplugincreatetodointerface.cpp:68
+#: createtodoplugin/viewerplugincreatetodointerface.cpp:69
+#, kde-format
+msgid "Create To-do"
+msgstr "Tạo Công việc"
+
+#: createtodoplugin/viewerplugincreatetodointerface.cpp:70
+#, kde-format
+msgid "Allows you to create a calendar to-do or reminder from this message"
+msgstr "Cho phép bạn tạo một lịch công việc hoặc lời nhắc từ thông điệp này"
+
+#: createtodoplugin/viewerplugincreatetodointerface.cpp:72
+#, kde-format
+msgid ""
+"This option starts the KOrganizer to-do editor with initial values taken "
+"from the currently selected message. Then you can edit the to-do to your "
+"liking before saving it to your calendar."
+msgstr ""
+"Tùy chọn này sẽ khởi động trình biên tập công việc cần làm của KOrganizer "
+"với các giá trị ban đầu lấy từ tin nhắn đang được chọn. Sau đó, bạn có thể "
+"sửa công việc cần làm theo ý muốn trước khi lưu vào lịch của bạn."
+
+#: externalscriptplugin/configuredialog/viewerpluginexternalconfiguredialog.cpp:16
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure \"External Script\" Plugin"
+msgstr "Cấu hình Phần cài cắm \"External Script\""
+
+#: externalscriptplugin/configuredialog/viewerpluginexternalconfigurewidget.cpp:59
+#, kde-format
+msgctxt "@action:button"
+msgid "Add Script…"
+msgstr "Thêm kịch bản..."
+
+#: externalscriptplugin/configuredialog/viewerpluginexternalconfigurewidget.cpp:60
+#, kde-format
+msgctxt "@action:button"
+msgid "Remove Script"
+msgstr "Xoá Kịch Bản"
+
+#: externalscriptplugin/configuredialog/viewerpluginexternalconfigurewidget.cpp:61
+#, kde-format
+msgctxt "@action:button"
+msgid "Modify Script…"
+msgstr "Chỉnh sửa Kịch bản..."
+
+#: externalscriptplugin/configuredialog/viewerpluginexternalconfigurewidget.cpp:67
+#, kde-format
+msgctxt "@label:textbox"
+msgid "External Script:"
+msgstr "Kịch bản bên ngoài:"
+
+#: externalscriptplugin/configuredialog/viewerpluginexternalconfigurewidget.cpp:106
+#, kde-format
+msgid "Do you want to remove this script \"%1\"?"
+msgstr "Bạn có muốn xoá bỏ kịch bản này \"%1\" không?"
+
+#: externalscriptplugin/configuredialog/viewerpluginexternalconfigurewidget.cpp:107
+#, kde-format
+msgid "Remove External Script"
+msgstr "Xoá Kịch Bản Bên Ngoài"
+
+#: externalscriptplugin/configuredialog/viewerpluginexternaleditdialog.cpp:25
+#, kde-format
+msgctxt "@title:window"
+msgid "Add or Modify External Script"
+msgstr "Thêm hoặc Chỉnh sửa Kịch bản Bên ngoài"
+
+#: externalscriptplugin/configuredialog/viewerpluginexternaleditwidget.cpp:28
+#, kde-format
+msgid "Name:"
+msgstr "Tên:"
+
+#: externalscriptplugin/configuredialog/viewerpluginexternaleditwidget.cpp:32
+#, kde-format
+msgid "Description:"
+msgstr "Mô tả:"
+
+#: externalscriptplugin/configuredialog/viewerpluginexternaleditwidget.cpp:37
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Add command arguments…"
+msgstr "Thêm đối số lệnh..."
+
+#: externalscriptplugin/configuredialog/viewerpluginexternaleditwidget.cpp:38
+#, kde-format
+msgid "Command Line:"
+msgstr "Dòng lệnh:"
+
+#: externalscriptplugin/configuredialog/viewerpluginexternaleditwidget.cpp:41
+#, kde-format
+msgctxt "@label:textbox"
+msgid "<qt><a href=\"whatsthis1\">Argument format information…</a></qt>"
+msgstr "<qt><a href=\"whatsthis1\">Thông tin định dạng đối số…</a></qt>"
+
+#: externalscriptplugin/configuredialog/viewerpluginexternaleditwidget.cpp:47
+#, kde-format
+msgid ""
+"<qt><p><strong>These expressions may be used for the arguments:</strong></"
+"p><ul><li>%s - the subject of message</li><li>%from - the from email "
+"address</li><li>%cc - the list of cc email address</li><li>%bcc - the list "
+"of bcc email address</li><li>%body - the body of message</li><li>%inreplyto "
+"- the reply email address</li><li>%akonadiUrl - the akonadi url (as akonadi:?"
+"item=187020)</li></ul></strong></p></qt>"
+msgstr ""
+"<qt><p><strong>Những biểu thức này có thể được sử dụng cho các đối "
+"số:</strong></p><ul><li>%s - chủ đề của thư</li><li>%from - địa chỉ thư "
+"điện tử người gửi</li><li>%cc - danh sách địa chỉ thư điện tử "
+"cc</li><li>%bcc - danh sách địa chỉ thư điện tử bcc</li><li>%body - nội "
+"dung của thư</li><li>%inreplyto - địa chỉ thư điện tử hồi "
+"đáp</li><li>%akonadiUrl - đường dẫn akonadi (dạng "
+"akonadi:?item=187020)</li></ul></strong></p></qt>"
+
+#: externalscriptplugin/configuredialog/viewerpluginexternaleditwidget.cpp:70
+#, kde-format
+msgid "Executable:"
+msgstr "Chương trình thực thi:"
+
+#: externalscriptplugin/viewerpluginexternalscriptinterface.cpp:79
+#, kde-format
+msgid "'%1' not found"
+msgstr "Không tìm thấy '%1'"
+
+#: externalscriptplugin/viewerpluginexternalscriptinterface.cpp:79
+#, kde-format
+msgctxt "@title:window"
+msgid "Executable not found."
+msgstr "Không tìm thấy thực thi."
+
+#: externalscriptplugin/viewerpluginexternalscriptinterface.cpp:85
+#, kde-format
+msgid "Impossible to start executable"
+msgstr "Không thể khởi động thực thi"
+
+#: externalscriptplugin/viewerpluginexternalscriptinterface.cpp:104
+#, kde-format
+msgctxt "@action"
+msgid "External Script"
+msgstr "Kịch bản bên ngoài"
+
+#: externalscriptplugin/viewerpluginexternalscriptinterface.cpp:129
+#, kde-format
+msgid "Configure"
+msgstr "Cấu hình"

@@ -1,0 +1,351 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kmail package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kmail\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-18 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: attachpropertydialog.cpp:61
+#, kde-format
+msgid "Save…"
+msgstr "Lưu..."
+
+#: attachpropertydialog.cpp:94
+#, kde-format
+msgctxt "@title:window"
+msgid "Properties for Attachment %1"
+msgstr "Thuộc tính cho Tệp đính kèm %1"
+
+#: attachpropertydialog.cpp:98
+#, kde-format
+msgid " bytes"
+msgstr "byte"
+
+#: attachpropertydialog.cpp:159
+#, kde-format
+msgctxt "@label"
+msgid "TNEF Attributes"
+msgstr "Thuộc tính TNEF"
+
+#: attachpropertydialog.cpp:168
+#, kde-format
+msgctxt "@info"
+msgid "Must select an item first."
+msgstr "Bạn phải bôi đen một mục trước."
+
+#: attachpropertydialog.cpp:174
+#, kde-format
+msgctxt "@info"
+msgid "The selected item cannot be saved because it has an empty tag."
+msgstr "Mục đã chọn không thể được lưu vì nó có thẻ trống."
+
+#: attachpropertydialog.cpp:195
+#, kde-format
+msgctxt "@info"
+msgid "Unable to open file for writing, check file permissions."
+msgstr "Không thể mở tệp để ghi, hãy kiểm tra quyền truy cập tệp."
+
+#: ktnefmain.cpp:96
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"You will be presented with a dialog where you can configure the application-"
+"wide shortcuts."
+msgstr ""
+"Bạn sẽ được hiển thị một hộp thoại nơi bạn có thể cấu hình các phím tắt "
+"toàn ứng dụng."
+
+#: ktnefmain.cpp:110
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "View"
+msgstr "Xem"
+
+#: ktnefmain.cpp:115
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "View With…"
+msgstr "Xem Với..."
+
+#: ktnefmain.cpp:119 ktnefmain.cpp:401
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Extract"
+msgstr "Trích xuất"
+
+#: ktnefmain.cpp:123 ktnefmain.cpp:402
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Extract To…"
+msgstr "Trích xuất đến..."
+
+#: ktnefmain.cpp:128
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Extract All To…"
+msgstr "Trích xuất tất cả vào..."
+
+#: ktnefmain.cpp:133 ktnefmain.cpp:405
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Properties"
+msgstr "Thuộc tính"
+
+#: ktnefmain.cpp:138
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Message Properties"
+msgstr "Thuộc tính Thông điệp"
+
+#: ktnefmain.cpp:142
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Show Message Text"
+msgstr "Hiện Thông Điệp"
+
+#: ktnefmain.cpp:147
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Save Message Text As…"
+msgstr "Lưu Văn Bản Thông Điệp Dưới Dạng..."
+
+#: ktnefmain.cpp:160
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Default Folder…"
+msgstr "Thư mục mặc định..."
+
+#: ktnefmain.cpp:172
+#, kde-format
+msgctxt "@info:status"
+msgid "No file loaded"
+msgstr "Không có tệp nào được tải"
+
+#: ktnefmain.cpp:195
+#, kde-format
+msgctxt "@info"
+msgid "Unable to open file \"%1\"."
+msgstr "Không thể mở tệp \"%1\"."
+
+#: ktnefmain.cpp:200
+#, kde-format
+msgctxt "@info:status"
+msgid "%1 attachment found"
+msgid_plural "%1 attachments found"
+msgstr[0] "Đã tìm thấy %1 tệp đính kèm"
+
+#: ktnefmain.cpp:210
+#, kde-format
+msgctxt "@title:window"
+msgid "Open TNEF File"
+msgstr "Mở Tệp TNEF"
+
+#: ktnefmain.cpp:246 ktnefmain.cpp:277
+#, kde-format
+msgctxt "@info"
+msgid "There is no file selected. Please select a file an try again."
+msgstr "Không có tệp nào được chọn. Vui lòng bôi đen một tệp và thử lại."
+
+#: ktnefmain.cpp:306 ktnefmain.cpp:382
+#, kde-format
+msgctxt "@info"
+msgid "Unable to extract file \"%1\"."
+msgstr "Không thể trích xuất tệp \"%1\"."
+
+#: ktnefmain.cpp:487
+#, kde-format
+msgctxt "@info"
+msgid "The message does not contain any Rich Text data."
+msgstr "Thông điệp không chứa bất kỳ dữ liệu văn bản có định dạng nào."
+
+#: ktnefmain.cpp:505
+#, kde-format
+msgctxt "@info"
+msgid "Unable to open file \"%1\" for writing, check file permissions."
+msgstr "Không thể mở tệp \"%1\" để ghi, hãy kiểm tra quyền truy cập tệp."
+
+#: ktnefmain.cpp:527
+#, kde-format
+msgid "Open &with %1"
+msgstr "Mở &bằng %1"
+
+#: ktnefmain.cpp:529
+#, kde-format
+msgctxt "@item:inmenu Open With, %1 is application name"
+msgid "%1"
+msgstr "%1"
+
+#: ktnefmain.cpp:554
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Open With"
+msgstr "&Mở bằng"
+
+#: ktnefmain.cpp:570
+#, kde-format
+msgctxt "@action:inmenu Open With"
+msgid "&Other…"
+msgstr "&Khác..."
+
+#: ktnefmain.cpp:572 ktnefmain.cpp:580
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Open With…"
+msgstr "Mở bằ&ng..."
+
+#. i18n: ectx: Menu (file)
+#: ktnefui.rc:6
+#, kde-format
+msgid "&File"
+msgstr "&Tệp"
+
+#. i18n: ectx: Menu (action)
+#: ktnefui.rc:9
+#, kde-format
+msgid "&Action"
+msgstr "hà&nh động"
+
+#. i18n: ectx: Menu (settings)
+#: ktnefui.rc:24
+#, kde-format
+msgid "&Settings"
+msgstr "thiết lậ&p"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: ktnefui.rc:29
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Thanh công cụ"
+
+#: ktnefview.cpp:71
+#, kde-format
+msgctxt "@title:column file name"
+msgid "File Name"
+msgstr "Tên tệp"
+
+#: ktnefview.cpp:72
+#, kde-format
+msgctxt "@title:column file type"
+msgid "File Type"
+msgstr "Kiểu tệp"
+
+#: ktnefview.cpp:72
+#, kde-format
+msgctxt "@title:column file size"
+msgid "Size"
+msgstr "Kích thước"
+
+#: main.cpp:31
+#, kde-format
+msgid "KTnef"
+msgstr "KTnef"
+
+#: main.cpp:33
+#, kde-format
+msgid "Viewer for mail attachments using TNEF format"
+msgstr "Trình xem tệp đính kèm thư sử dụng định dạng TNEF"
+
+#: main.cpp:35
+#, kde-format
+msgid ""
+"Copyright 2000 Michael Goffioul \n"
+"Copyright 2012  Allen Winter"
+msgstr "Bản quyền 2000 Michael Goffioul \nBản quyền 2012 Allen Winter"
+
+#: main.cpp:37
+#, kde-format
+msgctxt "@info:credit"
+msgid "Michael Goffioul"
+msgstr "Michael Goffioul"
+
+#: main.cpp:37
+#, kde-format
+msgid "Author"
+msgstr "Tác giả"
+
+#: main.cpp:39
+#, kde-format
+msgctxt "@info:credit"
+msgid "Allen Winter"
+msgstr "Allen Winter"
+
+#: main.cpp:39
+#, kde-format
+msgid "Author, Ported to Qt4/KDE4"
+msgstr "Tác giả, Được chuyển đổi sang Qt4/KDE4"
+
+#: main.cpp:45
+#, kde-format
+msgid "An optional argument 'file' "
+msgstr "Một đối số tuỳ chọn 'file'"
+
+#: messagepropertydialog.cpp:42
+#, kde-format
+msgctxt "@title:window"
+msgid "Message Properties"
+msgstr "Thuộc tính Thông điệp"
+
+#: messagepropertydialog.cpp:55
+#, kde-format
+msgctxt "@title:column property name"
+msgid "Name"
+msgstr "Tên"
+
+#: messagepropertydialog.cpp:55
+#, kde-format
+msgctxt "@title:column property value"
+msgid "Value"
+msgstr "Giá trị"
+
+#. i18n: ectx: property (text), widget (QLabel, mDescriptionLabel)
+#: ui/attachpropertywidgetbase.ui:45
+#, kde-format
+msgid "Description:"
+msgstr "Mô tả:"
+
+#. i18n: ectx: property (text), widget (QLabel, mIndexLabel)
+#: ui/attachpropertywidgetbase.ui:68
+#, kde-format
+msgid "Index:"
+msgstr "Chỉ số:"
+
+#. i18n: ectx: property (text), widget (QLabel, mDisplayLabel)
+#: ui/attachpropertywidgetbase.ui:107
+#, kde-format
+msgid "Comment:"
+msgstr "Bình luận:"
+
+#. i18n: ectx: property (text), widget (QLabel, mSizeLabel)
+#: ui/attachpropertywidgetbase.ui:143
+#, kde-format
+msgid "File size:"
+msgstr "Kích thước tệp:"
+
+#. i18n: ectx: property (text), widget (QLabel, mMimeLabel)
+#: ui/attachpropertywidgetbase.ui:199
+#, kde-format
+msgid "MIME type:"
+msgstr "Loại MIME:"

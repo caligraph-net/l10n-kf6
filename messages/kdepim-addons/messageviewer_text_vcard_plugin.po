@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdepim-addons package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdepim-addons\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-24 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: text_vcard.cpp:88
+#, kde-format
+msgid "Attached business card"
+msgid_plural "Attached business cards"
+msgstr[0] "Danh thiếp đính kèm"
+
+#: text_vcard.cpp:130
+#, kde-format
+msgid "[Add this contact to the address book]"
+msgstr "[Thêm liên hệ này vào sổ địa chỉ]"
+
+#: text_vcard.cpp:136
+#, kde-format
+msgid "[Update this contact in the address book]"
+msgstr "[Cập nhật liên hệ này trong sổ địa chỉ]"
+
+#: text_vcard.cpp:141
+#, kde-format
+msgid "[This contact is already in addressbook]"
+msgstr "[Liên hệ này đã có trong sổ địa chỉ]"
+
+#: text_vcard.cpp:215
+#, kde-format
+msgid "View Business Card"
+msgstr "Xem Thẻ Liên Lạc"
+
+#: text_vcard.cpp:216
+#, kde-format
+msgid "Save Business Card As…"
+msgstr "Lưu Thẻ Danh Thiếp Dưới Dạng..."
+
+#: text_vcard.cpp:233
+#, kde-format
+msgid "Add this contact to the address book."
+msgstr "Thêm liên hệ này vào sổ địa chỉ."
+
+#: text_vcard.cpp:233
+#, kde-format
+msgid "Update this contact to the address book."
+msgstr "Cập nhật liên hệ này vào sổ địa chỉ."
+
+#: text_vcard.cpp:235
+#, kde-format
+msgid "Add \"%1\" to the address book."
+msgstr "Thêm \"%1\" vào sổ địa chỉ."
+
+#: text_vcard.cpp:235
+#, kde-format
+msgid "Update \"%1\" to the address book."
+msgstr "Cập nhật \"%1\" vào sổ địa chỉ."
+
+#: text_vcard.cpp:259
+#, kde-format
+msgid "Save Business Card"
+msgstr "Lưu Thẻ Danh Thiếp"
+
+#: updatecontactjob.cpp:37
+#, kde-format
+msgid "The vCard's primary email address is not in addressbook."
+msgstr "Địa chỉ email chính của vCard không có trong sổ địa chỉ."
+
+#: updatecontactjob.cpp:43
+#, kde-format
+msgid "There are two or more contacts with same email stored in addressbook."
+msgstr ""
+"Có hai hoặc nhiều liên hệ với cùng một địa chỉ thư điện tử được lưu trữ "
+"trong sổ địa chỉ."
+
+#: updatecontactjob.cpp:65
+#, kde-format
+msgid ""
+"The vCard was updated in your address book; you can add more information to "
+"this entry by opening the address book."
+msgstr ""
+"Thẻ vCard đã được cập nhật trong sổ địa chỉ của bạn; bạn có thể thêm thông "
+"tin vào mục này bằng cách mở sổ địa chỉ."
+
+#: updatecontactjob.cpp:76
+#, kde-format
+msgid "Email not specified"
+msgstr "Chưa chỉ định email"

@@ -1,0 +1,47 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-11-05 12:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: rdp/krdc_rdp.json
+msgctxt "Name"
+msgid "RDP"
+msgstr "RDP"
+
+#: test/krdc_test.json
+msgctxt "Name"
+msgid "Test"
+msgstr "kiểm thử"
+
+#: vnc/krdc_vnc.json
+msgctxt "Name"
+msgid "VNC"
+msgstr "VNC"
+
+#: rdp/krdc_rdp.json
+msgctxt "Description"
+msgid "Allows managing RDP sessions through KRDC"
+msgstr "Cho phép quản lý các phiên RDP thông qua KRDC"
+
+#: test/krdc_test.json
+msgctxt "Description"
+msgid "Testplugin for KRDC development"
+msgstr "Trình cắm thử nghiệm cho phát triển KRDC"
+
+#: vnc/krdc_vnc.json
+msgctxt "Description"
+msgid "Allows managing VNC sessions through KRDC"
+msgstr "Cho phép quản lý các phiên VNC thông qua KRDC"
+
+#: rdp/krdc_rdp.json test/krdc_test.json vnc/krdc_vnc.json
+msgctxt "Authors Name"
+msgid "Urs Wolfer"
+msgstr "Urs Wolfer"

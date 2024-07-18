@@ -28,14 +28,14 @@ msgid "Your emails"
 msgstr "tttrung@hotmail.com"
 
 #: blinken.cpp:68
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "If the Steve font that is used by Blinken by default to show status messages "
 "does not support any of the characters of your language, please translate "
 "that message to 1 and KDE standard font will be used to show the texts, if "
 "not translate it to 0"
 msgid "0"
-msgstr "1"
+msgstr "0"
 
 #: blinken.cpp:180
 #, kde-format
@@ -45,14 +45,14 @@ msgstr "Âm thanh"
 #: blinken.cpp:181
 #, kde-format
 msgid "Font"
-msgstr ""
+msgstr "phông chữ"
 
 #: blinken.cpp:223
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Start"
 msgctxt "@action:button Start a new game"
 msgid "Start"
-msgstr "Bắt đầu"
+msgstr "Khởi động"
 
 #: blinken.cpp:235
 #, kde-format
@@ -65,7 +65,7 @@ msgid "Enter Your Name"
 msgstr "Nhập vào Tên Bạn"
 
 #: blinken.cpp:413
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Name:"
 msgctxt "@label:textbox refers to the user's name"
 msgid "Name:"
@@ -77,10 +77,10 @@ msgid "Restart the game"
 msgstr "Khởi động lại trò chơi"
 
 #: blinken.cpp:691
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Quit blinKen"
 msgid "Quit Blinken"
-msgstr "Thoát blinKen"
+msgstr "Thoát Blinken"
 
 #: blinken.cpp:692
 #, kde-format
@@ -90,12 +90,12 @@ msgstr "Xem Bảng Kỉ lục"
 #: blinken.cpp:697
 #, kde-format
 msgid "Show Settings"
-msgstr ""
+msgstr "Hiện Thiết Lập"
 
 #: blinken.cpp:698
 #, kde-format
 msgid "Hide Settings"
-msgstr ""
+msgstr "Ẩn Thiết Lập"
 
 #: blinken.cpp:701
 #, kde-format
@@ -123,9 +123,9 @@ msgid "Click any button to change its key"
 msgstr "Nhấn bất kì nút nào để thay đổi phím gõ cho nó"
 
 #: blinken.cpp:711
-#, fuzzy, kde-format
+#, kde-format
 msgid "Press Start to begin"
-msgstr "Nhấn Bắt đầu để khởi động!"
+msgstr "Nhấn Bắt đầu để khởi động"
 
 #: blinken.cpp:715
 #, kde-format
@@ -163,9 +163,9 @@ msgid "Remember this sequence..."
 msgstr "Ghi nhớ dãy này..."
 
 #: blinken.cpp:783
-#, fuzzy, kde-format
+#, kde-format
 msgid "Repeat the sequence"
-msgstr "Lặp lại dãy!"
+msgstr "Lặp lại dãy"
 
 #: blinken.cpp:800
 #, kde-format
@@ -183,11 +183,11 @@ msgid "?"
 msgstr "?"
 
 #: blinken.cpp:806
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Level"
 msgctxt "@label:chooser which level is currently being played"
 msgid "Level"
-msgstr "Trình độ"
+msgstr "Cấp độ"
 
 #. i18n: ectx: label, entry (playSounds), group (general)
 #: blinken.kcfg:9
@@ -202,38 +202,38 @@ msgid "Use custom font for status text"
 msgstr "Dùng phông chữ tuỳ chọn cho văn bản trạng thái"
 
 #: highscoredialog.cpp:138
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Highscores"
 msgctxt "@title:window the highest scores for each level are shown"
 msgid "Highscores"
 msgstr "Kỉ lục"
 
 #: highscoredialog.cpp:149
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Level 1"
 msgctxt "@title:group High scores Level 1 tab title"
 msgid "Level 1"
 msgstr "Trình độ 1"
 
 #: highscoredialog.cpp:150
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Level 2"
 msgctxt "@title:group High scores Level 2 tab title"
 msgid "Level 2"
 msgstr "Trình độ 2"
 
 #: highscoredialog.cpp:151
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Level ?"
 msgctxt "@title:group High scores Level ? tab tible"
 msgid "Level ?"
-msgstr "Trình độ ?"
+msgstr "Cấp độ ?"
 
 #: main.cpp:28
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "blinKen"
 msgid "Blinken"
-msgstr "blinKen"
+msgstr "Blinken"
 
 #: main.cpp:28
 #, kde-format
@@ -246,11 +246,13 @@ msgid ""
 "© 2005-2007 Albert Astals Cid\n"
 "SPDX-FileCopyrightText: 2005-2007 Danny Allen "
 msgstr ""
+"© 2005-2007 Albert Astals Cid\nSPDX-FileCopyrightText: 2005-2007 Danny "
+"Allen"
 
 #: main.cpp:29
 #, kde-format
 msgid "Albert Astals Cid"
-msgstr ""
+msgstr "Albert Astals Cid"
 
 #: main.cpp:29
 #, kde-format
@@ -260,7 +262,7 @@ msgstr "Mã hoá"
 #: main.cpp:30
 #, kde-format
 msgid "Danny Allen"
-msgstr ""
+msgstr "Danny Allen"
 
 #: main.cpp:30
 #, kde-format
@@ -270,7 +272,7 @@ msgstr "Thiết kế, Đồ hoạ và Âm thanh"
 #: main.cpp:31
 #, kde-format
 msgid "Steve Jordi"
-msgstr ""
+msgstr "Steve Jordi"
 
 #: main.cpp:31
 #, kde-format

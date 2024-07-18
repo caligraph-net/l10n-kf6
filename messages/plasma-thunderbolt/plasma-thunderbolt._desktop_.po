@@ -1,0 +1,62 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-03-20 00:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/kded/kded_bolt.notifyrc:3
+msgctxt "Name"
+msgid "Thunderbolt Device Monitor"
+msgstr "Trình giám sát thiết bị Thunderbolt"
+
+#: src/kded/kded_bolt.notifyrc:47
+msgctxt "Comment"
+msgid "Thunderbolt Device Monitor"
+msgstr "Trình giám sát thiết bị Thunderbolt"
+
+#: src/kded/kded_bolt.notifyrc:93
+msgctxt "Name"
+msgid "Warning"
+msgstr "Cảnh báo"
+
+#: src/kded/kded_bolt.notifyrc:137
+msgctxt "Comment"
+msgid "Used for warning notifications"
+msgstr "Được sử dụng để cảnh báo thông báo"
+
+#: src/kded/kded_bolt.notifyrc:183
+msgctxt "Name"
+msgid "Error"
+msgstr "Lỗi"
+
+#: src/kded/kded_bolt.notifyrc:228
+msgctxt "Comment"
+msgid "Used for error notifications"
+msgstr "Được sử dụng để thông báo lỗi"
+
+#: src/kded/kded_bolt.notifyrc:275
+msgctxt "Name"
+msgid "Unauthorized device is plugged in"
+msgstr "Thiết bị chưa được ủy quyền đã được cắm vào"
+
+#: src/kded/kded_bolt.notifyrc:319
+msgctxt "Comment"
+msgid "An unauthorized Thunderbolt device has been plugged into the computer"
+msgstr "Một thiết bị Thunderbolt không được ủy quyền đã được cắm vào máy tính"
+
+#: src/kded/kded_bolt.notifyrc:366
+msgctxt "Name"
+msgid "Error during device authorization"
+msgstr "Lỗi trong quá trình uỷ quyền thiết bị"
+
+#: src/kded/kded_bolt.notifyrc:409
+msgctxt "Comment"
+msgid "An error occurred while authorizing or blocking a Thunderbolt device"
+msgstr "Đã xảy ra lỗi khi ủy quyền hoặc chặn một thiết bị Thunderbolt"

@@ -1,0 +1,1146 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the pim-data-exporter package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: pim-data-exporter\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-04 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: console/main.cpp:25 console/main.cpp:27
+#, kde-format
+msgid "PIM Data Exporter Console"
+msgstr "Bàn điều khiển Trình xuất dữ liệu PIM"
+
+#: console/main.cpp:29
+#, kde-format
+msgid "Copyright © 2015-%1 pimdataexporter authors"
+msgstr "Bản quyền © 2015-%1 tác giả pimdataexporter"
+
+#: console/main.cpp:30 gui/pimdatacommandlineoption.cpp:42
+#, kde-format
+msgctxt "@info:credit"
+msgid "Laurent Montel"
+msgstr "Laurent Montel"
+
+#: console/main.cpp:30 gui/pimdatacommandlineoption.cpp:42
+#, kde-format
+msgid "Maintainer"
+msgstr "Bảo trì viên"
+
+#: console/main.cpp:31
+#, kde-format
+msgctxt "@info:shell"
+msgid "File to log information to."
+msgstr "Tệp để ghi nhật kí thông tin."
+
+#: console/main.cpp:34
+#, kde-format
+msgctxt "@info:shell"
+msgid "Template file to define what data, settings to import or export."
+msgstr "Tệp bản mẫu để định nghĩa dữ liệu, thiết lập cần nhập khẩu hoặc xuất khẩu."
+
+#: console/main.cpp:37
+#, kde-format
+msgctxt "@info:shell"
+msgid "Import the given file."
+msgstr "Nhập khẩu tệp tin đã cho."
+
+#: console/main.cpp:39
+#, kde-format
+msgctxt "@info:shell"
+msgid "Export the given file."
+msgstr "Xuất khẩu tệp tin đã cho."
+
+#: core/abstractimportexportjob.cpp:56
+#, kde-format
+msgid "Task Canceled"
+msgstr "Tác vụ Đã Huỷ"
+
+#: core/abstractimportexportjob.cpp:116
+#, kde-format
+msgid "\"%1\" backup done."
+msgstr "Đã sao lưu \"%1\"."
+
+#: core/abstractimportexportjob.cpp:118
+#, kde-format
+msgid "\"%1\" cannot be exported."
+msgstr "\"%1\" không thể được xuất."
+
+#: core/abstractimportexportjob.cpp:121
+#, kde-format
+msgid "\"%1\" does not exist."
+msgstr "\"%1\" không tồn tại."
+
+#: core/abstractimportexportjob.cpp:268
+#, kde-format
+msgid "\"%1\" was copied."
+msgstr "\"%1\" đã được sao chép."
+
+#: core/abstractimportexportjob.cpp:273
+#, kde-format
+msgid "Restoring \"%1\"..."
+msgstr "Đang khôi phục \"%1\"..."
+
+#: core/abstractimportexportjob.cpp:298
+#, kde-format
+msgid "File \"%1\" cannot be copied to \"%2\"."
+msgstr "Tệp \"%1\" không thể được sao chép đến \"%2\"."
+
+#: core/abstractimportexportjob.cpp:298
+#, kde-format
+msgid "Copy file"
+msgstr "Sao chép tệp"
+
+#: core/abstractimportexportjob.cpp:300
+#, kde-format
+msgid "\"%1\" was restored."
+msgstr "\"%1\" đã được khôi phục."
+
+#: core/abstractimportexportjob.cpp:385 core/addressbook/importaddressbookjobinterface.cpp:231
+#: core/mail/importmailjobinterface.cpp:424
+#, kde-format
+msgid "Resources restored."
+msgstr "Tài nguyên đã được khôi phục."
+
+#: core/abstractimportexportjob.cpp:387
+#, kde-format
+msgid "No resources files found."
+msgstr "Không tìm thấy tệp tài nguyên."
+
+#: core/abstractimportexportjob.cpp:448
+#, kde-format
+msgid "Unable to copy file %1"
+msgstr "Không thể sao chép tệp %1"
+
+#: core/abstractimportexportjob.cpp:489
+#, kde-format
+msgid "Resource '%1' created."
+msgstr "Tài nguyên '%1' đã được tạo."
+
+#: core/abstractimportexportjob.cpp:504
+#, kde-format
+msgid "Failed to synchronize '%1'."
+msgstr "Không thể đồng bộ '%1'."
+
+#: core/abstractimportexportjob.cpp:509
+#, kde-format
+msgid "Resource '%1' synchronized."
+msgstr "Tài nguyên '%1' đã được đồng bộ."
+
+#: core/abstractimportexportjob.cpp:515
+#, kde-format
+msgid "All resources synchronized."
+msgstr "Tất cả tài nguyên đã được đồng bộ hóa."
+
+#: core/abstractimportexportjob.cpp:541
+#, kde-format
+msgid "Start synchronizing..."
+msgstr "Bắt đầu đồng bộ hóa..."
+
+#: core/abstractimportexportjob.cpp:578
+#, kde-format
+msgid "Directory \"%1\" added to backup file."
+msgstr "Thư mục \"%1\" đã được thêm vào tệp sao lưu."
+
+#: core/abstractimportexportjob.cpp:580
+#, kde-format
+msgid "Directory \"%1\" cannot be added to backup file."
+msgstr "Thư mục \"%1\" không thể được thêm vào tệp sao lưu."
+
+#: core/addressbook/exportaddressbookjobinterface.cpp:28
+#, kde-format
+msgid "Start export KAddressBook settings..."
+msgstr "Bắt đầu xuất khẩu cài đặt KAddressBook..."
+
+#: core/addressbook/exportaddressbookjobinterface.cpp:29
+#, kde-format
+msgid "Export KAddressBook settings"
+msgstr "Xuất khẩu thiết lập KAddressBook"
+
+#: core/addressbook/exportaddressbookjobinterface.cpp:42
+#: core/alarm/exportalarmjobinterface.cpp:84
+#: core/calendar/exportcalendarjobinterface.cpp:96
+#: core/mail/exportmailjobinterface.cpp:653
+#: core/notes/exportnotesjobinterface.cpp:53
+#, kde-format
+msgid "Backing up resources..."
+msgstr "Đang sao lưu tài nguyên..."
+
+#: core/addressbook/exportaddressbookjobinterface.cpp:102
+#: core/alarm/exportalarmjobinterface.cpp:76
+#: core/calendar/exportcalendarjobinterface.cpp:75
+#: core/mail/exportmailjobinterface.cpp:675
+#: core/notes/exportnotesjobinterface.cpp:150
+#, kde-format
+msgid "Resources backup done."
+msgstr "Sao lưu tài nguyên đã hoàn tất."
+
+#: core/addressbook/exportaddressbookjobinterface.cpp:109
+#: core/akregator/exportakregatorjobinterface.cpp:72
+#: core/alarm/exportalarmjobinterface.cpp:109
+#: core/calendar/exportcalendarjobinterface.cpp:228
+#: core/mail/exportmailjobinterface.cpp:167
+#: core/notes/exportnotesjobinterface.cpp:75
+#, kde-format
+msgid "Backing up config..."
+msgstr "Đang sao lưu cấu hình..."
+
+#: core/addressbook/exportaddressbookjobinterface.cpp:150
+#: core/akregator/exportakregatorjobinterface.cpp:79
+#: core/alarm/exportalarmjobinterface.cpp:135
+#: core/calendar/exportcalendarjobinterface.cpp:248
+#: core/mail/exportmailjobinterface.cpp:536
+#: core/notes/exportnotesjobinterface.cpp:108
+#, kde-format
+msgid "Config backup done."
+msgstr "Sao lưu cấu hình đã hoàn tất."
+
+#: core/addressbook/importaddressbookjobinterface.cpp:41
+#, kde-format
+msgid "Starting to import KAddressBook settings..."
+msgstr "Đang bắt đầu nhập khẩu cài đặt KAddressBook..."
+
+#: core/addressbook/importaddressbookjobinterface.cpp:43
+#, kde-format
+msgid "Import KAddressBook settings"
+msgstr "Nhập khẩu thiết lập KAddressBook"
+
+#: core/addressbook/importaddressbookjobinterface.cpp:92
+#: core/akregator/importakregatorjobinterface.cpp:93
+#: core/alarm/importalarmjobinterface.cpp:82
+#: core/calendar/importcalendarjobinterface.cpp:90
+#: core/notes/importnotesjobinterface.cpp:80
+#, kde-format
+msgid "Restore configs..."
+msgstr "Khôi phục cấu hình..."
+
+#: core/addressbook/importaddressbookjobinterface.cpp:109
+#: core/akregator/importakregatorjobinterface.cpp:99
+#: core/alarm/importalarmjobinterface.cpp:98
+#: core/calendar/importcalendarjobinterface.cpp:229
+#: core/mail/importmailjobinterface.cpp:866
+#: core/notes/importnotesjobinterface.cpp:109
+#, kde-format
+msgid "Config restored."
+msgstr "Cấu hình đã được khôi phục."
+
+#: core/addressbook/importaddressbookjobinterface.cpp:162
+#: core/addressbook/importaddressbookjobinterface.cpp:163
+#: core/alarm/importalarmjobinterface.cpp:114
+#: core/alarm/importalarmjobinterface.cpp:115
+#: core/calendar/importcalendarjobinterface.cpp:282
+#: core/calendar/importcalendarjobinterface.cpp:283
+#: core/mail/importmailjobinterface.cpp:199
+#: core/mail/importmailjobinterface.cpp:200
+#: core/notes/importnotesjobinterface.cpp:148
+#: core/notes/importnotesjobinterface.cpp:149
+#, kde-format
+msgid "Restore resources..."
+msgstr "Khôi phục tài nguyên..."
+
+#: core/akregator/exportakregatorjobinterface.cpp:24
+#, kde-format
+msgid "Start export Akregator settings..."
+msgstr "Bắt đầu xuất khẩu cài đặt Akregator..."
+
+#: core/akregator/exportakregatorjobinterface.cpp:25
+#, kde-format
+msgid "Export Akregator settings"
+msgstr "Xuất khẩu thiết lập Akregator"
+
+#: core/akregator/exportakregatorjobinterface.cpp:87
+#, kde-format
+msgid "Backing up data..."
+msgstr "Đang sao lưu dữ liệu..."
+
+#: core/akregator/exportakregatorjobinterface.cpp:94
+#: core/notes/exportnotesjobinterface.cpp:46
+#, kde-format
+msgid "\"%1\" directory cannot be added to backup file."
+msgstr "Thư mục \"%1\" không thể được thêm vào tệp sao lưu."
+
+#: core/akregator/exportakregatorjobinterface.cpp:97
+#, kde-format
+msgid "Data backup done."
+msgstr "Sao lưu dữ liệu đã hoàn tất."
+
+#: core/akregator/importakregatorjobinterface.cpp:29
+#, kde-format
+msgid "Starting to import Akregator settings..."
+msgstr "Đang bắt đầu nhập khẩu cài đặt Akregator..."
+
+#: core/akregator/importakregatorjobinterface.cpp:32
+#, kde-format
+msgid "Import Akregator settings"
+msgstr "Nhập khẩu thiết lập Akregator"
+
+#: core/akregator/importakregatorjobinterface.cpp:106
+#: core/notes/importnotesjobinterface.cpp:116
+#, kde-format
+msgid "Restore data..."
+msgstr "Khôi phục dữ liệu..."
+
+#: core/akregator/importakregatorjobinterface.cpp:112
+#: core/notes/importnotesjobinterface.cpp:129
+#, kde-format
+msgid "Data restored."
+msgstr "Dữ liệu đã được khôi phục."
+
+#: core/alarm/exportalarmjobinterface.cpp:28
+#, kde-format
+msgid "Start export KAlarm settings..."
+msgstr "Bắt đầu xuất khẩu cài đặt KAlarm..."
+
+#: core/alarm/exportalarmjobinterface.cpp:29
+#, kde-format
+msgid "Export KAlarm settings"
+msgstr "Xuất khẩu thiết lập KAlarm"
+
+#: core/alarm/importalarmjobinterface.cpp:32
+#, kde-format
+msgid "Starting to import KAlarm settings..."
+msgstr "Đang bắt đầu nhập khẩu cài đặt KAlarm..."
+
+#: core/alarm/importalarmjobinterface.cpp:33
+#, kde-format
+msgid "Import KAlarm settings"
+msgstr "Nhập khẩu thiết lập KAlarm"
+
+#: core/archivestorage.cpp:43
+#, kde-format
+msgid "Archive cannot be opened in write mode."
+msgstr "Không thể mở kho trữ ở chế độ ghi."
+
+#: core/archivestorage.cpp:45 core/utils.cpp:134 gui/dialog/showarchivestructuredialog.cpp:183
+#, kde-format
+msgid "Archive cannot be opened in read mode."
+msgstr "Không thể mở kho trữ ở chế độ đọc."
+
+#: core/backupresourcefilejobbase.cpp:47
+#, kde-format
+msgid "\"%1\" is not a file."
+msgstr "\"%1\" không phải là một tệp."
+
+#: core/backupresourcefilejobbase.cpp:53 core/backupresourcefilejobbase.cpp:60
+#: core/pimdatabackupthread.cpp:54 core/storeresourcejob.cpp:57
+#, kde-format
+msgid "\"%1\" was backed up."
+msgstr "\"%1\" đã được sao lưu."
+
+#: core/backupresourcefilejobbase.cpp:55 core/pimdatabackupthread.cpp:56
+#: core/storeresourcejob.cpp:59
+#, kde-format
+msgid "\"%1\" file cannot be added to backup file."
+msgstr "Tệp \"%1\" không thể được thêm vào tệp sao lưu."
+
+#: core/calendar/exportcalendarjobinterface.cpp:82
+#, kde-format
+msgid "Start export KOrganizer settings..."
+msgstr "Khởi động xuất khẩu cài đặt KOrganizer..."
+
+#: core/calendar/exportcalendarjobinterface.cpp:83
+#, kde-format
+msgid "Export KOrganizer settings"
+msgstr "Xuất khẩu thiết lập KOrganizer"
+
+#: core/calendar/importcalendarjobinterface.cpp:35
+#, kde-format
+msgid "Starting to import KOrganizer settings..."
+msgstr "Đang bắt đầu nhập khẩu cài đặt KOrganizer..."
+
+#: core/calendar/importcalendarjobinterface.cpp:37
+#, kde-format
+msgid "Import KOrganizer settings"
+msgstr "Nhập khẩu thiết lập KOrganizer"
+
+#: core/mail/exportmailjobinterface.cpp:43
+#, kde-format
+msgid "Start export KMail settings..."
+msgstr "Bắt đầu xuất khẩu cài đặt KMail..."
+
+#: core/mail/exportmailjobinterface.cpp:44
+#, kde-format
+msgid "Export KMail settings"
+msgstr "Xuất khẩu thiết lập KMail"
+
+#: core/mail/exportmailjobinterface.cpp:112
+#, kde-format
+msgid "Backing up Folder Attributes..."
+msgstr "Đang sao lưu Thuộc tính Thư mục..."
+
+#: core/mail/exportmailjobinterface.cpp:114
+#, kde-format
+msgid "Backing up Mails..."
+msgstr "Đang sao lưu thư..."
+
+#: core/mail/exportmailjobinterface.cpp:115
+#, kde-format
+msgid "Start export resource..."
+msgstr "Bắt đầu xuất khẩu tài nguyên..."
+
+#: core/mail/exportmailjobinterface.cpp:123
+#, kde-format
+msgid "Backing up transports..."
+msgstr "Đang sao lưu các phương thức vận chuyển..."
+
+#: core/mail/exportmailjobinterface.cpp:128
+#: core/mail/exportmailjobinterface.cpp:140
+#, kde-format
+msgid "Transports backup done."
+msgstr "Đã hoàn thành việc sao lưu vận chuyển."
+
+#: core/mail/exportmailjobinterface.cpp:142
+#, kde-format
+msgid "Transport file cannot be added to backup file."
+msgstr "Không thể thêm tệp vận chuyển vào tệp sao lưu."
+
+#: core/mail/exportmailjobinterface.cpp:541
+#, kde-format
+msgid "Backing up identity..."
+msgstr "Đang sao lưu danh tính..."
+
+#: core/mail/exportmailjobinterface.cpp:580
+#, kde-format
+msgid "vCard file \"%1\" cannot be saved."
+msgstr "Tệp vCard \"%1\" không thể được lưu."
+
+#: core/mail/exportmailjobinterface.cpp:593
+#, kde-format
+msgid "Identity backup done."
+msgstr "Sao lưu danh tính đã hoàn tất."
+
+#: core/mail/exportmailjobinterface.cpp:595
+#, kde-format
+msgid "Identity file cannot be added to backup file."
+msgstr "Không thể thêm tệp danh tính vào tệp sao lưu."
+
+#: core/mail/exportmailjobinterfaceimpl.cpp:139
+#, kde-format
+msgid "Filters backup done."
+msgstr "Đã hoàn thành sao lưu bộ lọc."
+
+#: core/mail/exportmailjobinterfaceimpl.cpp:141
+#, kde-format
+msgid "Filters cannot be exported."
+msgstr "Không thể xuất bộ lọc."
+
+#: core/mail/exportmailjobinterfaceimpl.cpp:163
+#, kde-format
+msgid "Backing up Folder Attributes done."
+msgstr "Sao lưu thuộc tính thư mục đã hoàn tất."
+
+#: core/mail/exportmailjobinterfaceimpl.cpp:167
+#, kde-format
+msgid "Folder Attributes cannot be exported."
+msgstr "Không thể xuất các thuộc tính của thư mục."
+
+#: core/mail/importmailjobinterface.cpp:43
+#, kde-format
+msgid "Starting to import KMail settings..."
+msgstr "Đang bắt đầu nhập khẩu cài đặt KMail..."
+
+#: core/mail/importmailjobinterface.cpp:44
+#, kde-format
+msgid "Import KMail settings"
+msgstr "Nhập khẩu thiết lập KMail"
+
+#: core/mail/importmailjobinterface.cpp:169
+#: core/mail/importmailjobinterface.cpp:175
+#, kde-format
+msgid "Restore transports..."
+msgstr "Khôi phục các phương thức vận chuyển..."
+
+#: core/mail/importmailjobinterface.cpp:173
+#, kde-format
+msgid "mailtransports file could not be found in the archive."
+msgstr "không tìm thấy tệp mailtransports trong kho lưu trữ."
+
+#: core/mail/importmailjobinterface.cpp:188
+#, kde-format
+msgid "Transports restored."
+msgstr "Đã khôi phục các phương thức vận chuyển."
+
+#: core/mail/importmailjobinterface.cpp:190
+#, kde-format
+msgid "Failed to restore transports file."
+msgstr "Không thể khôi phục tệp vận chuyển."
+
+#: core/mail/importmailjobinterface.cpp:436
+#: core/mail/importmailjobinterface.cpp:438
+#, kde-format
+msgid "Restore mails..."
+msgstr "Khôi phục thư..."
+
+#: core/mail/importmailjobinterface.cpp:555
+#, kde-format
+msgid "Mails restored."
+msgstr "Đã khôi phục email."
+
+#: core/mail/importmailjobinterface.cpp:562
+#, kde-format
+msgid "Restore config..."
+msgstr "Khôi phục cấu hình..."
+
+#: core/mail/importmailjobinterface.cpp:565
+#, kde-format
+msgid "filters file could not be found in the archive."
+msgstr "không tìm thấy tệp bộ lọc trong kho lưu trữ."
+
+#: core/mail/importmailjobinterface.cpp:569
+#, kde-format
+msgid "Restore filters..."
+msgstr "Khôi phục bộ lọc..."
+
+#: core/mail/importmailjobinterface.cpp:618
+#, kde-format
+msgid "Filters restored."
+msgstr "Bộ lọc đã được khôi phục."
+
+#: core/mail/importmailjobinterface.cpp:899
+#: core/mail/importmailjobinterface.cpp:904
+#, kde-format
+msgid "Restoring identities..."
+msgstr "Đang khôi phục các danh tính..."
+
+#: core/mail/importmailjobinterface.cpp:902
+#, kde-format
+msgid "emailidentities file could not be found in the archive."
+msgstr "không tìm thấy tệp emailidentities trong kho lưu trữ."
+
+#: core/mail/importmailjobinterface.cpp:963
+#, kde-format
+msgid "Identities restored."
+msgstr "Đã khôi phục các danh tính."
+
+#: core/mail/importmailjobinterface.cpp:965
+#, kde-format
+msgid "Failed to restore identity file."
+msgstr "Không thể khôi phục tệp danh tính."
+
+#: core/mail/importmailjobinterface.cpp:1283
+#, kde-format
+msgid "\"%1\" migration done."
+msgstr "Đã hoàn thành việc di chuyển \"%1\"."
+
+#: core/mail/importmailjobinterfaceimpl.cpp:35
+#, kde-format
+msgid "Restoring folder attributes..."
+msgstr "Đang khôi phục thuộc tính thư mục..."
+
+#: core/mail/importmailjobinterfaceimpl.cpp:41
+#, kde-format
+msgid "Restoring Folder Attributes done."
+msgstr "Khôi phục thuộc tính thư mục đã hoàn tất."
+
+#: core/mail/importmailjobinterfaceimpl.cpp:45
+#, kde-format
+msgid "Folder Attributes cannot be restored."
+msgstr "Không thể khôi phục các thuộc tính của thư mục."
+
+#: core/notes/exportnotesjobinterface.cpp:28
+#, kde-format
+msgid "Start export KNotes settings..."
+msgstr "Bắt đầu xuất khẩu cài đặt KNotes..."
+
+#: core/notes/exportnotesjobinterface.cpp:29
+#, kde-format
+msgid "Export KNotes settings"
+msgstr "Xuất khẩu thiết lập KNotes"
+
+#: core/notes/importnotesjobinterface.cpp:49
+#, kde-format
+msgid "Starting to import KNotes settings..."
+msgstr "Đang bắt đầu nhập khẩu cài đặt KNotes..."
+
+#: core/notes/importnotesjobinterface.cpp:52
+#, kde-format
+msgid "Import KNotes settings"
+msgstr "Nhập khẩu thiết lập KNotes"
+
+#: core/pimdatabackuprestore.cpp:79 core/pimdatabackuprestore.cpp:254
+#, kde-format
+msgid "No data selected."
+msgstr "Không có dữ liệu được chọn."
+
+#: core/pimdatabackuprestore.cpp:85 core/pimdatabackuprestore.cpp:260
+#, kde-format
+msgid "Unable to open file \"%1\"."
+msgstr "Không thể mở tệp \"%1\"."
+
+#: core/pimdatabackuprestore.cpp:94
+#, kde-format
+msgid "Starting to backup data in '%1'"
+msgstr "Đang bắt đầu sao lưu dữ liệu trong '%1'"
+
+#: core/pimdatabackuprestore.cpp:183
+#, kde-format
+msgid "Backup in '%1' done."
+msgstr "Đã sao lưu vào '%1'."
+
+#: core/pimdatabackuprestore.cpp:279
+#, kde-format
+msgid "Starting to restore data from '%1'"
+msgstr "Đang bắt đầu khôi phục dữ liệu từ '%1'"
+
+#: core/pimdatabackuprestore.cpp:287
+#, kde-format
+msgid "Restoring data from '%1' done."
+msgstr "Đã hoàn tất việc khôi phục dữ liệu từ '%1'."
+
+#: core/pimdatabackupthread.cpp:37
+#, kde-format
+msgid "Impossible to open archive file."
+msgstr "Không thể mở tệp kho trữ."
+
+#: core/pimdatabackupthread.cpp:44
+#, kde-format
+msgid "Impossible to backup \"%1\"."
+msgstr "Không thể sao lưu \"%1\"."
+
+#: core/resourceconverterbase.cpp:195 core/resourceconverterbase.cpp:204
+#, kde-format
+msgid "Resource file \"%1\" cannot be added to backup file."
+msgstr "Tệp tài nguyên \"%1\" không thể được thêm vào tệp sao lưu."
+
+#: core/resourceconverterbase.cpp:207
+#, kde-format
+msgid "Resource config file \"%1\" doesn't exist."
+msgstr "Tệp cấu hình tài nguyên \"%1\" không tồn tại."
+
+#: core/utils.cpp:181
+#, kde-format
+msgid "KMail"
+msgstr "KMail"
+
+#: core/utils.cpp:183
+#, kde-format
+msgid "KAddressBook"
+msgstr "KAddressBook"
+
+#: core/utils.cpp:185
+#, kde-format
+msgid "KAlarm"
+msgstr "KAlarm"
+
+#: core/utils.cpp:187
+#, kde-format
+msgid "KOrganizer"
+msgstr "KOrganizer"
+
+#: core/utils.cpp:189
+#, kde-format
+msgid "KNotes"
+msgstr "KNotes"
+
+#: core/utils.cpp:191
+#, kde-format
+msgid "Akregator"
+msgstr "Akregator"
+
+#: core/utils.cpp:205
+#, kde-format
+msgid "Identity"
+msgstr "danh tính"
+
+#: core/utils.cpp:207
+#, kde-format
+msgid "Mails"
+msgstr "Thư"
+
+#: core/utils.cpp:209
+#, kde-format
+msgid "Mail Transport"
+msgstr "Giao thức thư"
+
+#: core/utils.cpp:211
+#, kde-format
+msgid "Resources"
+msgstr "Tài nguyên"
+
+#: core/utils.cpp:213
+#, kde-format
+msgid "Config"
+msgstr "Cấu hình"
+
+#: core/utils.cpp:215
+#, kde-format
+msgid "Data"
+msgstr "Dữ liệu"
+
+#: gui/dialog/backupfilestructureinfodialog.cpp:35
+#, kde-format
+msgctxt "@title:window"
+msgid "Archive File Structure"
+msgstr "Cấu trúc Tệp Kho trữ"
+
+#: gui/dialog/backupfilestructureinfodialog.cpp:37
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Backup Archive Structure:"
+msgstr "Cấu trúc Kho Lưu Trữ Sao Lưu:"
+
+#: gui/dialog/backupfilestructureinfodialog.cpp:63
+#, kde-format
+msgid "backup-structure.txt file was not found."
+msgstr "Không tìm thấy tệp backup-structure.txt."
+
+#: gui/dialog/pimdataexporterconfiguredialog.cpp:34
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure PimDataExporter"
+msgstr "Cấu hình PimDataExporter"
+
+#: gui/dialog/pimdataexporterconfiguredialog.cpp:43
+#, kde-format
+msgid "General"
+msgstr "chung"
+
+#: gui/dialog/pimdataexporterconfiguredialog.cpp:58
+#, kde-format
+msgid "User Feedback"
+msgstr "Phản hồi của người dùng"
+
+#: gui/dialog/selectiontypedialog.cpp:27
+#, kde-format
+msgid "Use this template by default"
+msgstr "Sử dụng bản mẫu này theo mặc định"
+
+#: gui/dialog/selectiontypedialog.cpp:28
+#, kde-format
+msgctxt "@action:button"
+msgid "Save as Template..."
+msgstr "Lưu thành Mẫu..."
+
+#: gui/dialog/selectiontypedialog.cpp:29
+#, kde-format
+msgctxt "@action:button"
+msgid "Load Template..."
+msgstr "Tải mẫu..."
+
+#: gui/dialog/selectiontypedialog.cpp:31
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Type"
+msgstr "Chọn Kiểu"
+
+#: gui/dialog/selectiontypedialog.cpp:52 gui/dialog/synchronizeresourcedialog.cpp:46
+#, kde-format
+msgctxt "@action:button"
+msgid "Select All"
+msgstr "Bôi đen tất cả"
+
+#: gui/dialog/selectiontypedialog.cpp:57 gui/dialog/synchronizeresourcedialog.cpp:51
+#, kde-format
+msgctxt "@action:button"
+msgid "Unselect All"
+msgstr "Bỏ chọn tất cả"
+
+#: gui/dialog/showarchivestructuredialog.cpp:40
+#, kde-format
+msgctxt "@action:button"
+msgid "Extract Selected File"
+msgstr "Trích xuất Tệp Đã Chọn"
+
+#: gui/dialog/showarchivestructuredialog.cpp:41
+#, kde-format
+msgctxt "@action:button"
+msgid "Open Selected File"
+msgstr "Mở tệp đã chọn"
+
+#: gui/dialog/showarchivestructuredialog.cpp:43
+#, kde-format
+msgctxt "@title:window"
+msgid "Show Archive Content on file \"%1\""
+msgstr "Hiển thị nội dung kho trữ trên tệp \"%1\""
+
+#: gui/dialog/showarchivestructuredialog.cpp:51
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Search..."
+msgstr "Tìm kiếm..."
+
+#: gui/dialog/showarchivestructuredialog.cpp:54
+#, kde-format
+msgid "Save As Text..."
+msgstr "Lưu Thành Văn Bản..."
+
+#: gui/dialog/showarchivestructuredialog.cpp:134
+#, kde-format
+msgid "Select Directory"
+msgstr "Chọn Thư mục"
+
+#: gui/dialog/showarchivestructuredialog.cpp:140
+#, kde-format
+msgid "Do you want to overwrite %1?"
+msgstr "Bạn có muốn ghi đè %1 không?"
+
+#: gui/dialog/showarchivestructuredialog.cpp:141
+#, kde-format
+msgid "File Already Exist"
+msgstr "Tệp đã tồn tại"
+
+#: gui/dialog/showarchivestructuredialog.cpp:149
+#, kde-format
+msgid "Impossible to copy %1 in %2."
+msgstr "Không thể sao chép %1 trong %2."
+
+#: gui/dialog/showarchivestructuredialog.cpp:172
+#, kde-format
+msgctxt "qfiledialog filter files text"
+msgid "Text Files"
+msgstr "Tệp văn bản"
+
+#: gui/dialog/showarchivestructuredialog.cpp:175
+#, kde-format
+msgctxt "@title:window"
+msgid "Export Log File"
+msgstr "Xuất Tệp Nhật Kí"
+
+#: gui/dialog/showarchivestructuredialog.cpp:183
+#, kde-format
+msgid "Cannot open archive"
+msgstr "Không thể mở kho trữ"
+
+#: gui/dialog/showarchivestructuredialog.cpp:189
+#, kde-format
+msgid "Info"
+msgstr "Thông tin"
+
+#: gui/dialog/showarchivestructuredialog.cpp:191
+#, kde-format
+msgid "This is not pim archive."
+msgstr "Đây không phải là kho lưu trữ pim."
+
+#: gui/dialog/showarchivestructuredialog.cpp:191
+#, kde-format
+msgid "Show information"
+msgstr "Hiển thị thông tin"
+
+#: gui/dialog/synchronizeresourcedialog.cpp:29
+#, kde-format
+msgctxt "@title:window"
+msgid "Synchronize Resources"
+msgstr "Đồng bộ hóa Tài nguyên"
+
+#: gui/dialog/synchronizeresourcedialog.cpp:32
+#, kde-format
+msgctxt "@label:textbox"
+msgid ""
+"Some resources were added but data were not sync. Select resources that you "
+"want to sync:"
+msgstr ""
+"Một số tài nguyên đã được thêm vào nhưng dữ liệu chưa được đồng bộ. Bôi đen "
+"các tài nguyên bạn muốn đồng bộ:"
+
+#: gui/importexportprogressindicatorgui.cpp:35
+#: gui/job/fullsynchronizeresourcesjob.cpp:39
+#, kde-format
+msgid "Cancel"
+msgstr "huỷ"
+
+#: gui/importexportprogressindicatorgui.cpp:66
+#, kde-format
+msgid "\"%1\" already exists. Do you want to overwrite it or merge it?"
+msgstr "\"%1\" đã tồn tại. Bạn có muốn ghi đè lên nó hoặc trộn nó?"
+
+#: gui/importexportprogressindicatorgui.cpp:67
+#: gui/importexportprogressindicatorgui.cpp:79
+#: gui/importexportprogressindicatorgui.cpp:92
+#, kde-format
+msgid "Restore"
+msgstr "Khôi phục"
+
+#: gui/importexportprogressindicatorgui.cpp:69
+#, kde-format
+msgctxt "@action:button"
+msgid "Merge"
+msgstr "Trộn"
+
+#: gui/importexportprogressindicatorgui.cpp:78
+#, kde-format
+msgid "\"%1\" already exists. Do you want to overwrite it?"
+msgstr "\"%1\" đã tồn tại. Bạn có muốn ghi đè lên nó không?"
+
+#: gui/importexportprogressindicatorgui.cpp:91
+#, kde-format
+msgid "Directory \"%1\" already exists. Do you want to overwrite it?"
+msgstr "Thư mục \"%1\" đã tồn tại. Bạn có muốn ghi đè lên nó không?"
+
+#: gui/job/fullsynchronizeresourcesjob.cpp:41
+#, kde-format
+msgctxt "@title:window"
+msgid "Synchronize resources"
+msgstr "Đồng bộ hóa tài nguyên"
+
+#: gui/job/fullsynchronizeresourcesjob.cpp:42
+#, kde-format
+msgid "Synchronize resources... It can take some time."
+msgstr "Đồng bộ hóa tài nguyên... Có thể mất một chút thời gian."
+
+#: gui/pimdatabackuprestoreui.cpp:25
+#, kde-format
+msgid ""
+"The archive was created by a newer version of this program. It might contain "
+"additional data which will be skipped during import. Do you want to import "
+"it?"
+msgstr ""
+"Kho trữ này được tạo bởi một phiên bản mới hơn của chương trình này. Nó có "
+"thể chứa dữ liệu bổ sung sẽ bị bỏ qua trong quá trình nhập khẩu. Bạn có "
+"muốn nhập khẩu nó không?"
+
+#: gui/pimdatabackuprestoreui.cpp:27
+#, kde-format
+msgid "Not correct version"
+msgstr "Không phải phiên bản chính xác"
+
+#: gui/pimdatabackuprestoreui.cpp:28
+#, kde-format
+msgctxt "@action:button"
+msgid "Import"
+msgstr "Nhập khẩu"
+
+#: gui/pimdatacommandlineoption.cpp:37 gui/pimdatacommandlineoption.cpp:39
+#, kde-format
+msgid "PIM Data Exporter"
+msgstr "Trình xuất dữ liệu PIM"
+
+#: gui/pimdatacommandlineoption.cpp:41
+#, kde-format
+msgid "Copyright © 2012-%1 pimdataexporter authors"
+msgstr "Bản quyền © 2012-%1 tác giả pimdataexporter"
+
+#: gui/pimdatacommandlineoption.cpp:46
+#, kde-format
+msgid "Template file uses to define what data, settings to import or export"
+msgstr ""
+"Tệp bản mẫu được sử dụng để xác định dữ liệu, thiết lập cần nhập khẩu hoặc "
+"xuất khẩu"
+
+#: gui/pimdatacommandlineoption.cpp:48
+#, kde-format
+msgctxt "@info:shell"
+msgid "Import the given file"
+msgstr "Nhập khẩu tệp đã cho"
+
+#: gui/pimdatacommandlineoption.cpp:49
+#, kde-format
+msgctxt "@info:shell"
+msgid "Export the given file"
+msgstr "Xuất khẩu tệp đã cho"
+
+#: gui/pimdatacommandlineoption.cpp:51
+#, kde-format
+msgctxt "@info:shell"
+msgid "File or url. The user will be asked whether to import or export."
+msgstr "Tệp hoặc URL. Người dùng sẽ được hỏi liệu có nhập khẩu hay xuất khẩu."
+
+#: gui/pimdatacommandlineoption.cpp:53
+#, kde-format
+msgctxt "@info:shell"
+msgid "Lists the available options for user feedback"
+msgstr "Liệt kê các tùy chọn hiện có để người dùng phản hồi"
+
+#. i18n: ectx: Menu (file)
+#: gui/pimdataexporter.rc:8
+#, kde-format
+msgid "&File"
+msgstr "Tệ&p"
+
+#. i18n: ectx: Menu (tools)
+#: gui/pimdataexporter.rc:21
+#, kde-format
+msgid "&Tools"
+msgstr "Cô&ng cụ"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: gui/pimdataexporter.rc:28
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Thanh công cụ chính"
+
+#: gui/pimdataexporterwindow.cpp:167
+#, kde-format
+msgid "Full sync starts..."
+msgstr "Đồng bộ đầy đủ đang bắt đầu..."
+
+#: gui/pimdataexporterwindow.cpp:197
+#, kde-format
+msgid "Full sync finished."
+msgstr "Đồng bộ hoàn tất."
+
+#: gui/pimdataexporterwindow.cpp:204
+#, kde-format
+msgid "Full sync for \"%1\" done."
+msgstr "Đồng bộ hoàn tất cho \"%1\"."
+
+#: gui/pimdataexporterwindow.cpp:209
+#, kde-format
+msgid "Full sync for \"%1\" failed."
+msgstr "Đồng bộ hoàn toàn cho \"%1\" không thành công."
+
+#: gui/pimdataexporterwindow.cpp:215
+#, kde-format
+msgid ""
+"For restoring data, you must use \"pimdataexporter\". Be careful as it can "
+"overwrite your existing settings and data."
+msgstr ""
+"Để khôi phục dữ liệu, bạn phải sử dụng \"pimdataexporter\". Hãy cẩn thận vì "
+"nó có thể ghi đè lên các thiết lập và dữ liệu hiện có của bạn."
+
+#: gui/pimdataexporterwindow.cpp:217 gui/pimdataexporterwindow.cpp:323
+#: gui/pimdataexporterwindow.cpp:401
+#, kde-format
+msgid "Backup"
+msgstr "Sao lưu"
+
+#: gui/pimdataexporterwindow.cpp:244
+#, kde-format
+msgid "Export Data..."
+msgstr "Xuất khẩu dữ liệu..."
+
+#: gui/pimdataexporterwindow.cpp:249
+#, kde-format
+msgid "Import Data..."
+msgstr "Nhập khẩu dữ liệu..."
+
+#: gui/pimdataexporterwindow.cpp:254
+#, kde-format
+msgid "Save log..."
+msgstr "Lưu nhật ký..."
+
+#: gui/pimdataexporterwindow.cpp:257
+#, kde-format
+msgid "Show Archive Structure Information..."
+msgstr "Hiện thông tin cấu trúc kho trữ..."
+
+#: gui/pimdataexporterwindow.cpp:260
+#, kde-format
+msgid "Show Archive Information..."
+msgstr "Hiện thông tin kho trữ..."
+
+#: gui/pimdataexporterwindow.cpp:264
+#, kde-format
+msgid "Show Information on current Archive..."
+msgstr "Hiển thị thông tin về Lưu trữ hiện tại..."
+
+#: gui/pimdataexporterwindow.cpp:301
+#, kde-format
+msgid "Select Archive"
+msgstr "Chọn Kho trữ"
+
+#: gui/pimdataexporterwindow.cpp:301
+#, kde-format
+msgid "Zip file"
+msgstr "Tệp nén"
+
+#: gui/pimdataexporterwindow.cpp:313
+#, kde-format
+msgid "Log is empty."
+msgstr "Nhật kí trống."
+
+#: gui/pimdataexporterwindow.cpp:313
+#, kde-format
+msgid "Save log"
+msgstr "Lưu nhật kí"
+
+#: gui/pimdataexporterwindow.cpp:317
+#, kde-format
+msgid "HTML Files (*.html)"
+msgstr "Tệp HTML (*.html)"
+
+#: gui/pimdataexporterwindow.cpp:323
+#, kde-format
+msgid "Please quit all kdepim applications before backing up your data."
+msgstr ""
+"Vui lòng thoát tất cả các ứng dụng kdepim trước khi sao lưu dữ liệu của "
+"bạn."
+
+#: gui/pimdataexporterwindow.cpp:346
+#, kde-format
+msgid "Create backup"
+msgstr "Tạo bản sao lưu"
+
+#: gui/pimdataexporterwindow.cpp:348
+#, kde-format
+msgid "Zip file (*.zip)"
+msgstr "Tệp zip (*.zip)"
+
+#: gui/pimdataexporterwindow.cpp:358
+#, kde-format
+msgid "Backup in progress..."
+msgstr "Đang sao lưu..."
+
+#: gui/pimdataexporterwindow.cpp:400
+#, kde-format
+msgid ""
+"Before restoring data you must close all kdepim applications. Do you want to "
+"continue?"
+msgstr ""
+"Trước khi khôi phục dữ liệu, bạn phải đóng tất cả các ứng dụng kdepim. Bạn "
+"có muốn tiếp tục không?"
+
+#: gui/pimdataexporterwindow.cpp:414
+#, kde-format
+msgid "Restore backup"
+msgstr "Khôi phục bản sao lưu"
+
+#: gui/pimdataexporterwindow.cpp:416
+#, kde-format
+msgid "Zip File"
+msgstr "Tệp Zip"
+
+#: gui/pimdataexporterwindow.cpp:448
+#, kde-format
+msgid "Restore in progress..."
+msgstr "Đang khôi phục..."
+
+#: gui/trayicon/pimdatatrayicon.cpp:13
+#, kde-format
+msgid "Pim Data Exporter"
+msgstr "Trình xuất dữ liệu Pim"
+
+#: gui/widgets/pimdataexporterconfigurewidget.cpp:16
+#, kde-format
+msgid "Always Override File"
+msgstr "Luôn Vượt Hiệu Lực Tệp"
+
+#: gui/widgets/pimdataexporterconfigurewidget.cpp:17
+#, kde-format
+msgid "Always Override Directory"
+msgstr "Luôn Vượt Hiệu Lực Thư Mục"
+
+#: gui/widgets/pimdataexporterconfigurewidget.cpp:18
+#, kde-format
+msgid "Always Merge Config File"
+msgstr "Luôn Trộn Tệp Cấu Hình"
+
+#: gui/widgets/pimdataexporterconfigurewidget.cpp:23
+#, kde-format
+msgid "Import"
+msgstr "Nhập khẩu"
+
+#: gui/widgets/selectiontypetreewidget.cpp:350
+#, kde-format
+msgid "Template Files (*.xml)"
+msgstr "Tệp Bản Mẫu (*.xml)"

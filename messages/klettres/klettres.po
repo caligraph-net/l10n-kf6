@@ -43,10 +43,10 @@ msgstr ""
 "\n"
 
 #: klettres.cpp:94
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "KLettres"
 msgid "KLettres - Error"
-msgstr "KLettres"
+msgstr "KLettres - Lỗi"
 
 #: klettres.cpp:116
 #, kde-format
@@ -92,11 +92,11 @@ msgstr ""
 "Tệp rồi Chơi lại Âm thanh"
 
 #: klettres.cpp:140
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "L&evel"
 msgctxt "@label:listbox which difficulty level to use"
 msgid "L&evel"
-msgstr "T&rình độ"
+msgstr "Cấ&p độ"
 
 #: klettres.cpp:141
 #, kde-format
@@ -116,19 +116,19 @@ msgstr ""
 "độ 4 không hiển thị các âm tiết, bạn chỉ nghe thấy chúng."
 
 #: klettres.cpp:145
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Language"
 msgctxt "@label:listbox"
 msgid "&Language"
 msgstr "&Ngôn ngữ"
 
 #: klettres.cpp:148 klettres.cpp:149 klettres.cpp:150 klettres.cpp:151
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Level 1"
 msgctxt "@item:inlistbox choose level"
 msgid "Level %1"
 msgid_plural "Level %1"
-msgstr[0] "Trình độ 1"
+msgstr[0] "Cấp độ %1"
 
 #: klettres.cpp:156
 #, kde-format
@@ -170,16 +170,17 @@ msgid "Mode Grown-up"
 msgstr "Chế độ Người lớn"
 
 #: klettres.cpp:174
-#, fuzzy, kde-format
+#, kde-format
 msgid "The Grownup mode is the normal mode where you can see the menubar."
 msgstr ""
-"Chế độ Người lớn, là chế độ thông thường, và bạn sẽ thấy thanh thực đơn."
+"Chế độ Người lớn là chế độ bình thường, nơi bạn có thể nhìn thấy thanh "
+"menu."
 
 #. i18n: ectx: label, entry (Font), group (mFont)
 #: klettres.cpp:210 klettres.kcfg:51
 #, kde-format
 msgid "Font"
-msgstr ""
+msgstr "phông chữ"
 
 #: klettres.cpp:210
 #, kde-format
@@ -192,16 +193,16 @@ msgid "Timer"
 msgstr "Đồng hồ hẹn giờ"
 
 #: klettres.cpp:212
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Timer setting widgets"
 msgid "Timer Settings"
-msgstr "Ô điều khiển đặt đồng hồ hẹn giờ"
+msgstr "Thiết lập Đồng hồ hẹn giờ"
 
 #: klettres.cpp:230 klettres.cpp:298
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:status the current level chosen"
 msgid "(Level %1)"
-msgstr "Trình độ 1"
+msgstr "(Cấp độ %1)"
 
 #: klettres.cpp:341
 #, kde-format
@@ -235,7 +236,7 @@ msgstr ""
 #: klettres.cpp:385
 #, kde-format
 msgid "Error"
-msgstr ""
+msgstr "Lỗi"
 
 #. i18n: ectx: label, entry (Language), group (General)
 #: klettres.kcfg:10
@@ -253,7 +254,7 @@ msgstr "Sắc thái"
 #: klettres.kcfg:23
 #, kde-format
 msgid "Whether the menubar is shown or hidden"
-msgstr ""
+msgstr "Liệu thanh menu có được hiển thị hay ẩn"
 
 #. i18n: ectx: label, entry (Mode), group (General)
 #: klettres.kcfg:27
@@ -283,7 +284,7 @@ msgstr "Đồng hồ hẹn giờ Người lớn"
 #: klettresui.rc:4
 #, kde-format
 msgid "&File"
-msgstr ""
+msgstr "Tệ&p"
 
 #. i18n: ectx: Menu (look_mode)
 #: klettresui.rc:15
@@ -293,9 +294,9 @@ msgstr "&Ngoại hình"
 
 #. i18n: ectx: Menu (settings)
 #: klettresui.rc:23
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Settings"
-msgstr "Cài đặt Phông chữ"
+msgstr "Th&iết lập"
 
 #. i18n: ectx: ToolBar (mainToolbar)
 #: klettresui.rc:33
@@ -305,9 +306,9 @@ msgstr "Chính"
 
 #. i18n: ectx: ToolBar (specialCharToolbar)
 #: klettresui.rc:47
-#, fuzzy, kde-format
+#, kde-format
 msgid "Special Characters"
-msgstr "Kí tự"
+msgstr "Ký tự đặc biệt"
 
 #: klettresview.cpp:32
 #, kde-format
@@ -318,16 +319,16 @@ msgstr "Nhập chữ cái hay âm tiết mà bạn vừa nghe thấy"
 #, kde-format
 msgctxt "%1 is uppercase letter, %2 is the same in lowercase"
 msgid "%1 / %2"
-msgstr ""
+msgstr "%1 / %2"
 
 #: kltheme.cpp:36
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Kid"
-msgstr ""
+msgstr "Kid"
 
 #: kltheme.cpp:86
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Desert"
 msgctxt "@item:inlistbox desert theme for the interface"
 msgid "Desert"
@@ -337,13 +338,13 @@ msgstr "Sa mạc"
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Savannah"
-msgstr ""
+msgstr "Savannah"
 
 #: kltheme.cpp:187
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Aqua"
-msgstr ""
+msgstr "Aqua"
 
 #: langutils.cpp:88
 #, kde-format
@@ -356,21 +357,21 @@ msgid "Luganda"
 msgstr "Luganda"
 
 #: langutils.cpp:92
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "English sounds"
 msgid "English Phonics"
-msgstr "Giọng Anh"
+msgstr "Tiếng Anh Phonic"
 
 #: langutils.cpp:94
 #, kde-format
 msgid "Tswana"
-msgstr ""
+msgstr "Tswana"
 
 #: langutils.cpp:99
 #, kde-format
 msgctxt "@item:inlistbox no language for that locale"
 msgid "None"
-msgstr ""
+msgstr "Không có"
 
 #: main.cpp:24
 #, kde-format
@@ -378,7 +379,7 @@ msgid "KLettres"
 msgstr "KLettres"
 
 #: main.cpp:24
-#, fuzzy, kde-format
+#, kde-format
 msgid ""
 "KLettres helps a very young child or an adult learning \n"
 "a new language by associating sounds and \n"
@@ -386,49 +387,44 @@ msgid ""
 "\n"
 "25 languages are available."
 msgstr ""
-"KLettres giúp trẻ nhỏ hay người lớn học\n"
-"một ngôn ngữ mới bằng cách liên hệ âm thanh và \n"
-"chữ cái trong ngôn ngữ đó.\n"
-"Hiện có 10 ngôn ngữ: tiếng Séc, tiếng Đan Mạch, tiếng Hà Lan, tiếng Anh, "
-"tiếng Pháp,\n"
-"tiếng Ý, tiếng Luganda, tiếng Ấn Độ latinh hoá, tiếng Tây Ban Nha và tiếng "
-"Slovakia."
+"KLettres giúp trẻ nhỏ hoặc người lớn đang học một ngôn ngữ mới bằng cách "
+"liên kết âm thanh và chữ cái trong ngôn ngữ đó.\n\nHiện có 25 ngôn ngữ."
 
 #: main.cpp:28
 #, kde-format
 msgid "(C) 2001-2011 Anne-Marie Mahfouf"
-msgstr ""
+msgstr "(C) 2001-2011 Anne-Marie Mahfouf"
 
 #: main.cpp:29
 #, kde-format
 msgid "Anne-Marie Mahfouf"
-msgstr ""
+msgstr "Anne-Marie Mahfouf"
 
 #: main.cpp:30
 #, kde-format
 msgid "Marc Cheng"
-msgstr ""
+msgstr "Marc Cheng"
 
 #: main.cpp:31
 #, kde-format
 msgid "Kids and grown-up oxygen icons"
-msgstr ""
+msgstr "Biểu tượng oxy cho trẻ em và người lớn"
 
 #: main.cpp:32
 #, kde-format
 msgid "Danny Allen"
-msgstr ""
+msgstr "Danny Allen"
 
 #: main.cpp:33
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Background picture"
 msgid "SVG background pictures"
-msgstr "Hình nền"
+msgstr "Hình nền SVG"
 
 #: main.cpp:34
 #, kde-format
 msgid "Robert Gogolok"
-msgstr ""
+msgstr "Robert Gogolok"
 
 #: main.cpp:35
 #, kde-format
@@ -438,7 +434,7 @@ msgstr "Hỗ trợ và hướng dẫn viết mã"
 #: main.cpp:36
 #, kde-format
 msgid "Peter Hedlund"
-msgstr ""
+msgstr "Peter Hedlund"
 
 #: main.cpp:37
 #, kde-format
@@ -448,7 +444,7 @@ msgstr "Mã để tạo ra các biểu tượng có kí tự đặc biệt"
 #: main.cpp:38
 #, kde-format
 msgid "Waldo Bastian"
-msgstr ""
+msgstr "Waldo Bastian"
 
 #: main.cpp:39
 #, kde-format
@@ -458,17 +454,17 @@ msgstr "Chuyển sang KConfig XT, giúp đỡ viết mã"
 #: main.cpp:40
 #, kde-format
 msgid "Pino Toscano"
-msgstr ""
+msgstr "Pino Toscano"
 
 #: main.cpp:41
 #, kde-format
 msgid "Code cleaning, Theme class"
-msgstr ""
+msgstr "Dọn dẹp mã, Lớp Chủ đề"
 
 #: main.cpp:42
 #, kde-format
 msgid "Michael Goettsche"
-msgstr ""
+msgstr "Michael Goettsche"
 
 #: main.cpp:43
 #, kde-format
@@ -478,12 +474,12 @@ msgstr "Ô điều khiển đặt đồng hồ hẹn giờ"
 #: main.cpp:44
 #, kde-format
 msgid "Laurent Navet"
-msgstr ""
+msgstr "Laurent Navet"
 
 #: main.cpp:45
 #, kde-format
 msgid "Port to KDE Frameworks 5"
-msgstr ""
+msgstr "Chuyển sang KDE Frameworks 5"
 
 #: soundfactory.cpp:86
 #, kde-format
@@ -491,11 +487,11 @@ msgid "Error while loading the sound names."
 msgstr "Lỗi tải tên âm thanh."
 
 #: timer.cpp:19 timer.cpp:20 timer.cpp:28 timer.cpp:29
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "tenths of second"
 msgid "1 tenth of second"
 msgid_plural "%1 tenths of second"
-msgstr[0] "một phần mười giây"
+msgstr[0] "%1 phần mười giây"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: timerui.ui:51
@@ -506,10 +502,10 @@ msgstr "Đặt thời gian giữa hai chữ cái."
 #. i18n: ectx: property (toolTip), widget (QSlider, kcfg_KidTimer)
 #. i18n: ectx: property (toolTip), widget (QSlider, kcfg_GrownTimer)
 #: timerui.ui:91 timerui.ui:184
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Set the timer (in minutes)"
 msgid "Set the timer (in tenths of seconds)"
-msgstr "Đặt đồng hồ hẹn giờ (theo phút)"
+msgstr "Đặt đồng hồ hẹn giờ (theo phần mười giây)"
 
 #. i18n: ectx: property (whatsThis), widget (QSlider, kcfg_KidTimer)
 #: timerui.ui:94
@@ -518,6 +514,8 @@ msgid ""
 "You can set the time between two letters in Kid mode. Default is 4 tenths of "
 "seconds but younger children might need longer time."
 msgstr ""
+"Bạn có thể đặt thời gian giữa hai chữ cái ở chế độ Kid. Mặc định là 4 phần "
+"mười giây nhưng trẻ em nhỏ tuổi hơn có thể cần thời gian lâu hơn."
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: timerui.ui:122
@@ -529,6 +527,11 @@ msgid ""
 "top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-"
 "indent:0; text-indent:0px;\">Kid Mode</p></body></html>"
 msgstr ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style=\" "
+"white-space: pre-wrap; font-family:Sans Serif; font-size:9pt; "
+"font-weight:400; font-style:normal; text-decoration:none;\"><p style=\" "
+"margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; "
+"-qt-block-indent:0; text-indent:0px;\">Chế độ trẻ em</p></body></html>"
 
 #. i18n: ectx: property (whatsThis), widget (QSlider, kcfg_GrownTimer)
 #: timerui.ui:187
@@ -537,6 +540,8 @@ msgid ""
 "You can set the time between two letters in Grown-up mode. Default is 2 "
 "tenths of seconds."
 msgstr ""
+"Bạn có thể đặt thời gian giữa hai chữ cái ở chế độ Dành cho người lớn. Mặc "
+"định là 2 phần mười giây."
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: timerui.ui:215
@@ -548,3 +553,8 @@ msgid ""
 "top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-"
 "indent:0; text-indent:0px;\">Grown-up Mode</p></body></html>"
 msgstr ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style=\" "
+"white-space: pre-wrap; font-family:Sans Serif; font-size:9pt; "
+"font-weight:400; font-style:normal; text-decoration:none;\"><p style=\" "
+"margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; "
+"-qt-block-indent:0; text-indent:0px;\">Chế độ người lớn</p></body></html>"

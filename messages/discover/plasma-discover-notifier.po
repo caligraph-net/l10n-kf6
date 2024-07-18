@@ -1,0 +1,158 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the discover package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: discover\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-11 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: notifier/DiscoverNotifier.cpp:167
+#, kde-format
+msgid "View Updates"
+msgstr "Xem Cập Nhật"
+
+#: notifier/DiscoverNotifier.cpp:279
+#, kde-format
+msgid "Security updates available"
+msgstr "Có bản cập nhật an ninh"
+
+#: notifier/DiscoverNotifier.cpp:281
+#, kde-format
+msgid "Updates available"
+msgstr "Có bản cập nhật"
+
+#: notifier/DiscoverNotifier.cpp:283
+#, kde-format
+msgid "System up to date"
+msgstr "Hệ thống đã được cập nhật"
+
+#: notifier/DiscoverNotifier.cpp:285
+#, kde-format
+msgid "Computer needs to restart"
+msgstr "Máy tính cần khởi động lại"
+
+#: notifier/DiscoverNotifier.cpp:287
+#, kde-format
+msgid "Offline"
+msgstr "Ngoại tuyến"
+
+#: notifier/DiscoverNotifier.cpp:289
+#, kde-format
+msgid "Applying unattended updates…"
+msgstr "Đang áp dụng các bản cập nhật không theo dõi..."
+
+#: notifier/DiscoverNotifier.cpp:314
+#, kde-format
+msgid "Restart is required"
+msgstr "Cần phải khởi động lại"
+
+#: notifier/DiscoverNotifier.cpp:315
+#, kde-format
+msgid "The system needs to be restarted for the updates to take effect."
+msgstr "Hệ thống cần được khởi động lại để các bản cập nhật có hiệu lực."
+
+#: notifier/DiscoverNotifier.cpp:320
+#, kde-format
+msgctxt "@action:button"
+msgid "Restart"
+msgstr "Khởi động lại"
+
+#: notifier/DiscoverNotifier.cpp:345
+#, kde-format
+msgid "Upgrade available"
+msgstr "Có bản nâng cấp"
+
+#: notifier/DiscoverNotifier.cpp:346
+#, kde-format
+msgctxt "A new distro release (name and version) is available for upgrade"
+msgid "%1 is now available."
+msgstr "%1 hiện đã có sẵn."
+
+#: notifier/DiscoverNotifier.cpp:349
+#, kde-format
+msgctxt "@action:button"
+msgid "Upgrade"
+msgstr "Nâng cấp"
+
+#: notifier/main.cpp:38
+#, kde-format
+msgid "Discover Notifier"
+msgstr "Thông báo Discover"
+
+#: notifier/main.cpp:40
+#, kde-format
+msgid "System update status notifier"
+msgstr "Thông báo trạng thái cập nhật hệ thống"
+
+#: notifier/main.cpp:42
+#, kde-format
+msgid "© 2010-2024 Plasma Development Team"
+msgstr "© 2010-2024 Nhóm Phát triển Plasma"
+
+#: notifier/main.cpp:46
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#: notifier/main.cpp:46
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Địa chỉ email của bạn"
+
+#: notifier/main.cpp:51
+#, kde-format
+msgid "Replace an existing instance"
+msgstr "Thay thế một hiện thể hiện có"
+
+#: notifier/main.cpp:53
+#, kde-format
+msgid "Do not show the notifier"
+msgstr "Không hiển thị thông báo"
+
+#: notifier/main.cpp:53
+#, kde-format
+msgid "hidden"
+msgstr "ẩn"
+
+#: notifier/NotifierItem.cpp:22 notifier/NotifierItem.cpp:23
+#, kde-format
+msgid "Updates"
+msgstr "Cập nhật"
+
+#: notifier/NotifierItem.cpp:35
+#, kde-format
+msgid "Open Discover…"
+msgstr "Mở Discover..."
+
+#: notifier/NotifierItem.cpp:40
+#, kde-format
+msgid "See Updates…"
+msgstr "Xem bản cập nhật..."
+
+#: notifier/NotifierItem.cpp:45
+#, kde-format
+msgid "Refresh…"
+msgstr "Làm mới..."
+
+#: notifier/NotifierItem.cpp:49
+#, kde-format
+msgid "Restart to apply installed updates"
+msgstr "Khởi động lại để áp dụng các bản cập nhật đã cài đặt"
+
+#: notifier/NotifierItem.cpp:50
+#, kde-format
+msgid "Click to restart the device"
+msgstr "Bấm để khởi động lại thiết bị"

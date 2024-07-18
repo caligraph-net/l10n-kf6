@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-mobile package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-mobile\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-24 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: package/contents/ui/FavoritesGrid.qml:221
+#: package/contents/ui/FolderGrid.qml:189
+#, kde-format
+msgid "Remove from favourites"
+msgstr "Xoá khỏi mục yêu thích"
+
+#: package/contents/ui/FavoritesGrid.qml:291
+#, kde-format
+msgid "Add applications to your favourites so they show up here."
+msgstr "Thêm các ứng dụng vào mục yêu thích của bạn để chúng hiển thị ở đây."
+
+#: package/contents/ui/FolderGrid.qml:194
+#, kde-format
+msgid "Move out of folder"
+msgstr "Di chuyển ra khỏi thư mục"
+
+#: package/contents/ui/GridAppDelegate.qml:64
+#, kde-format
+msgid "Add to favourites"
+msgstr "Thêm vào mục yêu thích"
+
+#: package/contents/ui/GridAppList.qml:68
+#, kde-format
+msgid "Applications"
+msgstr "Ứng dụng"
+
+#: plugin/pinnedmodel.cpp:150
+#, kde-format
+msgctxt "Default application folder name."
+msgid "Folder"
+msgstr "Thư mục"

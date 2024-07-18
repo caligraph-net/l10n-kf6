@@ -1,0 +1,422 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdepim-addons package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdepim-addons\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-18 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: dkim-verify/dkimadvancedwidget.cpp:19
+#, kde-format
+msgid "Still verify the signature, if a domain is only testing DKIM"
+msgstr "Vẫn xác minh chữ ký, nếu một miền chỉ đang thử nghiệm DKIM"
+
+#: dkim-verify/dkimadvancedwidget.cpp:20
+#, kde-format
+msgid "Use relaxed parsing when reading \"Authentication-Result\" header"
+msgstr ""
+"Sử dụng phân tích cú pháp nới lỏng khi đọc đầu tải "
+"\"Authentication-Result\""
+
+#: dkim-verify/dkimadvancedwidget.cpp:33 dkim-verify/dkimadvancedwidget.cpp:37
+#: dkim-verify/dkimgeneralwidget.cpp:42
+#, kde-format
+msgid "Nothing"
+msgstr "Không có gì"
+
+#: dkim-verify/dkimadvancedwidget.cpp:33 dkim-verify/dkimadvancedwidget.cpp:37
+#, kde-format
+msgid "Warning"
+msgstr "Cảnh báo"
+
+#: dkim-verify/dkimadvancedwidget.cpp:33 dkim-verify/dkimadvancedwidget.cpp:37
+#, kde-format
+msgid "Error"
+msgstr "Lỗi"
+
+#: dkim-verify/dkimadvancedwidget.cpp:34
+#, kde-format
+msgid "Treat RSA-SHA1 sign algorithm as:"
+msgstr "Xử lý thuật toán ký RSA-SHA1 như:"
+
+#: dkim-verify/dkimadvancedwidget.cpp:38
+#, kde-format
+msgid "Treat small Key as:"
+msgstr "Xử lý Khóa nhỏ như:"
+
+#: dkim-verify/dkimadvancedwidget.cpp:40
+#, kde-format
+msgctxt "@action:button"
+msgid "Configure"
+msgstr "Cấu hình"
+
+#: dkim-verify/dkimadvancedwidget.cpp:43
+#, kde-format
+msgid "Authentication Server verified:"
+msgstr "Máy chủ xác thực đã xác minh:"
+
+#: dkim-verify/dkimauthenticationverifiedserverdialog.cpp:25
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure Authentication Verified Server"
+msgstr "Cấu hình Máy Chủ Xác Minh Đã Được Xác Thực"
+
+#: dkim-verify/dkimauthenticationverifiedserverwidget.cpp:40
+#, kde-format
+msgid "New Server:"
+msgstr "Máy chủ mới:"
+
+#: dkim-verify/dkimauthenticationverifiedserverwidget.cpp:41
+#, kde-format
+msgid "New Server"
+msgstr "Máy chủ mới"
+
+#: dkim-verify/dkimauthenticationverifiedserverwidget.cpp:42
+#, kde-format
+msgid "Modify Server"
+msgstr "Chỉnh sửa máy chủ"
+
+#: dkim-verify/dkimauthenticationverifiedserverwidget.cpp:43
+#, kde-format
+msgid "Server:"
+msgstr "Máy chủ:"
+
+#: dkim-verify/dkimauthenticationverifiedserverwidget.cpp:44
+#, kde-format
+msgid "Do you want to delete selected server(s) name?"
+msgstr "Bạn có muốn xóa tên máy chủ đã chọn không?"
+
+#: dkim-verify/dkimconfiguredialog.cpp:26
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure DKIM"
+msgstr "Cấu hình DKIM"
+
+#: dkim-verify/dkimconfiguretab.cpp:38 foldersettings/folderconfiguresettingspagewidget.cpp:36
+#, kde-format
+msgid "General"
+msgstr "chung"
+
+#: dkim-verify/dkimconfiguretab.cpp:40
+#, kde-format
+msgid "Record Keys"
+msgstr "Bản ghi Khóa"
+
+#: dkim-verify/dkimconfiguretab.cpp:42
+#, kde-format
+msgid "Policy"
+msgstr "Chính sách"
+
+#: dkim-verify/dkimconfiguretab.cpp:44
+#, kde-format
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: dkim-verify/dkimgeneralwidget.cpp:18
+#, kde-format
+msgid "Enable DKIM Support"
+msgstr "Bật Hỗ trợ DKIM"
+
+#: dkim-verify/dkimgeneralwidget.cpp:19
+#, kde-format
+msgid "Save DKIM Result"
+msgstr "Lưu kết quả DKIM"
+
+#: dkim-verify/dkimgeneralwidget.cpp:21
+#, kde-format
+msgid "Replace DKIM result by Authentication-Result header value"
+msgstr "Thay thế kết quả DKIM bằng giá trị đầu tải Authentication-Result"
+
+#: dkim-verify/dkimgeneralwidget.cpp:37
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Save Record Key:"
+msgstr "Lưu khóa bản ghi:"
+
+#: dkim-verify/dkimgeneralwidget.cpp:42
+#, kde-format
+msgid "Save"
+msgstr "Lưu"
+
+#: dkim-verify/dkimgeneralwidget.cpp:42
+#, kde-format
+msgid "Save and Compare"
+msgstr "Lưu và So sánh"
+
+#: dkim-verify/dkimpolicywidget.cpp:18
+#, kde-format
+msgid "Check if e-mail should be signed"
+msgstr "Kiểm tra xem email có nên được ký không"
+
+#: dkim-verify/dkimpolicywidget.cpp:19
+#, kde-format
+msgid "Use DMARC to heuristically determine if an e-mail should be signed"
+msgstr ""
+"Sử dụng DMARC để xác định heuristically xem một email có nên được ký hay "
+"không"
+
+#: dkim-verify/dkimpolicywidget.cpp:20
+#, kde-format
+msgid "Use default rule"
+msgstr "Sử dụng quy tắc mặc định"
+
+#: dkim-verify/dkimpolicywidget.cpp:21
+#, kde-format
+msgid "Autogenerate rule"
+msgstr "Tự động tạo quy tắc"
+
+#: dkim-verify/dkimpolicywidget.cpp:22
+#, kde-format
+msgid "Read Authentication-Results header"
+msgstr "Đọc đầu tải Authentication-Results"
+
+#: dkim-verify/dkimpolicywidget.cpp:23
+#, kde-format
+msgid "Autogenerate when Sender in SDID"
+msgstr "Tự động tạo khi Người gửi trong SDID"
+
+#: dkim-verify/dkimpolicywidget.cpp:24
+#, kde-format
+msgctxt "@action:button"
+msgid "Show Rules"
+msgstr "Hiển thị Quy tắc"
+
+#: expireaccounttrashfolder/expireaccounttrashfolderconfigdialog.cpp:27
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure Expiry Account Trash Folder"
+msgstr "Cấu hình Thùng rác Tài khoản Hết hạn"
+
+#: foldersettings/folderconfiguresettingsdialog.cpp:27
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure Folder Settings"
+msgstr "Cấu hình Thiết lập Thư mục"
+
+#: foldersettings/folderconfiguresettingspagebase.cpp:17
+#, kde-format
+msgid "Modify"
+msgstr "chỉnh sửa"
+
+#: foldersettings/folderconfiguresettingspagewidget.cpp:40
+#, kde-format
+msgid "View"
+msgstr "Xem"
+
+#: foldersettings/folderconfiguresettingspagewidget.cpp:44
+#, kde-format
+msgid "Expiry"
+msgstr "Hết hạn"
+
+#: foldersettings/folderconfiguresettingspagewidget.cpp:48
+#, kde-format
+msgid "Template"
+msgstr "Bản mẫu"
+
+#: foldersettings/folderconfiguresettingspagewidget.cpp:57
+#, kde-format
+msgid ""
+"It will override all settings for each selected folder. Do you want to "
+"continue?"
+msgstr ""
+"Nó sẽ vượt hiệu lực tất cả thiết lập cho mỗi thư mục đã chọn. Bạn có muốn "
+"tiếp tục?"
+
+#: foldersettings/folderconfiguresettingspagewidget.cpp:58
+#, kde-format
+msgctxt "@title:window"
+msgid "Save Folder Settings"
+msgstr "Lưu Thiết Lập Thư Mục"
+
+#: foldersettings/folderconfiguretreewidget.cpp:52
+#, kde-format
+msgctxt "@action:button"
+msgid "Select"
+msgstr "Bôi đen"
+
+#: foldersettings/folderconfiguretreewidget.cpp:60
+#, kde-format
+msgctxt "@action:button"
+msgid "Unselect"
+msgstr "Bỏ chọn"
+
+#: gravatar/gravatarconfiguresettingsplugindialog.cpp:14
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure Gravatar"
+msgstr "Cấu hình Gravatar"
+
+#: gravatar/gravatarconfiguresettingspluginwidget.cpp:23
+#, kde-format
+msgid "Enable Gravatar Support"
+msgstr "Bật Hỗ trợ Gravatar"
+
+#: openurlwith/openurlwithconfigurecreatedialog.cpp:16
+#, kde-format
+msgctxt "@title:window"
+msgid "Create"
+msgstr "Tạo"
+
+#: openurlwith/openurlwithconfigurecreatedialog.cpp:45
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit"
+msgstr "Sửa"
+
+#: openurlwith/openurlwithconfigurecreatewidget.cpp:19
+#, kde-format
+msgid "Enabled"
+msgstr "Bật"
+
+#: openurlwith/openurlwithconfigurecreatewidget.cpp:32
+#, kde-format
+msgid "Server Name:"
+msgstr "Tên máy chủ:"
+
+#: openurlwith/openurlwithconfigurecreatewidget.cpp:36
+#, kde-format
+msgctxt "@label:textbox"
+msgid "<qt><a href=\"whatsthis1\">Argument format information…</a></qt>"
+msgstr "<qt><a href=\"whatsthis1\">Thông tin định dạng đối số…</a></qt>"
+
+#: openurlwith/openurlwithconfigurecreatewidget.cpp:42
+#, kde-format
+msgid ""
+"<qt><p><strong>These expressions may be used for the arguments:</strong></"
+"p><ul><li>%u - url used by command</li></ul></strong></p></qt>"
+msgstr ""
+"<qt><p><strong>Những biểu thức này có thể được sử dụng cho các đối "
+"số:</strong></p><ul><li>%u - url được sử dụng bởi "
+"lệnh</li></ul></strong></p></qt>"
+
+#: openurlwith/openurlwithconfigurecreatewidget.cpp:53
+#, kde-format
+msgid "Command line:"
+msgstr "Dòng lệnh:"
+
+#: openurlwith/openurlwithconfigurecreatewidget.cpp:63
+#, kde-format
+msgid "Executable:"
+msgstr "Chương trình thực thi:"
+
+#: openurlwith/openurlwithconfiguredialog.cpp:25
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure Open Url With Plugin"
+msgstr "Cấu hình phần cài cắm Mở URL"
+
+#: openurlwith/openurlwithconfigurewidget.cpp:59
+#, kde-format
+msgctxt "@action:button"
+msgid "Add Rule…"
+msgstr "Thêm Quy Tắc..."
+
+#: openurlwith/openurlwithconfigurewidget.cpp:60
+#, kde-format
+msgctxt "@action:button"
+msgid "Remove Rule"
+msgstr "Xoá Quy Tắc"
+
+#: openurlwith/openurlwithconfigurewidget.cpp:61
+#, kde-format
+msgctxt "@action:button"
+msgid "Modify Rule…"
+msgstr "Chỉnh sửa Quy tắc..."
+
+#: openurlwith/openurlwithconfigurewidget.cpp:149
+#, kde-format
+msgid "A rule for host was already added."
+msgstr "Một quy tắc cho máy đã được thêm vào."
+
+#: openurlwith/openurlwithconfigurewidget.cpp:149
+#, kde-format
+msgid "Host already checked"
+msgstr "Máy đã được kiểm tra"
+
+#: openurlwith/openurlwithconfigurewidget.cpp:162
+#, kde-format
+msgid "Rule already exists."
+msgstr "Quy tắc đã tồn tại."
+
+#: openurlwith/openurlwithconfigurewidget.cpp:162
+#, kde-format
+msgid "Duplicate Rule"
+msgstr "Quy tắc trùng lặp"
+
+#: openurlwith/openurlwithconfigurewidget.cpp:206
+#, kde-format
+msgid "Do you want to remove this rule?"
+msgid_plural "Do you want to remove these rules?"
+msgstr[0] "Bạn có muốn xoá những quy tắc này không?"
+
+#: openurlwith/openurlwithconfigurewidget.cpp:207
+#, kde-format
+msgctxt "@title"
+msgid "Remove Rule"
+msgstr "Xoá Quy Tắc"
+
+#: openurlwith/openurlwithconfigurewidget.cpp:224
+#, kde-format
+msgid "Add Rule…"
+msgstr "Thêm Quy Tắc..."
+
+#: openurlwith/openurlwithconfigurewidget.cpp:226
+#, kde-format
+msgid "Edit Rule…"
+msgstr "Chỉnh sửa quy tắc..."
+
+#: openurlwith/openurlwithconfigurewidget.cpp:231
+#, kde-format
+msgid "Remove Rule"
+msgid_plural "Remove Rules"
+msgstr[0] "Xoá Quy Tắc"
+
+#: scamsettings/scamconfiguresettingsdialog.cpp:26
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure Scam Settings"
+msgstr "Cấu hình Thiết lập Scam"
+
+#: scamsettings/scamconfiguresettingstreeview.cpp:32
+#, kde-format
+msgid "Add…"
+msgstr "Thêm..."
+
+#: scamsettings/scamconfigureutils.cpp:15
+#, kde-format
+msgid "Disable All Check"
+msgstr "Tắt tất cả"
+
+#: scamsettings/scamconfigureutils.cpp:17
+#, kde-format
+msgid "Redirect Url"
+msgstr "Chuyển hướng URL"
+
+#: scamsettings/scamconfigureutils.cpp:19
+#, kde-format
+msgid "Has Ip"
+msgstr "Có địa chỉ IP"
+
+#: scamsettings/scamlistsmodel.cpp:57
+#, kde-format
+msgctxt "@title:column"
+msgid "Domain"
+msgstr "Miền"
+
+#: scamsettings/scamlistsmodel.cpp:59
+#, kde-format
+msgctxt "@title:column"
+msgid "Check"
+msgstr "Kiểm tra"

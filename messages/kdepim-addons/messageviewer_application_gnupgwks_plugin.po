@@ -1,0 +1,168 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdepim-addons package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdepim-addons\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-12 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: gnupgwksurlhandler.cpp:85
+#, kde-format
+msgid "Display key details"
+msgstr "Hiển thị chi tiết khóa"
+
+#: gnupgwksurlhandler.cpp:87
+#, kde-format
+msgid "Publish the key"
+msgstr "Công bố khóa"
+
+#: pgpkeyformatter.cpp:43
+#, kde-format
+msgid "No valid key data in file."
+msgstr "Không có dữ liệu khóa hợp lệ trong tệp."
+
+#: pgpkeyurlhandler.cpp:46
+#, kde-format
+msgid "Import the key"
+msgstr "Nhập khẩu khóa"
+
+#: pgpkeyurlhandler.cpp:65
+#, kde-format
+msgid "An error occurred while importing the key."
+msgstr "Đã xảy ra lỗi khi nhập khóa."
+
+#: pgpkeyurlhandler.cpp:67 pgpkeyurlhandler.cpp:69
+#, kde-format
+msgctxt "@title:window"
+msgid "Import error"
+msgstr "Lỗi nhập khẩu"
+
+#: pgpkeyurlhandler.cpp:69
+#, kde-format
+msgid "No keys to import where found."
+msgstr "Không tìm thấy khóa để nhập khẩu."
+
+#: pgpkeyurlhandler.cpp:71
+#, kde-format
+msgid "The key has been successfully imported."
+msgstr "Khóa đã được nhập thành công."
+
+#: pgpkeyurlhandler.cpp:71
+#, kde-format
+msgctxt "@title:window"
+msgid "Import finished"
+msgstr "Nhập khẩu hoàn tất"
+
+#: templates/gnupgwksmessagepart.html:26
+msgid "Register your OpenPGP key with your email provider. "
+msgstr "Đăng ký khóa OpenPGP của bạn với nhà cung cấp thư điện tử của bạn."
+
+#: templates/gnupgwksmessagepart.html:29
+msgid ""
+"When you register your key with your email provider other people will then "
+"be able to retrieve the key and send you encrypted emails and verify "
+"authenticity of emails you send them."
+msgstr ""
+"Khi bạn đăng ký khoá của mình với nhà cung cấp thư điện tử, những người "
+"khác sẽ có thể lấy khoá đó và gửi cho bạn các thư điện tử được mật mã hoá "
+"và xác minh tính xác thực của các thư bạn gửi cho họ."
+
+#: templates/gnupgwksmessagepart.html:33
+msgid "An error occurred while publishing the key. Please try again later."
+msgstr "Đã xảy ra lỗi khi đăng tải khóa. Vui lòng thử lại sau."
+
+#: templates/gnupgwksmessagepart.html:35
+msgid "Register the key"
+msgstr "Đăng ký khóa"
+
+#: templates/gnupgwksmessagepart.html:37
+msgid ""
+"The email will be automatically deleted once you confirm the registration."
+msgstr "Thư điện tử sẽ tự động bị xóa sau khi bạn xác nhận đăng ký."
+
+#: templates/gnupgwksmessagepart.html:40
+msgid "Show key details"
+msgstr "Hiển thị chi tiết khóa"
+
+#: templates/gnupgwksmessagepart.html:44
+msgid ""
+"This is an automatically generated email. The purpose of this email is to "
+"register your OpenPGP key with your email provider."
+msgstr ""
+"Đây là một email được tạo tự động. Mục đích của email này là để đăng ký "
+"khóa OpenPGP của bạn với nhà cung cấp thư điện tử của bạn."
+
+#: templates/gnupgwksmessagepart.html:47
+msgid ""
+"Your OpenPGP key will be published on your email provider's key server. "
+"Other users will be able to retrieve the key and send you encrypted emails "
+"and verify authenticity of emails you send them."
+msgstr ""
+"Khoá OpenPGP của bạn sẽ được công bố trên máy chủ khoá của nhà cung cấp thư "
+"điện tử của bạn. Những người dùng khác sẽ có thể lấy khoá này và gửi cho "
+"bạn thư được mật mã hoá, cũng như xác minh tính xác thực của những thư bạn "
+"gửi cho họ."
+
+#: templates/pgpkeymessagepart.html:14
+msgid "OpenPGP Key"
+msgstr "Khóa OpenPGP"
+
+#: templates/pgpkeymessagepart.html:18
+msgid "This is an OpenPGP key, which can be used to sign or encrypt emails."
+msgstr "Đây là một khoá OpenPGP, có thể được sử dụng để ký hoặc mật mã hoá email."
+
+#: templates/pgpkeymessagepart.html:23
+msgid "Loading key details…"
+msgstr "Đang tải chi tiết khóa..."
+
+#: templates/pgpkeymessagepart.html:28
+msgid "Owner:"
+msgstr "Chủ sở hữu:"
+
+#: templates/pgpkeymessagepart.html:32
+msgid "Created:"
+msgstr "Đã tạo:"
+
+#: templates/pgpkeymessagepart.html:37
+msgid "Fingerprint:"
+msgstr "Vân tay:"
+
+#: templates/pgpkeymessagepart.html:42
+msgid ""
+"This key is unknown, it could not be found in your local keyring. You may "
+"want to import this key."
+msgstr ""
+"Khóa này không được biết đến, nó không thể được tìm thấy trong vòng chìa "
+"khóa cục bộ của bạn. Bạn có thể muốn nhập khẩu khóa này."
+
+#: templates/pgpkeymessagepart.html:45
+#, kde-format
+msgid "Error while loading key: %1"
+msgstr "Lỗi khi tải khóa: %1"
+
+#: templates/pgpkeymessagepart.html:47
+msgid "Hide key details"
+msgstr "Ẩn chi tiết khóa"
+
+#: templates/pgpkeymessagepart.html:49
+msgid "Open in Kleopatra"
+msgstr "Mở trong Kleopatra"
+
+#: templates/pgpkeymessagepart.html:52
+msgid "Show key details …"
+msgstr "Hiển thị chi tiết khóa..."
+
+#: templates/pgpkeymessagepart.html:54
+msgid "Import key"
+msgstr "Nhập khẩu khóa"

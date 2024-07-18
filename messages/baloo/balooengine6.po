@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the baloo package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: baloo\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-11-17 01:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: experimental/databasesanitizer.cpp:259
+#, kde-format
+msgid "Total: %1, Inaccessible: %2"
+msgstr "Tổng: %1, Không thể truy cập: %2"
+
+#: experimental/databasesanitizer.cpp:263
+#, kde-format
+msgid "Total: %1, Ignored: %2, Accessible: %3, Inaccessible: %4"
+msgstr "Tổng: %1, Bỏ qua: %2, Có thể truy cập: %3, Không thể truy cập: %4"
+
+#: experimental/databasesanitizer.cpp:318
+#, kde-format
+msgid "Found %1 matching in %2 devices"
+msgstr "Đã tìm thấy %1 khớp trong %2 thiết bị"
+
+#: experimental/databasesanitizer.cpp:339
+#, kde-format
+msgid "IgnoredSymbolicLink:"
+msgstr "Liên kết biểu tượng bị bỏ qua:"
+
+#: experimental/databasesanitizer.cpp:343
+#, kde-format
+msgid "Removing:"
+msgstr "Đang xóa:"
+
+#: experimental/databasesanitizer.cpp:357
+#, kde-format
+msgctxt "numbers"
+msgid "Removed: %1, Total: %2, Ignored: %3"
+msgstr "Đã xóa: %1, Tổng: %2, Bỏ qua: %3"
+
+#: indexerstate.cpp:14
+#, kde-format
+msgid "Unknown"
+msgstr "không rõ"
+
+#: indexerstate.cpp:17
+#, kde-format
+msgid "Idle"
+msgstr "Không hoạt động"
+
+#: indexerstate.cpp:20
+#, kde-format
+msgid "Suspended"
+msgstr "Tạm dừng"
+
+#: indexerstate.cpp:23
+#, kde-format
+msgid "Initial Indexing"
+msgstr "Lập chỉ mục ban đầu"
+
+#: indexerstate.cpp:26
+#, kde-format
+msgid "Indexing new files"
+msgstr "Đang lập chỉ mục các tệp mới"
+
+#: indexerstate.cpp:29
+#, kde-format
+msgid "Indexing modified files"
+msgstr "Lập chỉ mục các tệp đã chỉnh sửa"
+
+#: indexerstate.cpp:32
+#, kde-format
+msgid "Indexing Extended Attributes"
+msgstr "Lập chỉ mục Thuộc tính Mở rộng"
+
+#: indexerstate.cpp:35
+#, kde-format
+msgid "Indexing file content"
+msgstr "Đang lập chỉ mục nội dung tệp"
+
+#: indexerstate.cpp:38
+#, kde-format
+msgid "Checking for unindexed files"
+msgstr "Đang kiểm tra các tệp chưa được lập chỉ mục"
+
+#: indexerstate.cpp:41
+#, kde-format
+msgid "Checking for stale index entries"
+msgstr "Kiểm tra các mục lập chỉ mục lỗi thời"
+
+#: indexerstate.cpp:44
+#, kde-format
+msgid "Idle (Powersave)"
+msgstr "Không hoạt động (Tiết kiệm điện)"
+
+#: indexerstate.cpp:47
+#, kde-format
+msgid "Not Running"
+msgstr "Không chạy"
+
+#: indexerstate.cpp:50
+#, kde-format
+msgid "Starting"
+msgstr "Đang bắt đầu"

@@ -1,0 +1,511 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kmail-account-wizard package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kmail-account-wizard\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-04 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: accountconfiguration.cpp:200 ispdb/configurationmodel.cpp:147
+#, kde-format
+msgctxt "Default name for new email accounts/identities."
+msgid "Unnamed"
+msgstr "Chưa đặt tên"
+
+#: accountconfiguration.cpp:211
+#, kde-format
+msgctxt "log entry content"
+msgid "Create email identity: %1"
+msgstr "Tạo danh tính email: %1"
+
+#: accountconfiguration.cpp:214
+#, kde-format
+msgctxt "log entry content"
+msgid "Full name:"
+msgstr "Họ và tên:"
+
+#: accountconfiguration.cpp:215
+#, kde-format
+msgctxt "log entry content"
+msgid "Primary email address:"
+msgstr "Địa chỉ email chính:"
+
+#: accountconfiguration.cpp:244
+#, kde-format
+msgctxt "log entry content"
+msgid "Mail transport setup completed: %1"
+msgstr "Cài đặt giao thức thư hoàn tất: %1"
+
+#: accountconfiguration.cpp:247
+#, kde-format
+msgctxt "log entry content"
+msgid "Host:"
+msgstr "Máy chủ:"
+
+#: accountconfiguration.cpp:248
+#, kde-format
+msgctxt "log entry content"
+msgid "Port:"
+msgstr "Cổng:"
+
+#: accountconfiguration.cpp:249
+#, kde-format
+msgctxt "log entry content"
+msgid "Username:"
+msgstr "Tên người dùng:"
+
+#: accountconfiguration.cpp:251
+#, kde-format
+msgctxt "log entry content"
+msgid "Encryption:"
+msgstr "Mã hóa:"
+
+#: accountconfiguration.cpp:253
+#, kde-format
+msgctxt "log entry content"
+msgid "Authentication:"
+msgstr "Xác thực:"
+
+#: ispdb/configurationmodel.cpp:49 ispdb/serverconfiguration.cpp:23
+#: qml/ManualConfigurationPage.qml:89
+#, kde-format
+msgid "IMAP"
+msgstr "IMAP"
+
+#: ispdb/configurationmodel.cpp:49 ispdb/serverconfiguration.cpp:26
+#: qml/ManualConfigurationPage.qml:90
+#, kde-format
+msgid "POP3"
+msgstr "POP3"
+
+#: ispdb/configurationmodel.cpp:51
+#, kde-format
+msgid "Keep your folders and emails synced on your server"
+msgstr "Giữ các thư mục và email của bạn được đồng bộ hóa trên máy chủ của bạn"
+
+#: ispdb/configurationmodel.cpp:52
+#, kde-format
+msgid "Remove your emails from your server and keep them only on your computer"
+msgstr "Xoá email của bạn khỏi máy chủ và chỉ lưu trữ chúng trên máy tính của bạn"
+
+#: ispdb/serverconfiguration.cpp:29
+#, kde-format
+msgid "SMTP"
+msgstr "SMTP"
+
+#: ispdb/serverconfiguration.cpp:35
+#, kde-format
+msgid "SSL/TLS"
+msgstr "SSL/TLS"
+
+#: ispdb/serverconfiguration.cpp:38 qml/ManualConfigurationPage.qml:121
+#: qml/ManualConfigurationPage.qml:226
+#, kde-format
+msgid "StartTLS"
+msgstr "StartTLS"
+
+#: ispdb/serverconfiguration.cpp:41
+#, kde-format
+msgctxt "No security mechanism"
+msgid "None"
+msgstr "Không có cơ chế bảo mật"
+
+#: ispdbservice.cpp:129
+#, kde-format
+msgid "Configuration found auto config file."
+msgstr "Đã tìm thấy tệp cấu hình tự động."
+
+#: ispdbservice.cpp:132
+#, kde-format
+msgid "Configuration found in well-known file."
+msgstr "Cấu hình được tìm thấy trong tệp tin được biết đến."
+
+#: ispdbservice.cpp:135
+#, kde-format
+msgid "Configuration found in Mozilla FAI Database."
+msgstr "Cấu hình được tìm thấy trong Cơ sở dữ liệu FAI của Mozilla."
+
+#: main.cpp:47
+#, kde-format
+msgid "Account Assistant"
+msgstr "Trợ tá Tài khoản"
+
+#: main.cpp:49
+#, kde-format
+msgid "Helps setting up PIM accounts"
+msgstr "Giúp thiết lập tài khoản PIM"
+
+#: main.cpp:51
+#, kde-format
+msgid "(c) 2009-2024 the Akonadi developers"
+msgstr "(c) 2009-2024 các nhà phát triển Akonadi"
+
+#: main.cpp:54
+#, kde-format
+msgctxt "@info:credit"
+msgid "Volker Krause"
+msgstr "Volker Krause"
+
+#: main.cpp:54
+#, kde-format
+msgid "Author"
+msgstr "Tác giả"
+
+#: main.cpp:55
+#, kde-format
+msgctxt "@info:credit"
+msgid "Laurent Montel"
+msgstr "Laurent Montel"
+
+#: main.cpp:55 main.cpp:56
+#, kde-format
+msgid "Maintainer"
+msgstr "Bảo trì viên"
+
+#: main.cpp:56
+#, kde-format
+msgctxt "@info:credit"
+msgid "Carl Schwan"
+msgstr "Carl Schwan"
+
+#: qml/ConfigurationDelegate.qml:93
+#, kde-format
+msgid "Incoming"
+msgstr "Đến"
+
+#: qml/ConfigurationDelegate.qml:114
+#, kde-format
+msgid "Outgoing"
+msgstr "Đi ra"
+
+#: qml/ConfigurationSelectionPage.qml:16
+#, kde-format
+msgctxt "@title:group"
+msgid "Configuration Selection"
+msgstr "Phần bôi đen cấu hình"
+
+#: qml/ConfigurationSelectionPage.qml:39
+#, kde-format
+msgid "Available configurations"
+msgstr "Các cấu hình hiện có"
+
+#: qml/ConfigurationSelectionPage.qml:56
+#, kde-format
+msgid "No configuration found from the internet for this server."
+msgstr "Không tìm thấy cấu hình từ internet cho máy chủ này."
+
+#: qml/ConfigurationSelectionPage.qml:105
+#: qml/ManualConfigurationPage.qml:15
+#, kde-format
+msgid "Manual Configuration"
+msgstr "Cấu hình Sổ Tay"
+
+#: qml/ConfigurationSelectionPage.qml:115
+#, kde-format
+msgctxt "@title:group"
+msgid "Calendar and Contacts"
+msgstr "Lịch và Danh bạ"
+
+#: qml/ConfigurationSelectionPage.qml:126
+#, kde-format
+msgctxt "@option:check"
+msgid "Enable calendar and contact integration"
+msgstr "Bật tích hợp lịch và liên hệ"
+
+#: qml/DetailsPage.qml:15
+#, kde-format
+msgctxt "@title:group"
+msgid "Details"
+msgstr "Chi tiết"
+
+#: qml/DetailsPage.qml:18
+#, kde-format
+msgctxt "@action:button"
+msgid "Quit"
+msgstr "Thoát"
+
+#: qml/DetailsPage.qml:24
+#, kde-format
+msgid "Details"
+msgstr "Chi tiết"
+
+#: qml/DetailsPage.qml:61
+#, kde-format
+msgctxt "Placeholder"
+msgid "No details available."
+msgstr "Không có chi tiết khả dụng."
+
+#: qml/ManualConfigurationPage.qml:18
+#, kde-format
+msgid "Recheck"
+msgstr "Kiểm tra lại"
+
+#: qml/ManualConfigurationPage.qml:25
+#, kde-format
+msgid "Create Account"
+msgstr "Tạo Tài Khoản"
+
+#: qml/ManualConfigurationPage.qml:67
+#, kde-format
+msgid "Incoming Server Parameters"
+msgstr "Thông số máy chủ đến"
+
+#: qml/ManualConfigurationPage.qml:73
+#, kde-format
+msgid "Incoming server:"
+msgstr "Máy chủ đến:"
+
+#: qml/ManualConfigurationPage.qml:85
+#, kde-format
+msgid "Protocol:"
+msgstr "Giao thức:"
+
+#: qml/ManualConfigurationPage.qml:91
+#, kde-format
+msgid "Kolab"
+msgstr "Kolab"
+
+#: qml/ManualConfigurationPage.qml:105 qml/ManualConfigurationPage.qml:206
+#, kde-format
+msgid "Port:"
+msgstr "Cổng:"
+
+#: qml/ManualConfigurationPage.qml:116 qml/ManualConfigurationPage.qml:220
+#, kde-format
+msgid "Security:"
+msgstr "Bảo mật:"
+
+#: qml/ManualConfigurationPage.qml:120 qml/ManualConfigurationPage.qml:225
+#, kde-format
+msgid "SSL/TLS (recommended)"
+msgstr "SSL/TLS (được khuyến nghị)"
+
+#: qml/ManualConfigurationPage.qml:122 qml/ManualConfigurationPage.qml:224
+#, kde-format
+msgid "None"
+msgstr "Không có"
+
+#: qml/ManualConfigurationPage.qml:136 qml/ManualConfigurationPage.qml:238
+#, kde-format
+msgid "Authentication Method:"
+msgstr "Phương thức xác thực:"
+
+#: qml/ManualConfigurationPage.qml:140 qml/ManualConfigurationPage.qml:242
+#, kde-format
+msgid "Clear text"
+msgstr "Làm trống"
+
+#: qml/ManualConfigurationPage.qml:141 qml/ManualConfigurationPage.qml:243
+#, kde-format
+msgid "PLAIN"
+msgstr "THƯỜNG"
+
+#: qml/ManualConfigurationPage.qml:142 qml/ManualConfigurationPage.qml:244
+#, kde-format
+msgid "LOGIN"
+msgstr "ĐĂNG NHẬP"
+
+#: qml/ManualConfigurationPage.qml:143 qml/ManualConfigurationPage.qml:245
+#, kde-format
+msgid "CRAM-MD5"
+msgstr "CRAM-MD5"
+
+#: qml/ManualConfigurationPage.qml:144 qml/ManualConfigurationPage.qml:246
+#, kde-format
+msgid "DIGEST-MD5"
+msgstr "DIGEST-MD5"
+
+#: qml/ManualConfigurationPage.qml:145 qml/ManualConfigurationPage.qml:247
+#, kde-format
+msgid "NTLM"
+msgstr "NTLM"
+
+#: qml/ManualConfigurationPage.qml:146 qml/ManualConfigurationPage.qml:248
+#, kde-format
+msgid "GSSAPI"
+msgstr "GSSAPI"
+
+#: qml/ManualConfigurationPage.qml:147 qml/ManualConfigurationPage.qml:249
+#, kde-format
+msgid "XOAuth (Gmail)"
+msgstr "XOAuth (Gmail)"
+
+#: qml/ManualConfigurationPage.qml:148 qml/ManualConfigurationPage.qml:250
+#, kde-format
+msgid "APOP"
+msgstr "APOP"
+
+#: qml/ManualConfigurationPage.qml:162 qml/ManualConfigurationPage.qml:263
+#, kde-format
+msgid "Username:"
+msgstr "Tên người dùng:"
+
+#: qml/ManualConfigurationPage.qml:177
+#, kde-format
+msgid "Download all messages for offline use"
+msgstr "Tải về tất cả tin nhắn để sử dụng ngoại tuyến"
+
+#: qml/ManualConfigurationPage.qml:186
+#, kde-format
+msgid "Outgoing Server Parameters"
+msgstr "Thông số máy chủ gửi đi"
+
+#: qml/ManualConfigurationPage.qml:193
+#, kde-format
+msgid "Outgoing server:"
+msgstr "Máy chủ gửi đi:"
+
+#: qml/PersonalDataPage.qml:15
+#, kde-format
+msgid "Personal Information"
+msgstr "Thông tin cá nhân"
+
+#: qml/PersonalDataPage.qml:43
+#, kde-format
+msgid "Connect your Email Account"
+msgstr "Kết nối Tài khoản Thư điện tử của bạn"
+
+#: qml/PersonalDataPage.qml:51
+#, kde-format
+msgid ""
+"To use your current email address fill in your credentials. This wizard will "
+"automatically search for a working and recommended server configuration. "
+"Only the domain name part of the e-mail address will be sent over the "
+"Internet."
+msgstr ""
+"Để sử dụng địa chỉ email hiện tại của bạn, hãy điền vào thông tin đăng "
+"nhập. Trình hướng dẫn này sẽ tự động tìm kiếm cấu hình máy chủ hoạt động và "
+"được khuyến nghị. Chỉ phần tên miền của địa chỉ email sẽ được gửi qua "
+"Internet."
+
+#: qml/PersonalDataPage.qml:57
+#, kde-format
+msgid "Full name:"
+msgstr "Họ và tên:"
+
+#: qml/PersonalDataPage.qml:58
+#, kde-format
+msgctxt "Generic name"
+msgid "John Smith"
+msgstr "John Smith"
+
+#: qml/PersonalDataPage.qml:67
+#, kde-format
+msgid "E-mail address:"
+msgstr "Địa chỉ email:"
+
+#: qml/PersonalDataPage.qml:68
+#, kde-format
+msgctxt "Generic email address"
+msgid "boss@example.corp"
+msgstr "boss@example.corp"
+
+#: qml/PersonalDataPage.qml:86
+#, kde-format
+msgid "Password (optional):"
+msgstr "Mật khẩu (tùy chọn):"
+
+#: qml/WizardPage.qml:15
+#, kde-format
+msgctxt "@action:button"
+msgid "Previous"
+msgstr "Trước"
+
+#: qml/WizardPage.qml:22
+#, kde-format
+msgctxt "@action:button"
+msgid "Next"
+msgstr "Tiếp"
+
+#: resource.cpp:72
+#, kde-format
+msgid "Resource type '%1' is not available."
+msgstr "Kiểu tài nguyên '%1' không khả dụng."
+
+#: resource.cpp:85
+#, kde-format
+msgid "Resource '%1' is already set up."
+msgstr "Tài nguyên '%1' đã được thiết lập."
+
+#: resource.cpp:92
+#, kde-format
+msgid "Creating resource instance for '%1'..."
+msgstr "Đang tạo hiện thể tài nguyên cho '%1'..."
+
+#: resource.cpp:101
+#, kde-format
+msgid "Failed to create resource instance: %1"
+msgstr "Không thể tạo thể hiện tài nguyên: %1"
+
+#: resource.cpp:108
+#, kde-format
+msgid "Configuring resource instance..."
+msgstr "Đang cấu hình phiên bản tài nguyên..."
+
+#: resource.cpp:112
+#, kde-format
+msgid "Unable to configure resource instance."
+msgstr "Không thể cấu hình phiên bản tài nguyên."
+
+#: resource.cpp:131
+#, kde-format
+msgid ""
+"Could not convert value of setting '%1' with type %2 to required type %3."
+msgstr ""
+"Không thể chuyển đổi giá trị của thiết lập '%1' với kiểu %2 sang kiểu yêu "
+"cầu %3."
+
+#: resource.cpp:144
+#, kde-format
+msgid "Could not set setting '%1': %2"
+msgstr "Không thể đặt thiết lập '%1': %2"
+
+#: resource.cpp:150
+#, kde-format
+msgid "Could not save settings: %1"
+msgstr "Không thể lưu cài đặt: %1"
+
+#: resource.cpp:156
+#, kde-format
+msgctxt "log entry content"
+msgid "Resource setup completed: %1"
+msgstr "Thiết lập tài nguyên đã hoàn tất: %1"
+
+#: resource.cpp:159
+#, kde-format
+msgctxt "log entry content"
+msgid "Resource type:"
+msgstr "Loại tài nguyên:"
+
+#: resource.cpp:169
+#, kde-format
+msgctxt "Empty password"
+msgid "Empty"
+msgstr "Trống"
+
+#: resource.cpp:174
+#, kde-format
+msgctxt "label"
+msgid "%1:"
+msgstr "%1:"

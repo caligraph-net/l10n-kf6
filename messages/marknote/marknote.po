@@ -1,0 +1,797 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the marknote package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: marknote\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-04 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: application.cpp:29
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "New Notebook"
+msgstr "Sổ mới"
+
+#: application.cpp:38
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "New Note"
+msgstr "Ghi chú mới"
+
+#: application.cpp:54
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Import from KNotes"
+msgstr "Nhập khẩu từ KNotes"
+
+#: application.cpp:61
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Import from Maildir"
+msgstr "Nhập khẩu từ Maildir"
+
+#: maildirimport.cpp:91
+#, kde-format
+msgctxt "@status"
+msgid "An error occurred while writing to '%1'"
+msgstr "Đã xảy ra lỗi khi ghi vào '%1'"
+
+#: main.cpp:72 qml/Main.qml:315
+#, kde-format
+msgctxt "Application name"
+msgid "Marknote"
+msgstr "Marknote"
+
+#: main.cpp:74
+#, kde-format
+msgid "Note taking application"
+msgstr "Ứng dụng ghi chú"
+
+#: main.cpp:76
+#, kde-format
+msgid "© 2023 Mathis Brüchert"
+msgstr "© 2023 Mathis Brüchert"
+
+#: main.cpp:77
+#, kde-format
+msgid "Mathis Brüchert"
+msgstr "Mathis Brüchert"
+
+#: main.cpp:78 main.cpp:83
+#, kde-format
+msgid "Maintainer"
+msgstr "Bảo trì viên"
+
+#: main.cpp:82
+#, kde-format
+msgid "Carl Schwan"
+msgstr "Carl Schwan"
+
+#: main.cpp:87
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#: main.cpp:87
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Địa chỉ email của bạn"
+
+#: notesmodel.cpp:112
+#, kde-format
+msgctxt "@info:status"
+msgid "Unable to rename note. A note already exists with the same name."
+msgstr "Không thể đổi tên lưu ý. Đã tồn tại lưu ý với cùng tên."
+
+#: qml/EditPage.qml:77 qml/EditPage.qml:90 qml/EditPage.qml:544
+#: qml/EditPage.qml:555
+#, kde-format
+msgid "undo"
+msgstr "đảo ngược"
+
+#: qml/EditPage.qml:146
+#, kde-format
+msgid "Focus Mode"
+msgstr "Chế độ nhắm"
+
+#: qml/EditPage.qml:161 qml/NativeWindowMenu.qml:21 qml/NotesPage.qml:203
+#: qml/WelcomePage.qml:29
+#, kde-format
+msgctxt "@action:menu"
+msgid "Exit Full Screen"
+msgstr "Thoát khỏi toàn màn hình"
+
+#: qml/EditPage.qml:212
+#, kde-format
+msgctxt "@action:button"
+msgid "Bold"
+msgstr "Đậm"
+
+#: qml/EditPage.qml:231
+#, kde-format
+msgctxt "@action:button"
+msgid "Italic"
+msgstr "Nghiêng"
+
+#: qml/EditPage.qml:250
+#, kde-format
+msgctxt "@action:button"
+msgid "Underline"
+msgstr "Gạch chân"
+
+#: qml/EditPage.qml:264
+#, kde-format
+msgctxt "@action:button"
+msgid "Strikethrough"
+msgstr "Gạch ngang"
+
+#: qml/EditPage.qml:282
+#, kde-format
+msgctxt "@action:button"
+msgid "Increase List Level"
+msgstr "Tăng cấp danh sách"
+
+#: qml/EditPage.qml:293
+#, kde-format
+msgctxt "@action:button"
+msgid "Decrease List Level"
+msgstr "Giảm cấp độ danh sách"
+
+#: qml/EditPage.qml:335
+#, kde-format
+msgctxt "@item:inmenu no list style"
+msgid "No list"
+msgstr "Không có danh sách"
+
+#: qml/EditPage.qml:336
+#, kde-format
+msgctxt "@item:inmenu unordered style"
+msgid "Unordered list"
+msgstr "Danh sách không thứ tự"
+
+#: qml/EditPage.qml:337
+#, kde-format
+msgctxt "@item:inmenu ordered style"
+msgid "Ordered list"
+msgstr "Danh sách có thứ tự"
+
+#: qml/EditPage.qml:347
+#, kde-format
+msgctxt "@action:button"
+msgid "Insert checkbox"
+msgstr "Chèn hộp kiểm"
+
+#: qml/EditPage.qml:362
+#, kde-format
+msgctxt "@action:button"
+msgid "Insert link"
+msgstr "Chèn liên kết"
+
+#: qml/EditPage.qml:378
+#, kde-format
+msgctxt "@action:button"
+msgid "Insert image"
+msgstr "Chèn ảnh"
+
+#: qml/EditPage.qml:391
+#, kde-format
+msgctxt "@action:button"
+msgid "Insert table"
+msgstr "Chèn bảng"
+
+#: qml/EditPage.qml:411
+#, kde-format
+msgctxt "@item:inmenu no heading"
+msgid "Basic text"
+msgstr "Văn bản cơ bản"
+
+#: qml/EditPage.qml:412
+#, kde-format
+msgctxt "@item:inmenu heading level 1 (largest)"
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: qml/EditPage.qml:413
+#, kde-format
+msgctxt "@item:inmenu heading level 2"
+msgid "Subtitle"
+msgstr "Tiêu đề phụ"
+
+#: qml/EditPage.qml:414
+#, kde-format
+msgctxt "@item:inmenu heading level 3"
+msgid "Section"
+msgstr "Khu vực"
+
+#: qml/EditPage.qml:415
+#, kde-format
+msgctxt "@item:inmenu heading level 4"
+msgid "Subsection"
+msgstr "Tiểu mục"
+
+#: qml/EditPage.qml:416
+#, kde-format
+msgctxt "@item:inmenu heading level 5"
+msgid "Paragraph"
+msgstr "Đoạn văn"
+
+#: qml/EditPage.qml:417
+#, kde-format
+msgctxt "@item:inmenu heading level 6 (smallest)"
+msgid "Subparagraph"
+msgstr "Đoạn con"
+
+#: qml/EditPage.qml:587
+#, kde-format
+msgid "Format"
+msgstr "Định dạng"
+
+#: qml/EditPage.qml:591
+#, kde-format
+msgid "Lists"
+msgstr "Danh sách"
+
+#: qml/EditPage.qml:595
+#, kde-format
+msgid "Insert"
+msgstr "Chèn"
+
+#: qml/FormIconDelegate.qml:17
+#, kde-format
+msgctxt "@action:button"
+msgid "Icon"
+msgstr "Biểu tượng"
+
+#: qml/GlobalMenuBar.qml:18
+#, kde-format
+msgctxt "@action:menu"
+msgid "Settings"
+msgstr "thiết lập"
+
+#: qml/ImageDialog.qml:18
+#, kde-format
+msgctxt "@title:window"
+msgid "Insert Image"
+msgstr "Chèn Ảnh"
+
+#: qml/ImageDialog.qml:24 qml/ImportMaildirDialog.qml:56
+#, kde-format
+msgctxt "@title:window"
+msgid "Select an image"
+msgstr "Bôi đen một ảnh"
+
+#: qml/ImageDialog.qml:27
+#, kde-format
+msgid "Image files (*.jpg *.jpeg *.png *.svg *.webp)"
+msgstr "Tệp ảnh (*.jpg *.jpeg *.png *.svg *.webp)"
+
+#: qml/ImageDialog.qml:27
+#, kde-format
+msgid "All files (*)"
+msgstr "Tất cả tệp (*)"
+
+#: qml/ImageDialog.qml:42
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Image Location:"
+msgstr "Vị trí ảnh:"
+
+#: qml/ImageDialog.qml:53
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Quick Sketch"
+msgstr "Phác họa nhanh"
+
+#: qml/ImportMaildirDialog.qml:32
+#, kde-format
+msgctxt "@title:window"
+msgid "Import from Maildir"
+msgstr "Nhập khẩu từ Maildir"
+
+#: qml/ImportMaildirDialog.qml:32
+#, kde-format
+msgctxt "@title:window"
+msgid "Import from KNotes"
+msgstr "Nhập khẩu từ KNotes"
+
+#: qml/ImportMaildirDialog.qml:37 qml/NotebookMetadataDialog.qml:39
+#, kde-format
+msgctxt "@label:textbox Notebook name"
+msgid "Name:"
+msgstr "Tên:"
+
+#: qml/ImportMaildirDialog.qml:50
+#, kde-format
+msgctxt "@label:textbox Notebook name"
+msgid "Maildir location:"
+msgstr "Vị trí Maildir:"
+
+#: qml/ImportMaildirDialog.qml:103
+#, kde-format
+msgctxt "@action:button"
+msgid "Import"
+msgstr "Nhập khẩu"
+
+#: qml/LinkDialog.qml:17
+#, kde-format
+msgctxt "@title:window"
+msgid "Insert Link"
+msgstr "Chèn Liên kết"
+
+#: qml/LinkDialog.qml:23
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Link Text:"
+msgstr "Văn bản liên kết:"
+
+#: qml/LinkDialog.qml:31
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Link URL:"
+msgstr "Liên kết URL:"
+
+#: qml/Main.qml:66
+#, kde-format
+msgctxt "@info:status"
+msgid "Unable to create a new note, you need to create a notebook first."
+msgstr "Không thể tạo ghi chú mới, bạn cần tạo sổ ghi chú trước."
+
+#: qml/Main.qml:66
+#, kde-format
+msgctxt "@action:button"
+msgid "Create Notebook"
+msgstr "Tạo Sổ Tay"
+
+#: qml/Main.qml:236
+#, kde-format
+msgctxt "@title:menu"
+msgid "Import"
+msgstr "Nhập khẩu"
+
+#: qml/Main.qml:252
+#, kde-format
+msgctxt "@title:menu"
+msgid "Sort Notes List"
+msgstr "Sắp xếp danh sách ghi chú"
+
+#: qml/Main.qml:258
+#, kde-format
+msgid "by Name"
+msgstr "theo Tên"
+
+#: qml/Main.qml:272
+#, kde-format
+msgid "by Date"
+msgstr "theo Ngày"
+
+#: qml/Main.qml:299
+#, kde-format
+msgid "Collapse Sidebar"
+msgstr "Thu gọn thanh bên"
+
+#: qml/Main.qml:299
+#, kde-format
+msgid "Expand Sidebar"
+msgstr "Mở rộng thanh bên"
+
+#: qml/Main.qml:369
+#, kde-format
+msgid "Your Notebooks"
+msgstr "Sổ ghi chép của bạn"
+
+#: qml/NativeEditMenu.qml:10
+#, kde-format
+msgctxt "@action:menu"
+msgid "Edit"
+msgstr "Sửa"
+
+#: qml/NativeEditMenu.qml:39
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Undo"
+msgstr "đảo ngược"
+
+#: qml/NativeEditMenu.qml:49
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Redo"
+msgstr "làm lại"
+
+#: qml/NativeEditMenu.qml:62
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Cut"
+msgstr "Cắt"
+
+#: qml/NativeEditMenu.qml:72
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Copy"
+msgstr "Sao chép"
+
+#: qml/NativeEditMenu.qml:82
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Paste"
+msgstr "Dán"
+
+#: qml/NativeEditMenu.qml:92
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Delete"
+msgstr "Xóa"
+
+#: qml/NativeEditMenu.qml:105
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Select All"
+msgstr "Chọn Tất Cả"
+
+#: qml/NativeFileMenu.qml:11
+#, kde-format
+msgctxt "@action:menu"
+msgid "File"
+msgstr "Tệp"
+
+#: qml/NativeHelpMenu.qml:11
+#, kde-format
+msgctxt "@action:menu"
+msgid "Help"
+msgstr "trợ giúp"
+
+#: qml/NativeWindowMenu.qml:13
+#, kde-format
+msgctxt "@action:menu"
+msgid "Window"
+msgstr "Cửa sổ"
+
+#: qml/NativeWindowMenu.qml:21
+#, kde-format
+msgctxt "@action:menu"
+msgid "Enter Full Screen"
+msgstr "Vào toàn màn hình"
+
+#: qml/NotebookContextMenu.qml:16
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Edit Notebook"
+msgstr "Sửa Sổ ghi chép"
+
+#: qml/NotebookContextMenu.qml:33 qml/NotebookDeleteAction.qml:15
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Delete Notebook"
+msgstr "Xóa Sổ ghi chép"
+
+#: qml/NotebookDeleteDialog.qml:31
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete Notebook"
+msgstr "Xóa Sổ ghi chép"
+
+#: qml/NotebookDeleteDialog.qml:38
+#, kde-format
+msgid ""
+"Are you sure you want to delete the Notebook <b> %1 </b>? This will delete "
+"the content of <b>%2</b> definitively."
+msgstr ""
+"Bạn có chắc chắn muốn xóa Sổ tay <b>%1</b> không? Điều này sẽ xóa vĩnh viễn "
+"nội dung của <b>%2</b>."
+
+#: qml/NotebookMetadataDialog.qml:32
+#, kde-format
+msgctxt "@title:window"
+msgid "New Notebook"
+msgstr "Sổ tay mới"
+
+#: qml/NotebookMetadataDialog.qml:32
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Notebook"
+msgstr "Sửa Sổ Ghi Chép"
+
+#: qml/NoteMetadataDialog.qml:27
+#, kde-format
+msgctxt "@title:window"
+msgid "New Note"
+msgstr "Ghi chú mới"
+
+#: qml/NoteMetadataDialog.qml:27
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Note"
+msgstr "Sửa Ghi Chú"
+
+#: qml/NoteMetadataDialog.qml:58
+#, kde-format
+msgctxt "@label:textbox Note name"
+msgid "Name:"
+msgstr "Tên:"
+
+#: qml/NotesPage.qml:82
+#, kde-format
+msgid "Add note"
+msgstr "Thêm lưu ý"
+
+#: qml/NotesPage.qml:166
+#, kde-format
+msgid "Exit Search (%1)"
+msgstr "Thoát khỏi tìm kiếm (%1)"
+
+#: qml/NotesPage.qml:166
+#, kde-format
+msgid "Search notes (%1)"
+msgstr "Tìm kiếm ghi chú (%1)"
+
+#: qml/NotesPage.qml:223
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete Note"
+msgstr "Xóa Lưu Ý"
+
+#: qml/NotesPage.qml:236
+#, kde-format
+msgid ""
+"Are you sure you want to delete the note <b> %1 </b>? This will delete the "
+"file <b>%2</b> definitively."
+msgstr ""
+"Bạn có chắc chắn muốn xóa ghi chú <b> %1 </b> không? Điều này sẽ xóa tệp "
+"<b>%2</b> vĩnh viễn."
+
+#: qml/NotesPage.qml:350
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Rename Note"
+msgstr "Đổi tên Ghi chú"
+
+#: qml/NotesPage.qml:356
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Delete Note"
+msgstr "Xóa Ghi Chú"
+
+#: qml/NotesPage.qml:367
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Export to HTML"
+msgstr "Xuất khẩu sang HTML"
+
+#: qml/NotesPage.qml:373
+#, kde-format
+msgctxt "@title:window"
+msgid "Export to HTML"
+msgstr "Xuất ra HTML"
+
+#: qml/NotesPage.qml:374
+#, kde-format
+msgid "HTML file (*.html)"
+msgstr "Tệp HTML (*.html)"
+
+#: qml/NotesPage.qml:380
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Export to PDF"
+msgstr "Xuất ra PDF"
+
+#: qml/NotesPage.qml:386
+#, kde-format
+msgctxt "@title:window"
+msgid "Export to PDF"
+msgstr "Xuất ra PDF"
+
+#: qml/NotesPage.qml:387
+#, kde-format
+msgid "PDF file (*.pdf)"
+msgstr "Tệp PDF (*.pdf)"
+
+#: qml/NotesPage.qml:393
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Export to ODT"
+msgstr "Xuất khẩu sang ODT"
+
+#: qml/NotesPage.qml:399
+#, kde-format
+msgctxt "@title:window"
+msgid "Export to ODT"
+msgstr "Xuất khẩu sang ODT"
+
+#: qml/NotesPage.qml:400
+#, kde-format
+msgid "ODF Text Document (*.odt)"
+msgstr "Tài liệu văn bản ODF (*.odt)"
+
+#: qml/NotesPage.qml:530
+#, kde-format
+msgid "Add a note!"
+msgstr "Thêm ghi chú!"
+
+#: qml/TableDialog.qml:18
+#, kde-format
+msgctxt "@title:window"
+msgid "Insert Table"
+msgstr "Chèn Bảng"
+
+#: qml/TableDialog.qml:27
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Number of Rows:"
+msgstr "Số hàng:"
+
+#: qml/TableDialog.qml:35
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Number of Columns:"
+msgstr "Số cột:"
+
+#: qml/TextFieldContextMenu.qml:225
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Ignore"
+msgstr "Bỏ qua"
+
+#: qml/TextFieldContextMenu.qml:240
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Spell Check"
+msgstr "Kiểm tra chính tả"
+
+#: qml/TextFieldContextMenu.qml:255
+#, kde-format
+msgctxt "@inmenu"
+msgid "Insert"
+msgstr "Chèn"
+
+#: qml/TextFieldContextMenu.qml:279
+#, kde-format
+msgctxt "@inmenu"
+msgid "Remove"
+msgstr "Xoá"
+
+#: qml/TextFieldContextMenu.qml:307
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Undo"
+msgstr "đảo ngược"
+
+#: qml/TextFieldContextMenu.qml:322
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Redo"
+msgstr "làm lại"
+
+#: qml/TextFieldContextMenu.qml:340
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Cut"
+msgstr "Cắt"
+
+#: qml/TextFieldContextMenu.qml:355
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Copy"
+msgstr "Sao chép"
+
+#: qml/TextFieldContextMenu.qml:370
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Paste"
+msgstr "Dán"
+
+#: qml/TextFieldContextMenu.qml:385
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Delete"
+msgstr "Xóa"
+
+#: qml/TextFieldContextMenu.qml:404
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Select All"
+msgstr "Bôi đen tất cả"
+
+#: qml/WelcomePage.qml:22
+#, kde-format
+msgid "Start by creating your first notebook!"
+msgstr "Hãy bắt đầu bằng cách tạo sổ ghi chép đầu tiên của bạn!"
+
+#: settings/MarkNoteGeneralPage.qml:16
+#, kde-format
+msgctxt "@title:window"
+msgid "General"
+msgstr "chung"
+
+#: settings/MarkNoteGeneralPage.qml:19
+#, kde-format
+msgid "General theme"
+msgstr "Chủ đề chung"
+
+#: settings/MarkNoteGeneralPage.qml:26
+#, kde-format
+msgid "Color theme"
+msgstr "Chủ đề màu"
+
+#: settings/MarkNoteGeneralPage.qml:40
+#, kde-format
+msgid "Editor Settings"
+msgstr "Thiết lập Trình biên tập"
+
+#: settings/MarkNoteGeneralPage.qml:45
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Notes Directory:"
+msgstr "Thư mục Ghi chú:"
+
+#: settings/MarkNoteGeneralPage.qml:54
+#, kde-format
+msgctxt "@title:window"
+msgid "Select the notes directory"
+msgstr "Chọn thư mục ghi chú"
+
+#: settings/MarkNoteGeneralPage.qml:69
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Font family:"
+msgstr "Phông chữ:"
+
+#: settings/MarkNoteGeneralPage.qml:110
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Font size:"
+msgstr "Cỡ phông chữ:"
+
+#: settings/MarkNoteSettings.qml:15
+#, kde-format
+msgctxt "@action:button"
+msgid "General"
+msgstr "chung"
+
+#: settings/MarkNoteSettings.qml:21
+#, kde-format
+msgctxt "@action:button"
+msgid "About MarkNote"
+msgstr "Về MarkNote"
+
+#: settings/MarkNoteSettings.qml:27
+#, kde-format
+msgctxt "@action:button"
+msgid "About KDE"
+msgstr "Về KDE"
+
+#: tableactionhelper.cpp:148 tableactionhelper.cpp:173
+#, kde-format
+msgid "Row Below"
+msgstr "Hàng bên dưới"
+
+#: tableactionhelper.cpp:154 tableactionhelper.cpp:179
+#, kde-format
+msgid "Row Above"
+msgstr "Hàng trên"
+
+#: tableactionhelper.cpp:160 tableactionhelper.cpp:185
+#, kde-format
+msgid "Column Before"
+msgstr "Cột Trước"
+
+#: tableactionhelper.cpp:167 tableactionhelper.cpp:192
+#, kde-format
+msgid "Column After"
+msgstr "Cột Sau"
+
+#: tableactionhelper.cpp:198
+#, kde-format
+msgid "Cell Contents"
+msgstr "Nội dung ô"

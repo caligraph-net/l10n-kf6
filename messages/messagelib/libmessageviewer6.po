@@ -1,0 +1,2673 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the messagelib package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: messagelib\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-04 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ./messagepartthemes/default/templates/certmessagepart.html:2
+msgid "Sorry, certificate could not be imported."
+msgstr "Xin lỗi, chứng chỉ không thể được nhập."
+
+#: ./messagepartthemes/default/templates/certmessagepart.html:4
+#, kde-format
+msgid "Reason: %1"
+msgstr "Lý do: %1"
+
+#: ./messagepartthemes/default/templates/certmessagepart.html:7
+msgid "Sorry, no certificates were found in this message."
+msgstr "Xin lỗi, không tìm thấy chứng chỉ nào trong tin nhắn này."
+
+#: ./messagepartthemes/default/templates/certmessagepart.html:9
+msgid "Certificate import status:"
+msgstr "Trạng thái nhập khẩu chứng chỉ:"
+
+#: ./messagepartthemes/default/templates/certmessagepart.html:13
+#, kde-format
+msgid "1 new certificate was imported."
+msgid_plural "%1 new certificates were imported."
+msgstr[0] "%1 chứng chỉ mới đã được nhập."
+
+#: ./messagepartthemes/default/templates/certmessagepart.html:16
+#, kde-format
+msgid "1 certificate was unchanged."
+msgid_plural "%1 certificates were unchanged."
+msgstr[0] "%1 chứng chỉ không thay đổi."
+
+#: ./messagepartthemes/default/templates/certmessagepart.html:19
+#, kde-format
+msgid "1 new secret key was imported."
+msgid_plural "%1 new secret keys were imported."
+msgstr[0] "%1 khóa bí mật mới đã được nhập."
+
+#: ./messagepartthemes/default/templates/certmessagepart.html:22
+#, kde-format
+msgid "1 secret key was unchanged."
+msgid_plural "%1 secret keys were unchanged."
+msgstr[0] "%1 khóa bí mật không thay đổi."
+
+#: ./messagepartthemes/default/templates/certmessagepart.html:28
+msgid "Sorry, no details on certificate import available."
+msgstr "Xin lỗi, không có chi tiết về việc nhập khẩu chứng chỉ."
+
+#: ./messagepartthemes/default/templates/certmessagepart.html:30
+msgid "Certificate import details:"
+msgstr "Chi tiết nhập khẩu chứng chỉ:"
+
+#: ./messagepartthemes/default/templates/certmessagepart.html:34
+#, kde-format
+msgctxt "Certificate import failed."
+msgid "Failed: %1 (%2)"
+msgstr "Thất bại: %1 (%2)"
+
+#: ./messagepartthemes/default/templates/encapsulatedrfc822messagepart.html:5
+#: ./messagepartthemes/default/templates/encapsulatedrfc822messagepart.html:7
+msgid "Encapsulated message"
+msgstr "Thông điệp được đóng gói"
+
+#: ./messagepartthemes/default/templates/encapsulatedrfc822messagepart.html:19
+msgid "End of encapsulated message"
+msgstr "Kết thúc thông điệp được đóng gói"
+
+#: ./messagepartthemes/default/templates/encryptedmessagepart.html:3
+msgid "This message is encrypted."
+msgstr "Thông điệp này được mã hóa."
+
+#: ./messagepartthemes/default/templates/encryptedmessagepart.html:7
+msgid "Decrypt Message"
+msgstr "Giải mật thông điệp"
+
+#: ./messagepartthemes/default/templates/encryptedmessagepart.html:14
+msgid "Please wait while the message is being decrypted..."
+msgstr "Vui lòng chờ trong khi thông điệp đang được giải mã..."
+
+#: ./messagepartthemes/default/templates/encryptedmessagepart.html:18
+msgid "The message is encrypted for the following keys:"
+msgstr "Thông điệp này được mật mã hoá cho các khoá sau:"
+
+#: ./messagepartthemes/default/templates/encryptedmessagepart.html:20
+#: ./messagepartthemes/default/templates/signedmessagepart.html:72
+#: ./messagepartthemes/default/templates/signedmessagepart.html:146
+msgid "Hide Details"
+msgstr "Ẩn chi tiết"
+
+#: ./messagepartthemes/default/templates/encryptedmessagepart.html:27
+#: ./messagepartthemes/default/templates/encryptedmessagepart.html:69
+msgid "unknown key"
+msgstr "không rõ"
+
+#: ./messagepartthemes/default/templates/encryptedmessagepart.html:32
+#, kde-format
+msgctxt "Compliance: status/type of compliance"
+msgid "Compliance: %1"
+msgstr "Tuân thủ: %1"
+
+#: ./messagepartthemes/default/templates/encryptedmessagepart.html:38
+#, kde-format
+msgctxt "Encrypted message (status/type of compliance)"
+msgid "Encrypted message (%1)"
+msgstr "Thông điệp mật mã hoá (%1)"
+
+#: ./messagepartthemes/default/templates/encryptedmessagepart.html:40
+msgid "Encrypted message"
+msgstr "Thông điệp mật mã hoá"
+
+#: ./messagepartthemes/default/templates/encryptedmessagepart.html:43
+#: ./messagepartthemes/default/templates/signedmessagepart.html:174
+msgid "Show Details"
+msgstr "Hiển thị chi tiết"
+
+#: ./messagepartthemes/default/templates/encryptedmessagepart.html:48
+msgid "Encrypted message (decryption not possible)"
+msgstr "Thông điệp mật mã hoá (không thể giải mã)"
+
+#: ./messagepartthemes/default/templates/encryptedmessagepart.html:51
+msgid "Reason: "
+msgstr "Lý do:"
+
+#: ./messagepartthemes/default/templates/encryptedmessagepart.html:63
+msgid ""
+"No secret key found to decrypt the message. The message is encrypted for the "
+"following keys:"
+msgstr ""
+"Không tìm thấy khóa bí mật để giải mật thông điệp. Thông điệp này được mật "
+"mã hoá cho các khóa sau:"
+
+#: ./messagepartthemes/default/templates/encryptedmessagepart.html:74
+msgid "Could not decrypt the data."
+msgstr "Không thể giải mật mã dữ liệu."
+
+#: ./messagepartthemes/default/templates/encryptedmessagepart.html:81
+msgid "End of encrypted message"
+msgstr "Kết thúc thông điệp mật mã hoá"
+
+#: ./messagepartthemes/default/templates/htmlmessagepart.html:6
+msgid ""
+"<b>Note:</b> This is an HTML message. For security reasons, only the raw "
+"HTML code is shown. If you trust the sender of this message then you can "
+"activate formatted HTML display for this message <a href='kmail:showHTML'>by "
+"clicking here</a>."
+msgstr ""
+"<b>Lưu ý:</b> Đây là một thông điệp HTML. Vì lý do an ninh, chỉ mã HTML thô "
+"được hiển thị. Nếu bạn tin tưởng người gửi thông điệp này thì bạn có thể "
+"kích hoạt bộ hiển thị HTML định dạng cho thông điệp này <a "
+"href='kmail:showHTML'>bằng cách nhấp vào đây</a>."
+
+#: ./messagepartthemes/default/templates/htmlmessagepart.html:12
+msgid ""
+"<b>Note:</b> This HTML message may contain external references to images "
+"etc. For security/privacy reasons external references are not loaded. If you "
+"trust the sender of this message then you can load the external references "
+"for this message <a href='kmail:loadExternal'>by clicking here</a>."
+msgstr ""
+"<b>Lưu ý:</b> Thông điệp HTML này có thể chứa các tham chiếu bên ngoài đến "
+"hình ảnh v.v. Vì lý do bảo mật/quyền riêng tư, các tham chiếu bên ngoài "
+"không được tải. Nếu bạn tin tưởng người gửi thông điệp này thì bạn có thể "
+"tải các tham chiếu bên ngoài cho thông điệp này <a "
+"href='kmail:loadExternal'>bằng cách nhấp vào đây</a>."
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:5
+msgid "Please wait while the signature is being verified..."
+msgstr "Vui lòng chờ trong khi chữ ký đang được xác minh..."
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:15
+#, kde-format
+msgid "Not enough information to check signature. %1"
+msgstr "Không đủ thông tin để kiểm tra chữ ký. %1"
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:20
+#: ./messagepartthemes/default/templates/signedmessagepart.html:88
+#: ./messagepartthemes/default/templates/signedmessagepart.html:115
+#: ./messagepartthemes/default/templates/signedmessagepart.html:134
+#, kde-format
+msgid "Message was signed by %1."
+msgstr "Thông điệp đã được ký bởi %1."
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:22
+#: ./messagepartthemes/default/templates/signedmessagepart.html:99
+msgid "Message was signed with unknown key."
+msgstr "Thông điệp đã được ký bằng khóa không rõ."
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:28
+#: ./messagepartthemes/default/templates/signedmessagepart.html:36
+#: ./messagepartthemes/default/templates/signedmessagepart.html:48
+#, kde-format
+msgid "Message was signed with key %1."
+msgstr "Thông điệp đã được ký với khóa %1."
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:31
+#, kde-format
+msgid "Message was signed by %3 on %1 with key %2"
+msgstr "Thông điệp đã được ký bởi %3 vào %1 với khóa %2"
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:39
+#, kde-format
+msgid "Message was signed on %1 with key %2."
+msgstr "Thông điệp đã được ký vào %1 với khóa %2."
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:45
+#, kde-format
+msgid "Message was signed by %2 with key %1."
+msgstr "Thông điệp đã được ký bởi %2 với khóa %1."
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:57
+#: ./messagepartthemes/default/templates/signedmessagepart.html:105
+msgid "Status: "
+msgstr "Trạng thái:"
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:85
+#: ./messagepartthemes/default/templates/signedmessagepart.html:112
+#: ./messagepartthemes/default/templates/signedmessagepart.html:131
+#, kde-format
+msgid "Message was signed by %2 (Key ID: %1)."
+msgstr "Thông điệp đã được ký bởi %2 (ID Khóa: %1)."
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:92
+#, kde-format
+msgid "Message was signed on %1 with unknown key %2."
+msgstr "Thông điệp đã được ký vào %1 với khóa không rõ %2."
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:95
+#, kde-format
+msgid "Message was signed with unknown key %1."
+msgstr "Thông điệp đã được ký bằng khóa không rõ %1."
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:102
+msgid "The validity of the signature cannot be verified."
+msgstr "Không thể xác minh tính hợp lệ của chữ ký."
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:119
+msgid "The signature is valid, but the key's validity is unknown."
+msgstr "Chữ ký hợp lệ, nhưng tính hợp lệ của khóa không rõ."
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:121
+msgid "The signature is valid and the key is marginally trusted."
+msgstr "Chữ ký hợp lệ và khóa được tin cậy ở mức trung bình."
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:123
+msgid "The signature is valid and the key is fully trusted."
+msgstr "Chữ ký hợp lệ và khóa được tin tưởng hoàn toàn."
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:125
+msgid "The signature is valid and the key is ultimately trusted."
+msgstr "Chữ ký hợp lệ và khóa được tin cậy hoàn toàn."
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:127
+msgid "The signature is valid, but the key is untrusted."
+msgstr "Chữ ký hợp lệ, nhưng khóa không đáng tin cậy."
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:137
+msgid "Warning: The signature is bad."
+msgstr "Cảnh báo: Chữ ký không hợp lệ."
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:142
+#, kde-format
+msgid "Compliance: %1"
+msgstr "Tuân thủ: %1"
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:154
+msgid "Invalid signature"
+msgstr "Chữ ký không hợp lệ"
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:156
+msgid "Not enough information to check signature validity"
+msgstr "Không đủ thông tin để kiểm tra tính hợp lệ của chữ ký"
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:159
+#, kde-format
+msgid "Signed by <a href='mailto:%1'>%1</a>"
+msgstr "Được ký bởi <a href='mailto:%1'>%1</a>"
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:161
+msgid "Signature is valid"
+msgstr "Chữ ký hợp lệ"
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:164
+msgid "Unknown signature state"
+msgstr "Trạng thái chữ ký không rõ"
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:167
+#, kde-format
+msgctxt "Status of signature (status/type of compliance)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: ./messagepartthemes/default/templates/signedmessagepart.html:186
+msgid "End of signed message"
+msgstr "Kết thúc thông điệp đã ký"
+
+#: dkim-verify/dkimcheckfulljob.cpp:118
+#, kde-format
+msgid ""
+"Stored DKIM key is different from the current one. Do you want to store this "
+"one too?"
+msgstr "Khóa DKIM đã lưu khác với khóa hiện tại. Bạn có muốn lưu khóa này không?"
+
+#: dkim-verify/dkimcheckfulljob.cpp:119
+#, kde-format
+msgctxt "@title:window"
+msgid "Key Changed"
+msgstr "Khóa đã thay đổi"
+
+#: dkim-verify/dkimcheckfulljob.cpp:120
+#, kde-format
+msgctxt "@action:button"
+msgid "Store"
+msgstr "Lưu"
+
+#: dkim-verify/dkimmanagerkeymodel.cpp:77
+#, kde-format
+msgid "DKIM Key"
+msgstr "Khóa DKIM"
+
+#: dkim-verify/dkimmanagerkeymodel.cpp:79
+#, kde-format
+msgid "Selector"
+msgstr "Bộ chọn lọc"
+
+#: dkim-verify/dkimmanagerkeymodel.cpp:81
+#: dkim-verify/dkimmanageruleswidget.cpp:73
+#, kde-format
+msgid "SDID"
+msgstr "SDID"
+
+#: dkim-verify/dkimmanagerkeymodel.cpp:83
+#, kde-format
+msgid "Inserted"
+msgstr "Đã chèn"
+
+#: dkim-verify/dkimmanagerkeymodel.cpp:85
+#, kde-format
+msgid "Last Used"
+msgstr "Lần sử dụng cuối"
+
+#: dkim-verify/dkimmanagerkeytreeview.cpp:69
+#, kde-format
+msgid "Copy Key"
+msgstr "Sao chép Khóa"
+
+#: dkim-verify/dkimmanagerkeytreeview.cpp:76
+#, kde-format
+msgid "Remove Key"
+msgid_plural "Remove Keys"
+msgstr[0] "Xoá Các Khoá"
+
+#: dkim-verify/dkimmanagerkeytreeview.cpp:81
+#, kde-format
+msgid "Do you want to delete this key?"
+msgid_plural "Do you want to delete these keys?"
+msgstr[0] "Bạn có muốn xóa những khóa này không?"
+
+#: dkim-verify/dkimmanagerkeytreeview.cpp:82
+#, kde-format
+msgid "Delete Key"
+msgid_plural "Delete Keys"
+msgstr[0] "Xóa Khóa"
+
+#: dkim-verify/dkimmanagerkeytreeview.cpp:92
+#: dkim-verify/dkimmanageruleswidget.cpp:223
+#, kde-format
+msgid "Delete All"
+msgstr "Xóa tất cả"
+
+#: dkim-verify/dkimmanagerkeytreeview.cpp:94
+#, kde-format
+msgid "Do you want to delete all keys?"
+msgstr "Bạn có muốn xóa tất cả các khóa không?"
+
+#: dkim-verify/dkimmanagerkeytreeview.cpp:95
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete Keys"
+msgstr "Xóa Khóa"
+
+#: dkim-verify/dkimmanagerkeywidget.cpp:33
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Search..."
+msgstr "Tìm kiếm..."
+
+#: dkim-verify/dkimmanagerulescombobox.cpp:20
+#, kde-format
+msgid "Must be signed"
+msgstr "Phải được ký"
+
+#: dkim-verify/dkimmanagerulescombobox.cpp:21
+#, kde-format
+msgid "Can be signed"
+msgstr "Có thể được ký"
+
+#: dkim-verify/dkimmanagerulescombobox.cpp:22
+#, kde-format
+msgid "Ignore if not signed"
+msgstr "Bỏ qua nếu không được ký"
+
+#: dkim-verify/dkimmanagerulesdialog.cpp:29
+#, kde-format
+msgctxt "@action:button"
+msgid "Export..."
+msgstr "Xuất..."
+
+#: dkim-verify/dkimmanagerulesdialog.cpp:31
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure Rule"
+msgstr "Cấu hình Quy tắc"
+
+#: dkim-verify/dkimmanagerulesdialog.cpp:42
+#, kde-format
+msgctxt "@action:button"
+msgid "Add Rule..."
+msgstr "Thêm Quy Tắc..."
+
+#: dkim-verify/dkimmanagerulesdialog.cpp:47
+#, kde-format
+msgctxt "@action:button"
+msgid "Import..."
+msgstr "Nhập..."
+
+#: dkim-verify/dkimmanagerulesdialog.cpp:79
+#, kde-format
+msgid "No rules found"
+msgstr "Không tìm thấy quy tắc"
+
+#: dkim-verify/dkimmanagerulesdialog.cpp:79
+#, kde-format
+msgctxt "@title:window"
+msgid "Export Rules"
+msgstr "Xuất Khẩu Quy Tắc"
+
+#: dkim-verify/dkimmanagerulesdialog.cpp:82
+#, kde-format
+msgid "Export Rules"
+msgstr "Xuất khẩu Quy tắc"
+
+#: dkim-verify/dkimmanagerulesdialog.cpp:90
+#, kde-format
+msgid "Import Rules"
+msgstr "Nhập khẩu Quy tắc"
+
+#: dkim-verify/dkimmanagerulesdialog.cpp:93
+#, kde-format
+msgid "No rules imported."
+msgstr "Không có quy tắc nào được nhập."
+
+#: dkim-verify/dkimmanagerulesdialog.cpp:93
+#, kde-format
+msgctxt "@title:window"
+msgid "Import Rules"
+msgstr "Nhập Khẩu Quy Tắc"
+
+#: dkim-verify/dkimmanageruleswidget.cpp:73
+#: remote-content/remotecontentconfigurewidget.cpp:52
+#, kde-format
+msgid "Domain"
+msgstr "miền"
+
+#: dkim-verify/dkimmanageruleswidget.cpp:73
+#, kde-format
+msgid "Active"
+msgstr "Hoạt động"
+
+#: dkim-verify/dkimmanageruleswidget.cpp:73
+#, kde-format
+msgid "List-ID"
+msgstr "Danh sách ID"
+
+#: dkim-verify/dkimmanageruleswidget.cpp:73
+#, kde-format
+msgid "From"
+msgstr "Từ"
+
+#: dkim-verify/dkimmanageruleswidget.cpp:73
+#, kde-format
+msgid "Rule type"
+msgstr "Kiểu quy tắc"
+
+#: dkim-verify/dkimmanageruleswidget.cpp:73
+#, kde-format
+msgid "Priority"
+msgstr "Ưu tiên"
+
+#: dkim-verify/dkimmanageruleswidget.cpp:196
+#: remote-content/remotecontentconfigurewidget.cpp:80
+#, kde-format
+msgid "Add..."
+msgstr "Thêm..."
+
+#: dkim-verify/dkimmanageruleswidget.cpp:201
+#: remote-content/remotecontentconfigurewidget.cpp:83
+#, kde-format
+msgid "Modify..."
+msgstr "Sửa đổi..."
+
+#: dkim-verify/dkimmanageruleswidget.cpp:205
+#, kde-format
+msgid "Duplicate Rule"
+msgstr "Quy tắc trùng lặp"
+
+#: dkim-verify/dkimmanageruleswidget.cpp:209
+#: remote-content/remotecontentconfigurewidget.cpp:87
+#, kde-format
+msgid "Remove Rule"
+msgstr "Xoá Quy Tắc"
+
+#: dkim-verify/dkimmanageruleswidget.cpp:211
+#, kde-format
+msgid "Do you want to delete this rule?"
+msgstr "Bạn có muốn xóa quy tắc này không?"
+
+#: dkim-verify/dkimmanageruleswidget.cpp:212
+#: remote-content/remotecontentconfigurewidget.cpp:90
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete Rule"
+msgstr "Xóa Quy Tắc"
+
+#: dkim-verify/dkimmanageruleswidget.cpp:225
+#, kde-format
+msgid "Do you want to delete all the rules?"
+msgstr "Bạn có muốn xóa tất cả các quy tắc không?"
+
+#: dkim-verify/dkimmanageruleswidget.cpp:226
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete Rules"
+msgstr "Xóa Quy Tắc"
+
+#: dkim-verify/dkimruledialog.cpp:26
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Rule"
+msgstr "Thêm Quy Tắc"
+
+#: dkim-verify/dkimruledialog.cpp:73
+#, kde-format
+msgctxt "@title:window"
+msgid "Modify Rule"
+msgstr "Chỉnh sửa Quy tắc"
+
+#: dkim-verify/dkimrulewidget.cpp:18
+#, kde-format
+msgid "Enabled"
+msgstr "Bật"
+
+#: dkim-verify/dkimrulewidget.cpp:36
+#, kde-format
+msgid "Domain:"
+msgstr "Tên miền:"
+
+#: dkim-verify/dkimrulewidget.cpp:41 header/grantleeheaderformatter.cpp:182
+#, kde-format
+msgid "List-Id:"
+msgstr "Danh sách ID:"
+
+#: dkim-verify/dkimrulewidget.cpp:45 header/grantleeheaderformatter.cpp:271
+#, kde-format
+msgid "From:"
+msgstr "Từ:"
+
+#: dkim-verify/dkimrulewidget.cpp:46
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Use '*' to specify all emails from domain"
+msgstr "Sử dụng '*' để chỉ định tất cả email từ miền"
+
+#: dkim-verify/dkimrulewidget.cpp:51
+#, kde-format
+msgid "SDID:"
+msgstr "SDID:"
+
+#: dkim-verify/dkimrulewidget.cpp:54
+#, kde-format
+msgid "Rule:"
+msgstr "Quy tắc:"
+
+#: dkim-verify/dkimrulewidget.cpp:60
+#, kde-format
+msgid "Priority:"
+msgstr "Ưu tiên:"
+
+#: dkim-verify/dkimviewermenu.cpp:14
+#, kde-format
+msgid "DKIM"
+msgstr "DKIM"
+
+#: dkim-verify/dkimviewermenu.cpp:36
+#, kde-format
+msgid "Recheck DKIM Signature"
+msgstr "Kiểm tra lại chữ ký DKIM"
+
+#: dkim-verify/dkimviewermenu.cpp:39
+#, kde-format
+msgid "Update DKIM key"
+msgstr "Cập nhật khóa DKIM"
+
+#: dkim-verify/dkimviewermenu.cpp:43
+#, kde-format
+msgid "Rules..."
+msgstr "Quy tắc..."
+
+#: dkim-verify/dkimwidgetinfo.cpp:94
+#, kde-format
+msgid "Unknown"
+msgstr "không rõ"
+
+#: dkim-verify/dkimwidgetinfo.cpp:100
+#, kde-format
+msgid "DKIM: valid (signed by %1)"
+msgstr "DKIM: hợp lệ (được ký bởi %1)"
+
+#: dkim-verify/dkimwidgetinfo.cpp:107
+#, kde-format
+msgid "DKIM: invalid"
+msgstr "DKIM: không hợp lệ"
+
+#: dkim-verify/dkimwidgetinfo.cpp:110
+#, kde-format
+msgid "DKIM: Not signed"
+msgstr "DKIM: Không được ký"
+
+#: dkim-verify/dkimwidgetinfo.cpp:115
+#, kde-format
+msgid "DKIM: Should Be Signed by %1"
+msgstr "DKIM: Nên được ký bởi %1"
+
+#: dkim-verify/dkimwidgetinfo.cpp:131
+#, kde-format
+msgid "Body Hash was corrupted."
+msgstr "Băm thân thư bị hỏng."
+
+#: dkim-verify/dkimwidgetinfo.cpp:134
+#, kde-format
+msgid "The domain doesn't exist."
+msgstr "Miền không tồn tại."
+
+#: dkim-verify/dkimwidgetinfo.cpp:137
+#, kde-format
+msgid "Missing header From."
+msgstr "Thiếu đầu tải Từ."
+
+#: dkim-verify/dkimwidgetinfo.cpp:140
+#, kde-format
+msgid "Missing signature."
+msgstr "Thiếu chữ ký."
+
+#: dkim-verify/dkimwidgetinfo.cpp:143
+#, kde-format
+msgid "Invalid query method."
+msgstr "Phương thức truy vấn không hợp lệ."
+
+#: dkim-verify/dkimwidgetinfo.cpp:146
+#, kde-format
+msgid "Invalid header canonicalization."
+msgstr "Canonicalization đầu tải không hợp lệ."
+
+#: dkim-verify/dkimwidgetinfo.cpp:149
+#, kde-format
+msgid "Invalid body canonicalization."
+msgstr "Canonicalization của thân không hợp lệ."
+
+#: dkim-verify/dkimwidgetinfo.cpp:152
+#, kde-format
+msgid "Unknown Body Hash Algorithm."
+msgstr "Thuật toán băm nội dung không rõ."
+
+#: dkim-verify/dkimwidgetinfo.cpp:155
+#, kde-format
+msgid "Signature algorithm is invalid."
+msgstr "Thuật toán chữ ký không hợp lệ."
+
+#: dkim-verify/dkimwidgetinfo.cpp:158
+#, kde-format
+msgid "The public key was revoked."
+msgstr "Khoá công khai đã bị thu hồi."
+
+#: dkim-verify/dkimwidgetinfo.cpp:161
+#, kde-format
+msgid "Signature is too large."
+msgstr "Chữ ký quá lớn."
+
+#: dkim-verify/dkimwidgetinfo.cpp:164
+#, kde-format
+msgid "Hash Algorithm is unsupported."
+msgstr "Thuật toán băm không được hỗ trợ."
+
+#: dkim-verify/dkimwidgetinfo.cpp:167
+#, kde-format
+msgid "Public key is too small."
+msgstr "Khoá công khai quá nhỏ."
+
+#: dkim-verify/dkimwidgetinfo.cpp:170
+#, kde-format
+msgid "Impossible to verify signature."
+msgstr "Không thể xác minh chữ ký."
+
+#: dkim-verify/dkimwidgetinfo.cpp:173
+#, kde-format
+msgid "AUID must be in the same domain as SDID (s-flag set in key record)."
+msgstr "AUID phải ở cùng miền với SDID (cờ s được đặt trong bản ghi khóa)."
+
+#: dkim-verify/dkimwidgetinfo.cpp:176
+#, kde-format
+msgid "The signing domain is only testing DKIM."
+msgstr "Miền ký tên chỉ đang thử nghiệm DKIM."
+
+#: dkim-verify/dkimwidgetinfo.cpp:179
+#, kde-format
+msgid "Impossible to download key."
+msgstr "Không thể tải về khóa."
+
+#: dkim-verify/dkimwidgetinfo.cpp:182 dkim-verify/dkimwidgetinfo.cpp:206
+#, kde-format
+msgid "Hash Algorithm unsafe (sha1)"
+msgstr "Thuật toán băm không an toàn (sha1)"
+
+#: dkim-verify/dkimwidgetinfo.cpp:185
+#, kde-format
+msgid "AUID is not in a subdomain of SDID"
+msgstr "AUID không nằm trong một miền phụ của SDID"
+
+#: dkim-verify/dkimwidgetinfo.cpp:188
+#, kde-format
+msgid "Problem during converting public key"
+msgstr "Vấn đề trong quá trình chuyển đổi khoá công khai"
+
+#: dkim-verify/dkimwidgetinfo.cpp:197
+#, kde-format
+msgid "Signature expired"
+msgstr "Chữ ký đã hết hạn"
+
+#: dkim-verify/dkimwidgetinfo.cpp:200
+#, kde-format
+msgid "Signature created in the future"
+msgstr "Chữ ký được tạo trong tương lai"
+
+#: dkim-verify/dkimwidgetinfo.cpp:203
+#, kde-format
+msgid "Signature too small"
+msgstr "Chữ ký quá nhỏ"
+
+#: dkim-verify/dkimwidgetinfo.cpp:209
+#, kde-format
+msgid "Public Key too small"
+msgstr "Khoá công khai quá nhỏ"
+
+#: dkim-verify/dkimwidgetinfo.cpp:230 dkim-verify/dkimwidgetinfo.cpp:276
+#, kde-format
+msgctxt "method name: info about it from parsing"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: dkim-verify/dkimwidgetinfo.cpp:253
+#, kde-format
+msgid "%1: None"
+msgstr "%1: Không"
+
+#: dkim-verify/dkimwidgetinfo.cpp:268
+#, kde-format
+msgid "%1: Valid (Signed by %2)"
+msgstr "%1: Hợp lệ (Được ký bởi %2)"
+
+#: dkim-verify/dkimwidgetinfo.cpp:288
+#, kde-format
+msgid "%1: Valid"
+msgstr "%1: Hợp lệ"
+
+#: dkim-verify/dkimwidgetinfo.cpp:303
+#, kde-format
+msgid "Not Signed"
+msgstr "Chưa ký"
+
+#: header/grantleeheaderformatter.cpp:203
+#, kde-format
+msgid "Subject:"
+msgstr "Chủ đề:"
+
+#: header/grantleeheaderformatter.cpp:223
+#, kde-format
+msgid "Date:"
+msgstr "Ngày:"
+
+#: header/grantleeheaderformatter.cpp:239
+#, kde-format
+msgid "Message-Id:"
+msgstr "Mã tin nhắn:"
+
+#: header/grantleeheaderformatter.cpp:263
+#, kde-format
+msgid "To:"
+msgstr "Đến:"
+
+#: header/grantleeheaderformatter.cpp:265
+#, kde-format
+msgid "Reply To:"
+msgstr "Hồi đáp:"
+
+#: header/grantleeheaderformatter.cpp:267
+#, kde-format
+msgid "CC:"
+msgstr "CC:"
+
+#: header/grantleeheaderformatter.cpp:269
+#, kde-format
+msgid "BCC:"
+msgstr "Bcc:"
+
+#: header/grantleeheaderformatter.cpp:273
+#, kde-format
+msgid "Sender:"
+msgstr "Người gửi:"
+
+#: header/grantleeheaderformatter.cpp:275
+#, kde-format
+msgid "resent from:"
+msgstr "gửi lại từ:"
+
+#: header/grantleeheaderformatter.cpp:277
+#, kde-format
+msgid "resent to:"
+msgstr "gửi lại đến:"
+
+#: header/grantleeheaderformatter.cpp:358
+#, kde-format
+msgid "Grantlee theme \"%1\" is not valid."
+msgstr "Chủ đề Grantlee \"%1\" không hợp lệ."
+
+#: header/grantleeheaderformatter.cpp:448
+#: header/headerstyle_util.cpp:80 header/headerstyle_util.cpp:85
+#: header/headerstyle_util.cpp:96
+#, kde-format
+msgid "No Subject"
+msgstr "Không có chủ đề"
+
+#: header/grantleeheaderformatter.cpp:453
+#, kde-format
+msgid "Spam Status:"
+msgstr "Trạng thái thư rác:"
+
+#: header/grantleeheaderformatter.cpp:465
+#, kde-format
+msgid "Printing mode"
+msgstr "Chế độ in"
+
+#: header/grantleeheaderformatter.cpp:507
+#, kde-format
+msgid "[vcard]"
+msgstr "[vcard]"
+
+#: header/grantleeheaderformatter.cpp:514
+#, kde-format
+msgid "Attachments:"
+msgstr "Tệp đính kèm:"
+
+#: header/grantleeheaderformatter.cpp:540
+#, kde-format
+msgid "Security:"
+msgstr "Bảo mật:"
+
+#: header/headerstyle_util.cpp:55
+#, kde-format
+msgctxt "Unknown date"
+msgid "Unknown"
+msgstr "không rõ"
+
+#: header/headerstyle_util.cpp:145
+#, kde-format
+msgid ""
+"%1% probability of being spam with confidence %3%.\n"
+"\n"
+"Full report:\n"
+"Probability=%2\n"
+"Confidence=%4"
+msgstr ""
+"%1% khả năng là thư rác với độ tin cậy %3%.\n\nBáo cáo đầy đủ:\nXác "
+"suất=%2\nĐộ tin cậy=%4"
+
+#: header/headerstyle_util.cpp:154
+#, kde-format
+msgid ""
+"%1% probability of being spam.\n"
+"\n"
+"Full report:\n"
+"Probability=%2"
+msgstr "%1% khả năng là thư rác.\n\nBáo cáo đầy đủ:\nXác suất=%2"
+
+#: header/headerstyle_util.cpp:163
+#, kde-format
+msgid "No Spam agent"
+msgstr "Không có đại diện Spam"
+
+#: header/headerstyle_util.cpp:166
+#, kde-format
+msgid "Spam filter score not a number"
+msgstr "Điểm lọc thư rác không phải là số"
+
+#: header/headerstyle_util.cpp:169
+#, kde-format
+msgid "Threshold not a valid number"
+msgstr "Ngưỡng không phải là một số hợp lệ"
+
+#: header/headerstyle_util.cpp:172
+#, kde-format
+msgid "Spam filter score could not be extracted from header"
+msgstr "Không thể trích xuất điểm lọc thư rác từ đầu tải"
+
+#: header/headerstyle_util.cpp:175
+#, kde-format
+msgid "Threshold could not be extracted from header"
+msgstr "Không thể trích xuất ngưỡng từ đầu tải"
+
+#: header/headerstyle_util.cpp:178
+#, kde-format
+msgid "Error evaluating spam score"
+msgstr "Lỗi khi đánh giá điểm spam"
+
+#: header/headerstyle_util.cpp:183
+#, kde-format
+msgid ""
+"%1.\n"
+"\n"
+"Full report:\n"
+"%2"
+msgstr "%1.\n\nBáo cáo đầy đủ:\n%2"
+
+#: header/headerstylemenumanager.cpp:105
+#, kde-format
+msgctxt "View->"
+msgid "&Headers"
+msgstr "T&iêu đề"
+
+#: header/headerstylemenumanager.cpp:109
+#, kde-format
+msgid "Choose display style of message headers"
+msgstr "Chọn kiểu cách hiển thị của tiêu đề thông điệp"
+
+#: header/plainheaderstyle.cpp:103
+#, kde-format
+msgid "Date: "
+msgstr "Ngày: "
+
+#: header/plainheaderstyle.cpp:107
+#, kde-format
+msgid "From: "
+msgstr "Từ: "
+
+#: header/plainheaderstyle.cpp:109
+#, kde-format
+msgid "[vCard]"
+msgstr "[vCard]"
+
+#: header/plainheaderstyle.cpp:121
+#, kde-format
+msgctxt "To-field of the mailheader."
+msgid "To: "
+msgstr "Đến:"
+
+#: header/plainheaderstyle.cpp:128
+#, kde-format
+msgid "CC: "
+msgstr "CC: "
+
+#: header/plainheaderstyle.cpp:135
+#, kde-format
+msgid "BCC: "
+msgstr "Bcc:"
+
+#: header/plainheaderstyle.cpp:140
+#, kde-format
+msgid "Reply to: "
+msgstr "Hồi đáp tới: "
+
+#: mdn/mdnwarningwidget.cpp:14
+#, kde-format
+msgctxt "@action"
+msgid "Ignore"
+msgstr "Bỏ qua"
+
+#: mdn/mdnwarningwidget.cpp:15
+#, kde-format
+msgctxt "@action"
+msgid "Send"
+msgstr "Gửi"
+
+#: mdn/mdnwarningwidget.cpp:16
+#, kde-format
+msgctxt "@action"
+msgid "Send Deny"
+msgstr "Gửi từ chối"
+
+#: messagepartthemes/default/defaultrenderer.cpp:67
+#, kde-format
+msgid "Error: Signature not verified"
+msgstr "Lỗi: Chữ ký không được xác minh"
+
+#: messagepartthemes/default/defaultrenderer.cpp:71
+#, kde-format
+msgid "Good signature"
+msgstr "Chữ ký tốt"
+
+#: messagepartthemes/default/defaultrenderer.cpp:75
+#, kde-format
+msgid "Bad signature"
+msgstr "Chữ ký không hợp lệ"
+
+#: messagepartthemes/default/defaultrenderer.cpp:79
+#, kde-format
+msgid "No public key to verify the signature"
+msgstr "Không có khoá công khai để xác minh chữ ký"
+
+#: messagepartthemes/default/defaultrenderer.cpp:83
+#, kde-format
+msgid "No signature found"
+msgstr "Không tìm thấy chữ ký"
+
+#: messagepartthemes/default/defaultrenderer.cpp:87
+#, kde-format
+msgid "Error verifying the signature"
+msgstr "Lỗi khi xác minh chữ ký"
+
+#: messagepartthemes/default/defaultrenderer.cpp:91
+#, kde-format
+msgid "Different results for signatures"
+msgstr "Kết quả khác nhau cho chữ ký"
+
+#: messagepartthemes/default/defaultrenderer.cpp:111
+#, kde-format
+msgid "No status information available."
+msgstr "Không có thông tin trạng thái."
+
+#: messagepartthemes/default/defaultrenderer.cpp:118
+#: messagepartthemes/default/defaultrenderer.cpp:203
+#, kde-format
+msgid "Good signature."
+msgstr "Chữ ký tốt."
+
+#: messagepartthemes/default/defaultrenderer.cpp:139
+#, kde-format
+msgid "One key has expired."
+msgstr "Một khóa đã hết hạn."
+
+#: messagepartthemes/default/defaultrenderer.cpp:143
+#, kde-format
+msgid "The signature has expired."
+msgstr "Chữ ký đã hết hạn."
+
+#: messagepartthemes/default/defaultrenderer.cpp:148
+#, kde-format
+msgid "Unable to verify: key missing."
+msgstr "Không thể xác minh: thiếu khóa."
+
+#: messagepartthemes/default/defaultrenderer.cpp:155
+#, kde-format
+msgid "CRL not available."
+msgstr "CRL không khả dụng."
+
+#: messagepartthemes/default/defaultrenderer.cpp:159
+#, kde-format
+msgid "Available CRL is too old."
+msgstr "CRL hiện có quá cũ."
+
+#: messagepartthemes/default/defaultrenderer.cpp:163
+#, kde-format
+msgid "A policy was not met."
+msgstr "Chính sách không được đáp ứng."
+
+#: messagepartthemes/default/defaultrenderer.cpp:167
+#, kde-format
+msgid "A system error occurred."
+msgstr "Đã xảy ra lỗi hệ thống."
+
+#: messagepartthemes/default/defaultrenderer.cpp:178
+#, kde-format
+msgid "One key has been revoked."
+msgstr "Một khóa đã bị thu hồi."
+
+#: messagepartthemes/default/defaultrenderer.cpp:205
+#, kde-format
+msgid "Bad signature."
+msgstr "Chữ ký không hợp lệ."
+
+#: messagepartthemes/default/defaultrenderer.cpp:525
+#: messagepartthemes/default/defaultrenderer.cpp:527
+#, kde-format
+msgid "certificate"
+msgstr "chứng chỉ"
+
+#: messagepartthemes/default/defaultrenderer.cpp:537
+#: messagepartthemes/default/defaultrenderer.cpp:556
+#, kde-format
+msgctxt "Start of warning message."
+msgid "Warning:"
+msgstr "Cảnh báo:"
+
+#: messagepartthemes/default/defaultrenderer.cpp:538
+#, kde-format
+msgid "Sender's mail address is not stored in the %1 used for signing."
+msgstr "Địa chỉ email của người gửi không được lưu trong %1 được sử dụng để ký."
+
+#: messagepartthemes/default/defaultrenderer.cpp:538
+#, kde-format
+msgid "sender: "
+msgstr "người gửi: "
+
+#: messagepartthemes/default/defaultrenderer.cpp:539
+#, kde-format
+msgid "stored: "
+msgstr "đã lưu:"
+
+#: messagepartthemes/default/defaultrenderer.cpp:557
+#, kde-format
+msgid ""
+"No mail address is stored in the %1 used for signing, so we cannot compare "
+"it to the sender's address %2."
+msgstr ""
+"Không có địa chỉ thư được lưu trong %1 được sử dụng để ký, vì vậy chúng tôi "
+"không thể so sánh nó với địa chỉ người gửi %2."
+
+#: remote-content/remotecontentconfiguredialog.cpp:27
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure Remote Content"
+msgstr "Cấu hình Nội dung Từ Xa"
+
+#: remote-content/remotecontentconfigurewidget.cpp:52
+#, kde-format
+msgid "Status"
+msgstr "Trạng thái"
+
+#: remote-content/remotecontentconfigurewidget.cpp:89
+#, kde-format
+msgid "Do you want to delete this rule '%1'?"
+msgstr "Bạn có muốn xóa quy tắc này '%1' không?"
+
+#: remote-content/remotecontentconfigurewidget.cpp:107
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Remote Content"
+msgstr "Chỉnh sửa nội dung từ xa"
+
+#: remote-content/remotecontentconfigurewidget.cpp:123
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Remote Content"
+msgstr "Thêm Nội Dung Từ Xa"
+
+#: remote-content/remotecontentconfigurewidget.cpp:132
+#, kde-format
+msgid "An entry already defines this url. Please modify it."
+msgstr "Một mục đã định nghĩa URL này. Vui lòng chỉnh sửa nó."
+
+#: remote-content/remotecontentconfigurewidget.cpp:132
+#, kde-format
+msgctxt "@title:window"
+msgid "Add new Url"
+msgstr "Thêm URL mới"
+
+#: remote-content/remotecontentmenu.cpp:17
+#, kde-format
+msgid "Configure"
+msgstr "Cấu hình"
+
+#: remote-content/remotecontentmenu.cpp:19
+#, kde-format
+msgid "Remote Content"
+msgstr "Nội dung từ xa"
+
+#: remote-content/remotecontentmenu.cpp:50
+#, kde-format
+msgid "Authorize %1"
+msgstr "Uỷ quyền %1"
+
+#: remote-content/remotecontentmenu.cpp:58
+#, kde-format
+msgid "Authorize all Urls"
+msgstr "Uỷ quyền tất cả các URL"
+
+#: remote-content/remotecontentstatustypecombobox.cpp:12
+#, kde-format
+msgid "Authorized"
+msgstr "Được ủy quyền"
+
+#: remote-content/remotecontentstatustypecombobox.cpp:13
+#, kde-format
+msgid "Blocked"
+msgstr "Bị chặn"
+
+#: remote-content/remotecontentwidget.cpp:28
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Domain:"
+msgstr "Miền:"
+
+#: scamdetection/scamdetectiondetailsdialog.cpp:40
+#, kde-format
+msgctxt "@title:window"
+msgid "Details"
+msgstr "Chi tiết"
+
+#: scamdetection/scamdetectionwarningwidget.cpp:34
+#, kde-format
+msgid "This message may be a scam. <a href=\"scamdetails\">(Details...)</a>"
+msgstr "Thông điệp này có thể là lừa đảo. <a href=\"scamdetails\">(Chi tiết...)</a>"
+
+#: scamdetection/scamdetectionwarningwidget.cpp:39
+#, kde-format
+msgctxt "@action"
+msgid "Move to Trash"
+msgstr "Chuyển vào Thùng rác"
+
+#: scamdetection/scamdetectionwarningwidget.cpp:44
+#, kde-format
+msgctxt "@action"
+msgid "I confirm it's not a scam"
+msgstr "Tôi xác nhận đây không phải là một vụ lừa đảo"
+
+#: scamdetection/scamdetectionwarningwidget.cpp:48
+#, kde-format
+msgctxt "@action"
+msgid "Add email to whitelist"
+msgstr "Thêm thư điện tử vào danh sách trắng"
+
+#: scamdetection/scamdetectionwarningwidget.cpp:52
+#, kde-format
+msgctxt "@action"
+msgid "Disable scam detection for all messages"
+msgstr "Tắt phát hiện lừa đảo cho tất cả các tin nhắn"
+
+#: scamdetection/scamdetectionwebengine.cpp:115
+#: scamdetection/scamdetectionwebengine.cpp:202
+#, kde-format
+msgid ""
+"This email contains a link which reads as '%1' in the text, but actually "
+"points to '%2'. This is often the case in scam emails to mislead the "
+"recipient"
+msgstr ""
+"Email này chứa một liên kết có nội dung '%1' trong văn bản, nhưng thực tế "
+"lại trỏ đến '%2'. Điều này thường xảy ra trong các email lừa đảo để gây "
+"nhầm lẫn cho người nhận."
+
+#: scamdetection/scamdetectionwebengine.cpp:128
+#, kde-format
+msgid ""
+"This email contains a link which points to a numerical IP address (%1) "
+"instead of a typical textual website address. This is often the case in scam "
+"emails."
+msgstr ""
+"Email này chứa một liên kết chỉ đến một địa chỉ IP số (%1) thay vì một địa "
+"chỉ website văn bản thông thường. Điều này thường xảy ra trong các email "
+"lừa đảo."
+
+#: scamdetection/scamdetectionwebengine.cpp:135
+#, kde-format
+msgid ""
+"This email contains a link which points to a hexadecimal IP address (%1) "
+"instead of a typical textual website address. This is often the case in scam "
+"emails."
+msgstr ""
+"Email này chứa một liên kết trỏ đến một địa chỉ IP dạng số thập lục phân "
+"(%1) thay vì một địa chỉ website văn bản thông thường. Điều này thường xảy "
+"ra trong các email lừa đảo."
+
+#: scamdetection/scamdetectionwebengine.cpp:141
+#, kde-format
+msgid "This email contains a link (%1) which has a redirection"
+msgstr "Email này chứa một liên kết (%1) có sự chuyển hướng"
+
+#: scamdetection/scamdetectionwebengine.cpp:148
+#, kde-format
+msgid ""
+"This email contains a link (%1) which contains multiple http://. This is "
+"often the case in scam emails."
+msgstr ""
+"Email này chứa một liên kết (%1) có nhiều http://. Điều này thường xảy ra "
+"trong các email lừa đảo."
+
+#: scamdetection/scamdetectionwebengine.cpp:159
+#, kde-format
+msgid "This email contains a shorturl (%1). It can redirect to another server."
+msgstr ""
+"Email này chứa một shorturl (%1). Nó có thể chuyển hướng đến một máy chủ "
+"khác."
+
+#: scamdetection/scamdetectionwebengine.cpp:222
+#, kde-format
+msgid "Message contains form element. This is often the case in scam emails."
+msgstr "Thông điệp chứa biểu mẫu. Điều này thường xảy ra trong các email lừa đảo."
+
+#: scamdetection/scamdetectionwebengine.cpp:226
+#, kde-format
+msgid "Details:"
+msgstr "Chi tiết:"
+
+#: scamdetection/scamexpandurljob.cpp:47
+#, kde-format
+msgid "No network connection detected, we cannot expand url."
+msgstr "Không phát hiện được kết nối mạng, chúng tôi không thể mở rộng URL."
+
+#: scamdetection/scamexpandurljob.cpp:77 scamdetection/scamexpandurljob.cpp:83
+#, kde-format
+msgid "Impossible to expand '%1'."
+msgstr "Không thể mở rộng '%1'."
+
+#: scamdetection/scamexpandurljob.cpp:81
+#, kde-format
+msgid "Short url '%1' redirects to '%2'."
+msgstr "Liên kết ngắn '%1' chuyển hướng đến '%2'."
+
+#. i18n: ectx: label, entry (PrintSelectedText), group (Print)
+#: settings/messageviewer.kcfg.in:11
+#, kde-format
+msgid "Only print selected text in viewer"
+msgstr "Chỉ in văn bản được chọn trong trình xem"
+
+#. i18n: ectx: label, entry (RespectExpandCollapseSettings), group (Print)
+#: settings/messageviewer.kcfg.in:15
+#, kde-format
+msgid ""
+"Respect expand/collapse quote mark which is defined in settings during "
+"printing."
+msgstr ""
+"Tôn trọng dấu ngoặc mở/đóng trích dẫn được định nghĩa trong thiết lập khi "
+"in."
+
+#. i18n: ectx: label, entry (PrintBackgroundColorImages), group (Print)
+#: settings/messageviewer.kcfg.in:19
+#, kde-format
+msgid ""
+"Specifies whether the background color and images are also drawn when the "
+"page is printed."
+msgstr "Xác định xem màu nền và hình ảnh có được vẽ khi trang được in ra hay không."
+
+#. i18n: ectx: label, entry (AlwaysShowEncryptionSignatureDetails), group (Print)
+#: settings/messageviewer.kcfg.in:23
+#, kde-format
+msgid "Always show encryption/signature details when we print message"
+msgstr "Luôn hiển thị chi tiết mã hóa/chữ ký khi in thông điệp"
+
+#. i18n: ectx: label, entry (MinimumFontSize), group (Fonts)
+#: settings/messageviewer.kcfg.in:34
+#, kde-format
+msgid "When we render html do not use font size inferior to minimum size."
+msgstr ""
+"Khi chúng tôi kết xuất HTML, không sử dụng kích thước phông chữ nhỏ hơn "
+"kích thước tối thiểu."
+
+#. i18n: ectx: label, entry (BodyFont), group (Fonts)
+#: settings/messageviewer.kcfg.in:38
+#, kde-format
+msgid "Specifies the font to use for the message body"
+msgstr "Chỉ định phông chữ để sử dụng cho nội dung thông điệp"
+
+#. i18n: ectx: label, entry (PrintFont), group (Fonts)
+#: settings/messageviewer.kcfg.in:42
+#, kde-format
+msgid "Specifies the font to use for printing"
+msgstr "Chỉ định phông chữ để sử dụng khi in"
+
+#. i18n: ectx: label, entry (CheckPhishingUrl), group (Security)
+#: settings/messageviewer.kcfg.in:49
+#, kde-format
+msgid "Check if url can be a phishing"
+msgstr "Kiểm tra xem URL có thể là lừa đảo không"
+
+#. i18n: ectx: label, entry (CloseAfterReplyOrForward), group (Reader)
+#: settings/messageviewer.kcfg.in:55
+#, kde-format
+msgid "Close message window after replying or forwarding"
+msgstr "Đóng cửa sổ thông điệp sau khi hồi đáp hoặc chuyển tiếp"
+
+#. i18n: ectx: label, entry (ShowExpandQuotesMark), group (Reader)
+#: settings/messageviewer.kcfg.in:72
+#, kde-format
+msgid "Show expand/collapse quote marks"
+msgstr "Hiển thị dấu mở/đóng trích dẫn"
+
+#. i18n: ectx: whatsthis, entry (ShowExpandQuotesMark), group (Reader)
+#: settings/messageviewer.kcfg.in:73
+#, kde-format
+msgid ""
+"Enable this option to show different levels of quoted text. Disable to hide "
+"the levels of quoted text."
+msgstr ""
+"Bật tùy chọn này để hiển thị các mức văn bản trích dẫn khác nhau. Tắt để ẩn "
+"các mức văn bản trích dẫn."
+
+#. i18n: ectx: label, entry (CollapseQuoteLevelSpin), group (Reader)
+#: settings/messageviewer.kcfg.in:76
+#, kde-format
+msgid "Automatic collapse level:"
+msgstr "Mức thu gọn tự động:"
+
+#. i18n: ectx: label, entry (ShrinkQuotes), group (Reader)
+#: settings/messageviewer.kcfg.in:83
+#, kde-format
+msgid "Reduce font size for quoted text"
+msgstr "Giảm kích thước phông chữ cho văn bản trích dẫn"
+
+#. i18n: ectx: whatsthis, entry (ShrinkQuotes), group (Reader)
+#: settings/messageviewer.kcfg.in:84
+#, kde-format
+msgid "Enable this option to show quoted text with a smaller font."
+msgstr "Bật tùy chọn này để hiển thị văn bản trích dẫn với phông chữ nhỏ hơn."
+
+#. i18n: ectx: label, entry (AlwaysDecrypt), group (Reader)
+#: settings/messageviewer.kcfg.in:88
+#, kde-format
+msgid "Always decrypt messages when viewing or ask before decrypting"
+msgstr "Luôn giải mật mã tin nhắn khi xem hoặc hỏi trước khi giải mật mã"
+
+#. i18n: ectx: label, entry (MimeTreeMode2), group (Reader)
+#: settings/messageviewer.kcfg.in:91
+#, kde-format
+msgid "Message Structure Viewer"
+msgstr "Trình xem cấu trúc thông điệp"
+
+#. i18n: ectx: label, entry (MimeTreeMode2), group (Reader)
+#: settings/messageviewer.kcfg.in:94
+#, kde-format
+msgid "Show never"
+msgstr "Không bao giờ hiển thị"
+
+#. i18n: ectx: label, entry (MimeTreeMode2), group (Reader)
+#: settings/messageviewer.kcfg.in:97
+#, kde-format
+msgid "Show always"
+msgstr "Luôn hiển thị"
+
+#. i18n: ectx: label, entry (headerPluginStyleName), group (Reader)
+#. i18n: ectx: label, entry (headerStyle), group (Reader)
+#: settings/messageviewer.kcfg.in:109 settings/messageviewer.kcfg.in:115
+#, kde-format
+msgid "What style of headers should be displayed"
+msgstr "Kiểu cách tiêu đề nên được hiển thị"
+
+#. i18n: ectx: label, entry (headerSetDisplayed), group (Reader)
+#: settings/messageviewer.kcfg.in:119
+#, kde-format
+msgid "How much of headers should be displayed"
+msgstr "Hiển thị bao nhiêu phần tiêu đề"
+
+#. i18n: ectx: label, entry (htmlMail), group (Reader)
+#: settings/messageviewer.kcfg.in:123
+#, kde-format
+msgid "Prefer HTML to plain text"
+msgstr "Ưu tiên HTML hơn văn bản thuần"
+
+#. i18n: ectx: label, entry (htmlLoadExternal), group (Reader)
+#: settings/messageviewer.kcfg.in:127
+#, kde-format
+msgid "Allow messages to load external references from the Internet"
+msgstr "Cho phép tin nhắn tải các tham chiếu bên ngoài từ Internet"
+
+#. i18n: ectx: label, entry (attachmentStrategy), group (Reader)
+#: settings/messageviewer.kcfg.in:131
+#, kde-format
+msgid "How attachments are shown"
+msgstr "Cách hiển thị tệp đính kèm"
+
+#. i18n: ectx: label, entry (RecycleQuoteColors), group (Reader)
+#: settings/messageviewer.kcfg.in:135
+#, kde-format
+msgid "Specifies whether to reuse the quote color, beyond the 3rd level"
+msgstr "Xác định xem có nên tái sử dụng màu trích dẫn, vượt quá cấp độ 3 hay không"
+
+#. i18n: ectx: label, entry (AccessKeyEnabled), group (Reader)
+#: settings/messageviewer.kcfg.in:139
+#, kde-format
+msgid "Activate Access Key"
+msgstr "Kích hoạt phím truy cập"
+
+#. i18n: ectx: label, entry (ScamDetectionEnabled), group (Reader)
+#: settings/messageviewer.kcfg.in:143
+#, kde-format
+msgid ""
+"KMail can analyze messages for suspected email scams by looking for common "
+"techniques used to deceive you"
+msgstr ""
+"KMail có thể phân tích các thư để phát hiện các email lừa đảo bằng cách tìm "
+"kiếm các kỹ thuật thường được sử dụng để lừa dối bạn"
+
+#. i18n: ectx: label, entry (ScamDetectionWhiteList), group (Reader)
+#: settings/messageviewer.kcfg.in:147
+#, kde-format
+msgid "List of emails in scam white list"
+msgstr "Danh sách email trong danh sách trắng lừa đảo"
+
+#. i18n: ectx: label, entry (MailTrackingUrlEnabled), group (Reader)
+#: settings/messageviewer.kcfg.in:151
+#, kde-format
+msgid "Scan emails for tracking URLs"
+msgstr "Quét email để tìm các URL theo dõi"
+
+#. i18n: ectx: label, entry (notSendWhenEncrypted), group (MDN)
+#: settings/messageviewer.kcfg.in:157
+#, kde-format
+msgid "Do not send MDNs in response to encrypted messages"
+msgstr "Không gửi thông báo phát hiện thư mã hoá trong lời hồi đáp"
+
+#. i18n: ectx: label, entry (LegacyMangleFromToHeaders), group (Invitations)
+#: settings/messageviewer.kcfg.in:179
+#, kde-format
+msgid "Mangle From:/To: headers in replies to replies"
+msgstr "Thay đổi tiêu đề Từ:/Đến: trong các hồi đáp của hồi đáp"
+
+#. i18n: ectx: whatsthis, entry (LegacyMangleFromToHeaders), group (Invitations)
+#: settings/messageviewer.kcfg.in:180
+#, kde-format
+msgid ""
+"Microsoft Outlook has a number of shortcomings in its implementation of the "
+"iCalendar standard; this option works around one of them. If you have "
+"problems with Outlook users not being able to get your replies, try setting "
+"this option."
+msgstr ""
+"Microsoft Outlook có một số hạn chế trong việc thực hiện tiêu chuẩn "
+"iCalendar; tùy chọn này giải quyết một trong những hạn chế đó. Nếu bạn gặp "
+"vấn đề với người dùng Outlook không thể nhận được phản hồi của bạn, hãy thử "
+"thiết lập tùy chọn này."
+
+#. i18n: ectx: label, entry (LegacyBodyInvites), group (Invitations)
+#: settings/messageviewer.kcfg.in:185
+#, kde-format
+msgid "Send groupware invitations in the mail body"
+msgstr "Gửi lời mời groupware trong nội dung thư"
+
+#. i18n: ectx: whatsthis, entry (LegacyBodyInvites), group (Invitations)
+#: settings/messageviewer.kcfg.in:186
+#, kde-format
+msgid ""
+"Microsoft Outlook has a number of shortcomings in its implementation of the "
+"iCalendar standard; this option works around one of them. If you have "
+"problems with Outlook users not being able to get your invitations, try "
+"setting this option."
+msgstr ""
+"Microsoft Outlook có một số hạn chế trong việc thực hiện tiêu chuẩn "
+"iCalendar; lựa chọn này giải quyết một trong những hạn chế đó. Nếu bạn gặp "
+"vấn đề với người dùng Outlook không thể nhận được lời mời của bạn, hãy thử "
+"thiết lập lựa chọn này."
+
+#. i18n: ectx: label, entry (ExchangeCompatibleInvitations), group (Invitations)
+#: settings/messageviewer.kcfg.in:191
+#, kde-format
+msgid "Exchange-compatible invitation naming"
+msgstr "Đặt tên lời mời tương thích với Exchange"
+
+#. i18n: ectx: whatsthis, entry (ExchangeCompatibleInvitations), group (Invitations)
+#: settings/messageviewer.kcfg.in:192
+#, kde-format
+msgid ""
+"Microsoft Outlook, when used in combination with a Microsoft Exchange "
+"server, has a problem understanding standards-compliant groupware email. "
+"Turn this option on to send groupware invitations in a way that Microsoft "
+"Exchange understands."
+msgstr ""
+"Microsoft Outlook, khi được sử dụng kết hợp với máy chủ Microsoft Exchange, "
+"có vấn đề với việc hiểu các email nhóm tuân thủ tiêu chuẩn. Bật lựa chọn "
+"này để gửi lời mời nhóm theo cách mà Microsoft Exchange hiểu được."
+
+#. i18n: ectx: label, entry (AutomaticSending), group (Invitations)
+#: settings/messageviewer.kcfg.in:197
+#, kde-format
+msgid "Automatic invitation sending"
+msgstr "Tự động gửi lời mời"
+
+#. i18n: ectx: whatsthis, entry (AutomaticSending), group (Invitations)
+#: settings/messageviewer.kcfg.in:198
+#, kde-format
+msgid ""
+"When this is checked, you will not see the mail composer window. Instead, "
+"all invitation mails are sent automatically. If you want to see the mail "
+"before sending it, you can uncheck this option. However, be aware that the "
+"text in the composer window is in iCalendar syntax, and you should not try "
+"modifying it by hand."
+msgstr ""
+"Khi tùy chọn này được chọn, bạn sẽ không thấy cửa sổ soạn thư. Thay vào đó, "
+"tất cả các thư mời sẽ được gửi tự động. Nếu bạn muốn xem thư trước khi gửi, "
+"bạn có thể bỏ chọn tùy chọn này. Tuy nhiên, hãy lưu ý rằng văn bản trong "
+"cửa sổ soạn thư ở định dạng iCalendar và bạn không nên cố gắng sửa đổi nó "
+"bằng tay."
+
+#. i18n: ectx: label, entry (DeleteInvitationEmailsAfterSendingReply), group (Invitations)
+#. i18n: ectx: property (text), widget (QCheckBox, mDeleteInvitations)
+#: settings/messageviewer.kcfg.in:203 ui/invitationsettings.ui:74
+#, kde-format
+msgid "Delete invitation emails after the reply to them has been sent"
+msgstr "Xóa email mời sau khi hồi đáp chúng đã được gửi"
+
+#. i18n: ectx: whatsthis, entry (DeleteInvitationEmailsAfterSendingReply), group (Invitations)
+#: settings/messageviewer.kcfg.in:204
+#, kde-format
+msgid ""
+"When this is checked, received invitation emails that have been replied to "
+"will be moved to the Trash folder, once the reply has been successfully sent."
+msgstr ""
+"Khi tùy chọn này được chọn, các email mời đã được hồi đáp sẽ được chuyển "
+"đến thư mục Rác sau khi hồi đáp thành công."
+
+#. i18n: ectx: label, entry (UseFixedFont), group (Composer)
+#: settings/messageviewer.kcfg.in:228 viewer/viewer_p.cpp:1559
+#, kde-format
+msgid "Use Fi&xed Font"
+msgstr "&Sử dụng Phông Chữ Cố Định"
+
+#. i18n: ectx: whatsthis, entry (LastSelectedFolder), group (Todo)
+#: settings/messageviewer.kcfg.in:235
+#, kde-format
+msgid "The most recent selected folder used for Todo."
+msgstr "Thư mục được chọn gần đây nhất dùng cho Todo."
+
+#. i18n: ectx: whatsthis, entry (LastEventSelectedFolder), group (Event)
+#: settings/messageviewer.kcfg.in:241
+#, kde-format
+msgid "The most recent selected folder used for Event."
+msgstr "Thư mục được chọn gần đây nhất dùng cho Sự kiện."
+
+#. i18n: ectx: whatsthis, entry (LastNoteSelectedFolder), group (Note)
+#: settings/messageviewer.kcfg.in:247
+#, kde-format
+msgid "The most recent selected folder used for Notes."
+msgstr "Thư mục được chọn gần đây nhất dùng cho Ghi chú."
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: ui/invitationsettings.ui:17
+#, kde-format
+msgid "Groupware Compatibility && Legacy Options"
+msgstr "Tương thích Groupware và Tùy chọn Đời cũ"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mLegacyMangleFromTo)
+#: ui/invitationsettings.ui:23
+#, kde-format
+msgid ""
+"Turn this option on in order to make Outlook(tm) understand your answers to "
+"invitation replies"
+msgstr "Bật tùy chọn này để giúp Outlook(tm) hiểu được các hồi đáp của bạn"
+
+#. i18n: ectx: property (text), widget (QCheckBox, mLegacyMangleFromTo)
+#: ui/invitationsettings.ui:26
+#, kde-format
+msgid "&Mangle From:/To: headers in replies to invitations"
+msgstr "Thay đổ&i tiêu đề Từ:/Đến: trong các hồi đáp lời mời"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mLegacyBodyInvites)
+#: ui/invitationsettings.ui:33
+#, kde-format
+msgid ""
+"Turn this option on in order to make Outlook(tm) understand your answers to "
+"invitations"
+msgstr ""
+"Bật tùy chọn này để giúp Outlook(tm) hiểu được câu trả lời của bạn đối với "
+"các lời mời"
+
+#. i18n: ectx: property (text), widget (QCheckBox, mLegacyBodyInvites)
+#: ui/invitationsettings.ui:36
+#, kde-format
+msgid "Send &invitations in the mail body"
+msgstr "Gử&i lời mời trong nội dung thư"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mExchangeCompatibleInvitations)
+#: ui/invitationsettings.ui:45
+#, kde-format
+msgid ""
+"Microsoft Outlook, when used in combination with a Microsoft Exchange "
+"server,\n"
+"has a problem understanding standards-compliant groupware email.\n"
+"Turn this option on to send groupware invitations in a way that Microsoft "
+"Exchange understands."
+msgstr ""
+"Microsoft Outlook, khi được sử dụng kết hợp với máy chủ Microsoft "
+"Exchange,\nđã gặp vấn đề trong việc hiểu các email groupware tuân thủ tiêu "
+"chuẩn.\nBật lựa chọn này để gửi lời mời groupware theo cách mà Microsoft "
+"Exchange hiểu được."
+
+#. i18n: ectx: property (text), widget (QCheckBox, mExchangeCompatibleInvitations)
+#: ui/invitationsettings.ui:48
+#, kde-format
+msgid "Exchange-compatible invitation &naming"
+msgstr "Đặt tê&n lời mời tương thích với Exchange"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mAutomaticSending)
+#: ui/invitationsettings.ui:55
+#, kde-format
+msgid ""
+"When this is on, the user will not see the mail composer window. Invitation "
+"mails are sent automatically."
+msgstr ""
+"Khi chức năng này được bật, người dùng sẽ không thấy cửa sổ soạn thư. Thư "
+"mời sẽ được gửi tự động."
+
+#. i18n: ectx: property (text), widget (QCheckBox, mAutomaticSending)
+#: ui/invitationsettings.ui:58
+#, kde-format
+msgid "&Automatic invitation sending"
+msgstr "Gửi lời mời &tự động"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: ui/invitationsettings.ui:68
+#, kde-format
+msgid "Options"
+msgstr "Tùy chọn"
+
+#. i18n: ectx: property (text), widget (QCheckBox, mPrintEmptySelectedText)
+#: ui/printingsettings.ui:17
+#, kde-format
+msgid "Print only selected text"
+msgstr "Chỉ in văn bản đã chọn"
+
+#. i18n: ectx: property (text), widget (QCheckBox, respectExpandCollapseSettings)
+#: ui/printingsettings.ui:24
+#, kde-format
+msgid "Respect &expand/collapse quote marks settings"
+msgstr "&Tôn trọng thiết lập mở rộng/thu gọn dấu ngoặc kép"
+
+#. i18n: ectx: property (text), widget (QCheckBox, printBackgroundColorAndImages)
+#: ui/printingsettings.ui:31
+#, kde-format
+msgid "Print background color and images"
+msgstr "In màu nền và hình ảnh"
+
+#. i18n: ectx: property (text), widget (QCheckBox, alwaysShowEncryptionSignatureDetail)
+#: ui/printingsettings.ui:38
+#, kde-format
+msgid "Always show encryption/signature details"
+msgstr "Luôn hiển thị chi tiết mã hóa/chữ ký"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, Settings)
+#: ui/settings.ui:19
+#, kde-format
+msgid "Viewer settings"
+msgstr "Thiết lập trình xem"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: ui/settings.ui:47
+#, kde-format
+msgid "O&verride character encoding:"
+msgstr "Ghi đè &mã hóa ký tự:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AccessKeyEnabled)
+#: ui/settings.ui:79
+#, kde-format
+msgid "Enable access key"
+msgstr "Bật phím truy cập"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShrinkQuotes)
+#: ui/settings.ui:86
+#, kde-format
+msgid "Reduce font size for &quoted text"
+msgstr "Giảm kích &thước phông chữ cho văn bản trích dẫn"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowExpandQuotesMark)
+#: ui/settings.ui:93
+#, kde-format
+msgid "Show &expand/collapse quote marks"
+msgstr "Hiể&n thị dấu ngoặc mở/đóng"
+
+#. i18n: ectx: property (text), widget (QLabel, collapseQuoteLevelLabel)
+#: ui/settings.ui:121
+#, kde-format
+msgid "Automatic collapse &level:"
+msgstr "Mức thu &gọn tự động:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: ui/settings.ui:190
+#, kde-format
+msgid "&Minimum font size:"
+msgstr "Kí&ch thước phông chữ tối thiểu:"
+
+#: utils/messageviewerutil.cpp:123
+#, kde-format
+msgid ""
+"A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr "Một tệp có tên \"%1\" đã tồn tại. Bạn có chắc chắn muốn ghi đè nó không?"
+
+#: utils/messageviewerutil.cpp:126
+#, kde-format
+msgctxt "@title:window"
+msgid "Overwrite File?"
+msgstr "Ghi đè tập tin?"
+
+#: utils/messageviewerutil.cpp:159
+#, kde-format
+msgid "Save Attachments To"
+msgstr "Lưu Tệp Đính Kèm Vào"
+
+#: utils/messageviewerutil.cpp:176
+#, kde-format
+msgctxt "filename for an unnamed attachment"
+msgid "attachment.1"
+msgstr "tệp đính kèm.1"
+
+#: utils/messageviewerutil.cpp:182
+#, kde-format
+msgid "Save Attachment"
+msgstr "Lưu tệp đính kèm"
+
+#: utils/messageviewerutil.cpp:206
+#, kde-format
+msgctxt "filename for the %1-th unnamed attachment"
+msgid "attachment.%1"
+msgstr "đính kèm.%1"
+
+#: utils/messageviewerutil.cpp:304
+#, kde-format
+msgid ""
+"The part %1 of the message is encrypted. Do you want to keep the encryption "
+"when saving?"
+msgstr ""
+"Phần %1 của thông điệp đã được mật mã hoá. Bạn có muốn giữ lại mật mã hoá "
+"khi lưu không?"
+
+#: utils/messageviewerutil.cpp:306 utils/messageviewerutil.cpp:319
+#, kde-format
+msgid "KMail Question"
+msgstr "Câu hỏi KMail"
+
+#: utils/messageviewerutil.cpp:306
+#, kde-format
+msgctxt "@action:button"
+msgid "Keep Encryption"
+msgstr "Giữ Mật Mã Hoá"
+
+#: utils/messageviewerutil.cpp:307 utils/messageviewerutil.cpp:320
+#, kde-format
+msgctxt "@action:button"
+msgid "Do Not Keep"
+msgstr "Không lưu"
+
+#: utils/messageviewerutil.cpp:317
+#, kde-format
+msgid ""
+"The part %1 of the message is signed. Do you want to keep the signature when "
+"saving?"
+msgstr "Phần %1 của thông điệp đã được ký. Bạn có muốn giữ chữ ký khi lưu không?"
+
+#: utils/messageviewerutil.cpp:319
+#, kde-format
+msgctxt "@action:button"
+msgid "Keep Signature"
+msgstr "Giữ chữ ký"
+
+#: utils/messageviewerutil.cpp:383 utils/messageviewerutil.cpp:401
+#: utils/messageviewerutil.cpp:419 utils/messageviewerutil.cpp:538
+#, kde-kuit-format
+msgctxt "1 = file name, 2 = error string"
+msgid ""
+"<qt>Could not write to the file<br /><filename>%1</filename><br /><br />%2</"
+"qt>"
+msgstr "<qt>Không thể ghi vào tệp<br /><filename>%1</filename><br /><br />%2</qt>"
+
+#: utils/messageviewerutil.cpp:386
+#, kde-format
+msgctxt "@title:window"
+msgid "Error saving attachment"
+msgstr "Lỗi khi lưu tệp đính kèm"
+
+#: utils/messageviewerutil.cpp:404 utils/messageviewerutil.cpp:422
+#, kde-format
+msgid "Error saving attachment"
+msgstr "Lỗi khi lưu tệp đính kèm"
+
+#: utils/messageviewerutil.cpp:435
+#, kde-format
+msgid "Found no attachments to save."
+msgstr "Không tìm thấy tệp đính kèm để lưu."
+
+#: utils/messageviewerutil.cpp:450
+#, kde-format
+msgid "message"
+msgstr "thông điệp"
+
+#: utils/messageviewerutil.cpp:472
+#, kde-format
+msgid "email messages (*.mbox);;all files (*)"
+msgstr "thư điện tử (*.mbox);;tất cả các tệp (*)"
+
+#: utils/messageviewerutil.cpp:483
+#, kde-format
+msgid "Save Message"
+msgid_plural "Save Messages"
+msgstr[0] "Lưu tin nhắn"
+
+#: utils/messageviewerutil.cpp:508
+#, kde-format
+msgid "File %1 could not be loaded."
+msgstr "Tệp %1 không thể được tải."
+
+#: utils/messageviewerutil.cpp:508
+#, kde-format
+msgctxt "@title:window"
+msgid "Error loading message"
+msgstr "Lỗi khi tải thông điệp"
+
+#: utils/messageviewerutil.cpp:510
+#, kde-format
+msgid "File %1 could not be created."
+msgstr "Tệp %1 không thể được tạo."
+
+#: utils/messageviewerutil.cpp:510 utils/messageviewerutil.cpp:541
+#, kde-format
+msgctxt "@title:window"
+msgid "Error saving message"
+msgstr "Lỗi khi lưu thông điệp"
+
+#: utils/messageviewerutil.cpp:521
+#, kde-format
+msgid "We cannot save message."
+msgstr "Chúng tôi không thể lưu tin nhắn."
+
+#: utils/messageviewerutil.cpp:521
+#, kde-format
+msgid "Error saving message"
+msgstr "Lỗi khi lưu thông điệp"
+
+#: utils/messageviewerutil.cpp:585
+#, kde-format
+msgctxt "Argument is the original name of the deleted attachment"
+msgid "Deleted: %1"
+msgstr "Đã xóa: %1"
+
+#: utils/messageviewerutil.cpp:596
+#, kde-format
+msgid ""
+"You deleted an attachment from this message. The original MIME headers for "
+"the attachment were:"
+msgstr ""
+"Bạn đã xóa một tệp đính kèm từ tin nhắn này. Các tiêu đề MIME gốc cho tệp "
+"đính kèm là:"
+
+#: utils/messageviewerutil.cpp:623
+#, kde-format
+msgid "Open &with %1"
+msgstr "&Mở bằng %1"
+
+#: utils/messageviewerutil.cpp:625
+#, kde-format
+msgctxt "@item:inmenu Open With, %1 is application name"
+msgid "%1"
+msgstr "%1"
+
+#: viewer/mimeparttree/mimetreemodel.cpp:59
+#, kde-format
+msgid "body part"
+msgstr "phần thân"
+
+#: viewer/mimeparttree/mimetreemodel.cpp:262
+#, kde-format
+msgid "Description"
+msgstr "Mô tả"
+
+#: viewer/mimeparttree/mimetreemodel.cpp:264
+#, kde-format
+msgid "Type"
+msgstr "Kiểu"
+
+#: viewer/mimeparttree/mimetreemodel.cpp:266
+#, kde-format
+msgid "Size"
+msgstr "Kích thước"
+
+#: viewer/printmessage.cpp:68
+#, kde-format
+msgid "Could not generate print preview."
+msgstr "Không thể tạo bản xem trước in."
+
+#: viewer/printmessage.cpp:104
+#, kde-format
+msgctxt "@title:window"
+msgid "Print Document"
+msgstr "In tài liệu"
+
+#: viewer/urlhandlermanager.cpp:406
+#, kde-format
+msgid "Turn on HTML rendering for this message."
+msgstr "Bật kết xuất HTML cho tin nhắn này."
+
+#: viewer/urlhandlermanager.cpp:408 viewer/viewer_p.cpp:1628
+#, kde-format
+msgid "Load external references from the Internet for this message."
+msgstr "Tải các tham chiếu bên ngoài từ Internet cho tin nhắn này."
+
+#: viewer/urlhandlermanager.cpp:410
+#, kde-format
+msgid "Work online."
+msgstr "Làm việc trực tuyến."
+
+#: viewer/urlhandlermanager.cpp:412
+#, kde-format
+msgid "Make account online."
+msgstr "Đưa tài khoản trực tuyến."
+
+#: viewer/urlhandlermanager.cpp:414
+#, kde-format
+msgid "Decrypt message."
+msgstr "Giải mật mã."
+
+#: viewer/urlhandlermanager.cpp:416
+#, kde-format
+msgid "Show signature details."
+msgstr "Hiển thị chi tiết chữ ký."
+
+#: viewer/urlhandlermanager.cpp:418
+#, kde-format
+msgid "Hide signature details."
+msgstr "Ẩn chi tiết chữ ký."
+
+#: viewer/urlhandlermanager.cpp:420
+#, kde-format
+msgid "Show encryption details."
+msgstr "Hiện thị chi tiết mật mã hoá."
+
+#: viewer/urlhandlermanager.cpp:422
+#, kde-format
+msgid "Hide encryption details."
+msgstr "Ẩn chi tiết mật mã hoá."
+
+#: viewer/urlhandlermanager.cpp:427
+#, kde-format
+msgid "Open Documentation"
+msgstr "Mở tài liệu"
+
+#: viewer/urlhandlermanager.cpp:461
+#, kde-format
+msgid "Expand all quoted text."
+msgstr "Mở rộng tất cả văn bản được trích dẫn."
+
+#: viewer/urlhandlermanager.cpp:463
+#, kde-format
+msgid "Collapse quoted text."
+msgstr "Thu gọn văn bản trích dẫn."
+
+#: viewer/urlhandlermanager.cpp:532
+#, kde-format
+msgid "Could not start certificate manager. Please check your installation."
+msgstr ""
+"Không thể khởi động trình quản lý chứng chỉ. Vui lòng kiểm tra lại cài đặt "
+"của bạn."
+
+#: viewer/urlhandlermanager.cpp:534
+#, kde-format
+msgid "KMail Error"
+msgstr "Lỗi KMail"
+
+#: viewer/urlhandlermanager.cpp:549
+#, kde-format
+msgid "Show certificate 0x%1"
+msgstr "Hiện chứng chỉ 0x%1"
+
+#: viewer/urlhandlermanager.cpp:608
+#, kde-format
+msgid "&Open in Address Book"
+msgstr "Mở tro&ng Sổ địa chỉ"
+
+#: viewer/urlhandlermanager.cpp:610
+#, kde-format
+msgid "&Copy Email Address"
+msgstr "S&ao chép Địa chỉ Thư điện tử"
+
+#: viewer/urlhandlermanager.cpp:623 viewer/viewer_p.cpp:2720
+#, kde-format
+msgid "Address copied to clipboard."
+msgstr "Địa chỉ đã được sao chép vào bộ nhớ tạm."
+
+#: viewer/urlhandlermanager.cpp:634
+#, kde-format
+msgid "Lookup the contact in KAddressbook"
+msgstr "Tra cứu liên hệ trong KAddressbook"
+
+#: viewer/urlhandlermanager.cpp:810
+#, kde-format
+msgid "Attachment: %1"
+msgstr "Tệp đính kèm: %1"
+
+#: viewer/urlhandlermanager.cpp:813
+#, kde-format
+msgid "Encapsulated Message (Subject: %1)"
+msgstr "Thông điệp đóng gói (Chủ đề: %1)"
+
+#: viewer/urlhandlermanager.cpp:815
+#, kde-format
+msgid "Encapsulated Message"
+msgstr "thông điệp"
+
+#: viewer/urlhandlermanager.cpp:818
+#, kde-format
+msgid "Unnamed attachment"
+msgstr "Tệp đính kèm không có tên"
+
+#: viewer/urlhandlermanager.cpp:853
+#, kde-format
+msgid "Show GnuPG Audit Log for this operation"
+msgstr "Hiển thị nhật kí kiểm toán GnuPG cho thao tác này"
+
+#: viewer/urlhandlermanager.cpp:894
+#, kde-format
+msgid "Opening URL..."
+msgstr "Đang mở URL..."
+
+#: viewer/urlhandlermanager.cpp:903
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Do you really want to execute <filename>%1</filename>?"
+msgstr "Bạn có thực sự muốn thực thi <filename>%1</filename> không?"
+
+#: viewer/urlhandlermanager.cpp:905
+#, kde-format
+msgctxt "@action:button"
+msgid "Execute"
+msgstr "Thực thi"
+
+#: viewer/viewer.cpp:146
+#, kde-format
+msgid "Loading message..."
+msgstr "Đang tải..."
+
+#: viewer/viewer_p.cpp:344
+#, kde-format
+msgid ""
+"Deleting an attachment might invalidate any digital signature on this "
+"message."
+msgstr "Xóa một tệp đính kèm có thể làm mất hiệu lực chữ ký số trên tin nhắn này."
+
+#: viewer/viewer_p.cpp:345 viewer/viewer_p.cpp:380
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete Attachment"
+msgstr "Xóa tệp đính kèm"
+
+#: viewer/viewer_p.cpp:379
+#, kde-format
+msgid ""
+"Deleting an attachment from an encrypted or old-style mailman message is not "
+"supported."
+msgstr ""
+"Không hỗ trợ xóa tệp đính kèm từ một thông điệp được mã hóa hoặc theo kiểu "
+"cũ của mailman."
+
+#: viewer/viewer_p.cpp:428
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Open With"
+msgstr "Mở bằ&ng"
+
+#: viewer/viewer_p.cpp:446
+#, kde-format
+msgctxt "@action:inmenu Open With"
+msgid "&Other..."
+msgstr "Khá&c..."
+
+#: viewer/viewer_p.cpp:448 viewer/viewer_p.cpp:461
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Open With..."
+msgstr "Mở Bằn&g..."
+
+#: viewer/viewer_p.cpp:525 viewer/viewer_p.cpp:1738
+#, kde-format
+msgctxt "to open"
+msgid "Open"
+msgstr "Mở"
+
+#: viewer/viewer_p.cpp:539 viewer/viewer_p.cpp:1745
+#, kde-format
+msgctxt "to view something"
+msgid "View"
+msgstr "Xem"
+
+#: viewer/viewer_p.cpp:547
+#, kde-format
+msgid "Scroll To"
+msgstr "Cuộn đến"
+
+#: viewer/viewer_p.cpp:552
+#, kde-format
+msgid "Save As..."
+msgstr "Lưu Dưới Tên..."
+
+#: viewer/viewer_p.cpp:558 viewer/viewer_p.cpp:1755
+#, kde-format
+msgid "Copy"
+msgstr "Sao chép"
+
+#: viewer/viewer_p.cpp:569 viewer/viewer_p.cpp:1760
+#, kde-format
+msgid "Delete Attachment"
+msgstr "Xóa tệp đính kèm"
+
+#: viewer/viewer_p.cpp:580
+#, kde-format
+msgid "Reply To Author"
+msgstr "Hồi đáp với tác giả"
+
+#: viewer/viewer_p.cpp:588
+#, kde-format
+msgid "Reply To All"
+msgstr "Hồi đáp Tất cả"
+
+#: viewer/viewer_p.cpp:594 viewer/viewer_p.cpp:1765
+#, kde-format
+msgid "Properties"
+msgstr "Thuộc tính"
+
+#: viewer/viewer_p.cpp:731
+#, kde-format
+msgid "KMail"
+msgstr "KMail"
+
+#: viewer/viewer_p.cpp:732
+#, kde-format
+msgid "The KDE Mail Client"
+msgstr "Trình khách thư điện tử của KDE"
+
+#: viewer/viewer_p.cpp:1278
+#, kde-format
+msgctxt "@title:window"
+msgid "View Attachment: %1"
+msgstr "Xem Tệp đính kèm: %1"
+
+#: viewer/viewer_p.cpp:1480
+#, kde-format
+msgctxt "View->"
+msgid "&Attachments"
+msgstr "Tệp đính kè&m"
+
+#: viewer/viewer_p.cpp:1482
+#, kde-format
+msgid "Choose display style of attachments"
+msgstr "Chọn kiểu cách hiển thị của các tệp đính kèm"
+
+#: viewer/viewer_p.cpp:1485
+#, kde-format
+msgctxt "View->attachments->"
+msgid "&As Icons"
+msgstr "&Dạng biểu tượng"
+
+#: viewer/viewer_p.cpp:1488
+#, kde-format
+msgid "Show all attachments as icons. Click to see them."
+msgstr "Hiển thị tất cả các tệp đính kèm dưới dạng biểu tượng. Bấm để xem chúng."
+
+#: viewer/viewer_p.cpp:1492
+#, kde-format
+msgctxt "View->attachments->"
+msgid "&Smart"
+msgstr "Thông &minh"
+
+#: viewer/viewer_p.cpp:1495
+#, kde-format
+msgid "Show attachments as suggested by sender."
+msgstr "Hiển thị các tệp đính kèm như được người gửi đề xuất."
+
+#: viewer/viewer_p.cpp:1499
+#, kde-format
+msgctxt "View->attachments->"
+msgid "&Inline"
+msgstr "Nội &tuyến"
+
+#: viewer/viewer_p.cpp:1502
+#, kde-format
+msgid "Show all attachments inline (if possible)"
+msgstr "Hiển thị tất cả các tệp đính kèm trực tiếp (nếu có thể)"
+
+#: viewer/viewer_p.cpp:1506
+#, kde-format
+msgctxt "View->attachments->"
+msgid "&Hide"
+msgstr "Ẩ&n"
+
+#: viewer/viewer_p.cpp:1509
+#, kde-format
+msgid "Do not show attachments in the message viewer"
+msgstr "Không hiển thị tệp đính kèm trong trình xem thông điệp"
+
+#: viewer/viewer_p.cpp:1513
+#, kde-format
+msgctxt "View->attachments->"
+msgid "In Header Only"
+msgstr "Chỉ trong đầu tải"
+
+#: viewer/viewer_p.cpp:1516
+#, kde-format
+msgid "Show Attachments only in the header of the mail"
+msgstr "Chỉ hiển thị tệp đính kèm trong đầu tải của thư"
+
+#: viewer/viewer_p.cpp:1521
+#, kde-format
+msgid "&Set Encoding"
+msgstr "Đặt mã h&oá"
+
+#: viewer/viewer_p.cpp:1526 widgets/configurewidget.cpp:43
+#: widgets/configurewidget.cpp:77
+#, kde-format
+msgid "Auto"
+msgstr "Tự động"
+
+#: viewer/viewer_p.cpp:1536
+#, kde-format
+msgid "Copy Text"
+msgstr "Sao chép Văn bản"
+
+#: viewer/viewer_p.cpp:1543
+#, kde-format
+msgctxt "@action"
+msgid "Select All Text"
+msgstr "Bôi đen toàn bộ văn bản"
+
+#: viewer/viewer_p.cpp:1549 viewer/viewer_p.cpp:2074
+#, kde-format
+msgid "Copy Link Address"
+msgstr "Sao chép địa chỉ liên kết"
+
+#: viewer/viewer_p.cpp:1554
+#, kde-format
+msgid "Open URL"
+msgstr "Mở URL"
+
+#: viewer/viewer_p.cpp:1565
+#, kde-format
+msgid "Show Message Structure"
+msgstr "Hiển thị Cấu trúc Thông điệp"
+
+#: viewer/viewer_p.cpp:1570
+#, kde-format
+msgctxt "@action"
+msgid "&View Source"
+msgstr "Xe&m mã nguồn"
+
+#: viewer/viewer_p.cpp:1575
+#, kde-format
+msgid "&Save Message..."
+msgstr "Lưu thô&ng báo..."
+
+#: viewer/viewer_p.cpp:1581
+#, kde-format
+msgctxt "@action"
+msgid "&Save Display Format"
+msgstr "Lưu địn&h dạng bộ hiển thị"
+
+#: viewer/viewer_p.cpp:1585
+#, kde-format
+msgctxt "@action"
+msgid "&Reset Display Format"
+msgstr "Đặt lại Địn&h Dạng Bộ Hiển Thị"
+
+#: viewer/viewer_p.cpp:1592
+#, kde-format
+msgctxt "@action"
+msgid "Scroll Message Up"
+msgstr "Cuộn thông điệp lên"
+
+#: viewer/viewer_p.cpp:1597
+#, kde-format
+msgctxt "@action"
+msgid "Scroll Message Down"
+msgstr "Cuộn thông điệp xuống"
+
+#: viewer/viewer_p.cpp:1602
+#, kde-format
+msgctxt "@action"
+msgid "Scroll Message Up (More)"
+msgstr "Cuộn thông điệp lên (Thêm)"
+
+#: viewer/viewer_p.cpp:1607
+#, kde-format
+msgctxt "@action"
+msgid "Scroll Message Down (More)"
+msgstr "Cuộn thông điệp xuống (Thêm)"
+
+#: viewer/viewer_p.cpp:1617
+#, kde-format
+msgid "Toggle HTML Display Mode"
+msgstr "Chuyển đổi chế độ hiển thị HTML"
+
+#: viewer/viewer_p.cpp:1621
+#, kde-format
+msgid "Toggle display mode between HTML and plain text"
+msgstr "Chuyển đổi chế độ hiển thị giữa HTML và văn bản thuần"
+
+#: viewer/viewer_p.cpp:1624
+#, kde-format
+msgctxt "@action"
+msgid "Load external references"
+msgstr "Tải tham chiếu bên ngoài"
+
+#: viewer/viewer_p.cpp:1630
+#, kde-format
+msgctxt "@action"
+msgid "Speak Text"
+msgstr "Đọc văn bản"
+
+#: viewer/viewer_p.cpp:1636
+#, kde-format
+msgctxt "@action"
+msgid "Share Text..."
+msgstr "Chia sẻ văn bản..."
+
+#: viewer/viewer_p.cpp:1654
+#, kde-format
+msgctxt "@action"
+msgid "Copy Image Location"
+msgstr "Sao chép Địa điểm Ảnh"
+
+#: viewer/viewer_p.cpp:1660
+#, kde-format
+msgid "&Find in Message..."
+msgstr "Tìm &trong Tin nhắn..."
+
+#: viewer/viewer_p.cpp:1669
+#, kde-format
+msgid "Disable Emoticon"
+msgstr "Tắt hình biểu cảm"
+
+#: viewer/viewer_p.cpp:1735
+#, kde-format
+msgid "Save &As..."
+msgstr "Lưu &Với Tên..."
+
+#: viewer/viewer_p.cpp:1743
+#, kde-format
+msgid "Open With..."
+msgstr "Mở Bằng..."
+
+#: viewer/viewer_p.cpp:1750
+#, kde-format
+msgid "Save All Attachments..."
+msgstr "Lưu tất cả các tệp đính kèm..."
+
+#: viewer/viewer_p.cpp:1994
+#, kde-format
+msgid "The network is broken."
+msgstr "Mạng bị hỏng."
+
+#: viewer/viewer_p.cpp:1994
+#, kde-format
+msgid "Check Phishing URL"
+msgstr "Kiểm tra URL lừa đảo"
+
+#: viewer/viewer_p.cpp:1997
+#, kde-format
+msgid "The URL %1 is not valid."
+msgstr "URL %1 không hợp lệ."
+
+#: viewer/viewer_p.cpp:1997
+#, kde-format
+msgctxt "@title:window"
+msgid "Check Phishing URL"
+msgstr "Kiểm tra URL lừa đảo"
+
+#: viewer/viewer_p.cpp:2017
+#, kde-format
+msgid "This web site is a malware, do you want to continue to show it?"
+msgstr "Đây là một trang web độc hại, bạn có muốn tiếp tục hiển thị nó không?"
+
+#: viewer/viewer_p.cpp:2018
+#, kde-format
+msgctxt "@title:window"
+msgid "Malware"
+msgstr "Phần mềm độc hại"
+
+#: viewer/viewer_p.cpp:2072
+#, kde-format
+msgid "Copy Email Address"
+msgstr "Sao chép Địa chỉ Thư điện tử"
+
+#: viewer/viewer_p.cpp:2155
+#, kde-format
+msgctxt "@title:window"
+msgid "Message as Plain Text"
+msgstr "Thông điệp dạng văn bản thuần"
+
+#: viewer/viewer_p.cpp:2726
+#, kde-format
+msgid "URL copied to clipboard."
+msgstr "URL đã được sao chép vào bộ nhớ tạm."
+
+#: viewer/viewer_p.cpp:2888
+#, kde-format
+msgid "Message loading failed: %1."
+msgstr "Tải thông điệp thất bại: %1."
+
+#: viewer/viewer_p.cpp:2893
+#, kde-format
+msgid "Message not found."
+msgstr "Không tìm thấy thông điệp."
+
+#: widgets/attachmentdialog.cpp:27
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Open attachment <filename>%1</filename>?<nl/>Note that opening an attachment "
+"may compromise your system's security."
+msgstr ""
+"Mở tệp đính kèm <filename>%1</filename>?<nl/>Lưu ý rằng việc mở tệp đính "
+"kèm có thể gây nguy hiểm cho bảo mật hệ thống của bạn."
+
+#: widgets/attachmentdialog.cpp:32
+#, kde-format
+msgctxt "@title:window"
+msgid "Open Attachment?"
+msgstr "Mở tệp đính kèm?"
+
+#: widgets/attachmentdialog.cpp:39
+#, kde-format
+msgid "&Open With '%1'"
+msgstr "&Mở Bằng '%1'"
+
+#: widgets/attachmentdialog.cpp:46
+#, kde-format
+msgid "Open &With..."
+msgstr "Mở &Bằng..."
+
+#: widgets/attachmentdialog.cpp:68
+#, kde-format
+msgid "Do not ask again"
+msgstr "Không hỏi lại"
+
+#: widgets/htmlstatusbar.cpp:108
+#, kde-format
+msgctxt ""
+"'HTML Message' with html linebreaks between each letter and in bold text."
+msgid ""
+"<qt><b><br />H<br />T<br />M<br />L<br /> <br />M<br />e<br />s<br />s<br /"
+">a<br />g<br />e</b></qt>"
+msgstr ""
+"<qt><b><br />T<br />h<br />ô<br />n<br />g<br /> <br />đ<br />i<br />ệ<br "
+"/>p<br /> <br />H<br />T<br />M<br />L</b></qt>"
+
+#: widgets/htmlstatusbar.cpp:112
+#, kde-format
+msgctxt "'No HTML Message' with html linebreaks between each letter."
+msgid ""
+"<qt><br />N<br />o<br /> <br />H<br />T<br />M<br />L<br /> <br />M<br /"
+">e<br />s<br />s<br />a<br />g<br />e</qt>"
+msgstr ""
+"<qt><br />K<br />h<br />ô<br />n<br />g<br /> <br />c<br />ó<br /> <br "
+"/>t<br />h<br />ô<br />n<br />g<br /> <br />đ<br />i<br />ệ<br />p<br /> "
+"<br />H<br />T<br />M<br />L</qt>"
+
+#: widgets/htmlstatusbar.cpp:117
+#, kde-format
+msgctxt "'Plain Message' with html linebreaks between each letter."
+msgid ""
+"<qt><br />P<br />l<br />a<br />i<br />n<br /> <br />M<br />e<br />s<br /"
+">s<br />a<br />g<br />e<br /></qt>"
+msgstr ""
+"<qt><br />T<br />h<br />ô<br />n<br />g<br /> <br />đ<br />i<br />ệ<br "
+"/>p<br /> <br />đ<br />ơ<br />n<br /> <br />g<br />i<br />ả<br />n<br "
+"/></qt>"
+
+#: widgets/htmlstatusbar.cpp:121
+#, kde-format
+msgctxt "'Calendar Message' with html linebreaks between each letter."
+msgid ""
+"<qt><br />C<br />a<br />l<br />e<br />n<br />d<br />a<br />r<br /> <br /"
+">M<br />e<br />s<br />s<br />a<br />g<br />e<br /></qt>"
+msgstr ""
+"<qt><br />T<br />h<br />ô<br />n<br />g<br /> <br />b<br />á<br />o<br /> "
+"<br />L<br />ị<br />c<br />h<br /></qt>"
+
+#: widgets/htmlstatusbar.cpp:135
+#, kde-format
+msgid "Click to toggle between HTML, plain text and calendar."
+msgstr "Bấm để chuyển đổi giữa HTML, văn bản thuần và lịch."
+
+#: widgets/invitationsettings.cpp:86
+#, kde-format
+msgid ""
+"<qt>Invitations are normally sent as attachments to a mail. This switch "
+"changes the invitation mails to be sent in the text of the mail instead; "
+"this is necessary to send invitations and replies to Microsoft Outlook.<br /"
+">But, when you do this, you no longer get descriptive text that mail "
+"programs can read; so, to people who have email programs that do not "
+"understand the invitations, the resulting messages look very odd.<br /"
+">People that have email programs that do understand invitations will still "
+"be able to work with this.</qt>"
+msgstr ""
+"<qt>Thông thường, lời mời được gửi dưới dạng tệp đính kèm trong thư. Tùy "
+"chọn này thay đổi để gửi lời mời trong nội dung thư thay vì đính kèm; điều "
+"này cần thiết để gửi lời mời và hồi đáp tới Microsoft Outlook.<br />Tuy "
+"nhiên, khi làm vậy, bạn sẽ không còn nhận được văn bản mô tả mà các chương "
+"trình thư có thể đọc được; vì vậy, đối với những người dùng chương trình "
+"thư không hiểu được lời mời, các thông điệp kết quả sẽ trông rất kỳ lạ.<br "
+"/>Những người dùng chương trình thư hiểu được lời mời vẫn có thể làm việc "
+"với điều này.</qt>"
+
+#: widgets/mailsourceviewtextbrowserwidget.cpp:133
+#, kde-format
+msgid "Speak Text"
+msgstr "Đọc văn bản"
+
+#: widgets/mailsourcewebengineviewer.cpp:53
+#, kde-format
+msgctxt "Unchanged mail message"
+msgid "Raw Source"
+msgstr "Nguồn gốc chưa thay đổi"
+
+#: widgets/mailsourcewebengineviewer.cpp:54
+#, kde-format
+msgid "Raw, unmodified mail as it is stored on the filesystem or on the server"
+msgstr ""
+"Thư chưa được chỉnh sửa, được lưu trữ trên hệ thống tệp tin hoặc trên máy "
+"chủ"
+
+#: widgets/mailsourcewebengineviewer.cpp:57
+#, kde-format
+msgctxt "Mail message as shown, in HTML format"
+msgid "HTML Source"
+msgstr "Mã HTML"
+
+#: widgets/mailsourcewebengineviewer.cpp:58
+#, kde-format
+msgid "HTML code for displaying the message to the user"
+msgstr "mã HTML để hiển thị thông điệp cho người dùng"
+
+#: widgets/opensavedfilefolderwidget.cpp:26
+#, kde-format
+msgctxt "@action"
+msgid "Open folder where attachment was saved"
+msgstr "Mở thư mục nơi tệp đính kèm được lưu"
+
+#: widgets/opensavedfilefolderwidget.cpp:27
+#, kde-format
+msgctxt "@action"
+msgid "Open File"
+msgstr "Mở Tệp"
+
+#: widgets/opensavedfilefolderwidget.cpp:62
+#, kde-format
+msgid "Open folder where attachment was saved"
+msgid_plural "Open folder where attachments were saved"
+msgstr[0] "Mở thư mục nơi các tệp đính kèm được lưu"
+
+#: widgets/opensavedfilefolderwidget.cpp:65
+#, kde-format
+msgid "Open folder where PDF file was saved"
+msgstr "Mở thư mục nơi tệp PDF đã được lưu"
+
+#: widgets/opensavedfilefolderwidget.cpp:78
+#, kde-format
+msgid "KMail was unable to open the attachment."
+msgstr "KMail không thể mở tệp đính kèm."
+
+#: widgets/shownextmessagewidget.cpp:15
+#, kde-format
+msgctxt "@action:button"
+msgid "Next Message"
+msgstr "Thông điệp tiếp theo"
+
+#: widgets/shownextmessagewidget.cpp:16
+#, kde-format
+msgctxt "@action:button"
+msgid "Previous Message"
+msgstr "Thông điệp trước"

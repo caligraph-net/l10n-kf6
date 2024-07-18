@@ -1,0 +1,832 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdepim-runtime package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdepim-runtime\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-04 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: accountwidget.cpp:82
+#, kde-format
+msgctxt "Percent value; %p is the value, % is the percent sign"
+msgid "%p%"
+msgstr "%p%"
+
+#: accountwidget.cpp:90
+#, kde-format
+msgid " minute"
+msgid_plural " minutes"
+msgstr[0] "phút"
+
+#: accountwidget.cpp:127 pop3resource.cpp:46
+#, kde-format
+msgid "POP3 Account"
+msgstr "Tài khoản POP3"
+
+#: accountwidget.cpp:194
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Unable to open wallet"
+msgstr "Không thể mở ví"
+
+#: accountwidget.cpp:244
+#, kde-format
+msgid ""
+"The server does not seem to support unique message numbers, but this is a "
+"requirement for leaving messages on the server.\n"
+"Since some servers do not correctly announce their capabilities you still "
+"have the possibility to turn leaving fetched messages on the server on."
+msgstr ""
+"Máy chủ dường như không hỗ trợ số thông điệp duy nhất, nhưng đây là yêu cầu "
+"để để lại thông điệp trên máy chủ.\nVì một số máy chủ không công bố đúng "
+"khả năng của họ, bạn vẫn có thể bật tính năng để lại các thông điệp đã lấy "
+"về từ máy chủ."
+
+#: accountwidget.cpp:259
+#, kde-format
+msgid ""
+"Please note that this feature can cause some POP3 servers that do not "
+"support pipelining to send corrupted mail;\n"
+"this is configurable, though, because some servers support pipelining\n"
+"but do not announce their capabilities. To check whether your POP3 server\n"
+"announces pipelining support use the \"Auto Detect\" button at the bottom of "
+"the dialog;\n"
+"if your server does not announce it, but you want more speed, then\n"
+"you should do some testing first by sending yourself a batch\n"
+"of mail and downloading it."
+msgstr ""
+"Vui lòng lưu ý rằng tính năng này có thể khiến một số máy chủ POP3 không hỗ "
+"trợ pipelining gửi thư bị hỏng;\nđiều này có thể được cấu hình, vì một số "
+"máy chủ hỗ trợ pipelining\nnhưng không công bố khả năng của họ. Để kiểm tra "
+"xem máy chủ POP3 của bạn\ncó công bố hỗ trợ pipelining hay không, hãy sử "
+"dụng nút \"Tự động phát hiện\" ở cuối hộp thoại;\nnếu máy chủ của bạn không "
+"công bố, nhưng bạn muốn tăng tốc độ, thì\nbạn nên thực hiện một số kiểm tra "
+"trước bằng cách gửi cho chính mình một loạt\nthư và tải về."
+
+#: accountwidget.cpp:292
+#, kde-format
+msgid "Please specify a server and port on the General tab first."
+msgstr "Vui lòng chỉ định một máy chủ và cổng trên thẻ Chung trước."
+
+#: accountwidget.cpp:325
+#, kde-format
+msgid "Unable to connect to the server, please verify the server address."
+msgstr "Không thể kết nối với máy chủ, vui lòng xác minh địa chỉ máy chủ."
+
+#: accountwidget.cpp:369
+#, kde-format
+msgid ""
+"The server does not seem to support pipelining; therefore, this option has "
+"been disabled.\n"
+"Since some servers do not correctly announce their capabilities you still "
+"have the possibility to turn pipelining on. But please note that this "
+"feature can cause some POP servers that do not support pipelining to send "
+"corrupt messages. So before using this feature with important mail you "
+"should first test it by sending yourself a larger number of test messages "
+"which you all download in one go from the POP server."
+msgstr ""
+"Máy chủ dường như không hỗ trợ pipelining; do đó, tùy chọn này đã bị vô "
+"hiệu hóa.\nVì một số máy chủ không công bố đúng khả năng của họ, bạn vẫn có "
+"thể bật pipelining. Nhưng lưu ý rằng tính năng này có thể gây ra một số máy "
+"chủ POP không hỗ trợ pipelining gửi tin nhắn bị hỏng. Vì vậy, trước khi sử "
+"dụng tính năng này với thư quan trọng, bạn nên thử nó bằng cách gửi cho "
+"chính mình một số lượng lớn tin nhắn kiểm tra và tải về tất cả chúng cùng "
+"một lúc từ máy chủ POP."
+
+#: accountwidget.cpp:389
+#, kde-format
+msgid ""
+"The server does not seem to support unique message numbers, but this is a "
+"requirement for leaving messages on the server; therefore, this option has "
+"been disabled.\n"
+"Since some servers do not correctly announce their capabilities you still "
+"have the possibility to turn leaving fetched messages on the server on."
+msgstr ""
+"Máy chủ dường như không hỗ trợ số thông điệp duy nhất, nhưng đây là yêu cầu "
+"để để lại thông điệp trên máy chủ; do đó, tùy chọn này đã bị vô hiệu "
+"hóa.\nVì một số máy chủ không công bố đúng khả năng của họ, bạn vẫn có thể "
+"bật tùy chọn để lưu lại các thông điệp đã tải về từ máy chủ."
+
+#: accountwidget.cpp:421
+#, kde-format
+msgid " day"
+msgid_plural " days"
+msgstr[0] "ngày"
+
+#: accountwidget.cpp:426
+#, kde-format
+msgid " message"
+msgid_plural " messages"
+msgstr[0] "tin nhắn"
+
+#: jobs.cpp:148
+#, kde-format
+msgid "Unable to initialize SASL, aborting mail check."
+msgstr "Không thể khởi tạo SASL, huỷ bỏ kiểm tra thư."
+
+#: pop3protocol.cpp:189
+#, kde-format
+msgid "The server said: \"%1\""
+msgstr "Máy chủ đã nói: \"%1\""
+
+#: pop3protocol.cpp:211
+#, kde-format
+msgid "The server terminated the connection."
+msgstr "Máy chủ đã kết thúc kết nối."
+
+#: pop3protocol.cpp:213
+#, kde-format
+msgid ""
+"Invalid response from server:\n"
+"\"%1\""
+msgstr "Lời hồi đáp không hợp lệ từ máy chủ:\n\"%1\""
+
+#: pop3protocol.cpp:253 pop3protocol.cpp:257
+#, kde-format
+msgid "Could not send to server.\n"
+msgstr "Không thể gửi đến máy chủ.\n"
+
+#: pop3protocol.cpp:356
+#, kde-format
+msgid ""
+"Login via APOP failed. The server %1 may not support APOP, although it "
+"claims to support it, or the password may be wrong.\n"
+"\n"
+"%2"
+msgstr ""
+"Đăng nhập qua APOP không thành công. Máy chủ %1 có thể không hỗ trợ APOP, "
+"mặc dù nó tuyên bố hỗ trợ, hoặc mật khẩu có thể không đúng.\n\n%2"
+
+#: pop3protocol.cpp:406
+#, kde-format
+msgid "An error occurred during authentication: %1"
+msgstr "Đã xảy ra lỗi trong quá trình xác thực: %1"
+
+#: pop3protocol.cpp:500
+#, kde-format
+msgid ""
+"Login via SASL (%1) failed. The server may not support %2, or the password "
+"may be wrong.\n"
+"\n"
+"%3"
+msgstr ""
+"Đăng nhập qua SASL (%1) không thành công. Máy chủ có thể không hỗ trợ %2, "
+"hoặc mật khẩu có thể sai.\n\n%3"
+
+#: pop3protocol.cpp:511
+#, kde-format
+msgid ""
+"Your POP3 server (%1) does not support SASL.\n"
+"Choose a different authentication method."
+msgstr ""
+"Máy chủ POP3 của bạn (%1) không hỗ trợ SASL.\nChọn một phương thức xác thực "
+"khác."
+
+#: pop3protocol.cpp:528 pop3protocol.cpp:617
+#, kde-format
+msgid ""
+"Could not login to %1.\n"
+"\n"
+msgstr "Không thể đăng nhập vào %1.\n\n"
+
+#: pop3protocol.cpp:536
+#, kde-format
+msgid ""
+"Could not login to %1. The password may be wrong.\n"
+"\n"
+"%2"
+msgstr "Không thể đăng nhập vào %1. Mật khẩu có thể bị sai.\n\n%2"
+
+#: pop3protocol.cpp:568
+#, kde-format
+msgid "SSL/TLS error: %1"
+msgstr "Lỗi SSL/TLS: %1"
+
+#: pop3protocol.cpp:599
+#, kde-format
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: pop3protocol.cpp:618
+#, kde-format
+msgid "The server terminated the connection immediately."
+msgstr "Máy chủ đã ngắt kết nối ngay lập tức."
+
+#: pop3protocol.cpp:619
+#, kde-format
+msgid ""
+"Server does not respond properly:\n"
+"%1\n"
+msgstr "Máy chủ không phản hồi đúng cách:\n%1\n"
+
+#: pop3protocol.cpp:643
+#, kde-format
+msgid ""
+"Your POP3 server (%1) does not support APOP.\n"
+"Choose a different authentication method."
+msgstr ""
+"Máy chủ POP3 của bạn (%1) không hỗ trợ APOP.\nChọn một phương thức xác thực "
+"khác."
+
+#: pop3protocol.cpp:653
+#, kde-format
+msgid ""
+"Your POP3 server claims to support TLS but negotiation was unsuccessful.\n"
+"You can disable TLS in the POP account settings dialog."
+msgstr ""
+"Máy chủ POP3 của bạn tuyên bố hỗ trợ TLS nhưng đàm phán không thành "
+"công.\nBạn có thể tắt TLS trong hộp thoại thiết lập tài khoản POP."
+
+#: pop3protocol.cpp:733
+#, kde-format
+msgid "Internal error: missing argument for command %1"
+msgstr "Lỗi nội bộ: thiếu đối số cho lệnh %1"
+
+#: pop3protocol.cpp:789
+#, kde-format
+msgid "Internal error: missing item"
+msgstr "Lỗi nội bộ: thiếu mục"
+
+#: pop3protocol.cpp:814
+#, kde-format
+msgid "Timeout from POP3 server %1"
+msgstr "Hết giờ từ máy chủ POP3 %1"
+
+#: pop3protocol.cpp:816
+#, kde-format
+msgid "Connection broken from POP3 server %1"
+msgstr "Kết nối bị ngắt từ máy chủ POP3 %1"
+
+#: pop3protocol.cpp:877
+#, kde-format
+msgid ""
+"Error during communication with the POP3 server while trying to download "
+"mail: %1"
+msgstr "Lỗi trong quá trình liên lạc với máy chủ POP3 khi cố gắng tải về thư: %1"
+
+#: pop3resource.cpp:95
+#, kde-format
+msgid "Mail check aborted."
+msgstr "Kiểm tra thư đã bị hủy."
+
+#: pop3resource.cpp:102
+#, kde-format
+msgid "Mail check was canceled manually."
+msgstr "Kiểm tra thư điện tử đã được huỷ thủ công."
+
+#: pop3resource.cpp:130
+#, kde-format
+msgid "Please enter the username and password for account '%1'."
+msgstr "Vui lòng nhập tên người dùng và mật khẩu cho tài khoản '%1'."
+
+#: pop3resource.cpp:147
+#, kde-format
+msgid ""
+"You are asked here because the password could not be loaded from the wallet."
+msgstr "Bạn được hỏi ở đây vì mật khẩu không thể tải từ ví."
+
+#: pop3resource.cpp:164
+#, kde-format
+msgid "Account:"
+msgstr "Tài khoản:"
+
+#: pop3resource.cpp:181
+#, kde-format
+msgid "No username and password supplied."
+msgstr "Không cung cấp tên người dùng và mật khẩu."
+
+#: pop3resource.cpp:200
+#, kde-format
+msgid "Preparing transmission from \"%1\"."
+msgstr "Đang chuẩn bị truyền vận từ \"%1\"."
+
+#: pop3resource.cpp:221
+#, kde-format
+msgid "Executing precommand."
+msgstr "Đang thực thi lệnh trước."
+
+#: pop3resource.cpp:246
+#, kde-format
+msgid "You are asked here because the previous login was not successful."
+msgstr "Bạn được hỏi ở đây vì đăng nhập trước đó không thành công."
+
+#: pop3resource.cpp:248
+#, kde-format
+msgid "You are asked here because the username you supplied is empty."
+msgstr "Bạn được hỏi ở đây vì tên người dùng bạn cung cấp là trống."
+
+#: pop3resource.cpp:275
+#, kde-format
+msgid "Fetching mail listing."
+msgstr "Đang lấy danh sách thư."
+
+#: pop3resource.cpp:331
+#, kde-format
+msgid "Saving downloaded messages."
+msgstr "Đang lưu các tin nhắn đã tải về."
+
+#: pop3resource.cpp:349
+#, kde-format
+msgid "Saving password to the wallet."
+msgstr "Đang lưu mật khẩu vào ví."
+
+#: pop3resource.cpp:391
+#, kde-format
+msgid "Error while trying to get the local inbox folder, aborting mail check."
+msgstr "Lỗi khi cố gắng lấy thư mục hộp thư đến cục bộ, huỷ bỏ kiểm tra thư."
+
+#: pop3resource.cpp:398
+#, kde-format
+msgid ""
+"<qt>The folder you deleted was associated with the account <b>%1</b> which "
+"delivered mail into it. The folder the account delivers new mail into was "
+"reset to the main Inbox folder.</qt>"
+msgstr ""
+"<qt>Thư mục bạn đã xóa được liên kết với tài khoản <b>%1</b> vốn chuyển thư "
+"vào đó. Thư mục mà tài khoản chuyển thư mới vào đã được đặt lại thành thư "
+"mục Hộp thư đến chính.</qt>"
+
+#: pop3resource.cpp:419
+#, kde-format
+msgid ""
+"Error while trying to get the folder for incoming mail, aborting mail check."
+msgstr "Lỗi khi cố gắng lấy thư mục cho thư đến, huỷ bỏ kiểm tra thư."
+
+#: pop3resource.cpp:432
+#, kde-format
+msgid "Could not find folder for incoming mail, aborting mail check."
+msgstr "Không tìm thấy thư mục cho thư đến, huỷ bỏ kiểm tra thư."
+
+#: pop3resource.cpp:443
+#, kde-format
+msgid "Error while executing precommand."
+msgstr "Lỗi khi thực hiện lệnh trước."
+
+#: pop3resource.cpp:457
+#, kde-format
+msgid "Unable to login to the server \"%1\"."
+msgstr "Không thể đăng nhập vào máy chủ \"%1\"."
+
+#: pop3resource.cpp:466
+#, kde-format
+msgid "Error while getting the list of messages on the server."
+msgstr "Lỗi khi lấy danh sách tin nhắn trên máy chủ."
+
+#: pop3resource.cpp:480
+#, kde-format
+msgid "Error while getting list of unique mail identifiers from the server."
+msgstr "Lỗi khi lấy danh sách các định danh thư điện tử duy nhất từ máy chủ."
+
+#: pop3resource.cpp:493
+#, kde-format
+msgid ""
+"Your POP3 server (Account: %1) does not support the UIDL command: this "
+"command is required to determine, in a reliable way, which of the mails on "
+"the server KMail has already seen before;\n"
+"the feature to leave the mails on the server will therefore not work "
+"properly."
+msgstr ""
+"Máy chủ POP3 của bạn (Tài khoản: %1) không hỗ trợ lệnh UIDL: lệnh này là "
+"cần thiết để xác định, một cách đáng tin cậy, những email nào trên máy chủ "
+"KMail đã xem qua trước đây;\ndo đó, tính năng để giữ lại email trên máy chủ "
+"sẽ không hoạt động đúng cách."
+
+#: pop3resource.cpp:508
+#, kde-format
+msgid "Error while fetching mails from the server."
+msgstr "Lỗi khi lấy thư từ máy chủ."
+
+#: pop3resource.cpp:568
+#, kde-format
+msgid ""
+"Fetching message %1 of %2 (%3 of %4 KB) for %5 (%6 KB remain on the server)."
+msgstr ""
+"Đang lấy thông điệp %1 của %2 (%3 của %4 KB) cho %5 (%6 KB còn lại trên máy "
+"chủ)."
+
+#: pop3resource.cpp:577
+#, kde-format
+msgid "Fetching message %1 of %2 (%3 of %4 KB) for %5"
+msgstr "Đang lấy thông điệp %1 của %2 (%3 của %4 KB) cho %5"
+
+#: pop3resource.cpp:600
+#, kde-format
+msgid "Unable to store downloaded mails."
+msgstr "Không thể lưu trữ các email đã tải về."
+
+#: pop3resource.cpp:748
+#, kde-format
+msgid "Failed to delete the messages from the server."
+msgstr "Không thể xóa các tin nhắn khỏi máy chủ."
+
+#: pop3resource.cpp:804
+#, kde-format
+msgid "Finished mail check, no message downloaded."
+msgstr "Đã hoàn thành kiểm tra thư, không có thông điệp nào được tải xuống."
+
+#: pop3resource.cpp:806
+#, kde-format
+msgid "Finished mail check, 1 message downloaded."
+msgid_plural "Finished mail check, %1 messages downloaded."
+msgstr[0] "Đã hoàn thành kiểm tra thư, tải xuống %1 tin nhắn."
+
+#: pop3resource.cpp:820
+#, kde-format
+msgid "Unable to complete the mail fetch."
+msgstr "Không thể hoàn tất việc lấy thư."
+
+#: pop3resource.cpp:954
+#, kde-format
+msgid "Mail check already in progress, unable to start a second check."
+msgstr "Đang kiểm tra thư, không thể bắt đầu kiểm tra thứ hai."
+
+#: pop3resource.cpp:975
+#, kde-format
+msgid "Ready"
+msgstr "Sẵn sàng"
+
+#: pop3resource.cpp:978
+#, kde-format
+msgid "Mail check aborted after going offline."
+msgstr "Kiểm tra thư điện tử đã bị huỷ bỏ sau khi đi offline."
+
+#: pop3resource.cpp:980
+#, kde-format
+msgid "Offline"
+msgstr "Ngoại tuyến"
+
+#. i18n: ectx: property (text), widget (QLabel, titleLabel)
+#: popsettings.ui:35
+#, kde-format
+msgid "Account Type: POP Account"
+msgstr "Loại tài khoản: Tài khoản POP"
+
+#. i18n: ectx: attribute (title), widget (QWidget, page1)
+#: popsettings.ui:61
+#, kde-format
+msgid "General"
+msgstr "chung"
+
+#. i18n: ectx: property (text), widget (KTitleWidget, ktitlewidget_4)
+#: popsettings.ui:67
+#, kde-format
+msgid "Account Information"
+msgstr "Thông tin tài khoản"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, label_2)
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, loginEdit)
+#: popsettings.ui:74 popsettings.ui:130
+#, kde-format
+msgid ""
+"Your Internet Service Provider gave you a <em>user name</em> which is used "
+"to authenticate you with their servers. It usually is the first part of your "
+"email address (the part before <em>@</em>)."
+msgstr ""
+"Nhà cung cấp dịch vụ Internet đã cấp cho bạn một <em>tên người dùng</em> "
+"được sử dụng để xác thực bạn với máy chủ của họ. Thường đó là phần đầu của "
+"địa chỉ thư điện tử của bạn (phần trước <em>@</em>)."
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: popsettings.ui:77
+#, kde-format
+msgid "Account &name:"
+msgstr "Tê&n tài khoản:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, nameEdit)
+#: popsettings.ui:87
+#, kde-format
+msgid "Name displayed in the list of accounts"
+msgstr "Tên hiển thị trong danh sách tài khoản"
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, nameEdit)
+#: popsettings.ui:90
+#, kde-format
+msgid "Account name: This defines the name displayed in the account list."
+msgstr "Tên tài khoản: Điều này xác định tên hiển thị trong danh sách tài khoản."
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: popsettings.ui:97
+#, kde-format
+msgid "Incoming &mail server:"
+msgstr "Máy chủ thư đế&n:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, hostEdit)
+#: popsettings.ui:107
+#, kde-format
+msgid "Address of the mail POP3 server"
+msgstr "Địa chỉ của máy chủ POP3 thư điện tử"
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, hostEdit)
+#: popsettings.ui:110
+#, kde-format
+msgid ""
+"The address of the POP3 server, e.g. pop3.yourprovider.org. You should get "
+"this address from your mail provider."
+msgstr ""
+"Địa chỉ của máy chủ POP3, vd., pop3.nhàcungcấpdịchvụcủabạn.org. Bạn nên "
+"nhận được địa chỉ này từ nhà cung cấp dịch vụ email của bạn."
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: popsettings.ui:117
+#, kde-format
+msgid "Use&rname:"
+msgstr "Tê&n người dùng:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, loginEdit)
+#: popsettings.ui:127
+#, kde-format
+msgid "The username that identifies you against the mail server"
+msgstr "Tên người dùng để xác định bạn với máy chủ thư điện tử"
+
+#. i18n: ectx: property (text), widget (QLabel, passwordLabel)
+#: popsettings.ui:137
+#, kde-format
+msgid "P&assword:"
+msgstr "&Mật khẩu:"
+
+#. i18n: ectx: property (toolTip), widget (KPasswordLineEdit, passwordEdit)
+#: popsettings.ui:147
+#, kde-format
+msgid "Password for access to the mail server"
+msgstr "Mật khẩu để truy cập vào máy chủ thư điện tử"
+
+#. i18n: ectx: property (whatsThis), widget (KPasswordLineEdit, passwordEdit)
+#: popsettings.ui:150
+#, kde-format
+msgid "Password: The password given to you by your mail provider."
+msgstr "Mật khẩu: Mật khẩu được cung cấp bởi nhà cung cấp email của bạn."
+
+#. i18n: ectx: property (text), widget (KTitleWidget, ktitlewidget_5)
+#: popsettings.ui:157
+#, kde-format
+msgid "Mail Checking Options"
+msgstr "Tùy chọn kiểm tra thư"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, intervalCheck)
+#: popsettings.ui:164
+#, kde-format
+msgid ""
+"If active, the POP3 account will be checked for new mail every x minutes"
+msgstr "Nếu kích hoạt, tài khoản POP3 sẽ được kiểm tra xem có thư mới mỗi x phút"
+
+#. i18n: ectx: property (text), widget (QCheckBox, intervalCheck)
+#: popsettings.ui:167
+#, kde-format
+msgid "Enable &interval mail checking"
+msgstr "Bật k&iểm tra thư định kỳ"
+
+#. i18n: ectx: property (text), widget (QLabel, intervalLabel)
+#: popsettings.ui:174
+#, kde-format
+msgid "Check mail interval:"
+msgstr "Kiểm tra khoảng thời gian nhận thư:"
+
+#. i18n: ectx: attribute (title), widget (QWidget, page2)
+#: popsettings.ui:211
+#, kde-format
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#. i18n: ectx: property (text), widget (KTitleWidget, ktitlewidget)
+#: popsettings.ui:217
+#, kde-format
+msgid "POP Settings"
+msgstr "Thiết lập POP"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, leaveOnServerCheck)
+#: popsettings.ui:239
+#, kde-format
+msgid "If checked the message is not deleted from the mail server"
+msgstr "Nếu được chọn, thông điệp sẽ không bị xóa khỏi máy chủ thư"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, leaveOnServerCheck)
+#: popsettings.ui:242
+#, kde-format
+msgid ""
+"Check this option if you want to fetch only copies of the mails and leave "
+"the original mails on the server."
+msgstr ""
+"Chọn tùy chọn này nếu bạn muốn chỉ tìm nạp bản sao của các email và để các "
+"email gốc trên máy chủ."
+
+#. i18n: ectx: property (text), widget (QCheckBox, leaveOnServerCheck)
+#: popsettings.ui:245
+#, kde-format
+msgid "Lea&ve fetched messages on the server"
+msgstr "Để lại tin nhắn đã tải &về trên máy chủ"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, leaveOnServerDaysCheck)
+#: popsettings.ui:258
+#, kde-format
+msgid "The original message is deleted from the server after x days"
+msgstr "Thông điệp gốc sẽ bị xóa khỏi máy chủ sau x ngày"
+
+#. i18n: ectx: property (text), widget (QCheckBox, leaveOnServerDaysCheck)
+#: popsettings.ui:261
+#, kde-format
+msgid "Days to leave messages on the server:"
+msgstr "Số ngày để lưu tin nhắn trên máy chủ:"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, leaveOnServerCountCheck)
+#: popsettings.ui:284
+#, kde-format
+msgid "Only the x most recent messages are kept on the server"
+msgstr "Chỉ lưu trữ lại số lượng tin nhắn gần đây nhất trên máy chủ"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, leaveOnServerCountCheck)
+#: popsettings.ui:287
+#, kde-format
+msgid ""
+"Check this option if you want to only keep the x most recent messages on the "
+"server and delete all older."
+msgstr ""
+"Chọn tùy chọn này nếu bạn muốn chỉ giữ lại x tin nhắn gần đây nhất trên máy "
+"chủ và xóa tất cả các tin nhắn cũ hơn."
+
+#. i18n: ectx: property (text), widget (QCheckBox, leaveOnServerCountCheck)
+#: popsettings.ui:290
+#, kde-format
+msgid "Number of messages to keep:"
+msgstr "Số tin nhắn cần giữ lại:"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, leaveOnServerSizeCheck)
+#: popsettings.ui:313
+#, kde-format
+msgid "Keep most recent messages within the quota and delete oldest"
+msgstr ""
+"Giữ lại các tin nhắn gần đây nhất trong giới hạn và xóa những tin nhắn cũ "
+"nhất"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, leaveOnServerSizeCheck)
+#: popsettings.ui:316
+#, kde-format
+msgid ""
+"If active, most recent messages are kept until the quota is reached and "
+"oldest messages are deleted."
+msgstr ""
+"Nếu kích hoạt, các tin nhắn gần đây nhất sẽ được giữ lại cho đến khi đạt "
+"đến giới hạn và các tin nhắn cũ nhất sẽ bị xóa."
+
+#. i18n: ectx: property (text), widget (QCheckBox, leaveOnServerSizeCheck)
+#: popsettings.ui:319
+#, kde-format
+msgid "Maximum megabytes to keep:"
+msgstr "Lưu trữ tối đa (MB):"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, leaveOnServerSizeSpin)
+#: popsettings.ui:329
+#, kde-format
+msgid " MB"
+msgstr "MB"
+
+#. i18n: ectx: property (text), widget (QCheckBox, usePipeliningCheck)
+#: popsettings.ui:345
+#, kde-format
+msgid "&Use pipelining for faster mail download"
+msgstr "Sử dụn&g pipelining để tải về email nhanh hơn"
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: popsettings.ui:365
+#, kde-format
+msgid "Destination folder:"
+msgstr "Thư mục đích:"
+
+#. i18n: ectx: property (text), widget (QLabel, preCommandLabel)
+#: popsettings.ui:375
+#, kde-format
+msgid "Pre-com&mand:"
+msgstr "Lệnh trướ&c:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, precommand)
+#: popsettings.ui:391
+#, kde-format
+msgid "Command that is executed before checking mail"
+msgstr "Lệnh được thực thi trước khi kiểm tra thư"
+
+#. i18n: ectx: property (text), widget (KTitleWidget, ktitlewidget_2)
+#: popsettings.ui:403
+#, kde-format
+msgid "Connection Settings"
+msgstr "Thiết lập kết nối"
+
+#. i18n: ectx: property (text), widget (QPushButton, checkCapabilities)
+#: popsettings.ui:417
+#, kde-format
+msgid "Auto Detect"
+msgstr "Tự động phát hiện"
+
+#. i18n: ectx: property (text), widget (QLabel, label_11)
+#: popsettings.ui:424
+#, kde-format
+msgid "Encryption:"
+msgstr "Mã hóa:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, encryptionNone)
+#: popsettings.ui:433
+#, kde-format
+msgid "None"
+msgstr "Không"
+
+#. i18n: ectx: property (text), widget (QRadioButton, encryptionSSL)
+#: popsettings.ui:443
+#, kde-format
+msgid "SSL/TLS"
+msgstr "SSL/TLS"
+
+#. i18n: ectx: property (text), widget (QRadioButton, encryptionTLS)
+#: popsettings.ui:450
+#, kde-format
+msgid "STA&RTTLS"
+msgstr "STA&RTTLS"
+
+#. i18n: ectx: property (text), widget (QLabel, imapInfo)
+#: popsettings.ui:465
+#, kde-format
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Noto Sans'; font-size:10pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans Serif'; font-weight:600;\">SSL/TLS</span><span style=\" font-"
+"family:'Sans Serif';\"> is safe POP over port 995;</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans Serif'; font-weight:600;\">STARTTLS</span><span style=\" font-"
+"family:'Sans Serif';\"> will operate on port 110 and switch to a secure "
+"connection directly after connecting;</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Sans Serif'; font-weight:600;\">None</span><span style=\" font-"
+"family:'Sans Serif';\"> will connect to port 110 but not switch to a secure "
+"connection. This setting is not recommended.</span></p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta "
+"name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { "
+"white-space: pre-wrap; }\n</style></head><body style=\" font-family:'Noto "
+"Sans'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" "
+"margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; "
+"-qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'Sans "
+"Serif'; font-weight:600;\">SSL/TLS</span><span style=\" font-family:'Sans "
+"Serif';\"> là POP an toàn qua cổng 995;</span></p>\n<p style=\" "
+"margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; "
+"-qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'Sans "
+"Serif'; font-weight:600;\">STARTTLS</span><span style=\" font-family:'Sans "
+"Serif';\"> sẽ hoạt động trên cổng 110 và chuyển sang kết nối an toàn ngay "
+"sau khi kết nối;</span></p>\n<p style=\" margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px;\"><span style=\" font-family:'Sans Serif'; "
+"font-weight:600;\">Không</span><span style=\" font-family:'Sans Serif';\"> "
+"sẽ kết nối với cổng 110 nhưng không chuyển sang kết nối an toàn. Thiết lập "
+"này không được khuyến nghị.</span></p></body></html>"
+
+#. i18n: ectx: property (text), widget (QLabel, label_13)
+#: popsettings.ui:472
+#, kde-format
+msgid "Port:"
+msgstr "Cổng:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_12)
+#: popsettings.ui:492
+#, kde-format
+msgid "Authentication:"
+msgstr "Xác thực:"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, proxyCheck)
+#: popsettings.ui:502
+#, kde-format
+msgid ""
+"If checked, the system proxy settings will be used to connect to the mail "
+"server."
+msgstr ""
+"Nếu được chọn, thiết lập uỷ nhiệm của hệ thống sẽ được sử dụng để kết nối "
+"với máy chủ thư."
+
+#. i18n: ectx: property (text), widget (QCheckBox, proxyCheck)
+#: popsettings.ui:505
+#, kde-format
+msgid "Connect using the system proxy settings"
+msgstr "Kết nối bằng cách sử dụng thiết lập uỷ nhiệm của hệ thống"
+
+#. i18n: ectx: label, entry (authenticationMethod), group (General)
+#: settings.kcfg:30
+#, kde-format
+msgid "Defines the authentication type to use"
+msgstr "Xác định kiểu xác thực để sử dụng"

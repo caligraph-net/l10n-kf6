@@ -1,0 +1,196 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-11-05 12:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: plugins/decoder/ffmpeg/k3bffmpegdecoder.json
+msgctxt "Name"
+msgid "K3b FFMpeg Decoder"
+msgstr "Bộ giải mã FFMpeg của K3b"
+
+#: plugins/decoder/flac/k3bflacdecoder.json
+msgctxt "Name"
+msgid "K3b FLAC Decoder"
+msgstr "Bộ giải mã FLAC của K3b"
+
+#: plugins/decoder/libsndfile/k3blibsndfiledecoder.json
+msgctxt "Name"
+msgid "K3b Libsndfile Decoder"
+msgstr "Bộ giải mã Libsndfile của K3b"
+
+#: plugins/decoder/mp3/k3bmaddecoder.json
+msgctxt "Name"
+msgid "K3b MAD Decoder"
+msgstr "Bộ giải mã K3b MAD"
+
+#: plugins/decoder/musepack/k3bmpcdecoder.json
+msgctxt "Name"
+msgid "K3b Musepack Decoder"
+msgstr "Bộ giải mã Musepack của K3b"
+
+#: plugins/decoder/ogg/k3boggvorbisdecoder.json
+msgctxt "Name"
+msgid "K3b Ogg Vorbis Decoder"
+msgstr "Bộ giải mã Ogg Vorbis của K3b"
+
+#: plugins/decoder/skeleton.json
+msgctxt "Name"
+msgid "K3b ??? Decoder"
+msgstr "K3b ??? Bộ giải mã"
+
+#: plugins/decoder/wave/k3bwavedecoder.json
+msgctxt "Name"
+msgid "K3b Wave Decoder"
+msgstr "Bộ giải mã sóng K3b"
+
+#: plugins/encoder/external/k3bexternalencoder.json
+msgctxt "Name"
+msgid "K3b External Audio Encoder"
+msgstr "Bộ mã hóa âm thanh bên ngoài K3b"
+
+#: plugins/encoder/lame/k3blameencoder.json
+msgctxt "Name"
+msgid "K3b Lame MP3 Encoder"
+msgstr "Bộ mã hóa MP3 Lame của K3b"
+
+#: plugins/encoder/ogg/k3boggvorbisencoder.json
+msgctxt "Name"
+msgid "K3b Ogg Vorbis Encoder"
+msgstr "Bộ mã hóa Ogg Vorbis của K3b"
+
+#: plugins/encoder/skeleton.json
+msgctxt "Name"
+msgid "K3b ??? Encoder"
+msgstr "K3b ??? Bộ mã hóa"
+
+#: plugins/encoder/sox/k3bsoxencoder.json
+msgctxt "Name"
+msgid "K3b SoX Audio Encoder"
+msgstr "Bộ mã hóa âm thanh K3b SoX"
+
+#: plugins/project/audiometainforenamer/k3baudiometainforenamerplugin.json
+msgctxt "Name"
+msgid "K3b Audio Metainfo Renamer"
+msgstr "Trình đổi tên thông tin siêu dữ liệu âm thanh K3b"
+
+#: plugins/project/audioprojectcddb/k3baudioprojectcddbplugin.json
+msgctxt "Name"
+msgid "K3b CDDB Audio Plugin"
+msgstr "Phần cài cắm CDDB Audio của K3b"
+
+#: plugins/decoder/ffmpeg/k3bffmpegdecoder.json
+msgctxt "Description"
+msgid "Decoding module to decode WMA files"
+msgstr "Mô-đun giải mã để giải mã tệp WMA"
+
+#: plugins/decoder/flac/k3bflacdecoder.json
+msgctxt "Description"
+msgid "Decoding module to decode FLAC files"
+msgstr "Mô-đun giải mã để giải mã tệp FLAC"
+
+#: plugins/decoder/libsndfile/k3blibsndfiledecoder.json
+msgctxt "Description"
+msgid "Decoding module to decode audio files supported by libsndfile"
+msgstr "Mô-đun giải mã để giải mã các tệp âm thanh được hỗ trợ bởi libsndfile"
+
+#: plugins/decoder/mp3/k3bmaddecoder.json
+msgctxt "Description"
+msgid "Decoding module to decode MPEG 1 Layer III files"
+msgstr "Mô-đun giải mã để giải mã các tệp MPEG 1 Layer III"
+
+#: plugins/decoder/musepack/k3bmpcdecoder.json
+msgctxt "Description"
+msgid "Decoding module to decode Musepack audio files"
+msgstr "Mô-đun giải mã để giải mã tệp âm thanh Musepack"
+
+#: plugins/decoder/ogg/k3boggvorbisdecoder.json
+msgctxt "Description"
+msgid "Decoding module to decode Ogg Vorbis files"
+msgstr "Mô-đun giải mã để giải mã các tệp Ogg Vorbis"
+
+#: plugins/decoder/skeleton.json
+msgctxt "Description"
+msgid "Decoding module to decode ??? files"
+msgstr "Mô-đun giải mã để giải mã tệp ???"
+
+#: plugins/decoder/wave/k3bwavedecoder.json
+msgctxt "Description"
+msgid "Decoding module to decode wave files"
+msgstr "Mô-đun giải mã để giải mã tệp wave"
+
+#: plugins/encoder/external/k3bexternalencoder.json
+msgctxt "Description"
+msgid "Encoding module that allows specifying an encoding command"
+msgstr "Khối mã hoá cho phép chỉ định một lệnh mã hoá"
+
+#: plugins/encoder/lame/k3blameencoder.json
+msgctxt "Description"
+msgid "Encoding module to encode MPEG1 Layer III (MP3) files"
+msgstr "Mô-đun mã hoá để mã hoá các tệp MPEG1 Layer III (MP3)"
+
+#: plugins/encoder/ogg/k3boggvorbisencoder.json
+msgctxt "Description"
+msgid "Encoding module to encode Ogg Vorbis files"
+msgstr "Mô-đun mã hoá để mã hoá tệp Ogg Vorbis"
+
+#: plugins/encoder/skeleton.json
+msgctxt "Description"
+msgid "Encoding module to encode <name> files"
+msgstr "Khối mã hoá để mã hoá các tệp <name>"
+
+#: plugins/encoder/sox/k3bsoxencoder.json
+msgctxt "Description"
+msgid "Encoding module to encode many file formats using SoX"
+msgstr "Mô-đun mã hoá để mã hoá nhiều định dạng tệp bằng SoX"
+
+#: plugins/project/audiometainforenamer/k3baudiometainforenamerplugin.json
+msgctxt "Description"
+msgid "Plugin to rename audio files in a data project based on the meta info."
+msgstr ""
+"Phần cài cắm để đổi tên tệp âm thanh trong một dự án dữ liệu dựa trên thông "
+"tin siêu dữ liệu."
+
+#: plugins/project/audioprojectcddb/k3baudioprojectcddbplugin.json
+msgctxt "Description"
+msgid "Plugin to query a CDDB server for information about an audio project."
+msgstr ""
+"Phần cài cắm để truy vấn máy chủ CDDB để lấy thông tin về một dự án âm "
+"thanh."
+
+#: plugins/decoder/ffmpeg/k3bffmpegdecoder.json
+#: plugins/decoder/mp3/k3bmaddecoder.json
+#: plugins/decoder/musepack/k3bmpcdecoder.json
+#: plugins/decoder/ogg/k3boggvorbisdecoder.json
+#: plugins/decoder/wave/k3bwavedecoder.json
+#: plugins/encoder/external/k3bexternalencoder.json
+#: plugins/encoder/lame/k3blameencoder.json
+#: plugins/encoder/ogg/k3boggvorbisencoder.json
+#: plugins/encoder/sox/k3bsoxencoder.json
+#: plugins/project/audiometainforenamer/k3baudiometainforenamerplugin.json
+#: plugins/project/audioprojectcddb/k3baudioprojectcddbplugin.json
+msgctxt "Authors Name"
+msgid "Sebastian Trueg"
+msgstr "Sebastian Trueg"
+
+#: plugins/decoder/flac/k3bflacdecoder.json
+msgctxt "Authors Name"
+msgid "John Steele Scott"
+msgstr "John Steele Scott"
+
+#: plugins/decoder/libsndfile/k3blibsndfiledecoder.json
+msgctxt "Authors Name"
+msgid "Matthieu Bedouet"
+msgstr "Matthieu Bedouet"
+
+#: plugins/decoder/skeleton.json plugins/encoder/skeleton.json
+msgctxt "Authors Name"
+msgid "???"
+msgstr "???"

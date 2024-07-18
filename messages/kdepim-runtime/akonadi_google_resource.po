@@ -1,0 +1,415 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdepim-runtime package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdepim-runtime\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-12 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: calendarhandler.cpp:90
+#, kde-format
+msgctxt "@info:status"
+msgid "Retrieving calendars"
+msgstr "Đang lấy lịch"
+
+#: calendarhandler.cpp:141
+#, kde-format
+msgctxt "@info:status"
+msgid "Retrieving events for calendar '%1'"
+msgstr "Đang lấy các sự kiện cho lịch '%1'"
+
+#: calendarhandler.cpp:197 taskhandler.cpp:170
+#, kde-format
+msgctxt "@info:status"
+msgid "Adding event to calendar '%1'"
+msgstr "Đang thêm sự kiện vào lịch '%1'"
+
+#: calendarhandler.cpp:221
+#, kde-format
+msgctxt "@info:status"
+msgid "Changing event in calendar '%1'"
+msgstr "Đang thay đổi sự kiện trong lịch '%1'"
+
+#: calendarhandler.cpp:232
+#, kde-format
+msgctxt "@info:status"
+msgid "Removing %1 event"
+msgid_plural "Removing %1 events"
+msgstr[0] "Đang xóa %1 sự kiện"
+
+#: calendarhandler.cpp:248
+#, kde-format
+msgctxt "@info:status"
+msgid "Moving %1 event from calendar '%2' to calendar '%3'"
+msgid_plural "Moving %1 events from calendar '%2' to calendar '%3'"
+msgstr[0] "Đang di chuyển %1 sự kiện từ lịch '%2' đến lịch '%3'"
+
+#: calendarhandler.cpp:266
+#, kde-format
+msgctxt "@info:status"
+msgid "Creating calendar '%1'"
+msgstr "Đang tạo lịch '%1'"
+
+#: calendarhandler.cpp:294
+#, kde-format
+msgctxt "@info:status"
+msgid "Changing calendar '%1'"
+msgstr "Đang thay đổi lịch '%1'"
+
+#: calendarhandler.cpp:307
+#, kde-format
+msgctxt "@info:status"
+msgid "Removing calendar '%1'"
+msgstr "Đang xóa lịch '%1'"
+
+#: generichandler.cpp:24
+#, kde-format
+msgid "Cannot handle item linking"
+msgstr "Không thể xử lý liên kết mục"
+
+#: generichandler.cpp:29
+#, kde-format
+msgid "Cannot handle item unlinking"
+msgstr "Không thể xử lý việc ngắt kết nối mục"
+
+#: generichandler.cpp:56
+#, kde-format
+msgctxt "@status"
+msgid "Ready"
+msgstr "Sẵn sàng"
+
+#: generichandler.h:65 generichandler.h:77
+#, kde-format
+msgid "Invalid item."
+msgstr "Mục không hợp lệ."
+
+#: googleresource.cpp:82
+#, kde-format
+msgid "Fetching password…"
+msgstr "Đang lấy mật khẩu..."
+
+#: googleresource.cpp:89
+#, kde-format
+msgid "Can't fetch password"
+msgstr "Không thể tìm nạp mật khẩu"
+
+#: googleresource.cpp:130
+#, kde-format
+msgctxt "@info:status"
+msgid "Ready"
+msgstr "Sẵn sàng"
+
+#: googleresource.cpp:142
+#, kde-format
+msgid "Not configured"
+msgstr "Chưa được cấu hình"
+
+#: googleresource.cpp:142
+#, kde-format
+msgctxt "%1 is account name (user@gmail.com)"
+msgid "Google Groupware (%1)"
+msgstr "Google Groupware (%1)"
+
+#: googleresource.cpp:193
+#, kde-format
+msgid "Account has been logged out."
+msgstr "Tài khoản đã được đăng xuất."
+
+#: googleresource.cpp:196
+#, kde-format
+msgid ""
+"Google Groupware has been logged out from your account. Please log in to "
+"enable Google Contacts and Calendar sync again."
+msgstr ""
+"Tài khoản Google Groupware của bạn đã được đăng xuất. Vui lòng đăng nhập "
+"lại để bật đồng bộ hóa Danh bạ và Lịch Google."
+
+#: googleresource.cpp:197
+#, kde-format
+msgid ""
+"Google Groupware has been logged out from account %1. Please log in to "
+"enable Google Contacts and Calendar sync again."
+msgstr ""
+"Tài khoản Google Groupware %1 đã được đăng xuất. Vui lòng đăng nhập lại để "
+"bật đồng bộ hóa Danh bạ và Lịch Google."
+
+#: googleresource.cpp:201
+#, kde-format
+msgctxt "@title"
+msgid "%1 needs your attention."
+msgstr "%1 cần sự chú ý của bạn."
+
+#: googleresource.cpp:206
+#, kde-format
+msgctxt "@action"
+msgid "Log in"
+msgstr "Đăng nhập"
+
+#: googleresource.cpp:218 googleresource.cpp:219
+#, kde-format
+msgctxt "@info:status"
+msgid "Resource is not configured"
+msgstr "Tài nguyên chưa được cấu hình"
+
+#: googleresource.cpp:234
+#, kde-format
+msgid "Failed to refresh tokens"
+msgstr "Không thể cập nhật hiệu bài"
+
+#: googleresource.cpp:423 googleresource.cpp:437 googleresource.cpp:451
+#: googleresource.cpp:466 googleresource.cpp:480 googleresource.cpp:494
+#, kde-format
+msgid "Invalid payload type"
+msgstr "Kiểu dữ liệu không hợp lệ"
+
+#: googleresource.cpp:508 googleresource.cpp:522 googleresource.cpp:536
+#, kde-format
+msgid "Unknown collection mimetype"
+msgstr "Kiểu MIME bộ sưu tập không rõ"
+
+#: googlesettingswidget.cpp:40
+#, kde-format
+msgid " minute"
+msgid_plural " minutes"
+msgstr[0] "phút"
+
+#. i18n: ectx: property (text), widget (QLabel, accountLabel)
+#: googlesettingswidget.cpp:102 googlesettingswidget.ui:30
+#, kde-format
+msgid "<b>Not configured</b>"
+msgstr "<b>Chưa được cấu hình</b>"
+
+#. i18n: ectx: property (text), widget (QLabel, accountTextLabel)
+#: googlesettingswidget.ui:23
+#, kde-format
+msgid "Account:"
+msgstr "Tài khoản:"
+
+#. i18n: ectx: property (text), widget (QPushButton, configureBtn)
+#: googlesettingswidget.ui:42
+#, kde-format
+msgid "Configure…"
+msgstr "Cấu hình..."
+
+#. i18n: ectx: property (text), widget (QCheckBox, enableRefresh)
+#: googlesettingswidget.ui:49
+#, kde-format
+msgid "Enable interval refresh"
+msgstr "Bật cập nhật định kỳ"
+
+#. i18n: ectx: property (text), widget (QLabel, refreshLabel)
+#: googlesettingswidget.ui:56
+#, kde-format
+msgid "Refresh interval:"
+msgstr "Khoảng thời gian cập nhật:"
+
+#. i18n: ectx: property (text), widget (QLabel, eventsLimitLabel)
+#: googlesettingswidget.ui:79
+#, kde-format
+msgid "Fetch only events since:"
+msgstr "Chỉ tìm nạp các sự kiện từ:"
+
+#. i18n: ectx: property (text), widget (QLabel, calendarsLabel)
+#: googlesettingswidget.ui:92
+#, kde-format
+msgid "Enabled Calendars:"
+msgstr "Lịch đã bật:"
+
+#. i18n: ectx: property (text), widget (QPushButton, reloadCalendarsBtn)
+#. i18n: ectx: property (text), widget (QPushButton, reloadTaskListsBtn)
+#: googlesettingswidget.ui:123 googlesettingswidget.ui:166
+#, kde-format
+msgid "Reload"
+msgstr "Tải lại"
+
+#. i18n: ectx: property (text), widget (QLabel, taskListsLabel)
+#: googlesettingswidget.ui:135
+#, kde-format
+msgid "Enabled Tasklists:"
+msgstr "Danh sách công việc đã bật:"
+
+#: personhandler.cpp:87
+#, kde-format
+msgctxt "Name of a group of contacts"
+msgid "Coworkers"
+msgstr "Đồng nghiệp"
+
+#: personhandler.cpp:89
+#, kde-format
+msgctxt "Name of a group of contacts"
+msgid "Friends"
+msgstr "Bạn bè"
+
+#: personhandler.cpp:91
+#, kde-format
+msgctxt "Name of a group of contacts"
+msgid "Family"
+msgstr "Gia đình"
+
+#: personhandler.cpp:93
+#, kde-format
+msgctxt "Name of a group of contacts"
+msgid "My Contacts"
+msgstr "Danh bạ của tôi"
+
+#: personhandler.cpp:117
+#, kde-format
+msgctxt "@info:status"
+msgid "Retrieving contacts groups"
+msgstr "Đang lấy nhóm liên hệ"
+
+#: personhandler.cpp:124 personhandler.cpp:130
+#, kde-format
+msgid "Other Contacts"
+msgstr "Các Liên Hệ Khác"
+
+#: personhandler.cpp:170
+#, kde-format
+msgctxt "@info:status"
+msgid "Retrieving contacts for group '%1'"
+msgstr "Đang lấy danh bạ cho nhóm '%1'"
+
+#: personhandler.cpp:370
+#, kde-format
+msgctxt "@info:status"
+msgid "Adding contact to group '%1'"
+msgstr "Đang thêm liên hệ vào nhóm '%1'"
+
+#: personhandler.cpp:404
+#, kde-format
+msgctxt "@info:status"
+msgid "Changing contact"
+msgstr "Đang thay đổi liên hệ"
+
+#: personhandler.cpp:418
+#, kde-format
+msgctxt "@info:status"
+msgid "Removing %1 contact"
+msgid_plural "Removing %1 contacts"
+msgstr[0] "Đang xóa %1 liên hệ"
+
+#: personhandler.cpp:438
+#, kde-format
+msgid "Invalid source or destination collection"
+msgstr "Bộ sưu tập nguồn hoặc đích không hợp lệ"
+
+#: personhandler.cpp:444
+#, kde-format
+msgctxt "@info:status"
+msgid "Moving %1 contact from group '%2' to '%3'"
+msgid_plural "Moving %1 contacts from group '%2' to '%3'"
+msgstr[0] "Đang di chuyển %1 liên hệ từ nhóm '%2' đến '%3'"
+
+#: personhandler.cpp:461
+#, kde-format
+msgctxt "@info:status"
+msgid "Linking %1 contact"
+msgid_plural "Linking %1 contacts"
+msgstr[0] "Đang liên kết %1 liên hệ"
+
+#: personhandler.cpp:475
+#, kde-format
+msgctxt "@info:status"
+msgid "Unlinking %1 contact"
+msgid_plural "Unlinking %1 contacts"
+msgstr[0] "Đang ngắt liên kết %1 liên hệ"
+
+#: personhandler.cpp:508
+#, kde-format
+msgctxt "@info:status"
+msgid "Creating new contact group '%1'"
+msgstr "Đang tạo nhóm liên hệ mới '%1'"
+
+#: personhandler.cpp:529
+#, kde-format
+msgctxt "@info:status"
+msgid "Changing contact group '%1'"
+msgstr "Đang thay đổi nhóm liên hệ '%1'"
+
+#: personhandler.cpp:554
+#, kde-format
+msgctxt "@info:status"
+msgid "Removing contact group '%1'"
+msgstr "Đang xóa nhóm liên hệ '%1'"
+
+#. i18n: ectx: label, entry (Calendars), group (General)
+#: settingsbase.kcfg:21
+#, kde-format
+msgid "IDs of calendars in collection"
+msgstr "Các ID của lịch trong bộ sưu tập"
+
+#. i18n: ectx: label, entry (TaskLists), group (General)
+#: settingsbase.kcfg:25
+#, kde-format
+msgid "IDs of task lists in collection"
+msgstr "Các ID của danh sách tác vụ trong bộ sưu tập"
+
+#: taskhandler.cpp:70
+#, kde-format
+msgctxt "@info:status"
+msgid "Retrieving task lists"
+msgstr "Đang lấy danh sách tác vụ"
+
+#: taskhandler.cpp:103
+#, kde-format
+msgctxt "@info:status"
+msgid "Retrieving tasks for list '%1'"
+msgstr "Đang lấy các nhiệm vụ cho danh sách '%1'"
+
+#: taskhandler.cpp:195
+#, kde-format
+msgctxt "@info:status"
+msgid "Changing task in list '%1'"
+msgstr "Đang thay đổi tác vụ trong danh sách '%1'"
+
+#: taskhandler.cpp:215
+#, kde-format
+msgctxt "@info:status"
+msgid "Removing %1 task"
+msgid_plural "Removing %1 tasks"
+msgstr[0] "Đang xóa %1 tác vụ"
+
+#: taskhandler.cpp:225
+#, kde-format
+msgid "Failed to delete task: %1"
+msgstr "Không thể xóa tác vụ: %1"
+
+#: taskhandler.cpp:261
+#, kde-format
+msgid "Failed to reparent subtasks: %1"
+msgstr "Không thể di chuyển các nhiệm vụ con: %1"
+
+#: taskhandler.cpp:292
+#, kde-format
+msgid "Moving tasks between task lists is not supported"
+msgstr "Không hỗ trợ di chuyển các tác vụ giữa các danh sách tác vụ"
+
+#: taskhandler.cpp:297
+#, kde-format
+msgctxt "@info:status"
+msgid "Creating new task list '%1'"
+msgstr "Đang tạo danh sách tác vụ mới '%1'"
+
+#: taskhandler.cpp:322
+#, kde-format
+msgctxt "@info:status"
+msgid "Changing task list '%1'"
+msgstr "Đang thay đổi danh sách tác vụ '%1'"
+
+#: taskhandler.cpp:335
+#, kde-format
+msgctxt "@info:status"
+msgid "Removing task list '%1'"
+msgstr "Đang xóa danh sách tác vụ '%1'"

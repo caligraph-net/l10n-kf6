@@ -1,0 +1,224 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kblocks package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kblocks\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-05 00:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#. i18n: ectx: label, entry (Theme), group (General)
+#: config/kblocks.kcfg:9
+#, kde-format
+msgid "The graphical theme to be used."
+msgstr "Chủ đề đồ họa được sử dụng."
+
+#. i18n: ectx: label, entry (Sounds), group (Preferences)
+#: config/kblocks.kcfg:14
+#, kde-format
+msgid "Whether sound effects should be played."
+msgstr "Liệu có nên phát âm thanh hiệu ứng."
+
+#: KBlocksDisplay.cpp:58
+#, kde-format
+msgid "Score List : 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0"
+msgstr "Danh sách điểm: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0"
+
+#: KBlocksDisplay.cpp:120
+#, kde-format
+msgid "Score List : %1 - %2 - %3 - %4 - %5 - %6 - %7 - %8"
+msgstr "Danh sách điểm số: %1 - %2 - %3 - %4 - %5 - %6 - %7 - %8"
+
+#: KBlocksKeyboardPlayer.cpp:76
+#, kde-format
+msgctxt "@action"
+msgid "Rotate Piece Clockwise"
+msgstr "Xoay Mảnh Theo Chiều Kim Đồng Hồ"
+
+#: KBlocksKeyboardPlayer.cpp:82
+#, kde-format
+msgctxt "@action"
+msgid "Rotate Piece Counterclockwise"
+msgstr "Xoay Mảnh Ngược Chiều Kim Đồng Hồ"
+
+#: KBlocksKeyboardPlayer.cpp:88
+#, kde-format
+msgctxt "@action"
+msgid "Move Piece Left"
+msgstr "Di chuyển Mảnh sang Trái"
+
+#: KBlocksKeyboardPlayer.cpp:94
+#, kde-format
+msgctxt "@action"
+msgid "Move Piece Right"
+msgstr "Di chuyển Mảnh sang Phải"
+
+#: KBlocksKeyboardPlayer.cpp:100
+#, kde-format
+msgctxt "@action"
+msgid "Move Piece Down"
+msgstr "Di chuyển Mảnh xuống dưới"
+
+#: KBlocksKeyboardPlayer.cpp:106
+#, kde-format
+msgctxt "@action"
+msgid "Drop the Piece"
+msgstr "Thả Mảnh"
+
+#: KBlocksScene.cpp:216
+#, kde-format
+msgid "Game Resumed!"
+msgstr "Bàn chơi đã được tiếp tục!"
+
+#: KBlocksScene.cpp:217
+#, kde-format
+msgid "Game Paused!"
+msgstr "Bàn chơi đã tạm dừng!"
+
+#: KBlocksScene.cpp:271
+#, kde-format
+msgid "Game Start!"
+msgstr "Bắt đầu bàn chơi!"
+
+#: KBlocksScene.cpp:277
+#, kde-format
+msgid "Game Over!"
+msgstr "Kết thúc trò chơi!"
+
+#: KBlocksScene.cpp:283
+#, kde-format
+msgid "You Win!"
+msgstr "Bạn đã thắng!"
+
+#: KBlocksScene.cpp:289
+#, kde-format
+msgid "You Lose!"
+msgstr "Bạn đã thua!"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kblocksui.rc:24
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Thanh công cụ"
+
+#: KBlocksWin.cpp:145 KBlocksWin.cpp:249
+#, kde-format
+msgid "Points: %1 - Lines: %2 - Level: %3"
+msgstr "Điểm: %1 - Dòng: %2 - Cấp độ: %3"
+
+#: KBlocksWin.cpp:290
+#, kde-format
+msgctxt "@action"
+msgid "Single Game"
+msgstr "Trò chơi đơn"
+
+#: KBlocksWin.cpp:294
+#, kde-format
+msgctxt "@action"
+msgid "Human vs AI"
+msgstr "Người chơi vs AI"
+
+#: KBlocksWin.cpp:313
+#, kde-format
+msgctxt "@option:check"
+msgid "Play Sounds"
+msgstr "Phát Âm Thanh"
+
+#: KBlocksWin.cpp:320
+#, kde-format
+msgid "Points: 0 - Lines: 0 - Level: 0"
+msgstr "Điểm: 0 - Dòng: 0 - Cấp độ: 0"
+
+#: main.cpp:394
+#, kde-format
+msgid "KBlocks"
+msgstr "KBlocks"
+
+#: main.cpp:396
+#, kde-format
+msgid "A falling blocks game by KDE"
+msgstr "Một trò chơi khối rơi của KDE"
+
+#: main.cpp:398
+#, kde-format
+msgid "(c) 2007, Mauricio Piacentini"
+msgstr "(c) 2007, Mauricio Piacentini"
+
+#: main.cpp:401
+#, kde-format
+msgid "Mauricio Piacentini"
+msgstr "Mauricio Piacentini"
+
+#: main.cpp:401
+#, kde-format
+msgid "Author"
+msgstr "Tác giả"
+
+#: main.cpp:402
+#, kde-format
+msgid "Dirk Leifeld"
+msgstr "Dirk Leifeld"
+
+#: main.cpp:402
+#, kde-format
+msgid "Developer"
+msgstr "nhà phát triển"
+
+#: main.cpp:403
+#, kde-format
+msgid "Zhongjie Cai"
+msgstr "Zhongjie Cai"
+
+#: main.cpp:403
+#, kde-format
+msgid "New design of KBlocks for AI and tetris research platform"
+msgstr "Thiết kế mới của KBlocks cho nền tảng nghiên cứu AI và tetris"
+
+#: main.cpp:404
+#, kde-format
+msgid "Johann Ollivier Lapeyre"
+msgstr "Johann Ollivier Lapeyre"
+
+#: main.cpp:404
+#, kde-format
+msgid "Oxygen art for KDE4"
+msgstr "Nghệ thuật Oxygen cho KDE4"
+
+#: main.cpp:413
+#, kde-format
+msgid ""
+"Setup kblocks game running mode.\n"
+"\t0 = Desktop Mode\t1 = Game Engine Mode\n"
+"\t2 = Gui Mode\t3 = Player Mode"
+msgstr ""
+"Thiết lập chế độ chạy trò chơi kblocks.\n\t0 = Chế độ máy tính\t1 = Chế độ "
+"dụng cụ chơi\n\t2 = Chế độ Giao diện\t3 = Chế độ Người chơi"
+
+#: main.cpp:414
+#, kde-format
+msgid ""
+"Setup the configuration file for tetris researcher mode. Not for desktop "
+"users."
+msgstr ""
+"Thiết lập tệp cấu hình cho chế độ nghiên cứu tetris. Không dành cho người "
+"dùng máy tính."

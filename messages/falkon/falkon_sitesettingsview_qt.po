@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+
+#: sitesettingsview_controller.cpp:40
+msgctxt "SiteSettingsView_Controller|"
+msgid "Site Settings"
+msgstr "Thiết lập địa điểm"
+
+#: sitesettingsview_controller.cpp:48
+msgctxt "SiteSettingsView_Controller|"
+msgid "Site Settings View"
+msgstr "Khung xem Thiết lập Địa điểm"
+
+#: sitesettingsview_widget.cpp:53
+msgctxt "SiteSettingsView_Widget|"
+msgid "Mode:"
+msgstr "Chế độ:"
+
+#: sitesettingsview_widget.cpp:55
+msgctxt "SiteSettingsView_Widget|"
+msgid "Private"
+msgstr "Riêng tư"
+
+#: sitesettingsview_widget.cpp:58
+msgctxt "SiteSettingsView_Widget|"
+msgid "Normal"
+msgstr "Bình thường"
+
+#: sitesettingsview_widget.cpp:60
+msgctxt "SiteSettingsView_Widget|"
+msgid "isWeb:"
+msgstr "isWeb:"
+
+#: sitesettingsview_widget.cpp:64
+msgctxt "SiteSettingsView_Widget|"
+msgid "Refresh"
+msgstr "Cập nhật"
+
+#: sitesettingsview_widget.cpp:75 sitesettingsview_widget.cpp:109
+msgctxt "SiteSettingsView_Widget|"
+msgid "Real"
+msgstr "Thực"
+
+#: sitesettingsview_widget.cpp:75 sitesettingsview_widget.cpp:92
+#: sitesettingsview_widget.cpp:109
+msgctxt "SiteSettingsView_Widget|"
+msgid "Local"
+msgstr "Cục bộ"
+
+#: sitesettingsview_widget.cpp:75 sitesettingsview_widget.cpp:92
+#: sitesettingsview_widget.cpp:109 sitesettingsview_widget.cpp:223
+msgctxt "SiteSettingsView_Widget|"
+msgid "Default"
+msgstr "Mặc định"
+
+#: sitesettingsview_widget.cpp:75
+msgctxt "SiteSettingsView_Widget|"
+msgid "Attributes"
+msgstr "Thuộc tính"
+
+#: sitesettingsview_widget.cpp:92
+msgctxt "SiteSettingsView_Widget|"
+msgid "Feature"
+msgstr "Tính năng"
+
+#: sitesettingsview_widget.cpp:109
+msgctxt "SiteSettingsView_Widget|"
+msgid "Option"
+msgstr "lựa chọn"
+
+#: sitesettingsview_widget.cpp:155
+msgctxt "SiteSettingsView_Widget|"
+msgid "True"
+msgstr "Đúng"
+
+#: sitesettingsview_widget.cpp:158
+msgctxt "SiteSettingsView_Widget|"
+msgid "False"
+msgstr "Sai"
+
+#: sitesettingsview_widget.cpp:219 sitesettingsview_widget.cpp:227
+#: sitesettingsview_widget.cpp:231
+#, qt-format
+msgctxt "SiteSettingsView_Widget|"
+msgid "%1 (%2%)"
+msgstr "%1 (%2%)"

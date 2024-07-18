@@ -1,0 +1,4246 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the tokodon package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: tokodon\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-07 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: account/abstractaccount.cpp:658
+#, kde-format
+msgid "Could not follow account"
+msgstr "Không thể theo dõi tài khoản"
+
+#: account/abstractaccount.cpp:659
+#, kde-format
+msgid "Could not unfollow account"
+msgstr "Không thể bỏ theo dõi tài khoản"
+
+#: account/abstractaccount.cpp:660
+#, kde-format
+msgid "Could not block account"
+msgstr "Không thể ngưng trệ tài khoản"
+
+#: account/abstractaccount.cpp:661
+#, kde-format
+msgid "Could not unblock account"
+msgstr "Không thể bỏ chặn tài khoản"
+
+#: account/abstractaccount.cpp:662
+#, kde-format
+msgid "Could not mute account"
+msgstr "Không thể tắt tiếng tài khoản"
+
+#: account/abstractaccount.cpp:663
+#, kde-format
+msgid "Could not unmute account"
+msgstr "Không thể bỏ im lặng tài khoản"
+
+#: account/abstractaccount.cpp:664
+#, kde-format
+msgid "Could not feature account"
+msgstr "Không thể tính năng danh khoản"
+
+#: account/abstractaccount.cpp:665
+#, kde-format
+msgid "Could not unfeature account"
+msgstr "Không thể bỏ tính năng của tài khoản"
+
+#: account/abstractaccount.cpp:666
+#, kde-format
+msgid "Could not edit note about an account"
+msgstr "Không thể chỉnh sửa ghi chú về tài khoản"
+
+#: account/notificationhandler.cpp:30 account/notificationhandler.cpp:31
+#, kde-format
+msgid "View Post"
+msgstr "Xem bài"
+
+#: account/notificationhandler.cpp:51 account/notificationhandler.cpp:52
+#, kde-format
+msgid "View Profile"
+msgstr "Xem Hồ sơ"
+
+#: account/notificationhandler.cpp:74
+#, kde-format
+msgid "%1 mentioned you"
+msgstr "%1 đã nhắc đến bạn"
+
+#: account/notificationhandler.cpp:82 content/ui/Notifications/UserInteractionLabel.qml:86
+#, kde-format
+msgid "%1 wrote a new post"
+msgstr "%1 đã đăng bài mới"
+
+#: account/notificationhandler.cpp:90 content/ui/Notifications/UserInteractionLabel.qml:76
+#, kde-format
+msgid "%1 boosted your post"
+msgstr "%1 đã tăng cường bài đăng của bạn"
+
+#: account/notificationhandler.cpp:98 content/ui/FollowDelegate.qml:56
+#, kde-format
+msgid "%1 followed you"
+msgstr "%1 đã theo dõi bạn"
+
+#: account/notificationhandler.cpp:106
+#, kde-format
+msgid "%1 requested to follow you"
+msgstr "%1 đã yêu cầu theo dõi bạn"
+
+#: account/notificationhandler.cpp:114 content/ui/Notifications/UserInteractionLabel.qml:80
+#, kde-format
+msgid "%1 favorited your post"
+msgstr "%1 đã thích bài đăng của bạn"
+
+#: account/notificationhandler.cpp:122
+#, kde-format
+msgid "Poll by %1 has ended"
+msgstr "Cuộc thăm dò ý kiến của %1 đã kết thúc"
+
+#: account/notificationhandler.cpp:130
+#, kde-format
+msgid "%1 edited a post"
+msgstr "%1 đã chỉnh sửa một bài đăng"
+
+#: account/profileeditor.cpp:151
+#, kde-format
+msgid "Image is too big"
+msgstr "Ảnh quá lớn"
+
+#: account/profileeditor.cpp:164
+#, kde-format
+msgid "Unsupported image file. Only jpeg, png and gif are supported."
+msgstr "Tệp ảnh không được hỗ trợ. Chỉ hỗ trợ jpeg, png và gif."
+
+#: account/profileeditor.cpp:278
+#, kde-format
+msgid "Account details saved"
+msgstr "Chi tiết tài khoản đã được lưu"
+
+#: account/socialgraphmodel.cpp:27
+#, kde-format
+msgctxt "@title"
+msgid "Follow Requests"
+msgstr "Yêu cầu theo dõi"
+
+#: account/socialgraphmodel.cpp:29
+#, kde-format
+msgctxt "@title"
+msgid "Followers"
+msgstr "Người theo dõi"
+
+#: account/socialgraphmodel.cpp:31
+#, kde-format
+msgctxt "@title"
+msgid "Following"
+msgstr "Đang theo dõi"
+
+#: account/socialgraphmodel.cpp:33
+#, kde-format
+msgctxt "@title"
+msgid "Muted Users"
+msgstr "Người dùng bị tắt tiếng"
+
+#: account/socialgraphmodel.cpp:35
+#, kde-format
+msgctxt "@title"
+msgid "Blocked Users"
+msgstr "Người dùng bị chặn"
+
+#: account/socialgraphmodel.cpp:37
+#, kde-format
+msgctxt "@title"
+msgid "Featured Users"
+msgstr "Người dùng nổi bật"
+
+#: account/socialgraphmodel.cpp:39
+#, kde-format
+msgctxt "@title"
+msgid "%1 favourite"
+msgid_plural "%1 favourites"
+msgstr[0] "%1 yêu thích"
+
+#: account/socialgraphmodel.cpp:41
+#, kde-format
+msgctxt "@title"
+msgid "%1 boost"
+msgid_plural "%1 boosts"
+msgstr[0] "%1 lượt tăng cường"
+
+#: account/socialgraphmodel.cpp:49
+#, kde-format
+msgid "No follow requests"
+msgstr "Không có yêu cầu theo dõi"
+
+#: account/socialgraphmodel.cpp:51
+#, kde-format
+msgid "No followers"
+msgstr "Không có người theo dõi"
+
+#: account/socialgraphmodel.cpp:53
+#, kde-format
+msgid "No followed users"
+msgstr "Không có người dùng được theo dõi"
+
+#: account/socialgraphmodel.cpp:55
+#, kde-format
+msgid "No muted users"
+msgstr "Không có người dùng bị tắt tiếng"
+
+#: account/socialgraphmodel.cpp:57
+#, kde-format
+msgid "No blocked users"
+msgstr "Không có người dùng bị chặn"
+
+#: account/socialgraphmodel.cpp:59
+#, kde-format
+msgid "No featured users"
+msgstr "Không có người dùng nổi bật"
+
+#: account/socialgraphmodel.cpp:61
+#, kde-format
+msgid "No users favourited this post"
+msgstr "Không có người dùng yêu thích bài đăng này"
+
+#: account/socialgraphmodel.cpp:63
+#, kde-format
+msgid "No users boosted this post"
+msgstr "Không có người dùng nào đã tăng cường bài đăng này"
+
+#: admin/accounttoolmodel.cpp:296
+#, kde-format
+msgid "Could not accept account"
+msgstr "Không thể chấp nhận danh khoản"
+
+#: admin/accounttoolmodel.cpp:297
+#, kde-format
+msgid "Could not reject account"
+msgstr "Không thể từ chối tài khoản"
+
+#: admin/accounttoolmodel.cpp:298
+#, kde-format
+msgid "Could not take action against the account"
+msgstr "Không thể thực hiện hành động đối với tài khoản"
+
+#: admin/accounttoolmodel.cpp:299
+#, kde-format
+msgid "Could not enable  the disabled account"
+msgstr "Không thể kích hoạt tài khoản đã bị vô hiệu hóa"
+
+#: admin/accounttoolmodel.cpp:300
+#, kde-format
+msgid "Could not unsilence the account"
+msgstr "Không thể bỏ im lặng tài khoản"
+
+#: admin/accounttoolmodel.cpp:301
+#, kde-format
+msgid "Could not unsuspend the account"
+msgstr "Không thể bỏ tạm ngừng tài khoản"
+
+#: admin/accounttoolmodel.cpp:302
+#, kde-format
+msgid "Could not mark the account as not sensitive"
+msgstr "Không thể đánh dấu tài khoản là không nhạy cảm"
+
+#: admin/adminaccountinfo.cpp:22
+#, kde-format
+msgctxt "login status"
+msgid "Suspended"
+msgstr "Bị tạm ngừng"
+
+#: admin/adminaccountinfo.cpp:24
+#, kde-format
+msgctxt "login status"
+msgid "Limited"
+msgstr "Hạn chế"
+
+#: admin/adminaccountinfo.cpp:26
+#, kde-format
+msgctxt "login status"
+msgid "Sensitized"
+msgstr "Đã kích hoạt"
+
+#: admin/adminaccountinfo.cpp:28
+#, kde-format
+msgctxt "login status"
+msgid "Frozen"
+msgstr "Đóng băng"
+
+#: admin/adminaccountinfo.cpp:30
+#, kde-format
+msgctxt "login status"
+msgid "Email Not confirmed"
+msgstr "Thư điện tử chưa được xác nhận"
+
+#: admin/adminaccountinfo.cpp:32
+#, kde-format
+msgctxt "login status"
+msgid "Not Approved"
+msgstr "Chưa được phê chuẩn"
+
+#: admin/adminaccountinfo.cpp:34
+#, kde-format
+msgctxt "login status"
+msgid "No Limits Imposed"
+msgstr "Không có giới hạn nào được áp đặt"
+
+#: admin/federationtoolmodel.cpp:160 admin/iprulestoolmodel.cpp:120
+#, kde-format
+msgid "Error occured when making a PUT request to update the domain block."
+msgstr "Đã xảy ra lỗi khi thực hiện yêu cầu PUT để cập nhật chặn miền."
+
+#: admin/reporttoolmodel.cpp:194
+#, kde-format
+msgid "Could not resolve report"
+msgstr "Không thể phân giải báo cáo"
+
+#: admin/reporttoolmodel.cpp:195
+#, kde-format
+msgid "Could not unresolve report"
+msgstr "Không thể bỏ giải báo cáo"
+
+#: admin/reporttoolmodel.cpp:196
+#, kde-format
+msgid "Could not assign report"
+msgstr "Không thể gán báo cáo"
+
+#: admin/reporttoolmodel.cpp:197
+#, kde-format
+msgid "Could not unassign report"
+msgstr "Không thể bỏ gán báo cáo"
+
+#: content/ui/AccountInfo.qml:119
+#, kde-format
+msgid "Follows you"
+msgstr "Đang theo dõi bạn"
+
+#: content/ui/AccountInfo.qml:213
+#, kde-format
+msgid "Follow Requested"
+msgstr "Đã yêu cầu theo dõi"
+
+#: content/ui/AccountInfo.qml:216
+#, kde-format
+msgid "Unfollow"
+msgstr "Bỏ theo dõi"
+
+#: content/ui/AccountInfo.qml:218
+#, kde-format
+msgid "Follow"
+msgstr "Theo dõi"
+
+#: content/ui/AccountInfo.qml:243
+#, kde-format
+msgid "Stop notifying me when %1 posts."
+msgstr "Ngừng thông báo cho tôi khi %1 đăng bài."
+
+#: content/ui/AccountInfo.qml:245
+#, kde-format
+msgid "Notify me when %1 posts."
+msgstr "Thông báo cho tôi khi %1 đăng bài."
+
+#: content/ui/AccountInfo.qml:262
+#, kde-format
+msgid "Hide Boosts from %1"
+msgstr "Ẩn Boosts từ %1"
+
+#: content/ui/AccountInfo.qml:264
+#, kde-format
+msgid "Show Boosts from %1"
+msgstr "Hiển thị Boosts từ %1"
+
+#: content/ui/AccountInfo.qml:280
+#, kde-format
+msgid "Stop Featuring This Profile"
+msgstr "Ngừng đề cử hồ sơ này"
+
+#: content/ui/AccountInfo.qml:282
+#, kde-format
+msgid "Feature This Profile"
+msgstr "Tính năng Hồ sơ này"
+
+#: content/ui/AccountInfo.qml:298
+#, kde-format
+msgid "Unmute"
+msgstr "Bỏ tắt tiếng"
+
+#: content/ui/AccountInfo.qml:300
+#, kde-format
+msgid "Mute"
+msgstr "Tắt tiếng"
+
+#: content/ui/AccountInfo.qml:316
+#, kde-format
+msgid "Unblock"
+msgstr "Bỏ chặn"
+
+#: content/ui/AccountInfo.qml:318
+#, kde-format
+msgid "Block"
+msgstr "Chặn"
+
+#: content/ui/AccountInfo.qml:332 content/ui/PostDelegate/PostMenu.qml:178
+#, kde-format
+msgctxt "@action:inmenu Report this post"
+msgid "Report…"
+msgstr "Báo cáo..."
+
+#: content/ui/AccountInfo.qml:338
+#, kde-format
+msgid "Edit Profile"
+msgstr "Sửa Hồ Sơ"
+
+#: content/ui/AccountInfo.qml:342
+#, kde-format
+msgid "Account editor"
+msgstr "Trình sửa tài khoản"
+
+#: content/ui/AccountInfo.qml:347 content/ui/Main.qml:468
+#: content/ui/TimelinePage.qml:73
+#, kde-format
+msgctxt "@action:button Open settings dialog"
+msgid "Settings"
+msgstr "Thiết lập"
+
+#: content/ui/AccountInfo.qml:354 content/ui/Main.qml:513
+#, kde-format
+msgid "Follow Requests"
+msgstr "Yêu cầu theo dõi"
+
+#: content/ui/AccountInfo.qml:360
+#, kde-format
+msgid "Muted Users"
+msgstr "Người dùng bị tắt tiếng"
+
+#: content/ui/AccountInfo.qml:366
+#, kde-format
+msgid "Blocked Users"
+msgstr "Người dùng bị chặn"
+
+#: content/ui/AccountInfo.qml:372
+#, kde-format
+msgid "Featured Users"
+msgstr "Người dùng nổi bật"
+
+#: content/ui/AccountInfo.qml:377
+#, kde-format
+msgid "Copy Link"
+msgstr "Sao chép liên kết"
+
+#: content/ui/AccountInfo.qml:380
+#, kde-format
+msgid "Profile link copied."
+msgstr "Liên kết tiểu sử đã được sao chép."
+
+#: content/ui/AccountInfo.qml:470
+#, kde-format
+msgid "Note:"
+msgstr "Ghi chú:"
+
+#: content/ui/AccountInfo.qml:478
+#, kde-format
+msgid "Saved"
+msgstr "Đã lưu"
+
+#: content/ui/AccountInfo.qml:493
+#, kde-format
+msgid "Click to add a note"
+msgstr "Bấm để thêm ghi chú"
+
+#: content/ui/AccountInfo.qml:604
+#, kde-format
+msgctxt "@label User's number of statuses"
+msgid "<b>%1</b> post"
+msgid_plural "<b>%1</b> posts"
+msgstr[0] "<b>%1</b> bài đăng"
+
+#: content/ui/AccountInfo.qml:617
+#, kde-format
+msgctxt "@label User's number of followers"
+msgid "<b>%1</b> follower"
+msgid_plural "<b>%1</b> followers"
+msgstr[0] "<b>%1</b> người theo dõi"
+
+#: content/ui/AccountInfo.qml:630
+#, kde-format
+msgctxt "@label User's number of followed accounts"
+msgid "<b>%1</b> follows"
+msgid_plural "<b>%1</b> following"
+msgstr[0] "Đang theo dõi <b>%1</b>"
+
+#: content/ui/AccountInfo.qml:657
+#, kde-format
+msgctxt "@item:inmenu Profile Post Filter"
+msgid "Posts"
+msgstr "Bài viết"
+
+#: content/ui/AccountInfo.qml:661
+#, kde-format
+msgctxt "@item:inmenu Profile Post Filter"
+msgid "Posts && Replies"
+msgstr "Bài viết &amp;&amp; Hồi đáp"
+
+#: content/ui/AccountInfo.qml:665
+#, kde-format
+msgctxt "@item:inmenu Profile Post Filter"
+msgid "Media"
+msgstr "Phương tiện"
+
+#: content/ui/AccountInfo.qml:694
+#, kde-format
+msgctxt "@option:check"
+msgid "Hide boosts"
+msgstr "Ẩn tăng cường"
+
+#: content/ui/AccountInfo.qml:714
+#, kde-format
+msgctxt "@action:button Show all of a profile's posts"
+msgid "All"
+msgstr "Tất cả"
+
+#: content/ui/Android/ShareAction.qml:15 content/ui/Android/ShareMenu.qml:14
+#: content/ui/ShareAction.qml:19 content/ui/ShareMenu.qml:15
+#, kde-format
+msgid "Share"
+msgstr "Chia sẻ"
+
+#: content/ui/Android/ShareAction.qml:16 content/ui/ShareAction.qml:20
+#, kde-format
+msgid "Share the selected media"
+msgstr "Chia sẻ phương tiện đã chọn"
+
+#: content/ui/AnnouncementsPage.qml:18
+#, kde-format
+msgctxt "@title Server-wide announcements set by admins."
+msgid "Announcements"
+msgstr "Thông báo"
+
+#: content/ui/AnnouncementsPage.qml:41
+#, kde-format
+msgctxt "@label An announcement was published on a date"
+msgid "Announcement on %1"
+msgstr "Thông báo vào %1"
+
+#: content/ui/AnnouncementsPage.qml:69
+#, kde-format
+msgctxt "@label"
+msgid "No announcements"
+msgstr "Không có thông báo"
+
+#: content/ui/Components/Emoji/EmojiGrid.qml:78
+#, kde-format
+msgid "No emojis"
+msgstr "Không có biểu tượng cảm xúc"
+
+#: content/ui/Components/InlineIdentityInfo.qml:41
+#: content/ui/Notifications/UserInteractionLabel.qml:65
+#: content/ui/PostDelegate/QuotePost.qml:58
+#: content/ui/PostDelegate/UserInteractionLabel.qml:64
+#, kde-format
+msgid "View profile"
+msgstr "Xem hồ sơ"
+
+#: content/ui/ConversationPage.qml:11 content/ui/Main.qml:560
+#, kde-format
+msgid "Conversations"
+msgstr "Cuộc trò chuyện"
+
+#: content/ui/ConversationPage.qml:35
+#, kde-format
+msgid "No Conversations"
+msgstr "Không có cuộc trò chuyện"
+
+#: content/ui/Debug/DebugPage.qml:24
+#, kde-format
+msgctxt "@action:button"
+msgid "Increase follow request count"
+msgstr "Tăng số lượng yêu cầu theo dõi"
+
+#: content/ui/Debug/DebugPage.qml:28
+#, kde-format
+msgctxt "@action:button"
+msgid "Decrease follow request count"
+msgstr "Giảm số lượng yêu cầu theo dõi"
+
+#: content/ui/EditListPage.qml:28
+#, kde-format
+msgctxt "@title:window"
+msgid "Create List"
+msgstr "Tạo Danh Sách"
+
+#: content/ui/EditListPage.qml:28
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit List"
+msgstr "Sửa Danh Sách"
+
+#: content/ui/EditListPage.qml:60
+#, kde-format
+msgctxt "@label:textbox List title"
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: content/ui/EditListPage.qml:68
+#, kde-format
+msgctxt "@label"
+msgid "Show replies for"
+msgstr "Hiển thị hồi đáp cho"
+
+#: content/ui/EditListPage.qml:80
+#, kde-format
+msgctxt "@label If the list is exclusive"
+msgid "Exclusive"
+msgstr "Độc quyền"
+
+#: content/ui/EditListPage.qml:81
+#, kde-format
+msgid "Posts in an exclusive list are excluded from the Home timeline."
+msgstr ""
+"Các bài đăng trong danh sách độc quyền bị loại khỏi dòng thời gian Trang "
+"chủ."
+
+#: content/ui/EditListPage.qml:102
+#, kde-format
+msgctxt "@action:button Create the list"
+msgid "Create"
+msgstr "Tạo"
+
+#: content/ui/EditListPage.qml:104
+#, kde-format
+msgctxt "@action:button Edit the list"
+msgid "Edit"
+msgstr "Sửa"
+
+#: content/ui/EditListPage.qml:117
+#, kde-format
+msgctxt "@action:button Delete the list"
+msgid "Delete"
+msgstr "Xóa"
+
+#: content/ui/EditListPage.qml:124
+#, kde-format
+msgctxt "@title"
+msgid "Deleting List"
+msgstr "Đang xóa danh sách"
+
+#: content/ui/EditListPage.qml:125
+#, kde-format
+msgctxt "@label"
+msgid "Are you sure you want to delete this list?"
+msgstr "Bạn có chắc chắn muốn xóa danh sách này không?"
+
+#: content/ui/ExplorePage.qml:18 content/ui/Main.qml:606
+#, kde-format
+msgid "Explore"
+msgstr "Khám phá"
+
+#: content/ui/ExplorePage.qml:30 content/ui/TimelinePage.qml:93
+#, kde-format
+msgctxt "@action:button"
+msgid "Post"
+msgstr "Đăng"
+
+#: content/ui/ExplorePage.qml:45 search/searchmodel.cpp:144
+#, kde-format
+msgid "Posts"
+msgstr "Bài viết"
+
+#: content/ui/ExplorePage.qml:60
+#, kde-format
+msgid "Tags"
+msgstr "Thẻ"
+
+#: content/ui/ExplorePage.qml:141
+#, kde-format
+msgid "%1 person is talking"
+msgid_plural "%1 people are talking"
+msgstr[0] "%1 người đang nói chuyện"
+
+#: content/ui/ExplorePage.qml:158
+#, kde-format
+msgctxt "@label"
+msgid "No Trending Posts"
+msgstr "Không có bài đăng đang thịnh hành"
+
+#: content/ui/ExplorePage.qml:158
+#, kde-format
+msgctxt "@label"
+msgid "No Trending Tags"
+msgstr "Không có thẻ xu hướng"
+
+#: content/ui/FollowDelegate.qml:54
+#, kde-format
+msgid "%1 signed up"
+msgstr "%1 đã đăng ký"
+
+#: content/ui/InitialSetup/SetupNotifications.qml:19
+#, kde-format
+msgctxt "@title:window"
+msgid "Notifications"
+msgstr "Thông báo"
+
+#: content/ui/InitialSetup/SetupNotifications.qml:22
+#: content/ui/InitialSetup/SetupPassword.qml:20
+#, kde-format
+msgid "Setup Required"
+msgstr "Cần thiết lập"
+
+#: content/ui/InitialSetup/SetupNotifications.qml:28
+#, kde-format
+msgid ""
+"Tokodon can show notifications for activity such as users boosting or "
+"replying to your posts.\n"
+"\n"
+"The types of notifications shown can be fine tuned when logged in."
+msgstr ""
+"Tokodon có thể hiển thị thông báo về các hoạt động như người dùng tăng "
+"cường hoặc hồi đáp bài đăng của bạn.\n\nCác loại thông báo được hiển thị có "
+"thể được điều chỉnh chi tiết khi đăng nhập."
+
+#: content/ui/InitialSetup/SetupNotifications.qml:35
+#, kde-format
+msgid "Allow Notifications"
+msgstr "Cho phép thông báo"
+
+#: content/ui/InitialSetup/SetupNotifications.qml:49
+#: content/ui/InitialSetup/SetupWelcome.qml:42
+#: content/ui/LoginFlow/CodeAuthorization.qml:32
+#: content/ui/LoginFlow/LoginPage.qml:126
+#: content/ui/LoginFlow/ServersPage.qml:77
+#, kde-format
+msgid "Continue"
+msgstr "Tiếp tục"
+
+#: content/ui/InitialSetup/SetupPassword.qml:17
+#, kde-format
+msgctxt "@title:window"
+msgid "Password Service"
+msgstr "Dịch vụ mật khẩu"
+
+#: content/ui/InitialSetup/SetupPassword.qml:25
+#, kde-format
+msgid ""
+"Tokodon requires a password service to be running to save personally "
+"sensitive information.\n"
+"\n"
+"Tokodon can use KWallet, GNOME Keyring or any libsecret-compatible service.\n"
+"\n"
+"After you installed the service, make sure it's running and restart Tokodon."
+msgstr ""
+"Tokodon yêu cầu một dịch vụ mật khẩu đang chạy để lưu thông tin cá nhân "
+"nhạy cảm.\n\nTokodon có thể sử dụng KWallet, GNOME Keyring hoặc bất kỳ dịch "
+"vụ tương thích với libsecret.\n\nSau khi cài đặt dịch vụ, hãy đảm bảo nó "
+"đang chạy và khởi động lại Tokodon."
+
+#: content/ui/InitialSetup/SetupPassword.qml:32
+#, kde-format
+msgid "Quit Tokodon"
+msgstr "Thoát Tokodon"
+
+#: content/ui/InitialSetup/SetupWelcome.qml:17
+#: content/ui/LoginFlow/WelcomePage.qml:17
+#, kde-format
+msgctxt "@title:window"
+msgid "Welcome"
+msgstr "Chào mừng"
+
+#: content/ui/InitialSetup/SetupWelcome.qml:30
+#: content/ui/LoginFlow/WelcomePage.qml:30
+#, kde-format
+msgid "Welcome to Tokodon"
+msgstr "Chào mừng đến Tokodon"
+
+#: content/ui/InitialSetup/SetupWelcome.qml:35
+#, kde-format
+msgid "Some initial setup is required before you can use Tokodon."
+msgstr "Một số thiết lập ban đầu là cần thiết trước khi bạn có thể sử dụng Tokodon."
+
+#: content/ui/LanguageSelector.qml:25
+#, kde-format
+msgctxt "@title"
+msgid "Select Language"
+msgstr "Chọn Ngôn Ngữ"
+
+#: content/ui/LanguageSelector.qml:48
+#, kde-format
+msgctxt "@action:button"
+msgid "Close"
+msgstr "Đóng"
+
+#: content/ui/ListsPage.qml:18
+#, kde-format
+msgctxt "@title"
+msgid "Lists"
+msgstr "Danh sách"
+
+#: content/ui/ListsPage.qml:31
+#, kde-format
+msgid "Create List"
+msgstr "Tạo danh sách"
+
+#: content/ui/ListsPage.qml:67
+#, kde-format
+msgid "No lists"
+msgstr "Không có danh sách"
+
+#: content/ui/ListTimelinePage.qml:20
+#, kde-format
+msgid "Edit List"
+msgstr "Sửa Danh Sách"
+
+#: content/ui/LoginFlow/BaseAuthorization.qml:25
+#, kde-format
+msgctxt "@title:window"
+msgid "Authorization"
+msgstr "uỷ quyền"
+
+#: content/ui/LoginFlow/BaseAuthorization.qml:77
+#, kde-format
+msgid ""
+"To continue, please open the following link in your web browser to authorize "
+"Tokodon: %1"
+msgstr ""
+"Để tiếp tục, vui lòng mở liên kết sau trong trình duyệt web của bạn để uỷ "
+"quyền cho Tokodon: %1"
+
+#: content/ui/LoginFlow/BaseAuthorization.qml:91
+#, kde-format
+msgid "Open Authorization Link"
+msgstr "Mở liên kết uỷ quyền"
+
+#: content/ui/LoginFlow/BaseAuthorization.qml:100
+#, kde-format
+msgid "Copy Authorization Link"
+msgstr "Sao chép Liên kết Uỷ quyền"
+
+#: content/ui/LoginFlow/BaseAuthorization.qml:104
+#, kde-format
+msgid "Link copied."
+msgstr "Đã sao chép liên kết."
+
+#: content/ui/LoginFlow/BrowserAuthorization.qml:25
+#, kde-format
+msgid "Use Authorization Code"
+msgstr "Sử dụng Mã Uỷ Quyền"
+
+#: content/ui/LoginFlow/BrowserAuthorization.qml:26
+#, kde-format
+msgid "Use this login method if the above link does not work."
+msgstr "Sử dụng phương thức đăng nhập này nếu liên kết trên không hoạt động."
+
+#: content/ui/LoginFlow/CodeAuthorization.qml:25
+#, kde-format
+msgid "Enter authorization token:"
+msgstr "Nhập mã uỷ quyền:"
+
+#: content/ui/LoginFlow/LoginIssuePage.qml:17
+#, kde-format
+msgctxt "@title:window"
+msgid "Login Issue"
+msgstr "Vấn đề đăng nhập"
+
+#: content/ui/LoginFlow/LoginIssuePage.qml:27
+#, kde-format
+msgid "There was an issue logging into the server:<br><b>%1</b>"
+msgstr "Đã xảy ra sự cố khi đăng nhập vào máy chủ:<br><b>%1</b>"
+
+#: content/ui/LoginFlow/LoginIssuePage.qml:37
+#, kde-format
+msgid ""
+"Please check if the password service is running. For other login issues, you "
+"can try logging into the server's website.\n"
+"\n"
+"You can attempt to log in again with the button below, or restart Tokodon."
+msgstr ""
+"Vui lòng kiểm tra xem dịch vụ mật khẩu có đang chạy không. Đối với các vấn "
+"đề đăng nhập khác, bạn có thể thử đăng nhập vào trang web của máy "
+"chủ.\n\nBạn có thể thử đăng nhập lại bằng nút bên dưới hoặc khởi động lại "
+"Tokodon."
+
+#: content/ui/LoginFlow/LoginIssuePage.qml:47
+#, kde-format
+msgid "View Website"
+msgstr "Xem địa điểm web"
+
+#: content/ui/LoginFlow/LoginIssuePage.qml:56
+#, kde-format
+msgid "Re-Attempt Log In"
+msgstr "Thử đăng nhập lại"
+
+#: content/ui/LoginFlow/LoginIssuePage.qml:68
+#: content/ui/Settings/ProfileEditor.qml:30
+#, kde-format
+msgid "Logout"
+msgstr "Đăng xuất"
+
+#: content/ui/LoginFlow/LoginIssuePage.qml:75
+#: content/ui/Settings/ProfileEditor.qml:50
+#, kde-format
+msgctxt "@title"
+msgid "Logout"
+msgstr "Đăng xuất"
+
+#: content/ui/LoginFlow/LoginIssuePage.qml:76
+#, kde-format
+msgctxt "@label"
+msgid "Are you sure you want to log out?"
+msgstr "Bạn có chắc chắn muốn đăng xuất?"
+
+#: content/ui/LoginFlow/LoginPage.qml:18
+#, kde-format
+msgctxt "@title:window"
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: content/ui/LoginFlow/LoginPage.qml:25 content/ui/LoginFlow/RegistrationPage.qml:26
+#: content/ui/LoginFlow/RegistrationPage.qml:37
+#: content/ui/LoginFlow/RulesPage.qml:26 content/ui/LoginFlow/ServersPage.qml:25
+#, kde-format
+msgctxt "@info:status Network status"
+msgid "Failed to contact server: %1. Please check your proxy settings."
+msgstr ""
+"Không thể liên hệ với máy chủ: %1. Vui lòng kiểm tra cài đặt uỷ nhiệm của "
+"bạn."
+
+#: content/ui/LoginFlow/LoginPage.qml:38 content/ui/LoginFlow/LoginPage.qml:166
+#: content/ui/LoginFlow/RegistrationPage.qml:85
+#: content/ui/LoginFlow/RulesPage.qml:40 content/ui/LoginFlow/ServersPage.qml:38
+#: content/ui/LoginFlow/ServersPage.qml:107
+#: content/ui/Settings/NetworkProxyPage.qml:70
+#, kde-format
+msgid "Proxy Settings"
+msgstr "Thiết lập Uỷ nhiệm"
+
+#: content/ui/LoginFlow/LoginPage.qml:101
+#, kde-format
+msgctxt "@title:group"
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: content/ui/LoginFlow/LoginPage.qml:107
+#: content/ui/LoginFlow/ServersPage.qml:67
+#, kde-format
+msgid "Server URL:"
+msgstr "Địa chỉ URL máy chủ:"
+
+#: content/ui/LoginFlow/LoginPage.qml:108
+#: content/ui/LoginFlow/ServersPage.qml:68
+#, kde-format
+msgid "mastodon.social"
+msgstr "mastodon.social"
+
+#: content/ui/LoginFlow/LoginPage.qml:117
+#, kde-format
+msgid "Enable moderation tools"
+msgstr "Bật công cụ điều tiết"
+
+#: content/ui/LoginFlow/LoginPage.qml:118
+#, kde-format
+msgid ""
+"Allow Tokodon to access moderation tools. Try disabling this if you have "
+"trouble logging in."
+msgstr ""
+"Cho phép Tokodon truy cập các công cụ điều hành. Hãy thử tắt tính năng này "
+"nếu bạn gặp sự cố khi đăng nhập."
+
+#: content/ui/LoginFlow/LoginPage.qml:132
+#, kde-format
+msgid "Server URL must not be empty!"
+msgstr "Địa chỉ máy chủ không được để trống!"
+
+#: content/ui/LoginFlow/LoginPage.qml:153
+#: content/ui/LoginFlow/ServersPage.qml:94
+#, kde-format
+msgctxt "@title:group"
+msgid "Network Settings"
+msgstr "Thiết lập mạng"
+
+#: content/ui/LoginFlow/LoginPage.qml:159
+#: content/ui/LoginFlow/ServersPage.qml:100
+#, kde-format
+msgctxt "@option:check Login page"
+msgid "Ignore SSL errors"
+msgstr "Bỏ qua lỗi SSL"
+
+#: content/ui/LoginFlow/RegistrationPage.qml:18
+#, kde-format
+msgctxt "@title:window"
+msgid "Registration"
+msgstr "Đăng ký"
+
+#: content/ui/LoginFlow/RegistrationPage.qml:94
+#, kde-format
+msgctxt "@title:group"
+msgid "Register"
+msgstr "Đăng ký"
+
+#: content/ui/LoginFlow/RegistrationPage.qml:100
+#, kde-format
+msgid "Username"
+msgstr "Tên người dùng"
+
+#: content/ui/LoginFlow/RegistrationPage.qml:109
+#, kde-format
+msgid "Email Address"
+msgstr "Địa chỉ email"
+
+#: content/ui/LoginFlow/RegistrationPage.qml:118
+#: content/ui/Settings/NetworkProxyPage.qml:123
+#, kde-format
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: content/ui/LoginFlow/RegistrationPage.qml:128
+#, kde-format
+msgid "Reason"
+msgstr "Lý do"
+
+#: content/ui/LoginFlow/RegistrationPage.qml:137
+#: content/ui/LoginFlow/WelcomePage.qml:45
+#, kde-format
+msgid "Register"
+msgstr "Đăng ký"
+
+#: content/ui/LoginFlow/RulesPage.qml:18
+#, kde-format
+msgctxt "@title:window"
+msgid "Rules"
+msgstr "Quy tắc"
+
+#: content/ui/LoginFlow/RulesPage.qml:47
+#, kde-format
+msgctxt "@title:group"
+msgid "Rules"
+msgstr "Quy tắc"
+
+#: content/ui/LoginFlow/RulesPage.qml:81
+#, kde-format
+msgctxt "@action:button Agree to server rules"
+msgid "Agree"
+msgstr "Đồng ý"
+
+#: content/ui/LoginFlow/RulesPage.qml:99
+#, kde-format
+msgctxt "@action:button Disagree to server rules"
+msgid "Disagree"
+msgstr "Không đồng ý"
+
+#: content/ui/LoginFlow/ServersPage.qml:18
+#, kde-format
+msgctxt "@title:window"
+msgid "Pick a Server"
+msgstr "Chọn một Máy chủ"
+
+#: content/ui/LoginFlow/ServersPage.qml:47
+#, kde-format
+msgid "This server is closed for registration: %1"
+msgstr "Máy chủ này đã đóng đăng ký: %1"
+
+#: content/ui/LoginFlow/ServersPage.qml:61
+#, kde-format
+msgctxt "@title:group"
+msgid "Pick a Server"
+msgstr "Chọn một Máy Chủ"
+
+#: content/ui/LoginFlow/ServersPage.qml:83
+#, kde-format
+msgid "Server URL must not be empty."
+msgstr "Địa chỉ URL máy chủ không được để trống."
+
+#: content/ui/LoginFlow/WebViewAuthorization.qml:22
+#, kde-format
+msgctxt "@action:button Open in external web browser"
+msgid "Open Externally"
+msgstr "Mở bên ngoài"
+
+#: content/ui/LoginFlow/WelcomePage.qml:36
+#, kde-format
+msgid "Learn More"
+msgstr "Tìm hiểu thêm"
+
+#: content/ui/LoginFlow/WelcomePage.qml:54
+#, kde-format
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: content/ui/Main.qml:106
+#, kde-format
+msgctxt "@title"
+msgid "Open As…"
+msgstr "Mở bằng..."
+
+#: content/ui/Main.qml:108
+#, kde-format
+msgctxt "@title"
+msgid "Reply As…"
+msgstr "Hồi đáp Như..."
+
+#: content/ui/Main.qml:110
+#, kde-format
+msgctxt "@title"
+msgid "Favorite As…"
+msgstr "Yêu thích Như..."
+
+#: content/ui/Main.qml:112
+#, kde-format
+msgctxt "@title"
+msgid "Boost As…"
+msgstr "Tăng cường như..."
+
+#: content/ui/Main.qml:114
+#, kde-format
+msgctxt "@title"
+msgid "Bookmark As…"
+msgstr "Lưu dấu nhớ..."
+
+#: content/ui/Main.qml:116
+#, kde-format
+msgctxt "@title"
+msgid "Unknown Action"
+msgstr "Hành động không rõ"
+
+#: content/ui/Main.qml:204 content/ui/Main.qml:242
+#, kde-format
+msgid "Write a new post"
+msgstr "Viết bài đăng mới"
+
+#: content/ui/Main.qml:266
+#, kde-format
+msgid "Reply to post"
+msgstr "hồi đáp bài viết"
+
+#: content/ui/Main.qml:442
+#, kde-format
+msgctxt "@action:button Open debug page"
+msgid "Debug"
+msgstr "Gỡ lỗi"
+
+#: content/ui/Main.qml:452
+#, kde-format
+msgctxt "@action:button Open moderation tools"
+msgid "Moderation Tools"
+msgstr "Công cụ điều tiết"
+
+#: content/ui/Main.qml:483
+#, kde-format
+msgid "Home"
+msgstr "Trang chủ"
+
+#: content/ui/Main.qml:498 content/ui/NotificationPage.qml:15
+#: content/ui/Settings/TokodonConfigurationView.qml:21
+#, kde-format
+msgid "Notifications"
+msgstr "Thông báo"
+
+#: content/ui/Main.qml:529
+#, kde-format
+msgid "Local"
+msgstr "Cục bộ"
+
+#: content/ui/Main.qml:544
+#, kde-format
+msgid "Global"
+msgstr "Toàn cục"
+
+#: content/ui/Main.qml:574
+#, kde-format
+msgid "Favourites"
+msgstr "Yêu thích"
+
+#: content/ui/Main.qml:590
+#, kde-format
+msgid "Bookmarks"
+msgstr "Dấu trang"
+
+#: content/ui/Main.qml:620
+#, kde-format
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: content/ui/Main.qml:635
+#, kde-format
+msgctxt "@action:button Server Announcements"
+msgid "Announcements"
+msgstr "Thông báo"
+
+#: content/ui/Main.qml:650
+#, kde-format
+msgid "Lists"
+msgstr "Danh sách"
+
+#: content/ui/Main.qml:798
+#, kde-format
+msgctxt "@title"
+msgid "Embed Information"
+msgstr "Nhúng thông tin"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:30
+#: content/ui/ModerationTools/AccountToolPage.qml:214
+#, kde-format
+msgid "Advanced Search"
+msgstr "Tìm kiếm nâng cao"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:40
+#, kde-format
+msgctxt "@info:placeholder Username for searching accounts"
+msgid "Username:"
+msgstr "Tên người dùng:"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:45
+#, kde-format
+msgctxt "@info:placeholder display name for searching accounts"
+msgid "Display Name:"
+msgstr "Tên hiển thị:"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:50
+#, kde-format
+msgctxt "@info:placeholder email for searching accounts"
+msgid "Email:"
+msgstr "Email:"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:55
+#, kde-format
+msgctxt "@info:placeholder ip for searching accounts"
+msgid "IP:"
+msgstr "IP:"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:62
+#, kde-format
+msgctxt "@info:Search button to initiate searching accounts"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:73
+#, kde-format
+msgctxt "@info:Reset button to reset all the text fields"
+msgid "Reset"
+msgstr "Đặt lại"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:78
+#: content/ui/ModerationTools/FederationToolPage.qml:141
+#: content/ui/ModerationTools/FederationToolPage.qml:172
+#: content/ui/ModerationTools/IpRulePage.qml:121
+#: content/ui/ModerationTools/MainFederationToolPage.qml:110
+#, kde-format
+msgctxt "@info:Cancel button to close the dailog"
+msgid "Cancel"
+msgstr "Huỷ"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:95
+#, kde-format
+msgctxt "@info:Location combobox to choose location filters"
+msgid "Location"
+msgstr "địa điểm"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:108
+#, kde-format
+msgctxt "@info:Filter out accounts from any location"
+msgid "All"
+msgstr "Tất cả"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:112
+#, kde-format
+msgctxt "@info:Filter out local accounts"
+msgid "Local"
+msgstr "Cục bộ"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:116
+#, kde-format
+msgctxt "@info:Filter out remote accounts"
+msgid "Remote"
+msgstr "Ở xa"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:130
+#, kde-format
+msgctxt ""
+"@info:Moderation Status combobox to choose between different moderation "
+"status filters"
+msgid "Moderation Status"
+msgstr "Trạng thái điều tiết"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:141
+#, kde-format
+msgctxt "@info:Filter out accounts with any moderation status"
+msgid "All"
+msgstr "Tất cả"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:145
+#, kde-format
+msgctxt "@info:Filter out accounts with active moderation status"
+msgid "Active"
+msgstr "Hoạt động"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:149
+#, kde-format
+msgctxt "@info:Filter out accounts with pending moderation status"
+msgid "Pending"
+msgstr "Đang chờ"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:153
+#, kde-format
+msgctxt "@info:Filter out accounts with disabled moderation status"
+msgid "Disabled"
+msgstr "Tắt"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:157
+#, kde-format
+msgctxt "@info:Filter out accounts with silenced moderation status"
+msgid "Silenced"
+msgstr "Đã im lặng"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:161
+#, kde-format
+msgctxt "@info:Filter out accounts with suspended moderation status"
+msgid "Suspended"
+msgstr "Đã tạm ngừng"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:174
+#, kde-format
+msgctxt "@info:Role combobox to choose between different role filters"
+msgid "Role"
+msgstr "Vai trò"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:188
+#, kde-format
+msgctxt "@info:Filter out accounts with any role"
+msgid "All"
+msgstr "Tất cả"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:192
+#, kde-format
+msgctxt "@info:Filter out accounts with moderator role"
+msgid "Moderator"
+msgstr "Người điều hành"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:196
+#, kde-format
+msgctxt "@info:Filter out accounts with admin role"
+msgid "Admin"
+msgstr "Quản trị"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:200
+#, kde-format
+msgctxt "@info:Filter out accounts with owner role"
+msgid "Owner"
+msgstr "chủ sở hữu"
+
+#: content/ui/ModerationTools/AccountToolPage.qml:299
+#, kde-format
+msgid "No accounts found"
+msgstr "Không tìm thấy tài khoản"
+
+#: content/ui/ModerationTools/EmailBlockToolPage.qml:17
+#, kde-format
+msgctxt "@action:button"
+msgid "Create Email Block"
+msgstr "Tạo Ngưng Trệ Thư Điện Tử"
+
+#: content/ui/ModerationTools/EmailBlockToolPage.qml:31
+#, kde-format
+msgctxt "@title"
+msgid "E-Mail Domain Info"
+msgstr "Thông tin miền E-Mail"
+
+#: content/ui/ModerationTools/EmailBlockToolPage.qml:40
+#, kde-format
+msgctxt "@info The domain on which the block is imposed"
+msgid "Email domain name"
+msgstr "Tên miền email"
+
+#: content/ui/ModerationTools/EmailBlockToolPage.qml:48
+#, kde-format
+msgctxt "@info Time when the block was imposed."
+msgid "Block created at"
+msgstr "Khối được tạo lúc"
+
+#: content/ui/ModerationTools/EmailBlockToolPage.qml:56
+#, kde-format
+msgctxt ""
+"@info The counted accounts signup attempts using that email domain within "
+"the last week."
+msgid "Account sign-up attempts in this week"
+msgstr "Số lượng đăng ký tài khoản trong tuần này"
+
+#: content/ui/ModerationTools/EmailBlockToolPage.qml:64
+#, kde-format
+msgctxt ""
+"@info The counted IP signup attempts of that email domain within that day."
+msgid "IP sign-up attempts in this week"
+msgstr "Số lượng đăng ký IP trong tuần này"
+
+#: content/ui/ModerationTools/EmailBlockToolPage.qml:73
+#: content/ui/ModerationTools/EmailBlockToolPage.qml:111
+#, kde-format
+msgctxt "@action:button"
+msgid "Cancel"
+msgstr "Huỷ"
+
+#: content/ui/ModerationTools/EmailBlockToolPage.qml:78
+#, kde-format
+msgctxt "@action:button"
+msgid "Delete email block"
+msgstr "Xóa ngưng trệ thư điện tử"
+
+#: content/ui/ModerationTools/EmailBlockToolPage.qml:82
+#, kde-format
+msgid "Email block deleted"
+msgstr "Thư điện tử đã bị ngưng trệ"
+
+#: content/ui/ModerationTools/EmailBlockToolPage.qml:92
+#, kde-format
+msgctxt "@title"
+msgid "New E-Mail Domain Block"
+msgstr "Chặn Miền E-Mail Mới"
+
+#: content/ui/ModerationTools/EmailBlockToolPage.qml:102
+#, kde-format
+msgctxt "@info The domain on which the block will be imposed"
+msgid "Domain *"
+msgstr "Miền *"
+
+#: content/ui/ModerationTools/EmailBlockToolPage.qml:103
+#, kde-format
+msgid ""
+"This can be the domain name that shows up in the e-mail address or the MX "
+"record it uses. They will be checked upon sign-up."
+msgstr ""
+"Đây có thể là tên miền xuất hiện trong địa chỉ email hoặc bản ghi MX mà nó "
+"sử dụng. Chúng sẽ được kiểm tra khi đăng ký."
+
+#: content/ui/ModerationTools/EmailBlockToolPage.qml:116
+#, kde-format
+msgctxt "@action:button"
+msgid "Resolve domain"
+msgstr "Phân giải miền"
+
+#: content/ui/ModerationTools/EmailBlockToolPage.qml:120
+#, kde-format
+msgid "New email block added"
+msgstr "Đã thêm mới chặn thư điện tử"
+
+#: content/ui/ModerationTools/EmailBlockToolPage.qml:163
+#, kde-format
+msgctxt "@info"
+msgid "%1 sign-up attempts over the last week"
+msgstr "%1 lần đăng ký trong tuần qua"
+
+#: content/ui/ModerationTools/EmailBlockToolPage.qml:185
+#, kde-format
+msgid "No email blocks found"
+msgstr "Không tìm thấy chặn thư điện tử"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:21
+#, kde-format
+msgid "Add New Domain Block"
+msgstr "Thêm Miền Bị Chặn Mới"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:27
+#: content/ui/ModerationTools/FederationToolPage.qml:160
+#, kde-format
+msgid "Allow Federation with Domain"
+msgstr "Cho phép Liên kết với Miền"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:39
+#, kde-format
+msgid "Allowed Domain Info"
+msgstr "Thông tin miền được phép"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:45
+#, kde-format
+msgctxt "@info:The domain that is allowed to federate"
+msgid "Domain"
+msgstr "Miền"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:51
+#, kde-format
+msgctxt "@info:Time when the domain was allowed to federate."
+msgid "Created at"
+msgstr "Được tạo vào"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:60
+#, kde-format
+msgid "Disallow Federation with Domain"
+msgstr "Không cho phép Liên kết với Miền"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:64
+#, kde-format
+msgid "Disallowed federation with the domain"
+msgstr "Không cho phép liên kết với miền"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:74
+#, kde-format
+msgid "Add Domain Block"
+msgstr "Thêm Miền Bị Chặn"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:84
+#, kde-format
+msgctxt "@info:Enter the domain address of the domain block"
+msgid "Domain*"
+msgstr "Tên miền*"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:89
+#: content/ui/ModerationTools/MainFederationToolPage.qml:74
+#: content/ui/ModerationTools/MainFederationToolPage.qml:139
+#, kde-format
+msgid "Public comment"
+msgstr "Chú thích công khai"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:94
+#, kde-format
+msgid "Private Comment"
+msgstr "Chú thích riêng tư"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:99
+#: content/ui/ModerationTools/MainFederationToolPage.qml:50
+#, kde-format
+msgid "Moderation"
+msgstr "Điều tiết"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:104
+#: content/ui/ModerationTools/MainFederationToolPage.qml:55
+#, kde-format
+msgctxt "@info:Filter out all the allowed domains"
+msgid "Silence"
+msgstr "Tắt tiếng"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:108
+#: content/ui/ModerationTools/MainFederationToolPage.qml:59
+#, kde-format
+msgctxt "@info:Filter out all the blocked domains"
+msgid "Suspend"
+msgstr "Tạm dừng"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:112
+#: content/ui/ModerationTools/MainFederationToolPage.qml:63
+#, kde-format
+msgctxt "@info:Filter out all the blocked domains"
+msgid "None"
+msgstr "Không có"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:121
+#: content/ui/ModerationTools/MainFederationToolPage.qml:85
+#, kde-format
+msgid "Reject media files"
+msgstr "Từ chối tệp phương tiện"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:122
+#: content/ui/ModerationTools/MainFederationToolPage.qml:86
+#, kde-format
+msgid ""
+"Removes locally stored media files and refuses to download any in the "
+"future. Irrelevant for suspensions"
+msgstr ""
+"Xóa các tệp phương tiện được lưu trữ cục bộ và từ chối tải về bất kỳ tệp "
+"nào trong tương lai. Không liên quan đến các lệnh đình chỉ"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:127
+#: content/ui/ModerationTools/MainFederationToolPage.qml:93
+#, kde-format
+msgid "Reject reports"
+msgstr "Từ chối báo cáo"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:128
+#: content/ui/ModerationTools/MainFederationToolPage.qml:94
+#, kde-format
+msgid "Ignore all reports coming from this domain. Irrelevant for suspensions"
+msgstr ""
+"Bỏ qua tất cả các báo cáo đến từ miền này. Không liên quan đến việc đình "
+"chỉ"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:133
+#: content/ui/ModerationTools/MainFederationToolPage.qml:101
+#, kde-format
+msgid "Obfuscate domain name"
+msgstr "Che dấu tên miền"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:134
+#: content/ui/ModerationTools/MainFederationToolPage.qml:102
+#, kde-format
+msgid ""
+"Partially obfuscate the domain name in the list if advertising the list of "
+"domain limitations is enabled"
+msgstr ""
+"Nếu việc quảng cáo danh sách các giới hạn miền được bật, hãy làm mờ một "
+"phần tên miền trong danh sách"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:146
+#: content/ui/ModerationTools/FederationToolPage.qml:177
+#, kde-format
+msgctxt "@info:Button to create a domain block"
+msgid "Create Block"
+msgstr "Tạo Ngưng Trệ"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:151
+#, kde-format
+msgid "New domain block added"
+msgstr "Miền mới đã được ngưng trệ"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:166
+#, kde-format
+msgctxt ""
+"@info:This domain will be able to fetch data from this server and incoming "
+"data from it will be processed and stored"
+msgid "Domain*"
+msgstr "Tên miền*"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:181
+#, kde-format
+msgid "New Allowed Domain Added"
+msgstr "Miền được phép mới đã được thêm"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:194
+#, kde-format
+msgid ""
+"Allowed domain option is available for instances with limited federation "
+"mode enabled"
+msgstr ""
+"Tùy chọn miền được phép chỉ khả dụng cho các hiện thể có chế độ liên kết "
+"hạn chế được bật"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:201
+#, kde-format
+msgctxt "@info:Choose between allowed and limited domains"
+msgid "Moderation"
+msgstr "Điều tiết"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:216
+#, kde-format
+msgctxt "@info:Filter out all the blocked domains"
+msgid "Blocked domains"
+msgstr "Tên miền bị chặn"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:220
+#, kde-format
+msgctxt "@info:Filter out all the allowed domains in limited federation mode"
+msgid "Allowed domains"
+msgstr "Các miền được phép"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:286
+#, kde-format
+msgid "Allowed for federation"
+msgstr "Được phép liên kết"
+
+#: content/ui/ModerationTools/FederationToolPage.qml:309
+#, kde-format
+msgid "No federations found"
+msgstr "Không tìm thấy liên minh"
+
+#: content/ui/ModerationTools/IpRulePage.qml:17
+#, kde-format
+msgctxt "@action:button"
+msgid "Create Rule"
+msgstr "Tạo Quy Tắc"
+
+#: content/ui/ModerationTools/IpRulePage.qml:25
+#, kde-format
+msgid "New IP Rule"
+msgstr "Quy tắc IP mới"
+
+#: content/ui/ModerationTools/IpRulePage.qml:37
+#, kde-format
+msgctxt "@info:Enter the domain address of the domain block"
+msgid "IP*"
+msgstr "IP*"
+
+#: content/ui/ModerationTools/IpRulePage.qml:43
+#, kde-format
+msgctxt "@info:Time after which the rule will be lifted"
+msgid "Expire After"
+msgstr "Hết hạn sau"
+
+#: content/ui/ModerationTools/IpRulePage.qml:48
+#, kde-format
+msgctxt "@info:Option to block out the IP for 1 day"
+msgid "1 day"
+msgstr "1 ngày"
+
+#: content/ui/ModerationTools/IpRulePage.qml:52
+#, kde-format
+msgctxt "@info:Option to block out the IP for 2 weeks"
+msgid "2 weeks"
+msgstr "2 tuần"
+
+#: content/ui/ModerationTools/IpRulePage.qml:56
+#, kde-format
+msgctxt "@info:Option to block out the IP for 1 month"
+msgid "1 month"
+msgstr "1 tháng"
+
+#: content/ui/ModerationTools/IpRulePage.qml:60
+#, kde-format
+msgctxt "@info:Option to block out the IP for 6 months"
+msgid "6 month"
+msgstr "6 tháng"
+
+#: content/ui/ModerationTools/IpRulePage.qml:64
+#, kde-format
+msgctxt "@info:Option to block out the IP for 1 year"
+msgid "1 year"
+msgstr "1 năm"
+
+#: content/ui/ModerationTools/IpRulePage.qml:68
+#, kde-format
+msgctxt "@info:Option to block out the IP for 3 years"
+msgid "3 year"
+msgstr "3 năm"
+
+#: content/ui/ModerationTools/IpRulePage.qml:79
+#, kde-format
+msgctxt "@info: The comment attached with the ip rule"
+msgid "Comment"
+msgstr "Chú thích"
+
+#: content/ui/ModerationTools/IpRulePage.qml:80
+#: content/ui/ModerationTools/MainIpRulePage.qml:110
+#, kde-format
+msgid "Optional. Remember why you added this rule."
+msgstr "Tùy chọn. Hãy nhớ lý do bạn thêm quy tắc này."
+
+#: content/ui/ModerationTools/IpRulePage.qml:87
+#, kde-format
+msgctxt "@info:The rule attached with the ip rule"
+msgid "Rule *"
+msgstr "Quy tắc *"
+
+#: content/ui/ModerationTools/IpRulePage.qml:91
+#: content/ui/ModerationTools/MainIpRulePage.qml:121
+#, kde-format
+msgid "Choose what will happen with requests from this IP"
+msgstr "Chọn những gì sẽ xảy ra với các yêu cầu từ địa chỉ IP này"
+
+#: content/ui/ModerationTools/IpRulePage.qml:98
+#: content/ui/ModerationTools/MainIpRulePage.qml:129
+#, kde-format
+msgid "Limit sign-ups"
+msgstr "Giới hạn đăng ký"
+
+#: content/ui/ModerationTools/IpRulePage.qml:99
+#: content/ui/ModerationTools/MainIpRulePage.qml:130
+#, kde-format
+msgid "New sign-ups will require your approval"
+msgstr "Các đăng ký mới sẽ cần được bạn phê duyệt"
+
+#: content/ui/ModerationTools/IpRulePage.qml:105
+#: content/ui/ModerationTools/MainIpRulePage.qml:136
+#, kde-format
+msgid "Block sign-ups"
+msgstr "Ngưng trệ đăng ký"
+
+#: content/ui/ModerationTools/IpRulePage.qml:106
+#: content/ui/ModerationTools/MainIpRulePage.qml:137
+#, kde-format
+msgid "New sign-ups will not be possible"
+msgstr "Không thể đăng ký mới"
+
+#: content/ui/ModerationTools/IpRulePage.qml:111
+#: content/ui/ModerationTools/MainIpRulePage.qml:143
+#, kde-format
+msgid "Block access"
+msgstr "Chặn truy cập"
+
+#: content/ui/ModerationTools/IpRulePage.qml:112
+#: content/ui/ModerationTools/MainIpRulePage.qml:144
+#, kde-format
+msgid "Block access to all resources"
+msgstr "Chặn truy cập tất cả các tài nguyên"
+
+#: content/ui/ModerationTools/IpRulePage.qml:126
+#, kde-format
+msgctxt "@info:Button to create a IP rule"
+msgid "Create IP rule"
+msgstr "Tạo quy tắc IP"
+
+#: content/ui/ModerationTools/IpRulePage.qml:130
+#, kde-format
+msgid "New IP rule added"
+msgstr "Đã thêm quy tắc IP mới"
+
+#: content/ui/ModerationTools/IpRulePage.qml:156
+#: content/ui/ModerationTools/MainIpRulePage.qml:29
+#, kde-format
+msgctxt "@label"
+msgid "Limit sign-ups"
+msgstr "Giới hạn đăng ký"
+
+#: content/ui/ModerationTools/IpRulePage.qml:158
+#: content/ui/ModerationTools/MainIpRulePage.qml:31
+#, kde-format
+msgctxt "@label"
+msgid "Block sign-ups"
+msgstr "Chặn đăng ký"
+
+#: content/ui/ModerationTools/IpRulePage.qml:160
+#: content/ui/ModerationTools/MainIpRulePage.qml:33
+#, kde-format
+msgctxt "@label"
+msgid "Block access"
+msgstr "Chặn truy cập"
+
+#: content/ui/ModerationTools/IpRulePage.qml:207
+#, kde-format
+msgid "No IP rules found"
+msgstr "Không tìm thấy quy tắc IP"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:19
+#, kde-format
+msgid "Not Available"
+msgstr "Không khả dụng"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:29
+#, kde-format
+msgid "Perform moderation action on %1"
+msgstr "Thực hiện hành động điều tiết trên %1"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:35
+#, kde-format
+msgctxt ""
+"@info: Use this to send a warning to the user, without triggering any other "
+"action."
+msgid "Warn"
+msgstr "Cảnh báo"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:39
+#, kde-format
+msgctxt ""
+"@info: Prevent the user from using their account, but do not delete or hide "
+"their contents."
+msgid "Freeze"
+msgstr "Đóng băng"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:44
+#, kde-format
+msgctxt ""
+"@info: Force all this user's media attachments to be flagged as sensitive."
+msgid "Force-Senstive"
+msgstr ""
+"Buộc tất cả các tệp đính kèm phương tiện của người dùng này được đánh dấu "
+"là nhạy cảm."
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:49
+#, kde-format
+msgctxt ""
+"@info: Prevent the user from being able to post with public visibility, hide "
+"their posts and notifications from people not following them."
+msgid "Limit"
+msgstr "Giới hạn"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:54
+#, kde-format
+msgctxt ""
+"@info: Prevent any interaction from or to this account and delete its "
+"contents. Revertible within 30 days."
+msgid "Suspend"
+msgstr "Tạm ngừng"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:59
+#, kde-format
+msgctxt ""
+"@info: The user will receive an explanation of what happened with their "
+"account"
+msgid "Notify the user per e-mail"
+msgstr "Thông báo cho người dùng qua email"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:65
+#, kde-format
+msgctxt "@info: Send a warning note to the user."
+msgid "Custom warning"
+msgstr "Cảnh báo tùy chỉnh"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:76
+#, kde-format
+msgctxt "@info:Button to submit the action aginst the user."
+msgid "Submit"
+msgstr "Gửi"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:92
+#, kde-format
+msgid "Action taken successfully"
+msgstr "Hành động đã được thực hiện thành công"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:97
+#, kde-format
+msgctxt "@info:Cancel button to close the dailog."
+msgid "Cancel"
+msgstr "Huỷ"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:107
+#, kde-format
+msgid "Are you sure?"
+msgstr "Bạn có chắc không?"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:108
+#, kde-format
+msgid "Action will be taken against the account."
+msgstr "Hành động sẽ được thực hiện đối với tài khoản."
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:116
+#, kde-format
+msgid "Successfully approved %1's sign-up application"
+msgstr "Đã phê chuẩn thành công đơn đăng ký của %1"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:120
+#, kde-format
+msgid "Successfully rejected %1's sign-up application"
+msgstr "Đã từ chối thành công đơn đăng ký của %1"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:124
+#, kde-format
+msgid "Successfully unfreezed %1's account"
+msgstr "Đã mở khóa tài khoản của %1 thành công"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:128
+#, kde-format
+msgid "Successfully unsilenced %1's account"
+msgstr "Đã bỏ im lặng tài khoản của %1 thành công"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:132
+#, kde-format
+msgid "Successfully unsuspended %1's account"
+msgstr "Đã bỏ treo tài khoản của %1 thành công"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:136
+#, kde-format
+msgid "Successfully undo force-sensitive %1's account"
+msgstr "Đã đảo ngược thành công danh khoản của %1"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:140
+#, kde-format
+msgid "Successfully deleted %1's account data"
+msgstr "Đã xóa thành công dữ liệu tài khoản của %1"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:225
+#: content/ui/ModerationTools/MainReportToolPage.qml:98
+#, kde-format
+msgctxt "@info Bio label of account."
+msgid "Bio"
+msgstr "Tiểu sử"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:270
+#, kde-format
+msgid "Reasons for joining"
+msgstr "Lý do tham gia"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:316
+#, kde-format
+msgctxt "@info:Number of Posts"
+msgid "Posts"
+msgstr "Bài viết"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:320
+#, kde-format
+msgctxt "@info:Number of followers."
+msgid "Followers"
+msgstr "Người theo dõi"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:324
+#, kde-format
+msgctxt "@info:row Number of accounts followed by the account"
+msgid "Following"
+msgstr "Đang theo dõi"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:327
+#, kde-format
+msgid "No role"
+msgstr "Không có vai trò"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:328
+#, kde-format
+msgctxt "@info Role of the account on this server."
+msgid "Role"
+msgstr "Vai trò"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:332
+#, kde-format
+msgctxt "@info The last time the account was active."
+msgid "Last Active"
+msgstr "Hoạt động lần cuối"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:336
+#, kde-format
+msgctxt "@info The current login status of the account."
+msgid "Login Status"
+msgstr "Trạng thái đăng nhập"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:348
+#, kde-format
+msgctxt "@info: Role of the user."
+msgid "Role"
+msgstr "Vai trò"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:356
+#, kde-format
+msgctxt "@info: Email of the user."
+msgid "Email"
+msgstr "Thư điện tử"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:363
+#, kde-format
+msgctxt "@info: Email confirmation status of the user."
+msgid "Email Status"
+msgstr "Trạng thái thư điện tử"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:364
+#, kde-format
+msgid "Confirmed"
+msgstr "Đã xác nhận"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:364
+#, kde-format
+msgid "Not Confirmed"
+msgstr "Chưa xác nhận"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:371
+#, kde-format
+msgctxt "@info: Locale of the user."
+msgid "Account Locale"
+msgstr "Địa phương của tài khoản"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:379
+#, kde-format
+msgctxt "@info: Joining date of the user"
+msgid "Joined"
+msgstr "Đã tham gia"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:387
+#, kde-format
+msgid "Most recent IP"
+msgstr "Địa chỉ IP gần đây nhất"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:415
+#, kde-format
+msgid "Invited By"
+msgstr "Được mời bởi"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:437
+#, kde-format
+msgctxt "@info: Approve the user's request"
+msgid "Approve"
+msgstr "Chấp thuận"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:449
+#, kde-format
+msgctxt "@info: Reject the user's request"
+msgid "Reject"
+msgstr "Từ chối"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:460
+#, kde-format
+msgid "Delete Account Data"
+msgstr "Xóa Dữ Liệu Tài Khoản"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:472
+#, kde-format
+msgctxt "@info: Unfreeze the user's account"
+msgid "Unfreeze"
+msgstr "Bỏ đóng băng"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:482
+#, kde-format
+msgid "Undo Limit"
+msgstr "Giới hạn đảo ngược"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:492
+#, kde-format
+msgid "Undo Suspension"
+msgstr "Đảo ngược Treo"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:502
+#, kde-format
+msgid "Undo force-sensitive"
+msgstr "Đảo ngược nhạy cảm"
+
+#: content/ui/ModerationTools/MainAccountToolPage.qml:513
+#, kde-format
+msgid "Take action against this account"
+msgstr "Thực hiện hành động đối với tài khoản này"
+
+#: content/ui/ModerationTools/MainFederationToolPage.qml:29
+#, kde-format
+msgid "Remove Domain Block"
+msgstr "Xoá Ngưng Trệ Miền"
+
+#: content/ui/ModerationTools/MainFederationToolPage.qml:32
+#, kde-format
+msgid "Domain Block Removed"
+msgstr "Miền đã được bỏ ngưng trệ"
+
+#: content/ui/ModerationTools/MainFederationToolPage.qml:40
+#, kde-format
+msgid "Edit domain block"
+msgstr "Sửa miền ngưng trệ"
+
+#: content/ui/ModerationTools/MainFederationToolPage.qml:80
+#: content/ui/ModerationTools/MainFederationToolPage.qml:146
+#, kde-format
+msgid "Private comment"
+msgstr "chú thích"
+
+#: content/ui/ModerationTools/MainFederationToolPage.qml:115
+#, kde-format
+msgctxt "@info:Button to update the domain block with new values"
+msgid "Update Block"
+msgstr "Cập nhật Ngưng trệ"
+
+#: content/ui/ModerationTools/MainFederationToolPage.qml:122
+#, kde-format
+msgid "Domain block updated"
+msgstr "Miền đã được ngưng trệ"
+
+#: content/ui/ModerationTools/MainFederationToolPage.qml:132
+#: content/ui/ModerationTools/MainIpRulePage.qml:175
+#, kde-format
+msgid "Blocked at"
+msgstr "Bị chặn tại"
+
+#: content/ui/ModerationTools/MainFederationToolPage.qml:140
+#, kde-format
+msgctxt "@info: No public comment provided"
+msgid "None"
+msgstr "Không có"
+
+#: content/ui/ModerationTools/MainFederationToolPage.qml:147
+#, kde-format
+msgctxt "@info: No private comment provided"
+msgid "None"
+msgstr "Không có"
+
+#: content/ui/ModerationTools/MainFederationToolPage.qml:153
+#, kde-format
+msgctxt "@info:The policy to be applied by this domain block"
+msgid "Policy"
+msgstr "Chính sách"
+
+#: content/ui/ModerationTools/MainFederationToolPage.qml:160
+#, kde-format
+msgctxt "@info:Whether to obfuscate public displays of this domain block"
+msgid "Obfuscate"
+msgstr "Làm mờ"
+
+#: content/ui/ModerationTools/MainFederationToolPage.qml:167
+#, kde-format
+msgctxt "@info:Whether to reject incoming media from this domain"
+msgid "Reject media"
+msgstr "Từ chối phương tiện"
+
+#: content/ui/ModerationTools/MainFederationToolPage.qml:174
+#, kde-format
+msgctxt "@info:Whether to reject incoming reports from this domain"
+msgid "Reject reports"
+msgstr "Từ chối báo cáo"
+
+#: content/ui/ModerationTools/MainFederationToolPage.qml:185
+#, kde-format
+msgid "Edit Domain Block"
+msgstr "Sửa Miền Ngưng Trệ"
+
+#: content/ui/ModerationTools/MainIpRulePage.qml:40
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Remove IP Rule"
+msgstr "Xoá Quy Tắc IP"
+
+#: content/ui/ModerationTools/MainIpRulePage.qml:43
+#, kde-format
+msgid "IP Rule Removed"
+msgstr "Đã xóa quy tắc IP"
+
+#: content/ui/ModerationTools/MainIpRulePage.qml:51
+#, kde-format
+msgctxt "@title:window"
+msgid "Update IP Rule"
+msgstr "Cập nhật Quy tắc IP"
+
+#: content/ui/ModerationTools/MainIpRulePage.qml:63
+#, kde-format
+msgctxt "@info IP address of the ip block"
+msgid "IP"
+msgstr "IP"
+
+#: content/ui/ModerationTools/MainIpRulePage.qml:72
+#, kde-format
+msgctxt "@info Time after which the rule will be lifted"
+msgid "Expire After"
+msgstr "Hết hạn sau"
+
+#: content/ui/ModerationTools/MainIpRulePage.qml:77
+#, kde-format
+msgctxt "@info Option to block out the IP for 1 day"
+msgid "1 day"
+msgstr "1 ngày"
+
+#: content/ui/ModerationTools/MainIpRulePage.qml:81
+#, kde-format
+msgctxt "@info Option to block out the IP for 2 weeks"
+msgid "2 weeks"
+msgstr "2 tuần"
+
+#: content/ui/ModerationTools/MainIpRulePage.qml:85
+#, kde-format
+msgctxt "@info Option to block out the IP for 1 month"
+msgid "1 month"
+msgstr "1 tháng"
+
+#: content/ui/ModerationTools/MainIpRulePage.qml:89
+#, kde-format
+msgctxt "@info Option to block out the IP for 6 months"
+msgid "6 month"
+msgstr "6 tháng"
+
+#: content/ui/ModerationTools/MainIpRulePage.qml:93
+#, kde-format
+msgctxt "@info Option to block out the IP for 1 year"
+msgid "1 year"
+msgstr "1 năm"
+
+#: content/ui/ModerationTools/MainIpRulePage.qml:97
+#, kde-format
+msgctxt "@info Option to block out the IP for 3 years"
+msgid "3 year"
+msgstr "3 năm"
+
+#: content/ui/ModerationTools/MainIpRulePage.qml:108
+#: content/ui/ModerationTools/MainIpRulePage.qml:189
+#, kde-format
+msgctxt "@info The comment attached with the ip rule"
+msgid "Comment"
+msgstr "Chú thích"
+
+#: content/ui/ModerationTools/MainIpRulePage.qml:117
+#, kde-format
+msgctxt "@info The rule attached with the ip rule"
+msgid "Rule *"
+msgstr "Quy tắc *"
+
+#: content/ui/ModerationTools/MainIpRulePage.qml:154
+#, kde-format
+msgctxt "@info Cancel button to close the dailog"
+msgid "Cancel"
+msgstr "Huỷ"
+
+#: content/ui/ModerationTools/MainIpRulePage.qml:159
+#, kde-format
+msgctxt "@info Button to update an IP rule"
+msgid "Update IP rule"
+msgstr "Cập nhật quy tắc IP"
+
+#: content/ui/ModerationTools/MainIpRulePage.qml:164
+#, kde-format
+msgid "IP rule updated"
+msgstr "Quy tắc IP đã được cập nhật"
+
+#: content/ui/ModerationTools/MainIpRulePage.qml:182
+#, kde-format
+msgctxt "@info Time after which the rule will be lifted"
+msgid "Expires at"
+msgstr "Hết hạn vào"
+
+#: content/ui/ModerationTools/MainIpRulePage.qml:190
+#, kde-format
+msgctxt "@info No public comment provided"
+msgid "None"
+msgstr "Không có bình luận công khai nào được cung cấp"
+
+#: content/ui/ModerationTools/MainIpRulePage.qml:196
+#, kde-format
+msgctxt "@info The severity to be applied by this IP rule"
+msgid "Severity"
+msgstr "Mức độ nghiêm trọng"
+
+#: content/ui/ModerationTools/MainIpRulePage.qml:207
+#, kde-format
+msgctxt "@action:button"
+msgid "Update IP Rule"
+msgstr "Cập nhật Quy tắc IP"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:46
+#, kde-format
+msgid "Report #%1"
+msgstr "Báo cáo #%1"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:50
+#, kde-format
+msgid "Mark as unresolved"
+msgstr "Đánh dấu là chưa được giải quyết"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:50
+#, kde-format
+msgid "Mark as resolved"
+msgstr "Đánh dấu là đã giải quyết"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:54
+#, kde-format
+msgid "Report Unresolved"
+msgstr "Báo chưa giải quyết"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:57
+#, kde-format
+msgid "Report Resolved"
+msgstr "Báo đã được giải quyết"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:148
+#, kde-format
+msgctxt "@info Number of Posts"
+msgid "Posts"
+msgstr "Bài viết"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:152
+#, kde-format
+msgctxt "@info Number of followers."
+msgid "Followers"
+msgstr "Người theo dõi"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:156
+#, kde-format
+msgctxt "@info Row Number of accounts followed by the account"
+msgid "Following"
+msgstr "Đang theo dõi"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:160
+#, kde-format
+msgctxt "@info Time at which the reported account joined."
+msgid "Joined"
+msgstr "Đã tham gia"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:164
+#, kde-format
+msgctxt "@info The last time the reported account was active."
+msgid "Last Active"
+msgstr "Hoạt động gần đây"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:168
+#, kde-format
+msgctxt "@info The current login status of the account."
+msgid "Reported"
+msgstr "Đã báo cáo"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:180
+#, kde-format
+msgctxt "@info Time at which the report was made"
+msgid "Reported"
+msgstr "Đã báo cáo"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:188
+#, kde-format
+msgid "Reported By"
+msgstr "Được báo cáo bởi"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:203
+#, kde-format
+msgid "Report Status"
+msgstr "Trạng thái báo cáo"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:204
+#, kde-format
+msgid "Resolved"
+msgstr "Đã giải quyết"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:204
+#, kde-format
+msgid "Unresolved"
+msgstr "Chưa giải quyết"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:211
+#, kde-format
+msgid "Action taken by"
+msgstr "Hành động được thực hiện bởi"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:224
+#, kde-format
+msgid "Assigned moderator"
+msgstr "Người điều hành được chỉ định"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:225
+#: editor/listeditorbackend.cpp:109
+#, kde-format
+msgid "No one"
+msgstr "Không ai"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:233
+#, kde-format
+msgid "Unassign"
+msgstr "Bỏ giao"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:233
+#, kde-format
+msgid "Assign to me"
+msgstr "Giao cho tôi"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:243
+#, kde-format
+msgid "Forwarded"
+msgstr "Đã chuyển tiếp"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:244
+#, kde-format
+msgctxt "@info:The report is forwarded"
+msgid "Yes"
+msgstr "Có"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:244
+#, kde-format
+msgctxt "@info:The report is not forwarded"
+msgid "No"
+msgstr "Không"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:253
+#, kde-format
+msgid "Category"
+msgstr "Loại"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:257
+#, kde-format
+msgid ""
+"The reason this account and/or content was reported will be cited in "
+"communication with the reported account"
+msgstr ""
+"Lý do tài khoản và/hoặc nội dung này bị báo cáo sẽ được trích dẫn trong "
+"liên lạc với tài khoản bị báo cáo"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:269
+#, kde-format
+msgid "Other"
+msgstr "Khác"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:274
+#, kde-format
+msgid "Category changed to other"
+msgstr "Loại đã được thay đổi thành khác"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:285
+#, kde-format
+msgid "Spam"
+msgstr "Spam"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:289
+#, kde-format
+msgid "Category changed to spam"
+msgstr "Loại đã được thay đổi thành spam"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:300
+#, kde-format
+msgid "Content violates one or more server rules"
+msgstr "Nội dung vi phạm một hoặc nhiều quy tắc của máy chủ"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:304
+#, kde-format
+msgid "Category changed to rule violation"
+msgstr "Loại đã được thay đổi thành vi phạm quy tắc"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:347
+#, kde-format
+msgid "To provide more information, %1 wrote:"
+msgstr "Để cung cấp thêm thông tin, %1 đã viết:"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:356
+#, kde-format
+msgctxt "@info:Account didn't provide any comment on the report "
+msgid "N/A"
+msgstr "Không có"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:372
+#, kde-format
+msgid "Reported Content"
+msgstr "Nội dung đã báo cáo"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:376
+#, kde-format
+msgid ""
+"Offending content will be cited in communication with the reported account"
+msgstr ""
+"Nội dung vi phạm sẽ được trích dẫn trong liên lạc với tài khoản được báo "
+"cáo"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:407
+#: content/ui/PostDelegate/PostDelegate.qml:311
+#, kde-format
+msgid "<b>Content Warning</b><br /> %1"
+msgstr "<b>Cảnh báo nội dung</b><br /> %1"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:413
+#: content/ui/PostDelegate/PostDelegate.qml:318
+#, kde-format
+msgid "Show Less"
+msgstr "Hiện ít hơn"
+
+#: content/ui/ModerationTools/MainReportToolPage.qml:413
+#: content/ui/PostDelegate/PostDelegate.qml:318
+#, kde-format
+msgid "Show More"
+msgstr "Hiện thêm"
+
+#: content/ui/ModerationTools/ModerationToolsView.qml:14
+#, kde-format
+msgctxt "@title"
+msgid "Accounts"
+msgstr "Tài khoản"
+
+#: content/ui/ModerationTools/ModerationToolsView.qml:20
+#, kde-format
+msgid "Reports"
+msgstr "Báo cáo"
+
+#: content/ui/ModerationTools/ModerationToolsView.qml:26
+#, kde-format
+msgctxt "@title"
+msgid "Federation"
+msgstr "Liên minh"
+
+#: content/ui/ModerationTools/ModerationToolsView.qml:32
+#, kde-format
+msgctxt "@title"
+msgid "IP Rules"
+msgstr "Quy tắc IP"
+
+#: content/ui/ModerationTools/ModerationToolsView.qml:38
+#, kde-format
+msgctxt "@title"
+msgid "Email Blocks"
+msgstr "Chặn Email"
+
+#: content/ui/ModerationTools/ReportToolPage.qml:15
+#, kde-format
+msgid "Accounts Tool Page"
+msgstr "Trang Công cụ Tài khoản"
+
+#: content/ui/ModerationTools/ReportToolPage.qml:33
+#, kde-format
+msgctxt "@info:Combobox to choose Report Status"
+msgid "Report Status"
+msgstr "Trạng thái báo cáo"
+
+#: content/ui/ModerationTools/ReportToolPage.qml:45
+#, kde-format
+msgctxt "@info:Filter out unresolved reports"
+msgid "Unresolved"
+msgstr "Chưa giải quyết"
+
+#: content/ui/ModerationTools/ReportToolPage.qml:49
+#, kde-format
+msgctxt "@info:Filter out resolved reports"
+msgid "Resolved"
+msgstr "Đã giải quyết"
+
+#: content/ui/ModerationTools/ReportToolPage.qml:63
+#, kde-format
+msgctxt "@info:Combobox to choose the origin of report"
+msgid "Report Origin"
+msgstr "Nguồn báo cáo"
+
+#: content/ui/ModerationTools/ReportToolPage.qml:76
+#, kde-format
+msgctxt "@info:Filter out accounts with any origin"
+msgid "All"
+msgstr "Tất cả"
+
+#: content/ui/ModerationTools/ReportToolPage.qml:80
+#, kde-format
+msgctxt "@info:Filter out accounts with local origin"
+msgid "Local"
+msgstr "Địa phương"
+
+#: content/ui/ModerationTools/ReportToolPage.qml:84
+#, kde-format
+msgctxt "@info:Filter out accounts with remote origin"
+msgid "Remote"
+msgstr "Ở xa"
+
+#: content/ui/ModerationTools/ReportToolPage.qml:155
+#, kde-format
+msgid "Reported By:"
+msgstr "Được báo cáo bởi:"
+
+#: content/ui/ModerationTools/ReportToolPage.qml:240
+#, kde-format
+msgid "Assigned Account:"
+msgstr "Tài khoản được giao:"
+
+#: content/ui/ModerationTools/ReportToolPage.qml:265
+#, kde-format
+msgctxt "@info: No account assigned to the report"
+msgid "N/A"
+msgstr "Không có tài khoản nào được gán cho báo cáo"
+
+#: content/ui/ModerationTools/ReportToolPage.qml:296
+#, kde-format
+msgid "No reports found"
+msgstr "Không tìm thấy báo cáo"
+
+#: content/ui/NotificationPage.qml:32
+#, kde-format
+msgctxt "Show all notifications"
+msgid "All"
+msgstr "Tất cả"
+
+#: content/ui/NotificationPage.qml:43
+#, kde-format
+msgctxt "Show only mentions"
+msgid "Mentions"
+msgstr "Nhắc đến"
+
+#: content/ui/NotificationPage.qml:53
+#, kde-format
+msgctxt "Show only boosts"
+msgid "Boosts"
+msgstr "Tăng cường"
+
+#: content/ui/NotificationPage.qml:63
+#, kde-format
+msgctxt "Show only favorites"
+msgid "Favorites"
+msgstr "Yêu thích"
+
+#: content/ui/NotificationPage.qml:73
+#, kde-format
+msgctxt "Show only poll results"
+msgid "Poll Results"
+msgstr "Kết quả thăm dò"
+
+#: content/ui/NotificationPage.qml:83
+#, kde-format
+msgctxt "Show only followed statuses"
+msgid "Posts"
+msgstr "Bài đăng"
+
+#: content/ui/NotificationPage.qml:93
+#, kde-format
+msgctxt "Show only follows"
+msgid "Follows"
+msgstr "Theo dõi"
+
+#: content/ui/NotificationPage.qml:216
+#, kde-format
+msgid "No Notifications"
+msgstr "Không có thông báo"
+
+#: content/ui/Notifications/GroupInteractionLabel.qml:60
+#, kde-format
+msgid "View %1's Profile"
+msgstr "Xem hồ sơ của %1"
+
+#: content/ui/Notifications/GroupInteractionLabel.qml:69
+#, kde-format
+msgid "%1 users favorited your post"
+msgstr "%1 người dùng đã thích bài đăng của bạn"
+
+#: content/ui/Notifications/GroupInteractionLabel.qml:71
+#, kde-format
+msgid "%1 users boosted your post"
+msgstr "%1 người đã tăng cường bài đăng của bạn"
+
+#: content/ui/Notifications/UserInteractionLabel.qml:78
+#, kde-format
+msgid "%1 replied to your post"
+msgstr "%1 đã hồi đáp bài đăng của bạn"
+
+#: content/ui/Notifications/UserInteractionLabel.qml:82
+#, kde-format
+msgid "A poll has ended"
+msgstr "Một cuộc thăm dò đã kết thúc"
+
+#: content/ui/Notifications/UserInteractionLabel.qml:84
+#, kde-format
+msgid "%1 updated their post"
+msgstr "%1 đã cập nhật bài đăng của họ"
+
+#: content/ui/PostDelegate/AttachmentGrid.qml:75
+#, kde-format
+msgid "Status with image attachment"
+msgstr "Trạng thái với tệp đính kèm ảnh"
+
+#: content/ui/PostDelegate/AttachmentGrid.qml:77
+#, kde-format
+msgid "Status with GifV attachment"
+msgstr "Trạng thái với tệp đính kèm GifV"
+
+#: content/ui/PostDelegate/AttachmentGrid.qml:79
+#, kde-format
+msgid "Status with Video attachment"
+msgstr "Trạng thái với phần hình đính kèm"
+
+#: content/ui/PostDelegate/AttachmentGrid.qml:168
+#, kde-format
+msgid "Not available"
+msgstr "Không khả dụng"
+
+#: content/ui/PostDelegate/AttachmentGrid.qml:296
+#, kde-format
+msgctxt "@action:button"
+msgid "Hide Media"
+msgstr "Ẩn Phương Tiện"
+
+#: content/ui/PostDelegate/AttachmentGrid.qml:300
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Hide media"
+msgstr "Ẩn phương tiện"
+
+#: content/ui/PostDelegate/AttachmentGrid.qml:311
+#, kde-format
+msgid "Media Hidden"
+msgstr "Phương tiện Ẩn"
+
+#: content/ui/PostDelegate/AttachmentMenu.qml:47
+#, kde-format
+msgid "Save Image As…"
+msgstr "Lưu ảnh dưới tên..."
+
+#: content/ui/PostDelegate/AttachmentMenu.qml:49
+#, kde-format
+msgid "Save Gif As…"
+msgstr "Lưu Gif Dưới Dạng..."
+
+#: content/ui/PostDelegate/AttachmentMenu.qml:51
+#, kde-format
+msgid "Save Video As…"
+msgstr "Lưu Video Dưới Dạng..."
+
+#: content/ui/PostDelegate/AttachmentMenu.qml:69
+#, kde-format
+msgid "Copy Image"
+msgstr "Sao chép ảnh"
+
+#: content/ui/PostDelegate/InformationBar.qml:26
+#, kde-format
+msgctxt "Posted on 26 March 2024 Tuesday 20:43:18 +03"
+msgid "Posted on %1"
+msgstr "Đăng vào %1"
+
+#: content/ui/PostDelegate/InformationBar.qml:33
+#, kde-format
+msgctxt "%1 is the Mastodon application name used for posting"
+msgid ", via %1"
+msgstr ", thông qua %1"
+
+#: content/ui/PostDelegate/InformationBar.qml:79
+#: content/ui/PostDelegate/InformationBar.qml:87
+#: content/ui/PostDelegate/PostInfoBar.qml:80
+#: content/ui/PostDelegate/PostInfoBar.qml:88
+#, kde-format
+msgid "Public"
+msgstr "Công khai"
+
+#: content/ui/PostDelegate/InformationBar.qml:81
+#: content/ui/PostDelegate/PostInfoBar.qml:82
+#, kde-format
+msgid "Unlisted"
+msgstr "Không liệt kê"
+
+#: content/ui/PostDelegate/InformationBar.qml:83
+#: content/ui/PostDelegate/PostInfoBar.qml:84
+#, kde-format
+msgid "Private"
+msgstr "Riêng tư"
+
+#: content/ui/PostDelegate/InformationBar.qml:85
+#: content/ui/PostDelegate/PostInfoBar.qml:86
+#, kde-format
+msgid "Direct Message"
+msgstr "Tin nhắn trực tiếp"
+
+#: content/ui/PostDelegate/InformationBar.qml:106
+#, kde-format
+msgid "No favorites"
+msgstr "Không có mục yêu thích"
+
+#: content/ui/PostDelegate/InformationBar.qml:108
+#, kde-format
+msgid "%1 favorite"
+msgid_plural "%1 favorites"
+msgstr[0] "%1 lượt thích"
+
+#: content/ui/PostDelegate/InformationBar.qml:132
+#, kde-format
+msgid "No boosts"
+msgstr "Không có tăng cường"
+
+#: content/ui/PostDelegate/InformationBar.qml:134
+#, kde-format
+msgid "%1 boost"
+msgid_plural "%1 boosts"
+msgstr[0] "%1 tăng cường"
+
+#: content/ui/PostDelegate/LinkPreview.qml:18
+#, kde-format
+msgid "Link preview: %1"
+msgstr "Xem trước liên kết: %1"
+
+#: content/ui/PostDelegate/MediaContainer.qml:105
+#, kde-format
+msgctxt "Attachment has alt-text, Short for alt-text"
+msgid "Alt"
+msgstr "Văn bản thay thế"
+
+#: content/ui/PostDelegate/MediaContainer.qml:111
+#, kde-format
+msgid "Text description available"
+msgstr "Có mô tả văn bản"
+
+#: content/ui/PostDelegate/MediaContainer.qml:119
+#, kde-format
+msgid "GIF"
+msgstr "GIF"
+
+#: content/ui/PostDelegate/MediaContainer.qml:128
+#, kde-format
+msgid "Video"
+msgstr "phim"
+
+#: content/ui/PostDelegate/PostDelegate.qml:95
+#, kde-format
+msgid "Normal Status"
+msgstr "Trạng thái bình thường"
+
+#: content/ui/PostDelegate/PostDelegate.qml:95
+#, kde-format
+msgid "Spoiler Status"
+msgstr "Trạng thái Spoiler"
+
+#: content/ui/PostDelegate/PostDelegate.qml:141
+#, kde-format
+msgid "Filtered: %1"
+msgstr "Đã lọc: %1"
+
+#: content/ui/PostDelegate/PostDelegate.qml:145
+#, kde-format
+msgid "Show anyway"
+msgstr "Hiển thị dù sao"
+
+#: content/ui/PostDelegate/PostDelegate.qml:166
+#, kde-format
+msgctxt "@label"
+msgid "Pinned Post"
+msgstr "Bài đăng được ghim"
+
+#: content/ui/PostDelegate/PostDelegate.qml:228
+#, kde-format
+msgctxt "@title"
+msgid "Delete Post"
+msgstr "Xóa bài đăng"
+
+#: content/ui/PostDelegate/PostDelegate.qml:229
+#, kde-format
+msgctxt "@label"
+msgid "Are you sure you want to delete this post?"
+msgstr "Bạn có chắc chắn muốn xóa bài đăng này không?"
+
+#: content/ui/PostDelegate/PostDelegate.qml:244
+#, kde-format
+msgctxt "@title"
+msgid "Delete & Re-draft Post"
+msgstr "Xóa và soạn lại bài đăng"
+
+#: content/ui/PostDelegate/PostDelegate.qml:245
+#, kde-format
+msgctxt "@label"
+msgid ""
+"Are you sure you want to redraft this post? This will delete the original "
+"post."
+msgstr ""
+"Bạn có chắc chắn muốn soạn lại bài đăng này không? Điều này sẽ xóa bài đăng "
+"gốc."
+
+#: content/ui/PostDelegate/PostDelegate.qml:422
+#, kde-format
+msgctxt "Reply to a post"
+msgid "Reply"
+msgstr "hồi đáp"
+
+#: content/ui/PostDelegate/PostDelegate.qml:449
+#, kde-format
+msgid "Cannot boost direct messages"
+msgstr "Không thể tăng cường tin nhắn trực tiếp"
+
+#: content/ui/PostDelegate/PostDelegate.qml:451
+#, kde-format
+msgid "Cannot boost private posts"
+msgstr "Không thể tăng cường bài viết riêng tư"
+
+#: content/ui/PostDelegate/PostDelegate.qml:453
+#, kde-format
+msgctxt "Share a post"
+msgid "Boost"
+msgstr "Tăng cường"
+
+#: content/ui/PostDelegate/PostDelegate.qml:458
+#, kde-format
+msgid "Boosted"
+msgstr "Được tăng cường"
+
+#: content/ui/PostDelegate/PostDelegate.qml:458
+#, kde-format
+msgid "Boost"
+msgstr "Tăng cường"
+
+#: content/ui/PostDelegate/PostDelegate.qml:478
+#, kde-format
+msgctxt "Favorite a post"
+msgid "Favorite"
+msgstr "Yêu thích"
+
+#: content/ui/PostDelegate/PostDelegate.qml:481
+#, kde-format
+msgid "Favourited"
+msgstr "Đã thích"
+
+#: content/ui/PostDelegate/PostDelegate.qml:481
+#, kde-format
+msgid "Favourite"
+msgstr "Yêu thích"
+
+#: content/ui/PostDelegate/PostDelegate.qml:500
+#, kde-format
+msgid "Remove bookmark"
+msgstr "Xoá dấu nhớ"
+
+#: content/ui/PostDelegate/PostDelegate.qml:500
+#, kde-format
+msgctxt "Bookmark a post"
+msgid "Bookmark"
+msgstr "Dấu nhớ"
+
+#: content/ui/PostDelegate/PostDelegate.qml:503
+#, kde-format
+msgid "Bookmarked"
+msgstr "Lưu dấu"
+
+#: content/ui/PostDelegate/PostDelegate.qml:503
+#, kde-format
+msgid "Bookmark"
+msgstr "Dấu nhớ"
+
+#: content/ui/PostDelegate/PostDelegate.qml:526
+#, kde-format
+msgid ""
+"This post has been marked private. Some posts may be missing because it's "
+"replies are marked as private by default."
+msgstr ""
+"Bài đăng này đã được đánh dấu là riêng tư. Một số bài đăng có thể bị thiếu "
+"vì các hồi đáp của chúng được đánh dấu là riêng tư theo mặc định."
+
+#: content/ui/PostDelegate/PostInfoBar.qml:101
+#, kde-format
+msgctxt "Show more options"
+msgid "More actions"
+msgstr "Thêm hành động"
+
+#: content/ui/PostDelegate/PostMenu.qml:36
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Expand Post"
+msgstr "Mở rộng bài đăng"
+
+#: content/ui/PostDelegate/PostMenu.qml:44
+#, kde-format
+msgid "Open Original Page"
+msgstr "Mở trang gốc"
+
+#: content/ui/PostDelegate/PostMenu.qml:52
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Copy Link"
+msgstr "Sao chép Liên kết"
+
+#: content/ui/PostDelegate/PostMenu.qml:55
+#, kde-format
+msgid "Post link copied."
+msgstr "Đã sao chép liên kết bài đăng."
+
+#: content/ui/PostDelegate/PostMenu.qml:63
+#, kde-format
+msgctxt "@action Open embed into website dialog"
+msgid "Embed"
+msgstr "Nhúng"
+
+#: content/ui/PostDelegate/PostMenu.qml:78
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open as…"
+msgstr "Mở bằng..."
+
+#: content/ui/PostDelegate/PostMenu.qml:86
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Reply as…"
+msgstr "Hồi đáp như..."
+
+#: content/ui/PostDelegate/PostMenu.qml:94
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Favorite as…"
+msgstr "Đánh dấu yêu thích là..."
+
+#: content/ui/PostDelegate/PostMenu.qml:102
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Boost as…"
+msgstr "Tăng cường như..."
+
+#: content/ui/PostDelegate/PostMenu.qml:110
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Bookmark as…"
+msgstr "Đánh dấu như..."
+
+#: content/ui/PostDelegate/PostMenu.qml:118
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Remove Bookmark"
+msgstr "Xoá Dấu Nhớ"
+
+#: content/ui/PostDelegate/PostMenu.qml:118
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Bookmark"
+msgstr "Dấu nhớ"
+
+#: content/ui/PostDelegate/PostMenu.qml:126
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Unpin on Profile"
+msgstr "Bỏ ghim trên Hồ sơ"
+
+#: content/ui/PostDelegate/PostMenu.qml:126
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Pin on Profile"
+msgstr "Ghim vào Hồ sơ"
+
+#: content/ui/PostDelegate/PostMenu.qml:140
+#, kde-format
+msgctxt "@action:inmenu Unmute account"
+msgid "Unmute @%1"
+msgstr "Bỏ tắt tiếng tài khoản @%1"
+
+#: content/ui/PostDelegate/PostMenu.qml:142
+#, kde-format
+msgctxt "@action:inmenu Mute account"
+msgid "Mute @%1"
+msgstr "Tắt tiếng tài khoản @%1"
+
+#: content/ui/PostDelegate/PostMenu.qml:160
+#, kde-format
+msgctxt "@action:inmenu Unblock account"
+msgid "Unblock @%1"
+msgstr "Bỏ chặn tài khoản @%1"
+
+#: content/ui/PostDelegate/PostMenu.qml:162
+#, kde-format
+msgctxt "@action:inmenu Block account"
+msgid "Block @%1"
+msgstr "Chặn @%1"
+
+#: content/ui/PostDelegate/PostMenu.qml:188
+#: content/ui/StatusComposer/EditorAttachmentGrid.qml:59
+#, kde-format
+msgid "Edit"
+msgstr "Sửa"
+
+#: content/ui/PostDelegate/PostMenu.qml:196
+#: content/ui/Settings/ProfileEditor.qml:177
+#: content/ui/Settings/ProfileEditor.qml:239
+#, kde-format
+msgid "Delete"
+msgstr "Xóa"
+
+#: content/ui/PostDelegate/PostMenu.qml:204
+#, kde-format
+msgid "Delete & Re-draft"
+msgstr "Xóa và soạn lại"
+
+#: content/ui/PostDelegate/PostPoll.qml:39
+#, kde-format
+msgctxt "Votes percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: content/ui/PostDelegate/PostPoll.qml:63
+#, kde-format
+msgid "(No votes)"
+msgstr "(Không có phiếu bầu)"
+
+#: content/ui/PostDelegate/PostPoll.qml:97
+#, kde-format
+msgid "Vote"
+msgstr "Bỏ phiếu"
+
+#: content/ui/PostDelegate/QuotePost.qml:64
+#, kde-format
+msgid "Post from %1"
+msgstr "Bài đăng từ %1"
+
+#: content/ui/PostDelegate/QuotePost.qml:83
+#, kde-format
+msgid "Quoted post"
+msgstr "Bài đăng được trích dẫn"
+
+#: content/ui/PostDelegate/UserInteractionLabel.qml:71
+#, kde-format
+msgid "%1 boosted"
+msgstr "%1 đã được tăng cường"
+
+#: content/ui/PostDelegate/UserInteractionLabel.qml:73
+#, kde-format
+msgid "In reply to %1"
+msgstr "Hồi đáp %1"
+
+#: content/ui/PostDelegate/VideoAttachment.qml:96
+#, kde-format
+msgctxt "@action:button Start media playback"
+msgid "Play"
+msgstr "Phát"
+
+#: content/ui/ReportDialog.qml:22
+#, kde-format
+msgctxt "@title"
+msgid "Report Post"
+msgstr "Báo cáo bài đăng"
+
+#: content/ui/ReportDialog.qml:22
+#, kde-format
+msgctxt "@title"
+msgid "Report User"
+msgstr "Báo cáo người dùng"
+
+#: content/ui/ReportDialog.qml:40
+#, kde-format
+msgctxt "@title"
+msgid "Reason for reporting this post"
+msgstr "Lý do báo cáo bài đăng này"
+
+#: content/ui/ReportDialog.qml:40
+#, kde-format
+msgctxt "@title"
+msgid "Reason for reporting this user"
+msgstr "Lý do báo cáo người dùng này"
+
+#: content/ui/ReportDialog.qml:55
+#, kde-format
+msgctxt "@action:button 'Report' as in 'Report this to moderators'"
+msgid "Report"
+msgstr "báo"
+
+#: content/ui/ReportDialog.qml:64
+#, kde-format
+msgctxt "@action"
+msgid "Cancel"
+msgstr "Huỷ"
+
+#: content/ui/SearchDelegate.qml:100 content/ui/SearchView.qml:147
+#, kde-format
+msgid "Hashtag"
+msgstr "Hashtag"
+
+#: content/ui/SearchPage.qml:16
+#, kde-format
+msgctxt "@title"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: content/ui/SearchView.qml:38
+#, kde-format
+msgid "Loading..."
+msgstr "Đang tải..."
+
+#: content/ui/SearchView.qml:46
+#, kde-format
+msgid "No search results"
+msgstr "Không có kết quả tìm kiếm"
+
+#: content/ui/SearchView.qml:54
+#, kde-format
+msgid "Search for users, tags and posts"
+msgstr "Tìm kiếm người dùng, thẻ và bài đăng"
+
+#: content/ui/Settings/AccountsPage.qml:85
+#: content/ui/UserInfo.qml:132
+#, kde-format
+msgid "Add Account"
+msgstr "Thêm tài khoản"
+
+#: content/ui/Settings/AppearancePage.qml:17
+#, kde-format
+msgctxt "@title:group"
+msgid "General"
+msgstr "chung"
+
+#: content/ui/Settings/AppearancePage.qml:24
+#, kde-format
+msgid "Color theme"
+msgstr "Chủ đề màu"
+
+#: content/ui/Settings/AppearancePage.qml:43
+#, kde-format
+msgid "Pop out the post composer by default"
+msgstr "Mặc định hiện ra trình soạn bài đăng"
+
+#: content/ui/Settings/AppearancePage.qml:55
+#, kde-format
+msgctxt "@title:group"
+msgid "Posts"
+msgstr "Bài viết"
+
+#: content/ui/Settings/AppearancePage.qml:61
+#, kde-format
+msgid "Show number of replies, favorites and boosts"
+msgstr "Hiển thị số lượng trả lời, yêu thích và tăng cường"
+
+#: content/ui/Settings/AppearancePage.qml:76
+#, kde-format
+msgid "Show link previews"
+msgstr "Hiển thị xem thử liên kết"
+
+#: content/ui/Settings/AppearancePage.qml:91
+#, kde-format
+msgid "Content font"
+msgstr "Phông chữ nội dung"
+
+#: content/ui/Settings/AppearancePage.qml:97
+#, kde-format
+msgid "Please choose a font"
+msgstr "Vui lòng chọn một phông chữ"
+
+#: content/ui/Settings/AppearancePage.qml:108
+#, kde-format
+msgctxt "@title:group"
+msgid "Media"
+msgstr "Phương tiện"
+
+#: content/ui/Settings/AppearancePage.qml:114
+#, kde-format
+msgid "Crop images on the timeline to 16x9"
+msgstr "Xén cạnh hình ảnh trên dòng thời gian thành 16x9"
+
+#: content/ui/Settings/AppearancePage.qml:128
+#, kde-format
+msgid "Auto-play animated GIFs"
+msgstr "Tự động phát GIF hoạt hình"
+
+#: content/ui/Settings/NetworkProxyPage.qml:15
+#, kde-format
+msgctxt "@title:window"
+msgid "Network Proxy"
+msgstr "Uỷ nhiệm mạng"
+
+#: content/ui/Settings/NetworkProxyPage.qml:24
+#, kde-format
+msgid "System Default"
+msgstr "Mặc định hệ thống"
+
+#: content/ui/Settings/NetworkProxyPage.qml:36
+#, kde-format
+msgid "No Proxy"
+msgstr "Không có uỷ nhiệm"
+
+#: content/ui/Settings/NetworkProxyPage.qml:48
+#, kde-format
+msgid "HTTP"
+msgstr "HTTP"
+
+#: content/ui/Settings/NetworkProxyPage.qml:60
+#, kde-format
+msgid "Socks5"
+msgstr "Socks5"
+
+#: content/ui/Settings/NetworkProxyPage.qml:79
+#, kde-format
+msgid "Host"
+msgstr "Máy chủ"
+
+#: content/ui/Settings/NetworkProxyPage.qml:92
+#, kde-format
+msgid "Port"
+msgstr "Cổng"
+
+#: content/ui/Settings/NetworkProxyPage.qml:113
+#, kde-format
+msgid "User"
+msgstr "Người dùng"
+
+#: content/ui/Settings/NetworkProxyPage.qml:141
+#: content/ui/Settings/ProfileEditor.qml:335
+#, kde-format
+msgid "Apply"
+msgstr "Áp dụng"
+
+#: content/ui/Settings/NotificationsPage.qml:28
+#, kde-format
+msgid "Enable notifications for this account"
+msgstr "Bật thông báo cho tài khoản này"
+
+#: content/ui/Settings/NotificationsPage.qml:32
+#, kde-format
+msgid "Notifications can appear even when Tokodon isn't running."
+msgstr "Thông báo có thể xuất hiện ngay cả khi Tokodon không đang chạy."
+
+#: content/ui/Settings/NotificationsPage.qml:34
+#, kde-format
+msgid ""
+"Push notifications are available but could not be enabled. Please log out "
+"and log back in."
+msgstr ""
+"Thông báo đẩy hiện có nhưng không thể được kích hoạt. Vui lòng đăng xuất và "
+"đăng nhập lại."
+
+#: content/ui/Settings/NotificationsPage.qml:37
+#, kde-format
+msgid "Notifications will only appear when Tokodon is running."
+msgstr "Thông báo chỉ xuất hiện khi Tokodon đang chạy."
+
+#: content/ui/Settings/NotificationsPage.qml:49
+#, kde-format
+msgctxt "@title:group"
+msgid "Types"
+msgstr "Loại"
+
+#: content/ui/Settings/NotificationsPage.qml:57
+#, kde-format
+msgid "Mentions"
+msgstr "Nhắc đến"
+
+#: content/ui/Settings/NotificationsPage.qml:69
+#, kde-format
+msgid "Statuses"
+msgstr "Trạng thái"
+
+#: content/ui/Settings/NotificationsPage.qml:81
+#, kde-format
+msgid "Boosts"
+msgstr "Tăng cường"
+
+#: content/ui/Settings/NotificationsPage.qml:93
+#, kde-format
+msgid "New followers"
+msgstr "Người theo dõi mới"
+
+#: content/ui/Settings/NotificationsPage.qml:105
+#, kde-format
+msgid "New follow requests"
+msgstr "Yêu cầu theo dõi mới"
+
+#: content/ui/Settings/NotificationsPage.qml:117
+#, kde-format
+msgid "Favorites"
+msgstr "Yêu thích"
+
+#: content/ui/Settings/NotificationsPage.qml:129
+#, kde-format
+msgid "Polls"
+msgstr "Thăm dò ý kiến"
+
+#: content/ui/Settings/NotificationsPage.qml:141
+#, kde-format
+msgid "Edits"
+msgstr "Chỉnh sửa"
+
+#: content/ui/Settings/ProfileEditor.qml:26
+#, kde-format
+msgid "Edit Account"
+msgstr "Sửa Tài Khoản"
+
+#: content/ui/Settings/ProfileEditor.qml:42
+#, kde-format
+msgid "Please choose a file"
+msgstr "Vui lòng chọn một tệp"
+
+#: content/ui/Settings/ProfileEditor.qml:51
+#, kde-format
+msgctxt "@label"
+msgid "Are you sure you want to log out of %1?"
+msgstr "Bạn có chắc chắn muốn đăng xuất khỏi %1?"
+
+#: content/ui/Settings/ProfileEditor.qml:85
+#, kde-format
+msgid "Display Name"
+msgstr "Tên hiển thị"
+
+#: content/ui/Settings/ProfileEditor.qml:103
+#, kde-format
+msgid "Bio"
+msgstr "Tiểu sử"
+
+#: content/ui/Settings/ProfileEditor.qml:129
+#, kde-format
+msgid "Header"
+msgstr "Đầu tải"
+
+#: content/ui/Settings/ProfileEditor.qml:164
+#, kde-format
+msgid "PNG, GIF or JPG. At most 2 MB. Will be downscaled to 1500x500px"
+msgstr "PNG, GIF hoặc JPG. Tối đa 2 MB. Sẽ được thu nhỏ xuống 1500x500px"
+
+#: content/ui/Settings/ProfileEditor.qml:192
+#, kde-format
+msgid "Avatar"
+msgstr "hiện thân ảo"
+
+#: content/ui/Settings/ProfileEditor.qml:225
+#, kde-format
+msgid "PNG, GIF or JPG. At most 2 MB. Will be downscaled to 400x400px"
+msgstr "PNG, GIF hoặc JPG. Tối đa 2 MB. Sẽ được thu nhỏ xuống 400x400px"
+
+#: content/ui/Settings/ProfileEditor.qml:255
+#, kde-format
+msgid "Require approval of follow requests"
+msgstr "Yêu cầu phê duyệt các yêu cầu theo dõi"
+
+#: content/ui/Settings/ProfileEditor.qml:263
+#, kde-format
+msgid "This is a bot account"
+msgstr "Đây là tài khoản bot"
+
+#: content/ui/Settings/ProfileEditor.qml:271
+#, kde-format
+msgid "Suggest account to others"
+msgstr "Đề xuất tài khoản với người khác"
+
+#: content/ui/Settings/ProfileEditor.qml:279
+#, kde-format
+msgctxt "@label Account preferences"
+msgid "Mark uploaded media as sensitive by default"
+msgstr "Mặc định đánh dấu phương tiện đã tải lên là nhạy cảm"
+
+#: content/ui/Settings/ProfileEditor.qml:287
+#, kde-format
+msgctxt "@label Account preferences"
+msgid "Default post language"
+msgstr "Ngôn ngữ đăng bài mặc định"
+
+#: content/ui/Settings/ProfileEditor.qml:308
+#, kde-format
+msgctxt "@label Account preferences"
+msgid "Default post visibility"
+msgstr "Mặc định khả kiến bài đăng"
+
+#: content/ui/Settings/ProfileEditor.qml:310
+#, kde-format
+msgctxt "@item:inlistbox Default post visibility rule"
+msgid "Public"
+msgstr "Công khai"
+
+#: content/ui/Settings/ProfileEditor.qml:311
+#, kde-format
+msgctxt "@item:inlistbox Default post visibility rule"
+msgid "Unlisted"
+msgstr "Không liệt kê"
+
+#: content/ui/Settings/ProfileEditor.qml:312
+#, kde-format
+msgctxt "@item:inlistbox Default post visibility rule"
+msgid "Private"
+msgstr "Riêng tư"
+
+#: content/ui/Settings/ProfileEditor.qml:328
+#, kde-format
+msgid "Reset"
+msgstr "Đặt lại"
+
+#: content/ui/Settings/TokodonConfigurationView.qml:15
+#, kde-format
+msgid "Appearance"
+msgstr "diện mạo"
+
+#: content/ui/Settings/TokodonConfigurationView.qml:27
+#, kde-format
+msgid "Accounts"
+msgstr "Tài khoản"
+
+#: content/ui/Settings/TokodonConfigurationView.qml:34
+#, kde-format
+msgid "Network Proxy"
+msgstr "Uỷ nhiệm mạng"
+
+#: content/ui/Settings/TokodonConfigurationView.qml:40
+#, kde-format
+msgid "About Tokodon"
+msgstr "Về Tokodon"
+
+#: content/ui/Settings/TokodonConfigurationView.qml:43
+#: content/ui/Settings/TokodonConfigurationView.qml:50
+#, kde-format
+msgctxt "@title:group"
+msgid "About"
+msgstr "Thông tin"
+
+#: content/ui/Settings/TokodonConfigurationView.qml:47
+#, kde-format
+msgid "About KDE"
+msgstr "Về KDE"
+
+#: content/ui/ShareDialog.qml:34
+#, kde-format
+msgid "Sharing failed"
+msgstr "Chia sẻ thất bại"
+
+#: content/ui/SocialGraphPage.qml:62
+#, kde-format
+msgctxt "@action:button Allow follow request"
+msgid "Allow"
+msgstr "Cho phép"
+
+#: content/ui/SocialGraphPage.qml:69
+#, kde-format
+msgctxt "@action:button Deny follow request"
+msgid "Deny"
+msgstr "Từ chối"
+
+#: content/ui/StandaloneComposer.qml:58
+#, kde-format
+msgid "No accounts available"
+msgstr "Không có tài khoản hiện có"
+
+#: content/ui/StatusComposer/AttachmentInfoDialog.qml:95
+#, kde-format
+msgctxt "@title:group Alternate text or description of the image"
+msgid "Description"
+msgstr "Mô tả"
+
+#: content/ui/StatusComposer/AttachmentInfoDialog.qml:113
+#, kde-format
+msgctxt "@title:group"
+msgid "Focal point"
+msgstr "Điểm tiêu điểm"
+
+#: content/ui/StatusComposer/ComposerPoll.qml:37
+#, kde-format
+msgctxt "@label:textbox Poll choice"
+msgid "Choice %1"
+msgstr "Lựa chọn %1"
+
+#: content/ui/StatusComposer/ComposerPoll.qml:61
+#, kde-format
+msgctxt "@action:intoolbar Poll toolbar"
+msgid "Add Choice"
+msgstr "Thêm lựa chọn"
+
+#: content/ui/StatusComposer/ComposerPoll.qml:62
+#, kde-format
+msgctxt "@info:tooltip Poll toolbar"
+msgid "Add a new poll choice"
+msgstr "Thêm một lựa chọn khảo sát mới"
+
+#: content/ui/StatusComposer/ComposerPoll.qml:81
+#, kde-format
+msgctxt "@info:tooltip Poll toolbar"
+msgid "When the poll will expire"
+msgstr "Khi cuộc thăm dò sẽ hết hạn"
+
+#: content/ui/StatusComposer/ComposerPoll.qml:90
+#, kde-format
+msgctxt "@option:check Poll toolbar"
+msgid "Multiple choice"
+msgstr "Nhiều lựa chọn"
+
+#: content/ui/StatusComposer/ComposerPoll.qml:96
+#, kde-format
+msgctxt "@info:tooltip Poll toolbar"
+msgid "Allow multiple choices"
+msgstr "Cho phép nhiều lựa chọn"
+
+#: content/ui/StatusComposer/ComposerPoll.qml:105
+#, kde-format
+msgctxt "@option:check Poll toolbar"
+msgid "Hide totals"
+msgstr "Ẩn tổng số"
+
+#: content/ui/StatusComposer/ComposerPoll.qml:111
+#, kde-format
+msgctxt "@info:tooltip Poll toolbar"
+msgid "Hide vote count until the poll ends"
+msgstr "Ẩn số phiếu bầu cho đến khi kết thúc cuộc thăm dò"
+
+#: content/ui/StatusComposer/EditorAttachmentGrid.qml:96
+#, kde-format
+msgid "Remove"
+msgstr "Xoá"
+
+#: content/ui/StatusComposer/StatusComposer.qml:55
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit This Post"
+msgstr "Sửa Bài Đăng Này"
+
+#: content/ui/StatusComposer/StatusComposer.qml:57
+#, kde-format
+msgctxt "@title:window"
+msgid "Reply to This Post"
+msgstr "Hồi đáp bài viết này"
+
+#: content/ui/StatusComposer/StatusComposer.qml:59
+#, kde-format
+msgctxt "@title:window"
+msgid "Rewrite This Post"
+msgstr "Viết lại bài này"
+
+#: content/ui/StatusComposer/StatusComposer.qml:61
+#, kde-format
+msgctxt "@title:window"
+msgid "Write a New Post"
+msgstr "Viết Bài Đăng Mới"
+
+#: content/ui/StatusComposer/StatusComposer.qml:67
+#, kde-format
+msgctxt "@action Pop out the status composer"
+msgid "Pop Out"
+msgstr "Bật ra"
+
+#: content/ui/StatusComposer/StatusComposer.qml:130
+#, kde-format
+msgid "Saving an edited post that has a poll will clear existing results."
+msgstr ""
+"Lưu một bài đăng đã chỉnh sửa có chứa một cuộc thăm dò ý kiến sẽ làm trống "
+"kết quả hiện có."
+
+#: content/ui/StatusComposer/StatusComposer.qml:137
+#, kde-format
+msgctxt "@title"
+msgid "Discard Draft"
+msgstr "Loại bỏ bản nháp"
+
+#: content/ui/StatusComposer/StatusComposer.qml:138
+#, kde-format
+msgctxt "@label"
+msgid "Are you sure you want to discard your draft?"
+msgstr "Bạn có chắc chắn muốn loại bỏ bản nháp của mình không?"
+
+#: content/ui/StatusComposer/StatusComposer.qml:144
+#, kde-format
+msgctxt "@action:button Keep this draft"
+msgid "Keep"
+msgstr "Giữ lại"
+
+#: content/ui/StatusComposer/StatusComposer.qml:240
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Content warning"
+msgstr "Cảnh báo nội dung"
+
+#: content/ui/StatusComposer/StatusComposer.qml:253
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "What's new?"
+msgstr "Có gì mới?"
+
+#: content/ui/StatusComposer/StatusComposer.qml:368
+#, kde-format
+msgctxt "@title:window"
+msgid "Choose a File"
+msgstr "Chọn một Tệp"
+
+#: content/ui/StatusComposer/StatusComposer.qml:371
+#, kde-format
+msgid ""
+"All supported formats (*.jpg *.jpeg *.png *.gif *.webp *.heic *.heif *.avif "
+"*.webm *.mp4 *.m4v *.mov)"
+msgstr ""
+"Tất cả các định dạng được hỗ trợ (*.jpg *.jpeg *.png *.gif *.webp *.heic "
+"*.heif *.avif *.webm *.mp4 *.m4v *.mov)"
+
+#: content/ui/StatusComposer/StatusComposer.qml:372
+#, kde-format
+msgid "JPEG image (*.jpg *.jpeg)"
+msgstr "Ảnh JPEG (*.jpg *.jpeg)"
+
+#: content/ui/StatusComposer/StatusComposer.qml:373
+#, kde-format
+msgid "PNG image (*.png)"
+msgstr "Ảnh PNG (*.png)"
+
+#: content/ui/StatusComposer/StatusComposer.qml:374
+#, kde-format
+msgid "GIF image (*.gif)"
+msgstr "Ảnh GIF (*.gif)"
+
+#: content/ui/StatusComposer/StatusComposer.qml:375
+#, kde-format
+msgid "WebP image (*.webp)"
+msgstr "Ảnh WebP (*.webp)"
+
+#: content/ui/StatusComposer/StatusComposer.qml:376
+#, kde-format
+msgid "HEIC image(*.heic)"
+msgstr "Ảnh HEIC (*.heic)"
+
+#: content/ui/StatusComposer/StatusComposer.qml:377
+#, kde-format
+msgid "HEIF image (*.heif)"
+msgstr "Ảnh HEIF (*.heif)"
+
+#: content/ui/StatusComposer/StatusComposer.qml:378
+#, kde-format
+msgid "AVIF image (*.avif)"
+msgstr "Ảnh AVIF (*.avif)"
+
+#: content/ui/StatusComposer/StatusComposer.qml:379
+#, kde-format
+msgid "WebM video (*.webm)"
+msgstr "Video WebM (*.webm)"
+
+#: content/ui/StatusComposer/StatusComposer.qml:380
+#, kde-format
+msgid "MPEG-4 video (*.mp4)"
+msgstr "Video MPEG-4 (*.mp4)"
+
+#: content/ui/StatusComposer/StatusComposer.qml:381
+#, kde-format
+msgid "M4V video (*.m4v)"
+msgstr "Video M4V (*.m4v)"
+
+#: content/ui/StatusComposer/StatusComposer.qml:382
+#, kde-format
+msgid "QuickTime video (*.mov)"
+msgstr "Phim QuickTime (*.mov)"
+
+#: content/ui/StatusComposer/StatusComposer.qml:383
+#, kde-format
+msgid "All files (*)"
+msgstr "Tất cả các tệp (*)"
+
+#: content/ui/StatusComposer/StatusComposer.qml:385
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Attach file"
+msgstr "Đính kèm tệp"
+
+#: content/ui/StatusComposer/StatusComposer.qml:396
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Add poll"
+msgstr "Thêm bình chọn"
+
+#: content/ui/StatusComposer/StatusComposer.qml:426
+#, kde-format
+msgctxt "@item:inmenu Local to this server"
+msgid "Local"
+msgstr "Cục bộ"
+
+#: content/ui/StatusComposer/StatusComposer.qml:432
+#, kde-format
+msgctxt "@item:inmenu Public to the world"
+msgid "Public"
+msgstr "Công khai"
+
+#: content/ui/StatusComposer/StatusComposer.qml:437
+#, kde-format
+msgctxt "@item:inmenu Public but less so"
+msgid "Unlisted"
+msgstr "Không liệt kê"
+
+#: content/ui/StatusComposer/StatusComposer.qml:442
+#, kde-format
+msgctxt "@item:inmenu Only to followers"
+msgid "Private"
+msgstr "Riêng tư"
+
+#: content/ui/StatusComposer/StatusComposer.qml:447
+#, kde-format
+msgctxt "@item:inmenu Only to who is explicitly mentioned"
+msgid "Direct Message"
+msgstr "Tin nhắn trực tiếp"
+
+#: content/ui/StatusComposer/StatusComposer.qml:452
+#, kde-format
+msgctxt "@info:tooltip Post visibility"
+msgid "Visibility"
+msgstr "Khả kiến"
+
+#: content/ui/StatusComposer/StatusComposer.qml:457
+#, kde-format
+msgctxt "@action:intoolbar Short for content warning"
+msgid "cw"
+msgstr "cw"
+
+#: content/ui/StatusComposer/StatusComposer.qml:460
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Content warning"
+msgstr "Cảnh báo nội dung"
+
+#: content/ui/StatusComposer/StatusComposer.qml:474
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Post language"
+msgstr "Đăng ngôn ngữ"
+
+#: content/ui/StatusComposer/StatusComposer.qml:503
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Add emoji"
+msgstr "Thêm hình biểu cảm"
+
+#: content/ui/StatusComposer/StatusComposer.qml:519
+#, kde-format
+msgctxt "@label Character count in the status composer"
+msgid "<b>%1/%2</b> characters"
+msgstr "<b>%1/%2</b> ký tự"
+
+#: content/ui/StatusComposer/StatusComposer.qml:542
+#, kde-format
+msgctxt "@action:button Send a post"
+msgid "Send"
+msgstr "Gửi"
+
+#: content/ui/StatusComposer/StatusComposer.qml:544
+#, kde-format
+msgctxt "@action:button Reply to a post"
+msgid "Reply"
+msgstr "hồi đáp"
+
+#: content/ui/StatusComposer/StatusComposer.qml:546
+#, kde-format
+msgctxt "@action:button Send the same post again"
+msgid "Repost"
+msgstr "Đăng lại"
+
+#: content/ui/StatusComposer/StatusComposer.qml:548
+#, kde-format
+msgctxt "@action:Button Save an edited a post"
+msgid "Save"
+msgstr "Lưu"
+
+#: content/ui/TimelinePage.qml:44 timeline/accountmodel.cpp:35
+#, kde-format
+msgid "Loading"
+msgstr "Đang tải"
+
+#: content/ui/TimelinePage.qml:46
+#, kde-format
+msgid "Home (%1)"
+msgstr "Trang chủ (%1)"
+
+#: content/ui/TimelinePage.qml:99
+#, kde-format
+msgctxt "@action:button"
+msgid "Filters"
+msgstr "Bộ lọc"
+
+#: content/ui/TimelinePage.qml:104
+#, kde-format
+msgid "Show Boosts"
+msgstr "Hiển thị Boosts"
+
+#: content/ui/TimelinePage.qml:111
+#, kde-format
+msgid "Show Replies"
+msgstr "Hiện Hồi Đáp"
+
+#: content/ui/TimelinePage.qml:122
+#, kde-format
+msgctxt "@info:status Network status"
+msgid "Failed to contact server: %1. Please check your settings."
+msgstr "Không thể liên hệ với máy chủ: %1. Vui lòng kiểm tra cài đặt của bạn."
+
+#: content/ui/TimelinePage.qml:240
+#, kde-format
+msgctxt "@info:status"
+msgid "Some replies are not available"
+msgstr "Một số hồi đáp không hiện có"
+
+#: content/ui/TimelinePage.qml:241
+#, kde-format
+msgid "To view all replies, open the post on the original server."
+msgstr "Để xem tất cả các phản hồi, hãy mở bài đăng trên máy chủ gốc."
+
+#: content/ui/TimelinePage.qml:244
+#, kde-format
+msgctxt "@action:button"
+msgid "Open Original Page"
+msgstr "Mở trang gốc"
+
+#: content/ui/TimelinePage.qml:253
+#, kde-format
+msgctxt "@info:status"
+msgid "End of Timeline"
+msgstr "Kết thúc dòng thời gian"
+
+#: content/ui/TimelinePage.qml:295
+#, kde-format
+msgid "No posts"
+msgstr "Không có bài đăng"
+
+#: content/ui/TimelinePage.qml:301
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Return to Top"
+msgstr "Quay lại đầu trang"
+
+#: content/ui/UserInfo.qml:90
+#, kde-format
+msgid "Switch Account"
+msgstr "Chuyển Tài Khoản"
+
+#: content/ui/UserInfo.qml:92
+#, kde-format
+msgid "Switch account"
+msgstr "Chuyển đổi tài khoản"
+
+#: content/ui/UserInfo.qml:137
+#, kde-format
+msgid "Log in or create a new account"
+msgstr "Đăng nhập hoặc tạo tài khoản mới"
+
+#: conversation/conversationmodel.cpp:57
+#, kde-format
+msgid "Empty conversation"
+msgstr "Cuộc trò chuyện trống rỗng"
+
+#: conversation/conversationmodel.cpp:61
+#, kde-format
+msgid "%1 and %2"
+msgstr "%1 và %2"
+
+#: conversation/conversationmodel.cpp:63
+#, kde-format
+msgid "%2 and one other"
+msgid_plural "%2 and %1 others"
+msgstr[0] "%2 và %1 người khác"
+
+#: editor/listeditorbackend.cpp:109
+#, kde-format
+msgid "Members of the list"
+msgstr "Các thành viên của danh sách"
+
+#: editor/listeditorbackend.cpp:109
+#, kde-format
+msgid "Any followed users"
+msgstr "Bất kỳ người dùng được theo dõi"
+
+#: editor/polltimemodel.cpp:14
+#, kde-format
+msgctxt "@item:inlistbox Poll expire times"
+msgid "5 minutes"
+msgstr "5 phút"
+
+#: editor/polltimemodel.cpp:15
+#, kde-format
+msgctxt "@item:inlistbox Poll expire times"
+msgid "30 minutes"
+msgstr "30 phút"
+
+#: editor/polltimemodel.cpp:16
+#, kde-format
+msgctxt "@item:inlistbox Poll expire times"
+msgid "1 hour"
+msgstr "1 giờ"
+
+#: editor/polltimemodel.cpp:17
+#, kde-format
+msgctxt "@item:inlistbox Poll expire times"
+msgid "6 hours"
+msgstr "6 giờ"
+
+#: editor/polltimemodel.cpp:18
+#, kde-format
+msgctxt "@item:inlistbox Poll expire times"
+msgid "12 hours"
+msgstr "12 giờ"
+
+#: editor/polltimemodel.cpp:19
+#, kde-format
+msgctxt "@item:inlistbox Poll expire times"
+msgid "1 day"
+msgstr "1 ngày"
+
+#: editor/polltimemodel.cpp:20
+#, kde-format
+msgctxt "@item:inlistbox Poll expire times"
+msgid "3 days"
+msgstr "3 ngày"
+
+#: editor/polltimemodel.cpp:21
+#, kde-format
+msgctxt "@item:inlistbox Poll expire times"
+msgid "7 days"
+msgstr "7 ngày"
+
+#: editor/posteditorbackend.cpp:271
+#, kde-format
+msgid "An unknown error occurred."
+msgstr "Đã xảy ra lỗi không rõ."
+
+#: main.cpp:63
+#, kde-format
+msgid "Receiving push notifications"
+msgstr "Nhận thông báo đẩy"
+
+#: main.cpp:110
+#, kde-format
+msgid "Tokodon"
+msgstr "Tokodon"
+
+#: main.cpp:112
+#, kde-format
+msgid "Mastodon client"
+msgstr "Trình khách Mastodon"
+
+#: main.cpp:114
+#, kde-format
+msgid "© 2021-2024 Carl Schwan, 2021-2024 KDE Community"
+msgstr "© 2021-2024 Carl Schwan, 2021-2024 Cộng đồng KDE"
+
+#: main.cpp:115
+#, kde-format
+msgid "Carl Schwan"
+msgstr "Carl Schwan"
+
+#: main.cpp:116 main.cpp:121
+#, kde-format
+msgid "Maintainer"
+msgstr "Bảo trì viên"
+
+#: main.cpp:120
+#, kde-format
+msgid "Joshua Goins"
+msgstr "Joshua Goins"
+
+#: main.cpp:125
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#: main.cpp:125
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Địa chỉ email của bạn"
+
+#: main.cpp:133
+#, kde-format
+msgid "Client for decentralized social networks like Mastodon"
+msgstr "Trình khách cho các mạng xã hội phi tập trung như Mastodon"
+
+#: main.cpp:134
+#, kde-format
+msgid "Supports https and web+ap url scheme"
+msgstr "Hỗ trợ https và quy hoạch url web+ap"
+
+#: main.cpp:136
+#, kde-format
+msgid "Share a line of text in the standalone composer."
+msgstr "Chia sẻ một dòng văn bản trong trình soạn thảo độc lập."
+
+#: main.cpp:136
+#, kde-format
+msgid "The text to share."
+msgstr "Văn bản để chia sẻ."
+
+#: main.cpp:140
+#, kde-format
+msgid "Internal usage only."
+msgstr "Chỉ sử dụng nội bộ."
+
+#: notification/notificationmodel.cpp:96
+#, kde-format
+msgid "Error occurred when fetching the latest notification."
+msgstr "Đã xảy ra lỗi khi lấy thông báo mới nhất."
+
+#: search/searchmodel.cpp:140
+#, kde-format
+msgid "Users"
+msgstr "Người dùng"
+
+#: search/searchmodel.cpp:142
+#, kde-format
+msgid "Hashtags"
+msgstr "Thẻ bắt đầu bằng #"
+
+#: timeline/maintimelinemodel.cpp:22
+#, kde-format
+msgctxt "@title"
+msgid "Home"
+msgstr "Trang chủ"
+
+#: timeline/maintimelinemodel.cpp:24
+#, kde-format
+msgctxt "@title"
+msgid "Local Timeline"
+msgstr "Dòng thời gian cục bộ"
+
+#: timeline/maintimelinemodel.cpp:26
+#, kde-format
+msgctxt "@title"
+msgid "Global Timeline"
+msgstr "Dòng thời gian toàn cục"
+
+#: timeline/maintimelinemodel.cpp:28
+#, kde-format
+msgctxt "@title"
+msgid "Bookmarks"
+msgstr "Dấu trang"
+
+#: timeline/maintimelinemodel.cpp:30
+#, kde-format
+msgctxt "@title"
+msgid "Favourites"
+msgstr "Yêu thích"
+
+#: timeline/maintimelinemodel.cpp:32
+#, kde-format
+msgctxt "@title"
+msgid "Trending"
+msgstr "Đang thịnh hành"
+
+#: timeline/post.cpp:219
+#, kde-format
+msgid "in the future"
+msgstr "trong tương lai"
+
+#: timeline/post.cpp:221
+#, kde-format
+msgid "%1s"
+msgstr "%1s"
+
+#: timeline/post.cpp:223
+#, kde-format
+msgid "%1m"
+msgstr "%1m"
+
+#: timeline/post.cpp:225
+#, kde-format
+msgid "%1h"
+msgstr "%1h"
+
+#: timeline/post.cpp:227
+#, kde-format
+msgid "%1d"
+msgstr "%1d"
+
+#: timeline/post.cpp:231
+#, kde-format
+msgid "1 week ago"
+msgid_plural "%1 weeks ago"
+msgstr[0] "%1 tuần trước"
+
+#: timeline/post.cpp:234
+#, kde-format
+msgid "1 month ago"
+msgid_plural "%1 months ago"
+msgstr[0] "%1 tháng trước"
+
+#: timeline/post.cpp:238
+#, kde-format
+msgid "1 year ago"
+msgid_plural "%1 years ago"
+msgstr[0] "%1 năm trước"
+
+#: timeline/tagsmodel.cpp:21
+#, kde-format
+msgid "Trending"
+msgstr "Đang thịnh hành"
+
+#: timeline/threadmodel.cpp:41
+#, kde-format
+msgctxt "@title:window"
+msgid "Loading…"
+msgstr "Đang tải..."
+
+#: timeline/threadmodel.cpp:46
+#, kde-format
+msgctxt "@title"
+msgid "Post by %1"
+msgstr "Bài đăng của %1"
+
+#: utils/emojimodel.cpp:129
+#, kde-format
+msgctxt "Previously used emojis"
+msgid "History"
+msgstr "Lịch sử"
+
+#: utils/emojimodel.cpp:134
+#, kde-format
+msgctxt "'Custom' is a category of emoji"
+msgid "Custom"
+msgstr "Tự chọn"
+
+#: utils/emojimodel.cpp:139
+#, kde-format
+msgctxt "'Smileys' is a category of emoji"
+msgid "Smileys"
+msgstr "Biểu tượng cảm xúc"
+
+#: utils/emojimodel.cpp:144
+#, kde-format
+msgctxt "'People' is a category of emoji"
+msgid "People"
+msgstr "Mọi người"
+
+#: utils/emojimodel.cpp:149
+#, kde-format
+msgctxt "'Nature' is a category of emoji"
+msgid "Nature"
+msgstr "Thiên nhiên"
+
+#: utils/emojimodel.cpp:154
+#, kde-format
+msgctxt "'Food' is a category of emoji"
+msgid "Food"
+msgstr "Thức ăn"
+
+#: utils/emojimodel.cpp:159
+#, kde-format
+msgctxt "'Activities' is a category of emoji"
+msgid "Activities"
+msgstr "Hoạt động"
+
+#: utils/emojimodel.cpp:164
+#, kde-format
+msgctxt "'Travel' is  a category of emoji"
+msgid "Travel"
+msgstr "Du lịch"
+
+#: utils/emojimodel.cpp:169
+#, kde-format
+msgctxt "'Objects' is a category of emoji"
+msgid "Objects"
+msgstr "Đồ vật"
+
+#: utils/emojimodel.cpp:174
+#, kde-format
+msgctxt "'Symbols' is a category of emoji"
+msgid "Symbols"
+msgstr "kí hiệu"
+
+#: utils/emojimodel.cpp:179
+#, kde-format
+msgctxt "'Flags' is a category of emoji"
+msgid "Flags"
+msgstr "Cờ"
+
+#: utils/filetransferjob.cpp:31
+#, kde-format
+msgid "Could not open the temporary download file"
+msgstr "Không thể mở tệp tải về tạm thời"
+
+#: utils/filetransferjob.cpp:73
+#, kde-format
+msgid "Could not reserve disk space for download"
+msgstr "Không thể dành chỗ trên ổ đĩa để tải về"
+
+#: utils/filetransferjob.cpp:81
+#, kde-format
+msgctxt "Job heading, like 'Copying'"
+msgid "Downloading"
+msgstr "Tải về"
+
+#: utils/filetransferjob.cpp:82
+#, kde-format
+msgctxt "The URL being downloaded/uploaded"
+msgid "Source"
+msgstr "Nguồn"
+
+#: utils/filetransferjob.cpp:83
+#, kde-format
+msgctxt "The location being downloaded to"
+msgid "Destination"
+msgstr "Đích đến"

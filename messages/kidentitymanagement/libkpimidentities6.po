@@ -1,0 +1,319 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kidentitymanagement package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kidentitymanagement\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-18 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: core/identitymanager.cpp:161
+#, kde-format
+msgctxt "use default address from control center"
+msgid "Default"
+msgstr "Mặc định"
+
+#: core/identitymanager.cpp:186
+#, kde-format
+msgctxt "Default name for new email accounts/identities."
+msgid "Unnamed"
+msgstr "Chưa đặt tên"
+
+#: core/identitymanager.cpp:356
+#, kde-format
+msgctxt ""
+"%1: name; %2: number appended to it to make it unique among a list of names"
+msgid "%1 #%2"
+msgstr "%1 #%2"
+
+#: core/identitymanager.cpp:567
+#, kde-format
+msgid "Unnamed"
+msgstr "Không tên"
+
+#: core/identitymodel.cpp:44
+#, kde-format
+msgctxt "Separator between identity name and email address"
+msgid " - "
+msgstr "-"
+
+#: core/identitytreemodel.cpp:88
+#, kde-format
+msgctxt "Default identity"
+msgid " (default)"
+msgstr "Mặc định"
+
+#: core/identitytreemodel.cpp:124
+#, kde-format
+msgid "Identity Name"
+msgstr "Tên danh tính"
+
+#: core/identitytreemodel.cpp:127
+#, kde-format
+msgid "Email Address"
+msgstr "Địa chỉ email"
+
+#: core/signature.cpp:170
+#, kde-format
+msgid "<qt>Failed to execute signature script<p><b>%1</b>:</p><p>%2</p></qt>"
+msgstr "<qt>Không thể thực thi tập lệnh chữ ký<p><b>%1</b>:</p><p>%2</p></qt>"
+
+#: quick/qml/BasicIdentityEditorCard.qml:26
+#, kde-format
+msgid "Identity"
+msgstr "Danh tính"
+
+#: quick/qml/BasicIdentityEditorCard.qml:33
+#, kde-format
+msgid "Your name"
+msgstr "Tên của bạn"
+
+#: quick/qml/BasicIdentityEditorCard.qml:40
+#, kde-format
+msgid "Email address"
+msgstr "Địa chỉ email"
+
+#: quick/qml/BasicIdentityEditorCard.qml:48
+#, kde-format
+msgid "E-mail aliases"
+msgstr "Bí danh email"
+
+#: quick/qml/BasicIdentityEditorCard.qml:82
+#, kde-format
+msgid "Remove email alias"
+msgstr "Xoá biệt danh email"
+
+#: quick/qml/BasicIdentityEditorCard.qml:102
+#, kde-format
+msgid "user@example.org"
+msgstr "user@example.org"
+
+#: quick/qml/BasicIdentityEditorCard.qml:111
+#, kde-format
+msgid "Add email alias"
+msgstr "Thêm biệt danh email"
+
+#: quick/qml/CryptographyEditorCard.qml:48
+#, kde-format
+msgctxt "@label"
+msgid "OpenPGP key"
+msgstr "Khóa OpenPGP"
+
+#: quick/qml/CryptographyEditorCard.qml:48
+#, kde-format
+msgctxt "@label"
+msgid "OpenPGP signing key"
+msgstr "Khóa ký OpenPGP"
+
+#: quick/qml/CryptographyEditorCard.qml:75
+#, kde-format
+msgctxt "@label"
+msgid "Use same OpenPGP key for encryption and signing"
+msgstr "Sử dụng cùng một khoá OpenPGP cho mật mã hoá và ký"
+
+#: quick/qml/CryptographyEditorCard.qml:104
+#, kde-format
+msgctxt "@label"
+msgid "OpenPGP encryption key"
+msgstr "Khoá mã hoá OpenPGP"
+
+#: quick/qml/CryptographyEditorCard.qml:126
+#, kde-format
+msgctxt "@label"
+msgid "S/MIME signing key"
+msgstr "Khóa ký S/MIME"
+
+#: quick/qml/CryptographyEditorCard.qml:151
+#, kde-format
+msgctxt "@label"
+msgid "Use same S/MIME key for encryption and signing"
+msgstr "Sử dụng cùng một khoá S/MIME cho mật mã hoá và ký"
+
+#: quick/qml/CryptographyEditorCard.qml:180
+#, kde-format
+msgctxt "@label"
+msgid "S/MIME encryption key"
+msgstr "Khoá mã hoá S/MIME"
+
+#: quick/qml/IdentityConfigurationForm.qml:33
+#, kde-format
+msgctxt "@title"
+msgid "Edit Identity"
+msgstr "Sửa Danh Tính"
+
+#: quick/qml/IdentityEditorPage.qml:41
+#, kde-format
+msgid "Add Identity"
+msgstr "Thêm danh tính"
+
+#: quick/qml/IdentityEditorPage.qml:43
+#, kde-format
+msgid "Edit Identity"
+msgstr "Sửa Danh Tính"
+
+#: quick/qml/IdentityEditorPage.qml:71
+#, kde-format
+msgctxt "@title:group"
+msgid "Cryptography"
+msgstr "Mật mã học"
+
+#: quick/qml/IdentityEditorPage.qml:97 quick/qml/IdentityEditorPage.qml:126
+#, kde-format
+msgid "Delete"
+msgstr "Xóa"
+
+#: quick/qml/IdentityEditorPage.qml:105
+#, kde-format
+msgid "Save"
+msgstr "Lưu"
+
+#: quick/qml/IdentityEditorPage.qml:105
+#, kde-format
+msgid "Add"
+msgstr "Thêm"
+
+#: quick/qml/IdentityEditorPage.qml:120
+#, kde-format
+msgid "Delete %1"
+msgstr "Xóa %1"
+
+#: quick/qml/IdentityEditorPage.qml:121
+#, kde-format
+msgid "Are you sure you want to delete this identity?"
+msgstr "Bạn có chắc chắn muốn xóa danh tính này không?"
+
+#: quick/qml/IdentityEditorPage.qml:134
+#, kde-format
+msgid "Cancel"
+msgstr "huỷ"
+
+#: widgets/signatureconfigurator.cpp:107
+#, kde-format
+msgid "&Enable signature"
+msgstr "Bậ&t chữ ký"
+
+#: widgets/signatureconfigurator.cpp:109
+#, kde-format
+msgid ""
+"Check this box if you want KMail to append a signature to mails written with "
+"this identity."
+msgstr ""
+"Chọn hộp này nếu bạn muốn KMail thêm chữ ký vào các email được viết với "
+"danh tính này."
+
+#: widgets/signatureconfigurator.cpp:118
+#, kde-format
+msgid "Click on the widgets below to obtain help on the input methods."
+msgstr "Bấm vào các widget bên dưới để nhận trợ giúp về các phương thức nhập."
+
+#: widgets/signatureconfigurator.cpp:120
+#, kde-format
+msgctxt "continuation of \"obtain signature text from\""
+msgid "Input Field Below"
+msgstr "Trường Nhập"
+
+#: widgets/signatureconfigurator.cpp:121
+#, kde-format
+msgctxt "continuation of \"obtain signature text from\""
+msgid "File"
+msgstr "Tệp"
+
+#: widgets/signatureconfigurator.cpp:122
+#, kde-format
+msgctxt "continuation of \"obtain signature text from\""
+msgid "Output of Command"
+msgstr "Kết quả của lệnh"
+
+#: widgets/signatureconfigurator.cpp:123
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Obtain signature &text from:"
+msgstr "Lấy văn bản chữ ký &từ:"
+
+#: widgets/signatureconfigurator.cpp:164
+#, kde-format
+msgid "Use this field to enter an arbitrary static signature."
+msgstr "Sử dụng trường này để nhập một chữ ký tĩnh tùy ý."
+
+#: widgets/signatureconfigurator.cpp:205 widgets/signatureconfigurator.cpp:440
+#, kde-format
+msgid "&Use HTML"
+msgstr "Sử dụng &HTML"
+
+#: widgets/signatureconfigurator.cpp:221
+#, kde-format
+msgid "Text File (*.txt)"
+msgstr "Tệp văn bản (*.txt)"
+
+#: widgets/signatureconfigurator.cpp:223
+#, kde-format
+msgid ""
+"Use this requester to specify a text file that contains your signature. It "
+"will be read every time you create a new mail or append a new signature."
+msgstr ""
+"Sử dụng trình yêu cầu này để chỉ định một tệp văn bản chứa chữ ký của bạn. "
+"Nó sẽ được đọc mỗi khi bạn tạo một email mới hoặc thêm một chữ ký mới."
+
+#: widgets/signatureconfigurator.cpp:226
+#, kde-format
+msgctxt "@label:textbox"
+msgid "S&pecify file:"
+msgstr "Chỉ định tệ&p:"
+
+#: widgets/signatureconfigurator.cpp:233
+#, kde-format
+msgctxt "@action:button"
+msgid "Edit &File"
+msgstr "Sử&a Tệp"
+
+#: widgets/signatureconfigurator.cpp:234
+#, kde-format
+msgid "Opens the specified file in a text editor."
+msgstr "Mở tệp đã chỉ định trong trình soạn thảo văn bản."
+
+#: widgets/signatureconfigurator.cpp:254
+#, kde-format
+msgid ""
+"You can add an arbitrary command here, either with or without path depending "
+"on whether or not the command is in your Path. For every new mail, KMail "
+"will execute the command and use what it outputs (to standard output) as a "
+"signature. Usual commands for use with this mechanism are \"fortune\" or "
+"\"ksig -random\". (Be careful, script needs a shebang line)."
+msgstr ""
+"Bạn có thể thêm một lệnh tùy ý ở đây, có hoặc không có đường dẫn tùy thuộc "
+"vào việc lệnh có nằm trong đường dẫn của bạn hay không. Với mỗi email mới, "
+"KMail sẽ thực thi lệnh và sử dụng kết quả đầu ra (đến đầu ra tiêu chuẩn) "
+"làm chữ ký. Các lệnh thường được sử dụng với cơ chế này là \"fortune\" hoặc "
+"\"ksig -random\". (Hãy cẩn thận, kịch bản cần có dòng shebang)."
+
+#: widgets/signatureconfigurator.cpp:260
+#, kde-format
+msgctxt "@label:textbox"
+msgid "S&pecify command:"
+msgstr "C&hỉ định lệnh:"
+
+#: widgets/signatureconfigurator.cpp:420
+#, kde-format
+msgid "This text file size exceeds 1kb."
+msgstr "Kích thước tệp văn bản này vượt quá 1kb."
+
+#: widgets/signatureconfigurator.cpp:420
+#, kde-format
+msgctxt "@title:window"
+msgid "Text File Size"
+msgstr "Kích thước Tệp Văn bản"
+
+#: widgets/signatureconfigurator.cpp:450
+#, kde-format
+msgid "&Use HTML (disabling removes formatting)"
+msgstr "Sử dụ&ng HTML (vô hiệu hóa sẽ loại bỏ định dạng)"

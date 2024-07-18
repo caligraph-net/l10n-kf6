@@ -1,0 +1,182 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-mobile package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-mobile\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-02 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: dragstate.cpp:14
+#, kde-format
+msgid "Folder"
+msgstr "Thư mục"
+
+#: package/contents/ui/AppDrawerHeader.qml:52
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Search applications…"
+msgstr "Tìm kiếm ứng dụng..."
+
+#: package/contents/ui/FavouritesBar.qml:149
+#: package/contents/ui/FavouritesBar.qml:223
+#: package/contents/ui/FolderView.qml:273
+#: package/contents/ui/HomeScreenPage.qml:218
+#: package/contents/ui/HomeScreenPage.qml:298
+#, kde-format
+msgid "Remove"
+msgstr "Xoá"
+
+#: package/contents/ui/settings/AppletListViewer.qml:57
+#, kde-format
+msgid "Widgets"
+msgstr "Tiện ích"
+
+#: package/contents/ui/settings/SettingsWindow.qml:80
+#, kde-format
+msgid "Homescreen Settings"
+msgstr "Thiết lập Màn hình chính"
+
+#: package/contents/ui/settings/SettingsWindow.qml:89
+#, kde-format
+msgid "Icons"
+msgstr "Biểu tượng"
+
+#: package/contents/ui/settings/SettingsWindow.qml:121
+#, kde-format
+msgid "Number of rows"
+msgstr "Số hàng"
+
+#: package/contents/ui/settings/SettingsWindow.qml:122
+#, kde-format
+msgid "Number of columns"
+msgstr "Số cột"
+
+#: package/contents/ui/settings/SettingsWindow.qml:126
+#, kde-format
+msgid "Size of icons on homescreen"
+msgstr "Kích thước biểu tượng trên màn hình chính"
+
+#: package/contents/ui/settings/SettingsWindow.qml:165
+#, kde-format
+msgid "The rows and columns will swap depending on the screen rotation."
+msgstr "Các hàng và cột sẽ hoán đổi tùy thuộc vào sự xoay màn hình."
+
+#: package/contents/ui/settings/SettingsWindow.qml:169
+#, kde-format
+msgid "Homescreen"
+msgstr "Màn hình chính"
+
+#: package/contents/ui/settings/SettingsWindow.qml:175
+#, kde-format
+msgid "Show labels on homescreen"
+msgstr "Hiển thị nhãn trên màn hình chính"
+
+#: package/contents/ui/settings/SettingsWindow.qml:188
+#, kde-format
+msgid "Show labels in favorites bar"
+msgstr "Hiển thị nhãn trên thanh yêu thích"
+
+#: package/contents/ui/settings/SettingsWindow.qml:201
+#, kde-format
+msgid "Page transition effect"
+msgstr "Hiệu ứng chuyển trang"
+
+#: package/contents/ui/settings/SettingsWindow.qml:207
+#, kde-format
+msgid "Slide"
+msgstr "Trang trình chiếu"
+
+#: package/contents/ui/settings/SettingsWindow.qml:208
+#, kde-format
+msgid "Cube"
+msgstr "Khối"
+
+#: package/contents/ui/settings/SettingsWindow.qml:209
+#, kde-format
+msgid "Fade"
+msgstr "Phai màu"
+
+#: package/contents/ui/settings/SettingsWindow.qml:210
+#, kde-format
+msgid "Stack"
+msgstr "Ngăn xếp"
+
+#: package/contents/ui/settings/SettingsWindow.qml:211
+#, kde-format
+msgid "Rotation"
+msgstr "xoay"
+
+#: package/contents/ui/settings/SettingsWindow.qml:226
+#, kde-format
+msgid "Favorites Bar"
+msgstr "thanh Yêu thích"
+
+#: package/contents/ui/settings/SettingsWindow.qml:243
+#, kde-format
+msgctxt "@title:group settings group"
+msgid "Wallpaper"
+msgstr "Phông nền"
+
+#: package/contents/ui/settings/SettingsWindow.qml:249
+#, kde-format
+msgctxt "@option:check"
+msgid "Show wallpaper blur effect"
+msgstr "Hiển thị hiệu ứng mờ phông nền"
+
+#: package/contents/ui/settings/SettingsWindow.qml:260
+#, kde-format
+msgid "General"
+msgstr "chung"
+
+#: package/contents/ui/settings/SettingsWindow.qml:267
+#, kde-format
+msgctxt "@action:button"
+msgid "Switch between homescreens and more wallpaper options"
+msgstr "Chuyển đổi giữa màn hình chính và thêm tùy chọn phông nền"
+
+#: package/contents/ui/settings/SettingsWindow.qml:294
+#, kde-format
+msgid "Export layout to"
+msgstr "Xuất khẩu bố cục sang"
+
+#: package/contents/ui/settings/SettingsWindow.qml:313
+#, kde-format
+msgid "Import layout from"
+msgstr "Nhập khẩu bố cục từ"
+
+#: package/contents/ui/settings/SettingsWindow.qml:324
+#: package/contents/ui/settings/SettingsWindow.qml:331
+#, kde-format
+msgid "Export Status"
+msgstr "Trạng thái xuất khẩu"
+
+#: package/contents/ui/settings/SettingsWindow.qml:325
+#, kde-format
+msgid "Failed to export to %1"
+msgstr "Không thể xuất khẩu sang %1"
+
+#: package/contents/ui/settings/SettingsWindow.qml:332
+#, kde-format
+msgid "Homescreen layout exported successfully to %1"
+msgstr "Bố cục màn hình chính đã được xuất thành công đến %1"
+
+#: package/contents/ui/settings/SettingsWindow.qml:338
+#, kde-format
+msgid "Confirm Import"
+msgstr "Xác nhận nhập khẩu"
+
+#: package/contents/ui/settings/SettingsWindow.qml:339
+#, kde-format
+msgid "This will overwrite your existing homescreen layout!"
+msgstr "Điều này sẽ ghi đè lên bố cục màn hình chính hiện có của bạn!"

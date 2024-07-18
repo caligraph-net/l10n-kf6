@@ -225,19 +225,19 @@ msgid "Popup icon"
 msgstr "Biểu tượng ô bật lên"
 
 #: kdialog.cpp:300
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "File dialog to open an existing file (arguments [startDir] [filter])"
 msgid ""
 "File dialog to open an existing file (arguments [startDir] [name or mimetype "
 "filter])"
-msgstr "Hộp thoại tệp để mở một tệp có sẵn (đối số [thư-mục-đầu] [lọc])"
+msgstr "Hộp thoại tệp để mở một tệp có sẵn (đối số [thư-mục-đầu] [lọc kiểu MIME])"
 
 #: kdialog.cpp:301
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "File dialog to save a file (arguments [startDir] [filter])"
 msgid ""
 "File dialog to save a file (arguments [startDir] [name or mimetype filter])"
-msgstr "Hộp thoại tệp để lưu tệp (đối số [thư-mục-đầu] [lọc])"
+msgstr "Hộp thoại tệp để lưu tệp (đối số [thư-mục-đầu] [lọc kiểu MIME])"
 
 #: kdialog.cpp:302
 #, kde-format
@@ -245,19 +245,23 @@ msgid "File dialog to select an existing directory (arguments [startDir])"
 msgstr "Hộp thoại tệp để chọn một thư mục có sẵn (đối số [thư-mục-đầu])"
 
 #: kdialog.cpp:303
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "File dialog to open an existing URL (arguments [startDir] [filter])"
 msgid ""
 "File dialog to open an existing URL (arguments [startDir] [name or mimetype "
 "filter])"
-msgstr "Hộp thoại tệp để mở một URL có sẵn (đối số [thư-mục-đầu] [lọc])"
+msgstr ""
+"Hộp thoại tệp để mở một URL có sẵn (đối số [thư-mục-đầu] [bộ lọc tên hoặc "
+"kiểu MIME])"
 
 #: kdialog.cpp:304
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "File dialog to save a URL (arguments [startDir] [filter])"
 msgid ""
 "File dialog to save a URL (arguments [startDir] [name or mimetype filter])"
-msgstr "Hộp thoại tệp để lưu URL (đối số [thư-mục-đầu] [lọc])"
+msgstr ""
+"Hộp thoại tệp để lưu một URL (đối số [thư-mục-đầu] [bộ lọc tên tệp hoặc "
+"kiểu MIME])"
 
 #: kdialog.cpp:305
 #, kde-format
@@ -319,12 +323,14 @@ msgstr ""
 "Tệp cấu hình và tên lựa chọn để lưu trạng thái \"đừng hiển thị / hỏi lại\""
 
 #: kdialog.cpp:317
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Slider dialog box, returns selected value"
 msgid ""
 "Slider dialog box, returns selected value (arguments [text] [min] [max] "
 "[step])"
-msgstr "Hộp thoại thanh trượt, trả về giá trị được chọn"
+msgstr ""
+"Hộp thoại thanh trượt, trả về giá trị được chọn (đối số [văn bản] [tối "
+"thiểu] [tối đa] [bước])"
 
 #: kdialog.cpp:318
 #, kde-format
@@ -370,13 +376,13 @@ msgstr "KDialog"
 #, kde-format
 msgctxt "@action:button"
 msgid "&Yes"
-msgstr ""
+msgstr "&Có"
 
 #: kdialog.cpp:367
 #, kde-format
 msgctxt "@action:button"
 msgid "&No"
-msgstr ""
+msgstr "Khô&ng"
 
 #: kdialog.cpp:502
 #, kde-format
@@ -430,7 +436,7 @@ msgstr "Chọn màu"
 #: kdialog.cpp:1014
 #, kde-format
 msgid "Syntax: --slider <text> <min> <max> <step>"
-msgstr ""
+msgstr "Cú pháp: --slider <text> <min> <max> <step>"
 
 #: progressdialog.cpp:24
 #, kde-format

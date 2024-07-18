@@ -1,0 +1,126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the purpose package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: purpose\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-03 00:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: reviewboardjobs.cpp:166
+#, kde-format
+msgid "JSON error: %1"
+msgstr "Lỗi JSON: %1"
+
+#: reviewboardjobs.cpp:171
+#, kde-format
+msgid "Request Error: %1"
+msgstr "Lỗi yêu cầu: %1"
+
+#: reviewboardjobs.cpp:200
+#, kde-format
+msgid ""
+"Could not create the new request:\n"
+"%1"
+msgstr "Không thể tạo yêu cầu mới:\n%1"
+
+#: reviewboardjobs.cpp:239
+#, kde-format
+msgid "Could not upload the patch"
+msgstr "không thể tải lên bản vá"
+
+#: reviewboardjobs.cpp:332
+#, kde-format
+msgid "Could not get reviews list"
+msgstr "Không thể lấy danh sách đánh giá"
+
+#: reviewboardjobs.cpp:372
+#, kde-format
+msgid "Could not set metadata"
+msgstr "Không thể đặt siêu dữ liệu"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: reviewboardplugin_config.qml:34 reviewpatch.ui:26
+#, kde-format
+msgid "Server:"
+msgstr "Máy chủ:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: reviewboardplugin_config.qml:42 reviewpatch.ui:65
+#, kde-format
+msgid "Username:"
+msgstr "Tên người dùng:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: reviewboardplugin_config.qml:49 reviewpatch.ui:79
+#, kde-format
+msgid "Password:"
+msgstr "Mật khẩu:"
+
+#: reviewboardplugin_config.qml:58
+#, kde-format
+msgid "Repository:"
+msgstr "Kho lưu trữ:"
+
+#: reviewboardplugin_config.qml:83
+#, kde-format
+msgid "Update Review:"
+msgstr "Cập nhật Đánh giá:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: reviewpatch.ui:17
+#, kde-format
+msgid "Destination"
+msgstr "Đích đến"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: reviewpatch.ui:36
+#, kde-format
+msgid "Base Dir:"
+msgstr "Thư mục gốc:"
+
+#. i18n: ectx: property (text), widget (QLineEdit, basedir)
+#: reviewpatch.ui:43
+#, kde-format
+msgid "/"
+msgstr "/"
+
+#. i18n: ectx: property (placeholderText), widget (QLineEdit, basedir)
+#: reviewpatch.ui:46
+#, kde-format
+msgid "Where this project was checked out from"
+msgstr "Nơi mà dự án này được kiểm tra ra"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: reviewpatch.ui:56
+#, kde-format
+msgid "Authentication"
+msgstr "Xác thực"
+
+#. i18n: ectx: property (placeholderText), widget (QLineEdit, username)
+#: reviewpatch.ui:72
+#, kde-format
+msgid "User name in the specified service"
+msgstr "Tên người dùng trong dịch vụ đã chỉ định"
+
+#. i18n: ectx: property (title), widget (QGroupBox, repositoriesBox)
+#: reviewpatch.ui:99
+#, kde-format
+msgid "Repository"
+msgstr "kho"
+
+#. i18n: ectx: property (title), widget (QGroupBox, reviewsBox)
+#: reviewpatch.ui:111
+#, kde-format
+msgid "Update review"
+msgstr "Cập nhật xét duyệt"

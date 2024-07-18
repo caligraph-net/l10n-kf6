@@ -1,0 +1,486 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdeconnect-kde package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeconnect-kde\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-04-28 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: battery/batteryplugin.cpp:119
+#, kde-format
+msgctxt "device name: low battery"
+msgid "%1: Low Battery"
+msgstr "%1: Pin yếu"
+
+#: battery/batteryplugin.cpp:120
+#, kde-format
+msgid "Battery at %1%"
+msgstr "Pin ở %1%"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, ClipboardConfigUi)
+#: clipboard/clipboard_config.ui:17
+#, kde-format
+msgid "Clipboard plugin"
+msgstr "Phần cài cắm bảng nháp"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_1)
+#: clipboard/clipboard_config.ui:32
+#, kde-format
+msgid "Automatic synchronization"
+msgstr "Đồng bộ tự động"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_autoshare)
+#: clipboard/clipboard_config.ui:38
+#, kde-format
+msgid "Automatically share the clipboard from this device"
+msgstr "Tự động chia sẻ bảng nháp từ thiết bị này"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_password)
+#: clipboard/clipboard_config.ui:45
+#, kde-format
+msgid "Including passwords (as marked by password managers)"
+msgstr "Bao gồm mật khẩu (được đánh dấu bởi trình quản lý mật khẩu)"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: findthisdevice/findthisdevice_config.ui:17
+#, kde-format
+msgid "Discovery Utilities"
+msgstr "Tiện ích Khám phá"
+
+#. i18n: ectx: property (text), widget (QLabel)
+#: findthisdevice/findthisdevice_config.ui:25
+#, kde-format
+msgid "Sound to play:"
+msgstr "Âm thanh để phát:"
+
+#. i18n: ectx: property (toolTip), widget (KUrlRequester, soundFileRequester)
+#: findthisdevice/findthisdevice_config.ui:39
+#, kde-format
+msgid "Select the sound to play"
+msgstr "Chọn âm thanh để phát"
+
+#: lockdevice/lockdeviceplugin-win.cpp:59
+#: lockdevice/lockdeviceplugin.cpp:87
+#, kde-format
+msgid "Remote lock successful"
+msgstr "Khóa từ xa thành công"
+
+#: lockdevice/lockdeviceplugin-win.cpp:62
+#: lockdevice/lockdeviceplugin-win.cpp:63
+#: lockdevice/lockdeviceplugin.cpp:92 lockdevice/lockdeviceplugin.cpp:94
+#, kde-format
+msgid "Remote lock failed"
+msgstr "Khóa từ xa thất bại"
+
+#: mpriscontrol/mpriscontrolplugin-win.cpp:30
+#, kde-format
+msgctxt ""
+"@title Users select this to control the current media player when we can't "
+"detect a specific player name like VLC"
+msgid "Current Player"
+msgstr "Trình phát hiện tại"
+
+#: notifications/notification.cpp:108
+#, kde-format
+msgctxt "@action:button"
+msgid "Reply"
+msgstr "hồi đáp"
+
+#: notifications/notification.cpp:109
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Reply to %1..."
+msgstr "Hồi đáp %1..."
+
+#: notifications/sendreplydialog.cpp:29
+#, kde-format
+msgid "Send"
+msgstr "Gửi"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, SendReplyDialog)
+#: notifications/sendreplydialog.ui:14
+#, kde-format
+msgid "Dialog"
+msgstr "Hộp thoại"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, PauseMusicConfigUi)
+#: pausemusic/pausemusic_config.ui:17
+#, kde-format
+msgid "Pause music plugin"
+msgstr "Phần cài cắm tạm dừng nhạc"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: pausemusic/pausemusic_config.ui:32
+#, kde-format
+msgid "Condition"
+msgstr "Điều kiện"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rad_ringing)
+#: pausemusic/pausemusic_config.ui:38
+#, kde-format
+msgid "Pause as soon as phone rings"
+msgstr "Tạm dừng ngay khi điện thoại reo"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rad_talking)
+#: pausemusic/pausemusic_config.ui:45
+#, kde-format
+msgid "Pause only while talking"
+msgstr "Chỉ tạm dừng khi đang nói"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: pausemusic/pausemusic_config.ui:61
+#, kde-format
+msgid "Actions"
+msgstr "Hành động"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_pause)
+#: pausemusic/pausemusic_config.ui:67
+#, kde-format
+msgid "Pause media players"
+msgstr "Tạm dừng phương tiện"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_mute)
+#: pausemusic/pausemusic_config.ui:74
+#, kde-format
+msgid "Mute system sound"
+msgstr "Tắt tiếng hệ thống"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_resume)
+#: pausemusic/pausemusic_config.ui:81
+#, kde-format
+msgid "Automatically resume media when call has finished"
+msgstr "Tự động tiếp tục phương tiện khi cuộc gọi đã kết thúc"
+
+#: ping/pingplugin.cpp:26
+#, kde-format
+msgid "Ping!"
+msgstr "Ping!"
+
+#: runcommand/runcommand_config.cpp:41
+#, kde-format
+msgid "Schedule a shutdown"
+msgstr "Lập lịch tắt máy"
+
+#: runcommand/runcommand_config.cpp:42
+#, kde-format
+msgid "Shutdown now"
+msgstr "Tắt máy ngay"
+
+#: runcommand/runcommand_config.cpp:43
+#, kde-format
+msgid "Cancel last shutdown"
+msgstr "Huỷ lần tắt máy cuối cùng"
+
+#: runcommand/runcommand_config.cpp:44
+#, kde-format
+msgid "Schedule a reboot"
+msgstr "Lên lịch khởi động lại"
+
+#: runcommand/runcommand_config.cpp:45 runcommand/runcommand_config.cpp:54
+#, kde-format
+msgid "Suspend"
+msgstr "Tạm dừng"
+
+#: runcommand/runcommand_config.cpp:46 runcommand/runcommand_config.cpp:62
+#, kde-format
+msgid "Lock Screen"
+msgstr "Khóa màn hình"
+
+#: runcommand/runcommand_config.cpp:49
+#, kde-format
+msgid "Say Hello"
+msgstr "Nói xin chào"
+
+#: runcommand/runcommand_config.cpp:52
+#, kde-format
+msgid "Shutdown"
+msgstr "Tắt máy"
+
+#: runcommand/runcommand_config.cpp:53
+#, kde-format
+msgid "Reboot"
+msgstr "Khởi động lại"
+
+#: runcommand/runcommand_config.cpp:57
+#, kde-format
+msgid "Maximum Brightness"
+msgstr "Độ sáng tối đa"
+
+#: runcommand/runcommand_config.cpp:63
+#, kde-format
+msgid "Unlock Screen"
+msgstr "Mở khóa màn hình"
+
+#: runcommand/runcommand_config.cpp:64
+#, kde-format
+msgid "Close All Vaults"
+msgstr "Đóng tất cả két an toàn"
+
+#: runcommand/runcommand_config.cpp:66
+#, kde-format
+msgid "Forcefully Close All Vaults"
+msgstr "Đóng tất cả két an toàn một cách mạnh mẽ"
+
+#: runcommand/runcommand_config.cpp:73
+#, kde-format
+msgid "Sample commands"
+msgstr "Các lệnh mẫu"
+
+#: runcommand/runcommand_config.cpp:77
+#, kde-format
+msgid "Export"
+msgstr "xuất khẩu"
+
+#: runcommand/runcommand_config.cpp:80
+#, kde-format
+msgid "Import"
+msgstr "Nhập khẩu"
+
+#: runcommand/runcommand_config.cpp:93 sendnotifications/notifyingapplicationmodel.cpp:177
+#, kde-format
+msgid "Name"
+msgstr "Tên"
+
+#: runcommand/runcommand_config.cpp:93
+#, kde-format
+msgid "Command"
+msgstr "lệnh"
+
+#: runcommand/runcommand_config.cpp:98
+#, kde-format
+msgid "Export Commands"
+msgstr "Xuất Khẩu Lệnh"
+
+#: runcommand/runcommand_config.cpp:123
+#, kde-format
+msgid "Import Commands"
+msgstr "Nhập khẩu lệnh"
+
+#: screensaver-inhibit/screensaverinhibitplugin.cpp:24
+#, kde-format
+msgid "Phone is connected"
+msgstr "Điện thoại đã được kết nối"
+
+#: sendnotifications/notifyingapplicationmodel.cpp:181
+#, kde-format
+msgid "Blacklisted"
+msgstr "Đã đưa vào danh sách đen"
+
+#: sendnotifications/notifyingapplicationmodel.cpp:185
+#, kde-format
+msgid "Name of a notifying application."
+msgstr "Tên của ứng dụng thông báo."
+
+#: sendnotifications/notifyingapplicationmodel.cpp:187
+#, kde-format
+msgid "Synchronize notifications of an application?"
+msgstr "Đồng bộ hóa thông báo của một ứng dụng?"
+
+#: sendnotifications/notifyingapplicationmodel.cpp:190
+#, kde-format
+msgid ""
+"Regular expression defining which notifications should not be sent.\n"
+"This pattern is applied to the summary and, if selected above, the body of "
+"notifications."
+msgstr ""
+"Biểu thức chính quy xác định những thông báo nào không nên được gửi.\nMẫu "
+"này được áp dụng cho tóm tắt và, nếu được chọn ở trên, nội dung của các "
+"thông báo."
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: sendnotifications/sendnotifications_config.ui:38
+#, kde-format
+msgid "General"
+msgstr "chung"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, check_persistent)
+#: sendnotifications/sendnotifications_config.ui:44
+#, kde-format
+msgid "Synchronize only notifications with a timeout value of 0?"
+msgstr "Chỉ đồng bộ hóa các thông báo có giá trị hết giờ là 0?"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_persistent)
+#: sendnotifications/sendnotifications_config.ui:47
+#, kde-format
+msgid "Persistent notifications only"
+msgstr "Chỉ thông báo lâu dài"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, check_body)
+#: sendnotifications/sendnotifications_config.ui:60
+#, kde-format
+msgid ""
+"Append the notification body to the summary when synchronizing notifications?"
+msgstr "Thêm nội dung thông báo vào tóm tắt khi đồng bộ hóa các thông báo?"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_body)
+#: sendnotifications/sendnotifications_config.ui:63
+#, kde-format
+msgid "Include body"
+msgstr "Bao gồm nội dung"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, check_icons)
+#: sendnotifications/sendnotifications_config.ui:76
+#, kde-format
+msgid "Synchronize icons of notifying applications if possible?"
+msgstr "Đồng bộ hóa biểu tượng của các ứng dụng thông báo nếu có thể?"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_icons)
+#: sendnotifications/sendnotifications_config.ui:79
+#, kde-format
+msgid "Synchronize icons"
+msgstr "Đồng bộ hóa biểu tượng"
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, spin_urgency)
+#: sendnotifications/sendnotifications_config.ui:107
+#, kde-format
+msgid ""
+"<html><head/><body><p>Minimum urgency level of the notifications</p></body></"
+"html>"
+msgstr ""
+"<html><head/><body><p>Mức độ khẩn cấp tối thiểu của thông "
+"báo</p></body></html>"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, label)
+#: sendnotifications/sendnotifications_config.ui:123
+#, kde-format
+msgid "Synchronize only notifications with the given urgency level."
+msgstr "Chỉ đồng bộ hóa các thông báo với mức độ khẩn cấp đã cho."
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: sendnotifications/sendnotifications_config.ui:126
+#, kde-format
+msgid "Minimum urgency level"
+msgstr "Mức độ khẩn cấp tối thiểu"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: sendnotifications/sendnotifications_config.ui:148
+#, kde-format
+msgid "Applications"
+msgstr "Ứng dụng"
+
+#: sftp/mounter.cpp:167
+#, kde-format
+msgid "Failed to start sshfs"
+msgstr "Không thể khởi động sshfs"
+
+#: sftp/mounter.cpp:171
+#, kde-format
+msgid "sshfs process crashed"
+msgstr "quá trình sshfs bị sập"
+
+#: sftp/mounter.cpp:175
+#, kde-format
+msgid "Unknown error in sshfs"
+msgstr "Lỗi không rõ trong sshfs"
+
+#: sftp/mounter.cpp:186
+#, kde-format
+msgid "Error when accessing filesystem. sshfs finished with exit code %0"
+msgstr "Lỗi khi truy cập hệ thống tệp. sshfs kết thúc với mã thoát %0"
+
+#: sftp/mounter.cpp:195
+#, kde-format
+msgid "Failed to mount filesystem: device not responding"
+msgstr "Không thể gắn kết hệ thống tệp: thiết bị không phản hồi"
+
+#: sftp/sftpplugin-win.cpp:79
+#, kde-format
+msgid "KDE Connect"
+msgstr "KDE Connect"
+
+#: sftp/sftpplugin-win.cpp:80
+#, kde-format
+msgid "Cannot handle SFTP protocol. Apologies for the inconvenience"
+msgstr "Không thể quai móc giao thức SFTP. Xin lỗi vì sự bất tiện này"
+
+#: sftp/sftpplugin.cpp:134
+#, kde-format
+msgid "All files"
+msgstr "Tất cả tệp"
+
+#: sftp/sftpplugin.cpp:135
+#, kde-format
+msgid "Camera pictures"
+msgstr "Ảnh máy ảnh"
+
+#: share/share_config.cpp:22
+#, kde-format
+msgid "&percnt;1 in the path will be replaced with the specific device name."
+msgstr "Phần trăm; 1 trong đường dẫn sẽ được thay thế bằng tên th&iết bị cụ thể."
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, ShareConfigUi)
+#: share/share_config.ui:17
+#, kde-format
+msgid "Share plugin settings"
+msgstr "Thiết lập phần cài cắm chia sẻ"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: share/share_config.ui:23
+#, kde-format
+msgid "Receiving"
+msgstr "Nhận"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: share/share_config.ui:31
+#, kde-format
+msgid "Save files in:"
+msgstr "Lưu tệp vào:"
+
+#: share/shareplugin.cpp:160
+#, kde-format
+msgctxt "@info Some piece of text was received from a connected device"
+msgid "Shared text from %1 copied to clipboard"
+msgstr "Văn bản đã chia sẻ từ %1 được sao chép vào bảng nháp"
+
+#: share/shareplugin.cpp:191
+#, kde-format
+msgctxt "@action:button Edit text with default text editor"
+msgid "Open in Text Editor"
+msgstr "Mở trong Trình biên tập văn bản"
+
+#: share/shareplugin.cpp:195
+#, kde-format
+msgctxt "@action:button Open URL with default app"
+msgid "Open Link"
+msgstr "Mở liên kết"
+
+#: share/shareplugin.cpp:237
+#, kde-format
+msgid "Could not share file"
+msgstr "Không thể chia sẻ tệp"
+
+#: share/shareplugin.cpp:237
+#, kde-format
+msgid "%1 does not exist"
+msgstr "%1 không tồn tại"
+
+#: telephony/telephonyplugin.cpp:23
+#, kde-format
+msgid "unknown number"
+msgstr "số không rõ"
+
+#: telephony/telephonyplugin.cpp:32
+#, kde-format
+msgid "Incoming call from %1"
+msgstr "Cuộc gọi đến từ %1"
+
+#: telephony/telephonyplugin.cpp:36
+#, kde-format
+msgid "Missed call from %1"
+msgstr "Cuộc gọi nhỡ từ %1"
+
+#: telephony/telephonyplugin.cpp:65
+#, kde-format
+msgid "Mute Call"
+msgstr "Tắt tiếng cuộc gọi"

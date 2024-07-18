@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2019-06-01 03:01+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: component/name
+#: org.kde.ksystemlog.appdata.xml:6
+msgid "KSystemLog"
+msgstr "KSystemLog"
+
+#. (itstool) path: component/summary
+#: org.kde.ksystemlog.appdata.xml:7
+msgid "system log viewer"
+msgstr "trình xem nhật kí hệ thống"
+
+#. (itstool) path: description/p
+#: org.kde.ksystemlog.appdata.xml:9
+msgid "KSystemLog show all logs of your system, grouped by General (Default system log, Authentication, Kernel, X.org...), and optional Services (Apache, Cups, etc, ...). It includes many features to read nicely your log files:"
+msgstr ""
+"KSystemLog hiển thị tất cả các nhật kí của hệ thống của bạn, được nhóm theo "
+"Chung (Nhật kí hệ thống mặc định, Xác thực, Kernel, X.org...) và các Dịch "
+"vụ tùy chọn (Apache, Cups, v.v.). Nó bao gồm nhiều tính năng để đọc các tệp "
+"nhật kí của bạn một cách dễ dàng:"
+
+#. (itstool) path: ul/li
+#: org.kde.ksystemlog.appdata.xml:13
+msgid "Colorize log lines depending on their severities"
+msgstr "Tô màu các dòng nhật kí tùy thuộc vào mức độ nghiêm trọng của chúng"
+
+#. (itstool) path: ul/li
+#: org.kde.ksystemlog.appdata.xml:14
+msgid "Tabbed view to allow displaying several logs at the same time"
+msgstr "Giao diện có thẻ để hiển thị nhiều nhật kí cùng một lúc"
+
+#. (itstool) path: ul/li
+#: org.kde.ksystemlog.appdata.xml:15
+msgid "Auto display new lines logged"
+msgstr "Tự động hiển thị các dòng ghi nhật ký mới"
+
+#. (itstool) path: ul/li
+#: org.kde.ksystemlog.appdata.xml:16
+msgid "Detailed information for each log lines"
+msgstr "Thông tin chi tiết cho mỗi dòng nhật kí"

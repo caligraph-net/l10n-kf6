@@ -21,74 +21,74 @@ msgstr ""
 #, kde-format
 msgctxt "@option:radio an entry denying permissions"
 msgid "Deny"
-msgstr ""
+msgstr "Từ chối"
 
 #: samba/aclproperties/plugin.cpp:61
 #, kde-format
 msgctxt "@option:radio an entry allowing permissions"
 msgid "Allow"
-msgstr ""
+msgstr "Cho phép"
 
 #: samba/aclproperties/plugin.cpp:65
 #, kde-format
 msgctxt ""
 "@option:radio an unknown permission entry type (doesn't really happen)"
 msgid "Unknown"
-msgstr ""
+msgstr "không rõ"
 
 #: samba/aclproperties/plugin.cpp:72
 #, kde-format
 msgctxt "@option:radio permission applicability type"
 msgid "This folder only"
-msgstr ""
+msgstr "Chỉ thư mục này"
 
 #: samba/aclproperties/plugin.cpp:74
 #, kde-format
 msgctxt "@option:radio permission applicability type"
 msgid "This folder, subfolders and files"
-msgstr ""
+msgstr "Thư mục này, các thư mục con và tệp"
 
 #: samba/aclproperties/plugin.cpp:76
 #, kde-format
 msgctxt "@option:radio permission applicability type"
 msgid "This folder and subfolders"
-msgstr ""
+msgstr "Thư mục này và các thư mục con"
 
 #: samba/aclproperties/plugin.cpp:78
 #, kde-format
 msgctxt "@option:radio permission applicability type"
 msgid "This folder and files"
-msgstr ""
+msgstr "Thư mục này và các tệp"
 
 #: samba/aclproperties/plugin.cpp:80
 #, kde-format
 msgctxt "@option:radio permission applicability type"
 msgid "Subfolders and files only"
-msgstr ""
+msgstr "Chỉ các thư mục con và tệp"
 
 #: samba/aclproperties/plugin.cpp:82
 #, kde-format
 msgctxt "@option:radio permission applicability type"
 msgid "Subfolders only"
-msgstr ""
+msgstr "Chỉ các thư mục con"
 
 #: samba/aclproperties/plugin.cpp:84
 #, kde-format
 msgctxt "@option:radio permission applicability type"
 msgid "Files only"
-msgstr ""
+msgstr "Chỉ tệp"
 
 #: samba/aclproperties/plugin.cpp:87
 #, kde-format
 msgctxt "@option:radio permission applicability type (doesn't really happen)"
 msgid "Unknown"
-msgstr ""
+msgstr "không rõ"
 
 #: samba/aclproperties/plugin.cpp:185
 #, kde-format
 msgctxt "@title:tab"
 msgid "Remote Permissions"
-msgstr ""
+msgstr "Quyền từ xa"
 
 #: samba/aclproperties/qml/ACEPage.qml:29
 msgctxt "@info"
@@ -96,81 +96,83 @@ msgid ""
 "This permission entry was inherited from a parent container and can only be "
 "modified on that parent (e.g. a higher level directory)."
 msgstr ""
+"Mục nhập quyền này được thừa kế từ một container cha và chỉ có thể được sửa "
+"đổi trên container cha đó (ví dụ: một thư mục cấp cao hơn)."
 
 #: samba/aclproperties/qml/ACEPage.qml:36
 msgctxt "@label"
 msgid "Type:"
-msgstr ""
+msgstr "Loại:"
 
 #: samba/aclproperties/qml/ACEPage.qml:46
 msgctxt "@label"
 msgid "Applies to:"
-msgstr ""
+msgstr "Áp dụng cho:"
 
 #: samba/aclproperties/qml/ACEPage.qml:59
 msgctxt "@option:check"
 msgid "Traverse folder / execute file"
-msgstr ""
+msgstr "Duyệt qua thư mục / thực thi tệp"
 
 #: samba/aclproperties/qml/ACEPage.qml:63
 msgctxt "@option:check"
 msgid "List folder / read data"
-msgstr ""
+msgstr "Liệt kê thư mục / đọc dữ liệu"
 
 #: samba/aclproperties/qml/ACEPage.qml:67
 msgctxt "@option:check"
 msgid "Read attributes"
-msgstr ""
+msgstr "Đọc thuộc tính"
 
 #: samba/aclproperties/qml/ACEPage.qml:71
 msgctxt "@option:check"
 msgid "Read extended attributes"
-msgstr ""
+msgstr "Đọc các thuộc tính mở rộng"
 
 #: samba/aclproperties/qml/ACEPage.qml:75
 msgctxt "@option:check"
 msgid "Create files / write data"
-msgstr ""
+msgstr "Tạo tệp / ghi dữ liệu"
 
 #: samba/aclproperties/qml/ACEPage.qml:79
 msgctxt "@option:check"
 msgid "Create folders / append data"
-msgstr ""
+msgstr "Tạo thư mục / thêm dữ liệu"
 
 #: samba/aclproperties/qml/ACEPage.qml:83
 msgctxt "@option:check"
 msgid "Write attributes"
-msgstr ""
+msgstr "Thuộc tính ghi"
 
 #: samba/aclproperties/qml/ACEPage.qml:87
 msgctxt "@option:check"
 msgid "Write extended attributes"
-msgstr ""
+msgstr "Ghi thuộc tính mở rộng"
 
 #: samba/aclproperties/qml/ACEPage.qml:91
 msgctxt "@option:check"
 msgid "Delete subfolders and files"
-msgstr ""
+msgstr "Xóa thư mục con và tệp"
 
 #: samba/aclproperties/qml/ACEPage.qml:95
 msgctxt "@option:check"
 msgid "Delete"
-msgstr ""
+msgstr "Xóa"
 
 #: samba/aclproperties/qml/ACEPage.qml:99
 msgctxt "@option:check"
 msgid "Read permissions"
-msgstr ""
+msgstr "Quyền đọc"
 
 #: samba/aclproperties/qml/ACEPage.qml:103
 msgctxt "@option:check"
 msgid "Change permissions"
-msgstr ""
+msgstr "Thay đổi quyền"
 
 #: samba/aclproperties/qml/ACEPage.qml:107
 msgctxt "@option:check"
 msgid "Take ownership"
-msgstr ""
+msgstr "Nhận quyền sở hữu"
 
 #: samba/aclproperties/qml/ACEPage.qml:112
 msgctxt "@option:check"
@@ -178,37 +180,39 @@ msgid ""
 "Only apply these permissions to objects and/or containers within this "
 "container"
 msgstr ""
+"Chỉ áp dụng các quyền này cho các đối tượng và/hoặc chứa đựng bên trong "
+"container này"
 
 #: samba/aclproperties/qml/MainPage.qml:13
 msgctxt "@title"
 msgid "Access Control Entries"
-msgstr ""
+msgstr "Mục nhập Kiểm soát Truy cập"
 
 #: samba/aclproperties/qml/MainPage.qml:29
 msgctxt "@title file/folder owner info"
 msgid "Ownership"
-msgstr ""
+msgstr "Quyền sở hữu"
 
 #: samba/aclproperties/qml/MainPage.qml:33
 msgctxt "@label"
 msgid "Owner:"
-msgstr ""
+msgstr "Chủ sở hữu:"
 
 #: samba/aclproperties/qml/MainPage.qml:37
 msgctxt "@label"
 msgid "Group:"
-msgstr ""
+msgstr "Nhóm:"
 
 #: samba/aclproperties/qml/NoDataPage.qml:17
 msgctxt "@info"
 msgid "No Permissions Found"
-msgstr ""
+msgstr "Không tìm thấy quyền"
 
 #: samba/aclproperties/qml/NoDataPage.qml:18
 msgctxt "@info"
 msgid ""
 "There are probably no SMB/Windows/Advanced permissions set on this file."
-msgstr ""
+msgstr "Có thể không có quyền SMB/Windows/Nâng cao nào được đặt cho tệp này."
 
 #: samba/filepropertiesplugin/authhelper.cpp:47
 #, kde-kuit-format
@@ -217,20 +221,22 @@ msgid ""
 "User name <resource>%1</resource> is not valid as the name of a Samba user; "
 "cannot check for its existence."
 msgstr ""
+"Tên người dùng <resource>%1</resource> không hợp lệ làm tên người dùng "
+"Samba; không thể kiểm tra sự tồn tại của nó."
 
 #: samba/filepropertiesplugin/authhelper.cpp:66
 #, kde-kuit-format
 msgctxt ""
 "@info '%1 %2' together make up a terminal command; %3 is the command's output"
 msgid "Command <command>%1 %2</command> failed:<nl/><nl/>%3"
-msgstr ""
+msgstr "Lệnh <command>%1 %2</command> thất bại:<nl/><nl/>%3"
 
 #: samba/filepropertiesplugin/authhelper.cpp:80
 #: samba/filepropertiesplugin/authhelper.cpp:126
 #, kde-kuit-format
 msgctxt "@info error while looking up uid from dbus"
 msgid "Could not resolve calling user."
-msgstr ""
+msgstr "Không thể phân giải người dùng gọi."
 
 #: samba/filepropertiesplugin/authhelper.cpp:86
 #, kde-format
@@ -238,7 +244,7 @@ msgctxt "@info"
 msgid ""
 "For security reasons, creating Samba users with empty passwords is not "
 "allowed."
-msgstr ""
+msgstr "Vì lý do an ninh, không được phép tạo người dùng Samba với mật khẩu trống."
 
 #: samba/filepropertiesplugin/authhelper.cpp:131
 #, kde-kuit-format
@@ -247,6 +253,8 @@ msgid ""
 "<resource>%1</resource> is not a valid group name; cannot make user "
 "<resource>%2</resource> a member of it."
 msgstr ""
+"<resource>%1</resource> không phải là tên nhóm hợp lệ; không thể đặt người "
+"dùng <resource>%2</resource> làm thành viên của nó."
 
 #: samba/filepropertiesplugin/authhelper.cpp:139
 #, kde-kuit-format
@@ -259,12 +267,16 @@ msgid ""
 "not                                                    include the text "
 "<resource>admin</resource> or <resource>root</resource>."
 msgstr ""
+"Vì lý do an ninh, không thể đặt người dùng <resource>%1</resource> làm "
+"thành viên của nhóm <resource>%2</resource>. Tên nhóm không an toàn; tên "
+"nhóm hợp lệ không bao gồm từ <resource>admin</resource> hoặc "
+"<resource>root</resource>."
 
 #: samba/filepropertiesplugin/groupmanager.cpp:36
 #, kde-kuit-format
 msgctxt "@info:status"
 msgid "Your Samba installation appears to be broken."
-msgstr ""
+msgstr "Cài đặt Samba của bạn dường như bị hỏng."
 
 #: samba/filepropertiesplugin/groupmanager.cpp:40
 #, kde-kuit-format
@@ -274,6 +286,9 @@ msgid ""
 "properly. Please file a bug with your distribution or check your "
 "distribution's documentation on setting up Samba sharing."
 msgstr ""
+"Lỗi này được gây ra do bản phân phối của bạn không thiết lập chia sẻ Samba "
+"đúng cách. Vui lòng gửi báo cáo lỗi với bản phân phối của bạn hoặc kiểm tra "
+"tài liệu của bản phân phối về cách thiết lập chia sẻ Samba."
 
 #: samba/filepropertiesplugin/groupmanager.cpp:42
 #, kde-kuit-format
@@ -284,6 +299,10 @@ msgid ""
 "distribution's documentation on setting up Samba sharing. Error:<nl/"
 "><message>%1</message>"
 msgstr ""
+"Lỗi này do bản phân phối của bạn không thiết lập chia sẻ Samba đúng cách. "
+"Vui lòng báo cáo lỗi với bản phân phối của bạn hoặc kiểm tra tài liệu của "
+"bản phân phối về cách thiết lập chia sẻ Samba. "
+"Lỗi:<nl/><message>%1</message>"
 
 #: samba/filepropertiesplugin/groupmanager.cpp:49
 #, kde-kuit-format
@@ -291,6 +310,8 @@ msgctxt "@info:status"
 msgid ""
 "This folder can't be shared because <filename>%1</filename> does not exist."
 msgstr ""
+"Thư mục này không thể được chia sẻ vì <filename>%1</filename> không tồn "
+"tại."
 
 #: samba/filepropertiesplugin/groupmanager.cpp:51
 #, kde-kuit-format
@@ -300,6 +321,9 @@ msgid ""
 "properly. You can fix it yourself by creating that folder manually. Then "
 "close and re-open this window."
 msgstr ""
+"Lỗi này được gây ra do bản phân phối của bạn không thiết lập chia sẻ Samba "
+"đúng cách. Bạn có thể tự sửa lỗi bằng cách tạo thư mục đó thủ công. Sau đó, "
+"đóng và mở lại cửa sổ này."
 
 #: samba/filepropertiesplugin/groupmanager.cpp:58
 #, kde-kuit-format
@@ -308,6 +332,8 @@ msgid ""
 "This folder can't be shared because your user account isn't a member of the "
 "<resource>%1</resource> group."
 msgstr ""
+"Thư mục này không thể được chia sẻ vì tài khoản người dùng của bạn không "
+"phải là thành viên của nhóm <resource>%1</resource>."
 
 #: samba/filepropertiesplugin/groupmanager.cpp:60
 #, kde-kuit-format
@@ -316,12 +342,14 @@ msgid ""
 "You can fix this by making your user a member of that group. Then restart "
 "the system."
 msgstr ""
+"Bạn có thể sửa lỗi này bằng cách thêm người dùng của bạn vào nhóm đó. Sau "
+"đó khởi động lại hệ thống."
 
 #: samba/filepropertiesplugin/groupmanager.cpp:64
 #, kde-format
 msgctxt "action@button makes user a member of the samba share group"
 msgid "Make me a Group Member"
-msgstr ""
+msgstr "Làm tôi trở thành thành viên của nhóm"
 
 #: samba/filepropertiesplugin/groupmanager.cpp:73
 #, kde-kuit-format
@@ -330,6 +358,8 @@ msgid ""
 "This folder can't be shared because your user account doesn't have "
 "permission to write into <filename>%1</filename>."
 msgstr ""
+"Thư mục này không thể được chia sẻ vì tài khoản người dùng của bạn không có "
+"quyền ghi vào <filename>%1</filename>."
 
 #: samba/filepropertiesplugin/groupmanager.cpp:75
 #, kde-kuit-format
@@ -339,6 +369,9 @@ msgid ""
 "write permission for <filename>%2</filename>. Then close and re-open this "
 "window."
 msgstr ""
+"Bạn có thể khắc phục điều này bằng cách đảm bảo rằng nhóm "
+"<resource>%1</resource> có quyền ghi cho <filename>%2</filename>. Sau đó "
+"đóng và mở lại cửa sổ này."
 
 #: samba/filepropertiesplugin/groupmanager.cpp:102
 #, kde-kuit-format
@@ -347,6 +380,8 @@ msgid ""
 "Adding user <resource>%1</resource> to group <resource>%2</resource> so they "
 "may configure Samba user shares"
 msgstr ""
+"Thêm người dùng <resource>%1</resource> vào nhóm <resource>%2</resource> để "
+"họ có thể cấu hình chia sẻ người dùng Samba"
 
 #: samba/filepropertiesplugin/groupmanager.cpp:113
 #, kde-kuit-format
@@ -355,31 +390,33 @@ msgid ""
 "Failed to make user <resource>%1</resource> a member of group <resource>%2</"
 "resource>"
 msgstr ""
+"Không thể thêm người dùng <resource>%1</resource> vào nhóm "
+"<resource>%2</resource>"
 
 #: samba/filepropertiesplugin/permissionshelper.cpp:95
 #, kde-format
 msgctxt "@title"
 msgid "File Path"
-msgstr ""
+msgstr "Đường dẫn tệp"
 
 #: samba/filepropertiesplugin/permissionshelper.cpp:97
 #, kde-format
 msgctxt "@title"
 msgid "Current Permissions"
-msgstr ""
+msgstr "Quyền hiện tại"
 
 #: samba/filepropertiesplugin/permissionshelper.cpp:99
 #, kde-format
 msgctxt "@title"
 msgid "Required Permissions"
-msgstr ""
+msgstr "Quyền cần thiết"
 
 #: samba/filepropertiesplugin/qml/ACLPage.qml:29
-#, fuzzy
+#, 
 #| msgid "&No access at all"
 msgctxt "@title"
 msgid "Denying Access"
-msgstr "Khô&ng có quyền"
+msgstr "Từ chối truy cập"
 
 #. i18n markup; this also means newlines are ignored!
 #: samba/filepropertiesplugin/qml/ACLPage.qml:43
@@ -396,16 +433,24 @@ msgid ""
 "still not be able to access it remotely even\n"
 "when the Share access rules would allow it."
 msgstr ""
+"\nTừ chối truy cập ngăn cản việc sử dụng chia sẻ này ngay cả khi một quy "
+"tắc truy cập khác có thể cấp quyền truy cập. Quy tắc từ chối luôn được ưu "
+"tiên. Đặc biệt, việc từ chối truy cập cho <resource>Everyone</resource> "
+"thực sự vô hiệu hóa quyền truy cập cho tất cả mọi người.\nThông thường "
+"không cần thiết phải từ chối bất kỳ ai vì các quyền thư mục và tệp thông "
+"thường vẫn áp dụng cho các thư mục được chia sẻ. Một người dùng không có "
+"quyền truy cập vào thư mục cục bộ sẽ vẫn không thể truy cập từ xa ngay cả "
+"khi các quy tắc truy cập Chia sẻ cho phép điều đó."
 
 #: samba/filepropertiesplugin/qml/ACLPage.qml:62
 msgctxt "@label"
 msgid "This folder needs extra permissions for sharing to work"
-msgstr ""
+msgstr "Thư mục này cần có quyền bổ sung để chia sẻ hoạt động"
 
 #: samba/filepropertiesplugin/qml/ACLPage.qml:66
 msgctxt "@action:button opens the change permissions page"
 msgid "Fix Permissions"
-msgstr ""
+msgstr "Sửa quyền"
 
 #: samba/filepropertiesplugin/qml/ACLPage.qml:78
 msgctxt "@label"
@@ -413,16 +458,18 @@ msgid ""
 "The share might not work properly because share folder or its paths has "
 "Advanced Permissions: %1"
 msgstr ""
+"Chia sẻ này có thể không hoạt động đúng cách vì thư mục chia sẻ hoặc đường "
+"dẫn của nó có Quyền Nâng cao: %1"
 
 #: samba/filepropertiesplugin/qml/ACLPage.qml:85
-#, fuzzy
+#, 
 #| msgid "S&hare this folder in the local network"
 msgctxt "@option:check"
 msgid "Share this folder with other computers on the local network"
-msgstr "Chia sẻ thư mục này qua mạng cục bộ"
+msgstr "Chia sẻ thư mục này với các máy tính khác trên mạng cục bộ"
 
 #: samba/filepropertiesplugin/qml/ACLPage.qml:102
-#, fuzzy
+#, 
 #| msgid "Name:"
 msgctxt "@label"
 msgid "Name:"
@@ -434,6 +481,8 @@ msgid ""
 "This name cannot be used. Share names must not be user names and there must "
 "not be two shares with the same name on the entire system."
 msgstr ""
+"Tên này không thể được sử dụng. Tên chia sẻ không được là tên người dùng và "
+"không được có hai chia sẻ cùng tên trên toàn hệ thống."
 
 #: samba/filepropertiesplugin/qml/ACLPage.qml:143
 msgctxt "@label"
@@ -441,76 +490,78 @@ msgid ""
 "This name may be too long. It can cause interoperability problems or get "
 "rejected by Samba."
 msgstr ""
+"Tên này có thể quá dài. Nó có thể gây ra các vấn đề về khả năng tương tác "
+"hoặc bị Samba từ chối."
 
 #: samba/filepropertiesplugin/qml/ACLPage.qml:150
-#, fuzzy
+#, 
 #| msgid "Allo&w guest logins"
 msgctxt "@option:check"
 msgid "Allow guests"
-msgstr "Cho phép &khách đăng nhập"
+msgstr "Cho phép khách"
 
 #: samba/filepropertiesplugin/qml/ACLPage.qml:163
 msgctxt "@label"
 msgid "Guest access is disabled by the system's Samba configuration."
-msgstr ""
+msgstr "Quyền truy cập khách bị tắt bởi cấu hình Samba của hệ thống."
 
 #: samba/filepropertiesplugin/qml/ACLPage.qml:253
 msgctxt "@option:radio user can read&write"
 msgid "Full Control"
-msgstr ""
+msgstr "Toàn quyền"
 
 #: samba/filepropertiesplugin/qml/ACLPage.qml:254
-#, fuzzy
+#, 
 #| msgid "Read only"
 msgctxt "@option:radio user can read"
 msgid "Read Only"
 msgstr "Chỉ đọc"
 
 #: samba/filepropertiesplugin/qml/ACLPage.qml:255
-#, fuzzy
+#, 
 #| msgid "&No access at all"
 msgctxt "@option:radio user not allowed to access share"
 msgid "No Access"
-msgstr "Khô&ng có quyền"
+msgstr "Không được truy cập"
 
 #: samba/filepropertiesplugin/qml/ACLPage.qml:281
 msgctxt "@button"
 msgid "Show Samba status monitor"
-msgstr ""
+msgstr "Hiển thị trình giám sát trạng thái Samba"
 
 #: samba/filepropertiesplugin/qml/ChangePassword.qml:23
-#, fuzzy
+#, 
 #| msgid "Password"
 msgctxt "@title"
 msgid "Set password"
-msgstr "Mật khẩu"
+msgstr "Đặt mật khẩu"
 
 #: samba/filepropertiesplugin/qml/ChangePassword.qml:75
-#, fuzzy
+#, 
 #| msgid "Password"
 msgctxt "@label:textbox"
 msgid "Password"
 msgstr "Mật khẩu"
 
 #: samba/filepropertiesplugin/qml/ChangePassword.qml:86
-#, fuzzy
+#, 
 #| msgid "No Password"
 msgctxt "@label:textbox"
 msgid "Confirm password"
-msgstr "Không có mật khẩu"
+msgstr "Xác nhận mật khẩu"
 
 #: samba/filepropertiesplugin/qml/ChangePassword.qml:97
 msgctxt "@label error message"
 msgid "Passwords must match"
-msgstr ""
+msgstr "Mật khẩu phải khớp"
 
 #: samba/filepropertiesplugin/qml/ChangePassword.qml:117
-#, fuzzy
+#, 
 #| msgid "Password"
 msgctxt ""
 "@action:button creates a new samba user with the user-specified password"
 msgid "Set Password"
-msgstr "Mật khẩu"
+msgstr "Đặt mật khẩu"
 
 #: samba/filepropertiesplugin/qml/ChangePermissionsPage.qml:34
 msgctxt "@info"
@@ -520,11 +571,14 @@ msgid ""
 "to work.</para>\n"
 "<para>Do you want to add these permissions now?</para><nl/>\n"
 msgstr ""
+"\n<para>Thư mục <filename>%1</filename> cần thêm quyền để chia sẻ hoạt "
+"động.</para>\n<para>Bạn có muốn thêm các quyền này ngay bây giờ "
+"không?</para><nl/>\n"
 
 #: samba/filepropertiesplugin/qml/ChangePermissionsPage.qml:71
 msgctxt "@action:button changes permissions"
 msgid "Change Permissions"
-msgstr ""
+msgstr "Thay đổi quyền"
 
 #: samba/filepropertiesplugin/qml/ChangePermissionsPage.qml:77
 msgctxt "@label"
@@ -532,31 +586,35 @@ msgid ""
 "Could not change permissions for: %1. All permission changes have been "
 "reverted to initial state."
 msgstr ""
+"Không thể thay đổi quyền truy cập cho: %1. Tất cả các thay đổi quyền đã "
+"được hoàn tác về trạng thái ban đầu."
 
 #: samba/filepropertiesplugin/qml/ChangePermissionsPage.qml:86
 msgctxt "@action:button cancels permissions change"
 msgid "Cancel"
-msgstr ""
+msgstr "Huỷ"
 
 #: samba/filepropertiesplugin/qml/InstallPage.qml:33
 #: samba/filepropertiesplugin/qml/MissingSambaPage.qml:17
-#, fuzzy
+#, 
 #| msgid "Only local folders can be shared."
 msgctxt "@info"
 msgid ""
 "The <application>Samba</application> file sharing service must be installed "
 "before folders can be shared."
-msgstr "Chỉ có quyền chia sẻ thư mục cục bộ."
+msgstr ""
+"Dịch vụ chia sẻ tệp <application>Samba</application> phải được cài đặt "
+"trước khi có thể chia sẻ thư mục."
 
 #: samba/filepropertiesplugin/qml/InstallPage.qml:36
 msgctxt "@button"
 msgid "Install Samba"
-msgstr ""
+msgstr "Cài đặt Samba"
 
 #: samba/filepropertiesplugin/qml/InstallPage.qml:44
 msgctxt "@label"
 msgid "The Samba package failed to install."
-msgstr ""
+msgstr "Gói Samba không thể cài đặt."
 
 #: samba/filepropertiesplugin/qml/MissingSambaPage.qml:18
 msgid ""
@@ -564,16 +622,19 @@ msgid ""
 "\"Install it\" button, and you will have to use your package manager to "
 "install the <command>samba</command> server package manually."
 msgstr ""
+"Vì bản phân phối này không bao gồm PackageKit, chúng tôi không thể hiển thị "
+"cho bạn nút \"Cài đặt\" tiện lợi, và bạn sẽ phải sử dụng trình quản lý gói "
+"của mình để cài đặt thủ công gói <command>samba</command> máy chủ."
 
 #: samba/filepropertiesplugin/qml/RebootPage.qml:17
 msgctxt "@label"
 msgid "Restart the computer to complete the changes."
-msgstr ""
+msgstr "Khởi động lại máy tính để hoàn tất các thay đổi."
 
 #: samba/filepropertiesplugin/qml/RebootPage.qml:20
 msgctxt "@button restart the system"
 msgid "Restart"
-msgstr ""
+msgstr "Khởi động lại"
 
 #. i18n markup
 #: samba/filepropertiesplugin/qml/UserPage.qml:65
@@ -591,13 +652,18 @@ msgid ""
 "a Samba password.\n"
 "</para>"
 msgstr ""
+"\n<para>\nSamba sử dụng một cơ sở dữ liệu người dùng riêng biệt với cơ sở "
+"dữ liệu hệ thống.\nĐiều này yêu cầu bạn phải đặt một mật khẩu Samba riêng "
+"cho mỗi người dùng mà bạn muốn\ncó thể xác thực.\n</para>\n<para>\nTrước "
+"khi bạn có thể truy cập các chia sẻ với tài khoản người dùng hiện tại của "
+"mình, bạn cần đặt một mật khẩu Samba.\n</para>"
 
 #: samba/filepropertiesplugin/qml/UserPage.qml:80
-#, fuzzy
+#, 
 #| msgid "Sa&mba Users"
 msgctxt "@action:button opens dialog to create new user"
 msgid "Create Samba password"
-msgstr "Người dùng Sa&mba"
+msgstr "Tạo mật khẩu Samba"
 
 #. i18n markup
 #: samba/filepropertiesplugin/qml/UserPage.qml:88
@@ -608,6 +674,8 @@ msgid ""
 "<command>smbpasswd</command>\n"
 "command line utility."
 msgstr ""
+"\nQuản lý người dùng và mật khẩu bổ sung có thể được thực hiện bằng cách sử "
+"dụng tiện ích dòng lệnh\n<command>smbpasswd</command>\ncủa Samba."
 
 #: samba/filepropertiesplugin/sambausershareplugin.cpp:155
 #, kde-format
@@ -616,75 +684,77 @@ msgid ""
 "You have exhausted the maximum amount of shared directories you may have "
 "active at the same time."
 msgstr ""
+"Bạn đã sử dụng hết số lượng thư mục chia sẻ tối đa được phép hoạt động cùng "
+"một lúc."
 
 #: samba/filepropertiesplugin/sambausershareplugin.cpp:157
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "File sharing is disabled."
 msgctxt "@info detailed error messsage"
 msgid "The share name is invalid."
-msgstr "Khả năng chia sẻ tệp bị tắt."
+msgstr "Tên chia sẻ không hợp lệ."
 
 #: samba/filepropertiesplugin/sambausershareplugin.cpp:159
 #, kde-format
 msgctxt "@info detailed error messsage"
 msgid "The share name is already in use for a different directory."
-msgstr ""
+msgstr "Tên chia sẻ này đã được sử dụng cho một thư mục khác."
 
 #: samba/filepropertiesplugin/sambausershareplugin.cpp:161
 #, kde-format
 msgctxt "@info detailed error messsage"
 msgid "The path is invalid."
-msgstr ""
+msgstr "Đường dẫn không hợp lệ."
 
 #: samba/filepropertiesplugin/sambausershareplugin.cpp:163
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "The folder does not exists."
 msgctxt "@info detailed error messsage"
 msgid "The path does not exist."
-msgstr "Thư mục này không tồn tại."
+msgstr "Đường dẫn này không tồn tại."
 
 #: samba/filepropertiesplugin/sambausershareplugin.cpp:165
 #, kde-format
 msgctxt "@info detailed error messsage"
 msgid "The path is not a directory."
-msgstr ""
+msgstr "Đường dẫn không phải là một thư mục."
 
 #: samba/filepropertiesplugin/sambausershareplugin.cpp:167
 #, kde-format
 msgctxt "@info detailed error messsage"
 msgid "The path is relative."
-msgstr ""
+msgstr "Đường dẫn là tương đối."
 
 #: samba/filepropertiesplugin/sambausershareplugin.cpp:169
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "This is the name of the share"
 msgctxt "@info detailed error messsage"
 msgid "This path may not be shared."
-msgstr "Đây là tên của vùng chia sẻ đó."
+msgstr "Đường dẫn này có thể không được chia sẻ."
 
 #: samba/filepropertiesplugin/sambausershareplugin.cpp:171
 #, kde-format
 msgctxt "@info detailed error messsage"
 msgid "The access rule is invalid."
-msgstr ""
+msgstr "Quy tắc truy cập không hợp lệ."
 
 #: samba/filepropertiesplugin/sambausershareplugin.cpp:173
 #, kde-format
 msgctxt "@info detailed error messsage"
 msgid "An access rule's user is not valid."
-msgstr ""
+msgstr "Người dùng của một quy tắc truy cập không hợp lệ."
 
 #: samba/filepropertiesplugin/sambausershareplugin.cpp:175
 #, kde-format
 msgctxt "@info detailed error messsage"
 msgid "The 'Guest' access rule is invalid."
-msgstr ""
+msgstr "Quy tắc truy cập 'Khách' không hợp lệ."
 
 #: samba/filepropertiesplugin/sambausershareplugin.cpp:177
 #, kde-format
 msgctxt "@info detailed error messsage"
 msgid "Enabling guest access is not allowed."
-msgstr ""
+msgstr "Không được phép kích hoạt quyền truy cập khách."
 
 #: samba/filepropertiesplugin/sambausershareplugin.cpp:195
 #, kde-kuit-format
@@ -694,12 +764,14 @@ msgid ""
 "not been created.</para><para>Samba internals report:</para><message>%1</"
 "message>"
 msgstr ""
+"<para>Đã xảy ra lỗi khi cố gắng chia sẻ thư mục. Chia sẻ chưa được "
+"tạo.</para><para>Báo cáo nội bộ của Samba:</para><message>%1</message>"
 
 #: samba/filepropertiesplugin/sambausershareplugin.cpp:202
 #, kde-format
 msgctxt "@info/title"
 msgid "Failed to Create Network Share"
-msgstr ""
+msgstr "Không thể tạo Chia sẻ Mạng"
 
 #: samba/filepropertiesplugin/sambausershareplugin.cpp:215
 #, kde-kuit-format
@@ -709,24 +781,26 @@ msgid ""
 "has not been removed.</para><para>Samba internals report:</para><message>%1</"
 "message>"
 msgstr ""
+"<para>Đã xảy ra lỗi khi cố gắng hủy chia sẻ thư mục. Chia sẻ chưa được "
+"xóa.</para><para>Báo cáo nội bộ của Samba:</para><message>%1</message>"
 
 #: samba/filepropertiesplugin/sambausershareplugin.cpp:222
 #, kde-format
 msgctxt "@info/title"
 msgid "Failed to Remove Network Share"
-msgstr ""
+msgstr "Không thể xoá Chia sẻ Mạng"
 
 #: samba/filepropertiesplugin/usermanager.cpp:96
 #, kde-format
 msgctxt "@label kauth action description %1 is a username"
 msgid "Checking if Samba user '%1' exists"
-msgstr ""
+msgstr "Kiểm tra xem người dùng Samba '%1' có tồn tại không"
 
 #: samba/filepropertiesplugin/usermanager.cpp:119
 #, kde-format
 msgctxt "@label kauth action description %1 is a username"
 msgid "Creating new Samba user '%1'"
-msgstr ""
+msgstr "Tạo người dùng Samba mới '%1'"
 
 #, fuzzy
 #~| msgid "Share"

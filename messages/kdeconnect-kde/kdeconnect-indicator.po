@@ -1,0 +1,181 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdeconnect-kde package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeconnect-kde\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-04 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: deviceindicator.cpp:53
+#, kde-format
+msgid "Browse device"
+msgstr "Duyệt thiết bị"
+
+#: deviceindicator.cpp:67
+#, kde-format
+msgid "Send clipboard"
+msgstr "Gửi bảng nháp"
+
+#: deviceindicator.cpp:81
+#, kde-format
+msgctxt "@action:inmenu play bell sound"
+msgid "Ring device"
+msgstr "Chuông thiết bị"
+
+#: deviceindicator.cpp:97
+#, kde-format
+msgid "Send a file/URL"
+msgstr "Gửi một tệp/URL"
+
+#: deviceindicator.cpp:107
+#, kde-format
+msgid "SMS Messages..."
+msgstr "Tin nhắn SMS..."
+
+#: deviceindicator.cpp:120
+#, kde-format
+msgid "Run command"
+msgstr "Chạy lệnh"
+
+#: deviceindicator.cpp:122
+#, kde-format
+msgid "Add commands"
+msgstr "Thêm lệnh"
+
+#: indicatorhelper_mac.cpp:37
+#, kde-format
+msgid "Launching"
+msgstr "Đang khởi chạy"
+
+#: indicatorhelper_mac.cpp:87
+#, kde-format
+msgid "Launching daemon"
+msgstr "Đang khởi chạy trình nền"
+
+#: indicatorhelper_mac.cpp:96
+#, kde-format
+msgid "Waiting D-Bus"
+msgstr "Đang chờ D-Bus"
+
+#: indicatorhelper_mac.cpp:113 indicatorhelper_mac.cpp:125
+#: indicatorhelper_mac.cpp:142
+#, kde-format
+msgid "KDE Connect"
+msgstr "KDE Connect"
+
+#: indicatorhelper_mac.cpp:114 indicatorhelper_mac.cpp:126
+#, kde-format
+msgid ""
+"Cannot connect to DBus\n"
+"KDE Connect will quit"
+msgstr "Không thể kết nối với DBus\nKDE Connect sẽ thoát"
+
+#: indicatorhelper_mac.cpp:142
+#, kde-format
+msgid "Cannot find kdeconnectd"
+msgstr "Không thể tìm thấy kdeconnectd"
+
+#: indicatorhelper_mac.cpp:147
+#, kde-format
+msgid "Loading modules"
+msgstr "Đang tải các mô-đun"
+
+#: main.cpp:52
+#, kde-format
+msgid "KDE Connect Indicator"
+msgstr "Chỉ báo KDE Connect"
+
+#: main.cpp:54
+#, kde-format
+msgid "KDE Connect Indicator tool"
+msgstr "Công cụ chỉ báo KDE Connect"
+
+#: main.cpp:56
+#, kde-format
+msgid "(C) 2016 Aleix Pol Gonzalez"
+msgstr "(C) 2016 Aleix Pol Gonzalez"
+
+#: main.cpp:93
+#, kde-format
+msgid "Configure..."
+msgstr "Cấu hình..."
+
+#: main.cpp:119
+#, kde-format
+msgid "Pairing requests"
+msgstr "Yêu cầu ghép cặp"
+
+#: main.cpp:124
+#, kde-format
+msgctxt "Accept a pairing request"
+msgid "Pair"
+msgstr "Ghép cặp"
+
+#: main.cpp:125
+#, kde-format
+msgid "Reject"
+msgstr "Từ chối"
+
+#: main.cpp:131 main.cpp:141
+#, kde-format
+msgid "Quit"
+msgstr "Thoát"
+
+#: main.cpp:160 main.cpp:184
+#, kde-format
+msgid "%1 device connected"
+msgid_plural "%1 devices connected"
+msgstr[0] "%1 thiết bị đã kết nối"
+
+#: systray_actions/battery_action.cpp:28
+#, kde-format
+msgid "No Battery"
+msgstr "Không có pin"
+
+#: systray_actions/battery_action.cpp:30
+#, kde-format
+msgid "Battery: %1% (Charging)"
+msgstr "Pin: %1% (Đang sạc)"
+
+#: systray_actions/battery_action.cpp:32
+#, kde-format
+msgid "Battery: %1%"
+msgstr "Pin: %1%"
+
+#: systray_actions/connectivity_action.cpp:30
+#, kde-format
+msgctxt ""
+"The fallback text to display in case the remote device does not have a "
+"cellular connection"
+msgid "No Cellular Connectivity"
+msgstr "Không có kết nối di động"
+
+#: systray_actions/connectivity_action.cpp:33
+#, kde-format
+msgctxt ""
+"Display the cellular connection type and an approximate percentage of signal "
+"strength"
+msgid "%1  | ~%2%"
+msgstr "%1 | ~%2%"

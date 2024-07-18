@@ -1,0 +1,52 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-04-20 00:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/helper/systemdgenie.actions:2
+msgctxt "Name"
+msgid "Systemd Genie"
+msgstr "Systemd Genie"
+
+#: src/helper/systemdgenie.actions:42
+msgctxt "Name"
+msgid "Save a systemd unit file"
+msgstr "Lưu một tệp đơn vị systemd"
+
+#: src/helper/systemdgenie.actions:81
+msgctxt "Description"
+msgid "Administrator authorization is required to save the systemd unit file"
+msgstr "Cần có uỷ quyền của quản trị viên để lưu tệp đơn vị systemd"
+
+#: src/helper/systemdgenie.actions:124
+msgctxt "Name"
+msgid "Manipulate systemd over D-Bus"
+msgstr "Thao tác với systemd qua D-Bus"
+
+#: src/helper/systemdgenie.actions:163
+msgctxt "Description"
+msgid "Administrator authorization is required to manipulate systemd"
+msgstr "Cần có uỷ quyền của quản trị viên để thao tác với systemd"
+
+#: src/org.kde.systemdgenie.desktop:2
+msgctxt "Name"
+msgid "SystemdGenie"
+msgstr "SystemdGenie"
+
+#: src/org.kde.systemdgenie.desktop:40
+msgctxt "GenericName"
+msgid "Systemd Management Tool"
+msgstr "Công cụ quản lý Systemd"
+
+#: src/org.kde.systemdgenie.desktop:78
+msgctxt "Comment"
+msgid "Manage the systemd daemon"
+msgstr "Quản lý trình nền systemd"

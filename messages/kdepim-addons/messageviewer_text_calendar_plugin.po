@@ -1,0 +1,541 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdepim-addons package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdepim-addons\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-04 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: attendeeselector.cpp:21
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Attendees"
+msgstr "Chọn người tham dự"
+
+#: attendeeselector.cpp:40
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Click to add a new attendee"
+msgstr "Bấm để thêm một người tham dự mới"
+
+#. i18n: ectx: property (text), widget (QPushButton, addButton)
+#: attendeeselector.ui:24
+#, kde-format
+msgid "Add"
+msgstr "Thêm"
+
+#. i18n: ectx: property (text), widget (QPushButton, removeButton)
+#: attendeeselector.ui:37
+#, kde-format
+msgid "Remove"
+msgstr "Xoá"
+
+#: delegateselector.cpp:23
+#, kde-format
+msgid "Keep me informed about status changes of this incidence."
+msgstr "Hãy giữ tôi được thông tin về các thay đổi tình trạng của sự cố này."
+
+#: delegateselector.cpp:25
+#, kde-format
+msgctxt "@title:window"
+msgid "Select delegate"
+msgstr "Chọn đại diện"
+
+#: delegateselector.cpp:28
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Delegate:"
+msgstr "Đại diện:"
+
+#: reactiontoinvitationdialog.cpp:30
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Comment:"
+msgstr "Bình luận:"
+
+#: text_calendar.cpp:359
+#, kde-format
+msgid "No attachment named \"%1\" found in the invitation."
+msgstr "Không tìm thấy tệp đính kèm có tên \"%1\" trong lời mời."
+
+#: text_calendar.cpp:374
+#, kde-format
+msgid ""
+"The invitation attachment \"%1\" is a web link that is inaccessible from "
+"this computer. Please ask the event organizer to resend the invitation with "
+"this attachment stored inline instead of a link."
+msgstr ""
+"Tệp đính kèm lời mời \"%1\" là một liên kết web không thể truy cập từ máy "
+"tính này. Vui lòng yêu cầu người tổ chức sự kiện gửi lại lời mời với tệp "
+"đính kèm này được lưu trữ trực tiếp thay vì là một liên kết."
+
+#: text_calendar.cpp:426
+#, kde-format
+msgid ""
+"<qt>None of your identities match the receiver of this message,<br/>please "
+"choose which of the following addresses is yours,<br/> if any, or select one "
+"of your identities to use in the reply:</qt>"
+msgstr ""
+"<qt>Không có danh tính nào của bạn khớp với người nhận thông điệp "
+"này,<br/>vui lòng chọn địa chỉ nào dưới đây là của bạn,<br/> nếu có, hoặc "
+"bôi đen một trong các danh tính của bạn để sử dụng trong phản hồi:</qt>"
+
+#: text_calendar.cpp:432
+#, kde-format
+msgid ""
+"<qt>Several of your identities match the receiver of this message,<br/"
+">please choose which of the following addresses is yours:</qt>"
+msgstr ""
+"<qt>Một số danh tính của bạn trùng khớp với người nhận của tin nhắn "
+"này,<br/>vui lòng chọn địa chỉ nào sau đây là của bạn:</qt>"
+
+#: text_calendar.cpp:447
+#, kde-format
+msgid "Select Address"
+msgstr "Chọn địa chỉ"
+
+#: text_calendar.cpp:509
+#, kde-format
+msgid "Answer: "
+msgstr "Trả lời:"
+
+#: text_calendar.cpp:511
+#, kde-format
+msgctxt "Not able to attend."
+msgid "Declined: %1"
+msgstr "Từ chối: %1"
+
+#: text_calendar.cpp:513
+#, kde-format
+msgctxt "Unsure if it is possible to attend."
+msgid "Tentative: %1"
+msgstr "Tạm định: %1"
+
+#: text_calendar.cpp:515
+#, kde-format
+msgctxt "Accepted the invitation."
+msgid "Accepted: %1"
+msgstr "Đã chấp nhận: %1"
+
+#: text_calendar.cpp:537 text_calendar.cpp:556
+#, kde-format
+msgid "Invitation answer attached."
+msgstr "Lời mời đính kèm."
+
+#: text_calendar.cpp:659
+#, kde-format
+msgid "Incidence with no summary"
+msgstr "Sự kiện không có tóm tắt"
+
+#: text_calendar.cpp:664
+#, kde-format
+msgid "Answer: %1"
+msgstr "Trả lời: %1"
+
+#: text_calendar.cpp:667
+#, kde-format
+msgid "Delegated: %1"
+msgstr "Đã ủy quyền: %1"
+
+#: text_calendar.cpp:670
+#, kde-format
+msgid "Forwarded: %1"
+msgstr "Đã chuyển tiếp: %1"
+
+#: text_calendar.cpp:673
+#, kde-format
+msgid "Declined Counter Proposal: %1"
+msgstr "Đề xuất đối lập bị từ chối: %1"
+
+#: text_calendar.cpp:728 text_calendar.cpp:734
+#, kde-format
+msgid "\"%1\" occurred already."
+msgstr "\"%1\" đã xảy ra rồi."
+
+#: text_calendar.cpp:730 text_calendar.cpp:747
+#, kde-format
+msgid "\"%1\" is currently in-progress."
+msgstr "\"%1\" hiện đang trong quá trình thực hiện."
+
+#: text_calendar.cpp:736
+#, kde-format
+msgid "\"%1\", happening all day today, is currently in-progress."
+msgstr "\"%1\", diễn ra cả ngày hôm nay, hiện đang diễn ra."
+
+#: text_calendar.cpp:745 text_calendar.cpp:757
+#, kde-format
+msgid "\"%1\" is past due."
+msgstr "\"%1\" đã quá hạn."
+
+#: text_calendar.cpp:751
+#, kde-format
+msgid "\"%1\" has already started."
+msgstr "\"%1\" đã bắt đầu."
+
+#: text_calendar.cpp:759
+#, kde-format
+msgid "\"%1\", happening all-day today, is currently in-progress."
+msgstr "\"%1\", diễn ra cả ngày hôm nay, hiện đang diễn ra."
+
+#: text_calendar.cpp:763
+#, kde-format
+msgid "\"%1\", happening all day, has already started."
+msgstr "\"%1\", diễn ra cả ngày, đã bắt đầu."
+
+#: text_calendar.cpp:775
+#, kde-format
+msgid "Do you still want to accept the task?"
+msgstr "Bạn vẫn muốn chấp nhận nhiệm vụ này chứ?"
+
+#: text_calendar.cpp:777
+#, kde-format
+msgid "Do you still want to accept the invitation?"
+msgstr "Bạn vẫn muốn chấp nhận lời mời này chứ?"
+
+#: text_calendar.cpp:779 text_calendar.cpp:791
+#, kde-format
+msgctxt "@action:button"
+msgid "Accept"
+msgstr "Chấp nhận"
+
+#: text_calendar.cpp:783
+#, kde-format
+msgid "Do you still want to send conditional acceptance of the invitation?"
+msgstr "Bạn vẫn muốn gửi chấp nhận có điều kiện của lời mời?"
+
+#: text_calendar.cpp:785
+#, kde-format
+msgid "Do you still want to send conditional acceptance of the task?"
+msgstr "Bạn vẫn muốn gửi chấp nhận có điều kiện của nhiệm vụ này không?"
+
+#: text_calendar.cpp:787 text_calendar.cpp:795 text_calendar.cpp:799
+#, kde-format
+msgctxt "@action:button"
+msgid "Send"
+msgstr "Gửi"
+
+#: text_calendar.cpp:790
+#, kde-format
+msgid "Do you still want to accept the counter proposal?"
+msgstr "Bạn vẫn muốn chấp nhận đề xuất đối lập này chứ?"
+
+#: text_calendar.cpp:794
+#, kde-format
+msgid "Do you still want to send a counter proposal?"
+msgstr "Bạn vẫn muốn gửi một đề xuất đối lại chứ?"
+
+#: text_calendar.cpp:798
+#, kde-format
+msgid "Do you still want to send a decline response?"
+msgstr "Bạn vẫn muốn gửi phản hồi từ chối?"
+
+#: text_calendar.cpp:802
+#, kde-format
+msgid "Do you still want to decline the counter proposal?"
+msgstr "Bạn vẫn muốn từ chối đề xuất đối lập này chứ?"
+
+#: text_calendar.cpp:803
+#, kde-format
+msgctxt "@action:button"
+msgid "Decline"
+msgstr "Từ chối"
+
+#: text_calendar.cpp:805
+#, kde-format
+msgid "Do you still want to record this response in your calendar?"
+msgstr "Bạn vẫn muốn ghi lại lời hồi đáp này trong lịch của bạn chứ?"
+
+#: text_calendar.cpp:806 text_calendar.cpp:842
+#, kde-format
+msgctxt "@action:button"
+msgid "Record"
+msgstr "Ghi lại"
+
+#: text_calendar.cpp:809
+#, kde-format
+msgid "Do you still want to delegate this task?"
+msgstr "Bạn vẫn muốn ủy nhiệm công việc này chứ?"
+
+#: text_calendar.cpp:811
+#, kde-format
+msgid "Do you still want to delegate this invitation?"
+msgstr "Bạn vẫn muốn chuyển tiếp lời mời này không?"
+
+#: text_calendar.cpp:813
+#, kde-format
+msgctxt "@action:button"
+msgid "Delegate"
+msgstr "Đại diện"
+
+#: text_calendar.cpp:816
+#, kde-format
+msgid "Do you still want to forward this task?"
+msgstr "Bạn vẫn muốn chuyển tiếp nhiệm vụ này không?"
+
+#: text_calendar.cpp:818
+#, kde-format
+msgid "Do you still want to forward this invitation?"
+msgstr "Bạn vẫn muốn chuyển tiếp lời mời này không?"
+
+#: text_calendar.cpp:820
+#, kde-format
+msgctxt "@action:button"
+msgid "Forward"
+msgstr "Tiến"
+
+#: text_calendar.cpp:824
+#, kde-format
+msgid "Do you still want to cancel this task?"
+msgstr "Bạn vẫn muốn huỷ tác vụ này không?"
+
+#: text_calendar.cpp:825 text_calendar.cpp:846
+#, kde-format
+msgctxt "@action:button"
+msgid "Cancel Task"
+msgstr "Huỷ Tác vụ"
+
+#: text_calendar.cpp:827
+#, kde-format
+msgid "Do you still want to cancel this invitation?"
+msgstr "Bạn vẫn muốn huỷ lời mời này chứ?"
+
+#: text_calendar.cpp:828 text_calendar.cpp:849
+#, kde-format
+msgctxt "@action:button"
+msgid "Cancel Invitation"
+msgstr "Huỷ Lời Mời"
+
+#: text_calendar.cpp:831 text_calendar.cpp:852
+#, kde-format
+msgctxt "@action:button"
+msgid "Do Not Cancel"
+msgstr "Không Huỷ"
+
+#: text_calendar.cpp:834
+#, kde-format
+msgid "Do you still want to check your calendar?"
+msgstr "Bạn vẫn muốn kiểm tra lịch của mình chứ?"
+
+#: text_calendar.cpp:835
+#, kde-format
+msgctxt "@action:button"
+msgid "Check"
+msgstr "Kiểm tra"
+
+#: text_calendar.cpp:838
+#, kde-format
+msgid "Do you still want to record this task in your calendar?"
+msgstr "Bạn vẫn muốn ghi lại tác vụ này trong lịch của bạn không?"
+
+#: text_calendar.cpp:840
+#, kde-format
+msgid "Do you still want to record this invitation in your calendar?"
+msgstr "Bạn vẫn muốn ghi lại lời mời này trong lịch của bạn chứ?"
+
+#: text_calendar.cpp:845
+#, kde-format
+msgid "Do you really want to cancel this task?"
+msgstr "Bạn có thực sự muốn huỷ tác vụ này không?"
+
+#: text_calendar.cpp:848
+#, kde-format
+msgid "Do you really want to cancel this invitation?"
+msgstr "Bạn có thực sự muốn huỷ lời mời này không?"
+
+#: text_calendar.cpp:857
+#, kde-format
+msgid "%1?"
+msgstr "%1?"
+
+#: text_calendar.cpp:864
+#, kde-format
+msgid ""
+"%1\n"
+"%2"
+msgstr "%1\n%2"
+
+#: text_calendar.cpp:890
+#, kde-format
+msgctxt "@title:window"
+msgid "Reaction to Invitation"
+msgstr "Phản ứng với lời mời"
+
+#: text_calendar.cpp:901 text_calendar.cpp:1160
+#, kde-format
+msgid "You forgot to add proposal. Please add it. Thanks"
+msgstr "Bạn đã quên thêm đề xuất. Vui lòng thêm nó. Cảm ơn"
+
+#: text_calendar.cpp:934
+#, kde-format
+msgid "Delegation to organizer is not possible."
+msgstr "Không thể ủy quyền cho người tổ chức."
+
+#: text_calendar.cpp:1068
+#, kde-format
+msgid "Save Invitation Attachment"
+msgstr "Lưu tệp đính kèm lời mời"
+
+#: text_calendar.cpp:1149
+#, kde-format
+msgctxt "@title:window"
+msgid "Decline Counter Proposal"
+msgstr "Từ chối Đề xuất Đối lập"
+
+#: text_calendar.cpp:1191
+#, kde-format
+msgid ""
+"You have no writable calendar folders for invitations, so storing or saving "
+"a response will not be possible.\n"
+"Please create at least 1 writable events calendar and re-sync."
+msgstr ""
+"Bạn không có thư mục lịch có thể ghi cho lời mời, vì vậy việc lưu trữ hoặc "
+"lưu lại lời hồi đáp sẽ không thể thực hiện được.\nVui lòng tạo ít nhất 1 "
+"lịch sự kiện có thể ghi và đồng bộ lại."
+
+#: text_calendar.cpp:1210
+#, kde-format
+msgid ""
+"The calendar invitation stored in this email message is broken in some way. "
+"Unable to continue."
+msgstr ""
+"Lời mời lịch được lưu trữ trong thông điệp thư điện tử này bị hỏng theo một "
+"cách nào đó. Không thể tiếp tục."
+
+#: text_calendar.cpp:1265
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The organizer is not expecting a reply to this invitation but you can send "
+"them an email message if you desire.\n"
+"\n"
+"Would you like to send the organizer a message regarding this invitation?\n"
+"Press the [Cancel] button to cancel the recording operation."
+msgstr ""
+"Người tổ chức không mong đợi một hồi đáp cho lời mời này, nhưng bạn có thể "
+"gửi họ một thông điệp email nếu muốn.\n\nBạn có muốn gửi người tổ chức một "
+"thông điệp liên quan đến lời mời này không?\nBấm nút [Huỷ] để huỷ thao tác "
+"ghi âm."
+
+#: text_calendar.cpp:1269
+#, kde-format
+msgctxt "@title:window"
+msgid "Send Email to Organizer"
+msgstr "Gửi email cho người tổ chức"
+
+#: text_calendar.cpp:1270
+#, kde-format
+msgctxt "@action:button"
+msgid "Do Not Send"
+msgstr "Không gửi"
+
+#: text_calendar.cpp:1271
+#, kde-format
+msgctxt "@action:button"
+msgid "Send EMail"
+msgstr "Gửi thư điện tử"
+
+#: text_calendar.cpp:1279
+#, kde-format
+msgid "Re: %1"
+msgstr "Trả lời: %1"
+
+#: text_calendar.cpp:1341
+#, kde-format
+msgid "Open Attachment"
+msgstr "Mở tệp đính kèm"
+
+#: text_calendar.cpp:1342
+#, kde-format
+msgid "Save Attachment As…"
+msgstr "Lưu Tệp Đính Kèm Dưới Tên..."
+
+#: text_calendar.cpp:1358
+#, kde-format
+msgid "Accept invitation"
+msgstr "Chấp nhận lời mời"
+
+#: text_calendar.cpp:1360
+#, kde-format
+msgid "Accept invitation conditionally"
+msgstr "Chấp nhận lời mời có điều kiện"
+
+#: text_calendar.cpp:1362
+#, kde-format
+msgid "Accept counter proposal"
+msgstr "Chấp nhận đề xuất đối lập"
+
+#: text_calendar.cpp:1364
+#, kde-format
+msgid "Create a counter proposal…"
+msgstr "Tạo một đề xuất đối lập..."
+
+#: text_calendar.cpp:1366
+#, kde-format
+msgid "Throw mail away"
+msgstr "Vứt bỏ thư"
+
+#: text_calendar.cpp:1368
+#, kde-format
+msgid "Decline invitation"
+msgstr "Từ chối lời mời"
+
+#: text_calendar.cpp:1370
+#, kde-format
+msgid "Postpone"
+msgstr "Hoãn lại"
+
+#: text_calendar.cpp:1372
+#, kde-format
+msgid "Decline counter proposal"
+msgstr "Từ chối đề xuất đối lập"
+
+#: text_calendar.cpp:1374
+#, kde-format
+msgid "Check my calendar…"
+msgstr "Kiểm tra lịch của tôi..."
+
+#: text_calendar.cpp:1376
+#, kde-format
+msgid "Record response into my calendar"
+msgstr "Ghi lời hồi đáp vào lịch của tôi"
+
+#: text_calendar.cpp:1378
+#, kde-format
+msgid "Record invitation into my calendar"
+msgstr "Ghi lịch mời vào lịch của tôi"
+
+#: text_calendar.cpp:1380
+#, kde-format
+msgid "Move this invitation to my trash folder"
+msgstr "Chuyển lời mời này vào thùng rác của tôi"
+
+#: text_calendar.cpp:1382
+#, kde-format
+msgid "Delegate invitation"
+msgstr "Ủy quyền lời mời"
+
+#: text_calendar.cpp:1384
+#, kde-format
+msgid "Forward invitation"
+msgstr "Chuyển tiếp lời mời"
+
+#: text_calendar.cpp:1386
+#, kde-format
+msgid "Remove invitation from my calendar"
+msgstr "Xoá lời mời khỏi lịch của tôi"
+
+#: text_calendar.cpp:1389
+#, kde-format
+msgid "Open attachment \"%1\""
+msgstr "Mở tệp đính kèm \"%1\""

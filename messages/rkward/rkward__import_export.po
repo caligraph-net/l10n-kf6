@@ -1,0 +1,3262 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the rkward package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: rkward\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-04-11 00:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Encoding and Character Options"> <frame label="...">
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:16
+#: rkward/plugins/00saveload/save/write_csv.xml:132
+#, kde-format
+msgid "Encoding"
+msgstr "Mã hoá"
+
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <checkbox label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <checkbox label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <checkbox label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <checkbox label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <checkbox label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <checkbox label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <checkbox label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:17
+#, kde-format
+msgid "Convert string encoding"
+msgstr "Chuyển đổi mã hoá chuỗi"
+
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:18
+#, kde-format
+msgid "Convert from:"
+msgstr "Chuyển từ:"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <dropdown label="File encoding"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:19
+#: rkward/plugins/00saveload/save/write_csv.xml:136
+#, kde-format
+msgid "Latin 1"
+msgstr "Latin 1"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <dropdown label="File encoding"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:20
+#: rkward/plugins/00saveload/save/write_csv.xml:135
+#, kde-format
+msgid "UTF-8"
+msgstr "UTF-8"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <dropdown label="File encoding"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:21
+#: rkward/plugins/00saveload/save/write_csv.xml:137
+#, kde-format
+msgid "ISO8859-1 Latin-1 Western European"
+msgstr "ISO8859-1 Latin-1 Châu Âu Tây"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <dropdown label="File encoding"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:22
+#: rkward/plugins/00saveload/save/write_csv.xml:138
+#, kde-format
+msgid "ISO8859-2 Latin-2 Central European"
+msgstr "ISO8859-2 Latin-2 Châu Âu Trung Ương"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <dropdown label="File encoding"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:23
+#: rkward/plugins/00saveload/save/write_csv.xml:139
+#, kde-format
+msgid "ISO8859-3 Latin-3 South European"
+msgstr "ISO8859-3 Latin-3 Châu Âu Nam"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <dropdown label="File encoding"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:24
+#: rkward/plugins/00saveload/save/write_csv.xml:140
+#, kde-format
+msgid "ISO8859-4 Latin-4 North European"
+msgstr "ISO8859-4 Latin-4 Bắc Âu"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <dropdown label="File encoding"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:25
+#: rkward/plugins/00saveload/save/write_csv.xml:141
+#, kde-format
+msgid "ISO8859-5 Latin/Cyrillic"
+msgstr "ISO8859-5 Latin/Cyrillic"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <dropdown label="File encoding"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:26
+#: rkward/plugins/00saveload/save/write_csv.xml:142
+#, kde-format
+msgid "ISO8859-6 Latin/Arabic"
+msgstr "ISO8859-6 Latin/Ả Rập"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <dropdown label="File encoding"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:27
+#: rkward/plugins/00saveload/save/write_csv.xml:143
+#, kde-format
+msgid "ISO8859-7 Latin/Greek"
+msgstr "ISO8859-7 Latin/Hy Lạp"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <dropdown label="File encoding"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:28
+#: rkward/plugins/00saveload/save/write_csv.xml:144
+#, kde-format
+msgid "MS-GREEK"
+msgstr "MS-GREEK"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <dropdown label="File encoding"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:29
+#: rkward/plugins/00saveload/save/write_csv.xml:145
+#, kde-format
+msgid "ISO8859-8 Latin/Hebrew"
+msgstr "ISO8859-8 Latin/Hebrew"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <dropdown label="File encoding"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:30
+#: rkward/plugins/00saveload/save/write_csv.xml:146
+#, kde-format
+msgid "ISO8859-9 Latin-5 Turkish"
+msgstr "ISO8859-9 Latin-5 Thổ Nhĩ Kỳ"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <dropdown label="File encoding"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:31
+#: rkward/plugins/00saveload/save/write_csv.xml:147
+#, kde-format
+msgid "ISO8859-10 Latin-6 Nordic"
+msgstr "ISO8859-10 Latin-6 Nordic"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <dropdown label="File encoding"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:32
+#: rkward/plugins/00saveload/save/write_csv.xml:148
+#, kde-format
+msgid "ISO8859-11 Latin/Thai"
+msgstr "ISO8859-11 Latin/Thai"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <dropdown label="File encoding"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:33
+#: rkward/plugins/00saveload/save/write_csv.xml:149
+#, kde-format
+msgid "ISO8859-13 Latin-7 Baltic Rim"
+msgstr "ISO8859-13 Latin-7 Baltic Rim"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <dropdown label="File encoding"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:34
+#: rkward/plugins/00saveload/save/write_csv.xml:150
+#, kde-format
+msgid "ISO8859-14 Latin-8 Celtic"
+msgstr "ISO8859-14 Latin-8 Celtic"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <dropdown label="File encoding"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:35
+#: rkward/plugins/00saveload/save/write_csv.xml:151
+#, kde-format
+msgid "ISO8859-15 Latin-9 Western European (EUR)"
+msgstr "ISO8859-15 Latin-9 Tây Âu (EUR)"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <dropdown label="File encoding"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:36
+#: rkward/plugins/00saveload/save/write_csv.xml:152
+#, kde-format
+msgid "ISO8859-16 Latin-10 South-Eastern European"
+msgstr "ISO8859-16 Latin-10 Châu Âu Đông Nam"
+
+#. i18n: ectx: (Write vector / matrix) <dialog label="Write vector / matrix"> [...] <radio label="Field separator character"> <option label="...">
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <dropdown label="File encoding"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <radio label="Decimal point character"> <option label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <radio label="Field separator character"> <option label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> [...] <radio label="String delimiter"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <dropdown label="Convert from:"> <option label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:37
+#: rkward/plugins/00saveload/import/import_csv.xml:123
+#: rkward/plugins/00saveload/import/import_csv.xml:135
+#: rkward/plugins/00saveload/import/import_csv.xml:205
+#: rkward/plugins/00saveload/save/write.xml:34
+#: rkward/plugins/00saveload/save/write_csv.xml:153
+#, kde-format
+msgid "Other (specify below)"
+msgstr "Khác (chỉ định bên dưới)"
+
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <input label="...">
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <tab label="Encoding"> <input label="...">
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <tab label="Encoding"> <input label="...">
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <tab label="Encoding"> <input label="...">
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <input label="...">
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <tab label="Encoding"> <input label="...">
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <tab label="Encoding"> <input label="...">
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <tab label="Encoding"> <input label="...">
+#: rkward/plugins/00saveload/import/convert_encoding.xml:39
+#, kde-format
+msgid "Other encoding"
+msgstr "Mã hoá khác"
+
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <setting> (refers to element labelled "Convert string encoding")
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <setting> (refers to element labelled "Convert string encoding")
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <setting> (refers to element labelled "Convert string encoding")
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <setting> (refers to element labelled "Convert string encoding")
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <setting> (refers to element labelled "Convert string encoding")
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <setting> (refers to element labelled "Convert string encoding")
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <setting> (refers to element labelled "Convert string encoding")
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <setting> (refers to element labelled "Convert string encoding")
+#: rkward/plugins/00saveload/import/convert_encoding.xml:44
+#, kde-format
+msgid ""
+"If special character (e.g. umlauts) do not show up correctly, the data file "
+"probably uses a different locale than your R session. In this case, check "
+"this option, and specify the correct character encoding below."
+msgstr ""
+"Nếu các ký tự đặc biệt (ví dụ như dấu trắng) không hiển thị đúng, tệp dữ "
+"liệu có thể sử dụng miền địa phương khác với phiên R của bạn. Trong trường "
+"hợp này, hãy kiểm tra tùy chọn này và chỉ định mã hoá ký tự chính xác bên "
+"dưới."
+
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <setting> (refers to element labelled "Convert from:")
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <setting> (refers to element labelled "Convert from:")
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <setting> (refers to element labelled "Convert from:")
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <setting> (refers to element labelled "Convert from:")
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <setting> (refers to element labelled "Convert from:")
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <setting> (refers to element labelled "Convert from:")
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <setting> (refers to element labelled "Convert from:")
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <setting> (refers to element labelled "Convert from:")
+#: rkward/plugins/00saveload/import/convert_encoding.xml:45
+#, kde-format
+msgid ""
+"Select character encoding to convert from. The option above needs to be "
+"checked, for this to be enabled."
+msgstr ""
+"Chọn mã hoá kí tự để chuyển đổi từ. Tùy chọn ở trên cần được chọn để kích "
+"hoạt tính năng này."
+
+#. i18n: ectx: (Loaded from Loaded from Import SPSS file) <snippet> <setting> (refers to element labelled "Other encoding")
+#. i18n: ectx: (Loaded from Import SPSS file) <snippet> <setting> (refers to element labelled "Other encoding")
+#. i18n: ectx: (Loaded from Loaded from Import STATA file) <snippet> <setting> (refers to element labelled "Other encoding")
+#. i18n: ectx: (Loaded from Import STATA file) <snippet> <setting> (refers to element labelled "Other encoding")
+#. i18n: ectx: (Loaded from Loaded from Import Microsoft EXCEL sheet) <snippet> <setting> (refers to element labelled "Other encoding")
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <snippet> <setting> (refers to element labelled "Other encoding")
+#. i18n: ectx: (Loaded from Loaded from Generic data import) <snippet> <setting> (refers to element labelled "Other encoding")
+#. i18n: ectx: (Loaded from Generic data import) <snippet> <setting> (refers to element labelled "Other encoding")
+#: rkward/plugins/00saveload/import/convert_encoding.xml:46
+#, kde-format
+msgid ""
+"If none of the encodings above matches, you can specify an encoding here. "
+"Note that the available encodings may differ from platform to platform. See "
+"<link href=\"rkward://rhelp/iconvlist\"/> for a list of available encodings."
+msgstr ""
+"Nếu không có mã hoá nào ở trên phù hợp, bạn có thể chỉ định một mã hoá ở "
+"đây. Lưu ý rằng các mã hoá hiện có có thể khác nhau giữa các nền tảng. Xem "
+"<link href=\"rkward://rhelp/iconvlist\"/>để biết danh sách các mã hoá hiện "
+"có."
+
+#. i18n: ectx: (Loaded from Import Text / CSV data)
+#: rkward/plugins/00saveload/import/import_csv.js:46
+#, kde-format
+msgctxt "R code comment"
+msgid "copy from the local environment to globalenv()"
+msgstr "sao chép từ môi trường cục bộ sang globalenv()"
+
+#. i18n: ectx: (Loaded from Import Text / CSV data)
+#: rkward/plugins/00saveload/import/import_csv.js:56
+#, kde-format
+msgid "Import text / csv data"
+msgstr "Nhập khẩu dữ liệu văn bản / csv"
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <summary>
+#: rkward/plugins/00saveload/import/import_csv.rkh:8
+#, kde-format
+msgid ""
+"Import Comma Separated Value files (other delimiters besides comma are "
+"supported)."
+msgstr ""
+"Nhập khẩu tệp Giá trị Phân cách bằng Dấu phẩy (các dấu phân cách khác ngoài "
+"dấu phẩy cũng được hỗ trợ)."
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <usage>
+#: rkward/plugins/00saveload/import/import_csv.rkh:12
+#, kde-format
+msgid ""
+"Choose the CSV file to import. An R object containing the data will be "
+"created. See <link href=\"rkward://rhelp/read.table\"/>."
+msgstr ""
+"Chọn tệp CSV để nhập. Một đối tượng R chứa dữ liệu sẽ được tạo. Xem <link "
+"href=\"rkward://rhelp/read.table\"/>."
+
+#. i18n: ectx: (Loaded from Import SPSS file) <settings> <setting> (refers to element labelled "File name")
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "File name")
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <settings> <setting> (refers to element labelled "File name")
+#. i18n: ectx: (Loaded from Generic data import) <settings> <setting> (refers to element labelled "File name")
+#: rkward/plugins/00saveload/import/import_csv.rkh:18
+#: rkward/plugins/00saveload/import/import_generic_rio.rkh:22
+#: rkward/plugins/00saveload/import/import_spss.rkh:21
+#: rkward/plugins/00saveload/import/import_xls.rkh:20
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.rkh:23
+#, kde-format
+msgid "The filename of the file to import"
+msgstr "Tên tệp của tệp cần nhập khẩu"
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Data format")
+#: rkward/plugins/00saveload/import/import_csv.rkh:19
+#, kde-format
+msgid ""
+"Select from one of the predefined (most common formats). This setting "
+"affects several of the other settings, importantly <i><label id=\"dec\"/></"
+"i> and <i><label id=\"sep\"/></i>."
+msgstr ""
+"Bôi đen một trong các định dạng được xác định trước (phổ biến nhất). Thiết "
+"lập này ảnh hưởng đến một số thiết lập khác, đặc biệt là <i><label "
+"id=\"dec\"/></i> và <i><label id=\"sep\"/></i>."
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Use first row as column names")
+#: rkward/plugins/00saveload/import/import_csv.rkh:20
+#, kde-format
+msgid ""
+"Whether the first row of the file contains should be interpreted as column "
+"names"
+msgstr "Liệu dòng đầu tiên của tệp có nên được hiểu là tên cột"
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Decimal point character")
+#: rkward/plugins/00saveload/import/import_csv.rkh:21
+#, kde-format
+msgid "Decimal character used in the imported file"
+msgstr "Kí tự thập phân được sử dụng trong tệp đã nhập"
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Specify decimal point character")
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Specify field separator character")
+#: rkward/plugins/00saveload/import/import_csv.rkh:22
+#: rkward/plugins/00saveload/import/import_csv.rkh:24
+#, kde-format
+msgid "If you selected \"other\" above, specify the character, here."
+msgstr "Nếu bạn đã chọn \"khác\" ở trên, hãy chỉ định ký tự ở đây."
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Field separator character")
+#: rkward/plugins/00saveload/import/import_csv.rkh:23
+#, kde-format
+msgid "The separator character used in the imported file"
+msgstr "Kí tự phân cách được sử dụng trong tệp đã nhập"
+
+#. i18n: ectx: (Loaded from Import SPSS file) <settings> <setting> (refers to element labelled "Object to save to")
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Object to save to")
+#. i18n: ectx: (Loaded from Import STATA file) <settings> <setting> (refers to element labelled "Object to save to")
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <settings> <setting> (refers to element labelled "Name or number of sheet")
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <settings> <setting> (refers to element labelled "Object to save to")
+#. i18n: ectx: (Loaded from Generic data import) <settings> <setting> (refers to element labelled "Object to save to")
+#: rkward/plugins/00saveload/import/import_csv.rkh:25
+#: rkward/plugins/00saveload/import/import_generic_rio.rkh:23
+#: rkward/plugins/00saveload/import/import_spss.rkh:22
+#: rkward/plugins/00saveload/import/import_stata.rkh:22
+#: rkward/plugins/00saveload/import/import_xls.rkh:21
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.rkh:28
+#, kde-format
+msgid ""
+"The name of an R object to store the imported data in. If you choose an "
+"existing symbol name, you will be prompted, whether to overwrite this object."
+msgstr ""
+"Tên của một đối tượng R để lưu trữ dữ liệu đã nhập. Nếu bạn chọn một tên kí "
+"hiệu hiện có, bạn sẽ được nhắc xem có muốn ghi đè đối tượng này không."
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Open imported data for editing")
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <settings> <setting> (refers to element labelled "Open imported data for editing")
+#: rkward/plugins/00saveload/import/import_csv.rkh:26
+#: rkward/plugins/00saveload/import/import_xls.rkh:26
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.rkh:29
+#, kde-format
+msgid "Whether the object should be opened for editing after it was imported"
+msgstr "Xem liệu đối tượng có nên được mở để chỉnh sửa sau khi được nhập không"
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Preview")
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <settings> <setting> (refers to element labelled "Preview")
+#: rkward/plugins/00saveload/import/import_csv.rkh:27
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.rkh:30
+#, kde-format
+msgid ""
+"Show a preview of the imported data. At most the first 50 rows and columns "
+"will be shown."
+msgstr ""
+"Hiển thị bản xem trước của dữ liệu đã nhập. Tối đa sẽ hiển thị 50 hàng và "
+"cột đầu tiên."
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Row names")
+#: rkward/plugins/00saveload/import/import_csv.rkh:30
+#, kde-format
+msgid ""
+"How to determine row names? Either the rows can be numbered 1...n. Or you "
+"can specify a single column containing the row names (typically the first). "
+"Or you can provide a character vector of names."
+msgstr ""
+"Làm thế nào để xác định tên hàng? Hoặc các hàng có thể được đánh số 1...n. "
+"Hoặc bạn có thể chỉ định một cột duy nhất chứa tên hàng (thường là cột đầu "
+"tiên). Hoặc bạn có thể cung cấp một vector chữ cái của các tên."
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Column number or variable name")
+#: rkward/plugins/00saveload/import/import_csv.rkh:31
+#, kde-format
+msgid ""
+"See above. The column containing the row names, given either as a number, or "
+"as a column name (in the latter case, make sure to quote the name)"
+msgstr ""
+"Xem phần trên. Cột chứa tên hàng, được cho dưới dạng số hoặc tên cột (trong "
+"trường hợp sau, hãy đảm bảo đặt tên trong dấu ngoặc kép)"
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Vector of row names (quoted)")
+#: rkward/plugins/00saveload/import/import_csv.rkh:32
+#, kde-format
+msgid ""
+"See above. A vector of row names (e.g. c (\"row1\", \"row2\", ..., \"rown"
+"\"), but you can also specify the name of an R object containing the names "
+"to use)"
+msgstr ""
+"Xem phần trên. Một vector của tên hàng (ví dụ: c(\"row1\", \"row2\", ..., "
+"\"rown\"), nhưng bạn cũng có thể chỉ định tên của một đối tượng R chứa các "
+"tên để sử dụng)"
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Column names")
+#: rkward/plugins/00saveload/import/import_csv.rkh:33
+#, kde-format
+msgid ""
+"Use automatic column names (possibly read from first row of file), or use "
+"manually specified names?"
+msgstr ""
+"Sử dụng tên cột tự động (có thể đọc từ hàng đầu tiên của tệp) hoặc sử dụng "
+"tên được chỉ định thủ công?"
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Vector of column names (quoted)")
+#: rkward/plugins/00saveload/import/import_csv.rkh:34
+#, kde-format
+msgid ""
+"See above. Specify a character vector of column names (e.g. c (\"col1\", "
+"\"col2\", ..., \"coln\"), but you can also specify the name of an R object "
+"containing the names to use)"
+msgstr ""
+"Xem phần trên. Chỉ định một vector chữ của tên cột (ví dụ: c(\"col1\", "
+"\"col2\", ..., \"coln\"), nhưng bạn cũng có thể chỉ định tên của một đối "
+"tượng R chứa các tên để sử dụng)"
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Check syntax of column names")
+#: rkward/plugins/00saveload/import/import_csv.rkh:35
+#, kde-format
+msgid "Should column names be checked for validity?"
+msgstr "Có nên kiểm tra tính hợp lệ của tên cột không?"
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Classes of columns")
+#: rkward/plugins/00saveload/import/import_csv.rkh:36
+#, kde-format
+msgid ""
+"Should be class of each column be determined automatically, or specified?"
+msgstr "Lớp của mỗi cột nên được xác định tự động hay được chỉ định?"
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Vector of column classes (quoted)")
+#: rkward/plugins/00saveload/import/import_csv.rkh:37
+#, kde-format
+msgid ""
+"See above. Specify a character vector with the names of the classes to use "
+"for each column."
+msgstr ""
+"Xem phần trên. Chỉ định một vector chữ với tên của các lớp để sử dụng cho "
+"mỗi cột."
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Skip trailing fields")
+#: rkward/plugins/00saveload/import/import_csv.rkh:38
+#, kde-format
+msgid ""
+"Should additional columns (not specified above, and not within the first "
+"five rows of input) be skipped? See parameter flush in <link href=\"rkward://"
+"rhelp/read.table\"/>."
+msgstr ""
+"Các cột bổ sung (không được chỉ định ở trên và không nằm trong 5 hàng đầu "
+"của đầu vào) có nên bị bỏ qua không? Xem tham số flush trong <link "
+"href=\"rkward://rhelp/read.table\"/>."
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Pad rows if unequal length")
+#: rkward/plugins/00saveload/import/import_csv.rkh:39
+#, kde-format
+msgid ""
+"If checked, and the rows have differing length, they will be padded with "
+"empty values in the imported data."
+msgstr ""
+"Nếu được chọn, và các hàng có độ dài khác nhau, chúng sẽ được đệm với các "
+"giá trị trống trong dữ liệu được nhập."
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Allow escaped characters")
+#: rkward/plugins/00saveload/import/import_csv.rkh:43
+#, kde-format
+msgid ""
+"Should a backslash ('\\') followed by a character be treated as an escaped "
+"character? Otherwise the sequence is read literally."
+msgstr ""
+"Một dấu gạch chéo ngược ('\\') được theo sau bởi một kí tự có nên được coi "
+"là một kí tự đã được chuyển dịch? Nếu không, chuỗi này sẽ được đọc theo "
+"nghĩa đen."
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Strip leading and trailing whitespace")
+#: rkward/plugins/00saveload/import/import_csv.rkh:44
+#, kde-format
+msgid ""
+"Should leading and trailing white space be removed from character fields?"
+msgstr "Có nên loại bỏ khoảng trắng ở đầu và cuối của các trường chữ?"
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Convert character columns to factors")
+#: rkward/plugins/00saveload/import/import_csv.rkh:45
+#, kde-format
+msgid ""
+"Should columns containing character data be converted to factors in R, or "
+"should they be read as character vectors?"
+msgstr ""
+"Các cột chứa dữ liệu chữ cái nên được chuyển đổi thành các yếu tố trong R, "
+"hay nên được đọc dưới dạng các vector chữ cái?"
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Missing value string")
+#: rkward/plugins/00saveload/import/import_csv.rkh:46
+#, kde-format
+msgid ""
+"How are missing values (NAs) written in the file to be imported? (Blank "
+"fields are also interpreted as NAs in columns that are not strings.)"
+msgstr ""
+"Các giá trị bị thiếu (NAs) được ghi trong tệp cần nhập như thế nào? (Các "
+"trường trống cũng được hiểu là NAs trong các cột không phải là chuỗi.)"
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "String delimiter")
+#: rkward/plugins/00saveload/import/import_csv.rkh:47
+#, kde-format
+msgid "String delimiter character(s) used in the file"
+msgstr "Ký tự dấu tách chuỗi được sử dụng trong tệp"
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Specify quoting character(s)")
+#: rkward/plugins/00saveload/import/import_csv.rkh:48
+#, kde-format
+msgid ""
+"If you selected \"other\" above, you can specify which quoting character to "
+"use, here. Simply enter all character to use (without spaces or comma, e.g. "
+"\"'@ to use \", ', and @ as string delimiters)."
+msgstr ""
+"Nếu bạn đã chọn \"khác\" ở trên, bạn có thể chỉ định ký tự trích dẫn nào để "
+"sử dụng ở đây. Chỉ cần nhập tất cả các ký tự để sử dụng (không có khoảng "
+"trắng hoặc dấu phẩy, ví dụ: \"'@ để sử dụng \", ', và @ làm dấu phân cách "
+"chuỗi)."
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Skip x lines at the start of the file")
+#: rkward/plugins/00saveload/import/import_csv.rkh:50
+#, kde-format
+msgid ""
+"This many rows will be skipped at the start of the file. Use, for instance, "
+"if the file contains a text header."
+msgstr ""
+"Số hàng này sẽ được bỏ qua ở đầu tệp. Sử dụng, ví dụ, nếu tệp chứa tiêu đề "
+"văn bản."
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Max number of lines to read (-1 for no limit)")
+#: rkward/plugins/00saveload/import/import_csv.rkh:51
+#, kde-format
+msgid "Maximum number of rows to read (-1 to read all lines)"
+msgstr "Số hàng tối đa để đọc (-1 để đọc tất cả các dòng)"
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Character for comments")
+#: rkward/plugins/00saveload/import/import_csv.rkh:52
+#, kde-format
+msgid ""
+"If you enter a single character, here, everything after that character in a "
+"line will be ignored. Leave blank to disable detection of comments."
+msgstr ""
+"Nếu bạn nhập một ký tự duy nhất ở đây, mọi thứ sau ký tự đó trong một dòng "
+"sẽ bị bỏ qua. Để trống để vô hiệu hóa việc phát hiện các nhận xét."
+
+#. i18n: ectx: (Loaded from Import Text / CSV data) <settings> <setting> (refers to element labelled "Skip blank lines")
+#: rkward/plugins/00saveload/import/import_csv.rkh:53
+#, kde-format
+msgid "Should blank lines be ignored?"
+msgstr "Có nên bỏ qua các dòng trống?"
+
+#. i18n: ectx: <components> <component label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:102
+#: rkward/plugins/import_export.pluginmap:38
+#, kde-format
+msgid "Import Text / CSV data"
+msgstr "Nhập khẩu dữ liệu văn bản / CSV"
+
+#. i18n: ectx: (Import SPSS file) <dialog label="Import SPSS file"> <tab label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="...">
+#. i18n: ectx: (Import STATA file) <dialog label="Import STATA file"> <tab label="...">
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="...">
+#. i18n: ectx: (Generic data import) <dialog label="Generic data import"> <tab label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:104
+#: rkward/plugins/00saveload/import/import_generic_rio.xml:21
+#: rkward/plugins/00saveload/import/import_spss.xml:26
+#: rkward/plugins/00saveload/import/import_stata.xml:20
+#: rkward/plugins/00saveload/import/import_xls.xml:17
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.xml:20
+#, kde-format
+msgid "General"
+msgstr "Chung"
+
+#. i18n: ectx: (Source an R file) <dialog label="Source an R file"> <tab label="Main options"> <browser label="...">
+#. i18n: ectx: (Save R objects) <dialog label="Save R objects"> <tab label="Select variables"> <frame label="Save to"> <browser label="...">
+#. i18n: ectx: (Write vector / matrix) <dialog label="Write vector / matrix"> <tab label="Select variables"> <browser label="...">
+#. i18n: ectx: (Import SPSS file) <dialog label="Import SPSS file"> <tab label="General"> <browser label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <browser label="...">
+#. i18n: ectx: (Import STATA file) <dialog label="Import STATA file"> <tab label="General"> <browser label="...">
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="General"> <browser label="...">
+#. i18n: ectx: (Generic data import) <dialog label="Generic data import"> <tab label="General"> <browser label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:105
+#: rkward/plugins/00saveload/import/import_generic_rio.xml:22
+#: rkward/plugins/00saveload/import/import_spss.xml:27
+#: rkward/plugins/00saveload/import/import_stata.xml:21
+#: rkward/plugins/00saveload/import/import_xls.xml:18
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.xml:21
+#: rkward/plugins/00saveload/import/source.xml:21
+#: rkward/plugins/00saveload/save/save.xml:44
+#: rkward/plugins/00saveload/save/write.xml:24
+#, kde-format
+msgid "File name"
+msgstr "Tên tệp"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <dropdown label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:106
+#, kde-format
+msgid "Data format"
+msgstr "Định dạng dữ liệu"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Data and File Format"> <dropdown label="File format"> <option label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <dropdown label="Data format"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:107
+#: rkward/plugins/00saveload/save/write_csv.xml:69
+#, kde-format
+msgid "Comma separated values (CSV)"
+msgstr "Giá trị phân cách bằng dấu phẩy (CSV)"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Data and File Format"> <dropdown label="File format"> <option label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <dropdown label="Data format"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:108
+#: rkward/plugins/00saveload/save/write_csv.xml:70
+#, kde-format
+msgid "Semicolon separated values, comma as decimal separator (CSV2)"
+msgstr ""
+"Giá trị phân cách bằng dấu chấm phẩy, dấu phẩy làm dấu phân cách thập phân "
+"(CSV2)"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Data and File Format"> <dropdown label="File format"> <option label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <dropdown label="Data format"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:109
+#: rkward/plugins/00saveload/save/write_csv.xml:71
+#, kde-format
+msgid "Tab separated values (TAB)"
+msgstr "Giá trị được phân tách bằng thẻ (TAB)"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Data and File Format"> <dropdown label="File format"> <option label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <dropdown label="Data format"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:110
+#: rkward/plugins/00saveload/save/write_csv.xml:72
+#, kde-format
+msgid "Tab separated values, comma as decimal separator (TAB2)"
+msgstr "Giá trị phân cách bằng tab, dấu phẩy làm dấu phân cách thập phân (TAB2)"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <dropdown label="Data format"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:111
+#, kde-format
+msgid "read.table() default (whitespace separated values)"
+msgstr "read.table() mặc định (giá trị được phân tách bằng khoảng trắng)"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Data and File Format"> <dropdown label="File format"> <option label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <dropdown label="Data format"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:112
+#: rkward/plugins/00saveload/save/write_csv.xml:73
+#, kde-format
+msgid "Custom"
+msgstr "Tự chọn"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <checkbox label="...">
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="General"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:115
+#: rkward/plugins/00saveload/import/import_xls.xml:21
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.xml:24
+#, kde-format
+msgid "Use first row as column names"
+msgstr "Sử dụng hàng đầu tiên làm tên cột"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Data and File Format"> <radio label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <radio label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:120
+#: rkward/plugins/00saveload/save/write_csv.xml:78
+#, kde-format
+msgid "Decimal point character"
+msgstr "Kí tự dấu phẩy thập phân"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Data and File Format"> <radio label="Decimal point character"> <option label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <radio label="Decimal point character"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:121
+#: rkward/plugins/00saveload/save/write_csv.xml:79
+#, kde-format
+msgid "'.' (Period)"
+msgstr "'.' (Dấu chấm)"
+
+#. i18n: ectx: (Write vector / matrix) <dialog label="Write vector / matrix"> [...] <radio label="Field separator character"> <option label="...">
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Data and File Format"> <radio label="Decimal point character"> <option label="...">
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Data and File Format"> <radio label="Field separator character"> <option label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <radio label="Decimal point character"> <option label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <radio label="Field separator character"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:122
+#: rkward/plugins/00saveload/import/import_csv.xml:132
+#: rkward/plugins/00saveload/save/write.xml:32
+#: rkward/plugins/00saveload/save/write_csv.xml:80
+#: rkward/plugins/00saveload/save/write_csv.xml:90
+#, kde-format
+msgid "',' (Comma)"
+msgstr "','(Dấu phẩy)"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <input label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:126
+#, kde-format
+msgid "Specify decimal point character"
+msgstr "Chỉ định kí tự dấu phẩy thập phân"
+
+#. i18n: ectx: (Write vector / matrix) <dialog label="Write vector / matrix"> <tab label="Select variables"> <frame label="Options"> <radio label="...">
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Data and File Format"> <radio label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <radio label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:129
+#: rkward/plugins/00saveload/save/write.xml:29
+#: rkward/plugins/00saveload/save/write_csv.xml:87
+#, kde-format
+msgid "Field separator character"
+msgstr "Kí tự phân cách trường"
+
+#. i18n: ectx: (Write vector / matrix) <dialog label="Write vector / matrix"> [...] <radio label="Field separator character"> <option label="...">
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Data and File Format"> <radio label="Field separator character"> <option label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <radio label="Field separator character"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:130
+#: rkward/plugins/00saveload/save/write.xml:30
+#: rkward/plugins/00saveload/save/write_csv.xml:88
+#, kde-format
+msgid "Tab"
+msgstr "Thẻ"
+
+#. i18n: ectx: (Write vector / matrix) <dialog label="Write vector / matrix"> [...] <radio label="Field separator character"> <option label="...">
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Data and File Format"> <radio label="Field separator character"> <option label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <radio label="Field separator character"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:131
+#: rkward/plugins/00saveload/save/write.xml:31
+#: rkward/plugins/00saveload/save/write_csv.xml:89
+#, kde-format
+msgid "';' (Semicolon)"
+msgstr "'; ' (Dấu chấm phẩy)"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <radio label="Field separator character"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:133
+#, kde-format
+msgid "Single space"
+msgstr "Khoảng trắng đơn"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <radio label="Field separator character"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:134
+#, kde-format
+msgid "Any whitespace"
+msgstr "Bất kỳ khoảng trắng nào"
+
+#. i18n: ectx: (Write vector / matrix) <dialog label="Write vector / matrix"> <tab label="Select variables"> <frame label="Options"> <input label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <input label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:138
+#: rkward/plugins/00saveload/save/write.xml:36
+#, kde-format
+msgid "Specify field separator character"
+msgstr "Chỉ định kí tự phân cách trường"
+
+#. i18n: ectx: (Import SPSS file) <dialog label="Import SPSS file"> <tab label="General"> <saveobject label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <saveobject label="...">
+#. i18n: ectx: (Import STATA file) <dialog label="Import STATA file"> <tab label="General"> <saveobject label="...">
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="General"> <saveobject label="...">
+#. i18n: ectx: (Generic data import) <dialog label="Generic data import"> <tab label="General"> <saveobject label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:143
+#: rkward/plugins/00saveload/import/import_generic_rio.xml:25
+#: rkward/plugins/00saveload/import/import_spss.xml:30
+#: rkward/plugins/00saveload/import/import_stata.xml:24
+#: rkward/plugins/00saveload/import/import_xls.xml:24
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.xml:28
+#, kde-format
+msgid "Object to save to"
+msgstr "Đối tượng để lưu"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <checkbox label="...">
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="General"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:144
+#: rkward/plugins/00saveload/import/import_xls.xml:25
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.xml:29
+#, kde-format
+msgid "Open imported data for editing"
+msgstr "Mở dữ liệu đã nhập để chỉnh sửa"
+
+#. i18n: ectx: (Import SPSS file) <dialog label="Import SPSS file"> <tab label="General"> <preview label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="General"> <preview label="...">
+#. i18n: ectx: (Import STATA file) <dialog label="Import STATA file"> <tab label="General"> <preview label="...">
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="General"> <preview label="...">
+#. i18n: ectx: (Generic data import) <dialog label="Generic data import"> <tab label="General"> <preview label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:146
+#: rkward/plugins/00saveload/import/import_generic_rio.xml:33
+#: rkward/plugins/00saveload/import/import_spss.xml:41
+#: rkward/plugins/00saveload/import/import_stata.xml:34
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.xml:32
+#, kde-format
+msgid "Preview"
+msgstr "Xem thử"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:148
+#: rkward/plugins/00saveload/save/write_csv.xml:102
+#, kde-format
+msgid "Rows and Columns"
+msgstr "Hàng và Cột"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Rows and Columns"> <frame label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:151
+#, kde-format
+msgid "Row Specifications"
+msgstr "Thông số hàng"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Rows and Columns"> <frame label="Row  specifications"> <radio label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Rows and Columns"> <frame label="Row Specifications"> <radio label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:152
+#: rkward/plugins/00saveload/save/write_csv.xml:109
+#, kde-format
+msgid "Row names"
+msgstr "Tên hàng"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> [...] <radio label="Row names"> <option label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> [...] <radio label="Column names"> <option label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> [...] <radio label="Classes of columns"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:153
+#: rkward/plugins/00saveload/import/import_csv.xml:166
+#: rkward/plugins/00saveload/import/import_csv.xml:172
+#, kde-format
+msgid "Automatic"
+msgstr "Tự động"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> [...] <radio label="Row names"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:154
+#, kde-format
+msgid "Numeric row names"
+msgstr "Tên hàng số"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> [...] <radio label="Row names"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:155
+#, kde-format
+msgid "As specified in column x:"
+msgstr "Như đã chỉ định trong cột x:"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> [...] <radio label="Row names"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:156
+#, kde-format
+msgid "Use a vector"
+msgstr "Sử dụng một vector"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Rows and Columns"> <frame label="Row Specifications"> <input label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:158
+#, kde-format
+msgid "Column number or variable name"
+msgstr "Số cột hoặc tên biến"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Rows and Columns"> <frame label="Row Specifications"> <input label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:159
+#, kde-format
+msgid "Vector of row names (quoted)"
+msgstr "Vectơ của tên hàng (được trích dẫn)"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Rows and Columns"> <frame label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:164
+#, kde-format
+msgid "Column Specifications"
+msgstr "Thông số cột"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Rows and Columns"> <frame label="Column specifications"> <radio label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Rows and Columns"> <frame label="Column Specifications"> <radio label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:165
+#: rkward/plugins/00saveload/save/write_csv.xml:118
+#, kde-format
+msgid "Column names"
+msgstr "Tên cột"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> [...] <radio label="Column names"> <option label="...">
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> [...] <radio label="Classes of columns"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:167
+#: rkward/plugins/00saveload/import/import_csv.xml:173
+#, kde-format
+msgid "Use a character vector"
+msgstr "Sử dụng một vector chữ"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Rows and Columns"> <frame label="Column Specifications"> <input label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:169
+#, kde-format
+msgid "Vector of column names (quoted)"
+msgstr "Vectơ của tên cột (được đặt trong dấu ngoặc kép)"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Rows and Columns"> <frame label="Column Specifications"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:170
+#, kde-format
+msgid "Check syntax of column names"
+msgstr "Kiểm tra cú pháp của tên cột"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Rows and Columns"> <frame label="Column Specifications"> <radio label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:171
+#, kde-format
+msgid "Classes of columns"
+msgstr "Các lớp của các cột"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Rows and Columns"> <frame label="Column Specifications"> <input label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:175
+#, kde-format
+msgid "Vector of column classes (quoted)"
+msgstr "Vectơ của các lớp cột (được trích dẫn)"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Rows and Columns"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:180
+#, kde-format
+msgid "Skip trailing fields"
+msgstr "Bỏ qua các trường cuối"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Rows and Columns"> <checkbox label="...">
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="Further Options"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:181
+#: rkward/plugins/00saveload/import/import_xls.xml:42
+#, kde-format
+msgid "Pad rows if unequal length"
+msgstr "Đệm các hàng nếu độ dài không bằng nhau"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="...">
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:185
+#: rkward/plugins/00saveload/import/import_xls.xml:30
+#, kde-format
+msgid "Further Options"
+msgstr "Tùy chọn khác"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Further Options"> <frame label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:186
+#, kde-format
+msgid "String handling"
+msgstr "Xử lý chuỗi"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Further Options"> <frame label="String handling"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:187
+#, kde-format
+msgid "Allow escaped characters"
+msgstr "Cho phép ký tự chuyển dịch"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Further Options"> <frame label="String handling"> <checkbox label="...">
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="Further Options"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:188
+#: rkward/plugins/00saveload/import/import_xls.xml:43
+#, kde-format
+msgid "Strip leading and trailing whitespace"
+msgstr "Loại bỏ khoảng trắng đầu và cuối"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Further Options"> <frame label="String handling"> <radio label="...">
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="Further Options"> <radio label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:191
+#: rkward/plugins/00saveload/import/import_xls.xml:37
+#, kde-format
+msgid "Convert character columns to factors"
+msgstr "Chuyển các cột chữ thành các yếu tố"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> [...] <radio label="Convert character columns to factors"> <option label="...">
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="Further Options"> <radio label="Convert character columns to factors"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:192
+#: rkward/plugins/00saveload/import/import_xls.xml:38
+#, kde-format
+msgid "Convert to factor"
+msgstr "Chuyển đổi thành yếu tố"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> [...] <radio label="Convert character columns to factors"> <option label="...">
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="Further Options"> <radio label="Convert character columns to factors"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:193
+#: rkward/plugins/00saveload/import/import_xls.xml:39
+#, kde-format
+msgid "Default"
+msgstr "Mặc định"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> [...] <radio label="Convert character columns to factors"> <option label="...">
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="Further Options"> <radio label="Convert character columns to factors"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:194
+#: rkward/plugins/00saveload/import/import_xls.xml:40
+#, kde-format
+msgid "Do not convert"
+msgstr "Không chuyển đổi"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Further Options"> <frame label="String handling"> <input label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:197
+#, kde-format
+msgid "Missing value string"
+msgstr "Chuỗi giá trị bị thiếu"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Further Options"> <frame label="String handling"> <radio label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:200
+#, kde-format
+msgid "String delimiter"
+msgstr "Dấu tách chuỗi"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> [...] <radio label="String delimiter"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:201
+#, kde-format
+msgid "\" only"
+msgstr "\" chỉ"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> [...] <radio label="String delimiter"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:202
+#, kde-format
+msgid "' only"
+msgstr "chỉ '"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> [...] <radio label="String delimiter"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:203
+#, kde-format
+msgid "\" and '"
+msgstr "\" và '"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> [...] <radio label="String delimiter"> <option label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:204
+#, kde-format
+msgid "None / disabled"
+msgstr "Không / tắt"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Further Options"> <frame label="String handling"> <input label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:207
+#, kde-format
+msgid "Specify quoting character(s)"
+msgstr "Chỉ định ký tự trích dẫn"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Further Options"> <frame label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:211
+#, kde-format
+msgid "Skip"
+msgstr "Bỏ qua"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Further Options"> <frame label="Skip"> <input label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:212
+#, kde-format
+msgid "Skip x lines at the start of the file"
+msgstr "Bỏ qua x dòng ở đầu tệp"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Further Options"> <frame label="Skip"> <input label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:213
+#, kde-format
+msgid "Max number of lines to read (-1 for no limit)"
+msgstr "Số dòng tối đa để đọc (-1 để không giới hạn)"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Further Options"> <frame label="Skip"> <input label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:214
+#, kde-format
+msgid "Character for comments"
+msgstr "Kí tự để nhận xét"
+
+#. i18n: ectx: (Import Text / CSV data) <dialog label="Import Text / CSV data"> <tab label="Further Options"> <frame label="Skip"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/import_csv.xml:215
+#, kde-format
+msgid "Skip blank lines"
+msgstr "Bỏ qua các dòng trống"
+
+#. i18n: ectx: (Loaded from Import SPSS file)
+#. i18n: ectx: (Loaded from Import STATA file)
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet)
+#. i18n: ectx: (Loaded from Generic data import)
+#: rkward/plugins/00saveload/import/import_generic_rio.js:37
+#: rkward/plugins/00saveload/import/import_spss.js:55
+#: rkward/plugins/00saveload/import/import_stata.js:64
+#: rkward/plugins/00saveload/import/import_xls.js:38
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.js:48
+#, kde-format
+msgctxt "R code comment"
+msgid "assign to globalenv()"
+msgstr "gán cho globalenv()"
+
+#. i18n: ectx: (Loaded from Generic data import)
+#. i18n: ectx: (Generic data import) <dialog label="...">
+#: rkward/plugins/00saveload/import/import_generic_rio.js:45
+#: rkward/plugins/00saveload/import/import_generic_rio.xml:19
+#, kde-format
+msgid "Generic data import"
+msgstr "Nhập khẩu dữ liệu chung"
+
+#. i18n: ectx: (Loaded from Generic data import) <summary>
+#: rkward/plugins/00saveload/import/import_generic_rio.rkh:11
+#, kde-format
+msgid ""
+"Import a variety of formats. This is a generic approach based on the \"rio\" "
+"R package, which in turn depends on a variety of further packages. If there "
+"is a dedicated plugin for the format you wish to import, using that will "
+"usually be preferable, as it will provide more specific options, and with "
+"less packages to install."
+msgstr ""
+"Nhập khẩu nhiều định dạng khác nhau. Đây là một cách tiếp cận chung dựa "
+"trên gói \"rio\" của R, vốn phụ thuộc vào nhiều gói khác. Nếu có phần cài "
+"cắm chuyên dụng cho định dạng bạn muốn nhập khẩu, thì việc sử dụng nó "
+"thường sẽ tốt hơn, vì nó sẽ cung cấp nhiều tùy chọn cụ thể hơn và cần ít "
+"gói để cài đặt."
+
+#. i18n: ectx: (Loaded from Generic data import) <usage>
+#: rkward/plugins/00saveload/import/import_generic_rio.rkh:16
+#, kde-format
+msgid ""
+"Select the data file to import. An R object containing the data will be "
+"created. This will usually be a data.frame, or a list."
+msgstr ""
+"Chọn tệp dữ liệu để nhập. Một đối tượng R chứa dữ liệu sẽ được tạo. Thường "
+"đây sẽ là một data.frame hoặc một danh sách."
+
+#. i18n: ectx: (Loaded from Import SPSS file) <settings> <setting> (refers to element labelled "Edit Object")
+#. i18n: ectx: (Loaded from Generic data import) <settings> <setting> (refers to element labelled "Edit Object")
+#: rkward/plugins/00saveload/import/import_generic_rio.rkh:24
+#: rkward/plugins/00saveload/import/import_spss.rkh:23
+#, kde-format
+msgid ""
+"Whether the object should be opened for editing after it was imported. "
+"Currently, this is only possible, if the object is saved as a data.frame "
+"(see next option)."
+msgstr ""
+"Xem liệu đối tượng có nên được mở để chỉnh sửa sau khi được nhập không. "
+"Hiện tại, điều này chỉ có thể xảy ra nếu đối tượng được lưu dưới dạng "
+"data.frame (xem tùy chọn tiếp theo)."
+
+#. i18n: ectx: (Loaded from Generic data import) <settings> <setting> (refers to element labelled "Import a list of all datasets")
+#: rkward/plugins/00saveload/import/import_generic_rio.rkh:25
+#, kde-format
+msgid ""
+"Some data files may contain more than one set of data (e.g. several sheets "
+"inside one excel file). Check this option to import all datasets as a list."
+msgstr ""
+"Một số tệp dữ liệu có thể chứa nhiều bộ dữ liệu (ví dụ: nhiều trang tính "
+"trong một tệp Excel). Chọn tùy chọn này để nhập tất cả các tập dữ liệu dưới "
+"dạng danh sách."
+
+#. i18n: ectx: (Loaded from Generic data import) <settings> <setting> (refers to element labelled "Import specific sub-set")
+#: rkward/plugins/00saveload/import/import_generic_rio.rkh:26
+#, kde-format
+msgid ""
+"For datasets containing more than one set of data, specify which set to "
+"import (this will usually be a name or a number)."
+msgstr ""
+"Đối với các tập dữ liệu chứa nhiều tập dữ liệu, hãy chỉ định tập dữ liệu "
+"nào cần nhập khẩu (thường là một tên hoặc một số)."
+
+#. i18n: ectx: (Loaded from Generic data import) <settings> <setting> (refers to element labelled "Preview")
+#: rkward/plugins/00saveload/import/import_generic_rio.rkh:27
+#, kde-format
+msgid ""
+"Preview imported data. Only the first 50 rows and columns are shown, for "
+"performance reasons (and only the first dataset in case of multiple sets in "
+"the file)."
+msgstr ""
+"Xem thử dữ liệu đã nhập. Chỉ hiển thị 50 hàng và cột đầu tiên, vì lý do "
+"hiệu suất (và chỉ tập dữ liệu đầu tiên nếu có nhiều tập trong tệp)."
+
+#. i18n: ectx: (Import SPSS file) <dialog label="Import SPSS file"> <tab label="General"> <checkbox label="...">
+#. i18n: ectx: (Import STATA file) <dialog label="Import STATA file"> <tab label="General"> <checkbox label="...">
+#. i18n: ectx: (Generic data import) <dialog label="Generic data import"> <tab label="General"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/import_generic_rio.xml:26
+#: rkward/plugins/00saveload/import/import_spss.xml:31
+#: rkward/plugins/00saveload/import/import_stata.xml:25
+#, kde-format
+msgid "Edit Object"
+msgstr "Sửa Đối tượng"
+
+#. i18n: ectx: (Generic data import) <dialog label="Generic data import"> <tab label="General"> <frame label="...">
+#: rkward/plugins/00saveload/import/import_generic_rio.xml:29
+#, kde-format
+msgid "If the file contains more than one dataset"
+msgstr "Nếu tệp chứa nhiều tập dữ liệu"
+
+#. i18n: ectx: (Generic data import) <dialog label="Generic data import"> <tab label="General"> <frame label="If the file contains more than one dataset"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/import_generic_rio.xml:30
+#, kde-format
+msgid "Import a list of all datasets"
+msgstr "Nhập khẩu danh sách tất cả các tập dữ liệu"
+
+#. i18n: ectx: (Generic data import) <dialog label="Generic data import"> <tab label="General"> <frame label="If the file contains more than one dataset"> <input label="...">
+#: rkward/plugins/00saveload/import/import_generic_rio.xml:31
+#, kde-format
+msgid "Import specific sub-set"
+msgstr "Nhập khẩu tập con cụ thể"
+
+#. i18n: ectx: (Loaded from Import SPSS file)
+#. i18n: ectx: (Loaded from Import STATA file)
+#: rkward/plugins/00saveload/import/import_spss.js:40
+#: rkward/plugins/00saveload/import/import_stata.js:50
+#, kde-format
+msgctxt "R code comment"
+msgid "set variable labels for use in RKWard"
+msgstr "đặt nhãn biến để sử dụng trong RKWard"
+
+#. i18n: ectx: (Loaded from Import SPSS file)
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet)
+#: rkward/plugins/00saveload/import/import_spss.js:63
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.js:56
+#, kde-format
+msgid "Import SPSS data"
+msgstr "Nhập khẩu dữ liệu SPSS"
+
+#. i18n: ectx: (Loaded from Import SPSS file) <summary>
+#: rkward/plugins/00saveload/import/import_spss.rkh:11
+#, kde-format
+msgid "Import SPSS data files."
+msgstr "Nhập khẩu tệp dữ liệu SPSS."
+
+#. i18n: ectx: (Loaded from Import SPSS file) <usage>
+#: rkward/plugins/00saveload/import/import_spss.rkh:15
+#, kde-format
+msgid ""
+"Choose the SPSS data file to import. Usually those files have the ending '*."
+"sav'. An R object containing the SPSS data will be created. This can either "
+"be a data.frame, or a list. Several options deal with handling labels and "
+"character encoding. See <link href=\"rkward://rhelp/read.spss\"/>. Other "
+"SPSS files than data files (i. e.:*.por, *.jnl, *.cht, *.spo, *.sps) are not "
+"supported. For issues related to handling of time/dates please refere to "
+"<link href=\"http://cran.r-project.org/doc/Rnews/Rnews_2004-1.pdf\">R News "
+"4/1 p30-31</link>."
+msgstr ""
+"Chọn tệp dữ liệu SPSS để nhập. Thông thường những tệp này có phần mở rộng "
+"'*.sav'. Một đối tượng R chứa dữ liệu SPSS sẽ được tạo ra. Đây có thể là "
+"một data.frame hoặc một list. Một số tùy chọn liên quan đến việc xử lý nhãn "
+"và mã hóa kí tự. Xem <link href=\"rkward://rhelp/read.spss\"/>. Các tệp "
+"SPSS khác ngoài tệp dữ liệu (ví dụ: *.por, *.jnl, *.cht, *.spo, *.sps) "
+"không được hỗ trợ. Đối với các vấn đề liên quan đến xử lý thời gian/ngày "
+"tháng, vui lòng tham khảo <link "
+"href=\"http://cran.r-project.org/doc/Rnews/Rnews_2004-1.pdf\">R News 4/1 "
+"trang 30-31</link>."
+
+#. i18n: ectx: (Loaded from Import SPSS file) <settings> <setting> (refers to element labelled "Import as a data.frame")
+#: rkward/plugins/00saveload/import/import_spss.rkh:24
+#, kde-format
+msgid ""
+"Whether to save the data as a data.frame. The alternative is saving as a "
+"list (useful, if the columns in your SPSS data have different lengths)"
+msgstr ""
+"Có lưu dữ liệu dưới dạng data.frame hay không. Lựa chọn khác là lưu dưới "
+"dạng danh sách (hữu ích nếu các cột trong dữ liệu SPSS có độ dài khác nhau)"
+
+#. i18n: ectx: (Loaded from Import SPSS file) <settings> <setting> (refers to element labelled "Convert Variable labels to RKWard format")
+#: rkward/plugins/00saveload/import/import_spss.rkh:26
+#, kde-format
+msgid ""
+"RKWard can display SPSS like variable labels. Check this option, if you "
+"would like to convert the SPSS variable labels to RKWard format. If you "
+"leave the option unchecked, the SPSS variable labels will still be available "
+"as an attribute \"variable.labels\" (see <link href=\"rkward://rhelp/read."
+"spss\"/>)"
+msgstr ""
+"RKWard có thể hiển thị nhãn biến giống như SPSS. Hãy chọn tùy chọn này nếu "
+"bạn muốn chuyển đổi nhãn biến SPSS sang định dạng RKWard. Nếu bạn để tùy "
+"chọn này không được chọn, nhãn biến SPSS vẫn sẽ có sẵn như một thuộc tính "
+"\"variable.labels\" (xem <link href=\"rkward://rhelp/read.spss\"/>)"
+
+#. i18n: ectx: (Loaded from Import SPSS file) <settings> <setting> (refers to element labelled "Use value labels")
+#: rkward/plugins/00saveload/import/import_spss.rkh:27
+#, kde-format
+msgid ""
+"Should SPSS variables with value labels be converted to R factors with those "
+"levels?"
+msgstr ""
+"Các biến SPSS có nhãn giá trị có nên được chuyển đổi thành các yếu tố R với "
+"những mức độ đó không?"
+
+#. i18n: ectx: (Loaded from Import SPSS file) <settings> <setting> (refers to element labelled "Maximum number of labels per object")
+#: rkward/plugins/00saveload/import/import_spss.rkh:28
+#, kde-format
+msgid ""
+"Maximum number of factor levels to use (see <link href=\"rkward://rhelp/read."
+"spss\"/>)"
+msgstr ""
+"Số lượng mức tối đa của yếu tố để sử dụng (xem <link "
+"href=\"rkward://rhelp/read.spss\"/>)"
+
+#. i18n: ectx: (Loaded from Import SPSS file) <settings> <setting> (refers to element labelled "Trim white space")
+#: rkward/plugins/00saveload/import/import_spss.rkh:29
+#, kde-format
+msgid "Trim trailing white space from labels?"
+msgstr "Cắt bỏ khoảng trắng ở cuối nhãn?"
+
+#. i18n: ectx: (Loaded from Import SPSS file) <settings> <setting> (refers to element labelled "Preview")
+#: rkward/plugins/00saveload/import/import_spss.rkh:30
+#, kde-format
+msgid ""
+"Preview imported data. Only the first 50 rows and columns are shown, for "
+"performance reasons. Internally, the preview uses a data.frame, even if "
+"<label id=\"data_frame\"/> is not checked."
+msgstr ""
+"Xem thử dữ liệu đã nhập. Chỉ hiển thị 50 hàng và cột đầu tiên, vì lý do "
+"hiệu suất. Bên trong, bản xem thử sử dụng một data.frame, ngay cả khi "
+"<label id=\"data_frame\"/> không được chọn."
+
+#. i18n: ectx: (Import SPSS file) <dialog label="...">
+#: rkward/plugins/00saveload/import/import_spss.xml:24
+#, kde-format
+msgid "Import SPSS file"
+msgstr "Nhập khẩu tệp SPSS"
+
+#. i18n: ectx: (Import SPSS file) <dialog label="Import SPSS file"> <tab label="General"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/import_spss.xml:34
+#, kde-format
+msgid "Import as a data.frame"
+msgstr "Nhập khẩu dưới dạng data.frame"
+
+#. i18n: ectx: (Import SPSS file) <dialog label="Import SPSS file"> <tab label="General"> <frame label="...">
+#: rkward/plugins/00saveload/import/import_spss.xml:35
+#, kde-format
+msgid "Labels"
+msgstr "Nhãn"
+
+#. i18n: ectx: (Import SPSS file) <dialog label="Import SPSS file"> <tab label="General"> <frame label="Labels"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/import_spss.xml:36
+#, kde-format
+msgid "Convert Variable labels to RKWard format"
+msgstr "Chuyển nhãn biến sang định dạng RKWard"
+
+#. i18n: ectx: (Import SPSS file) <dialog label="Import SPSS file"> <tab label="General"> <frame label="Labels"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/import_spss.xml:37
+#, kde-format
+msgid "Use value labels"
+msgstr "Sử dụng nhãn giá trị"
+
+#. i18n: ectx: (Import SPSS file) <dialog label="Import SPSS file"> <tab label="General"> <frame label="Labels"> <spinbox label="...">
+#: rkward/plugins/00saveload/import/import_spss.xml:38
+#, kde-format
+msgid "Maximum number of labels per object"
+msgstr "Số lượng nhãn tối đa trên mỗi đối tượng"
+
+#. i18n: ectx: (Import SPSS file) <dialog label="Import SPSS file"> <tab label="General"> <frame label="Labels"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/import_spss.xml:39
+#, kde-format
+msgid "Trim white space"
+msgstr "Cắt bỏ khoảng trắng"
+
+#. i18n: ectx: (Loaded from Import STATA file)
+#: rkward/plugins/00saveload/import/import_stata.js:72
+#, kde-format
+msgid "Import Stata File"
+msgstr "Nhập khẩu tệp Stata"
+
+#. i18n: ectx: (Loaded from Import STATA file) <summary>
+#: rkward/plugins/00saveload/import/import_stata.rkh:11
+#, kde-format
+msgid "Import STATA data files."
+msgstr "Nhập khẩu tệp dữ liệu STATA."
+
+#. i18n: ectx: (Loaded from Import STATA file) <usage>
+#: rkward/plugins/00saveload/import/import_stata.rkh:15
+#, kde-format
+msgid ""
+"Choose the STATA data file to import. Usually those files have the ending '*."
+"dta'. An R object containing the STATA data will be created. STATA files "
+"other than data files (i. e.:*.log, *.smcl, *.do, *.ado) are not supported."
+msgstr ""
+"Chọn tệp dữ liệu STATA để nhập. Thường thì những tệp này có phần mở rộng "
+"'*.dta'. Một đối tượng R chứa dữ liệu STATA sẽ được tạo. Các tệp STATA khác "
+"ngoài tệp dữ liệu (tức là: *.log, *.smcl, *.do, *.ado) không được hỗ trợ."
+
+#. i18n: ectx: (Loaded from Import STATA file) <settings> <setting> (refers to element labelled "File name")
+#: rkward/plugins/00saveload/import/import_stata.rkh:21
+#, kde-format
+msgid ""
+"The filename of the file to import. This may also be a URL (http://, http:// "
+"and ftp:// are supported)."
+msgstr ""
+"Tên tệp của tệp cần nhập. Đây cũng có thể là một URL (http://, http:// và "
+"ftp:// được hỗ trợ)."
+
+#. i18n: ectx: (Loaded from Import STATA file) <settings> <setting> (refers to element labelled "Edit Object")
+#: rkward/plugins/00saveload/import/import_stata.rkh:23
+#, kde-format
+msgid "Whether the object should be opened for editing after it was imported."
+msgstr "Xem liệu đối tượng có nên được mở để chỉnh sửa sau khi được nhập không."
+
+#. i18n: ectx: (Loaded from Import STATA file) <settings> <setting> (refers to element labelled "Convert Stata dates to 'Date' class")
+#: rkward/plugins/00saveload/import/import_stata.rkh:25
+#, kde-format
+msgid ""
+"Convert Stata dates to R 'Date' class (see <link href=\"rkward://rhelp/read."
+"dta\"/>, <link href=\"rkward://rhelp/Dates\"/>)."
+msgstr ""
+"Chuyển đổi ngày tháng Stata sang lớp 'Date' của R (xem <link "
+"href=\"rkward://rhelp/read.dta\"/>và <link "
+"href=\"rkward://rhelp/Dates\"/>)."
+
+#. i18n: ectx: (Loaded from Import STATA file) <settings> <setting> (refers to element labelled "Use Stata value labels to create factors?")
+#: rkward/plugins/00saveload/import/import_stata.rkh:26
+#, kde-format
+msgid ""
+"R uses value labels only for factors. Should Stata variable with value "
+"labels be converted to factors?"
+msgstr ""
+"R chỉ sử dụng nhãn giá trị cho các yếu tố. Biến Stata có nhãn giá trị có "
+"nên được chuyển đổi thành các yếu tố không?"
+
+#. i18n: ectx: (Loaded from Import STATA file) <settings> <setting> (refers to element labelled "For version 8 or later, store information about different types of missing data?")
+#: rkward/plugins/00saveload/import/import_stata.rkh:27
+#, kde-format
+msgid ""
+"Stata version 8 and above differentiates various different type of missing "
+"values. If this option is set, this information is stored in an attribute of "
+"the imported data. See <link href=\"rkward://rhelp/read.dta\"/> for details."
+msgstr ""
+"Phiên bản Stata 8 và mới hơn phân biệt các loại giá trị bị thiếu khác nhau. "
+"Nếu tùy chọn này được đặt, thông tin này sẽ được lưu trữ trong một thuộc "
+"tính của dữ liệu đã nhập. Xem <link href=\"rkward://rhelp/read.dta\"/>để "
+"biết chi tiết."
+
+#. i18n: ectx: (Loaded from Import STATA file) <settings> <setting> (refers to element labelled "Convert '_' in Stata variable names to '.' in R names")
+#: rkward/plugins/00saveload/import/import_stata.rkh:28
+#, kde-format
+msgid ""
+"The underscore ('_') is usually not used in R variable names, and may cause "
+"problems in some (rare) situations. Should underscore characters be "
+"converted to dots ('.')?"
+msgstr ""
+"Dấu gạch dưới ('_') thường không được sử dụng trong tên biến R, và có thể "
+"gây ra một số vấn đề trong một số (hiếm) tình huống. Các ký tự dấu gạch "
+"dưới có nên được chuyển đổi thành dấu chấm ('.')?"
+
+#. i18n: ectx: (Loaded from Import STATA file) <settings> <setting> (refers to element labelled "Preview")
+#: rkward/plugins/00saveload/import/import_stata.rkh:29
+#, kde-format
+msgid ""
+"Preview imported data. Only the first 50 rows and columns are shown, for "
+"performance reasons."
+msgstr ""
+"Xem thử dữ liệu đã nhập. Chỉ hiển thị 50 hàng và cột đầu tiên vì lý do hiệu "
+"suất."
+
+#. i18n: ectx: (Import STATA file) <dialog label="...">
+#: rkward/plugins/00saveload/import/import_stata.xml:18
+#, kde-format
+msgid "Import STATA file"
+msgstr "Nhập khẩu tệp STATA"
+
+#. i18n: ectx: (Save R objects) <dialog label="Save R objects"> <tab label="Select variables"> <frame label="...">
+#. i18n: ectx: (Create package skeleton) <dialog label="Create package skeleton"> <tab label="Select variables"> <frame label="...">
+#. i18n: ectx: (Write vector / matrix) <dialog label="Write vector / matrix"> <tab label="Select variables"> <frame label="...">
+#. i18n: ectx: (Import STATA file) <dialog label="Import STATA file"> <tab label="General"> <frame label="...">
+#: rkward/plugins/00saveload/import/import_stata.xml:28
+#: rkward/plugins/00saveload/save/save.xml:47
+#: rkward/plugins/00saveload/save/skeleton/description.xml:19
+#: rkward/plugins/00saveload/save/write.xml:26
+#, kde-format
+msgid "Options"
+msgstr "Tùy chọn"
+
+#. i18n: ectx: (Import STATA file) <dialog label="Import STATA file"> <tab label="General"> <frame label="Options"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/import_stata.xml:29
+#, kde-format
+msgid "Convert Stata dates to 'Date' class"
+msgstr "Chuyển đổi ngày tháng Stata sang lớp 'Date'"
+
+#. i18n: ectx: (Import STATA file) <dialog label="Import STATA file"> <tab label="General"> <frame label="Options"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/import_stata.xml:30
+#, kde-format
+msgid "Use Stata value labels to create factors?"
+msgstr "Sử dụng nhãn giá trị Stata để tạo các yếu tố?"
+
+#. i18n: ectx: (Import STATA file) <dialog label="Import STATA file"> <tab label="General"> <frame label="Options"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/import_stata.xml:31
+#, kde-format
+msgid ""
+"For version 8 or later, store information about different types of missing "
+"data?"
+msgstr ""
+"Đối với phiên bản 8 trở lên, lưu trữ thông tin về các loại dữ liệu bị thiếu "
+"khác nhau?"
+
+#. i18n: ectx: (Import STATA file) <dialog label="Import STATA file"> <tab label="General"> <frame label="Options"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/import_stata.xml:32
+#, kde-format
+msgid "Convert '_' in Stata variable names to '.' in R names"
+msgstr "Chuyển đổi '_' trong tên biến Stata thành '.' trong tên R"
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet)
+#: rkward/plugins/00saveload/import/import_xls.js:14
+#, kde-format
+msgid ""
+"Preview not available, because package gdata is not installed or cannot be "
+"loaded."
+msgstr "Không thể xem thử, vì gói gdata không được cài đặt hoặc không thể tải."
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet)
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="...">
+#: rkward/plugins/00saveload/import/import_xls.js:46
+#: rkward/plugins/00saveload/import/import_xls.xml:15
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.xml:18
+#, kde-format
+msgid "Import Microsoft EXCEL sheet"
+msgstr "Nhập khẩu bảng tính Microsoft EXCEL"
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <summary>
+#: rkward/plugins/00saveload/import/import_xls.rkh:8
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.rkh:12
+#, kde-format
+msgid "Import a sheet of a Microsoft Excel file into a data frame."
+msgstr "Nhập khẩu một trang tính từ tệp Microsoft Excel vào một khung dữ liệu."
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <usage>
+#: rkward/plugins/00saveload/import/import_xls.rkh:12
+#, kde-format
+msgid ""
+"Choose the Microsoft Excel file to import a sheet from. An R object "
+"containing the data will be created. This method of importing Excel sheets "
+"is based on R package \"gdata\", and requires a working Perl setup. In case "
+"this does not work on your system, or does not produce the expected results, "
+"you may want to try the Java-based alternative <link href=\"rkward://"
+"component/import_xls_xlconnect\"/>."
+msgstr ""
+"Chọn tệp Microsoft Excel để nhập khẩu một trang tính. Một đối tượng R chứa "
+"dữ liệu sẽ được tạo. Phương pháp này để nhập khẩu các trang tính Excel dựa "
+"trên gói R \"gdata\" và yêu cầu một cài đặt Perl hoạt động. Trong trường "
+"hợp điều này không hoạt động trên hệ thống của bạn hoặc không tạo ra kết "
+"quả mong đợi, bạn có thể muốn thử <link "
+"href=\"rkward://component/import_xls_xlconnect\">thay thế dựa trên "
+"Java</link>."
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <settings> <setting> (refers to element labelled "Name or number of sheet")
+#: rkward/plugins/00saveload/import/import_xls.rkh:22
+#, kde-format
+msgid "Specifies the sheet to be imported"
+msgstr "Chỉ định trang tính cần được nhập"
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <settings> <setting> (refers to element labelled "Print details as the file is processed")
+#: rkward/plugins/00saveload/import/import_xls.rkh:23
+#, kde-format
+msgid ""
+"Print details as the file is processed. This may be helpful in "
+"troubleshooting."
+msgstr ""
+"In chi tiết khi tệp được xử lý. Điều này có thể hữu ích trong việc xử lý sự "
+"cố."
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <settings> <setting> (refers to element labelled "Number of rows to skip")
+#: rkward/plugins/00saveload/import/import_xls.rkh:24
+#, kde-format
+msgid "Number of rows to skip at the top"
+msgstr "Số hàng cần bỏ qua ở đầu"
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <settings> <setting> (refers to element labelled "Max number of rows to read (-1 for no limit)")
+#: rkward/plugins/00saveload/import/import_xls.rkh:25
+#, kde-format
+msgid "Maximum number of rows to import"
+msgstr "Số hàng tối đa để nhập khẩu"
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <settings> <setting> (refers to element labelled "Use first row as column names")
+#: rkward/plugins/00saveload/import/import_xls.rkh:27
+#, kde-format
+msgid "Whether the first row of the file should be interpreted as column names"
+msgstr "Liệu dòng đầu tiên của tệp có nên được hiểu là tên cột hay không"
+
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="General"> <input label="...">
+#: rkward/plugins/00saveload/import/import_xls.xml:19
+#, kde-format
+msgid "Name or number of sheet"
+msgstr "Tên hoặc số trang tính"
+
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="Further Options"> <frame label="...">
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="Rows and columns"> <frame label="...">
+#: rkward/plugins/00saveload/import/import_xls.xml:32
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.xml:35
+#, kde-format
+msgid "Range"
+msgstr "Phạm vi"
+
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="Further Options"> <frame label="Range"> <input label="...">
+#: rkward/plugins/00saveload/import/import_xls.xml:33
+#, kde-format
+msgid "Max number of rows to read (-1 for no limit)"
+msgstr "Số hàng tối đa để đọc (-1 để không giới hạn)"
+
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="Further Options"> <frame label="Range"> <input label="...">
+#: rkward/plugins/00saveload/import/import_xls.xml:34
+#, kde-format
+msgid "Number of rows to skip"
+msgstr "Số hàng cần bỏ qua"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Encoding and Character Options"> <input label="...">
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="Further Options"> <input label="...">
+#: rkward/plugins/00saveload/import/import_xls.xml:36
+#: rkward/plugins/00saveload/save/write_csv.xml:168
+#, kde-format
+msgid "Character for missing values"
+msgstr "Kí tự cho các giá trị bị thiếu"
+
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="Further Options"> <frame label="...">
+#: rkward/plugins/00saveload/import/import_xls.xml:45
+#, kde-format
+msgid "Error handling"
+msgstr "Xử lý lỗi"
+
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="Further Options"> <frame label="Error handling"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/import_xls.xml:46
+#, kde-format
+msgid "Print details as the file is processed"
+msgstr "In chi tiết khi tệp được xử lý"
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet)
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.js:10
+#, kde-format
+msgid ""
+"Preview not available, because package XLConnect is not installed or cannot "
+"be loaded."
+msgstr "Không thể xem thử, vì gói XLConnect không được cài đặt hoặc không thể tải."
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <usage>
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.rkh:16
+#, kde-format
+msgid ""
+"Choose the Microsoft Excel file to import a sheet from. An R object "
+"containing the data will be created. This method of importing Excel sheets "
+"is based on R package \"XLconnect\", and requires a working Java-setup. In "
+"case this does not work on your system, you may want to try the Perl-based "
+"alternative <link href=\"rkward://component/import_xls\"/>."
+msgstr ""
+"Chọn tệp Microsoft Excel để nhập khẩu một trang tính. Một đối tượng R chứa "
+"dữ liệu sẽ được tạo. Phương pháp này để nhập khẩu các trang tính Excel dựa "
+"trên gói R \"XLconnect\" và yêu cầu một cài đặt Java hoạt động. Trong "
+"trường hợp điều này không hoạt động trên hệ thống của bạn, bạn có thể muốn "
+"thử thay thế dựa trên Perl <link href=\"rkward://component/import_xls\"/>."
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <settings> <setting> (refers to element labelled "Index or \"name\" of sheet")
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.rkh:24
+#, kde-format
+msgid ""
+"Numeric index or name/label of the sheet to import from the file. If you "
+"specify a name, here, make sure to quote it."
+msgstr ""
+"Chỉ số số hoặc tên/nhãn của trang cần nhập từ tệp. Nếu bạn chỉ định một "
+"tên, hãy đảm bảo đặt nó trong dấu ngoặc kép."
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <settings> <setting> (refers to element labelled "Use first row as column names")
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.rkh:25
+#, kde-format
+msgid ""
+"Whether the first row of data should be used as column headers. "
+"Alternatively, columns are named, automatically (by index)."
+msgstr ""
+"Liệu dòng dữ liệu đầu tiên có nên được sử dụng làm tiêu đề cột hay không. "
+"Hoặc các cột được đặt tên tự động (theo chỉ số)."
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <settings> <setting> (refers to element labelled "Index or \"name\" of column with row names (if any)")
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.rkh:26
+#, kde-format
+msgid ""
+"Numeric index or name/label of the column containing row names. If you "
+"specify a name, here, make sure to quote it. If you leave this field empty, "
+"row-names will be assigned automatically (row numbers)"
+msgstr ""
+"Chỉ số số hoặc tên/nhãn của cột chứa tên hàng. Nếu bạn chỉ định một tên, "
+"hãy đảm bảo rằng bạn đặt nó trong dấu ngoặc kép. Nếu bạn để trống trường "
+"này, tên hàng sẽ được gán tự động (số hàng)"
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <settings> <setting> (refers to element labelled "Row")
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.rkh:33
+#, kde-format
+msgid ""
+"First row of data to import within the sheet. If left to 0 (the default), "
+"the start row will be determined, automatically. Alternatively, you can "
+"specify a range in spreadsheet notation, below."
+msgstr ""
+"Hàng đầu tiên của dữ liệu để nhập khẩu trong bảng tính. Nếu để 0 (mặc "
+"định), hàng bắt đầu sẽ được xác định tự động. Hoặc bạn có thể chỉ định một "
+"phạm vi bằng cách sử dụng ký hiệu bảng tính, bên dưới."
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <settings> <setting> (refers to element labelled "Column")
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.rkh:35
+#, kde-format
+msgid ""
+"First column of data to import within the sheet. See <label id=\"startrow\"/"
+">, above."
+msgstr ""
+"Cột đầu tiên của dữ liệu để nhập khẩu trong bảng tính. Xem <label "
+"id=\"startrow\"/>, ở trên."
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <settings> <setting> (refers to element labelled "Row")
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.rkh:37
+#, kde-format
+msgid ""
+"Last row of data to import within the sheet. See <label id=\"startrow\"/>, "
+"above."
+msgstr ""
+"Dòng cuối cùng của dữ liệu để nhập khẩu trong bảng tính. Xem <label "
+"id=\"startrow\"/>, ở trên."
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <settings> <setting> (refers to element labelled "Column")
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.rkh:38
+#, kde-format
+msgid ""
+"Last column of data to import within the sheet. See <label id=\"startrow\"/"
+">, above."
+msgstr ""
+"Cột cuối cùng của dữ liệu cần nhập khẩu trong bảng tính. Xem <label "
+"id=\"startrow\"/>, ở trên."
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <settings> <setting> (refers to element labelled "")
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.rkh:39
+#, kde-format
+msgid ""
+"Specify the range to import within the sheet in spreadsheet notation (e.g. "
+"\"A10:B20\")."
+msgstr ""
+"Chỉ định phạm vi để nhập khẩu trong bảng tính theo cú pháp bảng tính (ví "
+"dụ: \"A10:B20\")."
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <settings> <setting> (refers to element labelled "Skip empty leading or trailing rows")
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.rkh:40
+#, kde-format
+msgid ""
+"If checked, empty leading and trailing rows will be omitted from the "
+"imported data."
+msgstr ""
+"Nếu được chọn, các hàng đầu và cuối trống sẽ bị bỏ qua khỏi dữ liệu được "
+"nhập."
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <settings> <setting> (refers to element labelled "Skip empty leading or trailing columns")
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.rkh:41
+#, kde-format
+msgid ""
+"If checked, empty leading and trailing columns will be omitted from the "
+"imported data."
+msgstr "Nếu được chọn, các cột đầu và cuối trống sẽ bị bỏ qua khi nhập dữ liệu."
+
+#. i18n: ectx: (Loaded from Import Microsoft EXCEL sheet) <settings> <setting> (refers to element labelled "Column classes (empty for automatic)")
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.rkh:42
+#, kde-format
+msgid ""
+"Allows you to override the automatic data type detection. Specify R data "
+"types such as \"character\" or \"numeric\", here. Any specification you make "
+"here will be applied to <b>all</b> imported columns (the specification will "
+"be \"recycled\", if necessary). To use automatic data type detection, leave "
+"this control empty, entirely. Also note that most common type conversions "
+"can also be done <i>after</i> the data has been imported."
+msgstr ""
+"Cho phép bạn vượt hiệu lực việc phát hiện kiểu dữ liệu tự động. Chỉ định "
+"các kiểu dữ liệu R như \"character\" hoặc \"numeric\" ở đây. Bất kỳ đặc "
+"tính nào bạn đưa ra ở đây sẽ được áp dụng cho <b>tất cả</b> các cột được "
+"nhập (đặc tính sẽ được \"tái sử dụng\" nếu cần thiết). Để sử dụng phát hiện "
+"kiểu dữ liệu tự động, hãy để trống hoàn toàn điều khiển này. Cũng lưu ý "
+"rằng hầu hết các chuyển đổi kiểu phổ biến cũng có thể được thực hiện <i>sau "
+"khi</i> dữ liệu đã được nhập."
+
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="General"> <input label="...">
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.xml:22
+#, kde-format
+msgid "Index or \"name\" of sheet"
+msgstr "Chỉ số hoặc \"tên\" của trang tính"
+
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="General"> <input label="...">
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.xml:25
+#, kde-format
+msgid "Index or \"name\" of column with row names (if any)"
+msgstr "Chỉ số hoặc \"tên\" của cột với tên hàng (nếu có)"
+
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="...">
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.xml:34
+#, kde-format
+msgid "Rows and columns"
+msgstr "Hàng và cột"
+
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="Rows and columns"> <frame label="Range"> <frame label="...">
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.xml:37
+#, kde-format
+msgid "Start row / column (\"0\" for automatic)"
+msgstr "Hàng / cột bắt đầu (\"0\" để tự động)"
+
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> [...] <frame label="Start row / column (\"0\" for automatic)"> <spinbox label="...">
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> [...] <frame label="End row / column (\"0\" for automatic)"> <spinbox label="...">
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.xml:38
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.xml:42
+#, kde-format
+msgid "Row"
+msgstr "Hàng"
+
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> [...] <frame label="Start row / column (\"0\" for automatic)"> <spinbox label="...">
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> [...] <frame label="End row / column (\"0\" for automatic)"> <spinbox label="...">
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.xml:39
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.xml:43
+#, kde-format
+msgid "Column"
+msgstr "Cột"
+
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="Rows and columns"> <frame label="Range"> <frame label="...">
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.xml:41
+#, kde-format
+msgid "End row / column (\"0\" for automatic)"
+msgstr "Dòng / cột kết thúc (\"0\" để tự động)"
+
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="Rows and columns"> <frame label="Range"> <text>
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.xml:46
+#, kde-format
+msgid "- <b>or</b> Excel Range (e.g. \"A10:B20\") -"
+msgstr "- <b>hoặc</b> Vùng Excel (ví dụ: \"A10:B20\") -"
+
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="Rows and columns"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.xml:50
+#, kde-format
+msgid "Skip empty leading or trailing rows"
+msgstr "Bỏ qua các hàng trống ở đầu hoặc cuối"
+
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="Rows and columns"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.xml:51
+#, kde-format
+msgid "Skip empty leading or trailing columns"
+msgstr "Bỏ qua các cột trống ở đầu hoặc cuối"
+
+#. i18n: ectx: (Import Microsoft EXCEL sheet) <dialog label="Import Microsoft EXCEL sheet"> <tab label="Rows and columns"> <matrix label="...">
+#: rkward/plugins/00saveload/import/import_xls_xlconnect.xml:53
+#, kde-format
+msgid "Column classes (empty for automatic)"
+msgstr "Lớp cột (để trống để tự động)"
+
+#. i18n: ectx: (Loaded from Load an R data file)
+#: rkward/plugins/00saveload/import/load_data.js:25
+#, kde-format
+msgid "Load data"
+msgstr "Tải dữ liệu"
+
+#. i18n: ectx: (Loaded from Load an R data file)
+#: rkward/plugins/00saveload/import/load_data.js:25
+#, kde-format
+msgid "Import to environment"
+msgstr "Nhập khẩu vào môi trường"
+
+#. i18n: ectx: (Loaded from Load an R data file) <summary>
+#: rkward/plugins/00saveload/import/load_data.rkh:8
+#, kde-format
+msgid "Load an R data file."
+msgstr "Tải một tệp dữ liệu R."
+
+#. i18n: ectx: (Loaded from Load an R data file) <usage>
+#: rkward/plugins/00saveload/import/load_data.rkh:12
+#, kde-format
+msgid ""
+"Choose the R file to import. This would be a file created e.g. by saving the "
+"workspace from RKWard, using the R <link href=\"rkward://rhelp/save"
+"\">save()</link> command, or the <link href=\"rkward://component/save_r\"/> "
+"plugin. The main difference to loading a workspace via Workspace-&gt;Open "
+"Workspace, is that the workspace is not cleaned, first, but rather merged "
+"with your existing workspace. If in doubt, use Workspace-&gt;Open Workspace, "
+"instead of this plugin."
+msgstr ""
+"Chọn tệp R để nhập. Đây sẽ là một tệp được tạo ra, vd. bằn&g cách lưu không "
+"gian làm việc từ RKWard, sử dụng lệnh R <link "
+"href=\"rkward://rhelp/save\">save()</link>, hoặc plugin <link "
+"href=\"rkward://component/save_r\"/>. Sự khác biệt chính so với việc tải "
+"một không gian làm việc thông qua Workspace-gt;Open Workspace là không gian "
+"làm việc không được làm sạch trước, mà thay vào đó được hợp nhất với không "
+"gian làm việc hiện có của bạn. Nếu không chắc chắn, hãy sử dụng "
+"Workspace-gt;Open Workspace thay vì plugin này."
+
+#. i18n: ectx: (Loaded from Load an R data file) <usage>
+#: rkward/plugins/00saveload/import/load_data.rkh:12
+#, kde-format
+msgid ""
+"Be sure to save your workspace before using this plugin, as your variables "
+"will be overwritten, if the loaded workspace contains objects of the same "
+"names."
+msgstr ""
+"Hãy chắc chắn lưu không gian làm việc của bạn trước khi sử dụng plugin này, "
+"vì các biến của bạn sẽ bị ghi đè nếu không gian làm việc được tải chứa các "
+"đối tượng cùng tên."
+
+#. i18n: ectx: (Loaded from Load an R data file) <settings> <setting> (refers to element labelled "R data file to load")
+#: rkward/plugins/00saveload/import/load_data.rkh:19
+#, kde-format
+msgid "The filename of the file to load"
+msgstr "Tên tệp của tệp cần tải"
+
+#. i18n: ectx: (Loaded from Load an R data file) <settings> <setting> (refers to element labelled "Save to environment")
+#: rkward/plugins/00saveload/import/load_data.rkh:20
+#, kde-format
+msgid ""
+"Check this option (and specify an environment), in order to load the data "
+"into an environment other than .GlobalEnv. If the specified environment does "
+"not yet exist, it will be created. If it already exists, it will be "
+"overwritten completely, i.e. deleting all objects inside it!"
+msgstr ""
+"Chọn tùy chọn này (và chỉ định một môi trường), để tải dữ liệu vào một môi "
+"trường khác ngoài .GlobalEnv. Nếu môi trường được chỉ định chưa tồn tại, nó "
+"sẽ được tạo. Nếu nó đã tồn tại, nó sẽ bị ghi đè hoàn toàn, tức là xóa tất "
+"cả các đối tượng bên trong!"
+
+#. i18n: ectx: (Load an R data file) <dialog label="...">
+#: rkward/plugins/00saveload/import/load_data.xml:14
+#, kde-format
+msgid "Load an R data file"
+msgstr "Tải một tệp dữ liệu R"
+
+#. i18n: ectx: (Load an R data file) <dialog label="Load an R data file"> <browser label="...">
+#: rkward/plugins/00saveload/import/load_data.xml:15
+#, kde-format
+msgid "R data file to load"
+msgstr "Tệp dữ liệu R để tải"
+
+#. i18n: ectx: (Load an R data file) <dialog label="Load an R data file"> <text>
+#: rkward/plugins/00saveload/import/load_data.xml:16
+#, kde-format
+msgid ""
+"WARNING: This may overwrite existing objects in .GlobalEnv. Be sure to save "
+"your workspace, first."
+msgstr ""
+"CẢNH BÁO: Điều này có thể ghi đè lên các đối tượng hiện có trong "
+".GlobalEnv. Hãy chắc chắn lưu lại không gian làm việc của bạn trước."
+
+#. i18n: ectx: (Load an R data file) <dialog label="Load an R data file"> <saveobject label="...">
+#: rkward/plugins/00saveload/import/load_data.xml:17
+#, kde-format
+msgid "Save to environment"
+msgstr "Lưu vào môi trường"
+
+#. i18n: ectx: (Load an R data file) <dialog label="Load an R data file"> <text>
+#: rkward/plugins/00saveload/import/load_data.xml:18
+#, kde-format
+msgid ""
+"WARNING: If the environment already exists, all objects inside it will be "
+"lost."
+msgstr ""
+"CẢNH BÁO: Nếu môi trường đã tồn tại, tất cả các đối tượng bên trong nó sẽ "
+"bị mất."
+
+#. i18n: ectx: (Loaded from Source an R file)
+#: rkward/plugins/00saveload/import/source.js:27
+#, kde-format
+msgid "Source R file"
+msgstr "Tệp R nguồn"
+
+#. i18n: ectx: (Loaded from Source an R file) <summary>
+#: rkward/plugins/00saveload/import/source.rkh:8
+#, kde-format
+msgid "Run an R source file."
+msgstr "Chạy một tệp nguồn R."
+
+#. i18n: ectx: (Loaded from Source an R file) <usage>
+#: rkward/plugins/00saveload/import/source.rkh:12
+#, kde-format
+msgid ""
+"Select a file to load. This file will be loaded and interpreted as a script "
+"of R statements, which are then evaluated (see <link href=\"rkward://rhelp/"
+"source\"/>)."
+msgstr ""
+"Chọn một tệp để tải. Tệp này sẽ được tải và diễn giải như một kịch bản của "
+"các câu lệnh R, sau đó được thực thi (xem <link "
+"href=\"rkward://rhelp/source\"/>)."
+
+#. i18n: ectx: (Loaded from Source an R file) <settings> <setting> (refers to element labelled "File name")
+#: rkward/plugins/00saveload/import/source.rkh:18
+#, kde-format
+msgid "The filename of the source file to run"
+msgstr "Tên tệp của tệp nguồn để chạy"
+
+#. i18n: ectx: (Loaded from Source an R file) <settings> <setting> (refers to element labelled "Use directory of source file as working directory")
+#: rkward/plugins/00saveload/import/source.rkh:19
+#, kde-format
+msgid ""
+"If checked, the working directory will be changed of the directory of the "
+"source file. This may be needed, if the source file refers to further files "
+"using relative paths."
+msgstr ""
+"Nếu được chọn, thư mục làm việc sẽ được thay đổi thành thư mục của tệp "
+"nguồn. Điều này có thể cần thiết nếu tệp nguồn tham chiếu đến các tệp khác "
+"bằng cách sử dụng đường dẫn tương đối."
+
+#. i18n: ectx: (Loaded from Source an R file) <settings> <setting> (refers to element labelled "Run in a local environment")
+#: rkward/plugins/00saveload/import/source.rkh:20
+#, kde-format
+msgid ""
+"If checked, the source file is interpreted in a local environment, instead "
+"of the global environment. This is much safer, as no existing objects will "
+"be overwritten. On the other hand, if the purpose of the source file is to "
+"create new objects (in contrast to just producing printed output), it will "
+"have to be run in the global environment."
+msgstr ""
+"Nếu được chọn, tệp nguồn sẽ được giải thích trong môi trường cục bộ, thay "
+"vì môi trường toàn cục. Điều này an toàn hơn nhiều, vì không có đối tượng "
+"hiện có nào sẽ bị ghi đè. Mặt khác, nếu mục đích của tệp nguồn là tạo ra "
+"các đối tượng mới (trái ngược với chỉ tạo ra đầu ra in), nó sẽ phải được "
+"chạy trong môi trường toàn cục."
+
+#. i18n: ectx: (Loaded from Source an R file) <settings> <setting> (refers to element labelled "Echo source statements")
+#: rkward/plugins/00saveload/import/source.rkh:22
+#, kde-format
+msgid ""
+"Should each source statement be echoed after parsing, and before evaluation?"
+msgstr ""
+"Mỗi câu lệnh nguồn có nên được in ra sau khi phân tích cú pháp và trước khi "
+"đánh giá không?"
+
+#. i18n: ectx: (Loaded from Source an R file) <settings> <setting> (refers to element labelled "Prompt for echoed lines (empty for default)")
+#: rkward/plugins/00saveload/import/source.rkh:23
+#, kde-format
+msgid ""
+"What should be printed at the start of each echoed source line (to "
+"differentiate it from the output)? Leave empty for the default."
+msgstr ""
+"Cái gì nên được in ra ở đầu mỗi dòng nguồn được in ra (để phân biệt với đầu "
+"ra)? Để trống để sử dụng mặc định."
+
+#. i18n: ectx: (Loaded from Source an R file) <settings> <setting> (refers to element labelled "Maximal length of echoed statements")
+#: rkward/plugins/00saveload/import/source.rkh:24
+#, kde-format
+msgid "Maximum length of an echoed source line."
+msgstr "Độ dài tối đa của một dòng nguồn được in ra."
+
+#. i18n: ectx: (Loaded from Source an R file) <settings> <setting> (refers to element labelled "Verbose")
+#: rkward/plugins/00saveload/import/source.rkh:25
+#, kde-format
+msgid "Print additional diagnostics."
+msgstr "In ra các chẩn đoán bổ sung."
+
+#. i18n: ectx: (Loaded from Source an R file) <settings> <setting> (refers to element labelled "Print eval")
+#: rkward/plugins/00saveload/import/source.rkh:26
+#, kde-format
+msgid ""
+"Print the result of each single evaluation (instead of just the final "
+"result)."
+msgstr "In kết quả của mỗi lần đánh giá riêng lẻ (thay vì chỉ kết quả cuối cùng)."
+
+#. i18n: ectx: <components> <component label="...">
+#. i18n: ectx: (Source an R file) <dialog label="...">
+#: rkward/plugins/00saveload/import/source.xml:18
+#: rkward/plugins/import_export.pluginmap:25
+#, kde-format
+msgid "Source an R file"
+msgstr "Nguồn một tệp R"
+
+#. i18n: ectx: (Source an R file) <dialog label="Source an R file"> <tab label="...">
+#: rkward/plugins/00saveload/import/source.xml:20
+#, kde-format
+msgid "Main options"
+msgstr "Tùy chọn chính"
+
+#. i18n: ectx: (Source an R file) <dialog label="Source an R file"> <tab label="Main options"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/source.xml:22
+#, kde-format
+msgid "Use directory of source file as working directory"
+msgstr "Sử dụng thư mục của tệp nguồn làm thư mục làm việc"
+
+#. i18n: ectx: (Source an R file) <dialog label="Source an R file"> <tab label="Main options"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/source.xml:23
+#, kde-format
+msgid "Run in a local environment"
+msgstr "Chạy trong môi trường cục bộ"
+
+#. i18n: ectx: (Source an R file) <dialog label="Source an R file"> <tab label="Main options"> <text>
+#: rkward/plugins/00saveload/import/source.xml:24
+#, kde-format
+msgid "WARNING: This may overwrite existing objects without prompting!"
+msgstr ""
+"CẢNH BÁO: Điều này có thể ghi đè lên các đối tượng hiện có mà không cần "
+"nhắc!"
+
+#. i18n: ectx: (Source an R file) <dialog label="Source an R file"> <tab label="...">
+#: rkward/plugins/00saveload/import/source.xml:27
+#, kde-format
+msgid "Output options"
+msgstr "Tùy chọn đầu ra"
+
+#. i18n: ectx: (Source an R file) <dialog label="Source an R file"> <tab label="Output options"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/source.xml:28
+#, kde-format
+msgid "Echo source statements"
+msgstr "Hiện lại các câu lệnh nguồn"
+
+#. i18n: ectx: (Source an R file) <dialog label="Source an R file"> <tab label="Output options"> <input label="...">
+#: rkward/plugins/00saveload/import/source.xml:29
+#, kde-format
+msgid "Prompt for echoed lines (empty for default)"
+msgstr "Nhắc nhở các dòng được in ra (để trống để sử dụng mặc định)"
+
+#. i18n: ectx: (Source an R file) <dialog label="Source an R file"> <tab label="Output options"> <spinbox label="...">
+#: rkward/plugins/00saveload/import/source.xml:30
+#, kde-format
+msgid "Maximal length of echoed statements"
+msgstr "Độ dài tối đa của các câu lệnh được in ra"
+
+#. i18n: ectx: (Source an R file) <dialog label="Source an R file"> <tab label="Output options"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/source.xml:31
+#, kde-format
+msgid "Verbose"
+msgstr "Chi tiết"
+
+#. i18n: ectx: (Source an R file) <dialog label="Source an R file"> <tab label="Output options"> <checkbox label="...">
+#: rkward/plugins/00saveload/import/source.xml:32
+#, kde-format
+msgid "Print eval"
+msgstr "In đánh giá"
+
+#. i18n: ectx: (Loaded from Export RMarkdown)
+#: rkward/plugins/00saveload/save/ExportRMarkdown.js:121
+#: rkward/plugins/00saveload/save/ExportRMarkdown.js:123
+#, kde-format
+msgid "Export RMarkdown file"
+msgstr "Xuất khẩu tệp RMarkdown"
+
+#. i18n: ectx: (Loaded from Export RMarkdown) <settings> <setting> (refers to element labelled "RMarkdown file")
+#: rkward/plugins/00saveload/save/ExportRMarkdown.rkh:21
+#, kde-format
+msgid "Choose the file to be exported."
+msgstr "Chọn tệp để xuất."
+
+#. i18n: ectx: (Loaded from Export RMarkdown) <settings> <setting> (refers to element labelled "Target format")
+#: rkward/plugins/00saveload/save/ExportRMarkdown.rkh:24
+#, kde-format
+msgid ""
+"Set the target format for exported files. If you choose either \"All formats "
+"defined in document\" or \"First format defined in document\", the formats "
+"defined via output_format will be used, see the documentation on rmarkdown::"
+"render()."
+msgstr ""
+"Đặt định dạng đích cho các tệp đã xuất. Nếu bạn chọn \"Tất cả định dạng "
+"được định nghĩa trong tài liệu\" hoặc \"Định dạng đầu tiên được định nghĩa "
+"trong tài liệu\", các định dạng được định nghĩa thông qua output_format sẽ "
+"được sử dụng, xem tài liệu về rmarkdown::render()."
+
+#. i18n: ectx: (Loaded from Export RMarkdown) <settings> <setting> (refers to element labelled "Save as")
+#: rkward/plugins/00saveload/save/ExportRMarkdown.rkh:27
+#, kde-format
+msgid "Choose the target file name to export to."
+msgstr "Chọn tên tệp đích để xuất khẩu."
+
+#. i18n: ectx: (Loaded from Export RMarkdown) <settings> <setting> (refers to element labelled "Save to")
+#: rkward/plugins/00saveload/save/ExportRMarkdown.rkh:30
+#, kde-format
+msgid ""
+"Choose the target directory to export to, file names are automatically "
+"generated according to the formats defined in the document."
+msgstr ""
+"Chọn thư mục đích để xuất, tên tệp được tự động tạo theo các định dạng được "
+"định nghĩa trong tài liệu."
+
+#. i18n: ectx: (Loaded from Export RMarkdown) <settings> <setting> (refers to element labelled "Markdown version")
+#: rkward/plugins/00saveload/save/ExportRMarkdown.rkh:34
+#, kde-format
+msgid ""
+"Set the markdown version to use. Older v1 documents are rendered into HTML "
+"format only, using the markdown package. If in doubt, leave it to the newer "
+"v2; those documents are rendered using pandoc, which allows you to choose "
+"between various output formats. But be aware that some formats may require "
+"special configuration or templates to produce proper results."
+msgstr ""
+"Đặt phiên bản markdown để sử dụng. Các tài liệu cũ v1 chỉ được kết xuất "
+"dưới dạng HTML, sử dụng gói markdown. Nếu không chắc chắn, hãy để nó ở "
+"phiên bản mới v2; những tài liệu này được kết xuất bằng pandoc, cho phép "
+"bạn chọn giữa các định dạng đầu ra khác nhau. Nhưng hãy lưu ý rằng một số "
+"định dạng có thể yêu cầu cấu hình hoặc mẫu đặc biệt để tạo ra kết quả đúng."
+
+#. i18n: ectx: <components> <component label="...">
+#. i18n: ectx: (Export RMarkdown) <about name="...">
+#. i18n: ectx: (Export RMarkdown) <dialog label="...">
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> <tabbook label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:16
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:66
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:67
+#: rkward/plugins/import_export.pluginmap:33
+#, kde-format
+msgid "Export RMarkdown"
+msgstr "Xuất khẩu RMarkdown"
+
+#. i18n: ectx: (Export RMarkdown) <about shortinfo="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:16
+#, kde-format
+msgid "RKWard GUI to export RMarkdown documents in various formats"
+msgstr ""
+"Giao diện người dùng RKWard để xuất khẩu tài liệu RMarkdown ở các định dạng "
+"khác nhau"
+
+#. i18n: ectx: (Export RMarkdown) <about> <author given="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:17
+#, kde-format
+msgctxt "Author name"
+msgid "Meik"
+msgstr "Meik"
+
+#. i18n: ectx: (Export RMarkdown) <about> <author family="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:17
+#, kde-format
+msgctxt "Author name"
+msgid "Michalke"
+msgstr "Michalke"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> <tabbook label="Export RMarkdown"> <tab label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:68
+#, kde-format
+msgid "Source and target"
+msgstr "Nguồn và đích"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> <tabbook label="Export RMarkdown"> <tab label="Source and target"> <browser label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:71
+#, kde-format
+msgid "RMarkdown file"
+msgstr "Tệp RMarkdown"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> <tabbook label="Export RMarkdown"> <tab label="Source and target"> <dropdown label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:72
+#, kde-format
+msgid "Target format"
+msgstr "định dạng"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> [...] <dropdown label="Target format"> <option label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:73
+#, kde-format
+msgid "All formats defined in document"
+msgstr "Tất cả các định dạng được định nghĩa trong tài liệu"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> [...] <dropdown label="Target format"> <option label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:74
+#, kde-format
+msgid "First format defined in document"
+msgstr "Định dạng đầu tiên được định nghĩa trong tài liệu"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> [...] <dropdown label="Target format"> <option label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:75
+#, kde-format
+msgid "Beamer presentation"
+msgstr "Bài thuyết trình Beamer"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> [...] <dropdown label="Target format"> <option label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:76
+#, kde-format
+msgid "DokuWiki"
+msgstr "DokuWiki"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> [...] <dropdown label="Target format"> <option label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:77
+#, kde-format
+msgid "HTML"
+msgstr "HTML"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> [...] <dropdown label="Target format"> <option label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:78
+#, kde-format
+msgid "HTML 5"
+msgstr "HTML 5"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> [...] <dropdown label="Target format"> <option label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:79
+#, kde-format
+msgid "Markdown"
+msgstr "Markdown"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> [...] <dropdown label="Target format"> <option label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:80
+#, kde-format
+msgid "Markdown (GitHub, old)"
+msgstr "Markdown (GitHub, cũ)"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> [...] <dropdown label="Target format"> <option label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:81
+#, kde-format
+msgid "Markdown (GitHub)"
+msgstr "Markdown (GitHub)"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> [...] <dropdown label="Target format"> <option label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:82
+#, kde-format
+msgid "MediaWiki"
+msgstr "MediaWiki"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> [...] <dropdown label="Target format"> <option label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:83
+#, kde-format
+msgid "ODT"
+msgstr "ODT"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> [...] <dropdown label="Target format"> <option label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:84
+#, kde-format
+msgid "PDF"
+msgstr "PDF"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> [...] <dropdown label="Target format"> <option label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:85
+#, kde-format
+msgid "PowerPoint"
+msgstr "PowerPoint"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> [...] <dropdown label="Target format"> <option label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:86
+#, kde-format
+msgid "RTF"
+msgstr "RTF"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> [...] <dropdown label="Target format"> <option label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:87
+#, kde-format
+msgid "Vignette (HTML)"
+msgstr "Vignette (HTML)"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> [...] <dropdown label="Target format"> <option label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:88
+#, kde-format
+msgid "Word"
+msgstr "Từ"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> <tabbook label="Export RMarkdown"> <tab label="Source and target"> <browser label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:90
+#, kde-format
+msgid "Save as"
+msgstr "Lưu thành"
+
+#. i18n: ectx: (Save R objects) <dialog label="Save R objects"> <tab label="Select variables"> <frame label="...">
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Data and File Format"> <frame label="...">
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> <tabbook label="Export RMarkdown"> <tab label="Source and target"> <browser label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:91
+#: rkward/plugins/00saveload/save/save.xml:43
+#: rkward/plugins/00saveload/save/write_csv.xml:60
+#, kde-format
+msgid "Save to"
+msgstr "Lưu vào"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> <tabbook label="Export RMarkdown"> <tab label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:96
+#, kde-format
+msgid "Advanced options"
+msgstr "Tùy chọn nâng cao"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> <tabbook label="Export RMarkdown"> <tab label="Advanced options"> <radio label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:99
+#, kde-format
+msgid "Markdown version"
+msgstr "Phiên bản Markdown"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> [...] <radio label="Markdown version"> <option label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:100
+#, kde-format
+msgid "v1"
+msgstr "v1"
+
+#. i18n: ectx: (Export RMarkdown) <dialog label="Export RMarkdown"> [...] <radio label="Markdown version"> <option label="...">
+#: rkward/plugins/00saveload/save/ExportRMarkdown.xml:101
+#, kde-format
+msgid "v2"
+msgstr "v2"
+
+#. i18n: ectx: (Loaded from Save R objects)
+#. i18n: ectx: (Save R objects) <dialog label="...">
+#: rkward/plugins/00saveload/save/save.js:34
+#: rkward/plugins/00saveload/save/save.xml:33
+#, kde-format
+msgid "Save R objects"
+msgstr "Lưu các đối tượng R"
+
+#. i18n: ectx: (Loaded from Save R objects) <summary>
+#: rkward/plugins/00saveload/save/save.rkh:8
+#, kde-format
+msgid ""
+"Save one or more selected R objects to a file. <b>Note:</b> Use <i>Workspace-"
+">Save Workspace</i> for saving the complete workspace."
+msgstr ""
+"Lưu một hoặc nhiều đối tượng R đã chọn vào một tệp. <b>Lưu ý:</b> Sử dụng "
+"<i>Workspace->Save Workspace</i> để lưu không gian làm việc hoàn tất."
+
+#. i18n: ectx: (Loaded from Save R objects) <usage>
+#: rkward/plugins/00saveload/save/save.rkh:12
+#, kde-format
+msgid ""
+"Select the objects to save, and a filename to save to. Created data files "
+"can be loaded using <link href=\"rkward://component/load_r_object\"/>."
+msgstr ""
+"Chọn các đối tượng cần lưu và tên tệp để lưu. Các tệp dữ liệu được tạo có "
+"thể được tải bằng cách sử dụng <link "
+"href=\"rkward://component/load_r_object\"/>."
+
+#. i18n: ectx: (Loaded from Save R objects) <settings> <setting> (refers to element labelled "Object")
+#: rkward/plugins/00saveload/save/save.rkh:16
+#, kde-format
+msgid "One or more objects to save."
+msgstr "Một hoặc nhiều đối tượng cần lưu."
+
+#. i18n: ectx: (Loaded from Save R objects) <settings> <setting> (refers to element labelled "File name")
+#: rkward/plugins/00saveload/save/save.rkh:17
+#, kde-format
+msgid "Location to save to."
+msgstr "Địa điểm để lưu."
+
+#. i18n: ectx: (Loaded from Save R objects) <settings> <setting> (refers to element labelled "Ascii")
+#: rkward/plugins/00saveload/save/save.rkh:18
+#, kde-format
+msgid "Write an ascii, rather than binary representation of the object(s)."
+msgstr "Ghi một biểu diễn ascii, thay vì nhị phân của đối tượng(các đối tượng)."
+
+#. i18n: ectx: (Loaded from Save R objects) <settings> <setting> (refers to element labelled "Compression")
+#: rkward/plugins/00saveload/save/save.rkh:19
+#, kde-format
+msgid ""
+"The file can be compressed to achieve a smaller file size. This control "
+"allows to select the method of compression. Some methods are not available "
+"for versions of R before 2.10.0."
+msgstr ""
+"Tệp có thể được nén để đạt được kích thước tệp nhỏ hơn. Điều khiển này cho "
+"phép bạn chọn phương pháp nén. Một số phương pháp không khả dụng cho các "
+"phiên bản của R trước 2.10.0."
+
+#. i18n: ectx: (Loaded from Save R objects) <settings> <setting> (refers to element labelled "Compression level")
+#: rkward/plugins/00saveload/save/save.rkh:20
+#, kde-format
+msgid "Compression level. Higher values indicate better compression."
+msgstr "Mức nén. Các giá trị cao hơn chỉ ra nén tốt hơn."
+
+#. i18n: ectx: (Loaded from Save R objects) <settings> <setting> (refers to element labelled "Enable xz extreme compression")
+#: rkward/plugins/00saveload/save/save.rkh:21
+#, kde-format
+msgid "For <i>xz</i> compression, only: Enable xz \"extreme\" compression."
+msgstr "Đối với nén <i>xz</i>, chỉ: Bật nén xz \"cực độ\"."
+
+#. i18n: ectx: (Save R objects) <dialog label="Save R objects"> <tab label="...">
+#. i18n: ectx: (Create package skeleton) <dialog label="Create package skeleton"> <tab label="...">
+#. i18n: ectx: (Write vector / matrix) <dialog label="Write vector / matrix"> <tab label="...">
+#: rkward/plugins/00saveload/save/save.xml:35
+#: rkward/plugins/00saveload/save/skeleton/description.xml:12
+#: rkward/plugins/00saveload/save/write.xml:20
+#, kde-format
+msgid "Select variables"
+msgstr "Chọn các biến"
+
+#. i18n: ectx: (Save R objects) <dialog label="Save R objects"> <tab label="Select variables"> <varslot label="...">
+#: rkward/plugins/00saveload/save/save.xml:39
+#, kde-format
+msgid "Object"
+msgstr "Đối tượng"
+
+#. i18n: ectx: (Save R objects) <dialog label="Save R objects"> <tab label="Select variables"> <frame label="Options"> <checkbox label="...">
+#: rkward/plugins/00saveload/save/save.xml:48
+#, kde-format
+msgid "Ascii"
+msgstr "Ascii"
+
+#. i18n: ectx: (Save R objects) <dialog label="Save R objects"> <tab label="Select variables"> <frame label="Options"> <dropdown label="...">
+#: rkward/plugins/00saveload/save/save.xml:49
+#, kde-format
+msgid "Compression"
+msgstr "Nén"
+
+#. i18n: ectx: (Save R objects) <dialog label="Save R objects"> [...] <dropdown label="Compression"> <option label="...">
+#: rkward/plugins/00saveload/save/save.xml:50
+#, kde-format
+msgid "None"
+msgstr "Không"
+
+#. i18n: ectx: (Save R objects) <dialog label="Save R objects"> [...] <dropdown label="Compression"> <option label="...">
+#: rkward/plugins/00saveload/save/save.xml:51
+#, kde-format
+msgid "gzip"
+msgstr "gzip"
+
+#. i18n: ectx: (Save R objects) <dialog label="Save R objects"> [...] <dropdown label="Compression"> <option label="...">
+#: rkward/plugins/00saveload/save/save.xml:52
+#, kde-format
+msgid "bzip2"
+msgstr "bzip2"
+
+#. i18n: ectx: (Save R objects) <dialog label="Save R objects"> [...] <dropdown label="Compression"> <option label="...">
+#: rkward/plugins/00saveload/save/save.xml:53
+#, kde-format
+msgid "xz"
+msgstr "xz"
+
+#. i18n: ectx: (Save R objects) <dialog label="Save R objects"> <tab label="Select variables"> <frame label="Options"> <spinbox label="...">
+#: rkward/plugins/00saveload/save/save.xml:55
+#, kde-format
+msgid "Compression level"
+msgstr "Mức nén"
+
+#. i18n: ectx: (Save R objects) <dialog label="Save R objects"> <tab label="Select variables"> <frame label="Options"> <checkbox label="...">
+#: rkward/plugins/00saveload/save/save.xml:56
+#, kde-format
+msgid "Enable xz extreme compression"
+msgstr "Bật nén cực mạnh xz"
+
+#. i18n: ectx: <components> <component label="...">
+#. i18n: ectx: (Loaded from Create package skeleton)
+#. i18n: ectx: (Create package skeleton) <dialog label="...">
+#: rkward/plugins/00saveload/save/skeleton/code.js:13
+#: rkward/plugins/00saveload/save/skeleton/description.xml:10
+#: rkward/plugins/import_export.pluginmap:30
+#, kde-format
+msgid "Create package skeleton"
+msgstr "Tạo bộ khung gói"
+
+#. i18n: ectx: (Create package skeleton) <dialog label="Create package skeleton"> <tab label="Select variables"> <varselector label="...">
+#: rkward/plugins/00saveload/save/skeleton/description.xml:15
+#, kde-format
+msgid "Select a variable"
+msgstr "Chọn một biến"
+
+#. i18n: ectx: (Create package skeleton) <dialog label="Create package skeleton"> <tab label="Select variables"> <varslot label="...">
+#: rkward/plugins/00saveload/save/skeleton/description.xml:16
+#, kde-format
+msgid "Objects"
+msgstr "Đối tượng"
+
+#. i18n: ectx: (Create package skeleton) <dialog label="Create package skeleton"> <tab label="Select variables"> <frame label="Options"> <input label="...">
+#: rkward/plugins/00saveload/save/skeleton/description.xml:21
+#, kde-format
+msgid "Package name"
+msgstr "Tên gói"
+
+#. i18n: ectx: (Create package skeleton) <dialog label="Create package skeleton"> <tab label="Select variables"> <frame label="Options"> <browser label="...">
+#: rkward/plugins/00saveload/save/skeleton/description.xml:22
+#, kde-format
+msgid "Directory"
+msgstr "Thư mục"
+
+#. i18n: ectx: (Create package skeleton) <dialog label="Create package skeleton"> <tab label="Select variables"> <frame label="Options"> <checkbox label="...">
+#: rkward/plugins/00saveload/save/skeleton/description.xml:23
+#, kde-format
+msgid "Overwrite"
+msgstr "Ghi đè"
+
+#. i18n: ectx: (Loaded from Write vector / matrix)
+#: rkward/plugins/00saveload/save/write.js:16
+#, kde-format
+msgid "Write Variables"
+msgstr "Ghi Biến số"
+
+#. i18n: ectx: (Write vector / matrix) <dialog label="...">
+#: rkward/plugins/00saveload/save/write.xml:18
+#, kde-format
+msgid "Write vector / matrix"
+msgstr "Ghi vector / ma trận"
+
+#. i18n: ectx: (Write vector / matrix) <dialog label="Write vector / matrix"> <tab label="Select variables"> <varselector label="...">
+#: rkward/plugins/00saveload/save/write.xml:22
+#, kde-format
+msgid "Select a vector or matrix"
+msgstr "Chọn một vector hoặc ma trận"
+
+#. i18n: ectx: (Write vector / matrix) <dialog label="Write vector / matrix"> <tab label="Select variables"> <varslot label="...">
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Data and File Format"> <varslot label="...">
+#: rkward/plugins/00saveload/save/write.xml:23
+#: rkward/plugins/00saveload/save/write_csv.xml:58
+#, kde-format
+msgid "Data"
+msgstr "Dữ liệu"
+
+#. i18n: ectx: (Write vector / matrix) <dialog label="Write vector / matrix"> [...] <radio label="Field separator character"> <option label="...">
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Data and File Format"> <radio label="Field separator character"> <option label="...">
+#: rkward/plugins/00saveload/save/write.xml:33
+#: rkward/plugins/00saveload/save/write_csv.xml:91
+#, kde-format
+msgid "Space"
+msgstr "Khoảng cách"
+
+#. i18n: ectx: (Write vector / matrix) <dialog label="Write vector / matrix"> <tab label="Select variables"> <frame label="Options"> <spinbox label="...">
+#: rkward/plugins/00saveload/save/write.xml:39
+#, kde-format
+msgid "Number of columns to write"
+msgstr "Số cột để ghi"
+
+#. i18n: ectx: (Write vector / matrix) <dialog label="Write vector / matrix"> <tab label="Select variables"> <frame label="Options"> <checkbox label="...">
+#: rkward/plugins/00saveload/save/write.xml:40
+#, kde-format
+msgid "Append to existing file"
+msgstr "Thêm vào tệp hiện có"
+
+#. i18n: ectx: <components> <component label="...">
+#. i18n: ectx: (Loaded from Export Table / CSV files)
+#. i18n: ectx: (Export Table / CSV files) <title>
+#. i18n: ectx: (Export Table / CSV files) <dialog label="...">
+#: rkward/plugins/00saveload/save/write_csv.js:110
+#: rkward/plugins/00saveload/save/write_csv.rkh:10
+#: rkward/plugins/00saveload/save/write_csv.xml:49
+#: rkward/plugins/import_export.pluginmap:32
+#, kde-format
+msgid "Export Table / CSV files"
+msgstr "Xuất khẩu Bảng / Tệp CSV"
+
+#. i18n: ectx: (Loaded from Export Table / CSV files)
+#. i18n: ectx: <hierarchy> <menu label="...">
+#: rkward/plugins/00saveload/save/write_csv.js:110
+#: rkward/plugins/import_export.pluginmap:57
+#, kde-format
+msgid "File"
+msgstr "Tệp"
+
+#. i18n: ectx: (Export Table / CSV files) <summary>
+#: rkward/plugins/00saveload/save/write_csv.rkh:13
+#, kde-format
+msgid "Export data to CSV or similar file formats."
+msgstr "Xuất dữ liệu sang tệp CSV hoặc định dạng tương tự."
+
+#. i18n: ectx: (Export Table / CSV files) <usage>
+#: rkward/plugins/00saveload/save/write_csv.rkh:16
+#, kde-format
+msgid ""
+"Select a tabular data object (like a data frame or matrix) and choose a file "
+"to save to. All other options allow you to define the file format, handling "
+"of column and row names as well as special character handling."
+msgstr ""
+"Chọn một đối tượng dữ liệu dạng bảng (như một khung dữ liệu hoặc ma trận) "
+"và chọn một tệp để lưu. Tất cả các tùy chọn khác cho phép bạn định nghĩa "
+"định dạng tệp, xử lý tên cột và hàng cũng như xử lý các kí tự đặc biệt."
+
+#. i18n: ectx: (Export Table / CSV files) <settings> <setting> (refers to element labelled "Data")
+#: rkward/plugins/00saveload/save/write_csv.rkh:25
+#, kde-format
+msgid ""
+"Select a data object to export. Valid data types are array, data.frame, "
+"matrix, character, numeric, and integer."
+msgstr ""
+"Chọn một đối tượng dữ liệu để xuất. Các loại dữ liệu hợp lệ là mảng, "
+"data.frame, ma trận, ký tự, số và số nguyên."
+
+#. i18n: ectx: (Export Table / CSV files) <settings> <setting> (refers to element labelled "")
+#: rkward/plugins/00saveload/save/write_csv.rkh:29
+#, kde-format
+msgid ""
+"The file to save to. Existing files will be overwritten, unless the append "
+"option is checked."
+msgstr ""
+"Tệp để lưu. Các tệp hiện có sẽ bị ghi đè, trừ khi lựa chọn thêm vào được "
+"chọn."
+
+#. i18n: ectx: (Export Table / CSV files) <settings> <setting> (refers to element labelled "Append to file (if it exists)")
+#: rkward/plugins/00saveload/save/write_csv.rkh:32
+#, kde-format
+msgid ""
+"Should existing files be overwritten or the data appended? If this is greyed "
+"out, the selected preset sets this for you."
+msgstr ""
+"Các tệp hiện có có nên được ghi đè hay dữ liệu được thêm vào? Nếu tùy chọn "
+"này bị mờ, thiết lập sẵn đã chọn sẽ xác định điều này."
+
+#. i18n: ectx: (Export Table / CSV files) <settings> <setting> (refers to element labelled "File format")
+#: rkward/plugins/00saveload/save/write_csv.rkh:35
+#, kde-format
+msgid ""
+"Select one of the default file formats here. They will set some of the "
+"options (like field separator and decimal point) with reasonable defaults. "
+"Use the custom format if you need more control."
+msgstr ""
+"Chọn một trong các định dạng tệp mặc định ở đây. Chúng sẽ đặt một số tùy "
+"chọn (như phần phân cách trường và dấu phẩy thập phân) với các giá trị mặc "
+"định hợp lý. Sử dụng định dạng tùy chỉnh nếu bạn cần kiểm soát nhiều hơn."
+
+#. i18n: ectx: (Export Table / CSV files) <settings> <setting> (refers to element labelled "Decimal point character")
+#: rkward/plugins/00saveload/save/write_csv.rkh:39
+#, kde-format
+msgid ""
+"Specify the desired decimal point character. If this is greyed out, the "
+"selected preset sets this for you."
+msgstr ""
+"Chỉ định ký tự dấu phẩy thập phân mong muốn. Nếu nó bị mờ, thiết lập sẵn đã "
+"đặt điều này cho bạn."
+
+#. i18n: ectx: (Export Table / CSV files) <settings> <setting> (refers to element labelled "")
+#: rkward/plugins/00saveload/save/write_csv.rkh:42
+#, kde-format
+msgid "Use this value as the custom decimal point character."
+msgstr "Sử dụng giá trị này làm ký tự phân cách thập phân tùy chỉnh."
+
+#. i18n: ectx: (Export Table / CSV files) <settings> <setting> (refers to element labelled "Field separator character")
+#: rkward/plugins/00saveload/save/write_csv.rkh:45
+#, kde-format
+msgid ""
+"Specify the desired field separator character. If this is greyed out, the "
+"selected preset sets this for you."
+msgstr ""
+"Chỉ định ký tự phân cách trường mong muốn. Nếu nó bị mờ xám, bộ cài đặt sẵn "
+"đã thiết lập điều này cho bạn."
+
+#. i18n: ectx: (Export Table / CSV files) <settings> <setting> (refers to element labelled "")
+#: rkward/plugins/00saveload/save/write_csv.rkh:48
+#, kde-format
+msgid "Use this value as the custom field separator character."
+msgstr "Sử dụng giá trị này làm ký tự phân cách trường tự chọn."
+
+#. i18n: ectx: (Export Table / CSV files) <settings> <setting> (refers to element labelled "Row names")
+#: rkward/plugins/00saveload/save/write_csv.rkh:53
+#, kde-format
+msgid "Decide how to deal with row names."
+msgstr "Quyết định cách xử lý tên hàng."
+
+#. i18n: ectx: (Export Table / CSV files) <settings> <setting> (refers to element labelled "Row names (character vector)")
+#: rkward/plugins/00saveload/save/write_csv.rkh:56
+#, kde-format
+msgid "Select a character vector to use for custom row names."
+msgstr "Chọn một vector chữ để sử dụng làm tên hàng tùy chỉnh."
+
+#. i18n: ectx: (Export Table / CSV files) <settings> <setting> (refers to element labelled "Column names")
+#: rkward/plugins/00saveload/save/write_csv.rkh:60
+#, kde-format
+msgid ""
+"Decide how to deal with column names. If this is greyed out, the selected "
+"preset sets this for you."
+msgstr ""
+"Quyết định cách xử lý tên cột. Nếu nó bị mờ xám, thiết lập sẵn đã đặt điều "
+"này cho bạn."
+
+#. i18n: ectx: (Export Table / CSV files) <settings> <setting> (refers to element labelled "Column names (character vector)")
+#: rkward/plugins/00saveload/save/write_csv.rkh:63
+#, kde-format
+msgid "Select a character vector to use for custom column names."
+msgstr "Chọn một vector chữ để sử dụng làm tên cột tùy chỉnh."
+
+#. i18n: ectx: (Export Table / CSV files) <settings> <setting> (refers to element labelled "File encoding")
+#: rkward/plugins/00saveload/save/write_csv.rkh:68
+#, kde-format
+msgid ""
+"If the default character encoding doesn't work for you, you can set a "
+"specific one here."
+msgstr ""
+"Nếu mã hoá kí tự mặc định không hoạt động với bạn, bạn có thể đặt một mã "
+"hoá cụ thể ở đây."
+
+#. i18n: ectx: (Export Table / CSV files) <settings> <setting> (refers to element labelled "Custom encoding")
+#: rkward/plugins/00saveload/save/write_csv.rkh:71
+#, kde-format
+msgid ""
+"Use this field to set a custom encoding, in case the dropdown menu doesn't "
+"list the one you need."
+msgstr ""
+"Sử dụng trường này để đặt mã hóa tùy chỉnh, trong trường hợp menu thả xuống "
+"không liệt kê mã hóa bạn cần."
+
+#. i18n: ectx: (Export Table / CSV files) <settings> <setting> (refers to element labelled "Quote all strings")
+#: rkward/plugins/00saveload/save/write_csv.rkh:75
+#, kde-format
+msgid "Check this to have all string values quoted."
+msgstr "Chọn tùy chọn này để đặt dấu ngoặc kép cho tất cả các giá trị chuỗi."
+
+#. i18n: ectx: (Export Table / CSV files) <settings> <setting> (refers to element labelled "Handling double quote characters")
+#: rkward/plugins/00saveload/save/write_csv.rkh:78
+#, kde-format
+msgid ""
+"Controls how existing quotes in values are handled -- they can either be "
+"escaped or double quoted. If this is greyed out, the selected preset sets "
+"this for you."
+msgstr ""
+"Điều khiển cách xử lý các dấu ngoặc kép hiện có trong các giá trị -- chúng "
+"có thể được chuyển dịch hoặc đặt trong dấu ngoặc kép đôi. Nếu nó bị mờ xám, "
+"thiết lập sẵn đã đặt điều này cho bạn."
+
+#. i18n: ectx: (Export Table / CSV files) <settings> <setting> (refers to element labelled "Character for missing values")
+#: rkward/plugins/00saveload/save/write_csv.rkh:81
+#, kde-format
+msgid "Set the character to indicate missing data."
+msgstr "Đặt kí tự để chỉ dữ liệu bị thiếu."
+
+#. i18n: ectx: (Export Table / CSV files) <settings> <setting> (refers to element labelled "Newline character")
+#: rkward/plugins/00saveload/save/write_csv.rkh:84
+#, kde-format
+msgid ""
+"Set the character used to indicate a line break (EOL). This varies between "
+"operating systems, changing this option might help in case you run into "
+"problems when exchanging files with other people."
+msgstr ""
+"Đặt kí tự được sử dụng để chỉ ra dòng mới (EOL). Điều này thay đổi giữa các "
+"hệ điều hành, thay đổi tùy chọn này có thể giúp trong trường hợp bạn gặp "
+"vấn đề khi trao đổi tệp với những người khác."
+
+#. i18n: ectx: (Export Table / CSV files) <related>
+#: rkward/plugins/00saveload/save/write_csv.rkh:88
+#, kde-format
+msgid ""
+"<link href=\"rkward://rhelp/write.table\"> R manual page for write.table(), "
+"which is called by this plugin. </link>"
+msgstr ""
+"<link href=\"rkward://rhelp/write.table\"> Trang sổ tay R cho "
+"write.table(), được gọi bởi plugin này. </link>"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:51
+#, kde-format
+msgid "Data and File Format"
+msgstr "Dữ liệu và Định dạng Tệp"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Data and File Format"> <varselector label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:54
+#, kde-format
+msgid "Select a variable or table"
+msgstr "Chọn một biến hoặc bảng"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Data and File Format"> <frame label="Save to"> <checkbox label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:62
+#, kde-format
+msgid "Append to file (if it exists)"
+msgstr "Thêm vào tệp (nếu nó tồn tại)"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Data and File Format"> <dropdown label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:68
+#, kde-format
+msgid "File format"
+msgstr "Định dạng tệp"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Data and File Format"> <radio label="Decimal point character"> <option label="...">
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Data and File Format"> <radio label="Field separator character"> <option label="...">
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <radio label="Row names"> <option label="...">
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <radio label="Column names"> <option label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:81
+#: rkward/plugins/00saveload/save/write_csv.xml:92
+#: rkward/plugins/00saveload/save/write_csv.xml:112
+#: rkward/plugins/00saveload/save/write_csv.xml:121
+#, kde-format
+msgid "Custom (specify below)"
+msgstr "Tự chọn (chỉ định bên dưới)"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Rows and Columns"> <varselector label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:105
+#, kde-format
+msgid "Select row or column names"
+msgstr "Chọn tên hàng hoặc cột"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Rows and Columns"> <frame label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:108
+#, kde-format
+msgid "Row  specifications"
+msgstr "Thông số hàng"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <radio label="Row names"> <option label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:110
+#, kde-format
+msgid "Use current row names"
+msgstr "Sử dụng tên hàng hiện tại"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <radio label="Row names"> <option label="...">
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <radio label="Column names"> <option label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:111
+#: rkward/plugins/00saveload/save/write_csv.xml:120
+#, kde-format
+msgid "No names"
+msgstr "Không có tên"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Rows and Columns"> <frame label="Row  specifications"> <varslot label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:114
+#, kde-format
+msgid "Row names (character vector)"
+msgstr "Tên hàng (vector ký tự)"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Rows and Columns"> <frame label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:117
+#, kde-format
+msgid "Column specifications"
+msgstr "Thông số cột"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <radio label="Column names"> <option label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:119
+#, kde-format
+msgid "Use current column names"
+msgstr "Sử dụng tên cột hiện tại"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Rows and Columns"> <frame label="Column specifications"> <varslot label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:123
+#, kde-format
+msgid "Column names (character vector)"
+msgstr "Tên cột (vector ký tự)"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:129
+#, kde-format
+msgid "Encoding and Character Options"
+msgstr "Tùy chọn mã hoá và kí tự"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Encoding and Character Options"> <frame label="Encoding"> <dropdown label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:133
+#, kde-format
+msgid "File encoding"
+msgstr "Mã hoá tệp"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> [...] <dropdown label="File encoding"> <option label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:134
+#, kde-format
+msgid "(default)"
+msgstr "(mặc định)"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Encoding and Character Options"> <frame label="Encoding"> <input label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:155
+#, kde-format
+msgid "Custom encoding"
+msgstr "Mã hoá tùy chỉnh"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Encoding and Character Options"> <checkbox label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:161
+#, kde-format
+msgid "Quote all strings"
+msgstr "Trích dẫn tất cả các chuỗi"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Encoding and Character Options"> <radio label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:162
+#, kde-format
+msgid "Handling double quote characters"
+msgstr "Xử lý ký tự dấu ngoặc kép"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Encoding and Character Options"> <radio label="Handling double quote characters"> <option label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:163
+#, kde-format
+msgid "Escape"
+msgstr "Chuyển dịch"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Encoding and Character Options"> <radio label="Handling double quote characters"> <option label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:164
+#, kde-format
+msgid "Double"
+msgstr "Số thực"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Encoding and Character Options"> <dropdown label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:169
+#, kde-format
+msgid "Newline character"
+msgstr "Kí tự dòng mới"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Encoding and Character Options"> <dropdown label="Newline character"> <option label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:170
+#, kde-format
+msgid "\\n (LF: GNU/Linux, BSD, OS X)"
+msgstr "\\n (LF: GNU/Linux, BSD, OS X)"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Encoding and Character Options"> <dropdown label="Newline character"> <option label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:171
+#, kde-format
+msgid "\\r\\n (CR+LF: Windows, DOS)"
+msgstr "\\r\\n (CR+LF: Windows, DOS)"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Encoding and Character Options"> <dropdown label="Newline character"> <option label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:172
+#, kde-format
+msgid "\\r (CR: Mac OS <= 9)"
+msgstr "\\r (CR: Mac OS <= 9)"
+
+#. i18n: ectx: (Export Table / CSV files) <dialog label="Export Table / CSV files"> <tab label="Encoding and Character Options"> <dropdown label="Newline character"> <option label="...">
+#: rkward/plugins/00saveload/save/write_csv.xml:173
+#, kde-format
+msgid "\\n\\r (LF+CR: RISC OS)"
+msgstr "\\n\\r (LF+CR: RISC OS)"
+
+#. i18n: ectx: (Loaded from Set the working directory) <summary>
+#: rkward/plugins/00saveload/setworkdir.rkh:8
+#, kde-format
+msgid "Set or change the current working directory."
+msgstr "Đặt hoặc thay đổi thư mục làm việc hiện tại."
+
+#. i18n: ectx: (Loaded from Set the working directory) <usage>
+#: rkward/plugins/00saveload/setworkdir.rkh:11
+#, kde-format
+msgid ""
+"Choose a directory to set/change the working directory for R. The R function "
+"<b>setwd</b> is used to do the job."
+msgstr ""
+"Chọn một thư mục để đặt/thay đổi thư mục làm việc cho R. Chức năng "
+"<b>setwd</b> của R được sử dụng để thực hiện công việc này."
+
+#. i18n: ectx: (Set the working directory) <dialog label="...">
+#: rkward/plugins/00saveload/setworkdir.xml:10
+#, kde-format
+msgid "Set the working directory"
+msgstr "Đặt thư mục làm việc"
+
+#. i18n: ectx: (Set the working directory) <dialog label="Set the working directory"> <browser label="...">
+#: rkward/plugins/00saveload/setworkdir.xml:11
+#, kde-format
+msgid "Choose the Working Directory"
+msgstr "Chọn Thư mục Làm việc"
+
+#. i18n: ectx: <about name="...">
+#: rkward/plugins/import_export.pluginmap:10
+#, kde-format
+msgid "Data Import and Export"
+msgstr "Nhập và Xuất Dữ Liệu"
+
+#. i18n: ectx: <about shortinfo="...">
+#: rkward/plugins/import_export.pluginmap:10
+#, kde-format
+msgid ""
+"Plugins for reading and writing data in various formats. Part of the "
+"official RKWard distribution"
+msgstr ""
+"Các plugin để đọc và ghi dữ liệu ở các định dạng khác nhau. Là một phần của "
+"bản phân phối chính thức của RKWard"
+
+#. i18n: ectx: <components> <component label="...">
+#: rkward/plugins/import_export.pluginmap:24
+#, kde-format
+msgid "Load R data file"
+msgstr "Tải tệp dữ liệu R"
+
+#. i18n: ectx: <components> <component label="...">
+#: rkward/plugins/import_export.pluginmap:27
+#, kde-format
+msgid "Save objects as R data"
+msgstr "Lưu đối tượng dưới dạng dữ liệu R"
+
+#. i18n: ectx: <components> <component label="...">
+#: rkward/plugins/import_export.pluginmap:31
+#, kde-format
+msgid "Export vector or matrix data"
+msgstr "Xuất khẩu dữ liệu vector hoặc ma trận"
+
+#. i18n: ectx: <components> <component label="...">
+#: rkward/plugins/import_export.pluginmap:35
+#, kde-format
+msgid "Import SPSS"
+msgstr "Nhập khẩu SPSS"
+
+#. i18n: ectx: <components> <component label="Import SPSS"> <attribute label="...">
+#: rkward/plugins/import_export.pluginmap:36
+#, kde-format
+msgid "SPSS data files"
+msgstr "Tệp dữ liệu SPSS"
+
+#. i18n: ectx: <components> <component label="Import Text / CSV data"> <attribute label="...">
+#: rkward/plugins/import_export.pluginmap:39
+#, kde-format
+msgid "Text / Comma Separated Values"
+msgstr "Văn bản / Giá trị Phân tách bằng Dấu phẩy"
+
+#. i18n: ectx: <components> <component label="...">
+#: rkward/plugins/import_export.pluginmap:41
+#, kde-format
+msgid "Import Stata"
+msgstr "Nhập khẩu Stata"
+
+#. i18n: ectx: <components> <component label="Import Stata"> <attribute label="...">
+#: rkward/plugins/import_export.pluginmap:42
+#, kde-format
+msgid "Stata data files"
+msgstr "Tệp dữ liệu Stata"
+
+#. i18n: ectx: <components> <component label="...">
+#: rkward/plugins/import_export.pluginmap:44
+#, kde-format
+msgid "Import Excel files (Perl based)"
+msgstr "Nhập khẩu tệp Excel (dựa trên Perl)"
+
+#. i18n: ectx: <components> <component label="Import Excel files (Perl based)"> <attribute label="...">
+#: rkward/plugins/import_export.pluginmap:45
+#, kde-format
+msgid "Microsoft Excel files (Perl)"
+msgstr "Tệp Microsoft Excel (Perl)"
+
+#. i18n: ectx: <components> <component label="...">
+#: rkward/plugins/import_export.pluginmap:47
+#, kde-format
+msgid "Import Excel files (Java based)"
+msgstr "Nhập khẩu tệp Excel (dựa trên Java)"
+
+#. i18n: ectx: <components> <component label="Import Excel files (Java based)"> <attribute label="...">
+#: rkward/plugins/import_export.pluginmap:48
+#, kde-format
+msgid "Microsoft Excel files (Java)"
+msgstr "Tệp Microsoft Excel (Java)"
+
+#. i18n: ectx: <components> <component label="...">
+#: rkward/plugins/import_export.pluginmap:51
+#, kde-format
+msgid "Generic import (rio-based)"
+msgstr "Nhập khẩu chung (dựa trên rio)"
+
+#. i18n: ectx: <components> <component label="...">
+#: rkward/plugins/import_export.pluginmap:53
+#, kde-format
+msgid "Set Working Directory"
+msgstr "Đặt Thư Mục Làm Việc"
+
+#. i18n: ectx: <hierarchy> <menu label="File"> <menu label="...">
+#. i18n: ectx: <context> <menu label="...">
+#: rkward/plugins/import_export.pluginmap:58
+#: rkward/plugins/import_export.pluginmap:84
+#, kde-format
+msgid "Import"
+msgstr "nhập khẩu"
+
+#. i18n: ectx: <hierarchy> <menu label="File"> <menu label="Import"> <menu label="...">
+#: rkward/plugins/import_export.pluginmap:59
+#, kde-format
+msgid "Import format"
+msgstr "Định dạng nhập khẩu"
+
+#. i18n: ectx: <hierarchy> <menu label="File"> <menu label="...">
+#: rkward/plugins/import_export.pluginmap:70
+#, kde-format
+msgid "Export"
+msgstr "xuất khẩu"
+
+#. i18n: ectx: <hierarchy> <menu label="...">
+#: rkward/plugins/import_export.pluginmap:78
+#, kde-format
+msgid "Workspace"
+msgstr "Không gian làm việc"
+
+#. i18n: ectx: <snippets> <snippet> <author name="...">
+#: rkward/plugins/pluginmap_meta.inc:9
+#, kde-format
+msgctxt "Author name"
+msgid "RKWard Team"
+msgstr "Nhóm RKWard"

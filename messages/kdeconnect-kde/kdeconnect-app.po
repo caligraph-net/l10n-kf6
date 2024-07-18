@@ -1,0 +1,267 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdeconnect-kde package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeconnect-kde\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-19 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main.cpp:30 main.cpp:32
+#, kde-format
+msgid "KDE Connect"
+msgstr "KDE Connect"
+
+#: main.cpp:34
+#, kde-format
+msgid "(c) 2015, Aleix Pol Gonzalez"
+msgstr "(c) 2015, Aleix Pol Gonzalez"
+
+#: main.cpp:35
+#, kde-format
+msgid "Aleix Pol Gonzalez"
+msgstr "Aleix Pol Gonzalez"
+
+#: main.cpp:35
+#, kde-format
+msgid "Maintainer"
+msgstr "Bảo trì viên"
+
+#: main.cpp:36
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#: main.cpp:36
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Địa chỉ email của bạn"
+
+#: main.cpp:53
+#, kde-format
+msgid "URL to share"
+msgstr "Đường dẫn để chia sẻ"
+
+#: qml/DevicePage.qml:27
+#, kde-format
+msgid "Unpair"
+msgstr "Ngắt kết nối"
+
+#: qml/DevicePage.qml:32
+#, kde-format
+msgid "Send Ping"
+msgstr "Gửi Ping"
+
+#: qml/DevicePage.qml:40 qml/PluginSettings.qml:15
+#, kde-format
+msgid "Plugin Settings"
+msgstr "Thiết lập phần cài cắm"
+
+#: qml/DevicePage.qml:64
+#, kde-format
+msgid "Multimedia control"
+msgstr "Điều khiển đa phương tiện"
+
+#: qml/DevicePage.qml:71
+#, kde-format
+msgid "Remote input"
+msgstr "Đầu vào từ xa"
+
+#: qml/DevicePage.qml:78 qml/presentationRemote.qml:15
+#, kde-format
+msgid "Presentation Remote"
+msgstr "Điều khiển trình chiếu"
+
+#: qml/DevicePage.qml:87 qml/mousepad.qml:44
+#, kde-format
+msgid "Lock"
+msgstr "Khóa"
+
+#: qml/DevicePage.qml:87
+#, kde-format
+msgid "Unlock"
+msgstr "Mở khóa"
+
+#: qml/DevicePage.qml:94
+#, kde-format
+msgid "Find Device"
+msgstr "Tìm thiết bị"
+
+#: qml/DevicePage.qml:99 qml/runcommand.qml:16
+#, kde-format
+msgid "Run command"
+msgstr "Chạy lệnh"
+
+#: qml/DevicePage.qml:108
+#, kde-format
+msgid "Send Clipboard"
+msgstr "Gửi bảng nháp"
+
+#: qml/DevicePage.qml:114
+#, kde-format
+msgid "Share File"
+msgstr "Chia sẻ tệp"
+
+#: qml/DevicePage.qml:119 qml/volume.qml:16
+#, kde-format
+msgid "Volume control"
+msgstr "Điều khiển âm lượng"
+
+#: qml/DevicePage.qml:130
+#, kde-format
+msgid ""
+"This device is not paired.\n"
+"Key: %1"
+msgstr "Thiết bị này chưa được ghép cặp.\nKhóa: %1"
+
+#: qml/DevicePage.qml:134
+#, kde-format
+msgctxt "Request pairing with a given device"
+msgid "Pair"
+msgstr "Ghép cặp"
+
+#: qml/DevicePage.qml:141 qml/DevicePage.qml:150
+#, kde-format
+msgid ""
+"Pair requested\n"
+"Key: "
+msgstr "Yêu cầu ghép cặp\nKhóa: "
+
+#: qml/DevicePage.qml:156
+#, kde-format
+msgid "Accept"
+msgstr "Chấp nhận"
+
+#: qml/DevicePage.qml:162
+#, kde-format
+msgid "Reject"
+msgstr "Từ chối"
+
+#: qml/DevicePage.qml:173
+#, kde-format
+msgid "This device is not reachable"
+msgstr "Thiết bị này không thể truy cập được"
+
+#: qml/DevicePage.qml:181
+#, kde-format
+msgid "Please choose a file"
+msgstr "Vui lòng chọn một tệp"
+
+#: qml/FindDevicesPage.qml:23
+#, kde-format
+msgctxt "Title of the page listing the devices"
+msgid "Devices"
+msgstr "Thiết bị"
+
+#: qml/FindDevicesPage.qml:48
+#, kde-format
+msgid "Remembered"
+msgstr "Đã nhớ"
+
+#: qml/FindDevicesPage.qml:50
+#, kde-format
+msgid "Available"
+msgstr "Hiện có"
+
+#: qml/FindDevicesPage.qml:52
+#, kde-format
+msgid "Connected"
+msgstr "Đã kết nối"
+
+#: qml/FindDevicesPage.qml:57
+#, kde-format
+msgid "No devices found"
+msgstr "Không tìm thấy thiết bị"
+
+#: qml/Main.qml:73
+#, kde-format
+msgid "Find devices..."
+msgstr "Tìm thiết bị..."
+
+#: qml/Main.qml:122 qml/Main.qml:126
+#, kde-format
+msgid "Settings"
+msgstr "thiết lập"
+
+#: qml/mousepad.qml:16
+#, kde-format
+msgid "Remote Control"
+msgstr "Điều khiển từ xa"
+
+#: qml/mousepad.qml:59
+#, kde-format
+msgid "Press %1 or the left and right mouse buttons at the same time to unlock"
+msgstr "Nhấn %1 hoặc nhấn đồng thời nút trái và phải chuột để mở khóa"
+
+#: qml/mpris.qml:19
+#, kde-format
+msgid "Multimedia Controls"
+msgstr "Điều khiển đa phương tiện"
+
+#: qml/mpris.qml:67
+#, kde-format
+msgid "No players available"
+msgstr "Không có trình phát nào hiện có"
+
+#: qml/mpris.qml:107
+#, kde-format
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+#: qml/PluginSettings.qml:64
+#, kde-format
+msgid "Configure plugin"
+msgstr "Cấu hình phần cài cắm"
+
+#: qml/presentationRemote.qml:21
+#, kde-format
+msgid "Enable Full-Screen"
+msgstr "Bật chế độ toàn màn hình"
+
+#: qml/runcommand.qml:22
+#, kde-format
+msgid "Edit commands"
+msgstr "Sửa lệnh"
+
+#: qml/runcommand.qml:25
+#, kde-format
+msgid "You can edit commands on the connected device"
+msgstr "Bạn có thể sửa các lệnh trên thiết bị được kết nối"
+
+#: qml/runcommand.qml:52
+#, kde-format
+msgid "No commands defined"
+msgstr "Không có lệnh được định nghĩa"
+
+#: qml/Settings.qml:13
+#, kde-format
+msgctxt "@title:window"
+msgid "Settings"
+msgstr "thiết lập"
+
+#: qml/Settings.qml:21
+#, kde-format
+msgid "Device name"
+msgstr "Tên thiết bị"
+
+#: qml/Settings.qml:36
+#, kde-format
+msgid "About KDE Connect"
+msgstr "Thông tin về KDE Connect"
+
+#: qml/Settings.qml:47
+#, kde-format
+msgid "About KDE"
+msgstr "Về KDE"

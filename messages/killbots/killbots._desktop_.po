@@ -14,10 +14,10 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: rulesets/classic.desktop:2 themes/classic.desktop:2
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Classic"
-msgstr "ĐềEcềEđiển "
+msgstr "Cổ điển"
 
 #: rulesets/classic.desktop:66
 msgctxt "Description"
@@ -28,11 +28,17 @@ msgid ""
 "p><p>Due to its larger width, it is recommended that you use a theme with "
 "narrower tiles to better fit your screen.</p></qt>"
 msgstr ""
+"<qt><p>Các quy tắc được sử dụng trong phiên bản gốc của <tt>robots</tt> "
+"trên dòng lệnh BSD.</p><p>Không có gì đặc biệt, chỉ có các yếu tố cơ bản "
+"của bàn chơi: không có robot nhanh, không có dịch chuyển an toàn, không ấn "
+"đống rác, và một lưới bàn chơi khổng lồ.</p><p>Do chiều rộng lớn hơn, bạn "
+"nên sử dụng một chủ đề có ô nhỏ hơn để phù hợp hơn với màn hình của "
+"bạn.</p></qt>"
 
 #: rulesets/daleks.desktop:2
 msgctxt "Name"
 msgid "Daleks"
-msgstr ""
+msgstr "Daleks"
 
 #: rulesets/daleks.desktop:51
 msgctxt "Description"
@@ -42,11 +48,15 @@ msgid ""
 "can be used to power the sonic screwdriver. All other special features are "
 "disabled.</p></qt>"
 msgstr ""
+"<qt><p>Một phiên bản gần đúng của luật chơi trong Daleks, một bàn chơi kiểu "
+"robots cho các máy tính Apple đời đầu.</p><p>Nhân vật chính được cấp một "
+"nguồn điện mỗi vòng có thể dùng để cấp năng lượng cho tua vít âm thanh. Tất "
+"cả các tính năng đặc biệt khác đều bị vô hiệu hóa.</p></qt>"
 
 #: rulesets/default.desktop:2 src/org.kde.killbots.desktop:2
 msgctxt "Name"
 msgid "Killbots"
-msgstr ""
+msgstr "Killbots"
 
 #: rulesets/default.desktop:58
 msgctxt "Description"
@@ -54,11 +64,14 @@ msgid ""
 "<qt><p>The default Killbots game type.</p><p>Includes a medium size grid, "
 "safe teleports, fast enemies and pushable junkheaps.</p></qt>"
 msgstr ""
+"<qt><p>Kiểu bàn chơi Killbots mặc định.</p><p>Bao gồm lưới kích thước trung "
+"bình, dịch chuyển an toàn, kẻ thù nhanh và đống rác có thể đẩy "
+"được.</p></qt>"
 
 #: rulesets/easy.desktop:2
 msgctxt "Name"
 msgid "Easy"
-msgstr ""
+msgstr "Dễ dàng"
 
 #: rulesets/easy.desktop:58
 msgctxt "Description"
@@ -67,14 +80,17 @@ msgid ""
 "bigger game grid prepopulated with junkheaps, a starting stash of energy and "
 "an increasing energy cap.</p></qt>"
 msgstr ""
+"<qt><p>Một phiên bản dễ hơn của kiểu trò chơi \"Killbots\".</p><p>Bao gồm "
+"một lưới bàn chơi lớn hơn được điền sẵn với đống rác, một kho năng lượng "
+"ban đầu và giới hạn năng lượng tăng dần.</p></qt>"
 
 #: rulesets/energycrisis.desktop:2
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Starrise"
 msgctxt "Name"
 msgid "Energy Crisis"
-msgstr "Starrise"
+msgstr "Khủng hoảng năng lượng"
 
 #: rulesets/energycrisis.desktop:51
 msgctxt "Description"
@@ -83,51 +99,54 @@ msgid ""
 "you survive and how many points can you collect before your energy and luck "
 "run out?"
 msgstr ""
+"Người chơi bắt đầu với 30 năng lượng và không thể kiếm thêm. Bạn có thể "
+"sống sót trong bao nhiêu vòng và thu thập được bao nhiêu điểm trước khi "
+"năng lượng và may mắn của bạn cạn kiệt?"
 
 #: src/org.kde.killbots.desktop:56
 msgctxt "GenericName"
 msgid "Strategy Game with Robots"
-msgstr ""
+msgstr "Trò chơi chiến lược với Robot"
 
 #: src/org.kde.killbots.desktop:95
 msgctxt "Comment"
 msgid "A KDE game of killer robots and teleportation."
-msgstr ""
+msgstr "Một trò chơi của KDE về robot sát thủ và dịch chuyển."
 
 #: themes/classic.desktop:64
 msgctxt "Description"
 msgid "A theme for those who miss the console version"
-msgstr ""
+msgstr "Một chủ đề dành cho những ai nhớ phiên bản bàn điều khiển"
 
 #: themes/mountainadventure.desktop:2
-#, fuzzy
+#, 
 #| msgid "Name=Adventure"
 msgctxt "Name"
 msgid "Mountain Adventure"
-msgstr "Name=Mạo hiểm "
+msgstr "Phiêu lưu núi"
 
 #: themes/mountainadventure.desktop:51
 msgctxt "Description"
 msgid "Indiana Gnomes battles ghosts and bats on a misty mountainside."
-msgstr ""
+msgstr "Indiana Gnomes chiến đấu với những con ma và dơi trên một sườn núi mờ ảo."
 
 #: themes/mummymadness.desktop:2
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Mummy Madness"
-msgstr "Name=Panel"
+msgstr "Mummy Madness"
 
 #: themes/mummymadness.desktop:49
 msgctxt "Description"
 msgid "Egyptian style theme with mad mummies."
-msgstr ""
+msgstr "Chủ đề phong cách Ai Cập với những xác ướp điên cuồng."
 
 #: themes/robotkill.desktop:2
 msgctxt "Name"
 msgid "Robot Kill"
-msgstr ""
+msgstr "Diệt Robot"
 
 #: themes/robotkill.desktop:51
 msgctxt "Description"
 msgid "The default Killbots theme."
-msgstr ""
+msgstr "Chủ đề Killbots mặc định."

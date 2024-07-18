@@ -1,0 +1,3589 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdiff3 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdiff3\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-05 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: DefaultFileAccessJobHandler.cpp:56
+#, kde-format
+msgid "Getting file status: %1"
+msgstr "Đang lấy trạng thái tệp: %1"
+
+#: DefaultFileAccessJobHandler.cpp:111
+#, kde-format
+msgctxt "Message for progress dialog %1 = path to file"
+msgid "Reading file: %1"
+msgstr "Đang đọc tệp: %1"
+
+#: DefaultFileAccessJobHandler.cpp:155
+#, kde-format
+msgctxt "Message for progress dialog %1 = path to file"
+msgid "Writing file: %1"
+msgstr "Đang ghi tệp: %1"
+
+#: DefaultFileAccessJobHandler.cpp:191
+#, kde-format
+msgid "Out of memory"
+msgstr "Hết bộ nhớ"
+
+#: DefaultFileAccessJobHandler.cpp:230
+#, kde-format
+msgctxt "Message for progress dialog %1 = path to file"
+msgid "Making folder: %1"
+msgstr "Đang tạo thư mục: %1"
+
+#: DefaultFileAccessJobHandler.cpp:254
+#, kde-format
+msgctxt "Message for progress dialog %1 = path to file"
+msgid "Removing folder: %1"
+msgstr "Đang xóa thư mục: %1"
+
+#: DefaultFileAccessJobHandler.cpp:272
+#, kde-format
+msgctxt "Message for progress dialog %1 = path to file"
+msgid "Removing file: %1"
+msgstr "Đang xóa tệp: %1"
+
+#: DefaultFileAccessJobHandler.cpp:294
+#, kde-format
+msgid "Creating symbolic link: %1 -> %2"
+msgstr "Đang tạo liên kết biểu tượng: %1 -> %2"
+
+#: DefaultFileAccessJobHandler.cpp:324
+#, kde-format
+msgid "Renaming file: %1 -> %2"
+msgstr "Đổi tên tệp: %1 -> %2"
+
+#: DefaultFileAccessJobHandler.cpp:365
+#, kde-format
+msgid "Copying file: %1 -> %2"
+msgstr "Đang sao chép tệp: %1 -> %2"
+
+#: DefaultFileAccessJobHandler.cpp:387
+#, kde-format
+msgctxt "Status message"
+msgid "Reading folder: %1"
+msgstr "Đang đọc thư mục: %1"
+
+#: DefaultFileAccessJobHandler.cpp:445
+#, kde-format
+msgid "Listing directory: %1"
+msgstr "Đang liệt kê thư mục: %1"
+
+#: diff.cpp:1594 diff.cpp:1610
+#, kde-format
+msgid ""
+"Data loss error:\n"
+"If it is reproducible please contact the author.\n"
+msgstr "Lỗi mất dữ liệu:\nNếu có thể tái hiện được, vui lòng liên hệ với tác giả.\n"
+
+#: diff.cpp:1596 diff.cpp:1612
+#, kde-format
+msgid "Severe Internal Error"
+msgstr "Lỗi Nội Bộ Nghiêm Trọng"
+
+#: difftextwindow.cpp:633
+#, kde-format
+msgid "File %1: Line %2"
+msgstr "Tệp %1: Dòng %2"
+
+#: difftextwindow.cpp:635
+#, kde-format
+msgid "File %1: Line not available"
+msgstr "Tệp %1: Không có dòng"
+
+#: difftextwindow.cpp:1966
+#, kde-format
+msgid "Encoding:"
+msgstr "Mã hóa:"
+
+#: difftextwindow.cpp:1970 mergeresultwindow.cpp:2804
+#: optiondialog.cpp:795
+#, kde-format
+msgid "Line end style:"
+msgstr "Kiểu kết thúc dòng:"
+
+#: difftextwindow.cpp:1995
+#, kde-format
+msgid "A (Base)"
+msgstr "A (Cơ sở)"
+
+#: difftextwindow.cpp:1997
+#, kde-format
+msgid "Encoding: %1"
+msgstr "Mã hóa: %1"
+
+#: difftextwindow.cpp:1998 mergeresultwindow.cpp:2850
+#, kde-format
+msgid "DOS"
+msgstr "DOS"
+
+#: difftextwindow.cpp:1998 mergeresultwindow.cpp:2849
+#, kde-format
+msgid "Unix"
+msgstr "Unix"
+
+#: difftextwindow.cpp:1998
+#, kde-format
+msgid "Line end style: %1"
+msgstr "Kiểu kết thúc dòng: %1"
+
+#: difftextwindow.cpp:1999
+#, kde-format
+msgid "Unknown"
+msgstr "không rõ"
+
+#: difftextwindow.cpp:2027 kdiff3.cpp:1066
+#, kde-format
+msgid "Top line"
+msgstr "Dòng trên"
+
+#: difftextwindow.cpp:2037
+#, kde-format
+msgid "End"
+msgstr "Kết thúc"
+
+#: difftextwindow.cpp:2093 smalldialogs.cpp:163
+#, kde-format
+msgid "Open File"
+msgstr "Mở Tệp"
+
+#: difftextwindow.cpp:2145 optiondialog.cpp:389
+#, kde-format
+msgid "Unicode, 8 bit"
+msgstr "Unicode, 8 bit"
+
+#: difftextwindow.cpp:2146
+#, kde-format
+msgid "Unicode, 8 bit (BOM)"
+msgstr "Unicode, 8 bit (BOM)"
+
+#: difftextwindow.cpp:2162
+#, kde-format
+msgid "Other"
+msgstr "Khác"
+
+#: directorymergewindow.cpp:416
+#, kde-format
+msgctxt "Operation column message"
+msgid "Copy A to B"
+msgstr "Sao chép A sang B"
+
+#: directorymergewindow.cpp:419
+#, kde-format
+msgctxt "Operation column message"
+msgid "Copy B to A"
+msgstr "Sao chép B sang A"
+
+#: directorymergewindow.cpp:422
+#, kde-format
+msgctxt "Operation column message"
+msgid "Delete A"
+msgstr "Xóa A"
+
+#: directorymergewindow.cpp:425
+#, kde-format
+msgctxt "Operation column message"
+msgid "Delete B"
+msgstr "Xóa B"
+
+#: directorymergewindow.cpp:428
+#, kde-format
+msgctxt "Operation column message"
+msgid "Delete A & B"
+msgstr "Xóa A và B"
+
+#: directorymergewindow.cpp:431
+#, kde-format
+msgctxt "Operation column message"
+msgid "Merge to A"
+msgstr "Trộn vào A"
+
+#: directorymergewindow.cpp:434
+#, kde-format
+msgctxt "Operation column message"
+msgid "Merge to B"
+msgstr "Trộn vào B"
+
+#: directorymergewindow.cpp:437
+#, kde-format
+msgctxt "Operation column message"
+msgid "Merge to A & B"
+msgstr "Trộn vào A và B"
+
+#: directorymergewindow.cpp:449
+#, kde-format
+msgctxt "Operation column message"
+msgid "Delete (if exists)"
+msgstr "Xóa (nếu tồn tại)"
+
+#: directorymergewindow.cpp:453
+#, kde-format
+msgctxt "Operation column message (Directory merge)"
+msgid "Merge"
+msgstr "Trộn"
+
+#: directorymergewindow.cpp:453
+#, kde-format
+msgctxt "Operation column message (File merge)"
+msgid "Merge (manual)"
+msgstr "Trộn (thủ công)"
+
+#: directorymergewindow.cpp:456
+#, kde-format
+msgctxt "Operation column message"
+msgid "Error: Conflicting File Types"
+msgstr "Lỗi: Các Loại Tệp Xung Đột"
+
+#: directorymergewindow.cpp:459
+#, kde-format
+msgctxt "Operation column message"
+msgid "Error: Changed and Deleted"
+msgstr "Lỗi: Đã thay đổi và Đã xóa"
+
+#: directorymergewindow.cpp:462
+#, kde-format
+msgctxt "Operation column message"
+msgid "Error: Dates are equal but files are not."
+msgstr "Lỗi: Ngày tháng bằng nhau nhưng các tệp không giống nhau."
+
+#: directorymergewindow.cpp:476
+#, kde-format
+msgctxt "Status column message"
+msgid "Done"
+msgstr "Xong"
+
+#: directorymergewindow.cpp:478
+#, kde-format
+msgctxt "Status column message"
+msgid "Error"
+msgstr "Lỗi"
+
+#: directorymergewindow.cpp:480
+#, kde-format
+msgctxt "Status column message"
+msgid "Skipped."
+msgstr "Đã bỏ qua."
+
+#: directorymergewindow.cpp:482
+#, kde-format
+msgctxt "Status column message"
+msgid "Not saved."
+msgstr "Chưa lưu."
+
+#: directorymergewindow.cpp:484
+#, kde-format
+msgctxt "Status column message"
+msgid "In progress..."
+msgstr "Đang tiến hành..."
+
+#: directorymergewindow.cpp:486
+#, kde-format
+msgctxt "Status column message"
+msgid "To do."
+msgstr "Cần làm."
+
+#: directorymergewindow.cpp:526
+#, kde-format
+msgctxt "Column title"
+msgid "Name"
+msgstr "Tên"
+
+#: directorymergewindow.cpp:534
+#, kde-format
+msgctxt "Column title"
+msgid "Operation"
+msgstr "Thao tác"
+
+#: directorymergewindow.cpp:536
+#, kde-format
+msgctxt "Column title"
+msgid "Status"
+msgstr "Trạng thái"
+
+#: directorymergewindow.cpp:538
+#, kde-format
+msgctxt "Column title"
+msgid "Unsolved"
+msgstr "Chưa giải quyết"
+
+#: directorymergewindow.cpp:540
+#, kde-format
+msgctxt "Column title"
+msgid "Solved"
+msgstr "Đã giải quyết"
+
+#: directorymergewindow.cpp:542
+#, kde-format
+msgctxt "Column title"
+msgid "Nonwhite"
+msgstr "Không phải trắng"
+
+#: directorymergewindow.cpp:544
+#, kde-format
+msgctxt "Column title"
+msgid "White"
+msgstr "Trắng"
+
+#: directorymergewindow.cpp:691
+#, kde-format
+msgid ""
+"You are currently doing a folder merge. Are you sure, you want to abort the "
+"merge and rescan the folder?"
+msgstr ""
+"Hiện tại bạn đang thực hiện trộn thư mục. Bạn có chắc chắn muốn huỷ bỏ trộn "
+"và quét lại thư mục?"
+
+#: directorymergewindow.cpp:692 kdiff3.cpp:923 kdiff3.cpp:933 kdiff3.cpp:945
+#: mergeresultwindow.cpp:315 pdiff.cpp:718 pdiff.cpp:1506 pdiff.cpp:1516
+#, kde-format
+msgctxt "Error dialog title"
+msgid "Warning"
+msgstr "Cảnh báo"
+
+#: directorymergewindow.cpp:693
+#, kde-format
+msgctxt "Title for rescan button"
+msgid "Rescan"
+msgstr "Quét lại"
+
+#: directorymergewindow.cpp:694
+#, kde-format
+msgctxt "Title for continue button"
+msgid "Continue Merging"
+msgstr "Tiếp tục Hợp nhất"
+
+#: directorymergewindow.cpp:843
+#, kde-format
+msgid "Opening of folders failed:"
+msgstr "Mở thư mục thất bại:"
+
+#: directorymergewindow.cpp:847
+#, kde-format
+msgid "Folder A \"%1\" does not exist or is not a folder.\n"
+msgstr "Thư mục A \"%1\" không tồn tại hoặc không phải là một thư mục.\n"
+
+#: directorymergewindow.cpp:852
+#, kde-format
+msgid "Folder B \"%1\" does not exist or is not a folder.\n"
+msgstr "Thư mục B \"%1\" không tồn tại hoặc không phải là một thư mục.\n"
+
+#: directorymergewindow.cpp:857
+#, kde-format
+msgid "Folder C \"%1\" does not exist or is not a folder.\n"
+msgstr "Thư mục C \"%1\" không tồn tại hoặc không phải là một thư mục.\n"
+
+#: directorymergewindow.cpp:860
+#, kde-format
+msgctxt "Error dialog title"
+msgid "Folder Opening Error"
+msgstr "Lỗi Mở Thư Mục"
+
+#: directorymergewindow.cpp:868
+#, kde-format
+msgid ""
+"The destination folder must not be the same as A or B when three folders are "
+"merged.\n"
+"Check again before continuing."
+msgstr ""
+"Thư mục đích không được trùng với A hoặc B khi ba thư mục được hợp "
+"nhất.\nKiểm tra lại trước khi tiếp tục."
+
+#: directorymergewindow.cpp:870
+#, kde-format
+msgctxt "Error dialog title"
+msgid "Parameter Warning"
+msgstr "Cảnh báo tham số"
+
+#: directorymergewindow.cpp:875
+#, kde-format
+msgid "Scanning folders..."
+msgstr "Đang quét các thư mục..."
+
+#: directorymergewindow.cpp:897
+#, kde-format
+msgctxt "Status message"
+msgid "Reading Folder A"
+msgstr "Đang đọc Thư mục A"
+
+#: directorymergewindow.cpp:906
+#, kde-format
+msgctxt "Status message"
+msgid "Reading Folder B"
+msgstr "Đang đọc Thư mục B"
+
+#: directorymergewindow.cpp:916
+#, kde-format
+msgctxt "Status message"
+msgid "Reading Folder C"
+msgstr "Đang đọc Thư mục C"
+
+#: directorymergewindow.cpp:932
+#, kde-format
+msgctxt "Warning text"
+msgid "Some subfolders were not readable in"
+msgstr "Một số thư mục con không thể đọc được trong"
+
+#: directorymergewindow.cpp:937
+#, kde-format
+msgctxt "Warning text"
+msgid "Check the permissions of the subfolders."
+msgstr "Kiểm tra quyền của các thư mục con."
+
+#: directorymergewindow.cpp:960
+#, kde-format
+msgctxt "Status bar idle message."
+msgid "Ready."
+msgstr "Sẵn sàng."
+
+#: directorymergewindow.cpp:975
+#, kde-format
+msgid ""
+"Folder Comparison Status\n"
+"\n"
+"Number of subfolders: %1\n"
+"Number of equal files: %2\n"
+"Number of different files: %3"
+msgstr ""
+"Trạng thái So sánh Thư mục\n\nSố lượng thư mục con: %1\nSố lượng tệp tin "
+"giống nhau: %2\nSố lượng tệp tin khác nhau: %3"
+
+#: directorymergewindow.cpp:982
+#, kde-format
+msgid "Number of manual merges: %1"
+msgstr "Số lượng sổ tay hợp nhất: %1"
+
+#: directorymergewindow.cpp:1250
+#, kde-format
+msgid "This affects all merge operations."
+msgstr "Điều này ảnh hưởng đến tất cả các thao tác trộn, hợp."
+
+#: directorymergewindow.cpp:1251
+#, kde-format
+msgid "Changing All Merge Operations"
+msgstr "Thay đổi Tất cả Các Thao Tác Trộn"
+
+#: directorymergewindow.cpp:1328
+#, kde-format
+msgid ""
+"Processing %1 / %2\n"
+"%3"
+msgstr "Đang xử lý %1 / %2\n%3"
+
+#: directorymergewindow.cpp:1374 directorymergewindow.cpp:1378
+#, kde-format
+msgid "Some files could not be processed."
+msgstr "Một số tệp không thể được xử lý."
+
+#: directorymergewindow.cpp:1381
+#, kde-format
+msgid "Aborting due to too many errors."
+msgstr "Đang huỷ bỏ do quá nhiều lỗi."
+
+#: directorymergewindow.cpp:1869 directorymergewindow.cpp:1894
+#: directorymergewindow.cpp:1919
+#, kde-format
+msgid "This operation is currently not possible."
+msgstr "Thao tác này hiện không thể thực hiện được."
+
+#: directorymergewindow.cpp:1869 directorymergewindow.cpp:1894
+#: directorymergewindow.cpp:1919 directorymergewindow.cpp:2200
+#, kde-format
+msgid "Operation Not Possible"
+msgstr "Không thể thực hiện thao tác"
+
+#: directorymergewindow.cpp:1966
+#, kde-format
+msgid "An error occurred while copying."
+msgstr "Đã xảy ra lỗi trong khi sao chép."
+
+#: directorymergewindow.cpp:1967 directorymergewindow.cpp:2405
+#, kde-format
+msgid "Merge Error"
+msgstr "Lỗi trộn"
+
+#: directorymergewindow.cpp:2045
+#, kde-format
+msgid "Unknown merge operation. (This must never happen!)"
+msgstr "Thao tác trộn không rõ. (Điều này không bao giờ xảy ra!)"
+
+#: directorymergewindow.cpp:2090
+#, kde-format
+msgid "Unknown merge operation."
+msgstr "Thao tác trộn không rõ."
+
+#: directorymergewindow.cpp:2103
+#, kde-format
+msgid ""
+"The merge is about to begin.\n"
+"\n"
+"Choose \"Do it\" if you have read the instructions and know what you are "
+"doing.\n"
+"Choosing \"Simulate it\" will tell you what would happen.\n"
+"\n"
+"Be aware that this program still has beta status and there is NO WARRANTY "
+"whatsoever! Make backups of your vital data!"
+msgstr ""
+"Việc trộn sắp bắt đầu.\n\nChọn \"Thực hiện\" nếu bạn đã đọc hướng dẫn và "
+"biết những gì mình đang làm.\nChọn \"Mô phỏng\" sẽ cho bạn biết những gì sẽ "
+"xảy ra.\n\nLưu ý rằng chương trình này vẫn còn ở trạng thái beta và KHÔNG "
+"CÓ BẢO HÀNH nào cả! Hãy sao lưu dữ liệu quan trọng của bạn!"
+
+#: directorymergewindow.cpp:2108
+#, kde-format
+msgctxt "Caption"
+msgid "Starting Merge"
+msgstr "Bắt đầu trộn"
+
+#: directorymergewindow.cpp:2109
+#, kde-format
+msgctxt "Button title to confirm merge"
+msgid "Do It"
+msgstr "Thực hiện"
+
+#: directorymergewindow.cpp:2110
+#, kde-format
+msgctxt "Button title to simulate merge"
+msgid "Simulate It"
+msgstr "Mô phỏng"
+
+#: directorymergewindow.cpp:2136
+#, kde-format
+msgid ""
+"The highlighted item has a different type in the different folders. Select "
+"what to do."
+msgstr ""
+"Mục đã được bôi đen có kiểu khác nhau trong các thư mục khác nhau. Hãy chọn "
+"cách xử lý."
+
+#: directorymergewindow.cpp:2140
+#, kde-format
+msgid ""
+"The modification dates of the file are equal but the files are not. Select "
+"what to do."
+msgstr ""
+"Ngày chỉnh sửa của các tệp là như nhau nhưng các tệp không giống nhau. Hãy "
+"chọn cách xử lý."
+
+#: directorymergewindow.cpp:2144
+#, kde-format
+msgid ""
+"The highlighted item was changed in one folder and deleted in the other. "
+"Select what to do."
+msgstr ""
+"Mục đã được bôi đen đã bị thay đổi trong một thư mục và bị xóa trong thư "
+"mục khác. Chọn hành động cần thực hiện."
+
+#: directorymergewindow.cpp:2200
+#, kde-format
+msgid ""
+"This operation is currently not possible because folder merge is currently "
+"running."
+msgstr "Thao tác này hiện không thể thực hiện được vì trộn thư mục đang chạy."
+
+#: directorymergewindow.cpp:2257
+#, kde-format
+msgid ""
+"There was an error in the last step.\n"
+"Do you want to continue with the item that caused the error or do you want "
+"to skip this item?"
+msgstr ""
+"Đã xảy ra lỗi trong bước cuối cùng.\nBạn có muốn tiếp tục với mục gây ra "
+"lỗi này hay bạn muốn bỏ qua mục này?"
+
+#: directorymergewindow.cpp:2259
+#, kde-format
+msgctxt "Caption for message dialog"
+msgid "Continue merge after an error"
+msgstr "Tiếp tục trộn sau khi có lỗi"
+
+#: directorymergewindow.cpp:2260
+#, kde-format
+msgctxt "Continue button title"
+msgid "Continue With Last Item"
+msgstr "Tiếp tục với Mục Cuối Cùng"
+
+#: directorymergewindow.cpp:2261
+#, kde-format
+msgctxt "Skip button title"
+msgid "Skip Item"
+msgstr "Bỏ qua mục"
+
+#: directorymergewindow.cpp:2355
+#, kde-format
+msgid "Merge operation complete."
+msgstr "Thao tác trộn hoàn tất."
+
+#: directorymergewindow.cpp:2355 directorymergewindow.cpp:2358
+#, kde-format
+msgid "Merge Complete"
+msgstr "Trộn Hoàn Tất"
+
+#: directorymergewindow.cpp:2368
+#, kde-format
+msgid ""
+"Simulated merge complete: Check if you agree with the proposed operations."
+msgstr ""
+"Mô phỏng trộn hoàn tất: Kiểm tra xem bạn có đồng ý với các thao tác được đề "
+"xuất không."
+
+#: directorymergewindow.cpp:2404
+#, kde-format
+msgid "An error occurred. Press OK to see detailed information."
+msgstr "Đã xảy ra lỗi. Nhấn OK để xem thông tin chi tiết."
+
+#: directorymergewindow.cpp:2437
+#, kde-format
+msgid "Error: While deleting %1: Creating backup failed."
+msgstr "Lỗi: Khi xóa %1: Tạo bản sao lưu không thành công."
+
+#: directorymergewindow.cpp:2444
+#, kde-format
+msgid "delete folder recursively( %1 )"
+msgstr "xóa thư mục đệ quy( %1 )"
+
+#: directorymergewindow.cpp:2446
+#, kde-format
+msgid "delete( %1 )"
+msgstr "xóa( %1 )"
+
+#: directorymergewindow.cpp:2462
+#, kde-format
+msgid "Error: delete folder operation failed while trying to read the folder."
+msgstr "Lỗi: thao tác xóa thư mục không thành công khi cố gắng đọc thư mục."
+
+#: directorymergewindow.cpp:2478
+#, kde-format
+msgid "Error: rmdir( %1 ) operation failed."
+msgstr "Lỗi: thao tác rmdir( %1 ) không thành công."
+
+#: directorymergewindow.cpp:2488
+#, kde-format
+msgid "Error: delete operation failed."
+msgstr "Lỗi: thao tác xóa không thành công."
+
+#: directorymergewindow.cpp:2515
+#, kde-format
+msgid "manual merge( %1, %2, %3 -> %4)"
+msgstr "sổ tay hợp nhất( %1, %2, %3 -> %4)"
+
+#: directorymergewindow.cpp:2518
+#, kde-format
+msgid ""
+"     Note: After a manual merge the user should continue by pressing F7."
+msgstr "Lưu ý: Sau khi trộn thủ công, người dùng nên tiếp tục bằng cách nhấn F7."
+
+#: directorymergewindow.cpp:2545
+#, kde-format
+msgid "Error: copy( %1 -> %2 ) failed.Deleting existing destination failed."
+msgstr "Lỗi: copy( %1 -> %2 ) không thành công. Xóa đích hiện có không thành công."
+
+#: directorymergewindow.cpp:2554
+#, kde-format
+msgid "copyLink( %1 -> %2 )"
+msgstr "sao chép liên kết ( %1 -> %2 )"
+
+#: directorymergewindow.cpp:2563
+#, kde-format
+msgid "Error: copyLink failed: Remote links are not yet supported."
+msgstr "Lỗi: sao chép liên kết không thành công: Liên kết từ xa chưa được hỗ trợ."
+
+#: directorymergewindow.cpp:2573
+#, kde-format
+msgid "Error: copyLink failed."
+msgstr "Lỗi: sao chép liên kết không thành công."
+
+#: directorymergewindow.cpp:2596
+#, kde-format
+msgid "copy( %1 -> %2 )"
+msgstr "sao chép( %1 -> %2 )"
+
+#: directorymergewindow.cpp:2622
+#, kde-format
+msgid "Error during rename( %1 -> %2 ): Cannot delete existing destination."
+msgstr "Lỗi trong quá trình đổi tên ( %1 -> %2 ): Không thể xóa đích đã tồn tại."
+
+#: directorymergewindow.cpp:2629
+#, kde-format
+msgid "rename( %1 -> %2 )"
+msgstr "đổi tên ( %1 -> %2 )"
+
+#: directorymergewindow.cpp:2638
+#, kde-format
+msgid "Error: Rename failed."
+msgstr "Lỗi: Đổi tên không thành công."
+
+#: directorymergewindow.cpp:2656
+#, kde-format
+msgid "Error during makeDir of %1. Cannot delete existing file."
+msgstr "Lỗi trong quá trình tạo thư mục %1. Không thể xóa tệp hiện có."
+
+#: directorymergewindow.cpp:2673
+#, kde-format
+msgid "makeDir( %1 )"
+msgstr "tạo thư mục( %1 )"
+
+#: directorymergewindow.cpp:2683
+#, kde-format
+msgid "Error while creating folder."
+msgstr "Lỗi khi tạo thư mục."
+
+#: directorymergewindow.cpp:2719 directorymergewindow.cpp:2833
+#, kde-format
+msgid "Dest"
+msgstr "Đích"
+
+#: directorymergewindow.cpp:2727 directorymergewindow.cpp:2755
+#, kde-format
+msgctxt "Header label"
+msgid "Folder"
+msgstr "Thư mục"
+
+#: directorymergewindow.cpp:2727
+#, kde-format
+msgctxt "Header label"
+msgid "Type"
+msgstr "Kiểu"
+
+#: directorymergewindow.cpp:2727
+#, kde-format
+msgctxt "Header label"
+msgid "Size"
+msgstr "Kích thước"
+
+#: directorymergewindow.cpp:2728
+#, kde-format
+msgctxt "Header label"
+msgid "Attr"
+msgstr "Thuộc tính"
+
+#: directorymergewindow.cpp:2728
+#, kde-format
+msgctxt "Header label"
+msgid "Last Modification"
+msgstr "Lần chỉnh sửa cuối"
+
+#: directorymergewindow.cpp:2728
+#, kde-format
+msgctxt "Header label"
+msgid "Link-Destination"
+msgstr "Liên kết-Đích"
+
+#: directorymergewindow.cpp:2755
+#, kde-format
+msgctxt "Header label"
+msgid "File"
+msgstr "Tệp"
+
+#: directorymergewindow.cpp:2755
+#, kde-format
+msgctxt "Header label ending"
+msgid "-Link"
+msgstr "-Liên kết"
+
+#: directorymergewindow.cpp:2761
+#, kde-format
+msgctxt "Header label"
+msgid "not available"
+msgstr "không khả dụng"
+
+#: directorymergewindow.cpp:2775
+#, kde-format
+msgid "A (Dest): "
+msgstr "A (Đích): "
+
+#: directorymergewindow.cpp:2779
+#, kde-format
+msgid "A:    "
+msgstr "A:    "
+
+#: directorymergewindow.cpp:2779
+#, kde-format
+msgid "A (Base): "
+msgstr "A (Cơ sở): "
+
+#: directorymergewindow.cpp:2785
+#, kde-format
+msgid "B (Dest): "
+msgstr "B (Đích): "
+
+#: directorymergewindow.cpp:2789
+#, kde-format
+msgid "B:    "
+msgstr "B:    "
+
+#: directorymergewindow.cpp:2794
+#, kde-format
+msgid "C (Dest): "
+msgstr "C (Đích): "
+
+#: directorymergewindow.cpp:2798
+#, kde-format
+msgid "C:    "
+msgstr "C:    "
+
+#: directorymergewindow.cpp:2801
+#, kde-format
+msgid "Dest: "
+msgstr "Đích: "
+
+#. i18n("Saving Directory Merge State ..."));
+#: directorymergewindow.cpp:2843
+#, kde-format
+msgid "Save Folder Merge State As..."
+msgstr "Lưu Trạng Thái Trộn Thư Mục Như..."
+
+#: directorymergewindow.cpp:2950
+#, kde-format
+msgid "Start/Continue Folder Merge"
+msgstr "Bắt đầu/Tiếp tục Trộn Thư Mục"
+
+#: directorymergewindow.cpp:2951
+#, kde-format
+msgid "Run Operation for Current Item"
+msgstr "Thực hiện thao tác cho mục hiện tại"
+
+#: directorymergewindow.cpp:2952
+#, kde-format
+msgid "Compare Selected File"
+msgstr "So sánh Tệp Đã Chọn"
+
+#: directorymergewindow.cpp:2953
+#, kde-format
+msgid "Merge Current File"
+msgstr "Trộn Tệp Hiện Tại"
+
+#: directorymergewindow.cpp:2953
+#, kde-format
+msgid ""
+"Merge\n"
+"File"
+msgstr "Hợp nhất\nTệp"
+
+#: directorymergewindow.cpp:2954
+#, kde-format
+msgid "Fold All Subfolders"
+msgstr "Gập Tất Cả Các Thư Mục Con"
+
+#: directorymergewindow.cpp:2955
+#, kde-format
+msgid "Unfold All Subfolders"
+msgstr "Mở rộng tất cả các thư mục con"
+
+#: directorymergewindow.cpp:2956
+#, kde-format
+msgid "Rescan"
+msgstr "Quét lại"
+
+#. i18n("Save Directory Merge State ..."), 0, this, &DirectoryMergeWindow::slotSaveMergeState, ac, "dir_save_merge_state");
+#. i18n("Load Directory Merge State ..."), 0, this, &DirectoryMergeWindow::slotLoadMergeState, ac, "dir_load_merge_state");
+#: directorymergewindow.cpp:2959
+#, kde-format
+msgid "Choose A for All Items"
+msgstr "Chọn Tất cả các mục"
+
+#: directorymergewindow.cpp:2960
+#, kde-format
+msgid "Choose B for All Items"
+msgstr "Chọn B cho tất cả các mục"
+
+#: directorymergewindow.cpp:2961
+#, kde-format
+msgid "Choose C for All Items"
+msgstr "Chọn C cho tất cả các mục"
+
+#: directorymergewindow.cpp:2962
+#, kde-format
+msgid "Auto-Choose Operation for All Items"
+msgstr "Tự động chọn thao tác cho tất cả các mục"
+
+#: directorymergewindow.cpp:2963
+#, kde-format
+msgid "No Operation for All Items"
+msgstr "Không có thao tác cho tất cả các mục"
+
+#. i18n("Synchronize Directories"), 0, this, &DirectoryMergeWindow::slotSynchronizeDirectories, ac, "dir_synchronize_directories");
+#. d->m_pDirChooseNewerFiles = GuiUtils::createAction< KToggleAction >(i18n("Copy Newer Files Instead of Merging"), 0, this, &DirectoryMergeWindow::slotChooseNewerFiles, ac, "dir_choose_newer_files");
+#: directorymergewindow.cpp:2968
+#, kde-format
+msgid "Show Identical Files"
+msgstr "Hiện Tệp Giống Nhau"
+
+#: directorymergewindow.cpp:2968
+#, kde-format
+msgid ""
+"Identical\n"
+"Files"
+msgstr "Các tệp\nGiống nhau"
+
+#: directorymergewindow.cpp:2969
+#, kde-format
+msgid "Show Different Files"
+msgstr "Hiện Tệp Khác Nhau"
+
+#: directorymergewindow.cpp:2970
+#, kde-format
+msgid "Show Files only in A"
+msgstr "Chỉ hiện tệp trong A"
+
+#: directorymergewindow.cpp:2970
+#, kde-format
+msgid ""
+"Files\n"
+"only in A"
+msgstr "Các tệp\nchỉ có trong A"
+
+#: directorymergewindow.cpp:2971
+#, kde-format
+msgid "Show Files only in B"
+msgstr "Chỉ hiện tệp trong B"
+
+#: directorymergewindow.cpp:2971
+#, kde-format
+msgid ""
+"Files\n"
+"only in B"
+msgstr "Các tệp\nchỉ có trong B"
+
+#: directorymergewindow.cpp:2972
+#, kde-format
+msgid "Show Files only in C"
+msgstr "Chỉ hiện tệp trong C"
+
+#: directorymergewindow.cpp:2972
+#, kde-format
+msgid ""
+"Files\n"
+"only in C"
+msgstr "Các tệp\nchỉ có trong C"
+
+#: directorymergewindow.cpp:2976
+#, kde-format
+msgid "Compare Explicitly Selected Files"
+msgstr "So sánh các tệp được chọn rõ ràng"
+
+#: directorymergewindow.cpp:2977
+#, kde-format
+msgid "Merge Explicitly Selected Files"
+msgstr "Trộn Các Tệp Được Chọn Rõ Ràng"
+
+#: directorymergewindow.cpp:2979 directorymergewindow.cpp:2986
+#, kde-format
+msgid "Do Nothing"
+msgstr "Không làm gì"
+
+#. i18n: ectx: property (text), widget (QCheckBox, mergeCheckBox)
+#: directorymergewindow.cpp:2983 opendialog.ui:68
+#, kde-format
+msgid "Merge"
+msgstr "Trộn"
+
+#: directorymergewindow.cpp:2984
+#, kde-format
+msgid "Delete (if exists)"
+msgstr "Xóa (nếu tồn tại)"
+
+#: directorymergewindow.cpp:2987
+#, kde-format
+msgid "Copy A to B"
+msgstr "Sao chép A sang B"
+
+#: directorymergewindow.cpp:2988
+#, kde-format
+msgid "Copy B to A"
+msgstr "Sao chép B sang A"
+
+#: directorymergewindow.cpp:2989
+#, kde-format
+msgid "Delete A"
+msgstr "Xóa A"
+
+#: directorymergewindow.cpp:2990
+#, kde-format
+msgid "Delete B"
+msgstr "Xóa B"
+
+#: directorymergewindow.cpp:2991
+#, kde-format
+msgid "Delete A && B"
+msgstr "Xóa A và B"
+
+#: directorymergewindow.cpp:2992
+#, kde-format
+msgid "Merge to A"
+msgstr "Trộn vào A"
+
+#: directorymergewindow.cpp:2993
+#, kde-format
+msgid "Merge to B"
+msgstr "Trộn vào B"
+
+#: directorymergewindow.cpp:2994
+#, kde-format
+msgid "Merge to A && B"
+msgstr "Trộn vào A và B"
+
+#: fileaccess.cpp:525
+#, kde-format
+msgid "Unable to determine full url. No parent specified."
+msgstr "Không thể xác định URL đầy đủ. Không có phụ huynh được chỉ định."
+
+#: fileaccess.cpp:796
+#, kde-format
+msgid "Failed to read file: %1"
+msgstr "Không thể đọc tệp: %1"
+
+#: fileaccess.cpp:936
+#, kde-format
+msgid "Creating temp copy of %1 failed."
+msgstr "Tạo bản sao tạm thời của %1 không thành công."
+
+#: fileaccess.cpp:944 fileaccess.cpp:949
+#, kde-format
+msgid "Opening %1 failed. %2"
+msgstr "Không thể mở %1. %2"
+
+#: fileaccess.cpp:968 fileaccess.cpp:976
+#, kde-format
+msgid "Error reading from %1. %2"
+msgstr "Lỗi khi đọc từ %1. %2"
+
+#: fileaccess.cpp:1105
+#, kde-format
+msgid ""
+"While trying to make a backup, deleting an older backup failed.\n"
+"Filename: %1"
+msgstr ""
+"Trong khi cố gắng tạo bản sao lưu, xóa một bản sao lưu cũ đã thất bại.\nTên "
+"tệp: %1"
+
+#: fileaccess.cpp:1112
+#, kde-format
+msgid ""
+"While trying to make a backup, renaming failed.\n"
+"Filenames: %1 -> %2"
+msgstr ""
+"Trong khi cố gắng tạo bản sao lưu, việc đổi tên thất bại.\nTên tệp: %1 -> "
+"%2"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: FontChooser.ui:23
+#, kde-format
+msgid "TextLabel"
+msgstr "Nhãn văn bản"
+
+#. i18n: ectx: property (plainText), widget (QPlainTextEdit, exampleTextEdit)
+#: FontChooser.ui:36
+#, kde-format
+msgid ""
+"The quick brown fox jumps over the river\n"
+"but the little red hen escapes with a shiver\n"
+":-)\n"
+msgstr ""
+"Con cáo nâu nhanh nhẹn nhảy qua con sông\nnhưng con gà đỏ nhỏ bé thoát đi "
+"với một cái rùng mình\n:-)\n"
+
+#. i18n: ectx: property (text), widget (QPushButton, selectFont)
+#: FontChooser.ui:49
+#, kde-format
+msgctxt "Button Title"
+msgid "Change Font"
+msgstr "Thay đổi phông chữ"
+
+#: kdiff3.cpp:166
+#, kde-format
+msgid "Current Configuration:"
+msgstr "Cấu hình hiện tại:"
+
+#: kdiff3.cpp:171
+#, kde-format
+msgid "Config Option Error:"
+msgstr "Lỗi Lựa Chọn Cấu Hình:"
+
+#: kdiff3.cpp:226
+#, kde-format
+msgid "Option --auto used, but no output file specified."
+msgstr "Lựa chọn --auto được sử dụng, nhưng không có tệp đầu ra được chỉ định."
+
+#: kdiff3.cpp:362
+#, kde-format
+msgid "Directory merge"
+msgstr "Trộn thư mục"
+
+#: kdiff3.cpp:367
+#, kde-format
+msgid "Merge info"
+msgstr "Thông tin trộn"
+
+#: kdiff3.cpp:621
+#, kde-format
+msgctxt "Error message"
+msgid "Can't compare file with folder."
+msgstr "Không thể so sánh tệp với thư mục."
+
+#: kdiff3.cpp:622
+#, kde-format
+msgctxt "Title error message box"
+msgid "Bad comparison attempt"
+msgstr "Cố gắng so sánh không hợp lệ"
+
+#: kdiff3.cpp:631
+#, kde-format
+msgid "Option --auto ignored for folder comparison."
+msgstr "Lựa chọn --auto bị bỏ qua khi so sánh thư mục."
+
+#: kdiff3.cpp:684
+#, kde-format
+msgid "Saving failed."
+msgstr "Lưu không thành công."
+
+#: kdiff3.cpp:718 pdiff.cpp:783
+#, kde-format
+msgid "Opening of these files failed:"
+msgstr "Việc mở các tệp này đã thất bại:"
+
+#: kdiff3.cpp:727 pdiff.cpp:792
+#, kde-format
+msgid "File open error"
+msgstr "Lỗi mở tệp"
+
+#: kdiff3.cpp:767
+#, kde-format
+msgid "Enables/disables the statusbar"
+msgstr "Bật/tắt thanh trạng thái"
+
+#: kdiff3.cpp:770
+#, kde-format
+msgid "Configure KDiff3..."
+msgstr "Cấu hình KDiff3..."
+
+#: kdiff3.cpp:776
+#, kde-format
+msgid "Search for a string"
+msgstr "Tìm kiếm một chuỗi"
+
+#: kdiff3.cpp:778
+#, kde-format
+msgid "Search again for the string"
+msgstr "Tìm kiếm lại chuỗi"
+
+#: kdiff3.cpp:797
+#, kde-format
+msgid "Go to Current Delta"
+msgstr "Đi đến Delta hiện tại"
+
+#: kdiff3.cpp:797
+#, kde-format
+msgid ""
+"Current\n"
+"Delta"
+msgstr "Hiện tại\nDelta"
+
+#: kdiff3.cpp:799
+#, kde-format
+msgid "Go to First Delta"
+msgstr "Đi đến Delta đầu tiên"
+
+#: kdiff3.cpp:799
+#, kde-format
+msgid ""
+"First\n"
+"Delta"
+msgstr "Đầu tiên\nDelta"
+
+#: kdiff3.cpp:801
+#, kde-format
+msgid "Go to Last Delta"
+msgstr "Đi đến Delta cuối cùng"
+
+#: kdiff3.cpp:801
+#, kde-format
+msgid ""
+"Last\n"
+"Delta"
+msgstr "Lần\nthay đổi cuối"
+
+#: kdiff3.cpp:803
+#, kde-format
+msgctxt "Tooltip explanation text"
+msgid "(Skips white space differences when \"Show White Space\" is disabled.)"
+msgstr ""
+"(Bỏ qua các khác biệt về khoảng trắng khi \"Hiện Khoảng Trắng\" bị vô hiệu "
+"hóa.)"
+
+#: kdiff3.cpp:804
+#, kde-format
+msgctxt "Tooltip explanation text"
+msgid ""
+"(Does not skip white space differences even when \"Show White Space\" is "
+"disabled.)"
+msgstr ""
+"(Không bỏ qua các khác biệt về khoảng trắng ngay cả khi \"Hiện Khoảng "
+"Trắng\" bị vô hiệu hóa.)"
+
+#: kdiff3.cpp:805
+#, kde-format
+msgid "Go to Previous Delta"
+msgstr "Đi đến Delta trước"
+
+#: kdiff3.cpp:805
+#, kde-format
+msgid ""
+"Prev\n"
+"Delta"
+msgstr "Trước\nDelta"
+
+#: kdiff3.cpp:807
+#, kde-format
+msgid "Go to Next Delta"
+msgstr "Đi đến Delta Tiếp Theo"
+
+#: kdiff3.cpp:807
+#, kde-format
+msgid ""
+"Next\n"
+"Delta"
+msgstr "Tiếp theo\nDelta"
+
+#: kdiff3.cpp:809
+#, kde-format
+msgid "Go to Previous Conflict"
+msgstr "Đi đến Xung đột Trước"
+
+#: kdiff3.cpp:809
+#, kde-format
+msgid ""
+"Prev\n"
+"Conflict"
+msgstr "Trước\nXung đột"
+
+#: kdiff3.cpp:811
+#, kde-format
+msgid "Go to Next Conflict"
+msgstr "Đi đến Xung đột Tiếp theo"
+
+#: kdiff3.cpp:811
+#, kde-format
+msgid ""
+"Next\n"
+"Conflict"
+msgstr "Tiếp theo\nXung đột"
+
+#: kdiff3.cpp:813
+#, kde-format
+msgid "Go to Previous Unsolved Conflict"
+msgstr "Đi đến Xung đột Chưa Giải Quyết Trước"
+
+#: kdiff3.cpp:813
+#, kde-format
+msgid ""
+"Prev\n"
+"Unsolved"
+msgstr "Trước\nChưa giải quyết"
+
+#: kdiff3.cpp:815
+#, kde-format
+msgid "Go to Next Unsolved Conflict"
+msgstr "Đi đến Xung đột Chưa Giải Quyết Tiếp Theo"
+
+#: kdiff3.cpp:815
+#, kde-format
+msgid ""
+"Next\n"
+"Unsolved"
+msgstr "Tiếp theo\nChưa giải quyết"
+
+#: kdiff3.cpp:817
+#, kde-format
+msgctxt "Title for menu item"
+msgid "Go to Line"
+msgstr "Đi đến dòng"
+
+#: kdiff3.cpp:817
+#, kde-format
+msgctxt "Text used for toolbar button."
+msgid ""
+"Go\n"
+"Line"
+msgstr "Đi\nDòng"
+
+#: kdiff3.cpp:818
+#, kde-format
+msgctxt "Tooltip Text"
+msgid "Goto specified line."
+msgstr "Đi đến dòng đã chỉ định."
+
+#: kdiff3.cpp:819
+#, kde-format
+msgctxt "Title for menu item"
+msgid "Select Line(s) From A"
+msgstr "Bôi đen Dòng(các Dòng) Từ A"
+
+#: kdiff3.cpp:819
+#, kde-format
+msgctxt "Text used for select A toolbar button."
+msgid ""
+"Choose\n"
+"A"
+msgstr "Chọn\nA"
+
+#: kdiff3.cpp:820
+#, kde-format
+msgctxt "Title for menu item"
+msgid "Select Line(s) From B"
+msgstr "Chọn dòng(các dòng) từ B"
+
+#: kdiff3.cpp:820
+#, kde-format
+msgctxt "Text used for select B when toolbar button."
+msgid ""
+"Choose\n"
+"B"
+msgstr "Chọn\nB"
+
+#: kdiff3.cpp:821
+#, kde-format
+msgctxt "Title for menu item"
+msgid "Select Line(s) From C"
+msgstr "Bôi đen Dòng(các Dòng) Từ C"
+
+#: kdiff3.cpp:821
+#, kde-format
+msgctxt "Text used for select C toolbar button."
+msgid ""
+"Choose\n"
+"C"
+msgstr "Chọn\nC"
+
+#: kdiff3.cpp:822
+#, kde-format
+msgctxt "Title for menu item"
+msgid "Automatically Go to Next Unsolved Conflict After Source Selection"
+msgstr "Tự động chuyển đến Xung đột Chưa Giải Quyết Tiếp Theo Sau Khi Chọn Nguồn"
+
+#: kdiff3.cpp:822
+#, kde-format
+msgctxt "Auto goto next unsolved toolbar text."
+msgid ""
+"Auto\n"
+"Next"
+msgstr "Tự động\nTiếp theo"
+
+#: kdiff3.cpp:824
+#, kde-format
+msgid "Show Space && Tabulator Characters"
+msgstr "Hiện thị Khoảng trắng và Ký tự Tab"
+
+#: kdiff3.cpp:824
+#, kde-format
+msgctxt "Show whitespace toolbar text."
+msgid ""
+"White\n"
+"Characters"
+msgstr "Ký tự\ntrắng"
+
+#: kdiff3.cpp:825
+#, kde-format
+msgid "Show White Space"
+msgstr "Hiện Khoảng Trắng"
+
+#: kdiff3.cpp:825
+#, kde-format
+msgctxt "Show whitespace changes toolbar text."
+msgid ""
+"White\n"
+"Deltas"
+msgstr "Trắng\nDelta"
+
+#: kdiff3.cpp:827
+#, kde-format
+msgid "Show Line Numbers"
+msgstr "Hiển thị số dòng"
+
+#: kdiff3.cpp:827
+#, kde-format
+msgctxt "Show line numbers toolbar text"
+msgid ""
+"Line\n"
+"Numbers"
+msgstr "Số\nDòng"
+
+#: kdiff3.cpp:829
+#, kde-format
+msgid "Automatically Solve Simple Conflicts"
+msgstr "Tự động Giải quyết Xung đột Đơn giản"
+
+#: kdiff3.cpp:830
+#, kde-format
+msgid "Set Deltas to Conflicts"
+msgstr "Đặt Deltas thành Xung đột"
+
+#: kdiff3.cpp:831
+#, kde-format
+msgid "Run Regular Expression Auto Merge"
+msgstr "Chạy Trộn Tự Động Biểu Thức Chính Quy"
+
+#: kdiff3.cpp:832
+#, kde-format
+msgid "Automatically Solve History Conflicts"
+msgstr "Tự động Giải quyết Xung đột Lịch sử"
+
+#: kdiff3.cpp:833
+#, kde-format
+msgid "Split Diff At Selection"
+msgstr "Chia Phần Chênh Tại Phần Bôi Đen"
+
+#: kdiff3.cpp:834
+#, kde-format
+msgid "Join Selected Diffs"
+msgstr "Kết nối các phần chênh đã chọn"
+
+#: kdiff3.cpp:836
+#, kde-format
+msgid "Show Window A"
+msgstr "Hiển thị Cửa sổ A"
+
+#: kdiff3.cpp:837
+#, kde-format
+msgid "Show Window B"
+msgstr "Hiện Cửa sổ B"
+
+#: kdiff3.cpp:838
+#, kde-format
+msgid "Show Window C"
+msgstr "Hiển thị Cửa sổ C"
+
+#: kdiff3.cpp:840
+#, kde-format
+msgid "Normal Overview"
+msgstr "Tổng quan thông thường"
+
+#: kdiff3.cpp:841
+#, kde-format
+msgid "A vs. B Overview"
+msgstr "Tổng quan A vs. B"
+
+#: kdiff3.cpp:842
+#, kde-format
+msgid "A vs. C Overview"
+msgstr "Tổng quan A vs. C"
+
+#: kdiff3.cpp:843
+#, kde-format
+msgid "B vs. C Overview"
+msgstr "Tổng quan B so với C"
+
+#: kdiff3.cpp:844
+#, kde-format
+msgid "Word Wrap Diff Windows"
+msgstr "Bọc Phần Chênh Khác Biệt"
+
+#: kdiff3.cpp:845
+#, kde-format
+msgid "Add Manual Diff Alignment"
+msgstr "Thêm Sổ Tay Căn Chỉnh Phần Chênh"
+
+#: kdiff3.cpp:846
+#, kde-format
+msgid "Clear All Manual Diff Alignments"
+msgstr "Xóa tất cả các Căn chỉnh Phần chênh Thủ công"
+
+#: kdiff3.cpp:848
+#, kde-format
+msgid "Focus Next Window"
+msgstr "Nhắm vào Cửa sổ Tiếp theo"
+
+#: kdiff3.cpp:849
+#, kde-format
+msgid "Focus Prev Window"
+msgstr "Tập trung vào cửa sổ trước"
+
+#: kdiff3.cpp:850
+#, kde-format
+msgid "Toggle Split Orientation"
+msgstr "Chuyển đổi hướng chia"
+
+#: kdiff3.cpp:852
+#, kde-format
+msgid "Folder && Text Split Screen View"
+msgstr "Khung xem Thư mục và Văn bản"
+
+#: kdiff3.cpp:854
+#, kde-format
+msgid "Toggle Between Folder && Text View"
+msgstr "Chuyển đổi giữa Xem Thư mục và Xem Văn bản"
+
+#: kdiff3.cpp:876 kdiff3.cpp:978 kdiff3.cpp:1003 kdiff3.cpp:1262
+#: pdiff.cpp:802 pdiff.cpp:871 pdiff.cpp:907 pdiff.cpp:916 pdiff.cpp:974
+#: pdiff.cpp:982
+#, kde-format
+msgid "Ready."
+msgstr "Sẵn sàng."
+
+#: kdiff3.cpp:922 pdiff.cpp:1505
+#, kde-format
+msgid "The merge result has not been saved."
+msgstr "Kết quả trộn chưa được lưu."
+
+#: kdiff3.cpp:924
+#, kde-format
+msgid "Save && Quit"
+msgstr "Lưu và Thoát"
+
+#: kdiff3.cpp:925
+#, kde-format
+msgid "Quit Without Saving"
+msgstr "Thoát mà không lưu"
+
+#: kdiff3.cpp:933 pdiff.cpp:1516
+#, kde-format
+msgid "Saving the merge result failed."
+msgstr "Lưu kết quả trộn không thành công."
+
+#: kdiff3.cpp:944 pdiff.cpp:717
+#, kde-format
+msgid ""
+"You are currently doing a folder merge. Are you sure, you want to abort?"
+msgstr ""
+"Hiện tại bạn đang thực hiện việc sáp nhập thư mục. Bạn có chắc chắn muốn "
+"hủy bỏ không?"
+
+#: kdiff3.cpp:967
+#, kde-format
+msgid "Saving file..."
+msgstr "Đang lưu tệp..."
+
+#: kdiff3.cpp:984
+#, kde-format
+msgid "Saving file with a new filename..."
+msgstr "Đang lưu tệp với tên tệp mới..."
+
+#: kdiff3.cpp:986
+#, kde-format
+msgid "Save As..."
+msgstr "Lưu Dưới Tên..."
+
+#: kdiff3.cpp:1010
+#, kde-format
+msgid "Printing not implemented."
+msgstr "Chức năng in chưa được thực hiện."
+
+#: kdiff3.cpp:1050
+#, kde-format
+msgid "Printing..."
+msgstr "Đang in..."
+
+#: kdiff3.cpp:1148
+#, kde-format
+msgctxt "Status message"
+msgid "Printing page %1 of %2"
+msgstr "Đang in trang %1 của %2"
+
+#: kdiff3.cpp:1196
+#, kde-format
+msgid " (Selection)"
+msgstr "(Lựa chọn)"
+
+#: kdiff3.cpp:1225
+#, kde-format
+msgid "Printing completed."
+msgstr "Đã hoàn thành in."
+
+#: kdiff3.cpp:1229
+#, kde-format
+msgid "Printing aborted."
+msgstr "Đã hủy in."
+
+#: kdiff3.cpp:1236
+#, kde-format
+msgid "Exiting..."
+msgstr "Đang thoát..."
+
+#: kdiff3.cpp:1246
+#, kde-format
+msgid "Toggle the statusbar..."
+msgstr "Chuyển đổi thanh trạng thái..."
+
+#. i18n: ectx: Menu (file)
+#: kdiff3_shell.rc:4
+#, kde-format
+msgid "&File"
+msgstr "Tệ&p"
+
+#. i18n: ectx: Menu (directory)
+#: kdiff3_shell.rc:7
+#, kde-format
+msgid "F&older"
+msgstr "T&hư mục"
+
+#. i18n: ectx: Menu (dir_current_merge_menu)
+#: kdiff3_shell.rc:30
+#, kde-format
+msgid "Current Item Merge Operation"
+msgstr "Thao tác Trộn Mục Hiện Tại"
+
+#. i18n: ectx: Menu (dir_current_sync_menu)
+#: kdiff3_shell.rc:38
+#, kde-format
+msgid "Current Item Sync Operation"
+msgstr "Thao tác Đồng bộ Mục Hiện tại"
+
+#. i18n: ectx: Menu (movement)
+#: kdiff3_shell.rc:50
+#, kde-format
+msgid "M&ovement"
+msgstr "Di chu&yển"
+
+#. i18n: ectx: Menu (diff)
+#: kdiff3_shell.rc:61
+#, kde-format
+msgid "D&iffview"
+msgstr "Xem khác b&iệt"
+
+#. i18n: ectx: Menu (merge)
+#: kdiff3_shell.rc:73
+#, kde-format
+msgid "M&erge"
+msgstr "&Trộn"
+
+#. i18n: ectx: Menu (window)
+#: kdiff3_shell.rc:95
+#, kde-format
+msgid "&Window"
+msgstr "Cử&a sổ"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kdiff3_shell.rc:106
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Thanh công cụ"
+
+#: main.cpp:67 main.cpp:71
+#, kde-format
+msgid "Ignored. (User defined.)"
+msgstr "Bị bỏ qua. (Người dùng định nghĩa.)"
+
+#: main.cpp:88
+#, kde-format
+msgid "KDiff3"
+msgstr "KDiff3"
+
+#: main.cpp:91
+#, kde-format
+msgctxt "Program version info."
+msgid " (64 bit)"
+msgstr " (64 bit)"
+
+#: main.cpp:93
+#, kde-format
+msgid "Tool for Comparison and Merge of Files and Folders"
+msgstr "Công cụ So sánh và Trộn Tệp và Thư mục"
+
+#: main.cpp:94
+#, kde-format
+msgid "(c) 2002-2014 Joachim Eibl, (c) 2017 Michael Reeves KF5/Qt5 port"
+msgstr "(c) 2002-2014 Joachim Eibl, (c) 2017 Michael Reeves chuyển đổi KF5/Qt5"
+
+#: main.cpp:114
+#, kde-format
+msgid "Merge the input."
+msgstr "Trộn đầu vào."
+
+#: main.cpp:115
+#, kde-format
+msgid "Explicit base file. For compatibility with certain tools."
+msgstr "Tệp cơ sở rõ ràng. Để tương thích với một số công cụ nhất định."
+
+#: main.cpp:116
+#, kde-format
+msgid "Output file. Implies -m. E.g.: -o newfile.txt"
+msgstr "Tệp đầu ra. Ngụ ý -m. Ví dụ: -o newfile.txt"
+
+#: main.cpp:117
+#, kde-format
+msgid "Output file, again. (For compatibility with certain tools.)"
+msgstr "Tệp đầu ra, lại nữa. (Để tương thích với một số công cụ nhất định.)"
+
+#: main.cpp:119
+#, kde-format
+msgid "No GUI if all conflicts are auto-solvable. (Needs -o file)"
+msgstr ""
+"Không có giao diện người dùng nếu tất cả các xung đột đều có thể tự động "
+"giải quyết. (Cần -o file)"
+
+#: main.cpp:120
+#, kde-format
+msgid "Ignore --auto and always show GUI."
+msgstr "Bỏ qua --auto và luôn hiển thị giao diện người dùng."
+
+#: main.cpp:122 main.cpp:123
+#, kde-format
+msgid "Ignored."
+msgstr "Bị bỏ qua."
+
+#: main.cpp:125
+#, kde-format
+msgid "Visible name replacement for input file 1 (base)."
+msgstr "Tên hiển thị thay thế cho tệp đầu vào 1 (cơ bản)."
+
+#: main.cpp:126
+#, kde-format
+msgid "Visible name replacement for input file 2."
+msgstr "Tên hiển thị thay thế cho tệp đầu vào 2."
+
+#: main.cpp:127
+#, kde-format
+msgid "Visible name replacement for input file 3."
+msgstr "Thay thế tên hiển thị cho tệp đầu vào 3."
+
+#: main.cpp:128
+#, kde-format
+msgid "Alternative visible name replacement. Supply this once for every input."
+msgstr "Thay thế tên hiển thị thay thế. Cung cấp điều này một lần cho mỗi đầu vào."
+
+#: main.cpp:129
+#, kde-format
+msgid ""
+"Override a config setting. Use once for every setting. E.g.: --cs "
+"\"AutoAdvance=1\""
+msgstr ""
+"Ghi đè một cài đặt cấu hình. Sử dụng một lần cho mỗi cài đặt. Ví dụ: --cs "
+"\"AutoAdvance=1\""
+
+#: main.cpp:130
+#, kde-format
+msgid "Show list of config settings and current values."
+msgstr "Hiển thị danh sách các thiết lập cấu hình và giá trị hiện tại."
+
+#: main.cpp:131
+#, kde-format
+msgid "Use a different config file."
+msgstr "Sử dụng một tệp cấu hình khác."
+
+#: main.cpp:134
+#, kde-format
+msgid "file1 to open (base, if not specified via --base)"
+msgstr "file1 để mở (cơ sở, nếu không được chỉ định qua --base)"
+
+#: main.cpp:135
+#, kde-format
+msgid "file2 to open"
+msgstr "mở file2"
+
+#: main.cpp:136
+#, kde-format
+msgid "file3 to open"
+msgstr "mở file3"
+
+#: main.cpp:160
+#, kde-format
+msgid "See kdiff3 --help for supported options."
+msgstr "Xem kdiff3 --help để biết các tùy chọn được hỗ trợ."
+
+#: MergeFileInfos.cpp:394
+#, kde-format
+msgid "Unable to compare non-normal file with normal file."
+msgstr "Không thể so sánh tệp không bình thường với tệp bình thường."
+
+#: MergeFileInfos.cpp:417
+#, kde-format
+msgid "Mix of links and normal files."
+msgstr "Hỗn hợp các liên kết và tệp thông thường."
+
+#: MergeFileInfos.cpp:425
+#, kde-format
+msgid "Link: "
+msgstr "Liên kết:"
+
+#: MergeFileInfos.cpp:435
+#, kde-format
+msgid "Size. "
+msgstr "Kích thước."
+
+#: MergeFileInfos.cpp:451 MergeFileInfos.cpp:461
+#, kde-format
+msgid "Date & Size: "
+msgstr "Ngày & Kích thước:"
+
+#: MergeFileInfos.cpp:482
+#, kde-format
+msgctxt "Status message"
+msgid "Comparing file..."
+msgstr "Đang so sánh tệp..."
+
+#: mergeresultwindow.cpp:145
+#, kde-format
+msgid "Choose A Everywhere"
+msgstr "Chọn A Ở Mọi Nơi"
+
+#: mergeresultwindow.cpp:146
+#, kde-format
+msgid "Choose B Everywhere"
+msgstr "Chọn B Everywhere"
+
+#: mergeresultwindow.cpp:147
+#, kde-format
+msgid "Choose C Everywhere"
+msgstr "Chọn C Everywhere"
+
+#: mergeresultwindow.cpp:148
+#, kde-format
+msgid "Choose A for All Unsolved Conflicts"
+msgstr "Chọn A để giải quyết tất cả các xung đột chưa được giải quyết"
+
+#: mergeresultwindow.cpp:149
+#, kde-format
+msgid "Choose B for All Unsolved Conflicts"
+msgstr "Chọn B cho tất cả các xung đột chưa được giải quyết"
+
+#: mergeresultwindow.cpp:150
+#, kde-format
+msgid "Choose C for All Unsolved Conflicts"
+msgstr "Chọn C cho tất cả các xung đột chưa được giải quyết"
+
+#: mergeresultwindow.cpp:151
+#, kde-format
+msgid "Choose A for All Unsolved Whitespace Conflicts"
+msgstr "Chọn A để giải quyết tất cả các xung đột khoảng trắng chưa được giải quyết"
+
+#: mergeresultwindow.cpp:152
+#, kde-format
+msgid "Choose B for All Unsolved Whitespace Conflicts"
+msgstr "Chọn B cho tất cả các xung đột khoảng trắng chưa được giải quyết"
+
+#: mergeresultwindow.cpp:153
+#, kde-format
+msgid "Choose C for All Unsolved Whitespace Conflicts"
+msgstr "Chọn C cho tất cả các xung đột khoảng trắng chưa được giải quyết"
+
+#: mergeresultwindow.cpp:249
+#, kde-format
+msgid "Number of remaining unsolved conflicts: %1 (of which %2 are whitespace)"
+msgstr ""
+"Số lượng xung đột chưa được giải quyết còn lại: %1 (trong đó %2 là khoảng "
+"trắng)"
+
+#: mergeresultwindow.cpp:313
+#, kde-format
+msgid ""
+"The output has been modified.\n"
+"If you continue your changes will be lost."
+msgstr "Đầu ra đã được sửa đổi.\nNếu bạn tiếp tục, các thay đổi của bạn sẽ bị mất."
+
+#: mergeresultwindow.cpp:757 pdiff.cpp:593
+#, kde-format
+msgid "All input files are binary equal."
+msgstr "Tất cả các tệp đầu vào đều bằng nhau."
+
+#: mergeresultwindow.cpp:759
+#, kde-format
+msgid "All input files contain the same text."
+msgstr "Tất cả các tệp đầu vào chứa cùng một văn bản."
+
+#: mergeresultwindow.cpp:763 mergeresultwindow.cpp:767
+#: mergeresultwindow.cpp:771 pdiff.cpp:599 pdiff.cpp:603 pdiff.cpp:607
+#, kde-format
+msgid "Files %1 and %2 are binary equal.\n"
+msgstr "Các tệp %1 và %2 là bằng nhau về mặt nhị phân.\n"
+
+#: mergeresultwindow.cpp:765 mergeresultwindow.cpp:769
+#: mergeresultwindow.cpp:773
+#, kde-format
+msgid "Files %1 and %2 have equal text.\n"
+msgstr "Các tệp %1 và %2 có nội dung bằng nhau.\n"
+
+#: mergeresultwindow.cpp:777
+#, kde-format
+msgid ""
+"Total number of conflicts: %1\n"
+"Number of automatically solved conflicts: %2\n"
+"Number of unsolved conflicts: %3\n"
+"%4"
+msgstr ""
+"Tổng số xung đột: %1\nSố xung đột được giải quyết tự động: %2\nSố xung đột "
+"chưa được giải quyết: %3\n%4"
+
+#: mergeresultwindow.cpp:783
+#, kde-format
+msgid "Conflicts"
+msgstr "Xung đột"
+
+#: mergeresultwindow.cpp:1524
+#, kde-format
+msgid "<No src line>"
+msgstr "Không có dòng nguồn"
+
+#: mergeresultwindow.cpp:1532
+#, kde-format
+msgid "<Merge Conflict (Whitespace only)>"
+msgstr "Xung đột Hợp nhất (Chỉ khoảng trắng)"
+
+#: mergeresultwindow.cpp:1534 mergeresultwindow.cpp:2407
+#, kde-format
+msgid "<Merge Conflict>"
+msgstr "Xung đột khi Hợp nhất"
+
+#: mergeresultwindow.cpp:2629
+#, kde-format
+msgid ""
+"Not all conflicts are solved yet.\n"
+"File not saved."
+msgstr "Chưa giải quyết được tất cả các xung đột.\nTập tin chưa được lưu."
+
+#: mergeresultwindow.cpp:2631 mergeresultwindow.cpp:2640
+#, kde-format
+msgctxt "Dialog title"
+msgid "Conflicts Left"
+msgstr "Xung đột còn lại"
+
+#: mergeresultwindow.cpp:2638
+#, kde-format
+msgid ""
+"There is a line end style conflict. Please choose the line end style "
+"manually.\n"
+"File not saved."
+msgstr ""
+"Có xung đột về kiểu kết thúc dòng. Vui lòng chọn kiểu kết thúc dòng thủ "
+"công.\nTập tin chưa được lưu."
+
+#: mergeresultwindow.cpp:2652
+#, kde-format
+msgid ""
+"\n"
+"\n"
+"Creating backup failed. File not saved."
+msgstr "\n\nTạo bản sao lưu không thành công. Tệp không được lưu."
+
+#: mergeresultwindow.cpp:2652 mergeresultwindow.cpp:2696
+#, kde-format
+msgid "File Save Error"
+msgstr "Lỗi Lưu Tệp"
+
+#: mergeresultwindow.cpp:2696
+#, kde-format
+msgid "Error while writing."
+msgstr "Lỗi khi ghi."
+
+#: mergeresultwindow.cpp:2776
+#, kde-format
+msgid "Output:"
+msgstr "Kết quả:"
+
+#: mergeresultwindow.cpp:2789 mergeresultwindow.cpp:2979
+#, kde-format
+msgid "[Modified]"
+msgstr "[Đã sửa đổi]"
+
+#: mergeresultwindow.cpp:2796
+#, kde-format
+msgid "Encoding for saving:"
+msgstr "Mã hoá để lưu:"
+
+#: mergeresultwindow.cpp:2896
+#, kde-format
+msgid "Conflict"
+msgstr "Xung đột"
+
+#: mergeresultwindow.cpp:2926
+#, kde-format
+msgid "Codec from A: %1"
+msgstr "Bộ mã giải từ A: %1"
+
+#: mergeresultwindow.cpp:2928
+#, kde-format
+msgid "Codec from B: %1"
+msgstr "Bộ mã giải từ B: %1"
+
+#: mergeresultwindow.cpp:2930
+#, kde-format
+msgid "Codec from C: %1"
+msgstr "Bộ mã giải từ C: %1"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, OpenDialog)
+#. i18n: ectx: property (windowTitle), widget (QDialog, ProgressDialog)
+#: opendialog.ui:24 progressdialog.ui:23
+#, kde-format
+msgid "Dialog"
+msgstr "Hộp thoại"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: opendialog.ui:47
+#, kde-format
+msgid "B:"
+msgstr "B:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: opendialog.ui:54
+#, kde-format
+msgid "A (Base):"
+msgstr "A (Cơ sở):"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: opendialog.ui:61
+#, kde-format
+msgid "Output (Optional):"
+msgstr "Đầu ra (Tùy chọn):"
+
+#. i18n: ectx: property (text), widget (QPushButton, fileSelectC)
+#. i18n: ectx: property (text), widget (QPushButton, fileSelectB)
+#. i18n: ectx: property (text), widget (QPushButton, fileSelectA)
+#. i18n: ectx: property (text), widget (QPushButton, selectOutputFile)
+#: opendialog.ui:75 opendialog.ui:202 opendialog.ui:246 opendialog.ui:257
+#, kde-format
+msgid "File..."
+msgstr "Tệp..."
+
+#. i18n: ectx: property (text), widget (QPushButton, swapCopy)
+#: opendialog.ui:107
+#, kde-format
+msgid "Swap/Copy Names..."
+msgstr "Hoán đổi/Sao chép Tên..."
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: opendialog.ui:129
+#, kde-format
+msgid "C (Optional):"
+msgstr "C (Tùy chọn):"
+
+#. i18n: ectx: property (text), widget (QPushButton, folderSelectB)
+#. i18n: ectx: property (text), widget (QPushButton, folderSelectC)
+#. i18n: ectx: property (text), widget (QPushButton, folderSelectA)
+#. i18n: ectx: property (text), widget (QPushButton, selectOutputFolder)
+#: opendialog.ui:213 opendialog.ui:224 opendialog.ui:235 opendialog.ui:290
+#, kde-format
+msgid "Folder..."
+msgstr "Thư mục..."
+
+#: optiondialog.cpp:107 optiondialog.cpp:119
+#, kde-format
+msgctxt "No text styling"
+msgid "none"
+msgstr "không"
+
+#: optiondialog.cpp:109 optiondialog.cpp:121
+#, kde-format
+msgctxt "Font sample display, %1 = family, %2 = style, %3 = size"
+msgid ""
+"Font: %1, %2, %3\n"
+"\n"
+"Example:"
+msgstr "Phông chữ: %1, %2, %3\n\nVí dụ:"
+
+#: optiondialog.cpp:390
+#, kde-format
+msgid "Unicode"
+msgstr "Unicode"
+
+#: optiondialog.cpp:391
+#, kde-format
+msgid "Latin1"
+msgstr "Latin1"
+
+#: optiondialog.cpp:406
+#, kde-format
+msgctxt "Tool Tip"
+msgid "Change this if non-ASCII characters are not displayed correctly."
+msgstr ""
+"Thay đổi điều này nếu các ký tự không phải ASCII không được hiển thị chính "
+"xác."
+
+#: optiondialog.cpp:490
+#, kde-format
+msgid "Configure"
+msgstr "Cấu hình"
+
+#: optiondialog.cpp:529
+#, kde-format
+msgid "Font"
+msgstr "phông chữ"
+
+#: optiondialog.cpp:531
+#, kde-format
+msgid "Editor & Diff Output Font"
+msgstr "Phông chữ Trình biên tập và Phần chênh"
+
+#: optiondialog.cpp:549
+#, kde-format
+msgid "Application font"
+msgstr "Phông chữ ứng dụng"
+
+#: optiondialog.cpp:554
+#, kde-format
+msgid "File view font"
+msgstr "Phông chữ khung xem tệp"
+
+#: optiondialog.cpp:573
+#, kde-format
+msgctxt "Title for color settings page"
+msgid "Color"
+msgstr "Màu sắc"
+
+#: optiondialog.cpp:574
+#, kde-format
+msgid "Colors Settings"
+msgstr "Thiết lập màu sắc"
+
+#: optiondialog.cpp:599
+#, kde-format
+msgid "Editor and Diff Views:"
+msgstr "Trình biên tập và Phần chênh:"
+
+#: optiondialog.cpp:607
+#, kde-format
+msgid "Foreground color:"
+msgstr "Màu nền:"
+
+#: optiondialog.cpp:615
+#, kde-format
+msgid "Background color:"
+msgstr "Màu nền:"
+
+#: optiondialog.cpp:625
+#, kde-format
+msgid "Diff background color:"
+msgstr "Màu nền phần chênh:"
+
+#: optiondialog.cpp:634
+#, kde-format
+msgid "Color A:"
+msgstr "Màu A:"
+
+#: optiondialog.cpp:643
+#, kde-format
+msgid "Color B:"
+msgstr "Màu B:"
+
+#: optiondialog.cpp:652
+#, kde-format
+msgid "Color C:"
+msgstr "Màu C:"
+
+#: optiondialog.cpp:660
+#, kde-format
+msgid "Conflict color:"
+msgstr "Màu xung đột:"
+
+#: optiondialog.cpp:669
+#, kde-format
+msgid "Current range background color:"
+msgstr "Màu nền của phạm vi hiện tại:"
+
+#: optiondialog.cpp:678
+#, kde-format
+msgid "Current range diff background color:"
+msgstr "Màu nền của phần chênh hiện tại:"
+
+#: optiondialog.cpp:686
+#, kde-format
+msgid "Color for manually aligned difference ranges:"
+msgstr "Màu cho các phạm vi khác biệt được căn chỉnh thủ công:"
+
+#: optiondialog.cpp:693
+#, kde-format
+msgid "Folder Comparison View:"
+msgstr "Xem So Sánh Thư Mục:"
+
+#: optiondialog.cpp:699
+#, kde-format
+msgid "Newest file color:"
+msgstr "Màu tệp mới nhất:"
+
+#: optiondialog.cpp:704
+#, kde-format
+msgid ""
+"Changing this color will only be effective when starting the next folder "
+"comparison."
+msgstr "Thay đổi màu này chỉ có hiệu lực khi bắt đầu so sánh thư mục tiếp theo."
+
+#: optiondialog.cpp:709
+#, kde-format
+msgid "Oldest file color:"
+msgstr "Màu tệp cũ nhất:"
+
+#: optiondialog.cpp:718
+#, kde-format
+msgid "Middle age file color:"
+msgstr "Màu tệp trung niên:"
+
+#: optiondialog.cpp:727
+#, kde-format
+msgid "Color for missing files:"
+msgstr "Màu cho các tệp tin bị thiếu:"
+
+#: optiondialog.cpp:741
+#, kde-format
+msgid "Editor"
+msgstr "Trình biên tập"
+
+#: optiondialog.cpp:742
+#, kde-format
+msgid "Editor Behavior"
+msgstr "Hành vi của Trình biên tập"
+
+#: optiondialog.cpp:764
+#, kde-format
+msgid "Tab inserts spaces"
+msgstr "Thẻ chèn khoảng trắng"
+
+#: optiondialog.cpp:768
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"On: Pressing tab generates the appropriate number of spaces.\n"
+"Off: A tab character will be inserted."
+msgstr ""
+"Bật: Nhấn tab sẽ tạo ra số lượng khoảng trắng thích hợp.\nTắt: Một kí tự "
+"tab sẽ được chèn vào."
+
+#: optiondialog.cpp:773
+#, kde-format
+msgid "Tab size:"
+msgstr "Kích thước thẻ:"
+
+#: optiondialog.cpp:780
+#, kde-format
+msgid "Auto indentation"
+msgstr "Tự động thụt lề"
+
+#: optiondialog.cpp:784
+#, kde-format
+msgctxt "Tool Tip"
+msgid "On: The indentation of the previous line is used for a new line.\n"
+msgstr "Bật: Thụt lề của dòng trước được sử dụng cho một dòng mới.\n"
+
+#: optiondialog.cpp:787
+#, kde-format
+msgid "Auto copy selection"
+msgstr "Tự động sao chép phần bôi đen"
+
+#: optiondialog.cpp:791
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"On: Any selection is immediately written to the clipboard.\n"
+"Off: You must explicitly copy e.g. via Ctrl-C."
+msgstr ""
+"Bật: Bất kỳ phần bôi đen nào cũng sẽ được sao chép vào khay nhớ tạm ngay "
+"lập tức.\nTắt: Bạn phải sao chép một cách rõ ràng, vd., bằng cách sử dụng "
+"Ctrl-C."
+
+#: optiondialog.cpp:801
+#, kde-format
+msgctxt "Unix line ending"
+msgid "Unix"
+msgstr "Unix"
+
+#: optiondialog.cpp:802
+#, kde-format
+msgctxt "Dos/Windows line ending"
+msgid "Dos/Windows"
+msgstr "Dos/Windows"
+
+#: optiondialog.cpp:803
+#, kde-format
+msgctxt "Automatically detected line ending"
+msgid "Autodetect"
+msgstr "Tự động phát hiện"
+
+#: optiondialog.cpp:806
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"Sets the line endings for when an edited file is saved.\n"
+"DOS/Windows: CR+LF; UNIX: LF; with CR=0D, LF=0A"
+msgstr ""
+"Đặt các kết thúc dòng khi một tệp đã chỉnh sửa được lưu.\nDOS/Windows: "
+"CR+LF; UNIX: LF; với CR=0D, LF=0A"
+
+#: optiondialog.cpp:816
+#, kde-format
+msgid "Diff"
+msgstr "phần chênh"
+
+#: optiondialog.cpp:817
+#, kde-format
+msgid "Diff Settings"
+msgstr "Thiết lập phần chênh"
+
+#: optiondialog.cpp:840
+#, kde-format
+msgid "Ignore numbers (treat as white space)"
+msgstr "Bỏ qua số (xử lý như khoảng trắng)"
+
+#: optiondialog.cpp:844
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"Ignore number characters during line matching phase. (Similar to Ignore "
+"white space.)\n"
+"Might help to compare files with numeric data."
+msgstr ""
+"Bỏ qua các ký tự số trong giai đoạn so khớp dòng. (Tương tự như Bỏ qua "
+"khoảng trắng.)\nCó thể giúp so sánh các tệp có dữ liệu số."
+
+#: optiondialog.cpp:848
+#, kde-format
+msgid "Ignore C/C++ comments (treat as white space)"
+msgstr "Bỏ qua các nhận xét C/C++ (xử lý như khoảng trắng)"
+
+#: optiondialog.cpp:851
+#, kde-format
+msgctxt "Tool Tip"
+msgid "Treat C/C++ comments like white space."
+msgstr "Xử lý các nhận xét C/C++ như khoảng trắng."
+
+#: optiondialog.cpp:854
+#, kde-format
+msgid "Ignore case (treat as white space)"
+msgstr "Bỏ qua chữ hoa/thường (coi như khoảng trắng)"
+
+#: optiondialog.cpp:858
+#, kde-format
+msgctxt "Tool Tip"
+msgid "Treat case differences like white space changes. ('a'<=>'A')"
+msgstr ""
+"Coi sự khác biệt về chữ hoa/thường như sự thay đổi khoảng trắng. "
+"('a'<=>'A')"
+
+#: optiondialog.cpp:861
+#, kde-format
+msgid "Preprocessor command:"
+msgstr "Lệnh tiền xử lý:"
+
+#: optiondialog.cpp:866
+#, kde-format
+msgctxt "Tool Tip"
+msgid "User defined pre-processing. (See the docs for details.)"
+msgstr "Tiền xử lý do người dùng định nghĩa. (Xem tài liệu để biết chi tiết.)"
+
+#: optiondialog.cpp:869
+#, kde-format
+msgid "Line-matching preprocessor command:"
+msgstr "Lệnh tiền xử lý khớp dòng:"
+
+#: optiondialog.cpp:874
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"This pre-processor is only used during line matching.\n"
+"(See the docs for details.)"
+msgstr ""
+"Bộ tiền xử lý này chỉ được sử dụng trong quá trình khớp dòng.\n(Xem tài "
+"liệu để biết chi tiết.)"
+
+#: optiondialog.cpp:877
+#, kde-format
+msgid "Try hard (slower)"
+msgstr "Cố gắng nhiều (chậm hơn)"
+
+#: optiondialog.cpp:881
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"Enables the --minimal option for the external diff.\n"
+"The analysis of big files will be much slower."
+msgstr ""
+"Kích hoạt tùy chọn --minimal cho diff bên ngoài.\nPhân tích các tệp lớn sẽ "
+"chậm hơn nhiều."
+
+#: optiondialog.cpp:885
+#, kde-format
+msgid "Align B and C for 3 input files"
+msgstr "Căn lề B và C cho 3 tệp đầu vào"
+
+#: optiondialog.cpp:889
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"Try to align B and C when comparing or merging three input files.\n"
+"Not recommended for merging because merge might get more complicated.\n"
+"(Default is off.)"
+msgstr ""
+"Cố gắng căn lề B và C khi so sánh hoặc trộn ba tệp đầu vào.\nKhông khuyến "
+"khích trộn vì trộn có thể trở nên phức tạp hơn.\n(Mặc định là tắt.)"
+
+#: optiondialog.cpp:900
+#, kde-format
+msgctxt "Settings page"
+msgid "Merge"
+msgstr "Trộn"
+
+#: optiondialog.cpp:901
+#, kde-format
+msgid "Merge Settings"
+msgstr "Trộn Thiết Lập"
+
+#: optiondialog.cpp:924
+#, kde-format
+msgid "Auto advance delay (ms):"
+msgstr "Độ trễ tự động tiến (ms):"
+
+#: optiondialog.cpp:930
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"When in Auto-Advance mode the result of the current selection is shown \n"
+"for the specified time, before jumping to the next conflict. Range: 0-2000 ms"
+msgstr ""
+"Khi ở chế độ Tự động Tiến, kết quả của phần bôi đen hiện tại sẽ được hiển "
+"thị\ntrong khoảng thời gian được chỉ định, trước khi chuyển sang xung đột "
+"tiếp theo. Phạm vi: 0-2000 ms"
+
+#: optiondialog.cpp:934
+#, kde-format
+msgid "Show info dialogs"
+msgstr "Hiển thị hộp thoại thông tin"
+
+#: optiondialog.cpp:937
+#, kde-format
+msgctxt "Tool Tip"
+msgid "Show a dialog with information about the number of conflicts."
+msgstr "Hiển thị hộp thoại với thông tin về số lượng xung đột."
+
+#: optiondialog.cpp:940
+#, kde-format
+msgid "White space 2-file merge default:"
+msgstr "Mặc định trộn tệp 2 khoảng trắng:"
+
+#: optiondialog.cpp:945 optiondialog.cpp:958
+#, kde-format
+msgid "Manual Choice"
+msgstr "Lựa chọn thủ công"
+
+#: optiondialog.cpp:949 optiondialog.cpp:963
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"Allow the merge algorithm to automatically select an input for white-space-"
+"only changes."
+msgstr ""
+"Cho phép thuật toán trộn tự động chọn một đầu vào cho các thay đổi chỉ có "
+"khoảng trắng."
+
+#: optiondialog.cpp:953
+#, kde-format
+msgid "White space 3-file merge default:"
+msgstr "Mặc định trộn 3 tệp với khoảng trắng:"
+
+#: optiondialog.cpp:967
+#, kde-format
+msgid "Automatic Merge Regular Expression"
+msgstr "Biểu thức chính quy tự động trộn"
+
+#: optiondialog.cpp:975 smalldialogs.cpp:372
+#, kde-format
+msgid "Auto merge regular expression:"
+msgstr "Biểu thức chính quy tự động trộn:"
+
+#: optiondialog.cpp:983
+#, kde-format
+msgid "Run regular expression auto merge on merge start"
+msgstr "Chạy biểu thức chính quy tự động trộn khi bắt đầu trộn"
+
+#: optiondialog.cpp:986
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"Run the merge for auto merge regular expressions\n"
+"immediately when a merge starts.\n"
+msgstr ""
+"Chạy trộn cho các biểu thức chính quy tự động trộn\nngay khi một trộn bắt "
+"đầu.\n"
+
+#: optiondialog.cpp:991
+#, kde-format
+msgid "Version Control History Merging"
+msgstr "Sáp nhập Lịch sử Kiểm soát Phiên bản"
+
+#: optiondialog.cpp:999 smalldialogs.cpp:399
+#, kde-format
+msgid "History start regular expression:"
+msgstr "Biểu thức chính quy khởi động lịch sử:"
+
+#: optiondialog.cpp:1007 smalldialogs.cpp:427
+#, kde-format
+msgid "History entry start regular expression:"
+msgstr "Biểu thức chính quy khởi động mục nhập lịch sử:"
+
+#: optiondialog.cpp:1023
+#, kde-format
+msgid "History merge sorting"
+msgstr "Sắp xếp trộn lịch sử"
+
+#: optiondialog.cpp:1026
+#, kde-format
+msgctxt "Tool Tip"
+msgid "Sort version control history by a key."
+msgstr "Sắp xếp lịch sử kiểm soát phiên bản theo một khóa."
+
+#: optiondialog.cpp:1036
+#, kde-format
+msgid "History entry start sort key order:"
+msgstr "Thứ tự sắp xếp khóa sắp xếp bắt đầu của mục lịch sử:"
+
+#: optiondialog.cpp:1046
+#, kde-format
+msgid "Merge version control history on merge start"
+msgstr "Trộn lịch sử kiểm soát phiên bản khi bắt đầu trộn"
+
+#: optiondialog.cpp:1049
+#, kde-format
+msgctxt "Tool Tip"
+msgid "Run version control history auto-merge on merge start."
+msgstr "Chạy tự động trộn lịch sử kiểm soát phiên bản khi bắt đầu trộn."
+
+#: optiondialog.cpp:1053
+#, kde-format
+msgid "Max number of history entries:"
+msgstr "Số lượng mục nhập lịch sử tối đa:"
+
+#: optiondialog.cpp:1057
+#, kde-format
+msgctxt "Tool Tip"
+msgid "Cut off after specified number. Use -1 for infinite number of entries."
+msgstr "Cắt sau số lượng đã chỉ định. Sử dụng -1 để có số lượng mục vô hạn."
+
+#: optiondialog.cpp:1061
+#, kde-format
+msgid "Test your regular expressions"
+msgstr "Kiểm thử biểu thức chính quy của bạn"
+
+#: optiondialog.cpp:1066
+#, kde-format
+msgid "Irrelevant merge command:"
+msgstr "Lệnh trộn không liên quan:"
+
+#: optiondialog.cpp:1071
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"If specified this script is run after auto-merge\n"
+"when no other relevant changes were detected.\n"
+"Called with the parameters: filename1 filename2 filename3"
+msgstr ""
+"Nếu được chỉ định, kịch bản này sẽ được chạy sau khi tự động sáp nhập\nkhi "
+"không có thay đổi liên quan nào được phát hiện.\nGọi với các tham số: "
+"filename1 filename2 filename3"
+
+#: optiondialog.cpp:1076
+#, kde-format
+msgid "Auto save and quit on merge without conflicts"
+msgstr "Tự động lưu và thoát khi trộn mà không có xung đột"
+
+#: optiondialog.cpp:1080
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"If KDiff3 was started for a file-merge from the command line and all\n"
+"conflicts are solvable without user interaction then automatically save and "
+"quit.\n"
+"(Similar to command line option \"--auto\".)"
+msgstr ""
+"Nếu KDiff3 được khởi động để hợp nhất tệp từ dòng lệnh và tất cả\nxung đột "
+"đều có thể giải quyết mà không cần tương tác người dùng, thì tự động lưu và "
+"thoát.\n(Tương tự như tùy chọn dòng lệnh \"--auto\".)"
+
+#: optiondialog.cpp:1091 optiondialog.cpp:1092
+#, kde-format
+msgctxt "Tab title label"
+msgid "Folder"
+msgstr "Thư mục"
+
+#: optiondialog.cpp:1112
+#, kde-format
+msgid "Recursive folders"
+msgstr "Thư mục đệ quy"
+
+#: optiondialog.cpp:1115
+#, kde-format
+msgctxt "Tool Tip"
+msgid "Whether to analyze subfolders or not."
+msgstr "Xem xét các thư mục con hay không."
+
+#: optiondialog.cpp:1117
+#, kde-format
+msgid "File pattern(s):"
+msgstr "Mẫu tệp:"
+
+#: optiondialog.cpp:1123
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"Pattern(s) of files to be analyzed. \n"
+"Wildcards: '*' and '?'\n"
+"Several Patterns can be specified by using the separator: ';'"
+msgstr ""
+"Mẫu(các mẫu) của các tệp sẽ được phân tích.\nWildcards: '*' và '?'\nCó thể "
+"chỉ định nhiều mẫu bằng cách sử dụng dấu phân cách: ';'"
+
+#: optiondialog.cpp:1128
+#, kde-format
+msgid "File-anti-pattern(s):"
+msgstr "Mẫu tệp tin không phù hợp:"
+
+#: optiondialog.cpp:1134
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"Pattern(s) of files to be excluded from analysis. \n"
+"Wildcards: '*' and '?'\n"
+"Several Patterns can be specified by using the separator: ';'"
+msgstr ""
+"Mẫu(các mẫu) của các tệp được loại trừ khỏi phân tích. \nWildcards: '*' và "
+"'?' \nCó thể chỉ định nhiều mẫu bằng cách sử dụng dấu phân cách: ';'"
+
+#: optiondialog.cpp:1139
+#, kde-format
+msgid "Folder-anti-pattern(s):"
+msgstr "Mẫu thư mục không mong muốn:"
+
+#: optiondialog.cpp:1145
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"Pattern(s) of folders to be excluded from analysis. \n"
+"Wildcards: '*' and '?'\n"
+"Several Patterns can be specified by using the separator: ';'"
+msgstr ""
+"Mẫu(các mẫu) của thư mục sẽ được loại trừ khỏi phân tích.\nWildcards: '*' "
+"và '?'\nCó thể chỉ định nhiều mẫu bằng cách sử dụng dấu phân cách: ';'"
+
+#: optiondialog.cpp:1150
+#, kde-format
+msgid "Use Ignore File"
+msgstr "Sử dụng Tệp Bỏ Qua"
+
+#: optiondialog.cpp:1154
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"Extends the anti-pattern to anything that would be ignored by source "
+"control.\n"
+"Via local ignore files this can be folder-specific."
+msgstr ""
+"Mở rộng mẫu chống lại bất cứ điều gì sẽ bị bỏ qua bởi hệ thống quản lý mã "
+"nguồn.\nThông qua các tệp bỏ qua cục bộ, điều này có thể được thực hiện cụ "
+"thể cho từng thư mục."
+
+#: optiondialog.cpp:1158
+#, kde-format
+msgid "Find hidden files and folders"
+msgstr "Tìm tệp và thư mục ẩn"
+
+#: optiondialog.cpp:1161
+#, kde-format
+msgctxt "Tool Tip"
+msgid "Finds hidden files and folders."
+msgstr "Tìm các tệp và thư mục ẩn."
+
+#: optiondialog.cpp:1164
+#, kde-format
+msgid "Follow file links"
+msgstr "Theo dõi liên kết tệp"
+
+#: optiondialog.cpp:1168
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"On: Compare the file the link points to.\n"
+"Off: Compare the links."
+msgstr "Bật: So sánh tệp mà liên kết trỏ đến.\nTắt: So sánh các liên kết."
+
+#: optiondialog.cpp:1172
+#, kde-format
+msgid "Follow folder links"
+msgstr "Theo liên kết thư mục"
+
+#: optiondialog.cpp:1176
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"On: Compare the folder the link points to.\n"
+"Off: Compare the links."
+msgstr "Bật: So sánh thư mục mà liên kết trỏ đến.\nTắt: So sánh các liên kết."
+
+#: optiondialog.cpp:1185
+#, kde-format
+msgid "Case sensitive filename comparison"
+msgstr "So sánh tên tệp phân biệt chữ hoa chữ thường"
+
+#: optiondialog.cpp:1189
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"The folder comparison will compare files or folders when their names match.\n"
+"Set this option if the case of the names must match. (Default for Windows is "
+"off, otherwise on.)"
+msgstr ""
+"Việc so sánh thư mục sẽ so sánh các tệp hoặc thư mục khi tên của chúng "
+"khớp.\nĐặt tùy chọn này nếu trường hợp của tên phải khớp. (Mặc định cho "
+"Windows là tắt, nếu không thì bật.)"
+
+#: optiondialog.cpp:1193
+#, kde-format
+msgid "Unfold all subfolders on load"
+msgstr "Mở rộng tất cả các thư mục con khi tải"
+
+#: optiondialog.cpp:1197
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"On: Unfold all subfolders when starting a folder diff.\n"
+"Off: Leave subfolders folded."
+msgstr ""
+"Bật: Mở rộng tất cả các thư mục con khi bắt đầu so sánh thư mục.\nTắt: Để "
+"các thư mục con gập lại."
+
+#: optiondialog.cpp:1201
+#, kde-format
+msgid "Skip folder status report"
+msgstr "Bỏ qua báo cáo trạng thái thư mục"
+
+#: optiondialog.cpp:1205
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"On: Do not show the Folder Comparison Status.\n"
+"Off: Show the status dialog on start."
+msgstr ""
+"Bật: Không hiển thị trạng thái so sánh thư mục.\nTắt: Hiển thị hộp thoại "
+"trạng thái khi khởi động."
+
+#: optiondialog.cpp:1209
+#, kde-format
+msgid "File Comparison Mode"
+msgstr "Chế độ So sánh Tệp"
+
+#: optiondialog.cpp:1214
+#, kde-format
+msgid "Binary comparison"
+msgstr "So sánh nhị phân"
+
+#: optiondialog.cpp:1216
+#, kde-format
+msgctxt "Tool Tip"
+msgid "Binary comparison of each file. (Default)"
+msgstr "So sánh nhị phân của mỗi tệp. (Mặc định)"
+
+#: optiondialog.cpp:1219
+#, kde-format
+msgid "Full analysis"
+msgstr "Phân tích đầy đủ"
+
+#: optiondialog.cpp:1221
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"Do a full analysis and show statistics information in extra columns.\n"
+"(Slower than a binary comparison, much slower for binary files.)"
+msgstr ""
+"Thực hiện phân tích đầy đủ và hiển thị thông tin thống kê trong các cột bổ "
+"sung.\n(Chậm hơn so với so sánh nhị phân, chậm hơn nhiều đối với các tệp "
+"nhị phân.)"
+
+#: optiondialog.cpp:1225
+#, kde-format
+msgid "Trust the size and modification date (unsafe)"
+msgstr "Tin tưởng vào kích thước và ngày chỉnh sửa (không an toàn)"
+
+#: optiondialog.cpp:1227
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"Assume that files are equal if the modification date and file length are "
+"equal.\n"
+"Files with equal contents but different modification dates will appear as "
+"different.\n"
+"Useful for big folders or slow networks."
+msgstr ""
+"Giả định rằng các tệp là bằng nhau nếu ngày chỉnh sửa và độ dài tệp là bằng "
+"nhau.\nCác tệp có nội dung bằng nhau nhưng ngày chỉnh sửa khác nhau sẽ xuất "
+"hiện là khác nhau.\nHữu ích cho các thư mục lớn hoặc mạng chậm."
+
+#: optiondialog.cpp:1232
+#, kde-format
+msgid ""
+"Trust the size and date, but use binary comparison if date does not match "
+"(unsafe)"
+msgstr ""
+"Tin tưởng kích thước và ngày tháng, nhưng sử dụng so sánh nhị phân nếu ngày "
+"tháng không khớp (không an toàn)"
+
+#: optiondialog.cpp:1234
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"Assume that files are equal if the modification date and file length are "
+"equal.\n"
+"If the dates are not equal but the sizes are, use binary comparison.\n"
+"Useful for big folders or slow networks."
+msgstr ""
+"Giả định rằng các tệp là bằng nhau nếu ngày chỉnh sửa và độ dài tệp là bằng "
+"nhau.\nNếu các ngày không bằng nhau nhưng kích thước thì sử dụng so sánh "
+"nhị phân.\nHữu ích cho các thư mục lớn hoặc mạng chậm."
+
+#: optiondialog.cpp:1239
+#, kde-format
+msgid "Trust the size (unsafe)"
+msgstr "Tin tưởng kích thước (không an toàn)"
+
+#: optiondialog.cpp:1241
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"Assume that files are equal if their file lengths are equal.\n"
+"Useful for big folders or slow networks when the date is modified during "
+"download."
+msgstr ""
+"Giả định rằng các tệp là bằng nhau nếu độ dài của chúng bằng nhau.\nHữu ích "
+"cho các thư mục lớn hoặc mạng chậm khi ngày được chỉnh sửa trong quá trình "
+"tải xuống."
+
+#: optiondialog.cpp:1248
+#, kde-format
+msgid "Synchronize folders"
+msgstr "Đồng bộ hóa thư mục"
+
+#: optiondialog.cpp:1252
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"Offers to store files in both folders so that\n"
+"both folders are the same afterwards.\n"
+"Works only when comparing two folders without specifying a destination."
+msgstr ""
+"Đề nghị lưu tệp vào cả hai thư mục để sau đó chúng trở nên giống nhau.\nChỉ "
+"hoạt động khi so sánh hai thư mục mà không chỉ định đích đến."
+
+#: optiondialog.cpp:1258
+#, kde-format
+msgid "White space differences considered equal"
+msgstr "Các khoảng trắng được coi là bằng nhau"
+
+#: optiondialog.cpp:1262
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"If files differ only by white space consider them equal.\n"
+"This is only active when full analysis is chosen."
+msgstr ""
+"Nếu các tệp chỉ khác nhau về khoảng trắng, hãy coi chúng là bằng "
+"nhau.\nĐiều này chỉ hoạt động khi chọn phân tích đầy đủ."
+
+#: optiondialog.cpp:1268
+#, kde-format
+msgid "Copy newer instead of merging (unsafe)"
+msgstr "Sao chép phiên bản mới thay vì trộn (không an toàn)"
+
+#: optiondialog.cpp:1272
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"Do not look inside, just take the newer file.\n"
+"(Use this only if you know what you are doing!)\n"
+"Only effective when comparing two folders."
+msgstr ""
+"Không nhìn vào bên trong, chỉ lấy tệp tin mới hơn.\n(Chỉ sử dụng tính năng "
+"này nếu bạn biết mình đang làm gì!)\nChỉ có hiệu lực khi so sánh hai thư "
+"mục."
+
+#: optiondialog.cpp:1277
+#, kde-format
+msgid "Backup files (.orig)"
+msgstr "Sao lưu tệp (.orig)"
+
+#: optiondialog.cpp:1281
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"If a file would be saved over an old file, then the old file\n"
+"will be renamed with a '.orig' extension instead of being deleted."
+msgstr ""
+"Nếu một tệp sẽ được lưu lại trên một tệp cũ, thì tệp cũ sẽ được đổi tên với "
+"phần mở rộng '.orig' thay vì bị xóa."
+
+#: optiondialog.cpp:1290 optiondialog.cpp:1291
+#, kde-format
+msgid "Regional Settings"
+msgstr "Thiết lập khu vực"
+
+#: optiondialog.cpp:1314
+#, kde-format
+msgid "Use the same encoding for everything:"
+msgstr "Sử dụng cùng một mã hoá cho tất cả:"
+
+#: optiondialog.cpp:1318
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"Enable this allows to change all encodings by changing the first only.\n"
+"Disable this if different individual settings are needed."
+msgstr ""
+"Bật tùy chọn này cho phép thay đổi tất cả các bảng mã bằng cách chỉ thay "
+"đổi cái đầu tiên.\nTắt tùy chọn này nếu cần các thiết lập riêng biệt."
+
+#: optiondialog.cpp:1322
+#, kde-format
+msgid "Note: Local Encoding is \"%1\""
+msgstr "Lưu ý: Mã hoá địa phương là \"%1\""
+
+#: optiondialog.cpp:1326
+#, kde-format
+msgid "File Encoding for A:"
+msgstr "Mã hoá tệp cho A:"
+
+#: optiondialog.cpp:1333
+#, kde-format
+msgid ""
+"If enabled then encoding will be automaticly detected.\n"
+"If the file's encoding can not be found automaticly then the selected "
+"encoding will be used as fallback.\n"
+"(Unicode detection depends on the first bytes of a file.)"
+msgstr ""
+"Nếu được bật thì mã hoá sẽ được tự động phát hiện.\nNếu mã hoá của tệp "
+"không thể tự động tìm thấy thì mã hoá đã chọn sẽ được sử dụng làm phương án "
+"dự phòng.\n(Phát hiện Unicode phụ thuộc vào các byte đầu tiên của tệp.)"
+
+#: optiondialog.cpp:1336 optiondialog.cpp:1347 optiondialog.cpp:1358
+#, kde-format
+msgid "Auto Detect"
+msgstr "Tự động phát hiện"
+
+#: optiondialog.cpp:1342
+#, kde-format
+msgid "File Encoding for B:"
+msgstr "Mã hoá tệp cho B:"
+
+#: optiondialog.cpp:1353
+#, kde-format
+msgid "File Encoding for C:"
+msgstr "Mã hoá tệp cho C:"
+
+#: optiondialog.cpp:1364
+#, kde-format
+msgid "File Encoding for Merge Output and Saving:"
+msgstr "Mã hoá tệp cho Đầu ra Trộn và Lưu:"
+
+#: optiondialog.cpp:1369
+#, kde-format
+msgid "Auto Select"
+msgstr "Tự động bôi đen"
+
+#: optiondialog.cpp:1373
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"If enabled then the encoding from the input files is used.\n"
+"In ambiguous cases a dialog will ask the user to choose the encoding for "
+"saving."
+msgstr ""
+"Nếu được bật, thì mã hoá từ các tệp đầu vào sẽ được sử dụng.\nTrong các "
+"trường hợp không rõ ràng, một hộp thoại sẽ yêu cầu người dùng chọn mã hoá "
+"để lưu."
+
+#: optiondialog.cpp:1376
+#, kde-format
+msgid "File Encoding for Preprocessor Files:"
+msgstr "Mã hoá tệp cho các tệp Tiền xử lý:"
+
+#: optiondialog.cpp:1388
+#, kde-format
+msgid "Right To Left Language"
+msgstr "Ngôn ngữ Từ Phải Sang Trái"
+
+#: optiondialog.cpp:1392
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"Some languages are read from right to left.\n"
+"This setting will change the viewer and editor accordingly."
+msgstr ""
+"Một số ngôn ngữ được đọc từ phải sang trái.\nTùy chỉnh này sẽ thay đổi "
+"trình xem và trình biên tập tương ứng."
+
+#: optiondialog.cpp:1402
+#, kde-format
+msgid "Integration"
+msgstr "Tích hợp"
+
+#: optiondialog.cpp:1403
+#, kde-format
+msgid "Integration Settings"
+msgstr "Thiết lập tích hợp"
+
+#: optiondialog.cpp:1424
+#, kde-format
+msgid "Command line options to ignore:"
+msgstr "Các tùy chọn dòng lệnh để bỏ qua:"
+
+#: optiondialog.cpp:1430
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"List of command line options that should be ignored when KDiff3 is used by "
+"other tools.\n"
+"Several values can be specified if separated via ';'\n"
+"This will suppress the \"Unknown option\" error."
+msgstr ""
+"Danh sách các tùy chọn dòng lệnh cần bị bỏ qua khi KDiff3 được sử dụng bởi "
+"các công cụ khác.\nCó thể chỉ định nhiều giá trị nếu được phân tách bằng "
+"dấu ';'\nĐiều này sẽ áp chế lỗi \"Tùy chọn không xác định\"."
+
+#: optiondialog.cpp:1435
+#, kde-format
+msgid "Quit also via Escape key"
+msgstr "Cũng thoát qua phím Chuyển dịch"
+
+#: optiondialog.cpp:1439
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"Fast method to exit.\n"
+"For those who are used to using the Escape key."
+msgstr ""
+"Phương pháp nhanh để thoát.\nDành cho những người quen với việc sử dụng "
+"phím Chuyển dịch."
+
+#: optiondialog.cpp:1497
+#, kde-format
+msgid "This resets all options. Not only those of the current topic."
+msgstr ""
+"Điều này sẽ đặt lại tất cả các tùy chọn. Không chỉ những tùy chọn của chủ "
+"đề hiện tại."
+
+#: pdiff.cpp:83
+#, kde-format
+msgid "PreprocessorCmd: "
+msgstr "Lệnh tiền xử lý:"
+
+#: pdiff.cpp:85
+#, kde-format
+msgid "The following option(s) you selected might change data:\n"
+msgstr "Tùy chọn(s) sau đây bạn đã chọn có thể thay đổi dữ liệu:\n"
+
+#: pdiff.cpp:86
+#, kde-format
+msgid ""
+"\n"
+"Most likely this is not wanted during a merge.\n"
+"Do you want to disable these settings or continue with these settings active?"
+msgstr ""
+"\nRất có thể bạn không muốn điều này xảy ra trong quá trình trộn.\nBạn có "
+"muốn vô hiệu hóa những thiết lập này hay tiếp tục với những thiết lập này "
+"đang hoạt động?"
+
+#: pdiff.cpp:88
+#, kde-format
+msgid "Option Unsafe for Merging"
+msgstr "Lựa chọn không an toàn để hợp nhất"
+
+#: pdiff.cpp:89
+#, kde-format
+msgid "Use These Options During Merge"
+msgstr "Sử Dụng Các Tùy Chọn Này Trong Khi Trộn"
+
+#: pdiff.cpp:90
+#, kde-format
+msgid "Disable Unsafe Options"
+msgstr "Vô hiệu hóa Tùy chọn Không an toàn"
+
+#: pdiff.cpp:122
+#, kde-format
+msgctxt "Status message"
+msgid "Loading A: %1"
+msgstr "Đang tải A: %1"
+
+#: pdiff.cpp:132
+#, kde-format
+msgctxt "Status message"
+msgid "Loading B: %1"
+msgstr "Đang tải B: %1"
+
+#: pdiff.cpp:165 pdiff.cpp:205
+#, kde-format
+msgctxt "Status message"
+msgid "Diff: A <-> B"
+msgstr "Khác biệt: A <-> B"
+
+#: pdiff.cpp:171 pdiff.cpp:251 pdiff.cpp:274
+#, kde-format
+msgctxt "Status message"
+msgid "Linediff: A <-> B"
+msgstr "Linediff: A <-> B"
+
+#: pdiff.cpp:190
+#, kde-format
+msgctxt "Status message"
+msgid "Loading C: %1"
+msgstr "Đang tải C: %1"
+
+#: pdiff.cpp:216
+#, kde-format
+msgctxt "Status message"
+msgid "Diff: A <-> C"
+msgstr "Khác biệt: A <-> C"
+
+#: pdiff.cpp:229
+#, kde-format
+msgctxt "Status message"
+msgid "Diff: B <-> C"
+msgstr "Khác biệt: B <-> C"
+
+#: pdiff.cpp:257 pdiff.cpp:279
+#, kde-format
+msgctxt "Status message"
+msgid "Linediff: B <-> C"
+msgstr "Linediff: B <-> C"
+
+#: pdiff.cpp:263 pdiff.cpp:284
+#, kde-format
+msgctxt "Status message"
+msgid "Linediff: A <-> C"
+msgstr "Linediff: A <-> C"
+
+#: pdiff.cpp:310
+#, kde-format
+msgctxt "Error message"
+msgid "Not enough memory to complete request."
+msgstr "Không đủ bộ nhớ để hoàn tất yêu cầu."
+
+#: pdiff.cpp:317
+#, kde-format
+msgid "An internal error occurred: %1"
+msgstr "Đã xảy ra lỗi nội bộ: %1"
+
+#: pdiff.cpp:344
+#, kde-format
+msgid "Too many lines in diff. Skipping file."
+msgstr "Quá nhiều dòng trong diff. Bỏ qua tệp."
+
+#: pdiff.cpp:595
+#, kde-format
+msgid "All input files contain the same text, but are not binary equal."
+msgstr ""
+"Tất cả các tệp đầu vào chứa cùng một văn bản, nhưng không bằng nhau về mặt "
+"nhị phân."
+
+#: pdiff.cpp:601 pdiff.cpp:605 pdiff.cpp:609
+#, kde-format
+msgid "Files %1 and %2 have equal text, but are not binary equal. \n"
+msgstr ""
+"Các tệp %1 và %2 có nội dung văn bản giống nhau, nhưng không giống nhau về "
+"mặt nhị phân. \n"
+
+#: pdiff.cpp:619
+#, kde-format
+msgid ""
+"Some input files do not seem to be pure text files.\n"
+"Note that the KDiff3 merge was not meant for binary data.\n"
+"Continue at your own risk."
+msgstr ""
+"Một số tệp đầu vào dường như không phải là tệp văn bản thuần túy.\nLưu ý "
+"rằng việc trộn của KDiff3 không được thiết kế để xử lý dữ liệu nhị "
+"phân.\nHãy tiếp tục với rủi ro của riêng bạn."
+
+#: pdiff.cpp:629
+#, kde-format
+msgid ", B"
+msgstr ", B"
+
+#: pdiff.cpp:631
+#, kde-format
+msgid ", C"
+msgstr ", C"
+
+#: pdiff.cpp:633
+#, kde-format
+msgid ""
+"Some input characters could not be converted to valid unicode.\n"
+"You might be using the wrong codec. (e.g. UTF-8 for non UTF-8 files).\n"
+"Do not save the result if unsure. Continue at your own risk.\n"
+"Affected input files are in %1."
+msgstr ""
+"Một số ký tự đầu vào không thể được chuyển đổi thành mã Unicode hợp "
+"lệ.\nBạn có thể đang sử dụng bộ mã không đúng. (ví dụ: UTF-8 cho các tệp "
+"không phải UTF-8).\nKhông lưu kết quả nếu không chắc chắn. Tiếp tục với rủi "
+"ro của riêng bạn.\nCác tệp đầu vào bị ảnh hưởng nằm trong %1."
+
+#: pdiff.cpp:719
+#, kde-format
+msgid "Abort"
+msgstr "Huỷ bỏ"
+
+#: pdiff.cpp:720
+#, kde-format
+msgid "Continue Merging"
+msgstr "Tiếp tục Hợp nhất"
+
+#: pdiff.cpp:725 pdiff.cpp:816
+#, kde-format
+msgid "Opening files..."
+msgstr "Đang mở tệp..."
+
+#: pdiff.cpp:905
+#, kde-format
+msgid "Cutting selection..."
+msgstr "Đang cắt lựa chọn..."
+
+#: pdiff.cpp:912
+#, kde-format
+msgid "Copying selection to clipboard..."
+msgstr "Đang sao chép phần bôi đen vào bộ nhớ tạm..."
+
+#: pdiff.cpp:921
+#, kde-format
+msgid "Inserting clipboard contents..."
+msgstr "Đang chèn nội dung từ bảng nháp..."
+
+#: pdiff.cpp:1006
+#, kde-format
+msgid "Ok"
+msgstr "Đồng ý"
+
+#: pdiff.cpp:1022
+#, kde-format
+msgid "Go to Line"
+msgstr "Đi đến dòng"
+
+#: pdiff.cpp:1284
+#, kde-format
+msgid "Word wrap (Cancel disables word wrap)"
+msgstr "Bọc văn bản (Hủy bỏ sẽ vô hiệu hóa bọc văn bản)"
+
+#: pdiff.cpp:1284
+#, kde-format
+msgid "Calculating max width for horizontal scrollbar"
+msgstr "Đang tính toán chiều rộng tối đa cho thanh cuộn ngang"
+
+#: pdiff.cpp:1507
+#, kde-format
+msgid "Save && Continue"
+msgstr "Lưu và Tiếp tục"
+
+#: pdiff.cpp:1508
+#, kde-format
+msgid "Continue Without Saving"
+msgstr "Tiếp tục mà không lưu"
+
+#: pdiff.cpp:1699
+#, kde-format
+msgid "Search complete."
+msgstr "Tìm kiếm hoàn tất."
+
+#: pdiff.cpp:1699
+#, kde-format
+msgid "Search Complete"
+msgstr "Tìm kiếm hoàn tất"
+
+#: pdiff.cpp:1880
+#, kde-format
+msgid "Nothing is selected in either diff input window."
+msgstr "Không có gì được chọn trong cả hai cửa sổ đầu vào phần chênh."
+
+#: pdiff.cpp:1880
+#, kde-format
+msgid "Error while adding manual diff range"
+msgstr "Lỗi khi thêm phạm vi chênh lệch sổ tay"
+
+#. i18n: ectx: property (text), widget (QPushButton, abortButton)
+#: progress.cpp:56 progressdialog.ui:100
+#, kde-format
+msgid "&Cancel"
+msgstr "&Huỷ"
+
+#: smalldialogs.cpp:81 smalldialogs.cpp:82 smalldialogs.cpp:83
+#, kde-format
+msgid "Swap %1<->%2"
+msgstr "Hoán đổi %1<->%2"
+
+#: smalldialogs.cpp:84 smalldialogs.cpp:85 smalldialogs.cpp:86
+#, kde-format
+msgid "Copy %1->Output"
+msgstr "Sao chép %1->Đầu ra"
+
+#: smalldialogs.cpp:87 smalldialogs.cpp:88 smalldialogs.cpp:89
+#, kde-format
+msgid "Swap %1<->Output"
+msgstr "Hoán đổi %1<->Đầu ra"
+
+#: smalldialogs.cpp:108
+#, kde-format
+msgid "Configure..."
+msgstr "Cấu hình..."
+
+#: smalldialogs.cpp:161
+#, kde-format
+msgid "Open Folder"
+msgstr "Mở Thư Mục"
+
+#: smalldialogs.cpp:162
+#, kde-format
+msgid "Select Output File"
+msgstr "Chọn Tệp Đầu Ra"
+
+#: smalldialogs.cpp:309
+#, kde-format
+msgid "Search text:"
+msgstr "Tìm kiếm văn bản:"
+
+#: smalldialogs.cpp:316
+#, kde-format
+msgid "Case sensitive"
+msgstr "Phân biệt chữ hoa chữ thường"
+
+#: smalldialogs.cpp:319
+#, kde-format
+msgid "Search A"
+msgstr "Tìm kiếm A"
+
+#: smalldialogs.cpp:324
+#, kde-format
+msgid "Search B"
+msgstr "Tìm kiếm B"
+
+#: smalldialogs.cpp:329
+#, kde-format
+msgid "Search C"
+msgstr "Tìm kiếm C"
+
+#: smalldialogs.cpp:334
+#, kde-format
+msgid "Search output"
+msgstr "Tìm kiếm kết quả"
+
+#: smalldialogs.cpp:341
+#, kde-format
+msgid "&Search"
+msgstr "&Tìm kiếm"
+
+#: smalldialogs.cpp:367
+#, kde-format
+msgid "Regular Expression Tester"
+msgstr "Trình kiểm tra biểu thức chính quy"
+
+#: smalldialogs.cpp:380
+#, kde-format
+msgid "Example auto merge line:"
+msgstr "Ví dụ về dòng tự động trộn:"
+
+#: smalldialogs.cpp:382
+#, kde-format
+msgctxt "Tool Tip"
+msgid "To test auto merge, copy a line as used in your files."
+msgstr ""
+"Để kiểm thử tự động sáp nhập, hãy sao chép một dòng như được sử dụng trong "
+"các tệp của bạn."
+
+#: smalldialogs.cpp:388 smalldialogs.cpp:416 smalldialogs.cpp:452
+#, kde-format
+msgid "Match result:"
+msgstr "Kết quả khớp:"
+
+#: smalldialogs.cpp:407
+#, kde-format
+msgid "Example history start line (with leading comment):"
+msgstr "Ví dụ về dòng khởi động lịch sử (với nhận xét dẫn đầu):"
+
+#: smalldialogs.cpp:409
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"Copy a history start line as used in your files,\n"
+"including the leading comment."
+msgstr ""
+"Sao chép một dòng khởi động lịch sử được sử dụng trong các tệp của "
+"bạn,\nbao gồm cả nhận xét đầu dòng."
+
+#: smalldialogs.cpp:435
+#, kde-format
+msgid "History sort key order:"
+msgstr "Thứ tự sắp xếp khóa lịch sử:"
+
+#: smalldialogs.cpp:443
+#, kde-format
+msgid "Example history entry start line (without leading comment):"
+msgstr "Ví dụ về dòng bắt đầu mục nhập lịch sử (không có dòng bình luận đầu tiên):"
+
+#: smalldialogs.cpp:445
+#, kde-format
+msgctxt "Tool Tip"
+msgid ""
+"Copy a history entry start line as used in your files,\n"
+"but omit the leading comment."
+msgstr ""
+"Sao chép một dòng đầu vào lịch sử như được sử dụng trong các tệp của "
+"bạn,\nnhưng bỏ qua phần bình luận đầu dòng."
+
+#: smalldialogs.cpp:459
+#, kde-format
+msgid "Sort key result:"
+msgstr "Kết quả sắp xếp:"
+
+#: smalldialogs.cpp:509 smalldialogs.cpp:521 smalldialogs.cpp:542
+#, kde-format
+msgid "Match success."
+msgstr "Kết quả khớp."
+
+#: smalldialogs.cpp:513 smalldialogs.cpp:525 smalldialogs.cpp:548
+#, kde-format
+msgid "Match failed."
+msgstr "Không tìm thấy khớp."
+
+#: smalldialogs.cpp:532
+#, kde-format
+msgid "Opening and closing parentheses do not match in regular expression."
+msgstr "Dấu ngoặc mở và đóng không khớp trong biểu thức chính quy."
+
+#: SourceData.cpp:151
+#, kde-format
+msgid "Writing clipboard data to temp file failed."
+msgstr "Ghi dữ liệu bảng nháp vào tệp tạm thất bại."
+
+#: SourceData.cpp:156
+#, kde-format
+msgid "From Clipboard"
+msgstr "Từ bảng nháp"
+
+#: SourceData.cpp:344
+#, kde-format
+msgid "%1 is not a normal file."
+msgstr "%1 không phải là một tệp tin bình thường."
+
+#: SourceData.cpp:379
+#, kde-format
+msgctxt "Error message. %1 = filepath"
+msgid "File %1 too large to process. Skipping."
+msgstr "Tệp %1 quá lớn để xử lý. Đang bỏ qua."
+
+#: SourceData.cpp:408
+#, kde-format
+msgid "    Temp file is: %1"
+msgstr "    Tệp tạm là: %1"
+
+#: SourceData.cpp:446
+#, kde-format
+msgid ""
+"Preprocessing possibly failed. Check this command:\n"
+"\n"
+"  %1\n"
+"\n"
+"The preprocessing command will be disabled now."
+msgstr ""
+"Tiền xử lý có thể đã thất bại. Hãy kiểm tra lệnh này:\n\n  %1\n\nLệnh tiền "
+"xử lý sẽ bị tắt ngay bây giờ."
+
+#: SourceData.cpp:509
+#, kde-format
+msgid ""
+"The line-matching-preprocessing possibly failed. Check this command:\n"
+"\n"
+"  %1\n"
+"\n"
+"The line-matching-preprocessing command will be disabled now."
+msgstr ""
+"Việc tiền xử lý khớp dòng có thể đã thất bại. Hãy kiểm tra lệnh này:\n\n  "
+"%1\n\nLệnh tiền xử lý khớp dòng sẽ bị tắt ngay bây giờ."
+
+#: SourceData.cpp:515
+#, kde-format
+msgctxt "Read error message. %1 = filepath"
+msgid "Failed to read file: %1"
+msgstr "Không thể đọc tệp: %1"
+
+#: StandardMenus.cpp:23
+#, kde-format
+msgid "Opens documents for comparison..."
+msgstr "Mở tài liệu để so sánh..."
+
+#: StandardMenus.cpp:25
+#, kde-format
+msgid "Reload"
+msgstr "Tải lại"
+
+#: StandardMenus.cpp:28
+#, kde-format
+msgid "Saves the merge result. All conflicts must be solved!"
+msgstr "Lưu kết quả trộn. Tất cả xung đột phải được giải quyết!"
+
+#: StandardMenus.cpp:30
+#, kde-format
+msgid "Saves the current document as..."
+msgstr "Lưu tài liệu hiện tại với tên mới..."
+
+#: StandardMenus.cpp:33
+#, kde-format
+msgid "Print the differences"
+msgstr "In ra các khác biệt"
+
+#: StandardMenus.cpp:36
+#, kde-format
+msgid "Quits the application"
+msgstr "Thoát khỏi ứng dụng"
+
+#: StandardMenus.cpp:40
+#, kde-format
+msgid "Undo last action."
+msgstr "Đảo ngược hành động cuối cùng."
+
+#: StandardMenus.cpp:44
+#, kde-format
+msgid "Cuts the selected section and puts it to the clipboard"
+msgstr "Cắt khu vực đã chọn và đặt nó vào bảng nháp"
+
+#: StandardMenus.cpp:47
+#, kde-format
+msgid "Copies the selected section to the clipboard"
+msgstr "Sao chép khu vực đã chọn vào bảng nháp"
+
+#: StandardMenus.cpp:49
+#, kde-format
+msgid "Pastes the clipboard contents to current position"
+msgstr "Dán nội dung của bảng nháp vào vị trí hiện tại"
+
+#: StandardMenus.cpp:52
+#, kde-format
+msgid "Select everything in current window"
+msgstr "Bôi đen tất cả trong cửa sổ hiện tại"
+
+#: Utils.cpp:69
+#, kde-format
+msgid "Expecting space after closing quote."
+msgstr "Đang mong đợi khoảng trắng sau dấu ngoặc kép đóng."
+
+#: Utils.cpp:72
+#, kde-format
+msgid "Unmatched quote."
+msgstr "Dấu ngoặc kép không khớp."
+
+#: Utils.cpp:81
+#, kde-format
+msgid "Unexpected quote character within argument."
+msgstr "Chữ trích dẫn bất ngờ trong đối số."
+
+#: Utils.cpp:88
+#, kde-format
+msgid "No program specified."
+msgstr "Không có chương trình được chỉ định."

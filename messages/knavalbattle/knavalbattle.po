@@ -29,40 +29,40 @@ msgid "Your emails"
 msgstr "scorpionfirevn@operamail.com"
 
 #: controller.cpp:50
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Computer Player"
 msgid "Computer"
-msgstr "Máy chơi"
+msgstr "Máy tính"
 
 #. i18n: ectx: label, entry (Hostname), group (network)
 #: knavalbattle.kcfg:9
 #, kde-format
 msgid "Default hostname for multiplayer games."
-msgstr ""
+msgstr "Tên máy chủ mặc định cho các trò chơi đa người chơi."
 
 #. i18n: ectx: label, entry (Port), group (network)
 #: knavalbattle.kcfg:13
 #, kde-format
 msgid "Default port for multiplayer games."
-msgstr ""
+msgstr "Cổng mặc định cho các trò chơi nhiều người chơi."
 
 #. i18n: ectx: label, entry (Nickname), group (general)
 #: knavalbattle.kcfg:19
-#, fuzzy, kde-format
+#, kde-format
 msgid "User nickname."
-msgstr "Biệt danh:"
+msgstr "Biệt danh người dùng."
 
 #. i18n: ectx: label, entry (EnableSounds), group (general)
 #: knavalbattle.kcfg:22
 #, kde-format
 msgid "Whether sound effects should be played."
-msgstr ""
+msgstr "Liệu hiệu ứng âm thanh có nên được phát."
 
 #. i18n: ectx: label, entry (AdjacentShips), group (general)
 #: knavalbattle.kcfg:26
 #, kde-format
 msgid "Allow the ships to be adjacent without one empty space between them."
-msgstr ""
+msgstr "Cho phép các tàu được sát nhau mà không cần có một khoảng trống giữa chúng."
 
 #. i18n: ectx: label, entry (SeveralShips), group (general)
 #: knavalbattle.kcfg:30
@@ -70,22 +70,24 @@ msgstr ""
 msgid ""
 "Allow multiple ships of any size, default: 4 of 1, 3 of 2, 2 of 3, 1 of 4."
 msgstr ""
+"Cho phép nhiều tàu của bất kỳ kích thước nào, mặc định: 4 tàu cỡ 1, 3 tàu "
+"cỡ 2, 2 tàu cỡ 3, 1 tàu cỡ 4."
 
 #. i18n: ectx: ToolBar (gameToolbar)
 #: knavalbattleui.rc:29
 #, kde-format
 msgid "Game Toolbar"
-msgstr ""
+msgstr "Thanh công cụ bàn chơi"
 
 #: main.cpp:30
 #, kde-format
 msgid "Naval Battle"
-msgstr ""
+msgstr "Trận Hải Chiến"
 
 #: main.cpp:32
 #, kde-format
 msgid "The KDE ship sinking game"
-msgstr ""
+msgstr "Trò chơi đắm tàu KDE"
 
 #: main.cpp:33
 #, kde-format
@@ -93,44 +95,46 @@ msgid ""
 "(c) 2000-2005  Nikolas Zimmermann, Daniel Molkentin\n"
 "(c) 2007 Paolo Capriotti"
 msgstr ""
+"(c) 2000-2005  Nikolas Zimmermann, Daniel Molkentin\n(c) 2007 Paolo "
+"Capriotti"
 
 #: main.cpp:38
 #, kde-format
 msgid "Paolo Capriotti"
-msgstr ""
+msgstr "Paolo Capriotti"
 
 #: main.cpp:38
-#, fuzzy, kde-format
+#, kde-format
 msgid "Current maintainer"
-msgstr "Đặc điểm nhận diện máy khách:"
+msgstr "Bảo trì viên hiện tại"
 
 #: main.cpp:39
 #, kde-format
 msgid "Nikolas Zimmermann"
-msgstr ""
+msgstr "Nikolas Zimmermann"
 
 #: main.cpp:39
 #, kde-format
 msgid "Project Founder, GUI Handling, Client/Server"
-msgstr ""
+msgstr "Người sáng lập dự án, Xử lý GUI, Máy khách/Máy chủ"
 
 #: main.cpp:40
 #, kde-format
 msgid "Daniel Molkentin"
-msgstr ""
+msgstr "Daniel Molkentin"
 
 #: main.cpp:40
 #, kde-format
 msgid "Dialog Stuff, Client/Server"
-msgstr ""
+msgstr "Hộp thoại, Máy khách/Máy chủ"
 
 #: main.cpp:41
 #, kde-format
 msgid "Kevin Krammer"
-msgstr ""
+msgstr "Kevin Krammer"
 
 #: main.cpp:41
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Computer Player"
 msgid "Computer Player"
 msgstr "Máy chơi"
@@ -138,47 +142,47 @@ msgstr "Máy chơi"
 #: main.cpp:43
 #, kde-format
 msgid "Johann Ollivier Lapeyre"
-msgstr ""
+msgstr "Johann Ollivier Lapeyre"
 
 #: main.cpp:43
 #, kde-format
 msgid "Game artwork"
-msgstr ""
+msgstr "Hình ảnh bàn chơi"
 
 #: main.cpp:44
 #, kde-format
 msgid "Eugene Trounev"
-msgstr ""
+msgstr "Eugene Trounev"
 
 #: main.cpp:44
 #, kde-format
 msgid "Background"
-msgstr ""
+msgstr "Nền"
 
 #: main.cpp:45
 #, kde-format
 msgid "Robert Wadley"
-msgstr ""
+msgstr "Robert Wadley"
 
 #: main.cpp:45
 #, kde-format
 msgid "Artwork for some of the ships"
-msgstr ""
+msgstr "Hình ảnh của một số tàu"
 
 #: main.cpp:46
 #, kde-format
 msgid "Riccardo Iaconelli"
-msgstr ""
+msgstr "Riccardo Iaconelli"
 
 #: main.cpp:46
 #, kde-format
 msgid "Welcome screen"
-msgstr ""
+msgstr "Màn hình chào mừng"
 
 #: main.cpp:47
 #, kde-format
 msgid "Benjamin Adler"
-msgstr ""
+msgstr "Benjamin Adler"
 
 #: main.cpp:47
 #, kde-format
@@ -188,7 +192,7 @@ msgstr "Biểu tượng"
 #: main.cpp:48
 #, kde-format
 msgid "Nils Trzebin"
-msgstr ""
+msgstr "Nils Trzebin"
 
 #: main.cpp:48
 #, kde-format
@@ -198,7 +202,7 @@ msgstr "Âm thanh"
 #: main.cpp:49
 #, kde-format
 msgid "Elmar Hoefner"
-msgstr ""
+msgstr "Elmar Hoefner"
 
 #: main.cpp:49
 #, kde-format
@@ -208,7 +212,7 @@ msgstr "GFX"
 #: main.cpp:50
 #, kde-format
 msgid "Lukas Tinkl"
-msgstr ""
+msgstr "Lukas Tinkl"
 
 #: main.cpp:50
 #, kde-format
@@ -218,7 +222,7 @@ msgstr "Hỗ trợ Non-Latin1"
 #: main.cpp:51
 #, kde-format
 msgid "Malte Starostik"
-msgstr ""
+msgstr "Malte Starostik"
 
 #: main.cpp:51
 #, kde-format
@@ -228,201 +232,201 @@ msgstr "Sự cải tiến khác"
 #: main.cpp:52
 #, kde-format
 msgid "Albert Astals Cid"
-msgstr ""
+msgstr "Albert Astals Cid"
 
 #: main.cpp:52 main.cpp:53
-#, fuzzy, kde-format
+#, kde-format
 msgid "Various improvements and bugfixes"
-msgstr "Sự cải tiến khác"
+msgstr "Các cải tiến và sửa lỗi khác"
 
 #: main.cpp:53
 #, kde-format
 msgid "John Tapsell"
-msgstr ""
+msgstr "John Tapsell"
 
 #: main.cpp:54
 #, kde-format
 msgid "Inge Wallin"
-msgstr ""
+msgstr "Inge Wallin"
 
 #: main.cpp:54
 #, kde-format
 msgid "Bugfixes and refactoring"
-msgstr ""
+msgstr "Sửa lỗi và cải tiến lại"
 
 #: main.cpp:55
 #, kde-format
 msgid "Jakub Stachowski"
-msgstr ""
+msgstr "Jakub Stachowski"
 
 #: main.cpp:55
 #, kde-format
 msgid "DNS-SD discovery"
-msgstr ""
+msgstr "Khám phá DNS-SD"
 
 #: main.cpp:56
 #, kde-format
 msgid "Roney Gomes"
-msgstr ""
+msgstr "Roney Gomes"
 
 #: main.cpp:56
 #, kde-format
 msgid "Porting to KGameRenderer and QGraphicsView"
-msgstr ""
+msgstr "Chuyển sang KGameRenderer và QGraphicsView"
 
 #: main.cpp:63
 #, kde-format
 msgid "[URL]"
-msgstr ""
+msgstr "[URL]"
 
 #: main.cpp:63
 #, kde-format
 msgid "URL of a Naval Battle game server to connect to after startup"
-msgstr ""
+msgstr "Kết nối với máy chủ bàn chơi Trận Hải Chiến sau khi khởi động"
 
 #: mainwindow.cpp:59
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "S&ingle Player"
 msgctxt "@action"
 msgid "&Single Player"
-msgstr "&Chơi đơn"
+msgstr "Chơi đơ&n"
 
 #: mainwindow.cpp:63
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action"
 msgid "&Host Game…"
-msgstr "&Dừng trò chơi"
+msgstr "Tạo &trò chơi..."
 
 #: mainwindow.cpp:67
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action"
 msgid "&Connect to Game…"
-msgstr "&Kết nối tới máy chủ"
+msgstr "Kế&t nối tới trò chơi..."
 
 #: mainwindow.cpp:72
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action"
 msgid "Change &Nickname…"
-msgstr "Biệt danh:"
+msgstr "Tha&y đổi biệt danh..."
 
 #: mainwindow.cpp:76
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Play Sounds"
 msgctxt "@option:check"
 msgid "Play Sounds"
-msgstr "&Chơi nhạc"
+msgstr "Phát Âm Thanh"
 
 #: mainwindow.cpp:81
 #, kde-format
 msgctxt "@option:check"
 msgid "&Adjacent Ships"
-msgstr ""
+msgstr "Tà&u liền kề"
 
 #: mainwindow.cpp:86
 #, kde-format
 msgctxt "@option:check"
 msgid "&Multiple Ships"
-msgstr ""
+msgstr "N&hiều tàu"
 
 #: mainwindow.cpp:91
 #, kde-format
 msgctxt "@option:check"
 msgid "Show End-of-Game Message"
-msgstr ""
+msgstr "Hiển thị Thông Điệp Kết Thúc Trò Chơi"
 
 #: mainwindow.cpp:96
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Show Grid"
 msgctxt "@option:check"
 msgid "Show &Left Grid"
-msgstr "&Hiện ô lưới"
+msgstr "Hiện &Lưới Bên Trái"
 
 #: mainwindow.cpp:100
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Show Grid"
 msgctxt "@option:check"
 msgid "Show &Right Grid"
-msgstr "&Hiện ô lưới"
+msgstr "H&iện Lưới Bên Phải"
 
 #: networkdialog.cpp:61
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Nickname:"
-msgstr "Biệt danh:"
+msgstr "Biệt &danh:"
 
 #: networkdialog.cpp:73
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "S&ingle game"
 msgid "&Join game:"
-msgstr "C&hơi đơn"
+msgstr "T&ham gia trò chơi:"
 
 #: networkdialog.cpp:88
 #, kde-format
 msgid "&Hostname:"
-msgstr ""
+msgstr "Tên máy &chủ:"
 
 #: networkdialog.cpp:101 networkdialog.cpp:131
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Port:"
-msgstr "Cổng:"
+msgstr "Cổ&ng:"
 
 #: networkdialog.cpp:116
 #, kde-format
 msgctxt "@action:button"
 msgid "&Enter Server Address Manually"
-msgstr ""
+msgstr "N&hập địa chỉ máy chủ thủ công"
 
 #: networkdialog.cpp:148
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connect to Server"
 msgctxt "@title:window"
 msgid "Network Parameters"
-msgstr "Kết nối tới máy chủ"
+msgstr "Thông số mạng"
 
 #: networkdialog.cpp:210
-#, fuzzy, kde-format
+#, kde-format
 msgid "Connecting to remote host…"
-msgstr "Kết nối bị từ chối bởi người điều hành trận đấu khác!"
+msgstr "Đang kết nối với máy chủ ở xa..."
 
 #: networkdialog.cpp:217
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Waiting for an answer..."
 msgid "Waiting for an incoming connection…"
-msgstr "Đang đợi trả lời..."
+msgstr "Đang chờ kết nối đến..."
 
 #: networkdialog.cpp:236
-#, fuzzy, kde-format
+#, kde-format
 msgid "Could not connect to host"
-msgstr "Không thể kết nối tới máy chủ!"
+msgstr "Không thể kết nối tới máy chủ"
 
 #: networkentity.cpp:189
 #, kde-format
 msgid "You have "
-msgstr ""
+msgstr "Bạn có "
 
 #: networkentity.cpp:195
 #, kde-format
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: networkentity.cpp:288
-#, fuzzy, kde-format
+#, kde-format
 msgid "You can place ships adjacent to each other"
-msgstr "Bạn không thể đặt tàu ở đây."
+msgstr "Bạn có thể đặt các tàu cạnh nhau"
 
 #: networkentity.cpp:291
 #, kde-format
 msgid "You must leave a space between ships"
-msgstr ""
+msgstr "Bạn phải để một khoảng trống giữa các tàu"
 
 #: playerentity.cpp:199
 #, kde-format
 msgid "Your opponent is now known as %1"
-msgstr ""
+msgstr "Đối thủ của bạn bây giờ được biết đến là %1"
 
 #: playerentity.cpp:204
 #, kde-format
 msgid "Your opponent disconnected from the game"
-msgstr ""
+msgstr "Đối thủ của bạn đã ngắt kết nối khỏi bàn chơi"
 
 #: playfield.cpp:149 playfield.cpp:169
 #, kde-format
@@ -437,63 +441,63 @@ msgstr "Trúng"
 #: playfield.cpp:151 playfield.cpp:171
 #, kde-format
 msgid "Misses"
-msgstr ""
+msgstr "Lỗi"
 
 #: playfield.cpp:191
 #, kde-format
 msgid "You win!"
-msgstr ""
+msgstr "Bạn đã thắng!"
 
 #: playfield.cpp:193
 #, kde-format
 msgid "You win. Excellent!"
-msgstr ""
+msgstr "Bạn thắng. Tuyệt vời!"
 
 #: playfield.cpp:197
-#, fuzzy, kde-format
+#, kde-format
 msgid "You lose."
-msgstr "Bạn thua rồi :("
+msgstr "Bạn thua rồi."
 
 #: playfield.cpp:199
 #, kde-format
 msgid "You lose. Better luck next time!"
-msgstr ""
+msgstr "Bạn đã thua. Chúc may mắn lần sau!"
 
 #: playfield.cpp:209
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:window"
 msgid "Change Nickname"
-msgstr "Biệt danh:"
+msgstr "Thay đổi biệt danh"
 
 #: playfield.cpp:209
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@label:textbox"
 msgid "Enter new nickname:"
-msgstr "Biệt danh:"
+msgstr "Nhập biệt danh mới:"
 
 #: playfield.cpp:238
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Start Game"
 msgctxt "@title:window"
 msgid "Restart Game"
-msgstr "Bắt đầu trò chơi"
+msgstr "Khởi động lại bàn chơi"
 
 #: playfield.cpp:239
-#, fuzzy, kde-format
+#, kde-format
 msgid "Your opponent has requested to restart the game. Do you accept?"
-msgstr "Máy khách yêu cầu chơi lại. Bạn chấp nhận không?"
+msgstr "Đối thủ của bạn đã yêu cầu chơi lại trò chơi. Bạn chấp nhận không?"
 
 #: playfield.cpp:240
 #, kde-format
 msgctxt "@action:button"
 msgid "Accept"
-msgstr ""
+msgstr "Chấp nhận"
 
 #: playfield.cpp:241
 #, kde-format
 msgctxt "@action:button"
 msgid "Reject"
-msgstr ""
+msgstr "Từ chối"
 
 #: playfield.cpp:250
 #, kde-format
@@ -502,14 +506,17 @@ msgid ""
 "according to the rules enforced by old clients, ships cannot be placed "
 "adjacent to one another and only one ship of each size is allowed."
 msgstr ""
+"Đối thủ của bạn đang sử dụng phiên bản Naval Battle trước KDE4. Lưu ý rằng, "
+"theo các quy tắc được thực thi bởi các ứng dụng cũ, các tàu không thể được "
+"đặt cạnh nhau và chỉ được phép có một tàu của mỗi kích cỡ."
 
 #: playfield.cpp:263
-#, fuzzy, kde-format
+#, kde-format
 msgid "Enemy has shot. Shoot now!"
-msgstr "Đối phương đã bắn. Bây giờ bạn hãy bắn "
+msgstr "Đối phương đã bắn. Bây giờ bạn hãy bắn!"
 
 #: playfield.cpp:267
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Waiting for enemy to shoot.."
 msgid "Waiting for enemy to shoot…"
 msgstr "Đang đợi địch bắn..."
@@ -517,45 +524,44 @@ msgstr "Đang đợi địch bắn..."
 #: playfield.cpp:276
 #, kde-format
 msgid "Ships placed. Now shoot on the enemy field!"
-msgstr ""
+msgstr "Đã đặt tàu. Bây giờ hãy bắn vào trường địch!"
 
 #: playfield.cpp:279
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Waiting for other player to start the match..."
 msgid "Waiting for other player to start the game…"
-msgstr "Đang đợi người khác khởi động trận chiến..."
+msgstr "Đang đợi người chơi khác khởi động trò chơi..."
 
 #: playfield.cpp:283
-#, fuzzy, kde-format
+#, kde-format
 msgid "Waiting for other player to place his ships…"
-msgstr "Đang đợi người khác đặt tàu chiến..."
+msgstr "Đang đợi người chơi khác đặt tàu chiến của họ..."
 
 #: playfield.cpp:297
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "Please place your ships. Use the \"Shift\" key to place the ships "
 #| "vertically."
 msgid "Place your %1 ships. Use the right mouse button to rotate them."
-msgstr ""
-"Xin hãy bố trí đội tàu của bạn. Dùng phím \"Shift\" để đặt tàu thẳng đứng."
+msgstr "Hãy đặt %1 tàu của bạn. Sử dụng nút chuột phải để xoay chúng."
 
 #: playfield.cpp:303
 #, kde-format
 msgid "You can't place your remaining ships."
-msgstr ""
+msgstr "Bạn không thể đặt những tàu còn lại của mình."
 
 #: playfield.cpp:304
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Start Game"
 msgctxt "@action:button"
 msgid "Restart"
-msgstr "Bắt đầu trò chơi"
+msgstr "Khởi động lại"
 
 #: playfield.cpp:305
 #, kde-format
 msgctxt "@action:button"
 msgid "Abort"
-msgstr ""
+msgstr "Huỷ bỏ"
 
 #: playfield.cpp:307
 #, kde-format
@@ -563,39 +569,41 @@ msgid ""
 "You can't place your remaining ships. Please restart placing ships or abort "
 "game"
 msgstr ""
+"Bạn không thể đặt những tàu còn lại của mình. Vui lòng khởi động lại việc "
+"đặt tàu hoặc huỷ bỏ bàn chơi"
 
 #: playfield.cpp:308
 #, kde-format
 msgctxt "@title:window"
 msgid "Restart Placing Ships"
-msgstr ""
+msgstr "Khởi động lại Đặt Tàu"
 
 #: simplemenu.cpp:40
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "S&ingle Player"
 msgctxt "@action:button"
 msgid "Single Player"
-msgstr "&Chơi đơn"
+msgstr "Chơi đơn"
 
 #: simplemenu.cpp:41
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connect to Server"
 msgctxt "@action:button"
 msgid "Host Network Game"
-msgstr "Kết nối tới máy chủ"
+msgstr "Tạo Trò Chơi Mạng"
 
 #: simplemenu.cpp:42
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connect to Server"
 msgctxt "@action:button"
 msgid "Connect to Network Game"
-msgstr "Kết nối tới máy chủ"
+msgstr "Kết nối tới Bàn Chơi Mạng"
 
 #: simplemenu.cpp:132 simplemenu.cpp:149
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "S&ingle Player"
 msgid "Remote player"
-msgstr "&Chơi đơn"
+msgstr "Người chơi từ xa"
 
 #, fuzzy
 #~ msgid "Change &Nickname..."

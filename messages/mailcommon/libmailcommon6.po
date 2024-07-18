@@ -1,0 +1,2983 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the mailcommon package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: mailcommon\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-04 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: collectionpage/collectionexpirypage.cpp:23
+#, kde-format
+msgctxt "@title:tab Expiry settings for a folder."
+msgid "Expiry"
+msgstr "Hết hạn"
+
+#: collectionpage/collectionexpirywidget.cpp:35
+#, kde-format
+msgctxt "Expire messages after %1"
+msgid " day"
+msgid_plural " days"
+msgstr[0] " ngày"
+
+#: collectionpage/collectionexpirywidget.cpp:36
+#: collectionpage/collectionexpirywidget.cpp:42
+#: collectionpage/collectionexpirywidget.cpp:54
+#, kde-format
+msgid "Never"
+msgstr "Không bao giờ"
+
+#: collectionpage/collectionexpirywidget.cpp:66
+#, kde-format
+msgctxt "@action:button"
+msgid "Save Settings and Expire Now"
+msgstr "Lưu Thiết Lập và Hết Hạn Ngay"
+
+#: collectionpage/collectionexpirywidget.cpp:67
+#, kde-format
+msgid "Expire messages with invalid date"
+msgstr "Hết hạn các tin nhắn có ngày không hợp lệ"
+
+#: collectionpage/collectionexpirywidget.cpp:73
+#, kde-format
+msgid "Expire read messages after:"
+msgstr "Hết hạn các tin nhắn đã đọc sau:"
+
+#: collectionpage/collectionexpirywidget.cpp:76
+#, kde-format
+msgid "Expire unread messages after:"
+msgstr "Hết hạn các tin nhắn chưa đọc sau:"
+
+#: collectionpage/collectionexpirywidget.cpp:90
+#, kde-format
+msgid "Move expired messages to:"
+msgstr "Chuyển các tin nhắn hết hạn đến:"
+
+#: collectionpage/collectionexpirywidget.cpp:101
+#, kde-format
+msgid "Delete expired messages permanently"
+msgstr "Xóa vĩnh viễn các tin nhắn đã hết hạn"
+
+#: collectionpage/collectionexpirywidget.cpp:172
+#, kde-format
+msgid ""
+"Please select a folder to expire messages into.\n"
+"If this is not done, expired messages will be permanently deleted."
+msgstr ""
+"Vui lòng bôi đen một thư mục để lưu các tin nhắn hết hạn.\nNếu không làm "
+"điều này, các tin nhắn hết hạn sẽ bị xóa vĩnh viễn."
+
+#: collectionpage/collectionexpirywidget.cpp:173
+#, kde-format
+msgid "No Folder Selected"
+msgstr "Không có thư mục được chọn"
+
+#: collectionpage/collectionexpirywidget.cpp:187
+#, kde-format
+msgid ""
+"Please select a different folder than the current folder to expire messages "
+"into.\n"
+"If this is not done, expired messages will be permanently deleted."
+msgstr ""
+"Vui lòng bôi đen một thư mục khác với thư mục hiện tại để lưu các tin nhắn "
+"hết hạn.\nNếu không làm như vậy, các tin nhắn hết hạn sẽ bị xóa vĩnh viễn."
+
+#: collectionpage/collectionexpirywidget.cpp:189
+#, kde-format
+msgid "Wrong Folder Selected"
+msgstr "Thư mục sai đã được chọn"
+
+#: collectionpage/collectiongeneralpage.cpp:44
+#, kde-format
+msgctxt "@title:tab General settings for a folder."
+msgid "General"
+msgstr "Chung"
+
+#: collectionpage/collectiongeneralpage.cpp:65
+#, kde-format
+msgctxt "@label:textbox Name of the folder."
+msgid "Folder &Name:"
+msgstr "Tên t&hư mục:"
+
+#: collectionpage/collectiongeneralpage.cpp:110
+#, kde-format
+msgid "Share unread state with all users"
+msgstr "Chia sẻ trạng thái chưa đọc với tất cả người dùng"
+
+#: collectionpage/collectiongeneralpage.cpp:113
+#, kde-format
+msgid ""
+"If enabled, the unread state of messages in this folder will be the same for "
+"all users having access to this folder. If disabled (the default), every "
+"user with access to this folder has their own unread state."
+msgstr ""
+"Nếu được bật, trạng thái chưa đọc của các tin nhắn trong thư mục này sẽ "
+"giống nhau cho tất cả người dùng có quyền truy cập vào thư mục này. Nếu tắt "
+"(mặc định), mỗi người dùng có quyền truy cập vào thư mục này sẽ có trạng "
+"thái chưa đọc riêng của họ."
+
+#: collectionpage/collectiongeneralpage.cpp:213
+#, kde-format
+msgid ""
+"You have configured this folder to contain groupware information. That means "
+"that this folder will disappear once the configuration dialog is closed."
+msgstr ""
+"Bạn đã cấu hình thư mục này để chứa thông tin nhóm. Điều này có nghĩa là "
+"thư mục này sẽ biến mất một khi hộp thoại cấu hình được đóng."
+
+#: collectionpage/collectiongeneralwidget.cpp:25
+#, kde-format
+msgid "Act on new/unread mail in this folder"
+msgstr "Hành động với thư mới/chưa đọc trong thư mục này"
+
+#: collectionpage/collectiongeneralwidget.cpp:27
+#, kde-format
+msgid ""
+"<qt><p>If this option is enabled then you will be notified about new/unread "
+"mail in this folder. Moreover, going to the next/previous folder with unread "
+"messages will stop at this folder.</p><p>Uncheck this option if you do not "
+"want to be notified about new/unread mail in this folder and if you want "
+"this folder to be skipped when going to the next/previous folder with unread "
+"messages. This is useful for ignoring any new/unread mail in your trash and "
+"spam folder.</p></qt>"
+msgstr ""
+"<qt><p>Nếu lựa chọn này được bật, bạn sẽ được thông báo về thư mới/chưa đọc "
+"trong thư mục này. Hơn nữa, khi chuyển đến thư mục tiếp theo/trước đó có "
+"thư chưa đọc, nó sẽ dừng lại ở thư mục này.</p><p>Bỏ chọn lựa chọn này nếu "
+"bạn không muốn nhận thông báo về thư mới/chưa đọc trong thư mục này và nếu "
+"bạn muốn bỏ qua thư mục này khi chuyển đến thư mục tiếp theo/trước đó có "
+"thư chưa đọc. Điều này hữu ích khi bạn muốn bỏ qua bất kỳ thư mới/chưa đọc "
+"nào trong thư mục rác và thư mục spam của bạn.</p></qt>"
+
+#: collectionpage/collectiongeneralwidget.cpp:38
+#, kde-format
+msgid "Keep replies in this folder"
+msgstr "Giữ hồi đáp trong thư mục này"
+
+#: collectionpage/collectiongeneralwidget.cpp:40
+#, kde-format
+msgid ""
+"Check this option if you want replies you write to mails in this folder to "
+"be put in this same folder after sending, instead of in the configured sent-"
+"mail folder."
+msgstr ""
+"Chọn tùy chọn này nếu bạn muốn các hồi đáp bạn viết cho thư trong thư mục "
+"này được đặt vào cùng thư mục này sau khi gửi, thay vì vào thư mục thư đã "
+"gửi được cấu hình."
+
+#: collectionpage/collectiongeneralwidget.cpp:46
+#, kde-format
+msgid "Hide this folder in the folder selection dialog"
+msgstr "Ẩn thư mục này trong hộp thoại chọn thư mục"
+
+#: collectionpage/collectiongeneralwidget.cpp:48
+#, kde-kuit-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Check this option if you do not want this folder to be shown in folder "
+"selection dialogs, such as the <interface>Jump to Folder</interface> dialog."
+msgstr ""
+"Đánh dấu lựa chọn này nếu bạn không muốn thư mục này được hiển thị trong "
+"các hộp thoại phần bôi đen thư mục, chẳng hạn như hộp thoại <interface>Nhảy "
+"đến thư mục</interface>."
+
+#: collectionpage/collectiongeneralwidget.cpp:54
+#, kde-format
+msgid "Use &default identity"
+msgstr "Sử &dụng danh tính mặc định"
+
+#: collectionpage/collectiongeneralwidget.cpp:64
+#, kde-format
+msgid ""
+"Select the sender identity to be used when writing new mail or replying to "
+"mail in this folder. This means that if you are in one of your work folders, "
+"you can make KMail use the corresponding sender email address, signature and "
+"signing or encryption keys automatically. Identities can be set up in the "
+"main configuration dialog. (Settings -> Configure KMail)"
+msgstr ""
+"Chọn danh tính người gửi để sử dụng khi viết thư mới hoặc hồi đáp thư trong "
+"thư mục này. Điều này có nghĩa là nếu bạn đang ở trong một trong những thư "
+"mục công việc của mình, bạn có thể khiến KMail tự động sử dụng địa chỉ "
+"email, chữ ký và khóa ký hoặc mã hóa tương ứng. Danh tính có thể được thiết "
+"lập trong hộp thoại cấu hình chính. (Cài đặt -> Cấu hình KMail)"
+
+#: collectionpage/collectiongeneralwidget.cpp:70
+#, kde-format
+msgid "&Sender identity:"
+msgstr "Da&nh tính người gửi:"
+
+#: collectionpage/collectiontemplateswidget.cpp:20
+#, kde-format
+msgid "&Use custom message templates in this folder"
+msgstr "Sử dụ&ng các mẫu thông điệp tự chọn trong thư mục này"
+
+#: collectionpage/collectiontemplateswidget.cpp:42
+#, kde-format
+msgctxt "@action:button"
+msgid "&Copy Global Templates"
+msgstr "Sao chép Mẫu Toàn &Cục"
+
+#: collectionpage/collectionviewwidget.cpp:27
+#, kde-format
+msgid "Use default message list aggregation:"
+msgstr "Sử dụng tổng hợp danh sách thông điệp mặc định:"
+
+#: collectionpage/collectionviewwidget.cpp:29
+#, kde-format
+msgid "Use default message list theme"
+msgstr "Sử dụng chủ đề mặc định của danh sách thông điệp"
+
+#: collectionpage/collectionviewwidget.cpp:31
+#, kde-format
+msgid "Prefer HTML to text"
+msgstr "Ưu tiên HTML hơn văn bản"
+
+#: collectionpage/collectionviewwidget.cpp:32
+#, kde-format
+msgid "Prefer text to HTML"
+msgstr "Ưu tiên văn bản hơn HTML"
+
+#: collectionpage/collectionviewwidget.cpp:33
+#, kde-format
+msgid "Use Global Settings"
+msgstr "Sử dụng Thiết lập Toàn cục"
+
+#: collectionpage/collectionviewwidget.cpp:40
+#, kde-format
+msgid "Show Sender/Receiver Column in List of Messages"
+msgstr "Hiển thị cột Người gửi/Người nhận trong danh sách tin nhắn"
+
+#: collectionpage/collectionviewwidget.cpp:43
+#, kde-format
+msgctxt "@item:inlistbox Show default value."
+msgid "Default"
+msgstr "Mặc định"
+
+#: collectionpage/collectionviewwidget.cpp:44
+#, kde-format
+msgctxt "@item:inlistbox Show sender."
+msgid "Sender"
+msgstr "Người gửi"
+
+#: collectionpage/collectionviewwidget.cpp:45
+#, kde-format
+msgctxt "@item:inlistbox Show receiver."
+msgid "Receiver"
+msgstr "Người nhận"
+
+#: collectionpage/collectionviewwidget.cpp:46
+#, kde-format
+msgid "Sho&w column:"
+msgstr "H&iển thị cột:"
+
+#: collectionpage/collectionviewwidget.cpp:85
+#, kde-format
+msgid "Message format:"
+msgstr "Định dạng thông điệp:"
+
+#: filter/dialog/filteractionmissingaccountdialog.cpp:33
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Account"
+msgstr "Bôi đen Tài khoản"
+
+#: filter/dialog/filteractionmissingaccountdialog.cpp:39
+#, kde-format
+msgid ""
+"Filter account is missing. Please select account to use with filter \"%1\""
+msgstr ""
+"Tài khoản bộ lọc bị thiếu. Vui lòng bôi đen tài khoản để sử dụng với bộ lọc "
+"\"%1\""
+
+#: filter/dialog/filteractionmissingfolderdialog.cpp:38
+#: folder/folderrequester.cpp:73
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Folder"
+msgstr "Bôi đen Thư mục"
+
+#: filter/dialog/filteractionmissingfolderdialog.cpp:41
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Folder path was \"%1\"."
+msgstr "Đường dẫn thư mục là \"%1\"."
+
+#: filter/dialog/filteractionmissingfolderdialog.cpp:46
+#, kde-format
+msgctxt "@label:textbox"
+msgid "The following folders can be used for this filter:"
+msgstr "Các thư mục sau có thể được sử dụng cho bộ lọc này:"
+
+#: filter/dialog/filteractionmissingfolderdialog.cpp:67
+#, kde-format
+msgid "Please select a folder:"
+msgstr "Vui lòng bôi đen một thư mục:"
+
+#: filter/dialog/filteractionmissingfolderdialog.cpp:70
+#, kde-format
+msgid ""
+"Filter folder is missing. Please select a folder to use with filter \"%1\":"
+msgstr ""
+"Thư mục lọc bị thiếu. Vui lòng bôi đen một thư mục để sử dụng với bộ lọc "
+"\"%1\":"
+
+#: filter/dialog/filteractionmissingidentitydialog.cpp:32
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Identity"
+msgstr "Bôi đen Danh tính"
+
+#: filter/dialog/filteractionmissingidentitydialog.cpp:38
+#, kde-format
+msgid ""
+"Filter identity is missing. Please select an identity to use with filter "
+"\"%1\""
+msgstr ""
+"Danh tính của bộ lọc bị thiếu. Vui lòng bôi đen một danh tính để sử dụng "
+"với bộ lọc \"%1\""
+
+#: filter/dialog/filteractionmissingsoundurldialog.cpp:31
+#, kde-format
+msgctxt "@title:window"
+msgid "Select sound"
+msgstr "Chọn âm thanh"
+
+#: filter/dialog/filteractionmissingsoundurldialog.cpp:35
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Sound file was \"%1\"."
+msgstr "Tệp âm thanh là \"%1\"."
+
+#: filter/dialog/filteractionmissingsoundurldialog.cpp:42
+#, kde-format
+msgid "Sound file is missing. Please select a sound to use with filter \"%1\""
+msgstr ""
+"Tệp âm thanh bị thiếu. Vui lòng bôi đen một âm thanh để sử dụng với bộ lọc "
+"\"%1\""
+
+#: filter/dialog/filteractionmissingtagdialog.cpp:37
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Tag"
+msgstr "Chọn Thẻ"
+
+#: filter/dialog/filteractionmissingtagdialog.cpp:40
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Tag was \"%1\"."
+msgstr "Thẻ là \"%1\"."
+
+#: filter/dialog/filteractionmissingtagdialog.cpp:47
+#, kde-format
+msgid "Filter tag is missing. Please select a tag to use with filter \"%1\""
+msgstr "Thẻ lọc bị thiếu. Vui lòng bôi đen một thẻ để sử dụng với bộ lọc \"%1\""
+
+#: filter/dialog/filteractionmissingtagdialog.cpp:71
+#, kde-format
+msgid "Add Tag…"
+msgstr "Thêm thẻ..."
+
+#: filter/dialog/filteractionmissingtemplatedialog.cpp:32
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Template"
+msgstr "Chọn Bản Mẫu"
+
+#: filter/dialog/filteractionmissingtemplatedialog.cpp:38
+#, kde-format
+msgid ""
+"Filter template is missing. Please select a template to use with filter "
+"\"%1\""
+msgstr ""
+"Bản mẫu bộ lọc bị thiếu. Vui lòng bôi đen một bản mẫu để sử dụng với bộ lọc "
+"\"%1\""
+
+#: filter/dialog/filteractionmissingtransportdialog.cpp:31
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Transport"
+msgstr "Chọn Phương Tiện"
+
+#: filter/dialog/filteractionmissingtransportdialog.cpp:37
+#, kde-format
+msgid ""
+"Filter transport is missing. Please select a transport to use with filter "
+"\"%1\""
+msgstr ""
+"Bộ lọc vận chuyển bị thiếu. Vui lòng bôi đen một bộ vận chuyển để sử dụng "
+"với bộ lọc \"%1\""
+
+#: filter/dialog/selectthunderbirdfilterfilesdialog.cpp:28
+#, kde-format
+msgctxt "@title:window"
+msgid "Select thunderbird filter files"
+msgstr "Bôi đen tệp lọc Thunderbird"
+
+#: filter/dialog/selectthunderbirdfilterfileswidget.cpp:31
+#, kde-format
+msgid " (default)"
+msgstr "(mặc định)"
+
+#: filter/dialog/selectthunderbirdfilterfileswidget.cpp:116
+#, kde-format
+msgid "Thunderbird File (*.dat)"
+msgstr "Tệp Thunderbird (*.dat)"
+
+#: filter/filteractions/filteraction.cpp:133
+#, kde-format
+msgid "### \"action '%1' not supported\""
+msgstr "### \"hành động '%1' không được hỗ trợ\""
+
+#: filter/filteractions/filteractionaddheader.cpp:21
+#, kde-format
+msgid "Add Header"
+msgstr "Thêm Đầu Tải"
+
+#: filter/filteractions/filteractionaddheader.cpp:76
+#, kde-format
+msgctxt "@label:textbox"
+msgid "With value:"
+msgstr "Với giá trị:"
+
+#: filter/filteractions/filteractionaddheader.cpp:202
+#, kde-format
+msgid "The header name was missing."
+msgstr "Tên đầu tải bị thiếu."
+
+#: filter/filteractions/filteractionaddheader.cpp:208
+#, kde-format
+msgid "The header value was missing."
+msgstr "Giá trị đầu tải bị thiếu."
+
+#: filter/filteractions/filteractionaddtag.cpp:24
+#, kde-format
+msgid "Add Tag"
+msgstr "Thêm Thẻ"
+
+#: filter/filteractions/filteractionaddtag.cpp:150
+#, kde-format
+msgid "No tag selected."
+msgstr "Không có thẻ nào được chọn."
+
+#: filter/filteractions/filteractionaddtoaddressbook.cpp:32
+#, kde-format
+msgid "Add to Address Book"
+msgstr "Thêm vào Sổ địa chỉ"
+
+#: filter/filteractions/filteractionaddtoaddressbook.cpp:33
+#, kde-format
+msgctxt "Email sender"
+msgid "From"
+msgstr "Từ"
+
+#: filter/filteractions/filteractionaddtoaddressbook.cpp:34
+#, kde-format
+msgctxt "Email recipient"
+msgid "To"
+msgstr "Đến"
+
+#: filter/filteractions/filteractionaddtoaddressbook.cpp:35
+#: search/searchpatternedit.cpp:52
+#, kde-format
+msgid "CC"
+msgstr "CC"
+
+#: filter/filteractions/filteractionaddtoaddressbook.cpp:36
+#, kde-format
+msgid "BCC"
+msgstr "Bcc"
+
+#: filter/filteractions/filteractionaddtoaddressbook.cpp:39
+#, kde-format
+msgid "KMail Filter"
+msgstr "Bộ lọc KMail"
+
+#: filter/filteractions/filteractionaddtoaddressbook.cpp:116
+#, kde-format
+msgctxt "@label:textbox"
+msgid "with category"
+msgstr "với loại"
+
+#: filter/filteractions/filteractionaddtoaddressbook.cpp:124
+#, kde-format
+msgctxt "@label:textbox"
+msgid "in address book"
+msgstr "trong sổ địa chỉ"
+
+#: filter/filteractions/filteractionaddtoaddressbook.cpp:134
+#, kde-format
+msgid ""
+"This defines the preferred address book.\n"
+"If it is not accessible, the filter will fallback to the default address "
+"book."
+msgstr ""
+"Điều này xác định sổ địa chỉ ưa thích.\nNếu nó không thể truy cập được, bộ "
+"lọc sẽ thoái lui về sổ địa chỉ mặc định."
+
+#: filter/filteractions/filteractionaddtoaddressbook.cpp:286
+#, kde-format
+msgid "Header type selected is unknown."
+msgstr "Kiểu đầu tải đã chọn không được biết."
+
+#: filter/filteractions/filteractionaddtoaddressbook.cpp:292
+#, kde-format
+msgid "No addressbook selected."
+msgstr "Không có sổ địa chỉ nào được chọn."
+
+#: filter/filteractions/filteractioncopy.cpp:19
+#, kde-format
+msgid "Copy Into Folder"
+msgstr "Sao chép vào thư mục"
+
+#: filter/filteractions/filteractioncopy.cpp:68
+#: filter/filteractions/filteractionmove.cpp:66
+#, kde-format
+msgid "Folder destination was not defined."
+msgstr "Chưa xác định thư mục đích."
+
+#: filter/filteractions/filteractiondecrypt.cpp:27
+#: filter/filteractions/filteractiondecrypt.cpp:40
+#, kde-format
+msgid "Decrypt"
+msgstr "giải mật mã"
+
+#: filter/filteractions/filteractiondecrypt.cpp:95
+#, kde-format
+msgid "<b>Warning:</b> Decrypted emails may be uploaded to a server!"
+msgstr "<b>Cảnh báo:</b> Email đã giải mật mã có thể được tải lên máy chủ!"
+
+#: filter/filteractions/filteractiondecrypt.cpp:97
+#, kde-format
+msgid ""
+"<p>If the email folder that you are filtering into is connected to a remote "
+"account (like an IMAP-Server) the decrypted content will go there.</p>"
+msgstr ""
+"<p>Nếu thư mục thư điện tử mà bạn đang lọc vào được kết nối với một tài "
+"khoản từ xa (như một máy chủ IMAP), nội dung đã giải mật mã sẽ được gửi đến "
+"đó.</p>"
+
+#: filter/filteractions/filteractiondelete.cpp:18
+#, kde-format
+msgid "Delete Message"
+msgstr "Xóa Thông Điệp"
+
+#: filter/filteractions/filteractiondelete.cpp:41
+#, kde-format
+msgid "Be careful, mails will be removed."
+msgstr "Hãy cẩn thận, các email sẽ bị xóa."
+
+#: filter/filteractions/filteractionencrypt.cpp:43
+#, kde-format
+msgid "Encrypt"
+msgstr "mật mã hoá"
+
+#: filter/filteractions/filteractionencrypt.cpp:206
+#, kde-format
+msgid "No encryption key has been selected"
+msgstr "Chưa chọn khóa mật mã hoá"
+
+#: filter/filteractions/filteractionencrypt.cpp:242
+#, kde-format
+msgid "Re-encrypt encrypted emails with this key"
+msgstr "Mã hoá lại email đã được mã hoá với khoá này"
+
+#: filter/filteractions/filteractionencrypt.cpp:252
+#, kde-format
+msgid "<b>Warning:</b> Seckey necessary to read emails."
+msgstr "<b>Cảnh báo:</b> Cần khóa bí mật để đọc email."
+
+#: filter/filteractions/filteractionencrypt.cpp:254
+#, kde-format
+msgid ""
+"<p>Once an email has been encrypted you will need a crypto setup with your "
+"secret key to access the contents again.</p><p>If you keep emails stored on "
+"an email server and use several clients, each of them must be configured to "
+"enable decryption.</p>"
+msgstr ""
+"<p>Khi một thư đã được mật mã hoá, bạn sẽ cần một thiết lập mật mã với khoá "
+"bí mật của bạn để truy cập nội dung lại.</p><p>Nếu bạn lưu trữ thư trên một "
+"máy chủ thư và sử dụng nhiều ứng dụng khách, mỗi ứng dụng phải được cấu "
+"hình để cho phép giải mã.</p>"
+
+#: filter/filteractions/filteractionexec.cpp:15
+#, kde-format
+msgid "Execute Command"
+msgstr "Thực thi Lệnh"
+
+#: filter/filteractions/filteractionexec.cpp:36
+#, kde-format
+msgid "Missing command."
+msgstr "Thiếu lệnh."
+
+#: filter/filteractions/filteractionforward.cpp:35
+#, kde-format
+msgctxt "Forward directly not with a command"
+msgid "Forward To"
+msgstr "Chuyển tiếp đến"
+
+#: filter/filteractions/filteractionforward.cpp:91
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "The addressee to whom the message will be forwarded."
+msgstr "Người nhận sẽ nhận được thông điệp được chuyển tiếp."
+
+#: filter/filteractions/filteractionforward.cpp:92
+#, kde-format
+msgid "The filter will forward the message to the addressee entered here."
+msgstr "Bộ lọc sẽ chuyển tiếp thông điệp đến người nhận được nhập ở đây."
+
+#: filter/filteractions/filteractionforward.cpp:99
+#: filter/filteractions/filteractionforward.cpp:198
+#, kde-format
+msgid "Default Template"
+msgstr "Bản mẫu mặc định"
+
+#: filter/filteractions/filteractionforward.cpp:110
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "The template used when forwarding"
+msgstr "Bản mẫu được sử dụng khi chuyển tiếp"
+
+#: filter/filteractions/filteractionforward.cpp:111
+#, kde-format
+msgid "Set the forwarding template that will be used with this filter."
+msgstr "Đặt bản mẫu chuyển tiếp sẽ được sử dụng với bộ lọc này."
+
+#: filter/filteractions/filteractionforward.cpp:226
+#, kde-format
+msgid "Forward to %1 with default template"
+msgstr "Chuyển tiếp đến %1 với bản mẫu mặc định"
+
+#: filter/filteractions/filteractionforward.cpp:228
+#, kde-format
+msgid "Forward to %1 with template %2"
+msgstr "Chuyển tiếp đến %1 với bản mẫu %2"
+
+#: filter/filteractions/filteractionforward.cpp:234
+#: filter/filteractions/filteractionreplyto.cpp:51
+#, kde-format
+msgid "Email address was not defined."
+msgstr "Địa chỉ thư điện tử chưa được định nghĩa."
+
+#: filter/filteractions/filteractionmove.cpp:23
+#, kde-format
+msgid "Move Into Folder"
+msgstr "Di chuyển vào thư mục"
+
+#: filter/filteractions/filteractionpipethrough.cpp:20
+#, kde-format
+msgctxt "pipe through with command"
+msgid "Pipe Through"
+msgstr "Ống dẫn qua"
+
+#: filter/filteractions/filteractionpipethrough.cpp:36
+#, kde-format
+msgid "No action defined."
+msgstr "Không có hành động được định nghĩa."
+
+#: filter/filteractions/filteractionplaysound.cpp:22
+#, kde-format
+msgid "Play Sound"
+msgstr "Phát Âm Thanh"
+
+#: filter/filteractions/filteractionplaysound.cpp:77
+#, kde-format
+msgid "Sound file was not defined."
+msgstr "Tệp âm thanh chưa được định nghĩa."
+
+#: filter/filteractions/filteractionredirect.cpp:27
+#, kde-format
+msgid "Redirect To"
+msgstr "Chuyển hướng đến"
+
+#: filter/filteractions/filteractionredirect.cpp:71
+#, kde-format
+msgid "Email address was missing."
+msgstr "Địa chỉ thư điện tử bị thiếu."
+
+#: filter/filteractions/filteractionremoveheader.cpp:22
+#, kde-format
+msgid "Remove Header"
+msgstr "Xoá Đầu Tải"
+
+#: filter/filteractions/filteractionremoveheader.cpp:96
+#, kde-format
+msgid "Header name undefined."
+msgstr "Tên đầu tải chưa được xác định."
+
+#: filter/filteractions/filteractionreplyto.cpp:20
+#, kde-format
+msgid "Set Reply-To To"
+msgstr "Đặt Reply-To Thành"
+
+#: filter/filteractions/filteractionrewriteheader.cpp:25
+#, kde-format
+msgid "Rewrite Header"
+msgstr "Viết lại Đầu tải"
+
+#: filter/filteractions/filteractionrewriteheader.cpp:42
+#, kde-format
+msgid "Header not defined"
+msgstr "Đầu tải chưa được định nghĩa"
+
+#: filter/filteractions/filteractionrewriteheader.cpp:48
+#, kde-format
+msgid "Search string is empty."
+msgstr "Chuỗi tìm kiếm trống."
+
+#: filter/filteractions/filteractionrewriteheader.cpp:110
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Replace:"
+msgstr "Thay thế:"
+
+#: filter/filteractions/filteractionrewriteheader.cpp:121
+#, kde-format
+msgctxt "@label:textbox"
+msgid "With:"
+msgstr "Với:"
+
+#: filter/filteractions/filteractionsendfakedisposition.cpp:28
+#, kde-format
+msgid "Send Fake MDN"
+msgstr "Gửi MDN giả"
+
+#: filter/filteractions/filteractionsendfakedisposition.cpp:33
+#, kde-format
+msgctxt "MDN type"
+msgid "Ignore"
+msgstr "Bỏ qua"
+
+#: filter/filteractions/filteractionsendfakedisposition.cpp:34
+#, kde-format
+msgctxt "MDN type"
+msgid "Displayed"
+msgstr "Đã hiển thị"
+
+#: filter/filteractions/filteractionsendfakedisposition.cpp:35
+#, kde-format
+msgctxt "MDN type"
+msgid "Deleted"
+msgstr "Đã xóa"
+
+#: filter/filteractions/filteractionsendfakedisposition.cpp:36
+#, kde-format
+msgctxt "MDN type"
+msgid "Dispatched"
+msgstr "Đã gửi"
+
+#: filter/filteractions/filteractionsendfakedisposition.cpp:37
+#, kde-format
+msgctxt "MDN type"
+msgid "Processed"
+msgstr "Đã xử lý"
+
+#: filter/filteractions/filteractionsendfakedisposition.cpp:38
+#, kde-format
+msgctxt "MDN type"
+msgid "Denied"
+msgstr "Bị từ chối"
+
+#: filter/filteractions/filteractionsendfakedisposition.cpp:39
+#, kde-format
+msgctxt "MDN type"
+msgid "Failed"
+msgstr "Thất bại"
+
+#: filter/filteractions/filteractionsendfakedisposition.cpp:115
+#, kde-format
+msgid "Fake type undefined."
+msgstr "Kiểu giả chưa được định nghĩa."
+
+#: filter/filteractions/filteractionsendreceipt.cpp:21
+#, kde-format
+msgid "Confirm Delivery"
+msgstr "Xác nhận giao hàng"
+
+#: filter/filteractions/filteractionsetidentity.cpp:29
+#, kde-format
+msgid "Set Identity To"
+msgstr "Đặt Danh Tính Thành"
+
+#: filter/filteractions/filteractionsetstatus.cpp:20
+#, kde-format
+msgid "Mark As"
+msgstr "Đánh dấu là"
+
+#: filter/filteractions/filteractionsetstatus.cpp:32
+#, kde-format
+msgid "Status not specified."
+msgstr "Trạng thái không được chỉ định."
+
+#: filter/filteractions/filteractionsettransport.cpp:36
+#, kde-format
+msgid "Set Transport To"
+msgstr "Đặt Phương Tiện Vận Chuyển Thành"
+
+#: filter/filteractions/filteractionsettransport.cpp:142
+#, kde-format
+msgid "Mail transport not defined."
+msgstr "Chưa định nghĩa phương thức vận chuyển thư."
+
+#: filter/filteractions/filteractionstatus.cpp:31
+#, kde-format
+msgctxt "msg status"
+msgid "Important"
+msgstr "Quan trọng"
+
+#: filter/filteractions/filteractionstatus.cpp:32
+#, kde-format
+msgctxt "msg status"
+msgid "Read"
+msgstr "Đọc"
+
+#: filter/filteractions/filteractionstatus.cpp:33
+#, kde-format
+msgctxt "msg status"
+msgid "Unread"
+msgstr "Chưa đọc"
+
+#: filter/filteractions/filteractionstatus.cpp:34
+#, kde-format
+msgctxt "msg status"
+msgid "Replied"
+msgstr "hồi đáp"
+
+#: filter/filteractions/filteractionstatus.cpp:35
+#, kde-format
+msgctxt "msg status"
+msgid "Forwarded"
+msgstr "Đã chuyển tiếp"
+
+#: filter/filteractions/filteractionstatus.cpp:36
+#, kde-format
+msgctxt "msg status"
+msgid "Watched"
+msgstr "Đang theo dõi"
+
+#: filter/filteractions/filteractionstatus.cpp:37
+#, kde-format
+msgctxt "msg status"
+msgid "Ignored"
+msgstr "Bị bỏ qua"
+
+#: filter/filteractions/filteractionstatus.cpp:38
+#, kde-format
+msgctxt "msg status"
+msgid "Spam"
+msgstr "Spam"
+
+#: filter/filteractions/filteractionstatus.cpp:39
+#, kde-format
+msgctxt "msg status"
+msgid "Ham"
+msgstr "Thịt heo"
+
+#: filter/filteractions/filteractionstatus.cpp:40
+#, kde-format
+msgctxt "msg status"
+msgid "Action Item"
+msgstr "Mục hành động"
+
+#: filter/filteractions/filteractionstatus.cpp:100
+#, kde-format
+msgid "Status is missing."
+msgstr "Thiếu trạng thái."
+
+#: filter/filteractions/filteractionunsetstatus.cpp:19
+#, kde-format
+msgctxt "action: to unset the status"
+msgid "Unset Status"
+msgstr "Bỏ đặt trạng thái"
+
+#: filter/filteractions/filteractionunsetstatus.cpp:37
+#, kde-format
+msgid "Status not defined."
+msgstr "Trạng thái không được định nghĩa."
+
+#: filter/filteractions/filteractionwidget.cpp:69
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Please select an action."
+msgstr "Vui lòng bôi đen một hành động."
+
+#: filter/filteractions/filteractionwithurl.cpp:22
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Help"
+msgstr "trợ giúp"
+
+#: filter/filteractions/filteractionwithurl.cpp:64
+#, kde-format
+msgid "You can get specific header when you use %{headername}."
+msgstr "Bạn có thể nhận được đầu tải cụ thể khi sử dụng %{headername}."
+
+#: filter/filterconverter/filterconverttosieveresultdialog.cpp:37
+#, kde-format
+msgctxt "@title:window"
+msgid "Convert to Sieve Script"
+msgstr "Chuyển đổi sang Kịch bản Sieve"
+
+#: filter/filterconverter/filterconverttosieveresultdialog.cpp:44
+#, kde-format
+msgid "Save…"
+msgstr "Lưu..."
+
+#: filter/filterconverter/filterconverttosieveresultdialog.cpp:67
+#, kde-format
+msgctxt "@action:button"
+msgid "Share…"
+msgstr "Chia sẻ..."
+
+#: filter/filterconverter/filterconverttosieveresultdialog.cpp:83
+#, kde-format
+msgid "Sieve Files (*.siv);;All Files (*)"
+msgstr "Tệp Sieve (*.siv);;Tất cả Tệp (*)"
+
+#: filter/filterconverter/filterconverttosieveresultdialog.cpp:84
+#, kde-format
+msgctxt "@title:window"
+msgid "Convert to Script Sieve"
+msgstr "Chuyển đổi sang Kịch bản Sieve"
+
+#: filter/filterimporter/filterimportergmail.cpp:48
+#, kde-format
+msgid "Gmail filter %1"
+msgstr "Bộ lọc Gmail %1"
+
+#: filter/filterimporter/filterimporterprocmail.cpp:52
+#, kde-format
+msgid "Procmail filter %1"
+msgstr "Bộ lọc Procmail %1"
+
+#: filter/filterimporterexporter.cpp:112
+#, kde-format
+msgid ""
+"The following filters have not been saved because they were invalid (e.g. "
+"containing no actions or no search rules)."
+msgstr ""
+"Các bộ lọc sau đây không được lưu vì chúng không hợp lệ (ví dụ: không chứa "
+"hành động hoặc không có quy tắc tìm kiếm)."
+
+#: filter/filterimporterexporter.cpp:138
+#, kde-format
+msgid "Import KMail Filters"
+msgstr "Nhập khẩu bộ lọc KMail"
+
+#: filter/filterimporterexporter.cpp:146
+#, kde-format
+msgid "Import Evolution Filters"
+msgstr "Nhập khẩu bộ lọc Evolution"
+
+#: filter/filterimporterexporter.cpp:150
+#, kde-format
+msgid "Import Sylpheed Filters"
+msgstr "Nhập khẩu Bộ lọc Sylpheed"
+
+#: filter/filterimporterexporter.cpp:154
+#, kde-format
+msgid "Import Procmail Filters"
+msgstr "Nhập khẩu Bộ lọc Procmail"
+
+#: filter/filterimporterexporter.cpp:158
+#, kde-format
+msgid "Import Balsa Filters"
+msgstr "Nhập khẩu Bộ lọc Balsa"
+
+#: filter/filterimporterexporter.cpp:162
+#, kde-format
+msgid "Import Claws Mail Filters"
+msgstr "Nhập khẩu Bộ lọc Claws Mail"
+
+#: filter/filterimporterexporter.cpp:166
+#, kde-format
+msgid "Import Gmail Filters"
+msgstr "Nhập khẩu Bộ lọc Gmail"
+
+#: filter/filterimporterexporter.cpp:180 filter/filterimporterexporter.cpp:216
+#: filter/filterimporterexporter.cpp:236
+#, kde-format
+msgid ""
+"The selected file is not readable. Your file access permissions might be "
+"insufficient."
+msgstr "Tệp đã chọn không thể đọc được. Quyền truy cập tệp của bạn có thể không đủ."
+
+#: filter/filterimporterexporter.cpp:316
+#, kde-format
+msgid "Export Filters"
+msgstr "Xuất khẩu Bộ lọc"
+
+#: filter/filterselectiondialog.cpp:29
+#, kde-format
+msgctxt "@action:button"
+msgid "Select All"
+msgstr "Bôi đen tất cả"
+
+#: filter/filterselectiondialog.cpp:30
+#, kde-format
+msgctxt "@action:button"
+msgid "Unselect All"
+msgstr "Bỏ chọn tất cả"
+
+#: filter/filterselectiondialog.cpp:34
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Filters"
+msgstr "Chọn bộ lọc"
+
+#: filter/filterselectiondialog.cpp:45 filter/kmfilterlistbox.cpp:51
+#: folder/foldertreewidget.cpp:84
+#, kde-format
+msgctxt "@info Displayed grayed-out inside the textbox, verb to search"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: filter/invalidfilters/invalidfilterdialog.cpp:29
+#, kde-format
+msgctxt "@title:window"
+msgid "Invalid Filters"
+msgstr "Bộ lọc không hợp lệ"
+
+#: filter/invalidfilters/invalidfilterdialog.cpp:40
+#, kde-format
+msgid "Discard"
+msgstr "loại bỏ"
+
+#: filter/invalidfilters/invalidfilterwidget.cpp:22
+#, kde-format
+msgctxt "@label:textbox"
+msgid ""
+"The following filters are invalid (e.g. containing no actions or no search "
+"rules). Discard or edit invalid filters?"
+msgstr ""
+"Các bộ lọc sau đây không hợp lệ (ví dụ: không chứa hành động hoặc không có "
+"quy tắc tìm kiếm). Loại bỏ hoặc sửa đổi các bộ lọc không hợp lệ?"
+
+#: filter/kmfilteraccountlist.cpp:24
+#, kde-format
+msgid "Account Name"
+msgstr "Tên tài khoản"
+
+#: filter/kmfilteraccountlist.cpp:24
+#, kde-format
+msgid "Type"
+msgstr "kiểu"
+
+#: filter/kmfilterdialog.cpp:72
+#, kde-format
+msgctxt "@title:window"
+msgid "Filter Rules"
+msgstr "Quy tắc lọc"
+
+#: filter/kmfilterdialog.cpp:90
+#, kde-format
+msgid "Import…"
+msgstr "Nhập…"
+
+#: filter/kmfilterdialog.cpp:92
+#, kde-format
+msgid "Export…"
+msgstr "Xuất…"
+
+#: filter/kmfilterdialog.cpp:94
+#, kde-format
+msgid "Convert to…"
+msgstr "Chuyển đổi sang..."
+
+#: filter/kmfilterdialog.cpp:98
+#, kde-format
+msgctxt "@action"
+msgid "KMail filters"
+msgstr "Bộ lọc KMail"
+
+#: filter/kmfilterdialog.cpp:102
+#, kde-format
+msgctxt "@action"
+msgid "Thunderbird filters"
+msgstr "Bộ lọc Thunderbird"
+
+#: filter/kmfilterdialog.cpp:106
+#, kde-format
+msgctxt "@action"
+msgid "Evolution filters"
+msgstr "Bộ lọc Evolution"
+
+#: filter/kmfilterdialog.cpp:110
+#, kde-format
+msgctxt "@action"
+msgid "Sylpheed filters"
+msgstr "Bộ lọc Sylpheed"
+
+#: filter/kmfilterdialog.cpp:114
+#, kde-format
+msgctxt "@action"
+msgid "Procmail filters"
+msgstr "Bộ lọc Procmail"
+
+#: filter/kmfilterdialog.cpp:118
+#, kde-format
+msgctxt "@action"
+msgid "Balsa filters"
+msgstr "Bộ lọc Balsa"
+
+#: filter/kmfilterdialog.cpp:122
+#, kde-format
+msgctxt "@action"
+msgid "Claws Mail filters"
+msgstr "Bộ lọc Claws Mail"
+
+#: filter/kmfilterdialog.cpp:126
+#, kde-format
+msgctxt "@action"
+msgid "Icedove Mail filters"
+msgstr "Bộ lọc thư Icedove"
+
+#: filter/kmfilterdialog.cpp:132
+#, kde-format
+msgctxt "@action"
+msgid "Gmail filters"
+msgstr "Bộ lọc Gmail"
+
+#: filter/kmfilterdialog.cpp:140
+#, kde-format
+msgctxt "@action"
+msgid "Sieve script"
+msgstr "Kịch bản sieve"
+
+#: filter/kmfilterdialog.cpp:162
+#, kde-format
+msgid "Available Filters"
+msgstr "Bộ lọc hiện có"
+
+#: filter/kmfilterdialog.cpp:168
+#, kde-format
+msgctxt "General mail filter settings."
+msgid "General"
+msgstr "Chung"
+
+#: filter/kmfilterdialog.cpp:172
+#, kde-format
+msgctxt "Advanced mail filter settings."
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: filter/kmfilterdialog.cpp:182
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Filter actions:"
+msgstr "Lọc các hành động:"
+
+#: filter/kmfilterdialog.cpp:193
+#, kde-format
+msgid "Apply this filter to incoming messages:"
+msgstr "Áp dụng bộ lọc này cho các tin nhắn đến:"
+
+#: filter/kmfilterdialog.cpp:203
+#, kde-format
+msgid "From all accounts"
+msgstr "Từ tất cả các tài khoản"
+
+#: filter/kmfilterdialog.cpp:207
+#, kde-format
+msgid "From all but online IMAP accounts"
+msgstr "Từ tất cả các tài khoản IMAP trực tuyến"
+
+#: filter/kmfilterdialog.cpp:211
+#, kde-format
+msgid "From selected accounts only"
+msgstr "Chỉ từ các tài khoản đã chọn"
+
+#: filter/kmfilterdialog.cpp:219
+#, kde-format
+msgid "Apply this filter to &sent messages"
+msgstr "Áp dụng bộ &lọc này cho các tin nhắn đã gửi"
+
+#: filter/kmfilterdialog.cpp:221
+#, kde-format
+msgid ""
+"<p>The filter will be triggered <b>after</b> the message is sent and it will "
+"only affect the local copy of the message.</p><p>If the recipient's copy "
+"also needs to be modified, please use \"Apply this filter <b>before</b> "
+"sending messages\".</p>"
+msgstr ""
+"<p>Bộ lọc sẽ được kích hoạt <b>sau khi</b> thông điệp được gửi và nó sẽ chỉ "
+"ảnh hưởng đến bản sao cục bộ của thông điệp.</p><p>Nếu bản sao của người "
+"nhận cũng cần được sửa đổi, vui lòng sử dụng \"Áp dụng bộ lọc này <b>trước "
+"khi</b> gửi thông điệp\".</p>"
+
+#: filter/kmfilterdialog.cpp:227
+#, kde-format
+msgid "Apply this filter &before sending messages"
+msgstr "Áp dụng &bộ lọc này trước khi gửi tin nhắn"
+
+#: filter/kmfilterdialog.cpp:229
+#, kde-format
+msgid ""
+"<p>The filter will be triggered <b>before</b> the message is sent and it "
+"will affect both the local copy and the sent copy of the message.</p><p>This "
+"is required if the recipient's copy also needs to be modified.</p>"
+msgstr ""
+"<p>Bộ lọc sẽ được kích hoạt <b>trước khi</b> thông điệp được gửi và nó sẽ "
+"ảnh hưởng đến cả bản sao cục bộ và bản sao đã gửi của thông "
+"điệp.</p><p>Điều này là cần thiết nếu bản sao của người nhận cũng cần được "
+"sửa đổi.</p>"
+
+#: filter/kmfilterdialog.cpp:234
+#, kde-format
+msgid "Apply this filter on manual &filtering"
+msgstr "Áp &dụng bộ lọc này khi lọc thủ công"
+
+#: filter/kmfilterdialog.cpp:237
+#, kde-format
+msgid "Apply this filter on inbound emails in all folders"
+msgstr "Áp dụng bộ lọc này cho tất cả các email đến trong tất cả các thư mục"
+
+#: filter/kmfilterdialog.cpp:239
+#, kde-format
+msgid ""
+"<p>The filter will be applied on inbound emails from all folders belonging "
+"to all accounts selected above. This is useful when using local filters with "
+"IMAP accounts where new emails may have already been moved to different "
+"folders by server-side filters.</p>"
+msgstr ""
+"<p>Bộ lọc sẽ được áp dụng cho các email đến từ tất cả các thư mục thuộc tất "
+"cả các tài khoản đã chọn ở trên. Điều này hữu ích khi sử dụng bộ lọc cục bộ "
+"với các tài khoản IMAP, nơi các email mới có thể đã được chuyển đến các thư "
+"mục khác nhau bởi bộ lọc phía máy chủ.</p>"
+
+#: filter/kmfilterdialog.cpp:245
+#, kde-format
+msgid "If this filter &matches, stop processing here"
+msgstr "Nếu bộ lọc này khớp, hãy dừng &xử lý tại đây"
+
+#: filter/kmfilterdialog.cpp:248
+#, kde-format
+msgid "Add this filter to the Apply Filter menu"
+msgstr "Thêm bộ lọc này vào trình đơn Áp dụng Bộ lọc"
+
+#: filter/kmfilterdialog.cpp:266
+#, kde-format
+msgid "Additionally add this filter to the toolbar"
+msgstr "Ngoài ra, thêm bộ lọc này vào thanh công cụ"
+
+#: filter/kmfilterdialog.cpp:273
+#, kde-format
+msgid "Shortcut:"
+msgstr "Phím tắt:"
+
+#: filter/kmfilterdialog.cpp:279
+#, kde-format
+msgid "Icon for this filter:"
+msgstr "Biểu tượng cho bộ lọc này:"
+
+#: filter/kmfilterdialog.cpp:287
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Run selected filter(s) on: "
+msgstr "Chạy bộ lọc đã chọn trên:"
+
+#: filter/kmfilterdialog.cpp:293
+#, kde-format
+msgctxt "@action:button"
+msgid "Run Now"
+msgstr "Chạy ngay"
+
+#: filter/kmfilterdialog.cpp:419
+#, kde-format
+msgctxt "@info"
+msgid "Unable to apply this filter since there are no folders selected."
+msgstr "Không thể áp dụng bộ lọc này vì không có thư mục nào được chọn."
+
+#: filter/kmfilterdialog.cpp:419
+#, kde-format
+msgid "No folder selected."
+msgstr "Không có thư mục nào được chọn."
+
+#: filter/kmfilterdialog.cpp:426
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Some filters were changed and not saved yet. You must save your filters "
+"before they can be applied."
+msgstr ""
+"Một số bộ lọc đã được thay đổi nhưng chưa được lưu. Bạn phải lưu các bộ lọc "
+"của mình trước khi chúng có thể được áp dụng."
+
+#: filter/kmfilterdialog.cpp:428 filter/kmfilterdialog.cpp:708
+#, kde-format
+msgid "Filters changed."
+msgstr "Bộ lọc đã thay đổi."
+
+#: filter/kmfilterdialog.cpp:434
+#, kde-format
+msgctxt "@info"
+msgid "Unable to apply a filter since there are no filters currently selected."
+msgstr "Không thể áp dụng bộ lọc vì hiện không có bộ lọc nào được chọn."
+
+#: filter/kmfilterdialog.cpp:434 filter/kmfilterdialog.cpp:729
+#, kde-format
+msgid "No filters selected."
+msgstr "Không có bộ lọc nào được chọn."
+
+#: filter/kmfilterdialog.cpp:658
+#, kde-format
+msgid "No filter was imported."
+msgstr "Không có bộ lọc nào được nhập."
+
+#: filter/kmfilterdialog.cpp:669
+#, kde-format
+msgid "Filters which were imported:"
+msgstr "Các bộ lọc đã được nhập:"
+
+#: filter/kmfilterdialog.cpp:677
+#, kde-format
+msgid "Any filter found."
+msgstr "Không tìm thấy bộ lọc nào."
+
+#: filter/kmfilterdialog.cpp:706
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Some filters were changed and not saved yet.<br>You must save your filters "
+"before they can be exported."
+msgstr ""
+"Một số bộ lọc đã được thay đổi và chưa được lưu.<br>Bạn phải lưu các bộ lọc "
+"trước khi có thể xuất chúng."
+
+#: filter/kmfilterdialog.cpp:712
+#, kde-format
+msgid "We cannot convert all KMail filters to sieve scripts but we can try :)"
+msgstr ""
+"Chúng tôi không thể chuyển đổi tất cả các bộ lọc KMail thành các kịch bản "
+"sieve nhưng chúng tôi có thể thử :)"
+
+#: filter/kmfilterdialog.cpp:713 filter/kmfilterdialog.cpp:729
+#, kde-format
+msgid "Convert KMail filters to sieve scripts"
+msgstr "Chuyển đổi bộ lọc KMail thành các kịch bản sieve"
+
+#: filter/kmfilterlistbox.cpp:41
+#, kde-format
+msgid ""
+"<qt><p>This is the list of defined filters. They are processed top-to-bottom."
+"</p><p>Click on any filter to edit it using the controls in the right-hand "
+"half of the dialog.</p></qt>"
+msgstr ""
+"<qt><p>Đây là danh sách các bộ lọc đã được định nghĩa. Chúng được xử lý từ "
+"trên xuống dưới.</p><p>Nhấp vào bất kỳ bộ lọc nào để sửa nó bằng cách sử "
+"dụng các điều khiển ở nửa bên phải của hộp thoại.</p></qt>"
+
+#: filter/kmfilterlistbox.cpp:83
+#, kde-format
+msgctxt "Move selected filter up."
+msgid "Up"
+msgstr "Lên"
+
+#: filter/kmfilterlistbox.cpp:84
+#, kde-format
+msgctxt "Move selected filter down."
+msgid "Down"
+msgstr "Xuống"
+
+#: filter/kmfilterlistbox.cpp:85
+#, kde-format
+msgctxt "Move selected filter to the top."
+msgid "Top"
+msgstr "Lên trên"
+
+#: filter/kmfilterlistbox.cpp:86
+#, kde-format
+msgctxt "Move selected filter to the bottom."
+msgid "Bottom"
+msgstr "Chuyển bộ lọc đã chọn xuống dưới cùng."
+
+#: filter/kmfilterlistbox.cpp:88
+#, kde-format
+msgid ""
+"<qt><p>Click this button to move the currently-selected filter <em>up</em> "
+"one in the list above.</p><p>This is useful since the order of the filters "
+"in the list determines the order in which they are tried on messages: The "
+"topmost filter gets tried first.</p><p>If you have clicked this button "
+"accidentally, you can undo this by clicking on the <em>Down</em> button.</"
+"p></qt>"
+msgstr ""
+"<qt><p>Nhấp vào nút này để di chuyển bộ lọc đang được chọn <em>lên</em> một "
+"vị trí trong danh sách trên.</p><p>Điều này hữu ích vì thứ tự của các bộ "
+"lọc trong danh sách quyết định thứ tự chúng được áp dụng cho các thư: Bộ "
+"lọc ở trên cùng sẽ được thử đầu tiên.</p><p>Nếu bạn đã nhấp vào nút này do "
+"nhầm lẫn, bạn có thể đảo ngược bằng cách nhấp vào nút "
+"<em>Xuống</em>.</p></qt>"
+
+#: filter/kmfilterlistbox.cpp:96
+#, kde-format
+msgid ""
+"<qt><p>Click this button to move the currently-selected filter <em>down</em> "
+"one in the list above.</p><p>This is useful since the order of the filters "
+"in the list determines the order in which they are tried on messages: The "
+"topmost filter gets tried first.</p><p>If you have clicked this button "
+"accidentally, you can undo this by clicking on the <em>Up</em> button.</p></"
+"qt>"
+msgstr ""
+"<qt><p>Nhấp vào nút này để di chuyển bộ lọc đang được chọn <em>xuống</em> "
+"một vị trí trong danh sách trên.</p><p>Điều này hữu ích vì thứ tự của các "
+"bộ lọc trong danh sách quyết định thứ tự chúng được áp dụng cho các thư: Bộ "
+"lọc ở trên cùng sẽ được áp dụng trước.</p><p>Nếu bạn đã nhấp vào nút này do "
+"nhầm lẫn, bạn có thể đảo ngược bằng cách nhấp vào nút "
+"<em>Lên</em>.</p></qt>"
+
+#: filter/kmfilterlistbox.cpp:104
+#, kde-format
+msgid ""
+"<qt><p>Click this button to move the currently-selected filter to bottom of "
+"list.</p><p>This is useful since the order of the filters in the list "
+"determines the order in which they are tried on messages: The topmost filter "
+"gets tried first.</p></qt>"
+msgstr ""
+"<qt><p>Nhấp vào nút này để di chuyển bộ lọc đang được chọn xuống cuối danh "
+"sách.</p><p>Điều này hữu ích vì thứ tự của các bộ lọc trong danh sách quyết "
+"định thứ tự mà chúng được áp dụng cho các tin nhắn: Bộ lọc ở trên cùng sẽ "
+"được thử đầu tiên.</p></qt>"
+
+#: filter/kmfilterlistbox.cpp:110
+#, kde-format
+msgid ""
+"<qt><p>Click this button to move the currently-selected filter to top of "
+"list.</p><p>This is useful since the order of the filters in the list "
+"determines the order in which they are tried on messages: The topmost filter "
+"gets tried first.</p></qt>"
+msgstr ""
+"<qt><p>Nhấp vào nút này để di chuyển bộ lọc đang được chọn lên đầu danh "
+"sách.</p><p>Điều này rất hữu ích vì thứ tự của các bộ lọc trong danh sách "
+"quyết định thứ tự mà chúng được áp dụng cho các tin nhắn: Bộ lọc ở trên "
+"cùng sẽ được thử đầu tiên.</p></qt>"
+
+#: filter/kmfilterlistbox.cpp:140
+#, kde-format
+msgctxt "@action:button in filter list manipulator"
+msgid "New"
+msgstr "Mới"
+
+#: filter/kmfilterlistbox.cpp:141
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Copy"
+msgstr "Sao chép"
+
+#: filter/kmfilterlistbox.cpp:142
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Delete"
+msgstr "Xóa"
+
+#: filter/kmfilterlistbox.cpp:143
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Rename"
+msgstr "Đổi tên"
+
+#: filter/kmfilterlistbox.cpp:145
+#, kde-format
+msgid ""
+"<qt><p>Click this button to create a new filter.</p><p>The filter will be "
+"inserted just before the currently-selected one, but you can always change "
+"that later on.</p><p>If you have clicked this button accidentally, you can "
+"undo this by clicking on the <em>Delete</em> button.</p></qt>"
+msgstr ""
+"<qt><p>Nhấp vào nút này để tạo một bộ lọc mới.</p><p>Bộ lọc sẽ được chèn "
+"ngay trước bộ lọc đang được chọn, nhưng bạn luôn có thể thay đổi điều đó "
+"sau.</p><p>Nếu bạn đã nhấp vào nút này do vô tình, bạn có thể đảo ngược "
+"thao tác này bằng cách nhấp vào nút <em>Xóa</em>.</p></qt>"
+
+#: filter/kmfilterlistbox.cpp:152
+#, kde-format
+msgid ""
+"<qt><p>Click this button to copy a filter.</p><p>If you have clicked this "
+"button accidentally, you can undo this by clicking on the <em>Delete</em> "
+"button.</p></qt>"
+msgstr ""
+"<qt><p>Nhấp vào nút này để sao chép một bộ lọc.</p><p>Nếu bạn đã nhấp vào "
+"nút này do vô tình, bạn có thể đảo ngược thao tác này bằng cách nhấp vào "
+"nút <em>Xóa</em>.</p></qt>"
+
+#: filter/kmfilterlistbox.cpp:156
+#, kde-format
+msgid ""
+"<qt><p>Click this button to <em>delete</em> the currently-selected filter "
+"from the list above.</p><p>There is no way to get the filter back once it is "
+"deleted, but you can always leave the dialog by clicking <em>Cancel</em> to "
+"discard the changes made.</p></qt>"
+msgstr ""
+"<qt><p>Nhấp vào nút này để <em>xóa</em> bộ lọc đang được chọn khỏi danh "
+"sách trên.</p><p>Không có cách nào để lấy lại bộ lọc sau khi đã xóa, nhưng "
+"bạn luôn có thể thoát khỏi hộp thoại bằng cách nhấp vào <em>Hủy</em> để "
+"loại bỏ các thay đổi đã thực hiện.</p></qt>"
+
+#: filter/kmfilterlistbox.cpp:163
+#, kde-format
+msgid ""
+"<qt><p>Click this button to rename the currently-selected filter.</"
+"p><p>Filters are named automatically, as long as they start with \"&lt;\".</"
+"p><p>If you have renamed a filter accidentally and want automatic naming "
+"back, click this button and select <em>Clear</em> followed by <em>OK</em> in "
+"the appearing dialog.</p></qt>"
+msgstr ""
+"<qt><p>Bấm nút này để đổi tên bộ &lọc đang được chọn.</p><p>Các bộ lọc được "
+"đặt tên tự động, miễn là chúng khởi động với \"lt;\".</p><p>Nếu bạn vô tình "
+"đổi tên một bộ lọc và muốn quay lại đặt tên tự động, hãy bấm nút này và bôi "
+"đen <em>Xóa</em> sau đó bấm <em>OK</em> trong hộp thoại xuất hiện.</p></qt>"
+
+#: filter/kmfilterlistbox.cpp:290
+#, kde-format
+msgid "unnamed"
+msgstr "không tên"
+
+#: filter/kmfilterlistbox.cpp:444
+#, kde-format
+msgid "Do you want to remove the filter \"%1\"?"
+msgstr "Bạn có muốn xoá bỏ bộ lọc \"%1\" không?"
+
+#: filter/kmfilterlistbox.cpp:444
+#, kde-format
+msgid "Do you want to remove selected filters?"
+msgstr "Bạn có muốn xoá các bộ lọc đã chọn không?"
+
+#: filter/kmfilterlistbox.cpp:445
+#, kde-format
+msgid "Remove Filter"
+msgstr "Xoá Bộ Lọc"
+
+#: filter/kmfilterlistbox.cpp:445
+#, kde-format
+msgid "Remove Filters"
+msgstr "Xoá Bộ Lọc"
+
+#: filter/kmfilterlistbox.cpp:661
+#, kde-format
+msgid "Rename Filter"
+msgstr "Đổi tên bộ lọc"
+
+#: filter/kmfilterlistbox.cpp:662
+#, kde-format
+msgid ""
+"Rename filter \"%1\" to:\n"
+"(leave the field empty for automatic naming)"
+msgstr "Đổi tên bộ lọc \"%1\" thành:\n(để trống trường này để đặt tên tự động)"
+
+#: filter/mailfilter.cpp:131
+#, kde-format
+msgid "<b>Applying filter action:</b> %1"
+msgstr "<b>Đang áp dụng hành động lọc:</b> %1"
+
+#: filter/mailfilter.cpp:140
+#, kde-format
+msgid "A critical error occurred. Processing stops here."
+msgstr "Đã xảy ra lỗi nghiêm trọng. Xử lý dừng lại tại đây."
+
+#: filter/mailfilter.cpp:147
+#, kde-format
+msgid "A problem was found while applying this action."
+msgstr "Đã phát hiện vấn đề khi áp dụng hành động này."
+
+#: filter/mailfilter.cpp:427
+#, kde-format
+msgid "<qt>Too many filter actions in filter rule <b>%1</b>.</qt>"
+msgstr "<qt>Quá nhiều hành động lọc trong quy tắc lọc <b>%1</b>.</qt>"
+
+#: filter/mailfilter.cpp:461
+#, kde-format
+msgid ""
+"<qt>Unknown filter action <b>%1</b><br />in filter rule <b>%2</b>.<br /"
+">Ignoring it.</qt>"
+msgstr ""
+"<qt>Hành động lọc không xác định <b>%1</b><br />trong quy tắc lọc "
+"<b>%2</b>.<br />Đang bỏ qua nó.</qt>"
+
+#: filter/mailfilter.cpp:569
+#, kde-format
+msgid "Any action defined."
+msgstr "Bất kỳ hành động nào được định nghĩa."
+
+#: filter/soundtestwidget.cpp:33 filter/soundtestwidget.cpp:110
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Play"
+msgstr "Phát"
+
+#: filter/soundtestwidget.cpp:62
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Sound File"
+msgstr "Chọn Tệp Âm Thanh"
+
+#: filter/soundtestwidget.cpp:107
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Pause"
+msgstr "Tạm dừng"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: filter/ui/filterconfigwidget.ui:19
+#, kde-format
+msgid "Name:"
+msgstr "Tên:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: filter/ui/filterconfigwidget.ui:45
+#, kde-format
+msgid "Criteria"
+msgstr "Tiêu chí"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: filter/ui/filterconfigwidget.ui:87
+#, kde-format
+msgid "Actions"
+msgstr "Hành động"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: filter/ui/filterconfigwidget.ui:129
+#, kde-format
+msgid "Apply options"
+msgstr "Áp dụng tùy chọn"
+
+#. i18n: ectx: property (text), widget (QCheckBox, applyToIncomingCB)
+#: filter/ui/filterconfigwidget.ui:138
+#, kde-format
+msgid "Apply to incoming messages"
+msgstr "Áp dụng cho tin nhắn đến"
+
+#. i18n: ectx: property (text), widget (QCheckBox, applyToSentCB)
+#: filter/ui/filterconfigwidget.ui:145
+#, kde-format
+msgid "Apply to sent messages"
+msgstr "Áp dụng cho tin nhắn đã gửi"
+
+#. i18n: ectx: property (text), widget (QCheckBox, applyBeforeSendCB)
+#: filter/ui/filterconfigwidget.ui:152
+#, kde-format
+msgid "Apply before sending messages"
+msgstr "Áp dụng trước khi gửi tin nhắn"
+
+#. i18n: ectx: property (text), widget (QCheckBox, applyManuallyCB)
+#: filter/ui/filterconfigwidget.ui:159
+#, kde-format
+msgid "Apply on manual filtering"
+msgstr "Áp dụng khi lọc thủ công"
+
+#. i18n: ectx: property (text), widget (QCheckBox, stopIfMatchesCB)
+#: filter/ui/filterconfigwidget.ui:169
+#, kde-format
+msgid "Stop processing if matches"
+msgstr "Dừng xử lý nếu khớp"
+
+#. i18n: ectx: property (text), widget (QRadioButton, selectFile)
+#: filter/ui/selectthunderbirdfilterfileswidget.ui:29
+#, kde-format
+msgid "Select File:"
+msgstr "Bôi đen Tệp:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, selectFromConfig)
+#: filter/ui/selectthunderbirdfilterfileswidget.ui:45
+#, kde-format
+msgid "Select file from config:"
+msgstr "Bôi đen tệp từ cấu hình:"
+
+#: folder/accountconfigorderdialog.cpp:57
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Accounts Order"
+msgstr "Sửa Thứ Tự Tài Khoản"
+
+#: folder/accountconfigorderdialog.cpp:74
+#, kde-format
+msgid "Use custom order"
+msgstr "Sử dụng thứ tự tùy chỉnh"
+
+#: folder/accountconfigorderdialog.cpp:91
+#, kde-format
+msgctxt "Move selected account up."
+msgid "Up"
+msgstr "Lên"
+
+#: folder/accountconfigorderdialog.cpp:99
+#, kde-format
+msgctxt "Move selected account down."
+msgid "Down"
+msgstr "Xuống"
+
+#: folder/folderrequester.cpp:45
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Select Folder"
+msgstr "Chọn Thư mục"
+
+#: folder/folderrequester.cpp:113
+#, kde-format
+msgid "Local Folders"
+msgstr "Thư mục cục bộ"
+
+#: folder/folderrequester.cpp:123 folder/folderrequester.cpp:141
+#, kde-format
+msgid "Please select a folder"
+msgstr "Vui lòng bôi đen một thư mục"
+
+#: folder/folderselectiondialog.cpp:64
+#, kde-format
+msgctxt "@action:button"
+msgid "&New Subfolder…"
+msgstr "&Thư mục con mới..."
+
+#: folder/folderselectiondialog.cpp:66
+#, kde-format
+msgid "Create a new subfolder under the currently selected folder"
+msgstr "Tạo một thư mục con mới dưới thư mục đã chọn"
+
+#: folder/folderselectiondialog.cpp:126
+#, kde-format
+msgid "&New Subfolder…"
+msgstr "Thư mụ&c con mới..."
+
+#: folder/folderselectiondialog.cpp:179
+#, kde-format
+msgctxt "@title:window"
+msgid "New Folder"
+msgstr "Thư mục mới"
+
+#: folder/folderselectiondialog.cpp:179
+#, kde-format
+msgctxt "@label:textbox, name of a thing"
+msgid "Name"
+msgstr "Tên"
+
+#: folder/folderselectiondialog.cpp:196
+#, kde-format
+msgid "Could not create folder: %1"
+msgstr "Không thể tạo thư mục: %1"
+
+#: folder/folderselectiondialog.cpp:196
+#, kde-format
+msgid "Folder creation failed"
+msgstr "Tạo thư mục không thành công"
+
+#: folder/foldertreeview.cpp:130
+#, kde-format
+msgid "View Columns"
+msgstr "Các cột xem"
+
+#: folder/foldertreeview.cpp:140
+#, kde-format
+msgid "Icon Size"
+msgstr "Kích thước biểu tượng"
+
+#: folder/foldertreeview.cpp:156
+#, kde-format
+msgid "Display Tooltips"
+msgstr "Bộ hiển thị chú giải"
+
+#: folder/foldertreeview.cpp:160
+#, kde-format
+msgctxt "@action:inmenu Always display tooltips"
+msgid "Always"
+msgstr "Luôn luôn"
+
+#: folder/foldertreeview.cpp:167
+#, kde-format
+msgctxt "@action:inmenu Never display tooltips."
+msgid "Never"
+msgstr "Không bao giờ"
+
+#: folder/foldertreeview.cpp:174
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Sort Items"
+msgstr "Sắp xếp các mục"
+
+#: folder/foldertreeview.cpp:178
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Automatically, by Current Column"
+msgstr "Tự động, theo Cột Hiện Tại"
+
+#: folder/foldertreeview.cpp:185
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Manually, by Drag And Drop"
+msgstr "Thủ công, bằng cách kéo và thả"
+
+#: folder/foldertreeview.cpp:475 folder/foldertreeview.cpp:517
+#, kde-format
+msgid "<qt>Go to the next unread message in folder <b>%1</b>?</qt>"
+msgstr "<qt>Đi đến thông điệp chưa đọc tiếp theo trong thư mục <b>%1</b>?</qt>"
+
+#: folder/foldertreeview.cpp:476 folder/foldertreeview.cpp:518
+#, kde-format
+msgid "Go to Next Unread Message"
+msgstr "Đi đến Thông điệp Chưa đọc Tiếp theo"
+
+#: folder/foldertreeview.cpp:477 folder/foldertreeview.cpp:519
+#, kde-format
+msgctxt "@action:button"
+msgid "Go To"
+msgstr "Đi đến"
+
+#: folder/foldertreeview.cpp:478 folder/foldertreeview.cpp:520
+#, kde-format
+msgctxt "@action:button"
+msgid "Do Not Go To"
+msgstr "Không đi đến"
+
+#: folder/foldertreewidget.cpp:78
+#, kde-format
+msgctxt "@label:textbox"
+msgid "You can start typing to filter the list of folders."
+msgstr "Bạn có thể bắt đầu gõ để lọc danh sách các thư mục."
+
+#: folder/foldertreewidget.cpp:312
+#, kde-format
+msgid "You can start typing to filter the list of folders."
+msgstr "Bạn có thể bắt đầu gõ để lọc danh sách các thư mục."
+
+#: folder/foldertreewidget.cpp:312
+#, kde-format
+msgid "Path: (%1)"
+msgstr "Đường dẫn: (%1)"
+
+#: folder/foldertreewidgetproxymodel.cpp:233
+#, kde-format
+msgid "%1 (Offline)"
+msgstr "%1 (Ngoại tuyến)"
+
+#: folder/foldertreewidgetproxymodel.cpp:237
+#, kde-format
+msgid "%1 (Reached %2% quota)"
+msgstr "%1 (Đã đạt %2% hạn mức)"
+
+#: job/backupjob.cpp:94
+#, kde-format
+msgid "Unable to retrieve folder list."
+msgstr "Không thể lấy danh sách thư mục."
+
+#: job/backupjob.cpp:121
+#, kde-format
+msgid "The operation was canceled by the user."
+msgstr "Thao tác đã bị người dùng huỷ."
+
+#: job/backupjob.cpp:151
+#, kde-format
+msgid "Failed to archive the folder '%1'."
+msgstr "Không thể lưu trữ thư mục '%1'."
+
+#: job/backupjob.cpp:155
+#, kde-format
+msgid "Archiving failed"
+msgstr "Lưu trữ không thành công"
+
+#: job/backupjob.cpp:165
+#, kde-format
+msgid "Unable to finalize the archive file."
+msgstr "Không thể hoàn tất tệp kho trữ."
+
+#: job/backupjob.cpp:170 job/backupjob.cpp:193
+#, kde-format
+msgid "Archiving finished"
+msgstr "Lưu trữ đã hoàn tất"
+
+#: job/backupjob.cpp:181
+#, kde-format
+msgid ""
+"Archiving folder '%1' successfully completed. The archive was written to the "
+"file '%2'."
+msgstr "Lưu trữ thư mục '%1' thành công. Kho trữ đã được ghi vào tệp '%2'."
+
+#: job/backupjob.cpp:187
+#, kde-format
+msgid "1 message of size %2 was archived."
+msgid_plural "%1 messages with the total size of %2 were archived."
+msgstr[0] "%1 tin nhắn với tổng kích thước %2 đã được lưu trữ."
+
+#: job/backupjob.cpp:191
+#, kde-format
+msgid "The archive file has a size of %1."
+msgstr "Tệp kho trữ có kích thước %1."
+
+#: job/backupjob.cpp:243
+#, kde-format
+msgid "Failed to write a message into the archive folder '%1'."
+msgstr "Không thể ghi một thông điệp vào thư mục kho trữ '%1'."
+
+#: job/backupjob.cpp:267
+#, kde-format
+msgid "Downloading a message in folder '%1' failed."
+msgstr "Tải về thông điệp trong thư mục '%1' thất bại."
+
+#: job/backupjob.cpp:333
+#, kde-format
+msgid "Archiving folder %1"
+msgstr "Đang lưu trữ thư mục %1"
+
+#: job/backupjob.cpp:358
+#, kde-format
+msgid "Unable to create folder structure for folder '%1' within archive file."
+msgstr "Không thể tạo cấu trúc thư mục cho thư mục '%1' trong tệp kho trữ."
+
+#: job/backupjob.cpp:370
+#, kde-format
+msgid "Unable to get message list for folder %1."
+msgstr "Không thể lấy danh sách thông điệp cho thư mục %1."
+
+#: job/backupjob.cpp:408
+#, kde-format
+msgid "Unable to open archive for writing."
+msgstr "Không thể mở kho trữ để ghi."
+
+#: job/backupjob.cpp:412
+#, kde-format
+msgid "Archiving"
+msgstr "Lưu trữ"
+
+#: job/expiredeletejob.cpp:66
+#, kde-format
+msgid "Removed 1 old message from folder %2."
+msgid_plural "Removed %1 old messages from folder %2."
+msgstr[0] "Đã xóa %1 tin nhắn cũ khỏi thư mục %2."
+
+#: job/expiredeletejob.cpp:70
+#, kde-format
+msgid "Removing old messages from folder %1 was canceled."
+msgstr "Việc xóa các tin nhắn cũ khỏi thư mục %1 đã bị hủy."
+
+#: job/expiredeletejob.cpp:74
+#, kde-format
+msgid "Removing old messages from folder %1 failed."
+msgstr "Xóa các tin nhắn cũ từ thư mục %1 không thành công."
+
+#: job/expirejob.cpp:157
+#, kde-format
+msgid "Removing 1 old message from folder %2…"
+msgid_plural "Removing %1 old messages from folder %2..."
+msgstr[0] "Đang xóa %1 tin nhắn cũ khỏi thư mục %2..."
+
+#: job/expirejob.cpp:164
+#, kde-format
+msgid "Cannot expire messages from folder %1: destination folder %2 not found"
+msgstr ""
+"Không thể hết hạn các tin nhắn từ thư mục %1: thư mục đích %2 không được "
+"tìm thấy"
+
+#: job/expirejob.cpp:180
+#, kde-format
+msgid "Moving 1 old message from folder %2 to folder %3…"
+msgid_plural "Moving %1 old messages from folder %2 to folder %3…"
+msgstr[0] "Đang di chuyển %1 tin nhắn cũ từ thư mục %2 đến thư mục %3..."
+
+#: job/expiremovejob.cpp:127
+#, kde-format
+msgid "Moved 1 old message from folder %2 to folder %3."
+msgid_plural "Moved %1 old messages from folder %2 to folder %3."
+msgstr[0] "Đã di chuyển %1 tin nhắn cũ từ thư mục %2 đến thư mục %3."
+
+#: job/expiremovejob.cpp:136
+#, kde-format
+msgid "Moving old messages from folder %1 to folder %2 was canceled."
+msgstr "Việc di chuyển các tin nhắn cũ từ thư mục %1 đến thư mục %2 đã bị hủy."
+
+#: job/expiremovejob.cpp:143
+#, kde-format
+msgid "Moving old messages from folder %1 to folder %2 failed."
+msgstr "Di chuyển các tin nhắn cũ từ thư mục %1 đến thư mục %2 không thành công."
+
+#: kernel/mailkernel.cpp:179 kernel/mailkernel.cpp:201
+#, kde-format
+msgid "You do not have read/write permission to your inbox folder."
+msgstr "Bạn không có quyền đọc/ghi vào thư mục hộp thư đến của bạn."
+
+#: kernel/mailkernel.cpp:230
+#, kde-format
+msgid "The Email program encountered a fatal error and will terminate now"
+msgstr "Chương trình Email đã gặp lỗi nghiêm trọng và sẽ kết thúc ngay bây giờ"
+
+#: kernel/mailkernel.cpp:233
+#, kde-format
+msgid ""
+"The Email program encountered a fatal error and will terminate now.\n"
+"The error was:\n"
+"%1"
+msgstr ""
+"Chương trình Thư điện tử đã gặp lỗi nghiêm trọng và sẽ kết thúc ngay bây "
+"giờ.\nLỗi là:\n%1"
+
+#: search/searchpattern.cpp:235
+#, kde-format
+msgctxt "name used for a virgin filter"
+msgid "unknown"
+msgstr "không rõ"
+
+#: search/searchpattern.cpp:243
+#, kde-format
+msgid "(match any of the following)"
+msgstr "(khớp với bất kỳ điều nào sau đây)"
+
+#: search/searchpattern.cpp:246
+#, kde-format
+msgid "(match all of the following)"
+msgstr "( khớp tất cả các điều sau)"
+
+#: search/searchpattern.cpp:249
+#, kde-format
+msgid "(match all messages)"
+msgstr "(khớp tất cả các tin nhắn)"
+
+#: search/searchpatternedit.cpp:41
+msgid "Complete Message"
+msgstr "thông điệp hoàn tất"
+
+#: search/searchpatternedit.cpp:42
+msgid "Body of Message"
+msgstr "thông điệp"
+
+#: search/searchpatternedit.cpp:43
+msgid "Anywhere in Headers"
+msgstr "Bất cứ nơi nào trong Tiêu đề"
+
+#: search/searchpatternedit.cpp:44
+msgid "All Recipients"
+msgstr "Tất cả người nhận"
+
+#: search/searchpatternedit.cpp:45
+msgid "Size in Bytes"
+msgstr "Kích thước tính bằng Byte"
+
+#: search/searchpatternedit.cpp:46
+msgid "Age in Days"
+msgstr "Tuổi tính bằng ngày"
+
+#: search/searchpatternedit.cpp:47
+msgid "Message Status"
+msgstr "Trạng thái thông điệp"
+
+#: search/searchpatternedit.cpp:48
+msgid "Message Tag"
+msgstr "Thẻ thông điệp"
+
+#: search/searchpatternedit.cpp:49
+msgid "Subject"
+msgstr "Chủ đề"
+
+#: search/searchpatternedit.cpp:50
+msgid "From"
+msgstr "Từ"
+
+#: search/searchpatternedit.cpp:51
+msgid "To"
+msgstr "Đến"
+
+#: search/searchpatternedit.cpp:53
+msgid "Reply To"
+msgstr "Hồi đáp"
+
+#: search/searchpatternedit.cpp:54
+msgid "Organization"
+msgstr "Tổ chức"
+
+#: search/searchpatternedit.cpp:55
+msgid "Date"
+msgstr "Ngày"
+
+#: search/searchpatternedit.cpp:56
+msgid "Encryption"
+msgstr "mật mã hoá"
+
+#: search/searchpatternedit.cpp:144
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Choose or type your own criteria"
+msgstr "Chọn hoặc nhập tiêu chí của bạn"
+
+#: search/searchpatternedit.cpp:145
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Choose or type your own criteria"
+msgstr "Chọn hoặc nhập tiêu chí của bạn"
+
+#: search/searchpatternedit.cpp:580
+#, kde-format
+msgid "Match a&ll of the following"
+msgstr "Khớp tất cả những điề&u sau"
+
+#: search/searchpatternedit.cpp:581
+#, kde-format
+msgid "Match an&y of the following"
+msgstr "Khớp với bất kỳ điều nào sau đâ&y"
+
+#: search/searchpatternedit.cpp:583
+#, kde-format
+msgid "Match all messages"
+msgstr "Khớp tất cả các tin nhắn"
+
+#: search/searchpatternedit.cpp:594
+#, kde-format
+msgid "Filter criteria:"
+msgstr "Tiêu chí lọc:"
+
+#: search/searchrule/searchrule.cpp:177
+#, kde-format
+msgid "equal"
+msgstr "bằng"
+
+#: search/searchrule/searchrule.cpp:180
+#, kde-format
+msgid "not equal"
+msgstr "không bằng"
+
+#: search/searchrule/searchrule.cpp:183
+#, kde-format
+msgid "is greater"
+msgstr "lớn hơn"
+
+#: search/searchrule/searchrule.cpp:186
+#, kde-format
+msgid "is less or equal"
+msgstr "nhỏ hơn hoặc bằng"
+
+#: search/searchrule/searchrule.cpp:189
+#, kde-format
+msgid "is less"
+msgstr "nhỏ hơn"
+
+#: search/searchrule/searchrule.cpp:192
+#, kde-format
+msgid "is greater or equal"
+msgstr "lớn hơn hoặc bằng"
+
+#: search/searchrule/searchrule.cpp:195
+#, kde-format
+msgid "is in addressbook"
+msgstr "có trong sổ địa chỉ"
+
+#: search/searchrule/searchrule.cpp:198
+#, kde-format
+msgid "is not in addressbook"
+msgstr "không có trong sổ địa chỉ"
+
+#: search/searchrule/searchrule.cpp:201 search/searchrule/searchrule.cpp:204
+#, kde-format
+msgid "is in category"
+msgstr "nằm trong danh mục"
+
+#: search/searchrule/searchrule.cpp:207 search/widgethandler/messagerulewidgethandler.cpp:28
+#: search/widgethandler/messagerulewidgethandler.cpp:145
+#, kde-format
+msgid "has an attachment"
+msgstr "có tệp đính kèm"
+
+#: search/searchrule/searchrule.cpp:210
+#, kde-format
+msgid "has not an attachment"
+msgstr "không có tệp đính kèm"
+
+#: search/searchrule/searchrule.cpp:213
+#, kde-format
+msgid "start with"
+msgstr "bắt đầu với"
+
+#: search/searchrule/searchrule.cpp:216
+#, kde-format
+msgid "not start with"
+msgstr "không bắt đầu với"
+
+#: search/searchrule/searchrule.cpp:219
+#, kde-format
+msgid "end with"
+msgstr "kết thúc bằng"
+
+#: search/searchrule/searchrule.cpp:222
+#, kde-format
+msgid "not end with"
+msgstr "không kết thúc bằng"
+
+#: search/searchrule/searchrule.cpp:225
+#, kde-format
+msgid "none"
+msgstr "không"
+
+#: search/searchrule/searchrule.cpp:228 search/widgethandler/headersrulerwidgethandler.cpp:25
+#: search/widgethandler/messagerulewidgethandler.cpp:24
+#: search/widgethandler/tagrulewidgethandler.cpp:93
+#: search/widgethandler/textrulerwidgethandler.cpp:24
+#, kde-format
+msgid "contains"
+msgstr "chứa"
+
+#: search/searchrule/searchrule.cpp:231
+#, kde-format
+msgid "not contains"
+msgstr "không chứa"
+
+#: search/searchrule/searchrule.cpp:234
+#, kde-format
+msgid "has regexp"
+msgstr "có biểu thức chính quy"
+
+#: search/searchrule/searchrule.cpp:237
+#, kde-format
+msgid "not regexp"
+msgstr "không phải regexp"
+
+#: search/searchrule/searchrule.cpp:251
+#, kde-format
+msgid "size equals not supported"
+msgstr "kích thước không bằng không được hỗ trợ"
+
+#: search/searchrule/searchrule.cpp:254
+#, kde-format
+msgid "size not equals not supported"
+msgstr "kích thước không bằng không được hỗ trợ"
+
+#: search/searchrule/searchrule.cpp:285 search/searchrule/searchrule.cpp:392
+#: search/searchrule/searchrule.cpp:474
+#, kde-format
+msgid "\"%1\" is not supported with condition \"%2\""
+msgstr "\"%1\" không được hỗ trợ với điều kiện \"%2\""
+
+#: search/searchrule/searchrule.cpp:292
+#, kde-format
+msgid "<status> not implemented/supported"
+msgstr "<status> chưa được triển khai/hỗ trợ"
+
+#: search/searchrule/searchrule.cpp:295
+#, kde-format
+msgid "<any header> not implemented/supported"
+msgstr "Chưa được thực hiện/hỗ trợ <any header>"
+
+#: search/searchrule/searchrule.cpp:298
+#, kde-format
+msgid "<contents> not implemented/supported"
+msgstr "<contents> chưa được triển khai/hỗ trợ"
+
+#: search/searchrule/searchrule.cpp:301
+#, kde-format
+msgid "<age in days> not implemented/supported"
+msgstr "Chưa được thực hiện/hỗ trợ <age in days>"
+
+#: search/searchrule/searchrule.cpp:304
+#, kde-format
+msgid "<date> not implemented/supported"
+msgstr "<date> chưa được triển khai/hỗ trợ"
+
+#: search/searchrule/searchrule.cpp:307
+#, kde-format
+msgid "<recipients> not implemented/supported"
+msgstr "<recipients> chưa được triển khai/hỗ trợ"
+
+#: search/searchrule/searchrule.cpp:309
+#, kde-format
+msgid "<Tag> is not supported"
+msgstr "<Tag> không được hỗ trợ"
+
+#: search/searchrule/searchrule.cpp:312
+#, kde-format
+msgid "<message> not implemented/supported"
+msgstr " chưa được triển khai/hỗ trợ"
+
+#: search/searchrule/searchruledate.cpp:23
+#, kde-format
+msgid "Date is not valid."
+msgstr "Ngày không hợp lệ."
+
+#: search/searchrule/searchrulenumerical.cpp:137
+#, kde-format
+msgid "Content is not a number."
+msgstr "Nội dung không phải là số."
+
+#: search/searchrule/searchrulestring.cpp:235
+#, kde-format
+msgid "String is empty."
+msgstr "Chuỗi trống."
+
+#: search/widgethandler/daterulewidgethandler.cpp:22
+#: search/widgethandler/numericdoublerulewidgethandler.cpp:21
+#: search/widgethandler/numericrulewidgethandler.cpp:21
+msgid "is equal to"
+msgstr "bằng"
+
+#: search/widgethandler/daterulewidgethandler.cpp:23
+#: search/widgethandler/numericdoublerulewidgethandler.cpp:22
+#: search/widgethandler/numericrulewidgethandler.cpp:22
+msgid "is not equal to"
+msgstr "không bằng"
+
+#: search/widgethandler/daterulewidgethandler.cpp:24
+msgid "is after"
+msgstr "sau"
+
+#: search/widgethandler/daterulewidgethandler.cpp:25
+msgid "is before or equal to"
+msgstr "trước hoặc bằng"
+
+#: search/widgethandler/daterulewidgethandler.cpp:26
+msgid "is before"
+msgstr "trước"
+
+#: search/widgethandler/daterulewidgethandler.cpp:27
+msgid "is after or equal to"
+msgstr "sau hoặc bằng"
+
+#: search/widgethandler/encryptionwidgethandler.cpp:17
+#: search/widgethandler/statusrulewidgethandler.cpp:18
+msgid "is"
+msgstr "là"
+
+#: search/widgethandler/encryptionwidgethandler.cpp:17
+#: search/widgethandler/statusrulewidgethandler.cpp:18
+msgid "is not"
+msgstr "không phải"
+
+#: search/widgethandler/encryptionwidgethandler.cpp:54
+#, kde-format
+msgctxt "@label:textbox"
+msgid "encrypted"
+msgstr "mật mã hoá"
+
+#: search/widgethandler/encryptionwidgethandler.cpp:91
+#, kde-format
+msgid "is encrypted"
+msgstr "mật mã hoá"
+
+#: search/widgethandler/headersrulerwidgethandler.cpp:26
+#: search/widgethandler/messagerulewidgethandler.cpp:25
+#: search/widgethandler/tagrulewidgethandler.cpp:94
+#: search/widgethandler/textrulerwidgethandler.cpp:25
+msgid "does not contain"
+msgstr "không chứa"
+
+#: search/widgethandler/headersrulerwidgethandler.cpp:27
+#: search/widgethandler/tagrulewidgethandler.cpp:95
+#: search/widgethandler/textrulerwidgethandler.cpp:26
+msgid "equals"
+msgstr "bằng"
+
+#: search/widgethandler/headersrulerwidgethandler.cpp:28
+#: search/widgethandler/tagrulewidgethandler.cpp:96
+#: search/widgethandler/textrulerwidgethandler.cpp:27
+msgid "does not equal"
+msgstr "không bằng"
+
+#: search/widgethandler/headersrulerwidgethandler.cpp:29
+#: search/widgethandler/textrulerwidgethandler.cpp:28
+msgid "starts with"
+msgstr "bắt đầu với"
+
+#: search/widgethandler/headersrulerwidgethandler.cpp:30
+#: search/widgethandler/textrulerwidgethandler.cpp:29
+msgid "does not start with"
+msgstr "không bắt đầu với"
+
+#: search/widgethandler/headersrulerwidgethandler.cpp:31
+#: search/widgethandler/textrulerwidgethandler.cpp:30
+msgid "ends with"
+msgstr "kết thúc với"
+
+#: search/widgethandler/headersrulerwidgethandler.cpp:32
+#: search/widgethandler/textrulerwidgethandler.cpp:31
+msgid "does not end with"
+msgstr "không kết thúc bằng"
+
+#: search/widgethandler/headersrulerwidgethandler.cpp:34
+#: search/widgethandler/messagerulewidgethandler.cpp:26
+#: search/widgethandler/tagrulewidgethandler.cpp:97
+#: search/widgethandler/textrulerwidgethandler.cpp:33
+msgid "matches regular expr."
+msgstr "khớp biểu thức chính quy."
+
+#: search/widgethandler/headersrulerwidgethandler.cpp:35
+#: search/widgethandler/messagerulewidgethandler.cpp:27
+#: search/widgethandler/tagrulewidgethandler.cpp:98
+#: search/widgethandler/textrulerwidgethandler.cpp:34
+msgid "does not match reg. expr."
+msgstr "không khớp với biểu thức chính quy."
+
+#: search/widgethandler/headersrulerwidgethandler.cpp:36
+#: search/widgethandler/headersrulerwidgethandler.cpp:151
+#, kde-format
+msgid "is in address book"
+msgstr "có trong sổ địa chỉ"
+
+#: search/widgethandler/headersrulerwidgethandler.cpp:37
+#: search/widgethandler/headersrulerwidgethandler.cpp:153
+#, kde-format
+msgid "is not in address book"
+msgstr "không có trong sổ địa chỉ"
+
+#: search/widgethandler/messagerulewidgethandler.cpp:29
+#: search/widgethandler/messagerulewidgethandler.cpp:147
+#, kde-format
+msgid "has no attachment"
+msgstr "không có tệp đính kèm"
+
+#: search/widgethandler/numericdoublerulewidgethandler.cpp:23
+#: search/widgethandler/numericrulewidgethandler.cpp:23
+msgid "is greater than"
+msgstr "lớn hơn"
+
+#: search/widgethandler/numericdoublerulewidgethandler.cpp:24
+#: search/widgethandler/numericrulewidgethandler.cpp:24
+msgid "is less than or equal to"
+msgstr "nhỏ hơn hoặc bằng"
+
+#: search/widgethandler/numericdoublerulewidgethandler.cpp:25
+#: search/widgethandler/numericrulewidgethandler.cpp:25
+msgid "is less than"
+msgstr "nhỏ hơn"
+
+#: search/widgethandler/numericdoublerulewidgethandler.cpp:26
+#: search/widgethandler/numericrulewidgethandler.cpp:26
+msgid "is greater than or equal to"
+msgstr "lớn hơn hoặc bằng"
+
+#: search/widgethandler/numericdoublerulewidgethandler.cpp:157
+#, kde-format
+msgctxt "spinbox suffix: unit for kilobyte"
+msgid " kB"
+msgstr "kB"
+
+#: search/widgethandler/numericrulewidgethandler.cpp:157
+#, kde-format
+msgctxt "Unit suffix where units are days."
+msgid " day"
+msgid_plural " days"
+msgstr[0] "ngày"
+
+#: search/widgethandler/statusrulewidgethandler.cpp:28
+msgctxt "message status"
+msgid "Important"
+msgstr "Quan trọng"
+
+#: search/widgethandler/statusrulewidgethandler.cpp:29
+msgctxt "message status"
+msgid "Action Item"
+msgstr "Mục hành động"
+
+#: search/widgethandler/statusrulewidgethandler.cpp:30
+msgctxt "message status"
+msgid "Unread"
+msgstr "Chưa đọc"
+
+#: search/widgethandler/statusrulewidgethandler.cpp:31
+msgctxt "message status"
+msgid "Read"
+msgstr "Đọc"
+
+#: search/widgethandler/statusrulewidgethandler.cpp:32
+msgctxt "message status"
+msgid "Deleted"
+msgstr "Đã xóa"
+
+#: search/widgethandler/statusrulewidgethandler.cpp:33
+msgctxt "message status"
+msgid "Replied"
+msgstr "hồi đáp"
+
+#: search/widgethandler/statusrulewidgethandler.cpp:34
+msgctxt "message status"
+msgid "Forwarded"
+msgstr "Đã chuyển tiếp"
+
+#: search/widgethandler/statusrulewidgethandler.cpp:35
+msgctxt "message status"
+msgid "Queued"
+msgstr "Đang xếp hàng"
+
+#: search/widgethandler/statusrulewidgethandler.cpp:36
+msgctxt "message status"
+msgid "Sent"
+msgstr "Đã gửi"
+
+#: search/widgethandler/statusrulewidgethandler.cpp:37
+msgctxt "message status"
+msgid "Watched"
+msgstr "Đang theo dõi"
+
+#: search/widgethandler/statusrulewidgethandler.cpp:38
+msgctxt "message status"
+msgid "Ignored"
+msgstr "Bị bỏ qua"
+
+#: search/widgethandler/statusrulewidgethandler.cpp:39
+msgctxt "message status"
+msgid "Spam"
+msgstr "Spam"
+
+#: search/widgethandler/statusrulewidgethandler.cpp:40
+msgctxt "message status"
+msgid "Ham"
+msgstr "Thịt"
+
+#: search/widgethandler/statusrulewidgethandler.cpp:41
+msgctxt "message status"
+msgid "Has Attachment"
+msgstr "Có tệp đính kèm"
+
+#: snippets/snippetattachmentwidget.cpp:26
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Click on button for selecting attachment file"
+msgstr "Bấm vào nút để chọn tệp đính kèm"
+
+#: snippets/snippetattachmentwidget.cpp:32
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Select Attachments"
+msgstr "Chọn Tệp đính kèm"
+
+#: snippets/snippetattachmentwidget.cpp:33
+#, kde-format
+msgid "…"
+msgstr "..."
+
+#: snippets/snippetcustomfileattachmentnamedialog.cpp:28
+#, kde-format
+msgctxt "@title:window"
+msgid "Customize File Name Attachment"
+msgstr "Tùy chỉnh tên tệp đính kèm"
+
+#: snippets/snippetcustomfileattachmentnamewidget.cpp:29
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Filename:"
+msgstr "Tên tệp:"
+
+#: snippets/snippetcustomfileattachmentnamewidget.cpp:47
+#, kde-format
+msgctxt "@action:button"
+msgid "Insert Variables"
+msgstr "Chèn Biến"
+
+#: snippets/snippetselectattachmentdialog.cpp:26
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Attachments"
+msgstr "Chọn tệp đính kèm"
+
+#: snippets/snippetselectattachmentwidget.cpp:45
+#, kde-format
+msgid "Do you want to delete selected attachment?"
+msgstr "Bạn có muốn xóa tệp đính kèm đã chọn không?"
+
+#: snippets/snippetselectattachmentwidget.cpp:52
+#, kde-format
+msgid "Select Attachments"
+msgstr "Bôi đen Tệp đính kèm"
+
+#: snippets/snippetsmanager.cpp:154
+#, kde-format
+msgid "General"
+msgstr "chung"
+
+#: snippets/snippetsmanager.cpp:160
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Snippet"
+msgstr "Thêm mảnh mã"
+
+#: snippets/snippetsmanager.cpp:226
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Snippet"
+msgstr "Sửa mảnh mã"
+
+#: snippets/snippetsmanager.cpp:286
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Do you really want to remove snippet \"%1\"?<nl/><warning>There is no way to "
+"undo the removal.</warning>"
+msgstr ""
+"Bạn có thực sự muốn xoá mảnh mã \"%1\" không?<nl/><warning>Không có cách "
+"nào để đảo ngược việc xoá bỏ này.</warning>"
+
+#: snippets/snippetsmanager.cpp:305
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Group"
+msgstr "Thêm Nhóm"
+
+#: snippets/snippetsmanager.cpp:330
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Group"
+msgstr "Sửa Nhóm"
+
+#: snippets/snippetsmanager.cpp:359
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Do you really want to remove group \"%1\" along with all its snippets?<nl/"
+"><warning>There is no way to undo the removal.</warning>"
+msgstr ""
+"Bạn có thực sự muốn xoá nhóm \"%1\" cùng với tất cả các đoạn trích của nó "
+"không?<nl/><warning>Không có cách nào để đảo ngược việc xoá bỏ "
+"này.</warning>"
+
+#: snippets/snippetsmanager.cpp:369
+#, kde-format
+msgctxt "@info"
+msgid "Do you really want to remove group \"%1\"?"
+msgstr "Bạn có thực sự muốn xoá nhóm \"%1\" không?"
+
+#: snippets/snippetsmanager.cpp:437 snippets/snippetsmanager.cpp:466
+#, kde-format
+msgctxt "@action"
+msgid "Snippet %1"
+msgstr "Mảnh mã %1"
+
+#: snippets/snippetsmanager.cpp:558
+#, kde-format
+msgctxt "@action"
+msgid "Add Snippet…"
+msgstr "Thêm đoạn mã…"
+
+#: snippets/snippetsmanager.cpp:560
+#, kde-format
+msgctxt "@action"
+msgid "Edit Snippet…"
+msgstr "Sửa Snippet..."
+
+#: snippets/snippetsmanager.cpp:562
+#, kde-format
+msgctxt "@action"
+msgid "Remove Snippet"
+msgstr "Xoá Mảnh Mã"
+
+#: snippets/snippetsmanager.cpp:565
+#, kde-format
+msgctxt "@action"
+msgid "Add Group…"
+msgstr "Thêm Nhóm..."
+
+#: snippets/snippetsmanager.cpp:567
+#, kde-format
+msgctxt "@action"
+msgid "Rename Group…"
+msgstr "Đổi tên Nhóm..."
+
+#: snippets/snippetsmanager.cpp:569
+#, kde-format
+msgctxt "@action"
+msgid "Remove Group"
+msgstr "Xoá Nhóm"
+
+#: snippets/snippetsmanager.cpp:572
+#, kde-format
+msgctxt "@action"
+msgid "Insert Snippet"
+msgstr "Chèn mảnh mã"
+
+#: snippets/snippetsmodel.cpp:526 snippets/snippetsmodel.cpp:555
+#, kde-format
+msgid "Do you want to update snippet?"
+msgstr "Bạn có muốn cập nhật đoạn trích không?"
+
+#: snippets/snippetsmodel.cpp:527 snippets/snippetsmodel.cpp:556
+#, kde-format
+msgid "Update snippet"
+msgstr "Cập nhật mảnh mã"
+
+#: snippets/snippetsmodel.cpp:528 snippets/snippetsmodel.cpp:557
+#, kde-format
+msgctxt "@action:button"
+msgid "Update"
+msgstr "Cập nhật"
+
+#: snippets/snippettreeview.cpp:64
+#, kde-format
+msgid "Text Snippets"
+msgstr "Đoạn văn bản"
+
+#: snippets/snippetvariabledialog.cpp:37
+#, kde-format
+msgctxt "@title:window"
+msgid "Enter Values for Variables"
+msgstr "Nhập Giá Trị cho Biến"
+
+#: snippets/snippetvariabledialog.cpp:40
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Enter the replacement values for '%1':"
+msgstr "Nhập các giá trị thay thế cho '%1':"
+
+#: snippets/snippetvariabledialog.cpp:45
+#, kde-format
+msgid "Make value &default"
+msgstr "Đặt giá t&rị mặc định"
+
+#: snippets/snippetvariabledialog.cpp:48
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Enable this to save the value entered to the right as the default value for "
+"this variable"
+msgstr ""
+"Bật tính năng này để lưu giá trị đã nhập vào bên phải làm giá trị mặc định "
+"cho biến này"
+
+#: snippets/snippetvariabledialog.cpp:51
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"If you enable this option, the value entered to the right will be saved. If "
+"you use the same variable later, even in another snippet, the value entered "
+"to the right will be the default value for that variable."
+msgstr ""
+"Nếu bạn kích hoạt tùy chọn này, giá trị nhập vào bên phải sẽ được lưu lại. "
+"Nếu bạn sử dụng cùng biến này sau đó, thậm chí trong một đoạn mã khác, giá "
+"trị nhập vào bên phải sẽ là giá trị mặc định cho biến đó."
+
+#: snippets/snippetwidget.cpp:56
+#, kde-format
+msgid ""
+"Enter a keyword here to enable fast insertion of this snippet while writing "
+"an email. For instance if you choose \"greeting\" as the keyword, you can "
+"then type \\greeting in your email and then press the tab key, and it will "
+"be replaced with the contents of this snippet."
+msgstr ""
+"Nhập một từ khóa ở đây để cho phép chèn nhanh mảnh mã này khi viết thư điện "
+"tử. Ví dụ, nếu bạn chọn \"greeting\" làm từ khóa, bạn có thể gõ \\greeting "
+"trong thư và sau đó nhấn phím tab, nó sẽ được thay thế bằng nội dung của "
+"mảnh mã này."
+
+#. i18n: ectx: property (text), widget (QLabel, nameLabel)
+#: snippets/ui/snippetwidget.ui:32
+#, kde-format
+msgid "&Name:"
+msgstr "&Tên:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabelGroup)
+#: snippets/ui/snippetwidget.ui:50
+#, kde-format
+msgctxt "Group to which the snippet belongs."
+msgid "Group:"
+msgstr "Nhóm:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: snippets/ui/snippetwidget.ui:69
+#, kde-format
+msgid "Subject:"
+msgstr "Chủ đề:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: snippets/ui/snippetwidget.ui:88
+#, kde-format
+msgid "To:"
+msgstr "Đến:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: snippets/ui/snippetwidget.ui:101
+#, kde-format
+msgid "Cc:"
+msgstr "Cc:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: snippets/ui/snippetwidget.ui:114
+#, kde-format
+msgid "Bcc:"
+msgstr "Bcc:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel)
+#: snippets/ui/snippetwidget.ui:127
+#, kde-format
+msgid "&Snippet:"
+msgstr "Đoạn &trích:"
+
+#. i18n: ectx: property (text), widget (QPushButton, pushButtonVariables)
+#: snippets/ui/snippetwidget.ui:157
+#, kde-format
+msgid "Variables"
+msgstr "Biến"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: snippets/ui/snippetwidget.ui:181
+#, kde-format
+msgid "Attachments:"
+msgstr "Tệp đính kèm:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: snippets/ui/snippetwidget.ui:193
+#, kde-format
+msgid "Keyword:"
+msgstr "Từ khóa:"
+
+#. i18n: ectx: property (text), widget (QLabel, keyWidgetLabel)
+#: snippets/ui/snippetwidget.ui:212
+#, kde-format
+msgid "Sho&rtcut:"
+msgstr "Phím &tắt:"
+
+#: tag/addtagdialog.cpp:39
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Tag"
+msgstr "Thêm Thẻ"
+
+#: tag/addtagdialog.cpp:76
+#, kde-format
+msgid "Tag %1 already exists"
+msgstr "Thẻ %1 đã tồn tại"
+
+#: tag/tagwidget.cpp:63
+#, kde-format
+msgctxt "@label:listbox Name of the tag"
+msgid "Name:"
+msgstr "Tên:"
+
+#: tag/tagwidget.cpp:70
+#, kde-format
+msgid "Change te&xt color:"
+msgstr "Thay đổ&i màu chữ:"
+
+#: tag/tagwidget.cpp:86
+#, kde-format
+msgid "Change &background color:"
+msgstr "&Thay đổi màu nền:"
+
+#: tag/tagwidget.cpp:102
+#, kde-format
+msgid "Change fo&nt:"
+msgstr "Thay đổi phô&ng chữ:"
+
+#: tag/tagwidget.cpp:108
+#, kde-format
+msgid "&Bold"
+msgstr "Đậ&m"
+
+#: tag/tagwidget.cpp:112
+#, kde-format
+msgid "&Italics"
+msgstr "&Nghiêng"
+
+#: tag/tagwidget.cpp:134
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Message tag &icon:"
+msgstr "B&iểu tượng thẻ thông điệp:"
+
+#: tag/tagwidget.cpp:145
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Shortc&ut:"
+msgstr "P&hím tắt:"
+
+#: tag/tagwidget.cpp:156
+#, kde-format
+msgid "Enable &toolbar button"
+msgstr "Bậ&t nút thanh công cụ"
+
+#: widgets/favoritecollectionwidget.cpp:90
+#, kde-format
+msgid "Icon size"
+msgstr "Kích thước biểu tượng"
+
+#: widgets/favoritecollectionwidget.cpp:109
+#, kde-format
+msgid "Mode"
+msgstr "Chế độ"
+
+#: widgets/favoritecollectionwidget.cpp:113
+#, kde-format
+msgctxt "@action"
+msgid "List Mode"
+msgstr "Chế độ danh sách"
+
+#: widgets/favoritecollectionwidget.cpp:123
+#, kde-format
+msgctxt "@action"
+msgid "Icon Mode"
+msgstr "Chế độ biểu tượng"
+
+#: widgets/favoritecollectionwidget.cpp:234
+#, kde-format
+msgid "Drop your favorite folders here…"
+msgstr "Thả các thư mục yêu thích của bạn vào đây..."
+
+#: widgets/redirectdialog.cpp:67
+#, kde-format
+msgid "Resend-To:"
+msgstr "Gửi lại đến:"
+
+#: widgets/redirectdialog.cpp:70
+#, kde-format
+msgid "Resend-Cc:"
+msgstr "Gửi lại-Cc:"
+
+#: widgets/redirectdialog.cpp:73
+#, kde-format
+msgid "Resend-Bcc:"
+msgstr "Gửi lại-Bcc:"
+
+#: widgets/redirectdialog.cpp:102
+#, kde-format
+msgctxt "@title:window"
+msgid "Redirect Message"
+msgstr "Thông điệp chuyển hướng"
+
+#: widgets/redirectdialog.cpp:123
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Select the recipient addresses to redirect to:"
+msgstr "Chọn địa chỉ người nhận để chuyển hướng đến:"
+
+#: widgets/redirectdialog.cpp:152
+#, kde-format
+msgid "Identity:"
+msgstr "Danh tính:"
+
+#: widgets/redirectdialog.cpp:156
+#, kde-format
+msgid "Transport:"
+msgstr "Phương tiện:"
+
+#: widgets/redirectdialog.cpp:158
+#, kde-format
+msgctxt "@action:button"
+msgid "&Send Now"
+msgstr "Gử&i ngay"
+
+#: widgets/redirectdialog.cpp:159
+#, kde-format
+msgctxt "@action:button"
+msgid "Send &Later"
+msgstr "Gửi s&au"
+
+#: widgets/redirectdialog.cpp:207
+#, kde-format
+msgid "You cannot redirect the message without an address."
+msgstr "Bạn không thể chuyển hướng thông điệp mà không có địa chỉ."
+
+#: widgets/redirectdialog.cpp:207
+#, kde-format
+msgid "Empty Redirection Address"
+msgstr "Địa chỉ chuyển hướng trống"
+
+#: widgets/redirectwidget.cpp:39
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Use the Address-Selection Dialog"
+msgstr "Sử dụng Hộp thoại Chọn Địa chỉ"
+
+#: widgets/redirectwidget.cpp:41
+#, kde-format
+msgid ""
+"This button opens a separate dialog where you can select recipients out of "
+"all available addresses."
+msgstr ""
+"Nút này mở một hộp thoại riêng biệt nơi bạn có thể bôi đen người nhận từ "
+"tất cả các địa chỉ hiện có."

@@ -1,0 +1,341 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the akonadi-calendar-tools package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: akonadi-calendar-tools\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-16 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: backuper.cpp:36
+#, kde-format
+msgid "Backup was successful. %1 incidence was saved."
+msgid_plural "Backup was successful. %1 incidences were saved."
+msgstr[0] "Sao lưu thành công. %1 sự cố đã được lưu."
+
+#: backuper.cpp:56
+#, kde-format
+msgid "File is empty."
+msgstr "Tệp trống."
+
+#: backuper.cpp:61
+#, kde-format
+msgid "A backup is already in progress."
+msgstr "Một bản sao lưu đang được thực hiện."
+
+#: backuper.cpp:64
+#, kde-format
+msgid "Backing up your calendar data..."
+msgstr "Đang sao lưu dữ liệu lịch của bạn..."
+
+#: backuper.cpp:97
+#, kde-format
+msgid "No data to backup."
+msgstr "Không có dữ liệu để sao lưu."
+
+#: backuper.cpp:108 calendarjanitor.cpp:173
+#, kde-format
+msgid "Processing collection %1 (id=%2)..."
+msgstr "Đang xử lý bộ sưu tập %1 (id=%2)..."
+
+#: backuper.cpp:138
+#, kde-format
+msgid "An error occurred"
+msgstr "Đã xảy ra lỗi"
+
+#: calendarjanitor.cpp:37
+#, kde-format
+msgid ""
+"Bailing out. Fix your akonadi setup first. These kind of errors should not "
+"happen."
+msgstr ""
+"Đang thoát ra. Trước tiên hãy sửa lại cài đặt akonadi của bạn. Những lỗi "
+"này không nên xảy ra."
+
+#: calendarjanitor.cpp:85
+#, kde-format
+msgid "Error while fetching collections"
+msgstr "Lỗi khi lấy các bộ sưu tập"
+
+#: calendarjanitor.cpp:99
+#, kde-format
+msgid "There are no collections to process."
+msgstr "Không có bộ sưu tập nào để xử lý."
+
+#: calendarjanitor.cpp:126
+#, kde-format
+msgid "Error while modifying incidence: %1"
+msgstr "Lỗi khi sửa đổi sự kiện: %1"
+
+#: calendarjanitor.cpp:131
+#, kde-format
+msgid "Fixed item %1"
+msgstr "Đã sửa mục %1"
+
+#: calendarjanitor.cpp:147
+#, kde-format
+msgid "Error while deleting incidence: %1"
+msgstr "Lỗi khi xóa sự kiện: %1"
+
+#: calendarjanitor.cpp:151
+#, kde-format
+msgid "Deleted item %1"
+msgstr "Đã xóa mục %1"
+
+#: calendarjanitor.cpp:177
+#, kde-format
+msgid "Collection is read only, disabling fix mode."
+msgstr "Bộ sưu tập chỉ đọc, vô hiệu hóa chế độ sửa chữa."
+
+#: calendarjanitor.cpp:179
+#, kde-format
+msgid "Collection is read only, skipping it."
+msgstr "Bộ sưu tập chỉ đọc, bỏ qua nó."
+
+#: calendarjanitor.cpp:187
+#, kde-format
+msgid "Collection is empty, ignoring it."
+msgstr "Bộ sưu tập trống, bỏ qua nó."
+
+#: calendarjanitor.cpp:255
+#, kde-format
+msgid "Checking for incidences with empty summary and description..."
+msgstr "Đang kiểm tra các sự kiện có tóm tắt và mô tả trống..."
+
+#: calendarjanitor.cpp:270
+#, kde-format
+msgid "Checking for incidences with empty UID..."
+msgstr "Đang kiểm tra các sự kiện có UID trống..."
+
+#: calendarjanitor.cpp:289
+#, kde-format
+msgid "Checking for events with invalid DTSTART..."
+msgstr "Đang kiểm tra các sự kiện có DTSTART không hợp lệ..."
+
+#: calendarjanitor.cpp:326
+#, kde-format
+msgid "Checking for recurring to-dos with invalid DTSTART..."
+msgstr "Đang kiểm tra các công việc định kỳ có DTSTART không hợp lệ..."
+
+#: calendarjanitor.cpp:362
+#, kde-format
+msgid "Checking for journals with invalid DTSTART..."
+msgstr "Đang kiểm tra các nhật ký có DTSTART không hợp lệ..."
+
+#: calendarjanitor.cpp:383
+#, kde-format
+msgid "Checking for orphans..."
+msgstr "Đang kiểm tra các mục bị bỏ rơi..."
+
+#: calendarjanitor.cpp:389
+#, kde-format
+msgid "The following incidences are children of nonexistent parents"
+msgstr "Các sự kiện sau đây là con của các phụ huynh không tồn tại"
+
+#: calendarjanitor.cpp:398
+#, kde-format
+msgid "In fix mode these children will be unparented."
+msgstr "Trong chế độ sửa chữa, những con cái này sẽ không có cha mẹ."
+
+#: calendarjanitor.cpp:398
+#, kde-format
+msgid "Children were successfully unparented."
+msgstr "Các con đã được tách khỏi cha mẹ thành công."
+
+#: calendarjanitor.cpp:403
+#, kde-format
+msgid "Checking for duplicate UIDs..."
+msgstr "Đang kiểm tra các UID trùng lặp..."
+
+#: calendarjanitor.cpp:460
+#, kde-format
+msgid "Gathering statistics..."
+msgstr "Đang thu thập số liệu thống kê..."
+
+#: calendarjanitor.cpp:498
+#, kde-format
+msgid "Events"
+msgstr "Sự kiện"
+
+#: calendarjanitor.cpp:499
+#, kde-format
+msgid "Todos"
+msgstr "Công việc cần làm"
+
+#: calendarjanitor.cpp:500
+#, kde-format
+msgid "Journals"
+msgstr "Nhật ký"
+
+#: calendarjanitor.cpp:501
+#, kde-format
+msgid "Passed events and to-dos (>365 days)"
+msgstr "Sự kiện và công việc đã qua (> 365 ngày)"
+
+#: calendarjanitor.cpp:502
+#, kde-format
+msgid "Old incidences with alarms"
+msgstr "Các sự kiện cũ có báo thức"
+
+#: calendarjanitor.cpp:503
+#, kde-format
+msgid "Inline attachments"
+msgstr "Đính kèm nội tuyến"
+
+#: calendarjanitor.cpp:504
+#, kde-format
+msgid "Items with empty remote id [!!]"
+msgstr "Các mục có mã định danh ở xa trống [!!]"
+
+#: calendarjanitor.cpp:507
+#, kde-format
+msgid "Total size of inline attachments (bytes)"
+msgstr "Tổng kích thước của các tệp đính kèm nội tuyến (byte)"
+
+#: calendarjanitor.cpp:509
+#, kde-format
+msgid "Total size of inline attachments (KB)"
+msgstr "Tổng kích thước của các tệp đính kèm nội tuyến (KB)"
+
+#: calendarjanitor.cpp:521
+#, kde-format
+msgid ""
+"Checking for RECURRING-ID incidences with nonexistent master incidence..."
+msgstr "Đang kiểm tra các sự kiện RECURRING-ID với sự kiện chính không tồn tại..."
+
+#: calendarjanitor.cpp:562
+#, kde-format
+msgid "In fix mode the RECURRING-ID property will be unset and UID changed."
+msgstr "Ở chế độ sửa chữa, thuộc tính RECURRING-ID sẽ bị xóa và UID sẽ thay đổi."
+
+#: calendarjanitor.cpp:562
+#, kde-format
+msgid "Recurrence cleared."
+msgstr "Lặp lại đã được xóa."
+
+#: calendarjanitor.cpp:567
+#, kde-format
+msgid "Deleting alarms older than 365 days..."
+msgstr "Đang xóa các báo thức cũ hơn 365 ngày..."
+
+#: calendarjanitor.cpp:585 calendarjanitor.cpp:599
+#, kde-format
+msgid "invalid"
+msgstr "không hợp lệ"
+
+#: calendarjanitor.cpp:602
+#, kde-format
+msgid "recurrent"
+msgstr "định kỳ"
+
+#: calendarjanitor.cpp:620
+#, kde-format
+msgid "Found buggy incidence:"
+msgstr "Đã tìm thấy sự cố lỗi:"
+
+#: calendarjanitor.cpp:621
+#, kde-format
+msgid "id=%1; summary=\"%2\""
+msgstr "id=%1; tóm tắt=\"%2\""
+
+#: main.cpp:40
+#, kde-format
+msgid "Error while parsing %1"
+msgstr "Lỗi khi phân tích %1"
+
+#: main.cpp:41
+#, kde-format
+msgid "Example usage: %1"
+msgstr "Ví dụ sử dụng: %1"
+
+#: main.cpp:61
+#, kde-format
+msgid "CalendarJanitor"
+msgstr "Người quản lý lịch"
+
+#: main.cpp:63
+#, kde-format
+msgctxt "@info:credit"
+msgid "Sérgio Martins"
+msgstr "Sérgio Martins"
+
+#: main.cpp:63
+#, kde-format
+msgid "Maintainer"
+msgstr "Bảo trì viên"
+
+#: main.cpp:64
+#, kde-format
+msgid "A command line interface to report and fix errors in your calendar data"
+msgstr "Giao diện dòng lệnh để báo cáo và sửa lỗi trong dữ liệu lịch của bạn"
+
+#: main.cpp:69
+#, kde-format
+msgid "Comma-separated list of collection ids to scan"
+msgstr "Danh sách các ID bộ sưu tập được phân tách bằng dấu phẩy để quét"
+
+#: main.cpp:70
+#, kde-format
+msgid "Fix broken incidences"
+msgstr "Sửa các sự cố bị hỏng"
+
+#: main.cpp:71
+#, kde-format
+msgid "Backup your calendar"
+msgstr "Sao lưu lịch của bạn"
+
+#: main.cpp:72
+#, kde-format
+msgid "Delete alarms older than 365 days"
+msgstr "Xóa các báo thức cũ hơn 365 ngày"
+
+#: main.cpp:104
+#, kde-format
+msgid "--fix is incompatible with --backup"
+msgstr "--fix không tương thích với --backup"
+
+#: main.cpp:109
+#, kde-format
+msgid "--strip-old-alarms is incompatible with --backup"
+msgstr "--strip-old-alarms không tương thích với --backup"
+
+#: main.cpp:114
+#, kde-format
+msgid "--strip-old-alarms is incompatible with --fix"
+msgstr "--strip-old-alarms không tương thích với --fix"
+
+#: main.cpp:125
+#, kde-format
+msgid "Running in fix mode."
+msgstr "Đang chạy ở chế độ sửa chữa."
+
+#: main.cpp:129
+#, kde-format
+msgid "Please specify a output file."
+msgstr "Vui lòng chỉ định một tệp đầu ra."
+
+#: main.cpp:134
+#, kde-format
+msgid "Running in scan only mode."
+msgstr "Đang chạy ở chế độ quét chỉ."

@@ -29,18 +29,18 @@ msgstr "vuhung@fedu.uec.ac.jp"
 
 #: src/printing/grantlee/themes/big-theme-example/theme.html:3
 #: src/mainwidget.cpp:716 src/mainwidget.cpp:743
-#, fuzzy, kde-format
+#, kde-format
 msgid "Address Book"
-msgstr "KAđressBook"
+msgstr "Sổ địa chỉ"
 
 #: src/printing/grantlee/themes/default/theme.html:35
-#, fuzzy
+#, 
 msgid "Contact"
-msgstr "&Tuỳ chọn..."
+msgstr "liên hệ"
 
 #: src/printing/grantlee/themes/default/theme.html:42
 #: src/printing/grantlee/themes/full/theme.html:42
-#, fuzzy
+#, 
 #| msgid "Email"
 msgid "Emails"
 msgstr "Email"
@@ -49,22 +49,22 @@ msgstr "Email"
 #: src/printing/grantlee/themes/default/theme.html:52
 #: src/printing/grantlee/themes/full/theme.html:52
 #: src/printing/ringbinder/rbs_appearance.ui:95
-#, fuzzy, kde-format
+#, kde-format
 msgid "Organization"
-msgstr "Số ID trong tổ chức"
+msgstr "Tổ chức"
 
 #: src/printing/grantlee/themes/default/theme.html:58
 #: src/printing/grantlee/themes/full/theme.html:58
 #: src/viewertemplates/contact_embedded.html:62
 msgid "Website"
-msgstr ""
+msgstr "địa điểm web"
 
 #. i18n: ectx: property (text), widget (QCheckBox, cbBirthday)
 #: src/printing/grantlee/themes/default/theme.html:64
 #: src/printing/grantlee/themes/full/theme.html:64
 #: src/viewertemplates/contact_embedded.html:26
 #: src/printing/ringbinder/rbs_appearance.ui:108
-#, fuzzy, kde-format
+#, kde-format
 msgid "Birthday"
 msgstr "Ngày sinh"
 
@@ -72,33 +72,33 @@ msgstr "Ngày sinh"
 #: src/printing/grantlee/themes/default/theme.html:70
 #: src/printing/grantlee/themes/full/theme.html:70
 #: src/printing/ringbinder/rbs_appearance.ui:121
-#, fuzzy, kde-format
+#, kde-format
 msgid "Note"
-msgstr "Ghi chú "
+msgstr "Lưu ý"
 
 #: src/printing/grantlee/themes/full/theme.html:76
-#, fuzzy
+#, 
 #| msgid "Title"
 msgid "Title"
-msgstr "Đầu đề"
+msgstr "tiêu đề"
 
 #: src/viewertemplates/contact_embedded.html:28
 #, kde-format
 msgid "(One year old)"
 msgid_plural "(%1 years old)"
-msgstr[0] ""
+msgstr[0] "(%1 tuổi)"
 
 #: src/viewertemplates/contact_embedded.html:47
-#, fuzzy
+#, 
 #| msgid "Email"
 msgid "Email"
-msgstr "Email"
+msgstr "thư điện tử"
 
 #: src/viewertemplates/contact_embedded.html:75
 #: src/importexport/contactfields.cpp:105
 #, kde-format
 msgid "Blog Feed"
-msgstr ""
+msgstr "Nguồn cấp dữ liệu blog"
 
 #: kontactplugin/kaddressbook_plugin.cpp:31 src/aboutdata.cpp:17
 #: src/kaddressbookpart.cpp:26
@@ -107,23 +107,23 @@ msgid "KAddressBook"
 msgstr "KAđressBook"
 
 #: kontactplugin/kaddressbook_plugin.cpp:33
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action:inmenu"
 msgid "New Contact..."
-msgstr "Contact &mới"
+msgstr "Liên hệ mới..."
 
 #. i18nc( "@info:status", "Create a new contact" ) );
 #: kontactplugin/kaddressbook_plugin.cpp:39
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "You will be presented with a dialog where you can create a new contact."
-msgstr ""
+msgstr "Bạn sẽ được hiển thị một hộp thoại nơi bạn có thể tạo một liên hệ mới."
 
 #: kontactplugin/kaddressbook_plugin.cpp:42
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action:inmenu"
 msgid "New Contact Group..."
-msgstr "Contact &mới"
+msgstr "Nhóm liên hệ mới..."
 
 #. i18nc( "@info:status", "Create a new contact group" ) );
 #: kontactplugin/kaddressbook_plugin.cpp:48
@@ -131,228 +131,228 @@ msgstr "Contact &mới"
 msgctxt "@info:whatsthis"
 msgid ""
 "You will be presented with a dialog where you can create a new contact group."
-msgstr ""
+msgstr "Bạn sẽ được hiển thị một hộp thoại nơi bạn có thể tạo một nhóm liên hệ mới."
 
 #: src/aboutdata.cpp:19
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "The KDE Address Book"
 msgid "The KDE Address Book Application"
-msgstr "The KDE Ađress Book"
+msgstr "Ứng dụng Sổ địa chỉ KDE"
 
 #: src/aboutdata.cpp:21
 #, kde-format
 msgid "Copyright © 2007–%1 KAddressBook authors"
-msgstr ""
+msgstr "Bản quyền © 2007–%1 tác giả KAddressBook"
 
 #: src/aboutdata.cpp:23
 #, kde-format
 msgctxt "@info:credit"
 msgid "Laurent Montel"
-msgstr ""
+msgstr "Laurent Montel"
 
 #: src/aboutdata.cpp:23
 #, kde-format
 msgid "Current maintainer"
-msgstr ""
+msgstr "Người bảo trì hiện tại"
 
 #: src/aboutdata.cpp:24
 #, kde-format
 msgctxt "@info:credit"
 msgid "Tobias König"
-msgstr ""
+msgstr "Tobias König"
 
 #: src/aboutdata.cpp:24
 #, kde-format
 msgid "Previous maintainer"
-msgstr ""
+msgstr "Bảo trì viên trước"
 
 #: src/aboutdata.cpp:25
 #, kde-format
 msgctxt "@info:credit"
 msgid "Stefan Taferner"
-msgstr ""
+msgstr "Stefan Taferner"
 
 #: src/aboutdata.cpp:25
 #, kde-format
 msgid "Original Author (1998)"
-msgstr ""
+msgstr "Tác giả gốc (1998)"
 
 #: src/aboutdata.cpp:26
 #, kde-format
 msgctxt "@info:credit"
 msgid "David Bryant"
-msgstr ""
+msgstr "David Bryant"
 
 #: src/aboutdata.cpp:27
 #, kde-format
 msgid "Documentation (2019)"
-msgstr ""
+msgstr "Tài liệu (2019)"
 
 #: src/categoryselectwidget.cpp:94
 #, kde-format
 msgctxt "@action:button"
 msgid "Reset category filter"
-msgstr ""
+msgstr "Đặt lại bộ lọc loại"
 
 #: src/categoryselectwidget.cpp:101
 #, kde-format
 msgctxt "@action:button"
 msgid "Clear category filter"
-msgstr ""
+msgstr "Xóa bộ lọc loại"
 
 #: src/categoryselectwidget.cpp:105
 #, kde-format
 msgid "(Untagged)"
-msgstr ""
+msgstr "(Không gắn thẻ)"
 
 #: src/categoryselectwidget.cpp:110
 #, kde-format
 msgid "(Groups)"
-msgstr ""
+msgstr "(Nhóm)"
 
 #: src/categoryselectwidget.cpp:116 src/categoryselectwidget.cpp:221
 #, kde-format
 msgid "(All)"
-msgstr ""
+msgstr "(Tất cả)"
 
 #: src/categoryselectwidget.cpp:224
-#, fuzzy, kde-format
+#, kde-format
 msgid "(None)"
-msgstr "Phone"
+msgstr "Không"
 
 #: src/categoryselectwidget.cpp:229
 #, kde-format
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: src/categoryselectwidget.cpp:229
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "<qt>Category filter: %1"
-msgstr "Chủng loại"
+msgstr "<qt>Bộ lọc danh mục: %1"
 
 #: src/configuration/kaddressbookconfigpluginlistwidget.cpp:66
 #, kde-format
 msgid "Tools Plugins"
-msgstr ""
+msgstr "Công cụ Plugins"
 
 #: src/configuration/kaddressbookconfigpluginlistwidget.cpp:73
 #, kde-format
 msgid "Import/Export Plugins"
-msgstr ""
+msgstr "Nhập/Xuất Plugins"
 
 #: src/contactinfoproxymodel.cpp:67
 #, kde-format
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: src/contactinfoproxymodel.cpp:69
 #, kde-format
 msgid "Loading contacts details ..."
-msgstr ""
+msgstr "Đang tải thông tin liên hệ..."
 
 #: src/contactinfoproxymodel.cpp:122
-#, fuzzy, kde-format
+#, kde-format
 msgid "Email: %1"
-msgstr "Email"
+msgstr "Email: %1"
 
 #: src/contactinfoproxymodel.cpp:130
-#, fuzzy, kde-format
+#, kde-format
 msgid "Phone: %1"
-msgstr "Phone trong xe"
+msgstr "Điện thoại: %1"
 
 #: src/contactinfoproxymodel.cpp:136
 #, kde-format
 msgid "%1%2 %3"
-msgstr ""
+msgstr "%1%2 %3"
 
 #: src/contactinfoproxymodel.cpp:149 src/contactinfoproxymodel.cpp:166
 #, kde-format
 msgid "%1 %2 %3"
-msgstr ""
+msgstr "%1 %2 %3"
 
 #: src/contactswitcher.cpp:18
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action:button Next contact"
 msgid "Next"
-msgstr "Telex"
+msgstr "Tiếp"
 
 #: src/contactswitcher.cpp:19
 #, kde-format
 msgctxt "@action:button Previous contact"
 msgid "Previous"
-msgstr ""
+msgstr "Trước"
 
 #: src/contactswitcher.cpp:24
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Move to the previous contact in the list"
-msgstr ""
+msgstr "Di chuyển đến liên hệ trước trong danh sách"
 
 #: src/contactswitcher.cpp:25
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "Press this button to move to the previous contact in the list."
-msgstr ""
+msgstr "Nhấn nút này để chuyển đến liên hệ trước trong danh sách."
 
 #: src/contactswitcher.cpp:27
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Move to the next contact in the list"
-msgstr ""
+msgstr "Di chuyển đến liên hệ tiếp theo trong danh sách"
 
 #: src/contactswitcher.cpp:28
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "Press this button to move to the next contact in the list."
-msgstr ""
+msgstr "Nhấn nút này để chuyển đến liên hệ tiếp theo trong danh sách."
 
 #: src/contactswitcher.cpp:106
 #, kde-format
 msgctxt "@info:status"
 msgid "%1 out of %2"
-msgstr ""
+msgstr "%1 trong số %2"
 
 #: src/importexport/contactfields.cpp:20
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Undefined"
 msgctxt "@item Undefined import field type"
 msgid "Undefined"
 msgstr "Chưa định nghĩa"
 
 #: src/importexport/contactfields.cpp:39
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Anniversary"
 msgctxt "The wedding anniversary of a contact"
 msgid "Anniversary"
 msgstr "Kỉ niệm"
 
 #: src/importexport/contactfields.cpp:85
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Preferred email address"
 msgid "EMail (preferred)"
-msgstr "Phố"
+msgstr "Thư điện tử (ưu tiên)"
 
 #: src/importexport/contactfields.cpp:87
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Email"
 msgctxt "Second email address"
 msgid "EMail (2)"
-msgstr "Email"
+msgstr "Thư điện tử (2)"
 
 #: src/importexport/contactfields.cpp:89
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Email"
 msgctxt "Third email address"
 msgid "EMail (3)"
-msgstr "Email"
+msgstr "Thư điện tử (3)"
 
 #: src/importexport/contactfields.cpp:91
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Email"
 msgctxt "Fourth email address"
 msgid "EMail (4)"
-msgstr "Email"
+msgstr "Thư điện tử (4)"
 
 #: src/importexport/contactfields.cpp:107
 #, kde-format
@@ -360,64 +360,66 @@ msgid "Profession"
 msgstr "Chuyên nghành"
 
 #: src/importexport/contactfields.cpp:109
-#, fuzzy, kde-format
+#, kde-format
 msgid "Office"
-msgstr "&Cơ quan"
+msgstr "Văn phòng"
 
 #: src/importexport/contactfields.cpp:111
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Myanmar"
 msgid "Manager"
-msgstr "Myanmar"
+msgstr "Quản lý"
 
 #: src/importexport/contactfields.cpp:113
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Assistant's Name"
 msgid "Assistant"
-msgstr "Người giúp đỡ"
+msgstr "trợ tá"
 
 #: src/importexport/contactfields.cpp:115
 #, kde-format
 msgid "Spouse"
-msgstr ""
+msgstr "Vợ/Chồng"
 
 #: src/importexport/contactselectiondialog.cpp:22
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:window"
 msgid "Select Contacts"
-msgstr "Contact &mới"
+msgstr "Bôi đen Liên hệ"
 
 #: src/importexport/contactselectionwidget.cpp:115
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@option:radio"
 msgid "All contacts"
-msgstr "Contact &mới"
+msgstr "Tất cả các liên hệ"
 
 #: src/importexport/contactselectionwidget.cpp:116
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "All contacts from all your address books"
-msgstr "KAđressBook"
+msgstr "Tất cả các liên hệ từ tất cả sổ địa chỉ của bạn"
 
 #: src/importexport/contactselectionwidget.cpp:118
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:whatsthis"
 msgid ""
 "Choose this option you want to select all your contacts from all your "
 "address books."
-msgstr "Không cất được sổ địa chỉ"
+msgstr ""
+"Chọn lựa chọn này nếu bạn muốn bôi đen tất cả các liên hệ từ tất cả sổ địa "
+"chỉ của bạn."
 
 #: src/importexport/contactselectionwidget.cpp:121
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@option:radio"
 msgid "Selected contacts"
-msgstr "Contact &mới"
+msgstr "Các liên hệ đã chọn"
 
 #: src/importexport/contactselectionwidget.cpp:122
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Only the contacts currently selected"
-msgstr "Contact &mới"
+msgstr "Chỉ các liên hệ đã chọn"
 
 #: src/importexport/contactselectionwidget.cpp:124
 #, kde-format
@@ -426,18 +428,20 @@ msgid ""
 "Choose this option if you want only the contacts you have already selected "
 "in the graphical interface."
 msgstr ""
+"Chọn lựa chọn này nếu bạn chỉ muốn các liên hệ mà bạn đã chọn trong giao "
+"diện đồ họa."
 
 #: src/importexport/contactselectionwidget.cpp:127
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@option:radio"
 msgid "All contacts from:"
-msgstr "Contact &mới"
+msgstr "Tất cả các liên hệ từ:"
 
 #: src/importexport/contactselectionwidget.cpp:128
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "All contacts from a chosen address book"
-msgstr "KAđressBook"
+msgstr "Tất cả các liên hệ từ sổ địa chỉ đã chọn"
 
 #: src/importexport/contactselectionwidget.cpp:130
 #, kde-format
@@ -448,18 +452,22 @@ msgid ""
 "down box listing all those address books and permitted to select the one you "
 "want."
 msgstr ""
+"Chọn lựa chọn này nếu bạn muốn bôi đen tất cả các liên hệ từ chỉ một trong "
+"các sổ địa chỉ của bạn. Khi lựa chọn này được bấm, bạn sẽ được cung cấp một "
+"hộp thả xuống liệt kê tất cả các sổ địa chỉ đó và được phép chọn một trong "
+"số chúng."
 
 #: src/importexport/contactselectionwidget.cpp:139
 #, kde-format
 msgctxt "@option:check"
 msgid "Include Subfolders"
-msgstr ""
+msgstr "Bao gồm Thư mục con"
 
 #: src/importexport/contactselectionwidget.cpp:140
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Select all subfolders including the top-level folder"
-msgstr ""
+msgstr "Chọn tất cả các thư mục con, bao gồm cả thư mục cấp cao nhất"
 
 #: src/importexport/contactselectionwidget.cpp:142
 #, kde-format
@@ -469,65 +477,68 @@ msgid ""
 "including all subfolders.  If you only want the contacts from the top-level "
 "folder then leave this box unchecked."
 msgstr ""
+"Đánh dấu vào ô này nếu bạn muốn chọn tất cả các liên hệ từ thư mục này, bao "
+"gồm cả tất cả các thư mục con. Nếu bạn chỉ muốn các liên hệ từ thư mục cấp "
+"cao nhất, hãy để ô này không được đánh dấu."
 
 #: src/importexport/contactselectionwidget.cpp:170
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:window"
 msgid "Collect Contacts"
-msgstr "Contact &mới"
+msgstr "Chọn Liên hệ"
 
 #: src/importexport/contactselectionwidget.cpp:173
-#, fuzzy, kde-format
+#, kde-format
 msgid "Fetch Contacts"
-msgstr "Contact &mới"
+msgstr "Tìm nạp Danh bạ"
 
 #: src/importexport/exportselectionwidget.cpp:21
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@option:check"
 msgid "Private fields"
-msgstr "Tên trường"
+msgstr "Trường riêng tư"
 
 #: src/importexport/exportselectionwidget.cpp:22
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@option:check"
 msgid "Business fields"
-msgstr "Địa chỉ nơi làm việc"
+msgstr "Lĩnh vực kinh doanh"
 
 #: src/importexport/exportselectionwidget.cpp:23
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@option:check"
 msgid "Other fields"
-msgstr "Tên trường"
+msgstr "Các trường khác"
 
 #: src/importexport/exportselectionwidget.cpp:24
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@option:check"
 msgid "Encryption keys"
-msgstr "Egypt( Ai Cập)"
+msgstr "Khóa mật mã"
 
 #: src/importexport/exportselectionwidget.cpp:25
 #, kde-format
 msgctxt "@option:check"
 msgid "Pictures"
-msgstr ""
+msgstr "Hình ảnh"
 
 #: src/importexport/exportselectionwidget.cpp:26
 #, kde-format
 msgctxt "@option:check"
 msgid "Display name as full name"
-msgstr ""
+msgstr "Hiển thị tên đầy đủ"
 
 #: src/importexport/exportselectionwidget.cpp:30
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:group"
 msgid "Fields to be exported"
-msgstr "File sẽ xuất ra"
+msgstr "Các trường sẽ được xuất"
 
 #: src/importexport/exportselectionwidget.cpp:36
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Export private fields"
-msgstr "Tên trường"
+msgstr "Xuất các trường riêng tư"
 
 #: src/importexport/exportselectionwidget.cpp:38
 #, kde-format
@@ -536,12 +547,14 @@ msgid ""
 "Check this box if you want to export the contact's private fields to the "
 "vCard output file."
 msgstr ""
+"Chọn hộp này nếu bạn muốn xuất khẩu các trường riêng tư của liên hệ vào tệp "
+"vCard."
 
 #: src/importexport/exportselectionwidget.cpp:42
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Export business fields"
-msgstr "Địa chỉ nơi làm việc"
+msgstr "Xuất các trường kinh doanh"
 
 #: src/importexport/exportselectionwidget.cpp:44
 #, kde-format
@@ -550,12 +563,14 @@ msgid ""
 "Check this box if you want to export the contact's business fields to the "
 "vCard output file."
 msgstr ""
+"Chọn hộp này nếu bạn muốn xuất khẩu các trường công việc của liên hệ vào "
+"tệp đầu ra vCard."
 
 #: src/importexport/exportselectionwidget.cpp:48
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Export other fields"
-msgstr "Tên trường"
+msgstr "Xuất các trường khác"
 
 #: src/importexport/exportselectionwidget.cpp:50
 #, kde-format
@@ -564,12 +579,14 @@ msgid ""
 "Check this box if you want to export the contact's other fields to the vCard "
 "output file."
 msgstr ""
+"Chọn hộp này nếu bạn muốn xuất khẩu các trường khác của liên hệ vào tệp đầu "
+"ra vCard."
 
 #: src/importexport/exportselectionwidget.cpp:54
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Export encryption keys"
-msgstr "Egypt( Ai Cập)"
+msgstr "Xuất khẩu các khoá mật mã"
 
 #: src/importexport/exportselectionwidget.cpp:56
 #, kde-format
@@ -578,12 +595,14 @@ msgid ""
 "Check this box if you want to export the contact's encryption keys to the "
 "vCard output file."
 msgstr ""
+"Chọn hộp này nếu bạn muốn xuất khẩu các khoá mật mã của liên hệ vào tệp "
+"vCard."
 
 #: src/importexport/exportselectionwidget.cpp:60
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Export pictures"
-msgstr "Điện thoại di động"
+msgstr "Xuất ảnh"
 
 #: src/importexport/exportselectionwidget.cpp:62
 #, kde-format
@@ -591,19 +610,19 @@ msgctxt "@info:whatsthis"
 msgid ""
 "Check this box if you want to export the contact's picture to the vCard "
 "output file."
-msgstr ""
+msgstr "Chọn hộp này nếu bạn muốn xuất khẩu ảnh của liên hệ vào tệp vCard."
 
 #: src/importexport/exportselectionwidget.cpp:66
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:group"
 msgid "Export options"
-msgstr "Điện thoại di động"
+msgstr "Tùy chọn xuất khẩu"
 
 #: src/importexport/exportselectionwidget.cpp:72
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Export display name as full name"
-msgstr ""
+msgstr "Xuất tên hiển thị dưới dạng tên đầy đủ"
 
 #: src/importexport/exportselectionwidget.cpp:74
 #, kde-format
@@ -613,210 +632,213 @@ msgid ""
 "vCard's full name field.  This may be required to get the name shown "
 "correctly in GMail or Android."
 msgstr ""
+"Đánh dấu vào ô này nếu bạn muốn xuất tên hiển thị của liên hệ vào trường "
+"tên đầy đủ của vCard. Điều này có thể cần thiết để tên được hiển thị chính "
+"xác trong GMail hoặc Android."
 
 #: src/importexport/importexportengine.cpp:58
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:window"
 msgid "Select Address Book"
-msgstr "KAđressBook"
+msgstr "Chọn Sổ Địa Chỉ"
 
 #: src/importexport/importexportengine.cpp:59
 #, kde-format
 msgid "Select the address book the imported contact(s) shall be saved in:"
-msgstr ""
+msgstr "Chọn sổ địa chỉ mà liên hệ được nhập sẽ được lưu vào:"
 
 #: src/importexport/importexportengine.cpp:74
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:window"
 msgid "Import Contacts"
-msgstr "Tất cả cá c trường  liên hệ"
+msgstr "Nhập khẩu Danh bạ"
 
 #: src/importexport/importexportengine.cpp:75
-#, fuzzy, kde-format
+#, kde-format
 msgid "Importing one contact to %2"
 msgid_plural "Importing %1 contacts to %2"
-msgstr[0] "Tất cả cá c trường  liên hệ"
+msgstr[0] "Đang nhập %1 liên hệ vào %2"
 
 #: src/kaddressbook_options.h:15
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:shell"
 msgid "Import the given file"
-msgstr "Danh sách &nhập vào"
+msgstr "Nhập khẩu tệp đã cho"
 
 #: src/kaddressbook_options.h:17
 #, kde-format
 msgctxt "@info:shell"
 msgid "Open the 'New Contact' dialog"
-msgstr ""
+msgstr "Mở hộp thoại 'Liên hệ mới'"
 
 #: src/kaddressbook_options.h:19
 #, kde-format
 msgctxt "@info:shell"
 msgid "Display the specified contact (by URL)"
-msgstr ""
+msgstr "Hiển thị liên hệ được chỉ định (bằng URL)"
 
 #: src/kaddressbook_options.h:22
 #, kde-format
 msgctxt "@info:shell"
 msgid "Files or URLs. The user will be asked whether to import."
-msgstr ""
+msgstr "Tệp hoặc URL. Người dùng sẽ được hỏi xem có muốn nhập không."
 
 #: src/kaddressbook_options.h:26
 #, kde-format
 msgctxt "@info:shell"
 msgid "Lists the available options for user feedback"
-msgstr ""
+msgstr "Liệt kê các tùy chọn hiện có để phản hồi của người dùng"
 
 #: src/kaddressbookpart.cpp:49
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Configure KAddressBook…"
-msgstr "Nhập vào tự sổ danh sách của kde2"
+msgstr "&Cấu hình KAddressBook..."
 
 #. i18n: ectx: Menu (file)
 #: src/kaddressbookui.rc:5 src/kaddressbookui_part.rc:5
-#, fuzzy, kde-format
+#, kde-format
 msgid "&File"
-msgstr "&Hồ sơ là:"
+msgstr "Tệ&p"
 
 #. i18n: ectx: Menu (file_new)
 #: src/kaddressbookui.rc:7 src/kaddressbookui_part.rc:7
-#, fuzzy, kde-format
+#, kde-format
 msgid "&New"
-msgstr "Tên"
+msgstr "Mớ&i"
 
 #. i18n: ectx: Menu (edit)
 #: src/kaddressbookui.rc:25 src/kaddressbookui_part.rc:25
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Edit"
-msgstr "&Xuất ra danh sách"
+msgstr "Sử&a"
 
 #. i18n: ectx: Menu (view)
 #: src/kaddressbookui.rc:41 src/kaddressbookui_part.rc:41
 #, kde-format
 msgid "&View"
-msgstr ""
+msgstr "Xe&m"
 
 #. i18n: ectx: Menu (action)
 #: src/kaddressbookui.rc:54 src/kaddressbookui_part.rc:54
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Action"
-msgstr "Latvia"
+msgstr "hà&nh động"
 
 #. i18n: ectx: Menu (tools)
 #: src/kaddressbookui.rc:58 src/kaddressbookui_part.rc:58
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Tools"
-msgstr "Togo"
+msgstr "Côn&g cụ"
 
 #. i18n: ectx: Menu (settings)
 #: src/kaddressbookui.rc:62 src/kaddressbookui_part.rc:62
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Settings"
-msgstr "Contact pinning"
+msgstr "thiết lậ&p"
 
 #. i18n: ectx: Menu (file_export)
 #: src/kaddressbookui.rc:92 src/kaddressbookui_part.rc:90
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Export"
-msgstr "&Xuất ra danh sách"
+msgstr "X&uất khẩu"
 
 #. i18n: ectx: ToolBar (mainToolBar)
 #: src/kaddressbookui.rc:116 src/kaddressbookui_part.rc:114
 #, kde-format
 msgid "Main Toolbar"
-msgstr ""
+msgstr "Thanh công cụ chính"
 
 #: src/mainwidget.cpp:350
-#, fuzzy, kde-format
+#, kde-format
 msgid "Import"
-msgstr "Danh sách &nhập vào"
+msgstr "Nhập khẩu"
 
 #: src/mainwidget.cpp:357
-#, fuzzy, kde-format
+#, kde-format
 msgid "Export"
-msgstr "&Xuất ra danh sách"
+msgstr "xuất khẩu"
 
 #: src/mainwidget.cpp:403
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@label Search contacts in list"
 msgid "Search… <%1>"
-msgstr "Phân cách"
+msgstr "Tìm kiếm… <%1>"
 
 #: src/mainwidget.cpp:639
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "Print the complete address book or a selected number of contacts."
-msgstr ""
+msgstr "In toàn bộ sổ địa chỉ hoặc một số lượng liên hệ được chọn."
 
 #: src/mainwidget.cpp:644
 #, kde-format
 msgid "Quick search"
-msgstr ""
+msgstr "Tìm kiếm nhanh"
 
 #: src/mainwidget.cpp:649
-#, fuzzy, kde-format
+#, kde-format
 msgid "Category filter"
-msgstr "Chủng loại"
+msgstr "Bộ lọc loại"
 
 #: src/mainwidget.cpp:654
-#, fuzzy, kde-format
+#, kde-format
 msgid "Select All"
-msgstr "Các trường đã chọn"
+msgstr "Bôi đen tất cả"
 
 #: src/mainwidget.cpp:656
-#, fuzzy, kde-format
+#, kde-format
 msgid "Select all contacts in the current address book view."
-msgstr "Xin lỗi, contact không tìm thấy trong sổ địa chỉ"
+msgstr "Bôi đen tất cả các liên hệ trong sổ địa chỉ hiện tại."
 
 #: src/mainwidget.cpp:660
 #, kde-format
 msgid "Show QR Codes"
-msgstr ""
+msgstr "Hiển thị mã QR"
 
 #: src/mainwidget.cpp:661
 #, kde-format
 msgid "Show QR Codes in the contact."
-msgstr ""
+msgstr "Hiển thị mã QR trong liên hệ."
 
 #: src/mainwidget.cpp:666
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Simple (one column)"
-msgstr ""
+msgstr "Đơn giản (một cột)"
 
 #: src/mainwidget.cpp:670
-#, fuzzy, kde-format
+#, kde-format
 msgid "Show a simple mode of the address book view."
-msgstr "Không cất được sổ địa chỉ"
+msgstr "Hiển thị chế độ đơn giản của giao diện sổ địa chỉ."
 
 #: src/mainwidget.cpp:673
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Two Columns"
-msgstr ""
+msgstr "Hai cột"
 
 #: src/mainwidget.cpp:679
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Three Columns"
-msgstr ""
+msgstr "Ba cột"
 
 #: src/mainwidget.cpp:692
 #, kde-format
 msgctxt "@action"
 msgid "Set Focus to Quick Search"
-msgstr ""
+msgstr "Đặt Tiêu Điểm vào Tìm Kiếm Nhanh"
 
 #: src/mainwidget.cpp:705
 #, kde-format
 msgid "Serverside Subscription…"
-msgstr ""
+msgstr "Đăng ký phía máy chủ..."
 
 #: src/mainwidget.cpp:749 src/printing/printingwizard.cpp:44
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:window"
 msgid "Print Contacts"
-msgstr "Contact &mới"
+msgstr "In danh bạ"
 
 #: src/mainwindow.cpp:111
 #, kde-format
@@ -825,6 +847,8 @@ msgid ""
 "You will be presented with a dialog where you can configure the application-"
 "wide shortcuts."
 msgstr ""
+"Bạn sẽ được hiển thị một hộp thoại nơi bạn có thể cấu hình các phím tắt "
+"toàn ứng dụng."
 
 #: src/mainwindow.cpp:210
 #, kde-format
@@ -832,17 +856,19 @@ msgid ""
 "<qt>This will hide the menu bar completely. You can show it again by typing "
 "%1.</qt>"
 msgstr ""
+"<qt>Thao tác này sẽ ẩn hoàn toàn thanh trình đơn. Bạn có thể hiển thị lại "
+"nó bằng cách gõ %1.</qt>"
 
 #: src/mainwindow.cpp:213
 #, kde-format
 msgid "Hide menu bar"
-msgstr ""
+msgstr "Ẩn thanh trình đơn"
 
 #: src/manageshowcollectionproperties.cpp:83
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:window"
 msgid "Properties of Address Book Folder %1"
-msgstr "Duyệt sổ địa chỉ"
+msgstr "Thuộc tính của Thư mục Sổ địa chỉ %1"
 
 #: src/modelcolumnmanager.cpp:69
 #, kde-format
@@ -850,14 +876,14 @@ msgid "Full Name"
 msgstr "Tên đầy đủ"
 
 #: src/modelcolumnmanager.cpp:74
-#, fuzzy, kde-format
+#, kde-format
 msgid "Family Name"
-msgstr "Tên trường"
+msgstr "Họ"
 
 #: src/modelcolumnmanager.cpp:78
-#, fuzzy, kde-format
+#, kde-format
 msgid "Given Name"
-msgstr "Tên trường"
+msgstr "Tên"
 
 #: src/modelcolumnmanager.cpp:86 src/printing/detailled/detailledstyle.cpp:130
 #, kde-format
@@ -865,31 +891,31 @@ msgid "Home Address"
 msgstr "Địa chỉ nhà"
 
 #: src/modelcolumnmanager.cpp:90
-#, fuzzy, kde-format
+#, kde-format
 msgid "Business Address"
-msgstr "Địa chỉ nơi làm việc"
+msgstr "Địa chỉ công ty"
 
 #: src/modelcolumnmanager.cpp:94
-#, fuzzy, kde-format
+#, kde-format
 msgid "Phone Numbers"
-msgstr "Số điện thoại ở nhà"
+msgstr "Số điện thoại"
 
 #: src/modelcolumnmanager.cpp:98
-#, fuzzy, kde-format
+#, kde-format
 msgid "Preferred EMail"
-msgstr "Phố"
+msgstr "Thư điện tử ưa thích"
 
 #: src/modelcolumnmanager.cpp:102
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Email"
 msgid "All EMails"
-msgstr "Email"
+msgstr "Tất cả Email"
 
 #: src/printing/compact/compactstyle.cpp:113
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Company"
 msgid "Compact Style"
-msgstr "Công ti"
+msgstr "Kiểu cách Gọn gàng"
 
 #: src/printing/compact/compactstyle.cpp:167
 #: src/printing/detailled/detailledstyle.cpp:262
@@ -898,7 +924,7 @@ msgstr "Công ti"
 #: src/printing/ringbinder/ringbinderstyle.cpp:161
 #, kde-format
 msgid "Setting up document"
-msgstr ""
+msgstr "Thiết lập tài liệu"
 
 #: src/printing/compact/compactstyle.cpp:174
 #: src/printing/detailled/detailledstyle.cpp:269
@@ -907,36 +933,36 @@ msgstr ""
 #: src/printing/ringbinder/ringbinderstyle.cpp:194
 #, kde-format
 msgid "Printing"
-msgstr ""
+msgstr "In ấn"
 
 #: src/printing/compact/compactstyle.cpp:178
 #: src/printing/detailled/detailledstyle.cpp:273
 #: src/printing/grantlee/grantleeprintstyle.cpp:54
 #: src/printing/mike/mikesstyle.cpp:127
 #: src/printing/ringbinder/ringbinderstyle.cpp:198
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Finished printing"
 msgid "Done"
-msgstr "Phone"
+msgstr "Hoàn thành"
 
 #: src/printing/compact/compactstyle.cpp:201
 #, kde-format
 msgid "Compact Printing Style"
-msgstr ""
+msgstr "Kiểu cách In Gọn"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, CompactStyleForm_Base)
 #. i18n: ectx: property (windowTitle), widget (QWidget, RingBinderStyleAppearanceForm_Base)
 #: src/printing/compact/compactstyle.ui:14
 #: src/printing/ringbinder/rbs_appearance.ui:14
-#, fuzzy, kde-format
+#, kde-format
 msgid "Appearance"
-msgstr "France( Pháp)"
+msgstr "diện mạo"
 
 #. i18n: ectx: property (title), widget (QGroupBox, gbFields)
 #: src/printing/compact/compactstyle.ui:35
-#, fuzzy, kde-format
+#, kde-format
 msgid "Fields"
-msgstr "Các trường đã chọn"
+msgstr "Các trường"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, cbWithHomeAddress)
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, cbWithHomeAddress)
@@ -944,14 +970,14 @@ msgstr "Các trường đã chọn"
 #: src/printing/compact/compactstyle.ui:46
 #, kde-format
 msgid "Print the home address, with home phone number and mobile phone number"
-msgstr ""
+msgstr "In địa chỉ nhà, số điện thoại nhà và số điện thoại di động"
 
 #. i18n: ectx: property (text), widget (QCheckBox, cbWithHomeAddress)
 #: src/printing/compact/compactstyle.ui:49
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Home Address"
 msgid "with home address"
-msgstr "Địa chỉ nhà"
+msgstr "với địa chỉ nhà"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, cbWithBusinessAddress)
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, cbWithBusinessAddress)
@@ -959,27 +985,27 @@ msgstr "Địa chỉ nhà"
 #: src/printing/compact/compactstyle.ui:59
 #, kde-format
 msgid "print the business address, with business phone number"
-msgstr ""
+msgstr "in địa chỉ kinh doanh, kèm số điện thoại kinh doanh"
 
 #. i18n: ectx: property (text), widget (QCheckBox, cbWithBusinessAddress)
 #: src/printing/compact/compactstyle.ui:62
-#, fuzzy, kde-format
+#, kde-format
 msgid "with business address"
-msgstr "Địa chỉ nơi làm việc"
+msgstr "với địa chỉ công ty"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, cbWithBirthday)
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, cbWithBirthday)
 #: src/printing/compact/compactstyle.ui:69
 #: src/printing/compact/compactstyle.ui:72
-#, fuzzy, kde-format
+#, kde-format
 msgid "Print the birthday"
-msgstr "Contact &mới"
+msgstr "In ngày sinh"
 
 #. i18n: ectx: property (text), widget (QCheckBox, cbWithBirthday)
 #: src/printing/compact/compactstyle.ui:75
-#, fuzzy, kde-format
+#, kde-format
 msgid "with birthday"
-msgstr "Ngày sinh"
+msgstr "có ngày sinh"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, cbWithEMail)
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, cbWithEMail)
@@ -987,13 +1013,13 @@ msgstr "Ngày sinh"
 #: src/printing/compact/compactstyle.ui:85
 #, kde-format
 msgid "Print the preferred and the secondary e-mail fields"
-msgstr ""
+msgstr "In các trường email ưu tiên và phụ"
 
 #. i18n: ectx: property (text), widget (QCheckBox, cbWithEMail)
 #: src/printing/compact/compactstyle.ui:88
-#, fuzzy, kde-format
+#, kde-format
 msgid "with e-mail"
-msgstr "Email"
+msgstr "kèm email"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, lbCbFirst)
 #. i18n: ectx: property (whatsThis), widget (QLabel, lbCbFirst)
@@ -1001,13 +1027,13 @@ msgstr "Email"
 #: src/printing/compact/compactstyle.ui:115
 #, kde-format
 msgid "the first color, if alternating color is checked"
-msgstr ""
+msgstr "màu đầu tiên, nếu chọn màu luân phiên"
 
 #. i18n: ectx: property (text), widget (QLabel, lbCbFirst)
 #: src/printing/compact/compactstyle.ui:118
 #, kde-format
 msgid "first color"
-msgstr ""
+msgstr "màu đầu tiên"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, lbCbSecond)
 #. i18n: ectx: property (whatsThis), widget (QLabel, lbCbSecond)
@@ -1015,13 +1041,13 @@ msgstr ""
 #: src/printing/compact/compactstyle.ui:128
 #, kde-format
 msgid "the second color, if alternating color is checked"
-msgstr ""
+msgstr "màu thứ hai, nếu chọn màu luân phiên"
 
 #. i18n: ectx: property (text), widget (QLabel, lbCbSecond)
 #: src/printing/compact/compactstyle.ui:131
-#, fuzzy, kde-format
+#, kde-format
 msgid "second color"
-msgstr "Chọn ngày sinh"
+msgstr "màu thứ hai"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, cbAlternating)
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, cbAlternating)
@@ -1029,113 +1055,113 @@ msgstr "Chọn ngày sinh"
 #: src/printing/compact/compactstyle.ui:141
 #, kde-format
 msgid "Change the background color of every row"
-msgstr ""
+msgstr "Thay đổi màu nền của mỗi hàng"
 
 #. i18n: ectx: property (text), widget (QCheckBox, cbAlternating)
 #: src/printing/compact/compactstyle.ui:144
 #, kde-format
 msgid "Alternating the background color"
-msgstr ""
+msgstr "Thay đổi màu nền luân phiên"
 
 #: src/printing/detailled/detailledstyle.cpp:74
-#, fuzzy, kde-format
+#, kde-format
 msgid "Organization:"
-msgstr "Số ID trong tổ chức"
+msgstr "Tổ chức:"
 
 #: src/printing/detailled/detailledstyle.cpp:82
-#, fuzzy, kde-format
+#, kde-format
 msgid "Email address:"
-msgstr "Địa chỉ thư"
+msgstr "Địa chỉ thư điện tử:"
 
 #: src/printing/detailled/detailledstyle.cpp:82
-#, fuzzy, kde-format
+#, kde-format
 msgid "Email addresses:"
-msgstr "Địa chỉ thư"
+msgstr "Địa chỉ thư điện tử:"
 
 #: src/printing/detailled/detailledstyle.cpp:92
 #, kde-format
 msgid "Telephone:"
-msgstr ""
+msgstr "Điện thoại:"
 
 #: src/printing/detailled/detailledstyle.cpp:92
 #, kde-format
 msgid "Telephones:"
-msgstr ""
+msgstr "Điện thoại:"
 
 #: src/printing/detailled/detailledstyle.cpp:104
-#, fuzzy, kde-format
+#, kde-format
 msgid "Web page:"
-msgstr "Trang &Web"
+msgstr "Trang web:"
 
 #: src/printing/detailled/detailledstyle.cpp:118
-#, fuzzy, kde-format
+#, kde-format
 msgid "Domestic Address"
-msgstr "Địa chỉ nhà"
+msgstr "Địa chỉ trong nước"
 
 #: src/printing/detailled/detailledstyle.cpp:121
-#, fuzzy, kde-format
+#, kde-format
 msgid "International Address"
-msgstr "Địa chỉ khác"
+msgstr "Địa chỉ quốc tế"
 
 #: src/printing/detailled/detailledstyle.cpp:124
-#, fuzzy, kde-format
+#, kde-format
 msgid "Postal Address"
-msgstr "Địa chỉ nhà"
+msgstr "Địa chỉ bưu điện"
 
 #: src/printing/detailled/detailledstyle.cpp:127
-#, fuzzy, kde-format
+#, kde-format
 msgid "Parcel Address"
-msgstr "Phố"
+msgstr "Địa chỉ gói hàng"
 
 #: src/printing/detailled/detailledstyle.cpp:133
-#, fuzzy, kde-format
+#, kde-format
 msgid "Work Address"
-msgstr "Địa chỉ nhà"
+msgstr "Địa chỉ công việc"
 
 #: src/printing/detailled/detailledstyle.cpp:137
-#, fuzzy, kde-format
+#, kde-format
 msgid "Preferred Address"
-msgstr "Phố"
+msgstr "Địa chỉ ưa thích"
 
 #: src/printing/detailled/detailledstyle.cpp:148
-#, fuzzy, kde-format
+#, kde-format
 msgid "Notes:"
-msgstr "Ghi chú "
+msgstr "Ghi chú:"
 
 #. i18n: ectx: property (text), widget (QLabel, labelHeader)
 #: src/printing/detailled/detailledstyle.cpp:232
 #: src/printing/detailled/ds_appearance.ui:58
 #, kde-format
 msgid "Detailed Print Style - Appearance"
-msgstr ""
+msgstr "Kiểu cách In Chi Tiết - Diện Mạo"
 
 #: src/printing/detailled/detailledstyle.cpp:245
-#, fuzzy, kde-format
+#, kde-format
 msgid "Setting up colors"
-msgstr "Contact pinning"
+msgstr "Thiết lập màu sắc"
 
 #: src/printing/detailled/detailledstyle.cpp:288
 #, kde-format
 msgid "Detailed Style"
-msgstr ""
+msgstr "Kiểu cách chi tiết"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, AppearancePage_Base)
 #: src/printing/detailled/ds_appearance.ui:14
 #, kde-format
 msgid "Appearance Page"
-msgstr ""
+msgstr "Trang Diện Mạo"
 
 #. i18n: ectx: property (title), widget (QGroupBox, gbHeadline)
 #: src/printing/detailled/ds_appearance.ui:77
-#, fuzzy, kde-format
+#, kde-format
 msgid "Contact Headers"
-msgstr "Tất cả cá c trường  liên hệ"
+msgstr "Tiêu đề liên hệ"
 
 #. i18n: ectx: property (toolTip), widget (KColorButton, kcbHeaderBGColor)
 #: src/printing/detailled/ds_appearance.ui:119
 #, kde-format
 msgid "Select the headline text background color"
-msgstr ""
+msgstr "Chọn màu nền văn bản tiêu đề"
 
 #. i18n: ectx: property (whatsThis), widget (KColorButton, kcbHeaderBGColor)
 #: src/printing/detailled/ds_appearance.ui:122
@@ -1144,24 +1170,26 @@ msgid ""
 "Click this button to start a color chooser that will allow you set to the "
 "color for the headline background color."
 msgstr ""
+"Bấm nút này để khởi động trình chọn màu, cho phép bạn đặt màu nền cho tiêu "
+"đề."
 
 #. i18n: ectx: property (text), widget (QLabel, tlBackgroundColor)
 #: src/printing/detailled/ds_appearance.ui:139
 #, kde-format
 msgid "Headline background color:"
-msgstr ""
+msgstr "Màu nền tiêu đề:"
 
 #. i18n: ectx: property (text), widget (QLabel, tlHeaderColor)
 #: src/printing/detailled/ds_appearance.ui:149
 #, kde-format
 msgid "Headline text color:"
-msgstr ""
+msgstr "Màu văn bản tiêu đề:"
 
 #. i18n: ectx: property (toolTip), widget (KColorButton, kcbHeaderTextColor)
 #: src/printing/detailled/ds_appearance.ui:162
-#, fuzzy, kde-format
+#, kde-format
 msgid "Select the headline text color"
-msgstr "KAđressBook"
+msgstr "Chọn màu văn bản tiêu đề"
 
 #. i18n: ectx: property (whatsThis), widget (KColorButton, kcbHeaderTextColor)
 #: src/printing/detailled/ds_appearance.ui:165
@@ -1170,188 +1198,190 @@ msgid ""
 "Click this button to start a color chooser that will allow you set to the "
 "color for the headline text."
 msgstr ""
+"Bấm nút này để khởi động trình chọn màu sẽ cho phép bạn đặt màu cho tiêu đề "
+"văn bản."
 
 #: src/printing/mike/mikesstyle.cpp:142
 #, kde-format
 msgid "Mike's Printing Style"
-msgstr ""
+msgstr "Kiểu cách in của Mike"
 
 #: src/printing/printingwizard.cpp:47
 #, kde-format
 msgid "Which contacts do you want to print?"
-msgstr ""
+msgstr "Bạn muốn in những liên hệ nào?"
 
 #: src/printing/printingwizard.cpp:49
 #, kde-format
 msgid "Choose Contacts to Print"
-msgstr ""
+msgstr "Chọn Danh bạ để In"
 
 #: src/printing/printingwizard.cpp:55
 #, kde-format
 msgid "Choose Printing Style"
-msgstr ""
+msgstr "Chọn Kiểu Cách In"
 
 #: src/printing/printingwizard.cpp:202
 #, kde-format
 msgid "Print Progress"
-msgstr ""
+msgstr "Tiến trình in"
 
 #: src/printing/printprogress.cpp:24
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:window"
 msgid "Printing: Progress"
-msgstr "Giáo sư"
+msgstr "Đang in: Tiến độ"
 
 #: src/printing/printprogress.cpp:31
 #, kde-format
 msgctxt "Percent value; %p is the value, % is the percent sign"
 msgid "%p%"
-msgstr ""
+msgstr "%p%"
 
 #: src/printing/printprogress.cpp:43
-#, fuzzy, kde-format
+#, kde-format
 msgid "Progress"
-msgstr "Giáo sư"
+msgstr "Tiến độ"
 
 #. i18n: ectx: property (title), widget (QGroupBox, GroupBox2)
 #: src/printing/ringbinder/rbs_appearance.ui:35
 #, kde-format
 msgid "Print Contact's Information"
-msgstr ""
+msgstr "In thông tin liên hệ"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, cbPhoneNumbers)
 #: src/printing/ringbinder/rbs_appearance.ui:41
-#, fuzzy, kde-format
+#, kde-format
 msgid "Print contact phone numbers"
-msgstr "Số điện thoại ở nhà"
+msgstr "In số điện thoại liên hệ"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, cbPhoneNumbers)
 #: src/printing/ringbinder/rbs_appearance.ui:44
 #, kde-format
 msgid "Check this box if you want contact phone numbers to be printed."
-msgstr ""
+msgstr "Chọn hộp này nếu bạn muốn số điện thoại liên hệ được in."
 
 #. i18n: ectx: property (text), widget (QCheckBox, cbPhoneNumbers)
 #: src/printing/ringbinder/rbs_appearance.ui:47
-#, fuzzy, kde-format
+#, kde-format
 msgid "Phone numbers"
-msgstr "Số điện thoại ở nhà"
+msgstr "Số điện thoại"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, cbEmails)
 #: src/printing/ringbinder/rbs_appearance.ui:57
-#, fuzzy, kde-format
+#, kde-format
 msgid "Print contact email addresses"
-msgstr "Địa chỉ nhà"
+msgstr "In địa chỉ email liên hệ"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, cbEmails)
 #: src/printing/ringbinder/rbs_appearance.ui:60
 #, kde-format
 msgid "Check this box if you want contact email addresses to be printed."
-msgstr ""
+msgstr "Chọn hộp này nếu bạn muốn địa chỉ email liên hệ được in."
 
 #. i18n: ectx: property (text), widget (QCheckBox, cbEmails)
 #: src/printing/ringbinder/rbs_appearance.ui:63
-#, fuzzy, kde-format
+#, kde-format
 msgid "Email addresses"
-msgstr "Địa chỉ thư"
+msgstr "Địa chỉ thư điện tử"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, cbStreetAddresses)
 #: src/printing/ringbinder/rbs_appearance.ui:73
-#, fuzzy, kde-format
+#, kde-format
 msgid "Print contact street addresses"
-msgstr "địa chỉ"
+msgstr "In địa chỉ đường của liên hệ"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, cbStreetAddresses)
 #: src/printing/ringbinder/rbs_appearance.ui:76
 #, kde-format
 msgid "Check this box if you want contact street addresses to be printed."
-msgstr ""
+msgstr "Chọn hộp này nếu bạn muốn địa chỉ đường phố của liên hệ được in."
 
 #. i18n: ectx: property (text), widget (QCheckBox, cbStreetAddresses)
 #: src/printing/ringbinder/rbs_appearance.ui:79
-#, fuzzy, kde-format
+#, kde-format
 msgid "Postal addresses"
-msgstr "Địa chỉ nhà"
+msgstr "Địa chỉ bưu điện"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, cbOrganization)
 #: src/printing/ringbinder/rbs_appearance.ui:89
-#, fuzzy, kde-format
+#, kde-format
 msgid "Print contact organizations"
-msgstr "Contact &mới"
+msgstr "In các tổ chức liên hệ"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, cbOrganization)
 #: src/printing/ringbinder/rbs_appearance.ui:92
 #, kde-format
 msgid "Check this box if you want contact organizations to be printed."
-msgstr ""
+msgstr "Chọn hộp này nếu bạn muốn các tổ chức liên hệ được in."
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, cbBirthday)
 #: src/printing/ringbinder/rbs_appearance.ui:102
-#, fuzzy, kde-format
+#, kde-format
 msgid "Print contact birthdays"
-msgstr "Contact &mới"
+msgstr "In ngày sinh nhật liên hệ"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, cbBirthday)
 #: src/printing/ringbinder/rbs_appearance.ui:105
 #, kde-format
 msgid "Check this box if you want contact birthdays to be printed."
-msgstr ""
+msgstr "Chọn hộp này nếu bạn muốn ngày sinh của liên hệ được in."
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, cbNote)
 #: src/printing/ringbinder/rbs_appearance.ui:115
-#, fuzzy, kde-format
+#, kde-format
 msgid "Print contact notes"
-msgstr "Contact &mới"
+msgstr "In ghi chú liên hệ"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, cbNote)
 #: src/printing/ringbinder/rbs_appearance.ui:118
 #, kde-format
 msgid "Check this box if you want contact notes to be printed."
-msgstr ""
+msgstr "Đánh dấu vào ô này nếu bạn muốn ghi chú liên hệ được in."
 
 #: src/printing/ringbinder/ringbinderstyle.cpp:73
-#, fuzzy, kde-format
+#, kde-format
 msgid "Note: "
-msgstr "Ghi chú "
+msgstr "Ghi chú: "
 
 #: src/printing/ringbinder/ringbinderstyle.cpp:129
 #, kde-format
 msgid "Ring Binder Printing Style - Appearance"
-msgstr ""
+msgstr "Kiểu cách in Sổ Lò Xo - Diện mạo"
 
 #: src/printing/ringbinder/ringbinderstyle.cpp:145
-#, fuzzy, kde-format
+#, kde-format
 msgid "Setting up fields"
-msgstr "Contact pinning"
+msgstr "Thiết lập các trường"
 
 #: src/printing/ringbinder/ringbinderstyle.cpp:213
 #, kde-format
 msgid "Printout for Ring Binders"
-msgstr ""
+msgstr "In ấn cho Sổ Lò Xo"
 
 #: src/printing/stylepage.cpp:36
 #, kde-format
 msgctxt "@item:inlistbox Ascending sort order"
 msgid "Ascending"
-msgstr ""
+msgstr "Tăng dần"
 
 #: src/printing/stylepage.cpp:37
 #, kde-format
 msgctxt "@item:inlistbox Descending sort order"
 msgid "Descending"
-msgstr ""
+msgstr "Giảm dần"
 
 #: src/printing/stylepage.cpp:47
 #, kde-format
 msgctxt "@label"
 msgid "(No preview available.)"
-msgstr ""
+msgstr "(Không có bản xem thử.)"
 
 #: src/printing/stylepage.cpp:109
 #, kde-format
 msgctxt "@title:window"
 msgid "Choose Printing Style"
-msgstr ""
+msgstr "Chọn Kiểu Cách In"
 
 #: src/printing/stylepage.cpp:114
 #, kde-format
@@ -1361,24 +1391,27 @@ msgid ""
 "KAddressBook has several printing styles, designed for different purposes.\n"
 "Choose the style that suits your needs below."
 msgstr ""
+"Bản in nên trông như thế nào?\nKAddressBook có nhiều kiểu cách in khác "
+"nhau, được thiết kế cho các mục đích khác nhau.\nChọn kiểu cách phù hợp với "
+"nhu cầu của bạn bên dưới."
 
 #: src/printing/stylepage.cpp:121
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:group"
 msgid "Sorting"
-msgstr "Contact pinning"
+msgstr "Sắp xếp"
 
 #: src/printing/stylepage.cpp:126
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@label:listbox"
 msgid "Criterion:"
-msgstr "Số ID trong tổ chức"
+msgstr "Tiêu chí:"
 
 #: src/printing/stylepage.cpp:130
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Select the primary sort field"
-msgstr "Tìm &Incremental "
+msgstr "Chọn trường sắp xếp chính"
 
 #: src/printing/stylepage.cpp:132
 #, kde-format
@@ -1388,18 +1421,21 @@ msgid ""
 "the print output.  Use the sorting order option to determine if the sort "
 "will be in ascending or descending order."
 msgstr ""
+"Từ danh sách này, bạn có thể chọn trường mà liên hệ của bạn được sắp xếp "
+"trong đầu ra in. Sử dụng tùy chọn thứ tự sắp xếp để xác định nếu sắp xếp sẽ "
+"theo thứ tự tăng dần hoặc giảm dần."
 
 #: src/printing/stylepage.cpp:137
 #, kde-format
 msgctxt "@label:listbox"
 msgid "Order:"
-msgstr ""
+msgstr "Thứ tự:"
 
 #: src/printing/stylepage.cpp:141
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Select the sorting order"
-msgstr ""
+msgstr "Chọn thứ tự sắp xếp"
 
 #: src/printing/stylepage.cpp:143
 #, kde-format
@@ -1409,31 +1445,34 @@ msgid ""
 "Use the sorting criterion option to specify on which contact field the "
 "sorting will be performed."
 msgstr ""
+"Chọn nếu bạn muốn sắp xếp các liên hệ của mình theo thứ tự tăng dần hoặc "
+"giảm dần. Sử dụng tùy chọn tiêu chí sắp xếp để chỉ định trường liên hệ nào "
+"sẽ được sử dụng để sắp xếp."
 
 #: src/printing/stylepage.cpp:150
 #, kde-format
 msgctxt "@title:group"
 msgid "Print Style"
-msgstr ""
+msgstr "Kiểu cách in"
 
 #: src/printing/stylepage.cpp:155
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Select the print style"
-msgstr "Danh sách &phân phốị.."
+msgstr "Chọn kiểu cách in"
 
 #: src/printing/stylepage.cpp:156
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid ""
 "Choose your desired printing style. See the preview image to help you decide."
-msgstr ""
+msgstr "Chọn kiểu in mong muốn của bạn. Xem ảnh xem thử để giúp bạn quyết định."
 
 #: src/widgets/quicksearchwidget.cpp:31
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Search contacts in list"
-msgstr "Contact &mới"
+msgstr "Tìm kiếm liên hệ trong danh sách"
 
 #: src/widgets/quicksearchwidget.cpp:33
 #, kde-format
@@ -1443,3 +1482,6 @@ msgid ""
 "that string will be displayed.  This is a quick way of searching for "
 "contacts of interest."
 msgstr ""
+"Bắt đầu gõ một chuỗi tìm kiếm trong hộp này và danh sách các liên hệ khớp "
+"với chuỗi đó sẽ được hiển thị. Đây là một cách nhanh chóng để tìm kiếm các "
+"liên hệ quan tâm."

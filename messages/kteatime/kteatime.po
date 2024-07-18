@@ -1,0 +1,395 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kteatime package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kteatime\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-04-20 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: src/main.cpp:27
+#, kde-format
+msgid "KTeaTime"
+msgstr "KTeaTime"
+
+#: src/main.cpp:29
+#, kde-format
+msgid "KDE utility for making a fine cup of tea."
+msgstr "Tiện ích KDE để pha một tách trà ngon."
+
+#: src/main.cpp:31
+#, kde-format
+msgid ""
+"© 1998-1999, Matthias Hölzer-Klüpfel\n"
+"© 2002-2003, Martin Willers\n"
+"© 2007-2010, Stefan Böhmann"
+msgstr ""
+"© 1998-1999, Matthias Hölzer-Klüpfel\n© 2002-2003, Martin Willers\n© "
+"2007-2010, Stefan Böhmann"
+
+#: src/main.cpp:39
+#, kde-format
+msgid "Stefan Böhmann"
+msgstr "Stefan Böhmann"
+
+#: src/main.cpp:40
+#, kde-format
+msgid "Current maintainer"
+msgstr "Bảo trì viên hiện tại"
+
+#: src/main.cpp:44
+#, kde-format
+msgid "Matthias Hölzer-Klüpfel"
+msgstr "Matthias Hölzer-Klüpfel"
+
+#: src/main.cpp:45
+#, kde-format
+msgid "Martin Willers"
+msgstr "Martin Willers"
+
+#: src/main.cpp:47
+#, kde-format
+msgid "Daniel Teske"
+msgstr "Daniel Teske"
+
+#: src/main.cpp:47
+#, kde-format
+msgid "Many patches"
+msgstr "Nhiều bản vá"
+
+#: src/main.cpp:49
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#: src/main.cpp:49
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Địa chỉ email của bạn"
+
+#: src/main.cpp:64
+#, kde-format
+msgid "Start a new tea with this time."
+msgstr "Khởi động một trà mới với thời gian này."
+
+#: src/main.cpp:64
+#, kde-format
+msgid "seconds"
+msgstr "giây"
+
+#: src/main.cpp:67
+#, kde-format
+msgid "Use this name for the tea started with --time."
+msgstr "Sử dụng tên này cho trà bắt đầu với --time."
+
+#: src/main.cpp:68
+#, kde-format
+msgid "name"
+msgstr "tên"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, TimeEditWidget)
+#: src/main.cpp:79 src/tea.cpp:25 src/timeedit.cpp:36 src/timeedit.cpp:104
+#: src/timeedit.ui:14
+#, kde-format
+msgid "Custom Tea"
+msgstr "Trà Tùy Chỉnh"
+
+#: src/settings.cpp:39
+#, kde-format
+msgid "Configure Tea Cooker"
+msgstr "Cấu hình Nồi Đun Trà"
+
+#: src/settings.cpp:52
+#, kde-format
+msgid "Save changes and close dialog."
+msgstr "Lưu thay đổi và đóng hộp thoại."
+
+#: src/settings.cpp:53
+#, kde-format
+msgid "Close dialog without saving changes."
+msgstr "Đóng hộp thoại mà không lưu thay đổi."
+
+#: src/settings.cpp:54
+#, kde-format
+msgid "Show help page for this dialog."
+msgstr "Hiển thị trang trợ giúp cho hộp thoại này."
+
+#: src/settings.cpp:83
+#, kde-format
+msgctxt "Auto hide popup after"
+msgid " second"
+msgid_plural " seconds"
+msgstr[0] "giây"
+
+#: src/settings.cpp:84
+#, kde-format
+msgctxt "Reminder every"
+msgid " second"
+msgid_plural " seconds"
+msgstr[0] "giây"
+
+#. i18n: ectx: property (title), widget (QGroupBox, kbuttongroup1)
+#: src/settings.ui:18
+#, kde-format
+msgid "Tea List"
+msgstr "Danh sách trà"
+
+#. i18n: ectx: property (title), widget (QGroupBox, teaPropertiesGroup)
+#: src/settings.ui:112
+#, kde-format
+msgid "Tea Properties"
+msgstr "Thuộc tính Trà"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/settings.ui:118 src/tealistmodel.cpp:93
+#, kde-format
+msgid "Name"
+msgstr "Tên"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: src/settings.ui:132 src/tealistmodel.cpp:93
+#, kde-format
+msgid "Time"
+msgstr "Thời gian"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: src/settings.ui:149
+#, kde-format
+msgid "min"
+msgstr "tối thiểu"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: src/settings.ui:166
+#, kde-format
+msgid "sec"
+msgstr "giây"
+
+#. i18n: ectx: property (title), widget (QGroupBox, kbuttongroup2)
+#: src/settings.ui:189
+#, kde-format
+msgid "Action"
+msgstr "Hành động"
+
+#. i18n: ectx: property (text), widget (QCheckBox, popupCheckBox)
+#: src/settings.ui:195
+#, kde-format
+msgid "Popup"
+msgstr "ô bật lên"
+
+#. i18n: ectx: property (text), widget (QCheckBox, autohideCheckBox)
+#: src/settings.ui:226
+#, kde-format
+msgid "Auto hide popup after"
+msgstr "Tự động ẩn ô bật lên sau"
+
+#. i18n: ectx: property (text), widget (QCheckBox, reminderCheckBox)
+#: src/settings.ui:275
+#, kde-format
+msgid "Reminder every"
+msgstr "Nhắc nhở mỗi"
+
+#. i18n: ectx: property (text), widget (QCheckBox, visualizeCheckBox)
+#: src/settings.ui:322
+#, kde-format
+msgid "Visualize progress in icon tray"
+msgstr "Hiển thị tiến trình trong khay biểu tượng"
+
+#: src/tea.cpp:56
+#, kde-format
+msgid "%1 year"
+msgid_plural "%1 years"
+msgstr[0] "%1 năm"
+
+#: src/tea.cpp:58
+#, kde-format
+msgid "%1 a"
+msgid_plural "%1 a"
+msgstr[0] "%1 a"
+
+#: src/tea.cpp:68
+#, kde-format
+msgid "%1 day"
+msgid_plural "%1 days"
+msgstr[0] "%1 ngày"
+
+#: src/tea.cpp:70
+#, kde-format
+msgid "%1 d"
+msgid_plural "%1 d"
+msgstr[0] "%1 ngày"
+
+#: src/tea.cpp:80
+#, kde-format
+msgid "%1 hour"
+msgid_plural "%1 hours"
+msgstr[0] "%1 giờ"
+
+#: src/tea.cpp:82
+#, kde-format
+msgid "%1 h"
+msgid_plural "%1 h"
+msgstr[0] "%1 g"
+
+#: src/tea.cpp:92
+#, kde-format
+msgid "%1 minute"
+msgid_plural "%1 minutes"
+msgstr[0] "%1 phút"
+
+#: src/tea.cpp:94
+#, kde-format
+msgid "%1 min"
+msgid_plural "%1 min"
+msgstr[0] "%1 phút"
+
+#: src/tea.cpp:104
+#, kde-format
+msgid "%1 second"
+msgid_plural "%1 seconds"
+msgstr[0] "%1 giây"
+
+#: src/tea.cpp:106
+#, kde-format
+msgid "%1 s"
+msgid_plural "%1 s"
+msgstr[0] "%1 gy"
+
+#: src/tealistmodel.cpp:64
+#, kde-format
+msgid " ("
+msgstr "("
+
+#: src/tealistmodel.cpp:66
+#, kde-format
+msgid ")"
+msgstr ")"
+
+#: src/tealistmodel.cpp:105
+#, kde-format
+msgid "Unnamed Tea"
+msgstr "Trà Chưa Đặt Tên"
+
+#: src/timeedit.cpp:39
+#, kde-format
+msgid "Start a new custom tea with the time configured in this dialog."
+msgstr ""
+"Bắt đầu một trà tự chọn mới với thời gian được cấu hình trong hộp thoại "
+"này."
+
+#: src/timeedit.cpp:42
+#, kde-format
+msgid "Close this dialog without starting a new tea."
+msgstr "Đóng hộp thoại này mà không bắt đầu một trà mới."
+
+#: src/timeedit.cpp:54
+#, kde-format
+msgid " minute"
+msgid_plural " minutes"
+msgstr[0] "phút"
+
+#: src/timeedit.cpp:55
+#, kde-format
+msgid " second"
+msgid_plural " seconds"
+msgstr[0] "giây"
+
+#. i18n: ectx: property (text), widget (QLabel, minutesLabel_2)
+#: src/timeedit.ui:32
+#, kde-format
+msgid "Tea time:"
+msgstr "Giờ trà:"
+
+#: src/toplevel.cpp:50
+#, kde-format
+msgid "Unknown Tea"
+msgstr "Trà không rõ"
+
+#: src/toplevel.cpp:60
+#, kde-format
+msgid "Black Tea"
+msgstr "Trà đen"
+
+#: src/toplevel.cpp:61
+#, kde-format
+msgid "Earl Grey"
+msgstr "Earl Grey"
+
+#: src/toplevel.cpp:62
+#, kde-format
+msgid "Fruit Tea"
+msgstr "Trà Hoa Quả"
+
+#: src/toplevel.cpp:63
+#, kde-format
+msgid "Green Tea"
+msgstr "Trà xanh"
+
+#: src/toplevel.cpp:72
+#, kde-format
+msgid "&Resume"
+msgstr "tiếp tục trở &lại"
+
+#: src/toplevel.cpp:78
+#, kde-format
+msgid "&Pause"
+msgstr "&Tạm dừng"
+
+#: src/toplevel.cpp:84
+#, kde-format
+msgid "&Stop"
+msgstr "Dừn&g"
+
+#: src/toplevel.cpp:90
+#, kde-format
+msgid "&Configure..."
+msgstr "&Cấu hình..."
+
+#: src/toplevel.cpp:98
+#, kde-format
+msgid "&Custom..."
+msgstr "Tùy &chỉnh..."
+
+#: src/toplevel.cpp:154
+#, kde-format
+msgid "No steeping tea."
+msgstr "Không ủ trà."
+
+#: src/toplevel.cpp:207
+#, kde-format
+msgctxt "%1 - name of the tea, %2 - the predefined time for the tea"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: src/toplevel.cpp:285 src/toplevel.cpp:390
+#, kde-format
+msgid "The Tea Cooker"
+msgstr "Nồi Đun Trà"
+
+#: src/toplevel.cpp:291
+#, kde-format
+msgid "%1 is now ready!"
+msgstr "%1 đã sẵn sàng!"
+
+#: src/toplevel.cpp:310
+#, kde-format
+msgid "%1 is ready since %2!"
+msgstr "%1 đã sẵn sàng từ %2!"
+
+#: src/toplevel.cpp:325
+#, kde-format
+msgctxt "%1 is the time, %2 is the name of the tea"
+msgid "%1 left for %2."
+msgstr "%1 đã rời đi để %2."

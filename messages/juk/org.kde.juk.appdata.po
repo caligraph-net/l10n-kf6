@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2024-07-03 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: component/name
+#: org.kde.juk.appdata.xml:7
+msgid "JuK"
+msgstr "JuK"
+
+#. (itstool) path: component/summary
+#: org.kde.juk.appdata.xml:9
+msgid "Music Player"
+msgstr "Trình phát nhạc"
+
+#. (itstool) path: description/p
+#: org.kde.juk.appdata.xml:11
+msgid "JuK is an audio jukebox application, supporting collections of MP3, Ogg Vorbis, and FLAC audio files. It allows you to edit the \"tags\" of your audio files, and manage your collection and playlists. It's main focus, in fact, is on music management."
+msgstr ""
+"JuK là một ứng dụng jukebox âm thanh, hỗ trợ các bộ sưu tập tệp âm thanh "
+"MP3, Ogg Vorbis và FLAC. Nó cho phép bạn chỉnh sửa \"thẻ\" của các tệp âm "
+"thanh và quản lý bộ sưu tập và danh sách phát của bạn. Trọng tâm chính của "
+"nó, thực ra, là quản lý nhạc."
+
+#. (itstool) path: description/p
+#: org.kde.juk.appdata.xml:12
+msgid "Features:"
+msgstr "Tính năng:"
+
+#. (itstool) path: ul/li
+#: org.kde.juk.appdata.xml:14
+msgid "Collection list and multiple user defined playlists"
+msgstr "Danh sách bộ sưu tập và nhiều danh sách phát do người dùng định nghĩa"
+
+#. (itstool) path: ul/li
+#: org.kde.juk.appdata.xml:15
+msgid "Ability to scan directories to automatically import playlists and music files on start up"
+msgstr ""
+"Khả năng quét các thư mục để tự động nhập khẩu danh sách phát và tệp nhạc "
+"khi khởi động"
+
+#. (itstool) path: ul/li
+#: org.kde.juk.appdata.xml:16
+msgid "Dynamic Search Playlists that are automatically updated as fields in the collection change"
+msgstr ""
+"Danh sách phát tìm kiếm động được cập nhật tự động khi các trường trong bộ "
+"sưu tập thay đổi"
+
+#. (itstool) path: ul/li
+#: org.kde.juk.appdata.xml:17
+msgid "A Tree View mode where playlists are automatically generated for sets of albums, artists and genres"
+msgstr ""
+"Chế độ Xem Dạng Cây nơi các danh sách phát được tự động tạo ra cho các tập "
+"hợp album, nghệ sĩ và thể loại"
+
+#. (itstool) path: ul/li
+#: org.kde.juk.appdata.xml:18
+msgid "Playlist history to indicate which files have been played and when"
+msgstr "Lịch sử danh sách phát để chỉ ra những tệp đã được phát và khi nào"
+
+#. (itstool) path: ul/li
+#: org.kde.juk.appdata.xml:19
+msgid "Inline search for filtering the list of visible items"
+msgstr "Tìm kiếm nội tuyến để lọc danh sách các mục hiển thị"
+
+#. (itstool) path: ul/li
+#: org.kde.juk.appdata.xml:20
+msgid "The ability to guess tag information based on the track's file name"
+msgstr "Khả năng đoán thông tin thẻ dựa trên tên tệp của bài hát"
+
+#. (itstool) path: ul/li
+#: org.kde.juk.appdata.xml:21
+msgid "File renamer that can rename files based on the tag content"
+msgstr "Trình đổi tên tệp có thể đổi tên tệp dựa trên nội dung thẻ gắn"
+
+#. (itstool) path: ul/li
+#: org.kde.juk.appdata.xml:22
+msgid "Tag reading and editing support for many formats including ID3v1, ID3v2 and Ogg Vorbis"
+msgstr ""
+"Hỗ trợ đọc và chỉnh sửa thẻ cho nhiều định dạng bao gồm ID3v1, ID3v2 và Ogg "
+"Vorbis"

@@ -1,0 +1,1577 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the konqueror package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: konqueror\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-03 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: src/about/konq_aboutpage.cpp:72 src/about/konq_aboutpage.cpp:74
+#: src/about/konq_aboutpage.cpp:197 src/about/konq_aboutpage.cpp:199
+#, kde-format
+msgctxt "KDE 4 tag line"
+msgid "Be free."
+msgstr "Hãy tự do."
+
+#: src/about/konq_aboutpage.cpp:73 src/about/konq_aboutpage.cpp:132
+#: src/about/konq_aboutpage.cpp:198
+#, kde-format
+msgid "Konqueror"
+msgstr "Konqueror"
+
+#: src/about/konq_aboutpage.cpp:75 src/about/konq_aboutpage.cpp:134
+#: src/about/konq_aboutpage.cpp:200
+#, kde-format
+msgid "Konqueror is a web browser, file manager and universal document viewer."
+msgstr ""
+"Konqueror là một trình duyệt web, trình quản lý tệp và trình xem tài liệu "
+"phổ dụng."
+
+#: src/about/konq_aboutpage.cpp:76 src/about/konq_aboutpage.cpp:135
+#: src/about/konq_aboutpage.cpp:201
+#, kde-format
+msgctxt ""
+"Link that points to the first page of the Konqueror 'about page', Starting "
+"Points contains links to Home, Network Folders, Trash, etc."
+msgid "Starting Points"
+msgstr "Điểm khởi đầu"
+
+#: src/about/konq_aboutpage.cpp:77 src/about/konq_aboutpage.cpp:136
+#: src/about/konq_aboutpage.cpp:202
+#, kde-format
+msgid "Introduction"
+msgstr "Giới thiệu"
+
+#: src/about/konq_aboutpage.cpp:78 src/about/konq_aboutpage.cpp:137
+#: src/about/konq_aboutpage.cpp:203
+#, kde-format
+msgid "Tips"
+msgstr "Mẹo"
+
+#: src/about/konq_aboutpage.cpp:83
+#, kde-format
+msgid "Home Folder"
+msgstr "Thư mục Chính"
+
+#: src/about/konq_aboutpage.cpp:84
+#, kde-format
+msgid "Your personal files"
+msgstr "Các tệp cá nhân của bạn"
+
+#: src/about/konq_aboutpage.cpp:87
+#, kde-format
+msgid "Trash"
+msgstr "Thùng rác"
+
+#: src/about/konq_aboutpage.cpp:88
+#, kde-format
+msgid "Browse and restore the trash"
+msgstr "Duyệt và khôi phục thùng rác"
+
+#: src/about/konq_aboutpage.cpp:91
+#, kde-format
+msgid "Network Folders"
+msgstr "Thư mục mạng"
+
+#: src/about/konq_aboutpage.cpp:92
+#, kde-format
+msgid "Shared files and folders"
+msgstr "Các tệp và thư mục được chia sẻ"
+
+#: src/about/konq_aboutpage.cpp:95
+#, kde-format
+msgid "Bookmarks"
+msgstr "Dấu trang"
+
+#: src/about/konq_aboutpage.cpp:96
+#, kde-format
+msgid "Quick access to your bookmarks"
+msgstr "Truy cập nhanh vào các dấu trang của bạn"
+
+#: src/about/konq_aboutpage.cpp:99
+#, kde-format
+msgid "Next: An Introduction to Konqueror"
+msgstr "Tiếp theo: Giới thiệu về Konqueror"
+
+#: src/about/konq_aboutpage.cpp:101
+#, kde-format
+msgid "Search the Web"
+msgstr "Tìm kiếm trên Web"
+
+#: src/about/konq_aboutpage.cpp:131 src/about/konq_aboutpage.cpp:133
+#, kde-format
+msgctxt "KDE 4 tag line, see http://kde.org/img/kde40.png"
+msgid "Be free."
+msgstr "Hãy tự do."
+
+#: src/about/konq_aboutpage.cpp:138
+#, kde-format
+msgid ""
+"Konqueror makes working with and managing your files easy. You can browse "
+"both local and networked folders while enjoying advanced features such as "
+"the powerful sidebar and file previews."
+msgstr ""
+"Konqueror giúp việc làm việc và quản lý tệp của bạn trở nên dễ dàng. Bạn có "
+"thể duyệt qua các thư mục cục bộ và mạng trong khi tận hưởng các tính năng "
+"nâng cao như thanh bên mạnh mẽ và xem trước tệp."
+
+#: src/about/konq_aboutpage.cpp:142
+#, kde-format
+msgid ""
+"Konqueror is also a full featured and easy to use web browser which you can "
+"use to explore the Internet. Enter the address (e.g. <a href=\"http://www."
+"kde.org\">http://www.kde.org</a>) of a web page you would like to visit in "
+"the location bar and press Enter, or choose an entry from the Bookmarks menu."
+msgstr ""
+"Konqueror cũng là một trình duyệt web đầy đủ tính năng và dễ sử dụng mà bạn "
+"có thể dùng để khám phá Internet. Nhập địa chỉ (ví dụ: <a "
+"href=\"http://www.kde.org\">http://www.kde.org</a>) của trang web bạn muốn "
+"xem vào thanh địa chỉ và nhấn Enter, hoặc chọn một mục từ menu Dấu trang."
+
+#: src/about/konq_aboutpage.cpp:147
+#, kde-format
+msgid ""
+"To return to the previous location, press the back button <img width='16' "
+"height='16' src=\"%1\"></img> in the toolbar. "
+msgstr ""
+"Để quay lại vị trí trước đó, nhấn nút quay lại <img width='16' height='16' "
+"src=\"%1\"></img> trên thanh công cụ."
+
+#: src/about/konq_aboutpage.cpp:150
+#, kde-format
+msgid ""
+"To quickly go to your Home folder press the home button <img width='16' "
+"height='16' src=\"%1\"></img>."
+msgstr ""
+"Để nhanh chóng đi đến thư mục Home của bạn, hãy nhấn nút home <img "
+"width='16' height='16' src=\"%1\"></img>."
+
+#: src/about/konq_aboutpage.cpp:152
+#, kde-format
+msgid ""
+"For more detailed documentation on Konqueror click <a href=\"%1\">here</a>."
+msgstr ""
+"Để xem tài liệu chi tiết hơn về Konqueror, hãy bấm <a href=\"%1\">vào "
+"đây</a>."
+
+#: src/about/konq_aboutpage.cpp:155
+#, kde-format
+msgid "Next: Tips & Tricks"
+msgstr "Tiếp theo: Mẹo & Thủ thuật"
+
+#: src/about/konq_aboutpage.cpp:204
+#, kde-format
+msgid "Tips & Tricks"
+msgstr "Mẹo & Thủ thuật"
+
+#: src/about/konq_aboutpage.cpp:205
+#, kde-format
+msgid ""
+"Use Web-Shortcuts: by typing \"gg: KDE\" one can search the Internet, using "
+"Google, for the search phrase \"KDE\". There are a lot of Web-Shortcuts "
+"predefined to make searching for software or looking up certain words in an "
+"encyclopedia a breeze. You can even <a href=\"%1\">create your own</a> Web-"
+"Shortcuts."
+msgstr ""
+"Sử dụng Lối tắt Web: bằng cách gõ \"gg: KDE\" bạn có thể tìm kiếm trên "
+"Internet, sử dụng Google, với cụm từ tìm kiếm \"KDE\". Có rất nhiều Lối tắt "
+"Web được định nghĩa sẵn để giúp việc tìm kiếm phần mềm hoặc tra cứu từ "
+"trong bách khoa toàn thư trở nên dễ dàng. Bạn thậm chí có thể <a "
+"href=\"%1\">tạo ra</a> Lối tắt Web của riêng mình."
+
+#: src/about/konq_aboutpage.cpp:210
+#, kde-format
+msgid ""
+"When you want to paste a new address into the Location toolbar you might "
+"want to clear the current entry by pressing the black arrow with the white "
+"cross <img width='16' height='16' src=\"%1\"></img> in the toolbar."
+msgstr ""
+"Khi bạn muốn dán một địa chỉ mới vào thanh công cụ Địa điểm, bạn có thể "
+"muốn làm trống mục nhập hiện tại bằng cách nhấn vào mũi tên đen có dấu chéo "
+"trắng <img width='16' height='16' src=\"%1\"></img> trên thanh công cụ."
+
+#: src/about/konq_aboutpage.cpp:214
+#, kde-format
+msgid ""
+"To create a link on your desktop pointing to the current page, simply drag "
+"the icon (favicon) that is to the left of the Location toolbar, drop it on "
+"to the desktop, and choose \"Icon\"."
+msgstr ""
+"Để tạo một liên kết trên màn hình desktop của bạn chỉ cần kéo biểu tượng "
+"(favicon) ở bên trái của thanh công cụ Địa điểm, thả nó lên desktop, và "
+"chọn \"Biểu tượng\"."
+
+#: src/about/konq_aboutpage.cpp:217
+#, kde-format
+msgid ""
+"You can also find <img width='16' height='16' src=\"%1\" /> \"Full-Screen "
+"Mode\" in the Settings menu. This feature is very useful for \"Talk\" "
+"sessions."
+msgstr ""
+"Bạn cũng có thể tìm thấy tính năng <img width='16' height='16' src=\"%1\" "
+"/> \"Chế độ toàn màn hình\" trong menu Thiết lập. Tính năng này rất hữu ích "
+"cho các buổi \"Thảo luận\"."
+
+#: src/about/konq_aboutpage.cpp:220
+#, kde-format
+msgid ""
+"Divide et impera (lat. \"Divide and conquer\") - by splitting a window into "
+"two parts (e.g. Window -> <img width='16' height='16' src=\"%1\" /> Split "
+"View Left/Right) you can make Konqueror appear the way you like."
+msgstr ""
+"Divide et impera (lat. \"Chia để trị\") - bằng cách chia một cửa sổ thành "
+"hai phần (ví dụ: Cửa sổ -> <img width='16' height='16' src=\"%1\" /> Chia "
+"xem Trái/Phải) bạn có thể làm cho Konqueror xuất hiện theo ý thích của bạn."
+
+#: src/about/konq_aboutpage.cpp:223
+#, kde-format
+msgid ""
+"Use the <a href=\"%1\">user-agent</a> feature if the website you are "
+"visiting asks you to use a different browser (and do not forget to send a "
+"complaint to the webmaster!)"
+msgstr ""
+"Sử dụng tính năng <a href=\"%1\">user-agent</a> nếu địa điểm web bạn đang "
+"truy cập yêu cầu bạn sử dụng một trình duyệt khác (và đừng quên gửi khiếu "
+"nại đến webmaster!)"
+
+#: src/about/konq_aboutpage.cpp:226
+#, kde-format
+msgid ""
+"The <img width='16' height='16' src=\"%1\"></img> History in your Sidebar "
+"ensures that you can keep track of the pages you have visited recently."
+msgstr ""
+"Tính năng <img width='16' height='16' src=\"%1\"></img> Lịch sử trong thanh "
+"bên của bạn đảm bảo rằng bạn có thể theo dõi các trang bạn đã truy cập gần "
+"đây."
+
+#: src/about/konq_aboutpage.cpp:228
+#, kde-format
+msgid ""
+"Advanced users will appreciate the Konsole which you can embed into "
+"Konqueror (Settings -> <img width='16' height='16' SRC=\"%1\"></img> Show "
+"Terminal Emulator)."
+msgstr ""
+"Người dùng nâng cao sẽ đánh giá cao Konsole mà bạn có thể nhúng vào "
+"Konqueror (Cài đặt -> <img width='16' height='16' SRC=\"%1\"></img> Hiển "
+"thị trình giả lập dòng lệnh)."
+
+#: src/about/konq_aboutpage.cpp:232
+#, kde-format
+msgctxt ""
+"Link that points to the first page of the Konqueror 'about page', Starting "
+"Points contains links to Home, Network Folders, Trash, etc."
+msgid "<a href=\"%1\">Return to Starting Points</a>"
+msgstr "<a href=\"%1\">Quay lại Điểm Khởi đầu</a>"
+
+#: src/about/konq_aboutpage.cpp:246
+#, kde-format
+msgid "Installed Plugins"
+msgstr "Các plugin đã cài đặt"
+
+#: src/about/konq_aboutpage.cpp:247
+#, kde-format
+msgid "<td>Plugin</td><td>Description</td><td>File</td><td>Types</td>"
+msgstr "<td>Phần bổ trợ</td><td>Mô tả</td><td>Tệp</td><td>Các loại</td>"
+
+#: src/about/konq_aboutpage.cpp:248
+#, kde-format
+msgid "Installed"
+msgstr "Đã cài đặt"
+
+#: src/about/konq_aboutpage.cpp:249
+#, kde-format
+msgid "<td>Mime Type</td><td>Description</td><td>Suffixes</td><td>Plugin</td>"
+msgstr "<td>Kiểu MIME</td><td>Mô tả</td><td>Phần mở rộng</td><td>Plugin</td>"
+
+#: src/actondownloadedfilebar.cpp:20
+#, kde-format
+msgctxt "@label location where a remote URL was downloaded"
+msgid "%1 was saved in %2"
+msgstr "%1 đã được lưu trong %2"
+
+#: src/actondownloadedfilebar.cpp:24
+#, kde-format
+msgid "Show file in this tab"
+msgstr "Hiển thị tệp trong thẻ này"
+
+#: src/actondownloadedfilebar.cpp:25
+#, kde-format
+msgid "Show file in a new tab in Konqueror"
+msgstr "Hiển thị tệp trong một thẻ mới trong Konqueror"
+
+#: src/actondownloadedfilebar.cpp:59
+#, kde-format
+msgid "Open in external application"
+msgstr "Mở bằng ứng dụng bên ngoài"
+
+#: src/actondownloadedfilebar.cpp:64
+#, kde-format
+msgid "Open in %1"
+msgstr "Mở trong %1"
+
+#: src/actondownloadedfilebar.cpp:73 src/actondownloadedfilebar.cpp:109
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open &with %1"
+msgstr "&Mở bằng %1"
+
+#: src/actondownloadedfilebar.cpp:96
+#, kde-format
+msgctxt "@action:button"
+msgid "Show in new tab"
+msgstr "Hiển thị trong thẻ mới"
+
+#: src/actondownloadedfilebar.cpp:96
+#, kde-format
+msgctxt "@action:button"
+msgid "Show here"
+msgstr "Hiển thị ở đây"
+
+#: src/actondownloadedfilebar.cpp:100
+#, kde-format
+msgctxt "@action:button"
+msgid "Show in new tab using %1"
+msgstr "Hiển thị trong thẻ mới bằng %1"
+
+#: src/actondownloadedfilebar.cpp:100
+#, kde-format
+msgctxt "@action:button"
+msgid "Show here using %1"
+msgstr "Hiển thị ở đây bằng %1"
+
+#: src/choosepagesaveformatdlg.cpp:37
+#, kde-format
+msgid ""
+"The page will be saved as a single HTML file. Only the text of the page will "
+"be saved. External resources such as images won't be saved"
+msgstr ""
+"Trang sẽ được lưu dưới dạng một tệp HTML đơn. Chỉ có văn bản của trang mới "
+"được lưu. Các tài nguyên bên ngoài như hình ảnh sẽ không được lưu"
+
+#: src/choosepagesaveformatdlg.cpp:40
+#, kde-format
+msgid ""
+"The page will be saved as an HTML file. Any external resources the page "
+"requires, such as images, will be saved inside an apposite directory"
+msgstr ""
+"Trang sẽ được lưu dưới dạng tệp HTML. Bất kỳ tài nguyên bên ngoài mà trang "
+"yêu cầu, chẳng hạn như hình ảnh, sẽ được lưu trong một thư mục phù hợp"
+
+#: src/choosepagesaveformatdlg.cpp:43
+#, kde-format
+msgid ""
+"The page will be saved as a MTHML file which contains both the text of the "
+"page and any external resources it requires, such as images. "
+"<br><strong>Note</strong>: not all browsers are able to display this kind of "
+"files"
+msgstr ""
+"Trang sẽ được lưu dưới dạng tệp MHTML chứa cả văn bản của trang và bất kỳ "
+"tài nguyên bên ngoài nào mà nó yêu cầu, chẳng hạn như hình ảnh. "
+"<br><strong>Lưu ý</strong>: không phải tất cả các trình duyệt đều có thể "
+"hiển thị loại tệp này"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, ChoosePageSaveFormatDlg)
+#: src/choosepagesaveformatdlg.ui:14
+#, kde-format
+msgid "Choose Save Format"
+msgstr "Chọn Định Dạng Lưu"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/choosepagesaveformatdlg.ui:20
+#, kde-format
+msgid "How would you like to save the page?"
+msgstr "Bạn muốn lưu trang như thế nào?"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_singleHTMLPage)
+#: src/choosepagesaveformatdlg.ui:27
+#, kde-format
+msgid "As an HTML file &without external resources"
+msgstr "Như một tệp HTML không có tài ngu&yên bên ngoài"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_asDirectory)
+#: src/choosepagesaveformatdlg.ui:37
+#, kde-format
+msgid "As a &complete HTML page"
+msgstr "Như mộ&t trang HTML hoàn tất"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_asMHTMLPage)
+#: src/choosepagesaveformatdlg.ui:44
+#, kde-format
+msgid "As a &MHTML file"
+msgstr "Dưới dạng tệp &MHTML"
+
+#. i18n: ectx: property (text), widget (QLabel, m_info)
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/choosepagesaveformatdlg.ui:57 src/webenginepartcertificateerrordlg.ui:23
+#, kde-format
+msgid "TextLabel"
+msgstr "Nhãn văn bản"
+
+#: src/cookies/cookiealertdlg.cpp:22
+#, kde-format
+msgctxt "@label the cookie expires when the browser session ends"
+msgid "End of Session"
+msgstr "Kết thúc phiên"
+
+#: src/cookies/cookiealertdlg.cpp:29
+#, kde-format
+msgctxt "@label exposure string - the cookie may only be used by https servers"
+msgid "Secure servers only"
+msgstr "Chỉ máy chủ an toàn"
+
+#: src/cookies/cookiealertdlg.cpp:31
+#, kde-format
+msgctxt ""
+"@label exposure string - the cookie may be used by https servers AND client-"
+"side javascripts"
+msgid "Secure servers, page scripts"
+msgstr "Máy chủ an toàn, các tập lệnh trang"
+
+#: src/cookies/cookiealertdlg.cpp:35
+#, kde-format
+msgctxt "@label exposure string - the cookie may only be used by http servers"
+msgid "Servers"
+msgstr "Máy chủ"
+
+#: src/cookies/cookiealertdlg.cpp:37
+#, kde-format
+msgctxt ""
+"@label exposure string - the cookie may be used by http servers AND client-"
+"side javascripts"
+msgid "Servers, page scripts"
+msgstr "Máy chủ, các tập lệnh trang"
+
+#: src/cookies/cookiealertdlg.cpp:41
+#, kde-format
+msgctxt "@label accept cookie"
+msgid "Accept"
+msgstr "Chấp nhận"
+
+#: src/cookies/cookiealertdlg.cpp:42
+#, kde-format
+msgctxt "@label accept cookie for this session only"
+msgid "Accept for this session"
+msgstr "Chấp nhận cho phiên này"
+
+#: src/cookies/cookiealertdlg.cpp:45
+#, kde-format
+msgctxt "@label reject cookie"
+msgid "Reject"
+msgstr "Từ chối"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, CookieAlertDlg)
+#: src/cookies/cookiealertdlg.ui:14
+#, kde-format
+msgid "CookieAlertDlg"
+msgstr "CookieAlertDlg"
+
+#. i18n: ectx: property (text), widget (QLabel, header)
+#: src/cookies/cookiealertdlg.ui:20
+#, no-c-format, kde-format
+msgid ""
+"<html><head/><body><p>You received a cookie from %1</p><p>Do you want to "
+"accept or reject this cookie?</p></body></html>"
+msgstr ""
+"<html><head/><body><p>Bạn đã nhận được một bánh quy từ %1</p><p>Bạn có muốn "
+"chấp nhận hay từ chối bánh quy này không?</p></body></html>"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: src/cookies/cookiealertdlg.ui:30
+#, kde-format
+msgid "Cookie details"
+msgstr "Chi tiết bánh quy"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: src/cookies/cookiealertdlg.ui:36
+#, kde-format
+msgid "Name"
+msgstr "Tên"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: src/cookies/cookiealertdlg.ui:50
+#, kde-format
+msgid "Value"
+msgstr "Giá trị"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: src/cookies/cookiealertdlg.ui:64
+#, kde-format
+msgid "Expires"
+msgstr "Hết hạn"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: src/cookies/cookiealertdlg.ui:78
+#, kde-format
+msgid "Path"
+msgstr "Đường dẫn"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: src/cookies/cookiealertdlg.ui:99
+#, kde-format
+msgid "Exposure"
+msgstr "phơi sáng"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: src/cookies/cookiealertdlg.ui:113
+#, kde-format
+msgid "Domain"
+msgstr "Miền"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: src/cookies/cookiealertdlg.ui:123
+#, kde-format
+msgid "Apply choice to"
+msgstr "Áp dụng lựa chọn cho"
+
+#. i18n: ectx: property (text), widget (QRadioButton, applyToThis)
+#: src/cookies/cookiealertdlg.ui:129
+#, kde-format
+msgid "Only this cookie"
+msgstr "Chỉ bánh quy này"
+
+#. i18n: ectx: property (text), widget (QRadioButton, applyToDomain)
+#: src/cookies/cookiealertdlg.ui:136
+#, kde-format
+msgid "All cookies from this domain"
+msgstr "Tất cả bánh quy từ miền này"
+
+#. i18n: ectx: property (text), widget (QRadioButton, applyToAll)
+#: src/cookies/cookiealertdlg.ui:143
+#, kde-format
+msgid "All cookies"
+msgstr "Tất cả bánh quy"
+
+#: src/schemehandlers/errorschemehandler.cpp:97
+#, kde-format
+msgid ""
+"<html><body><h3>Unable to display error message</h3><p>The error template "
+"file <em>error.html</em> could not be found.</p></body></html>"
+msgstr ""
+"<html><body><h3>Không thể hiển thị thông báo lỗi</h3><p>Tệp bản mẫu lỗi "
+"<em>error.html</em> không tìm thấy được.</p></body></html>"
+
+#: src/schemehandlers/errorschemehandler.cpp:106
+#, kde-format
+msgid "The requested operation could not be completed"
+msgstr "Không thể hoàn thành thao tác được yêu cầu"
+
+#: src/schemehandlers/errorschemehandler.cpp:113
+#, kde-format
+msgid "Technical Reason: %1"
+msgstr "Lý do kỹ thuật: %1"
+
+#: src/schemehandlers/errorschemehandler.cpp:118
+#, kde-format
+msgid "Details of the Request:"
+msgstr "Chi tiết của Yêu cầu:"
+
+#. i18n, and once for HTML.
+#: src/schemehandlers/errorschemehandler.cpp:121
+#, kde-format
+msgid "URL: %1"
+msgstr "URL: %1"
+
+#. i18n, and once for HTML.
+#: src/schemehandlers/errorschemehandler.cpp:127
+#, kde-format
+msgid "Protocol: %1"
+msgstr "Giao thức: %1"
+
+#: src/schemehandlers/errorschemehandler.cpp:131
+#, kde-format
+msgid "Date and Time: %1"
+msgstr "Ngày và Giờ: %1"
+
+#. i18n, and once for HTML.
+#: src/schemehandlers/errorschemehandler.cpp:135
+#, kde-format
+msgid "Additional Information: %1"
+msgstr "Thông tin bổ sung: %1"
+
+#: src/schemehandlers/errorschemehandler.cpp:137
+#, kde-format
+msgid "Description:"
+msgstr "Mô tả:"
+
+#: src/schemehandlers/errorschemehandler.cpp:144
+#, kde-format
+msgid "Possible Causes:"
+msgstr "Các nguyên nhân có thể:"
+
+#: src/schemehandlers/errorschemehandler.cpp:152
+#, kde-format
+msgid "Possible Solutions:"
+msgstr "Các giải pháp có thể:"
+
+#: src/schemehandlers/errorschemehandler.cpp:158
+#, kde-format
+msgid "Error: %1"
+msgstr "Lỗi: %1"
+
+#: src/settings/webenginesettings.cpp:930
+#, kde-format
+msgid "Filter error"
+msgstr "Lỗi bộ lọc"
+
+#: src/spellcheckermanager.cpp:98
+#, kde-format
+msgid "Spelling"
+msgstr "đánh vần"
+
+#: src/spellcheckermanager.cpp:102
+#, kde-format
+msgid "Spell Checking Enabled"
+msgstr "Đánh vần Bật"
+
+#: src/spellcheckermanager.cpp:120
+#, kde-format
+msgid "&Languages"
+msgstr "N&gôn ngữ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, showPasswords)
+#: src/ui/credentialsdetailswidget.ui:34 src/webenginecustomizecacheablefieldsdlg.ui:44
+#, kde-format
+msgid "&Show passwords"
+msgstr "Hiển thị &mật khẩu"
+
+#: src/ui/featurepermissionbar.cpp:22
+#, kde-format
+msgctxt "@action:deny permission"
+msgid "&Deny permission"
+msgstr "Từ chối qu&yền truy cập"
+
+#: src/ui/featurepermissionbar.cpp:26
+#, kde-format
+msgctxt "@action:grant permission"
+msgid "&Grant permission"
+msgstr "Cấp quyề&n"
+
+#: src/ui/featurepermissionbar.cpp:57
+#, kde-format
+msgid "<html><b>%1</b> would like to send you notifications"
+msgstr "<html><b>%1</b> muốn gửi thông báo cho bạn"
+
+#: src/ui/featurepermissionbar.cpp:59
+#, kde-format
+msgid ""
+"<html><b>%1</b> would like to access information about your current physical "
+"location"
+msgstr "<html><b>%1</b> muốn truy cập thông tin về vị trí vật lý hiện tại của bạn"
+
+#: src/ui/featurepermissionbar.cpp:61
+#, kde-format
+msgid ""
+"<html><b>%1</b> would like to access your microphone and other audio capture "
+"devices"
+msgstr ""
+"<html><b>%1</b> muốn truy cập vào micrô và các thiết bị thu thập âm thanh "
+"khác của bạn"
+
+#: src/ui/featurepermissionbar.cpp:63
+#, kde-format
+msgid ""
+"<html><b>%1</b> would like to access your camera and other video capture "
+"devices"
+msgstr ""
+"<html><b>%1</b> muốn truy cập vào camera và các thiết bị thu thập hình ảnh "
+"khác của bạn"
+
+#: src/ui/featurepermissionbar.cpp:65
+#, kde-format
+msgid ""
+"<html><b>%1</b> would like to access to your microphone, camera and other "
+"audio and video capture devices"
+msgstr ""
+"<html><b>%1</b> muốn truy cập vào micrô, máy ảnh và các thiết bị thu thập "
+"âm thanh và hình ảnh khác của bạn"
+
+#: src/ui/featurepermissionbar.cpp:67
+#, kde-format
+msgid "<html><b>%1</b> would like to lock your mouse inside the web page"
+msgstr "<html><b>%1</b> muốn khóa chuột của bạn trong trang web"
+
+#: src/ui/featurepermissionbar.cpp:69
+#, kde-format
+msgid "<html><b>%1</b> would like to record your screen"
+msgstr "<html><b>%1</b> muốn ghi lại màn hình của bạn"
+
+#: src/ui/featurepermissionbar.cpp:71
+#, kde-format
+msgid "<html><b>%1</b> would like to record your screen and your audio"
+msgstr "<html><b>%1</b> muốn ghi lại màn hình và âm thanh của bạn"
+
+#: src/ui/passwordbar.cpp:29
+#, kde-format
+msgctxt "@action:remember password"
+msgid "&Remember"
+msgstr "Gh&i nhớ"
+
+#: src/ui/passwordbar.cpp:33
+#, kde-format
+msgctxt "@action:never for this site"
+msgid "Ne&ver for this site"
+msgstr "&Không bao giờ cho địa điểm này"
+
+#: src/ui/passwordbar.cpp:37
+#, kde-format
+msgctxt "@action:not now"
+msgid "N&ot now"
+msgstr "Khôn&g phải bây giờ"
+
+#: src/ui/passwordbar.cpp:41 src/ui/passwordbar.cpp:125
+#, kde-format
+msgctxt "@action:display details about credentials to store"
+msgid "&Show details"
+msgstr "H&iển thị chi tiết"
+
+#: src/ui/passwordbar.cpp:123
+#, kde-format
+msgctxt "@action:hide details about credentials to store"
+msgid "&Hide details"
+msgstr "Ẩn c&hi tiết"
+
+#: src/ui/searchbar.cpp:38
+#, kde-format
+msgid "Find..."
+msgstr "Tìm kiếm..."
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, closeButton)
+#: src/ui/searchbar.ui:23
+#, kde-format
+msgid "Close the search bar"
+msgstr "Đóng thanh tìm kiếm"
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, nextButton)
+#: src/ui/searchbar.ui:49
+#, kde-format
+msgid "Find the next match for the current search phrase"
+msgstr "Tìm khớp tiếp theo cho cụm từ tìm kiếm hiện tại"
+
+#. i18n: ectx: property (text), widget (QToolButton, nextButton)
+#: src/ui/searchbar.ui:52
+#, kde-format
+msgid "&Next"
+msgstr "Tiế&p"
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, previousButton)
+#. i18n: ectx: property (toolTip), widget (QPushButton, optionsButton)
+#: src/ui/searchbar.ui:68 src/ui/searchbar.ui:84
+#, kde-format
+msgid "Find the previous match for the current search phrase"
+msgstr "Tìm khớp trước đó cho cụm từ tìm kiếm hiện tại"
+
+#. i18n: ectx: property (text), widget (QToolButton, previousButton)
+#: src/ui/searchbar.ui:71
+#, kde-format
+msgid "&Previous"
+msgstr "&Trước"
+
+#. i18n: ectx: property (text), widget (QPushButton, optionsButton)
+#: src/ui/searchbar.ui:87
+#, kde-format
+msgid "&Options"
+msgstr "Tù&y chọn"
+
+#. i18n: ectx: property (text), item, widget (QPushButton, optionsButton)
+#: src/ui/searchbar.ui:116
+#, kde-format
+msgid "&Match Case"
+msgstr "Phâ&n biệt chữ hoa/thường"
+
+#. i18n: ectx: property (text), item, widget (QPushButton, optionsButton)
+#: src/ui/searchbar.ui:127
+#, kde-format
+msgid "&Search As You Type"
+msgstr "Tìm kiếm khi đan&g gõ"
+
+#. i18n: ectx: property (text), item, widget (QPushButton, optionsButton)
+#: src/ui/searchbar.ui:135
+#, kde-format
+msgid "&Highlight All Matches"
+msgstr "Tô sáng tất &cả các kết quả khớp"
+
+#. i18n: ectx: property (toolTip), item, widget (QPushButton, optionsButton)
+#: src/ui/searchbar.ui:138
+#, kde-format
+msgid "Highlight Matches"
+msgstr "Tô sáng Kết quả"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, WebEngineCustomizeCacheableFieldsDlg)
+#: src/webenginecustomizecacheablefieldsdlg.ui:14
+#, kde-format
+msgid "Choose fields to remember"
+msgstr "Chọn các trường để ghi nhớ"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, showPasswords)
+#: src/webenginecustomizecacheablefieldsdlg.ui:41
+#, kde-format
+msgid "Switch between displaying passwords or placeholders"
+msgstr "Chuyển đổi giữa hiển thị mật khẩu hoặc phần giữ chỗ"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, showDetails)
+#: src/webenginecustomizecacheablefieldsdlg.ui:64
+#, kde-format
+msgid "Show advanced information about the fields"
+msgstr "Hiển thị thông tin nâng cao về các trường"
+
+#. i18n: ectx: property (text), widget (QCheckBox, showDetails)
+#: src/webenginecustomizecacheablefieldsdlg.ui:67
+#: src/webenginepartcertificateerrordlg.ui:30
+#, kde-format
+msgid "&Show details"
+msgstr "Hiể&n thị chi tiết"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: src/webenginecustomizecacheablefieldsdlg.ui:89
+#, kde-format
+msgid "Available &fields"
+msgstr "Các trườn&g hiện có"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, immediatelyCacheData)
+#: src/webenginecustomizecacheablefieldsdlg.ui:101
+#, kde-format
+msgid "Store form data in KWallet when closing the dialog"
+msgstr "Lưu dữ liệu biểu mẫu trong KWallet khi đóng hộp thoại"
+
+#. i18n: ectx: property (text), widget (QCheckBox, immediatelyCacheData)
+#: src/webenginecustomizecacheablefieldsdlg.ui:104
+#, kde-format
+msgid "&Immediately memorize form data"
+msgstr "Ngay lập tức gh&i nhớ dữ liệu biểu mẫu"
+
+#: src/webenginepage.cpp:153
+#, kde-format
+msgid "The download manager (%1) could not be found in your installation."
+msgstr "Trình quản lý tải về (%1) không thể được tìm thấy trong cài đặt của bạn."
+
+#: src/webenginepage.cpp:154
+#, kde-format
+msgid ""
+"Try to reinstall it and make sure that it is available in $PATH. \n"
+"\n"
+"The integration will be disabled."
+msgstr ""
+"Hãy thử cài đặt lại nó và đảm bảo rằng nó có sẵn trong $PATH. \n\nTích hợp "
+"sẽ bị vô hiệu hóa."
+
+#: src/webenginepage.cpp:374
+#, kde-format
+msgid ""
+"<qt><p>To display the requested web page again, the browser needs to resend "
+"information you have previously submitted.</p><p>If you were shopping online "
+"and made a purchase, click the Cancel button to prevent a duplicate purchase."
+"Otherwise, click the Continue button to display the webpage again.</p>"
+msgstr ""
+"<qt><p>Để hiển thị lại trang web đã yêu cầu, trình duyệt cần gửi lại thông "
+"tin bạn đã gửi trước đó.</p><p>Nếu bạn đang mua sắm trực tuyến và đã thực "
+"hiện một giao dịch, hãy bấm nút Huỷ để tránh mua hàng trùng lặp. Nếu không, "
+"hãy bấm nút Tiếp tục để hiển thị lại trang web.</p></qt>"
+
+#: src/webenginepage.cpp:381
+#, kde-format
+msgid "Resubmit Information"
+msgstr "Gửi lại thông tin"
+
+#: src/webenginepage.cpp:575
+#, kde-format
+msgid ""
+"This site is attempting to access information about your physical location.\n"
+"Do you want to allow it access?"
+msgstr ""
+"Trang web này đang cố gắng truy cập thông tin về vị trí vật lý của "
+"bạn.\nBạn có muốn cho phép nó truy cập không?"
+
+#: src/webenginepage.cpp:579 src/webenginepage.cpp:657
+#: src/webenginepage.cpp:668
+#, kde-format
+msgid "Network Transmission"
+msgstr "Truyền vận mạng"
+
+#: src/webenginepage.cpp:580
+#, kde-format
+msgid "Allow access"
+msgstr "Cho phép truy cập"
+
+#: src/webenginepage.cpp:650
+#, kde-format
+msgid ""
+"Warning: This is a secure form but it is attempting to send your data back "
+"unencrypted.\n"
+"A third party may be able to intercept and view this information.\n"
+"Are you sure you want to send the data unencrypted?"
+msgstr ""
+"Cảnh báo: Đây là một biểu mẫu an toàn nhưng nó đang cố gửi dữ liệu của bạn "
+"trở lại không được mã hóa.\nMột bên thứ ba có thể chặn và xem thông tin "
+"này.\nBạn có chắc chắn muốn gửi dữ liệu không được mã hóa?"
+
+#: src/webenginepage.cpp:658
+#, kde-format
+msgid "&Send Unencrypted"
+msgstr "&Gửi không mã hóa"
+
+#: src/webenginepage.cpp:665
+#, kde-format
+msgid ""
+"This site is attempting to submit form data via email.\n"
+"Do you want to continue?"
+msgstr ""
+"Trang web này đang cố gửi dữ liệu biểu mẫu qua email.\nBạn có muốn tiếp tục "
+"không?"
+
+#: src/webenginepage.cpp:669
+#, kde-format
+msgid "&Send Email"
+msgstr "Gửi &thư điện tử"
+
+#: src/webenginepage.cpp:718
+#, kde-format
+msgid ""
+"<qt>Do you want to allow this site to attach the following files to the "
+"email message?</qt>"
+msgstr ""
+"<qt>Bạn có muốn cho phép địa điểm web này đính kèm các tệp sau vào thư điện "
+"tử không?</qt>"
+
+#: src/webenginepage.cpp:720
+#, kde-format
+msgid "Email Attachment Confirmation"
+msgstr "Xác nhận đính kèm thư điện tử"
+
+#: src/webenginepage.cpp:721
+#, kde-format
+msgid "&Allow attachments"
+msgstr "&Cho phép đính kèm"
+
+#: src/webenginepage.cpp:722
+#, kde-format
+msgid "&Ignore attachments"
+msgstr "&Bỏ qua tệp đính kèm"
+
+#: src/webenginepage.cpp:736
+#, kde-format
+msgid ""
+"This site attempted to attach a file from your computer in the form "
+"submission. The attachment was removed for your protection."
+msgstr ""
+"Địa điểm web này đã cố gắng đính kèm một tệp từ máy tính của bạn trong việc "
+"gửi biểu mẫu. Tệp đính kèm đã bị loại bỏ để bảo vệ bạn."
+
+#: src/webenginepage.cpp:739
+#, kde-format
+msgid "Attachment Removed"
+msgstr "Đã xóa tệp đính kèm"
+
+#: src/webenginepage.cpp:853
+#, kde-format
+msgid ""
+"This site is requesting to open a new popup window.\n"
+"Do you want to allow this?"
+msgstr ""
+"Trang web này đang yêu cầu mở một ô bật lên mới.\nBạn có muốn cho phép điều "
+"này không?"
+
+#: src/webenginepage.cpp:855
+#, kde-format
+msgid ""
+"<qt>This site is requesting to open a popup window to<p>%1</p><br/>Do you "
+"want to allow this?</qt>"
+msgstr ""
+"<qt>Địa điểm web này đang yêu cầu mở một ô bật lên đến<p>%1</p><br/>Bạn có "
+"muốn cho phép điều này không?</qt>"
+
+#: src/webenginepage.cpp:858
+#, kde-format
+msgid "Javascript Popup Confirmation"
+msgstr "Xác nhận ô bật lên Javascript"
+
+#: src/webenginepage.cpp:859
+#, kde-format
+msgid "Allow"
+msgstr "Cho phép"
+
+#: src/webenginepage.cpp:859
+#, kde-format
+msgid "Do Not Allow"
+msgstr "Không cho phép"
+
+#: src/webenginepart.cpp:197
+#, kde-format
+msgid "Save Full HTML Page As..."
+msgstr "Lưu Trang HTML Đầy Đủ Dưới Dạng..."
+
+#: src/webenginepart.cpp:201
+#, kde-format
+msgid "Print Preview"
+msgstr "Xem thử trước khi in"
+
+#: src/webenginepart.cpp:205
+#, kde-format
+msgctxt "zoom in action"
+msgid "Zoom In"
+msgstr "Thu phóng"
+
+#: src/webenginepart.cpp:210
+#, kde-format
+msgctxt "zoom out action"
+msgid "Zoom Out"
+msgstr "Thu phóng"
+
+#: src/webenginepart.cpp:215
+#, kde-format
+msgctxt "reset zoom action"
+msgid "Actual Size"
+msgstr "Kích thước thực"
+
+#: src/webenginepart.cpp:220
+#, kde-format
+msgid "Zoom Text Only"
+msgstr "Thu phóng chỉ văn bản"
+
+#: src/webenginepart.cpp:228
+#, kde-format
+msgid "Zoom To DPI"
+msgstr "Thu phóng theo DPI"
+
+#: src/webenginepart.cpp:241
+#, kde-format
+msgid "Set &Encoding"
+msgstr "Đặt &mã hoá"
+
+#: src/webenginepart.cpp:244
+#, kde-format
+msgid "View Do&cument Source"
+msgstr "Xem mã &nguồn tài liệu"
+
+#: src/webenginepart.cpp:249 src/webenginepart.cpp:557
+#, kde-format
+msgctxt "Secure Sockets Layer"
+msgid "SSL"
+msgstr "SSL"
+
+#: src/webenginepart.cpp:255
+#, kde-format
+msgctxt "find action \"whats this\" text"
+msgid ""
+"<h3>Find text</h3>Shows a dialog that allows you to find text on the "
+"displayed page."
+msgstr ""
+"<h3>Tìm văn bản</h3>Hiển thị một hộp thoại cho phép bạn tìm kiếm văn bản "
+"trên trang đang hiển thị."
+
+#: src/webenginepart.cpp:555
+#, kde-format
+msgid "The SSL information for this site appears to be corrupt."
+msgstr "Thông tin SSL của địa điểm web này dường như bị hỏng."
+
+#: src/webenginepart.cpp:636
+#, kde-format
+msgctxt ""
+"status bar text when hovering email links; looks like \"Email: xy@kde.org - "
+"CC: z@kde.org -BCC: x@kde.org - Subject: Hi translator\""
+msgid "Email: "
+msgstr "Email: "
+
+#: src/webenginepart.cpp:665
+#, kde-format
+msgctxt ""
+"status bar text when hovering email links; looks like \"Email: xy@kde.org - "
+"CC: z@kde.org -BCC: x@kde.org - Subject: Hi translator\""
+msgid " - CC: "
+msgstr "- Cc:"
+
+#: src/webenginepart.cpp:667
+#, kde-format
+msgctxt ""
+"status bar text when hovering email links; looks like \"Email: xy@kde.org - "
+"CC: z@kde.org -BCC: x@kde.org - Subject: Hi translator\""
+msgid " - BCC: "
+msgstr " - BCC: "
+
+#: src/webenginepart.cpp:669
+#, kde-format
+msgctxt ""
+"status bar text when hovering email links; looks like \"Email: xy@kde.org - "
+"CC: z@kde.org -BCC: x@kde.org - Subject: Hi translator\""
+msgid " - Subject: "
+msgstr "- Chủ đề:"
+
+#: src/webenginepart.cpp:673 src/webenginepart.cpp:684
+#, kde-format
+msgid " (In new window)"
+msgstr "(Trong cửa sổ mới)"
+
+#: src/webenginepart.cpp:682
+#, kde-format
+msgid " (In parent frame)"
+msgstr "(Trong khung cha)"
+
+#: src/webenginepart.cpp:748
+#, kde-format
+msgid "<qt>Do you want to search for <b>%1</b>?</qt>"
+msgstr "<qt>Bạn có muốn tìm kiếm <b>%1</b> không?</qt>"
+
+#: src/webenginepart.cpp:749
+#, kde-format
+msgid "Internet Search"
+msgstr "Tìm kiếm trên Internet"
+
+#: src/webenginepart.cpp:749
+#, kde-format
+msgid "&Search"
+msgstr "Tì&m kiếm"
+
+#: src/webenginepart.cpp:860
+#, kde-format
+msgid "Close window?"
+msgstr "Đóng cửa sổ?"
+
+#: src/webenginepart.cpp:860
+#, kde-format
+msgid "Confirmation Required"
+msgstr "Cần xác nhận"
+
+#: src/webenginepart.cpp:934
+#, kde-format
+msgid ""
+"<html>Do you want %1 to remember the login information for <b>%2</b>?</html>"
+msgstr ""
+"<html>Bạn có muốn %1 ghi nhớ thông tin đăng nhập cho <b>%2</b> "
+"không?</html>"
+
+#: src/webenginepart.cpp:1005
+#, kde-format
+msgctxt "Fill the Forms with Data from KWallet"
+msgid "&Fill forms now"
+msgstr "Điền biểu mẫu nga&y"
+
+#: src/webenginepart.cpp:1010
+#, kde-format
+msgid "&Memorize Passwords in This Page Now"
+msgstr "Lưu mật khẩu trên trang nà&y ngay bây giờ"
+
+#: src/webenginepart.cpp:1014
+#, kde-format
+msgid "&Customize Fields to Memorize for This Page..."
+msgstr "Tùy &chỉnh các trường để ghi nhớ cho trang này..."
+
+#: src/webenginepart.cpp:1018
+#, kde-format
+msgid "Remove Customized Memorization Settings for This Page"
+msgstr "Xoá Cài Đặt Ghi Nhớ Tùy Chỉnh cho Trang này"
+
+#: src/webenginepart.cpp:1022
+#, kde-format
+msgid "&Allow Password Caching for This Site"
+msgstr "C&ho phép lưu sẵn mật khẩu cho địa điểm web này"
+
+#: src/webenginepart.cpp:1026
+#, kde-format
+msgid "Remove All Memorized Passwords for This Site"
+msgstr "Xoá Tất Cả Mật Khẩu Đã Lưu Cho Địa Điểm Này"
+
+#: src/webenginepart.cpp:1030
+#, kde-format
+msgid "&Launch Wallet Manager"
+msgstr "K&hởi chạy Trình quản lý Ví"
+
+#: src/webenginepart.cpp:1034
+#, kde-format
+msgid "&Close Wallet"
+msgstr "Đóng &Ví"
+
+#. i18n: ectx: Menu (file)
+#: src/webenginepart.rc:5
+#, kde-format
+msgid "&File"
+msgstr "&tệp"
+
+#. i18n: ectx: Menu (edit)
+#: src/webenginepart.rc:12
+#, kde-format
+msgid "&Edit"
+msgstr "Sử&a"
+
+#. i18n: ectx: Menu (view)
+#: src/webenginepart.rc:18
+#, kde-format
+msgid "&View"
+msgstr "&Xem"
+
+#. i18n: ectx: Menu (tools)
+#: src/webenginepart.rc:30
+#, kde-format
+msgid "&Tools"
+msgstr "Côn&g cụ"
+
+#. i18n: ectx: Menu (wallet)
+#: src/webenginepart.rc:32
+#, kde-format
+msgid "&Credential management"
+msgstr "Quản lý &thông tin đăng nhập"
+
+#. i18n: ectx: ToolBar (htmlToolBar)
+#: src/webenginepart.rc:47
+#, kde-format
+msgid "HTML Toolbar"
+msgstr "Thanh công cụ HTML"
+
+#: src/webenginepart_ext.cpp:296
+#, kde-format
+msgid "Print Document"
+msgstr "In tài liệu"
+
+#: src/webenginepart_ext.cpp:513
+#, kde-format
+msgid "Add URL to Filter"
+msgstr "Thêm URL vào Bộ lọc"
+
+#: src/webenginepart_ext.cpp:514
+#, kde-format
+msgid "Enter the URL:"
+msgstr "Nhập URL:"
+
+#: src/webenginepartcertificateerrordlg.cpp:44
+#, kde-format
+msgctxt "Ignore the certificate error for this URL only for now"
+msgid "Yes, &once"
+msgstr "Có, chỉ mộ&t lần"
+
+#: src/webenginepartcertificateerrordlg.cpp:45
+#, kde-format
+msgctxt "Ignore the certificate error for this URL now and in the future"
+msgid "Yes, &forever"
+msgstr "&Có, mãi mãi"
+
+#: src/webenginepartcertificateerrordlg.cpp:50
+#, kde-format
+msgid ""
+"<p>The server <tt>%1</tt> failed the authenticity check. The error is:</"
+"p><p><tt>%2</tt></p>Do you want to ignore this error?"
+msgstr ""
+"<p>Máy chủ <tt>%1</tt> không vượt qua kiểm tra xác thực. Lỗi "
+"là:</p><p><tt>%2</tt></p>Bạn có muốn bỏ qua lỗi này không?"
+
+#: src/webenginepartcertificateerrordlg.cpp:56
+#, kde-format
+msgctxt "title of a dialog asking what to do about a SSL certificate error"
+msgid "Certificate error"
+msgstr "Lỗi chứng chỉ"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, WebEnginePartCertificateErrorDlg)
+#: src/webenginepartcertificateerrordlg.ui:14
+#, kde-format
+msgid "Dialog"
+msgstr "hộp thoại"
+
+#. i18n: ectx: property (title), widget (QGroupBox, details)
+#: src/webenginepartcertificateerrordlg.ui:50
+#, kde-format
+msgid "Certificate details"
+msgstr "Chi tiết chứng chỉ"
+
+#. i18n: ectx: attribute (title), widget (QWidget, subjectTab)
+#: src/webenginepartcertificateerrordlg.ui:63
+#, kde-format
+msgid "&Subject"
+msgstr "&Chủ đề"
+
+#. i18n: ectx: attribute (title), widget (QWidget, issuerTab)
+#: src/webenginepartcertificateerrordlg.ui:73
+#, kde-format
+msgid "&Issuer"
+msgstr "Bên cấ&p"
+
+#: src/webenginepartcontrols.cpp:282
+#, kde-format
+msgid ""
+"Couldn't open the file <tt>%1</tt> containing the user style sheet. The "
+"default style sheet will be used"
+msgstr ""
+"Không mở được tệp <tt>%1</tt> chứa bảng kiểu cách người dùng. Bảng kiểu "
+"cách mặc định sẽ được sử dụng"
+
+#: src/webenginepartdownloadmanager.cpp:298
+#, kde-format
+msgid "An error occurred while saving the file: %1"
+msgstr "Đã xảy ra lỗi khi lưu tệp: %1"
+
+#: src/webenginepartdownloadmanager.cpp:309
+#, kde-format
+msgctxt "Notification about downloading a file"
+msgid "Downloading"
+msgstr "Đang tải về"
+
+#: src/webenginepartdownloadmanager.cpp:310
+#, kde-format
+msgctxt "Source of a file being downloaded"
+msgid "Source"
+msgstr "Nguồn"
+
+#: src/webenginepartdownloadmanager.cpp:311
+#, kde-format
+msgctxt "Destination of a file download"
+msgid "Destination"
+msgstr "Đích đến"
+
+#: src/webenginepartdownloadmanager.cpp:333
+#, kde-format
+msgctxt "Finished saving URL"
+msgid "Saved %1 as %2"
+msgstr "Đã lưu %1 dưới tên %2"
+
+#: src/webengineview.cpp:351
+#, kde-format
+msgid "Save Image As..."
+msgstr "Lưu Ảnh Dưới Tên..."
+
+#: src/webengineview.cpp:356
+#, kde-format
+msgid "Send Image..."
+msgstr "Gửi Hình Ảnh..."
+
+#: src/webengineview.cpp:361
+#, kde-format
+msgid "Copy Image URL"
+msgstr "Sao chép URL ảnh"
+
+#: src/webengineview.cpp:367
+#, kde-format
+msgid "Copy Image"
+msgstr "Sao chép ảnh"
+
+#: src/webengineview.cpp:374
+#, kde-format
+msgid "View Image (%1)"
+msgstr "Xem Ảnh (%1)"
+
+#: src/webengineview.cpp:380
+#, kde-format
+msgid "Block Image..."
+msgstr "Chặn Hình ảnh..."
+
+#: src/webengineview.cpp:388
+#, kde-format
+msgid "Block Images From %1"
+msgstr "Chặn Hình Ảnh Từ %1"
+
+#: src/webengineview.cpp:418 src/webengineview.cpp:455
+#, kde-format
+msgid "&Copy Text"
+msgstr "S&ao chép văn bản"
+
+#: src/webengineview.cpp:428
+#, kde-format
+msgctxt "open selected url"
+msgid "Open '%1'"
+msgstr "Mở '%1'"
+
+#: src/webengineview.cpp:461
+#, kde-format
+msgid "&Copy Email Address"
+msgstr "Sao c&hép Địa chỉ Thư điện tử"
+
+#: src/webengineview.cpp:467
+#, kde-format
+msgid "Copy Link &Text"
+msgstr "Sao chép vă&n bản liên kết"
+
+#: src/webengineview.cpp:473
+#, kde-format
+msgid "Copy Link &URL"
+msgstr "Sao chép &URL liên kết"
+
+#: src/webengineview.cpp:478
+#, kde-format
+msgid "&Save Link As..."
+msgstr "&Lưu liên kết với tên..."
+
+#: src/webengineview.cpp:498
+#, kde-format
+msgid "&Play/Pause"
+msgstr "&Phát/Tạm dừng"
+
+#: src/webengineview.cpp:503
+#, kde-format
+msgid "Un&mute/&Mute"
+msgstr "Bật/Tắt tiến&g"
+
+#: src/webengineview.cpp:508
+#, kde-format
+msgid "Toggle &Loop"
+msgstr "Bật/Tắt lặ&p lại"
+
+#: src/webengineview.cpp:513
+#, kde-format
+msgid "Toggle &Controls"
+msgstr "Bật/Tắt Đ&iều khiển"
+
+#: src/webengineview.cpp:524
+#, kde-format
+msgid "Sa&ve Video As..."
+msgstr "Lưu Vi&deo Dưới Tên..."
+
+#: src/webengineview.cpp:525
+#, kde-format
+msgid "C&opy Video URL"
+msgstr "Sa&o chép URL video"
+
+#: src/webengineview.cpp:527
+#, kde-format
+msgid "Sa&ve Audio As..."
+msgstr "Lưu Âm Thanh &Dưới Tên..."
+
+#: src/webengineview.cpp:528
+#, kde-format
+msgid "C&opy Audio URL"
+msgstr "Sa&o chép URL âm thanh"
+
+#: src/webengineview.cpp:530
+#, kde-format
+msgid "Sa&ve Media As..."
+msgstr "Lưu Phương T&iện Dưới Dạng..."
+
+#: src/webengineview.cpp:531
+#, kde-format
+msgid "C&opy Media URL"
+msgstr "Sa&o chép URL phương tiện"
+
+#: src/webengineview.cpp:584
+#, kde-format
+msgctxt "Search \"search provider\" for \"text\""
+msgid "Search %1 for '%2'"
+msgstr "Tìm kiếm %1 cho '%2'"
+
+#: src/webengineview.cpp:595
+#, kde-format
+msgctxt "Search for \"text\" with"
+msgid "Search for '%1' with"
+msgstr "Tìm kiếm '%1' với"
+
+#: src/webengineview.cpp:608
+#, kde-format
+msgid "Configure Web Shortcuts..."
+msgstr "Cấu hình Lối tắt Web..."
+
+#: src/webenginewallet.cpp:91
+#, kde-format
+msgctxt "Web field with type 'text'"
+msgid "text"
+msgstr "văn bản"
+
+#: src/webenginewallet.cpp:92
+#, kde-format
+msgctxt "Web field with type 'password'"
+msgid "password"
+msgstr "mật khẩu"
+
+#: src/webenginewallet.cpp:93
+#, kde-format
+msgctxt "Web field with type 'e-mail'"
+msgid "e-mail"
+msgstr "email"
+
+#: src/webenginewallet.cpp:94
+#, kde-format
+msgctxt "Web field with type different from 'text', 'password' or 'e-mail'"
+msgid "other"
+msgstr "khác"
+
+#: src/webfieldsdataview.cpp:61
+#, kde-format
+msgctxt "Label of a web field"
+msgid "Field name"
+msgstr "Tên trường"
+
+#: src/webfieldsdataview.cpp:62
+#, kde-format
+msgctxt "Value of a web field"
+msgid "Field value"
+msgstr "Giá trị trường"
+
+#: src/webfieldsdataview.cpp:63
+#, kde-format
+msgctxt "Name attribute of a web field"
+msgid "Internal field name"
+msgstr "Tên trường nội bộ"
+
+#: src/webfieldsdataview.cpp:64
+#, kde-format
+msgctxt "Type of a web field"
+msgid "Field type"
+msgstr "Kiểu trường"
+
+#: src/webfieldsdataview.cpp:65
+#, kde-format
+msgctxt "The id of a web field"
+msgid "Field id"
+msgstr "Mã định danh trường"
+
+#: src/webfieldsdataview.cpp:66
+#, kde-format
+msgctxt "Other details about a web field"
+msgid "Details"
+msgstr "Chi tiết"
+
+#: src/webfieldsdataview.cpp:125
+#, kde-format
+msgctxt "web field has the readonly attribute"
+msgid "read only"
+msgstr "chỉ đọc"
+
+#: src/webfieldsdataview.cpp:128
+#, kde-format
+msgctxt "web field has the autocomplete attribute set to off"
+msgid "auto-completion off"
+msgstr "tự động hoàn tất tắt"
+
+#: src/webfieldsdataview.cpp:131
+#, kde-format
+msgctxt "web field is disabled"
+msgid "disabled"
+msgstr "tắt"
+
+#: src/webfieldsdataview.cpp:159
+#, kde-format
+msgctxt "A statement about a field is true"
+msgid "yes"
+msgstr "có"
+
+#: src/webfieldsdataview.cpp:160
+#, kde-format
+msgctxt "A statement about a field is false"
+msgid "no"
+msgstr "không"
+
+#: src/webfieldsdataview.cpp:163
+#, kde-format
+msgid ""
+"<ul><li><b>Field internal name: </b>%1</li><li><b>Field type: </b>%2</"
+"li><li><b>Field id: </b>%3</li><li><b>Field is read only: </b>%4</"
+"li><li><b>Field is enabled: </b>%5</li><li><b>Autocompletion is enabled: </b>"
+"%6</li></ul>"
+msgstr ""
+"<ul><li><b>Tên nội bộ trường: </b>%1</li><li><b>Loại trường: "
+"</b>%2</li><li><b>ID trường: </b>%3</li><li><b>Trường chỉ đọc: "
+"</b>%4</li><li><b>Trường được kích hoạt: </b>%5</li><li><b>Tự động hoàn "
+"thành được kích hoạt: </b>%6</li></ul>"

@@ -1,0 +1,3911 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the itinerary package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: itinerary\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-07 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: app/AboutPage.qml:18 app/main.qml:238
+#, kde-format
+msgid "About"
+msgstr "Thông tin"
+
+#: app/AboutPage.qml:146
+#, kde-format
+msgid "Copyright: %1"
+msgstr "Bản quyền: %1"
+
+#: app/AboutPage.qml:152
+#, kde-format
+msgid "Homepage: <a href=\"%1\">%1</a>"
+msgstr "Trang chủ: <a href=\"%1\">%1</a>"
+
+#: app/AboutPage.qml:159
+#, kde-format
+msgid "License: <a href=\"https://spdx.org/licenses/%1.html\">%2</a>"
+msgstr "Giấy phép: <a href=\"https://spdx.org/licenses/%1.html\">%2</a>"
+
+#: app/AboutPage.qml:178
+#, kde-format
+msgid "License: <a href=\"%2\">%1</a>"
+msgstr "Giấy phép: <a href=\"%2\">%1</a>"
+
+#: app/AboutPage.qml:187
+#, kde-format
+msgid ""
+"KDE Itinerary is developed by the KDE community as free software and uses "
+"the components listed below."
+msgstr ""
+"KDE Itinerary được phát triển bởi cộng đồng KDE như phần mềm miễn phí và sử "
+"dụng các thành phần được liệt kê bên dưới."
+
+#: app/AboutPage.qml:198
+#, kde-format
+msgid "KDE Itinerary uses public transport data from the following sources."
+msgstr "KDE Itinerary sử dụng dữ liệu giao thông công cộng từ các nguồn sau."
+
+#: app/AboutPage.qml:209
+#, kde-format
+msgid "Developer information"
+msgstr "Thông tin nhà phát triển"
+
+#: app/AboutPage.qml:215
+#, kde-format
+msgid "Application version: %1"
+msgstr "Phiên bản ứng dụng: %1"
+
+#: app/AboutPage.qml:231
+#, kde-format
+msgid "Extractor capabilities:"
+msgstr "Khả năng trích xuất:"
+
+#: app/AboutPage.qml:236
+#, kde-format
+msgid "Extractor capabilities copied to clipboard"
+msgstr "Khả năng trích xuất đã được sao chép vào bảng nháp"
+
+#: app/ActionsCard.qml:32
+#, kde-format
+msgid "Show Boarding Pass"
+msgstr "Hiển thị thẻ lên máy bay"
+
+#: app/ActionsCard.qml:32 app/TicketPage.qml:138
+#, kde-format
+msgid "Show Ticket"
+msgstr "Hiển thị vé"
+
+#: app/ActionsCard.qml:38
+#, kde-format
+msgid "Add transfer before"
+msgstr "Thêm truyền trước"
+
+#: app/ActionsCard.qml:47
+#, kde-format
+msgid "Add transfer after"
+msgstr "Thêm truyền sau"
+
+#: app/ActionsCard.qml:56 app/ProgramMembershipPage.qml:156
+#: app/TicketPage.qml:154
+#, kde-format
+msgid "Edit"
+msgstr "Sửa"
+
+#: app/ActionsCard.qml:62
+#, kde-format
+msgid "Add to calendar…"
+msgstr "Thêm vào lịch..."
+
+#: app/ActionsCard.qml:73 app/main.qml:226 app/TripGroupDelegate.qml:175
+#, kde-format
+msgid "Export…"
+msgstr "Xuất…"
+
+#: app/ActionsCard.qml:78 app/ActionsCard.qml:124 app/DocumentsCard.qml:87
+#: app/GenericPkPassPage.qml:24 app/GenericPkPassPage.qml:37
+#: app/HealthCertificatePage.qml:46 app/HealthCertificatePage.qml:60
+#: app/ProgramMembershipPage.qml:45 app/ProgramMembershipPage.qml:168
+#: app/TicketPage.qml:47 app/TicketPage.qml:171 app/TimelinePage.qml:221
+#, kde-format
+msgid "Delete"
+msgstr "Xóa"
+
+#: app/ActionsCard.qml:117
+#, kde-format
+msgid "Delete Event"
+msgstr "Xóa sự kiện"
+
+#: app/ActionsCard.qml:118
+#, kde-format
+msgid "Do you really want to delete this event?"
+msgstr "Bạn có thực sự muốn xóa sự kiện này không?"
+
+#: app/ActionsCard.qml:137 app/TimelinePage.qml:235
+#, kde-format
+msgid "Export"
+msgstr "xuất khẩu"
+
+#: app/ActionsCard.qml:140 app/TimelinePage.qml:238
+#, kde-format
+msgid "As Itinerary file…"
+msgstr "Như tệp Lịch trình..."
+
+#: app/ActionsCard.qml:151 app/TimelinePage.qml:262
+#, kde-format
+msgid "Send to %1"
+msgstr "Gửi đến %1"
+
+#: app/ActionsCard.qml:165
+#, kde-format
+msgid "Export Reservation"
+msgstr "Xuất khẩu Đặt chỗ"
+
+#: app/ActionsCard.qml:167 app/TimelinePage.qml:278
+#, kde-format
+msgid "Itinerary file (*.itinerary)"
+msgstr "Tệp lịch trình (*.itinerary)"
+
+#: app/ActionsCard.qml:172 app/ProgramMembershipPage.qml:135
+#: app/TicketPage.qml:130
+#, kde-format
+msgid "Actions"
+msgstr "Hành động"
+
+#: app/ActionsCard.qml:190
+#, kde-format
+msgctxt "cancel as in revoking a booking"
+msgid "Cancel Reservation"
+msgstr "Huỷ Đặt Chỗ"
+
+#: app/ActionsCard.qml:191
+#, kde-format
+msgid "Check-in"
+msgstr "Checkin"
+
+#: app/ActionsCard.qml:192
+#, kde-format
+msgid "Download"
+msgstr "Tải về"
+
+#: app/ActionsCard.qml:193
+#, kde-format
+msgctxt "participate in an event"
+msgid "Join"
+msgstr "Tham gia"
+
+#: app/ActionsCard.qml:194
+#, kde-format
+msgid "Reserve"
+msgstr "Đặt trước"
+
+#: app/ActionsCard.qml:195
+#, kde-format
+msgid "Change Reservation"
+msgstr "Thay đổi đặt chỗ"
+
+#: app/ActionsCard.qml:196
+#, kde-format
+msgid "View Reservation"
+msgstr "Xem Đặt Chỗ"
+
+#: app/AlternativeJourneyPage.qml:19
+#, kde-format
+msgid "Alternative Connections"
+msgstr "Các kết nối thay thế"
+
+#: app/AlternativeJourneyPage.qml:62 app/AlternativeJourneyPage.qml:72
+#, kde-format
+msgctxt "to travel destination"
+msgid "To %1"
+msgstr "Đến %1"
+
+#: app/AlternativeJourneyPage.qml:88 app/DepartureQueryPage.qml:41
+#: app/JourneyRequestPage.qml:221 app/TransferPage.qml:108
+#, kde-format
+msgctxt "journey query search constraint, title"
+msgid "Long distance trains"
+msgstr "Tàu dài hạn"
+
+#: app/AlternativeJourneyPage.qml:96 app/DepartureQueryPage.qml:48
+#: app/JourneyRequestPage.qml:231 app/TransferPage.qml:116
+#, kde-format
+msgctxt "journey query search constraint, title"
+msgid "Local trains"
+msgstr "Tàu địa phương"
+
+#: app/AlternativeJourneyPage.qml:104 app/DepartureQueryPage.qml:55
+#: app/JourneyRequestPage.qml:241 app/TransferPage.qml:124
+#, kde-format
+msgctxt "journey query search constraint, title"
+msgid "Rapid transit"
+msgstr "Giao thông công cộng nhanh"
+
+#: app/AlternativeJourneyPage.qml:112 app/DepartureQueryPage.qml:62
+#: app/JourneyRequestPage.qml:251 app/TransferPage.qml:132
+#, kde-format
+msgctxt "journey query search constraint, title"
+msgid "Bus"
+msgstr "Xe buýt"
+
+#: app/AlternativeJourneyPage.qml:120 app/DepartureQueryPage.qml:69
+#: app/JourneyRequestPage.qml:261 app/TransferPage.qml:140
+#, kde-format
+msgctxt "journey query search constraint, title"
+msgid "Ferry"
+msgstr "Phà"
+
+#: app/AlternativeJourneyPage.qml:130
+#, kde-format
+msgid "Replace Journey"
+msgstr "Thay thế Hành trình"
+
+#: app/AlternativeJourneyPage.qml:131
+#, kde-format
+msgid ""
+"Do you really want to replace your existing reservation with the newly "
+"selected journey?"
+msgstr ""
+"Bạn có thực sự muốn thay thế đặt chỗ hiện có của bạn bằng chuyến đi mới "
+"được chọn không?"
+
+#: app/AlternativeJourneyPage.qml:135
+#, kde-format
+msgid "Replace"
+msgstr "Thay thế"
+
+#: app/applicationcontroller.cpp:263
+#, kde-format
+msgid "One reservation imported."
+msgid_plural "%1 reservations imported."
+msgstr[0] "Đã nhập %1 đặt chỗ."
+
+#: app/applicationcontroller.cpp:266
+#, kde-format
+msgid "One pass imported."
+msgid_plural "%1 passes imported."
+msgstr[0] "%1 đã được nhập."
+
+#: app/applicationcontroller.cpp:270
+#, kde-format
+msgid "One health certificate imported."
+msgid_plural "%1 health certificates imported."
+msgstr[0] "Đã nhập %1 chứng chỉ sức khỏe."
+
+#: app/applicationcontroller.cpp:284 app/applicationcontroller.cpp:325
+#: app/applicationcontroller.cpp:343 app/applicationcontroller.cpp:388
+#: app/applicationcontroller.cpp:427 app/applicationcontroller.cpp:445
+#, kde-format
+msgid "Export failed: %1"
+msgstr "Xuất khẩu thất bại: %1"
+
+#: app/applicationcontroller.cpp:299 app/applicationcontroller.cpp:308
+#: app/applicationcontroller.cpp:401 app/applicationcontroller.cpp:410
+#, kde-format
+msgid "Export completed."
+msgstr "Xuất khẩu hoàn tất."
+
+#: app/applicationcontroller.cpp:335
+#, kde-format
+msgid "Trip sent."
+msgstr "Chuyến đi đã được gửi."
+
+#: app/applicationcontroller.cpp:437
+#, kde-format
+msgid "Reservation sent."
+msgstr "Đã gửi đặt chỗ."
+
+#: app/applicationcontroller.cpp:493
+#, kde-format
+msgid "Import completed."
+msgstr "Nhập khẩu hoàn tất."
+
+#: app/BarcodeScanModeButton.qml:17
+#, kde-format
+msgctxt "@action:button"
+msgid "Barcode Scan Mode"
+msgstr "Chế độ quét mã vạch"
+
+#: app/BarcodeScanModeController.qml:33
+#, kde-format
+msgid "In barcode scanning mode"
+msgstr "Trong chế độ quét mã vạch"
+
+#: app/BarcodeScannerPage.qml:17
+#, kde-format
+msgid "Scan Barcode"
+msgstr "Quét mã vạch"
+
+#: app/BarcodeScannerPage.qml:72
+#, kde-format
+msgid "No camera available."
+msgstr "Không có camera khả dụng."
+
+#: app/BarcodeScannerPage.qml:85
+#, kde-format
+msgid "Light"
+msgstr "Ánh sáng"
+
+#: app/BoatDelegate.qml:18 app/BusDelegate.qml:33 app/TrainDelegate.qml:34
+#: app/TrainPage.qml:76 app/TransferDelegate.qml:61
+#, kde-format
+msgid "%1 to %2"
+msgstr "%1 đến %2"
+
+#: app/BoatDelegate.qml:34
+#, kde-format
+msgid "From: %1"
+msgstr "Từ: %1"
+
+#: app/BoatDelegate.qml:48
+#, kde-format
+msgid "To: %1"
+msgstr "Đến: %1"
+
+#: app/BoatDelegate.qml:59
+#, kde-format
+msgid "Arrival time: %1"
+msgstr "Thời gian đến: %1"
+
+#: app/BoatEditor.qml:17
+#, kde-format
+msgid "Edit Boat Trip"
+msgstr "Sửa Chuyến Đi Thuyền"
+
+#: app/BoatEditor.qml:54 app/BoatPage.qml:28 app/StatisticsPage.qml:134
+#, kde-format
+msgid "Boat"
+msgstr "Thuyền"
+
+#: app/BoatEditor.qml:58 app/BoatPage.qml:54
+#, kde-format
+msgctxt "Boat departure"
+msgid "Departure"
+msgstr "Khởi hành"
+
+#: app/BoatEditor.qml:64
+#, kde-format
+msgctxt "Boat departure"
+msgid "Departure Time"
+msgstr "Thời gian khởi hành"
+
+#: app/BoatEditor.qml:68
+#, kde-format
+msgid "Departure time has to be set."
+msgstr "Thời gian khởi hành phải được đặt."
+
+#: app/BoatEditor.qml:73 app/BoatEditor.qml:114
+#, kde-format
+msgctxt "boat terminal"
+msgid "Terminal Name"
+msgstr "Tên Dòng Lệnh"
+
+#: app/BoatEditor.qml:76
+#, kde-format
+msgid "Departure terminal must not be empty."
+msgstr "Điểm khởi hành không được để trống."
+
+#: app/BoatEditor.qml:90 app/BoatPage.qml:84
+#, kde-format
+msgctxt "Boat arrival"
+msgid "Arrival"
+msgstr "Đến"
+
+#: app/BoatEditor.qml:96
+#, kde-format
+msgctxt "Boat arrival"
+msgid "Arrival Time"
+msgstr "Thời gian đến"
+
+#: app/BoatEditor.qml:107
+#, kde-format
+msgid "Arrival time has to be after the departure time."
+msgstr "Thời gian đến phải sau thời gian khởi hành."
+
+#: app/BoatEditor.qml:117
+#, kde-format
+msgid "Arrival terminal must not be empty."
+msgstr "Điểm đến không được để trống."
+
+#: app/BoatPage.qml:16
+#, kde-format
+msgid "Boat Ticket"
+msgstr "Vé tàu"
+
+#: app/BoatPage.qml:59 app/BusPage.qml:68 app/TrainPage.qml:114
+#, kde-format
+msgid "Departure time"
+msgstr "Thời gian khởi hành"
+
+#: app/BoatPage.qml:66 app/BoatPage.qml:96
+#, kde-format
+msgctxt "Boat terminal"
+msgid "Terminal"
+msgstr "Dòng lệnh"
+
+#: app/BoatPage.qml:89 app/BusPage.qml:133 app/TrainPage.qml:197
+#, kde-format
+msgid "Arrival time"
+msgstr "Thời gian đến"
+
+#: app/BookingCard.qml:23
+#, kde-format
+msgid "Booking"
+msgstr "Đặt chỗ"
+
+#: app/BookingCard.qml:29 app/BookingEditorCard.qml:43
+#, kde-format
+msgid "Reference"
+msgstr "Tham chiếu"
+
+#: app/BookingCard.qml:35 app/BookingCard.qml:67 app/ProgramMembershipCard.qml:46
+#: app/ProgramMembershipPage.qml:98
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Copy to Clipboard"
+msgstr "Sao chép vào Bảng nháp"
+
+#: app/BookingCard.qml:39
+#, kde-format
+msgid "Booking reference copied to clipboard"
+msgstr "Mã đặt chỗ đã được sao chép vào bảng nháp"
+
+#: app/BookingCard.qml:52 app/BookingEditorCard.qml:51
+#: app/TicketEditor.qml:71
+#, kde-format
+msgid "Under name"
+msgstr "Dưới tên"
+
+#: app/BookingCard.qml:61
+#, kde-format
+msgid "Ticket number:"
+msgstr "Số vé:"
+
+#: app/BookingCard.qml:71
+#, kde-format
+msgid "Ticket number copied to clipboard"
+msgstr "Số vé đã được sao chép vào bảng nháp"
+
+#: app/BookingEditorCard.qml:37
+#, kde-format
+msgctxt "@title:group"
+msgid "Booking"
+msgstr "Đặt chỗ"
+
+#: app/BusDelegate.qml:136 app/TrainDelegate.qml:162
+#, kde-format
+msgid "1 intermediate stop"
+msgid_plural "%1 intermediate stops"
+msgstr[0] "%1 điểm dừng trung gian"
+
+#: app/BusEditor.qml:17
+#, kde-format
+msgid "Edit Bus Reservation"
+msgstr "Sửa Đặt Chỗ Xe Buýt"
+
+#: app/BusEditor.qml:48 app/TrainEditor.qml:52
+#, kde-format
+msgid "Board Later"
+msgstr "Lên xe sau"
+
+#: app/BusEditor.qml:51
+#, kde-format
+msgid "Change departure stop"
+msgstr "Thay đổi điểm dừng khởi hành"
+
+#: app/BusEditor.qml:61 app/TrainEditor.qml:65
+#, kde-format
+msgid "Alight Earlier"
+msgstr "Xuống sớm hơn"
+
+#: app/BusEditor.qml:64
+#, kde-format
+msgid "Change arrival stop"
+msgstr "Thay đổi điểm dừng đến"
+
+#: app/BusEditor.qml:84
+#, kde-format
+msgctxt "@title"
+msgid "Bus"
+msgstr "Xe buýt"
+
+#: app/BusEditor.qml:89
+#, kde-format
+msgctxt "bus departure"
+msgid "Departure"
+msgstr "Khởi hành"
+
+#: app/BusEditor.qml:94 app/BusEditor.qml:116
+#, kde-format
+msgctxt "bus stop"
+msgid "Stop"
+msgstr "Dừng"
+
+#: app/BusEditor.qml:99 app/BusEditor.qml:121
+#, kde-format
+msgctxt "bus stop platform"
+msgid "Platform"
+msgstr "Sân"
+
+#: app/BusEditor.qml:103 app/TrainEditor.qml:111
+#, kde-format
+msgid "Board later"
+msgstr "Lên xe sau"
+
+#: app/BusEditor.qml:111
+#, kde-format
+msgctxt "bus arrival"
+msgid "Arrival"
+msgstr "Đến"
+
+#: app/BusEditor.qml:125 app/TrainEditor.qml:136
+#, kde-format
+msgid "Alight earlier"
+msgstr "Xuống sớm hơn"
+
+#: app/BusEditor.qml:134 app/BusEditor.qml:140 app/BusPage.qml:182
+#: app/EventPage.qml:101 app/FlightEditor.qml:195 app/FlightEditor.qml:202
+#: app/FlightPage.qml:94 app/TrainEditor.qml:146 app/TrainEditor.qml:158
+#: app/TrainPage.qml:271
+#, kde-format
+msgid "Seat"
+msgstr "Chỗ ngồi"
+
+#: app/BusPage.qml:18
+#, kde-format
+msgid "Bus Ticket"
+msgstr "Vé xe buýt"
+
+#: app/BusPage.qml:55
+#, kde-format
+msgctxt "Bus departure"
+msgid "Departure"
+msgstr "Khởi hành"
+
+#: app/BusPage.qml:88 app/TrainPage.qml:143
+#, kde-format
+msgid "Departure date"
+msgstr "Ngày khởi hành"
+
+#: app/BusPage.qml:96 app/BusPage.qml:157
+#, kde-format
+msgctxt "bus station"
+msgid "Station"
+msgstr "Trạm"
+
+#: app/BusPage.qml:104 app/BusPage.qml:165
+#, kde-format
+msgctxt "bus station platform"
+msgid "Platform"
+msgstr "Sân ga"
+
+#: app/BusPage.qml:121
+#, kde-format
+msgctxt "Bus arrival"
+msgid "Arrival"
+msgstr "Đến"
+
+#: app/BusPage.qml:212 app/TrainPage.qml:338
+#, kde-format
+msgid "Alternatives"
+msgstr "Các phương án"
+
+#: app/BusPage.qml:217 app/JourneySectionPage.qml:26
+#: app/TrainPage.qml:343
+#, kde-format
+msgid "Journey Details"
+msgstr "Chi tiết chuyến đi"
+
+#: app/calendarhelper.cpp:28
+#, kde-format
+msgid "Transfer to %1"
+msgstr "Truyền sang %1"
+
+#: app/CalendarSelectionSheet.qml:14
+#, kde-format
+msgctxt "@title"
+msgid "Select Calendar"
+msgstr "Chọn Lịch"
+
+#: app/CarRentalDelegate.qml:20
+#, kde-format
+msgid "Rental Car Drop-off"
+msgstr "Trả xe thuê"
+
+#: app/CarRentalDelegate.qml:21
+#, kde-format
+msgid "Rental Car Pick-up"
+msgstr "Thuê xe"
+
+#: app/CarRentalDelegate.qml:49
+#, kde-format
+msgid "Drop-off: %1"
+msgstr "Trả xe: %1"
+
+#: app/CarRentalPage.qml:15 app/CarRentalPage.qml:22
+#, kde-format
+msgid "Rental Car"
+msgstr "Xe thuê"
+
+#: app/CarRentalPage.qml:26
+#, kde-format
+msgid "Pick-up"
+msgstr "Nhận xe"
+
+#: app/CarRentalPage.qml:32 app/CarRentalPage.qml:59
+#, kde-format
+msgid "Time"
+msgstr "Thời gian"
+
+#: app/CarRentalPage.qml:41 app/CarRentalPage.qml:68 app/FormPlaceDelegate.qml:30
+#: app/HotelPage.qml:25
+#, kde-format
+msgid "Location"
+msgstr "địa điểm"
+
+#: app/CarRentalPage.qml:53
+#, kde-format
+msgid "Drop-off"
+msgstr "Trả xe"
+
+#: app/CarRentalPage.qml:80
+#, kde-format
+msgid "Vehicle"
+msgstr "Phương tiện"
+
+#: app/CarRentalPage.qml:85
+#, kde-format
+msgid "Type"
+msgstr "Kiểu"
+
+#: app/CarRentalPage.qml:95
+#, kde-format
+msgid "Model"
+msgstr "Mẫu"
+
+#: app/CarRentalPage.qml:105
+#, kde-format
+msgid "Brand"
+msgstr "Thương hiệu"
+
+#: app/ContactCard.qml:22 app/ContactEditorCard.qml:27
+#, kde-format
+msgctxt "@title:group"
+msgid "Contact"
+msgstr "Liên hệ"
+
+#: app/ContactCard.qml:27 app/ContactEditorCard.qml:33
+#, kde-format
+msgid "Telephone"
+msgstr "Điện thoại"
+
+#: app/ContactCard.qml:37 app/ContactEditorCard.qml:42
+#, kde-format
+msgid "Email"
+msgstr "Thư điện tử"
+
+#: app/ContactCard.qml:47 app/ContactEditorCard.qml:51
+#: app/EventEditor.qml:111 app/EventPage.qml:90
+#, kde-format
+msgid "Website"
+msgstr "Trang web"
+
+#: app/CountryComboBox.qml:47
+#, kde-format
+msgid "Select country"
+msgstr "Bôi đen quốc gia"
+
+#: app/DepartureQueryPage.qml:22
+#, kde-format
+msgid "Departures"
+msgstr "Khởi hành"
+
+#: app/DepartureQueryPage.qml:25 app/JourneyQueryPage.qml:32
+#: app/TransferPage.qml:61
+#, kde-format
+msgid "Earlier"
+msgstr "Sớm hơn"
+
+#: app/DepartureQueryPage.qml:31 app/JourneyQueryPage.qml:38
+#: app/TransferPage.qml:67
+#, kde-format
+msgid "Later"
+msgstr "Sau"
+
+#: app/DepartureQueryPage.qml:133 app/JourneySectionDelegate.qml:81
+#, kde-format
+msgctxt "a train/bus journey canceled by its operator"
+msgid "Canceled"
+msgstr "Huỷ"
+
+#: app/DepartureQueryPage.qml:184
+#, kde-format
+msgctxt "destination"
+msgid "To:"
+msgstr "Đến:"
+
+#: app/DepartureQueryPage.qml:256
+#, kde-format
+msgctxt "@action:button"
+msgid "Load earlier departures"
+msgstr "Tải các chuyến đi trước đó"
+
+#: app/DepartureQueryPage.qml:265 app/JourneyQueryPage.qml:122
+#: app/TransferPage.qml:325
+#, kde-format
+msgctxt "@action:button"
+msgid "Load later connections"
+msgstr "Tải các kết nối sau"
+
+#: app/DepartureQueryPage.qml:274 app/JourneyQueryPage.qml:129
+#: app/TransferPage.qml:332
+#, kde-format
+msgid "Data providers:"
+msgstr "Nhà cung cấp dữ liệu:"
+
+#: app/DocumentsCard.qml:35
+#, kde-format
+msgid "Add Document"
+msgstr "Thêm tài liệu"
+
+#: app/DocumentsCard.qml:37 app/main.qml:127 app/main.qml:128
+#, kde-format
+msgid "All Files (*.*)"
+msgstr "Tất cả Tệp (*.*)"
+
+#: app/DocumentsCard.qml:65 app/DocumentsCard.qml:80
+#, kde-format
+msgid "Delete Document"
+msgstr "Xóa tài liệu"
+
+#: app/DocumentsCard.qml:81
+#, kde-format
+msgid "Do you really want to delete this document?"
+msgstr "Bạn có thực sự muốn xóa tài liệu này không?"
+
+#: app/DocumentsCard.qml:99
+#, kde-format
+msgid "Documents"
+msgstr "Tài liệu"
+
+#: app/DocumentsCard.qml:109
+#, kde-format
+msgid "No documents attached to this reservation."
+msgstr "Không có tài liệu nào được đính kèm với đặt chỗ này."
+
+#: app/DocumentsCard.qml:117
+#, kde-format
+msgid "Add Document…"
+msgstr "Thêm tài liệu..."
+
+#: app/downloadjob.cpp:146
+#, kde-format
+msgid "Network error: %1"
+msgstr "Lỗi mạng: %1"
+
+#: app/downloadjob.cpp:177
+#, kde-format
+msgid "Download failed: %1"
+msgstr "Tải về không thành công: %1"
+
+#: app/EditorPage.qml:24
+#, kde-format
+msgctxt "@action:button"
+msgid "Save"
+msgstr "Lưu"
+
+#: app/EventDelegate.qml:21 app/TripGroupDelegate.qml:61
+#, kde-format
+msgid "End: %1"
+msgstr "Kết thúc: %1"
+
+#: app/EventDelegate.qml:57
+#, kde-format
+msgid "Start time: %1"
+msgstr "Thời gian bắt đầu: %1"
+
+#: app/EventDelegate.qml:61
+#, kde-format
+msgid "End time: %1"
+msgstr "Thời gian kết thúc: %1"
+
+#: app/EventEditor.qml:19
+#, kde-format
+msgctxt "event as in concert/conference/show, not as in appointment"
+msgid "Edit Event"
+msgstr "Sửa Sự Kiện"
+
+#: app/EventEditor.qml:52 app/EventPage.qml:15
+#, kde-format
+msgctxt "event as in concert/conference/show, not as in appointment"
+msgid "Event"
+msgstr "Sự kiện"
+
+#: app/EventEditor.qml:58
+#, kde-format
+msgctxt "event name"
+msgid "Name"
+msgstr "Tên"
+
+#: app/EventEditor.qml:61 app/HotelEditor.qml:59 app/RestaurantEditor.qml:56
+#, kde-format
+msgid "Name must not be empty."
+msgstr "Tên không được để trống."
+
+#: app/EventEditor.qml:66 app/EventPage.qml:67
+#, kde-format
+msgctxt "time of entrance"
+msgid "Entrance"
+msgstr "Lối vào"
+
+#: app/EventEditor.qml:77
+#, kde-format
+msgid "Entrance time has to be before the start time."
+msgstr "Thời gian vào phải trước thời gian khởi động."
+
+#: app/EventEditor.qml:84 app/EventPage.qml:75 app/RestaurantEditor.qml:78
+#, kde-format
+msgid "Start Time"
+msgstr "Thời gian bắt đầu"
+
+#: app/EventEditor.qml:88 app/RestaurantEditor.qml:82
+#, kde-format
+msgid "Start time has to be set."
+msgstr "Thời gian bắt đầu phải được đặt."
+
+#: app/EventEditor.qml:93 app/EventPage.qml:83 app/RestaurantEditor.qml:89
+#, kde-format
+msgid "End Time"
+msgstr "Thời gian kết thúc"
+
+#: app/EventEditor.qml:104 app/RestaurantEditor.qml:100
+#, kde-format
+msgid "End time has to be after the start time."
+msgstr "Thời gian kết thúc phải sau thời gian bắt đầu."
+
+#: app/EventEditor.qml:118
+#, kde-format
+msgid "Venue"
+msgstr "Địa điểm"
+
+#: app/EventEditor.qml:124
+#, kde-format
+msgctxt "venue name"
+msgid "Name"
+msgstr "Tên"
+
+#: app/EventPage.qml:108
+#, kde-format
+msgctxt "seat section, e.g. block in a stadium"
+msgid "Section:"
+msgstr "Phần:"
+
+#: app/EventPage.qml:117
+#, kde-format
+msgctxt "seat row"
+msgid "Row:"
+msgstr "Hàng:"
+
+#: app/EventPage.qml:126
+#, kde-format
+msgctxt "seat number"
+msgid "Number:"
+msgstr "Số:"
+
+#: app/EventPage.qml:135
+#, kde-format
+msgctxt "seat type"
+msgid "Type:"
+msgstr "Loại:"
+
+#: app/favoritelocationmodel.cpp:130 app/favoritelocationmodel.cpp:150
+#: app/SettingsPage.qml:34
+#, kde-format
+msgid "Home"
+msgstr "Nhà"
+
+#: app/favoritelocationmodel.cpp:153
+#, kde-format
+msgid "Work"
+msgstr "Công việc"
+
+#: app/favoritelocationmodel.cpp:156
+#, kde-format
+msgid "Location %1"
+msgstr "Địa điểm %1"
+
+#: app/FavoriteLocationPage.qml:20 app/SettingsPage.qml:49
+#, kde-format
+msgid "Favorite Locations"
+msgstr "Địa điểm yêu thích"
+
+#: app/FavoriteLocationPage.qml:36
+#, kde-format
+msgid "Export Favorite Locations"
+msgstr "Xuất khẩu địa điểm yêu thích"
+
+#: app/FavoriteLocationPage.qml:38 app/FavoriteLocationPage.qml:46
+#: app/TimelinePage.qml:296
+#, kde-format
+msgid "GPX Files (*.gpx)"
+msgstr "Tệp GPX (*.gpx)"
+
+#: app/FavoriteLocationPage.qml:44
+#, kde-format
+msgid "Import Favorite Locations"
+msgstr "Nhập khẩu địa điểm yêu thích"
+
+#: app/FavoriteLocationPage.qml:52
+#, kde-format
+msgid "Add Favorite Location"
+msgstr "Thêm địa điểm yêu thích"
+
+#: app/FavoriteLocationPage.qml:60
+#, kde-format
+msgid "Rename Favorite Location"
+msgstr "Đổi tên địa điểm yêu thích"
+
+#: app/FavoriteLocationPage.qml:65
+#, kde-format
+msgid "Remove Favorite Location"
+msgstr "Xoá Địa Điểm Yêu Thích"
+
+#: app/FavoriteLocationPage.qml:75
+#, kde-format
+msgid "Export to GPX"
+msgstr "Xuất ra GPX"
+
+#: app/FavoriteLocationPage.qml:80
+#, kde-format
+msgid "Import from GPX"
+msgstr "Nhập từ GPX"
+
+#: app/FavoriteLocationPage.qml:91
+#, kde-format
+msgctxt "@title"
+msgid "Rename favorite location"
+msgstr "Đổi tên địa điểm yêu thích"
+
+#: app/FavoriteLocationPage.qml:101
+#, kde-format
+msgid "Rename"
+msgstr "Đổi tên"
+
+#: app/FavoriteLocationPage.qml:151 app/FormPlaceEditorDelegate.qml:56
+#: app/LocationPicker.qml:56
+#, kde-format
+msgid "Pick Location"
+msgstr "Chọn địa điểm"
+
+#: app/FlightDelegate.qml:42
+#, kde-format
+msgid "%1 %2 → %3"
+msgstr "%1 %2 → %3"
+
+#: app/FlightDelegate.qml:64
+#, kde-format
+msgctxt "flight departure, %1 is airport, %2 is time"
+msgid "Departure from %1: %2"
+msgstr "Khởi hành từ %1: %2"
+
+#: app/FlightDelegate.qml:79
+#, kde-format
+msgid "Terminal: %1  Gate: %2  Seat: %3"
+msgstr "Chuyến bay: %1  Cổng: %2  Chỗ ngồi: %3"
+
+#: app/FlightDelegate.qml:90
+#, kde-format
+msgctxt "flight arrival, %1 is airport, %2 is time"
+msgid "Arrival at %1: %2"
+msgstr "Đến %1: %2"
+
+#: app/FlightEditor.qml:17
+#, kde-format
+msgid "Edit Flight"
+msgstr "Sửa Chuyến Bay"
+
+#: app/FlightEditor.qml:86
+#, kde-format
+msgctxt "flight departure"
+msgid "Departure - %1"
+msgstr "Khởi hành - %1"
+
+#: app/FlightEditor.qml:92 app/FlightEditor.qml:146 app/FlightPage.qml:131
+#: app/FlightPage.qml:177
+#, kde-format
+msgid "Airport"
+msgstr "Sân bay"
+
+#: app/FlightEditor.qml:95
+#, kde-format
+msgid "Departure airport has to be specified."
+msgstr "Phải chỉ định sân bay khởi hành."
+
+#: app/FlightEditor.qml:101
+#, kde-format
+msgctxt "flight departure terminal"
+msgid "Terminal"
+msgstr "Dòng lệnh"
+
+#: app/FlightEditor.qml:106
+#, kde-format
+msgctxt "flight departure time"
+msgid "Time"
+msgstr "Thời gian"
+
+#: app/FlightEditor.qml:111
+#, kde-format
+msgctxt "flight departure"
+msgid "Departure time has to be set."
+msgstr "Thời gian khởi hành phải được đặt."
+
+#: app/FlightEditor.qml:117
+#, kde-format
+msgctxt "flight departure gate"
+msgid "Gate"
+msgstr "Cổng"
+
+#: app/FlightEditor.qml:122 app/FlightPage.qml:77
+#, kde-format
+msgid "Boarding time"
+msgstr "Thời gian lên máy bay"
+
+#: app/FlightEditor.qml:133
+#, kde-format
+msgctxt "flight departure"
+msgid "Boarding time has to be before the departure time."
+msgstr "Thời gian lên máy bay phải trước thời gian khởi hành."
+
+#: app/FlightEditor.qml:140
+#, kde-format
+msgctxt "flight arrival"
+msgid "Arrival - %1"
+msgstr "Đến - %1"
+
+#: app/FlightEditor.qml:149
+#, kde-format
+msgid "Arrival airport has to be specified."
+msgstr "Phải chỉ định sân bay đến."
+
+#: app/FlightEditor.qml:155
+#, kde-format
+msgctxt "flight arrival terminal"
+msgid "Terminal"
+msgstr "Dòng lệnh"
+
+#: app/FlightEditor.qml:160
+#, kde-format
+msgctxt "flight arrival time"
+msgid "Time"
+msgstr "Thời gian"
+
+#: app/FlightEditor.qml:171
+#, kde-format
+msgctxt "flight arrival"
+msgid "Arrival time has to be after the departure time."
+msgstr "Thời gian đến phải sau thời gian khởi hành."
+
+#: app/FlightEditor.qml:178 app/FlightPage.qml:15 app/StatisticsPage.qml:92
+#, kde-format
+msgid "Flight"
+msgstr "Chuyến bay"
+
+#: app/FlightEditor.qml:187
+#, kde-format
+msgid "Flight number"
+msgstr "Số chuyến bay"
+
+#: app/FlightEditor.qml:190
+#, kde-format
+msgid "Invalid flight number."
+msgstr "Số chuyến bay không hợp lệ."
+
+#: app/FlightPage.qml:59
+#, kde-format
+msgid "Sequence Number:"
+msgstr "Số thứ tự:"
+
+#: app/FlightPage.qml:68
+#, kde-format
+msgid "Boarding"
+msgstr "Lên máy bay"
+
+#: app/FlightPage.qml:86
+#, kde-format
+msgid "Boarding group"
+msgstr "Nhóm lên máy bay"
+
+#: app/FlightPage.qml:103
+#, kde-format
+msgid "Airline"
+msgstr "Hãng hàng không"
+
+#: app/FlightPage.qml:111
+#, kde-format
+msgctxt "Flight departure"
+msgid "Departure"
+msgstr "Khởi hành"
+
+#: app/FlightPage.qml:117
+#, kde-format
+msgctxt "flight departure"
+msgid "Departure time"
+msgstr "Thời gian khởi hành"
+
+#: app/FlightPage.qml:122
+#, kde-format
+msgctxt "flight departure"
+msgid "Departure date"
+msgstr "Ngày khởi hành"
+
+#: app/FlightPage.qml:139 app/FlightPage.qml:185
+#, kde-format
+msgid "Terminal"
+msgstr "dòng lệnh"
+
+#: app/FlightPage.qml:147
+#, kde-format
+msgid "Gate"
+msgstr "Cổng"
+
+#: app/FlightPage.qml:163
+#, kde-format
+msgctxt "Flight arrival"
+msgid "Arrival"
+msgstr "Đến"
+
+#: app/FlightPage.qml:168
+#, kde-format
+msgctxt "flight arrival"
+msgid "Arrival time"
+msgstr "Thời gian đến"
+
+#: app/FormPlaceDelegate.qml:55
+#, kde-format
+msgid "Share Place"
+msgstr "Chia sẻ địa điểm"
+
+#: app/FormPlaceDelegate.qml:56
+#, kde-format
+msgid "Do you really want to share %1 to the Matrix channel %2?"
+msgstr "Bạn có thực sự muốn chia sẻ %1 đến kênh Matrix %2 không?"
+
+#: app/FormPlaceDelegate.qml:62 app/LiveStatusPage.qml:75
+#, kde-format
+msgid "Share"
+msgstr "Chia sẻ"
+
+#: app/FormPlaceDelegate.qml:123
+#, kde-format
+msgctxt "@action:button"
+msgid "View Indoor Map"
+msgstr "Xem Bản đồ trong nhà"
+
+#: app/FormPlaceDelegate.qml:130
+#, kde-format
+msgctxt "@action:button"
+msgid "View on Map"
+msgstr "Xem trên Bản đồ"
+
+#: app/FormPlaceDelegate.qml:143
+#, kde-format
+msgctxt "@action:button Start route guidance to location"
+msgid "Navigate"
+msgstr "điều hướng"
+
+#: app/FormPlaceDelegate.qml:153
+#, kde-format
+msgctxt "@action:button"
+msgid "Public Transport Departures"
+msgstr "Lịch trình Giao thông công cộng"
+
+#: app/FormPlaceDelegate.qml:162
+#, kde-format
+msgctxt "@action:button"
+msgid "Share via Matrix"
+msgstr "Chia sẻ qua Matrix"
+
+#: app/FormPlaceEditorDelegate.qml:67
+#, kde-format
+msgid "Street"
+msgstr "Đường phố"
+
+#: app/FormPlaceEditorDelegate.qml:79
+#, kde-format
+msgid "Invalid postal code format for this country."
+msgstr "Định dạng mã bưu chính không hợp lệ cho quốc gia này."
+
+#: app/FormPlaceEditorDelegate.qml:85
+#, kde-format
+msgid "City"
+msgstr "Thành phố"
+
+#: app/FormPlaceEditorDelegate.qml:103
+#, kde-format
+msgid "Region"
+msgstr "Khu vực"
+
+#: app/FormPlaceEditorDelegate.qml:129
+#, kde-format
+msgid "Country"
+msgstr "Quốc gia"
+
+#: app/FormPlaceEditorDelegate.qml:196
+#, kde-format
+msgid "Coordinate"
+msgstr "Tọa độ"
+
+#: app/FormPlaceEditorDelegate.qml:197
+#, kde-format
+msgid "%1°, %2°"
+msgstr "%1°, %2°"
+
+#: app/FormPlaceEditorDelegate.qml:197
+#, kde-format
+msgid "Pick…"
+msgstr "Chọn..."
+
+#: app/FormPlaceEditorDelegate.qml:215
+#, kde-format
+msgid "Address to coordinate"
+msgstr "Địa chỉ để tọa độ"
+
+#: app/FormPlaceEditorDelegate.qml:231
+#, kde-format
+msgid "Coordinate to address"
+msgstr "Tọa độ sang địa chỉ"
+
+#: app/FormPlatformDelegate.qml:19
+#, kde-format
+msgid "Platform"
+msgstr "Nền tảng"
+
+#: app/FormPlatformDelegate.qml:44
+#, kde-format
+msgctxt "previous platform"
+msgid "(was: %1)"
+msgstr "(trước đây: %1)"
+
+#: app/FormPriceDelegate.qml:19
+#, kde-format
+msgctxt "@label"
+msgid "Price"
+msgstr "Giá"
+
+#: app/FormPriceDelegate.qml:30
+#, kde-format
+msgctxt "prices in local and home currency"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: app/FormPriceEditDelegate.qml:33
+#, kde-format
+msgid "Price"
+msgstr "Giá"
+
+#: app/FormPriceEditDelegate.qml:91
+#, kde-format
+msgid "Not a valid number."
+msgstr "Không phải là một số hợp lệ."
+
+#: app/GenericPkPassPage.qml:18 app/ProgramMembershipPage.qml:38
+#, kde-format
+msgid "Delete Pass"
+msgstr "Xóa thẻ"
+
+#: app/GenericPkPassPage.qml:19 app/ProgramMembershipPage.qml:39
+#, kde-format
+msgid "Do you really want to delete this pass?"
+msgstr "Bạn có thực sự muốn xóa thẻ này không?"
+
+#: app/gpxexport.cpp:33 app/main.cpp:334 app/main.qml:21 app/main.qml:166
+#, kde-format
+msgid "KDE Itinerary"
+msgstr "KDE Itinerary"
+
+#: app/gpxexport.cpp:47
+#, kde-format
+msgid "Flight %1 from %2 to %3"
+msgstr "Chuyến bay %1 từ %2 đến %3"
+
+#: app/gpxexport.cpp:51
+#, kde-format
+msgid "Train %1 from %2 to %3"
+msgstr "Tàu %1 từ %2 đến %3"
+
+#: app/gpxexport.cpp:55
+#, kde-format
+msgid "Bus %1 from %2 to %3"
+msgstr "Xe buýt %1 từ %2 đến %3"
+
+#: app/gpxexport.cpp:58 app/importcontroller.cpp:596
+#, kde-format
+msgid "Ferry from %1 to %2"
+msgstr "Phà từ %1 đến %2"
+
+#: app/HealthCertificateBarcode.qml:34
+#, kde-format
+msgid "Vaccination certificate of %1"
+msgstr "Chứng chỉ tiêm chủng của %1"
+
+#: app/HealthCertificateBarcode.qml:36
+#, kde-format
+msgid "Test certificate of %1"
+msgstr "Chứng chỉ kiểm thử của %1"
+
+#: app/HealthCertificateBarcode.qml:38
+#, kde-format
+msgid "Recovery certificate of %1"
+msgstr "Chứng chỉ phục hồi của %1"
+
+#: app/HealthCertificateBarcode.qml:53
+#, kde-format
+msgid "Certificate expired"
+msgstr "Chứng chỉ đã hết hạn"
+
+#: app/HealthCertificateBarcode.qml:56
+#, kde-format
+msgid "Certificate invalid"
+msgstr "Chứng chỉ không hợp lệ"
+
+#: app/HealthCertificateBarcode.qml:59
+#, kde-format
+msgid "Unknown issuer certificate"
+msgstr "Chứng chỉ của bên cấp không rõ"
+
+#: app/HealthCertificateBarcode.qml:65
+#, kde-format
+msgid "Recently vaccinated"
+msgstr "Đã được tiêm chủng gần đây"
+
+#: app/HealthCertificateBarcode.qml:66
+#, kde-format
+msgid "Partially vaccinated"
+msgstr "Đã được tiêm một phần"
+
+#: app/HealthCertificateBarcode.qml:67
+#, kde-format
+msgid "Vaccinated"
+msgstr "Đã được tiêm chủng"
+
+#: app/HealthCertificateBarcode.qml:68
+#, kde-format
+msgid "Fully vaccinated"
+msgstr "Đã được tiêm chủng đầy đủ"
+
+#: app/HealthCertificateBarcode.qml:74
+#, kde-format
+msgid "Negative test"
+msgstr "Kiểm thử âm tính"
+
+#: app/HealthCertificateBarcode.qml:75
+#, kde-format
+msgid "Positive test"
+msgstr "Kiểm thử dương tính"
+
+#: app/HealthCertificateBarcode.qml:78
+#, kde-format
+msgid "Test expired"
+msgstr "Kiểm thử đã hết hạn"
+
+#: app/HealthCertificateBarcode.qml:80
+#, kde-format
+msgid "Recovery certificate valid"
+msgstr "Chứng chỉ phục hồi hợp lệ"
+
+#: app/healthcertificatemanager.cpp:140
+#, kde-format
+msgid "Vaccination %1/%2 (%3)"
+msgstr "Tiêm chủng %1/%2 (%3)"
+
+#: app/healthcertificatemanager.cpp:142
+#, kde-format
+msgid "Vaccination (%1)"
+msgstr "Tiêm chủng (%1)"
+
+#: app/healthcertificatemanager.cpp:146
+#, kde-format
+msgid "Test %1 (%2)"
+msgstr "Kiểm thử %1 (%2)"
+
+#: app/healthcertificatemanager.cpp:150
+#, kde-format
+msgid "Recovery (%1)"
+msgstr "Phục hồi (%1)"
+
+#: app/HealthCertificatePage.qml:16 app/main.qml:200
+#, kde-format
+msgid "Health Certificates"
+msgstr "Chứng chỉ sức khỏe"
+
+#: app/HealthCertificatePage.qml:55
+#, kde-format
+msgid "Delete Certificate"
+msgstr "Xóa chứng chỉ"
+
+#: app/HealthCertificatePage.qml:56
+#, kde-format
+msgid "Do you really want to delete this certificate?"
+msgstr "Bạn có thực sự muốn xóa chứng chỉ này không?"
+
+#: app/HealthCertificatePage.qml:126
+#, kde-format
+msgid ""
+"<p>You can import the following health certificates by scanning them with a "
+"barcode scanner app:<ul><li>European \"Digital Green Certificates\" for "
+"vaccinations, tests or recovery.</li><li>Indian vaccination certificates.</"
+"li><li>SMART Health Cards (SHC) as used in parts of Canada and the US.</li></"
+"p>"
+msgstr ""
+"<p>Bạn có thể nhập khẩu các chứng nhận y tế sau bằng cách quét chúng với "
+"ứng dụng quét mã vạch:<ul><li>Chứng nhận \"Digital Green Certificate\" của "
+"châu Âu cho việc tiêm chủng, xét nghiệm hoặc hồi phục.</li><li>Chứng nhận "
+"tiêm chủng của Ấn Độ.</li><li>Thẻ Sức khỏe SMART (SHC) được sử dụng ở một "
+"số khu vực của Canada và Hoa Kỳ.</li></p>"
+
+#: app/HealthCertificateRecovery.qml:28 app/HealthCertificateTest.qml:29
+#: app/HealthCertificateVaccination.qml:32
+#, kde-format
+msgid "Person"
+msgstr "Người"
+
+#: app/HealthCertificateRecovery.qml:33 app/HealthCertificateTest.qml:34
+#: app/HealthCertificateVaccination.qml:37
+#, kde-format
+msgid "Name:"
+msgstr "Tên:"
+
+#: app/HealthCertificateRecovery.qml:38 app/HealthCertificateTest.qml:39
+#: app/HealthCertificateVaccination.qml:42
+#, kde-format
+msgid "Date of birth:"
+msgstr "Ngày sinh:"
+
+#: app/HealthCertificateRecovery.qml:43
+#, kde-format
+msgid "Recovery"
+msgstr "Phục hồi"
+
+#: app/HealthCertificateRecovery.qml:48
+#, kde-format
+msgid "Positive test:"
+msgstr "Kết quả dương tính:"
+
+#: app/HealthCertificateRecovery.qml:52 app/HealthCertificateTest.qml:55
+#: app/HealthCertificateVaccination.qml:66
+#, kde-format
+msgid "Disease:"
+msgstr "Bệnh:"
+
+#: app/HealthCertificateRecovery.qml:56
+#, kde-format
+msgid "Valid from:"
+msgstr "Có hiệu lực từ:"
+
+#: app/HealthCertificateRecovery.qml:60
+#, kde-format
+msgid "Valid until:"
+msgstr "Có hiệu lực đến:"
+
+#: app/HealthCertificateRecovery.qml:65 app/HealthCertificateTest.qml:102
+#: app/HealthCertificateVaccination.qml:103
+#, kde-format
+msgid "Certificate"
+msgstr "Chứng chỉ"
+
+#: app/HealthCertificateRecovery.qml:70 app/HealthCertificateTest.qml:107
+#: app/HealthCertificateVaccination.qml:108
+#, kde-format
+msgid "Issuer:"
+msgstr "Cơ quan cấp:"
+
+#: app/HealthCertificateRecovery.qml:75 app/HealthCertificateTest.qml:112
+#: app/HealthCertificateVaccination.qml:115
+#, kde-format
+msgid "Identifier:"
+msgstr "Định danh:"
+
+#: app/HealthCertificateRecovery.qml:82 app/HealthCertificateTest.qml:120
+#: app/HealthCertificateVaccination.qml:123
+#, kde-format
+msgid "Issued:"
+msgstr "Đã cấp:"
+
+#: app/HealthCertificateRecovery.qml:86 app/HealthCertificateTest.qml:124
+#: app/HealthCertificateVaccination.qml:127
+#, kde-format
+msgid "Expires:"
+msgstr "Hết hạn:"
+
+#: app/HealthCertificateRecovery.qml:101 app/HealthCertificateTest.qml:139
+#: app/HealthCertificateVaccination.qml:142
+#, kde-format
+msgid "Signature:"
+msgstr "Chữ ký:"
+
+#: app/HealthCertificateTest.qml:44
+#, kde-format
+msgid "Test"
+msgstr "kiểm thử"
+
+#: app/HealthCertificateTest.qml:49 app/HealthCertificateVaccination.qml:59
+#, kde-format
+msgid "Date:"
+msgstr "Ngày:"
+
+#: app/HealthCertificateTest.qml:60 app/HealthCertificateVaccination.qml:71
+#, kde-format
+msgid "Type:"
+msgstr "Loại:"
+
+#: app/HealthCertificateTest.qml:68
+#, kde-format
+msgid "Test:"
+msgstr "Kiểm tra:"
+
+#: app/HealthCertificateTest.qml:85
+#, kde-format
+msgid "Result:"
+msgstr "Kết quả:"
+
+#: app/HealthCertificateTest.qml:90
+#, kde-format
+msgid "Test Center:"
+msgstr "Trung tâm kiểm thử:"
+
+#: app/HealthCertificateTest.qml:96 app/HealthCertificateVaccination.qml:97
+#, kde-format
+msgid "Country:"
+msgstr "Quốc gia:"
+
+#: app/HealthCertificateVaccination.qml:47
+#, kde-format
+msgid "Vaccination"
+msgstr "Tiêm chủng"
+
+#: app/HealthCertificateVaccination.qml:55
+#, kde-format
+msgid "%2 (%1 day ago)"
+msgid_plural "%2 (%1 days ago)"
+msgstr[0] "%2 (%1 ngày trước)"
+
+#: app/HealthCertificateVaccination.qml:76
+#, kde-format
+msgid "Vaccine:"
+msgstr "Vaccine:"
+
+#: app/HealthCertificateVaccination.qml:84
+#, kde-format
+msgid "Manufacturer:"
+msgstr "Nhà sản xuất:"
+
+#: app/HealthCertificateVaccination.qml:88
+#, kde-format
+msgid "%1/%2"
+msgstr "%1/%2"
+
+#: app/HealthCertificateVaccination.qml:89
+#, kde-format
+msgid "Dose:"
+msgstr "Liều:"
+
+#: app/HotelDelegate.qml:20
+#, kde-format
+msgid "Check-out %1"
+msgstr "Trả phòng %1"
+
+#: app/HotelDelegate.qml:38
+#, kde-format
+msgid "Check-in time: %1"
+msgstr "Thời gian nhận phòng: %1"
+
+#: app/HotelDelegate.qml:44 app/HotelDelegate.qml:45
+#, kde-format
+msgid "Check-out time: %1"
+msgstr "Thời gian trả phòng: %1"
+
+#: app/HotelEditor.qml:19
+#, kde-format
+msgid "Edit Hotel Reservation"
+msgstr "Sửa Đặt Phòng Khách Sạn"
+
+#: app/HotelEditor.qml:46
+#, kde-format
+msgid "Hotel"
+msgstr "Khách sạn"
+
+#: app/HotelEditor.qml:50
+#, kde-format
+msgctxt "@title:group"
+msgid "Accommodation"
+msgstr "Chỗ ở"
+
+#: app/HotelEditor.qml:56
+#, kde-format
+msgctxt "hotel name"
+msgid "Name"
+msgstr "Tên"
+
+#: app/HotelEditor.qml:84
+#, kde-format
+msgctxt "hotel checkin"
+msgid "Check-in"
+msgstr "Nhận phòng"
+
+#: app/HotelEditor.qml:88
+#, kde-format
+msgid "Check-in time has to be set."
+msgstr "Thời gian nhận phòng phải được đặt."
+
+#: app/HotelEditor.qml:93
+#, kde-format
+msgctxt "hotel checkout"
+msgid "Check-out"
+msgstr "Trả phòng"
+
+#: app/HotelEditor.qml:105
+#, kde-format
+msgid "Check-out time has to be set."
+msgstr "Thời gian trả phòng phải được đặt."
+
+#: app/HotelEditor.qml:107
+#, kde-format
+msgid "Check-out time has to be after the check-in time."
+msgstr "Thời gian trả phòng phải sau thời gian nhận phòng."
+
+#: app/HotelPage.qml:16
+#, kde-format
+msgid "Hotel Reservation"
+msgstr "Đặt phòng khách sạn"
+
+#: app/HotelPage.qml:42
+#, kde-format
+msgid "Check-in time"
+msgstr "Thời gian nhận phòng"
+
+#: app/HotelPage.qml:49
+#, kde-format
+msgid "Check-out time"
+msgstr "Thời gian trả phòng"
+
+#: app/importcontroller.cpp:144 app/importcontroller.cpp:460
+#, kde-format
+msgid "Import failed: %1"
+msgstr "Nhập khẩu không thành công: %1"
+
+#: app/importcontroller.cpp:149
+#, kde-format
+msgid "Import failed: File too large."
+msgstr "Nhập khẩu không thành công: Tệp quá lớn."
+
+#: app/importcontroller.cpp:208 app/importcontroller.cpp:305
+#, kde-format
+msgid "Found nothing to import."
+msgstr "Không tìm thấy gì để nhập."
+
+#: app/importcontroller.cpp:432
+#, kde-format
+msgid "No importable events found in this calendar."
+msgstr "Không tìm thấy sự kiện nào có thể nhập trong lịch này."
+
+#: app/importcontroller.cpp:587
+#, kde-format
+msgid "Flight from %1 to %2"
+msgstr "Chuyến bay từ %1 đến %2"
+
+#: app/importcontroller.cpp:590
+#, kde-format
+msgid "Train from %1 to %2"
+msgstr "Tàu từ %1 đến %2"
+
+#: app/importcontroller.cpp:593
+#, kde-format
+msgid "Bus from %1 to %2"
+msgstr "Xe buýt từ %1 đến %2"
+
+#: app/importcontroller.cpp:621
+#, kde-format
+msgid "Backup"
+msgstr "Sao lưu"
+
+#: app/ImportPage.qml:18
+#, kde-format
+msgctxt "@title"
+msgid "Import"
+msgstr "Nhập khẩu"
+
+#: app/ImportPage.qml:21
+#, kde-format
+msgid "Selected items to import."
+msgstr "Các mục đã chọn để nhập."
+
+#: app/ImportPage.qml:67
+#, kde-format
+msgid "Import selection"
+msgstr "Nhập khẩu phần bôi đen"
+
+#: app/IndoorMapGateSheet.qml:18
+#, kde-format
+msgctxt "@title"
+msgid "Find Gate"
+msgstr "Tìm cổng"
+
+#: app/IndoorMapGateSheet.qml:33
+#, kde-format
+msgctxt "flight departure/arrival gate"
+msgid "%1 (arrival + departure)"
+msgstr "%1 (đến + đi)"
+
+#: app/IndoorMapGateSheet.qml:35
+#, kde-format
+msgctxt "flight departure gate"
+msgid "%1 (departure)"
+msgstr "%1 (khởi hành)"
+
+#: app/IndoorMapGateSheet.qml:37
+#, kde-format
+msgctxt "flight arrival gate"
+msgid "%1 (arrival)"
+msgstr "%1 (đến)"
+
+#: app/IndoorMapInfoSheet.qml:21 app/IndoorMapPage.qml:127
+#, kde-format
+msgid "Edit with iD"
+msgstr "Sửa với iD"
+
+#: app/IndoorMapInfoSheet.qml:27 app/IndoorMapPage.qml:133
+#, kde-format
+msgid "Edit with JOSM"
+msgstr "Sửa bằng JOSM"
+
+#: app/IndoorMapInfoSheet.qml:33 app/IndoorMapPage.qml:139
+#, kde-format
+msgid "Edit with Vespucci"
+msgstr "Sửa với Vespucci"
+
+#: app/IndoorMapPage.qml:26
+#, kde-format
+msgid "Floor %1"
+msgstr "Tầng %1"
+
+#: app/IndoorMapPage.qml:60
+#, kde-format
+msgid "Zoom In"
+msgstr "Thu phóng"
+
+#: app/IndoorMapPage.qml:67
+#, kde-format
+msgid "Zoom Out"
+msgstr "Thu phóng"
+
+#: app/IndoorMapPage.qml:75
+#, kde-format
+msgid "Find Platform"
+msgstr "Tìm Nền Tảng"
+
+#: app/IndoorMapPage.qml:82
+#, kde-format
+msgid "Find Gate"
+msgstr "Tìm cổng"
+
+#: app/IndoorMapPage.qml:89
+#, kde-format
+msgid "Find Amenity"
+msgstr "Tìm tiện ích"
+
+#: app/IndoorMapPage.qml:95
+#, kde-format
+msgid "Show Elevator Status"
+msgstr "Hiển thị trạng thái thang máy"
+
+#: app/IndoorMapPage.qml:104
+#, kde-format
+msgid "Show Rental Vehicles"
+msgstr "Hiển thị phương tiện cho thuê"
+
+#: app/IndoorMapPage.qml:112
+#, kde-format
+msgid "Open Map"
+msgstr "Mở bản đồ"
+
+#: app/IndoorMapPage.qml:118
+#, kde-format
+msgid "Open wheelmap.org"
+msgstr "Mở wheelmap.org"
+
+#: app/IndoorMapPage.qml:304
+#, kde-format
+msgid "Switched to floor %1"
+msgstr "Đã chuyển đến tầng %1"
+
+#: app/IndoorMapPage.qml:351
+#, kde-format
+msgctxt "@action:intoolbar Go down one floor"
+msgid "Floor down"
+msgstr "Xuống một tầng"
+
+#: app/IndoorMapPage.qml:360
+#, kde-format
+msgctxt "@action:intoolbar Go up one floor"
+msgid "Floor up"
+msgstr "Lên một tầng"
+
+#: app/IndoorMapPlatformSheet.qml:20
+#, kde-format
+msgctxt "@title"
+msgid "Find Platform"
+msgstr "Tìm Nền Tảng"
+
+#: app/IndoorMapPlatformSheet.qml:40
+#, kde-format
+msgctxt "train arrival/departure platform"
+msgid "%1 (arrival/departure)"
+msgstr "%1 (đến/đi)"
+
+#: app/IndoorMapPlatformSheet.qml:42
+#, kde-format
+msgctxt "train departure platform"
+msgid "%1 (departure)"
+msgstr "%1 (khởi hành)"
+
+#: app/IndoorMapPlatformSheet.qml:44
+#, kde-format
+msgctxt "train arrival platform"
+msgid "%1 (arrival)"
+msgstr "%1 (đến)"
+
+#: app/IndoorMapPlatformSheet.qml:83
+#, kde-format
+msgid "Railway"
+msgstr "Đường sắt"
+
+#: app/IndoorMapPlatformSheet.qml:84
+#, kde-format
+msgid "Light Rail"
+msgstr "Đường sắt đô thị"
+
+#: app/IndoorMapPlatformSheet.qml:85
+#, kde-format
+msgid "Subway"
+msgstr "Tàu điện ngầm"
+
+#: app/IndoorMapPlatformSheet.qml:86
+#, kde-format
+msgid "Tramway"
+msgstr "Tramway"
+
+#: app/IndoorMapPlatformSheet.qml:87 app/StatisticsPage.qml:120
+#, kde-format
+msgid "Bus"
+msgstr "Xe buýt"
+
+#: app/JourneyDelegateHeader.qml:63
+#, kde-format
+msgctxt "time in hours"
+msgid "%1 h"
+msgstr "%1 g"
+
+#: app/JourneyQueryPage.qml:89 app/TransferPage.qml:248
+#, kde-format
+msgid "Select"
+msgstr "Bôi đen"
+
+#: app/JourneyQueryPage.qml:113 app/TransferPage.qml:316
+#, kde-format
+msgctxt "@action:button"
+msgid "Load earlier connections"
+msgstr "Tải các kết nối trước đó"
+
+#: app/JourneyQueryPage.qml:172
+#, kde-format
+msgid "Still fetching results…"
+msgstr "Vẫn đang lấy kết quả..."
+
+#: app/JourneyRequestPage.qml:37 app/JourneyRequestPage.qml:63
+#, kde-format
+msgid "Select Journey"
+msgstr "Chọn Hành trình"
+
+#: app/JourneyRequestPage.qml:43 app/JourneyRequestPage.qml:100
+#, kde-format
+msgctxt "departure train station"
+msgid "Select Departure Stop"
+msgstr "Chọn Điểm Khởi Hành"
+
+#: app/JourneyRequestPage.qml:53 app/JourneyRequestPage.qml:114
+#, kde-format
+msgctxt "arrival train station"
+msgid "Select Arrival Stop"
+msgstr "Chọn Điểm Đến"
+
+#: app/JourneyRequestPage.qml:99
+#, kde-format
+msgctxt "departure train station"
+msgid "From:"
+msgstr "Từ:"
+
+#: app/JourneyRequestPage.qml:113
+#, kde-format
+msgctxt "arrival train station"
+msgid "To:"
+msgstr "Đến:"
+
+#: app/JourneyRequestPage.qml:131
+#, kde-format
+msgid "Swap departure and arrival"
+msgstr "Hoán đổi điểm khởi hành và điểm đến"
+
+#: app/JourneyRequestPage.qml:152
+#, kde-format
+msgctxt "train or bus departure"
+msgid "Departure"
+msgstr "Khởi hành"
+
+#: app/JourneyRequestPage.qml:155
+#, kde-format
+msgctxt "train or bus arrival"
+msgid "Arrival"
+msgstr "Đến"
+
+#: app/JourneyRequestPage.qml:164
+#, kde-format
+msgctxt "train or bus departure"
+msgid "Departure time"
+msgstr "Thời gian khởi hành"
+
+#: app/JourneyRequestPage.qml:164
+#, kde-format
+msgctxt "train or bus arrival"
+msgid "Arrival time"
+msgstr "Thời gian đến"
+
+#: app/JourneyRequestPage.qml:175
+#, kde-format
+msgid "Search Journey"
+msgstr "Tìm kiếm chuyến đi"
+
+#: app/JourneyRequestPage.qml:222
+#, kde-format
+msgctxt "journey query search constraint, description"
+msgid "High speed or intercity trains"
+msgstr "Tàu cao tốc hoặc liên thành phố"
+
+#: app/JourneyRequestPage.qml:232
+#, kde-format
+msgctxt "journey query search constraint, description"
+msgid "Regional or local trains"
+msgstr "Tàu địa phương hoặc khu vực"
+
+#: app/JourneyRequestPage.qml:242
+#, kde-format
+msgctxt "journey query search constraint, description"
+msgid "Rapid transit, metro, trams"
+msgstr "Giao thông công cộng nhanh, tàu điện ngầm, xe điện"
+
+#: app/JourneyRequestPage.qml:252
+#, kde-format
+msgctxt "journey query search constraint, description"
+msgid "Local or regional bus services"
+msgstr "Dịch vụ xe buýt địa phương hoặc khu vực"
+
+#: app/JourneyRequestPage.qml:262
+#, kde-format
+msgctxt "journey query search constraint, description"
+msgid "Boats or ferries"
+msgstr "Tàu hoặc phà"
+
+#: app/JourneySectionDelegate.qml:179
+#, kde-format
+msgid "%1 to %2 (%3)"
+msgstr "%1 đến %2 (%3)"
+
+#: app/JourneySectionDelegate.qml:180 app/tickettokenmodel.cpp:116
+#, kde-format
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: app/JourneySectionDelegate.qml:184
+#, kde-format
+msgid "Walk (%1)"
+msgstr "Đi bộ (%1)"
+
+#: app/JourneySectionDelegate.qml:185
+#, kde-format
+msgid "Walk %1 (%2)"
+msgstr "Đi bộ %1 (%2)"
+
+#: app/JourneySectionDelegate.qml:187
+#, kde-format
+msgid "Transfer (%1)"
+msgstr "Truyền (%1)"
+
+#: app/JourneySectionDelegate.qml:189
+#, kde-format
+msgid "Wait (%1)"
+msgstr "Chờ (%1)"
+
+#: app/JourneySectionDelegate.qml:191
+#, kde-format
+msgid "%1 %2 (%3)"
+msgstr "%1 %2 (%3)"
+
+#: app/JourneySectionDelegate.qml:193
+#, kde-format
+msgid "Drive %1 (%2)"
+msgstr "Lái %1 (%2)"
+
+#: app/JourneySectionDelegate.qml:300 app/JourneySectionPage.qml:139
+#: app/VehicleLayoutPage.qml:230
+#, kde-format
+msgctxt "@action:button"
+msgid "Show More…"
+msgstr "Hiển thị thêm..."
+
+#: app/JourneySectionPage.qml:70
+#, kde-format
+msgid "Direction: %1"
+msgstr "Hướng: %1"
+
+#: app/JourneySectionPage.qml:78
+#, kde-format
+msgid "Distance: %1"
+msgstr "Khoảng cách: %1"
+
+#: app/JourneySectionPage.qml:85
+#, kde-format
+msgid "Average Speed: %1"
+msgstr "Tốc độ trung bình: %1"
+
+#: app/JourneySectionPage.qml:92
+#, kde-format
+msgid "CO₂: %1"
+msgstr "CO₂: %1"
+
+#: app/JourneySectionPage.qml:218
+#, kde-format
+msgid "Platform:"
+msgstr "Nền tảng:"
+
+#: app/JourneySectionPage.qml:251
+#, kde-format
+msgid "Occupancy:"
+msgstr "Sức chứa:"
+
+#: app/JourneySectionPage.qml:269 app/JourneySectionStopDelegate.qml:162
+#, kde-format
+msgid "Show location"
+msgstr "Hiện địa điểm"
+
+#: app/JourneySectionPage.qml:484
+#, kde-format
+msgctxt "@action:button"
+msgid "Show Map"
+msgstr "Hiện bản đồ"
+
+#: app/JourneySectionStopDelegate.qml:144
+#, kde-format
+msgctxt "Abreviation of train platform"
+msgid "Pl. %1"
+msgstr "Sân %1"
+
+#: app/JourneySectionStopDelegate.qml:146
+#, kde-format
+msgctxt "Ferry dock, if possible use an abreviation"
+msgid "Dock %1"
+msgstr "Giá %1"
+
+#: app/JourneySectionStopDelegate.qml:148
+#, kde-format
+msgctxt "Generic abreviation of platform"
+msgid "Pl. %1"
+msgstr "Nền %1"
+
+#: app/JourneySummaryDelegate.qml:48
+#, kde-format
+msgctxt "number of switches to another transport"
+msgid "One change"
+msgid_plural "%1 changes"
+msgstr[0] "%1 lần chuyển đổi"
+
+#: app/JourneySummaryDelegate.qml:61
+#, kde-format
+msgid "Click to extend"
+msgstr "Bấm để mở rộng"
+
+#: app/livedatamanager.cpp:790
+#, kde-format
+msgid "Flight %1 to %2:"
+msgstr "Chuyến bay %1 đến %2:"
+
+#: app/livedatamanager.cpp:796
+#, kde-format
+msgid "Itinerary change"
+msgstr "Thay đổi lịch trình"
+
+#: app/LiveStatusPage.qml:19 app/main.qml:211
+#, kde-format
+msgid "Live Status"
+msgstr "Trạng thái trực tiếp"
+
+#: app/LiveStatusPage.qml:28
+#, kde-format
+msgid "Stop Location Sharing"
+msgstr "Dừng chia sẻ địa điểm"
+
+#: app/LiveStatusPage.qml:28
+#, kde-format
+msgid "Share Location via Matrix"
+msgstr "Chia sẻ địa điểm qua Matrix"
+
+#: app/LiveStatusPage.qml:68
+#, kde-format
+msgid "Share Live Location"
+msgstr "Chia sẻ vị trí trực tiếp"
+
+#: app/LiveStatusPage.qml:69
+#, kde-format
+msgid ""
+"Do you really want to share your current location to the Matrix channel %1?"
+msgstr ""
+"Bạn có thực sự muốn chia sẻ địa điểm hiện tại của bạn với kênh Matrix %1 "
+"không?"
+
+#: app/LiveStatusPage.qml:161
+#, kde-format
+msgid "Automatically follow on the map"
+msgstr "Tự động theo dõi trên bản đồ"
+
+#: app/LiveStatusPage.qml:180 app/LiveStatusPage.qml:192
+#, kde-format
+msgid "Waiting for data…"
+msgstr "Đang chờ dữ liệu..."
+
+#: app/LiveStatusPage.qml:204
+#, kde-format
+msgid "Position"
+msgstr "Vị trí"
+
+#: app/LiveStatusPage.qml:213
+#, kde-format
+msgid "Journey"
+msgstr "Hành trình"
+
+#: app/localizer.cpp:175
+#, kde-format
+msgctxt "day-only date format"
+msgid "dd MMMM"
+msgstr "dd MMMM"
+
+#: app/localizer.cpp:220
+#, kde-format
+msgctxt "distance in meter"
+msgid "%1 m"
+msgstr "%1 p"
+
+#: app/localizer.cpp:223 app/localizer.cpp:225
+#, kde-format
+msgctxt "distance in kilometer"
+msgid "%1 km"
+msgstr "%1 km"
+
+#: app/localizer.cpp:231
+#, kde-format
+msgctxt "speed in kilometers per hour"
+msgid "%1 km/h"
+msgstr "%1 km/h"
+
+#: app/localizer.cpp:237
+#, kde-format
+msgctxt "weight in gram"
+msgid "%1 g"
+msgstr "%1 g"
+
+#: app/localizer.cpp:240 app/localizer.cpp:242
+#, kde-format
+msgctxt "weight in kilogram"
+msgid "%1 kg"
+msgstr "%1 kg"
+
+#: app/localizer.cpp:248
+#, kde-format
+msgctxt "temperature"
+msgid "%1°C"
+msgstr "%1°C"
+
+#: app/LocationInfoDelegate.qml:45
+#, kde-format
+msgid "Daylight Saving Time"
+msgstr "Giờ tiết kiệm ánh sáng ban ngày"
+
+#: app/LocationInfoDelegate.qml:45
+#, kde-format
+msgctxt "opposite to daylight saving time"
+msgid "Standard Time"
+msgstr "Giờ chuẩn"
+
+#: app/LocationInfoDelegate.qml:46
+#, kde-format
+msgid "Entering %1"
+msgstr "Đang vào %1"
+
+#: app/LocationInfoDelegate.qml:69
+#, kde-format
+msgid "No compatible power sockets: %1"
+msgstr "Không có ổ cắm điện tương thích: %1"
+
+#: app/LocationInfoDelegate.qml:77
+#, kde-format
+msgid "Some incompatible power sockets: %1"
+msgstr "Một số ổ cắm điện không tương thích: %1"
+
+#: app/LocationInfoDelegate.qml:84
+#, kde-format
+msgid "Some incompatible power plugs: %1"
+msgstr "Một số ổ cắm điện không tương thích: %1"
+
+#: app/LocationInfoDelegate.qml:92
+#, kde-format
+msgid "Timezone change: %1 (%2)"
+msgstr "Thay đổi múi giờ: %1 (%2)"
+
+#: app/LocationInfoDelegate.qml:115
+#, kde-format
+msgctxt "currency conversion rate"
+msgid "Currency: %1 = %2"
+msgstr "Tiền tệ: %1 = %2"
+
+#: app/LocationInfoDelegate.qml:117
+#, kde-format
+msgid "Currency: %1"
+msgstr "Tiền tệ: %1"
+
+#: app/locationinformation.cpp:85
+#, kde-format
+msgid "People are driving on the right side."
+msgstr "Mọi người đang lái xe bên phải."
+
+#: app/locationinformation.cpp:86
+#, kde-format
+msgid "People are driving on the left side."
+msgstr "Mọi người đang lái xe bên trái."
+
+#: app/locationinformation.cpp:103
+msgid "Type A"
+msgstr "Kiểu A"
+
+#: app/locationinformation.cpp:104
+msgid "Type B"
+msgstr "Kiểu B"
+
+#: app/locationinformation.cpp:105
+msgid "Europlug"
+msgstr "Europlug"
+
+#: app/locationinformation.cpp:106
+msgid "Type D"
+msgstr "Kiểu D"
+
+#: app/locationinformation.cpp:107
+msgid "Type E"
+msgstr "Kiểu E"
+
+#: app/locationinformation.cpp:108
+msgid "Schuko"
+msgstr "Schuko"
+
+#: app/locationinformation.cpp:109
+msgid "Type G"
+msgstr "Kiểu G"
+
+#: app/locationinformation.cpp:110
+msgid "Type H"
+msgstr "Kiểu G"
+
+#: app/locationinformation.cpp:111
+msgid "Type I"
+msgstr "Kiểu I"
+
+#: app/locationinformation.cpp:112
+msgid "Type J"
+msgstr "Kiểu J"
+
+#: app/locationinformation.cpp:113
+msgid "Type K"
+msgstr "Kiểu K"
+
+#: app/locationinformation.cpp:114
+msgid "Type L"
+msgstr "Kiểu L"
+
+#: app/locationinformation.cpp:115
+msgid "Type M"
+msgstr "Kiểu P"
+
+#: app/locationinformation.cpp:116
+msgid "Type N"
+msgstr "Kiểu N"
+
+#: app/main.cpp:342
+#, kde-format
+msgid "Digital Travel Assistant"
+msgstr "Trợ tá Du lịch Kỹ thuật số"
+
+#: app/main.cpp:343
+#, kde-format
+msgid "Copyright © The KDE Community"
+msgstr "Bản quyền © Cộng đồng KDE"
+
+#: app/main.cpp:350
+#, kde-format
+msgctxt "@info:shell"
+msgid "Open Itinerary on the given page"
+msgstr "Mở Lịch trình trên trang đã cho"
+
+#: app/main.cpp:355
+#, kde-format
+msgctxt "@info:shell"
+msgid "Files or URLs to import."
+msgstr "Các tệp hoặc URL để nhập."
+
+#: app/main.qml:61
+#, kde-format
+msgid "Open File…"
+msgstr "Mở Tệp..."
+
+#: app/main.qml:69 app/TicketTokenEditorCard.qml:129
+#, kde-format
+msgid "Paste"
+msgstr "Dán"
+
+#: app/main.qml:76
+#, kde-format
+msgid "Scan Barcode…"
+msgstr "Quét mã vạch..."
+
+#: app/main.qml:84
+#, kde-format
+msgid "Add from Calendar…"
+msgstr "Thêm từ Lịch..."
+
+#: app/main.qml:98
+#, kde-format
+msgid "Deutsche Bahn Online Ticket…"
+msgstr "Vé trực tuyến Deutsche Bahn..."
+
+#: app/main.qml:108
+#, kde-format
+msgid "SNCF Online Ticket…"
+msgstr "Vé trực tuyến SNCF..."
+
+#: app/main.qml:122
+#, kde-format
+msgid "Import Reservation"
+msgstr "Nhập khẩu Đặt chỗ"
+
+#: app/main.qml:128
+#, kde-format
+msgid "PkPass files (*.pkpass)"
+msgstr "Tệp PkPass (*.pkpass)"
+
+#: app/main.qml:128
+#, kde-format
+msgid "PDF files (*.pdf)"
+msgstr "Tệp PDF (*.pdf)"
+
+#: app/main.qml:128
+#, kde-format
+msgid "iCal events (*.ics)"
+msgstr "Sự kiện iCal (*.ics)"
+
+#: app/main.qml:128 app/main.qml:140
+#, kde-format
+msgid "KDE Itinerary files (*.itinerary)"
+msgstr "Tệp KDE Itinerary (*.itinerary)"
+
+#: app/main.qml:138
+#, kde-format
+msgid "Export Itinerary Data"
+msgstr "Xuất khẩu Dữ liệu Lịch trình"
+
+#: app/main.qml:171 app/PassPage.qml:137
+#, kde-format
+msgid "Import…"
+msgstr "Nhập khẩu..."
+
+#: app/main.qml:176
+#, kde-format
+msgid "Check for Updates"
+msgstr "Kiểm tra cập nhật"
+
+#: app/main.qml:185
+#, kde-format
+msgid "Download Maps"
+msgstr "Tải về Bản đồ"
+
+#: app/main.qml:193 app/StatisticsPage.qml:15
+#, kde-format
+msgid "Statistics"
+msgstr "Thống kê"
+
+#: app/main.qml:219 app/WelcomePage.qml:41
+#, kde-format
+msgid "Settings…"
+msgstr "Cài đặt..."
+
+#: app/main.qml:231 app/WelcomePage.qml:16
+#, kde-format
+msgid "Help"
+msgstr "trợ giúp"
+
+#: app/main.qml:320
+#, kde-format
+msgid "Map download finished."
+msgstr "Tải về bản đồ đã hoàn tất."
+
+#: app/MatrixRoomSelectionSheet.qml:19
+#, kde-format
+msgid "Share location…"
+msgstr "Chia sẻ vị trí..."
+
+#: app/MatrixRoomSelectionSheet.qml:36
+#, kde-format
+msgctxt "matrix room type"
+msgid "Invited"
+msgstr "Đã mời"
+
+#: app/MatrixRoomSelectionSheet.qml:37
+#, kde-format
+msgctxt "matrix room type"
+msgid "Favorite Rooms"
+msgstr "Phòng yêu thích"
+
+#: app/MatrixRoomSelectionSheet.qml:38
+#, kde-format
+msgctxt "matrix room type"
+msgid "Direct Messages"
+msgstr "Tin nhắn trực tiếp"
+
+#: app/MatrixRoomSelectionSheet.qml:39
+#, kde-format
+msgctxt "matrix room type"
+msgid "Rooms"
+msgstr "Phòng"
+
+#: app/MatrixRoomSelectionSheet.qml:40
+#, kde-format
+msgctxt "matrix room type"
+msgid "Low Priority"
+msgstr "Ưu tiên thấp"
+
+#: app/MatrixRoomSelectionSheet.qml:41
+#, kde-format
+msgctxt "matrix room type"
+msgid "Spaces"
+msgstr "Không gian"
+
+#: app/NavigationBar.qml:18
+#, kde-format
+msgctxt "@title:tab This isn't the app name, but the English noun"
+msgid "Itinerary"
+msgstr "Lịch trình"
+
+#: app/NavigationBar.qml:24
+#, kde-format
+msgctxt "@title:tab"
+msgid "Plan Trip"
+msgstr "Lập kế hoạch chuyến đi"
+
+#: app/NavigationBar.qml:33
+#, kde-format
+msgctxt "@title:tab"
+msgid "Passes & Programs"
+msgstr "Vé & Chương trình"
+
+#: app/NavigationBar.qml:38
+#, kde-format
+msgctxt "@title:tab"
+msgid "Current Ticket"
+msgstr "Vé hiện tại"
+
+#: app/notificationhelper.cpp:62
+#, kde-format
+msgid "Disruption on %1"
+msgstr "Gián đoạn trên %1"
+
+#: app/notificationhelper.cpp:70
+#, kde-format
+msgid "Changes on %1"
+msgstr "Thay đổi trên %1"
+
+#: app/notificationhelper.cpp:74
+#, kde-format
+msgid "Delays on %1"
+msgstr "Chậm trễ trên %1"
+
+#: app/notificationhelper.cpp:77
+#, kde-format
+msgid "Delayed departure on %1"
+msgstr "Chuyến đi bị trì hoãn vào %1"
+
+#: app/notificationhelper.cpp:80
+#, kde-format
+msgid "Earlier departure on %1"
+msgstr "Khởi hành sớm hơn vào %1"
+
+#: app/notificationhelper.cpp:83
+#, kde-format
+msgid "Delayed arrival on %1"
+msgstr "Chậm trễ đến %1"
+
+#: app/notificationhelper.cpp:87
+#, kde-format
+msgid "Platform change on %1"
+msgstr "Thay đổi nền tảng trên %1"
+
+#: app/notificationhelper.cpp:97
+#, kde-format
+msgctxt "a train/bus journey canceled by its operator"
+msgid "Trip has been canceled."
+msgstr "Chuyến đi đã bị hủy."
+
+#: app/notificationhelper.cpp:99
+#, kde-format
+msgctxt "a train/bus journey canceled by its operator"
+msgid "Arrival has been canceled."
+msgstr "Chuyến đến đã bị hủy."
+
+#: app/notificationhelper.cpp:103
+#, kde-format
+msgid "New departure time is: %1 (+%2)"
+msgstr "Thời gian khởi hành mới là: %1 (+%2)"
+
+#: app/notificationhelper.cpp:105
+#, kde-format
+msgid "New departure time is: %1 (%2)"
+msgstr "Thời gian khởi hành mới là: %1 (%2)"
+
+#: app/notificationhelper.cpp:109
+#, kde-format
+msgid "New arrival time is: %1 (+%2)"
+msgstr "Thời gian đến mới là: %1 (+%2)"
+
+#: app/notificationhelper.cpp:113
+#, kde-format
+msgid "New departure platform is: %1"
+msgstr "Nền tảng khởi hành mới là: %1"
+
+#: app/notificationhelper.cpp:116
+#, kde-format
+msgid "New arrival platform is: %1"
+msgstr "Nền tảng mới đến là: %1"
+
+#: app/onlineimport/db.qml:28 app/onlineimport/sncf.qml:28
+#, kde-format
+msgid "Family name"
+msgstr "Họ"
+
+#: app/onlineimport/db.qml:33
+#, kde-format
+msgid "Name is case-sensitive."
+msgstr "Tên phân biệt chữ hoa chữ thường."
+
+#: app/onlineimport/db.qml:40
+#, kde-format
+msgid "Order number or booking reference"
+msgstr "Số đơn hàng hoặc tham chiếu đặt chỗ"
+
+#: app/onlineimport/sncf.qml:38
+#, kde-format
+msgid "Booking reference"
+msgstr "Tham chiếu đặt chỗ"
+
+#: app/OnlineImportPage.qml:16
+#, kde-format
+msgid "Import Online Ticket"
+msgstr "Nhập khẩu Vé Trực tuyến"
+
+#: app/OnlineImportPage.qml:30
+#, kde-format
+msgid "No ticket found"
+msgstr "Không tìm thấy vé"
+
+#: app/OnlineImportPage.qml:35
+#, kde-format
+msgid "Online Ticket"
+msgstr "Vé trực tuyến"
+
+#: app/OnlineImportPage.qml:54
+#, kde-format
+msgid "Search…"
+msgstr "Tìm kiếm..."
+
+#: app/passmanager.cpp:251
+#, kde-format
+msgctxt "no longer valid tickets"
+msgid "Expired"
+msgstr "Đã hết hạn"
+
+#: app/passmanager.cpp:254
+#, kde-format
+msgctxt "not yet valid tickets"
+msgid "Future"
+msgstr "Tương lai"
+
+#: app/passmanager.cpp:256
+#, kde-format
+msgctxt "not yet expired tickets"
+msgid "Valid"
+msgstr "Hợp lệ"
+
+#: app/passmanager.cpp:275
+#, kde-format
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+#: app/PassPage.qml:16
+#, kde-format
+msgid "Passes and Programs"
+msgstr "Vé và Chương trình"
+
+#: app/PassPage.qml:20
+#, kde-format
+msgid "Add Program Membership…"
+msgstr "Thêm Thành Viên Chương Trình..."
+
+#: app/PassPage.qml:52
+#, kde-format
+msgctxt "name - number"
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+#: app/PassPage.qml:105
+#, kde-format
+msgctxt "name - valid time range"
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+#: app/PassPage.qml:135
+#, kde-format
+msgid "Import bonus or discount program cards or flat rate passes."
+msgstr "Nhập khẩu thẻ chương trình khuyến mãi hoặc giảm giá, hoặc thẻ giá cố định."
+
+#: app/PkPassPage.qml:17
+#, kde-format
+msgid "Boarding Pass"
+msgstr "Thẻ lên máy bay"
+
+#: app/PkPassPage.qml:18
+#, kde-format
+msgid "Event Ticket"
+msgstr "Vé sự kiện"
+
+#: app/PkPassPage.qml:19
+#, kde-format
+msgid "Pass"
+msgstr "Thẻ"
+
+#: app/ProgramMembershipCard.qml:22 app/ProgramMembershipEditorCard.qml:33
+#, kde-format
+msgctxt "bonus, discount or frequent traveler program"
+msgid "Program"
+msgstr "Chương trình"
+
+#: app/ProgramMembershipCard.qml:31 app/ProgramMembershipEditor.qml:70
+#: app/ProgramMembershipEditorCard.qml:54
+#: app/TicketPage.qml:86
+#, kde-format
+msgid "Name"
+msgstr "Tên"
+
+#: app/ProgramMembershipCard.qml:40 app/ProgramMembershipEditor.qml:90
+#: app/ProgramMembershipEditorCard.qml:61
+#: app/ProgramMembershipPage.qml:92 app/TicketPage.qml:104
+#, kde-format
+msgid "Number"
+msgstr "Số"
+
+#: app/ProgramMembershipCard.qml:50 app/ProgramMembershipPage.qml:102
+#, kde-format
+msgid "Program membership number copied to clipboard"
+msgstr "Số thẻ thành viên chương trình đã được sao chép vào bảng nháp"
+
+#: app/ProgramMembershipCard.qml:63
+#, kde-format
+msgid "Show program pass"
+msgstr "Hiển thị thẻ chương trình"
+
+#: app/ProgramMembershipEditor.qml:24
+#, kde-format
+msgid "Edit Program Membership"
+msgstr "Sửa Thành Viên Chương Trình"
+
+#: app/ProgramMembershipEditor.qml:34 app/TicketEditor.qml:27
+#, kde-format
+msgid "Save"
+msgstr "Lưu"
+
+#: app/ProgramMembershipEditor.qml:62
+#, kde-format
+msgid "Program"
+msgstr "Chương trình"
+
+#: app/ProgramMembershipEditor.qml:73
+#, kde-format
+msgid "Program name must not be empty."
+msgstr "Tên chương trình không được để trống."
+
+#: app/ProgramMembershipEditor.qml:78
+#, kde-format
+msgid "Membership"
+msgstr "Thành viên"
+
+#: app/ProgramMembershipEditor.qml:84 app/ProgramMembershipPage.qml:83
+#, kde-format
+msgid "Member"
+msgstr "Thành viên"
+
+#: app/ProgramMembershipEditor.qml:97 app/ProgramMembershipPage.qml:114
+#: app/TicketPage.qml:92
+#, kde-format
+msgid "Valid from"
+msgstr "Có hiệu lực từ"
+
+#: app/ProgramMembershipEditor.qml:111 app/ProgramMembershipPage.qml:119
+#: app/TicketPage.qml:98
+#, kde-format
+msgid "Valid until"
+msgstr "Hết hạn"
+
+#: app/ProgramMembershipEditor.qml:124
+#, kde-format
+msgid "Valid until time has to be after the valid from time."
+msgstr "Thời gian hợp lệ phải sau thời gian bắt đầu hợp lệ."
+
+#: app/ProgramMembershipEditor.qml:134
+#, kde-format
+msgid "Barcode"
+msgstr "Mã vạch"
+
+#: app/ProgramMembershipPage.qml:17
+#, kde-format
+msgid "Program Membership"
+msgstr "Thành viên chương trình"
+
+#: app/ProgramMembershipPage.qml:143
+#, kde-format
+msgid "Show Pass"
+msgstr "Hiện mật khẩu"
+
+#: app/publictransport.cpp:130 app/publictransport.cpp:157
+#, kde-format
+msgid "Walk"
+msgstr "Đi bộ"
+
+#: app/publictransport.cpp:132
+#, kde-format
+msgid "Wait"
+msgstr "Chờ"
+
+#: app/publictransport.cpp:141
+#, kde-format
+msgid "Rented bicycle"
+msgstr "Xe đạp cho thuê"
+
+#: app/publictransport.cpp:143
+#, kde-format
+msgid "Rented moped"
+msgstr "Xe máy đã thuê"
+
+#: app/publictransport.cpp:145
+#, kde-format
+msgid "Rented kick scooter"
+msgstr "Xe scooter đạp điện được thuê"
+
+#: app/publictransport.cpp:147
+#, kde-format
+msgid "Rented car"
+msgstr "Xe thuê"
+
+#: app/publictransport.cpp:153
+#, kde-format
+msgid "Bicycle"
+msgstr "Xe đạp"
+
+#: app/publictransport.cpp:155 app/StatisticsPage.qml:148
+#, kde-format
+msgid "Car"
+msgstr "Xe ô tô"
+
+#: app/PublicTransportBackendPage.qml:17
+#, kde-format
+msgid "Public Transport Information Sources"
+msgstr "Nguồn Thông Tin Giao Thông Công Cộng"
+
+#: app/PublicTransportBackendPage.qml:95 app/PublicTransportBackendPage.qml:108
+#, kde-format
+msgid "Global"
+msgstr "Toàn cục"
+
+#: app/PublicTransportBackendPage.qml:97
+#, kde-format
+msgid "🇪🇺 European Union"
+msgstr "Liên minh Châu Âu"
+
+#: app/PublicTransportBackendPage.qml:110
+#, kde-format
+msgid "European Union"
+msgstr "Liên minh Châu Âu"
+
+#: app/PublicTransportFeatureList.qml:31
+#, kde-format
+msgid "Availability unknown"
+msgstr "Không rõ khả dụng"
+
+#: app/PublicTransportFeatureList.qml:33
+#, kde-format
+msgid "Not available"
+msgstr "Không khả dụng"
+
+#: app/PublicTransportFeatureList.qml:35
+#, kde-format
+msgid "Currently not available"
+msgstr "Hiện không khả dụng"
+
+#: app/ReservationDocumentsCard.qml:19
+#, kde-format
+msgid "Documents and Tickets"
+msgstr "Tài liệu và vé"
+
+#: app/RestaurantEditor.qml:18
+#, kde-format
+msgctxt "@title"
+msgid "Edit Restaurant"
+msgstr "Sửa Nhà Hàng"
+
+#: app/RestaurantEditor.qml:45
+#, kde-format
+msgid "Restaurant"
+msgstr "Nhà hàng"
+
+#: app/RestaurantEditor.qml:53
+#, kde-format
+msgctxt "restaurant name"
+msgid "Name"
+msgstr "Tên"
+
+#: app/RestaurantEditor.qml:72
+#, kde-format
+msgctxt "@title:group"
+msgid "Reservation"
+msgstr "Đặt chỗ"
+
+#: app/RestaurantPage.qml:16
+#, kde-format
+msgid "Restaurant Reservation"
+msgstr "Đặt chỗ nhà hàng"
+
+#: app/RestaurantPage.qml:29
+#, kde-format
+msgctxt "@title:group"
+msgid "Details"
+msgstr "Chi tiết"
+
+#: app/RestaurantPage.qml:41
+#, kde-format
+msgid "Start time"
+msgstr "Thời gian bắt đầu"
+
+#: app/RestaurantPage.qml:49
+#, kde-format
+msgid "End time"
+msgstr "Thời gian kết thúc"
+
+#: app/RestaurantPage.qml:57
+#, kde-format
+msgid "Party size"
+msgstr "Số lượng người"
+
+#: app/SettingsPage.qml:18
+#, kde-format
+msgid "Settings"
+msgstr "thiết lập"
+
+#: app/SettingsPage.qml:38
+#, kde-format
+msgid "Home Country"
+msgstr "Quốc gia"
+
+#: app/SettingsPage.qml:57
+#, kde-format
+msgid "Online Services"
+msgstr "Dịch vụ trực tuyến"
+
+#: app/SettingsPage.qml:61
+#, kde-format
+msgid "Query Traffic Data"
+msgstr "Truy vấn dữ liệu giao thông"
+
+#: app/SettingsPage.qml:64
+#, kde-format
+msgid ""
+"When enabled, this will query transport provider online services for changes "
+"such as delays or gate and platform changes."
+msgstr ""
+"Khi được bật, tính năng này sẽ truy vấn các dịch vụ trực tuyến của nhà cung "
+"cấp vận chuyển để tìm kiếm các thay đổi như chậm trễ hoặc thay đổi cổng và "
+"nền tảng."
+
+#: app/SettingsPage.qml:70
+#, kde-format
+msgid "Use insecure services"
+msgstr "Sử dụng các dịch vụ không an toàn"
+
+#: app/SettingsPage.qml:73
+#, kde-format
+msgid ""
+"Enabling this will also use online services that do not offer transport "
+"encryption. This is not recommended, but might be unavoidable when relying "
+"on live data from certain providers."
+msgstr ""
+"Bật tính năng này sẽ cũng sử dụng các dịch vụ trực tuyến không cung cấp mã "
+"hóa vận chuyển. Điều này không được khuyến nghị, nhưng có thể không thể "
+"tránh khỏi khi phụ thuộc vào dữ liệu trực tiếp từ một số nhà cung cấp."
+
+#: app/SettingsPage.qml:81
+#, kde-format
+msgid "Public Transport Information Sources…"
+msgstr "Nguồn thông tin giao thông công cộng..."
+
+#: app/SettingsPage.qml:90 app/WeatherForecastDelegate.qml:83
+#: app/WeatherForecastPage.qml:19
+#, kde-format
+msgid "Weather Forecast"
+msgstr "Dự báo thời tiết"
+
+#: app/SettingsPage.qml:93
+#, kde-format
+msgid "Showing weather forecasts will query online services."
+msgstr "Hiển thị dự báo thời tiết sẽ truy vấn các dịch vụ trực tuyến."
+
+#: app/SettingsPage.qml:98 app/WeatherForecastPage.qml:36
+#, kde-format
+msgid ""
+"Using data from <a href=\"https://www.met.no/\">The Norwegian Meteorological "
+"Institute</a> under <a href=\"https://creativecommons.org/licenses/"
+"by/4.0\">Creative Commons 4.0 BY International</a> license."
+msgstr ""
+"Sử dụng dữ liệu từ <a href=\"https://www.met.no/\">Viện Khí tượng Na Uy</a> "
+"theo giấy phép <a "
+"href=\"https://creativecommons.org/licenses/by/4.0\">Creative Commons 4.0 "
+"BY International</a>."
+
+#: app/SettingsPage.qml:107
+#, kde-format
+msgid "Preload Map Data"
+msgstr "Tải trước dữ liệu bản đồ"
+
+#: app/SettingsPage.qml:110
+#, kde-format
+msgid ""
+"Enabling this will download maps for all stations and airports for upcoming "
+"trips when connected to Wifi network."
+msgstr ""
+"Kích hoạt tính năng này sẽ tải về bản đồ cho tất cả các ga và sân bay cho "
+"các chuyến đi sắp tới khi kết nối với mạng Wifi."
+
+#: app/SettingsPage.qml:117
+#, kde-format
+msgid "Currency Conversion"
+msgstr "Chuyển đổi tiền tệ"
+
+#: app/SettingsPage.qml:120
+#, kde-format
+msgid ""
+"Enabling this will perform online queries for exchange rates to currencies "
+"at travel destinations."
+msgstr ""
+"Bật tính năng này sẽ thực hiện các truy vấn trực tuyến để lấy tỷ giá hối "
+"đoái của các loại tiền tệ tại các điểm đến du lịch."
+
+#: app/SettingsPage.qml:126
+#, kde-format
+msgid "Wikimedia Online Content"
+msgstr "Nội dung trực tuyến của Wikimedia"
+
+#: app/SettingsPage.qml:129
+#, kde-format
+msgid "Use additional online content from Wikimedia and Wikidata."
+msgstr "Sử dụng nội dung trực tuyến bổ sung từ Wikimedia và Wikidata."
+
+#: app/SettingsPage.qml:136
+#, kde-format
+msgid "Transfer Assistant"
+msgstr "Trợ tá truyền"
+
+#: app/SettingsPage.qml:140
+#, kde-format
+msgid "Automatically add transfers"
+msgstr "Tự động thêm các bản truyền"
+
+#: app/SettingsPage.qml:148
+#, kde-format
+msgid "Automatically fill transfers"
+msgstr "Tự động điền chuyển khoản"
+
+#: app/SettingsPage.qml:149
+#, kde-format
+msgid ""
+"When enabled, this will query transport provider online services "
+"automatically for transfer information."
+msgstr ""
+"Khi được bật, điều này sẽ tự động truy vấn các dịch vụ trực tuyến của nhà "
+"cung cấp vận chuyển để lấy thông tin về truyền."
+
+#: app/SettingsPage.qml:160
+#, kde-format
+msgid "Notifications"
+msgstr "Thông báo"
+
+#: app/SettingsPage.qml:165
+#, kde-format
+msgid "Configure Notifications…"
+msgstr "Cấu hình Thông báo..."
+
+#: app/SettingsPage.qml:174
+#, kde-format
+msgid "Show notifications on lock screen"
+msgstr "Hiển thị thông báo trên màn hình khóa"
+
+#: app/SettingsPage.qml:184 app/SettingsPage.qml:212
+#, kde-format
+msgid "Request permissions…"
+msgstr "Yêu cầu quyền..."
+
+#: app/SettingsPage.qml:185
+#, kde-format
+msgid "Additional permissions are required to show notifications."
+msgstr "Cần có thêm quyền để hiển thị thông báo."
+
+#: app/SettingsPage.qml:194
+#, kde-format
+msgid "Notification permissions are available"
+msgstr "Quyền thông báo hiện có"
+
+#: app/SettingsPage.qml:195 app/SettingsPage.qml:237
+#, kde-format
+msgid "No further action required."
+msgstr "Không cần thêm hành động nào khác."
+
+#: app/SettingsPage.qml:208
+#, kde-format
+msgid "Onboard Status"
+msgstr "Trạng thái Onboard"
+
+#: app/SettingsPage.qml:213
+#, kde-format
+msgid "Additional permissions are required to access the Wi-Fi status."
+msgstr "Cần có thêm quyền để truy cập trạng thái Wi-Fi."
+
+#: app/SettingsPage.qml:224
+#, kde-format
+msgid "Wi-Fi access for onboard information is available."
+msgstr "Truy cập Wi-Fi để có thông tin trên máy."
+
+#: app/SettingsPage.qml:226
+#, kde-format
+msgid "Wi-Fi is not enabled"
+msgstr "Wifi chưa được bật"
+
+#: app/SettingsPage.qml:228
+#, kde-format
+msgid "Location service is not enabled"
+msgstr "Dịch vụ địa điểm chưa được bật"
+
+#: app/SettingsPage.qml:230
+#, kde-format
+msgid "Wi-Fi access is not available on this system"
+msgstr "Truy cập Wi-Fi không khả dụng trên hệ thống này"
+
+#: app/SettingsPage.qml:239
+#, kde-format
+msgid "Enable Wi-Fi on your system to access onboard information."
+msgstr "Bật Wi-Fi trên hệ thống của bạn để truy cập thông tin trên bo mạch."
+
+#: app/SettingsPage.qml:241
+#, kde-format
+msgid ""
+"Enable the location service on your device to access onboard information."
+msgstr ""
+"Bật dịch vụ định vị trên thiết bị của bạn để truy cập thông tin trên thiết "
+"bị."
+
+#: app/SettingsPage.qml:243
+#, kde-format
+msgid ""
+"Onboard information are unfortunately not supported on your device at this "
+"time."
+msgstr ""
+"Rất tiếc, thông tin về Onboard không được hỗ trợ trên thiết bị của bạn vào "
+"thời điểm này."
+
+#: app/SettingsPage.qml:275
+#, kde-format
+msgid "Matrix Integration"
+msgstr "Tích hợp Matrix"
+
+#: app/SettingsPage.qml:282
+#, kde-format
+msgid "Logged in as %1"
+msgstr "Đăng nhập với %1"
+
+#: app/SettingsPage.qml:286
+#, kde-format
+msgid "Synchronize rooms"
+msgstr "Đồng bộ hóa phòng"
+
+#: app/SettingsPage.qml:293
+#, kde-format
+msgid "Matrix ID"
+msgstr "Mã định danh"
+
+#: app/SettingsPage.qml:300
+#, kde-format
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: app/SettingsPage.qml:307
+#, kde-format
+msgid "Log out"
+msgstr "Đăng xuất"
+
+#: app/SettingsPage.qml:307
+#, kde-format
+msgid "Log in"
+msgstr "Đăng nhập"
+
+#: app/SettingsPage.qml:314
+#, kde-format
+msgid "Contributing"
+msgstr "Đóng góp"
+
+#: app/SettingsPage.qml:318
+#, kde-format
+msgid "I contribute to OpenStreetMap"
+msgstr "Tôi đóng góp cho OpenStreetMap"
+
+#: app/SettingsPage.qml:319
+#, kde-format
+msgid "Enables OSM editing options."
+msgstr "Kích hoạt các tùy chọn chỉnh sửa OSM."
+
+#: app/statisticsmodel.cpp:91
+#, kde-format
+msgid "Trips"
+msgstr "Chuyến đi"
+
+#: app/statisticsmodel.cpp:96 app/statisticsmodel.cpp:129
+#: app/statisticsmodel.cpp:144 app/statisticsmodel.cpp:159
+#: app/statisticsmodel.cpp:174 app/statisticsmodel.cpp:189
+#, kde-format
+msgid "Distance"
+msgstr "Khoảng cách"
+
+#: app/statisticsmodel.cpp:101
+#, kde-format
+msgid "Hotel nights"
+msgstr "Đêm khách sạn"
+
+#: app/statisticsmodel.cpp:106 app/statisticsmodel.cpp:134
+#: app/statisticsmodel.cpp:149 app/statisticsmodel.cpp:164
+#: app/statisticsmodel.cpp:179 app/statisticsmodel.cpp:194
+#, kde-format
+msgid "CO₂"
+msgstr "CO₂"
+
+#: app/statisticsmodel.cpp:119
+#, kde-format
+msgid "Visited countries"
+msgstr "Các quốc gia đã truy cập"
+
+#: app/statisticsmodel.cpp:124
+#, kde-format
+msgid "Flights"
+msgstr "Chuyến bay"
+
+#: app/statisticsmodel.cpp:139
+#, kde-format
+msgid "Train rides"
+msgstr "Chuyến tàu"
+
+#: app/statisticsmodel.cpp:154
+#, kde-format
+msgid "Bus rides"
+msgstr "Chuyến xe buýt"
+
+#: app/statisticsmodel.cpp:169
+#, kde-format
+msgid "Car rides"
+msgstr "Chuyến đi ô tô"
+
+#: app/statisticsmodel.cpp:184
+#, kde-format
+msgid "Boat trips"
+msgstr "Chuyến đi thuyền"
+
+#: app/StatisticsPage.qml:34
+#, kde-format
+msgid "Year"
+msgstr "Năm"
+
+#: app/StatisticsPage.qml:46 app/statisticstimerangemodel.cpp:69
+#, kde-format
+msgid "Total"
+msgstr "Tổng"
+
+#: app/StatisticsPage.qml:106 app/TrainEditor.qml:88
+#, kde-format
+msgid "Train"
+msgstr "Tàu"
+
+#: app/StopPickerPage.qml:28
+#, kde-format
+msgid "Clear history"
+msgstr "Làm trống lịch sử"
+
+#: app/StopPickerPage.qml:38
+#, kde-format
+msgid "Sort by name"
+msgstr "Sắp xếp theo tên"
+
+#: app/StopPickerPage.qml:45
+#, kde-format
+msgid "Most recently used"
+msgstr "Được sử dụng gần đây nhất"
+
+#: app/StopPickerPage.qml:52
+#, kde-format
+msgid "Most often used"
+msgstr "Thường sử dụng nhất"
+
+#: app/StopPickerPage.qml:136
+#, kde-format
+msgid "Remove history entry"
+msgstr "Xoá mục lịch sử"
+
+#: app/StopPickerPage.qml:189
+#, kde-format
+msgid "No locations found"
+msgstr "Không tìm thấy địa điểm"
+
+#: app/TicketEditor.qml:18
+#, kde-format
+msgid "Edit Ticket"
+msgstr "Sửa Vé"
+
+#: app/TicketEditor.qml:58 app/TicketPage.qml:17 app/TicketPage.qml:81
+#, kde-format
+msgid "Ticket"
+msgstr "Vé"
+
+#: app/TicketEditor.qml:64
+#, kde-format
+msgid "Ticket name"
+msgstr "Tên vé"
+
+#: app/TicketEditor.qml:67
+#, kde-format
+msgid "Ticket name must not be empty."
+msgstr "Tên vé không được để trống."
+
+#: app/TicketPage.qml:39
+#, kde-format
+msgid "Delete Ticket"
+msgstr "Xóa vé"
+
+#: app/TicketPage.qml:40
+#, kde-format
+msgid "Do you really want to delete this ticket?"
+msgstr "Bạn có thực sự muốn xóa vé này không?"
+
+#: app/TicketPage.qml:110
+#, kde-format
+msgid "Class"
+msgstr "Lớp"
+
+#: app/TicketTokenEditorCard.qml:58
+#, kde-format
+msgctxt "@title:group"
+msgid "Ticket Barcode"
+msgstr "Mã vạch vé"
+
+#: app/TicketTokenEditorCard.qml:68
+#, kde-format
+msgid "Select ticket"
+msgstr "Chọn vé"
+
+#: app/TicketTokenEditorCard.qml:91
+#, kde-format
+msgid "Scan barcode…"
+msgstr "Quét mã vạch..."
+
+#: app/tickettokenmodel.cpp:74
+#, kde-format
+msgid "Attendee %1"
+msgstr "Người tham dự %1"
+
+#: app/tickettokenmodel.cpp:76
+#, kde-format
+msgid "Traveler %1"
+msgstr "Hành khách %1"
+
+#: app/TimelinePage.qml:20
+#, kde-format
+msgid "My Itinerary"
+msgstr "Lịch trình của tôi"
+
+#: app/TimelinePage.qml:90
+#, kde-format
+msgid "Add train trip…"
+msgstr "Thêm chuyến tàu..."
+
+#: app/TimelinePage.qml:97
+#, kde-format
+msgid "Add flight…"
+msgstr "Thêm chuyến bay..."
+
+#: app/TimelinePage.qml:109
+#, kde-format
+msgid "Add ferry trip…"
+msgstr "Thêm chuyến phà..."
+
+#: app/TimelinePage.qml:121
+#, kde-format
+msgid "Add accommodation…"
+msgstr "Thêm chỗ ở..."
+
+#: app/TimelinePage.qml:132
+#, kde-format
+msgid "Add event…"
+msgstr "Thêm sự kiện..."
+
+#: app/TimelinePage.qml:144
+#, kde-format
+msgid "Add restaurant…"
+msgstr "Thêm nhà hàng..."
+
+#: app/TimelinePage.qml:166
+#, kde-format
+msgctxt "@action:button"
+msgid "Go To Now"
+msgstr "Đi đến hiện tại"
+
+#: app/TimelinePage.qml:173
+#, kde-format
+msgctxt "@action:button"
+msgid "Add trip"
+msgstr "Thêm chuyến đi"
+
+#: app/TimelinePage.qml:184
+#, kde-format
+msgctxt "@title:group"
+msgid "Add New Trip"
+msgstr "Thêm Chuyến Đi Mới"
+
+#: app/TimelinePage.qml:214
+#, kde-format
+msgid "Delete Trip"
+msgstr "Xóa chuyến đi"
+
+#: app/TimelinePage.qml:215
+#, kde-format
+msgid "Do you really want to delete this trip?"
+msgstr "Bạn có thực sự muốn xóa chuyến đi này không?"
+
+#: app/TimelinePage.qml:247
+#, kde-format
+msgid "As GPX file…"
+msgstr "Dưới dạng tệp GPX..."
+
+#: app/TimelinePage.qml:277 app/TimelinePage.qml:294
+#, kde-format
+msgid "Export Trip"
+msgstr "Xuất khẩu Chuyến đi"
+
+#: app/TimelinePage.qml:484
+#, kde-format
+msgid "Nothing on the itinerary for today."
+msgstr "Không có gì trong lịch trình cho hôm nay."
+
+#: app/timelinesectiondelegatecontroller.cpp:65
+#, kde-format
+msgid "Today"
+msgstr "Hôm nay"
+
+#: app/timelinesectiondelegatecontroller.cpp:67
+#, kde-format
+msgctxt "weekday, date"
+msgid "%1, %2"
+msgstr "%1, %2"
+
+#: app/TouristAttractionPage.qml:18
+#, kde-format
+msgid "Tourist Attraction"
+msgstr "Điểm du lịch"
+
+#: app/TouristAttractionPage.qml:37
+#, kde-format
+msgid "Departure"
+msgstr "Khởi hành"
+
+#: app/TouristAttractionPage.qml:42
+#, kde-format
+msgid "Departure Time"
+msgstr "Thời gian khởi hành"
+
+#: app/TouristAttractionPage.qml:49
+#, kde-format
+msgid "Arrival"
+msgstr "Đến"
+
+#: app/TouristAttractionPage.qml:54
+#, kde-format
+msgid "Arrival Time"
+msgstr "Thời gian đến"
+
+#: app/TrainDelegate.qml:117 app/TrainDelegate.qml:302
+#, kde-format
+msgid "Pl. %1"
+msgstr "Pl. %1"
+
+#: app/TrainEditor.qml:18
+#, kde-format
+msgid "Edit Train Reservation"
+msgstr "Sửa Đặt Chỗ Tàu"
+
+#: app/TrainEditor.qml:55
+#, kde-format
+msgid "Change departure station"
+msgstr "Thay đổi ga khởi hành"
+
+#: app/TrainEditor.qml:68
+#, kde-format
+msgid "Change arrival station"
+msgstr "Thay đổi ga đến"
+
+#: app/TrainEditor.qml:93
+#, kde-format
+msgctxt "train departure"
+msgid "Departure"
+msgstr "Khởi hành"
+
+#: app/TrainEditor.qml:98 app/TrainEditor.qml:124 app/TrainPage.qml:151
+#: app/TrainPage.qml:231
+#, kde-format
+msgctxt "train station"
+msgid "Station"
+msgstr "Ga"
+
+#: app/TrainEditor.qml:104 app/TrainEditor.qml:130
+#, kde-format
+msgctxt "train platform"
+msgid "Platform"
+msgstr "Nền tảng"
+
+#: app/TrainEditor.qml:119
+#, kde-format
+msgctxt "train arrival"
+msgid "Arrival"
+msgstr "Đến"
+
+#: app/TrainEditor.qml:152
+#, kde-format
+msgctxt "carriage on a train"
+msgid "Coach"
+msgstr "Toa"
+
+#: app/TrainEditor.qml:164
+#, kde-format
+msgctxt "seating class on a train"
+msgid "Class"
+msgstr "Hạng"
+
+#: app/TrainPage.qml:17
+#, kde-format
+msgid "Train Ticket"
+msgstr "Vé tàu"
+
+#: app/TrainPage.qml:108
+#, kde-format
+msgctxt "Train departure"
+msgid "Departure"
+msgstr "Khởi hành"
+
+#: app/TrainPage.qml:179 app/TrainPage.qml:258
+#, kde-format
+msgid "Additional notes"
+msgstr "ghi chú"
+
+#: app/TrainPage.qml:191
+#, kde-format
+msgctxt "Train arrival"
+msgid "Arrival"
+msgstr "Đến"
+
+#: app/TrainPage.qml:279
+#, kde-format
+msgctxt "coach of a train"
+msgid "Coach:"
+msgstr "Toa:"
+
+#: app/TrainPage.qml:288
+#, kde-format
+msgid "Seat:"
+msgstr "Chỗ ngồi:"
+
+#: app/TrainPage.qml:297
+#, kde-format
+msgid "Class:"
+msgstr "Lớp:"
+
+#: app/TrainPage.qml:306
+#, kde-format
+msgid "Departure Vehicle Layout"
+msgstr "Bố cục Phương tiện Khởi hành"
+
+#: app/TrainPage.qml:313
+#, kde-format
+msgid "Arrival Vehicle Layout"
+msgstr "Bố cục Phương tiện Đến"
+
+#: app/TransferDelegate.qml:109
+#, kde-format
+msgid "Select transfer"
+msgstr "Bôi đen truyền"
+
+#: app/TransferDelegate.qml:119
+#, kde-format
+msgid "Delete transfer"
+msgstr "Xóa truyền"
+
+#: app/TransferPage.qml:20
+#, kde-format
+msgid "Select Transfer"
+msgstr "Bôi đen Truyền"
+
+#: app/TransferPage.qml:43
+#, kde-format
+msgid "Depart Now"
+msgstr "Khởi hành ngay"
+
+#: app/TransferPage.qml:53
+#, kde-format
+msgid "Discard"
+msgstr "Loại bỏ"
+
+#: app/TransferPage.qml:75
+#, kde-format
+msgid "Bike"
+msgstr "Xe đạp"
+
+#: app/TransferPage.qml:82
+#, kde-format
+msgid "Bike & Ride"
+msgstr "Xe đạp và đi xe"
+
+#: app/TransferPage.qml:90
+#, kde-format
+msgid "Shared Bikes"
+msgstr "Xe đạp chia sẻ"
+
+#: app/TransferPage.qml:97
+#, kde-format
+msgid "Park & Ride"
+msgstr "Đỗ xe và đi xe buýt"
+
+#: app/TransferPage.qml:270
+#, kde-format
+msgid "%1 ends at %2"
+msgstr "%1 kết thúc vào %2"
+
+#: app/TransferPage.qml:272
+#, kde-format
+msgid "Preceding arrival %1 at %2"
+msgstr "Trước khi đến %1 lúc %2"
+
+#: app/TransferPage.qml:282
+#, kde-format
+msgid "%1 starts at %2"
+msgstr "%1 bắt đầu lúc %2"
+
+#: app/TransferPage.qml:284
+#, kde-format
+msgid "Following departure %1 from %2"
+msgstr "Sau khi rời khỏi %2, %1"
+
+#: app/TripGroupDelegate.qml:61
+#, kde-format
+msgid "Trip: %1"
+msgstr "Chuyến đi: %1"
+
+#: app/TripGroupDelegate.qml:92
+#, kde-format
+msgid "Date: %2 (one day)"
+msgid_plural "Date: %2 (%1 days)"
+msgstr[0] "Ngày: %2 (%1 ngày)"
+
+#: app/TripGroupDelegate.qml:108 app/WeatherForecastDelegate.qml:48
+#: app/WeatherForecastPage.qml:93
+#, kde-format
+msgctxt "temperature range"
+msgid "%1 / %2"
+msgstr "%1 / %2"
+
+#: app/TripGroupDelegate.qml:123
+#, kde-format
+msgid "%1: some incompatible power sockets (%2)"
+msgstr "%1: một số ổ cắm điện không tương thích (%2)"
+
+#: app/TripGroupDelegate.qml:125
+#, kde-format
+msgid "%1: some incompatible power plugs (%2)"
+msgstr "%1: một số ổ cắm điện không tương thích (%2)"
+
+#: app/TripGroupDelegate.qml:128
+#, kde-format
+msgid "%1: no compatible power plugs (%2)"
+msgstr "%1: không có ổ cắm điện tương thích (%2)"
+
+#: app/TripGroupDelegate.qml:138
+#, kde-format
+msgid "Currency: %2"
+msgid_plural "Currencies: %2"
+msgstr[0] "Tiền tệ: %2"
+
+#: app/TripGroupDelegate.qml:162
+#, kde-format
+msgid "Edit…"
+msgstr "Chỉnh sửa..."
+
+#: app/TripGroupDelegate.qml:183
+#, kde-format
+msgid "Delete trip"
+msgstr "Xóa chuyến đi"
+
+#: app/TripGroupEditorDialog.qml:17
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Trip"
+msgstr "Thêm chuyến đi"
+
+#: app/TripGroupEditorDialog.qml:17
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Trip"
+msgstr "Sửa Chuyến Đi"
+
+#: app/TripGroupEditorDialog.qml:21
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Trip name:"
+msgstr "Tên chuyến đi:"
+
+#: app/tripgroupmanager.cpp:690
+#, kde-format
+msgctxt "%1 is destination, %2 is the standalone month name, %3 is the year"
+msgid "%1 (%2 %3)"
+msgstr "%1 (%2 %3)"
+
+#: app/tripgroupmanager.cpp:692
+#, kde-format
+msgctxt ""
+"%1 is destination, %2 and %3 are the standalone month names and %4 is the "
+"year"
+msgid "%1 (%2/%3 %4)"
+msgstr "%1 (%2/%3 %4)"
+
+#: app/tripgroupmanager.cpp:694
+#, kde-format
+msgctxt "%1 is destination, %2 and %3 are years"
+msgid "%1 (%2/%3)"
+msgstr "%1 (%2/%3)"
+
+#: app/VehicleLayoutPage.qml:18
+#, kde-format
+msgid "Vehicle Layout"
+msgstr "Bố cục Xe"
+
+#: app/VehicleLayoutPage.qml:66
+#, kde-format
+msgid "First class"
+msgstr "Hạng thương gia"
+
+#: app/VehicleLayoutPage.qml:68
+#, kde-format
+msgid "Second class"
+msgstr "Hạng hai"
+
+#: app/VehicleLayoutPage.qml:70
+#, kde-format
+msgid "First/second class"
+msgstr "Hạng nhất/hạng hai"
+
+#: app/VehicleLayoutPage.qml:71
+#, kde-format
+msgid "Unknown class"
+msgstr "Lớp không rõ"
+
+#: app/VehicleLayoutPage.qml:82
+#, kde-format
+msgctxt "train coach"
+msgid "Coach %1"
+msgstr "Toa %1"
+
+#: app/VehicleLayoutPage.qml:92
+#, kde-format
+msgctxt "train coach type"
+msgid "Sleeping car"
+msgstr "Toa ngủ"
+
+#: app/VehicleLayoutPage.qml:94
+#, kde-format
+msgctxt "train coach type"
+msgid "Couchette car"
+msgstr "Toa xe giường nằm"
+
+#: app/VehicleLayoutPage.qml:96
+#, kde-format
+msgctxt "train coach type"
+msgid "Restaurant car"
+msgstr "Toa nhà hàng"
+
+#: app/VehicleLayoutPage.qml:98
+#, kde-format
+msgctxt "train coach type"
+msgid "Car transport car"
+msgstr "Xe vận chuyển ô tô"
+
+#: app/VehicleLayoutPage.qml:158
+#, kde-format
+msgid "Departure: %1"
+msgstr "Khởi hành: %1"
+
+#: app/VehicleLayoutPage.qml:160
+#, kde-format
+msgid "Arrival: %1"
+msgstr "Đến: %1"
+
+#: app/VehicleLayoutPage.qml:178
+#, kde-format
+msgid "Platform: %1"
+msgstr "Nền tảng: %1"
+
+#: app/VehicleLayoutPage.qml:184
+#, kde-format
+msgid "Coach: %1 Seat: %2"
+msgstr "Xe buýt: %1 Ghế: %2"
+
+#: app/VehicleLayoutPage.qml:429
+#, kde-format
+msgid "No vehicle layout information available."
+msgstr "Không có thông tin bố cục phương tiện."
+
+#: app/WeatherForecastDelegate.qml:61 app/WeatherForecastPage.qml:106
+#, kde-format
+msgctxt "precipitation"
+msgid "%1 mm"
+msgstr "%1 mm"
+
+#: app/WeatherForecastDelegate.qml:74 app/WeatherForecastPage.qml:119
+#, kde-format
+msgctxt "windSpeed"
+msgid "%1 m/s"
+msgstr "%1 m/s"
+
+#: app/WelcomePage.qml:16
+#, kde-format
+msgid "Welcome!"
+msgstr "Chào mừng!"
+
+#: app/WelcomePage.qml:20
+#, kde-format
+msgid "How to import data?"
+msgstr "Cách nhập khẩu dữ liệu?"
+
+#: app/WelcomePage.qml:26
+#, kde-format
+msgid ""
+"<p>There's a number of ways to import data into KDE Itinerary:"
+"<ul><li>Directly opening PDF tickets or Apple Wallet passes.</li><li>From "
+"the Android calendar, for entries made via the KMail or Nextcloud Itinerary "
+"plugins, and synced using DAVx⁵.</li><li>Via KDE Connect from the KMail "
+"Itinerary plugin.</li><li>By scanning boarding pass barcodes and pasting "
+"their content.</li></p>"
+msgstr ""
+"<p>Có một số cách để nhập khẩu dữ liệu vào KDE Itinerary:<ul><li>Mở trực "
+"tiếp vé PDF hoặc thẻ Apple Wallet.</li><li>Từ lịch Android, cho các mục "
+"được tạo thông qua plugin KMail hoặc Nextcloud Itinerary, và được đồng bộ "
+"hóa bằng DAVx⁵.</li><li>Qua KDE Connect từ plugin KMail "
+"Itinerary.</li><li>Bằng cách quét mã vạch thẻ lên máy bay và dán nội dung "
+"của chúng.</li></p>"
+
+#: app/WelcomePage.qml:31
+#, kde-format
+msgid "Check the settings!"
+msgstr "Kiểm tra các cài đặt!"
+
+#: app/WelcomePage.qml:37
+#, kde-format
+msgid ""
+"KDE Itinerary has all features disabled by default that require online "
+"access, such as retrieving live traffic data or weather forecasts. You "
+"therefore might want to review these settings. While you are at it, you "
+"might want to configure your home location to enable the transfer assistant "
+"to automatically suggests ways to your next departure station or airport."
+msgstr ""
+"Mặc định, KDE Itinerary đã tắt tất cả các tính năng yêu cầu truy cập trực "
+"tuyến, chẳng hạn như lấy dữ liệu giao thông hoặc dự báo thời tiết. Do đó, "
+"bạn nên xét duyệt lại các cài đặt này. Trong khi làm điều đó, bạn cũng có "
+"thể cấu hình địa điểm nhà của mình để trợ tá chuyển tiếp có thể tự động đề "
+"xuất các cách đến ga tàu hoặc sân bay tiếp theo."
+
+#: app/WelcomePage.qml:48
+#, kde-format
+msgid "More information"
+msgstr "Thông tin thêm"
+
+#: app/WelcomePage.qml:54
+#, kde-format
+msgid ""
+"For more information about KDE Itinerary check out the <a href=\"https://"
+"community.kde.org/KDE_PIM/KDE_Itinerary\">wiki page</a>."
+msgstr ""
+"Để biết thêm thông tin về KDE Itinerary, hãy xem <a "
+"href=\"https://community.kde.org/KDE_PIM/KDE_Itinerary\">trang wiki</a>."
+
+#: app/WelcomePage.qml:61
+#, kde-format
+msgid "Got it!"
+msgstr "Đã hiểu!"
+
+#: matrix/matrixmanager.cpp:23 matrix/matrixmanager.cpp:57
+#: matrix/matrixmanager.cpp:109
+#, kde-format
+msgid "Syncing…"
+msgstr "Đang đồng bộ..."
+
+#: matrix/matrixmanager.cpp:42
+#, kde-format
+msgid "This server does not support logging in using a password"
+msgstr "Máy chủ này không hỗ trợ đăng nhập bằng mật khẩu"
+
+#: matrix/matrixmanager.cpp:68
+#, kde-format
+msgid "Logging in"
+msgstr "Ghi nhật kí"
+
+#: metadataextractor/itineraryextractor.cpp:119
+#, kde-format
+msgctxt "Airline Flightnumber from Airport to Airport on Date"
+msgid "%1%2 from %3 to %4 on %5"
+msgstr "%1%2 từ %3 đến %4 vào %5"

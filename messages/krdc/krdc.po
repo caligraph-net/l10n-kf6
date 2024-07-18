@@ -31,63 +31,63 @@ msgstr "teppi82@gmail.com"
 #: bookmarkmanager.cpp:43
 #, kde-format
 msgid "History"
-msgstr ""
+msgstr "Lịch sử"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_RememberSessions)
 #: config/general.ui:17
 #, kde-format
 msgid "Remember open sessions for next startup"
-msgstr ""
+msgstr "Ghi nhớ các phiên làm việc mở cho lần khởi động tiếp theo"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_RememberHistory)
 #: config/general.ui:24
 #, kde-format
 msgid "Remember connection history"
-msgstr ""
+msgstr "Ghi nhớ lịch sử kết nối"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_WalletSupport)
 #: config/general.ui:31
 #, kde-format
 msgid "Remember passwords (KWallet)"
-msgstr ""
+msgstr "Ghi nhớ mật khẩu (KWallet)"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_SystemTrayIcon)
 #: config/general.ui:38
 #, kde-format
 msgid "Enable system tray icon"
-msgstr ""
+msgstr "Bật biểu tượng khay hệ thống"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowStatusBar)
 #: config/general.ui:45
 #, kde-format
 msgid "Show status bar"
-msgstr ""
+msgstr "Hiển thị thanh trạng thái"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_KeepAspectRatio)
 #: config/general.ui:52
 #, kde-format
 msgid "Keep aspect ratio when scaling"
-msgstr ""
+msgstr "Giữ tỉ lệ khung khi đổi cỡ"
 
 #. i18n: ectx: property (text), widget (QLabel, backgroundLabel)
 #: config/general.ui:61
 #, kde-format
 msgid "Background color of empty place:"
-msgstr ""
+msgstr "Màu nền của vùng trống:"
 
 #. i18n: ectx: property (title), widget (QGroupBox, connectionGroupBox)
 #: config/general.ui:93
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connection"
 msgid "When Connecting"
-msgstr "Kết nối"
+msgstr "Khi kết nối"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowPreferencesForNewConnections)
 #: config/general.ui:99
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Do not &show the preferences dialog on new connections"
 msgid "Show the preferences dialog for new connections"
-msgstr "Không &hiển thị hộp thoại tuỳ chỉnh với các kết nối mới"
+msgstr "Hiển thị hộp thoại các thiết lập với các kết nối mới"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_ResizeOnConnect)
 #: config/general.ui:106
@@ -96,12 +96,14 @@ msgid ""
 "This option will resize the window to fit the connection size.  If it is too "
 "big, it will maximize the window."
 msgstr ""
+"Tùy chọn này sẽ thay đổi kích thước cửa sổ để phù hợp với kích thước kết "
+"nối. Nếu nó quá lớn, cửa sổ sẽ được phóng to tối đa."
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_ResizeOnConnect)
 #: config/general.ui:109
 #, kde-format
 msgid "Resize to fit"
-msgstr ""
+msgstr "Điều chỉnh kích thước để vừa"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_FullscreenOnConnect)
 #: config/general.ui:116
@@ -110,221 +112,225 @@ msgid ""
 "This option switches to fullscreen only if the connection resolution is the "
 "same as the current screen resolution"
 msgstr ""
+"Lựa chọn này chuyển sang chế độ toàn màn hình chỉ khi phân giải kết nối "
+"giống với phân giải màn hình hiện tại"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_FullscreenOnConnect)
 #: config/general.ui:119
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Start in fullscreen mode"
 msgid "Switch to Fullscreen if appropriate"
-msgstr "Phóng to hết cỡ ngay khi khởi động"
+msgstr "Chuyển sang chế độ toàn màn hình nếu thích hợp"
 
 #. i18n: ectx: property (text), widget (QLabel, defaultProtocolLabel)
 #: config/general.ui:128
 #, kde-format
 msgid "Default protocol:"
-msgstr ""
+msgstr "Giao thức mặc định:"
 
 #. i18n: ectx: property (text), widget (QLineEdit, kcfg_DefaultProtocol)
 #: config/general.ui:135
 #, kde-format
 msgid "vnc"
-msgstr ""
+msgstr "vnc"
 
 #. i18n: ectx: property (title), widget (QGroupBox, tabGroupBox)
 #: config/general.ui:147
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Settings"
 msgid "Tab Settings"
-msgstr "Thiết lập"
+msgstr "Thiết lập Thẻ"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowTabBar)
 #: config/general.ui:153
 #, kde-format
 msgid "Always show tab bar"
-msgstr ""
+msgstr "Luôn hiển thị thanh thẻ"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_TabCloseButton)
 #: config/general.ui:160
 #, kde-format
 msgid "Show close button on tabs"
-msgstr ""
+msgstr "Hiển thị nút đóng trên các tab"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_TabMiddleClick)
 #: config/general.ui:167
 #, kde-format
 msgid "Middle-click on a tab closes it"
-msgstr ""
+msgstr "Nhấp chuột giữa vào một thẻ sẽ đóng nó"
 
 #. i18n: ectx: property (text), widget (QLabel, tabOrientationLabel)
 #: config/general.ui:176
 #, kde-format
 msgid "Tab position:"
-msgstr ""
+msgstr "Vị trí thẻ:"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_TabPosition)
 #: config/general.ui:184
 #, kde-format
 msgid "Top"
-msgstr ""
+msgstr "Trên cùng"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_TabPosition)
 #: config/general.ui:189
 #, kde-format
 msgid "Bottom"
-msgstr ""
+msgstr "Dưới cùng"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_TabPosition)
 #: config/general.ui:194
 #, kde-format
 msgid "Left"
-msgstr ""
+msgstr "Trái"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_TabPosition)
 #: config/general.ui:199
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "High"
 msgid "Right"
-msgstr "Cao"
+msgstr "Phải"
 
 #: config/hostpreferenceslist.cpp:30
 #, kde-format
 msgid "Configure..."
-msgstr ""
+msgstr "Cấu hình..."
 
 #: config/hostpreferenceslist.cpp:36
 #, kde-format
 msgid "Remove"
-msgstr ""
+msgstr "Xoá"
 
 #: config/hostpreferenceslist.cpp:99 mainwindow.cpp:283 mainwindow.cpp:678
 #, kde-format
 msgid "Unusable URL"
-msgstr ""
+msgstr "URL không thể sử dụng"
 
 #: config/hostpreferenceslist.cpp:99 mainwindow.cpp:678
 #, kde-format
 msgid "The selected host cannot be handled."
-msgstr ""
+msgstr "Không thể xử lý máy đã chọn."
 
 #: config/preferencesdialog.cpp:24
 #, kde-format
 msgctxt "General Config"
 msgid "General"
-msgstr ""
+msgstr "chung"
 
 #: config/preferencesdialog.cpp:24
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Host Profiles"
 msgid "General Configuration"
-msgstr "&Xác lập cho máy"
+msgstr "Cấu hình chung"
 
 #: config/preferencesdialog.cpp:28
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Host"
 msgid "Hosts"
-msgstr "Máy"
+msgstr "Máy chủ"
 
 #: config/preferencesdialog.cpp:28 core/hostpreferences.cpp:175
 #: core/hostpreferences.cpp:179
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Host Profiles"
 msgid "Host Configuration"
-msgstr "&Xác lập cho máy"
+msgstr "Cấu hình Máy"
 
 #: config/preferencesdialog.cpp:33 config/preferencesdialog.cpp:34
 #, kde-format
 msgid "Plugins"
-msgstr ""
+msgstr "Phần bổ sung"
 
 #: config/preferencesdialog.cpp:34
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Host Profiles"
 msgid "Plugin Configuration"
-msgstr "&Xác lập cho máy"
+msgstr "Cấu hình phần cài cắm"
 
 #: connectiondelegate.cpp:33
 #, kde-format
 msgid "Less than a minute ago"
-msgstr ""
+msgstr "Chưa đến một phút trước"
 
 #: connectiondelegate.cpp:34
 #, kde-format
 msgid "A minute ago"
 msgid_plural "%1 minutes ago"
-msgstr[0] ""
+msgstr[0] "%1 phút trước"
 
 #: connectiondelegate.cpp:36
 #, kde-format
 msgid "An hour ago"
 msgid_plural "%1 hours ago"
-msgstr[0] ""
+msgstr[0] "%1 giờ trước"
 
 #: connectiondelegate.cpp:40
 #, kde-format
 msgid "Yesterday"
 msgid_plural "%1 days ago"
-msgstr[0] ""
+msgstr[0] "%1 ngày trước"
 
 #: connectiondelegate.cpp:42
 #, kde-format
 msgid "Over a month ago"
 msgid_plural "%1 months ago"
-msgstr[0] ""
+msgstr[0] "%1 tháng trước"
 
 #: connectiondelegate.cpp:43
 #, kde-format
 msgid "A year ago"
 msgid_plural "%1 years ago"
-msgstr[0] ""
+msgstr[0] "%1 năm trước"
 
 #: core/hostpreferences.cpp:182
 #, kde-format
 msgid ""
 "Note that settings might only apply when you connect next time to this host."
 msgstr ""
+"Lưu ý rằng các thiết lập có thể chỉ được áp dụng khi bạn kết nối lại với "
+"máy chủ này lần tiếp theo."
 
 #: core/hostpreferences.cpp:198
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Show this dialog again for this host"
 msgid "Show this dialog again for this host"
-msgstr "Sẽ &hiển thị lại hộp thoại khi kết nối tới máy này"
+msgstr "Hiển thị lại hộp thoại này khi kết nối tới máy này"
 
 #: core/hostpreferences.cpp:202
 #, kde-format
 msgid "Remember password (KWallet)"
-msgstr ""
+msgstr "Ghi nhớ mật khẩu (KWallet)"
 
 #. i18n: ectx: label, entry (OpenSessions), group (General)
 #: core/krdc.kcfg:16
 #, kde-format
 msgid "Sessions"
-msgstr ""
+msgstr "Phiên"
 
 #. i18n: ectx: Menu (session)
 #: krdcui.rc:8
 #, kde-format
 msgid "&Session"
-msgstr ""
+msgstr "&Phiên"
 
 #. i18n: ectx: ToolBar (krdc_remote_view_toolbar)
 #: krdcui.rc:22
 #, kde-format
 msgid "Remote View Toolbar"
-msgstr ""
+msgstr "Thanh công cụ Xem từ xa"
 
 #: main.cpp:31
 #, kde-format
 msgid "KRDC"
-msgstr ""
+msgstr "KRDC"
 
 #: main.cpp:31 systemtrayicon.cpp:24
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Remote Desktop Connection"
 msgid "KDE Remote Desktop Client"
-msgstr "Kết nối màn hình từ xa"
+msgstr "Trình khách Màn hình từ xa KDE"
 
 #: main.cpp:34
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "(c) 2001-2003, Tim Jansen(c) 2002-2003, Arend van Beelen jr.(c) "
 #| "2000-2002, Const Kaplinsky\n"
@@ -341,31 +347,30 @@ msgid ""
 "(c) 1999-2003, Matthew Chapman\n"
 "(c) 2009, Collabora Ltd"
 msgstr ""
-"© năm 2001-2003 của Tim Jansen(c) 2002-2003, Arend van Beelen jr.(c) "
-"2000-2002, Const Kaplinsky\n"
-"© năm 2000 của Tridia Corporation\n"
-"© năm 1999 của AT&T Laboratories Cambridge\n"
-"© năm 1999-2003 của Matthew Chapman\n"
+"© 2007-2016, Urs Wolfer\n© 2001-2003, &Tim Jansen\n© 2002-2003, Arend van "
+"Beelen jr.\n© 2000-2002, Const Kaplinsky\n© 2000, Tridia Corporation\n© "
+"1999, ATT Laboratories Boston\n© 1999-2003, Matthew Chapman\n© 2009, "
+"Collabora Ltd"
 
 #: main.cpp:43
 #, kde-format
 msgid "Urs Wolfer"
-msgstr ""
+msgstr "Urs Wolfer"
 
 #: main.cpp:43
 #, kde-format
 msgid "Developer, Maintainer"
-msgstr ""
+msgstr "Nhà phát triển, Bảo trì viên"
 
 #: main.cpp:44
 #, kde-format
 msgid "Tony Murray"
-msgstr ""
+msgstr "Tony Murray"
 
 #: main.cpp:44
 #, kde-format
 msgid "Developer"
-msgstr ""
+msgstr "nhà phát triển"
 
 #: main.cpp:45
 #, kde-format
@@ -375,7 +380,7 @@ msgstr "Tim Jansen"
 #: main.cpp:45
 #, kde-format
 msgid "Former Developer"
-msgstr ""
+msgstr "Nhà phát triển cũ"
 
 #: main.cpp:46
 #, kde-format
@@ -383,126 +388,128 @@ msgid "Arend van Beelen jr."
 msgstr "Arend van Beelen jr."
 
 #: main.cpp:46
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "RDP backend"
 msgid "Initial RDP backend"
-msgstr "Mặt sau RDP"
+msgstr "Hậu phương RDP ban đầu"
 
 #: main.cpp:47
 #, kde-format
 msgid "Brad Hards"
-msgstr ""
+msgstr "Brad Hards"
 
 #: main.cpp:47
 #, kde-format
 msgid "Google Summer of Code 2007 KRDC project mentor"
-msgstr ""
+msgstr "Người hướng dẫn dự án KRDC của Google Summer of Code 2007"
 
 #: main.cpp:48
 #, kde-format
 msgid "LibVNCServer / LibVNCClient developers"
-msgstr ""
+msgstr "Nhà phát triển LibVNCServer / LibVNCClient"
 
 #: main.cpp:49
 #, kde-format
 msgid "VNC client library"
-msgstr ""
+msgstr "Thư viện trình khách VNC"
 
 #: main.cpp:52
 #, kde-format
 msgid "Abner Silva"
-msgstr ""
+msgstr "Abner Silva"
 
 #: main.cpp:52
 #, kde-format
 msgid "Telepathy Tubes Integration"
-msgstr ""
+msgstr "Tích hợp Telepathy Tubes"
 
 #: main.cpp:63
 #, kde-format
 msgid ""
 "Start KRDC with the provided URL in fullscreen mode (works only with one URL)"
 msgstr ""
+"Khởi động KRDC với URL được cung cấp ở chế độ toàn màn hình (chỉ hoạt động "
+"với một URL)"
 
 #: main.cpp:64
 #, kde-format
 msgid "URLs to connect after startup"
-msgstr ""
+msgstr "Các URL để kết nối sau khi khởi động"
 
 #: mainwindow.cpp:124
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Remote Desktop Connection"
 msgid "KDE Remote Desktop Client started"
-msgstr "Kết nối màn hình từ xa"
+msgstr "Ứng dụng Trình khách Màn hình từ xa KDE đã khởi động"
 
 #: mainwindow.cpp:129 mainwindow.cpp:142 mainwindow.cpp:1083
 #: mainwindow.cpp:1178
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connection"
 msgid "New Connection"
-msgstr "Kết nối"
+msgstr "Kết nối mới"
 
 #: mainwindow.cpp:148
 #, kde-format
 msgid "Copy Screenshot to Clipboard"
-msgstr ""
+msgstr "Sao chép ảnh chụp màn hình vào bảng nháp"
 
 #: mainwindow.cpp:149
 #, kde-format
 msgid "Screenshot"
-msgstr ""
+msgstr "Chụp ảnh màn hình"
 
 #: mainwindow.cpp:155 mainwindow.cpp:501
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Start in fullscreen mode"
 msgid "Switch to Full Screen Mode"
-msgstr "Phóng to hết cỡ ngay khi khởi động"
+msgstr "Chuyển sang chế độ toàn màn hình"
 
 #: mainwindow.cpp:156 mainwindow.cpp:502
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Fullscreen"
 msgid "Full Screen"
-msgstr "To hết cỡ"
+msgstr "Toàn màn hình"
 
 #: mainwindow.cpp:163
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "View Only"
 msgid "View Only"
 msgstr "Chỉ xem"
 
 #: mainwindow.cpp:168
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connect"
 msgid "Disconnect"
-msgstr "Kết nối"
+msgstr "Ngắt kết nối"
 
 #: mainwindow.cpp:176
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Always Show Local Cursor"
 msgid "Show Local Cursor"
-msgstr "Luôn luôn hiển thị trỏ chuột của máy"
+msgstr "Hiển thị con trỏ cục bộ"
 
 #: mainwindow.cpp:177
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Always Show Local Cursor"
 msgid "Local Cursor"
-msgstr "Luôn luôn hiển thị trỏ chuột của máy"
+msgstr "Con trỏ cục bộ"
 
 #: mainwindow.cpp:183
 #, kde-format
 msgid "Grab All Possible Keys"
-msgstr ""
+msgstr "Lấy tất cả các phím có thể"
 
 #: mainwindow.cpp:184
 #, kde-format
 msgid "Grab Keys"
-msgstr ""
+msgstr "Bắt Phím"
 
 #: mainwindow.cpp:190
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "This option scales the remote screen to fit your window size."
 msgid "Scale Remote Screen to Fit Window Size"
-msgstr "Tuỳ chọn này co giãn màn hình ở xa cho phù hợp với kích thước cửa sổ."
+msgstr "Đổi cỡ màn hình ở xa để vừa với kích thước cửa sổ"
 
 #: mainwindow.cpp:191
 #, kde-format
@@ -512,77 +519,79 @@ msgstr "Co giãn"
 #: mainwindow.cpp:194
 #, kde-format
 msgid "Scaling Factor"
-msgstr ""
+msgstr "Hệ số Đổi Cỡ"
 
 #: mainwindow.cpp:205
 #, kde-format
 msgid "Bookmarks"
-msgstr ""
+msgstr "Dấu trang"
 
 #: mainwindow.cpp:262
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "The entered host does not have the required form."
 msgid ""
 "The entered address does not have the required form.\n"
 " Syntax: [username@]host[:port]"
-msgstr "Máy bạn nhập không có hình thức yêu cầu."
+msgstr ""
+"Địa chỉ đã nhập không có định dạng yêu cầu.\n Cú pháp: "
+"[tên_người_dùng@]máy_chủ[:cổng]"
 
 #: mainwindow.cpp:262
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Malformed URL or Host"
 msgid "Malformed URL"
-msgstr "URL hoặc Tên máy chưa đúng"
+msgstr "URL không đúng định dạng"
 
 #: mainwindow.cpp:283
 #, kde-format
 msgid "The entered address cannot be handled."
-msgstr ""
+msgstr "Địa chỉ đã nhập không thể được xử lý."
 
 #: mainwindow.cpp:418
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connection"
 msgid "Connecting to %1"
-msgstr "Kết nối"
+msgstr "Đang kết nối với %1"
 
 #: mainwindow.cpp:422
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Authenticating..."
 msgid "Authenticating at %1"
-msgstr "Đang kiểm tra tên và mật khẩu..."
+msgstr "Đang xác thực tại %1"
 
 #: mainwindow.cpp:426
 #, kde-format
 msgid "Preparing connection to %1"
-msgstr ""
+msgstr "Đang chuẩn bị kết nối đến %1"
 
 #: mainwindow.cpp:430
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connection"
 msgid "Connected to %1"
-msgstr "Kết nối"
+msgstr "Đã kết nối với %1"
 
 #: mainwindow.cpp:512
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Remote Desktop Connection"
 msgctxt ""
 "window title when in full screen mode (for example displayed in tasklist)"
 msgid "KDE Remote Desktop Client (Full Screen)"
-msgstr "Kết nối màn hình từ xa"
+msgstr "Trình khách Màn hình từ xa KDE (Toàn màn hình)"
 
 #: mainwindow.cpp:545
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Window Mode"
 msgid "Switch to Window Mode"
-msgstr "Chế độ cửa sổ"
+msgstr "Chuyển sang Chế độ Cửa sổ"
 
 #: mainwindow.cpp:546
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Window Mode"
 msgid "Window Mode"
 msgstr "Chế độ cửa sổ"
 
 #: mainwindow.cpp:697
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connection"
 msgid "Connect"
 msgstr "Kết nối"
@@ -590,10 +599,10 @@ msgstr "Kết nối"
 #: mainwindow.cpp:698
 #, kde-format
 msgid "Rename"
-msgstr ""
+msgstr "Đổi tên"
 
 #: mainwindow.cpp:699
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Settings"
 msgid "Settings"
 msgstr "Thiết lập"
@@ -601,81 +610,83 @@ msgstr "Thiết lập"
 #: mainwindow.cpp:700
 #, kde-format
 msgid "Delete"
-msgstr ""
+msgstr "Xóa"
 
 #: mainwindow.cpp:703 remotedesktopsmodel.cpp:108
 #, kde-format
 msgctxt "Where each displayed link comes from"
 msgid "Bookmarks"
-msgstr ""
+msgstr "Dấu trang"
 
 #: mainwindow.cpp:703 remotedesktopsmodel.cpp:110
 #, kde-format
 msgctxt "Where each displayed link comes from"
 msgid "History"
-msgstr ""
+msgstr "Lịch sử"
 
 #: mainwindow.cpp:715
 #, kde-format
 msgid "Rename %1"
-msgstr ""
+msgstr "Đổi tên %1"
 
 #: mainwindow.cpp:715
 #, kde-format
 msgid "Rename %1 to"
-msgstr ""
+msgstr "Đổi tên %1 thành"
 
 #: mainwindow.cpp:722
 #, kde-format
 msgid "Are you sure you want to delete %1?"
-msgstr ""
+msgstr "Bạn có chắc chắn muốn xóa %1?"
 
 #: mainwindow.cpp:722
 #, kde-format
 msgid "Delete %1"
-msgstr ""
+msgstr "Xóa %1"
 
 #: mainwindow.cpp:746
 #, kde-format
 msgid "Add Bookmark"
-msgstr ""
+msgstr "Thêm dấu nhớ"
 
 #: mainwindow.cpp:747
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Close"
 msgid "Close Tab"
-msgstr "Đóng"
+msgstr "Đóng Thẻ"
 
 #: mainwindow.cpp:851
 #, kde-format
 msgid "Minimize Full Screen Window"
-msgstr ""
+msgstr "Thu nhỏ Cửa sổ Toàn màn hình"
 
 #: mainwindow.cpp:867
 #, kde-format
 msgid "Stick Toolbar"
-msgstr ""
+msgstr "Thanh công cụ dính"
 
 #: mainwindow.cpp:976
 #, kde-format
 msgid "Are you sure you want to quit the KDE Remote Desktop Client?"
 msgstr ""
+"Bạn có chắc chắn muốn thoát khỏi Ứng dụng Truy cập Máy tính từ Xa của KDE "
+"không?"
 
 #: mainwindow.cpp:977
 #, kde-format
 msgid "Confirm Quit"
-msgstr ""
+msgstr "Xác nhận thoát"
 
 #: mainwindow.cpp:1106
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connect"
 msgid "Connect to:"
-msgstr "Kết nối"
+msgstr "Kết nối:"
 
 #: mainwindow.cpp:1110
 #, kde-format
 msgid "Type here to connect to an address and filter the list."
-msgstr ""
+msgstr "Nhập ở đây để kết nối với một địa chỉ và lọc danh sách."
 
 #: mainwindow.cpp:1119
 #, kde-format
@@ -683,73 +694,75 @@ msgid ""
 "Type an IP or DNS Name here. Clear the line to get a list of connection "
 "methods."
 msgstr ""
+"Nhập một địa chỉ IP hoặc tên miền ở đây. Xóa dòng để nhận danh sách các "
+"phương thức kết nối."
 
 #: mainwindow.cpp:1122
 #, kde-format
 msgid "Goto Address"
-msgstr ""
+msgstr "Đi đến địa chỉ"
 
 #: mainwindow.cpp:1214
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Remote &desktop:"
 msgid "Remote Desktops"
-msgstr "Màn hình ở xa:"
+msgstr "Màn hình ở xa"
 
 #: mainwindow.cpp:1243
 #, kde-format
 msgid "Filter"
-msgstr ""
+msgstr "Bộ lọc"
 
 #. i18n: ectx: property (text), widget (QLabel, resolutionLabel)
 #: rdp/rdppreferences.ui:30
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Custom (...)"
 msgid "Resolution"
-msgstr "Tự chọn (...)"
+msgstr "Phân giải"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_Acceleration)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_ColorDepth)
 #: rdp/rdppreferences.ui:53 rdp/rdppreferences.ui:348
 #, kde-format
 msgid "Use Best Available"
-msgstr ""
+msgstr "Sử dụng tốt nhất có thể"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_Acceleration)
 #: rdp/rdppreferences.ui:58
 #, kde-format
 msgid "Force H.264"
-msgstr ""
+msgstr "Buộc H.264"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_Acceleration)
 #: rdp/rdppreferences.ui:63
 #, kde-format
 msgid "Force RemoteFX"
-msgstr ""
+msgstr "Buộc RemoteFX"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_Acceleration)
 #: rdp/rdppreferences.ui:68
 #, kde-format
 msgid "Disable All Acceleration"
-msgstr ""
+msgstr "Tắt tất cả gia tốc"
 
 #. i18n: ectx: property (text), widget (QLabel, soundLabel)
 #: rdp/rdppreferences.ui:76
 #, kde-format
 msgctxt "label for soundsettings in preferences dialog"
 msgid "Sound:"
-msgstr ""
+msgstr "Âm thanh:"
 
 #. i18n: ectx: property (text), widget (QLabel, accelerationLabel)
 #: rdp/rdppreferences.ui:89
 #, kde-format
 msgid "Acceleration:"
-msgstr ""
+msgstr "Gia tốc:"
 
 #. i18n: ectx: property (text), widget (QLabel, TlsSecLevelLabel)
 #: rdp/rdppreferences.ui:99
 #, kde-format
 msgid "TLS security level:"
-msgstr ""
+msgstr "Cấp độ an ninh TLS:"
 
 #. i18n: ectx: property (whatsThis), widget (KComboBox, kcfg_KeyboardLayout)
 #: rdp/rdppreferences.ui:140
@@ -795,7 +808,7 @@ msgstr "Đức Thuỵ Sĩ (de-ch)"
 #: rdp/rdppreferences.ui:172
 #, kde-format
 msgid "American Dvorak (en-dv)"
-msgstr ""
+msgstr "Dvorak Mỹ (en-dv)"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_KeyboardLayout)
 #: rdp/rdppreferences.ui:177
@@ -829,10 +842,10 @@ msgstr "Phần Lan (fi)"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_KeyboardLayout)
 #: rdp/rdppreferences.ui:202
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "French (fr)"
 msgid "Faroese (fo)"
-msgstr "Pháp (fr)"
+msgstr "Faroese (fo)"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_KeyboardLayout)
 #: rdp/rdppreferences.ui:207
@@ -862,7 +875,7 @@ msgstr "Pháp Thuỵ Sĩ (fr-ch)"
 #: rdp/rdppreferences.ui:227
 #, kde-format
 msgid "Hebrew (he)"
-msgstr ""
+msgstr "Tiếng Do Thái (he)"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_KeyboardLayout)
 #: rdp/rdppreferences.ui:232
@@ -896,10 +909,10 @@ msgstr "Nhật Bản (ja)"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_KeyboardLayout)
 #: rdp/rdppreferences.ui:257
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Norwegian (no)"
 msgid "Korean (ko)"
-msgstr "Na Uy (no)"
+msgstr "Tiếng Hàn (ko)"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_KeyboardLayout)
 #: rdp/rdppreferences.ui:262
@@ -987,10 +1000,10 @@ msgstr "Thổ Nhĩ Kì (tr)"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_ColorDepth)
 #: rdp/rdppreferences.ui:353
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "True Color (24 Bit)"
 msgid "True Color with Alpha (32 Bit)"
-msgstr "Màu đúng (24 bit)"
+msgstr "Màu đúng với Alpha (32 bit)"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_ColorDepth)
 #: rdp/rdppreferences.ui:358
@@ -1014,61 +1027,61 @@ msgstr "Màu thấp (8 bit)"
 #: rdp/rdppreferences.ui:389
 #, kde-format
 msgid "On This Computer"
-msgstr ""
+msgstr "Trên máy tính này"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_Sound)
 #: rdp/rdppreferences.ui:394
 #, kde-format
 msgid "On Remote Computer"
-msgstr ""
+msgstr "Trên máy tính từ xa"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_Sound)
 #: rdp/rdppreferences.ui:399
 #, kde-format
 msgid "Disable Sound"
-msgstr ""
+msgstr "Tắt âm thanh"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_ScaleToSize)
 #: rdp/rdppreferences.ui:413
 #, kde-format
 msgid "Scale window contents to match resolution"
-msgstr ""
+msgstr "Đổi cỡ nội dung cửa sổ để khớp với phân giải"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_TlsSecLevel)
 #: rdp/rdppreferences.ui:436
 #, kde-format
 msgid "any"
-msgstr ""
+msgstr "bất kỳ"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_TlsSecLevel)
 #: rdp/rdppreferences.ui:441
 #, kde-format
 msgid "80 bit"
-msgstr ""
+msgstr "80 bit"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_TlsSecLevel)
 #: rdp/rdppreferences.ui:446
 #, kde-format
 msgid "112 bit"
-msgstr ""
+msgstr "112 bit"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_TlsSecLevel)
 #: rdp/rdppreferences.ui:451
 #, kde-format
 msgid "128 bit"
-msgstr ""
+msgstr "128 bit"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_TlsSecLevel)
 #: rdp/rdppreferences.ui:456
 #, kde-format
 msgid "192 bit"
-msgstr ""
+msgstr "192 bit"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_TlsSecLevel)
 #: rdp/rdppreferences.ui:461
 #, kde-format
 msgid "256 bit"
-msgstr ""
+msgstr "256 bit"
 
 #. i18n: ectx: property (text), widget (QLabel, layoutLabel)
 #: rdp/rdppreferences.ui:469
@@ -1114,7 +1127,7 @@ msgstr ""
 #: rdp/rdppreferences.ui:550
 #, kde-format
 msgid "Share Media:"
-msgstr ""
+msgstr "Chia sẻ phương tiện:"
 
 #. i18n: ectx: property (whatsThis), widget (KComboBox, kcfg_Resolution)
 #. i18n: ectx: property (whatsThis), widget (KComboBox, resolutionComboBox)
@@ -1129,128 +1142,128 @@ msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_Resolution)
 #: rdp/rdppreferences.ui:579
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Small (800x600)"
 msgid "Small (1280x720)"
-msgstr "Nhỏ (800x600)"
+msgstr "Nhỏ (1280x720)"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_Resolution)
 #: rdp/rdppreferences.ui:584
 #, kde-format
 msgid "Medium (1600x900)"
-msgstr ""
+msgstr "Trung bình (1600x900)"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_Resolution)
 #: rdp/rdppreferences.ui:589
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Large (1280x1024)"
 msgid "Large (1920x1080)"
-msgstr "Lớn (1280x1024)"
+msgstr "Lớn (1920x1080)"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_Resolution)
 #: rdp/rdppreferences.ui:594
 #, kde-format
 msgid "Current Window Size"
-msgstr ""
+msgstr "Kích thước cửa sổ hiện tại"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_Resolution)
 #. i18n: ectx: property (text), item, widget (KComboBox, resolutionComboBox)
 #: rdp/rdppreferences.ui:599 vnc/vncpreferences.ui:118
 #, kde-format
 msgid "Current Screen Resolution"
-msgstr ""
+msgstr "Phân giải Màn hình Hiện tại"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_Resolution)
 #. i18n: ectx: property (text), item, widget (KComboBox, resolutionComboBox)
 #: rdp/rdppreferences.ui:604 vnc/vncpreferences.ui:123
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Custom (...)"
 msgid "Custom Resolution (...)"
-msgstr "Tự chọn (...)"
+msgstr "Phân giải tùy chỉnh (...)"
 
 #. i18n: ectx: attribute (title), widget (QWidget, proxySettingsTab)
 #: rdp/rdppreferences.ui:616
 #, kde-format
 msgid "Proxy"
-msgstr ""
+msgstr "Uỷ nhiệm"
 
 #. i18n: ectx: property (text), widget (QLabel, protocolLabel)
 #: rdp/rdppreferences.ui:624
 #, kde-format
 msgid "Protocol:"
-msgstr ""
+msgstr "Giao thức:"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, kcfg_ProxyProtocol)
 #. i18n: ectx: property (text), item, widget (QComboBox, kcfg_GatewayTransportType)
 #: rdp/rdppreferences.ui:638 rdp/rdppreferences.ui:749
 #, kde-format
 msgid "HTTP"
-msgstr ""
+msgstr "HTTP"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, kcfg_ProxyProtocol)
 #: rdp/rdppreferences.ui:643
 #, kde-format
 msgid "SOCKS"
-msgstr ""
+msgstr "SOCKS"
 
 #. i18n: ectx: property (text), widget (QLabel, pPasswordLabel)
 #. i18n: ectx: property (text), widget (QLabel, gPasswordLabel)
 #: rdp/rdppreferences.ui:654 rdp/rdppreferences.ui:710
 #, kde-format
 msgid "Password:"
-msgstr ""
+msgstr "Mật khẩu:"
 
 #. i18n: ectx: property (text), widget (QLabel, pUsernameLabel)
 #. i18n: ectx: property (text), widget (QLabel, gUsernameLabel)
 #: rdp/rdppreferences.ui:664 rdp/rdppreferences.ui:703
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Enter special keys"
 msgid "Username:"
-msgstr "Nhập phím đặc biệt."
+msgstr "Tên người dùng:"
 
 #. i18n: ectx: property (text), widget (QLabel, pHostLabel)
 #. i18n: ectx: property (text), widget (QLabel, gServerLabel)
 #: rdp/rdppreferences.ui:671 rdp/rdppreferences.ui:696
 #, kde-format
 msgid "Server:"
-msgstr ""
+msgstr "Máy chủ:"
 
 #. i18n: ectx: property (placeholderText), widget (KLineEdit, kcfg_ProxyHost)
 #. i18n: ectx: property (placeholderText), widget (KLineEdit, kcfg_GatewayServer)
 #: rdp/rdppreferences.ui:678 rdp/rdppreferences.ui:717
 #, kde-format
 msgid "host:port"
-msgstr ""
+msgstr "máy chủ:cổng"
 
 #. i18n: ectx: attribute (title), widget (QWidget, gatewaySettingsTab)
 #: rdp/rdppreferences.ui:688
 #, kde-format
 msgid "Gateway"
-msgstr ""
+msgstr "Cổng"
 
 #. i18n: ectx: property (text), widget (QLabel, gTransportTypeLabel)
 #: rdp/rdppreferences.ui:730
 #, kde-format
 msgid "Transport type:"
-msgstr ""
+msgstr "Loại giao thức:"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, kcfg_GatewayTransportType)
 #: rdp/rdppreferences.ui:744
 #, kde-format
 msgid "Auto"
-msgstr ""
+msgstr "Tự động"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, kcfg_GatewayTransportType)
 #: rdp/rdppreferences.ui:754
 #, kde-format
 msgid "RPC"
-msgstr ""
+msgstr "RPC"
 
 #. i18n: ectx: property (text), widget (QLabel, gDomainLabel)
 #: rdp/rdppreferences.ui:762
 #, kde-format
 msgid "Domain:"
-msgstr ""
+msgstr "Miền:"
 
 #. i18n: ectx: property (text), widget (QLabel, colorDepthLabel)
 #: rdp/rdppreferences.ui:778
@@ -1262,13 +1275,13 @@ msgstr "Độ &sâu màu :"
 #: rdp/rdppreferences.ui:791
 #, kde-format
 msgid "Advanced Network Settings"
-msgstr ""
+msgstr "Thiết lập Nâng cao Mạng"
 
 #: rdp/rdpsession.cpp:164
 #, kde-format
 msgctxt "@title:dialog"
 msgid "Logon Error"
-msgstr ""
+msgstr "Lỗi đăng nhập"
 
 #: rdp/rdpsession.cpp:223
 #, kde-format
@@ -1280,50 +1293,52 @@ msgid ""
 "Issuer: %5\n"
 "Fingerprint: %6\n"
 msgstr ""
+"Máy chủ: %1:%2\nTên thông thường: %3\nChủ thể: %4\nNhà phát hành: %5\nVân "
+"tay: %6\n"
 
 #: rdp/rdpsession.cpp:711
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Access to the system requires a password."
 msgctxt "@label"
 msgid "Access to this system requires a password."
-msgstr "Cần mật khẩu để truy cập tới hệ thống."
+msgstr "Truy cập vào hệ thống này yêu cầu mật khẩu."
 
 #: rdp/rdpsession.cpp:714
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Access to the system requires a password."
 msgctxt "@label"
 msgid "Access to this system requires a username and password."
-msgstr "Cần mật khẩu để truy cập tới hệ thống."
+msgstr "Truy cập vào hệ thống này yêu cầu tên người dùng và mật khẩu."
 
 #: rdp/rdpsession.cpp:736
 #, kde-format
 msgctxt "@label"
 msgid "The certificate for this system is unknown. Do you wish to continue?"
-msgstr ""
+msgstr "Chứng chỉ của hệ thống này không được biết đến. Bạn có muốn tiếp tục không?"
 
 #: rdp/rdpsession.cpp:737
 #, kde-format
 msgctxt "@title:dialog"
 msgid "Verify Certificate"
-msgstr ""
+msgstr "Xác minh Chứng chỉ"
 
 #: rdp/rdpsession.cpp:742 rdp/rdpsession.cpp:765
 #, kde-format
 msgctxt "@label"
 msgid "Remember this certificate"
-msgstr ""
+msgstr "Ghi nhớ chứng chỉ này"
 
 #: rdp/rdpsession.cpp:759
 #, kde-format
 msgctxt "@label"
 msgid "The certificate for this system has changed. Do you wish to continue?"
-msgstr ""
+msgstr "Chứng chỉ của hệ thống này đã thay đổi. Bạn có muốn tiếp tục không?"
 
 #: rdp/rdpsession.cpp:760
 #, kde-format
 msgctxt "@title:dialog"
 msgid "Certificate has Changed"
-msgstr ""
+msgstr "Chứng chỉ đã thay đổi"
 
 #: rdp/rdpsession.cpp:763
 #, kde-format
@@ -1333,14 +1348,14 @@ msgid ""
 "%1\n"
 "New Certificate:\n"
 "%2"
-msgstr ""
+msgstr "Chứng chỉ trước:\n%1\nChứng chỉ mới:\n%2"
 
 #: rdp/rdpview.cpp:175
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connection Failure"
 msgctxt "@title:dialog"
 msgid "Login Failure"
-msgstr "Lỗi kết nối"
+msgstr "Lỗi đăng nhập"
 
 #: rdp/rdpview.cpp:176
 #, kde-format
@@ -1349,12 +1364,14 @@ msgid ""
 "Unable to login with the provided credentials. Please double check the user "
 "and password."
 msgstr ""
+"Không thể đăng nhập với thông tin đăng nhập được cung cấp. Vui lòng kiểm "
+"tra lại tên người dùng và mật khẩu."
 
 #: rdp/rdpview.cpp:185
 #, kde-format
 msgctxt "@title:dialog"
 msgid "Account Problems"
-msgstr ""
+msgstr "Vấn đề tài khoản"
 
 #: rdp/rdpview.cpp:186
 #, kde-format
@@ -1363,12 +1380,14 @@ msgid ""
 "The provided account is not allowed to log in to this machine. Please "
 "contact your system administrator."
 msgstr ""
+"Tài khoản được cung cấp không được phép đăng nhập vào máy này. Vui lòng "
+"liên hệ với quản trị viên hệ thống của bạn."
 
 #: rdp/rdpview.cpp:191
 #, kde-format
 msgctxt "@title:dialog"
 msgid "Password Problems"
-msgstr ""
+msgstr "Vấn đề mật khẩu"
 
 #: rdp/rdpview.cpp:192
 #, kde-format
@@ -1377,94 +1396,96 @@ msgid ""
 "Unable to login with the provided password. Please contact your system "
 "administrator to change it."
 msgstr ""
+"Không thể đăng nhập với mật khẩu được cung cấp. Vui lòng liên hệ với quản "
+"trị viên hệ thống để thay đổi mật khẩu."
 
 #: rdp/rdpview.cpp:195
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connection"
 msgctxt "@title:dialog"
 msgid "Connection Lost"
-msgstr "Kết nối"
+msgstr "Mất kết nối"
 
 #: rdp/rdpview.cpp:196
 #, kde-format
 msgctxt "@label"
 msgid "Lost connection to the server."
-msgstr ""
+msgstr "Mất kết nối với máy chủ."
 
 #: rdp/rdpview.cpp:200
 #, kde-format
 msgctxt "@title:dialog"
 msgid "Server not Found"
-msgstr ""
+msgstr "Không tìm thấy máy chủ"
 
 #: rdp/rdpview.cpp:201
 #, kde-format
 msgctxt "@label"
 msgid "Could not find the server."
-msgstr ""
+msgstr "Không thể tìm thấy máy chủ."
 
 #: rdp/rdpview.cpp:204
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connection Failure"
 msgctxt "@title:dialog"
 msgid "Connection Refused"
-msgstr "Lỗi kết nối"
+msgstr "Kết nối bị từ chối"
 
 #: rdp/rdpview.cpp:205
 #, kde-format
 msgctxt "@label"
 msgid "The server refused the connection request."
-msgstr ""
+msgstr "Máy chủ đã từ chối yêu cầu kết nối."
 
 #: rdp/rdpview.cpp:210
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Remote desktop connection"
 msgctxt "@title:dialog"
 msgid "Could not Connect"
-msgstr "Kết nối màn hình từ xa"
+msgstr "Không thể kết nối"
 
 #: rdp/rdpview.cpp:211
 #, kde-format
 msgctxt "@label"
 msgid "Could not connect to the server."
-msgstr ""
+msgstr "Không thể kết nối với máy chủ."
 
 #: rdp/rdpview.cpp:221 rdp/rdpview.cpp:225
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connection Failure"
 msgctxt "@title:dialog"
 msgid "Connection Closed"
-msgstr "Lỗi kết nối"
+msgstr "Kết nối đã đóng"
 
 #: rdp/rdpview.cpp:226
 #, kde-format
 msgctxt "@label"
 msgid "The connection to the server was closed."
-msgstr ""
+msgstr "Kết nối với máy chủ đã bị đóng."
 
 #: rdp/rdpview.cpp:230
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connection Failure"
 msgctxt "@title:dialog"
 msgid "Connection Failed"
-msgstr "Lỗi kết nối"
+msgstr "Kết nối không thành công"
 
 #: rdp/rdpview.cpp:231
 #, kde-format
 msgctxt "@label"
 msgid "An unknown error occurred"
-msgstr ""
+msgstr "Đã xảy ra lỗi không rõ"
 
 #: rdp/rdpviewfactory.cpp:22
 #, kde-format
 msgid "Connect to a Windows Remote Desktop (RDP)"
-msgstr ""
+msgstr "Kết nối với Máy tính từ xa Windows (RDP)"
 
 #: rdp/rdpviewfactory.cpp:51
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connection"
 msgid "New RDP Connection..."
-msgstr "Kết nối"
+msgstr "Kết nối RDP mới..."
 
 #: rdp/rdpviewfactory.cpp:62
 #, kde-format
@@ -1472,45 +1493,47 @@ msgid ""
 "<html>Enter the address here. Port is optional.<br /><i>Example: "
 "rdpserver:3389 (host:port)</i></html>"
 msgstr ""
+"<html>Nhập địa chỉ vào đây. Cổng là tùy chọn.<br /><i>Ví dụ: rdpserver:3389 "
+"(máy chủ:cổng)</i></html>"
 
 #: remotedesktopsmodel.cpp:112
 #, kde-format
 msgctxt "Where each displayed link comes from"
 msgid "Zeroconf"
-msgstr ""
+msgstr "Zeroconf"
 
 #: remotedesktopsmodel.cpp:114
 #, kde-format
 msgctxt "Where each displayed link comes from"
 msgid "None"
-msgstr ""
+msgstr "Không có"
 
 #: remotedesktopsmodel.cpp:130
 #, kde-format
 msgctxt "Remove the selected url from the bookarks menu"
 msgid "Remove the bookmark for %1."
-msgstr ""
+msgstr "Xoá dấu nhớ cho %1."
 
 #: remotedesktopsmodel.cpp:132
 #, kde-format
 msgctxt "Add the selected url to the bookmarks menu"
 msgid "Bookmark %1."
-msgstr ""
+msgstr "Đánh dấu %1."
 
 #: remotedesktopsmodel.cpp:170
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Remote &desktop:"
 msgctxt "Header of the connections list, title/url for remote connection"
 msgid "Remote Desktop"
-msgstr "Màn hình ở xa:"
+msgstr "Màn hình ở xa"
 
 #: remotedesktopsmodel.cpp:172
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connection"
 msgctxt ""
 "Header of the connections list, the last time this connection was initiated"
 msgid "Last Connected"
-msgstr "Kết nối"
+msgstr "Lần kết nối gần đây"
 
 #: remotedesktopsmodel.cpp:174
 #, kde-format
@@ -1518,71 +1541,71 @@ msgctxt ""
 "Header of the connections list, the number of times this connection has been "
 "visited"
 msgid "Visits"
-msgstr ""
+msgstr "Lượt truy cập"
 
 #: remotedesktopsmodel.cpp:176
 #, kde-format
 msgctxt "Header of the connections list, the time when this entry was created"
 msgid "Created"
-msgstr ""
+msgstr "Đã tạo"
 
 #: remotedesktopsmodel.cpp:178
 #, kde-format
 msgctxt "Header of the connections list, where this entry comes from"
 msgid "Source"
-msgstr ""
+msgstr "Nguồn"
 
 #: vnc/vncclientthread.cpp:300
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Authentication Failure"
 msgid "VNC authentication type is not supported."
-msgstr "Lỗi kiểm tra tên người dùng và mật khẩu."
+msgstr "Kiểu xác thực VNC không được hỗ trợ."
 
 #: vnc/vncclientthread.cpp:317
 #, kde-format
 msgid "Server not found."
-msgstr ""
+msgstr "Không tìm thấy máy chủ."
 
 #: vnc/vncclientthread.cpp:334 vnc/vncclientthread.cpp:412
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Authentication Failure"
 msgid "VNC authentication failed."
-msgstr "Lỗi kiểm tra tên người dùng và mật khẩu."
+msgstr "Xác thực VNC không thành công."
 
 #: vnc/vncclientthread.cpp:339
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Authentication failed. Connection aborted."
 msgid "VNC authentication failed because of too many authentication tries."
-msgstr "Lỗi kiểm tra tên người dùng và mật khẩu. Kết nối bị ngắt."
+msgstr "Xác thực VNC thất bại do quá nhiều lần thử xác thực."
 
 #: vnc/vncclientthread.cpp:343
 #, kde-format
 msgid "VNC server closed connection."
-msgstr ""
+msgstr "Máy chủ VNC đã đóng kết nối."
 
 #: vnc/vncclientthread.cpp:351 vnc/vncclientthread.cpp:353
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connect"
 msgid "Disconnected: %1."
-msgstr "Kết nối"
+msgstr "Đã ngắt kết nối: %1."
 
 #: vnc/vncclientthread.cpp:553
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connection"
 msgid "Reconnecting."
-msgstr "Kết nối"
+msgstr "Đang kết nối lại."
 
 #: vnc/vncclientthread.cpp:618
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connect"
 msgid "Reconnected."
-msgstr "Kết nối"
+msgstr "Đã kết nối lại."
 
 #: vnc/vncclientthread.cpp:620
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connection"
 msgid "Connected."
-msgstr "Kết nối"
+msgstr "Đã kết nối."
 
 #. i18n: ectx: property (title), widget (QGroupBox, vncGroupBox)
 #: vnc/vncpreferences.ui:17
@@ -1592,10 +1615,10 @@ msgstr "Kết nối"
 
 #. i18n: ectx: property (text), widget (QLabel, connectionLabel)
 #: vnc/vncpreferences.ui:23
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connection &type:"
 msgid "Connection &type:"
-msgstr "Kiểu kết &nối:"
+msgstr "Kiểu kế&t nối:"
 
 #. i18n: ectx: property (whatsThis), widget (KComboBox, kcfg_Quality)
 #: vnc/vncpreferences.ui:39
@@ -1636,10 +1659,10 @@ msgstr "Chất lượng thấp (Môđem, ISDN, Internet chậm)"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_Scaling)
 #: vnc/vncpreferences.ui:63
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Scale view"
 msgid "Scale to Size:"
-msgstr "Thay đổi tỉ lệ"
+msgstr "Đổi cỡ:"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, resolutionComboBox)
 #: vnc/vncpreferences.ui:93
@@ -1675,38 +1698,40 @@ msgstr "Rất lớn (1600x1200)"
 #: vnc/vncpreferences.ui:204
 #, kde-format
 msgid "Connect via SSH tunnel"
-msgstr ""
+msgstr "Kết nối qua đường hầm SSH"
 
 #. i18n: ectx: property (title), widget (QGroupBox, ssh_groupBox)
 #: vnc/vncpreferences.ui:211
 #, kde-format
 msgid "SSH tunnel options"
-msgstr ""
+msgstr "Tùy chọn đường hầm SSH"
 
 #. i18n: ectx: property (text), widget (QCheckBox, use_loopback)
 #: vnc/vncpreferences.ui:217
 #, kde-format
 msgid "Tunnel via loopback address"
-msgstr ""
+msgstr "Tunnel thông qua địa chỉ loopback"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: vnc/vncpreferences.ui:224
 #, kde-format
 msgid "Port:"
-msgstr ""
+msgstr "Cổng:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: vnc/vncpreferences.ui:244
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Enter special keys"
 msgid "User name:"
-msgstr "Nhập phím đặc biệt."
+msgstr "Tên người dùng:"
 
 #. i18n: ectx: property (text), widget (QCheckBox, dont_copy_passwords)
 #: vnc/vncpreferences.ui:257
 #, kde-format
 msgid "Don't copy passwords from supported password managers to remote hosts"
 msgstr ""
+"Không sao chép mật khẩu từ các trình quản lý mật khẩu được hỗ trợ sang máy "
+"chủ từ xa"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, dont_copy_passwords)
 #: vnc/vncpreferences.ui:260
@@ -1716,24 +1741,27 @@ msgid ""
 "additional MIME type \"x-kde-passwordManagerHint\" which is used for "
 "filtering."
 msgstr ""
+"Các trình quản lý mật khẩu được hỗ trợ (như KeePassXC) đánh dấu mật khẩu đã "
+"sao chép bằng một loại MIME bổ sung \"x-kde-passwordManagerHint\" được sử "
+"dụng để lọc."
 
 #: vnc/vncsshtunnelthread.cpp:99
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connection"
 msgid "Error connecting to %1: %2"
-msgstr "Kết nối"
+msgstr "Lỗi kết nối với %1: %2"
 
 #: vnc/vncsshtunnelthread.cpp:124
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Authenticating..."
 msgid "Error authenticating with password: %1"
-msgstr "Đang kiểm tra tên và mật khẩu..."
+msgstr "Lỗi xác thực với mật khẩu: %1"
 
 #: vnc/vncsshtunnelthread.cpp:130 vnc/vncsshtunnelthread.cpp:148
 #: vnc/vncsshtunnelthread.cpp:155 vnc/vncsshtunnelthread.cpp:163
 #, kde-format
 msgid "Error creating tunnel socket"
-msgstr ""
+msgstr "Lỗi khi tạo ổ cắm đường hầm"
 
 #: vnc/vncview.cpp:328
 #, kde-format
@@ -1741,37 +1769,37 @@ msgid "Access to the system requires a password."
 msgstr "Cần mật khẩu để truy cập tới hệ thống."
 
 #: vnc/vncview.cpp:328
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Authentication Failure"
 msgid "Authentication failed. Please try again."
-msgstr "Lỗi kiểm tra tên người dùng và mật khẩu."
+msgstr "Xác thực không thành công. Vui lòng thử lại."
 
 #: vnc/vncview.cpp:358
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Please enter the password."
 msgid "Please enter the SSH password."
-msgstr "Hãy nhập mật khẩu."
+msgstr "Vui lòng nhập mật khẩu SSH."
 
 #: vnc/vncview.cpp:383 vnc/vncview.cpp:385
 #, kde-format
 msgid "VNC failure"
-msgstr ""
+msgstr "Lỗi VNC"
 
 #: vnc/vncview.cpp:394 vnc/vncview.cpp:396
 #, kde-format
 msgid "SSH Tunnel failure"
-msgstr ""
+msgstr "Lỗi Đường Hầm SSH"
 
 #: vnc/vncviewfactory.cpp:47
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connection"
 msgid "New VNC Connection..."
-msgstr "Kết nối"
+msgstr "Kết nối VNC mới..."
 
 #: vnc/vncviewfactory.cpp:52
 #, kde-format
 msgid "Connect to a VNC Remote Desktop"
-msgstr ""
+msgstr "Kết nối với Máy tính từ xa VNC"
 
 #: vnc/vncviewfactory.cpp:58
 #, kde-format
@@ -1779,6 +1807,8 @@ msgid ""
 "<html>Enter the address here.<br /><i>Example: vncserver:1 (host:port / "
 "screen)</i></html>"
 msgstr ""
+"<html>Nhập địa chỉ vào đây.<br /><i>Ví dụ: vncserver:1 (máy chủ:cổng / màn "
+"hình)</i></html>"
 
 #~ msgid "Desktop &resolution:"
 #~ msgstr "Độ phân &giải:"

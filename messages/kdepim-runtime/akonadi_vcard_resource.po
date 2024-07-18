@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdepim-runtime package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdepim-runtime\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-02-29 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: vcardconfig.cpp:16
+#, kde-format
+msgctxt "Filedialog filter for *.vcf"
+msgid "vCard Address Book File"
+msgstr "Tệp Sổ Địa Chỉ vCard"
+
+#: vcardresource.cpp:71
+#, kde-format
+msgid "Contact with uid '%1' not found."
+msgstr "Không tìm thấy liên hệ có uid '%1'."
+
+#: vcardresource.cpp:168 vcardresource.cpp:188
+#, kde-format
+msgid "Unable to open vCard file '%1'."
+msgstr "Không thể mở tệp vCard '%1'."
+
+#. i18n: ectx: label, entry (Path), group (General)
+#: vcardresource.kcfg:10
+#, kde-format
+msgid "Path to vCard file."
+msgstr "Đường dẫn đến tệp vCard."
+
+#. i18n: ectx: label, entry (DisplayName), group (General)
+#: vcardresource.kcfg:14
+#, kde-format
+msgid "Display name."
+msgstr "Tên hiển thị."
+
+#. i18n: ectx: label, entry (ReadOnly), group (General)
+#: vcardresource.kcfg:18
+#, kde-format
+msgid "Do not change the actual backend data."
+msgstr "Không thay đổi dữ liệu hậu phương thực tế."
+
+#. i18n: ectx: label, entry (MonitorFile), group (General)
+#: vcardresource.kcfg:22
+#, kde-format
+msgid "Monitor file for changes."
+msgstr "Theo dõi tệp để phát hiện thay đổi."
+
+#. i18n: ectx: label, entry (PeriodicUpdate), group (General)
+#: vcardresource.kcfg:26
+#, kde-format
+msgid "Periodically update the file."
+msgstr "Định kỳ cập nhật tệp."
+
+#. i18n: ectx: label, entry (UpdatePeriod), group (General)
+#: vcardresource.kcfg:30
+#, kde-format
+msgid "Automatic update period in minutes."
+msgstr "Khoảng thời gian cập nhật tự động tính bằng phút."

@@ -1,0 +1,4498 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kgpg package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kgpg\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-03-09 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: adduid.ui:17
+#, kde-format
+msgid "Name (minimum 5 characters):"
+msgstr "Tên (tối thiểu 5 ký tự):"
+
+#. i18n: ectx: property (text), widget (QLabel, label_EmailSorting)
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: adduid.ui:30 conf_ui2.ui:242 newkey.ui:68
+#, kde-format
+msgid "Email:"
+msgstr "Email:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: adduid.ui:43
+#, kde-format
+msgid "Comment (optional):"
+msgstr "Chú thích (tùy chọn):"
+
+#: caff.cpp:84
+#, kde-format
+msgid ""
+"This function is not available on this system. The symbolic link to the "
+"private GnuPG keys cannot be created."
+msgstr ""
+"Chức năng này không hiện có trên hệ thống này. Không thể tạo liên kết tượng "
+"trưng đến các khóa GnuPG riêng tư."
+
+#: caff.cpp:155 caff.cpp:173
+#, kde-format
+msgctxt "%1 is the key id, %2 is the name and comment of the key or uid"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: caff.cpp:158 caff.cpp:176
+#, kde-format
+msgctxt ""
+"%1 is the key id, %2 is the name and comment of the key or uid, %3 is the "
+"email address of the uid"
+msgid "%1: %2 &lt;%3&gt;"
+msgstr "%1: %2 &&lt;%3&gt;"
+
+#: caff.cpp:161
+#, kde-format
+msgid ""
+"No mail was sent for the following user id because it belongs to a key "
+"without encryption capability:"
+msgid_plural ""
+"No mail was sent for the following user ids because they belong to keys "
+"without encryption capability:"
+msgstr[0] ""
+"Không có thư nào được gửi cho các ID người dùng sau đây vì chúng thuộc về "
+"các khoá không có khả năng mật mã hoá:"
+
+#: caff.cpp:179
+#, kde-format
+msgid ""
+"No mail was sent for the following user id because it was already signed:"
+msgid_plural ""
+"No mail was sent for the following user ids because they were already signed:"
+msgstr[0] "Không có email nào được gửi cho các ID người dùng sau đây vì họ đã đăng ký:"
+
+#: caff.cpp:312
+#, kde-format
+msgctxt "Email template placeholder for key id"
+msgid "KEYID"
+msgstr "KEYID"
+
+#: caff.cpp:313
+#, kde-format
+msgctxt "Email template placeholder for key id"
+msgid "UIDNAME"
+msgstr "UIDNAME"
+
+#: caff.cpp:346
+#, kde-format
+msgctxt "%1 is 64 bit key id (in hex), text is used as email subject"
+msgid "Your key %1"
+msgstr "Khóa %1 của bạn"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, textLabel1_4_2)
+#: conf_decryption.ui:52
+#, kde-format
+msgid ""
+"<qt><b>Custom Decryption Command:</b><br />\n"
+"<p>This option allows the user to specify a custom command to be executed by "
+"GPG when decryption occurs. (This is recommended for advanced users only).</"
+"p></qt>"
+msgstr ""
+"<qt><b>Lệnh giải mật mã tùy chỉnh:</b><br />\n<p>Tùy chọn này cho phép "
+"người dùng chỉ định một lệnh tùy chỉnh được thực thi bởi GPG khi quá trình "
+"giải mật mã diễn ra. (Điều này chỉ được khuyến nghị cho người dùng nâng "
+"cao).</p></qt>"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_4_2)
+#: conf_decryption.ui:55
+#, kde-format
+msgid "Custom decryption command:"
+msgstr "Lệnh giải mật tùy chỉnh:"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, Encryption)
+#. i18n: ectx: property (text), widget (QCheckBox, capEncrypt)
+#: conf_encryption.ui:15 kgpgkeygenerate.ui:205 kgpgoptions.cpp:106
+#, kde-format
+msgid "Encryption"
+msgstr "Mật mã hoá"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_AsciiArmor)
+#: conf_encryption.ui:31
+#, kde-format
+msgid ""
+"<qt><b>ASCII armored encryption:</b> <br /> \n"
+"<p>Checking this option outputs all encrypted files in a format that can be "
+"opened by a text editor and as such the output is suitable for placing in "
+"the body of an e-mail message.</p></qt>"
+msgstr ""
+"<qt><b>Mã hoá ASCII armored:</b> <br /> \n<p>Đánh dấu lựa chọn này sẽ xuất "
+"tất cả các tệp đã mật mã hoá ở một định dạng có thể mở được bằng trình biên "
+"tập văn bản và do đó phù hợp để đặt trong nội dung của một thư điện "
+"tử.</p></qt>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AsciiArmor)
+#: conf_encryption.ui:34 selectpublickeydialog.cpp:104
+#, kde-format
+msgid "ASCII armored encryption"
+msgstr "Mật mã hoá dạng ASCII"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_PgpExtension)
+#: conf_encryption.ui:42
+#, kde-format
+msgid ""
+"<qt><b>Use *.pgp extension for encrypted files:</b><br />\n"
+"<p>Checking this option will append a .pgp extension to all encrypted files "
+"instead of a .gpg extension. This option will maintain compatibility with "
+"users of PGP (Pretty Good Privacy) software.</p></qt>"
+msgstr ""
+"<qt><b>Sử dụng phần mở rộng *.pgp cho các tệp mật mã hoá:</b><br "
+"/>\n<p>Chọn lựa chọn này sẽ thêm phần mở rộng .pgp vào tất cả các tệp mật "
+"mã hoá thay vì phần mở rộng .gpg. Lựa chọn này sẽ bảo trì tính tương thích "
+"với người dùng phần mềm PGP (Pretty Good Privacy).</p></qt>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_PgpExtension)
+#: conf_encryption.ui:45
+#, kde-format
+msgid "Use *.pgp extension for encrypted files"
+msgstr "Sử dụng phần mở rộng *.pgp cho các tệp được mật mã hoá"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_AllowCustomEncryptionOptions)
+#: conf_encryption.ui:69
+#, kde-format
+msgid ""
+"<qt><b>Custom encryption command:</b><br />\n"
+"<p>When activated, an entry field will be shown in the key selection dialog, "
+"enabling you to enter a custom command for encryption. This option is "
+"recommended for experienced users only.</p></qt>"
+msgstr ""
+"<qt><b>Lệnh mật mã hoá tùy chỉnh:</b><br />\n<p>Khi được kích hoạt, một "
+"trường nhập liệu sẽ hiển thị trong hộp thoại chọn khóa, cho phép bạn nhập "
+"một lệnh mật mã hoá tùy chỉnh. Lựa chọn này chỉ được khuyến nghị cho người "
+"dùng có kinh nghiệm.</p></qt>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AllowCustomEncryptionOptions)
+#: conf_encryption.ui:72
+#, kde-format
+msgid "Custom encryption command:"
+msgstr "Lệnh mã hoá tùy chỉnh:"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, encrypt_to_always)
+#: conf_encryption.ui:113
+#, kde-format
+msgid ""
+"<qt><b>Always encrypt with:</b><br />\n"
+"<p>This ensures all files/messages will also be encrypted with the chosen "
+"key. However, if the \"Encrypt files with:\" option is selected that chosen "
+"key will override the \"Always encrypt with:\" selection.</p></qt>"
+msgstr ""
+"<qt><b>Luôn mật mã hoá với:</b><br />\n<p>Điều này đảm bảo tất cả tệp/tin "
+"nhắn cũng sẽ được mật mã hoá với khoá đã chọn. Tuy nhiên, nếu lựa chọn "
+"\"Mật mã hoá tệp với:\" được chọn, khoá đó sẽ vượt hiệu lực lựa chọn \"Luôn "
+"mật mã hoá với:\".</p></qt>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, encrypt_to_always)
+#: conf_encryption.ui:116
+#, kde-format
+msgid "Always encrypt with:"
+msgstr "Luôn mật mã hoá với:"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_EncryptFilesTo)
+#: conf_encryption.ui:124
+#, kde-format
+msgid ""
+"<qt><b>Encrypt files with:</b><br />\n"
+"<p>Checking this option and selecting a key will force any file encryption "
+"operation to use the selected key. KGpg will not query for a recipient and "
+"the default key will be bypassed.</p></qt>"
+msgstr ""
+"<qt><b>Mật mã hoá tệp với:</b><br />\n<p>Đánh dấu lựa chọn này và chọn một "
+"khoá sẽ buộc bất kỳ thao tác mật mã hoá tệp nào sử dụng khoá đã chọn. KGpg "
+"sẽ không hỏi về người nhận và khoá mặc định sẽ bị bỏ qua.</p></qt>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_EncryptFilesTo)
+#: conf_encryption.ui:127
+#, kde-format
+msgid "Encrypt files with:"
+msgstr "Mật mã hoá tệp với:"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_AllowUntrustedKeys)
+#: conf_encryption.ui:135
+#, kde-format
+msgid ""
+"<qt><b>Allow encryption with untrusted keys:</b><br />\n"
+"<p>When importing a public key, the key is usually marked as untrusted and "
+"as such cannot be used unless it is signed by the default key (thus making "
+"it 'trusted'). Checking this box enables any key to be used even if it is "
+"untrusted.</p></qt>"
+msgstr ""
+"<qt><b>Cho phép mật mã hoá với các khoá không đáng tin cậy:</b><br "
+"/>\n<p>Khi nhập một khoá công khai, khoá thường được đánh dấu là không đáng "
+"tin cậy và do đó không thể được sử dụng trừ khi nó được ký bởi khoá mặc "
+"định (từ đó làm cho nó 'đáng tin cậy'). Đánh dấu hộp này cho phép sử dụng "
+"bất kỳ khoá nào ngay cả khi nó không đáng tin cậy.</p></qt>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AllowUntrustedKeys)
+#: conf_encryption.ui:138 selectpublickeydialog.cpp:110
+#, kde-format
+msgid "Allow encryption with untrusted keys"
+msgstr "Cho phép mật mã hoá với các khoá không đáng tin cậy"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_AllowUntrustedGroupMembers)
+#: conf_encryption.ui:145
+#, kde-format
+msgid ""
+"<qt><b>Allow untrusted keys as members of key groups:</b><br /><p>A key "
+"group allows simple encryption to multiple recipients at once. Similar to "
+"the <em>Allow encryption with untrusted keys</em> option this allows "
+"untrusted keys to become member of a key group.</p></qt>"
+msgstr ""
+"<qt><b>Cho phép các khoá không đáng tin cậy làm thành viên của nhóm "
+"khoá:</b><br /><p>Một nhóm khoá cho phép mật mã hoá đơn giản cho nhiều "
+"người nhận cùng lúc. Tương tự như lựa chọn <em>Cho phép mật mã hoá với các "
+"khoá không đáng tin cậy</em>, điều này cho phép các khoá không đáng tin cậy "
+"trở thành thành viên của một nhóm khoá.</p></qt>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AllowUntrustedGroupMembers)
+#: conf_encryption.ui:148
+#, kde-format
+msgid "Allow untrusted keys as members of key groups"
+msgstr "Cho phép các khóa không đáng tin cậy là thành viên của nhóm khóa"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_HideUserID)
+#: conf_encryption.ui:156
+#, kde-format
+msgid ""
+"<qt><b>Hide user ID:</b><br /> \n"
+"<p>Checking this option will remove the keyid of the recipient from all "
+"encrypted packets. The advantage: traffic analysis of the encrypted packets "
+"cannot be performed as easily because the recipient is unknown. The "
+"disadvantage: the receiver of the encrypted packets is forced to try all "
+"secret keys before being able to decrypt the packets. This can be a lengthy "
+"process depending on the number of secret keys the receiver holds.</p></qt>"
+msgstr ""
+"<qt><b>Ẩn ID người dùng:</b><br /> \n<p>Chọn lựa chọn này sẽ xóa keyid của "
+"người nhận khỏi tất cả các gói mật mã hóa. Ưu điểm: việc phân tích lưu "
+"lượng của các gói mật mã hóa không thể được thực hiện dễ dàng vì người nhận "
+"không xác định. Nhược điểm: người nhận các gói mật mã hóa buộc phải thử tất "
+"cả các khóa bí mật trước khi có thể giải mật mã các gói. Quá trình này có "
+"thể mất nhiều thời gian tùy thuộc vào số lượng khóa bí mật mà người nhận "
+"có.</p></qt>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_HideUserID)
+#: conf_encryption.ui:159 selectpublickeydialog.cpp:119
+#, kde-format
+msgid "Hide user id"
+msgstr "Ẩn mã định danh"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_PgpCompatibility)
+#: conf_encryption.ui:167
+#, kde-format
+msgid ""
+"<qt><b>PGP 6 compatibility:</b><br /> \n"
+"<p>Checking this option forces GnuPG to output encrypted packets that are as "
+"compliant with PGP (Pretty Good Privacy) 6 standards as possible thus "
+"allowing GnuPG users to inter operate with PGP 6 users.</p></qt>"
+msgstr ""
+"<qt><b>Tương thích PGP 6:</b><br /> \n<p>Chọn lựa chọn này buộc GnuPG tạo "
+"ra các gói mật mã hoá tuân thủ tối đa các tiêu chuẩn của PGP (Pretty Good "
+"Privacy) 6, từ đó cho phép người dùng GnuPG có thể tương tác với người dùng "
+"PGP 6.</p></qt>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_PgpCompatibility)
+#: conf_encryption.ui:170
+#, kde-format
+msgid "PGP 6 compatibility"
+msgstr "Tương thích với PGP 6"
+
+#. i18n: ectx: property (whatsThis), widget (QWidget, GPGConf)
+#: conf_gpg.ui:16
+#, kde-format
+msgid ""
+"<qt><b>Global Settings:</b><br />\n"
+"<p></p>\n"
+"</qt>"
+msgstr "<qt><b>Cài đặt toàn cục:</b><br />\n<p></p>\n</qt>"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
+#: conf_gpg.ui:22
+#, kde-format
+msgid "GnuPG Home"
+msgstr "Thư mục GnuPG"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, textLabel1_5_2)
+#: conf_gpg.ui:30
+#, kde-format
+msgid ""
+"<b>Home Location</b><p>This is the directory where GnuPG stores its "
+"configuration and the keyrings. If you have not changed it this is usually "
+"<em>~/.gnupg/</em></p>"
+msgstr ""
+"<b>Vị trí Chính</b><p>Đây là thư mục nơi GnuPG lưu trữ cấu hình và các vòng "
+"chìa khóa của nó. Nếu bạn chưa thay đổi nó, thường là "
+"<em>~/.gnupg/</em></p>"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_5_2)
+#: conf_gpg.ui:33
+#, kde-format
+msgid "Home location:"
+msgstr "Vị trí trang chủ:"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, textLabel1_5_2_2)
+#: conf_gpg.ui:43
+#, kde-format
+msgid ""
+"<b>Configuration File</b><p>This is the name of the configuration file in "
+"the directory specified above. The default is <em>gnupg.conf</em> while "
+"older versions of GnuPG used <em>options</em>.</p>"
+msgstr ""
+"<b>Tệp cấu hình</b><p>Đây là tên của tệp cấu hình trong thư mục được chỉ "
+"định ở trên. Mặc định là <em>gnupg.conf</em> trong khi các phiên bản cũ hơn "
+"của GnuPG sử dụng <em>options</em>.</p>"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_5_2_2)
+#: conf_gpg.ui:46
+#, kde-format
+msgid "Configuration file:"
+msgstr "Tệp cấu hình:"
+
+#. i18n: ectx: property (text), widget (QPushButton, changeHome)
+#: conf_gpg.ui:96
+#, kde-format
+msgid "Change..."
+msgstr "Thay đổi..."
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox3)
+#: conf_gpg.ui:108 kgpgfirstassistant.cpp:117
+#, kde-format
+msgid "GnuPG Binary"
+msgstr "Nhị phân GnuPG"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, textLabel1_6_2)
+#: conf_gpg.ui:114
+#, kde-format
+msgid ""
+"<b>Program path</b><p>This is the program that will be called for all GnuPG "
+"operations. The default of <em>gpg</em> will work on most systems.</p>"
+msgstr ""
+"<b>Đường dẫn chương trình</b><p>Đây là chương trình sẽ được gọi cho tất cả "
+"các hoạt động GnuPG. Mặc định là <em>gpg</em> sẽ hoạt động trên hầu hết các "
+"hệ thống.</p>"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_6_2)
+#: conf_gpg.ui:117
+#, kde-format
+msgid "Program path:"
+msgstr "Đường dẫn chương trình:"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, use_agent)
+#: conf_gpg.ui:157
+#, kde-format
+msgid ""
+"<b>Use GnuPG agent</b><p>The GnuPG agent stores the passwords for your "
+"secret keys in memory for a limited amount of time. If you use your secret "
+"key again while it is cached you do not have to enter it again. This is less "
+"secure than typing it every time.</p>"
+msgstr ""
+"<b>Sử dụng đại diện GnuPG</b><p>Đại diện GnuPG lưu trữ mật khẩu cho các "
+"khóa bí mật của bạn trong bộ nhớ trong một khoảng thời gian giới hạn. Nếu "
+"bạn sử dụng lại khóa bí mật của mình trong khi nó đang được lưu sẵn, bạn "
+"không cần phải nhập lại. Điều này kém an toàn hơn so với việc nhập mật khẩu "
+"mỗi lần sử dụng.</p>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, use_agent)
+#: conf_gpg.ui:160
+#, kde-format
+msgid "Use GnuPG agent"
+msgstr "Sử dụng đại diện GnuPG"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tabGlobal)
+#: conf_misc.ui:24
+#, kde-format
+msgid "Global Settings"
+msgstr "Thiết lập Toàn cục"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_AutoStart)
+#: conf_misc.ui:33
+#, kde-format
+msgid ""
+"<qt><b>Start KGpg automatically at KDE startup:</b><br />\n"
+"<p>If checked KGpg will start automatically each time that KDE starts up.</"
+"p></qt>"
+msgstr ""
+"<qt><b>Tự động khởi động KGpg khi KDE khởi động:</b><br />\n<p>Nếu được "
+"chọn, KGpg sẽ tự động khởi động mỗi khi KDE khởi động.</p></qt>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AutoStart)
+#: conf_misc.ui:36
+#, kde-format
+msgid "Start KGpg automatically at login"
+msgstr "Tự động khởi động KGpg khi đăng nhập"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_UseMouseSelection)
+#: conf_misc.ui:53
+#, kde-format
+msgid ""
+"<qt><b>Use mouse selection instead of clipboard:</b><br />\n"
+"<p>If checked, clipboard operations in KGpg will use the selection "
+"clipboard, that means highlighting a text to copy, and middle button (or "
+"right+left together) to paste. If this option is not checked, the clipboard "
+"will work with Key shortcuts (Ctrl-c, Ctrl-v).</p></qt> "
+msgstr ""
+"<qt><b>Sử dụng phần bôi đen bằng chuột thay vì bảng nháp:</b><br />\n<p>Nếu "
+"được chọn, các thao tác bảng nháp trong KGpg sẽ sử dụng bảng nháp phần bôi "
+"đen, nghĩa là bôi đen một đoạn văn bản để sao chép, và nút giữa chuột (hoặc "
+"phải+trái cùng lúc) để dán. Nếu lựa chọn này không được chọn, bảng nháp sẽ "
+"hoạt động với các phím tắt (Ctrl-c, Ctrl-v).</p></qt>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_UseMouseSelection)
+#: conf_misc.ui:56
+#, kde-format
+msgid "Use mouse selection instead of clipboard"
+msgstr "Sử dụng phần bôi đen chuột thay vì bảng nháp"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_RemoteFileWarn)
+#: conf_misc.ui:70
+#, kde-format
+msgid ""
+"<qt><b>Display warning before creating temporary files:</b><br />\n"
+"<p></p></qt>"
+msgstr ""
+"<qt><b>Hiển thị cảnh báo trước khi tạo tệp tạm thời:</b><br "
+"/>\n<p></p></qt>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_RemoteFileWarn)
+#: conf_misc.ui:74
+#, kde-format
+msgid ""
+"Display warning before creating temporary files\n"
+"(only occurs on remote files operations)"
+msgstr ""
+"Hiển thị cảnh báo trước khi tạo tệp tạm thời\n(chỉ xảy ra khi thao tác với "
+"tệp ở xa)"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tabApplet)
+#: conf_misc.ui:97
+#, kde-format
+msgid "Applet && Menus"
+msgstr "Tiểu ứng dụng và Trình đơn"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox11)
+#: conf_misc.ui:103
+#, kde-format
+msgid "Konqueror Service Menus"
+msgstr "Trình đơn dịch vụ Konqueror"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, textLabel1)
+#: conf_misc.ui:119
+#, kde-format
+msgid ""
+"<qt><b>Sign file service menu:</b><br />\n"
+"<p></p>\n"
+"</qt>"
+msgstr "<qt><b>Trình đơn dịch vụ ký tệp:</b><br />\n<p></p>\n</qt>"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: conf_misc.ui:122
+#, kde-format
+msgid "Sign file service menu:"
+msgstr "Dịch vụ menu ký tệp:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_SignMenu)
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_DecryptMenu)
+#: conf_misc.ui:139 conf_misc.ui:178 keysmanager.cpp:296
+#, kde-format
+msgid "Disable"
+msgstr "Tắt"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_SignMenu)
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_DecryptMenu)
+#: conf_misc.ui:144 conf_misc.ui:183
+#, kde-format
+msgid "Enable with All Files"
+msgstr "Bật với Tất cả Tệp"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, textLabel1_3)
+#: conf_misc.ui:164
+#, kde-format
+msgid ""
+"<qt><b>Decrypt file service menu:</b><br />\n"
+"<p></p>\n"
+"</qt>"
+msgstr "<qt><b>Trình đơn dịch vụ giải mã tệp:</b><br />\n<p></p>\n</qt>"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_3)
+#: conf_misc.ui:167
+#, kde-format
+msgid "Decrypt file service menu:"
+msgstr "Trình đơn dịch vụ giải mật mã tệp:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_DecryptMenu)
+#: conf_misc.ui:188
+#, kde-format
+msgid "Enable with Encrypted Files"
+msgstr "Bật với Tệp Mật Mã Hoá"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox3)
+#: conf_misc.ui:201
+#, kde-format
+msgid "System Tray Applet"
+msgstr "Tiểu ứng dụng khay hệ thống"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_ShowSystray)
+#: conf_misc.ui:208
+#, kde-format
+msgid ""
+"<qt><b>Show system tray icon:</b><br />\n"
+"<p>If checked KGpg will minimize to an icon in the system tray.</p></qt>"
+msgstr ""
+"<qt><b>Hiển thị biểu tượng khay hệ thống:</b><br />\n<p>Nếu được chọn, KGpg "
+"sẽ thu nhỏ thành một biểu tượng trong khay hệ thống.</p></qt>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowSystray)
+#: conf_misc.ui:211
+#, kde-format
+msgid "Show system tray icon"
+msgstr "Hiển thị biểu tượng khay hệ thống"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: conf_misc.ui:223
+#, kde-format
+msgid "Left mouse click opens:"
+msgstr "Bấm chuột trái mở:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_LeftClick)
+#: conf_misc.ui:240
+#, kde-format
+msgid "Key Manager"
+msgstr "Trình quản lý khóa"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_LeftClick)
+#. i18n: ectx: attribute (title), widget (QWidget, tabEditor)
+#: conf_misc.ui:245 conf_misc.ui:272 editor/kgpgeditor.cpp:504
+#, kde-format
+msgid "Editor"
+msgstr "Trình biên tập"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: conf_misc.ui:280
+#, kde-format
+msgid "Recent files"
+msgstr "Tệp gần đây"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tabSigning)
+#: conf_misc.ui:306
+#, kde-format
+msgid "Key Signing"
+msgstr "Ký khóa"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, label_2)
+#: conf_misc.ui:314
+#, kde-format
+msgid ""
+"Here you can define how User Ids that do not contain an email address (like "
+"Photo Ids) are sent to the key owner. You can choose to either send them "
+"with every other User Id you signed, only with the first Id you signed or to "
+"not send them at all."
+msgstr ""
+"Ở đây bạn có thể định nghĩa cách các Mã định danh người dùng không chứa địa "
+"chỉ email (như Mã định danh Ảnh) được gửi đến chủ sở hữu khóa. Bạn có thể "
+"chọn gửi chúng cùng với mọi Mã định danh người dùng khác bạn đã ký, chỉ với "
+"Mã định danh đầu tiên bạn đã ký hoặc không gửi chúng."
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: conf_misc.ui:317
+#, kde-format
+msgid "Mailing of User Ids without Email Addresses"
+msgstr "Gửi thư Mã người dùng không có Địa chỉ Thư điện tử"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_MailUats)
+#: conf_misc.ui:325
+#, kde-format
+msgid "Send with every Email"
+msgstr "Gửi kèm với mỗi email"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_MailUats)
+#: conf_misc.ui:330
+#, kde-format
+msgid "Send only with first Email"
+msgstr "Chỉ gửi kèm với email đầu tiên"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_MailUats)
+#: conf_misc.ui:335
+#, kde-format
+msgid "Do not send"
+msgstr "Không gửi"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: conf_misc.ui:345
+#, kde-format
+msgid "Email template"
+msgstr "Bản mẫu thư điện tử"
+
+#. i18n: ectx: property (whatsThis), widget (KTextEdit, EmailTemplateEdit)
+#: conf_misc.ui:353
+#, no-c-format, kde-format
+msgid ""
+"This is the text of the email sent by the \"Sign and Mail User ID\" action.\n"
+"\n"
+"The placeholders surrounded by the percent signs (like %KEYID%) will be "
+"replaced with the corresponding text for every single mail."
+msgstr ""
+"Đây là văn bản của email được gửi bởi hành động \"Ký và gửi ID người "
+"dùng\".\n\nCác phần giữ chỗ được bao quanh bởi các dấu phần trăm (như "
+"%KEYID%) sẽ được thay thế bằng văn bản tương ứng cho từng email."
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_4)
+#: conf_servers.ui:25
+#, kde-format
+msgid ""
+"<b>INFORMATION</b>:\n"
+"Only the default server will be stored in GnuPG's configuration file,\n"
+"all others will be stored for use by KGpg only."
+msgstr ""
+"<b>THÔNG TIN</b>:\nChỉ máy chủ mặc định sẽ được lưu trong tệp cấu hình của "
+"GnuPG,\ncác máy chủ khác sẽ chỉ được lưu để sử dụng bởi KGpg."
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_UseProxy)
+#: conf_servers.ui:35
+#, kde-format
+msgid "Honor HTTP proxy when available"
+msgstr "Tôn trọng proxy HTTP khi có sẵn"
+
+#. i18n: ectx: property (text), widget (QPushButton, server_default)
+#: conf_servers.ui:49
+#, kde-format
+msgid "&Set as Default"
+msgstr "Đặt là&m mặc định"
+
+#. i18n: ectx: property (text), widget (QPushButton, server_add)
+#: conf_servers.ui:56
+#, kde-format
+msgid "&Add..."
+msgstr "T&hêm..."
+
+#. i18n: ectx: property (text), widget (QPushButton, server_del)
+#: conf_servers.ui:66
+#, kde-format
+msgid "&Delete"
+msgstr "Xó&a"
+
+#. i18n: ectx: property (text), widget (QPushButton, server_edit)
+#: conf_servers.ui:73
+#, kde-format
+msgid "&Edit..."
+msgstr "Chỉnh &sửa..."
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab)
+#: conf_ui2.ui:32
+#, kde-format
+msgid "Key Colors"
+msgstr "Màu chính"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_trustUltimate)
+#: conf_ui2.ui:42
+#, kde-format
+msgid "Ultimately trusted keys:"
+msgstr "Các khóa được tin tưởng tối đa:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_trustTrusted)
+#: conf_ui2.ui:52
+#, kde-format
+msgid "Trusted keys:"
+msgstr "Các khóa đáng tin cậy:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_trustMarginally)
+#: conf_ui2.ui:62
+#, kde-format
+msgid "Marginally trusted keys:"
+msgstr "Khóa không đáng tin cậy:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_trustExpired)
+#: conf_ui2.ui:72
+#, kde-format
+msgid "Expired keys:"
+msgstr "Khóa hết hạn:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_trustRevoked)
+#: conf_ui2.ui:82
+#, kde-format
+msgid "Revoked keys:"
+msgstr "Khóa đã thu hồi:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_trustUnknown)
+#: conf_ui2.ui:92
+#, kde-format
+msgid "Unknown keys:"
+msgstr "Các khóa không rõ:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_trustDisabled)
+#: conf_ui2.ui:102
+#, kde-format
+msgid "Disabled keys:"
+msgstr "Các phím bị tắt:"
+
+#. i18n: ectx: attribute (title), widget (QWidget, TabPage)
+#: conf_ui2.ui:225
+#, kde-format
+msgid "Editor Font"
+msgstr "Phông chữ trình biên tập"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tabKeyList)
+#: conf_ui2.ui:230
+#, kde-format
+msgid "Key List"
+msgstr "Danh sách phím"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBoxSorting)
+#: conf_ui2.ui:236
+#, kde-format
+msgid "Sort Order"
+msgstr "Thứ tự sắp xếp"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_EmailSorting)
+#: conf_ui2.ui:253 kgpgoptions.cpp:100
+#, kde-format
+msgid "Left to right, account first"
+msgstr "Từ trái sang phải, tài khoản trước"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_EmailSorting)
+#: conf_ui2.ui:258 kgpgoptions.cpp:101
+#, kde-format
+msgid "Right to left, TLD first"
+msgstr "Từ phải sang trái, TLD đầu tiên"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_EmailSorting)
+#: conf_ui2.ui:263 kgpgoptions.cpp:102
+#, kde-format
+msgid "Right to left, domain first"
+msgstr "Từ phải sang trái, miền trước"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_EmailSorting)
+#: conf_ui2.ui:268 kgpgoptions.cpp:103
+#, kde-format
+msgid "Right to left, FQDN first"
+msgstr "Từ phải sang trái, FQDN trước"
+
+#: core/convert.cpp:45
+#, kde-format
+msgctxt "Encryption algorithm"
+msgid "RSA"
+msgstr "RSA"
+
+#: core/convert.cpp:47
+#, kde-format
+msgctxt "Encryption algorithm"
+msgid "DSA"
+msgstr "DSA"
+
+#: core/convert.cpp:49
+#, kde-format
+msgctxt "Encryption algorithm"
+msgid "ElGamal"
+msgstr "ElGamal"
+
+#: core/convert.cpp:51
+#, kde-format
+msgctxt "Encryption algorithm"
+msgid "DSA & ElGamal"
+msgstr "Thuật toán mã hóa"
+
+#: core/convert.cpp:53
+#, kde-format
+msgctxt "Encryption algorithm RSA, Signing algorithm RSA"
+msgid "RSA & RSA"
+msgstr "RSA và RSA"
+
+#: core/convert.cpp:55
+#, kde-format
+msgctxt "Encryption algorithm"
+msgid "ECC"
+msgstr "ECC"
+
+#: core/convert.cpp:57
+#, kde-format
+msgctxt "Signing algorithm"
+msgid "ECDSA"
+msgstr "ECDSA"
+
+#: core/convert.cpp:59
+#, kde-format
+msgctxt "Encryption algorithm"
+msgid "ECDH"
+msgstr "ECDH"
+
+#: core/convert.cpp:61
+#, kde-format
+msgctxt "Signing algorithm"
+msgid "EdDSA"
+msgstr "EdDSA"
+
+#: core/convert.cpp:64
+#, kde-format
+msgctxt "Unknown algorithm"
+msgid "Unknown"
+msgstr "không rõ"
+
+#: core/convert.cpp:72
+#, kde-format
+msgid "I do not know"
+msgstr "Tôi không biết"
+
+#: core/convert.cpp:74
+#, kde-format
+msgid "I do NOT trust"
+msgstr "Tôi không tin"
+
+#: core/convert.cpp:76
+#, kde-format
+msgid "Marginally"
+msgstr "Ít nhiều"
+
+#: core/convert.cpp:78
+#, kde-format
+msgid "Fully"
+msgstr "Đầy đủ"
+
+#: core/convert.cpp:80
+#, kde-format
+msgid "Ultimately"
+msgstr "Cuối cùng"
+
+#: core/convert.cpp:83
+#, kde-format
+msgctxt "Unknown trust in key owner"
+msgid "Unknown"
+msgstr "không rõ"
+
+#: core/convert.cpp:91
+#, kde-format
+msgctxt "Invalid key"
+msgid "Invalid"
+msgstr "Không hợp lệ"
+
+#: core/convert.cpp:93
+#, kde-format
+msgctxt "Disabled key"
+msgid "Disabled"
+msgstr "Tắt"
+
+#: core/convert.cpp:95
+#, kde-format
+msgid "Revoked"
+msgstr "Đã thu hồi"
+
+#: core/convert.cpp:97 model/groupeditproxymodel.cpp:95
+#, kde-format
+msgctxt "Expired key"
+msgid "Expired"
+msgstr "Đã hết hạn"
+
+#: core/convert.cpp:99
+#, kde-format
+msgctxt "Undefined key trust"
+msgid "Undefined"
+msgstr "Không xác định"
+
+#: core/convert.cpp:101
+#, kde-format
+msgctxt "No trust in key"
+msgid "None"
+msgstr "Không có tin cậy trong khóa"
+
+#: core/convert.cpp:103
+#, kde-format
+msgctxt "Marginal trust in key"
+msgid "Marginal"
+msgstr "Mức độ tin cậy biên"
+
+#: core/convert.cpp:105
+#, kde-format
+msgctxt "Full trust in key"
+msgid "Full"
+msgstr "Đầy đủ"
+
+#: core/convert.cpp:107
+#, kde-format
+msgctxt "Ultimate trust in key"
+msgid "Ultimate"
+msgstr "Tối đa"
+
+#: core/convert.cpp:110
+#, kde-format
+msgctxt "Unknown trust in key"
+msgid "Unknown"
+msgstr "không rõ"
+
+#: core/convert.cpp:119
+#, kde-format
+msgctxt "key capability"
+msgid "Signature"
+msgstr "Chữ ký"
+
+#: core/convert.cpp:121
+#, kde-format
+msgctxt "key capability"
+msgid "Encryption"
+msgstr "Mật mã hoá"
+
+#: core/convert.cpp:123
+#, kde-format
+msgctxt "key capability"
+msgid "Authentication"
+msgstr "Xác thực"
+
+#: core/convert.cpp:125
+#, kde-format
+msgctxt "key capability"
+msgid "Certification"
+msgstr "Chứng nhận"
+
+#: core/convert.cpp:127
+#, kde-format
+msgctxt "used to join a list of key types, e.g. 'encryption, signature'"
+msgid ", "
+msgstr ", "
+
+#: core/KGpgGroupNode.cpp:154
+#, kde-format
+msgid "1 key"
+msgid_plural "%1 keys"
+msgstr[0] "%1 khóa"
+
+#: core/KGpgKeyNode.cpp:72
+#, kde-format
+msgctxt "size of signing key / size of encryption key"
+msgid "%1 / %2"
+msgstr "%1 / %2"
+
+#: core/KGpgKeyNode.cpp:156 core/KGpgSignableNode.cpp:31
+#, kde-format
+msgid "1 signature"
+msgid_plural "%1 signatures"
+msgstr[0] "%1 chữ ký"
+
+#: core/KGpgNode.cpp:43
+#, kde-format
+msgctxt "Name of uid (comment)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: core/KGpgRefNode.cpp:115 transactions/kgpgtransaction.cpp:277
+#, kde-format
+msgid "[No user id found]"
+msgstr "[Không tìm thấy mã định danh]"
+
+#: core/KGpgSignNode.cpp:75
+#, kde-format
+msgid "%1 [local signature]"
+msgstr "%1 [chữ ký cục bộ]"
+
+#: core/KGpgSubkeyNode.cpp:70
+#, kde-format
+msgid "%1 subkey"
+msgstr "%1 khóa phụ"
+
+#: core/KGpgUatNode.cpp:90
+#, kde-format
+msgid "Photo id"
+msgstr "Mã định danh ảnh"
+
+#: detailedconsole.cpp:23
+#, kde-format
+msgid "Info"
+msgstr "Thông tin"
+
+#: editor/kgpgeditor.cpp:91 editor/kgpgeditor.cpp:241 editor/kgpgeditor.cpp:727
+#: editor/kgpgeditor.cpp:756
+#, kde-format
+msgid "Untitled"
+msgstr "Chưa có tiêu đề"
+
+#: editor/kgpgeditor.cpp:187
+#, kde-format
+msgid "&Encrypt File..."
+msgstr "Mật mã h&oá Tệp..."
+
+#: editor/kgpgeditor.cpp:191
+#, kde-format
+msgid "&Decrypt File..."
+msgstr "Giải mậ&t mã tệp..."
+
+#: editor/kgpgeditor.cpp:195
+#, kde-format
+msgid "&Open Key Manager"
+msgstr "Mở T&rình quản lý khóa"
+
+#: editor/kgpgeditor.cpp:198
+#, kde-format
+msgid "&Generate Signature..."
+msgstr "Tạo chữ &ký..."
+
+#: editor/kgpgeditor.cpp:202
+#, kde-format
+msgid "&Verify Signature..."
+msgstr "Xác &minh Chữ ký..."
+
+#: editor/kgpgeditor.cpp:205
+#, kde-format
+msgid "&Check MD5 Sum..."
+msgstr "K&iểm tra tổng kiểm tra MD5..."
+
+#: editor/kgpgeditor.cpp:208
+#, kde-format
+msgid "&Unicode (utf-8) Encoding"
+msgstr "Mã hoá &Unicode (utf-8)"
+
+#: editor/kgpgeditor.cpp:214
+#, kde-format
+msgid "En&crypt"
+msgstr "Mật &mã hoá"
+
+#: editor/kgpgeditor.cpp:218
+#, kde-format
+msgid "&Decrypt"
+msgstr "G&iải mật mã"
+
+#: editor/kgpgeditor.cpp:222
+#, kde-format
+msgid "S&ign/Verify"
+msgstr "Ký/Xác m&inh"
+
+#: editor/kgpgeditor.cpp:245
+#, kde-format
+msgid ""
+"The document \"%1\" has changed.\n"
+"Do you want to save it?"
+msgstr "Tài liệu \"%1\" đã thay đổi.\nBạn có muốn lưu nó không?"
+
+#: editor/kgpgeditor.cpp:246
+#, kde-format
+msgid "Close the document"
+msgstr "Đóng tài liệu"
+
+#: editor/kgpgeditor.cpp:292
+#, kde-format
+msgid ""
+"The document could not been saved, as the selected codec is not supported."
+msgstr "Tài liệu không thể được lưu, vì bộ mã giải đã chọn không được hỗ trợ."
+
+#: editor/kgpgeditor.cpp:301 editor/kgpgeditor.cpp:318
+#, kde-format
+msgid ""
+"The document could not be saved, please check your permissions and disk "
+"space."
+msgstr ""
+"Không thể lưu tài liệu, vui lòng kiểm tra quyền và dung lượng ổ đĩa của "
+"bạn."
+
+#: editor/kgpgeditor.cpp:343 editor/kgpgeditor.cpp:354
+#: keyexport.cpp:37
+#, kde-format
+msgid "Overwrite existing file %1?"
+msgstr "Ghi đè lên tệp %1 hiện có?"
+
+#: editor/kgpgeditor.cpp:468
+#, kde-format
+msgid "Open File to Encode"
+msgstr "Mở Tệp để Mã Hoá"
+
+#: editor/kgpgeditor.cpp:468 editor/kgpgeditor.cpp:477
+#: editor/kgpgeditor.cpp:612 editor/kgpgeditor.cpp:650
+#: editor/kgpgeditor.cpp:684
+#, kde-format
+msgid "*|All Files"
+msgstr "*|Tất cả các tệp"
+
+#: editor/kgpgeditor.cpp:477
+#, kde-format
+msgid "Open File to Decode"
+msgstr "Mở Tệp để Giải Mã"
+
+#: editor/kgpgeditor.cpp:491
+#, kde-format
+msgid "Decrypt File To"
+msgstr "Giải mật mã tệp đến"
+
+#: editor/kgpgeditor.cpp:502 keyexport.cpp:20
+#, kde-format
+msgid "Save File"
+msgstr "Lưu Tệp"
+
+#: editor/kgpgeditor.cpp:528 kgpgexternalactions.cpp:204
+#: kgpgexternalactions.cpp:363 transactions/kgpgtransactionprivate.cpp:107
+#, kde-format
+msgid "File Already Exists"
+msgstr "Tệp đã tồn tại"
+
+#: editor/kgpgeditor.cpp:612
+#, kde-format
+msgid "Open File to Sign"
+msgstr "Mở Tệp để Ký"
+
+#: editor/kgpgeditor.cpp:650 editor/kgpgeditor.cpp:684
+#, kde-format
+msgid "Open File to Verify"
+msgstr "Mở tệp để xác minh"
+
+#: editor/kgpgeditor.cpp:697 editor/kgpgtextedit.cpp:342
+#, kde-format
+msgid ""
+"<qt><b>Missing signature:</b><br />Key id: %1<br /><br />Do you want to "
+"import this key from a keyserver?</qt>"
+msgstr ""
+"<qt><b>Thiếu chữ ký:</b><br />ID khóa: %1<br /><br />Bạn có muốn nhập khẩu "
+"khóa này từ máy chủ khóa không?</qt>"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_import)
+#: editor/kgpgeditor.cpp:698 keyserver.ui:33 keytreeview.cpp:158
+#, kde-format
+msgid "Import"
+msgstr "Nhập khẩu"
+
+#: editor/kgpgeditor.cpp:698 keytreeview.cpp:159
+#, kde-format
+msgid "Do Not Import"
+msgstr "Không nhập khẩu"
+
+#. i18n: ectx: Menu (view)
+#: editor/kgpgeditor.rc:13 keysmanager.rc:25
+#, kde-format
+msgid "&View"
+msgstr "X&em"
+
+#. i18n: ectx: Menu (signature)
+#: editor/kgpgeditor.rc:18
+#, kde-format
+msgid "Si&gnature"
+msgstr "Chữ &ký"
+
+#: editor/kgpgmd5widget.cpp:29
+#, kde-format
+msgid "MD5 Checksum"
+msgstr "Giá trị tổng kiểm MD5"
+
+#: editor/kgpgmd5widget.cpp:38
+#, kde-format
+msgid "Compare MD5 with Clipboard"
+msgstr "So sánh MD5 với Bảng nháp"
+
+#: editor/kgpgmd5widget.cpp:53
+#, kde-format
+msgid "MD5 sum for <b>%1</b> is:"
+msgstr "Tổng MD5 cho <b>%1</b> là:"
+
+#: editor/kgpgmd5widget.cpp:66
+#, kde-format
+msgid "<b>Unknown status</b>"
+msgstr "<b>Trạng thái không xác định</b>"
+
+#: editor/kgpgmd5widget.cpp:90
+#, kde-format
+msgid "Clipboard content is not a MD5 sum."
+msgstr "Nội dung bảng nháp không phải là tổng kiểm tra MD5."
+
+#: editor/kgpgmd5widget.cpp:94
+#, kde-format
+msgid "<b>Correct checksum</b>, file is ok."
+msgstr "<b>Tổng kiểm đúng</b>, tệp không có vấn đề."
+
+#: editor/kgpgmd5widget.cpp:100
+#, kde-format
+msgid "<b>Wrong checksum, <em>file corrupted</em></b>"
+msgstr "<b>Tổng kiểm sai, <em>tệp bị hỏng</em></b>"
+
+#: editor/kgpgtextedit.cpp:85
+#, kde-format
+msgid ""
+"<qt><b>Remote file dropped</b>.<br />The remote file will now be copied to a "
+"temporary file to process requested operation. This temporary file will be "
+"deleted after operation.</qt>"
+msgstr ""
+"<qt><b>Tệp từ xa đã được thả</b>.<br />Tệp từ xa sẽ được sao chép vào một "
+"tệp tạm thời để xử lý thao tác yêu cầu. Tệp tạm thời này sẽ bị xóa sau khi "
+"hoàn thành thao tác.</qt>"
+
+#: editor/kgpgtextedit.cpp:94
+#, kde-format
+msgid "Could not download file."
+msgstr "Không thể tải về tệp."
+
+#: editor/kgpgtextedit.cpp:130
+#, kde-format
+msgid ""
+"<qt>This file is a <b>public</b> key.<br />Do you want to import it instead "
+"of opening it in editor?</qt>"
+msgstr ""
+"<qt>Tệp này là một khóa <b>công khai</b>.<br />Bạn có muốn nhập khẩu nó "
+"thay vì mở nó trong trình soạn thảo không?</qt>"
+
+#: editor/kgpgtextedit.cpp:133
+#, kde-format
+msgid ""
+"<qt>This file is a <b>private</b> key.<br />Do you want to import it instead "
+"of opening it in editor?</qt>"
+msgstr ""
+"<qt>Tệp này là một khóa <b>riêng tư</b>.<br />Bạn có muốn nhập khẩu nó thay "
+"vì mở nó trong trình soạn thảo không?</qt>"
+
+#: editor/kgpgtextedit.cpp:138
+#, kde-format
+msgid "Key file dropped on Editor"
+msgstr "Tệp khóa đã được thả vào Trình biên tập"
+
+#: editor/kgpgtextedit.cpp:138
+#, kde-format
+msgctxt "@action:button"
+msgid "Yes"
+msgstr "Có"
+
+#: editor/kgpgtextedit.cpp:138
+#, kde-format
+msgctxt "@action:button"
+msgid "No"
+msgstr "Không"
+
+#: editor/kgpgtextedit.cpp:261 kgpgexternalactions.cpp:403
+#, kde-format
+msgid "Decryption failed."
+msgstr "Giải mật mã không thành công."
+
+#: editor/kgpgtextedit.cpp:276 foldercompressjob.cpp:132
+#, kde-format
+msgid "The encryption failed with error code %1"
+msgstr "Mật mã hoá thất bại với mã lỗi %1"
+
+#: editor/kgpgtextedit.cpp:277 foldercompressjob.cpp:133
+#, kde-format
+msgid "Encryption failed."
+msgstr "Mật mã hoá thất bại."
+
+#: editor/kgpgtextedit.cpp:290
+#, kde-format
+msgid "Signing not possible: bad passphrase or missing key"
+msgstr "Không thể ký: mật tổ không đúng hoặc thiếu khóa"
+
+#: editor/kgpgtextedit.cpp:325 kgpgexternalactions.cpp:282
+#, kde-format
+msgctxt "Caption of message box"
+msgid "Verification Finished"
+msgstr "Xác minh Hoàn tất"
+
+#. i18n: ectx: property (text), widget (QPushButton, Buttonimport)
+#: editor/kgpgtextedit.cpp:331 keyserver.ui:145 keyservers.cpp:201
+#, kde-format
+msgid "&Import"
+msgstr "N&hập khẩu"
+
+#: editor/kgpgtextedit.cpp:333
+#, kde-format
+msgid "Import key in your list"
+msgstr "Nhập khẩu khóa vào danh sách của bạn"
+
+#: editor/kgpgtextedit.cpp:337
+#, kde-format
+msgid "Do &Not Import"
+msgstr "Khô&ng nhập khẩu"
+
+#: editor/kgpgtextedit.cpp:339
+#, kde-format
+msgid "Will not import this key in your list"
+msgstr "Sẽ không nhập khẩu khóa này vào danh sách của bạn"
+
+#: editor/kgpgtextedit.cpp:342
+#, kde-format
+msgid "Missing Key"
+msgstr "Thiếu Khóa"
+
+#: foldercompressjob.cpp:36
+#, kde-format
+msgid "Processing folder compression and encryption"
+msgstr "Đang xử lý nén và mã hoá thư mục"
+
+#: foldercompressjob.cpp:63 foldercompressjob.cpp:114 foldercompressjob.cpp:133
+#: foldercompressjob.cpp:135 transactions/kgpgtransactionjob.cpp:59
+#, kde-format
+msgctxt "State of operation as in status"
+msgid "State"
+msgstr "Trạng thái"
+
+#: foldercompressjob.cpp:63 transactions/kgpgtransactionjob.cpp:32
+#, kde-format
+msgctxt "Job is started up"
+msgid "Startup"
+msgstr "Khởi động"
+
+#: foldercompressjob.cpp:96
+#, kde-format
+msgid "Unable to create temporary file"
+msgstr "Không thể tạo tệp tạm thời"
+
+#: foldercompressjob.cpp:115 transactions/kgpgencrypt.cpp:92
+#, kde-format
+msgctxt "Status message 'Encrypting <filename>' (operation starts)"
+msgid "Encrypting %1"
+msgstr "Đang mật mã hoá %1"
+
+#: foldercompressjob.cpp:136 transactions/kgpgencrypt.cpp:95
+#, kde-format
+msgctxt "Status message 'Encrypted <filename>' (operation was completed)"
+msgid "Encrypted %1"
+msgstr "Đã mật mã hoá %1"
+
+#: foldercompressjob.cpp:167
+#, kde-format
+msgid "Zip"
+msgstr "Nén"
+
+#: foldercompressjob.cpp:168
+#, kde-format
+msgid "Tar/Gzip"
+msgstr "Tar/Gzip"
+
+#: foldercompressjob.cpp:169
+#, kde-format
+msgid "Tar/Bzip2"
+msgstr "Tar/Bzip2"
+
+#: foldercompressjob.cpp:170
+#, kde-format
+msgid "Tar"
+msgstr "Tar"
+
+#: foldercompressjob.cpp:171
+#, kde-format
+msgid "Tar/XZ"
+msgstr "Tar/XZ"
+
+#: groupedit.cpp:30
+#, kde-format
+msgid "Available Keys"
+msgstr "Các phím hiện có"
+
+#: groupedit.cpp:33
+#, kde-format
+msgid "Available Trusted Keys"
+msgstr "Các Khóa Tin Cậy Hiện Có"
+
+#. i18n: ectx: property (text), widget (QLabel, filterEditLabel)
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: groupedit.ui:38 keysmanager.cpp:418 searchres.ui:29
+#, kde-format
+msgid "Search:"
+msgstr "Tìm kiếm:"
+
+#. i18n: ectx: property (text), widget (QLabel, kActiveLabel1)
+#: groupedit.ui:84
+#, kde-format
+msgid "Keys in the Group"
+msgstr "Các phím trong Nhóm"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, KeyExport)
+#: keyexport.ui:26
+#, kde-format
+msgid "Public Key Export"
+msgstr "Xuất Khoá Công Khai"
+
+#. i18n: ectx: property (text), widget (QRadioButton, checkMail)
+#: keyexport.ui:41
+#, kde-format
+msgctxt "Export a key via email"
+msgid "E&mail"
+msgstr "Thư điện &tử"
+
+#. i18n: ectx: property (text), widget (QRadioButton, checkClipboard)
+#: keyexport.ui:48 sourceselect.ui:35
+#, kde-format
+msgid "C&lipboard"
+msgstr "Bả&ng nháp"
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, checkServer)
+#: keyexport.ui:58
+#, kde-format
+msgid ""
+"You must define at least one keyserver in settings before you can export to "
+"one."
+msgstr ""
+"Bạn phải định nghĩa ít nhất một máy chủ khóa trong thiết lập trước khi bạn "
+"có thể xuất khẩu đến một máy chủ."
+
+#. i18n: ectx: property (text), widget (QRadioButton, checkServer)
+#: keyexport.ui:61
+#, kde-format
+msgid "&Key server:"
+msgstr "Máy chủ &khóa:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, checkFile)
+#: keyexport.ui:75 sourceselect.ui:44
+#, kde-format
+msgid "File:"
+msgstr "Tệp:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, buttonGroup3)
+#: keyexport.ui:95
+#, kde-format
+msgid "Export Settings"
+msgstr "Thiết lập xuất khẩu"
+
+#. i18n: ectx: property (text), widget (QRadioButton, checkAttrAll)
+#: keyexport.ui:101
+#, kde-format
+msgid "E&xport everything"
+msgstr "Xuấ&t khẩu tất cả"
+
+#. i18n: ectx: property (text), widget (QRadioButton, checkAttrPhoto)
+#: keyexport.ui:111
+#, kde-format
+msgid "Do &not export attributes (photo ids)"
+msgstr "Khô&ng xuất khẩu các thuộc tính (mã ảnh)"
+
+#. i18n: ectx: property (text), widget (QRadioButton, checkAttrClean)
+#: keyexport.ui:118
+#, kde-format
+msgctxt ""
+"@option:radio Exports the smallest key possible. Maps to export-minimal "
+"option of gpg"
+msgid "Clean key"
+msgstr "Khóa sạch"
+
+#: keyinfodialog.cpp:175
+#, kde-format
+msgid ""
+"<qt>The requested key is not present in the keyring anymore.<br />Perhaps it "
+"was deleted by another application</qt>"
+msgstr ""
+"<qt>Khóa được yêu cầu không còn tồn tại trong chuỗi khóa nữa.<br />Có lẽ nó "
+"đã bị xóa bởi một ứng dụng khác</qt>"
+
+#: keyinfodialog.cpp:175
+#, kde-format
+msgid "Key not found"
+msgstr "Không tìm thấy khóa"
+
+#: keyinfodialog.cpp:189
+#, kde-format
+msgctxt "no email address"
+msgid "none"
+msgstr "không có"
+
+#: keyinfodialog.cpp:214
+#, kde-format
+msgid ""
+"<qt>The left part is the algorithm used by the <b>signature</b> key. The "
+"right part is the algorithm used by the <b>encryption</b> key.</qt>"
+msgstr ""
+"<qt>Phần bên trái là thuật toán được sử dụng bởi khóa <b>chữ ký</b>. Phần "
+"bên phải là thuật toán được sử dụng bởi khóa <b>mã hóa</b>.</qt>"
+
+#: keyinfodialog.cpp:217
+#, kde-format
+msgctxt "Unlimited key lifetime"
+msgid "Unlimited"
+msgstr "Không giới hạn"
+
+#: keyinfodialog.cpp:223
+#, kde-format
+msgid ""
+"<qt>The left part is the size of the <b>signature</b> key. The right part is "
+"the size of the <b>encryption</b> key.</qt>"
+msgstr ""
+"<qt>Phần bên trái là kích thước của khóa <b>chữ ký</b>. Phần bên phải là "
+"kích thước của khóa <b>mã hóa</b>.</qt>"
+
+#: keyinfodialog.cpp:228
+#, kde-format
+msgctxt "no key comment"
+msgid "<em>none</em>"
+msgstr "<em>không có</em>"
+
+#: keyinfodialog.cpp:314
+#, kde-format
+msgid "Bad old passphrase, the passphrase for the key was not changed"
+msgstr "Mật tổ cũ không hợp lệ, mật tổ của khóa không được thay đổi"
+
+#: keyinfodialog.cpp:314
+#, kde-format
+msgid "Could not change passphrase"
+msgstr "không thể thay đổi mật tổ"
+
+#: keyinfodialog.cpp:319
+#, kde-format
+msgid "KGpg was unable to change the passphrase."
+msgstr "KGpg không thể thay đổi mật khẩu."
+
+#: keyinfodialog.cpp:368
+#, kde-format
+msgid "Changing key properties failed."
+msgstr "Thay đổi thuộc tính của khóa không thành công."
+
+#. i18n: ectx: property (title), widget (QGroupBox, gr_properties)
+#: keyinfodialog.cpp:368 kgpgKeyInfo.ui:37
+#, kde-format
+msgid "Key properties"
+msgstr "Thuộc tính khóa"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, textLabel1)
+#: keyserver.ui:39
+#, kde-format
+msgid ""
+"<qt><b>Key Server:</b><br /> <p>A Key Server is a centralized repository of "
+"PGP/GnuPG keys connected to the Internet which can be conveniently accessed "
+"in order to obtain or deposit keys. Select from the drop down list to "
+"specify which key server should be used.</p> <p>Often these keys are held by "
+"people whom the user has never met and as such the authenticity is dubious "
+"at best. Refer to the GnuPG manual covering \"Web-of-Trust\" relationships "
+"to find out how GnuPG works around the problem of verifying authenticity.</"
+"p> </qt>"
+msgstr ""
+"<qt><b>Máy chủ khóa:</b><br /> <p>Một máy chủ khóa là một kho tập trung các "
+"khóa PGP/GnuPG được kết nối với Internet, có thể truy cập thuận tiện để lấy "
+"hoặc gửi khóa. Bôi đen từ danh sách thả xuống để chỉ định máy chủ khóa nào "
+"sẽ được sử dụng.</p> <p>Thường thì những khóa này được giữ bởi những người "
+"mà người dùng chưa từng gặp và do đó tính xác thực của chúng là đáng ngờ. "
+"Hãy tham khảo sổ tay GnuPG về mối quan hệ \"Mạng lưới tin cậy\" để tìm hiểu "
+"cách GnuPG giải quyết vấn đề xác minh tính xác thực.</p> </qt>"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: keyserver.ui:42 keyserver.ui:177
+#, kde-format
+msgid "Key server:"
+msgstr "Máy chủ khóa:"
+
+#. i18n: ectx: property (whatsThis), widget (QComboBox, kCBimportks)
+#: keyserver.ui:53
+#, kde-format
+msgid ""
+"<b>Key Server Drop Down Dialog:</b>\n"
+"Allows the user to select the Key Server which will be used to import PGP/"
+"GnuPG keys into the local keyring."
+msgstr ""
+"<b>Hộp thoại thả xuống Máy chủ Khóa:</b>\nCho phép người dùng chọn Máy chủ "
+"Khóa sẽ được sử dụng để nhập khẩu các khóa PGP/GnuPG vào chuỗi khóa cục bộ."
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, textLabel2)
+#: keyserver.ui:61
+#, kde-format
+msgid ""
+"<qt><b>Text to search or ID of the key to import:</b><br />\n"
+"<p>There are multiple ways to search for a key, you can use a text or "
+"partial text search (example: entering Phil or Zimmerman will bring up all "
+"keys in which Phil or Zimmerman shows up) or you can search by the ID's of "
+"the key. Key ID's are strings of letters and numbers that uniquely identify "
+"a key (example: searching for 0xED7585F4 would bring up the key associated "
+"with that ID).</p></qt>"
+msgstr ""
+"<qt><b>Văn bản tìm kiếm hoặc mã định danh của khóa cần nhập:</b><br "
+"/>\n<p>Có nhiều cách để tìm kiếm một khóa, bạn có thể sử dụng tìm kiếm văn "
+"bản hoặc một phần văn bản (ví dụ: nhập Phil hoặc Zimmerman sẽ hiển thị tất "
+"cả các khóa có chứa Phil hoặc Zimmerman) hoặc bạn có thể tìm kiếm bằng mã "
+"định danh của khóa. Mã định danh khóa là chuỗi chữ cái và số xác định duy "
+"nhất một khóa (ví dụ: tìm kiếm 0xED7585F4 sẽ hiển thị khóa liên kết với mã "
+"định danh đó).</p></qt>"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: keyserver.ui:70
+#, kde-format
+msgid "Text to search or ID of the key to import:"
+msgstr "Văn bản để tìm kiếm hoặc ID của khóa để nhập:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cBproxyI)
+#. i18n: ectx: property (text), widget (QCheckBox, cBproxyE)
+#: keyserver.ui:92 keyserver.ui:222
+#, kde-format
+msgid "Honor HTTP proxy:"
+msgstr "Tôn trọng proxy HTTP:"
+
+#. i18n: ectx: property (text), widget (QPushButton, Buttonsearch)
+#: keyserver.ui:135
+#, kde-format
+msgid "&Search"
+msgstr "Tìm k&iếm"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_export)
+#: keyserver.ui:171
+#, kde-format
+msgid "Export"
+msgstr "xuất khẩu"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, textLabel4)
+#: keyserver.ui:191
+#, kde-format
+msgid ""
+"<qt><b>Key to be exported:</b><br />\n"
+"<p>This allows the user to specify the key from the drop down list that will "
+"be exported to the key server selected.</p></qt>"
+msgstr ""
+"<qt><b>Khóa cần xuất:</b><br />\n<p>Điều này cho phép người dùng chọn khóa "
+"từ danh sách thả xuống để xuất đến máy chủ khóa đã chọn.</p></qt>"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: keyserver.ui:194
+#, kde-format
+msgid "Key to be exported:"
+msgstr "Khóa cần được xuất:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, exportAttributes)
+#: keyserver.ui:207
+#, kde-format
+msgid "Export attributes (photo id)"
+msgstr "Xuất khẩu thuộc tính (ảnh ID)"
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, Buttonexport)
+#: keyserver.ui:266
+#, kde-format
+msgid ""
+"<qt><b>Export:</b><br />\n"
+"<p>Pushing this button will export the specified key to the specified server."
+"</p></qt>"
+msgstr ""
+"<qt><b>Xuất khẩu:</b><br />\n<p>Nhấn nút này sẽ xuất khẩu khóa đã chỉ định "
+"đến máy chủ đã chỉ định.</p></qt>"
+
+#. i18n: ectx: property (text), widget (QPushButton, Buttonexport)
+#: keyserver.ui:269
+#, kde-format
+msgid "&Export"
+msgstr "&xuất khẩu"
+
+#: keyservers.cpp:35
+#, kde-format
+msgid "Key Server"
+msgstr "Máy chủ khóa"
+
+#: keyservers.cpp:92 keyservers.cpp:182
+#, kde-format
+msgid "You must enter a search string."
+msgstr "Bạn phải nhập một chuỗi tìm kiếm."
+
+#: keyservers.cpp:104
+#, kde-format
+msgid "You need to configure keyservers before trying to download keys."
+msgstr "Bạn cần cấu hình máy chủ khóa trước khi cố gắng tải về các khóa."
+
+#: keyservers.cpp:105
+#, kde-format
+msgid "No keyservers defined"
+msgstr "Không có máy chủ khóa được định nghĩa"
+
+#: keyservers.cpp:142
+#, kde-format
+msgctxt "Caption of message box"
+msgid "Key Import Finished"
+msgstr "Nhập khẩu Khóa Đã Hoàn Tất"
+
+#: keyservers.cpp:170
+#, kde-format
+msgid "Upload to keyserver finished without errors"
+msgstr "Tải lên máy chủ khóa đã hoàn tất mà không có lỗi"
+
+#: keyservers.cpp:172
+#, kde-format
+msgid "Upload to keyserver failed"
+msgstr "Tải lên máy chủ khóa không thành công"
+
+#: keyservers.cpp:195
+#, kde-format
+msgctxt "Window title"
+msgid "Import Key From Keyserver"
+msgstr "Nhập Khẩu Khóa Từ Máy Chủ Khóa"
+
+#: keyservers.cpp:206
+#, kde-format
+msgid "Connecting to the server..."
+msgstr "Đang kết nối với máy chủ..."
+
+#: keyservers.cpp:312
+#, kde-format
+msgid "You must choose a key."
+msgstr "Bạn phải chọn một khóa."
+
+#: keyservers.cpp:372
+#, kde-format
+msgid "No matching keys found"
+msgstr "Không tìm thấy khóa phù hợp"
+
+#: keyservers.cpp:375
+#, kde-format
+msgid "Found 1 matching key"
+msgid_plural "Found %1 matching keys"
+msgstr[0] "Đã tìm thấy %1 khóa khớp"
+
+#: keyservers.cpp:378
+#, kde-format
+msgid "Found 1 matching key (not shown)"
+msgstr "Đã tìm thấy 1 khóa khớp (không hiển thị)"
+
+#: keyservers.cpp:380
+#, kde-format
+msgid "Found %1 matching keys (%2 shown)"
+msgstr "Đã tìm thấy %1 khóa khớp (%2 được hiển thị)"
+
+#: keysmanager.cpp:125
+#, kde-format
+msgid "Key Management"
+msgstr "Quản lý khóa"
+
+#: keysmanager.cpp:132
+#, kde-format
+msgid "&Open Editor"
+msgstr "Mở &trình biên tập"
+
+#: keysmanager.cpp:135
+#, kde-format
+msgid "&Key Server Dialog"
+msgstr "Hộp thoại Máy chủ &Khóa"
+
+#: keysmanager.cpp:140 selectpublickeydialog.cpp:154
+#, kde-format
+msgid "&Go to Default Key"
+msgstr "Đi đến K&hóa Mặc định"
+
+#: keysmanager.cpp:153
+#, kde-format
+msgid "View GnuPG Manual"
+msgstr "Xem Sổ tay GnuPG"
+
+#: keysmanager.cpp:158
+#, kde-format
+msgid "&Refresh List"
+msgstr "Cập nhậ&t Danh sách"
+
+#: keysmanager.cpp:162
+#, kde-format
+msgid "Show &Long Key Id"
+msgstr "Hiện mã địn&h danh dài"
+
+#: keysmanager.cpp:167
+#, kde-format
+msgid "K&ey Properties"
+msgstr "T&huộc tính khóa"
+
+#: keysmanager.cpp:171
+#, kde-format
+msgid "&Open Key URL"
+msgstr "Mở U&RL khóa"
+
+#: keysmanager.cpp:175
+#, kde-format
+msgid "Edit Key in &Terminal"
+msgstr "Sửa Khóa trong &Trình Dòng Lệnh"
+
+#: keysmanager.cpp:180
+#, kde-format
+msgid "&Generate Key Pair..."
+msgstr "Tạo cặp khó&a..."
+
+#: keysmanager.cpp:189
+#, kde-format
+msgid "&Import Key..."
+msgstr "N&hập khẩu Khóa..."
+
+#: keysmanager.cpp:194
+#, kde-format
+msgid "Send Ema&il"
+msgstr "Gử&i thư điện tử"
+
+#: keysmanager.cpp:198
+#, kde-format
+msgid "&Create New Contact in Address Book"
+msgstr "Tạo Liên Hệ Mới trong Sổ Địa &Chỉ"
+
+#: keysmanager.cpp:204
+#, kde-format
+msgid "&Edit Group..."
+msgstr "&Sửa Nhóm..."
+
+#: keysmanager.cpp:207
+#, kde-format
+msgid "&Delete Group"
+msgstr "Xó&a Nhóm"
+
+#: keysmanager.cpp:211
+#, kde-format
+msgid "&Rename Group"
+msgstr "Đổi tê&n nhóm"
+
+#: keysmanager.cpp:220
+#, kde-format
+msgid "Set as De&fault Key"
+msgstr "Đặt làm Phím &Mặc định"
+
+#: keysmanager.cpp:223
+#, kde-format
+msgid "&Add Photo..."
+msgstr "T&hêm ảnh..."
+
+#: keysmanager.cpp:226
+#, kde-format
+msgid "&Add User Id..."
+msgstr "Thêm ID n&gười dùng..."
+
+#: keysmanager.cpp:229
+#, kde-format
+msgid "Export Secret Key..."
+msgstr "Xuất Khẩu Khóa Bí Mật..."
+
+#: keysmanager.cpp:232
+#, kde-format
+msgid "Delete Key Pair"
+msgstr "Xóa cặp khóa"
+
+#: keysmanager.cpp:236
+#, kde-format
+msgid "Revoke Key..."
+msgstr "Thu hồi Khóa..."
+
+#: keysmanager.cpp:239
+#, kde-format
+msgid "&Regenerate Public Key"
+msgstr "Tạo lạ&i Khoá Công Khai"
+
+#: keysmanager.cpp:245
+#, kde-format
+msgid "Set User Id as &Primary"
+msgstr "Đặt &mã định danh làm mặc định"
+
+#: keysmanager.cpp:249
+#, kde-format
+msgid "&Open Photo"
+msgstr "Mở ả&nh"
+
+#: keysmanager.cpp:253
+#, kde-format
+msgid "&Delete Photo"
+msgstr "Xóa Ản&h"
+
+#: keysmanager.cpp:261
+#, kde-format
+msgid "Import &Missing Signatures From Keyserver"
+msgstr "Nhập khẩ&u chữ ký bị thiếu từ máy chủ khóa"
+
+#: keysmanager.cpp:279 model/kgpgitemmodel.cpp:384
+#, kde-format
+msgid "Trust"
+msgstr "Tin cậy"
+
+#: keysmanager.cpp:282 model/kgpgitemmodel.cpp:385
+#, kde-format
+msgid "Size"
+msgstr "Kích thước"
+
+#: keysmanager.cpp:285 model/kgpgitemmodel.cpp:387
+#, kde-format
+msgid "Creation"
+msgstr "Tạo"
+
+#: keysmanager.cpp:288 model/kgpgitemmodel.cpp:386
+#, kde-format
+msgid "Expiration"
+msgstr "Hết hạn"
+
+#: keysmanager.cpp:292
+#, kde-format
+msgid "&Photo ID's"
+msgstr "&Mã ảnh"
+
+#: keysmanager.cpp:297
+#, kde-format
+msgctxt "small picture"
+msgid "Small"
+msgstr "Nhỏ"
+
+#: keysmanager.cpp:298
+#, kde-format
+msgctxt "medium picture"
+msgid "Medium"
+msgstr "Trung bình"
+
+#: keysmanager.cpp:299
+#, kde-format
+msgctxt "large picture"
+msgid "Large"
+msgstr "Lớn"
+
+#: keysmanager.cpp:303
+#, kde-format
+msgid "Minimum &Trust"
+msgstr "Mức t&in cậy tối thiểu"
+
+#: keysmanager.cpp:306
+#, kde-format
+msgctxt "no filter: show all keys"
+msgid "&None"
+msgstr "K&hông có"
+
+#: keysmanager.cpp:307
+#, kde-format
+msgctxt "show only active keys"
+msgid "&Active"
+msgstr "Hoạ&t động"
+
+#: keysmanager.cpp:308
+#, kde-format
+msgctxt "show only keys with at least marginal trust"
+msgid "&Marginal"
+msgstr "Cấp độ trung &bình"
+
+#: keysmanager.cpp:309
+#, kde-format
+msgctxt "show only keys with at least full trust"
+msgid "&Full"
+msgstr "Đầ&y đủ"
+
+#: keysmanager.cpp:310
+#, kde-format
+msgctxt "show only ultimately trusted keys"
+msgid "&Ultimate"
+msgstr "Tố&i đa"
+
+#: keysmanager.cpp:335
+#, kde-format
+msgid "&Show Only Secret Keys"
+msgstr "Chỉ hiện &khóa bí mật"
+
+#: keysmanager.cpp:435
+#, kde-format
+msgctxt "Name of the action that gives the focus to the search line"
+msgid "Focus Search Line"
+msgstr "Nhắm vào Dòng Tìm kiếm"
+
+#: keysmanager.cpp:483
+#, kde-format
+msgid ""
+"Another key generation operation is still in progress.\n"
+"Please wait a moment until this operation is complete."
+msgstr ""
+"Một thao tác tạo khóa khác vẫn đang diễn ra.\nVui lòng đợi một lát cho đến "
+"khi thao tác này hoàn tất."
+
+#: keysmanager.cpp:484 keysmanager.cpp:522 keysmanager.cpp:570
+#, kde-format
+msgid "Generating new key pair"
+msgstr "Tạo cặp khóa mới"
+
+#: keysmanager.cpp:523
+#, kde-format
+msgid "Can not start \"konsole\" application for expert mode."
+msgstr "Không thể khởi động ứng dụng \"konsole\" cho chế độ chuyên gia."
+
+#: keysmanager.cpp:562 keysmanager.cpp:2584 keysmanager.cpp:2586
+#, kde-format
+msgctxt "Application ready for user input"
+msgid "Ready"
+msgstr "Sẵn sàng"
+
+#: keysmanager.cpp:574 transactions/kgpggeneratekey.cpp:194
+#, kde-format
+msgid "Bad passphrase. Cannot generate a new key pair."
+msgstr "Mật khẩu không hợp lệ. Không thể tạo cặp khóa mới."
+
+#: keysmanager.cpp:577 transactions/kgpggeneratekey.cpp:197
+#, kde-format
+msgid "Aborted by the user. Cannot generate a new key pair."
+msgstr "Đã huỷ bỏ bởi người dùng. Không thể tạo cặp khóa mới."
+
+#: keysmanager.cpp:580 transactions/kgpggeneratekey.cpp:200
+#, kde-format
+msgid "The email address is not valid. Cannot generate a new key pair."
+msgstr "Địa chỉ email không hợp lệ. Không thể tạo cặp khóa mới."
+
+#: keysmanager.cpp:583 transactions/kgpggeneratekey.cpp:203
+#, kde-format
+msgid "The name is not accepted by gpg. Cannot generate a new key pair."
+msgstr "Tên này không được gpg chấp nhận. Không thể tạo cặp khóa mới."
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, newKey)
+#: keysmanager.cpp:589 newkey.ui:14
+#, kde-format
+msgid "New Key Pair Created"
+msgstr "Đã tạo cặp khóa mới"
+
+#: keysmanager.cpp:628
+#, kde-format
+msgid "backup copy"
+msgstr "bản sao lưu"
+
+#: keysmanager.cpp:642 transactions/kgpggeneratekey.cpp:215
+#, kde-format
+msgid "gpg process did not finish. Cannot generate a new key pair."
+msgstr "Quá trình gpg không hoàn thành. Không thể tạo cặp khóa mới."
+
+#: keysmanager.cpp:736
+#, kde-format
+msgid "You can only refresh primary keys. Please check your selection."
+msgstr ""
+"Bạn chỉ có thể cập nhật các khóa chính. Vui lòng kiểm tra lại lựa chọn của "
+"bạn."
+
+#: keysmanager.cpp:860
+#, kde-format
+msgid ""
+"Another operation is still in progress.\n"
+"Please wait a moment until this operation is complete."
+msgstr ""
+"Một thao tác khác vẫn đang diễn ra.\nVui lòng đợi một lát cho đến khi thao "
+"tác này hoàn tất."
+
+#: keysmanager.cpp:861 keysmanager.cpp:866
+#, kde-format
+msgid "Add New User Id"
+msgstr "Thêm mã định danh mới"
+
+#: keysmanager.cpp:906
+#, kde-format
+msgid ""
+"The image must be a JPEG file. Remember that the image is stored within your "
+"public key, so if you use a very large picture, your key will become very "
+"large as well. The size should not exceed 6 KiB. An image size of around "
+"240x288 is a good size to use."
+msgstr ""
+"Hình ảnh phải là tệp JPEG. Hãy nhớ rằng ảnh được lưu trữ trong khóa công "
+"khai của bạn, vì vậy nếu bạn sử dụng một bức ảnh rất lớn, khóa của bạn sẽ "
+"trở nên rất lớn. Kích thước không nên vượt quá 6 KiB. Kích thước ảnh khoảng "
+"240x288 là một kích thước tốt để sử dụng."
+
+#: keysmanager.cpp:938
+#, kde-format
+msgid ""
+"<qt>Are you sure you want to delete Photo id <b>%1</b><br/>from key <b>%2 "
+"&lt;%3&gt;</b>?</qt>"
+msgstr ""
+"<qt>Bạn có chắc chắn muốn xóa mã định danh ảnh <b>%1</b><br/>khỏi khóa "
+"<b>%2 &lt;%3gt;</b>?</qt>"
+
+#: keysmanager.cpp:1076
+#, kde-format
+msgid "Public Key"
+msgstr "Khoá công khai"
+
+#: keysmanager.cpp:1079
+#, kde-format
+msgid "Sub Key"
+msgstr "Tiểu khóa"
+
+#: keysmanager.cpp:1082
+#, kde-format
+msgid "Secret Key Pair"
+msgstr "Cặp khóa bí mật"
+
+#: keysmanager.cpp:1085
+#, kde-format
+msgid "Key Group"
+msgstr "Nhóm khóa"
+
+#. i18n: ectx: property (text), widget (QCheckBox, capSign)
+#: keysmanager.cpp:1088 kgpgkeygenerate.ui:185
+#, kde-format
+msgid "Signature"
+msgstr "Chữ ký"
+
+#: keysmanager.cpp:1091
+#, kde-format
+msgid "User ID"
+msgstr "mã định danh"
+
+#: keysmanager.cpp:1094
+#, kde-format
+msgid "Revocation Signature"
+msgstr "Chữ ký thu hồi"
+
+#: keysmanager.cpp:1097
+#, kde-format
+msgid "Photo ID"
+msgstr "Mã định danh ảnh"
+
+#: keysmanager.cpp:1100
+#, kde-format
+msgid "Orphaned Secret Key"
+msgstr "Khóa Bí Mật Bị Bỏ Rơi"
+
+#: keysmanager.cpp:1105
+#, kde-format
+msgid "Group member"
+msgstr "Thành viên nhóm"
+
+#: keysmanager.cpp:1208
+#, kde-format
+msgid "&Sign User ID ..."
+msgid_plural "&Sign User IDs ..."
+msgstr[0] "&Ký tên Người dùng ID ..."
+
+#: keysmanager.cpp:1209
+#, kde-format
+msgid "Sign and &Mail User ID ..."
+msgid_plural "Sign and &Mail User IDs ..."
+msgstr[0] "Ký và gửi ID &người dùng ..."
+
+#: keysmanager.cpp:1210
+#, kde-format
+msgid "E&xport Public Key..."
+msgid_plural "E&xport Public Keys..."
+msgstr[0] "X&uất khẩu Khóa Công khai..."
+
+#: keysmanager.cpp:1211
+#, kde-format
+msgid "&Refresh Key From Keyserver"
+msgid_plural "&Refresh Keys From Keyserver"
+msgstr[0] "Cập nhậ&t khóa từ máy chủ khóa"
+
+#: keysmanager.cpp:1212
+#, kde-format
+msgid "&Create Group with Selected Key..."
+msgid_plural "&Create Group with Selected Keys..."
+msgstr[0] "Tạo Nhóm với &Các Khóa Đã Chọn..."
+
+#: keysmanager.cpp:1213
+#, kde-format
+msgid "&Sign Key..."
+msgid_plural "&Sign Keys..."
+msgstr[0] "Ký &chữ ký..."
+
+#: keysmanager.cpp:1214
+#, kde-format
+msgid "&Delete User ID"
+msgid_plural "&Delete User IDs"
+msgstr[0] "Xóa I&D người dùng"
+
+#: keysmanager.cpp:1215
+#, kde-format
+msgid "Delete Sign&ature"
+msgid_plural "Delete Sign&atures"
+msgstr[0] "Xó&a chữ ký"
+
+#: keysmanager.cpp:1216
+#, kde-format
+msgid "Import Key From Keyserver"
+msgid_plural "Import Keys From Keyserver"
+msgstr[0] "Nhập khẩu Khóa Từ Máy Chủ Khóa"
+
+#: keysmanager.cpp:1217
+#, kde-format
+msgid "&Delete Key"
+msgid_plural "&Delete Keys"
+msgstr[0] "Xóa &Khóa"
+
+#: keysmanager.cpp:1340
+#, kde-format
+msgid "Creation of the revocation certificate failed..."
+msgstr "Tạo chứng chỉ thu hồi không thành công..."
+
+#: keysmanager.cpp:1355
+#, kde-format
+msgid ""
+"<qt>Secret keys <b>should not</b> be saved in an unsafe place.<br/>If "
+"someone else can access this file, encryption with this key will be "
+"compromised.<br/>Continue key export?</qt>"
+msgstr ""
+"<qt>Các khoá bí mật <b>không nên</b> được lưu ở nơi không an toàn.<br/>Nếu "
+"người khác có thể truy cập vào tệp này, việc mật mã hoá bằng khoá này sẽ bị "
+"xâm phạm.<br/>Tiếp tục xuất khoá?</qt>"
+
+#: keysmanager.cpp:1367
+#, kde-format
+msgid "Export PRIVATE KEY As"
+msgstr "Xuất khẩu KHOÁ BÍ MẬT Dưới Dạng"
+
+#: keysmanager.cpp:1367
+#, kde-format
+msgid "*.asc|*.asc Files"
+msgstr "*.asc|*.asc Tệp"
+
+#: keysmanager.cpp:1385
+#, kde-format
+msgid ""
+"<qt>Your <b>private</b> key \"%1\" was successfully exported to<br/>%2.<br/"
+"><b>Do not</b> leave it in an insecure place.</qt>"
+msgstr ""
+"<qt>Khóa <b>riêng tư</b> của bạn \"%1\" đã được xuất thành công "
+"đến<br/>%2.<br/><b>Không</b> để nó ở nơi không an toàn.</qt>"
+
+#: keysmanager.cpp:1388
+#, kde-format
+msgid ""
+"Your secret key could not be exported.\n"
+"Check the key."
+msgstr "Không thể xuất khẩu khóa bí mật của bạn.\nKiểm tra khóa."
+
+#: keysmanager.cpp:1490
+#, kde-format
+msgid "<qt>The public key was successfully exported to<br/>%2</qt>"
+msgid_plural "<qt>The %1 public keys were successfully exported to<br/>%2</qt>"
+msgstr[0] "<qt>Các khóa công khai %1 đã được xuất thành công vào<br/>%2</qt>"
+
+#: keysmanager.cpp:1494 keysmanager.cpp:1509 keysmanager.cpp:1523
+#, kde-format
+msgid ""
+"Your public key could not be exported\n"
+"Check the key."
+msgstr "Không thể xuất khoá công khai của bạn\nHãy kiểm tra khoá."
+
+#: keysmanager.cpp:1632
+#, kde-format
+msgid ""
+"<p>This key is an orphaned secret key (secret key without public key.) It is "
+"currently not usable.</p><p>Would you like to regenerate the public key?</p>"
+msgstr ""
+"<p>Khóa này là một khóa bí mật mồ côi (khóa bí mật không có khóa công "
+"khai). Hiện tại nó không thể sử dụng được.</p><p>Bạn có muốn tạo lại khóa "
+"công khai không?</p>"
+
+#: keysmanager.cpp:1634
+#, kde-format
+msgid "Generate"
+msgstr "Tạo"
+
+#: keysmanager.cpp:1634
+#, kde-format
+msgid "Do Not Generate"
+msgstr "Không tạo"
+
+#: keysmanager.cpp:1664
+#, kde-format
+msgid "<qt>Are you sure you want to delete group <b>%1</b> ?</qt>"
+msgstr "<qt>Bạn có chắc chắn muốn xóa nhóm <b>%1</b> không?</qt>"
+
+#: keysmanager.cpp:1665 keysmanager.cpp:2335
+#, kde-format
+msgid "Delete"
+msgstr "Xóa"
+
+#: keysmanager.cpp:1695
+#, kde-format
+msgid ""
+"<qt>You cannot create a group containing signatures, subkeys or other groups."
+"</qt>"
+msgstr ""
+"<qt>Bạn không thể tạo một nhóm chứa chữ ký, khóa phụ hoặc các nhóm "
+"khác.</qt>"
+
+#: keysmanager.cpp:1710 kgpgrevokewidget.cpp:52
+#, kde-format
+msgctxt "<Name> (<Email>) ID: <KeyId>"
+msgid "%1 (%2) ID: %3"
+msgstr "%1 (%2) ID: %3"
+
+#: keysmanager.cpp:1715
+#, kde-format
+msgid "Create New Group"
+msgstr "Tạo Nhóm Mới"
+
+#: keysmanager.cpp:1716
+#, kde-format
+msgctxt "Enter the name of the group you are creating now"
+msgid "Enter new group name:"
+msgstr "Nhập tên nhóm mới:"
+
+#: keysmanager.cpp:1721
+#, kde-format
+msgid ""
+"Following keys are not valid or not trusted and will not be added to the "
+"group:"
+msgstr ""
+"Các khóa sau không hợp lệ hoặc không đáng tin cậy và sẽ không được thêm vào "
+"nhóm:"
+
+#: keysmanager.cpp:1727
+#, kde-format
+msgid ""
+"<qt>No valid or trusted key was selected. The group <b>%1</b> will not be "
+"created.</qt>"
+msgstr ""
+"<qt>Không có khóa hợp lệ hoặc đáng tin cậy nào được chọn. Nhóm <b>%1</b> sẽ "
+"không được tạo.</qt>"
+
+#: keysmanager.cpp:1739
+#, kde-format
+msgid "Group Properties"
+msgstr "Thuộc tính nhóm"
+
+#: keysmanager.cpp:1775
+#, kde-format
+msgid "You can only sign primary keys. Please check your selection."
+msgstr "Bạn chỉ có thể ký các khóa chính. Vui lòng kiểm tra lại lựa chọn của bạn."
+
+#: keysmanager.cpp:1784
+#, kde-format
+msgid ""
+"<qt>You are about to sign key:<br /><br />%1<br />ID: %2<br />Fingerprint: "
+"<br /><b>%3</b>.<br /><br />You should check the key fingerprint by phoning "
+"or meeting the key owner to be sure that someone is not trying to intercept "
+"your communications.</qt>"
+msgstr ""
+"<qt>Bạn sắp ký khóa:<br /><br />%1<br />ID: %2<br />Điểm chỉ: <br "
+"/><b>%3</b>.<br /><br />Bạn nên kiểm tra điểm chỉ của khóa bằng cách gọi "
+"điện hoặc gặp trực tiếp chủ sở hữu khóa để chắc chắn rằng không ai đang cố "
+"gắng can thiệp vào liên lạc của bạn.</qt>"
+
+#: keysmanager.cpp:1789
+#, kde-format
+msgid ""
+"<qt>You are about to sign key:<br /><br />%1 (%2)<br />ID: %3<br /"
+">Fingerprint: <br /><b>%4</b>.<br /><br />You should check the key "
+"fingerprint by phoning or meeting the key owner to be sure that someone is "
+"not trying to intercept your communications.</qt>"
+msgstr ""
+"<qt>Bạn sắp ký khóa:<br /><br />%1 (%2)<br />ID: %3<br />Điểm chỉ: <br "
+"/><b>%4</b>.<br /><br />Bạn nên kiểm tra điểm chỉ của khóa bằng cách gọi "
+"điện hoặc gặp trực tiếp chủ sở hữu khóa để chắc chắn rằng không ai đang cố "
+"gắng can thiệp vào liên lạc của bạn.</qt>"
+
+#: keysmanager.cpp:1804 keysmanager.cpp:1888 kgpgfirstassistant.cpp:276
+#: model/keylistproxymodel.cpp:181
+#, kde-format
+msgctxt "Name: ID"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: keysmanager.cpp:1806 keysmanager.cpp:1891 kgpgfirstassistant.cpp:278
+#, kde-format
+msgctxt "Name (Email): ID"
+msgid "%1 (%2): %3"
+msgstr "%1 (%2): %3"
+
+#: keysmanager.cpp:1812
+#, kde-format
+msgid ""
+"<qt>You are about to sign the following keys in one pass.<br/><b>If you have "
+"not carefully checked all fingerprints, the security of your communications "
+"may be compromised.</b></qt>"
+msgstr ""
+"<qt>Bạn sắp ký các khóa sau đây trong một lần.<br/><b>Nếu bạn chưa kiểm tra "
+"kỹ tất cả các dấu vân tay, an ninh trong giao tiếp của bạn có thể bị xâm "
+"phạm.</b></qt>"
+
+#: keysmanager.cpp:1854 keysmanager.cpp:2001
+#, kde-format
+msgid "You can only sign user ids and photo ids. Please check your selection."
+msgstr ""
+"Bạn chỉ có thể ký các ID người dùng và ID ảnh. Vui lòng kiểm tra lại lựa "
+"chọn của bạn."
+
+#: keysmanager.cpp:1868
+#, kde-format
+msgid ""
+"<qt>You are about to sign user id:<br /><br />%1<br />ID: %2<br /"
+">Fingerprint: <br /><b>%3</b>.<br /><br />You should check the key "
+"fingerprint by phoning or meeting the key owner to be sure that someone is "
+"not trying to intercept your communications.</qt>"
+msgstr ""
+"<qt>Bạn sắp ký ID người dùng:<br /><br />%1<br />ID: %2<br />Điểm chỉ: <br "
+"/><b>%3</b>.<br /><br />Bạn nên kiểm tra điểm chỉ khóa bằng cách gọi điện "
+"hoặc gặp trực tiếp chủ sở hữu khóa để chắc chắn rằng không ai đang cố gắng "
+"can thiệp vào liên lạc của bạn.</qt>"
+
+#: keysmanager.cpp:1872
+#, kde-format
+msgid ""
+"<qt>You are about to sign user id:<br /><br />%1 (%2)<br />ID: %3<br /"
+">Fingerprint: <br /><b>%4</b>.<br /><br />You should check the key "
+"fingerprint by phoning or meeting the key owner to be sure that someone is "
+"not trying to intercept your communications.</qt>"
+msgstr ""
+"<qt>Bạn sắp ký ID người dùng:<br /><br />%1 (%2)<br />ID: %3<br />Điểm chỉ: "
+"<br /><b>%4</b>.<br /><br />Bạn nên kiểm tra điểm chỉ khóa bằng cách gọi "
+"điện hoặc gặp trực tiếp chủ sở hữu khóa để chắc chắn rằng không ai đang cố "
+"gắng can thiệp vào liên lạc của bạn.</qt>"
+
+#: keysmanager.cpp:1898
+#, kde-format
+msgid ""
+"<qt>You are about to sign the following user ids in one pass.<br/><b>If you "
+"have not carefully checked all fingerprints, the security of your "
+"communications may be compromised.</b></qt>"
+msgstr ""
+"<qt>Bạn sắp ký các ID người dùng sau đây trong một lần.<br/><b>Nếu bạn chưa "
+"kiểm tra kỹ tất cả các dấu vân tay, an ninh trong giao tiếp của bạn có thể "
+"bị xâm phạm.</b></qt>"
+
+#: keysmanager.cpp:1967
+#, kde-format
+msgid "<qt>Bad passphrase, key <b>%1 (%2)</b> not signed.</qt>"
+msgstr "<qt>Cụm mật khẩu không đúng, khóa <b>%1 (%2)</b> chưa được ký.</qt>"
+
+#: keysmanager.cpp:1971
+#, kde-format
+msgid "<qt>The key <b>%1 (%2)</b> is already signed.</qt>"
+msgstr "<qt>Khóa <b>%1 (%2)</b> đã được ký.</qt>"
+
+#: keysmanager.cpp:1976
+#, kde-format
+msgid ""
+"<qt>Signing key <b>%1</b> with key <b>%2</b> failed.<br />Do you want to try "
+"signing the key in console mode?</qt>"
+msgstr ""
+"<qt>Ký khóa <b>%1</b> bằng khóa <b>%2</b> thất bại.<br />Bạn có muốn thử ký "
+"khóa trong chế độ bàn điều khiển không?</qt>"
+
+#: keysmanager.cpp:1978
+#, kde-format
+msgctxt "@action:button"
+msgid "Sign"
+msgstr "Ký"
+
+#: keysmanager.cpp:2094
+#, kde-format
+msgid "All signatures for this key are already in your keyring"
+msgid_plural "All signatures for this keys are already in your keyring"
+msgstr[0] "Tất cả các chữ ký cho các khóa này đã có trong vòng chìa khóa của bạn"
+
+#: keysmanager.cpp:2181
+#, kde-format
+msgid "Edit key manually to delete a self-signature."
+msgstr "Sửa khóa thủ công để xóa một chữ ký tự thân."
+
+#: keysmanager.cpp:2185
+#, kde-format
+msgid ""
+"<qt>Are you sure you want to delete signature<br /><b>%1</b><br />from user "
+"id <b>%2</b><br />of key: <b>%3</b>?</qt>"
+msgstr ""
+"<qt>Bạn có chắc chắn muốn xóa chữ ký<br /><b>%1</b><br />từ mã định danh "
+"người dùng <b>%2</b><br />của khóa: <b>%3</b>?</qt>"
+
+#: keysmanager.cpp:2207
+#, kde-format
+msgid "Requested operation was unsuccessful, please edit the key manually."
+msgstr "Yêu cầu thao tác không thành công, vui lòng sửa khóa thủ công."
+
+#: keysmanager.cpp:2291
+#, kde-format
+msgid ""
+"<qt>The key you are deleting is a member of the following key group. Do you "
+"want to remove it from this group?</qt>"
+msgid_plural ""
+"<qt>The key you are deleting is a member of the following key groups. Do you "
+"want to remove it from these groups?</qt>"
+msgstr[0] ""
+"<qt>Khóa bạn đang xóa là thành viên của các nhóm khóa sau. Bạn có muốn xóa "
+"nó khỏi các nhóm này không?</qt>"
+
+#: keysmanager.cpp:2295 keysmanager.cpp:2309 keysmanager.cpp:2344
+#: keysmanager.cpp:2359 keysmanager.cpp:2362 keysmanager.cpp:2373
+#: keysmanager.cpp:2387 keysmanager.cpp:2428
+#, kde-format
+msgid "Delete key"
+msgstr "Xóa khóa"
+
+#: keysmanager.cpp:2308
+#, kde-format
+msgid ""
+"You are removing the last key from key group %1.<br/>Do you want to delete "
+"the group, too?"
+msgstr ""
+"Bạn đang xóa khóa cuối cùng khỏi nhóm khóa %1.<br/>Bạn có muốn xóa nhóm này "
+"không?"
+
+#: keysmanager.cpp:2332
+#, kde-format
+msgid ""
+"<p>Delete <b>secret</b> key pair <b>%1</b>?</p>Deleting this key pair means "
+"you will never be able to decrypt files encrypted with this key again."
+msgstr ""
+"<p>Xóa cặp khóa <b>bí mật</b> <b>%1</b>?</p>Việc xóa cặp khóa này có nghĩa "
+"là bạn sẽ không bao giờ có thể giải mật mã các tệp đã được mật mã hoá bằng "
+"khóa này nữa."
+
+#: keysmanager.cpp:2343 keysmanager.cpp:2372
+#, kde-format
+msgid ""
+"Another key delete operation is still in progress.\n"
+"Please wait a moment until this operation is complete."
+msgstr ""
+"Một thao tác xóa khóa khác vẫn đang diễn ra.\nVui lòng đợi một lát cho đến "
+"khi thao tác này hoàn tất."
+
+#: keysmanager.cpp:2359
+#, kde-format
+msgid "Key <b>%1</b> deleted."
+msgstr "Khóa <b>%1</b> đã bị xóa."
+
+#: keysmanager.cpp:2362
+#, kde-format
+msgid "Deleting key <b>%1</b> failed."
+msgstr "Xóa khóa <b>%1</b> thất bại."
+
+#: keysmanager.cpp:2386
+#, kde-format
+msgid "Can not delete key <b>%1</b> while it is edited in terminal."
+msgstr ""
+"Không thể xóa khóa <b>%1</b> trong khi nó đang được chỉnh sửa trong "
+"terminal."
+
+#: keysmanager.cpp:2427
+#, kde-format
+msgid ""
+"You have selected items that are not keys. They can not be deleted with this "
+"menu entry."
+msgstr ""
+"Bạn đã chọn các mục không phải là khóa. Chúng không thể bị xóa bằng mục "
+"nhập trình đơn này."
+
+#: keysmanager.cpp:2452
+#, kde-format
+msgid ""
+"<qt>The following are secret key pairs:<br/><b>%1</b><br/>They will not be "
+"deleted.</qt>"
+msgstr ""
+"<qt>Các cặp khóa bí mật sau đây:<br/><b>%1</b><br/>Chúng sẽ không bị "
+"xóa.</qt>"
+
+#: keysmanager.cpp:2462
+#, kde-format
+msgid "<qt><b>Delete the following public key?</b></qt>"
+msgid_plural "<qt><b>Delete the following %1 public keys?</b></qt>"
+msgstr[0] "<qt><b>Xóa %1 khóa công khai sau đây?</b></qt>"
+
+#: keysmanager.cpp:2493 keysmanager.cpp:2569 keysmanager.cpp:2580
+#, kde-format
+msgid "Key Import"
+msgstr "Nhập khẩu khóa"
+
+#: keysmanager.cpp:2501
+#, kde-format
+msgid "Open File"
+msgstr "Mở Tệp"
+
+#: keysmanager.cpp:2534
+#, kde-format
+msgid ""
+"<qt>The text in the clipboard does not look like a key, but like encrypted "
+"text.<br />Do you want to decrypt it first and then try importing it?</qt>"
+msgstr ""
+"<qt>Văn bản trong bảng nháp không giống như một khóa, mà giống như văn bản "
+"đã được mật mã hoá.<br />Bạn có muốn giải mật mã nó trước rồi thử nhập vào "
+"không?</qt>"
+
+#: keysmanager.cpp:2536
+#, kde-format
+msgid "Import from Clipboard"
+msgstr "Nhập từ Bảng nháp"
+
+#: keysmanager.cpp:2556
+#, kde-format
+msgid "Importing..."
+msgstr "Đang nhập..."
+
+#: keysmanager.cpp:2568
+#, kde-format
+msgid "Key importing failed. Please see the detailed log for more information."
+msgstr ""
+"Nhập khóa không thành công. Vui lòng xem nhật kí chi tiết để biết thêm "
+"thông tin."
+
+#: keysmanager.cpp:2621
+#, kde-format
+msgid "KGpg - encryption tool"
+msgstr "Công cụ mật mã hoá KGpg"
+
+#: keysmanager.cpp:2644
+#, kde-format
+msgid "Ke&y Manager"
+msgstr "T&rình quản lý khóa"
+
+#: keysmanager.cpp:2647
+#, kde-format
+msgid "&Encrypt Clipboard"
+msgstr "Mậ&t mã hoá Bảng nháp"
+
+#: keysmanager.cpp:2650
+#, kde-format
+msgid "&Decrypt Clipboard"
+msgstr "Giải mật mã &bảng nháp"
+
+#: keysmanager.cpp:2653
+#, kde-format
+msgid "&Sign/Verify Clipboard"
+msgstr "Ký/Xá&c minh Bảng nháp"
+
+#: keysmanager.cpp:2690 keysmanager.cpp:2789 keysmanager.cpp:2807
+#, kde-format
+msgid "Clipboard is empty."
+msgstr "Bảng nháp trống."
+
+#: keysmanager.cpp:2735
+#, kde-format
+msgid "Text successfully encrypted."
+msgstr "Văn bản đã được mã hóa thành công."
+
+#. i18n: ectx: Menu (managekeys)
+#: keysmanager.rc:6
+#, kde-format
+msgid "&Keys"
+msgstr "P&hím"
+
+#. i18n: ectx: Menu (show_details)
+#: keysmanager.rc:30
+#, kde-format
+msgid "&Show Details"
+msgstr "Hiện chi &tiết"
+
+#. i18n: ectx: Menu (groups)
+#: keysmanager.rc:42
+#, kde-format
+msgid "&Groups"
+msgstr "Nhó&m"
+
+#: keytreeview.cpp:157
+#, kde-format
+msgid "<p>Do you want to import file <b>%1</b> into your key ring?</p>"
+msgstr "<p>Bạn có muốn nhập khẩu tệp <b>%1</b> vào chuỗi khóa của bạn không?</p>"
+
+#: kgpg.cpp:63
+#, kde-format
+msgid ""
+"GnuPG failed to start.<br />You must fix the GnuPG error first before "
+"running KGpg."
+msgstr "GnuPG không thể khởi chạy.<br />Bạn phải sửa lỗi GnuPG trước khi chạy KGpg."
+
+#: kgpg.cpp:63
+#, kde-format
+msgid "GnuPG error"
+msgstr "Lỗi GnuPG"
+
+#: kgpg.cpp:86
+#, kde-format
+msgid ""
+"<qt>The use of <b>GnuPG Agent</b> is enabled in GnuPG's configuration file "
+"(%1).<br />However, the agent does not seem to be running. This could result "
+"in problems with signing/decryption.<br />Please disable GnuPG Agent from "
+"KGpg settings, or fix the agent.</qt>"
+msgstr ""
+"<qt>Việc sử dụng <b>GnuPG Agent</b> đã được bật trong tệp cấu hình của "
+"GnuPG (%1).<br />Tuy nhiên, đại diện này dường như không hoạt động. Điều "
+"này có thể gây ra vấn đề khi ký/giải mã.<br />Vui lòng tắt GnuPG Agent "
+"trong cài đặt KGpg, hoặc sửa lỗi đại diện.</qt>"
+
+#: kgpg.cpp:121 kgpg.cpp:128 kgpg.cpp:135 kgpg.cpp:142
+#, kde-format
+msgid "No files given."
+msgstr "Không có tệp nào được cung cấp."
+
+#: kgpg.cpp:132
+#, kde-format
+msgid "Cannot decrypt and show folder."
+msgstr "Không thể giải mật mã và hiển thị thư mục."
+
+#: kgpg.cpp:139
+#, kde-format
+msgid "Cannot sign folder."
+msgstr "Không thể ký thư mục."
+
+#: kgpg.cpp:146
+#, kde-format
+msgid "Cannot verify folder."
+msgstr "Không thể xác minh thư mục."
+
+#: kgpg.cpp:149
+#, kde-format
+msgid ""
+"Unable to perform requested operation.\n"
+"Please select only one folder, or several files, but do not mix files and "
+"folders."
+msgstr ""
+"Không thể thực hiện thao tác được yêu cầu.\nVui lòng chỉ chọn một thư mục, "
+"hoặc nhiều tệp, nhưng không được trộn lẫn tệp và thư mục."
+
+#: kgpg.cpp:187
+#, kde-format
+msgid "Encrypt file"
+msgstr "Mật mã hoá tệp"
+
+#: kgpg.cpp:188
+#, kde-format
+msgid "Open key manager"
+msgstr "Mở trình quản lý khóa"
+
+#: kgpg.cpp:189
+#, kde-format
+msgid "Open editor"
+msgstr "Mở trình biên tập"
+
+#: kgpg.cpp:190
+#, kde-format
+msgid "Show encrypted file"
+msgstr "Hiện tệp mật mã hoá"
+
+#: kgpg.cpp:191 kgpgoptions.cpp:505
+#, kde-format
+msgid "Sign File"
+msgstr "Ký tệp"
+
+#: kgpg.cpp:192
+#, kde-format
+msgid "Verify signature"
+msgstr "Xác minh chữ ký"
+
+#: kgpg.cpp:193
+#, kde-format
+msgid "File to open"
+msgstr "Tệp để mở"
+
+#: kgpg.h:22
+msgid ""
+"Hi,\n"
+"\n"
+"please find attached the user id '%UIDNAME%' of your key %KEYID% signed by "
+"me. This mail is encrypted with that key to make sure you control both the "
+"email address and the key.\n"
+"\n"
+"If you have multiple user ids, I sent the signature for each user id "
+"separately to that user id's associated email address. You can import the "
+"signatures by running each through `gpg --import` after you have decrypted "
+"them with `gpg --decrypt`.\n"
+"\n"
+"If you are using KGpg store the attachment to disk and then import it. Just "
+"select `Import Key...` from `Keys` menu and open the file.\n"
+"\n"
+"Note that I did not upload your key to any keyservers. If you want this new "
+"signature to be available to others, please upload it yourself. With GnuPG "
+"this can be done using gpg --keyserver subkeys.pgp.net --send-key %KEYID%.\n"
+"\n"
+"With KGpg you can right click on the key once you imported all user ids and "
+"choose `Export Public Key...`.\n"
+"\n"
+"If you have any questions, don't hesitate to ask.\n"
+msgstr ""
+"Xin chào,\n\nVui lòng tìm đính kèm mã định danh người dùng '%UIDNAME%' của "
+"khoá của bạn %KEYID% được tôi ký. Email này được mã hoá bằng khoá đó để đảm "
+"bảo bạn kiểm soát cả địa chỉ email và khoá.\n\nNếu bạn có nhiều mã định "
+"danh người dùng, tôi đã gửi chữ ký cho mỗi mã định danh người dùng đến địa "
+"chỉ email liên kết với mã định danh đó. Bạn có thể nhập khẩu các chữ ký "
+"bằng cách chạy từng chữ ký qua `gpg --import` sau khi bạn đã giải mật mã "
+"chúng bằng `gpg --decrypt`.\n\nNếu bạn đang sử dụng KGpg, hãy lưu tệp đính "
+"kèm vào ổ đĩa và sau đó nhập khẩu nó. Chỉ cần chọn `Nhập Khoá...` từ trình "
+"đơn `Khoá` và mở tệp.\n\nLưu ý rằng tôi không tải khoá của bạn lên bất kỳ "
+"máy chủ khoá nào. Nếu bạn muốn chữ ký mới này có sẵn cho người khác, vui "
+"lòng tự tải lên. Với GnuPG, điều này có thể được thực hiện bằng cách sử "
+"dụng gpg --keyserver subkeys.pgp.net --send-key %KEYID%.\n\nVới KGpg, bạn "
+"có thể bấm chuột phải vào khoá một khi bạn đã nhập khẩu tất cả các mã định "
+"danh người dùng và chọn `Xuất Khoá Công Khai...`.\n\nNếu bạn có bất kỳ câu "
+"hỏi nào, đừng ngần ngại hỏi.\n"
+
+#. i18n: ectx: label, entry (CustomDecrypt), group (Decryption)
+#: kgpg.kcfg:13
+#, kde-format
+msgid "Custom decryption command."
+msgstr "Lệnh giải mật tùy chỉnh."
+
+#. i18n: ectx: label, entry (CustomEncryptionOptions), group (Encryption)
+#: kgpg.kcfg:19
+#, kde-format
+msgid "Custom encryption options"
+msgstr "Tùy chọn mã hoá tùy chỉnh"
+
+#. i18n: ectx: label, entry (AllowCustomEncryptionOptions), group (Encryption)
+#: kgpg.kcfg:22
+#, kde-format
+msgid "Allow custom encryption options"
+msgstr "Cho phép tùy chọn mã hoá tự chọn"
+
+#. i18n: ectx: label, entry (FileEncryptionKey), group (Encryption)
+#: kgpg.kcfg:26
+#, kde-format
+msgid "File encryption key."
+msgstr "Khoá mật mã hoá tệp."
+
+#. i18n: ectx: label, entry (EncryptFilesTo), group (Encryption)
+#: kgpg.kcfg:29
+#, kde-format
+msgid "Encrypt files"
+msgstr "Mật mã hoá tệp"
+
+#. i18n: ectx: label, entry (AsciiArmor), group (Encryption)
+#: kgpg.kcfg:33
+#, kde-format
+msgid "Use ASCII armored encryption."
+msgstr "Sử dụng mã hóa ASCII."
+
+#. i18n: ectx: label, entry (AllowUntrustedKeys), group (Encryption)
+#: kgpg.kcfg:37
+#, kde-format
+msgid "Allow encryption with untrusted keys."
+msgstr "Cho phép mật mã hoá với các khoá không đáng tin cậy."
+
+#. i18n: ectx: label, entry (AllowUntrustedGroupMembers), group (Encryption)
+#: kgpg.kcfg:41
+#, kde-format
+msgid "Allow untrusted keys to become members of key groups."
+msgstr "Cho phép các khóa không đáng tin trở thành thành viên của các nhóm khóa."
+
+#. i18n: ectx: label, entry (HideUserID), group (Encryption)
+#: kgpg.kcfg:45
+#, kde-format
+msgid "Hide the user ID."
+msgstr "Ẩn ID người dùng."
+
+#. i18n: ectx: label, entry (PgpCompatibility), group (Encryption)
+#: kgpg.kcfg:49
+#, kde-format
+msgid "Enable PGP 6 compatibility."
+msgstr "Bật tương thích với PGP 6."
+
+#. i18n: ectx: label, entry (PgpExtension), group (Encryption)
+#: kgpg.kcfg:53
+#, kde-format
+msgid "Use *.pgp extension for encrypted files."
+msgstr "Sử dụng phần mở rộng *.pgp cho các tệp tin được mật mã hoá."
+
+#. i18n: ectx: label, entry (GpgConfigPath), group (GPG Settings)
+#: kgpg.kcfg:60
+#, kde-format
+msgid "The path of the gpg configuration file."
+msgstr "Đường dẫn của tệp cấu hình gpg."
+
+#. i18n: ectx: label, entry (GpgBinaryPath), group (GPG Settings)
+#: kgpg.kcfg:63
+#, kde-format
+msgid "The path of the gpg binary used by KGpg."
+msgstr "Đường dẫn của tệp nhị phân gpg được sử dụng bởi KGpg."
+
+#. i18n: ectx: label, entry (FirstRun), group (General Options)
+#: kgpg.kcfg:79
+#, kde-format
+msgid "Is the first time the application runs."
+msgstr "Đây là lần đầu tiên ứng dụng chạy."
+
+#. i18n: ectx: label, entry (EditorGeometry), group (General Options)
+#: kgpg.kcfg:83
+#, kde-format
+msgid "The size of the editor window."
+msgstr "Kích thước của cửa sổ trình biên tập."
+
+#. i18n: ectx: label, entry (ShowTrust), group (General Options)
+#: kgpg.kcfg:86
+#, kde-format
+msgid "Show the trust value in key manager."
+msgstr "Hiển thị giá trị độ tin cậy trong trình quản lý khóa."
+
+#. i18n: ectx: label, entry (ShowExpi), group (General Options)
+#: kgpg.kcfg:90
+#, kde-format
+msgid "Show the expiration value in key manager."
+msgstr "Hiển thị giá trị hết hạn trong trình quản lý khóa."
+
+#. i18n: ectx: label, entry (ShowSize), group (General Options)
+#: kgpg.kcfg:94
+#, kde-format
+msgid "Show the size value in key manager."
+msgstr "Hiển thị giá trị kích thước trong trình quản lý khóa."
+
+#. i18n: ectx: label, entry (ShowCreat), group (General Options)
+#: kgpg.kcfg:98
+#, kde-format
+msgid "Show the creation value in key manager."
+msgstr "Hiển thị giá trị tạo trong trình quản lý khóa."
+
+#. i18n: ectx: label, entry (ShowSecret), group (General Options)
+#: kgpg.kcfg:102
+#, kde-format
+msgid "Show only secret keys in key manager."
+msgstr "Chỉ hiển thị các khóa bí mật trong trình quản lý khóa."
+
+#. i18n: ectx: label, entry (ShowLongKeyId), group (General Options)
+#: kgpg.kcfg:106
+#, kde-format
+msgid "Show long key id in key manager."
+msgstr "Hiển thị mã định danh dài trong trình quản lý khóa."
+
+#. i18n: ectx: label, entry (TrustLevel), group (General Options)
+#: kgpg.kcfg:110
+#, kde-format
+msgid "Show only keys with at least that trust level in key manager."
+msgstr "Chỉ hiển thị các khóa có mức tin cậy tối thiểu đó trong trình quản lý khóa."
+
+#. i18n: ectx: label, entry (UseMouseSelection), group (User Interface)
+#: kgpg.kcfg:124
+#, kde-format
+msgid "Use the mouse selection instead of the clipboard."
+msgstr "Sử dụng phần bôi đen chuột thay vì khay nhớ tạm."
+
+#. i18n: ectx: label, entry (AutoStart), group (User Interface)
+#: kgpg.kcfg:128 kgpgfirstassistant.cpp:223
+#, kde-format
+msgid "Start KGpg automatically at KDE startup."
+msgstr "Khởi động KGpg tự động khi khởi động KDE."
+
+#. i18n: ectx: label, entry (RemoteFileWarn), group (User Interface)
+#: kgpg.kcfg:132
+#, kde-format
+msgid ""
+"Display a warning before creating temporary files during remote file "
+"operations."
+msgstr "Hiển thị cảnh báo trước khi tạo tệp tạm thời trong các thao tác tệp từ xa."
+
+#. i18n: ectx: label, entry (LeftClick), group (User Interface)
+#: kgpg.kcfg:136
+#, kde-format
+msgid "Choose default left-click behavior"
+msgstr "Chọn hành vi mặc định khi nhấp chuột trái"
+
+#. i18n: ectx: label, entry (EncryptedDropEvent), group (User Interface)
+#: kgpg.kcfg:143
+#, kde-format
+msgid "Handle encrypted drops"
+msgstr "Xử lý các mục đã mã hoá"
+
+#. i18n: ectx: label, entry (UnencryptedDropEvent), group (User Interface)
+#: kgpg.kcfg:151
+#, kde-format
+msgid "Handle unencrypted drops"
+msgstr "Xử lý các lần thả không được mã hóa"
+
+#. i18n: ectx: label, entry (SignMenu), group (User Interface)
+#: kgpg.kcfg:159
+#, kde-format
+msgid "Show the \"sign file\" service menu."
+msgstr "Hiển thị menu dịch vụ \"ký tệp\"."
+
+#. i18n: ectx: label, entry (DecryptMenu), group (User Interface)
+#: kgpg.kcfg:167
+#, kde-format
+msgid "Show the \"decrypt file\" service menu."
+msgstr "Hiển thị menu dịch vụ \"giải mã tệp\"."
+
+#. i18n: ectx: label, entry (ShowSystray), group (User Interface)
+#: kgpg.kcfg:176
+#, kde-format
+msgid "Show the systray icon"
+msgstr "Hiển thị biểu tượng khay hệ thống"
+
+#. i18n: ectx: label, entry (RecentFiles), group (User Interface)
+#: kgpg.kcfg:180
+#, kde-format
+msgid "The number of recently opened files shown in the editor menu."
+msgstr "Số lượng tệp đã mở gần đây được hiển thị trong menu trình biên tập."
+
+#. i18n: ectx: label, entry (ColorGood), group (Key Colors)
+#: kgpg.kcfg:187
+#, kde-format
+msgid "Color used for trusted keys."
+msgstr "Màu được sử dụng cho các khóa đáng tin cậy."
+
+#. i18n: ectx: label, entry (ColorRev), group (Key Colors)
+#: kgpg.kcfg:191
+#, kde-format
+msgid "Color used for revoked keys."
+msgstr "Màu được sử dụng cho các khóa đã bị thu hồi."
+
+#. i18n: ectx: label, entry (ColorUnknown), group (Key Colors)
+#: kgpg.kcfg:195
+#, kde-format
+msgid "Color used for unknown keys."
+msgstr "Màu được sử dụng cho các khóa không rõ."
+
+#. i18n: ectx: label, entry (ColorBad), group (Key Colors)
+#: kgpg.kcfg:199
+#, kde-format
+msgid "Color used for untrusted keys."
+msgstr "Màu được sử dụng cho các khóa không đáng tin cậy."
+
+#. i18n: ectx: label, entry (ColorUltimate), group (Key Colors)
+#: kgpg.kcfg:203
+#, kde-format
+msgid "Color used for ultimately trusted keys."
+msgstr "Màu được sử dụng cho các khóa được tin tưởng tối đa."
+
+#. i18n: ectx: label, entry (ColorMarginal), group (Key Colors)
+#: kgpg.kcfg:207
+#, kde-format
+msgid "Color used for marginally trusted keys."
+msgstr "Màu được sử dụng cho các khóa được tin cậy ở mức độ trung bình."
+
+#. i18n: ectx: label, entry (ColorExpired), group (Key Colors)
+#: kgpg.kcfg:211
+#, kde-format
+msgid "Color used for expired keys."
+msgstr "Màu được sử dụng cho các khóa đã hết hạn."
+
+#. i18n: ectx: label, entry (Font), group (Text Font)
+#: kgpg.kcfg:218
+#, kde-format
+msgid "Font"
+msgstr "phông chữ"
+
+#. i18n: ectx: label, entry (KeyServers), group (Servers)
+#: kgpg.kcfg:241
+#, kde-format
+msgid ""
+"Key servers used by KGpg. The first server in the list is the default server."
+msgstr ""
+"Các máy chủ khóa được sử dụng bởi KGpg. Máy chủ đầu tiên trong danh sách là "
+"máy chủ mặc định."
+
+#. i18n: ectx: label, entry (InfoServers), group (Servers)
+#: kgpg.kcfg:245
+#, kde-format
+msgid ""
+"List of URLs that show details and analysis of the given key. The first "
+"server in the list is the default server."
+msgstr ""
+"Danh sách các URL hiển thị chi tiết và phân tích của khóa đã cho. Máy chủ "
+"đầu tiên trong danh sách là máy chủ mặc định."
+
+#. i18n: ectx: label, entry (UseProxy), group (Key Servers)
+#: kgpg.kcfg:252
+#, kde-format
+msgid "Use HTTP proxy when available."
+msgstr "Sử dụng proxy HTTP khi có sẵn."
+
+#. i18n: ectx: label, entry (EmailTemplate), group (Key Signing)
+#: kgpg.kcfg:259
+#, kde-format
+msgid ""
+"This is the text of the email sent by the \"Sign and Mail User ID\" action."
+msgstr ""
+"Đây là nội dung của email được gửi bởi hành động \"Ký và gửi ID người "
+"dùng\"."
+
+#: kgpgexternalactions.cpp:127
+#, kde-format
+msgid "Cannot create temporary file for folder compression."
+msgstr "Không thể tạo tệp tạm thời để nén thư mục."
+
+#: kgpgexternalactions.cpp:127 kgpgexternalactions.cpp:134
+#, kde-format
+msgid "Temporary File Creation"
+msgstr "Tạo Tệp Tạm Thời"
+
+#: kgpgexternalactions.cpp:132
+#, kde-format
+msgid ""
+"<qt>KGpg will now create a temporary archive file:<br /><b>%1</b> to process "
+"the encryption. The file will be deleted after the encryption is finished.</"
+"qt>"
+msgstr ""
+"<qt>KGpg sẽ tạo một tệp kho trữ tạm thời:<br /><b>%1</b> để xử lý mật mã "
+"hoá. Tệp này sẽ bị xóa sau khi quá trình mật mã hoá hoàn tất.</qt>"
+
+#: kgpgexternalactions.cpp:148
+#, kde-format
+msgid "Compression method for archive:"
+msgstr "Phương pháp nén cho kho lưu trữ:"
+
+#: kgpgexternalactions.cpp:401
+#, kde-format
+msgid "Decryption of this file failed:"
+msgid_plural "Decryption of these files failed:"
+msgstr[0] "Giải mật mã các tệp này đã thất bại:"
+
+#: kgpgexternalactions.cpp:425
+#, kde-format
+msgid ""
+"<qt>You have not set a path to your GnuPG config file.<br />This may cause "
+"some surprising results in KGpg's execution.<br />Would you like to start "
+"KGpg's assistant to fix this problem?</qt>"
+msgstr ""
+"<qt>Bạn chưa đặt đường dẫn đến tệp cấu hình GnuPG của bạn.<br />Điều này có "
+"thể gây ra một số kết quả bất ngờ trong quá trình thực thi KGpg.<br />Bạn "
+"có muốn khởi động trợ tá của KGpg để khắc phục vấn đề này không?</qt>"
+
+#: kgpgexternalactions.cpp:427
+#, kde-format
+msgid "Start Assistant"
+msgstr "Khởi động trợ tá"
+
+#: kgpgexternalactions.cpp:427
+#, kde-format
+msgid "Do Not Start"
+msgstr "Không khởi động"
+
+#: kgpgfirstassistant.cpp:35
+#, kde-format
+msgid "KGpg Assistant"
+msgstr "Trợ tá KGpg"
+
+#: kgpgfirstassistant.cpp:59
+#, kde-format
+msgid ""
+"This assistant will first setup some basic configuration options required "
+"for KGpg to work properly. Next, it will allow you to create your own key "
+"pair, enabling you to encrypt your files and emails."
+msgstr ""
+"Trợ tá này sẽ đầu tiên thiết lập một số tùy chọn cấu hình cơ bản cần thiết "
+"để KGpg hoạt động đúng cách. Tiếp theo, nó sẽ cho phép bạn tạo cặp khóa của "
+"riêng mình, giúp bạn mật mã hoá các tệp và email của mình."
+
+#: kgpgfirstassistant.cpp:67
+#, kde-format
+msgid "Welcome to the KGpg Assistant"
+msgstr "Chào mừng đến với Trợ tá KGpg"
+
+#: kgpgfirstassistant.cpp:79
+#, kde-format
+msgid "KGpg needs to know which GnuPG binary to use."
+msgstr "KGpg cần biết binary GnuPG nào để sử dụng."
+
+#: kgpgfirstassistant.cpp:87 kgpgfirstassistant.cpp:127
+#, kde-format
+msgid ""
+"Unless you want to try some unusual settings, just click on the \"next\" "
+"button."
+msgstr ""
+"Trừ khi bạn muốn thử một số cài đặt không thông thường, chỉ cần bấm vào nút "
+"\"tiếp theo\"."
+
+#: kgpgfirstassistant.cpp:102
+#, kde-format
+msgctxt "search filter name for gpg binary"
+msgid "GnuPG binary"
+msgstr "Nhị phân GnuPG"
+
+#: kgpgfirstassistant.cpp:103
+#, kde-format
+msgid "All files"
+msgstr "Tất cả các tệp"
+
+#: kgpgfirstassistant.cpp:134
+#, kde-format
+msgid "KGpg needs to know where your GnuPG configuration file is stored."
+msgstr "KGpg cần biết nơi lưu trữ tệp cấu hình GnuPG của bạn."
+
+#: kgpgfirstassistant.cpp:149
+#, kde-format
+msgid "Path to your GnuPG configuration file:"
+msgstr "Đường dẫn đến tệp cấu hình GnuPG của bạn:"
+
+#: kgpgfirstassistant.cpp:163
+#, kde-format
+msgid "Configuration File"
+msgstr "Tệp cấu hình"
+
+#: kgpgfirstassistant.cpp:173
+#, kde-format
+msgid "Your default key:"
+msgstr "Khóa mặc định của bạn:"
+
+#: kgpgfirstassistant.cpp:192
+#, kde-format
+msgid "Default Key"
+msgstr "Khóa mặc định"
+
+#: kgpgfirstassistant.cpp:213
+#, kde-format
+msgid "Generate new key"
+msgstr "Tạo khóa mới"
+
+#: kgpgfirstassistant.cpp:227
+#, kde-format
+msgid "Done"
+msgstr "Xong"
+
+#: kgpgfirstassistant.cpp:241
+#, kde-format
+msgid ""
+"<qt><b>The GnuPG configuration file was not found</b>. Should KGpg try to "
+"create a config file ?</qt>"
+msgstr ""
+"<qt><b>Không tìm thấy tệp cấu hình GnuPG</b>. KGpg có nên thử tạo một tệp "
+"cấu hình không?</qt>"
+
+#: kgpgfirstassistant.cpp:241
+#, kde-format
+msgid "Create Config"
+msgstr "Tạo Cấu hình"
+
+#: kgpgfirstassistant.cpp:241
+#, kde-format
+msgid "Do Not Create"
+msgstr "Không Tạo"
+
+#: kgpgfirstassistant.cpp:249
+#, kde-format
+msgid "<qt><b>The GnuPG configuration file was not found</b>.</qt>"
+msgstr "<qt><b>Không tìm thấy tệp cấu hình GnuPG</b>.</qt>"
+
+#: kgpgfirstassistant.cpp:291
+#, kde-format
+msgid "Your GnuPG binary is: %1"
+msgstr "Tệp nhị phân GnuPG của bạn là: %1"
+
+#: kgpgfirstassistant.cpp:306 kgpgfirstassistant.cpp:362
+#, kde-format
+msgid "You have GnuPG version: %1"
+msgstr "Bạn có phiên bản GnuPG: %1"
+
+#: kgpgfirstassistant.cpp:309
+#, kde-format
+msgid "Your default key is: %1"
+msgstr "Khóa mặc định của bạn là: %1"
+
+#: kgpgfirstassistant.cpp:360
+#, kde-format
+msgid ""
+"Your GnuPG version (%1) seems to be too old.<br />Compatibility with "
+"versions before 1.4.0 is no longer guaranteed."
+msgstr ""
+"Phiên bản GnuPG của bạn (%1) dường như quá cũ.<br />Không còn đảm bảo tương "
+"thích với các phiên bản trước 1.4.0."
+
+#: kgpginterface.cpp:269
+#, kde-format
+msgid "An error occurred while scanning your keyring"
+msgstr "Đã xảy ra lỗi khi quét vòng chìa khóa của bạn"
+
+#: kgpgkeygenerate.cpp:48
+#, kde-format
+msgid "&Expert Mode"
+msgstr "Chế độ ch&uyên gia"
+
+#: kgpgkeygenerate.cpp:49
+#, kde-format
+msgid "Go to Expert Mode"
+msgstr "Chuyển sang Chế độ Chuyên gia"
+
+#: kgpgkeygenerate.cpp:50
+#, kde-format
+msgid ""
+"If you go to expert mode, you will use the command line to create your key."
+msgstr ""
+"Nếu bạn chuyển sang chế độ chuyên gia, bạn sẽ sử dụng dòng lệnh để tạo khóa "
+"của mình."
+
+#: kgpgkeygenerate.cpp:57
+#, kde-format
+msgid "1024"
+msgstr "1024"
+
+#: kgpgkeygenerate.cpp:58
+#, kde-format
+msgid "2048"
+msgstr "2048"
+
+#: kgpgkeygenerate.cpp:59
+#, kde-format
+msgid "4096"
+msgstr "4096"
+
+#: kgpgkeygenerate.cpp:90
+#, kde-format
+msgid "You must give a name."
+msgstr "Bạn phải cung cấp một tên."
+
+#: kgpgkeygenerate.cpp:96
+#, kde-format
+msgid "The name must have at least 5 characters"
+msgstr "Tên phải có ít nhất 5 ký tự"
+
+#: kgpgkeygenerate.cpp:102
+#, kde-format
+msgid "The name must not start with a digit"
+msgstr "Tên không được bắt đầu bằng số"
+
+#: kgpgkeygenerate.cpp:109
+#, kde-format
+msgid "You are about to create a key with no email address"
+msgstr "Bạn sắp tạo một khóa không có địa chỉ email"
+
+#: kgpgkeygenerate.cpp:116
+#, kde-format
+msgid "Email address not valid"
+msgstr "Địa chỉ email không hợp lệ"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, kgpgKeyGenerate)
+#: kgpgkeygenerate.ui:14
+#, kde-format
+msgid "Key Generation"
+msgstr "Tạo Khóa"
+
+#. i18n: ectx: property (title), widget (QGroupBox, vgroup)
+#: kgpgkeygenerate.ui:26
+#, kde-format
+msgid "Generate Key Pair"
+msgstr "Tạo Cặp Khóa"
+
+#. i18n: Name of key owner
+#. i18n: ectx: property (text), widget (QLabel, nameLabel)
+#: kgpgkeygenerate.ui:32
+#, kde-format
+msgid "&Name:"
+msgstr "Tê&n:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, m_kname)
+#: kgpgkeygenerate.ui:42
+#, kde-format
+msgid ""
+"The name must have a length of at least 5 characters and must not begin with "
+"a digit."
+msgstr "Tên phải có độ dài ít nhất 5 ký tự và không được bắt đầu bằng một chữ số."
+
+#. i18n: ectx: property (placeholderText), widget (QLineEdit, m_kname)
+#: kgpgkeygenerate.ui:45
+#, kde-format
+msgid "Real name, at least 5 characters, no leading digits"
+msgstr "Tên thật, ít nhất 5 ký tự, không bắt đầu bằng số"
+
+#. i18n: Email address of key owner
+#. i18n: ectx: property (text), widget (QLabel, emailLabel)
+#: kgpgkeygenerate.ui:52
+#, kde-format
+msgid "E&mail (optional):"
+msgstr "T&hư điện tử (tùy chọn):"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: kgpgkeygenerate.ui:65
+#, kde-format
+msgid "Commen&t (optional):"
+msgstr "Chú &thích (tùy chọn):"
+
+#. i18n: ectx: property (text), widget (QLabel, tl_expiration)
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: kgpgkeygenerate.ui:78 kgpgKeyInfo.ui:139
+#, kde-format
+msgid "Expiration:"
+msgstr "Hết hạn:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, m_keyexp)
+#: kgpgkeygenerate.ui:98
+#, kde-format
+msgctxt "Key will not expire"
+msgid "Never"
+msgstr "Không bao giờ"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, m_keyexp)
+#: kgpgkeygenerate.ui:103
+#, kde-format
+msgid "Days"
+msgstr "Ngày"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, m_keyexp)
+#: kgpgkeygenerate.ui:108
+#, kde-format
+msgid "Weeks"
+msgstr "Tuần"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, m_keyexp)
+#: kgpgkeygenerate.ui:113
+#, kde-format
+msgid "Months"
+msgstr "Tháng"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, m_keyexp)
+#: kgpgkeygenerate.ui:118
+#, kde-format
+msgid "Years"
+msgstr "Năm"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: kgpgkeygenerate.ui:128
+#, kde-format
+msgid "&Key size:"
+msgstr "&Kích thước khóa:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: kgpgkeygenerate.ui:141
+#, kde-format
+msgid "&Algorithm:"
+msgstr "T&huật toán:"
+
+#. i18n: ectx: property (text), widget (QLabel, tl_caps)
+#. i18n: ectx: property (title), widget (QGroupBox, capabilities)
+#: kgpgkeygenerate.ui:160 kgpgKeyInfo.ui:223
+#, kde-format
+msgid "Capabilities"
+msgstr "Khả năng"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, capCert)
+#: kgpgkeygenerate.ui:172
+#, kde-format
+msgid "Certification is automatically enabled for all keys"
+msgstr "Chứng nhận được tự động bật cho tất cả các khóa"
+
+#. i18n: ectx: property (text), widget (QCheckBox, capCert)
+#: kgpgkeygenerate.ui:175
+#, kde-format
+msgid "Certification"
+msgstr "Chứng nhận"
+
+#. i18n: ectx: property (text), widget (QCheckBox, capAuth)
+#: kgpgkeygenerate.ui:195
+#, kde-format
+msgid "Authentication"
+msgstr "Xác thực"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, kgpgKeyInfo)
+#: kgpgKeyInfo.ui:14
+#, kde-format
+msgid "Kgpg"
+msgstr "Kgpg"
+
+#. i18n: ectx: property (text), widget (QLabel, tl_id)
+#. i18n: ectx: property (text), widget (QLabel, textLabel5)
+#: kgpgKeyInfo.ui:85 newkey.ui:92
+#, kde-format
+msgid "Key ID:"
+msgstr "Mã khóa:"
+
+#. i18n: ectx: property (text), widget (QLabel, tl_comment)
+#: kgpgKeyInfo.ui:102
+#, kde-format
+msgid "Comment:"
+msgstr "Bình luận:"
+
+#. i18n: ectx: property (text), widget (QLabel, tl_creation)
+#: kgpgKeyInfo.ui:122
+#, kde-format
+msgid "Creation:"
+msgstr "Tạo:"
+
+#. i18n: ectx: property (text), widget (QLabel, tl_trust)
+#: kgpgKeyInfo.ui:156
+#, kde-format
+msgid "Trust:"
+msgstr "Độ tin cậy:"
+
+#. i18n: ectx: property (text), widget (QLabel, tl_owtrust)
+#: kgpgKeyInfo.ui:163
+#, kde-format
+msgid "Owner trust:"
+msgstr "Độ tin cậy của chủ sở hữu:"
+
+#. i18n: ectx: property (text), widget (QLabel, tl_algorithm)
+#: kgpgKeyInfo.ui:189
+#, kde-format
+msgid "Algorithm:"
+msgstr "Thuật toán:"
+
+#. i18n: ectx: property (text), widget (QLabel, tl_length)
+#: kgpgKeyInfo.ui:206
+#, kde-format
+msgid "Length:"
+msgstr "Độ dài:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gr_photo)
+#: kgpgKeyInfo.ui:284
+#, kde-format
+msgid "Photo"
+msgstr "Ảnh"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, m_photo)
+#: kgpgKeyInfo.ui:304
+#, kde-format
+msgid ""
+"<qt><b>Photo:</b><p>A photo can be included with a public key for extra "
+"security. The photo can be used as an additional method of authenticating "
+"the key. However, it should not be relied upon as the only form of "
+"authentication.</p></qt>"
+msgstr ""
+"<qt><b>Ảnh:</b><p>Một ảnh có thể được đính kèm với khoá công khai để tăng "
+"cường bảo mật. Ảnh có thể được sử dụng như một phương pháp bổ sung để xác "
+"thực khoá. Tuy nhiên, không nên chỉ dựa vào ảnh như là hình thức xác thực "
+"duy nhất.</p></qt>"
+
+#. i18n: ectx: property (text), widget (QLabel, m_photo)
+#: kgpgKeyInfo.ui:313
+#, kde-format
+msgid "No Photo"
+msgstr "Không có ảnh"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_disable)
+#: kgpgKeyInfo.ui:350
+#, kde-format
+msgid "Disable key"
+msgstr "Vô hiệu hóa khóa"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_expirationbtn)
+#: kgpgKeyInfo.ui:357
+#, kde-format
+msgid "Change Expiration"
+msgstr "Thay đổi ngày hết hạn"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_password)
+#: kgpgKeyInfo.ui:364
+#, kde-format
+msgid "Change Passphrase"
+msgstr "Thay đổi mật tổ"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gr_fingerprint)
+#: kgpgKeyInfo.ui:390
+#, kde-format
+msgid "Fingerprint"
+msgstr "điểm chỉ"
+
+#: kgpgoptions.cpp:107
+#, kde-format
+msgid "Decryption"
+msgstr "giải mật mã"
+
+#: kgpgoptions.cpp:108
+#, kde-format
+msgid "Appearance"
+msgstr "diện mạo"
+
+#: kgpgoptions.cpp:109
+#, kde-format
+msgid "GnuPG Settings"
+msgstr "Thiết lập GnuPG"
+
+#: kgpgoptions.cpp:110
+#, kde-format
+msgid "Key Servers"
+msgstr "Máy chủ khóa"
+
+#: kgpgoptions.cpp:111
+#, kde-format
+msgid "Misc"
+msgstr "Khác"
+
+#: kgpgoptions.cpp:146
+#, kde-format
+msgid "New GnuPG Home Location"
+msgstr "Vị trí Trang chủ GnuPG Mới"
+
+#: kgpgoptions.cpp:159
+#, kde-format
+msgid ""
+"No configuration file was found in the selected location.\n"
+"Do you want to create it now?\n"
+"\n"
+"Without a configuration file, neither KGpg nor GnuPG will work properly."
+msgstr ""
+"Không tìm thấy tệp cấu hình trong vị trí đã chọn.\nBạn có muốn tạo nó ngay "
+"bây giờ?\n\nNếu không có tệp cấu hình, cả KGpg và GnuPG sẽ không hoạt động "
+"đúng cách."
+
+#: kgpgoptions.cpp:160
+#, kde-format
+msgid "No Configuration File Found"
+msgstr "Không tìm thấy tệp cấu hình"
+
+#: kgpgoptions.cpp:161
+#, kde-format
+msgid "Create"
+msgstr "Tạo"
+
+#: kgpgoptions.cpp:162
+#, kde-format
+msgid "Ignore"
+msgstr "Bỏ qua"
+
+#: kgpgoptions.cpp:176
+#, kde-format
+msgid ""
+"Cannot create configuration file. Please check if destination media is "
+"mounted and if you have write access."
+msgstr ""
+"Không thể tạo tệp cấu hình. Vui lòng kiểm tra xem phương tiện đích có được "
+"gắn kết và bạn có quyền ghi không."
+
+#: kgpgoptions.cpp:199
+#, kde-format
+msgid "Key server URLs may not contain whitespace."
+msgstr "Các URL máy chủ khóa không được chứa khoảng trắng."
+
+#: kgpgoptions.cpp:204
+#, kde-format
+msgid "Key server already in the list."
+msgstr "Máy chủ khóa đã có trong danh sách."
+
+#: kgpgoptions.cpp:213
+#, kde-format
+msgid "Add New Key Server"
+msgstr "Thêm Máy Chủ Khóa Mới"
+
+#: kgpgoptions.cpp:213
+#, kde-format
+msgid "Server URL:"
+msgstr "URL máy chủ:"
+
+#: kgpgoptions.cpp:466 kgpgoptions.cpp:468
+#, kde-format
+msgctxt "no key available"
+msgid "none"
+msgstr "không có khóa nào"
+
+#: kgpgoptions.cpp:488
+#, kde-format
+msgid "Decrypt File"
+msgstr "Giải mật tệp"
+
+#: kgpgrevokewidget.cpp:38
+#, kde-format
+msgid "Create Revocation Certificate"
+msgstr "Tạo Chứng Chỉ Thu Hồi"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: kgpgrevokewidget.ui:18
+#, kde-format
+msgid "Create revocation certificate for"
+msgstr "Tạo chứng chỉ thu hồi cho"
+
+#. i18n: ectx: property (text), widget (QLabel, keyID)
+#: kgpgrevokewidget.ui:28
+#, kde-format
+msgid "key id"
+msgstr "mã định danh"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: kgpgrevokewidget.ui:45
+#, kde-format
+msgid "Reason for revocation:"
+msgstr "Lý do thu hồi:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, comboBox1)
+#: kgpgrevokewidget.ui:56
+#, kde-format
+msgid "No Reason"
+msgstr "Không có lý do"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, comboBox1)
+#: kgpgrevokewidget.ui:61
+#, kde-format
+msgid "Key Has Been Compromised"
+msgstr "Khóa đã bị xâm phạm"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, comboBox1)
+#: kgpgrevokewidget.ui:66
+#, kde-format
+msgid "Key is Superseded"
+msgstr "Khóa đã bị thay thế"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, comboBox1)
+#: kgpgrevokewidget.ui:71
+#, kde-format
+msgid "Key is No Longer Used"
+msgstr "Khóa không còn được sử dụng"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: kgpgrevokewidget.ui:81
+#, kde-format
+msgid "Description:"
+msgstr "Mô tả:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbSave)
+#: kgpgrevokewidget.ui:96
+#, kde-format
+msgid "Save certificate:"
+msgstr "Lưu chứng chỉ:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbPrint)
+#: kgpgrevokewidget.ui:111
+#, kde-format
+msgid "Print certificate"
+msgstr "In chứng chỉ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbImport)
+#: kgpgrevokewidget.ui:121
+#, kde-format
+msgid "Import into keyring"
+msgstr "Nhập khẩu vào bộ chìa khóa"
+
+#: main.cpp:27
+#, kde-kuit-format
+msgctxt "@title"
+msgid "<application>KGpg</application>"
+msgstr "<application>KGpg</application>"
+
+#: main.cpp:29
+#, kde-kuit-format
+msgctxt "@title"
+msgid "KGpg - simple gui for GnuPG"
+msgstr "KGpg - giao diện đơn giản cho GnuPG"
+
+#: main.cpp:31
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "&copy; 2003-2016, The KGpg Developers"
+msgstr "bản quyền © 2003-2016, Cá&c nhà phát triển KGpg"
+
+#: main.cpp:33
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Rolf Eike Beer"
+msgstr "Rolf Eike Beer"
+
+#: main.cpp:33
+#, kde-format
+msgctxt "@info:credit"
+msgid "Maintainer"
+msgstr "Bảo trì viên"
+
+#: main.cpp:34
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Jean-Baptiste Mardelle"
+msgstr "Jean-Baptiste Mardelle"
+
+#: main.cpp:34
+#, kde-format
+msgctxt "@info:credit"
+msgid "Author and former maintainer"
+msgstr "Tác giả và cựu bảo trì viên"
+
+#: main.cpp:35
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Jimmy Gilles"
+msgstr "Jimmy Gilles"
+
+#: main.cpp:36
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Andrius Štikonas"
+msgstr "Andrius Štikonas"
+
+#: main.cpp:36
+#, kde-format
+msgctxt "@info:credit"
+msgid "KF5 port"
+msgstr "Cổng KF5"
+
+#: model/gpgservermodel.cpp:73
+#, kde-format
+msgctxt "Mark default keyserver in GUI"
+msgid "%1 (Default)"
+msgstr "%1 (Mặc định)"
+
+#: model/keylistproxymodel.cpp:176
+#, kde-format
+msgctxt "ID: Name"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: model/keylistproxymodel.cpp:178
+#, kde-format
+msgctxt "ID: Name <Email>"
+msgid "%1: %2 <%3>"
+msgstr "%1: %2 <%3>"
+
+#: model/keylistproxymodel.cpp:183
+#, kde-format
+msgctxt "Name <Email>: ID"
+msgid "%1 <%2>: %3"
+msgstr "%1 <%2>: %3"
+
+#: model/kgpgitemmodel.cpp:179
+#, kde-format
+msgid "Trust: %1<br>Owner Trust: %2"
+msgstr "Độ tin cậy: %1<br>Độ tin cậy của chủ sở hữu: %2"
+
+#: model/kgpgitemmodel.cpp:183
+#, kde-format
+msgid "Trust: %1"
+msgstr "Độ tin cậy: %1"
+
+#: model/kgpgitemmodel.cpp:280 model/kgpgitemmodel.cpp:283
+#, kde-format
+msgid "1 Key"
+msgid_plural "%1 Keys"
+msgstr[0] "%1 Khóa"
+
+#: model/kgpgitemmodel.cpp:284
+#, kde-format
+msgid "1 Group"
+msgid_plural "%1 Groups"
+msgstr[0] "%1 Nhóm"
+
+#: model/kgpgitemmodel.cpp:286
+#, kde-format
+msgctxt "%1 = something like 7 keys, %2 = something like 2 groups"
+msgid "%1, %2"
+msgstr "%1, %2"
+
+#: model/kgpgitemmodel.cpp:382 model/kgpgsearchresultmodel.cpp:417
+#, kde-format
+msgid "Name"
+msgstr "Tên"
+
+#: model/kgpgitemmodel.cpp:383 model/kgpgsearchresultmodel.cpp:419
+#, kde-format
+msgctxt "@title:column Title of a column of emails"
+msgid "Email"
+msgstr "Thư"
+
+#: model/kgpgitemmodel.cpp:388
+#, kde-format
+msgid "ID"
+msgstr "mã định danh"
+
+#: model/kgpgsearchresultmodel.cpp:146
+#, kde-format
+msgctxt "example: ID abc123xy, 1024-bit RSA key, created Jan 12 2009, revoked"
+msgid "ID %1, %2-bit %3 key, created %4, revoked"
+msgstr "Mã định danh %1, khóa %3 %2-bit, được tạo vào %4, đã bị thu hồi"
+
+#: model/kgpgsearchresultmodel.cpp:151
+#, kde-format
+msgctxt "example: ID abc123xy, 1024-bit RSA key, created Jan 12 2009"
+msgid "ID %1, %2-bit %3 key, created %4"
+msgstr "Mã định danh %1, khóa %3 %2-bit, được tạo vào %4"
+
+#: model/kgpgsearchresultmodel.cpp:284
+#, kde-format
+msgid "One Photo ID"
+msgid_plural "%1 Photo IDs"
+msgstr[0] "%1 ID ảnh"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
+#: newkey.ui:20
+#, kde-format
+msgid "New Key Created"
+msgstr "Đã tạo khóa mới"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: newkey.ui:26
+#, kde-format
+msgid "You have successfully created the following key:"
+msgstr "Bạn đã tạo thành công khóa sau:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: newkey.ui:38
+#, kde-format
+msgid "Name:"
+msgstr "Tên:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel6)
+#: newkey.ui:116
+#, kde-format
+msgid "Fingerprint:"
+msgstr "Vân tay:"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, CBdefault)
+#: newkey.ui:137
+#, kde-format
+msgid ""
+"<qt><b>Set as your default key:</b><br />\n"
+"<p>Checking this option sets the newly created key pair as the default key "
+"pair.</p></qt>"
+msgstr ""
+"<qt><b>Đặt làm khóa mặc định của bạn:</b><br />\n<p>Đánh dấu lựa chọn này "
+"sẽ đặt cặp khóa mới tạo làm cặp khóa mặc định.</p></qt>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, CBdefault)
+#: newkey.ui:140
+#, kde-format
+msgid "Set as your default key"
+msgstr "Đặt làm khóa mặc định của bạn"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox1)
+#: newkey.ui:152
+#, kde-format
+msgid "Revocation Certificate"
+msgstr "Chứng chỉ thu hồi"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: newkey.ui:158
+#, kde-format
+msgid ""
+"It is recommended to save or print a revocation certificate in case your key "
+"is compromised."
+msgstr ""
+"Bạn nên lưu hoặc in một chứng chỉ thu hồi trong trường hợp khóa của bạn bị "
+"xâm phạm."
+
+#. i18n: ectx: property (text), widget (QCheckBox, CBsave)
+#: newkey.ui:170
+#, kde-format
+msgid "Save as:"
+msgstr "Lưu dưới tên:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, CBprint)
+#: newkey.ui:186
+#, kde-format
+msgid "Print"
+msgstr "In"
+
+#. i18n: ectx: property (text), widget (QCheckBox, validFilterCheckbox)
+#: searchres.ui:48
+#, kde-format
+msgid "Show only valid keys"
+msgstr "Chỉ hiển thị các khóa hợp lệ"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: searchres.ui:73
+#, kde-format
+msgid "Key to import:"
+msgstr "Khóa để nhập:"
+
+#: selectexpirydate.cpp:23
+#, kde-format
+msgid "Choose New Expiration"
+msgstr "Chọn Ngày Hết Hạn Mới"
+
+#: selectexpirydate.cpp:37
+#, kde-format
+msgctxt "Key has unlimited lifetime"
+msgid "Unlimited"
+msgstr "Không giới hạn"
+
+#: selectpublickeydialog.cpp:48 selectpublickeydialog.cpp:266
+#, kde-format
+msgid "&Options"
+msgstr "Tùy chọ&n"
+
+#: selectpublickeydialog.cpp:61
+#, kde-format
+msgid "Select Public Key"
+msgstr "Bôi đen Khoá Công Khai"
+
+#: selectpublickeydialog.cpp:64
+#, kde-format
+msgid "Select Public Key for %1"
+msgstr "Bôi đen Khoá Công Khai cho %1"
+
+#: selectpublickeydialog.cpp:67
+#, kde-format
+msgid "Select Public Key for %2 and one more file"
+msgid_plural "Select Public Key for %2 and %1 more files"
+msgstr[0] "Chọn Khoá Công Khai cho %2 và %1 tệp khác"
+
+#: selectpublickeydialog.cpp:75
+#, kde-format
+msgid "&Search: "
+msgstr "Tìm &kiếm: "
+
+#: selectpublickeydialog.cpp:92
+#, kde-format
+msgid ""
+"<b>Public keys list</b>: select the key that will be used for encryption."
+msgstr "<b>Danh sách khóa công khai</b>: bôi đen khóa sẽ được sử dụng để mã hóa."
+
+#: selectpublickeydialog.cpp:107
+#, kde-format
+msgid ""
+"<b>ASCII encryption</b>: makes it possible to open the encrypted file/"
+"message in a text editor"
+msgstr ""
+"<b>Mã hoá ASCII</b>: cho phép mở tệp/thông điệp đã mật mã hoá trong một "
+"trình biên tập văn bản"
+
+#: selectpublickeydialog.cpp:115
+#, kde-format
+msgid ""
+"<b>Allow encryption with untrusted keys</b>: when you import a public key, "
+"it is usually marked as untrusted and you cannot use it unless you sign it "
+"in order to make it 'trusted'. Checking this box enables you to use any key, "
+"even if it has not be signed."
+msgstr ""
+"<b>Cho phép mật mã hoá với các khoá không đáng tin cậy</b>: khi bạn nhập "
+"khẩu một khoá công khai, nó thường được đánh dấu là không đáng tin cậy và "
+"bạn không thể sử dụng nó trừ khi bạn ký nó để làm cho nó 'đáng tin cậy'. "
+"Đánh dấu hộp này cho phép bạn sử dụng bất kỳ khoá nào, ngay cả khi nó chưa "
+"được ký."
+
+#: selectpublickeydialog.cpp:122
+#, kde-format
+msgid ""
+"<b>Hide user ID</b>: Do not put the keyid into encrypted packets. This "
+"option hides the receiver of the message and is a countermeasure against "
+"traffic analysis. It may slow down the decryption process because all "
+"available secret keys are tried."
+msgstr ""
+"<b>Ẩn ID người dùng</b>: Không đặt keyid vào các gói mật mã. Lựa chọn này "
+"ẩn người nhận thông điệp và là biện pháp chống phân tích lưu lượng. Nó có "
+"thể làm chậm quá trình giải mật mã vì tất cả các khoá bí mật sẵn có sẽ được "
+"thử."
+
+#: selectpublickeydialog.cpp:126
+#, kde-format
+msgid "Symmetrical encryption"
+msgstr "Mật mã hoá đối xứng"
+
+#: selectpublickeydialog.cpp:128
+#, kde-format
+msgid ""
+"<b>Symmetrical encryption</b>: encryption does not use keys. You just need "
+"to give a password to encrypt/decrypt the file"
+msgstr ""
+"<b>Mật mã hoá đối xứng</b>: mật mã hoá không sử dụng khoá. Bạn chỉ cần cung "
+"cấp mật khẩu để mật mã hoá/giải mã tệp"
+
+#: selectpublickeydialog.cpp:142
+#, kde-format
+msgid "Custom option:"
+msgstr "Tùy chọn:"
+
+#: selectpublickeydialog.cpp:147
+#, kde-format
+msgid ""
+"<b>Custom option</b>: for experienced users only, allows you to enter a gpg "
+"command line option, like: '--armor'"
+msgstr ""
+"<b>Tùy chọn tùy chỉnh</b>: chỉ dành cho người dùng có kinh nghiệm, cho phép "
+"bạn nhập một tùy chọn dòng lệnh gpg, như: '--armor'"
+
+#: selectsecretkey.cpp:35
+#, kde-format
+msgid "Private Key List"
+msgstr "Danh sách Khoá Bí Mật"
+
+#: selectsecretkey.cpp:49
+#, kde-format
+msgid "Choose secret key for signing:"
+msgstr "Chọn khóa bí mật để ký:"
+
+#: selectsecretkey.cpp:64
+#, kde-format
+msgid ""
+"How carefully have you checked that the key really belongs to the person "
+"with whom you wish to communicate:"
+msgid_plural ""
+"How carefully have you checked that the %1 keys really belong to the people "
+"with whom you wish to communicate:"
+msgstr[0] ""
+"Bạn đã kiểm tra cẩn thận rằng các khóa %1 thực sự thuộc về những người mà "
+"bạn muốn giao tiếp chưa:"
+
+#: selectsecretkey.cpp:71
+#, kde-format
+msgid "I Will Not Answer"
+msgstr "Tôi sẽ không trả lời"
+
+#: selectsecretkey.cpp:72
+#, kde-format
+msgid "I Have Not Checked at All"
+msgstr "Tôi chưa kiểm tra gì cả"
+
+#: selectsecretkey.cpp:73
+#, kde-format
+msgid "I Have Done Casual Checking"
+msgstr "Tôi đã kiểm tra một cách thoải mái"
+
+#: selectsecretkey.cpp:74
+#, kde-format
+msgid "I Have Done Very Careful Checking"
+msgstr "Tôi đã kiểm tra rất cẩn thận"
+
+#: selectsecretkey.cpp:79
+#, kde-format
+msgid "Local signature (cannot be exported)"
+msgstr "Chữ ký cục bộ (không thể xuất)"
+
+#: selectsecretkey.cpp:83
+#, kde-format
+msgid "Do not sign all user id's (open terminal)"
+msgstr "Không ký tất cả các ID người dùng (mở terminal)"
+
+#. i18n: ectx: property (text), widget (QRadioButton, checkServer)
+#: sourceselect.ui:68
+#, kde-format
+msgid "&Keyserver:"
+msgstr "Máy c&hủ khóa:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, keyIds)
+#: sourceselect.ui:81
+#, kde-format
+msgid ""
+"Enter the ids or fingerprints of the keys to import as space separated list."
+msgstr ""
+"Nhập danh sách các ID hoặc vân tay của các khóa cần nhập khẩu, cách nhau "
+"bằng dấu cách."
+
+#: transactions/kgpgaddphoto.cpp:38
+#, kde-format
+msgid "This image is very large. Use it anyway?"
+msgstr "Ảnh này rất lớn. Vẫn sử dụng nó?"
+
+#: transactions/kgpgaddphoto.cpp:38
+#, kde-format
+msgid "Use Anyway"
+msgstr "Vẫn sử dụng"
+
+#: transactions/kgpgaddphoto.cpp:38
+#, kde-format
+msgid "Do Not Use"
+msgstr "Không sử dụng"
+
+#: transactions/kgpgchangepass.cpp:55
+#, kde-format
+msgid "Enter old passphrase for <b>%1</b>"
+msgstr "Nhập mật tổ cũ cho <b>%1</b>"
+
+#: transactions/kgpgchangepass.cpp:57
+#, kde-format
+msgid ""
+"<qt>Enter new passphrase for <b>%1</b><br />If you forget this passphrase "
+"all your encrypted files and messages will be inaccessible.</qt>"
+msgstr ""
+"<qt>Nhập mật tổ mới cho <b>%1</b><br />Nếu bạn quên mật tổ này, tất cả các "
+"tệp và tin nhắn đã mật mã hoá của bạn sẽ không thể truy cập được.</qt>"
+
+#: transactions/kgpgdecrypt.cpp:110
+#, kde-format
+msgctxt "Status message 'Decrypting <filename>' (operation starts)"
+msgid "Decrypting %1"
+msgstr "Đang giải mật mã %1"
+
+#: transactions/kgpgdecrypt.cpp:113
+#, kde-format
+msgctxt "Status message 'Decrypted <filename>' (operation was completed)"
+msgid "Decrypted %1"
+msgstr "Đã giải mật mã %1"
+
+#: transactions/kgpggeneratekey.cpp:52
+#, kde-format
+msgid "Generating New Key for %1"
+msgstr "Đang tạo khóa mới cho %1"
+
+#: transactions/kgpggeneratekey.cpp:125
+#, kde-format
+msgid ""
+"<p><b>Enter passphrase for %1 &lt;%2&gt;</b>:<br />Passphrase should include "
+"non alphanumeric characters and random sequences.</p>"
+msgstr ""
+"<p><b>Nhập mật tổ cho %1 &&lt;%2&gt;</b>:<br />Mật tổ nên bao gồm các ký tự "
+"không phải chữ và số và các chuỗi ngẫu nhiên.</p>"
+
+#: transactions/kgpggeneratekey.cpp:128
+#, kde-format
+msgid ""
+"<p><b>Enter passphrase for %1</b>:<br />Passphrase should include non "
+"alphanumeric characters and random sequences.</p>"
+msgstr ""
+"<p><b>Nhập mật tổ cho %1</b>:<br />Mật tổ nên bao gồm các ký tự không phải "
+"chữ và số và các chuỗi ngẫu nhiên.</p>"
+
+#: transactions/kgpggeneratekey.cpp:139
+#, kde-format
+msgid "Generating Key"
+msgstr "Đang tạo khóa"
+
+#: transactions/kgpggeneratekey.cpp:152
+#, kde-format
+msgid "Generating prime numbers"
+msgstr "Đang tạo số nguyên tố"
+
+#: transactions/kgpggeneratekey.cpp:154
+#, kde-format
+msgid "Generating DSA key"
+msgstr "Đang tạo khóa DSA"
+
+#: transactions/kgpggeneratekey.cpp:156
+#, kde-format
+msgid "Generating ElGamal key"
+msgstr "Đang tạo khóa ElGamal"
+
+#: transactions/kgpggeneratekey.cpp:158
+#, kde-format
+msgid "Waiting for entropy"
+msgstr "Đang chờ entropy"
+
+#: transactions/kgpggeneratekey.cpp:163
+#, kde-format
+msgid ""
+"The entropy pool ran empty. The key generation process is stalled until "
+"enough entropy is present. You can generate entropy e.g. by moving the mouse "
+"or typing at the keyboard. The easiest way is by using another application "
+"until the key generation continues."
+msgstr ""
+"Bể entropy đã cạn kiệt. Quá trình tạo khóa bị treo cho đến khi có đủ "
+"entropy. Bạn có thể tạo entropy, vd., bằng cách di chuyển chuột hoặc gõ bàn "
+"phím. Cách dễ nhất là sử dụng một ứng dụng khác cho đến khi quá trình tạo "
+"khóa tiếp tục."
+
+#: transactions/kgpggeneratekey.cpp:206
+#, kde-format
+msgid "Key %1 generated"
+msgstr "Đã tạo khóa %1"
+
+#: transactions/kgpggeneraterevoke.cpp:38
+#, kde-format
+msgid "Generating Revocation Certificate for key %1"
+msgstr "Đang tạo Chứng chỉ Thu hồi cho khóa %1"
+
+#: transactions/kgpgimport.cpp:117
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The import result string has an unsupported format in line %1.<nl/>Please "
+"see the detailed log for more information."
+msgstr ""
+"Chuỗi kết quả nhập khẩu có định dạng không được hỗ trợ ở dòng %1.<nl/>Vui "
+"lòng xem nhật kí chi tiết để biết thêm thông tin."
+
+#: transactions/kgpgimport.cpp:121
+#, kde-format
+msgid "No key imported.<br />Please see the detailed log for more information."
+msgstr ""
+"Không có khóa nào được nhập.<br />Vui lòng xem nhật kí chi tiết để biết "
+"thêm thông tin."
+
+#: transactions/kgpgimport.cpp:123
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<para>%1 key processed.</para>"
+msgid_plural "<para>%1 keys processed.</para>"
+msgstr[0] "<para>Đã xử lý %1 khóa.</para>"
+
+#: transactions/kgpgimport.cpp:126
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<para>One key without ID.</para>"
+msgid_plural "<para>%1 keys without ID.</para>"
+msgstr[0] "<para>%1 khóa không có ID.</para>"
+
+#: transactions/kgpgimport.cpp:128
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<para><emphasis strong='true'>One key imported:</emphasis></para>"
+msgid_plural ""
+"<para><emphasis strong='true'>%1 keys imported:</emphasis></para>"
+msgstr[0] "<para><emphasis strong='true'>Đã nhập %1 khóa:</emphasis></para>"
+
+#: transactions/kgpgimport.cpp:130
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<para>One RSA key imported.</para>"
+msgid_plural "<para>%1 RSA keys imported.</para>"
+msgstr[0] "<para>Đã nhập %1 khóa RSA.</para>"
+
+#: transactions/kgpgimport.cpp:132
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<para>One key unchanged.</para>"
+msgid_plural "<para>%1 keys unchanged.</para>"
+msgstr[0] "<para>%1 khóa không thay đổi.</para>"
+
+#: transactions/kgpgimport.cpp:134
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<para>One user ID imported.</para>"
+msgid_plural "<para>%1 user IDs imported.</para>"
+msgstr[0] "<para>Đã nhập %1 ID người dùng.</para>"
+
+#: transactions/kgpgimport.cpp:136
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<para>One subkey imported.</para>"
+msgid_plural "<para>%1 subkeys imported.</para>"
+msgstr[0] "<para>Đã nhập %1 khóa phụ.</para>"
+
+#: transactions/kgpgimport.cpp:138
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<para>One signature imported.</para>"
+msgid_plural "<para>%1 signatures imported.</para>"
+msgstr[0] "<para>Đã nhập %1 chữ ký.</para>"
+
+#: transactions/kgpgimport.cpp:140
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<para>One revocation certificate imported.</para>"
+msgid_plural "<para>%1 revocation certificates imported.</para>"
+msgstr[0] "<para>Đã nhập %1 chứng chỉ thu hồi.</para>"
+
+#: transactions/kgpgimport.cpp:142
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<para>One secret key processed.</para>"
+msgid_plural "<para>%1 secret keys processed.</para>"
+msgstr[0] "<para>Đã xử lý %1 khóa bí mật.</para>"
+
+#: transactions/kgpgimport.cpp:144
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para><emphasis strong='true'>One secret key imported.</emphasis></para>"
+msgid_plural ""
+"<para><emphasis strong='true'>%1 secret keys imported.</emphasis></para>"
+msgstr[0] "<para><emphasis strong='true'>Đã nhập %1 khóa bí mật.</emphasis></para>"
+
+#: transactions/kgpgimport.cpp:146
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<para>One secret key unchanged.</para>"
+msgid_plural "<para>%1 secret keys unchanged.</para>"
+msgstr[0] "<para>%1 khóa bí mật không thay đổi.</para>"
+
+#: transactions/kgpgimport.cpp:148
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<para>One secret key not imported.</para>"
+msgid_plural "<para>%1 secret keys not imported.</para>"
+msgstr[0] "<para>%1 khóa bí mật không được nhập.</para>"
+
+#: transactions/kgpgimport.cpp:151
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para><emphasis strong='true'>You have imported a secret key.</emphasis><nl/"
+">Please note that imported secret keys are not trusted by default.<nl/>To "
+"fully use this secret key for signing and encryption, you must edit the key "
+"(double click on it) and set its trust to Full or Ultimate.</para>"
+msgstr ""
+"<para><emphasis strong='true'>Bạn đã nhập một khóa bí "
+"mật.</emphasis><nl/>Xin lưu ý rằng các khóa bí mật được nhập không được tin "
+"cậy theo mặc định.<nl/>Để sử dụng đầy đủ khóa bí mật này cho việc ký và mã "
+"hóa, bạn phải sửa khóa (bấm đúp vào nó) và đặt mức độ tin cậy của nó thành "
+"Đầy đủ hoặc Tuyệt đối.</para>"
+
+#: transactions/kgpgimport.cpp:175
+#, kde-kuit-format
+msgctxt "@item ID: Name"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: transactions/kgpgimport.cpp:177
+#, kde-kuit-format
+msgctxt "@item ID: Name <Email>"
+msgid "%1: %2 <email>%3</email>"
+msgstr "%1: %2 <email>%3</email>"
+
+#: transactions/kgpgimport.cpp:221
+#, kde-format
+msgid "New Key"
+msgid_plural "New Keys"
+msgstr[0] "Khóa mới"
+
+#: transactions/kgpgimport.cpp:224
+#, kde-format
+msgid "Key with new User Id"
+msgid_plural "Keys with new User Ids"
+msgstr[0] "Khóa với Mã Người Dùng mới"
+
+#: transactions/kgpgimport.cpp:227
+#, kde-format
+msgid "Key with new Signatures"
+msgid_plural "Keys with new Signatures"
+msgstr[0] "Các khóa có chữ ký mới"
+
+#: transactions/kgpgimport.cpp:230
+#, kde-format
+msgid "Key with new Subkeys"
+msgid_plural "Keys with new Subkeys"
+msgstr[0] "Khóa với Subkey mới"
+
+#: transactions/kgpgimport.cpp:233
+#, kde-format
+msgid "New Private Key"
+msgid_plural "New Private Keys"
+msgstr[0] "Khóa Cá Nhân Mới"
+
+#: transactions/kgpgimport.cpp:249
+#, kde-format
+msgid "Unchanged Key"
+msgid_plural "Unchanged Keys"
+msgstr[0] "Khóa không thay đổi"
+
+#: transactions/kgpgkeyservertransaction.cpp:87
+#, kde-format
+msgid "<b>Connecting to the server...</b>"
+msgstr "<b>Đang kết nối đến máy chủ...</b>"
+
+#: transactions/kgpgkeyservertransaction.cpp:88
+#, kde-format
+msgid "Keyserver"
+msgstr "Máy chủ khóa"
+
+#: transactions/kgpgtransaction.cpp:76 transactions/kgpgtransaction.cpp:268
+#, kde-format
+msgid "Requesting Passphrase"
+msgstr "Yêu cầu mật tổ"
+
+#: transactions/kgpgtransaction.cpp:199
+#, kde-format
+msgid " or "
+msgstr "hoặc"
+
+#: transactions/kgpgtransaction.cpp:281
+#, kde-format
+msgid "Enter passphrase for <b>%1</b>"
+msgstr "Nhập mật tổ cho <b>%1</b>"
+
+#: transactions/kgpgtransaction.cpp:295
+#, kde-format
+msgid "<p><b>Bad passphrase</b>. You have 1 try left.</p>"
+msgid_plural "<p><b>Bad passphrase</b>. You have %1 tries left.</p>"
+msgstr[0] "<p><b>Mật khẩu không đúng</b>. Bạn còn %1 lần thử.</p>"
+
+#: transactions/kgpgtransactionprivate.cpp:82
+#, kde-format
+msgid "Got Passphrase"
+msgstr "Đã nhận được mật tổ"
+
+#: transactions/kgpgverify.cpp:86
+#, kde-kuit-format
+msgctxt ""
+"@info first argument is formatted date, second argument is formatted time"
+msgid "<para>The signature was created at %1 %2</para>"
+msgstr "<para>Chữ ký đã được tạo lúc %1 %2</para>"
+
+#: transactions/kgpgverify.cpp:122
+#, kde-kuit-format
+msgctxt "@info Good signature from: NAME , Key ID: HEXID"
+msgid ""
+"<para>Good signature from:<nl/><emphasis strong='true'>%1</emphasis><nl/>Key "
+"ID: %2<nl/></para>"
+msgstr ""
+"<para>Chữ ký hợp lệ từ:<nl/><emphasis strong='true'>%1</emphasis><nl/>ID "
+"khóa: %2<nl/></para>"
+
+#: transactions/kgpgverify.cpp:126
+#, kde-kuit-format
+msgctxt "@info Good signature from: NAME <EMAIL>, Key ID: HEXID"
+msgid ""
+"<para>Good signature from:<nl/><emphasis strong='true'>%1 <email>%2</email></"
+"emphasis><nl/>Key ID: %3</para>"
+msgstr ""
+"<para>Chữ ký hợp lệ từ:<nl/><emphasis strong='true'>%1 "
+"<email>%2</email></emphasis><nl/>ID Khóa: %3</para>"
+
+#: transactions/kgpgverify.cpp:139
+#, kde-kuit-format
+msgctxt "@info"
+msgid "No signature found."
+msgstr "Không tìm thấy chữ ký."
+
+#: transactions/kgpgverify.cpp:156
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>Good signature from:<nl/><emphasis strong='true'>%1</emphasis><nl/>Key "
+"ID: %2<nl/></para>"
+msgstr ""
+"<para>Chữ ký hợp lệ từ:<nl/><emphasis strong='true'>%1</emphasis><nl/>ID "
+"khóa: %2<nl/></para>"
+
+#: transactions/kgpgverify.cpp:160
+#, kde-kuit-format
+msgctxt "@info Good signature from: NAME <EMAIL>, Key ID: HEXID"
+msgid ""
+"<para>Good signature from:<nl/><emphasis strong='true'>%1 <email>%2</email></"
+"emphasis><nl/>Key ID: %3<nl/></para>"
+msgstr ""
+"<para>Chữ ký hợp lệ từ:<nl/><emphasis strong='true'>%1 "
+"<email>%2</email></emphasis><nl/>ID khóa: %3<nl/></para>"
+
+#: transactions/kgpgverify.cpp:172
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para><emphasis strong='true'>BAD signature</emphasis> from:<nl/> %1<nl/>Key "
+"ID: %2<nl/><nl/><emphasis strong='true'>The file is corrupted</emphasis></"
+"para>"
+msgstr ""
+"<para><emphasis strong='true'>Chữ ký KHÔNG HỢP LỆ</emphasis> từ:<nl/> "
+"%1<nl/>ID khóa: %2<nl/><nl/><emphasis strong='true'>Tệp đã bị "
+"hỏng</emphasis></para>"
+
+#: transactions/kgpgverify.cpp:175
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<para>The signature is valid, but the key is untrusted</para>"
+msgstr "<para>Chữ ký hợp lệ, nhưng khóa không đáng tin cậy</para>"
+
+#: transactions/kgpgverify.cpp:177
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<para>The signature is valid, and the key is ultimately trusted</para>"
+msgstr "<para>Chữ ký hợp lệ và khóa được tin cậy hoàn toàn</para>"

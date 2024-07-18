@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdeconnect-kde package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeconnect-kde\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-19 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: kdeconnectd.cpp:56
+#, kde-format
+msgid ""
+"Pairing request from %1\n"
+"Key: %2"
+msgstr "Yêu cầu ghép cặp từ %1\nKhóa: %2"
+
+#: kdeconnectd.cpp:64
+#, kde-format
+msgid "Open"
+msgstr "Mở"
+
+#: kdeconnectd.cpp:67
+#, kde-format
+msgid "Accept"
+msgstr "Chấp nhận"
+
+#: kdeconnectd.cpp:70
+#, kde-format
+msgid "Reject"
+msgstr "Từ chối"
+
+#: kdeconnectd.cpp:73
+#, kde-format
+msgid "View key"
+msgstr "Xem khóa"
+
+#: kdeconnectd.cpp:143 kdeconnectd.cpp:145
+#, kde-format
+msgid "KDE Connect Daemon"
+msgstr "Trình nền KDE Connect"
+
+#: kdeconnectd.cpp:151
+#, kde-format
+msgid "Replace an existing instance"
+msgstr "Thay thế một hiện thể hiện có"
+
+#: kdeconnectd.cpp:155
+#, kde-format
+msgid ""
+"Launch a private D-Bus daemon with kdeconnectd (macOS test-purpose only)"
+msgstr ""
+"Khởi chạy một trình nền D-Bus riêng tư với kdeconnectd (chỉ dành cho mục "
+"đích kiểm tra trên macOS)"

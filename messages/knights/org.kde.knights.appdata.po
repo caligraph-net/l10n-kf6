@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2024-04-04 00:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: component/name
+#: org.kde.knights.appdata.xml:9
+msgid "KNights"
+msgstr "Kỵ sĩ"
+
+#. (itstool) path: component/summary
+#: org.kde.knights.appdata.xml:10
+msgid "Chess game"
+msgstr "Trò chơi cờ vua"
+
+#. (itstool) path: description/p
+#: org.kde.knights.appdata.xml:12
+msgid "KNights is a chess game. As a player, your goal is to defeat your opponent by checkmating their king."
+msgstr ""
+"KNights là một trò chơi cờ vua. Với tư cách là người chơi, mục tiêu của bạn "
+"là đánh bại đối thủ bằng cách chiếm được vua của họ."
+
+#. (itstool) path: description/p
+#: org.kde.knights.appdata.xml:15
+msgid "Features:"
+msgstr "Tính năng:"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:17
+msgid "Local play between two players on the same computer"
+msgstr "Chơi cục bộ giữa hai người chơi trên cùng một máy tính"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:18
+msgid "Play against any computer program that supports the XBoard protocol"
+msgstr "Chơi với bất kỳ chương trình máy tính nào hỗ trợ giao thức XBoard"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:19
+msgid "Play on the Free Internet Chess Server (FICS)"
+msgstr "Chơi trên Máy chủ Cờ vua Internet Miễn phí (FICS)"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:20
+msgid "Watching two computer engines play against each other"
+msgstr "Xem hai máy tính chơi với nhau"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:21
+msgid "Support for legal move checking"
+msgstr "Hỗ trợ kiểm tra các nước đi hợp pháp"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:22
+msgid "Markers for possible moves, opponent’s last move and sources of check"
+msgstr ""
+"Các dấu hiệu cho các nước đi có thể, nước đi cuối cùng của đối thủ và các "
+"nguồn gây cờ chiếu"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:23
+msgid "Board borders and site notations"
+msgstr "Đường viền bàn cờ và ký hiệu vị trí"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:24
+msgid "Complete time control, with Plasma-styled clocks"
+msgstr "Điều khiển thời gian hoàn tất, với đồng hồ kiểu Plasma"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:25
+msgid "Several themes, with the possibility of downloading new ones from within the program"
+msgstr ""
+"Nhiều chủ đề, với khả năng tải về những chủ đề mới từ bên trong chương "
+"trình"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:26
+msgid "Animated moves (configurable)"
+msgstr "Các nước đi được hiển thị bằng hình ảnh động (có thể cấu hình)"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:27
+msgid "Views for playing on a chess server, including a seek graph, text console, and chat widget"
+msgstr ""
+"Các chế độ xem để chơi trên máy chủ cờ vua, bao gồm biểu đồ tìm kiếm, bảng "
+"điều khiển văn bản và tiện ích trò chuyện"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:28
+msgid "Option to undo and redo moves"
+msgstr "Lựa chọn để đảo ngược và làm lại các nước đi"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:29
+msgid "Graphic interface for making and receiving offers from remote players"
+msgstr "Giao diện đồ họa để tạo và nhận lời đề nghị từ người chơi từ xa"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:30
+msgid "Support for the UCI protocol (used by Stockfish, Chessbase, and many others)"
+msgstr ""
+"Hỗ trợ giao thức UCI (được sử dụng bởi Stockfish, Chessbase và nhiều người "
+"khác)"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:31
+msgid "Support for saving and loading Portable game notation (PGN) files"
+msgstr "Hỗ trợ lưu và tải tệp Portable game notation (PGN)"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:32
+msgid "Use of Jovie, the KDE text-to-speak program, to speak opponent’s moves"
+msgstr ""
+"Sử dụng Jovie, chương trình chuyển văn bản sang giọng nói của KDE, để đọc "
+"các nước đi của đối thủ"
+
+#. (itstool) path: ul/li
+#: org.kde.knights.appdata.xml:33
+msgid "Ability to control the program via a D-Bus interface"
+msgstr "Khả năng điều khiển chương trình thông qua giao diện D-Bus"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.knights.appdata.xml:38
+msgid "Knights, chess game"
+msgstr "Cờ vua, trò chơi cờ vua"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.knights.appdata.xml:42
+msgid "Main Window - Human vs. Chess Engine"
+msgstr "Cửa sổ chính - Con người vs. Dụng cụ cờ vua"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.knights.appdata.xml:46
+msgid "Main Window - Chess Engine vs. Chess Engine"
+msgstr "Cửa sổ chính - Dụng cụ cờ vua vs. Dụng cụ cờ vua"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.knights.appdata.xml:50
+msgid "\"New Game\" Dialog"
+msgstr "Hộp thoại \"Trò chơi mới\""
+
+#. (itstool) path: screenshot/caption
+#: org.kde.knights.appdata.xml:54
+msgid "Auto-Detection of Chess Engines"
+msgstr "Tự động phát hiện các Máy chơi cờ"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.knights.appdata.xml:58
+msgid "Playing online - FICS Console"
+msgstr "Chơi trực tuyến - Bàn điều khiển FICS"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.knights.appdata.xml:62
+msgid "Playing online - graphical Seek-Graph"
+msgstr "Chơi trực tuyến - Đồ thị Seek-Graph đồ họa"

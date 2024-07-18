@@ -1,0 +1,504 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the dragon package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: dragon\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-01-27 00:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#. i18n: ectx: Menu (file)
+#: misc/dragonplayerui.rc:4
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Play"
+msgstr "&Phát"
+
+#. i18n: ectx: Menu (play_media_menu)
+#: misc/dragonplayerui.rc:5
+#, kde-format
+msgctxt "@title:menu"
+msgid "Play Media"
+msgstr "Phát Phương Tiện"
+
+#. i18n: ectx: Menu (settings)
+#: misc/dragonplayerui.rc:20
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Settings"
+msgstr "t&hiết lập"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: misc/dragonplayerui.rc:37
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Thanh công cụ chính"
+
+#: src/app/actions.cpp:24
+#, kde-format
+msgctxt "@action"
+msgid "Play"
+msgstr "Phát"
+
+#: src/app/actions.cpp:25
+#, kde-format
+msgctxt "@action"
+msgid "Pause"
+msgstr "Tạm dừng"
+
+#: src/app/actions.cpp:40
+#, kde-format
+msgctxt "@option:check Volume of sound output"
+msgid "Volume"
+msgstr "Âm lượng"
+
+#: src/app/adjustSizeButton.cpp:38
+#, kde-format
+msgctxt "@action:button"
+msgid "Preferred Scale"
+msgstr "Tỉ lệ ưa thích"
+
+#: src/app/adjustSizeButton.cpp:42
+#, kde-format
+msgctxt "@action:button"
+msgid "Scale 100%"
+msgstr "Tỉ lệ 100%"
+
+#: src/app/adjustSizeButton.cpp:49
+#, kde-format
+msgid "<b>Adjust video scale?</b>"
+msgstr "<b>Điều chỉnh tỷ lệ phim?</b>"
+
+#: src/app/discSelectionDialog.cpp:37
+#, kde-format
+msgctxt ""
+"%1 is the disc type, %2 is the name of the disc that the user can choose. "
+"Ex. 'DVD: OfficeSpace'"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: src/app/discSelectionDialog.cpp:56
+#, kde-format
+msgctxt "Digital Versatile Disc, but keep it short"
+msgid "DVD"
+msgstr "DVD"
+
+#: src/app/discSelectionDialog.cpp:58
+#, kde-format
+msgid "Video CD"
+msgstr "Đĩa CD video"
+
+#: src/app/discSelectionDialog.cpp:60
+#, kde-format
+msgid "Audio CD"
+msgstr "Đĩa CD âm thanh"
+
+#: src/app/discSelectionDialog.cpp:62
+#, kde-format
+msgid "Data CD"
+msgstr "Đĩa dữ liệu"
+
+#: src/app/discSelectionDialog.cpp:73
+#, kde-format
+msgctxt "@title:window"
+msgid "Select a Disc"
+msgstr "Chọn một Đĩa"
+
+#: src/app/discSelectionDialog.cpp:75
+#, kde-format
+msgid "Select a disc to play."
+msgstr "Chọn một đĩa để phát."
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: src/app/loadView.ui:61
+#, kde-format
+msgid "Welcome to Dragon Player"
+msgstr "Chào mừng đến Dragon Player"
+
+#: src/app/main.cpp:35
+#, kde-format
+msgid "Dragon Player"
+msgstr "Dragon Player"
+
+#: src/app/main.cpp:37
+#, kde-format
+msgid "A video player that has a usability focus"
+msgstr "Một trình phát video tập trung vào tính dễ sử dụng"
+
+#: src/app/main.cpp:39
+#, kde-format
+msgid ""
+"Copyright 2006, Max Howell\n"
+"Copyright 2007, Ian Monroe"
+msgstr "Bản quyền 2006, Max Howell\nBản quyền 2007, Ian Monroe"
+
+#: src/app/main.cpp:43
+#, kde-format
+msgid "Improvements and polish"
+msgstr "Cải thiện và hoàn thiện"
+
+#: src/app/main.cpp:44
+#, kde-format
+msgid "Creator of Phonon"
+msgstr "Người sáng lập ra Phonon"
+
+#: src/app/main.cpp:45
+#, kde-format
+msgid "Dragon Player icon"
+msgstr "Biểu tượng Dragon Player"
+
+#: src/app/main.cpp:46
+#, kde-format
+msgid "Handbook"
+msgstr "Sổ tay"
+
+#: src/app/main.cpp:47
+#, kde-format
+msgid "Great reference code"
+msgstr "Mã tham chiếu tuyệt vời"
+
+#: src/app/main.cpp:48
+#, kde-format
+msgid "Yatta happened to be the only video on my laptop to test with. :)"
+msgstr ""
+"Yatta tình cờ là video duy nhất trên máy tính xách tay của tôi để kiểm thử. "
+":)"
+
+#: src/app/main.cpp:49
+#, kde-format
+msgid "MPRIS v2 support"
+msgstr "Hỗ trợ MPRIS v2"
+
+#: src/app/main.cpp:50
+#, kde-format
+msgid "Port to KF5/Plasma 5"
+msgstr "Chuyển sang KF5/Plasma 5"
+
+#: src/app/main.cpp:59
+#, kde-format
+msgid "Play DVD Video"
+msgstr "Phát phim DVD"
+
+#: src/app/main.cpp:61
+#, kde-format
+msgid "Play 'URL'"
+msgstr "Phát 'URL'"
+
+#: src/app/mainWindow.cpp:138
+#, kde-format
+msgctxt "@title:menu"
+msgid "Aspect &Ratio"
+msgstr "Tỉ lệ khun&g"
+
+#: src/app/mainWindow.cpp:139
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Audio Channels"
+msgstr "Kênh âm &thanh"
+
+#: src/app/mainWindow.cpp:140
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Subtitles"
+msgstr "&Phụ đề"
+
+#: src/app/mainWindow.cpp:153
+#, kde-format
+msgctxt "@option:radio aspect ratio"
+msgid "Determine &Automatically"
+msgstr "Xác đị&nh tự động"
+
+#: src/app/mainWindow.cpp:154
+#, kde-format
+msgctxt "@option:radio aspect ratio"
+msgid "&4:3"
+msgstr "&4:3"
+
+#: src/app/mainWindow.cpp:155
+#, kde-format
+msgctxt "@option:radio aspect ratio"
+msgid "Ana&morphic (16:9)"
+msgstr "Ana&morphic (16:9)"
+
+#: src/app/mainWindow.cpp:156
+#, kde-format
+msgctxt "@option:radio aspect ratio"
+msgid "&Window Size"
+msgstr "Kí&ch thước cửa sổ"
+
+#: src/app/mainWindow.cpp:237
+#, kde-format
+msgid ""
+"<qt>Phonon could not be successfully initialized. Dragon Player will now "
+"exit.</qt>"
+msgstr ""
+"<qt>Phonon không khởi tạo được thành công. Dragon Player sẽ thoát ngay bây "
+"giờ.</qt>"
+
+#: src/app/mainWindow.cpp:300
+#, kde-format
+msgctxt "@action"
+msgid "Play File…"
+msgstr "Phát Tệp..."
+
+#: src/app/mainWindow.cpp:301
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Open a media file for playback"
+msgstr "Mở một tệp phương tiện để phát lại"
+
+#: src/app/mainWindow.cpp:310
+#, kde-format
+msgctxt "@action"
+msgid "Play Stream…"
+msgstr "Phát Luồng..."
+
+#: src/app/mainWindow.cpp:316
+#, kde-format
+msgctxt "@action"
+msgid "Play Disc"
+msgstr "Phát Đĩa"
+
+#: src/app/mainWindow.cpp:340
+#, kde-format
+msgctxt "@action"
+msgid "Increase Volume"
+msgstr "Tăng âm lượng"
+
+#: src/app/mainWindow.cpp:345
+#, kde-format
+msgctxt "@action"
+msgid "Decrease Volume"
+msgstr "Giảm âm lượng"
+
+#: src/app/mainWindow.cpp:350
+#, kde-format
+msgctxt "@action"
+msgid "Stop"
+msgstr "Dừng"
+
+#: src/app/mainWindow.cpp:356
+#, kde-format
+msgctxt "@action Mute the sound output"
+msgid "Mute"
+msgstr "Tắt tiếng"
+
+#: src/app/mainWindow.cpp:362
+#, kde-format
+msgctxt "@action"
+msgid "Reset Video Scale"
+msgstr "Đặt lại Tỉ lệ Video"
+
+#: src/app/mainWindow.cpp:368
+#, kde-format
+msgctxt "@action"
+msgid "Menu Toggle"
+msgstr "Chuyển đổi trình đơn"
+
+#: src/app/mainWindow.cpp:376 src/app/part.cpp:54
+#, kde-format
+msgid "Position Slider"
+msgstr "Thanh trượt"
+
+#: src/app/mainWindow.cpp:380
+#, kde-format
+msgctxt "@option:check"
+msgid "Video Settings"
+msgstr "Thiết lập phim"
+
+#: src/app/mainWindow.cpp:388
+#, kde-format
+msgctxt ""
+"@option:check Whether only one instance of dragon can be started and will be "
+"reused when the user tries to play another file."
+msgid "One Instance Only"
+msgstr "Chỉ một hiện thể"
+
+#: src/app/mainWindow.cpp:396
+#, kde-format
+msgctxt "@action previous chapter"
+msgid "Previous"
+msgstr "Trước"
+
+#: src/app/mainWindow.cpp:402
+#, kde-format
+msgctxt "@action next chapter"
+msgid "Next"
+msgstr "Tiếp"
+
+#: src/app/mainWindow.cpp:409
+#, no-c-format, kde-format
+msgctxt "@action"
+msgid "Return 10% Back"
+msgstr "Hoàn lại 10%"
+
+#: src/app/mainWindow.cpp:416
+#, no-c-format, kde-format
+msgctxt "@action"
+msgid "Go 10% Forward"
+msgstr "Tiến 10%"
+
+#: src/app/mainWindow.cpp:422
+#, kde-format
+msgctxt "@action"
+msgid "Return 10 Seconds Back"
+msgstr "Quay lại 10 giây"
+
+#: src/app/mainWindow.cpp:428
+#, kde-format
+msgctxt "@action"
+msgid "Go 10 Seconds Forward"
+msgstr "Tiến 10 giây"
+
+#: src/app/mainWindow.cpp:508
+#, kde-format
+msgctxt "@option:check Mute the sound output"
+msgid "Mute"
+msgstr "Tắt tiếng"
+
+#: src/app/mainWindow.cpp:580
+#, kde-format
+msgid "Dragon Player was asked to open an empty URL; it cannot."
+msgstr "Dragon Player được yêu cầu mở một URL trống; nó không thể làm được."
+
+#: src/app/mainWindow.cpp:657
+#, kde-format
+msgctxt "@title:window"
+msgid "Select File to Play"
+msgstr "Chọn Tệp để Phát"
+
+#: src/app/mainWindow.cpp:684
+#, kde-format
+msgctxt "@title:window"
+msgid "Stream to Play"
+msgstr "Phát luồng"
+
+#: src/app/mainWindow.cpp:684
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Stream:"
+msgstr "Luồng:"
+
+#: src/app/mainWindow.cpp:814
+#, kde-format
+msgid "Sorry, no media was found in the drop"
+msgstr "Xin lỗi, không tìm thấy phương tiện nào trong lần thả"
+
+#: src/app/mainWindow.cpp:867
+#, kde-format
+msgctxt "Notification inhibition reason"
+msgid "Playing a video"
+msgstr "Đang phát video"
+
+#: src/app/mainWindow.cpp:914
+#, kde-format
+msgid "No media loaded"
+msgstr "Không có phương tiện nào được tải"
+
+#: src/app/mainWindow.cpp:916
+#, kde-format
+msgid "Paused"
+msgstr "Đã tạm dừng"
+
+#: src/app/playlistFile.cpp:37
+#, kde-format
+msgid "The file is not a playlist"
+msgstr "Tệp này không phải là danh sách phát"
+
+#: src/app/playlistFile.cpp:45
+#, kde-format
+msgid "Dragon Player could not download the remote playlist: %1"
+msgstr "Dragon Player không thể tải về danh sách phát ở xa: %1"
+
+#: src/app/playlistFile.cpp:66
+#, kde-format
+msgid ""
+"<qt>The playlist, <i>'%1'</i>, could not be interpreted. Perhaps it is empty?"
+"</qt>"
+msgstr ""
+"<qt>Danh sách phát, <i>'%1'</i>, không thể được diễn giải. Có thể nó trống "
+"không?</qt>"
+
+#: src/app/playlistFile.cpp:70
+#, kde-format
+msgid "Dragon Player could not open the file: %1"
+msgstr "Dragon Player không thể mở tệp: %1"
+
+#: src/app/theStream.cpp:145
+#, kde-format
+msgid "Track %1/%2"
+msgstr "Bản nhạc %1/%2"
+
+#. i18n: ectx: property (text), widget (QLabel, brightnessLabel)
+#: src/app/videoSettingsWidget.ui:19
+#, kde-format
+msgctxt "@label:slider"
+msgid "Brightness:"
+msgstr "Độ sáng:"
+
+#. i18n: ectx: property (text), widget (QLabel, contrastLabel)
+#: src/app/videoSettingsWidget.ui:42
+#, kde-format
+msgctxt "@label:slider"
+msgid "Contrast:"
+msgstr "Độ tương phản:"
+
+#. i18n: ectx: property (text), widget (QLabel, hueLabel)
+#: src/app/videoSettingsWidget.ui:65
+#, kde-format
+msgctxt "@label:slider"
+msgid "Hue:"
+msgstr "Sắc độ:"
+
+#. i18n: ectx: property (text), widget (QLabel, saturationLabel)
+#: src/app/videoSettingsWidget.ui:88
+#, kde-format
+msgctxt "@label:slider"
+msgid "Saturation:"
+msgstr "Độ bão hòa:"
+
+#. i18n: ectx: property (text), widget (QPushButton, defaultsButton)
+#: src/app/videoSettingsWidget.ui:128
+#, kde-format
+msgctxt "@action:button"
+msgid "Restore Defaults"
+msgstr "Khôi phục Mặc định"
+
+#. i18n: ectx: property (text), widget (QPushButton, closeButton)
+#: src/app/videoSettingsWidget.ui:135
+#, kde-format
+msgctxt "@action:button"
+msgid "Close"
+msgstr "Đóng"
+
+#: src/app/videoWindow.cpp:107
+#, kde-format
+msgctxt "@option:radio"
+msgid "&DVD Subtitle Selection"
+msgstr "Lựa chọn phụ đề &DVD"
+
+#: src/app/videoWindow.cpp:117
+#, kde-format
+msgctxt "@option:radio audio language"
+msgid "&Auto"
+msgstr "Tự độ&ng"

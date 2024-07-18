@@ -1,0 +1,447 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+
+#: k7zip.cpp:2323
+msgctxt "K7Zip|"
+msgid "Could not get underlying device"
+msgstr "Không thể lấy được thiết bị cơ bản"
+
+#: k7zip.cpp:2331
+msgctxt "K7Zip|"
+msgid "Read header failed"
+msgstr "Đọc đầu tải thất bại"
+
+#: k7zip.cpp:2337
+msgctxt "K7Zip|"
+msgid "Check signature failed"
+msgstr "Kiểm tra chữ ký không thành công"
+
+#: k7zip.cpp:2360
+msgctxt "K7Zip|"
+msgid "Bad CRC"
+msgstr "CRC sai"
+
+#: k7zip.cpp:2369
+msgctxt "K7Zip|"
+msgid "Next header size is too big"
+msgstr "Kích thước đầu tải tiếp theo quá lớn"
+
+#: k7zip.cpp:2374
+msgctxt "K7Zip|"
+msgid "Next header size is less than zero"
+msgstr "Kích thước đầu tải tiếp theo nhỏ hơn không"
+
+#: k7zip.cpp:2385
+#, qt-format
+msgctxt "K7Zip|"
+msgid "Failed read next header size; should read %1, read %2"
+msgstr "Không thể đọc kích thước đầu tải tiếp theo; nên đọc %1, đã đọc %2"
+
+#: k7zip.cpp:2397
+msgctxt "K7Zip|"
+msgid "Bad next header CRC"
+msgstr "Lỗi CRC đầu tải tiếp theo"
+
+#: k7zip.cpp:2405
+msgctxt "K7Zip|"
+msgid "Error in header"
+msgstr "Lỗi trong đầu tải"
+
+#: k7zip.cpp:2424
+msgctxt "K7Zip|"
+msgid "Wrong header type"
+msgstr "Sai kiểu đầu tải"
+
+#: k7zip.cpp:2434 k7zip.cpp:2440
+msgctxt "K7Zip|"
+msgid "Not implemented"
+msgstr "Chưa được thực hiện"
+
+#: k7zip.cpp:2446
+msgctxt "K7Zip|"
+msgid "Error while reading main streams information"
+msgstr "Lỗi khi đọc thông tin về các luồng chính"
+
+#: k7zip.cpp:2464
+msgctxt "K7Zip|"
+msgid "Error while reading header"
+msgstr "Lỗi khi đọc đầu tải"
+
+#: k7zip.cpp:2524
+msgctxt "K7Zip|"
+msgid "Error reading modification time"
+msgstr "Lỗi khi đọc thời gian chỉnh sửa"
+
+#: k7zip.cpp:2570
+msgctxt "K7Zip|"
+msgid "Error reading MTime"
+msgstr "Lỗi đọc MTime"
+
+#: k7zip.cpp:2577
+msgctxt "K7Zip|"
+msgid "Invalid"
+msgstr "Không hợp lệ"
+
+#: k7zip.cpp:2599
+#, qt-format
+msgctxt "K7Zip|"
+msgid "Read size failed (checkRecordsSize: %1, d->pos - ppp: %2, size: %3)"
+msgstr "Đọc kích thước thất bại (checkRecordsSize: %1, d->pos - ppp: %2, size: %3)"
+
+#: k7zip.cpp:2800
+msgctxt "K7Zip|"
+msgid "Write error"
+msgstr "Lỗi ghi"
+
+#: k7zip.cpp:2830
+msgctxt "K7Zip|"
+msgid "Failed while encoding header"
+msgstr "Gặp lỗi khi mã hoá đầu tải"
+
+#: k7zip.cpp:2874
+msgctxt "K7Zip|"
+msgid "No file currently selected"
+msgstr "Chưa chọn tệp nào"
+
+#: k7zip.cpp:2898 k7zip.cpp:2948 k7zip.cpp:2990
+msgctxt "K7Zip|"
+msgid "Application error: 7-Zip file must be open before being written into"
+msgstr "Lỗi ứng dụng: Tệp 7-Zip phải được mở trước khi được ghi vào"
+
+#: k7zip.cpp:2904 k7zip.cpp:2996
+msgctxt "K7Zip|"
+msgid "Application error: attempted to write into non-writable 7-Zip file"
+msgstr "Lỗi ứng dụng: đã cố ghi vào tệp 7-Zip không thể ghi"
+
+#: kar.cpp:56 kar.cpp:63 kar.cpp:70 kar.cpp:77
+msgctxt "KAr|"
+msgid "Cannot write to AR file"
+msgstr "Không thể ghi vào tệp AR"
+
+#: kar.cpp:90
+#, qt-format
+msgctxt "KAr|"
+msgid "Unsupported mode %1"
+msgstr "Chế độ không được hỗ trợ %1"
+
+#: kar.cpp:101
+msgctxt "KAr|"
+msgid "Invalid main magic"
+msgstr "Phép màu chính không hợp lệ"
+
+#: kar.cpp:118
+msgctxt "KAr|"
+msgid "Invalid magic"
+msgstr "Phép màu không hợp lệ"
+
+#: kar.cpp:129
+msgctxt "KAr|"
+msgid "Invalid size"
+msgstr "Kích thước không hợp lệ"
+
+#: kar.cpp:149
+msgctxt "KAr|"
+msgid "Invalid longfilename reference"
+msgstr "Tham chiếu tên tệp dài không hợp lệ"
+
+#: kar.cpp:153
+msgctxt "KAr|"
+msgid "Invalid longfilename position reference"
+msgstr "Tham chiếu vị trí tên tệp dài không hợp lệ"
+
+#: karchive.cpp:157
+msgctxt "KArchive|"
+msgid "No filename or device was specified"
+msgstr "Không có tên tệp hoặc thiết bị được chỉ định"
+
+#: karchive.cpp:162
+#, qt-format
+msgctxt "KArchive|"
+msgid "Could not open device in mode %1"
+msgstr "Không thể mở thiết bị ở chế độ %1"
+
+#: karchive.cpp:189
+#, qt-format
+msgctxt "KArchive|"
+msgid "QSaveFile creation for %1 failed: %2"
+msgstr "Tạo tệp QSaveFile cho %1 không thành công: %2"
+
+#: karchive.cpp:208
+#, qt-format
+msgctxt "KArchive|"
+msgid "Unsupported mode %1"
+msgstr "Chế độ không được hỗ trợ %1"
+
+#: karchive.cpp:217
+msgctxt "KArchive|"
+msgid "Archive already closed"
+msgstr "Kho trữ đã đóng"
+
+#: karchive.cpp:268
+#, qt-format
+msgctxt "KArchive|"
+msgid "%1 doesn't exist or is not a regular file."
+msgstr "%1 không tồn tại hoặc không phải là một tệp thông thường."
+
+#: karchive.cpp:274
+#, qt-format
+msgctxt "KArchive|"
+msgid ""
+"Failed accessing the file %1 for adding to the archive. The error was: %2"
+msgstr "Không thể truy cập tệp %1 để thêm vào kho lưu trữ. Lỗi là: %2"
+
+#: karchive.cpp:320
+#, qt-format
+msgctxt "KArchive|"
+msgid "Couldn't open file %1: %2"
+msgstr "Không thể mở tệp %1: %2"
+
+#: karchive.cpp:354
+#, qt-format
+msgctxt "KArchive|"
+msgid "Directory %1 does not exist"
+msgstr "Thư mục %1 không tồn tại"
+
+#: karchive.cpp:428
+#, qt-format
+msgctxt "KArchive|"
+msgid "Writing failed: %1"
+msgstr "Ghi thất bại: %1"
+
+#: karchive_p.h:56
+msgctxt "QIODevice|"
+msgid "Unknown error"
+msgstr "Lỗi không rõ"
+
+#: kcompressiondevice.cpp:487
+msgctxt "KCompressionDevice|"
+msgid "Could not write. Partition full?"
+msgstr "Không thể ghi. Phân vùng đầy?"
+
+#: krcc.cpp:83 krcc.cpp:90 krcc.cpp:97 krcc.cpp:104
+msgctxt "KRcc|"
+msgid "Cannot write to RCC file"
+msgstr "Không thể ghi vào tệp RCC"
+
+#: krcc.cpp:117
+#, qt-format
+msgctxt "KRcc|"
+msgid "Unsupported mode %1"
+msgstr "Chế độ không được hỗ trợ %1"
+
+#: krcc.cpp:124
+#, qt-format
+msgctxt "KRcc|"
+msgid "Failed to register resource %1 under prefix %2"
+msgstr "Không thể đăng ký tài nguyên %1 với tiền tố %2"
+
+#: ktar.cpp:344
+#, qt-format
+msgctxt "KTar|"
+msgid "File %1 does not exist"
+msgstr "Tệp %1 không tồn tại"
+
+#: ktar.cpp:351
+#, qt-format
+msgctxt "KTar|"
+msgid "Archive %1 is corrupt"
+msgstr "Kho trữ %1 bị hỏng"
+
+#: ktar.cpp:355
+msgctxt "KTar|"
+msgid "Disk full"
+msgstr "Đĩa đầy"
+
+#: ktar.cpp:389
+msgctxt "KTar|"
+msgid "Could not get underlying device"
+msgstr "Không thể lấy được thiết bị cơ bản"
+
+#: ktar.cpp:404
+msgctxt "KTar|"
+msgid "Could not read tar header"
+msgstr "Không thể đọc được đầu tải tar"
+
+#: ktar.cpp:586
+#, qt-format
+msgctxt "KTar|"
+msgid "Failed to write back temp file: %1"
+msgstr "Không thể ghi lại tệp tạm thời: %1"
+
+#: ktar.cpp:642
+#, qt-format
+msgctxt "KTar|"
+msgid "Couldn't write alignment: %1"
+msgstr "Không thể ghi chỉnh sửa: %1"
+
+#: ktar.cpp:765 ktar.cpp:848 ktar.cpp:917
+msgctxt "KTar|"
+msgid "Application error: TAR file must be open before being written into"
+msgstr "Lỗi ứng dụng: Tệp TAR phải được mở trước khi được ghi vào"
+
+#: ktar.cpp:771
+msgctxt "KTar|"
+msgid "Application error: attempted to write into non-writable 7-Zip file"
+msgstr "Lỗi ứng dụng: đã cố ghi vào tệp 7-Zip không thể ghi"
+
+#: ktar.cpp:778
+#, qt-format
+msgctxt "KTar|"
+msgid "Application limitation: Can not add file larger than %1 bytes"
+msgstr "Giới hạn của ứng dụng: Không thể thêm tệp lớn hơn %1 byte"
+
+#: ktar.cpp:832
+#, qt-format
+msgctxt "KTar|"
+msgid "Failed to write header: %1"
+msgstr "Không thể ghi tiêu đề: %1"
+
+#: ktar.cpp:854 ktar.cpp:923
+msgctxt "KTar|"
+msgid "Application error: attempted to write into non-writable TAR file"
+msgstr "Lỗi ứng dụng: đã cố ghi vào tệp TAR không thể ghi"
+
+#: kzip.cpp:463 kzip.cpp:482
+#, qt-format
+msgctxt "KZip|"
+msgid "Invalid ZIP file. Unexpected end of file. (Error code: %1)"
+msgstr "Tệp ZIP không hợp lệ. Kết thúc tệp bất ngờ. (Mã lỗi: %1)"
+
+#: kzip.cpp:506
+msgctxt "KZip|"
+msgid "Invalid ZIP file. Negative name length"
+msgstr "Tệp ZIP không hợp lệ. Độ dài tên âm"
+
+#: kzip.cpp:511
+msgctxt "KZip|"
+msgid "Invalid ZIP file. Name not completely read (#2)"
+msgstr "Tệp ZIP không hợp lệ. Tên không được đọc hoàn toàn (#2)"
+
+#: kzip.cpp:530
+msgctxt "KZip|"
+msgid "Invalid ZIP File. Broken ExtraField."
+msgstr "Tệp ZIP không hợp lệ. ExtraField bị hỏng."
+
+#: kzip.cpp:544 kzip.cpp:567
+msgctxt "KZip|"
+msgid "Could not seek to next header token"
+msgstr "Không thể tìm đến hiệu bài tiếp theo của đầu tải"
+
+#: kzip.cpp:559
+msgctxt "KZip|"
+msgid "Invalid ZIP file. Unexpected end of file. (#5)"
+msgstr "Tệp ZIP không hợp lệ. Kết thúc tệp bất ngờ. (#5)"
+
+#: kzip.cpp:575
+msgctxt "KZip|"
+msgid "Could not seek to file compressed size"
+msgstr "Không thể tìm đến kích thước nén của tệp"
+
+#: kzip.cpp:591
+msgctxt "KZip|"
+msgid "Invalid ZIP file. Unexpected end of file. (#1)"
+msgstr "Tệp ZIP không hợp lệ. Kết thúc tệp bất ngờ. (#1)"
+
+#: kzip.cpp:624
+msgctxt "KZip|"
+msgid ""
+"Invalid ZIP file, central entry too short (not long enough for valid entry)"
+msgstr ""
+"Tệp ZIP không hợp lệ, mục nhập trung tâm quá ngắn (không đủ dài để có mục "
+"nhập hợp lệ)"
+
+#: kzip.cpp:633
+msgctxt "KZip|"
+msgid "Invalid ZIP file, file path name length smaller or equal to zero"
+msgstr "Tệp ZIP không hợp lệ, độ dài đường dẫn tên tệp nhỏ hơn hoặc bằng không"
+
+#: kzip.cpp:715
+msgctxt "KZip|"
+msgid "Invalid ZIP file, found empty entry name"
+msgstr "Tệp ZIP không hợp lệ, tìm thấy tên mục nhập trống"
+
+#: kzip.cpp:756
+#, qt-format
+msgctxt "KZip|"
+msgid "File %1 is in folder %2, but %3 is actually a file."
+msgstr "Tệp %1 nằm trong thư mục %2, nhưng %3 lại là một tệp."
+
+#: kzip.cpp:767
+msgctxt "KZip|"
+msgid "Could not seek to next entry"
+msgstr "Không thể chuyển đến mục tiếp theo"
+
+#: kzip.cpp:780 kzip.cpp:790
+msgctxt "KZip|"
+msgid "Invalid ZIP file. Unexpected end of file."
+msgstr "Tệp ZIP không hợp lệ. Kết thúc tệp bất ngờ."
+
+#: kzip.cpp:813
+#, qt-format
+msgctxt "KZip|"
+msgid "Invalid ZIP file. Unrecognized header at offset %1"
+msgstr "Tệp ZIP không hợp lệ. Không nhận dạng được đầu tải tại vị trí %1"
+
+#: kzip.cpp:844
+#, qt-format
+msgctxt "KZip|"
+msgid "Could not seek to next file header: %1"
+msgstr "Không thể tìm đến tiêu đề tệp tiếp theo: %1"
+
+#: kzip.cpp:870 kzip.cpp:966
+#, qt-format
+msgctxt "KZip|"
+msgid "Could not write file header: %1"
+msgstr "Không thể ghi tiêu đề tệp: %1"
+
+#: kzip.cpp:1013
+#, qt-format
+msgctxt "KZip|"
+msgid "Could not write central dir record: %1"
+msgstr "Không thể ghi bản ghi thư mục trung tâm: %1"
+
+#: kzip.cpp:1049
+msgctxt "KZip|"
+msgid "Application error: ZIP file must be open before being written into"
+msgstr "Lỗi ứng dụng: Tệp ZIP phải được mở trước khi được ghi vào"
+
+#: kzip.cpp:1055
+msgctxt "KZip|"
+msgid "Application error: attempted to write into non-writable ZIP file"
+msgstr "Lỗi ứng dụng: đã cố ghi vào tệp ZIP không thể ghi"
+
+#: kzip.cpp:1061
+msgctxt "KZip|"
+msgid "Cannot create a device. Disk full?"
+msgstr "Không thể tạo thiết bị. Đĩa đầy?"
+
+#: kzip.cpp:1067
+msgctxt "KZip|"
+msgid "Cannot seek in ZIP file. Disk full?"
+msgstr "Không thể tìm kiếm trong tệp ZIP. Đĩa đầy?"
+
+#: kzip.cpp:1209
+msgctxt "KZip|"
+msgid "Could not write to the archive. Disk full?"
+msgstr "Không thể ghi vào kho lưu trữ. Ổ đầy?"
+
+#: kzip.cpp:1228
+#, qt-format
+msgctxt "KZip|"
+msgid "Could not open compression device: %1"
+msgstr "Không thể mở thiết bị nén: %1"
+
+#: kzip.cpp:1315
+msgctxt "KZip|"
+msgid "No file or device"
+msgstr "Không có tệp hoặc thiết bị"
+
+#: kzip.cpp:1328
+#, qt-format
+msgctxt "KZip|"
+msgid "Error writing data: %1"
+msgstr "Lỗi khi ghi dữ liệu: %1"

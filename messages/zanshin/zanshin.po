@@ -1,0 +1,652 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the zanshin package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: zanshin\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-04 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: src/akonadi/akonadiconfigdialog.cpp:35
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure"
+msgstr "Cấu hình"
+
+#: src/akonadi/akonadiconfigdialog.cpp:39
+#, kde-format
+msgid ""
+"Please select or create a resource which will be used by the application to "
+"store and query its TODOs."
+msgstr ""
+"Vui lòng bôi đen hoặc tạo một tài nguyên sẽ được sử dụng bởi ứng dụng để "
+"lưu trữ và truy vấn các công việc cần làm của bạn."
+
+#: src/akonadi/akonadiconfigdialog.cpp:49
+#, kde-format
+msgid "Add resource"
+msgstr "Thêm tài nguyên"
+
+#: src/akonadi/akonadiconfigdialog.cpp:56
+#, kde-format
+msgid "Remove resource"
+msgstr "Xoá tài nguyên"
+
+#: src/akonadi/akonadiconfigdialog.cpp:63
+#, kde-format
+msgid "Configure resource..."
+msgstr "Cấu hình tài nguyên..."
+
+#: src/akonadi/akonadiconfigdialog.cpp:111
+#, kde-format
+msgid "Multiple Agent Deletion"
+msgstr "Xóa Nhiều Đại Diện"
+
+#: src/akonadi/akonadiconfigdialog.cpp:112
+#, kde-format
+msgid "Do you really want to delete the selected agent instances?"
+msgstr "Bạn có thực sự muốn xóa các đại diện đã chọn không?"
+
+#: src/akonadi/akonaditaskrepository.cpp:50
+#, kde-format
+msgid "Could not find a collection to store the task into!"
+msgstr "Không tìm thấy bộ sưu tập để lưu trữ tác vụ!"
+
+#: src/akonadi/akonaditaskrepository.cpp:197
+#, kde-format
+msgid "Could not associate '%1', it is an ancestor of '%2'"
+msgstr "Không thể liên kết '%1', nó là một tổ tiên của '%2'"
+
+#: src/presentation/alltaskspagemodel.cpp:35
+#, kde-format
+msgid "Cannot add task %1"
+msgstr "Không thể thêm tác vụ %1"
+
+#: src/presentation/alltaskspagemodel.cpp:46
+#, kde-format
+msgid "Cannot remove task %1"
+msgstr "Không thể xoá tác vụ %1"
+
+#: src/presentation/alltaskspagemodel.cpp:56
+#: src/presentation/contextpagemodel.cpp:70
+#: src/presentation/inboxpagemodel.cpp:55
+#: src/presentation/projectpagemodel.cpp:67
+#: src/presentation/workdaypagemodel.cpp:61
+#, kde-format
+msgid "Cannot promote task %1 to be a project"
+msgstr "Không thể thăng cấp tác vụ %1 thành dự án"
+
+#: src/presentation/alltaskspagemodel.cpp:97
+#: src/presentation/editormodel.cpp:389
+#, kde-format
+msgid "Cannot modify task %1"
+msgstr "Không thể chỉnh sửa tác vụ %1"
+
+#: src/presentation/alltaskspagemodel.cpp:122
+#: src/presentation/contextpagemodel.cpp:140
+#: src/presentation/inboxpagemodel.cpp:111
+#: src/presentation/workdaypagemodel.cpp:117
+#, kde-format
+msgid "Cannot move task %1 as sub-task of %2"
+msgstr "Không thể di chuyển tác vụ %1 làm tác vụ con của %2"
+
+#: src/presentation/alltaskspagemodel.cpp:125
+#: src/presentation/inboxpagemodel.cpp:114
+#: src/presentation/workdaypagemodel.cpp:125
+#, kde-format
+msgid "Cannot deparent task %1 from its parent"
+msgstr "Không thể tách tác vụ %1 khỏi cha mẹ của nó"
+
+#: src/presentation/availablepagesmodel.cpp:111
+#, kde-format
+msgid "Cannot add project %1 in dataSource %2"
+msgstr "Không thể thêm dự án %1 trong nguồn dữ liệu %2"
+
+#: src/presentation/availablepagesmodel.cpp:119
+#, kde-format
+msgid "Cannot add context %1"
+msgstr "Không thể thêm ngữ cảnh %1"
+
+#: src/presentation/availablepagesmodel.cpp:127
+#, kde-format
+msgid "Cannot remove project %1"
+msgstr "Không thể xoá dự án %1"
+
+#: src/presentation/availablepagesmodel.cpp:130
+#, kde-format
+msgid "Cannot remove context %1"
+msgstr "Không thể xoá ngữ cảnh %1"
+
+#: src/presentation/availablepagesmodel.cpp:139
+#: src/widgets/itemdelegate.cpp:143
+#, kde-format
+msgid "Inbox"
+msgstr "Hộp thư đến"
+
+#: src/presentation/availablepagesmodel.cpp:141
+#, kde-format
+msgid "Workday"
+msgstr "Ngày làm việc"
+
+#: src/presentation/availablepagesmodel.cpp:143
+#, kde-format
+msgid "Projects"
+msgstr "Dự án"
+
+#: src/presentation/availablepagesmodel.cpp:145
+#, kde-format
+msgid "Contexts"
+msgstr "Ngữ cảnh"
+
+#: src/presentation/availablepagesmodel.cpp:147
+#, kde-format
+msgid "All Tasks"
+msgstr "Tất cả các nhiệm vụ"
+
+#: src/presentation/availablepagesmodel.cpp:246
+#, kde-format
+msgid "Cannot modify project %1"
+msgstr "Không thể chỉnh sửa dự án %1"
+
+#: src/presentation/availablepagesmodel.cpp:251
+#, kde-format
+msgid "Cannot modify context %1"
+msgstr "Không thể chỉnh sửa ngữ cảnh %1"
+
+#: src/presentation/availablepagesmodel.cpp:270
+#, kde-format
+msgid "Cannot add %1 to project %2"
+msgstr "Không thể thêm %1 vào dự án %2"
+
+#: src/presentation/availablepagesmodel.cpp:276
+#, kde-format
+msgid "Cannot add %1 to context %2"
+msgstr "Không thể thêm %1 vào ngữ cảnh %2"
+
+#: src/presentation/availablepagesmodel.cpp:282
+#, kde-format
+msgid "Cannot move %1 to Inbox"
+msgstr "Không thể di chuyển %1 đến Hộp thư đến"
+
+#: src/presentation/availablepagesmodel.cpp:286
+#, kde-format
+msgid "Cannot move task %1 to Inbox"
+msgstr "Không thể di chuyển tác vụ %1 đến Hộp thư đến"
+
+#: src/presentation/availablepagesmodel.cpp:295
+#, kde-format
+msgid "Cannot update task %1 to Workday"
+msgstr "Không thể cập nhật tác vụ %1 sang Workday"
+
+#: src/presentation/availablesourcesmodel.cpp:97
+#, kde-format
+msgid "Cannot modify source %1"
+msgstr "Không thể chỉnh sửa nguồn %1"
+
+#: src/presentation/contextpagemodel.cpp:50
+#, kde-format
+msgid "Cannot add task %1 in context %2"
+msgstr "Không thể thêm tác vụ %1 trong ngữ cảnh %2"
+
+#: src/presentation/contextpagemodel.cpp:61
+#, kde-format
+msgid "Cannot remove task %1 from context %2"
+msgstr "Không thể xoá tác vụ %1 khỏi ngữ cảnh %2"
+
+#: src/presentation/contextpagemodel.cpp:111
+#, kde-format
+msgid "Cannot modify task %1 in context %2"
+msgstr "Không thể chỉnh sửa tác vụ %1 trong ngữ cảnh %2"
+
+#: src/presentation/contextpagemodel.cpp:143
+#, kde-format
+msgid "Cannot dissociate task %1 from its parent"
+msgstr "Không thể tách tác vụ %1 khỏi cha mẹ của nó"
+
+#: src/presentation/inboxpagemodel.cpp:35
+#, kde-format
+msgid "Cannot add task %1 in Inbox"
+msgstr "Không thể thêm tác vụ %1 vào Hộp thư đến"
+
+#: src/presentation/inboxpagemodel.cpp:46
+#, kde-format
+msgid "Cannot remove task %1 from Inbox"
+msgstr "Không thể xoá tác vụ %1 khỏi Hộp thư đến"
+
+#: src/presentation/inboxpagemodel.cpp:96
+#, kde-format
+msgid "Cannot modify task %1 in Inbox"
+msgstr "Không thể chỉnh sửa tác vụ %1 trong Hộp thư đến"
+
+#: src/presentation/projectpagemodel.cpp:47
+#, kde-format
+msgid "Cannot add task %1 in project %2"
+msgstr "Không thể thêm tác vụ %1 trong dự án %2"
+
+#: src/presentation/projectpagemodel.cpp:58
+#, kde-format
+msgid "Cannot remove task %1 from project %2"
+msgstr "Không thể xoá tác vụ %1 khỏi dự án %2"
+
+#: src/presentation/projectpagemodel.cpp:104
+#, kde-format
+msgid "Cannot modify task %1 in project %2"
+msgstr "Không thể chỉnh sửa tác vụ %1 trong dự án %2"
+
+#: src/presentation/projectpagemodel.cpp:130
+#, kde-format
+msgid "Cannot move task %1 as a sub-task of %2"
+msgstr "Không thể di chuyển tác vụ %1 làm tác vụ con của %2"
+
+#: src/presentation/runningtaskmodel.cpp:46
+#, kde-format
+msgid "Cannot update task %1 to 'not running'"
+msgstr "Không thể cập nhật tác vụ %1 thành 'không chạy'"
+
+#: src/presentation/runningtaskmodel.cpp:54
+#, kde-format
+msgid "Cannot update task %1 to 'running'"
+msgstr "Không thể cập nhật tác vụ %1 thành 'đang chạy'"
+
+#: src/presentation/workdaypagemodel.cpp:40
+#, kde-format
+msgid "Cannot add task %1 in Workday"
+msgstr "Không thể thêm tác vụ %1 trong Workday"
+
+#: src/presentation/workdaypagemodel.cpp:51
+#, kde-format
+msgid "Cannot remove task %1 from Workday"
+msgstr "Không thể xoá tác vụ %1 khỏi Workday"
+
+#: src/presentation/workdaypagemodel.cpp:102
+#, kde-format
+msgid "Cannot modify task %1 in Workday"
+msgstr "Không thể chỉnh sửa tác vụ %1 trong Workday"
+
+#: src/widgets/applicationcomponents.cpp:48
+#, kde-format
+msgid "Move Task"
+msgstr "Di chuyển Tác vụ"
+
+#: src/widgets/availablepagesview.cpp:50
+#, kde-format
+msgid "New Project"
+msgstr "Dự án mới"
+
+#: src/widgets/availablepagesview.cpp:56
+#, kde-format
+msgid "New Context"
+msgstr "Ngữ cảnh mới"
+
+#: src/widgets/availablepagesview.cpp:62
+#, kde-format
+msgid "Remove Page"
+msgstr "Xoá Trang"
+
+#: src/widgets/availablepagesview.cpp:91
+#, kde-format
+msgid "Previous Page"
+msgstr "Trang trước"
+
+#: src/widgets/availablepagesview.cpp:98
+#, kde-format
+msgid "Next Page"
+msgstr "Trang tiếp theo"
+
+#: src/widgets/availablepagesview.cpp:105
+#, kde-format
+msgid "Go to Page..."
+msgstr "Đi đến trang..."
+
+#: src/widgets/availablepagesview.cpp:240
+#, kde-format
+msgctxt "@title:window"
+msgid "Add a context"
+msgstr "Thêm một ngữ cảnh"
+
+#: src/widgets/availablepagesview.cpp:265
+#, kde-format
+msgid "Delete Project"
+msgstr "Xóa Dự án"
+
+#: src/widgets/availablepagesview.cpp:266
+#, kde-format
+msgid "Do you really want to delete the project '%1', with all its actions?"
+msgstr "Bạn có thực sự muốn xóa dự án '%1', cùng với tất cả các hành động của nó?"
+
+#: src/widgets/availablepagesview.cpp:268
+#, kde-format
+msgid "Delete Context"
+msgstr "Xóa Ngữ cảnh"
+
+#: src/widgets/availablepagesview.cpp:269
+#, kde-format
+msgid "Do you really want to delete the context '%1'?"
+msgstr "Bạn có thực sự muốn xóa ngữ cảnh '%1' không?"
+
+#: src/widgets/availablesourcesview.cpp:55
+#, kde-format
+msgid "Use as Default Source"
+msgstr "Sử dụng làm Nguồn Mặc định"
+
+#: src/widgets/availablesourcesview.cpp:76
+#, kde-format
+msgid "Configure %1..."
+msgstr "Cấu hình %1..."
+
+#: src/widgets/editorview.cpp:30
+#, kde-format
+msgid "Add Attachment"
+msgstr "Thêm tệp đính kèm"
+
+#: src/widgets/editorview.cpp:35
+#, kde-format
+msgid "Never"
+msgstr "Không bao giờ"
+
+#: src/widgets/editorview.cpp:36
+#, kde-format
+msgid "Daily"
+msgstr "Hàng ngày"
+
+#: src/widgets/editorview.cpp:37
+#, kde-format
+msgid "Weekly"
+msgstr "Hàng tuần"
+
+#: src/widgets/editorview.cpp:38
+#, kde-format
+msgid "Monthly"
+msgstr "Hàng tháng"
+
+#: src/widgets/editorview.cpp:39
+#, kde-format
+msgid "Yearly"
+msgstr "Hàng năm"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, EditorView)
+#. i18n: ectx: property (text), widget (QListView, attachmentList)
+#: src/widgets/editorview.ui:14 src/widgets/editorview.ui:184
+#: src/zanshin/app/main.cpp:85
+#, kde-format
+msgid "Editor"
+msgstr "Trình biên tập"
+
+#. i18n: ectx: property (text), widget (QLabel, dueDateLabel)
+#: src/widgets/editorview.ui:41
+#, kde-format
+msgid "D&ue Date "
+msgstr "N&gày đến hạn"
+
+#. i18n: ectx: property (text), widget (QCheckBox, doneButton)
+#: src/widgets/editorview.ui:62 src/widgets/runningtaskwidget.cpp:53
+#, kde-format
+msgid "Done"
+msgstr "Xong"
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, addAttachmentButton)
+#: src/widgets/editorview.ui:86
+#, kde-format
+msgid "Add Attachment..."
+msgstr "Thêm tệp đính kèm..."
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, removeAttachmentButton)
+#: src/widgets/editorview.ui:100
+#, kde-format
+msgid "Remove Attachment"
+msgstr "Xoá Tệp Đính Kèm"
+
+#. i18n: ectx: property (text), widget (QPushButton, startTodayButton)
+#: src/widgets/editorview.ui:121
+#, kde-format
+msgid "Select for &Today"
+msgstr "C&họn cho Hôm nay"
+
+#. i18n: ectx: property (text), widget (QLabel, recurrenceLabel)
+#: src/widgets/editorview.ui:130
+#, kde-format
+msgid "&Recurrence"
+msgstr "&Lặp lại"
+
+#. i18n: ectx: property (text), widget (QLabel, startDateLabel)
+#: src/widgets/editorview.ui:146
+#, kde-format
+msgid "St&art Date"
+msgstr "&Ngày bắt đầu"
+
+#: src/widgets/filterwidget.cpp:29
+#, kde-format
+msgid "Sort by title"
+msgstr "Sắp xếp theo tiêu đề"
+
+#: src/widgets/filterwidget.cpp:30
+#, kde-format
+msgid "Sort by date"
+msgstr "Sắp xếp theo ngày"
+
+#. i18n: ectx: property (placeholderText), widget (QLineEdit, filterEdit)
+#: src/widgets/filterwidget.ui:31 src/widgets/pageview.cpp:200
+#, kde-format
+msgid "Filter..."
+msgstr "Lọc..."
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, descendingButton)
+#: src/widgets/filterwidget.ui:65
+#, kde-format
+msgid "Sort in descending order"
+msgstr "Sắp xếp theo thứ tự giảm dần"
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, ascendingButton)
+#: src/widgets/filterwidget.ui:88
+#, kde-format
+msgid "Sort in ascending order"
+msgstr "Sắp xếp theo thứ tự tăng dần"
+
+#: src/widgets/itemdelegate.cpp:141
+#, kde-format
+msgid "Project: %1"
+msgstr "Dự án: %1"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, NameAndDataSourceDialog)
+#: src/widgets/nameanddatasourcedialog.ui:14
+#, kde-format
+msgid "Add a project"
+msgstr "Thêm một dự án"
+
+#. i18n: ectx: property (text), widget (QLabel, nameLabel)
+#: src/widgets/nameanddatasourcedialog.ui:25
+#, kde-format
+msgid "Name"
+msgstr "Tên"
+
+#. i18n: ectx: property (text), widget (QLabel, sourceLabel)
+#: src/widgets/nameanddatasourcedialog.ui:42
+#, kde-format
+msgid "Source"
+msgstr "Nguồn"
+
+#: src/widgets/pageview.cpp:156
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Type and press enter to add a task"
+msgstr "Nhập và nhấn enter để thêm một tác vụ"
+
+#: src/widgets/pageview.cpp:173
+#, kde-format
+msgid "New Task"
+msgstr "Tác vụ mới"
+
+#: src/widgets/pageview.cpp:186
+#, kde-format
+msgid "Remove Task"
+msgstr "Xoá Tác Vụ"
+
+#: src/widgets/pageview.cpp:194
+#, kde-format
+msgid "Promote Task as Project"
+msgstr "Thăng cấp Tác vụ thành Dự án"
+
+#: src/widgets/pageview.cpp:208
+#, kde-format
+msgid "Show done tasks"
+msgstr "Hiển thị các nhiệm vụ đã hoàn thành"
+
+#: src/widgets/pageview.cpp:216
+#, kde-format
+msgid "Show future tasks"
+msgstr "Hiển thị các nhiệm vụ trong tương lai"
+
+#: src/widgets/pageview.cpp:242
+#, kde-format
+msgid "Start Now"
+msgstr "Bắt đầu ngay"
+
+#: src/widgets/pageview.cpp:360
+#, kde-format
+msgid "Type and press enter to add an item"
+msgstr "Nhập và nhấn enter để thêm một mục"
+
+#: src/widgets/pageview.cpp:386
+#, kde-format
+msgid "Do you really want to delete the selected items and their children?"
+msgstr "Bạn có thực sự muốn xóa các mục đã chọn và các con của chúng không?"
+
+#: src/widgets/pageview.cpp:388
+#, kde-format
+msgid "Do you really want to delete the selected items?"
+msgstr "Bạn có thực sự muốn xóa các mục đã chọn không?"
+
+#: src/widgets/pageview.cpp:396
+#, kde-format
+msgid "Do you really want to delete the selected task and all its children?"
+msgstr "Bạn có thực sự muốn xóa tác vụ đã chọn và tất cả các tác vụ con của nó?"
+
+#: src/widgets/pageview.cpp:400
+#, kde-format
+msgid "Delete Tasks"
+msgstr "Xóa Nhiệm vụ"
+
+#: src/widgets/quickselectdialog.cpp:30
+#, kde-format
+msgctxt "@title:window"
+msgid "Quick Select Dialog"
+msgstr "Hộp thoại Bôi đen Nhanh"
+
+#: src/widgets/quickselectdialog.cpp:32 src/widgets/quickselectdialog.cpp:70
+#, kde-format
+msgid "You can start typing to filter the list of available pages"
+msgstr "Bạn có thể bắt đầu gõ để lọc danh sách các trang hiện có"
+
+#: src/widgets/quickselectdialog.cpp:72
+#, kde-format
+msgid "Path: %1"
+msgstr "Đường dẫn: %1"
+
+#: src/widgets/runningtaskwidget.cpp:39
+#, kde-format
+msgctxt "@title:window"
+msgid "Zanshin Running Task Banner"
+msgstr "Băng hiệu tác vụ đang chạy của Zanshin"
+
+#: src/widgets/runningtaskwidget.cpp:49
+#, kde-format
+msgid "Stop"
+msgstr "Dừng"
+
+#: src/zanshin/app/aboutdata.cpp:14
+#, kde-format
+msgid "Zanshin Tasks"
+msgstr "Nhiệm vụ Zanshin"
+
+#: src/zanshin/app/aboutdata.cpp:15
+#, kde-format
+msgid ""
+"A Getting Things Done application which aims at getting your mind like water"
+msgstr "Một ứng dụng Getting Things Done nhằm mục đích giúp tâm trí bạn như nước"
+
+#: src/zanshin/app/aboutdata.cpp:17
+#, kde-format
+msgid "Copyright 2008-2016, Kevin Ottens <ervin@kde.org>"
+msgstr "Bản quyền 2008-2016, Kevin Ottens <ervin@kde.org>"
+
+#: src/zanshin/app/aboutdata.cpp:19
+#, kde-format
+msgctxt "@info:credit"
+msgid "Kevin Ottens"
+msgstr "Kevin Ottens"
+
+#: src/zanshin/app/aboutdata.cpp:20
+#, kde-format
+msgid "Lead Developer"
+msgstr "Nhà phát triển chính"
+
+#: src/zanshin/app/aboutdata.cpp:23
+#, kde-format
+msgctxt "@info:credit"
+msgid "Mario Bensi"
+msgstr "Mario Bensi"
+
+#: src/zanshin/app/aboutdata.cpp:24 src/zanshin/app/aboutdata.cpp:28
+#, kde-format
+msgid "Developer"
+msgstr "nhà phát triển"
+
+#: src/zanshin/app/aboutdata.cpp:27
+#, kde-format
+msgctxt "@info:credit"
+msgid "Franck Arrecot"
+msgstr "Franck Arrecot"
+
+#: src/zanshin/app/main.cpp:77
+#, kde-format
+msgid "Sources"
+msgstr "Nguồn"
+
+#: src/zanshin/app/main.cpp:81
+#, kde-format
+msgid "Pages"
+msgstr "Trang"
+
+#. i18n: ectx: Menu (go)
+#: src/zanshin/app/zanshinui.rc:15 src/zanshin/kontact/zanshin_part.rc:15
+#, kde-format
+msgid "&Go"
+msgstr "Đ&i"
+
+#. i18n: ectx: Menu
+#: src/zanshin/app/zanshinui.rc:27
+#, kde-format
+msgid "&Panels"
+msgstr "Bảng điều &khiển"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: src/zanshin/app/zanshinui.rc:35 src/zanshin/kontact/zanshin_part.rc:27
+#, kde-format
+msgctxt "@title:menu"
+msgid "Main Toolbar"
+msgstr "Thanh công cụ chính"
+
+#: src/zanshin/runner/zanshinrunner.cpp:56
+#, kde-format
+msgid "Add \"%1\" to your todo list"
+msgstr "Thêm \"%1\" vào danh sách công việc cần làm của bạn"

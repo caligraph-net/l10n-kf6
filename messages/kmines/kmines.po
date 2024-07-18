@@ -1,0 +1,284 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kmines package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kmines\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-03 00:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: customgame.ui:16
+#, kde-format
+msgid "Width:"
+msgstr "Chiều rộng:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: customgame.ui:26
+#, kde-format
+msgid "Height:"
+msgstr "Chiều cao:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: customgame.ui:36
+#, kde-format
+msgid "Mines:"
+msgstr "Mìn:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_UseQuestionMarks)
+#: generalopts.ui:17
+#, kde-format
+msgid "Use '?' marks"
+msgstr "Sử dụng dấu '?'"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AllowKminesReset)
+#: generalopts.ui:24
+#, kde-format
+msgid "Allow KMines reset"
+msgstr "Cho phép đặt lại KMines"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_DisableScoreOnReset)
+#: generalopts.ui:37
+#, kde-format
+msgid "Disable score on reset"
+msgstr "Vô hiệu hóa điểm số khi đặt lại"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ExploreWithLeftClickOnNumberCells)
+#: generalopts.ui:44
+#, kde-format
+msgid "Explore with left click on number cells"
+msgstr "Khám phá bằng cách bấm chuột trái vào các ô số"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: generalopts.ui:53
+#, kde-format
+msgid "Place flag when mouse button is:"
+msgstr "Đặt cờ khi nút chuột được:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_PlaceFlagOn)
+#: generalopts.ui:61
+#, kde-format
+msgid "Released"
+msgstr "Đã phát hành"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_PlaceFlagOn)
+#: generalopts.ui:66
+#, kde-format
+msgid "Pressed"
+msgstr "Đã nhấn"
+
+#. i18n: ectx: label, entry (UseQuestionMarks), group (General)
+#: kmines.kcfg:9
+#, kde-format
+msgid "Whether the \"unsure\" marker may be used."
+msgstr "Liệu có thể sử dụng dấu hiệu \"không chắc chắn\"."
+
+#. i18n: ectx: label, entry (ExploreWithLeftClickOnNumberCells), group (General)
+#: kmines.kcfg:21
+#, kde-format
+msgid "Left click on a number cell will have the same effect as mid click."
+msgstr "Bấm chuột trái vào ô số sẽ có cùng hiệu ứng như bấm chuột giữa."
+
+#. i18n: ectx: label, entry (CustomWidth), group (Options)
+#: kmines.kcfg:35
+#, kde-format
+msgid "The width of the playing field."
+msgstr "Chiều rộng của khu vực chơi."
+
+#. i18n: ectx: label, entry (CustomHeight), group (Options)
+#: kmines.kcfg:41
+#, kde-format
+msgid "The height of the playing field."
+msgstr "Chiều cao của khu vực chơi."
+
+#. i18n: ectx: label, entry (CustomMines), group (Options)
+#: kmines.kcfg:47
+#, kde-format
+msgid "The number of mines in the playing field."
+msgstr "Số lượng mìn trong khu vực chơi."
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kminesui.rc:12
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Thanh công cụ"
+
+#: main.cpp:27
+#, kde-format
+msgid "KMines"
+msgstr "KMines"
+
+#: main.cpp:29
+#, kde-format
+msgid "KMines is a classic minesweeper game"
+msgstr "KMines là một trò chơi cổ điển minesweeper"
+
+#: main.cpp:31
+#, kde-format
+msgid ""
+"(c) 1996-2005, Nicolas Hadacek\n"
+"(c) 2001, Mikhail Kourinny\n"
+"(c) 2006-2007, Mauricio Piacentini\n"
+"(c) 2007, Dmitry Suzdalev"
+msgstr ""
+"(c) 1996-2005, Nicolas Hadacek\n(c) 2001, Mikhail Kourinny\n(c) 2006-2007, "
+"Mauricio Piacentini\n(c) 2007, Dmitry Suzdalev"
+
+#: main.cpp:34
+#, kde-format
+msgid "Nicolas Hadacek"
+msgstr "Nicolas Hadacek"
+
+#: main.cpp:35
+#, kde-format
+msgid "Original author"
+msgstr "Tác giả gốc"
+
+#: main.cpp:36
+#, kde-format
+msgid "Mauricio Piacentini"
+msgstr "Mauricio Piacentini"
+
+#: main.cpp:37
+#, kde-format
+msgid "Code refactoring and SVG support. Current maintainer"
+msgstr "Tái cấu trúc mã và hỗ trợ SVG. Bảo trì viên hiện tại"
+
+#: main.cpp:39
+#, kde-format
+msgid "Dmitry Suzdalev"
+msgstr "Dmitry Suzdalev"
+
+#: main.cpp:40
+#, kde-format
+msgid "Rewrite to use QGraphicsView framework. Current maintainer"
+msgstr "Viết lại để sử dụng khung QGraphicsView. Người bảo trì hiện tại"
+
+#: main.cpp:42
+#, kde-format
+msgid "Andreas Zehender"
+msgstr "Andreas Zehender"
+
+#: main.cpp:42
+#, kde-format
+msgid "Smiley pixmaps"
+msgstr "Ảnh Smiley"
+
+#: main.cpp:43
+#, kde-format
+msgid "Mikhail Kourinny"
+msgstr "Mikhail Kourinny"
+
+#: main.cpp:43
+#, kde-format
+msgid "Solver/Adviser"
+msgstr "Trình giải/Cố vấn"
+
+#: main.cpp:44
+#, kde-format
+msgid "Thomas Capricelli"
+msgstr "Thomas Capricelli"
+
+#: main.cpp:44
+#, kde-format
+msgid "Magic reveal mode"
+msgstr "Chế độ hiện thị ma thuật"
+
+#: main.cpp:45
+#, kde-format
+msgid "Brian Croom"
+msgstr "Brian Croom"
+
+#: main.cpp:45
+#, kde-format
+msgid "Port to use KGameRenderer"
+msgstr "Chuyển sang sử dụng KGameRenderer"
+
+#: mainwindow.cpp:101
+#, kde-format
+msgid "Mines: 0/0"
+msgstr "Mìn: 0/0"
+
+#: mainwindow.cpp:102 mainwindow.cpp:173
+#, kde-format
+msgid "Time: 00:00"
+msgstr "Thời gian: 00:00"
+
+#: mainwindow.cpp:125
+#, kde-format
+msgid "Custom"
+msgstr "Tự chọn"
+
+#: mainwindow.cpp:135
+#, kde-format
+msgid "Mines: %1/%2"
+msgstr "Mìn: %1/%2"
+
+#: mainwindow.cpp:203
+#, kde-format
+msgid "Reset the Game?"
+msgstr "Đặt lại trò chơi?"
+
+#: mainwindow.cpp:205
+#, kde-format
+msgctxt "@action;button"
+msgid "Reset"
+msgstr "Đặt lại"
+
+#: mainwindow.cpp:217
+#, kde-format
+msgid "Time: %1"
+msgstr "Thời gian: %1"
+
+#: mainwindow.cpp:243
+#, kde-format
+msgctxt "@title:tab"
+msgid "General"
+msgstr "chung"
+
+#: mainwindow.cpp:244
+#, kde-format
+msgctxt "@title:tab"
+msgid "Theme"
+msgstr "Chủ đề"
+
+#: mainwindow.cpp:245
+#, kde-format
+msgctxt "@title:tab"
+msgid "Custom Game"
+msgstr "Trò chơi tự chọn"
+
+#: scene.cpp:117
+#, kde-format
+msgid "Game is paused."
+msgstr "Bàn chơi đang tạm dừng."
+
+#: scene.cpp:125
+#, kde-format
+msgid "Congratulations! You have won!"
+msgstr "Chúc mừng! Bạn đã chiến thắng!"
+
+#: scene.cpp:127
+#, kde-format
+msgid "You have lost."
+msgstr "Bạn đã thua."

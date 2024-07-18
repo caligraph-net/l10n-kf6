@@ -1,0 +1,549 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the ksquares package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ksquares\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-02 00:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#. i18n: ectx: label, entry (NumOfPlayers), group (Game Settings)
+#: ksquares.kcfg:10
+#, kde-format
+msgid "Number of Players"
+msgstr "Số lượng người chơi"
+
+#. i18n: ectx: label, entry (PlayerNames), group (Game Settings)
+#: ksquares.kcfg:14
+#, kde-format
+msgid "Player Names"
+msgstr "Tên người chơi"
+
+#. i18n: ectx: label, entry (HumanList), group (Game Settings)
+#: ksquares.kcfg:17
+#, kde-format
+msgid "Human or AI"
+msgstr "Người hoặc AI"
+
+#. i18n: ectx: label, entry (BoardWidth), group (Game Settings)
+#: ksquares.kcfg:21
+#, kde-format
+msgid "Width of board"
+msgstr "Chiều rộng của bảng"
+
+#. i18n: ectx: label, entry (BoardHeight), group (Game Settings)
+#: ksquares.kcfg:25
+#, kde-format
+msgid "Height of board"
+msgstr "Chiều cao của bảng"
+
+#. i18n: ectx: label, entry (QuickStart), group (Game Settings)
+#: ksquares.kcfg:29
+#, kde-format
+msgid "Quick start the game"
+msgstr "Khởi động nhanh bàn chơi"
+
+#. i18n: ectx: label, entry (Difficulty), group (AI)
+#: ksquares.kcfg:35
+#, kde-format
+msgid "Difficulty"
+msgstr "Độ khó"
+
+#. i18n: ectx: whatsthis, entry (Difficulty), group (AI)
+#: ksquares.kcfg:36
+#, kde-format
+msgid "How difficult the AI should be"
+msgstr "Mức độ khó của trí tuệ nhân tạo"
+
+#. i18n: ectx: label, entry (BackgroundColor), group (Display)
+#: ksquares.kcfg:42
+#, kde-format
+msgid "Background Color"
+msgstr "Màu nền"
+
+#. i18n: ectx: label, entry (CenterDotColor), group (Display)
+#: ksquares.kcfg:47
+#, kde-format
+msgid "Center Dot Color"
+msgstr "Màu Chấm Trung Tâm"
+
+#. i18n: ectx: label, entry (FeintLineColor), group (Display)
+#: ksquares.kcfg:52
+#, kde-format
+msgid "Feint Line Color"
+msgstr "Màu đường nét mờ"
+
+#. i18n: ectx: label, entry (LineColor), group (Display)
+#: ksquares.kcfg:57
+#, kde-format
+msgid "Line Color"
+msgstr "Màu đường"
+
+#. i18n: ectx: label, entry (IndicatorLineColor), group (Display)
+#: ksquares.kcfg:62
+#, kde-format
+msgid "Indicator Line Color"
+msgstr "Màu đường chỉ báo"
+
+#. i18n: ectx: label, entry (HighlightColor), group (Display)
+#: ksquares.kcfg:67
+#, kde-format
+msgid "Highlight Color"
+msgstr "Màu tô sáng"
+
+#: ksquaresdemowindow.cpp:65
+#, kde-format
+msgid "Player %1"
+msgstr "Người chơi %1"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: ksquaresui.rc:11
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Thanh công cụ chính"
+
+#: ksquareswindow.cpp:59
+#, kde-format
+msgid "Current Player"
+msgstr "Người chơi hiện tại"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_Difficulty)
+#: ksquareswindow.cpp:70 ksquareswindow.cpp:231 ksquareswindow.cpp:237
+#: ksquareswindow.cpp:242 prefs_ai.ui:36
+#, kde-format
+msgid "Easy"
+msgstr "Dễ"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_Difficulty)
+#: ksquareswindow.cpp:71 ksquareswindow.cpp:232 ksquareswindow.cpp:236
+#: ksquareswindow.cpp:243 prefs_ai.ui:41
+#, kde-format
+msgid "Medium"
+msgstr "Trung bình"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_Difficulty)
+#: ksquareswindow.cpp:72 ksquareswindow.cpp:233 ksquareswindow.cpp:238
+#: ksquareswindow.cpp:241 prefs_ai.ui:46
+#, kde-format
+msgid "Hard"
+msgstr "Khó"
+
+#: ksquareswindow.cpp:203
+#, kde-format
+msgctxt "@title:window"
+msgid "Scores"
+msgstr "Điểm số"
+
+#: ksquareswindow.cpp:208
+#, kde-format
+msgid "Player Name"
+msgstr "Tên người chơi"
+
+#: ksquareswindow.cpp:209
+#, kde-format
+msgid "Completed Squares"
+msgstr "Các ô đã hoàn thành"
+
+#: ksquareswindow.cpp:293
+#, kde-format
+msgid "Start a new game with the current settings"
+msgstr "Bắt đầu một bàn chơi mới với các thiết lập hiện tại"
+
+#: ksquareswindow.cpp:311
+#, kde-format
+msgctxt "@title:tab"
+msgid "Display"
+msgstr "Hiển thị"
+
+#: ksquareswindow.cpp:316
+#, kde-format
+msgctxt "@title:tab"
+msgid "Computer Player"
+msgstr "Người chơi máy tính"
+
+#: main.cpp:28
+#, kde-format
+msgid "KSquares"
+msgstr "KSquares"
+
+#: main.cpp:30
+#, kde-format
+msgid ""
+"Take it in turns to draw lines.\n"
+"If you complete a squares, you get another go."
+msgstr ""
+"Lượt lượt vẽ các đường.\nNếu bạn hoàn tất một ô vuông, bạn sẽ được lượt đi "
+"tiếp."
+
+#: main.cpp:32
+#, kde-format
+msgid "(C) 2006-2007 Matt Williams"
+msgstr "(C) 2006-2007 Matt Williams"
+
+#: main.cpp:35
+#, kde-format
+msgid "Matt Williams"
+msgstr "Matt Williams"
+
+#: main.cpp:35
+#, kde-format
+msgid "Original creator and maintainer"
+msgstr "Tác giả và bảo trì viên gốc"
+
+#: main.cpp:36
+#, kde-format
+msgid "Fela Winkelmolen"
+msgstr "Fela Winkelmolen"
+
+#: main.cpp:36
+#, kde-format
+msgid "Many patches and bugfixes"
+msgstr "Nhiều bản vá và sửa lỗi"
+
+#: main.cpp:37
+#, kde-format
+msgid "Tom Vincent Peters"
+msgstr "Tom Vincent Peters"
+
+#: main.cpp:37
+#, kde-format
+msgid "Hard AI"
+msgstr "Trí tuệ nhân tạo khó"
+
+#: main.cpp:44
+#, kde-format
+msgid "Run game in demo (autoplay) mode"
+msgstr "Chạy bàn chơi ở chế độ demo (tự động phát)"
+
+#: main.cpp:58 main.cpp:59 main.cpp:60
+#, kde-format
+msgctxt "default name of player"
+msgid "Player %1"
+msgstr "Người chơi %1"
+
+#: newgamedialog.cpp:28
+#, kde-format
+msgctxt "@title:window"
+msgid "New Game"
+msgstr "Trò chơi mới"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, NewGameWidget)
+#: newgamewidget.ui:13
+#, kde-format
+msgid "New Game"
+msgstr "Bàn chơi mới"
+
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, groupBox)
+#: newgamewidget.ui:22
+#, kde-format
+msgid "Settings for the players in the game"
+msgstr "Thiết lập cho các người chơi trong bàn chơi"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: newgamewidget.ui:25
+#, kde-format
+msgid "Players"
+msgstr "Người chơi"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, labelPlayer4Name)
+#: newgamewidget.ui:31
+#, kde-format
+msgid "The name of the fourth player"
+msgstr "Tên của người chơi thứ tư"
+
+#. i18n: ectx: property (text), widget (QLabel, labelPlayer4Name)
+#: newgamewidget.ui:34
+#, kde-format
+msgid "Player 4:"
+msgstr "Người chơi 4:"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, playerFourHuman)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, playerThreeHuman)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, playerOneHuman)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, playerTwoHuman)
+#: newgamewidget.ui:47 newgamewidget.ui:63 newgamewidget.ui:133
+#: newgamewidget.ui:181
+#, kde-format
+msgid "Should this player be controlled by a human"
+msgstr "Người chơi này có nên được điều khiển bởi người chơi"
+
+#. i18n: ectx: property (text), widget (QCheckBox, playerFourHuman)
+#: newgamewidget.ui:50
+#, kde-format
+msgid "Hum&an?"
+msgstr "&Người?"
+
+#. i18n: ectx: property (text), widget (QCheckBox, playerThreeHuman)
+#: newgamewidget.ui:66
+#, kde-format
+msgid "Hu&man?"
+msgstr "Ngườ&i?"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, labelPlayer3Name)
+#: newgamewidget.ui:76
+#, kde-format
+msgid "The name of the third player"
+msgstr "Tên của người chơi thứ ba"
+
+#. i18n: ectx: property (text), widget (QLabel, labelPlayer3Name)
+#: newgamewidget.ui:79
+#, kde-format
+msgid "Player 3:"
+msgstr "Người chơi 3:"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, labelPlayer2Name)
+#: newgamewidget.ui:98
+#, kde-format
+msgid "The name of the second player"
+msgstr "Tên của người chơi thứ hai"
+
+#. i18n: ectx: property (text), widget (QLabel, labelPlayer2Name)
+#: newgamewidget.ui:101
+#, kde-format
+msgid "Player 2:"
+msgstr "Người chơi 2:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, playerOneHuman)
+#: newgamewidget.ui:136
+#, kde-format
+msgid "&Human?"
+msgstr "Ngườ&i?"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, numOfPlayersLabel)
+#: newgamewidget.ui:149
+#, kde-format
+msgid ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal; text-decoration:none;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">How many players will be "
+"in the game</p></body></html>"
+msgstr ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body "
+"style=\" font-family:'Sans Serif'; font-size:9pt; font-weight:400; "
+"font-style:normal; text-decoration:none;\">\n<p style=\" margin-top:0px; "
+"margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px;\">Có bao nhiêu người chơi trong trò chơi</p></body></html>"
+
+#. i18n: ectx: property (text), widget (QLabel, numOfPlayersLabel)
+#: newgamewidget.ui:152
+#, kde-format
+msgid "Number of players:"
+msgstr "Số lượng người chơi:"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, labelPlayer1Name)
+#: newgamewidget.ui:165
+#, kde-format
+msgid "The name of the first player"
+msgstr "Tên của người chơi đầu tiên"
+
+#. i18n: ectx: property (text), widget (QLabel, labelPlayer1Name)
+#: newgamewidget.ui:168
+#, kde-format
+msgid "Player 1:"
+msgstr "Người chơi 1:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, playerTwoHuman)
+#: newgamewidget.ui:184
+#, kde-format
+msgid "H&uman?"
+msgstr "N&gười?"
+
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, groupBox_2)
+#: newgamewidget.ui:197
+#, kde-format
+msgid "Settings for the game board"
+msgstr "Thiết lập cho bàn chơi"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: newgamewidget.ui:200
+#, kde-format
+msgid "Game Board"
+msgstr "Bàn chơi"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, labelWidth)
+#: newgamewidget.ui:206
+#, kde-format
+msgid "The number of squares the area is wide"
+msgstr "Số lượng ô vuông rộng của khu vực"
+
+#. i18n: ectx: property (text), widget (QLabel, labelWidth)
+#: newgamewidget.ui:209
+#, kde-format
+msgid "Width:"
+msgstr "Chiều rộng:"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, labelHeight)
+#: newgamewidget.ui:238
+#, kde-format
+msgid "The number of squares the area is high"
+msgstr "Số lượng ô vuông của khu vực cao"
+
+#. i18n: ectx: property (text), widget (QLabel, labelHeight)
+#: newgamewidget.ui:241
+#, kde-format
+msgid "Height:"
+msgstr "Chiều cao:"
+
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, groupBox_3)
+#: newgamewidget.ui:273
+#, kde-format
+msgid "Settings for the game"
+msgstr "Thiết lập cho bàn chơi"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: newgamewidget.ui:276
+#, kde-format
+msgid "Game Settings"
+msgstr "Thiết lập Bàn chơi"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, quickStartCheck)
+#: newgamewidget.ui:282
+#, kde-format
+msgid "Partially fill in the board automatically before the game starts"
+msgstr "Tự động điền một phần bàn chơi trước khi bắt đầu trò chơi"
+
+#. i18n: ectx: property (text), widget (QCheckBox, quickStartCheck)
+#: newgamewidget.ui:285
+#, kde-format
+msgid "Quick start"
+msgstr "Khởi động nhanh"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, prefs_ai)
+#: prefs_ai.ui:13
+#, kde-format
+msgid "AI Settings"
+msgstr "Thiết lập AI"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, label_difficulty)
+#: prefs_ai.ui:57
+#, kde-format
+msgid "How difficult it will be to beat the computer"
+msgstr "Máy tính sẽ khó đánh bại như thế nào"
+
+#. i18n: ectx: property (text), widget (QLabel, label_difficulty)
+#: prefs_ai.ui:60
+#, kde-format
+msgid "AI difficulty:"
+msgstr "Độ khó AI:"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, prefs_display)
+#: prefs_display.ui:13
+#, kde-format
+msgid "Display Settings"
+msgstr "Thiết lập Bộ hiển thị"
+
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, groupBox_2)
+#: prefs_display.ui:19
+#, kde-format
+msgid "Settings for colors"
+msgstr "Thiết lập màu sắc"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: prefs_display.ui:22
+#, kde-format
+msgid "Colors"
+msgstr "Màu sắc"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, label)
+#: prefs_display.ui:28
+#, kde-format
+msgid "Color of the drawn background"
+msgstr "Màu nền được vẽ"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: prefs_display.ui:31
+#, kde-format
+msgid "Background color:"
+msgstr "Màu nền:"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, label)
+#: prefs_display.ui:44
+#, kde-format
+msgid "Color of the drawn center dot"
+msgstr "Màu của chấm trung tâm được vẽ"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: prefs_display.ui:47
+#, kde-format
+msgid "Center dot color:"
+msgstr "Màu chấm giữa:"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, label)
+#: prefs_display.ui:60
+#, kde-format
+msgid "Color of the feintly drawn lines"
+msgstr "Màu của các đường kẻ mờ"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: prefs_display.ui:63
+#, kde-format
+msgid "Feint line color:"
+msgstr "Màu đường nét mờ:"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, label)
+#: prefs_display.ui:76
+#, kde-format
+msgid "Color of the drawn lines"
+msgstr "Màu của các đường vẽ"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: prefs_display.ui:79
+#, kde-format
+msgid "Standard line color:"
+msgstr "Màu đường tiêu chuẩn:"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, label_2)
+#. i18n: ectx: property (whatsThis), widget (QLabel, label_3)
+#: prefs_display.ui:92 prefs_display.ui:108
+#, kde-format
+msgid "Color of the indicator lines"
+msgstr "Màu của các đường chỉ báo"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: prefs_display.ui:95
+#, kde-format
+msgid "Indicator line color:"
+msgstr "Màu đường chỉ báo:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: prefs_display.ui:111
+#, kde-format
+msgid "Highlight color:"
+msgstr "Màu tô sáng:"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, ScoresWidget)
+#: scoreswidget.ui:13
+#, kde-format
+msgid "Scores"
+msgstr "Điểm số"
+
+#. i18n: ectx: property (whatsThis), widget (QTableView, scoreTable)
+#: scoreswidget.ui:19
+#, kde-format
+msgid "Scoreboard"
+msgstr "Bảng điểm"

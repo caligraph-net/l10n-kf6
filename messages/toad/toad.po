@@ -1,0 +1,167 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the toad package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: toad\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-04-05 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: src/main.cpp:50
+#, kde-format
+msgctxt "@title"
+msgid "Tasks"
+msgstr "Nhiệm vụ"
+
+#: src/main.cpp:54
+#, kde-format
+msgid "Organize your tasks"
+msgstr "Sắp xếp các nhiệm vụ của bạn"
+
+#: src/main.cpp:58
+#, kde-format
+msgid "© 2022 Felipe Kinoshita"
+msgstr "© 2022 Felipe Kinoshita"
+
+#: src/main.cpp:59
+#, kde-format
+msgctxt "@info:credit"
+msgid "Felipe Kinoshita"
+msgstr "Felipe Kinoshita"
+
+#: src/main.cpp:59
+#, kde-format
+msgctxt "@info:credit"
+msgid "Author"
+msgstr "Tác giả"
+
+#: src/ui/Footer.qml:30
+#, kde-format
+msgid "Type the new task's title here…"
+msgstr "Nhập tiêu đề của công việc mới ở đây..."
+
+#: src/ui/Footer.qml:46
+#, kde-format
+msgid "Add Task"
+msgstr "Thêm Tác Vụ"
+
+#: src/ui/GlobalMenu.qml:16
+#, kde-format
+msgctxt "@menu"
+msgid "File"
+msgstr "Tệp"
+
+#: src/ui/GlobalMenu.qml:19
+#, kde-format
+msgctxt "@menu-action"
+msgid "Quit"
+msgstr "Thoát"
+
+#: src/ui/GlobalMenu.qml:26
+#, kde-format
+msgctxt "@menu"
+msgid "Edit"
+msgstr "Sửa"
+
+#: src/ui/GlobalMenu.qml:29
+#, kde-format
+msgctxt "@menu-action"
+msgid "Clear Tasks"
+msgstr "Làm trống Nhiệm vụ"
+
+#: src/ui/GlobalMenu.qml:37
+#, kde-format
+msgctxt "@menu"
+msgid "Help"
+msgstr "Trợ giúp"
+
+#: src/ui/GlobalMenu.qml:40
+#, kde-format
+msgctxt "@menu-action"
+msgid "Report Bug…"
+msgstr "Báo lỗi..."
+
+#: src/ui/GlobalMenu.qml:46
+#, kde-format
+msgctxt "@menu-action"
+msgid "About Tasks"
+msgstr "Thông tin về Nhiệm vụ"
+
+#: src/ui/main.qml:16
+#, kde-format
+msgid "Tasks"
+msgstr "Nhiệm vụ"
+
+#: src/ui/main.qml:178
+#, kde-format
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: src/ui/main.qml:178
+#, kde-format
+msgid "All tasks completed!"
+msgstr "Tất cả các nhiệm vụ đã hoàn thành!"
+
+#: src/ui/main.qml:180
+#, kde-format
+msgid "Your search did not match any results"
+msgstr "Tìm kiếm của bạn không tìm thấy kết quả nào"
+
+#: src/ui/main.qml:180
+#, kde-format
+msgid "Add some more by typing in the text field at the bottom of the window"
+msgstr "Thêm một số nữa bằng cách gõ vào trường văn bản ở phía dưới cửa sổ"
+
+#: src/ui/PageHeader.qml:26
+#, kde-format
+msgid "1 result"
+msgid_plural "%1 results"
+msgstr[0] "%1 kết quả"
+
+#: src/ui/PageHeader.qml:26
+#, kde-format
+msgid "1 task"
+msgid_plural "%1 tasks"
+msgstr[0] "%1 nhiệm vụ"
+
+#: src/ui/PageHeader.qml:35
+#, kde-format
+msgid "1 task completed"
+msgid_plural "%1 tasks completed"
+msgstr[0] "%1 nhiệm vụ đã hoàn thành"
+
+#: src/ui/PageHeader.qml:44
+#, kde-format
+msgid "Clear All"
+msgstr "Làm trống tất cả"
+
+#: src/ui/PageHeader.qml:53
+#, kde-format
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: src/ui/PageHeader.qml:68
+#, kde-format
+msgid "About Tasks"
+msgstr "Thông tin về Nhiệm vụ"

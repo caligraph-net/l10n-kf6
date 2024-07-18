@@ -1,0 +1,1025 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kubrick package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kubrick\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-04-29 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: game.cpp:82
+#, kde-format
+msgid "Front View"
+msgstr "Khung xem"
+
+#: game.cpp:83
+#, kde-format
+msgid "Back View"
+msgstr "Xem Phía Sau"
+
+#: game.cpp:90
+#, kde-format
+msgid "DEMO - Click anywhere to begin playing"
+msgstr "DEMO - Bấm bất kỳ đâu để bắt đầu chơi"
+
+#: game.cpp:145
+#, kde-format
+msgid ""
+"Sorry, the cube cannot be shuffled at the moment.  The number of shuffling "
+"moves is set to zero.  Please select your number of shuffling moves in the "
+"options dialog at menu item Game->Choose Puzzle Type->Make Your Own…"
+msgstr ""
+"Xin lỗi, lúc này không thể trộn lẫn khối lập phương. Số lượng bước trộn lẫn "
+"được đặt về không. Vui lòng bôi đen số lượng bước trộn lẫn trong hộp thoại "
+"tùy chọn tại mục Trò chơi->Chọn Loại Câu đố->Tạo Câu đố của Riêng Bạn..."
+
+#: game.cpp:149
+#, kde-format
+msgctxt "@title:window"
+msgid "New Puzzle"
+msgstr "Câu đố mới"
+
+#: game.cpp:165
+#, kde-format
+msgctxt "@title:window"
+msgid "Load Puzzle"
+msgstr "Tải Puzzle"
+
+#: game.cpp:166 game.cpp:1333
+#, kde-format
+msgid "Kubrick Game Files (*.kbk)"
+msgstr "Tệp Bàn chơi Kubrick (*.kbk)"
+
+#: game.cpp:175
+#, kde-format
+msgid "The file '%1' is not a valid Kubrick game-file."
+msgstr "Tệp '%1' không phải là một tệp trò chơi Kubrick hợp lệ."
+
+#: game.cpp:235
+#, kde-format
+msgid "Undo"
+msgstr "đảo ngược"
+
+#: game.cpp:241
+#, kde-format
+msgid "Redo"
+msgstr "làm lại"
+
+#: game.cpp:251
+#, kde-format
+msgid "This cube has not been shuffled, so there is nothing to solve."
+msgstr "Khối này chưa được trộn lẫn, vì vậy không có gì để giải quyết."
+
+#: game.cpp:253
+#, kde-format
+msgctxt "@title:window"
+msgid "Solve the Cube"
+msgstr "Giải Rubik"
+
+#: game.cpp:350
+#, kde-format
+msgid "Restart Puzzle (Undo All)"
+msgstr "Khởi động lại Puzzle (Hoàn tác Tất cả)"
+
+#: game.cpp:356
+#, kde-format
+msgid "Redo All"
+msgstr "Làm lại Tất cả"
+
+#: game.cpp:417
+#, kde-format
+msgid ""
+"Sorry, could not find a valid Kubrick demo file called %1.  It should have "
+"been installed in the 'apps/kubrick' sub-directory."
+msgstr ""
+"Xin lỗi, không thể tìm thấy tệp demo Kubrick hợp lệ có tên %1. Nó nên được "
+"cài đặt trong thư mục con 'apps/kubrick'."
+
+#: game.cpp:420
+#, kde-format
+msgctxt "@title:window"
+msgid "File Not Found"
+msgstr "Không tìm thấy tệp"
+
+#: game.cpp:1044
+#, kde-format
+msgid "Only one of your dimensions can be one cubie wide."
+msgstr "Chỉ một trong các kích thước của bạn có thể rộng một khối lập phương."
+
+#: game.cpp:1045
+#, kde-format
+msgctxt "@title:window"
+msgid "Cube Options"
+msgstr "Tùy chọn Khối"
+
+#: game.cpp:1332
+#, kde-format
+msgctxt "@title:window"
+msgid "Save Puzzle"
+msgstr "Lưu Puzzle"
+
+#: game.cpp:1545
+#, kde-format
+msgid "You have no moves to undo."
+msgstr "Bạn không có nước đi nào để hoàn tác."
+
+#: game.cpp:1575
+#, kde-format
+msgid ""
+"There are no moves to redo.\n"
+"\n"
+"That could be because you have not undone any or you have redone them all or "
+"because all previously undone moves are automatically deleted whenever you "
+"make a new move using the keyboard or mouse."
+msgstr ""
+"Không có nước đi nào để làm lại.\n\nĐiều này có thể là do bạn chưa đảo "
+"ngược bất kỳ nước đi nào hoặc bạn đã làm lại tất cả chúng, hoặc vì tất cả "
+"các nước đi đã đảo ngược trước đó đều bị xóa tự động bất cứ khi nào bạn "
+"thực hiện một nước đi mới bằng bàn phím hoặc chuột."
+
+#: game.cpp:1866
+#, kde-format
+msgid ""
+"The cube has animated moves in progress or the demo is running.\n"
+"\n"
+"Please wait or click on the cube to stop the demo."
+msgstr ""
+"Khối lập phương đang có các chuyển động được hoạt hình hoặc chế độ trình "
+"diễn đang chạy.\n\nVui lòng chờ hoặc bấm vào khối lập phương để dừng chế độ "
+"trình diễn."
+
+#: game.cpp:1869
+#, kde-format
+msgid "Sorry, too busy."
+msgstr "Xin lỗi, quá bận."
+
+#: gamedialog.cpp:31
+#, kde-format
+msgctxt "@title:window"
+msgid "Rubik's Cube Options"
+msgstr "Tùy chọn Rubik's Cube"
+
+#: gamedialog.cpp:48
+#, kde-format
+msgctxt "@lable:spinbox"
+msgid "Cube dimensions:"
+msgstr "Kích thước khối:"
+
+#: gamedialog.cpp:61
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Moves per shuffle (difficulty):"
+msgstr "Số di chuyển mỗi lần xáo trộn (độ khó):"
+
+#: gamedialog.cpp:68
+#, kde-format
+msgid "Cube dimensions: %1x%2x%3"
+msgstr "Kích thước khối: %1x%2x%3"
+
+#: gamedialog.cpp:74
+#, kde-format
+msgid "Moves per shuffle (difficulty): %1"
+msgstr "Số di chuyển mỗi lần xáo trộn (độ khó): %1"
+
+#: gamedialog.cpp:81
+#, kde-format
+msgid ""
+"<i>Please use <nobr>'Choose Puzzle Type->Make Your Own…'</nobr> to set the "
+"above options.</i>"
+msgstr ""
+"<i>Vui lòng sử dụng <nobr>'Chọn Loại Câu Đố->Tự Tạo…'</nobr> để thiết lập "
+"các tùy chọn trên.</i>"
+
+#: gamedialog.cpp:99
+#, kde-format
+msgctxt "@option:check"
+msgid "Watch shuffling in progress?"
+msgstr "Xem quá trình xáo trộn đang diễn ra?"
+
+#: gamedialog.cpp:102
+#, kde-format
+msgctxt "@option:check"
+msgid "Watch your moves in progress?"
+msgstr "Xem các nước đi của bạn đang diễn ra?"
+
+#: gamedialog.cpp:108
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Speed of moves:"
+msgstr "Tốc độ di chuyển:"
+
+#: gamedialog.cpp:118
+#, no-c-format, kde-format
+msgctxt "@label:spinbox"
+msgid "% of bevel on edges of cubies:"
+msgstr "% cạnh bevel trên các cạnh của các khối lập phương:"
+
+#: gamedialog.cpp:175
+#, kde-format
+msgid ""
+"You can choose any size of cube (or brick) up to 6x6x6, but only one side "
+"can have dimension 1 (otherwise the puzzle becomes trivial).  The easiest "
+"puzzle is 2x2x1 and 3x3x1 is a good warmup for the original Rubik's Cube, "
+"which is 3x3x3.  Simple puzzles have 2 to 5 shuffling moves, a difficult "
+"3x3x3 puzzle has 10 to 20 --- or you can choose zero shuffling then shuffle "
+"the cube yourself, maybe for a friend to solve.\n"
+"The other options determine whether you can watch the shuffling and/or your "
+"own moves and how fast the animation goes.  The bevel option affects the "
+"appearance of the small cubes.  Try setting it to 30 and you'll see what we "
+"mean."
+msgstr ""
+"Bạn có thể chọn bất kỳ kích thước khối lập phương (hoặc gạch) lên đến "
+"6x6x6, nhưng chỉ một cạnh có thể có kích thước 1 (nếu không thì câu đố sẽ "
+"trở nên quá đơn giản). Câu đố dễ nhất là 2x2x1 và 3x3x1 là một sự khởi động "
+"tốt cho Rubik's Cube gốc, là 3x3x3. Các câu đố đơn giản có 2 đến 5 lần "
+"trộn, một câu đố 3x3x3 khó có 10 đến 20 lần --- hoặc bạn có thể chọn không "
+"trộn và tự trộn khối, có thể để một người bạn giải.\nCác tùy chọn khác xác "
+"định xem bạn có thể xem quá trình trộn và/hoặc các bước của riêng bạn và "
+"tốc độ hiệu ứng động ra sao. Tùy chọn bevel ảnh hưởng đến diện mạo của các "
+"khối nhỏ. Hãy thử đặt nó thành 30 và bạn sẽ thấy ý nghĩa của nó."
+
+#: gamedialog.cpp:187
+#, kde-format
+msgid "HELP: Rubik's Cube Options"
+msgstr "TRỢ GIÚP: Tùy chọn Rubik's Cube"
+
+#: kubrick.cpp:68
+#, kde-format
+msgid "Welcome to Kubrick"
+msgstr "Chào mừng đến Kubrick"
+
+#: kubrick.cpp:89
+msgid "2x2x1 mat, 1 move"
+msgstr "ma trận 2x2x1, 1 di chuyển"
+
+#: kubrick.cpp:90
+msgid "2x2x1 mat, 2 moves"
+msgstr "Ma trận 2x2x1, 2 bước"
+
+#: kubrick.cpp:91
+msgid "2x2x1 mat, 3 moves"
+msgstr "Ma trận 2x2x1, 3 bước"
+
+#: kubrick.cpp:92
+msgid "2x2x2 cube, 2 moves"
+msgstr "Khối 2x2x2, 2 nước di chuyển"
+
+#: kubrick.cpp:93
+msgid "2x2x2 cube, 3 moves"
+msgstr "Khối 2x2x2, 3 nước di chuyển"
+
+#: kubrick.cpp:94
+msgid "2x2x2 cube, 4 moves"
+msgstr "Khối 2x2x2, 4 nước di chuyển"
+
+#: kubrick.cpp:95
+msgid "3x3x1 mat, 4 moves"
+msgstr "ma trận 3x3x1, 4 di chuyển"
+
+#: kubrick.cpp:96 kubrick.cpp:103
+msgid "3x3x3 cube, 3 moves"
+msgstr "Khối 3x3x3, 3 nước di chuyển"
+
+#: kubrick.cpp:97 kubrick.cpp:104
+msgid "3x3x3 cube, 4 moves"
+msgstr "Khối 3x3x3, 4 bước"
+
+#: kubrick.cpp:105
+msgid "4x4x4 cube, 4 moves"
+msgstr "Khối 4x4x4, 4 nước di chuyển"
+
+#: kubrick.cpp:106
+msgid "5x5x5 cube, 4 moves"
+msgstr "Khối lập phương 5x5x5, 4 bước"
+
+#: kubrick.cpp:107
+msgid "6x3x2 brick, 4 moves"
+msgstr "Gạch 6x3x2, 4 di chuyển"
+
+#: kubrick.cpp:113
+msgid "3x3x3 cube, 7 moves"
+msgstr "Khối 3x3x3, 7 bước"
+
+#: kubrick.cpp:114
+msgid "4x4x4 cube, 5 moves"
+msgstr "Khối lập phương 4x4x4, 5 nước di chuyển"
+
+#: kubrick.cpp:115
+msgid "5x5x5 cube, 6 moves"
+msgstr "Khối lập phương 5x5x5, 6 bước"
+
+#: kubrick.cpp:116
+msgid "6x6x6 cube, 6 moves"
+msgstr "Khối lập phương 6x6x6, 6 nước di chuyển"
+
+#: kubrick.cpp:117
+msgid "6x4x1 mat, 9 moves"
+msgstr "Ảnh 6x4x1, 9 bước"
+
+#: kubrick.cpp:118
+msgid "6x3x2 brick, 6 moves"
+msgstr "Gạch 6x3x2, 6 di chuyển"
+
+#: kubrick.cpp:124
+msgid "3x3x3 cube, 12 moves"
+msgstr "Khối 3x3x3, 12 nước di chuyển"
+
+#: kubrick.cpp:125
+msgid "3x3x3 cube, 15 moves"
+msgstr "Khối 3x3x3, 15 nước"
+
+#: kubrick.cpp:126
+msgid "3x3x3 cube, 20 moves"
+msgstr "Khối 3x3x3, 20 nước"
+
+#: kubrick.cpp:127
+msgid "4x4x4 cube, 12 moves"
+msgstr "Khối lập phương 4x4x4, 12 nước di chuyển"
+
+#: kubrick.cpp:128
+msgid "5x5x5 cube, 15 moves"
+msgstr "Khối lập phương 5x5x5, 15 nước di chuyển"
+
+#: kubrick.cpp:129
+msgid "6x6x6 cube, 25 moves"
+msgstr "Khối lập phương 6x6x6, 25 nước di chuyển"
+
+#: kubrick.cpp:135
+msgid ""
+"Rubik's Cube can be moved into many interesting patterns.  Here are a few "
+"from David Singmaster's classic book 'Notes on Rubik's Magic Cube, Fifth "
+"Edition', pages 47-49, published in 1981.  After a pattern has formed, you "
+"can use the Solve action (default key S) to undo and redo it as often as you "
+"like."
+msgstr ""
+"Rubik's Cube có thể được di chuyển vào nhiều dạng mẫu thú vị. Dưới đây là "
+"một số ví dụ từ cuốn sách kinh điển 'Notes on Rubik's Magic Cube, Ấn bản "
+"thứ Năm' của David Singmaster, trang 47-49, được xuất bản vào năm 1981. Sau "
+"khi một dạng mẫu đã được hình thành, bạn có thể sử dụng hành động Giải "
+"(phím mặc định là S) để đảo ngược và làm lại nó bao nhiêu lần tùy ý."
+
+#: kubrick.cpp:144 kubrick.cpp:179
+msgid "Info"
+msgstr "Thông tin"
+
+#: kubrick.cpp:145
+msgid "3x3x3, 6 X"
+msgstr "3x3x3, 6 X"
+
+#: kubrick.cpp:146
+msgid "3x3x3, 2 X"
+msgstr "3x3x3, 2 X"
+
+#: kubrick.cpp:147
+msgid "3x3x3, 6 Spot"
+msgstr "3x3x3, 6 Spot"
+
+#: kubrick.cpp:148
+msgid "3x3x3, 4 Spot"
+msgstr "3x3x3, 4 Spot"
+
+#: kubrick.cpp:149
+msgid "3x3x3, 4 Plus"
+msgstr "3x3x3, 4 Plus"
+
+#: kubrick.cpp:150
+msgid "3x3x3, 4 Bar"
+msgstr "3x3x3, 4 Bar"
+
+#: kubrick.cpp:151
+msgid "3x3x3, 6 U"
+msgstr "3x3x3, 6 U"
+
+#: kubrick.cpp:152
+msgid "3x3x3, 4 U"
+msgstr "3x3x3, 4 U"
+
+#: kubrick.cpp:153
+msgid "3x3x3, Snake"
+msgstr "3x3x3, Rắn"
+
+#: kubrick.cpp:154
+msgid "3x3x3, Worm"
+msgstr "3x3x3, Sâu"
+
+#: kubrick.cpp:155
+msgid "3x3x3, Tricolor"
+msgstr "3x3x3, Ba màu"
+
+#: kubrick.cpp:156
+msgid "3x3x3, Double Cube"
+msgstr "3x3x3, Khối Lập phương Đôi"
+
+#: kubrick.cpp:162
+msgid ""
+"<qt>Mathematicians calculate that a 3x3x3 cube can be shuffled into "
+"43,252,003,274,489,856,000 different patterns, yet they conjecture that all "
+"positions can be solved in 20 moves or less.  The method that can do that "
+"(as yet undiscovered) is called God's Algorithm.<br><br>Many longer methods "
+"are known.  See the two Wikipedia articles on Rubik's Cube and Optimal "
+"Solutions for Rubik's Cube.<br><br>Several methods work systematically by "
+"building the solution one layer at a time, using sequences of moves that "
+"solve a few pieces without disturbing what has already been done.  The "
+"'Beginner Solution' demonstrated here uses that approach.  Just over 100 "
+"moves solve a cube that is shuffled in 20.</qt>"
+msgstr ""
+"<qt>Các nhà toán học tính toán rằng một khối lập phương 3x3x3 có thể được "
+"xáo trộn thành 43.252.003.274.489.856.000 mẫu khác nhau, tuy nhiên họ phỏng "
+"đoán rằng tất cả các vị trí có thể được giải quyết trong 20 bước hoặc ít "
+"hơn. Phương pháp có thể làm được điều đó (chưa được khám phá) được gọi là "
+"Thuật toán của Chúa.<br><br>Nhiều phương pháp dài hơn đã được biết đến. Xem "
+"hai bài viết Wikipedia về Khối Rubik và Giải pháp Tối ưu cho Khối "
+"Rubik.<br><br>Một số phương pháp hoạt động có hệ thống bằng cách xây dựng "
+"giải pháp từng lớp một, sử dụng các chuỗi di chuyển giải quyết một vài mảnh "
+"mà không làm xáo trộn những gì đã được thực hiện. 'Giải pháp cho Người mới "
+"bắt đầu' được trình bày ở đây sử dụng cách tiếp cận đó. Chỉ cần hơn 100 "
+"bước để giải một khối lập phương đã được xáo trộn trong 20 bước.</qt>"
+
+#: kubrick.cpp:180
+msgid "3x3x3 Layer 1, Edges First"
+msgstr "Lớp 1 3x3x3, Cạnh Trước"
+
+#: kubrick.cpp:181
+msgid "3x3x3 Layer 2, Edge from Bottom Right"
+msgstr "Lớp 2, Cạnh từ Phải Dưới, 3x3x3"
+
+#: kubrick.cpp:182
+msgid "3x3x3 Layer 2, Edge from Bottom Left"
+msgstr "Lớp 2, cạnh từ dưới bên trái của Lập phương 3x3x3"
+
+#: kubrick.cpp:183
+msgid "3x3x3 Layer 3, Flip Edge Pieces"
+msgstr "Lớp 3 3x3x3, Lật các mảnh cạnh"
+
+#: kubrick.cpp:184
+msgid "3x3x3 Layer 3, Place Corners"
+msgstr "Lớp 3x3x3, Đặt Góc"
+
+#: kubrick.cpp:185
+msgid "3x3x3 Layer 3, Twist Corners"
+msgstr "Lớp 3 3x3x3, Xoay Góc"
+
+#: kubrick.cpp:186
+msgid "3x3x3 Layer 3, Place Edges and DONE!"
+msgstr "Lớp 3x3x3, Đặt Cạnh và XONG!"
+
+#: kubrick.cpp:187
+msgid "3x3x3 Cube, Complete Solution"
+msgstr "Khối lập phương 3x3x3, Giải pháp hoàn tất"
+
+#: kubrick.cpp:188
+msgid "3x3x3 Swap 2 Pairs of Edges"
+msgstr "Hoán đổi 2 cặp cạnh của khối 3x3x3"
+
+#: kubrick.cpp:189
+msgid "3x3x3 Untwist 2 Corners"
+msgstr "Giải 2 góc của Rubik 3x3x3"
+
+#: kubrick.cpp:190
+msgid "3x3x3 Flip 2 Edges"
+msgstr "Lật 2 cạnh 3x3x3"
+
+#: kubrick.cpp:203
+#, kde-format
+msgctxt "@action"
+msgid "&New Puzzle"
+msgstr "Câu đố mớ&i"
+
+#: kubrick.cpp:204
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Start a new puzzle"
+msgstr "Bắt đầu một câu đố mới"
+
+#: kubrick.cpp:205
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Finishes the puzzle you are working on and start a new puzzle with the same "
+"dimensions and number of shuffling moves."
+msgstr ""
+"Hoàn thành câu đố bạn đang làm và bắt đầu một câu đố mới với cùng kích "
+"thước và số lượng bước trộn."
+
+#: kubrick.cpp:213
+#, kde-format
+msgctxt "@action"
+msgid "&Load Puzzle…"
+msgstr "Tải P&uzzle..."
+
+#: kubrick.cpp:214
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Reload a saved puzzle from a file"
+msgstr "Tải lại một bài xếp hình đã lưu từ một tệp"
+
+#: kubrick.cpp:215
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Reloads a puzzle you have previously saved on a file, including its "
+"dimensions, settings, current state and history of moves."
+msgstr ""
+"Tải lại một bài toán mà bạn đã lưu trước đó vào một tệp, bao gồm kích "
+"thước, cài đặt, trạng thái hiện tại và lịch sử các nước đi."
+
+#: kubrick.cpp:223
+#, kde-format
+msgctxt "@action"
+msgid "&Save Puzzle…"
+msgstr "Lưu Puzz&le..."
+
+#: kubrick.cpp:224
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Save the puzzle on a file"
+msgstr "Lưu câu đố vào một tệp"
+
+#: kubrick.cpp:225
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Saves the puzzle on a file, including its dimensions, settings, current "
+"state and history of moves."
+msgstr ""
+"Lưu câu đố vào một tệp, bao gồm kích thước, cài đặt, trạng thái hiện tại và "
+"lịch sử các nước đi."
+
+#: kubrick.cpp:232
+#, kde-format
+msgctxt "@action"
+msgid "&Save Puzzle As…"
+msgstr "Lưu Pu&zzle Dưới Tên..."
+
+#: kubrick.cpp:237
+#, kde-format
+msgctxt "@action"
+msgid "Restart &Puzzle…"
+msgstr "Khởi động lại &Puzzle..."
+
+#: kubrick.cpp:238
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Undo all previous moves and start again"
+msgstr "Đảo ngược tất cả các bước trước đó và bắt đầu lại"
+
+#: kubrick.cpp:240
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Undoes all previous moves and start again."
+msgstr "Hoàn tác tất cả các bước trước đó và bắt đầu lại."
+
+#: kubrick.cpp:252
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Undo the last move"
+msgstr "Đảo ngược lại bước di chuyển cuối cùng"
+
+#: kubrick.cpp:253
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Undoes the last move."
+msgstr "Hoàn tác lại bước di chuyển cuối cùng."
+
+#: kubrick.cpp:258
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Redo a previously undone move"
+msgstr "Làm lại một bước đã đảo ngược trước đó"
+
+#: kubrick.cpp:259
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Redoes a previously undone move (repeatedly from the start if required)."
+msgstr ""
+"Thực hiện lại một nước đi đã được hoàn tác trước đó (lặp lại từ đầu nếu "
+"cần)."
+
+#: kubrick.cpp:265
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Show the solution of the puzzle"
+msgstr "Hiển thị lời giải của câu đố"
+
+#: kubrick.cpp:266
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Shows the solution of the puzzle by undoing and re-doing all shuffling moves."
+msgstr ""
+"Hiển thị lời giải của câu đố bằng cách đảo ngược và thực hiện lại tất cả "
+"các bước trộn."
+
+#: kubrick.cpp:272
+#, kde-format
+msgctxt "@action"
+msgid "Main &Demo"
+msgstr "&Trình diễn chính"
+
+#: kubrick.cpp:273
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Run a demonstration of puzzle moves"
+msgstr "Chạy một bài trình diễn các bước di chuyển của câu đố"
+
+#: kubrick.cpp:274
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Runs a demonstration of puzzle moves, in which randomly chosen cubes, bricks "
+"or mats are shuffled and solved."
+msgstr ""
+"Chạy một bài trình diễn các bước di chuyển của câu đố, trong đó các khối, "
+"gạch hoặc tấm được chọn ngẫu nhiên được xáo trộn và giải quyết."
+
+#: kubrick.cpp:279
+#, kde-format
+msgctxt "@action"
+msgid "Realign Cube"
+msgstr "Căn chỉnh lại Khối"
+
+#: kubrick.cpp:280
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Realign the cube so that the top, front and right faces are visible together"
+msgstr ""
+"Căn chỉnh lại khối lập phương để mặt trên, mặt trước và mặt phải hiển thị "
+"cùng nhau"
+
+#: kubrick.cpp:282
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Realigns the cube so that the top, front and right faces are visible "
+"together and the cube's axes are parallel to the XYZ axes, thus making "
+"keyboard moves properly meaningful."
+msgstr ""
+"Căn chỉnh lại khối lập phương để mặt trên, mặt trước và mặt phải hiển thị "
+"cùng nhau, và các trục của khối lập phương song song với các trục XYZ, do "
+"đó các thao tác bằng bàn phím sẽ có ý nghĩa đúng đắn."
+
+#: kubrick.cpp:292
+#, kde-format
+msgctxt "@action"
+msgid "Redo All"
+msgstr "Làm lại Tất cả"
+
+#: kubrick.cpp:297
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Singmaster moves:"
+msgstr "Các bước của Singmaster:"
+
+#: kubrick.cpp:311
+#, kde-format
+msgid "Singmaster Moves"
+msgstr "Các Bước Singmaster"
+
+#: kubrick.cpp:313
+#, kde-format
+msgid "This area shows Singmaster moves."
+msgstr "Khu vực này hiển thị các bước di chuyển của Singmaster."
+
+#: kubrick.cpp:318
+#, kde-format
+msgctxt ""
+"The letters RLFBUD are mathematical notation based on English words. Please "
+"leave those letters and words untranslated in some form."
+msgid ""
+"This area shows Singmaster moves. They are based on the letters RLFBUD, "
+"representing (in English) the Right, Left, Front, Back, Up and Down faces. "
+"In normal view, the letters RFU represent clockwise moves of the three "
+"visible faces and LBD appear as anticlockwise moves of the hidden faces. "
+"Adding a ' (apostrophe) to a letter gives the reverse of that letter's move. "
+"To move inner slices, add periods (or dots) before the letter of the nearest "
+"face."
+msgstr ""
+"Khu vực này hiển thị các bước di chuyển Singmaster. Chúng dựa trên các chữ "
+"cái RLFBUD, đại diện cho (bằng tiếng Anh) các mặt Phải, Trái, Trước, Sau, "
+"Lên và Xuống. Trong chế độ xem bình thường, các chữ cái RFU biểu thị các "
+"chuyển động theo chiều kim đồng hồ của ba mặt nhìn thấy và LBD xuất hiện "
+"như các chuyển động ngược chiều kim đồng hồ của các mặt ẩn. Thêm một dấu ' "
+"(dấu nháy đơn) vào một chữ cái sẽ cho phép thực hiện chuyển động ngược lại "
+"của chữ cái đó. Để di chuyển các lát cắt bên trong, hãy thêm dấu chấm (hoặc "
+"dấu chấm) trước chữ cái của mặt gần nhất."
+
+#: kubrick.cpp:342
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Easy"
+msgstr "&Dễ dàng"
+
+#: kubrick.cpp:347
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Not So Easy"
+msgstr "Khôn&g Dễ Dàng"
+
+#: kubrick.cpp:352
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Hard"
+msgstr "K&hó"
+
+#: kubrick.cpp:357
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Very Hard"
+msgstr "Rất &khó"
+
+#: kubrick.cpp:363
+#, kde-format
+msgctxt "@action"
+msgid "Make Your Own…"
+msgstr "Tạo của riêng bạn..."
+
+#: kubrick.cpp:371
+#, kde-format
+msgctxt "@option:check"
+msgid "1 Cube"
+msgstr "1 Khối"
+
+#: kubrick.cpp:373
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Show one view of this cube"
+msgstr "Hiển thị một khung xem của khối lập phương này"
+
+#: kubrick.cpp:374
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Shows one view of this cube, from the front."
+msgstr "Hiển thị một khung xem của khối lập phương này, từ phía trước."
+
+#: kubrick.cpp:381
+#, kde-format
+msgctxt "@option:check"
+msgid "2 Cubes"
+msgstr "2 Khối"
+
+#: kubrick.cpp:383
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Show two views of this cube"
+msgstr "Hiển thị hai chế độ xem của khối lập phương này"
+
+#: kubrick.cpp:384
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Shows two views of this cube, from the front and the back.  Both can rotate."
+msgstr ""
+"Hiển thị hai góc nhìn của khối lập phương này, từ phía trước và phía sau. "
+"Cả hai đều có thể xoay."
+
+#: kubrick.cpp:390
+#, kde-format
+msgctxt "@option:check"
+msgid "3 Cubes"
+msgstr "3 Khối"
+
+#: kubrick.cpp:392
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Show three views of this cube"
+msgstr "Hiển thị ba góc nhìn của khối lập phương này"
+
+#: kubrick.cpp:393
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Shows three views of this cube, a large one, from the front, and two small "
+"ones, from the front and the back.  Only the large one can rotate."
+msgstr ""
+"Hiển thị ba góc nhìn của khối lập phương này, một cái lớn ở phía trước và "
+"hai cái nhỏ ở phía trước và phía sau. Chỉ có cái lớn mới có thể xoay."
+
+#: kubrick.cpp:404
+#, kde-format
+msgctxt "@option:check"
+msgid "&Watch Shuffling"
+msgstr "Xem Phát n&gẫu nhiên"
+
+#: kubrick.cpp:409
+#, kde-format
+msgctxt "@option:check"
+msgid "Watch Your &Own Moves"
+msgstr "&Theo dõi các nước đi của bạn"
+
+#: kubrick.cpp:429
+#, kde-format
+msgctxt "@action"
+msgid "X Axis"
+msgstr "Trục X"
+
+#: kubrick.cpp:434
+#, kde-format
+msgctxt "@action"
+msgid "Y Axis"
+msgstr "Trục Y"
+
+#: kubrick.cpp:439
+#, kde-format
+msgctxt "@action"
+msgid "Z Axis"
+msgstr "Trục Z"
+
+#: kubrick.cpp:447
+#, kde-format
+msgctxt "@action"
+msgid "Slice %1"
+msgstr "Cắt %1"
+
+#: kubrick.cpp:454
+#, kde-format
+msgctxt "@action"
+msgid "Turn Whole Cube"
+msgstr "Xoay Toàn Khối"
+
+#: kubrick.cpp:460
+#, kde-format
+msgctxt "@action"
+msgid "Anti-Clockwise"
+msgstr "Ngược chiều kim đồng hồ"
+
+#: kubrick.cpp:465
+#, kde-format
+msgctxt "@action"
+msgid "Clockwise"
+msgstr "Theo chiều kim đồng hồ"
+
+#: kubrick.cpp:470
+#, kde-format
+msgctxt "@action"
+msgid "Move 'Up' Face"
+msgstr "Di chuyển mặt 'Lên'"
+
+#: kubrick.cpp:472
+#, kde-format
+msgctxt "@action"
+msgid "Move 'Down' Face"
+msgstr "Di chuyển mặt 'Xuống'"
+
+#: kubrick.cpp:474
+#, kde-format
+msgctxt "@action"
+msgid "Move 'Left' Face"
+msgstr "Di chuyển Mặt 'Trái'"
+
+#: kubrick.cpp:476
+#, kde-format
+msgctxt "@action"
+msgid "Move 'Right' Face"
+msgstr "Di chuyển Mặt 'Phải'"
+
+#: kubrick.cpp:478
+#, kde-format
+msgctxt "@action"
+msgid "Move 'Front' Face"
+msgstr "Di chuyển mặt 'Trước'"
+
+#: kubrick.cpp:480
+#, kde-format
+msgctxt "@action"
+msgid "Move 'Back' Face"
+msgstr "Di chuyển mặt 'Quay lại'"
+
+#: kubrick.cpp:482
+#, kde-format
+msgctxt "@action"
+msgid "Anti-Clockwise Move"
+msgstr "Chuyển Ngược Chiều Kim Đồng Hồ"
+
+#: kubrick.cpp:484
+#, kde-format
+msgctxt "@action"
+msgid "Singmaster Two-Slice Move"
+msgstr "Chuyển động Singmaster Hai Lát"
+
+#: kubrick.cpp:486
+#, kde-format
+msgctxt "@action"
+msgid "Singmaster Anti-Slice Move"
+msgstr "Chuyển động Singmaster Anti-Slice"
+
+#: kubrick.cpp:488
+#, kde-format
+msgctxt "@action"
+msgid "Move an Inner Slice"
+msgstr "Di chuyển một lát cắt bên trong"
+
+#: kubrick.cpp:490 kubrick.cpp:492
+#, kde-format
+msgctxt "@action"
+msgid "Complete a Singmaster Move"
+msgstr "Hoàn tất một Singmaster Move"
+
+#: kubrick.cpp:494
+#, kde-format
+msgctxt "@action"
+msgid "Add Space to Singmaster Moves"
+msgstr "Thêm khoảng trắng vào các bước của Singmaster"
+
+#: kubrick.cpp:499
+#, kde-format
+msgctxt "@action"
+msgid "Switch Background"
+msgstr "Chuyển nền"
+
+#: kubrick.cpp:622
+#, kde-format
+msgctxt "@title:window"
+msgid "Pretty Patterns"
+msgstr "Những Họa Tiết Đẹp"
+
+#: kubrick.cpp:640
+#, kde-format
+msgctxt "@title:window"
+msgid "Solution Moves"
+msgstr "Các Bước Giải"
+
+#: kubrick.cpp:649
+#, kde-format
+msgid "%1x%2x%3 cube, %4 shuffling moves"
+msgstr "Khối %1x%2x%3, %4 bước trộn lẫn"
+
+#: kubrick.cpp:653
+#, kde-format
+msgid "%1x%2x%3 brick, %4 shuffling moves"
+msgstr "%1x%2x%3 viên gạch, %4 di chuyển xáo trộn"
+
+#: kubrick.cpp:657
+#, kde-format
+msgid "%1x%2x%3 mat, %4 shuffling moves"
+msgstr "Tấm %1x%2x%3, %4 lượt di chuyển"
+
+#. i18n: ectx: Menu (puzzles)
+#: kubrickui.rc:10
+#, kde-format
+msgid "&Puzzle Type"
+msgstr "Kiểu &Puzzle"
+
+#. i18n: ectx: Menu (demos)
+#: kubrickui.rc:28
+#, kde-format
+msgid "&Demos"
+msgstr "Trình &diễn"
+
+#. i18n: ectx: Menu (puzzles)
+#: kubrickui.rc:30
+#, kde-format
+msgid "&Pretty Patterns"
+msgstr "Những mẫu đẹ&p"
+
+#. i18n: ectx: Menu (puzzles)
+#: kubrickui.rc:33
+#, kde-format
+msgid "&Solution Moves"
+msgstr "Cá&c bước giải"
+
+#: main.cpp:24
+#, kde-format
+msgid "Kubrick"
+msgstr "Kubrick"
+
+#: main.cpp:26
+#, kde-format
+msgid "A game based on Rubik's Cube (TM)"
+msgstr "Một trò chơi dựa trên Rubik's Cube (TM)"
+
+#: main.cpp:28
+#, kde-format
+msgid "&copy; 2008 Ian Wadham"
+msgstr "bản qu&yền; 2008 Ian Wadham"
+
+#: main.cpp:31
+#, kde-format
+msgid "Ian Wadham"
+msgstr "Ian Wadham"
+
+#: main.cpp:31
+#, kde-format
+msgid "Author"
+msgstr "Tác giả"

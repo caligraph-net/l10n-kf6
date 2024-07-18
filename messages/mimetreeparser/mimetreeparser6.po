@@ -1,0 +1,639 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the mimetreeparser package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: mimetreeparser\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-15 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: core/attachmentmodel.cpp:202
+#, kde-format
+msgctxt "@title:column"
+msgid "Name"
+msgstr "Tên"
+
+#: core/attachmentmodel.cpp:204
+#, kde-format
+msgctxt "@title:column"
+msgid "Size"
+msgstr "Kích thước"
+
+#: core/attachmentmodel.cpp:206
+#, kde-format
+msgctxt "@title:column"
+msgid "Encrypted"
+msgstr "Mật mã hoá"
+
+#: core/attachmentmodel.cpp:208
+#, kde-format
+msgctxt "@title:column"
+msgid "Signed"
+msgstr "Đã ký"
+
+#: core/attachmentmodel.cpp:301
+#, kde-format
+msgctxt "@info"
+msgid "Failed to save attachment."
+msgstr "Không thể lưu tệp đính kèm."
+
+#: core/attachmentmodel.cpp:324
+#, kde-format
+msgid "attachment"
+msgstr "đính kèm"
+
+#: core/attachmentmodel.cpp:331
+#, kde-format
+msgctxt "@info"
+msgid "Failed to write attachment for opening."
+msgstr "Không thể ghi tệp đính kèm để mở."
+
+#: core/attachmentmodel.cpp:350 core/attachmentmodel.cpp:360
+#, kde-format
+msgctxt "@info"
+msgid "Failed to open attachment."
+msgstr "Không thể mở tệp đính kèm."
+
+#: core/attachmentmodel.cpp:381
+#, kde-format
+msgctxt "@info"
+msgid "No certificates were found in this attachment"
+msgstr "Không tìm thấy chứng chỉ nào trong tệp đính kèm này"
+
+#: core/attachmentmodel.cpp:384
+#, kde-format
+msgctxt "@info"
+msgid "one certificate imported"
+msgid_plural "%1 certificates imported"
+msgstr[0] "%1 chứng chỉ đã được nhập"
+
+#: core/attachmentmodel.cpp:389
+#, kde-format
+msgctxt "@info"
+msgid "one certificate was already imported"
+msgid_plural "%1 certificates were already imported"
+msgstr[0] "%1 chứng chỉ đã được nhập trước đó"
+
+#: core/messageparser.cpp:47
+#, kde-format
+msgctxt "Displayed when a CC, FROM or TO field in an email is empty"
+msgid "Unknown"
+msgstr "không rõ"
+
+#: core/messageparser.cpp:52
+#, kde-format
+msgctxt "list separator"
+msgid ", "
+msgstr ", "
+
+#: core/messagepart.cpp:624 core/messagepart.cpp:659 core/messagepart.cpp:836
+#, kde-format
+msgctxt "@info:status"
+msgid "Wrong Crypto Plug-In."
+msgstr "Sai Plug-in Mã hóa."
+
+#: core/messagepart.cpp:988
+#, kde-format
+msgid "No appropriate crypto plug-in was found."
+msgstr "Không tìm thấy phần cài cắm mã hóa phù hợp."
+
+#: core/messagepart.cpp:990
+#, kde-format
+msgid "Crypto plug-in \"%1\" cannot decrypt messages."
+msgstr "Phần cài cắm mã hóa \"%1\" không thể giải mật mã các thư."
+
+#: core/messagepart.cpp:992
+#, kde-format
+msgid "Crypto plug-in \"%1\" could not decrypt the data."
+msgstr "Phần cài cắm mã hóa \"%1\" không thể giải mật mã dữ liệu."
+
+#: core/messagepart.cpp:993
+#, kde-format
+msgid "Error: %1"
+msgstr "Lỗi: %1"
+
+#: core/partmodel.cpp:514
+#, kde-format
+msgctxt "@info:status"
+msgid ""
+"This message cannot be decrypted with any S/MIME certificate in your keyring."
+msgstr ""
+"Thông điệp này không thể được giải mật mã bằng bất kỳ chứng chỉ S/MIME nào "
+"trong chùm khóa của bạn."
+
+#: core/partmodel.cpp:517
+#, kde-format
+msgctxt "@info:status"
+msgid ""
+"This message cannot be decrypted with any OpenPGP certificate in your "
+"keyring."
+msgstr ""
+"Thông điệp này không thể được giải mật mã bằng bất kỳ chứng chỉ OpenPGP nào "
+"trong chùm khóa của bạn."
+
+#: core/partmodel.cpp:523
+#, kde-format
+msgctxt "@info:status"
+msgid "The message is encrypted for the following certificate:"
+msgid_plural "The message is encrypted for the following certificates:"
+msgstr[0] "Thông điệp này được mật mã hoá cho các chứng chỉ sau:"
+
+#: core/partmodel.cpp:537
+#, kde-format
+msgctxt "@info:status"
+msgid "Wrong passphrase."
+msgstr "Mật khẩu không đúng."
+
+#: core/utils.cpp:46
+#, kde-format
+msgctxt "@info"
+msgid "Unknown Key"
+msgstr "Không rõ"
+
+#: core/utils.cpp:60
+#, kde-format
+msgctxt "Separator"
+msgid " - "
+msgstr "-"
+
+#: quick/qml/MailViewer.qml:40
+#, kde-format
+msgctxt "@title:window"
+msgid "Message viewer"
+msgstr "Trình xem thông điệp"
+
+#: quick/qml/MailViewer.qml:77
+#, kde-format
+msgctxt "@label"
+msgid "Subject:"
+msgstr "Chủ đề:"
+
+#: quick/qml/MailViewer.qml:98
+#, kde-format
+msgctxt "@label"
+msgid "From:"
+msgstr "Từ:"
+
+#: quick/qml/MailViewer.qml:114
+#, kde-format
+msgctxt "@label"
+msgid "Sender:"
+msgstr "Người gửi:"
+
+#: quick/qml/MailViewer.qml:130
+#, kde-format
+msgctxt "@label"
+msgid "To:"
+msgstr "Đến:"
+
+#: quick/qml/MailViewer.qml:146
+#, kde-format
+msgctxt "@label"
+msgid "CC:"
+msgstr "Cc:"
+
+#: quick/qml/MailViewer.qml:162
+#, kde-format
+msgctxt "@label"
+msgid "BCC:"
+msgstr "Bcc:"
+
+#: quick/qml/MailViewer.qml:219
+#, kde-format
+msgctxt "@action:button"
+msgid "Save attachment"
+msgstr "Lưu tệp đính kèm"
+
+#: quick/qml/MailViewer.qml:242
+#, kde-format
+msgctxt "@window:title"
+msgid "Save Attachment As"
+msgstr "Lưu Tệp Đính Kèm Dưới Tên"
+
+#: quick/qml/private/AttachmentDelegate.qml:56
+#, kde-format
+msgctxt "@action:button"
+msgid "Import certificate"
+msgstr "Nhập khẩu chứng chỉ"
+
+#: quick/qml/private/Banner.qml:188
+#, kde-format
+msgctxt "@action:button"
+msgid "Close"
+msgstr "Đóng"
+
+#: quick/qml/private/ErrorPart.qml:27
+#, kde-format
+msgid "An error occurred: %1"
+msgstr "Đã xảy ra lỗi: %1"
+
+#: quick/qml/private/ICalPart.qml:27
+#, kde-format
+msgid "This mail contains an invitation"
+msgstr "Thư này chứa một lời mời"
+
+#: quick/qml/private/MailPart.qml:41
+#, kde-format
+msgctxt "@info"
+msgid "sent by %1 on %2"
+msgstr "được gửi bởi %1 vào %2"
+
+#: quick/qml/private/MailPartModel.qml:55
+#, kde-format
+msgctxt "@label"
+msgid "This message has been signed using the certificate %1."
+msgstr "Thông điệp này đã được ký bằng chứng chỉ %1."
+
+#: quick/qml/private/MailPartModel.qml:56
+#: widgets/messagecontainerwidget.cpp:72
+#, kde-format
+msgctxt "@label"
+msgid "The certificate details are not available."
+msgstr "Không có thông tin chi tiết về chứng chỉ."
+
+#: quick/qml/private/MailPartModel.qml:58
+#, kde-format
+msgctxt "@label"
+msgid "This message has been signed using the certificate %1 by %2."
+msgstr "Thông điệp này đã được ký bằng chứng chỉ %1 bởi %2."
+
+#: quick/qml/private/MailPartModel.qml:60
+#, kde-format
+msgctxt "@label"
+msgid "The certificate was revoked."
+msgstr "Chứng chỉ đã bị thu hồi."
+
+#: quick/qml/private/MailPartModel.qml:63
+#, kde-format
+msgctxt "@label"
+msgid "The certificate has expired."
+msgstr "Chứng chỉ đã hết hạn."
+
+#: quick/qml/private/MailPartModel.qml:66
+#, kde-format
+msgctxt "@label"
+msgid "You are trusting this certificate."
+msgstr "Bạn đang tin tưởng vào chứng chỉ này."
+
+#: quick/qml/private/MailPartModel.qml:69
+#: widgets/messagecontainerwidget.cpp:109
+#, kde-format
+msgctxt "@label"
+msgid "The signature is invalid."
+msgstr "Chữ ký không hợp lệ."
+
+#: quick/qml/private/MailPartModel.qml:98
+#: widgets/messagecontainerwidget.cpp:207
+#, kde-format
+msgid "This message is encrypted but we don't have the certificate for it."
+msgstr ""
+"Thông điệp này đã được mật mã hoá nhưng chúng tôi không có chứng chỉ cho "
+"nó."
+
+#: quick/qml/private/MailPartModel.qml:98
+#, kde-format
+msgid "This message is encrypted to the certificate: %1"
+msgstr "Thông điệp này được mật mã hoá với chứng chỉ: %1"
+
+#: widgets/messagecontainerwidget.cpp:60
+#, kde-format
+msgctxt "@label"
+msgid ""
+"This message has been signed VS-NfD compliant using the certificate <a href="
+"\"%1\">%2</a>."
+msgstr ""
+"Thông điệp này đã được ký tuân thủ VS-NfD sử dụng chứng chỉ <a "
+"href=\"%1\">%2</a>."
+
+#: widgets/messagecontainerwidget.cpp:67
+#, kde-format
+msgctxt "@label"
+msgid ""
+"This message has been signed using the certificate <a href=\"%1\">%2</a>."
+msgstr "Thông điệp này đã được ký bằng chứng chỉ <a href=\"%1\">%2</a>."
+
+#: widgets/messagecontainerwidget.cpp:80
+#, kde-format
+msgctxt "@label"
+msgid "This message has been signed VS-NfD compliant by %1."
+msgstr "Thông điệp này đã được ký tuân thủ VS-NfD bởi %1."
+
+#: widgets/messagecontainerwidget.cpp:82
+#, kde-format
+msgctxt "@label"
+msgid "This message has been signed by %1."
+msgstr "Thông điệp này đã được ký bởi %1."
+
+#: widgets/messagecontainerwidget.cpp:85
+#, kde-format
+msgctxt "@label"
+msgid "The <a href=\"%1\">certificate</a> was revoked."
+msgstr "Chứng chỉ <a href=\"%1\">này</a> đã bị thu hồi."
+
+#: widgets/messagecontainerwidget.cpp:88
+#, kde-format
+msgctxt "@label"
+msgid "The <a href=\"%1\">certificate</a> was expired."
+msgstr "Chứng chỉ <a href=\"%1\">này</a> đã hết hạn."
+
+#: widgets/messagecontainerwidget.cpp:93
+#, kde-format
+msgctxt "@label"
+msgid ""
+"The signature is valid, but the <a href=\"%1\">certificate</a>'s validity is "
+"unknown."
+msgstr ""
+"Chữ ký hợp lệ, nhưng tính hợp lệ của <a href=\"%1\">chứng chỉ</a> không xác "
+"định."
+
+#: widgets/messagecontainerwidget.cpp:96
+#, kde-format
+msgctxt "@label"
+msgid ""
+"The signature is valid and the <a href=\"%1\">certificate</a> is marginally "
+"trusted."
+msgstr "Chữ ký hợp lệ và <a href=\"%1\">chứng chỉ</a> được tin cậy ở mức độ thấp."
+
+#: widgets/messagecontainerwidget.cpp:99
+#, kde-format
+msgctxt "@label"
+msgid ""
+"The signature is valid and the <a href=\"%1\">certificate</a> is fully "
+"trusted."
+msgstr "Chữ ký hợp lệ và <a href=\"%1\">chứng chỉ</a> được tin cậy hoàn toàn."
+
+#: widgets/messagecontainerwidget.cpp:102
+#, kde-format
+msgctxt "@label"
+msgid ""
+"The signature is valid and the <a href=\"%1\">certificate</a> is ultimately "
+"trusted."
+msgstr "Chữ ký hợp lệ và <a href=\"%1\">chứng chỉ</a> được tin cậy hoàn toàn."
+
+#: widgets/messagecontainerwidget.cpp:105
+#, kde-format
+msgctxt "@label"
+msgid ""
+"The signature is valid, but the <a href=\"%1\">certificate</a> is untrusted."
+msgstr "Chữ ký hợp lệ, nhưng <a href=\"%1\">chứng chỉ</a> không đáng tin cậy."
+
+#: widgets/messagecontainerwidget.cpp:205
+#, kde-format
+msgid ""
+"This message is VS-NfD compliant encrypted but we don't have the certificate "
+"for it."
+msgstr ""
+"Thông điệp này tuân thủ VS-NfD và được mật mã hoá, nhưng chúng tôi không có "
+"chứng chỉ cho nó."
+
+#: widgets/messagecontainerwidget.cpp:213
+#, kde-format
+msgid "This message is VS-NfD compliant encrypted."
+msgstr "Thông điệp này tuân thủ mã hóa VS-NfD."
+
+#: widgets/messagecontainerwidget.cpp:215
+#, kde-format
+msgid "This message is encrypted."
+msgstr "Thông điệp này được mã hóa."
+
+#: widgets/messagecontainerwidget.cpp:224
+#, kde-format
+msgid "The message is encrypted for the following certificates:"
+msgstr "Thông điệp này được mật mã hoá cho các chứng chỉ sau:"
+
+#: widgets/messageviewer.cpp:65
+#, kde-format
+msgid "&Save Attachment As…"
+msgstr "Lư&u Tệp Đính Kèm Dưới Tên..."
+
+#: widgets/messageviewer.cpp:70
+#, kde-format
+msgctxt "to open"
+msgid "Open"
+msgstr "Mở"
+
+#: widgets/messageviewer.cpp:75
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Import public key"
+msgstr "Nhập khẩu khoá công khai"
+
+#: widgets/messageviewer.cpp:104
+#, kde-format
+msgctxt "Fallback when file has no name"
+msgid "unnamed"
+msgstr "không tên"
+
+#: widgets/messageviewer.cpp:107
+#, kde-format
+msgid "Save Attachment As"
+msgstr "Lưu Tệp Đính Kèm Dưới Tên"
+
+#: widgets/messageviewer.cpp:269
+#, kde-format
+msgid "Invitation"
+msgstr "Lời mời"
+
+#: widgets/messageviewer.cpp:272
+#, kde-format
+msgid "&Summary:"
+msgstr "Tóm &tắt:"
+
+#: widgets/messageviewer.cpp:273
+#, kde-format
+msgid "&Organizer:"
+msgstr "Người tổ &chức:"
+
+#: widgets/messageviewer.cpp:275
+#, kde-format
+msgid "&Location:"
+msgstr "Vị &trí:"
+
+#: widgets/messageviewer.cpp:277
+#, kde-format
+msgid "&Start date:"
+msgstr "Ngày bắt đầ&u:"
+
+#: widgets/messageviewer.cpp:279
+#, kde-format
+msgid "&End date:"
+msgstr "N&gày kết thúc:"
+
+#: widgets/messageviewer.cpp:282
+#, kde-format
+msgid "&Details:"
+msgstr "Chi &tiết:"
+
+#: widgets/messageviewer.cpp:303
+#, kde-format
+msgid "Encapsulated email"
+msgstr "Thư điện tử được đóng gói"
+
+#: widgets/messageviewer.cpp:311
+#, kde-format
+msgid "From:"
+msgstr "Từ:"
+
+#: widgets/messageviewer.cpp:312
+#, kde-format
+msgid "Date:"
+msgstr "Ngày:"
+
+#: widgets/messageviewer.cpp:389
+#, kde-format
+msgid "&Subject:"
+msgstr "&Chủ đề:"
+
+#: widgets/messageviewer.cpp:392
+#, kde-format
+msgid "&From:"
+msgstr "&Từ:"
+
+#: widgets/messageviewer.cpp:395
+#, kde-format
+msgid "&Sender:"
+msgstr "&Người gửi:"
+
+#: widgets/messageviewer.cpp:398
+#, kde-format
+msgid "&To:"
+msgstr "Đế&n:"
+
+#: widgets/messageviewer.cpp:401
+#, kde-format
+msgid "&CC:"
+msgstr "&Cc:"
+
+#: widgets/messageviewer.cpp:404
+#, kde-format
+msgid "&BCC:"
+msgstr "&Bcc:"
+
+#: widgets/messageviewer.cpp:407
+#, kde-format
+msgid "&Date:"
+msgstr "&Ngày:"
+
+#: widgets/messageviewerdialog.cpp:128
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&File"
+msgstr "&Tệp"
+
+#: widgets/messageviewerdialog.cpp:130
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Save"
+msgstr "&Lưu"
+
+#: widgets/messageviewerdialog.cpp:136
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Save Decrypted"
+msgstr "Lưu giải mật mã"
+
+#: widgets/messageviewerdialog.cpp:142
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Print Preview"
+msgstr "Xem thử trước khi in"
+
+#: widgets/messageviewerdialog.cpp:148
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Print"
+msgstr "&In"
+
+#: widgets/messageviewerdialog.cpp:155
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Navigation"
+msgstr "điều hướ&ng"
+
+#: widgets/messageviewerdialog.cpp:156
+#, kde-format
+msgctxt "@action:button Previous email"
+msgid "Previous Message"
+msgstr "Thông điệp trước"
+
+#: widgets/messageviewerdialog.cpp:160
+#, kde-format
+msgctxt "@action:button Next email"
+msgid "Next Message"
+msgstr "Thông điệp Tiếp"
+
+#: widgets/messageviewerdialog.cpp:180 widgets/messageviewerdialog.cpp:186
+#: widgets/messageviewerdialog.cpp:208
+#, kde-format
+msgctxt "File dialog accepted files"
+msgid "Email files (*.eml *.mbox *.mime)"
+msgstr "Tệp thư điện tử (*.eml *.mbox *.mime)"
+
+#: widgets/messageviewerdialog.cpp:182
+#, kde-format
+msgctxt "File dialog accepted files"
+msgid "Encrypted S/MIME files (*.p7m)"
+msgstr "Tệp mật mã hoá S/MIME (*.p7m)"
+
+#: widgets/messageviewerdialog.cpp:190
+#, kde-format
+msgctxt "@title:window"
+msgid "Save File"
+msgstr "Lưu Tệp"
+
+#: widgets/messageviewerdialog.cpp:196
+#, kde-format
+msgid "File %1 could not be created."
+msgstr "Tệp %1 không thể được tạo."
+
+#: widgets/messageviewerdialog.cpp:196 widgets/messageviewerdialog.cpp:212
+#, kde-format
+msgid "Error saving message"
+msgstr "Lỗi khi lưu thông điệp"
+
+#: widgets/messageviewerdialog.cpp:206
+#, kde-format
+msgctxt "@title:window"
+msgid "Save Decrypted File"
+msgstr "Lưu Tệp Đã Giải Mật Mã"
+
+#: widgets/messageviewerdialog.cpp:212
+#, kde-format
+msgctxt "Error message"
+msgid "File %1 could not be created."
+msgstr "Không thể tạo tệp %1."
+
+#: widgets/messageviewerdialog.cpp:231 widgets/messageviewerdialog.cpp:243
+#, kde-format
+msgctxt "@title:window"
+msgid "Print Document"
+msgstr "In tài liệu"
+
+#: widgets/messageviewerdialog.cpp:295
+#, kde-format
+msgctxt "@info"
+msgid "Unable to read file"
+msgstr "Không thể đọc tệp"
+
+#: widgets/urlhandler.cpp:46
+#, kde-format
+msgid "Could not start certificate manager. Please check your installation."
+msgstr ""
+"Không thể khởi động trình quản lý chứng chỉ. Vui lòng kiểm tra lại cài đặt "
+"của bạn."
+
+#: widgets/urlhandler.cpp:48
+#, kde-format
+msgid "KMail Error"
+msgstr "Lỗi KMail"

@@ -1,0 +1,437 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the konqueror package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: konqueror\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-03 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: app/archivedialog.cpp:82
+#, kde-format
+msgid "Create Archive"
+msgstr "Tạo Kho Trữ"
+
+#: app/archivedialog.cpp:98
+#, kde-format
+msgid "The URL of the page that is to be archived"
+msgstr "Địa chỉ URL của trang cần được lưu trữ"
+
+#: app/archivedialog.cpp:101
+#, kde-format
+msgid "Source &URL:"
+msgstr "Nguồn &URL:"
+
+#: app/archivedialog.cpp:110
+#, kde-format
+msgid "Web archive (*.war)"
+msgstr "Kho trữ web (*.war)"
+
+#: app/archivedialog.cpp:111
+#, kde-format
+msgid "Tar archive (*.tar)"
+msgstr "Kho trữ Tar (*.tar)"
+
+#: app/archivedialog.cpp:112
+#, kde-format
+msgid "Zip archive (*.zip)"
+msgstr "Kho trữ Zip (*.zip)"
+
+#: app/archivedialog.cpp:113
+#, kde-format
+msgid "Directory"
+msgstr "Thư mục"
+
+#: app/archivedialog.cpp:118
+#, kde-format
+msgid "The file or directory where the archived page will be saved"
+msgstr "Tệp hoặc thư mục nơi trang được lưu trữ sẽ được lưu"
+
+#: app/archivedialog.cpp:119
+#, kde-format
+msgid "&Save to:"
+msgstr "Lư&u vào:"
+
+#: app/archivedialog.cpp:121
+#, kde-format
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: app/archivedialog.cpp:131
+#, kde-format
+msgid " second"
+msgid_plural " seconds"
+msgstr[0] "giây"
+
+#: app/archivedialog.cpp:132
+#, kde-format
+msgid "None"
+msgstr "Không"
+
+#: app/archivedialog.cpp:210
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The web archive download cannot use the current proxy settings. No proxy "
+"will be used."
+msgstr ""
+"Tải về kho trữ web không thể sử dụng các cài đặt uỷ nhiệm hiện tại. Sẽ "
+"không sử dụng uỷ nhiệm."
+
+#: app/archivedialog.cpp:349
+#, kde-format
+msgctxt "@info"
+msgid "The save location is not valid."
+msgstr "Địa điểm lưu không hợp lệ."
+
+#: app/archivedialog.cpp:369
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Cannot find the wget(1) command,<nl/>see <link>%1</link>."
+msgstr "Không thể tìm thấy lệnh wget(1),<nl/>xem <link>%1</link>."
+
+#: app/archivedialog.cpp:391
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Cannot verify destination<nl/><filename>%1</filename><nl/>%2"
+msgstr "Không thể xác minh đích đến<nl/><filename>%1</filename><nl/>%2"
+
+#: app/archivedialog.cpp:408
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The archive directory<nl/><filename>%1</filename><nl/>already exists as a "
+"file."
+msgstr ""
+"Thư mục kho trữ<nl/><filename>%1</filename><nl/>đã tồn tại dưới dạng một "
+"tệp."
+
+#: app/archivedialog.cpp:409
+#, kde-kuit-format
+msgctxt "@info"
+msgid "The archive directory<nl/><filename>%1</filename><nl/>already exists."
+msgstr "Thư mục kho trữ<nl/><filename>%1</filename><nl/>đã tồn tại."
+
+#: app/archivedialog.cpp:413
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The archive file<nl/><filename>%1</filename><nl/>already exists as a "
+"directory."
+msgstr "Tệp kho trữ<nl/><filename>%1</filename><nl/>đã tồn tại dưới dạng thư mục."
+
+#: app/archivedialog.cpp:414
+#, kde-kuit-format
+msgctxt "@info"
+msgid "The archive file <nl/><filename>%1</filename><nl/>already exists."
+msgstr "Tệp kho trữ <nl/><filename>%1</filename><nl/>đã tồn tại."
+
+#: app/archivedialog.cpp:418
+#, kde-format
+msgid "Archive Already Exists"
+msgstr "Kho trữ đã tồn tại"
+
+#: app/archivedialog.cpp:448
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Cannot delete original archive<nl/><filename>%1</filename><nl/>%2"
+msgstr "Không thể xóa tập tin lưu trữ gốc<nl/><filename>%1</filename><nl/>%2"
+
+#: app/archivedialog.cpp:465
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Cannot create a temporary directory<nl/><filename>%1</filename><nl/>"
+msgstr "Không thể tạo thư mục tạm thời<nl/><filename>%1</filename><nl/>"
+
+#: app/archivedialog.cpp:537
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Cannot start the archiver process <filename>%1</filename>"
+msgstr "Không thể khởi động tiến trình lưu trữ <filename>%1</filename>"
+
+#: app/archivedialog.cpp:553
+#, kde-kuit-format
+msgctxt "@info"
+msgid "The download process was interrupted."
+msgstr "Quá trình tải về đã bị gián đoạn."
+
+#: app/archivedialog.cpp:554
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>The download process <filename>%1</filename> failed with signal %2.</"
+"para>"
+msgstr ""
+"<para>Quá trình tải về <filename>%1</filename> đã thất bại với tín hiệu "
+"%2.</para>"
+
+#: app/archivedialog.cpp:559
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>The download process <filename>%1</filename> failed with status %2.</"
+"para>"
+msgstr ""
+"<para>Quá trình tải về <filename>%1</filename> đã thất bại với trạng thái "
+"%2.</para>"
+
+#: app/archivedialog.cpp:563
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>This may simply indicate a 404 error for some of the page elements.</"
+"para>"
+msgstr ""
+"<para>Điều này có thể chỉ đơn giản là lỗi 404 cho một số phần tử của "
+"trang.</para>"
+
+#: app/archivedialog.cpp:569
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<para>Retain the partial web archive?</para>"
+msgstr "<para>Giữ lại kho lưu trữ web một phần?</para>"
+
+#: app/archivedialog.cpp:570
+#, kde-format
+msgid "Retain Archive?"
+msgstr "Giữ lại Kho lưu trữ?"
+
+#: app/archivedialog.cpp:571
+#, kde-format
+msgid "Retain"
+msgstr "Giữ lại"
+
+#: app/archivedialog.cpp:575
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Creating the web archive failed."
+msgstr "Tạo kho trữ web không thành công."
+
+#: app/archivedialog.cpp:718
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Cannot copy archive to<nl/><filename>%1</filename><nl/>%2"
+msgstr "Không thể sao chép kho trữ vào<nl/><filename>%1</filename><nl/>%2"
+
+#: app/archivedialog.cpp:748
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Cannot set permissions on<nl/><filename>%1</filename><nl/>%2"
+msgstr "Không thể đặt quyền truy cập trên<nl/><filename>%1</filename><nl/>%2"
+
+#: app/archivedialog.cpp:756
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Web archive saved as<nl/><filename><link>%1</link></filename>"
+msgstr "Kho trữ web đã được lưu thành<nl/><filename><link>%1</link></filename>"
+
+#: app/main.cpp:26
+#, kde-format
+msgid "Web Archiver"
+msgstr "Trình lưu trữ web"
+
+#: app/main.cpp:27
+#, kde-format
+msgid "0.0.1"
+msgstr "0.0.1"
+
+#: app/main.cpp:28
+#, kde-format
+msgid "Archive a web page"
+msgstr "Lưu trữ trang web"
+
+#: app/main.cpp:30
+#, kde-format
+msgid "Copyright (c) 2020 Jonathan Marten"
+msgstr "Bản quyền (c) 2020 Jonathan Marten"
+
+#: app/main.cpp:31
+#, kde-format
+msgid "Jonathan Marten"
+msgstr "Jonathan Marten"
+
+#: app/main.cpp:43
+#, kde-format
+msgid "URL of the web page to archive"
+msgstr "URL của trang web để lưu trữ"
+
+#: app/main.cpp:43
+#, kde-format
+msgid "url"
+msgstr "url"
+
+#. i18n: ectx: label, entry (WaitTime), group (Options)
+#: app/settings.kcfg:10
+#, kde-format
+msgid "Wait time:"
+msgstr "Thời gian chờ:"
+
+#. i18n: ectx: tooltip, entry (WaitTime), group (Options)
+#: app/settings.kcfg:11
+#, kde-format
+msgid "The wait time between item requests, to reduce web server load"
+msgstr "Thời gian chờ giữa các yêu cầu mục, để giảm tải trên máy chủ web"
+
+#. i18n: ectx: label, entry (NoProxy), group (Options)
+#: app/settings.kcfg:18
+#, kde-format
+msgid "Do not use proxy"
+msgstr "Không sử dụng uỷ nhiệm"
+
+#. i18n: ectx: tooltip, entry (NoProxy), group (Options)
+#: app/settings.kcfg:19
+#, kde-format
+msgid "Do not use the system proxy settings to fetch the web page"
+msgstr "Không sử dụng thiết lập uỷ nhiệm của hệ thống để tìm nạp trang web"
+
+#. i18n: ectx: label, entry (RandomWait), group (Options)
+#: app/settings.kcfg:24
+#, kde-format
+msgid "Randomise wait time"
+msgstr "Ngẫu nhiên hóa thời gian chờ"
+
+#. i18n: ectx: tooltip, entry (RandomWait), group (Options)
+#: app/settings.kcfg:25
+#, kde-format
+msgid "Vary the wait time between requests, to confuse server log analysis"
+msgstr ""
+"Thay đổi thời gian chờ giữa các yêu cầu để làm cho phân tích nhật kí máy "
+"chủ trở nên khó khăn hơn"
+
+#. i18n: ectx: label, entry (FixExtensions), group (Options)
+#: app/settings.kcfg:30
+#, kde-format
+msgid "Save in standard web archive format"
+msgstr "Lưu trong định dạng kho trữ web tiêu chuẩn"
+
+#. i18n: ectx: tooltip, entry (FixExtensions), group (Options)
+#: app/settings.kcfg:37
+#, kde-format
+msgid ""
+"<p>Save downloaded files all in a single directory, with file name "
+"extensions suitable for local browsing.\n"
+"                        For example, the main HTML page will always be "
+"called \"index.html\" and a remote .php page will be saved with the "
+"standard .html extension.</p>\n"
+"               <p>Leave this option turned on to produce a standard web "
+"archive (.war) file.</p>\n"
+"               <p>If this option is turned off, then the files will be saved "
+"exactly as downloaded.\n"
+"                        This means that they may be in subdirectories "
+"reflecting the structure of the original web site, and extensions will not "
+"be adjusted.\n"
+"                        Note that the download may not work correctly if the "
+"original URL refers to a directory but does not end with a slash.</p>\n"
+"      "
+msgstr ""
+"<p>Lưu tất cả các tệp đã tải về trong một thư mục duy nhất, với phần mở "
+"rộng tên tệp phù hợp để duyệt cục bộ.\n                        Ví dụ, trang "
+"HTML chính sẽ luôn được gọi là \"index.html\" và một trang .php từ xa sẽ "
+"được lưu với phần mở rộng .html tiêu chuẩn.</p>\n               <p>Để tùy "
+"chọn này bật để tạo ra một tệp kho trữ web (.war) tiêu chuẩn.</p>\n         "
+"      <p>Nếu tùy chọn này bị tắt, các tệp sẽ được lưu chính xác như khi tải "
+"về.\n                        Điều này có nghĩa là chúng có thể nằm trong "
+"các thư mục con phản ánh cấu trúc của trang web gốc, và phần mở rộng sẽ "
+"không được điều chỉnh.\n                        Lưu ý rằng việc tải về có "
+"thể không hoạt động chính xác nếu URL gốc tham chiếu đến một thư mục nhưng "
+"không kết thúc bằng dấu gạch chéo.</p>\n      "
+
+#. i18n: ectx: label, entry (RunInTerminal), group (Options)
+#: app/settings.kcfg:42
+#, kde-format
+msgid "Run in terminal"
+msgstr "Chạy trong dòng lệnh"
+
+#. i18n: ectx: tooltip, entry (RunInTerminal), group (Options)
+#: app/settings.kcfg:45
+#, kde-format
+msgid ""
+"<p>Run the download process in a terminal window. Close the terminal window "
+"when the download has finished.</p>\n"
+"               <p>If this option is turned off then the download will run in "
+"the background. Its progress output should appear in the session log file.</"
+"p>\n"
+"      "
+msgstr ""
+"<p>Chạy quá trình tải về trong cửa sổ dòng lệnh. Đóng cửa sổ dòng lệnh khi "
+"việc tải về hoàn tất.</p>\n               <p>Nếu lựa chọn này bị tắt thì "
+"việc tải về sẽ chạy ngầm. Tiến trình của nó sẽ xuất hiện trong tệp nhật kí "
+"phiên.</p>\n      "
+
+#. i18n: ectx: label, entry (CloseWhenFinished), group (Options)
+#: app/settings.kcfg:50
+#, kde-format
+msgid "Close when finished"
+msgstr "Đóng khi hoàn thành"
+
+#. i18n: ectx: tooltip, entry (CloseWhenFinished), group (Options)
+#: app/settings.kcfg:51
+#, kde-format
+msgid "Close this window when the download has finished successfully"
+msgstr "Đóng cửa sổ này khi tải về thành công"
+
+#. i18n: ectx: label, entry (ArchiveType), group (Options)
+#: app/settings.kcfg:56
+#, kde-format
+msgid "Archive &type:"
+msgstr "Loại kho &trữ:"
+
+#. i18n: ectx: tooltip, entry (ArchiveType), group (Options)
+#: app/settings.kcfg:57
+#, kde-format
+msgid "The type of web archive to save"
+msgstr "Kiểu web archive để lưu"
+
+#: plugin_webarchiver.cpp:32
+#, kde-format
+msgid "Archive Web Page..."
+msgstr "Lưu Trang Web..."
+
+#: plugin_webarchiver.cpp:50
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Cannot find the <command>kcreatewebarchive</command> executable,<nl/>check "
+"the plugin and helper installation."
+msgstr ""
+"Không thể tìm thấy tệp thực thi "
+"<command>kcreatewebarchive</command>,<nl/>hãy kiểm tra việc cài đặt phần "
+"cài cắm và trình trợ giúp."
+
+#: plugin_webarchiver.cpp:51
+#, kde-format
+msgid "Cannot Create Web Archive"
+msgstr "Không thể tạo Web Archive"
+
+#. i18n: ectx: Menu (tools)
+#: webarchiverplugin.rc:4
+#, kde-format
+msgid "&Tools"
+msgstr "&Công cụ"
+
+#. i18n: ectx: ToolBar (extraToolBar)
+#: webarchiverplugin.rc:8
+#, kde-format
+msgid "Extra Toolbar"
+msgstr "Thanh công cụ bổ sung"

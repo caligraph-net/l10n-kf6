@@ -21,71 +21,71 @@ msgstr ""
 #, kde-format
 msgctxt "@item:intable the title of the document will be written here"
 msgid "Title:"
-msgstr ""
+msgstr "Tiêu đề:"
 
 #: keduvocdocument/keduvoccsvwriter.cpp:36
 #, kde-format
 msgctxt "@item:intable the author will be written here"
 msgid "Author:"
-msgstr ""
+msgstr "Tác giả:"
 
 #: keduvocdocument/keduvocdocument.cpp:125
 #, kde-format
 msgctxt ""
 "The top level lesson which contains all other lessons of the document."
 msgid "Document Lesson"
-msgstr ""
+msgstr "Bài học Tài liệu"
 
 #: keduvocdocument/keduvocdocument.cpp:128
 #, kde-format
 msgid "Word types"
-msgstr ""
+msgstr "Loại từ"
 
 #: keduvocdocument/keduvocdocument.cpp:131
 #, kde-format
 msgid "Leitner Box"
-msgstr ""
+msgstr "Hộp Leitner"
 
 #: keduvocdocument/keduvocdocument.cpp:165
 #: keduvocdocument/keduvocdocument.cpp:172
 #, kde-format
 msgid "Cannot lock file %1"
-msgstr ""
+msgstr "Không thể khóa tệp %1"
 
 #: keduvocdocument/keduvocdocument.cpp:220
 #, kde-format
 msgid "<qt>Cannot open file<br /><b>%1</b></qt>"
-msgstr ""
+msgstr "<qt>Không thể mở tệp<br /><b>%1</b></qt>"
 
 #: keduvocdocument/keduvocdocument.cpp:228
 #, kde-format
 msgid "Cannot open tempfile %1"
-msgstr ""
+msgstr "Không thể mở tệp tạm %1"
 
 #: keduvocdocument/keduvocdocument.cpp:233
 #, kde-format
 msgid "Cannot download %1: %2"
-msgstr ""
+msgstr "Không thể tải về %1: %2"
 
 #: keduvocdocument/keduvocdocument.cpp:258
 #, kde-format
 msgid ""
 "Could not open or properly read \"%1\"\n"
 "(Error reported: %2)"
-msgstr ""
+msgstr "Không thể mở hoặc đọc đúng cách \"%1\"\n(Lỗi được báo cáo: %2)"
 
 #: keduvocdocument/keduvocdocument.cpp:300
 #: keduvocdocument/keduvocdocument.cpp:326
 #, kde-format
 msgid "Cannot write to file %1"
-msgstr ""
+msgstr "Không thể ghi vào tệp %1"
 
 #: keduvocdocument/keduvocdocument.cpp:657
 #, kde-format
 msgctxt ""
 "The name of the first language/column of vocabulary, if we have to guess it."
 msgid "Original"
-msgstr ""
+msgstr "Gốc"
 
 #: keduvocdocument/keduvocdocument.cpp:659
 #, kde-format
@@ -93,163 +93,163 @@ msgctxt ""
 "The name of the second, third ... language/column of vocabulary, if we have "
 "to guess it."
 msgid "Translation %1"
-msgstr ""
+msgstr "Bản dịch %1"
 
 #: keduvocdocument/keduvocdocument.cpp:816
 msgid "KDE Vocabulary Document"
-msgstr ""
+msgstr "Tài liệu từ vựng KDE"
 
 #: keduvocdocument/keduvocdocument.cpp:817
 msgid "KWordQuiz Document"
-msgstr ""
+msgstr "Tài liệu KWordQuiz"
 
 #: keduvocdocument/keduvocdocument.cpp:818
 msgid "Pauker Lesson"
-msgstr ""
+msgstr "Bài học Pauker"
 
 #: keduvocdocument/keduvocdocument.cpp:819
 msgid "Vokabeltrainer"
-msgstr ""
+msgstr "Trình luyện từ vựng"
 
 #: keduvocdocument/keduvocdocument.cpp:820
 msgid "XML Dictionary Exchange Format"
-msgstr ""
+msgstr "Định dạng trao đổi từ điển XML"
 
 #: keduvocdocument/keduvocdocument.cpp:821
 msgid "Comma Separated Values (CSV)"
-msgstr ""
+msgstr "Giá trị phân cách bằng dấu phẩy (CSV)"
 
 #: keduvocdocument/keduvocdocument.cpp:833
 #, kde-format
 msgid "All supported documents"
-msgstr ""
+msgstr "Tất cả các tài liệu được hỗ trợ"
 
 #: keduvocdocument/keduvocdocument.cpp:842
 #, kde-format
 msgid "No error found."
-msgstr ""
+msgstr "Không tìm thấy lỗi."
 
 #: keduvocdocument/keduvocdocument.cpp:845
 #, kde-format
 msgid "Invalid XML in document."
-msgstr ""
+msgstr "Tài liệu XML không hợp lệ."
 
 #: keduvocdocument/keduvocdocument.cpp:847
 #, kde-format
 msgid "Unknown file type."
-msgstr ""
+msgstr "Loại tệp không rõ."
 
 #: keduvocdocument/keduvocdocument.cpp:849
 #, kde-format
 msgid "File is not writeable."
-msgstr ""
+msgstr "Tệp không thể ghi."
 
 #: keduvocdocument/keduvocdocument.cpp:851
 #, kde-format
 msgid "File writer failed."
-msgstr ""
+msgstr "Ghi tệp không thành công."
 
 #: keduvocdocument/keduvocdocument.cpp:853
 #, kde-format
 msgid "File is not readable."
-msgstr ""
+msgstr "Tệp không thể đọc được."
 
 #: keduvocdocument/keduvocdocument.cpp:855
 #, kde-format
 msgid "The file reader failed."
-msgstr ""
+msgstr "Trình đọc tệp đã thất bại."
 
 #: keduvocdocument/keduvocdocument.cpp:857
 #, kde-format
 msgid "The file does not exist."
-msgstr ""
+msgstr "Tệp không tồn tại."
 
 #: keduvocdocument/keduvocdocument.cpp:859
 #, kde-format
 msgid "The file is locked by another process."
-msgstr ""
+msgstr "Tệp đang bị khóa bởi một tiến trình khác."
 
 #: keduvocdocument/keduvocdocument.cpp:861
 #, kde-format
 msgid "The lock file can't be created."
-msgstr ""
+msgstr "Không thể tạo tệp khóa."
 
 #: keduvocdocument/keduvocdocument.cpp:864
 #, kde-format
 msgid "Unknown error."
-msgstr ""
+msgstr "Lỗi không rõ."
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:29
 #, kde-format
 msgctxt "@item:inlistbox The grammatical type of a word"
 msgid "Verb"
-msgstr ""
+msgstr "Động từ"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:30
 #, kde-format
 msgctxt "@item:inlistbox The grammatical type of a word"
 msgid "Noun"
-msgstr ""
+msgstr "Danh từ"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:31
 #, kde-format
 msgctxt "@item:inlistbox The grammatical type of a word"
 msgid "Name"
-msgstr ""
+msgstr "Tên"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:32
 #, kde-format
 msgctxt "@item:inlistbox The grammatical type of a word"
 msgid "Article"
-msgstr ""
+msgstr "Từ loại"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:33
 #, kde-format
 msgctxt "@item:inlistbox The grammatical type of a word"
 msgid "Adjective"
-msgstr ""
+msgstr "Tính từ"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:34
 #, kde-format
 msgctxt "@item:inlistbox The grammatical type of a word"
 msgid "Adverb"
-msgstr ""
+msgstr "Trạng từ"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:35
 #, kde-format
 msgctxt "@item:inlistbox The grammatical type of a word"
 msgid "Pronoun"
-msgstr ""
+msgstr "Đại từ"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:36
 #, kde-format
 msgctxt "@item:inlistbox The grammatical type of an entry"
 msgid "Phrase"
-msgstr ""
+msgstr "Cụm từ"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:37
 #, kde-format
 msgctxt "@item:inlistbox The grammatical type of a word"
 msgid "Numeral"
-msgstr ""
+msgstr "Số từ"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:38
 #, kde-format
 msgctxt "@item:inlistbox The grammatical type of a word"
 msgid "Conjunction"
-msgstr ""
+msgstr "Liên từ"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:39
 #, kde-format
 msgctxt "@item:inlistbox The grammatical type of a word"
 msgid "Preposition"
-msgstr ""
+msgstr "Giới từ"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:40
 #, kde-format
 msgctxt "@item:inlistbox The grammatical type of an entry"
 msgid "Question"
-msgstr ""
+msgstr "Câu hỏi"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:44
 #: keduvocdocument/keduvockvtmlcompability.cpp:220
@@ -258,7 +258,7 @@ msgctxt ""
 "@item:inlistbox A subtype of the grammatical word type: Numeral Ordinal  "
 "(first, second, third, ...)"
 msgid "Ordinal"
-msgstr ""
+msgstr "Số thứ tự"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:46
 #: keduvocdocument/keduvockvtmlcompability.cpp:224
@@ -267,21 +267,21 @@ msgctxt ""
 "@item:inlistbox A subtype of the grammatical word type: Numeral Cardinal "
 "(one, two, three, ...)"
 msgid "Cardinal"
-msgstr ""
+msgstr "Số"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:47
 #: keduvocdocument/keduvockvtmlcompability.cpp:230
 #, kde-format
 msgctxt "@item:inlistbox A subtype of the grammatical word type: Article (the)"
 msgid "Definite"
-msgstr ""
+msgstr "Xác định"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:48
 #: keduvocdocument/keduvockvtmlcompability.cpp:233
 #, kde-format
 msgctxt "@item:inlistbox A subtype of the grammatical word type: Article (a)"
 msgid "Indefinite"
-msgstr ""
+msgstr "Không xác định"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:49
 #: keduvocdocument/keduvockvtmlcompability.cpp:239
@@ -290,7 +290,7 @@ msgctxt ""
 "@item:inlistbox A subtype of the grammatical word type: Verb with regular "
 "conjugation"
 msgid "Regular"
-msgstr ""
+msgstr "Thông thường"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:51
 #: keduvocdocument/keduvockvtmlcompability.cpp:242
@@ -299,7 +299,7 @@ msgctxt ""
 "@item:inlistbox A subtype of the grammatical word type: Verb with irregular "
 "conjugation"
 msgid "Irregular"
-msgstr ""
+msgstr "Bất quy tắc"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:53
 #: keduvocdocument/keduvockvtmlcompability.cpp:259
@@ -308,7 +308,7 @@ msgctxt ""
 "@item:inlistbox A subtype of the grammatical word type: Pronoun (my, your, "
 "his, her...)"
 msgid "Possessive"
-msgstr ""
+msgstr "Sở hữu"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:54
 #: keduvocdocument/keduvockvtmlcompability.cpp:262
@@ -317,176 +317,176 @@ msgctxt ""
 "@item:inlistbox A subtype of the grammatical word type: Pronoun (I, you, "
 "he...)"
 msgid "Personal"
-msgstr ""
+msgstr "Cá nhân"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:55
 #: keduvocdocument/keduvockvtmlcompability.cpp:248
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "EMAIL OF TRANSLATORS"
 #| msgid "Your emails"
 msgctxt "@item:inlistbox A subtype of the grammatical word type: Noun"
 msgid "Male"
-msgstr "tttrung@hotmail.com"
+msgstr "Nam"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:56
 #: keduvocdocument/keduvockvtmlcompability.cpp:251
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "EMAIL OF TRANSLATORS"
 #| msgid "Your emails"
 msgctxt "@item:inlistbox A subtype of the grammatical word type: Noun"
 msgid "Female"
-msgstr "tttrung@hotmail.com"
+msgstr "Nữ"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:57
 #: keduvocdocument/keduvockvtmlcompability.cpp:254
 #, kde-format
 msgctxt "@item:inlistbox A subtype of the grammatical word type: Noun"
 msgid "Neutral"
-msgstr ""
+msgstr "Trung lập"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:153
 #, kde-format
 msgid "Simple Present"
-msgstr ""
+msgstr "Hiện tại đơn"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:154
 #, kde-format
 msgid "Present Progressive"
-msgstr ""
+msgstr "Hiện tại tiếp diễn"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:155
 #, kde-format
 msgid "Present Perfect"
-msgstr ""
+msgstr "Thì hoàn thành"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:156
 #, kde-format
 msgid "Simple Past"
-msgstr ""
+msgstr "Quá khứ đơn"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:157
 #, kde-format
 msgid "Past Progressive"
-msgstr ""
+msgstr "Quá khứ tiếp diễn"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:158
 #, kde-format
 msgid "Past Participle"
-msgstr ""
+msgstr "Quá khứ phân từ"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:159
 #, kde-format
 msgid "Future"
-msgstr ""
+msgstr "Tương lai"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:200
 #, kde-format
 msgctxt "The grammatical type of a word"
 msgid "Verb"
-msgstr ""
+msgstr "Động từ"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:201
 #, kde-format
 msgctxt "The grammatical type of a word"
 msgid "Noun"
-msgstr ""
+msgstr "Danh từ"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:202
 #, kde-format
 msgctxt "The grammatical type of a word"
 msgid "Name"
-msgstr ""
+msgstr "Tên"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:202
 #, kde-format
 msgctxt "The grammatical type of a word"
 msgid "Article"
-msgstr ""
+msgstr "Từ loại"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:203
 #, kde-format
 msgctxt "The grammatical type of a word"
 msgid "Adjective"
-msgstr ""
+msgstr "Tính từ"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:204
 #, kde-format
 msgctxt "The grammatical type of a word"
 msgid "Adverb"
-msgstr ""
+msgstr "Trạng từ"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:205
 #, kde-format
 msgctxt "The grammatical type of a word"
 msgid "Pronoun"
-msgstr ""
+msgstr "Đại từ"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:206
 #, kde-format
 msgctxt "The grammatical type of an entry"
 msgid "Phrase"
-msgstr ""
+msgstr "Cụm từ"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:206
 #, kde-format
 msgctxt "The grammatical type of a word"
 msgid "Numeral"
-msgstr ""
+msgstr "Số từ"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:207
 #, kde-format
 msgctxt "The grammatical type of a word"
 msgid "Conjunction"
-msgstr ""
+msgstr "Liên từ"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:207
 #, kde-format
 msgctxt "The grammatical type of a word"
 msgid "Preposition"
-msgstr ""
+msgstr "Giới từ"
 
 #: keduvocdocument/keduvockvtmlcompability.cpp:208
 #, kde-format
 msgctxt "The grammatical type of an entry"
 msgid "Question"
-msgstr ""
+msgstr "Câu hỏi"
 
 #: keduvocdocument/keduvoctext.h:16
 #, kde-format
 msgid "Not Practiced Yet"
-msgstr ""
+msgstr "Chưa Luyện Tập"
 
 #: keduvocdocument/keduvoctext.h:19
 #, kde-format
 msgid "Level 1"
-msgstr ""
+msgstr "Cấp độ 1"
 
 #: keduvocdocument/keduvoctext.h:22
 #, kde-format
 msgid "Level 2"
-msgstr ""
+msgstr "Cấp độ 2"
 
 #: keduvocdocument/keduvoctext.h:25
 #, kde-format
 msgid "Level 3"
-msgstr ""
+msgstr "Cấp độ 3"
 
 #: keduvocdocument/keduvoctext.h:28
 #, kde-format
 msgid "Level 4"
-msgstr ""
+msgstr "Cấp độ 4"
 
 #: keduvocdocument/keduvoctext.h:31
 #, kde-format
 msgid "Level 5"
-msgstr ""
+msgstr "Cấp độ 5"
 
 #: keduvocdocument/keduvoctext.h:34
 #, kde-format
 msgid "Level 6"
-msgstr ""
+msgstr "Cấp độ 6"
 
 #: keduvocdocument/keduvoctext.h:37
 #, kde-format
 msgid "Level 7"
-msgstr ""
+msgstr "Cấp độ 7"

@@ -1,0 +1,195 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdepim-runtime package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdepim-runtime\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-13 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: etesyncresource.cpp:49
+#, kde-format
+msgid "EteSync Resource"
+msgstr "Tài nguyên EteSync"
+
+#: etesyncresource.cpp:187
+#, kde-format
+msgid "Temporary server error"
+msgstr "Lỗi tạm thời của máy chủ"
+
+#: etesyncresource.cpp:191
+#, kde-format
+msgid "You do not have permission to perform this action."
+msgstr "Bạn không có quyền thực hiện hành động này."
+
+#: etesyncresource.cpp:194
+#, kde-format
+msgid "Permission denied"
+msgstr "Bị từ chối quyền truy cập"
+
+#: etesyncresource.cpp:198
+#, kde-format
+msgid "A server error occurred."
+msgstr "Đã xảy ra lỗi máy chủ."
+
+#: etesyncresource.cpp:201
+#, kde-format
+msgid "Server error"
+msgstr "Lỗi máy chủ"
+
+#: etesyncresource.cpp:220
+#, kde-format
+msgid ""
+"Your EteSync credentials were changed. Please click OK to re-enter your "
+"credentials."
+msgstr ""
+"Thông tin đăng nhập EteSync của bạn đã thay đổi. Vui lòng bấm OK để nhập "
+"lại thông tin đăng nhập."
+
+#: etesyncresource.cpp:222
+#, kde-format
+msgid "Credentials Changed"
+msgstr "Thông tin đăng nhập đã thay đổi"
+
+#: etesyncresource.cpp:270
+#, kde-format
+msgid "Cannot retrieve items - account is null"
+msgstr "Không thể lấy các mục - tài khoản là null"
+
+#: etesyncresource.cpp:277 etesyncresource.cpp:383 etesyncresource.cpp:456
+#: etesyncresource.cpp:514 etesyncresource.cpp:643 etesyncresource.cpp:701
+#, kde-format
+msgid "Could not get etesyncCollection from cache '%1'"
+msgstr "Không thể lấy etesyncCollection từ bộ đệm '%1'"
+
+#: etesyncresource.cpp:411
+#, kde-format
+msgid "Could not create new etesyncItem '%1'"
+msgstr "Không thể tạo mới etesyncItem '%1'"
+
+#: etesyncresource.cpp:463 etesyncresource.cpp:521
+#, kde-format
+msgid "Could not get etesyncItem from cache '%1'"
+msgstr "Không thể lấy etesyncItem từ bộ đệm '%1'"
+
+#: etesyncresource.cpp:583
+#, kde-format
+msgid "Could not create new etesyncCollection"
+msgstr "Không thể tạo mới etesyncCollection"
+
+#: etesyncresource.h:62
+#, kde-format
+msgid "Something went wrong"
+msgstr "Đã xảy ra sự cố"
+
+#. i18n: ectx: label, entry (BaseUrl), group (General)
+#: etesyncresource.kcfg:10
+#, kde-format
+msgid "Server URL"
+msgstr "URL máy chủ"
+
+#. i18n: ectx: tooltip, entry (BaseUrl), group (General)
+#. i18n: ectx: whatsthis, entry (BaseUrl), group (General)
+#: etesyncresource.kcfg:11 etesyncresource.kcfg:12
+#, kde-format
+msgid ""
+"The URL of the EteSync server, should be something like https://myserver.org/"
+msgstr "URL của máy chủ EteSync, nên là một cái gì đó như https://myserver.org/"
+
+#. i18n: ectx: label, entry (Username), group (General)
+#: etesyncresource.kcfg:15
+#, kde-format
+msgctxt "the username to login on server"
+msgid "Username"
+msgstr "Tên người dùng"
+
+#. i18n: ectx: tooltip, entry (Username), group (General)
+#. i18n: ectx: whatsthis, entry (Username), group (General)
+#: etesyncresource.kcfg:16 etesyncresource.kcfg:17
+#, kde-format
+msgid "The username that is used to log into the EteSync server"
+msgstr "Tên người dùng được sử dụng để đăng nhập vào máy chủ EteSync"
+
+#. i18n: ectx: label, entry (BasePath), group (General)
+#: etesyncresource.kcfg:20
+#, kde-format
+msgid "Path to base directory"
+msgstr "Đường dẫn đến thư mục gốc"
+
+#: setupwizard.cpp:28
+#, kde-format
+msgctxt "@title:window"
+msgid "EteSync configuration wizard"
+msgstr "Trình hướng dẫn cấu hình EteSync"
+
+#: setupwizard.cpp:66
+#, kde-format
+msgid "Login Credentials"
+msgstr "Thông tin đăng nhập"
+
+#: setupwizard.cpp:67
+#, kde-format
+msgid "Enter your credentials to login to the EteSync server"
+msgstr "Nhập thông tin đăng nhập của bạn để đăng nhập vào máy chủ EteSync"
+
+#: setupwizard.cpp:76
+#, kde-format
+msgid "Username:"
+msgstr "Tên người dùng:"
+
+#: setupwizard.cpp:82
+#, kde-format
+msgid "Password:"
+msgstr "Mật khẩu:"
+
+#: setupwizard.cpp:85
+#, kde-format
+msgid "Advanced settings"
+msgstr "Thiết lập nâng cao"
+
+#: setupwizard.cpp:90
+#, kde-format
+msgid "Server:"
+msgstr "Máy chủ:"
+
+#: setupwizard.cpp:103
+#, kde-format
+msgid ""
+"🛈 The password field is empty because EteSync does not store it for security "
+"reasons."
+msgstr "🛈 Trường mật khẩu trống vì EteSync không lưu trữ nó vì lý do an ninh."
+
+#: setupwizard.cpp:135
+#, kde-format
+msgid ""
+"Please ensure that the server URL is correct. The URL should start with "
+"http:// or https://."
+msgstr ""
+"Vui lòng đảm bảo rằng URL của máy chủ là chính xác. URL nên bắt đầu bằng "
+"http:// hoặc https://."
+
+#: setupwizard.cpp:137
+#, kde-format
+msgid ""
+"Could not connect to the server. Please ensure that the server URL is "
+"correct."
+msgstr ""
+"Không thể kết nối với máy chủ. Vui lòng đảm bảo rằng URL của máy chủ là "
+"chính xác."
+
+#: setupwizard.cpp:139
+#, kde-format
+msgid "EteSync server not found. Please ensure that the server URL is correct."
+msgstr ""
+"Không tìm thấy máy chủ EteSync. Vui lòng đảm bảo rằng URL máy chủ là chính "
+"xác."

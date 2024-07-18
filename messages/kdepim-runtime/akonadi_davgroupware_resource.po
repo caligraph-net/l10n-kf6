@@ -1,0 +1,744 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdepim-runtime package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdepim-runtime\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-21 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: configdialog.cpp:33
+#, kde-format
+msgctxt "@title:window"
+msgid "DAV Resource Configuration"
+msgstr "Cấu hình Tài nguyên DAV"
+
+#: configdialog.cpp:46
+#, kde-format
+msgid "Protocol"
+msgstr "Giao thức"
+
+#: configdialog.cpp:46 urlconfigurationdialog.cpp:267
+#, kde-format
+msgid "URL"
+msgstr "URL"
+
+#: configdialog.cpp:59
+#, kde-format
+msgid "Days"
+msgstr "Ngày"
+
+#: configdialog.cpp:60
+#, kde-format
+msgid "Months"
+msgstr "Tháng"
+
+#: configdialog.cpp:61
+#, kde-format
+msgid "Years"
+msgstr "Năm"
+
+#: configdialog.cpp:137
+#, kde-format
+msgid ""
+"Another configuration entry already uses the same URL/protocol couple.\n"
+"Please use a different URL"
+msgstr ""
+"Một mục cấu hình khác đã sử dụng cùng một cặp URL/giao thức.\nVui lòng sử "
+"dụng một URL khác"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: configdialog.ui:29
+#, kde-format
+msgid "Display name:"
+msgstr "Tên hiển thị:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: configdialog.ui:39
+#, kde-format
+msgid "Refresh every:"
+msgstr "Cập nhật mỗi:"
+
+#. i18n: ectx: property (specialValueText), widget (QSpinBox, kcfg_refreshInterval)
+#: configdialog.ui:48
+#, kde-format
+msgid "Never"
+msgstr "Không bao giờ"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: configdialog.ui:58
+#, kde-format
+msgid "minutes"
+msgstr "phút"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: configdialog.ui:80 urlconfigurationdialog.ui:111
+#, kde-format
+msgid "Username:"
+msgstr "Tên người dùng:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: configdialog.ui:108 setupwizard.cpp:220 urlconfigurationdialog.ui:127
+#, kde-format
+msgid "Password:"
+msgstr "Mật khẩu:"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_limitSyncRange)
+#: configdialog.ui:136
+#, kde-format
+msgid ""
+"Select this if your calendars contain a lot of events and the server cannot "
+"fulfill the requests"
+msgstr ""
+"Chọn tùy chọn này nếu lịch của bạn chứa nhiều sự kiện và máy chủ không thể "
+"đáp ứng các yêu cầu"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_limitSyncRange)
+#: configdialog.ui:139
+#, kde-format
+msgid "Limit CalDav retrieval time range"
+msgstr "Giới hạn phạm vi thời gian truy xuất CalDav"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: configdialog.ui:151
+#, kde-format
+msgid "Only sync events more recent than"
+msgstr "Chỉ đồng bộ các sự kiện mới hơn"
+
+#. i18n: ectx: property (text), widget (QLabel, label_41)
+#: configdialog.ui:190
+#, kde-format
+msgid "Server Configuration:"
+msgstr "Cấu hình máy chủ:"
+
+#. i18n: ectx: property (text), widget (QPushButton, addButton)
+#: configdialog.ui:204
+#, kde-format
+msgid "Add"
+msgstr "Thêm"
+
+#. i18n: ectx: property (text), widget (QPushButton, searchButton)
+#: configdialog.ui:211 searchdialog.ui:151
+#, kde-format
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#. i18n: ectx: property (text), widget (QPushButton, removeButton)
+#: configdialog.ui:218
+#, kde-format
+msgid "Remove"
+msgstr "Xoá"
+
+#. i18n: ectx: property (text), widget (QPushButton, editButton)
+#: configdialog.ui:225
+#, kde-format
+msgid "Edit"
+msgstr "Sửa"
+
+#: daverror-kdepim-runtime.cpp:26
+#, kde-format
+msgid "Invalid username/password"
+msgstr "Tên người dùng/mật khẩu không hợp lệ"
+
+#: daverror-kdepim-runtime.cpp:28
+#, kde-format
+msgid "Access forbidden"
+msgstr "Truy cập bị cấm"
+
+#: daverror-kdepim-runtime.cpp:30
+#, kde-format
+msgid "Resource not found"
+msgstr "Không tìm thấy tài nguyên"
+
+#: daverror-kdepim-runtime.cpp:32
+#, kde-format
+msgid "HTTP error"
+msgstr "Lỗi HTTP"
+
+#: daverror-kdepim-runtime.cpp:35
+#, kde-format
+msgid ""
+"There was a problem with the request.\n"
+"%1 (%2)."
+msgstr "Đã xảy ra sự cố với yêu cầu.\n%1 (%2)."
+
+#: daverror-kdepim-runtime.cpp:41
+#, kde-format
+msgid "Protocol for the collection does not support MULTIGET"
+msgstr "Giao thức của bộ sưu tập không hỗ trợ MULTIGET"
+
+#: daverror-kdepim-runtime.cpp:44
+#, kde-format
+msgid ""
+"The server encountered an error that prevented it from completing your "
+"request: %1 (%2)"
+msgstr "Máy chủ đã gặp lỗi và không thể hoàn thành yêu cầu của bạn: %1 (%2)"
+
+#: daverror-kdepim-runtime.cpp:48
+#, kde-format
+msgid ""
+"There was a problem with the request. The collection has not been deleted "
+"from the server.\n"
+"%1 (%2)."
+msgstr ""
+"Đã xảy ra sự cố với yêu cầu. Bộ sưu tập chưa được xóa khỏi máy chủ.\n%1 "
+"(%2)."
+
+#: daverror-kdepim-runtime.cpp:54
+#, kde-format
+msgid "Invalid responses from backend"
+msgstr "Phản hồi không hợp lệ từ hậu phương"
+
+#: daverror-kdepim-runtime.cpp:57
+#, kde-format
+msgid "Error setting focus for XQuery"
+msgstr "Lỗi thiết lập nhắm cho XQuery"
+
+#: daverror-kdepim-runtime.cpp:60
+#, kde-format
+msgid "Invalid XQuery submitted by DAV implementation"
+msgstr "Truy vấn XQuery không hợp lệ được gửi bởi triển khai DAV"
+
+#: daverror-kdepim-runtime.cpp:64
+#, kde-format
+msgid ""
+"There was a problem with the request. The collection has not been modified "
+"on the server.\n"
+"%1 (%2)."
+msgstr ""
+"Đã xảy ra sự cố với yêu cầu. Bộ sưu tập chưa được chỉnh sửa trên máy "
+"chủ.\n%1 (%2)."
+
+#: daverror-kdepim-runtime.cpp:70
+#, kde-format
+msgid "No properties to change or remove"
+msgstr "Không có thuộc tính để thay đổi hoặc xoá"
+
+#: daverror-kdepim-runtime.cpp:73
+#, kde-format
+msgid "There was an error when modifying the properties"
+msgstr "Đã xảy ra lỗi khi sửa đổi các thuộc tính"
+
+#: daverror-kdepim-runtime.cpp:75
+#, kde-format
+msgid ""
+"\n"
+"The server returned more information:\n"
+"%1"
+msgstr "\nMáy chủ đã trả về thêm thông tin:\n%1"
+
+#: daverror-kdepim-runtime.cpp:80
+#, kde-format
+msgid ""
+"There was a problem with the request. The item has not been created on the "
+"server.\n"
+"%1 (%2)."
+msgstr "Đã xảy ra sự cố với yêu cầu. Mục này chưa được tạo trên máy chủ.\n%1 (%2)."
+
+#: daverror-kdepim-runtime.cpp:87
+#, kde-format
+msgid ""
+"There was a problem with the request. The item has not been deleted from the "
+"server.\n"
+"%1 (%2)."
+msgstr "Đã xảy ra sự cố với yêu cầu. Mục này chưa được xóa khỏi máy chủ.\n%1 (%2)."
+
+#: daverror-kdepim-runtime.cpp:94
+#, kde-format
+msgid ""
+"There was a problem with the request. The item was not modified on the "
+"server.\n"
+"%1 (%2)."
+msgstr ""
+"Đã xảy ra sự cố với yêu cầu. Mục không được chỉnh sửa trên máy chủ.\n%1 "
+"(%2)."
+
+#: daverror-kdepim-runtime.cpp:100
+#, kde-format
+msgid "There was a problem with the request."
+msgstr "Đã xảy ra sự cố với yêu cầu."
+
+#: daverror-kdepim-runtime.cpp:104
+#, kde-format
+msgid ""
+"There was a problem with the request. The requested MIME types are not "
+"supported."
+msgstr "Đã xảy ra sự cố với yêu cầu. Các loại MIME được yêu cầu không được hỗ trợ."
+
+#: davfreebusyhandler.cpp:58
+#, kde-format
+msgid "No schedule-outbox found for %1"
+msgstr "Không tìm thấy lịch trình hộp thư đi cho %1"
+
+#: davfreebusyhandler.cpp:187 davfreebusyhandler.cpp:198
+#, kde-format
+msgid "Invalid response from the server"
+msgstr "Lời hồi đáp từ máy chủ không hợp lệ"
+
+#: davfreebusyhandler.cpp:209
+#, kde-format
+msgid "Unable to parse free-busy data received"
+msgstr "Không thể phân tách dữ liệu lịch rảnh/bận nhận được"
+
+#: davgroupwareresource.cpp:164
+#, kde-format
+msgid "Unable to retrieve free-busy info while offline"
+msgstr "Không thể lấy thông tin lịch trống khi ngoại tuyến"
+
+#: davgroupwareresource.cpp:247
+#, kde-format
+msgid "Fetching collections"
+msgstr "Đang lấy các bộ sưu tập"
+
+#: davgroupwareresource.cpp:315
+#, kde-format
+msgid "Asked to retrieve items for an unknown collection: %1"
+msgstr "Được yêu cầu lấy các mục cho một bộ sưu tập không rõ: %1"
+
+#: davgroupwareresource.cpp:372
+#, kde-format
+msgid "Invalid collection for item %1."
+msgstr "Bộ sưu tập không hợp lệ cho mục %1."
+
+#: davgroupwareresource.cpp:650
+#, kde-format
+msgid "Unable to modify items: %1"
+msgstr "Không thể chỉnh sửa các mục: %1"
+
+#: davgroupwareresource.cpp:687
+#, kde-format
+msgid "Unable to modify collection: %1"
+msgstr "Không thể chỉnh sửa bộ sưu tập: %1"
+
+#: davgroupwareresource.cpp:756
+#, kde-format
+msgid "Unable to remove collection: %1"
+msgstr "Không thể xoá bỏ bộ sưu tập: %1"
+
+#: davgroupwareresource.cpp:776
+#, kde-format
+msgid "Unable to retrieve collections: %1"
+msgstr "Không thể lấy các bộ sưu tập: %1"
+
+#: davgroupwareresource.cpp:909 davgroupwareresource.cpp:1008
+#, kde-format
+msgid "Unable to retrieve items: %1"
+msgstr "Không thể lấy các mục: %1"
+
+#: davgroupwareresource.cpp:1088
+#, kde-format
+msgid "Unable to retrieve item: %1"
+msgstr "Không thể lấy mục: %1"
+
+#: davgroupwareresource.cpp:1108
+#, kde-format
+msgid ""
+"Unable to retrieve item: failed to parse item data. Maybe it was deleted "
+"already."
+msgstr "Không thể lấy mục: không thể phân tách dữ liệu mục. Có thể nó đã bị xóa."
+
+#: davgroupwareresource.cpp:1145
+#, kde-format
+msgid "Unable to add item: %1"
+msgstr "Không thể thêm mục: %1"
+
+#: davgroupwareresource.cpp:1189 davgroupwareresource.cpp:1302
+#: davgroupwareresource.cpp:1314
+#, kde-format
+msgid "Unable to change item: %1"
+msgstr "Không thể thay đổi mục: %1"
+
+#: davgroupwareresource.cpp:1276 davgroupwareresource.cpp:1333
+#, kde-format
+msgid "Unable to remove item: %1"
+msgstr "Không thể xoá mục: %1"
+
+#: davgroupwareresource.cpp:1420 davgroupwareresource.cpp:1421
+#, kde-format
+msgid "The resource is not configured yet"
+msgstr "Tài nguyên chưa được cấu hình"
+
+#. i18n: ectx: label, entry (settingsVersion), group (General)
+#: davgroupwareresource.kcfg:10
+#, kde-format
+msgid "Settings Version"
+msgstr "Phiên bản thiết lập"
+
+#. i18n: ectx: label, entry (displayName), group (General)
+#: davgroupwareresource.kcfg:14
+#, kde-format
+msgid "Display name"
+msgstr "Tên hiển thị"
+
+#. i18n: ectx: label, entry (refreshInterval), group (General)
+#: davgroupwareresource.kcfg:18
+#, kde-format
+msgid "Refresh every"
+msgstr "Cập nhật mỗi"
+
+#. i18n: ectx: label, entry (remoteUrls), group (General)
+#: davgroupwareresource.kcfg:22
+#, kde-format
+msgid "Remote URLs"
+msgstr "Các URL từ xa"
+
+#. i18n: ectx: label, entry (defaultUsername), group (General)
+#: davgroupwareresource.kcfg:26
+#, kde-format
+msgid "User name"
+msgstr "Tên người dùng"
+
+#. i18n: ectx: label, entry (limitSyncRange), group (General)
+#: davgroupwareresource.kcfg:30
+#, kde-format
+msgid "Limit the events retrieval to the specified time range"
+msgstr "Giới hạn việc lấy sự kiện trong khoảng thời gian được chỉ định"
+
+#. i18n: ectx: label, entry (syncRangeStartNumber), group (General)
+#: davgroupwareresource.kcfg:34
+#, kde-format
+msgid "Period for which to retrieve events, quantity"
+msgstr "Khoảng thời gian để lấy sự kiện, số lượng"
+
+#. i18n: ectx: label, entry (syncRangeStartType), group (General)
+#: davgroupwareresource.kcfg:38
+#, kde-format
+msgid "Period for which to retrieve events, type"
+msgstr "Khoảng thời gian để lấy các sự kiện, kiểu"
+
+#. i18n: ectx: label, entry (collectionsUrlsMappings), group (General)
+#: davgroupwareresource.kcfg:42
+#, kde-format
+msgid ""
+"String representation of the mappings between discovered collections and "
+"configured URLs"
+msgstr ""
+"Biểu diễn dạng chuỗi của các ánh xạ giữa các bộ sưu tập được phát hiện và "
+"các URL đã cấu hình"
+
+#. i18n: ectx: label, entry (readOnly), group (General)
+#: davgroupwareresource.kcfg:46
+#, kde-format
+msgid "Do not change the actual backend data."
+msgstr "Không thay đổi dữ liệu hậu phương thực tế."
+
+#. i18n: ectx: label, entry (AccountId), group (General)
+#: davgroupwareresource.kcfg:50
+#, kde-format
+msgid "The account id in WebAccounts framework."
+msgstr "Mã định danh trong khuôn khổ WebAccounts."
+
+#. i18n: ectx: label, entry (AccountServices), group (General)
+#: davgroupwareresource.kcfg:53
+#, kde-format
+msgid "Account enabled services"
+msgstr "Các dịch vụ tài khoản được bật"
+
+#: searchdialog.cpp:26
+#, kde-format
+msgctxt "@title:window"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: searchdialog.cpp:41
+#, kde-format
+msgid "Add Selected Items"
+msgstr "Thêm các mục đã chọn"
+
+#: searchdialog.cpp:126 searchdialog.cpp:169
+#, kde-format
+msgid ""
+"An error occurred when executing search:\n"
+"%1"
+msgstr "Đã xảy ra lỗi khi thực hiện tìm kiếm:\n%1"
+
+#. i18n: ectx: property (text), widget (QRadioButton, useDefaultCreds)
+#: searchdialog.ui:32 urlconfigurationdialog.ui:85
+#, kde-format
+msgid "Use global creden&tials"
+msgstr "Sử dụng &thông tin đăng nhập toàn cục"
+
+#. i18n: ectx: property (text), widget (QRadioButton, useSpecificCreds)
+#: searchdialog.ui:42 urlconfigurationdialog.ui:95
+#, kde-format
+msgid "Use specific credentials"
+msgstr "Sử dụng thông tin đăng nhập cụ thể"
+
+#. i18n: ectx: property (title), widget (QGroupBox, credentialsGroup)
+#: searchdialog.ui:49
+#, kde-format
+msgid "Credentials"
+msgstr "Thông tin đăng nhập"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: searchdialog.ui:61
+#, kde-format
+msgid "Username"
+msgstr "Tên người dùng"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: searchdialog.ui:77
+#, kde-format
+msgid "Password"
+msgstr "Mật khẩu"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: searchdialog.ui:96
+#, kde-format
+msgid "Search URL"
+msgstr "Tìm kiếm URL"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: searchdialog.ui:106
+#, kde-format
+msgid "Search for"
+msgstr "Tìm kiếm"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, searchType)
+#: searchdialog.ui:116
+#, kde-format
+msgid "a person named"
+msgstr "một người tên"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, searchType)
+#: searchdialog.ui:121
+#, kde-format
+msgid "a contact with email"
+msgstr "một liên hệ với thư điện tử"
+
+#: settings.cpp:477
+#, kde-format
+msgctxt "@label:textbox"
+msgid "A password is required for user %1"
+msgstr "Cần có mật khẩu cho người dùng %1"
+
+#: settings.cpp:481
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Password: "
+msgstr "Mật khẩu:"
+
+#: setupwizard.cpp:137
+#, kde-format
+msgctxt "@title:window"
+msgid "DAV groupware configuration wizard"
+msgstr "Trình hướng dẫn cấu hình groupware DAV"
+
+#: setupwizard.cpp:210
+#, kde-format
+msgid "Login Credentials"
+msgstr "Thông tin đăng nhập"
+
+#: setupwizard.cpp:211
+#, kde-format
+msgid "Enter your credentials to login to the groupware server"
+msgstr "Nhập thông tin đăng nhập của bạn để đăng nhập vào máy chủ groupware"
+
+#: setupwizard.cpp:215
+#, kde-format
+msgid "User:"
+msgstr "Người dùng:"
+
+#: setupwizard.cpp:255
+#, kde-format
+msgid "No, choose another server"
+msgstr "Không, hãy chọn một máy chủ khác"
+
+#: setupwizard.cpp:257
+#, kde-format
+msgid "Predefined provider found"
+msgstr "Đã tìm thấy nhà cung cấp được định nghĩa trước"
+
+#: setupwizard.cpp:258
+#, kde-format
+msgid "Select if you want to use the auto-detected provider"
+msgstr "Chọn nếu bạn muốn sử dụng nhà cung cấp được tự động phát hiện"
+
+#: setupwizard.cpp:277
+#, kde-format
+msgid ""
+"Based on the email address you used as a login, this wizard\n"
+"can configure automatically an account for %1 services.\n"
+"Do you wish to do so?"
+msgstr ""
+"Dựa trên địa chỉ email bạn đã sử dụng để đăng nhập, trình hướng dẫn này\ncó "
+"thể tự động cấu hình một tài khoản cho các dịch vụ %1.\nBạn có muốn làm như "
+"vậy không?"
+
+#: setupwizard.cpp:282
+#, kde-format
+msgid "Yes, use %1 as provider"
+msgstr "Vâng, sử dụng %1 làm nhà cung cấp"
+
+#: setupwizard.cpp:308
+#, kde-format
+msgid "Groupware Server"
+msgstr "Máy chủ Groupware"
+
+#: setupwizard.cpp:309
+#, kde-format
+msgid "Select the groupware server the resource shall be configured for"
+msgstr "Chọn máy chủ groupware mà tài nguyên sẽ được cấu hình"
+
+#: setupwizard.cpp:338
+#, kde-format
+msgid "Use one of those servers:"
+msgstr "Sử dụng một trong những máy chủ đó:"
+
+#: setupwizard.cpp:347
+#, kde-format
+msgid "Configure the resource manually"
+msgstr "Cấu hình tài nguyên thủ công"
+
+#: setupwizard.cpp:381
+#, kde-format
+msgid "Connection"
+msgstr "Kết nối"
+
+#: setupwizard.cpp:382
+#, kde-format
+msgid "Enter the connection information for the groupware server"
+msgstr "Nhập thông tin kết nối cho máy chủ groupware"
+
+#: setupwizard.cpp:389
+#, kde-format
+msgid "Host"
+msgstr "Máy"
+
+#: setupwizard.cpp:392
+#, kde-format
+msgid "Installation path"
+msgstr "Đường dẫn cài đặt"
+
+#: setupwizard.cpp:395
+#, kde-format
+msgid "Use secure connection"
+msgstr "Sử dụng kết nối an toàn"
+
+#: setupwizard.cpp:423
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Final URL (CalDav)"
+msgstr "URL cuối cùng (CalDav)"
+
+#: setupwizard.cpp:428
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Final URL (CardDav)"
+msgstr "URL cuối cùng (CardDav)"
+
+#: setupwizard.cpp:433
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Final URL (GroupDav)"
+msgstr "URL cuối cùng (GroupDav)"
+
+#: setupwizard.cpp:497
+#, kde-format
+msgid "Test Connection"
+msgstr "Kiểm thử Kết nối"
+
+#: setupwizard.cpp:498
+#, kde-format
+msgid ""
+"You can test now whether the groupware server can be accessed with the "
+"current configuration"
+msgstr ""
+"Bạn có thể kiểm thử ngay xem máy chủ groupware có thể được truy cập với cấu "
+"hình hiện tại không"
+
+#: setupwizard.cpp:503
+#, kde-format
+msgctxt "@action:button"
+msgid "Test Connection"
+msgstr "Kiểm thử kết nối"
+
+#: setupwizard.cpp:543
+#, kde-format
+msgid "An error occurred: %1"
+msgstr "Đã xảy ra lỗi: %1"
+
+#: setupwizard.cpp:546
+#, kde-format
+msgid "Connected successfully"
+msgstr "Đã kết nối thành công"
+
+#: urlconfigurationdialog.cpp:267
+#, kde-format
+msgid "Display Name"
+msgstr "Tên hiển thị"
+
+#. i18n: ectx: property (text), widget (QLabel, remoteProtocol)
+#: urlconfigurationdialog.ui:35
+#, kde-format
+msgid "Access protocol:"
+msgstr "Giao thức truy cập:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, caldav)
+#: urlconfigurationdialog.ui:42
+#, kde-format
+msgid "CalDA&V"
+msgstr "CalDA&V"
+
+#. i18n: ectx: property (text), widget (QRadioButton, carddav)
+#: urlconfigurationdialog.ui:52
+#, kde-format
+msgid "CardDAV"
+msgstr "CardDAV"
+
+#. i18n: ectx: property (text), widget (QRadioButton, groupdav)
+#: urlconfigurationdialog.ui:59
+#, kde-format
+msgid "GroupDAV"
+msgstr "GroupDAV"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: urlconfigurationdialog.ui:66
+#, kde-format
+msgid "Remote URL:"
+msgstr "URL từ xa:"
+
+#. i18n: ectx: property (text), widget (QLabel, label1)
+#: urlconfigurationdialog.ui:76
+#, kde-format
+msgid "Access:"
+msgstr "Truy cập:"
+
+#. i18n: ectx: property (text), widget (QLabel, collectionsLabel)
+#: urlconfigurationdialog.ui:146
+#, kde-format
+msgid "Discovered collections:"
+msgstr "Bộ sưu tập đã phát hiện:"
+
+#. i18n: ectx: property (text), widget (QPushButton, fetchButton)
+#: urlconfigurationdialog.ui:174
+#, kde-format
+msgid "Fetch"
+msgstr "Tìm nạp"
+
+#: utils.cpp:47 utils.cpp:64
+#, kde-format
+msgid "CalDav"
+msgstr "CalDav"
+
+#: utils.cpp:50 utils.cpp:66
+#, kde-format
+msgid "CardDav"
+msgstr "CardDav"
+
+#: utils.cpp:53 utils.cpp:68
+#, kde-format
+msgid "GroupDav"
+msgstr "GroupDav"

@@ -1,0 +1,349 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the ksnakeduel package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ksnakeduel\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-03 00:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gameTypeGroup)
+#: general.ui:32
+#, kde-format
+msgid "Game Type"
+msgstr "Kiểu bàn chơi"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_GameType)
+#: general.ui:39
+#, kde-format
+msgid "KSnakeDuel: Player vs Computer"
+msgstr "KSnakeDuel: Người chơi vs Máy tính"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_GameType)
+#: general.ui:44
+#, kde-format
+msgid "KSnakeDuel: Player vs Player"
+msgstr "KSnakeDuel: Người chơi vs Người chơi"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_GameType)
+#: general.ui:49
+#, kde-format
+msgid "KSnake mode: Single player"
+msgstr "Chế độ KSnake: Một người chơi"
+
+#. i18n: ectx: property (text), widget (QLabel, gameTypeLabel)
+#: general.ui:57
+#, kde-format
+msgid "Game type:"
+msgstr "Loại bàn chơi:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, behaviorGroup)
+#: general.ui:70
+#, kde-format
+msgid "Behavior"
+msgstr "Ứng xử"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AcceleratorBlocked)
+#: general.ui:76
+#, kde-format
+msgid "&Disable acceleration"
+msgstr "Vô &hiệu hóa gia tốc"
+
+#. i18n: ectx: property (title), widget (QGroupBox, playerNamesGroup)
+#: general.ui:86
+#, kde-format
+msgid "Player Names"
+msgstr "Tên người chơi"
+
+#. i18n: ectx: property (text), widget (QLabel, namePlayer1Label)
+#: general.ui:98
+#, kde-format
+msgid "Right player / KSnake mode:"
+msgstr "Người chơi bên phải / Chế độ KSnake:"
+
+#. i18n: ectx: property (text), widget (QLabel, namePlayer2Label)
+#: general.ui:108
+#, kde-format
+msgid "Left player:"
+msgstr "Người chơi bên trái:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gameOptionsGroup)
+#: general.ui:121
+#, kde-format
+msgid "Game Options"
+msgstr "Tùy chọn bàn chơi"
+
+#. i18n: ectx: property (text), widget (QLabel, roundsLabel)
+#: general.ui:127
+#, kde-format
+msgid "Rounds to win:"
+msgstr "Số vòng thắng:"
+
+#. i18n: ectx: label, entry (Theme), group (General)
+#: ksnakeduel.kcfg:9
+#, kde-format
+msgid "The graphical theme to be used."
+msgstr "Chủ đề đồ họa sẽ được sử dụng."
+
+#. i18n: ectx: label, entry (AcceleratorBlocked), group (Game)
+#: ksnakeduel.kcfg:15
+#, kde-format
+msgid "Whether to disable acceleration."
+msgstr "Có vô hiệu hóa tăng tốc hay không."
+
+#. i18n: ectx: label, entry (NamePlayer1), group (Game)
+#: ksnakeduel.kcfg:19
+#, kde-format
+msgid "The name of player 1."
+msgstr "Tên của người chơi 1."
+
+#. i18n: ectx: label, entry (NamePlayer2), group (Game)
+#: ksnakeduel.kcfg:22
+#, kde-format
+msgid "The name of player 2."
+msgstr "Tên của người chơi 2."
+
+#. i18n: ectx: label, entry, group (Game)
+#: ksnakeduel.kcfg:25
+#, kde-format
+msgid "Type of the game"
+msgstr "Kiểu của bàn chơi"
+
+#. i18n: ectx: label, entry, group (Game)
+#: ksnakeduel.kcfg:34
+#, kde-format
+msgid "Rounds"
+msgstr "Lượt chơi"
+
+#: ktron.cpp:64
+#, kde-format
+msgctxt "@action"
+msgid "Right Player / KSnake mode: Up"
+msgstr "Người chơi bên phải / Chế độ KSnake: Lên"
+
+#: ktron.cpp:70
+#, kde-format
+msgctxt "@action"
+msgid "Right Player / KSnake mode: Down"
+msgstr "Người chơi bên phải / Chế độ KSnake: Xuống"
+
+#: ktron.cpp:76
+#, kde-format
+msgctxt "@action"
+msgid "Right Player / KSnake mode: Right"
+msgstr "Người chơi bên phải / Chế độ KSnake: Phải"
+
+#: ktron.cpp:82
+#, kde-format
+msgctxt "@action"
+msgid "Right Player / KSnake mode: Left"
+msgstr "Người chơi bên phải / Chế độ KSnake: Trái"
+
+#: ktron.cpp:88
+#, kde-format
+msgctxt "@action"
+msgid "Right Player: Accelerator"
+msgstr "Người chơi bên phải: Nút tăng tốc"
+
+#: ktron.cpp:94
+#, kde-format
+msgctxt "@action"
+msgid "Left Player: Up"
+msgstr "Người chơi bên trái: Lên"
+
+#: ktron.cpp:100
+#, kde-format
+msgctxt "@action"
+msgid "Left Player: Down"
+msgstr "Người chơi bên trái: Xuống"
+
+#: ktron.cpp:106
+#, kde-format
+msgctxt "@action"
+msgid "Left Player: Right"
+msgstr "Người chơi bên trái: Phải"
+
+#: ktron.cpp:112
+#, kde-format
+msgctxt "@action"
+msgid "Left Player: Left"
+msgstr "Người chơi bên trái: Trái"
+
+#: ktron.cpp:118
+#, kde-format
+msgctxt "@action"
+msgid "Left Player: Accelerator"
+msgstr "Người chơi bên trái: Nút tăng tốc"
+
+#: ktron.cpp:162
+#, kde-format
+msgid "Failed to load \"%1\" theme. Please check your installation."
+msgstr "Không thể tải \"%1\" chủ đề. Vui lòng kiểm tra cài đặt của bạn."
+
+#: ktron.cpp:181
+#, kde-format
+msgid "%1 has won!"
+msgstr "%1 đã thắng!"
+
+#: ktron.cpp:184 tron.cpp:323
+#, kde-format
+msgid "Game paused"
+msgstr "Bàn chơi đã tạm dừng"
+
+#: ktron.cpp:253
+#, kde-format
+msgctxt "@label"
+msgid "Player name:"
+msgstr "Tên người chơi:"
+
+#: ktron.cpp:254
+#, kde-format
+msgctxt "@label"
+msgid "Opponent:"
+msgstr "Đối thủ:"
+
+#: ktron.cpp:257
+#, kde-format
+msgctxt "@label"
+msgid "Right player:"
+msgstr "Người chơi bên phải:"
+
+#: ktron.cpp:258
+#, kde-format
+msgctxt "@label"
+msgid "Left player:"
+msgstr "Người chơi bên trái:"
+
+#: ktron.cpp:262
+#, kde-format
+msgctxt "@title:tab"
+msgid "General"
+msgstr "chung"
+
+#: ktron.cpp:263
+#, kde-format
+msgctxt "@title:tab"
+msgid "Theme"
+msgstr "Chủ đề"
+
+#: main.cpp:33 player.cpp:82
+#, kde-format
+msgid "KSnakeDuel"
+msgstr "KSnakeDuel"
+
+#: main.cpp:35
+#, kde-format
+msgid "A race in hyperspace"
+msgstr "Một cuộc đua trong không gian siêu tốc"
+
+#: main.cpp:37
+#, kde-format
+msgid ""
+"(c) 1998-2000, Matthias Kiefer\n"
+"(c) 2005, Benjamin Meyer\n"
+"(c) 2008-2009, Stas Verberkt\n"
+"\n"
+"Parts of the algorithms for the computer player are from\n"
+"xtron-1.1 by Rhett D. Jacobs <rhett@hotel.canberra.edu.au>"
+msgstr ""
+"(c) 1998-2000, Matthias Kiefer\n(c) 2005, Benjamin Meyer\n(c) 2008-2009, "
+"Stas Verberkt\n\nPhần của các thuật toán cho người chơi máy tính là "
+"từ\nxtron-1.1 của Rhett D. Jacobs <rhett@hotel.canberra.edu.au>"
+
+#: main.cpp:45
+#, kde-format
+msgid "Matthias Kiefer"
+msgstr "Matthias Kiefer"
+
+#: main.cpp:45
+#, kde-format
+msgid "Original author"
+msgstr "Tác giả gốc"
+
+#: main.cpp:46
+#, kde-format
+msgid "Benjamin Meyer"
+msgstr "Benjamin Meyer"
+
+#: main.cpp:46
+#, kde-format
+msgid "Various improvements"
+msgstr "Các cải tiến khác"
+
+#: main.cpp:47
+#, kde-format
+msgid "Stas Verberkt"
+msgstr "Stas Verberkt"
+
+#: main.cpp:47
+#, kde-format
+msgid "KDE 4 Port, interface revision and KSnake mode"
+msgstr "Cổng KDE 4, phiên bản giao diện và chế độ KSnake"
+
+#: main.cpp:55
+#, kde-format
+msgid "Start in KSnake mode"
+msgstr "Khởi động chế độ KSnake"
+
+#: player.cpp:103
+#, kde-format
+msgid "Player %1"
+msgstr "Người chơi %1"
+
+#: tron.cpp:343
+#, kde-format
+msgid "%1 has won versus %2 with %4 versus %3 point!"
+msgid_plural "%1 has won versus %2 with %4 versus %3 points!"
+msgstr[0] "%1 đã thắng %2 với %4 điểm so với %3 điểm!"
+
+#: tron.cpp:354
+#, kde-format
+msgctxt "%2 = 'x points' [player %1], %4 = 'x points' [player %3]"
+msgid "%1 (%2) versus %3 (%4)"
+msgstr "%1 (%2) so với %3 (%4)"
+
+#: tron.cpp:355 tron.cpp:356
+#, kde-format
+msgid "%1 point"
+msgid_plural "%1 points"
+msgstr[0] "%1 điểm"
+
+#: tron.cpp:364
+#, kde-format
+msgid "The game ended with 1 point."
+msgid_plural "The game ended with %1 points."
+msgstr[0] "Bàn chơi kết thúc với %1 điểm."
+
+#: tron.cpp:369
+#, kde-format
+msgid ""
+"The game starts when each player has pressed one of their direction keys!"
+msgstr ""
+"Trò chơi bắt đầu khi mỗi người chơi đã nhấn một trong các phím hướng của "
+"họ!"
+
+#: tron.cpp:372
+#, kde-format
+msgid "Press any of your direction keys to start!"
+msgstr "Nhấn bất kỳ phím hướng nào để bắt đầu!"

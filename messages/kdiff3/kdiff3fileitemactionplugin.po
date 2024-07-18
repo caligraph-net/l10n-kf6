@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdiff3 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdiff3\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-01-11 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kdiff3fileitemaction.cpp:81
+#, kde-format
+msgctxt "Contexualmenu title"
+msgid "KDiff3..."
+msgstr "KDiff3..."
+
+#: kdiff3fileitemaction.cpp:106
+#, kde-format
+msgctxt "Contexualmenu option"
+msgid "Compare with %1"
+msgstr "So sánh với %1"
+
+#: kdiff3fileitemaction.cpp:112
+#, kde-format
+msgctxt "Contexualmenu option"
+msgid "Merge with %1"
+msgstr "Trộn với %1"
+
+#: kdiff3fileitemaction.cpp:118
+#, kde-format
+msgctxt "Contexualmenu option"
+msgid "Save '%1' for later"
+msgstr "Lưu '%1' để sử dụng sau"
+
+#: kdiff3fileitemaction.cpp:124
+#, kde-format
+msgctxt "Contexualmenu option"
+msgid "3-way merge with base"
+msgstr "Trộn 3 chiều với cơ sở"
+
+#: kdiff3fileitemaction.cpp:131
+#, kde-format
+msgctxt "Contexualmenu option"
+msgid "Compare with..."
+msgstr "So sánh với..."
+
+#: kdiff3fileitemaction.cpp:144
+#, kde-format
+msgctxt "Contexualmenu option to cleat comparison list"
+msgid "Clear list"
+msgstr "Làm trống danh sách"
+
+#: kdiff3fileitemaction.cpp:152
+#, kde-format
+msgctxt "Contexualmenu option"
+msgid "Compare"
+msgstr "So sánh"
+
+#: kdiff3fileitemaction.cpp:158
+#, kde-format
+msgctxt "Contexualmenu option"
+msgid "3 way comparison"
+msgstr "So sánh 3 cách"
+
+#: kdiff3fileitemaction.cpp:162
+#, kde-format
+msgctxt "Contexualmenu option"
+msgid "About KDiff3 menu plugin..."
+msgstr "Thông tin về trình bổ sung trình đơn KDiff3..."
+
+#: kdiff3fileitemaction.cpp:273
+#, kde-format
+msgid "KDiff3 File Item Action Plugin: Copyright (C) 2011 Joachim Eibl\n"
+msgstr "Trình bổ sung Hành động Mục Tệp KDiff3: Bản quyền (C) 2011 Joachim Eibl\n"
+
+#: kdiff3fileitemaction.cpp:274
+#, kde-format
+msgid ""
+"Using the context menu extension:\n"
+"For simple comparison of two selected files choose \"Compare\".\n"
+"If the other file is somewhere else \"Save\" the first file for later. It "
+"will appear in the \"Compare with...\" submenu. Then use \"Compare With\" on "
+"the second file.\n"
+"For a 3-way merge first \"Save\" the base file, then the branch to merge and "
+"choose \"3-way merge with base\" on the other branch which will be used as "
+"destination.\n"
+"Same also applies to folder comparison and merge."
+msgstr ""
+"Sử dụng tiện ích mở rộng trình đơn ngữ cảnh:\nĐể so sánh đơn giản hai tệp "
+"đã chọn, chọn \"So sánh\".\nNếu tệp khác ở nơi khác, \"Lưu\" tệp đầu tiên "
+"để sử dụng sau. Nó sẽ xuất hiện trong trình đơn con \"So sánh với...\". Sau "
+"đó sử dụng \"So sánh với\" trên tệp thứ hai.\nĐể trộn 3 cách, trước tiên "
+"\"Lưu\" tệp cơ sở, sau đó là nhánh để trộn và chọn \"Trộn 3 cách với cơ "
+"sở\" trên nhánh khác sẽ được sử dụng làm đích.\nĐiều này cũng áp dụng cho "
+"so sánh và trộn thư mục."
+
+#: kdiff3fileitemaction.cpp:282
+#, kde-format
+msgid "About KDiff3 File Item Action Plugin"
+msgstr "Thông tin về Phần cài cắm Hành động Mục Tệp KDiff3"

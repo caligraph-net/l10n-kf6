@@ -1,0 +1,298 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kldap package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kldap\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-22 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: core/ldapconnection.cpp:126
+#, kde-format
+msgid "No LDAP Support..."
+msgstr "Không có hỗ trợ LDAP..."
+
+#: core/ldapconnection.cpp:241
+#, kde-format
+msgid "An error occurred during the connection initialization phase."
+msgstr "Đã xảy ra lỗi trong quá trình khởi tạo kết nối."
+
+#: core/ldapconnection.cpp:248
+#, kde-format
+msgid "Cannot set protocol version to %1."
+msgstr "Không thể đặt phiên bản giao thức thành %1."
+
+#: core/ldapconnection.cpp:259
+#, kde-format
+msgid "Cannot set timeout to %1 second."
+msgid_plural "Cannot set timeout to %1 seconds."
+msgstr[0] "Không thể đặt thời hạn thành %1 giây."
+
+#: core/ldapconnection.cpp:271
+#, kde-format
+msgid "Could not set CA certificate file."
+msgstr "Không thể đặt tệp chứng chỉ CA."
+
+#: core/ldapconnection.cpp:296
+#, kde-format
+msgid "Invalid TLS require certificate mode."
+msgstr "Chế độ yêu cầu chứng chỉ TLS không hợp lệ."
+
+#: core/ldapconnection.cpp:301
+#, kde-format
+msgid "Could not set TLS require certificate mode."
+msgstr "Không thể đặt chế độ yêu cầu chứng chỉ TLS."
+
+#: core/ldapconnection.cpp:310
+#, kde-format
+msgid "Could not initialize new TLS context."
+msgstr "Không thể khởi tạo ngữ cảnh TLS mới."
+
+#: core/ldapconnection.cpp:327
+#, kde-format
+msgid "TLS support not available in the LDAP client libraries."
+msgstr "Các thư viện máy khách LDAP không hỗ trợ TLS."
+
+#: core/ldapconnection.cpp:337
+#, kde-format
+msgid "Cannot set size limit."
+msgstr "Không thể đặt giới hạn kích thước."
+
+#: core/ldapconnection.cpp:347
+#, kde-format
+msgid "Cannot set time limit."
+msgstr "Không thể đặt giới hạn thời gian."
+
+#: core/ldapconnection.cpp:355
+#, kde-format
+msgid "Cannot initialize the SASL client."
+msgstr "Không thể khởi tạo máy khách SASL."
+
+#: core/ldapconnection.cpp:432
+#, kde-format
+msgid ""
+"LDAP support not compiled in. Please recompile libkldap with the OpenLDAP "
+"(or compatible) client libraries, or complain to your distribution packagers."
+msgstr ""
+"Hỗ trợ LDAP không được biên dịch. Vui lòng biên dịch lại libkldap với các "
+"thư viện máy khách OpenLDAP (hoặc tương thích), hoặc phản hồi với các nhà "
+"đóng gói bản phân phối."
+
+#: core/ldapsearch.cpp:222
+#, kde-format
+msgid "Cannot access to server. Please reconfigure it."
+msgstr "Không thể truy cập vào máy chủ. Vui lòng cấu hình lại."
+
+#: widgets/addhostdialog.cpp:67
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Host"
+msgstr "Thêm Máy"
+
+#: widgets/ldapconfigurewidget.cpp:97 widgets/ldapconfigurewidgetng.cpp:93
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Host"
+msgstr "Sửa Máy"
+
+#: widgets/ldapconfigurewidget.cpp:114 widgets/ldapconfigurewidgetng.cpp:109
+#, kde-format
+msgid "Do you want to remove setting for host \"%1\"?"
+msgstr "Bạn có muốn xoá thiết lập cho máy \"%1\" không?"
+
+#: widgets/ldapconfigurewidget.cpp:115 widgets/ldapconfigurewidgetng.cpp:110
+#, kde-format
+msgid "Remove Host"
+msgstr "Xoá Máy"
+
+#: widgets/ldapconfigurewidget.cpp:271 widgets/ldapconfigurewidgetng.cpp:176
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Check all servers that should be used:"
+msgstr "Chọn tất cả các máy chủ cần sử dụng:"
+
+#: widgets/ldapconfigurewidget.cpp:305 widgets/ldapconfigurewidgetng.cpp:223
+#, kde-format
+msgctxt "@action:button"
+msgid "&Add Host…"
+msgstr "Thê&m máy chủ..."
+
+#: widgets/ldapconfigurewidget.cpp:307 widgets/ldapconfigurewidgetng.cpp:225
+#, kde-format
+msgctxt "@action:button"
+msgid "&Edit Host…"
+msgstr "Sửa &Máy chủ..."
+
+#: widgets/ldapconfigurewidget.cpp:310 widgets/ldapconfigurewidgetng.cpp:228
+#, kde-format
+msgctxt "@action:button"
+msgid "&Remove Host"
+msgstr "Xoá Má&y"
+
+#: widgets/ldapconfigwidget.cpp:94
+#, kde-format
+msgid "User:"
+msgstr "Người dùng:"
+
+#: widgets/ldapconfigwidget.cpp:102
+#, kde-format
+msgid "Bind DN:"
+msgstr "Bind DN:"
+
+#: widgets/ldapconfigwidget.cpp:110
+#, kde-format
+msgid "Realm:"
+msgstr "Miền:"
+
+#: widgets/ldapconfigwidget.cpp:120
+#, kde-format
+msgid "Password:"
+msgstr "Mật khẩu:"
+
+#: widgets/ldapconfigwidget.cpp:128
+#, kde-format
+msgid "Host:"
+msgstr "Máy chủ:"
+
+#: widgets/ldapconfigwidget.cpp:137
+#, kde-format
+msgid "Port:"
+msgstr "Cổng:"
+
+#: widgets/ldapconfigwidget.cpp:145
+#, kde-format
+msgid "LDAP version:"
+msgstr "Phiên bản LDAP:"
+
+#: widgets/ldapconfigwidget.cpp:153
+#, kde-format
+msgctxt "default ldap size limit"
+msgid "Default"
+msgstr "Mặc định"
+
+#: widgets/ldapconfigwidget.cpp:154
+#, kde-format
+msgid "Size limit:"
+msgstr "Giới hạn kích thước:"
+
+#: widgets/ldapconfigwidget.cpp:162
+#, kde-format
+msgid " sec"
+msgstr "giây"
+
+#: widgets/ldapconfigwidget.cpp:163
+#, kde-format
+msgctxt "default ldap time limit"
+msgid "Default"
+msgstr "Mặc định"
+
+#: widgets/ldapconfigwidget.cpp:164
+#, kde-format
+msgid "Time limit:"
+msgstr "Giới hạn thời gian:"
+
+#: widgets/ldapconfigwidget.cpp:172
+#, kde-format
+msgid "No paging"
+msgstr "Không phân trang"
+
+#: widgets/ldapconfigwidget.cpp:173
+#, kde-format
+msgid "Page size:"
+msgstr "Kích thước trang:"
+
+#: widgets/ldapconfigwidget.cpp:185 widgets/ldapconfigwidget.cpp:264
+#, kde-format
+msgctxt "@action:button"
+msgid "Query Server"
+msgstr "Truy vấn máy chủ"
+
+#: widgets/ldapconfigwidget.cpp:195
+#, kde-format
+msgctxt "Distinguished Name"
+msgid "DN:"
+msgstr "DN:"
+
+#: widgets/ldapconfigwidget.cpp:203
+#, kde-format
+msgid "Filter:"
+msgstr "Bộ lọc:"
+
+#: widgets/ldapconfigwidget.cpp:212
+#, kde-format
+msgctxt "@option:radio set no security"
+msgid "No"
+msgstr "Không"
+
+#: widgets/ldapconfigwidget.cpp:215
+#, kde-format
+msgctxt "@option:radio use TLS security"
+msgid "TLS"
+msgstr "TLS"
+
+#: widgets/ldapconfigwidget.cpp:218
+#, kde-format
+msgctxt "@option:radio use SSL security"
+msgid "SSL"
+msgstr "SSL"
+
+#: widgets/ldapconfigwidget.cpp:233
+#, kde-format
+msgid "Security:"
+msgstr "Bảo mật:"
+
+#: widgets/ldapconfigwidget.cpp:243
+#, kde-format
+msgctxt "@option:radio anonymous authentication"
+msgid "Anonymous"
+msgstr "Ẩn danh"
+
+#: widgets/ldapconfigwidget.cpp:246
+#, kde-format
+msgctxt "@option:radio simple authentication"
+msgid "Simple"
+msgstr "Đơn giản"
+
+#: widgets/ldapconfigwidget.cpp:249
+#, kde-format
+msgctxt "@option:radio SASL authentication"
+msgid "SASL"
+msgstr "SASL"
+
+#: widgets/ldapconfigwidget.cpp:252
+#, kde-format
+msgid "Authentication:"
+msgstr "Xác thực:"
+
+#: widgets/ldapconfigwidget.cpp:270
+#, kde-format
+msgid "SASL mechanism:"
+msgstr "Cơ chế SASL:"
+
+#: widgets/ldapconfigwidget.cpp:314
+#, kde-format
+msgid "Check server"
+msgstr "Kiểm tra máy chủ"
+
+#: widgets/ldapconfigwidget.cpp:320
+#, kde-format
+msgctxt "@title:window"
+msgid "LDAP Query"
+msgstr "Truy vấn LDAP"
+
+#: widgets/ldapconfigwidget.cpp:334
+#, kde-format
+msgctxt "%1 is a url to ldap server"
+msgid "Unknown error connecting %1"
+msgstr "Lỗi không rõ khi kết nối %1"

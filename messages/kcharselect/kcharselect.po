@@ -1,0 +1,204 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kcharselect package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kcharselect\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-21 00:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: kcharselectdia.cc:126 kcharselectdia.cc:136
+#, kde-format
+msgid "&To Clipboard"
+msgstr "Vào bả&ng nháp"
+
+#: kcharselectdia.cc:142
+#, kde-format
+msgid "To Clipboard &UTF-8"
+msgstr "Sao chép vào bảng nháp &UTF-8"
+
+#: kcharselectdia.cc:145
+#, kde-format
+msgid "To Clipboard &HTML"
+msgstr "Sao chép vào bảng nháp &HTML"
+
+#: kcharselectdia.cc:149
+#, kde-format
+msgid "&From Clipboard"
+msgstr "&Từ bảng nháp"
+
+#: kcharselectdia.cc:154
+#, kde-format
+msgid "From Clipboard UTF-8"
+msgstr "Từ bảng nháp UTF-8"
+
+#: kcharselectdia.cc:157
+#, kde-format
+msgid "From Clipboard HTML"
+msgstr "Từ bảng nháp HTML"
+
+#: kcharselectdia.cc:160
+#, kde-format
+msgid "&Flip Text"
+msgstr "Lật vă&n bản"
+
+#: kcharselectdia.cc:163
+#, kde-format
+msgid "&Reverse Direction"
+msgstr "Đảo n&gược hướng"
+
+#: kcharselectdia.cc:179
+#, kde-format
+msgid "&Window Color Scheme"
+msgstr "Bảng màu cử&a sổ"
+
+#: kcharselectdia.cc:193
+#, kde-format
+msgid "Bookmarks"
+msgstr "Dấu trang"
+
+#. i18n: ectx: Menu (edit)
+#: kcharselectui.rc:4
+#, kde-format
+msgid "&Edit"
+msgstr "Sử&a"
+
+#. i18n: ectx: Menu (settings)
+#: kcharselectui.rc:14
+#, kde-format
+msgid "&Settings"
+msgstr "t&hiết lập"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kcharselectui.rc:20
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Thanh công cụ"
+
+#: main.cc:46
+#, kde-format
+msgid "KCharSelect"
+msgstr "KCharSelect"
+
+#: main.cc:48
+#, kde-format
+msgid "KDE character selection utility"
+msgstr "Tiện ích chọn kí tự KDE"
+
+#: main.cc:51
+#, kde-format
+msgid "A wrapper around the KCharSelect widget."
+msgstr "Một bộ bao bọc xung quanh tiện ích KCharSelect."
+
+#: main.cc:54
+#, kde-format
+msgid "Christoph Feck"
+msgstr "Christoph Feck"
+
+#: main.cc:54
+#, kde-format
+msgid "KF5 port and current maintainer"
+msgstr "Cổng KF5 và người bảo trì hiện tại"
+
+#: main.cc:55 main.cc:58
+#, kde-format
+msgid "Daniel Laidig"
+msgstr "Daniel Laidig"
+
+#: main.cc:55
+#, kde-format
+msgid "Author and previous maintainer"
+msgstr "Tác giả và bảo trì viên trước"
+
+#: main.cc:56
+#, kde-format
+msgid "Reginald Stadlbauer"
+msgstr "Reginald Stadlbauer"
+
+#: main.cc:56
+#, kde-format
+msgid "Author"
+msgstr "Tác giả"
+
+#: main.cc:59
+#, kde-format
+msgid ""
+"New GUI, Unicode information, incremental search, and general improvements"
+msgstr ""
+"Giao diện người dùng mới, thông tin Unicode, tìm kiếm tăng dần, và các cải "
+"tiến chung"
+
+#: main.cc:62
+#, kde-format
+msgid "Laurent Montel"
+msgstr "Laurent Montel"
+
+#: main.cc:62
+#, kde-format
+msgid "Porting help"
+msgstr "Trợ giúp chuyển"
+
+#: main.cc:63
+#, kde-format
+msgid "Constantin Berzan"
+msgstr "Constantin Berzan"
+
+#: main.cc:63
+#, kde-format
+msgid "Previous maintainer"
+msgstr "Bảo trì viên trước"
+
+#: main.cc:64
+#, kde-format
+msgid "Nadeem Hasan"
+msgstr "Nadeem Hasan"
+
+#: main.cc:64 main.cc:65
+#, kde-format
+msgid "GUI cleanup and fixes"
+msgstr "Dọn dẹp và sửa lỗi giao diện người dùng"
+
+#: main.cc:65
+#, kde-format
+msgid "Ryan Cumming"
+msgstr "Ryan Cumming"
+
+#: main.cc:66
+#, kde-format
+msgid "Benjamin C. Meyer"
+msgstr "Benjamin C. Meyer"
+
+#: main.cc:66
+#, kde-format
+msgid "XMLUI conversion"
+msgstr "Chuyển đổi XMLUI"
+
+#: main.cc:67
+#, kde-format
+msgid "Bryce Nesbitt"
+msgstr "Bryce Nesbitt"
+
+#: main.cc:67
+#, kde-format
+msgid "RTL support"
+msgstr "Hỗ trợ RTL"

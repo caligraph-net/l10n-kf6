@@ -1,0 +1,253 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the telly-skout package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: telly-skout\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-22 00:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: main.cpp:55
+#, kde-format
+msgid "Convergent TV guide based on Kirigami"
+msgstr "Hướng dẫn TV hội tụ dựa trên Kirigami"
+
+#: main.cpp:58
+#, kde-format
+msgid "Telly Skout"
+msgstr "Telly Skout"
+
+#: main.cpp:62
+#, kde-format
+msgid "© 2020 KDE Community"
+msgstr "© 2020 Cộng đồng KDE"
+
+#: qml/ChannelListDelegate.qml:53
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Favorite"
+msgstr "Yêu thích"
+
+#: qml/ChannelListPage.qml:20
+#, kde-format
+msgctxt "@title"
+msgid "Channels"
+msgstr "Kênh"
+
+#: qml/ChannelListPage.qml:32
+#, kde-format
+msgid "Loading channels..."
+msgstr "Đang tải kênh..."
+
+#: qml/ChannelTablePage.qml:18
+#, kde-format
+msgctxt "@title"
+msgid "Favorites"
+msgstr "Yêu thích"
+
+#: qml/ChannelTablePage.qml:33
+#, kde-format
+msgid "Please select favorites"
+msgstr "Vui lòng bôi đen các mục yêu thích"
+
+#: qml/ChannelTablePage.qml:121
+#, kde-format
+msgid "not available"
+msgstr "không khả dụng"
+
+#: qml/GroupListDelegate.qml:30
+#, kde-format
+msgid "Channels"
+msgstr "Kênh"
+
+#: qml/GroupListPage.qml:15
+#, kde-format
+msgctxt "@title"
+msgid "Select Favorites"
+msgstr "Chọn Yêu thích"
+
+#: qml/GroupListPage.qml:24
+#, kde-format
+msgid "Loading groups..."
+msgstr "Đang tải nhóm..."
+
+#: qml/SettingsPage.qml:13
+#, kde-format
+msgctxt "@title"
+msgid "Settings"
+msgstr "thiết lập"
+
+#: qml/SettingsPage.qml:16
+#, kde-format
+msgctxt "@title:group"
+msgid "Appearance"
+msgstr "diện mạo"
+
+#: qml/SettingsPage.qml:21
+#, kde-format
+msgctxt "@option:spinbox height of the program"
+msgid "Program height:"
+msgstr "Chiều cao chương trình:"
+
+#: qml/SettingsPage.qml:27
+#, kde-format
+msgctxt "Number in px/min"
+msgid "%1px/min"
+msgstr "%1px/phút"
+
+#: qml/SettingsPage.qml:38
+#, kde-format
+msgctxt "@option:spinbox"
+msgid "Column width:"
+msgstr "Chiều rộng cột:"
+
+#: qml/SettingsPage.qml:44 qml/SettingsPage.qml:61
+#, kde-format
+msgctxt "Number in px"
+msgid "%1px"
+msgstr "%1px"
+
+#: qml/SettingsPage.qml:55
+#, kde-format
+msgctxt "@option:spinbox"
+msgid "Font size:"
+msgstr "Cỡ phông chữ:"
+
+#: qml/SettingsPage.qml:71
+#, kde-format
+msgctxt "@title:group Programs as TV programs"
+msgid "Programs"
+msgstr "Chương trình"
+
+#: qml/SettingsPage.qml:76
+#, kde-format
+msgctxt "@option:spinbox"
+msgid "Delete old programs after:"
+msgstr "Xóa các chương trình cũ sau:"
+
+#: qml/SettingsPage.qml:80 qml/SettingsPage.qml:111
+#, kde-format
+msgctxt "Number in days"
+msgid "%1 day"
+msgid_plural "%1 days"
+msgstr[0] "%1 ngày"
+
+#: qml/SettingsPage.qml:93
+#, kde-format
+msgid "Fetcher:"
+msgstr "Trình lấy dữ liệu:"
+
+#: qml/SettingsPage.qml:94
+#, kde-format
+msgctxt "@option:combobox"
+msgid "The fetcher which loads the programs."
+msgstr "Trình lấy dữ liệu tải các chương trình."
+
+#: qml/SettingsPage.qml:106
+#, kde-format
+msgctxt "@option:spinbox"
+msgid "Prefetch:"
+msgstr "Tải trước:"
+
+#: qml/SettingsPage.qml:123
+#, kde-format
+msgctxt "@label:textbox"
+msgid "File:"
+msgstr "Tệp:"
+
+#: qml/SettingsPage.qml:147
+#, kde-format
+msgctxt "@action:button"
+msgid "Open file dialog"
+msgstr "Mở hộp thoại tệp"
+
+#: qml/SettingsPage.qml:153
+#, kde-format
+msgid "XML files (*.xml)"
+msgstr "Tệp XML (*.xml)"
+
+#: qml/SettingsPage.qml:153
+#, kde-format
+msgid "All files (*)"
+msgstr "Tất cả tệp (*)"
+
+#: qml/TellySkoutGlobalDrawer.qml:17
+#, kde-format
+msgid "Favorites"
+msgstr "Yêu thích"
+
+#: qml/TellySkoutGlobalDrawer.qml:27
+#, kde-format
+msgid "Select Favorites"
+msgstr "Chọn Mục Yêu Thích"
+
+#: qml/TellySkoutGlobalDrawer.qml:36
+#, kde-format
+msgid "Sort Favorites"
+msgstr "Sắp xếp Yêu thích"
+
+#: qml/TellySkoutGlobalDrawer.qml:49 qml/TellySkoutGlobalDrawer.qml:52
+#, kde-format
+msgid "Settings"
+msgstr "thiết lập"
+
+#: qml/TellySkoutGlobalDrawer.qml:55 qml/TellySkoutGlobalDrawer.qml:58
+#, kde-format
+msgid "About"
+msgstr "Thông tin"
+
+#: tvspielfilmfetcher.cpp:30
+#, kde-format
+msgid "Germany"
+msgstr "Đức"
+
+#: tvspielfilmfetcher.cpp:293
+#, kde-format
+msgid "Original title: "
+msgstr "Tiêu đề gốc:"
+
+#: tvspielfilmfetcher.cpp:305
+#, kde-format
+msgid "Country: "
+msgstr "Quốc gia:"
+
+#: tvspielfilmfetcher.cpp:317
+#, kde-format
+msgid "Year: "
+msgstr "Năm: "
+
+#: tvspielfilmfetcher.cpp:329
+#, kde-format
+msgid "Duration: "
+msgstr "Thời lượng: "
+
+#: tvspielfilmfetcher.cpp:341
+#, kde-format
+msgid "FSK: "
+msgstr "FSK: "
+
+#: xmltvfetcher.cpp:42
+#, kde-format
+msgid "XMLTV"
+msgstr "XMLTV"

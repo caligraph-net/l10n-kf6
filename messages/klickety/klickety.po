@@ -1,0 +1,364 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the klickety package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: klickety\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-04 00:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_RadioTheme)
+#: bgselectorconfig.ui:33
+#, kde-format
+msgid "&Theme"
+msgstr "&Chủ đề"
+
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_RadioColor)
+#: bgselectorconfig.ui:46
+#, kde-format
+msgid "&Color"
+msgstr "&Màu"
+
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_RadioImage)
+#: bgselectorconfig.ui:56
+#, kde-format
+msgid "&Image"
+msgstr "Ả&nh"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: customgameconfig.ui:17
+#, kde-format
+msgid "Width:"
+msgstr "Chiều rộng:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: customgameconfig.ui:34
+#, kde-format
+msgid "Height:"
+msgstr "Chiều cao:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: customgameconfig.ui:51
+#, kde-format
+msgid "Color count:"
+msgstr "Số lượng màu:"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_ShowBoundLines)
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowBoundLines)
+#: gameconfig.ui:16 gameconfig.ui:19
+#, kde-format
+msgid "Show bound lines"
+msgstr "Hiển thị các đường kết buộc"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_EnableAnimation)
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_EnableAnimation)
+#: gameconfig.ui:26 gameconfig.ui:29
+#, kde-format
+msgid "Enable animation"
+msgstr "Bật hiệu ứng động"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_EnableHighlight)
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_EnableHighlight)
+#: gameconfig.ui:36 gameconfig.ui:39
+#, kde-format
+msgid "Enable highlight"
+msgstr "Bật tô sáng"
+
+#: gamescene.cpp:236
+#, kde-format
+msgctxt "@info:status"
+msgid "Paused"
+msgstr "Đã tạm dừng"
+
+#: gamescene.cpp:348
+#, kde-format
+msgctxt "@info:status"
+msgid "Game finished"
+msgstr "Bàn chơi kết thúc"
+
+#. i18n: ectx: label, entry (BgColor), group (Background)
+#: klickety.kcfg:36
+#, kde-format
+msgid "The background color to be used."
+msgstr "Màu nền được sử dụng."
+
+#. i18n: ectx: label, entry (BgImage), group (Background)
+#: klickety.kcfg:40
+#, kde-format
+msgid "The background image to be used."
+msgstr "Ảnh nền được sử dụng."
+
+#. i18n: ectx: label, entry (CustomWidth), group (CustomGame)
+#: klickety.kcfg:45
+#, kde-format
+msgid "The width of the playing field."
+msgstr "Chiều rộng của khu vực chơi."
+
+#. i18n: ectx: label, entry (CustomHeight), group (CustomGame)
+#: klickety.kcfg:51
+#, kde-format
+msgid "The height of the playing field."
+msgstr "Chiều cao của khu vực chơi."
+
+#. i18n: ectx: label, entry (CustomColorCount), group (CustomGame)
+#: klickety.kcfg:57
+#, kde-format
+msgid "The number of colors in the playing field."
+msgstr "Số lượng màu sắc trong khu vực chơi."
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: klicketyui.rc:22
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Thanh công cụ chính"
+
+#: main.cpp:27
+#, kde-format
+msgid "Klickety"
+msgstr "Klickety"
+
+#: main.cpp:28
+#, kde-format
+msgid "Klickety is an adaptation of the \"clickomania\" game"
+msgstr "Klickety là một phiên bản của trò chơi \"clickomania\""
+
+#: main.cpp:30
+#, kde-format
+msgid ""
+"(c) 2002-2005, Nicolas Hadacek\n"
+"(c) 2010, Ni Hui"
+msgstr "(c) 2002-2005, Nicolas Hadacek\n(c) 2010, Ni Hui"
+
+#: main.cpp:39
+#, kde-format
+msgid "Start with KSame compatibility mode"
+msgstr "Khởi động với chế độ tương thích KSame"
+
+#: main.cpp:50
+#, kde-format
+msgid "A little game about balls and how to get rid of them"
+msgstr "Một trò chơi nhỏ về bóng và cách loại bỏ chúng"
+
+#: main.cpp:51
+#, kde-format
+msgid "Marcus Kreutzberger"
+msgstr "Marcus Kreutzberger"
+
+#: main.cpp:51 main.cpp:58
+#, kde-format
+msgid "Original author"
+msgstr "Tác giả gốc"
+
+#: main.cpp:52
+#, kde-format
+msgid "Henrique Pinto"
+msgstr "Henrique Pinto"
+
+#: main.cpp:52
+#, kde-format
+msgid "Past maintainer"
+msgstr "Bảo trì viên trước đây"
+
+#: main.cpp:53 main.cpp:59
+#, kde-format
+msgid "Ni Hui"
+msgstr "Ni Hui"
+
+#: main.cpp:53
+#, kde-format
+msgid "Integration with Klickety. Current maintainer"
+msgstr "Tích hợp với Klickety. Bảo trì viên hiện tại"
+
+#: main.cpp:54
+#, kde-format
+msgid "Johann Ollivier Lapeyre"
+msgstr "Johann Ollivier Lapeyre"
+
+#: main.cpp:54
+#, kde-format
+msgid "Artwork"
+msgstr "Tác phẩm nghệ thuật"
+
+#: main.cpp:58
+#, kde-format
+msgid "Nicolas Hadacek"
+msgstr "Nicolas Hadacek"
+
+#: main.cpp:59
+#, kde-format
+msgid "Rewrite for KDE4. Current maintainer"
+msgstr "Viết lại cho KDE4. Người bảo trì hiện tại"
+
+#: main.cpp:60
+#, kde-format
+msgid "Dan Hill"
+msgstr "Dan Hill"
+
+#: main.cpp:60
+#, kde-format
+msgid "Icons"
+msgstr "Biểu tượng"
+
+#. i18n( "Colors: XX" ), 1 );
+#. i18n( "Board: XXXXXX" ), 2 );
+#: mainwindow.cpp:59
+#, kde-format
+msgid "Marked: 0"
+msgstr "Bảng: XXXXXX"
+
+#: mainwindow.cpp:60 mainwindow.cpp:246
+#, kde-format
+msgid "Score: 0"
+msgstr "Điểm: 0"
+
+#: mainwindow.cpp:66
+#, kde-format
+msgid "Pieces: 0"
+msgstr "Mảnh: 0"
+
+#: mainwindow.cpp:67
+#, kde-format
+msgid "Time: 00:00"
+msgstr "Thời gian: 00:00"
+
+#: mainwindow.cpp:92
+#, kde-format
+msgctxt "@title:tab"
+msgid "General"
+msgstr "chung"
+
+#: mainwindow.cpp:93
+#, kde-format
+msgid "Theme"
+msgstr "Chủ đề"
+
+#: mainwindow.cpp:94
+#, kde-format
+msgctxt "@title:tab"
+msgid "Background"
+msgstr "Nền"
+
+#: mainwindow.cpp:96
+#, kde-format
+msgctxt "@title:tab"
+msgid "Custom Game"
+msgstr "Trò chơi tự chọn"
+
+#: mainwindow.cpp:173
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Board"
+msgstr "Chọn Bảng"
+
+#: mainwindow.cpp:174
+#, kde-format
+msgid "Select a board number:"
+msgstr "Chọn một số bảng:"
+
+#: mainwindow.cpp:212 mainwindow.cpp:226
+#, kde-format
+msgid "Klickety Game Files (*.klickety)"
+msgstr "Tệp bàn chơi Klickety (*.klickety)"
+
+#: mainwindow.cpp:238
+#, kde-format
+msgid "Marked: %2 (1 Point)"
+msgid_plural "Marked: %2 (%1 Points)"
+msgstr[0] "Đã đánh dấu: %2 (%1 Điểm)"
+
+#: mainwindow.cpp:260
+#, kde-format
+msgid "Score: %1"
+msgstr "Điểm: %1"
+
+#: mainwindow.cpp:266
+#, kde-format
+msgid "Pieces: %1"
+msgstr "Mảnh: %1"
+
+#: mainwindow.cpp:271
+#, kde-format
+msgid "Time: %1"
+msgstr "Thời gian: %1"
+
+#: mainwindow.cpp:279 mainwindow.cpp:308 mainwindow.cpp:400
+#, kde-format
+msgid "High Scores"
+msgstr "Điểm số cao"
+
+#: mainwindow.cpp:287 mainwindow.cpp:324
+#, kde-format
+msgid "Remaining pieces"
+msgstr "Các mảnh còn lại"
+
+#: mainwindow.cpp:288 mainwindow.cpp:325
+#, kde-format
+msgid "Time"
+msgstr "Thời gian"
+
+#: mainwindow.cpp:345
+#, kde-format
+msgid "Do you want to resign?"
+msgstr "Bạn có muốn từ chức không?"
+
+#: mainwindow.cpp:346
+#, kde-format
+msgctxt "@title:window"
+msgid "New Game"
+msgstr "Trò chơi mới"
+
+#: mainwindow.cpp:347
+#, kde-format
+msgctxt "@action:button"
+msgid "Resign"
+msgstr "Từ chức"
+
+#: mainwindow.cpp:364
+#, kde-format
+msgctxt "@action"
+msgid "New Numbered Game…"
+msgstr "Trò chơi số mới..."
+
+#: mainwindow.cpp:369
+#, kde-format
+msgctxt "@option:check"
+msgid "Play Sounds"
+msgstr "Phát Âm Thanh"
+
+#: mainwindow.cpp:384
+#, kde-format
+msgctxt "@action"
+msgid "Undo All"
+msgstr "Đảo ngược Tất cả"
+
+#: mainwindow.cpp:390
+#, kde-format
+msgctxt "@action"
+msgid "Redo All"
+msgstr "Làm lại Tất cả"
+
+#: mainwindow.cpp:411
+#, kde-format
+msgid "Custom"
+msgstr "Tự chọn"

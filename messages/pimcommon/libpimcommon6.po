@@ -1,0 +1,1229 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the pimcommon package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: pimcommon\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-04 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: pimcommon/configureplugins/configurepluginslistwidget.cpp:151
+#, kde-format
+msgid "..."
+msgstr "..."
+
+#: pimcommon/configureplugins/configurepluginslistwidget.cpp:153
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Configure"
+msgstr "Cấu hình"
+
+#: pimcommon/configureplugins/configurepluginswidget.cpp:45
+#, kde-format
+msgid "Restart is necessary for applying the changes."
+msgstr "Cần khởi động lại để áp dụng các thay đổi."
+
+#: pimcommon/needupdateversion/needupdateversionwidget.cpp:19
+#, kde-format
+msgctxt "@action"
+msgid "Disable version check"
+msgstr "Tắt kiểm tra phiên bản"
+
+#: pimcommon/needupdateversion/needupdateversionwidget.cpp:35
+#, kde-format
+msgid "Your version is older than 6 months, we encourage you to upgrade."
+msgstr "Phiên bản của bạn đã cũ hơn 6 tháng, chúng tôi khuyến khích bạn nâng cấp."
+
+#: pimcommon/needupdateversion/needupdateversionwidget.cpp:40
+#, kde-format
+msgid ""
+"Your version is older than 1 year, we strongly encourage you to upgrade."
+msgstr "Phiên bản của bạn đã cũ hơn 1 năm, chúng tôi khuyến khích bạn nâng cấp."
+
+#: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:35
+#, kde-format
+msgid "Share On..."
+msgstr "Chia sẻ trên..."
+
+#: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:38
+#, kde-format
+msgctxt "@action:inmenu Share On..."
+msgid "%1"
+msgstr "%1"
+
+#: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:83
+#, kde-format
+msgid "Facebook"
+msgstr "Facebook"
+
+#: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:86
+#, kde-format
+msgid "Twitter"
+msgstr "Twitter"
+
+#: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:89
+#, kde-format
+msgid "Mail"
+msgstr "Thư"
+
+#: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:92
+#, kde-format
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:95
+#, kde-format
+msgid "Evernote"
+msgstr "Evernote"
+
+#: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:98
+#, kde-format
+msgid "Pocket"
+msgstr "Pocket"
+
+#: pimcommon/shareserviceurl/shareserviceurlmanager.cpp:101
+#, kde-format
+msgid "LiveJournal"
+msgstr "LiveJournal"
+
+#: pimcommon/templatewidgets/templateeditdialog.cpp:35
+#, kde-format
+msgctxt "@title:window"
+msgid "Default template"
+msgstr "Bản mẫu mặc định"
+
+#: pimcommon/templatewidgets/templateeditdialog.cpp:35
+#, kde-format
+msgctxt "@title:window"
+msgid "Template"
+msgstr "Bản mẫu"
+
+#: pimcommon/templatewidgets/templateeditdialog.cpp:58
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Name:"
+msgstr "Tên:"
+
+#: pimcommon/templatewidgets/templatelistwidget.cpp:77
+#, kde-format
+msgid "Do you want to delete selected template?"
+msgstr "Bạn có muốn xóa mẫu đã chọn không?"
+
+#: pimcommon/templatewidgets/templatelistwidget.cpp:78
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete template"
+msgstr "Xóa bản mẫu"
+
+#: pimcommon/templatewidgets/templatelistwidget.cpp:145
+#, kde-format
+msgid "Import Template"
+msgstr "Nhập khẩu Bản mẫu"
+
+#: pimcommon/templatewidgets/templatelistwidget.cpp:154
+#, kde-format
+msgid "Export Template"
+msgstr "Xuất khẩu Bản mẫu"
+
+#: pimcommon/templatewidgets/templatelistwidget.cpp:168
+#, kde-format
+msgid "Insert template"
+msgstr "Chèn bản mẫu"
+
+#: pimcommon/templatewidgets/templatelistwidget.cpp:174
+#, kde-format
+msgid "Add..."
+msgstr "Thêm..."
+
+#: pimcommon/templatewidgets/templatelistwidget.cpp:180
+#, kde-format
+msgid "Show..."
+msgstr "Hiện..."
+
+#: pimcommon/templatewidgets/templatelistwidget.cpp:180
+#, kde-format
+msgid "Modify..."
+msgstr "Sửa đổi..."
+
+#: pimcommon/templatewidgets/templatelistwidget.cpp:183
+#, kde-format
+msgid "Duplicate"
+msgstr "Nhân bản"
+
+#: pimcommon/templatewidgets/templatelistwidget.cpp:189
+#, kde-format
+msgid "Remove"
+msgstr "Xoá"
+
+#: pimcommon/templatewidgets/templatelistwidget.cpp:196
+#, kde-format
+msgid "Export..."
+msgstr "Xuất..."
+
+#: pimcommon/templatewidgets/templatelistwidget.cpp:200
+#, kde-format
+msgid "Import..."
+msgstr "Nhập..."
+
+#: pimcommon/templatewidgets/templatelistwidget.cpp:207
+#, kde-format
+msgid "Download new Templates..."
+msgstr "Tải về các mẫu mới..."
+
+#: pimcommon/templatewidgets/templatelistwidget.cpp:242
+#, kde-format
+msgid "'%1' is not a template file"
+msgstr "'%1' không phải là tệp bản mẫu"
+
+#: pimcommon/templatewidgets/templatelistwidget.cpp:242
+#, kde-format
+msgid "Load Template"
+msgstr "Tải Bản Mẫu"
+
+#: pimcommon/util/pimutil.cpp:49
+#, kde-format
+msgid ""
+"Could not write the file %1:\n"
+"\"%2\" is the detailed error description."
+msgstr "Không thể ghi tệp %1:\n\"%2\" là mô tả lỗi chi tiết."
+
+#: pimcommon/util/pimutil.cpp:53
+#, kde-format
+msgctxt "@title:window"
+msgid "Save File Error"
+msgstr "Lỗi Lưu Tệp"
+
+#: pimcommon/util/pimutil.cpp:84
+#, kde-format
+msgid ""
+"Could not read the file %1:\n"
+"\"%2\" is the detailed error description."
+msgstr "Không thể đọc tệp %1:\n\"%2\" là mô tả lỗi chi tiết."
+
+#: pimcommon/util/pimutil.cpp:88
+#, kde-format
+msgctxt "@title:window"
+msgid "Load File Error"
+msgstr "Lỗi Tải Tệp"
+
+#: pimcommon/widgets/configureimmutablewidgetutils.cpp:31
+#, kde-format
+msgid ""
+"<qt><p>This setting has been fixed by your administrator.</p><p>If you think "
+"this is an error, please contact him.</p></qt>"
+msgstr ""
+"<qt><p>Thiết lập này đã được quản trị viên của bạn cố định.</p><p>Nếu bạn "
+"nghĩ đây là lỗi, vui lòng liên hệ với họ.</p></qt>"
+
+#: pimcommon/widgets/kactionmenuchangecase.cpp:27
+#, kde-format
+msgid "Change Case"
+msgstr "Thay đổi chữ hoa/chữ thường"
+
+#: pimcommon/widgets/kactionmenuchangecase.cpp:28
+#, kde-format
+msgctxt "@action"
+msgid "Uppercase"
+msgstr "Viết hoa"
+
+#: pimcommon/widgets/kactionmenuchangecase.cpp:31
+#, kde-format
+msgctxt "@action"
+msgid "Sentence case"
+msgstr "Câu chữ hoa đầu"
+
+#: pimcommon/widgets/kactionmenuchangecase.cpp:34
+#, kde-format
+msgctxt "@action"
+msgid "Lowercase"
+msgstr "Chữ thường"
+
+#: pimcommon/widgets/kactionmenuchangecase.cpp:37
+#, kde-format
+msgctxt "@action"
+msgid "Reverse Case"
+msgstr "Đảo ngược chữ hoa/thường"
+
+#: pimcommon/widgets/lineeditwithcompleterng.cpp:44
+#, kde-format
+msgid "Clear History"
+msgstr "Làm trống lịch sử"
+
+#: pimcommon/widgets/purposemenuwidget.cpp:58
+#, kde-format
+msgid "There was a problem sharing the document: %1"
+msgstr "Đã xảy ra sự cố khi chia sẻ tài liệu: %1"
+
+#: pimcommon/widgets/purposemenuwidget.cpp:62
+#, kde-format
+msgid "File was shared."
+msgstr "Tệp đã được chia sẻ."
+
+#: pimcommon/widgets/purposemenuwidget.cpp:64
+#, kde-format
+msgid "<qt>You can find the new request at:<br /><a href='%1'>%1</a> </qt>"
+msgstr "<qt>Bạn có thể tìm thấy yêu cầu mới tại:<br /><a href='%1'>%1</a> </qt>"
+
+#: pimcommon/widgets/renamefiledialog.cpp:100
+#, kde-format
+msgctxt "@title:window"
+msgid "File Already Exists"
+msgstr "Tệp Đã Tồn Tại"
+
+#: pimcommon/widgets/renamefiledialog.cpp:103
+#, kde-kuit-format
+msgid ""
+"A file named <filename>%1</filename> already exists. Do you want to "
+"overwrite it?"
+msgstr ""
+"Một tệp có tên <filename>%1</filename> đã tồn tại. Bạn có muốn ghi đè lên "
+"nó không?"
+
+#: pimcommon/widgets/renamefiledialog.cpp:113
+#, kde-format
+msgctxt "@action:button"
+msgid "Suggest New &Name"
+msgstr "Đề &xuất tên mới"
+
+#: pimcommon/widgets/renamefiledialog.cpp:121
+#, kde-format
+msgctxt "@action:button"
+msgid "&Ignore"
+msgstr "Bỏ q&ua"
+
+#: pimcommon/widgets/renamefiledialog.cpp:124
+#, kde-format
+msgctxt "@action:button"
+msgid "&Rename"
+msgstr "Đổ&i tên"
+
+#: pimcommon/widgets/renamefiledialog.cpp:134
+#, kde-format
+msgid "Appl&y to All"
+msgstr "Áp dụng ch&o tất cả"
+
+#: pimcommon/widgets/renamefiledialog.cpp:180
+#, kde-format
+msgid "This filename \"%1\" already exists."
+msgstr "Tên tệp \"%1\" này đã tồn tại."
+
+#: pimcommon/widgets/renamefiledialog.cpp:180
+#, kde-format
+msgid "File already exists"
+msgstr "Tệp đã tồn tại"
+
+#: pimcommon/widgets/simplestringlisteditor.cpp:55
+#: pimcommon/widgets/simplestringlisteditor.cpp:58
+#, kde-format
+msgid "New entry:"
+msgstr "Mục nhập mới:"
+
+#: pimcommon/widgets/simplestringlisteditor.cpp:56
+#: pimcommon/widgets/simplestringlisteditor.cpp:57
+#, kde-format
+msgid "New Value"
+msgstr "Giá trị mới"
+
+#: pimcommon/widgets/simplestringlisteditor.cpp:59
+#, kde-format
+msgid "Do you want to remove selected text?"
+msgstr "Bạn có muốn xoá bỏ văn bản đã chọn không?"
+
+#: pimcommon/widgets/simplestringlisteditor.cpp:94
+#, kde-format
+msgctxt "@action:button"
+msgid "&Add..."
+msgstr "T&hêm..."
+
+#: pimcommon/widgets/simplestringlisteditor.cpp:105
+#, kde-format
+msgctxt "@action:button"
+msgid "&Modify..."
+msgstr "Sử&a đổi..."
+
+#: pimcommon/widgets/simplestringlisteditor.cpp:118
+#, kde-format
+msgctxt "@action:button"
+msgid "&Remove"
+msgstr "X&oá"
+
+#: pimcommon/widgets/simplestringlisteditor.cpp:155
+#, kde-format
+msgctxt "@action:button"
+msgid "&Customize..."
+msgstr "Tùy c&hỉnh..."
+
+#: pimcommon/widgets/simplestringlisteditor.cpp:309
+#: pimcommonakonadi/acl/aclmanager.cpp:283
+#: pimcommonakonadi/acl/aclmanager.cpp:290
+#: pimcommonakonadi/addressline/recentaddress/recentaddresswidget.cpp:135
+#, kde-format
+msgctxt "@title:window"
+msgid "Remove"
+msgstr "Xoá"
+
+#: pimcommonakonadi/acl/aclentrydialog.cpp:84
+#, kde-format
+msgctxt "@label:textbox"
+msgid "&User identifier:"
+msgstr "Địn&h danh người dùng:"
+
+#: pimcommonakonadi/acl/aclentrydialog.cpp:91
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"The User Identifier is the login of the user on the IMAP server. This can be "
+"a simple user name or the full email address of the user; the login for your "
+"own account on the server will tell you which one it is."
+msgstr ""
+"Mã định danh người dùng là tên đăng nhập của người dùng trên máy chủ IMAP. "
+"Đây có thể là tên người dùng đơn giản hoặc địa chỉ thư điện tử đầy đủ của "
+"người dùng; tài khoản của bạn trên máy chủ sẽ cho bạn biết đó là cái nào."
+
+#: pimcommonakonadi/acl/aclentrydialog.cpp:95
+#, kde-format
+msgctxt "select an email address"
+msgid "Se&lect..."
+msgstr "C&họn..."
+
+#: pimcommonakonadi/acl/aclentrydialog.cpp:98
+#, kde-format
+msgid "Permissions"
+msgstr "Quyền"
+
+#: pimcommonakonadi/acl/aclentrydialog.cpp:114
+#, kde-format
+msgctxt "@label:textbox"
+msgid "<b>Note: </b>Renaming requires write permissions on the parent folder."
+msgstr "<b>Lưu ý: </b>Đổi tên yêu cầu quyền ghi trên thư mục cha."
+
+#: pimcommonakonadi/acl/acllistview.cpp:50
+#, kde-format
+msgid "Folder cannot be administrated."
+msgstr "Không thể quản lý thư mục."
+
+#: pimcommonakonadi/acl/aclmanager.cpp:161
+#, kde-format
+msgctxt "@action"
+msgid "Add Entry..."
+msgstr "Thêm mục..."
+
+#: pimcommonakonadi/acl/aclmanager.cpp:166
+#, kde-format
+msgctxt "@action"
+msgid "Edit Entry..."
+msgstr "Chỉnh sửa mục..."
+
+#: pimcommonakonadi/acl/aclmanager.cpp:172
+#, kde-format
+msgctxt "@action"
+msgid "Remove Entry"
+msgstr "Xoá mục"
+
+#: pimcommonakonadi/acl/aclmanager.cpp:214
+#, kde-format
+msgctxt "@title:window"
+msgid "Add ACL"
+msgstr "Thêm ACL"
+
+#: pimcommonakonadi/acl/aclmanager.cpp:241
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit ACL"
+msgstr "Sửa ACL"
+
+#: pimcommonakonadi/acl/aclmanager.cpp:281
+#, kde-format
+msgid ""
+"Do you really want to remove your own permissions for this folder? You will "
+"not be able to access it afterwards."
+msgstr ""
+"Bạn có thực sự muốn xoá quyền truy cập của chính mình đối với thư mục này "
+"không? Bạn sẽ không thể truy cập nó sau đó."
+
+#: pimcommonakonadi/acl/aclmanager.cpp:289
+#, kde-format
+msgid "Do you really want to remove these permissions for this folder?"
+msgstr "Bạn có thực sự muốn xoá các quyền này cho thư mục này không?"
+
+#: pimcommonakonadi/acl/aclmodifyjob.cpp:243
+#, kde-format
+msgid ""
+"Do you really want to apply the folder's permissions to these subfolders?"
+msgstr ""
+"Bạn có thực sự muốn áp dụng quyền của thư mục này cho các thư mục con "
+"không?"
+
+#: pimcommonakonadi/acl/aclmodifyjob.cpp:245
+#, kde-format
+msgctxt "@title:window"
+msgid "Apply Permissions"
+msgstr "Áp dụng quyền"
+
+#: pimcommonakonadi/acl/aclutils.cpp:19
+msgctxt "Permissions"
+msgid "None"
+msgstr "Không"
+
+#: pimcommonakonadi/acl/aclutils.cpp:21
+msgctxt "Permissions"
+msgid "Read"
+msgstr "Đọc"
+
+#: pimcommonakonadi/acl/aclutils.cpp:23
+msgctxt "Permissions"
+msgid "Append"
+msgstr "Thêm"
+
+#: pimcommonakonadi/acl/aclutils.cpp:27
+msgctxt "Permissions"
+msgid "Write"
+msgstr "Ghi"
+
+#: pimcommonakonadi/acl/aclutils.cpp:31
+msgctxt "Permissions"
+msgid "All"
+msgstr "Tất cả"
+
+#: pimcommonakonadi/acl/aclutils.cpp:66
+#, kde-format
+msgid "Custom Permissions (%1)"
+msgstr "Quyền Tùy Chỉnh (%1)"
+
+#: pimcommonakonadi/acl/collectionaclpage.cpp:34
+#, kde-format
+msgctxt "@title:tab Access Control settings page."
+msgid "Access Control"
+msgstr "Kiểm soát truy cập"
+
+#: pimcommonakonadi/acl/collectionaclwidget.cpp:73
+#, kde-format
+msgid "Apply permissions on all &subfolders."
+msgstr "Áp dụ&ng quyền trên tất cả các thư mục con."
+
+#: pimcommonakonadi/addressline/addresslineedit/addresseelineedit.cpp:324
+#, kde-format
+msgid "vCard Import Failed"
+msgstr "Nhập khẩu vCard Thất Bại"
+
+#: pimcommonakonadi/addressline/addresslineedit/addresseelineedit.cpp:325
+#, kde-format
+msgid "<qt>Unable to access <b>%1</b>.</qt>"
+msgstr "<qt>Không thể truy cập <b>%1</b>.</qt>"
+
+#: pimcommonakonadi/addressline/addresslineedit/addresseelineedit.cpp:445
+#, kde-format
+msgid "Select email from contact"
+msgstr "Chọn thư điện tử từ liên hệ"
+
+#: pimcommonakonadi/addressline/addresslineedit/addresseelineedit.cpp:565
+#, kde-format
+msgctxt "@action"
+msgid "Show Organization Unit for LDAP results"
+msgstr "Hiển thị Đơn vị Tổ chức cho kết quả LDAP"
+
+#: pimcommonakonadi/addressline/addresslineedit/addresseelineedit.cpp:573
+#, kde-format
+msgid "Configure Completion..."
+msgstr "Cấu hình Hoàn thành..."
+
+#: pimcommonakonadi/addressline/addresslineedit/addresseelineedit.cpp:577
+#, kde-format
+msgid "Automatically expand groups"
+msgstr "Tự động mở rộng nhóm"
+
+#: pimcommonakonadi/addressline/addresslineedit/addresseelineedit.cpp:583
+#, kde-format
+msgid "Expand Groups..."
+msgstr "Mở rộng Nhóm..."
+
+#: pimcommonakonadi/addressline/addresslineedit/addresseelineedit.cpp:616
+#: pimcommonakonadi/addressline/completionorder/completionorderwidget.cpp:312
+#, kde-format
+msgid "Recent Addresses"
+msgstr "Địa chỉ gần đây"
+
+#: pimcommonakonadi/addressline/addresslineedit/addresseelineedit_p.cpp:108
+#: pimcommonakonadi/addressline/addresslineedit/addresseelineedit_p.cpp:752
+#: pimcommonakonadi/addressline/addresslineedit/addresseelineedit_p.cpp:753
+#, kde-format
+msgctxt "@title:group"
+msgid "Contacts found in your data"
+msgstr "Danh bạ được tìm thấy trong dữ liệu của bạn"
+
+#: pimcommonakonadi/addressline/addresslineedit/addresseelineeditldap.cpp:35
+#, kde-format
+msgid "LDAP server: %1"
+msgstr "Máy chủ LDAP: %1"
+
+#: pimcommonakonadi/addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:36
+#, kde-format
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: pimcommonakonadi/addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:37
+#, kde-format
+msgctxt "@action:button"
+msgid "&Select"
+msgstr "Chọ&n"
+
+#: pimcommonakonadi/addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:38
+#, kde-format
+msgctxt "@action:button"
+msgid "&Unselect"
+msgstr "&Bỏ chọn"
+
+#: pimcommonakonadi/addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:39
+#, kde-format
+msgctxt "@action:button"
+msgid "Show Blacklisted Emails"
+msgstr "Hiển thị email bị chặn"
+
+#: pimcommonakonadi/addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:40
+#, kde-format
+msgctxt "@label:textbox"
+msgid "<qt><a href=\"more_result\">More result...</a></qt>"
+msgstr "<qt><a href=\"more_result\">Thêm kết quả...</a></qt>"
+
+#: pimcommonakonadi/addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:49
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Search email:"
+msgstr "Tìm kiếm email:"
+
+#: pimcommonakonadi/addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:53
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Research is done from 3 characters"
+msgstr "Tìm kiếm được thực hiện từ 3 ký tự"
+
+#: pimcommonakonadi/addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:105
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Search in result..."
+msgstr "Tìm kiếm trong kết quả..."
+
+#: pimcommonakonadi/addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:118
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Exclude domain names:"
+msgstr "Loại trừ tên miền:"
+
+#: pimcommonakonadi/addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:126
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Separate domain with '%1'"
+msgstr "Tách miền bằng '%1'"
+
+#: pimcommonakonadi/addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:132
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Exclude email with Regular Expression:"
+msgstr "Loại trừ thư điện tử bằng Regular Expression:"
+
+#: pimcommonakonadi/addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:140
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Separate regular expression with '%1'"
+msgstr "Tách biểu thức chính quy bằng '%1'"
+
+#: pimcommonakonadi/addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:161
+#, kde-format
+msgid "Select"
+msgstr "Bôi đen"
+
+#: pimcommonakonadi/addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:163
+#, kde-format
+msgid "Unselect"
+msgstr "Bỏ chọn"
+
+#: pimcommonakonadi/addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:286
+#, kde-format
+msgid "No email found."
+msgstr "Không tìm thấy thư điện tử."
+
+#: pimcommonakonadi/addressline/blacklistbaloocompletion/blacklistbalooemailcompletionwidget.cpp:288
+#, kde-format
+msgid "1 email found"
+msgid_plural "%1 emails found"
+msgstr[0] "Đã tìm thấy %1 email"
+
+#: pimcommonakonadi/addressline/blacklistbaloocompletion/blacklistbalooemaillist.cpp:137
+#, kde-format
+msgid "No result found"
+msgstr "Không tìm thấy kết quả"
+
+#: pimcommonakonadi/addressline/blacklistbaloocompletion/blacklistbalooemailwarning.cpp:24
+#, kde-format
+msgid ""
+"The list was changed. Do you want to save before to make another search ?"
+msgstr "Danh sách đã thay đổi. Bạn có muốn lưu trước khi thực hiện tìm kiếm khác?"
+
+#: pimcommonakonadi/addressline/blacklistbaloocompletion/blacklistbalooemailwarning.cpp:25
+#, kde-format
+msgctxt "@action"
+msgid "Save"
+msgstr "Lưu"
+
+#: pimcommonakonadi/addressline/blacklistbaloocompletion/blacklistbalooemailwarning.cpp:30
+#, kde-format
+msgctxt "@action"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: pimcommonakonadi/addressline/blacklistbaloocompletion/blacklistbalooemailwarning.cpp:35
+#, kde-format
+msgctxt "@action"
+msgid "Cancel"
+msgstr "Huỷ"
+
+#: pimcommonakonadi/addressline/completionconfiguredialog/completionconfiguredialog.cpp:51
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure Completion"
+msgstr "Cấu hình hoàn tất"
+
+#: pimcommonakonadi/addressline/completionconfiguredialog/completionconfiguredialog.cpp:60
+#, kde-format
+msgid "Completion Order"
+msgstr "Thứ tự hoàn tất"
+
+#: pimcommonakonadi/addressline/completionconfiguredialog/completionconfiguredialog.cpp:64
+#, kde-format
+msgid "Recent Address"
+msgstr "Địa chỉ gần đây"
+
+#: pimcommonakonadi/addressline/completionconfiguredialog/completionconfiguredialog.cpp:69
+#, kde-format
+msgid "Blacklist Email Address"
+msgstr "Danh sách đen địa chỉ thư điện tử"
+
+#: pimcommonakonadi/addressline/completionorder/completionordereditor.cpp:45
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Completion Order"
+msgstr "Sửa Thứ Tự Hoàn Tất"
+
+#: pimcommonakonadi/addressline/completionorder/completionorderwidget.cpp:54
+#, kde-format
+msgid "LDAP server %1"
+msgstr "Máy chủ LDAP %1"
+
+#: pimcommonakonadi/addressline/completionorder/completionorderwidget.cpp:260
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Move Up"
+msgstr "Di chuyển lên"
+
+#: pimcommonakonadi/addressline/completionorder/completionorderwidget.cpp:269
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Move Down"
+msgstr "Di chuyển xuống"
+
+#: pimcommonakonadi/addressline/recentaddress/recentaddresswidget.cpp:47
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "New email..."
+msgstr "Email mới..."
+
+#: pimcommonakonadi/addressline/recentaddress/recentaddresswidget.cpp:52
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Add Email"
+msgstr "Thêm thư điện tử"
+
+#: pimcommonakonadi/addressline/recentaddress/recentaddresswidget.cpp:61
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Remove"
+msgstr "Xoá"
+
+#: pimcommonakonadi/addressline/recentaddress/recentaddresswidget.cpp:98
+#, kde-format
+msgid "Remove Email"
+msgid_plural "Remove Emails"
+msgstr[0] "Xoá Email"
+
+#: pimcommonakonadi/addressline/recentaddress/recentaddresswidget.cpp:134
+#, kde-format
+msgid "Do you want to remove this email address?"
+msgid_plural "Do you want to remove %1 email addresses?"
+msgstr[0] "Bạn có muốn xoá %1 địa chỉ email không?"
+
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:37
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:142
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:200
+#, kde-format
+msgctxt "type of folder content"
+msgid "Mail"
+msgstr "Thư"
+
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:39
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:145
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:179
+#, kde-format
+msgctxt "type of folder content"
+msgid "Calendar"
+msgstr "Lịch"
+
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:41
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:148
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:182
+#, kde-format
+msgctxt "type of folder content"
+msgid "Contacts"
+msgstr "Danh bạ"
+
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:43
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:151
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:185
+#, kde-format
+msgctxt "type of folder content"
+msgid "Notes"
+msgstr "ghi chú"
+
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:45
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:154
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:176
+#, kde-format
+msgctxt "type of folder content"
+msgid "Tasks"
+msgstr "Nhiệm vụ"
+
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:47
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:157
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:188
+#, kde-format
+msgctxt "type of folder content"
+msgid "Journal"
+msgstr "Nhật ký"
+
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:49
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:160
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:191
+#, kde-format
+msgctxt "type of folder content"
+msgid "Configuration"
+msgstr "Cấu hình"
+
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:51
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:163
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:194
+#, kde-format
+msgctxt "type of folder content"
+msgid "Freebusy"
+msgstr "Lịch rảnh/bận"
+
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:53
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:166
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:197
+#, kde-format
+msgctxt "type of folder content"
+msgid "Files"
+msgstr "Tệp"
+
+#: pimcommonakonadi/collectionpage/collectiontypeutil.cpp:55
+#, kde-format
+msgctxt "type of folder content"
+msgid "Unknown"
+msgstr "không rõ"
+
+#: pimcommonakonadi/collectionpage/contenttypewidget.cpp:44
+#, kde-format
+msgid "&Folder contents:"
+msgstr "Nội dun&g thư mục:"
+
+#: pimcommonakonadi/collectionpage/incidencesforwidget.cpp:17
+#, kde-format
+msgid "Nobody"
+msgstr "Không ai"
+
+#: pimcommonakonadi/collectionpage/incidencesforwidget.cpp:18
+#, kde-format
+msgid "Admins of This Folder"
+msgstr "Quản trị viên của Thư mục này"
+
+#: pimcommonakonadi/collectionpage/incidencesforwidget.cpp:19
+#, kde-format
+msgid "All Readers of This Folder"
+msgstr "Tất cả người đọc của thư mục này"
+
+#: pimcommonakonadi/collectionpage/incidencesforwidget.cpp:23
+#, kde-format
+msgid ""
+"This setting defines which users sharing this folder should get \"busy\" "
+"periods in their freebusy lists and should see the alarms for the events or "
+"tasks in this folder. The setting applies to Calendar and Task folders only "
+"(for tasks, this setting is only used for alarms).\n"
+"\n"
+"Example use cases: if the boss shares a folder with his secretary, only the "
+"boss should be marked as busy for his meetings, so he should select \"Admins"
+"\", since the secretary has no admin rights on the folder.\n"
+"On the other hand if a working group shares a Calendar for group meetings, "
+"all readers of the folders should be marked as busy for meetings.\n"
+"A company-wide folder with optional events in it would use \"Nobody\" since "
+"it is not known who will go to those events."
+msgstr ""
+"Thiết lập này xác định những người dùng chia sẻ thư mục này sẽ nhận được "
+"các khoảng thời gian \"bận\" trong danh sách trạng thái rảnh của họ và sẽ "
+"thấy các cảnh báo cho các sự kiện hoặc tác vụ trong thư mục này. Thiết lập "
+"này chỉ áp dụng cho thư mục Lịch và Tác vụ (đối với tác vụ, thiết lập này "
+"chỉ được sử dụng cho các cảnh báo).\n\nVí dụ về trường hợp sử dụng: nếu ông "
+"chủ chia sẻ một thư mục với thư ký của mình, chỉ có ông chủ mới được đánh "
+"dấu là bận cho các cuộc họp của mình, vì vậy ông ấy nên chọn \"Quản trị "
+"viên\", vì thư ký không có quyền quản trị trên thư mục.\nMặt khác, nếu một "
+"nhóm làm việc chia sẻ một Lịch cho các cuộc họp nhóm, tất cả những người "
+"đọc của thư mục này sẽ được đánh dấu là bận cho các cuộc họp.\nMột thư mục "
+"toàn công ty với các sự kiện tùy chọn sẽ sử dụng \"Không ai\" vì không biết "
+"ai sẽ tham dự những sự kiện đó."
+
+#: pimcommonakonadi/collectionpage/incidencesforwidget.cpp:43
+#, kde-format
+msgid "Generate free/&busy and activate alarms for:"
+msgstr "Tạo lịch trống/&bận và kích hoạt báo thức cho:"
+
+#: pimcommonakonadi/folderdialog/checkedcollectionwidget.cpp:74
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Search..."
+msgstr "Tìm kiếm..."
+
+#: pimcommonakonadi/folderdialog/selectmulticollectiondialog.cpp:55
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Multiple Folders"
+msgstr "Bôi Đen Nhiều Thư Mục"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:92
+#, kde-format
+msgctxt "@item LDAP search key"
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:93
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:303
+#, kde-format
+msgid "Full Name"
+msgstr "Họ và tên"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:94
+#, kde-format
+msgctxt "@item LDAP search key"
+msgid "Email"
+msgstr "Thư, thư điện tử"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:95
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:307
+#, kde-format
+msgid "Home Number"
+msgstr "Số điện thoại nhà"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:96
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:309
+#, kde-format
+msgid "Work Number"
+msgstr "Số công việc"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:97
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:311
+#, kde-format
+msgid "Mobile Number"
+msgstr "Số di động"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:98
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:313
+#, kde-format
+msgid "Fax Number"
+msgstr "Số Fax"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:99
+#, kde-format
+msgid "Pager"
+msgstr "Trang"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:100
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:319
+#, kde-format
+msgid "Street"
+msgstr "Đường phố"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:101
+#, kde-format
+msgctxt "@item LDAP search key"
+msgid "State"
+msgstr "Trạng thái"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:102
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:323
+#, kde-format
+msgid "Country"
+msgstr "Quốc gia"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:103
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:329
+#, kde-format
+msgid "City"
+msgstr "Thành phố"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:104
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:317
+#, kde-format
+msgid "Organization"
+msgstr "Tổ chức"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:105
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:315
+#, kde-format
+msgid "Company"
+msgstr "Công ty"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:106
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:331
+#, kde-format
+msgid "Department"
+msgstr "Bộ phận"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:107
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:325
+#, kde-format
+msgid "Zip Code"
+msgstr "Mã bưu chính"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:108
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:327
+#, kde-format
+msgid "Postal Address"
+msgstr "Địa chỉ bưu điện"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:109
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:333
+#, kde-format
+msgid "Description"
+msgstr "Mô tả"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:110
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:335
+#, kde-format
+msgid "User ID"
+msgstr "mã định danh"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:305
+#, kde-format
+msgctxt "@title:column Column containing email addresses"
+msgid "Email"
+msgstr "Thư"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:321
+#, kde-format
+msgctxt "@title:column Column containing the residential state of the address"
+msgid "State"
+msgstr "Tiểu bang"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:337
+#, kde-format
+msgctxt "@title:column Column containing title of the person"
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:472
+#, kde-format
+msgctxt "@title:window"
+msgid "Import Contacts from LDAP"
+msgstr "Nhập khẩu Danh bạ từ LDAP"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:495
+#, kde-format
+msgid "Search for Addresses in Directory"
+msgstr "Tìm kiếm địa chỉ trong thư mục"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:500
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Search for:"
+msgstr "Tìm kiếm:"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:508
+#, kde-format
+msgctxt "In LDAP attribute"
+msgid "in"
+msgstr "trong"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:512
+#, kde-format
+msgctxt "@item:inlistbox Name of the contact"
+msgid "Name"
+msgstr "Tên"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:513
+#, kde-format
+msgctxt "@item:inlistbox email address of the contact"
+msgid "Email"
+msgstr "Thư điện tử"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:514
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Home Number"
+msgstr "Số điện thoại nhà"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:515
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Work Number"
+msgstr "Số công việc"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:517
+#, kde-format
+msgctxt "@action:button Start searching"
+msgid "&Search"
+msgstr "Tìm k&iếm"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:533
+#, kde-format
+msgid "Recursive search"
+msgstr "Tìm kiếm đệ quy"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:538
+#, kde-format
+msgid "Contains"
+msgstr "Chứa"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:539
+#, kde-format
+msgid "Starts With"
+msgstr "Bắt đầu bằng"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:549
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Search in result"
+msgstr "Tìm kiếm trong kết quả"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:580
+#, kde-format
+msgid "Searching..."
+msgstr "Đang tìm kiếm..."
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:584
+#, kde-format
+msgctxt "@action:button"
+msgid "Select All"
+msgstr "Bôi đen tất cả"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:588
+#, kde-format
+msgctxt "@action:button"
+msgid "Unselect All"
+msgstr "Bỏ chọn tất cả"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:595
+#, kde-format
+msgid "Add Selected"
+msgstr "Thêm đã chọn"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:596
+#, kde-format
+msgid "Configure LDAP Servers..."
+msgstr "Cấu hình Máy chủ LDAP..."
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:631
+#, kde-format
+msgid "Copy"
+msgstr "Sao chép"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:755
+#, kde-format
+msgid "You must select an LDAP server before searching."
+msgstr "Bạn phải bôi đen một máy chủ LDAP trước khi tìm kiếm."
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:843
+#, kde-format
+msgctxt "arguments are host name, datetime"
+msgid "Imported from LDAP directory %1 on %2"
+msgstr "Đã nhập từ thư mục LDAP %1 vào %2"
+
+#: pimcommonakonadi/ldap/ldapsearchdialog.cpp:862
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure the Address Book LDAP Settings"
+msgstr "Cấu hình thiết lập LDAP của sổ địa chỉ"
+
+#: pimcommonakonadi/manageserversidesubscription/manageserversidesubscriptionjob.cpp:69
+#, kde-format
+msgid ""
+"IMAP server not configured yet. Please configure the server in the IMAP "
+"account before setting up server-side subscription."
+msgstr ""
+"Máy chủ IMAP chưa được cấu hình. Vui lòng cấu hình máy chủ trong tài khoản "
+"IMAP trước khi thiết lập đăng ký phía máy chủ."
+
+#: pimcommonakonadi/manageserversidesubscription/manageserversidesubscriptionjob.cpp:71
+#, kde-format
+msgid ""
+"Log in failed, please configure the IMAP account before setting up server-"
+"side subscription."
+msgstr ""
+"Đăng nhập không thành công, vui lòng cấu hình tài khoản IMAP trước khi "
+"thiết lập đăng ký phía máy chủ."
+
+#: pimcommonakonadi/util/createresource.cpp:64
+#, kde-format
+msgid "Resource type '%1' is not available."
+msgstr "Kiểu tài nguyên '%1' không khả dụng."
+
+#: pimcommonakonadi/util/createresource.cpp:75
+#, kde-format
+msgid "Resource '%1' is already set up."
+msgstr "Tài nguyên '%1' đã được thiết lập."
+
+#: pimcommonakonadi/util/createresource.cpp:81
+#, kde-format
+msgid "Creating resource instance for '%1'..."
+msgstr "Đang tạo hiện thể tài nguyên cho '%1'..."
+
+#: pimcommonakonadi/util/createresource.cpp:87
+#, kde-format
+msgid "Configuring resource instance..."
+msgstr "Đang cấu hình tài nguyên..."
+
+#: pimcommonakonadi/util/createresource.cpp:90
+#, kde-format
+msgid "Unable to configure resource instance."
+msgstr "Không thể cấu hình thực thể tài nguyên."
+
+#: pimcommonakonadi/util/createresource.cpp:106
+#, kde-format
+msgid "Could not convert value of setting '%1' to required type %2."
+msgstr "Không thể chuyển đổi giá trị của thiết lập '%1' sang kiểu yêu cầu %2."
+
+#: pimcommonakonadi/util/createresource.cpp:111
+#, kde-format
+msgid "Could not set setting '%1': %2"
+msgstr "Không thể đặt thiết lập '%1': %2"
+
+#: pimcommonakonadi/util/createresource.cpp:117
+#, kde-format
+msgid "Could not save settings: %1"
+msgstr "Không thể lưu cài đặt: %1"
+
+#: pimcommonakonadi/util/createresource.cpp:126
+#, kde-format
+msgid "Resource setup completed."
+msgstr "Thiết lập tài nguyên đã hoàn tất."
+
+#: pimcommonakonadi/util/createresource.cpp:130
+#, kde-format
+msgid "Failed to create resource instance: %1"
+msgstr "Không thể tạo thực thể tài nguyên: %1"

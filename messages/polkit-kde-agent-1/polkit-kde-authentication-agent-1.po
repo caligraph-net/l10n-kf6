@@ -74,6 +74,8 @@ msgstr "Một trình khách khác đang xác thực rồi, vui lòng thử lại
 msgctxt "Error response when polkit calls us with an empty list of identities"
 msgid "No user to authenticate as. Please check your system configuration."
 msgstr ""
+"Không có người dùng để xác thực. Vui lòng kiểm tra cấu hình hệ thống của "
+"bạn."
 
 #: qml/MobileQuickAuthDialog.qml:16 qml/MobileQuickAuthDialog.qml:95
 #: qml/QuickAuthDialog.qml:16
@@ -89,18 +91,18 @@ msgstr "Xác thực thất bại, vui lòng thử lại."
 #: qml/MobileQuickAuthDialog.qml:128
 #, kde-format
 msgid "User: %1"
-msgstr ""
+msgstr "Người dùng: %1"
 
 #: qml/MobileQuickAuthDialog.qml:133 qml/QuickAuthDialog.qml:164
 #, kde-format
 msgid "Switch…"
-msgstr ""
+msgstr "Chuyển đổi..."
 
 #: qml/MobileQuickAuthDialog.qml:154 qml/QuickAuthDialog.qml:184
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Password:"
 msgid "Password…"
-msgstr "Mật khẩu:"
+msgstr "Mật khẩu..."
 
 #: qml/MobileQuickAuthDialog.qml:162 qml/QuickAuthDialog.qml:193
 #, kde-format
@@ -110,12 +112,12 @@ msgstr "Chi tiết"
 #: qml/MobileQuickAuthDialog.qml:172 qml/QuickAuthDialog.qml:205
 #, kde-format
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: qml/MobileQuickAuthDialog.qml:178 qml/QuickAuthDialog.qml:211
 #, kde-format
 msgid "Cancel"
-msgstr ""
+msgstr "Huỷ"
 
 #: qml/MobileQuickAuthDialog.qml:188 qml/QuickAuthDialog.qml:223
 #, kde-format
@@ -133,10 +135,10 @@ msgid "Vendor:"
 msgstr "Nhà cung cấp:"
 
 #: qml/QuickAuthDialog.qml:158
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Authentication Required"
 msgid "Authenticating as %1"
-msgstr "Yêu cầu xác thực"
+msgstr "Đang xác thực với %1"
 
 #~ msgid "<null>"
 #~ msgstr "<null>"

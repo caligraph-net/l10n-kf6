@@ -1,0 +1,279 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the sddm-kcm package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sddm-kcm\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-25 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: sddmauthhelper.cpp:397 sddmauthhelper.cpp:419 sddmauthhelper.cpp:426
+msgid "Invalid theme package"
+msgstr "Gói chủ đề không hợp lệ"
+
+#: sddmauthhelper.cpp:403
+msgid "Could not open file"
+msgstr "không thể mở tệp"
+
+#: sddmauthhelper.cpp:434
+msgid "Could not decompress archive"
+msgstr "Không thể giải nén kho trữ"
+
+#: sddmthemeinstaller.cpp:29
+#, kde-format
+msgid "SDDM theme installer"
+msgstr "Trình cài đặt chủ đề SDDM"
+
+#: sddmthemeinstaller.cpp:36
+#, kde-format
+msgid "Install a theme."
+msgstr "Cài đặt một chủ đề."
+
+#: sddmthemeinstaller.cpp:37
+#, kde-format
+msgid "Uninstall a theme."
+msgstr "Gỡ cài đặt một chủ đề."
+
+#: sddmthemeinstaller.cpp:39
+#, kde-format
+msgid "The theme to install, must be an existing archive file."
+msgstr "Chủ đề cần cài đặt phải là một tệp kho trữ hiện có."
+
+#: sddmthemeinstaller.cpp:65
+#, kde-format
+msgid "Unable to install theme"
+msgstr "Không thể cài đặt chủ đề"
+
+#: src/sddmkcm.cpp:155 src/sddmkcm.cpp:293
+msgid ""
+"Cannot proceed, user 'sddm' does not exist. Please check your SDDM install."
+msgstr ""
+"Không thể tiếp tục, người dùng 'sddm' không tồn tại. Vui lòng kiểm tra cài "
+"đặt SDDM của bạn."
+
+#: src/sessionmodel.cpp:84
+#, kde-format
+msgctxt "%1 is the name of a session"
+msgid "%1 (Wayland)"
+msgstr "%1 (Wayland)"
+
+#: src/ui/Advanced.qml:17
+#, kde-format
+msgctxt "@title"
+msgid "Behavior"
+msgstr "Hành vi"
+
+#: src/ui/Advanced.qml:23
+#, kde-format
+msgctxt "option:check"
+msgid "Automatically log in:"
+msgstr "Tự động đăng nhập:"
+
+#: src/ui/Advanced.qml:28
+#, kde-format
+msgctxt ""
+"@label:listbox, the following combobox selects the user to log in "
+"automatically"
+msgid "as user:"
+msgstr "với tư cách người dùng:"
+
+#: src/ui/Advanced.qml:92
+#, kde-format
+msgctxt ""
+"@label:listbox, the following combobox selects the session that is started "
+"automatically"
+msgid "with session"
+msgstr "với phiên"
+
+#: src/ui/Advanced.qml:124
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Auto-login does not support unlocking your KDE Wallet automatically, so it "
+"will ask you to unlock it every time you log in.<nl/><nl/>To avoid this, you "
+"can change the wallet to have a blank password. Note that this is insecure "
+"and should only be done in a trusted environment."
+msgstr ""
+"Tự động đăng nhập không hỗ trợ mở khóa ví KDE của bạn tự động, vì vậy nó sẽ "
+"yêu cầu bạn mở khóa nó mỗi khi bạn đăng nhập.<nl/><nl/>Để tránh điều này, "
+"bạn có thể thay đổi ví để có mật khẩu trống. Lưu ý rằng điều này không an "
+"toàn và chỉ nên được thực hiện trong môi trường đáng tin cậy."
+
+#: src/ui/Advanced.qml:129
+#, kde-format
+msgid "Open KDE Wallet Settings"
+msgstr "Mở Thiết lập Ví KDE"
+
+#: src/ui/Advanced.qml:135
+#, kde-format
+msgctxt "@option:check"
+msgid "Log in again immediately after logging off"
+msgstr "Đăng nhập lại ngay sau khi đăng xuất"
+
+#: src/ui/Advanced.qml:148
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Minimum user UID:"
+msgstr "Số UID người dùng tối thiểu:"
+
+#: src/ui/Advanced.qml:160
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Maximum user UID:"
+msgstr "Số UID người dùng tối đa:"
+
+#: src/ui/Advanced.qml:175
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Halt Command:"
+msgstr "Lệnh dừng:"
+
+#: src/ui/Advanced.qml:208
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Reboot Command:"
+msgstr "Lệnh khởi động lại:"
+
+#: src/ui/DetailsDialog.qml:26
+#, kde-format
+msgctxt "@title:window, %1 is the theme name, %2 the version"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: src/ui/DetailsDialog.qml:57
+#, kde-format
+msgid "No preview available"
+msgstr "Không có xem thử hiện có"
+
+#: src/ui/DetailsDialog.qml:60
+#, kde-format
+msgctxt ""
+"%1 is a description of the theme, %2 are the authors, %3 is the license"
+msgid "%1, by %2 (%3)"
+msgstr "%1, bởi %2 (%3)"
+
+#: src/ui/main.qml:24
+#, kde-format
+msgctxt "@action:button"
+msgid "Behavior…"
+msgstr "Hành vi..."
+
+#: src/ui/main.qml:29
+#, kde-format
+msgctxt "@action:button"
+msgid "Apply Plasma Settings…"
+msgstr "Áp dụng cài đặt Plasma..."
+
+#: src/ui/main.qml:34
+#, kde-format
+msgctxt "@action:button"
+msgid "Install From File…"
+msgstr "Cài đặt từ Tệp..."
+
+#: src/ui/main.qml:39
+#, kde-format
+msgctxt "@action:button as in, \"get new SDDM themes\""
+msgid "Get New…"
+msgstr "Nhận mới..."
+
+#: src/ui/main.qml:92
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "View details"
+msgstr "Xem chi tiết"
+
+#: src/ui/main.qml:107
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Change Background"
+msgstr "Thay đổi nền"
+
+#: src/ui/main.qml:116
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Delete"
+msgstr "Xóa"
+
+#: src/ui/main.qml:136
+#, kde-format
+msgctxt "@title:window"
+msgid "Apply Plasma Settings"
+msgstr "Áp dụng Thiết lập Plasma"
+
+#: src/ui/main.qml:142
+#, kde-format
+msgid ""
+"This will make the SDDM login screen reflect your customizations to the "
+"following Plasma settings:"
+msgstr ""
+"Điều này sẽ khiến màn hình đăng nhập SDDM phản ánh các tùy chỉnh của bạn "
+"đối với các cài đặt Plasma sau:"
+
+#: src/ui/main.qml:143
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para><list><item>Color scheme,</item><item>Cursor theme,</item><item>Cursor "
+"size,</item><item>Font,</item><item>Font rendering,</item><item>NumLock "
+"preference,</item><item>Plasma theme,</item><item>Scaling DPI,</"
+"item><item>Screen configuration (Wayland only)</item></list></para>"
+msgstr ""
+"<para><list><item>Bảng màu,</item><item>Chủ đề con trỏ,</item><item>Kích "
+"thước con trỏ,</item><item>Phông chữ,</item><item>Kết xuất phông "
+"chữ,</item><item>Tùy chọn NumLock,</item><item>Chủ đề "
+"Plasma,</item><item>Tỉ lệ DPI,</item><item>Cấu hình màn hình (chỉ "
+"Wayland)</item></list></para>"
+
+#: src/ui/main.qml:144
+#, kde-format
+msgid ""
+"Please note that theme files must be installed globally to be reflected on "
+"the SDDM login screen."
+msgstr ""
+"Vui lòng lưu ý rằng các tệp chủ đề phải được cài đặt toàn cục để được phản "
+"ánh trên màn hình đăng nhập SDDM."
+
+#: src/ui/main.qml:153
+#, kde-format
+msgctxt "@action:button"
+msgid "Apply"
+msgstr "Áp dụng"
+
+#: src/ui/main.qml:158
+#, kde-format
+msgctxt "@action:button"
+msgid "Reset to Default Settings"
+msgstr "Đặt lại về Thiết lập Mặc định"
+
+#: src/ui/main.qml:168
+#, kde-format
+msgctxt "@title:window"
+msgid "Change Background"
+msgstr "Thay đổi nền"
+
+#: src/ui/main.qml:177
+#, kde-format
+msgid "No image selected"
+msgstr "Không có ảnh được chọn"
+
+#: src/ui/main.qml:205
+#, kde-format
+msgctxt "@action:button"
+msgid "Load From File…"
+msgstr "Tải Từ Tệp..."
+
+#: src/ui/main.qml:210
+#, kde-format
+msgctxt "@action:button"
+msgid "Clear Image"
+msgstr "Làm trống ảnh"

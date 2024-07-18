@@ -1,0 +1,173 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdeconnect-kde package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeconnect-kde\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-25 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: kcm.cpp:183
+#, kde-format
+msgid "Key: %1"
+msgstr "Khóa: %1"
+
+#: kcm.cpp:206
+#, kde-format
+msgid "Available plugins"
+msgstr "Các plugin hiện có"
+
+#: kcm.cpp:253
+#, kde-format
+msgid "Error trying to pair: %1"
+msgstr "Lỗi khi cố gắng ghép đôi: %1"
+
+#: kcm.cpp:269
+#, kde-format
+msgid "(paired)"
+msgstr "(đôi)"
+
+#: kcm.cpp:272
+#, kde-format
+msgid "(not paired)"
+msgstr "(không ghép đôi)"
+
+#: kcm.cpp:275
+#, kde-format
+msgid "(incoming pair request)"
+msgstr "(yêu cầu cặp đến)"
+
+#: kcm.cpp:278
+#, kde-format
+msgid "(pairing requested)"
+msgstr "(yêu cầu ghép đôi)"
+
+#. i18n: ectx: property (text), widget (QLabel, rename_label)
+#: kcm.ui:59
+#, kde-format
+msgid "KDE Connect"
+msgstr "KDE Connect"
+
+#. i18n: ectx: property (text), widget (QToolButton, renameShow_button)
+#: kcm.ui:82
+#, kde-format
+msgid "Edit"
+msgstr "Sửa"
+
+#. i18n: ectx: property (text), widget (QToolButton, renameDone_button)
+#: kcm.ui:104
+#, kde-format
+msgid "Save"
+msgstr "Lưu"
+
+#. i18n: ectx: property (text), widget (QPushButton, refresh_button)
+#: kcm.ui:120
+#, kde-format
+msgid "Refresh"
+msgstr "Cập nhật"
+
+#. i18n: ectx: property (text), widget (QLabel, name_label)
+#: kcm.ui:193
+#, kde-format
+msgid "Device"
+msgstr "Thiết bị"
+
+#. i18n: ectx: property (text), widget (QLabel, status_label)
+#: kcm.ui:209
+#, kde-format
+msgid "(status)"
+msgstr "(trạng thái)"
+
+#. i18n: ectx: property (text), widget (KSqueezedTextLabel, verificationKey)
+#: kcm.ui:232
+#, kde-format
+msgid "🔑 abababab"
+msgstr "🔑 abababab"
+
+#. i18n: ectx: property (text), widget (QPushButton, cancel_button)
+#: kcm.ui:263
+#, kde-format
+msgid "Cancel"
+msgstr "Huỷ"
+
+#. i18n: ectx: property (text), widget (QPushButton, accept_button)
+#: kcm.ui:289
+#, kde-format
+msgid "Accept"
+msgstr "Chấp nhận"
+
+#. i18n: ectx: property (text), widget (QPushButton, reject_button)
+#: kcm.ui:296
+#, kde-format
+msgid "Reject"
+msgstr "Từ chối"
+
+#. i18n: ectx: property (text), widget (QPushButton, pair_button)
+#: kcm.ui:309
+#, kde-format
+msgid "Request pair"
+msgstr "Yêu cầu cặp"
+
+#. i18n: ectx: property (text), widget (QPushButton, unpair_button)
+#: kcm.ui:322
+#, kde-format
+msgid "Unpair"
+msgstr "Hủy ghép"
+
+#. i18n: ectx: property (text), widget (QPushButton, ping_button)
+#: kcm.ui:335
+#, kde-format
+msgid "Send ping"
+msgstr "Gửi ping"
+
+#. i18n: ectx: property (text), widget (QLabel, noDeviceLinks)
+#: kcm.ui:373
+#, kde-format
+msgid ""
+"<html><head/><body><p>No device selected.<br><br>If you own an Android "
+"device, make sure to install the <a href=\"https://play.google.com/store/"
+"apps/details?id=org.kde.kdeconnect_tp\"><span style=\" text-decoration: "
+"underline;\">KDE Connect Android app</span></a> (also available <a href="
+"\"https://f-droid.org/repository/browse/?fdid=org.kde.kdeconnect_tp\"><span "
+"style=\" text-decoration: underline;\">from F-Droid</span></a>) and it "
+"should appear in the list. If you have an iPhone, make sure to install the "
+"<a href=\"https://apps.apple.com/us/app/kde-connect/id1580245991\"><span "
+"style=\" text-decoration: underline;\">KDE Connect iOS app</span></a> "
+"<br><br>If you are having problems, visit the <a href=\"https://userbase.kde."
+"org/KDEConnect\"><span style=\" text-decoration: underline;\">KDE Connect "
+"Community wiki</span></a> for help.</p></body></html>"
+msgstr ""
+"<html><head/><body><p>Chưa chọn thiết bị nào.<br><br>Nếu bạn có thiết bị "
+"Android, hãy đảm bảo cài đặt <a "
+"href=\"https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp\"><span "
+"style=\" text-decoration: underline;\">ứng dụng KDE Connect cho "
+"Android</span></a> (cũng có sẵn <a "
+"href=\"https://f-droid.org/repository/browse/?fdid=org.kde.kdeconnect_tp\"><span "
+"style=\" text-decoration: underline;\">từ F-Droid</span></a>) và nó sẽ xuất "
+"hiện trong danh sách. Nếu bạn có iPhone, hãy đảm bảo cài đặt <a "
+"href=\"https://apps.apple.com/us/app/kde-connect/id1580245991\"><span "
+"style=\" text-decoration: underline;\">ứng dụng KDE Connect cho "
+"iOS</span></a> <br><br>Nếu bạn gặp vấn đề, hãy xem <a "
+"href=\"https://userbase.kde.org/KDEConnect\"><span style=\" "
+"text-decoration: underline;\">wiki Cộng đồng KDE Connect</span></a> để được "
+"trợ giúp.</p></body></html>"

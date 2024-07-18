@@ -1,0 +1,190 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the ktextaddons package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ktextaddons\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-05 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: plaintexteditor/plaintexteditfindbar.cpp:120
+#: richtexteditor/richtexteditfindbar.cpp:120
+#, kde-format
+msgid "%1 replacement made"
+msgid_plural "%1 replacements made"
+msgstr[0] "Đã thực hiện %1 lần thay thế"
+
+#: plaintexteditor/plaintexteditor.cpp:166
+#: richtexteditor/richtexteditor.cpp:227
+#, kde-format
+msgid "Check Spelling…"
+msgstr "Kiểm tra chính tả..."
+
+#: plaintexteditor/plaintexteditor.cpp:171
+#: richtexteditor/richtexteditor.cpp:234
+#, kde-format
+msgid "Auto Spell Check"
+msgstr "Tự động kiểm tra chính tả"
+
+#: plaintexteditor/plaintexteditor.cpp:177
+#: richtexteditor/richtexteditor.cpp:240
+#, kde-format
+msgid "Spell Checking Language"
+msgstr "Ngôn ngữ kiểm tra chính tả"
+
+#: plaintexteditor/plaintexteditor.cpp:205
+#: richtextbrowser/richtextbrowser.cpp:165
+#: richtexteditor/richtexteditor.cpp:273
+#, kde-format
+msgid "Speak Text"
+msgstr "Đọc văn bản"
+
+#: plaintexteditor/plaintexteditor.cpp:384
+#: richtexteditor/richtexteditor.cpp:491
+#, kde-format
+msgid "Nothing to spell check."
+msgstr "Không có gì để kiểm tra chính tả."
+
+#: plaintexteditor/plaintexteditor.cpp:389
+#: richtexteditor/richtexteditor.cpp:509
+#, kde-format
+msgid "No backend available for spell checking."
+msgstr "Không có hậu phương nào khả dụng để kiểm tra chính tả."
+
+#: richtexteditor/richtexteditor.cpp:266
+#, kde-format
+msgid "Allow Tabulations"
+msgstr "Cho phép tab"
+
+#: richtexteditor/richtexteditor.cpp:501
+#, kde-format
+msgid ""
+"No backend available for spell checking. Do you want to send the email "
+"anyways?"
+msgstr ""
+"Không có hậu phương nào khả dụng để kiểm tra chính tả. Bạn có muốn gửi thư "
+"điện tử không?"
+
+#: richtexteditor/richtexteditor.cpp:503
+#, kde-format
+msgctxt "@action:button"
+msgid "Send"
+msgstr "Gửi"
+
+#: richtexteditor/richtexteditor.cpp:525
+#, kde-format
+msgid "Skip"
+msgstr "Bỏ qua"
+
+#: widgets/texteditfindbarbase.cpp:36 widgets/texteditfindbarbase.cpp:39
+#: widgets/textgotolinewidget.cpp:39 widgets/textgotolinewidget.cpp:42
+#, kde-format
+msgid "Close"
+msgstr "Đóng"
+
+#: widgets/texteditfindbarbase.cpp:142
+#, kde-format
+msgid ""
+"End of message reached.\n"
+"Phrase '%1' could not be found."
+msgstr "Đã đến cuối thông điệp.\nCụm từ '%1' không thể tìm thấy."
+
+#: widgets/textfindreplacewidget.cpp:26
+#, kde-format
+msgid "Replace"
+msgstr "Thay thế"
+
+#: widgets/textfindreplacewidget.cpp:27
+#, kde-format
+msgid "Replace All"
+msgstr "Thay thế tất cả"
+
+#: widgets/textfindreplacewidget.cpp:30
+#, kde-format
+msgctxt "Replace text"
+msgid "Replace:"
+msgstr "Thay thế:"
+
+#: widgets/textfindreplacewidget.cpp:66
+#, kde-format
+msgctxt "Find and go to the previous search match"
+msgid "Previous"
+msgstr "Trước"
+
+#: widgets/textfindreplacewidget.cpp:67
+#, kde-format
+msgctxt "Find and go to the next search match"
+msgid "Next"
+msgstr "Tiếp"
+
+#: widgets/textfindreplacewidget.cpp:73
+#, kde-format
+msgctxt "Find text"
+msgid "F&ind:"
+msgstr "Tì&m:"
+
+#: widgets/textfindreplacewidget.cpp:76
+#, kde-format
+msgid "Text to search for"
+msgstr "Tìm kiếm văn bản"
+
+#: widgets/textfindreplacewidget.cpp:82
+#, kde-format
+msgid "Jump to next match"
+msgstr "Nhảy đến kết quả khớp tiếp theo"
+
+#: widgets/textfindreplacewidget.cpp:87
+#, kde-format
+msgid "Jump to previous match"
+msgstr "Nhảy đến kết quả trước"
+
+#: widgets/textfindreplacewidget.cpp:93
+#, kde-format
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: widgets/textfindreplacewidget.cpp:94
+#, kde-format
+msgid "Modify search behavior"
+msgstr "Chỉnh sửa ứng xử tìm kiếm"
+
+#: widgets/textfindreplacewidget.cpp:97
+#, kde-format
+msgid "Case sensitive"
+msgstr "Phân biệt chữ hoa chữ thường"
+
+#: widgets/textfindreplacewidget.cpp:100
+#, kde-format
+msgid "Whole word"
+msgstr "Toàn bộ từ"
+
+#: widgets/textfindreplacewidget.cpp:103
+#, kde-format
+msgid "Regular Expression"
+msgstr "Biểu thức chính quy"
+
+#: widgets/textfindreplacewidget.cpp:106
+#, kde-format
+msgid "Respect Diacritic and Accents"
+msgstr "Tôn trọng dấu và trọng âm"
+
+#: widgets/textgotolinewidget.cpp:49
+#, kde-format
+msgid "Go to Line:"
+msgstr "Đi đến dòng:"
+
+#: widgets/textgotolinewidget.cpp:56
+#, kde-format
+msgid "Go"
+msgstr "Đi"

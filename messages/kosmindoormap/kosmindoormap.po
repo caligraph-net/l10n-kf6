@@ -1,0 +1,2231 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kosmindoormap package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kosmindoormap\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-01 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: app/main.cpp:68
+#, kde-format
+msgid "KDE OSM Indoor Map"
+msgstr "Bản đồ trong nhà OSM của KDE"
+
+#: map-quick/amenitymodel.cpp:89
+#, kde-format
+msgctxt "amenity category"
+msgid "Food & Drinks"
+msgstr "Thức ăn và Đồ uống"
+
+#: map-quick/amenitymodel.cpp:91
+#, kde-format
+msgctxt "amenity category"
+msgid "Shops"
+msgstr "Cửa hàng"
+
+#: map-quick/amenitymodel.cpp:93
+#, kde-format
+msgctxt "amenity category"
+msgid "Toilets"
+msgstr "Nhà vệ sinh"
+
+#: map-quick/amenitymodel.cpp:95
+#, kde-format
+msgctxt "amenity category"
+msgid "Healthcare"
+msgstr "Chăm sóc sức khỏe"
+
+#: map-quick/amenitymodel.cpp:97
+#, kde-format
+msgctxt "amenity category"
+msgid "Amenities"
+msgstr "Tiện ích"
+
+#: map-quick/amenitymodel.cpp:99
+#, kde-format
+msgctxt "amenity category"
+msgid "Accommodations"
+msgstr "Chỗ ở"
+
+#: map-quick/floorlevelchangemodel.cpp:224
+#, kde-format
+msgid "Elevator"
+msgstr "Thang máy"
+
+#: map-quick/floorlevelchangemodel.cpp:231
+#, kde-format
+msgid "Staircase"
+msgstr "Cầu thang"
+
+#: map-quick/localization_data.cpp:20
+msgctxt "OSM::amenity/shop"
+msgid "Alcohol"
+msgstr "Rượu"
+
+#: map-quick/localization_data.cpp:21
+msgctxt "OSM::shop"
+msgid "Antiques"
+msgstr "Đồ cổ"
+
+#: map-quick/localization_data.cpp:22
+msgctxt "OSM::amenity/shop"
+msgid "Apartment"
+msgstr "Căn hộ"
+
+#: map-quick/localization_data.cpp:23
+msgctxt "OSM::tourism"
+msgid "Aquarium"
+msgstr "Thủy cung"
+
+#: map-quick/localization_data.cpp:24
+msgctxt "OSM::historic"
+msgid "Archaeological Site"
+msgstr "Di tích khảo cổ"
+
+#: map-quick/localization_data.cpp:25
+msgctxt "OSM::shop"
+msgid "Art"
+msgstr "Nghệ thuật"
+
+#: map-quick/localization_data.cpp:26
+msgctxt "OSM::amenity/shop"
+msgid "Arts Center"
+msgstr "Trung tâm Nghệ thuật"
+
+#: map-quick/localization_data.cpp:27
+msgctxt "OSM::amenity/shop"
+msgid "Artwork"
+msgstr "Nghệ thuật"
+
+#: map-quick/localization_data.cpp:28
+msgctxt "OSM::amenity/shop"
+msgid "ATM"
+msgstr "ATM"
+
+#: map-quick/localization_data.cpp:29
+msgctxt "OSM::amenity/shop"
+msgid "Attraction"
+msgstr "Điểm thu hút"
+
+#: map-quick/localization_data.cpp:30
+msgctxt "OSM::room"
+msgid "Auditorium"
+msgstr "Phòng hội trường"
+
+#: map-quick/localization_data.cpp:31
+msgctxt "OSM::shop"
+msgid "Baby Goods"
+msgstr "Hàng hóa trẻ em"
+
+#: map-quick/localization_data.cpp:32
+msgctxt "OSM::amenity/shop"
+msgid "Bag"
+msgstr "Túi"
+
+#: map-quick/localization_data.cpp:33
+msgctxt "OSM::amenity"
+msgid "Baggage Claim"
+msgstr "Nhận hành lý"
+
+#: map-quick/localization_data.cpp:34
+msgctxt "OSM::amenity/shop"
+msgid "Bakery"
+msgstr "Tiệm bánh"
+
+#: map-quick/localization_data.cpp:35
+msgctxt "OSM::amenity/shop"
+msgid "Bank"
+msgstr "Ngân hàng"
+
+#: map-quick/localization_data.cpp:36
+msgctxt "OSM::amenity/shop"
+msgid "Bar"
+msgstr "Quán bar"
+
+#: map-quick/localization_data.cpp:37
+msgctxt "OSM::amenity/shop"
+msgid "Beauty"
+msgstr "Làm đẹp"
+
+#: map-quick/localization_data.cpp:38
+msgctxt "OSM::amenity/shop"
+msgid "Bed"
+msgstr "Giường"
+
+#: map-quick/localization_data.cpp:39
+msgctxt "OSM::amenity"
+msgid "Bench"
+msgstr "Ghế"
+
+#: map-quick/localization_data.cpp:40
+msgctxt "OSM::amenity/shop"
+msgid "Beverages"
+msgstr "Đồ uống"
+
+#: map-quick/localization_data.cpp:41
+msgctxt "OSM::amenity/shop"
+msgid "Bicycle"
+msgstr "Xe đạp"
+
+#: map-quick/localization_data.cpp:42
+msgctxt "OSM::amenity/shop"
+msgid "Bicycle Parking"
+msgstr "Bãi đỗ xe đạp"
+
+#: map-quick/localization_data.cpp:43
+msgctxt "OSM::amenity/shop"
+msgid "Bicycle Rental"
+msgstr "Cho thuê xe đạp"
+
+#: map-quick/localization_data.cpp:44
+msgctxt "OSM::amenity"
+msgid "Bicycle Repair Station"
+msgstr "Trạm sửa chữa xe đạp"
+
+#: map-quick/localization_data.cpp:45
+msgctxt "OSM::amenity"
+msgid "Beer Garden"
+msgstr "Vườn bia"
+
+#: map-quick/localization_data.cpp:46
+msgctxt "OSM::amenity/shop"
+msgid "Books"
+msgstr "Sách"
+
+#: map-quick/localization_data.cpp:47
+msgctxt "OSM::amenity/shop"
+msgid "Boutique"
+msgstr "Cửa hàng"
+
+#: map-quick/localization_data.cpp:48
+msgctxt "OSM::leisure"
+msgid "Bowling Alley"
+msgstr "Sân Bowling"
+
+#: map-quick/localization_data.cpp:49
+msgctxt "OSM::amenity/shop"
+msgid "Bureau de Change"
+msgstr "Sàn giao dịch ngoại hối"
+
+#: map-quick/localization_data.cpp:50
+msgctxt "OSM::amenity/shop"
+msgid "Butcher"
+msgstr "Thịt"
+
+#: map-quick/localization_data.cpp:51
+msgctxt "OSM::amenity/shop"
+msgid "Cafe"
+msgstr "Quán cà phê"
+
+#: map-quick/localization_data.cpp:52
+msgctxt "OSM::amenity/shop"
+msgid "Car"
+msgstr "Xe ô tô"
+
+#: map-quick/localization_data.cpp:53
+msgctxt "OSM::amenity/shop"
+msgid "Car Rental"
+msgstr "Cho thuê xe"
+
+#: map-quick/localization_data.cpp:54
+msgctxt "OSM::shop"
+msgid "Car Repair"
+msgstr "Sửa chữa ô tô"
+
+#: map-quick/localization_data.cpp:55
+msgctxt "OSM::amenity/shop"
+msgid "Car Sharing"
+msgstr "Chia sẻ xe"
+
+#: map-quick/localization_data.cpp:56
+msgctxt "OSM::amenity"
+msgid "Car Wash"
+msgstr "Rửa xe"
+
+#: map-quick/localization_data.cpp:57
+msgctxt "OSM::historic"
+msgid "Castle"
+msgstr "Lâu đài"
+
+#: map-quick/localization_data.cpp:58
+msgctxt "OSM::amenity/shop"
+msgid "Charging Station"
+msgstr "Trạm sạc"
+
+#: map-quick/localization_data.cpp:59
+msgctxt "OSM::shop"
+msgid "Charity Shop"
+msgstr "Cửa hàng từ thiện"
+
+#: map-quick/localization_data.cpp:60
+msgctxt "OSM::shop"
+msgid "Cheese"
+msgstr "Phô mai"
+
+#: map-quick/localization_data.cpp:61
+msgctxt "OSM::amenity/shop"
+msgid "Chemist"
+msgstr "Nhà thuốc"
+
+#: map-quick/localization_data.cpp:62
+msgctxt "OSM::amenity/shop"
+msgid "Chocolate"
+msgstr "Chocolate"
+
+#: map-quick/localization_data.cpp:63
+msgctxt "OSM::amenity/shop"
+msgid "Cinema"
+msgstr "Rạp chiếu phim"
+
+#: map-quick/localization_data.cpp:64
+msgctxt "OSM::historic"
+msgid "Citywall"
+msgstr "Thành cổ"
+
+#: map-quick/localization_data.cpp:65 map-quick/localization_data.cpp:66
+msgctxt "OSM::room"
+msgid "Classroom"
+msgstr "Phòng học"
+
+#: map-quick/localization_data.cpp:67
+msgctxt "OSM::healthcare"
+msgid "Clinic"
+msgstr "Phòng khám"
+
+#: map-quick/localization_data.cpp:68
+msgctxt "OSM::amenity/shop"
+msgid "Clothes"
+msgstr "Quần áo"
+
+#: map-quick/localization_data.cpp:69
+msgctxt "OSM::amenity/shop"
+msgid "Coffee"
+msgstr "Cà phê"
+
+#: map-quick/localization_data.cpp:70
+msgctxt "OSM::amenity"
+msgid "Community Center"
+msgstr "Trung tâm cộng đồng"
+
+#: map-quick/localization_data.cpp:71
+msgctxt "OSM::amenity/shop"
+msgid "Computer"
+msgstr "Máy tính"
+
+#: map-quick/localization_data.cpp:72
+msgctxt "OSM::room"
+msgid "Computer Lab"
+msgstr "Phòng máy tính"
+
+#: map-quick/localization_data.cpp:73
+msgctxt "OSM::amenity/shop"
+msgid "Confectionery"
+msgstr "Tiệm bánh kẹo"
+
+#: map-quick/localization_data.cpp:74
+msgctxt "OSM::room"
+msgid "Conference Room"
+msgstr "Phòng họp"
+
+#: map-quick/localization_data.cpp:75
+msgctxt "OSM::amenity"
+msgid "Conference Center"
+msgstr "Trung tâm Hội nghị"
+
+#: map-quick/localization_data.cpp:76
+msgctxt "OSM::diplomatic"
+msgid "Consulate"
+msgstr "Lãnh sự quán"
+
+#: map-quick/localization_data.cpp:77
+msgctxt "OSM::amenity/shop"
+msgid "Convenience Store"
+msgstr "Cửa hàng tiện lợi"
+
+#: map-quick/localization_data.cpp:78
+msgctxt "OSM::amenity/shop"
+msgid "Copy Shop"
+msgstr "Cửa hàng sao chép"
+
+#: map-quick/localization_data.cpp:79
+msgctxt "OSM::amenity/shop"
+msgid "Cosmetics"
+msgstr "Mỹ phẩm"
+
+#: map-quick/localization_data.cpp:80
+msgctxt "OSM::amenity/shop"
+msgid "Court House"
+msgstr "Tòa án"
+
+#: map-quick/localization_data.cpp:81 map-quick/localization_data.cpp:82
+msgctxt "OSM::amenity"
+msgid "Coworking Space"
+msgstr "Không gian làm việc chung"
+
+#: map-quick/localization_data.cpp:83
+msgctxt "OSM::shop"
+msgid "Art and Craft Supplies"
+msgstr "Đồ dùng nghệ thuật và thủ công"
+
+#: map-quick/localization_data.cpp:84
+msgctxt "OSM::shop"
+msgid "Curtains"
+msgstr "Rèm cửa"
+
+#: map-quick/localization_data.cpp:85
+msgctxt "OSM::amenity/shop"
+msgid "Deli"
+msgstr "Cửa hàng thực phẩm"
+
+#: map-quick/localization_data.cpp:86
+msgctxt "OSM::healthcare"
+msgid "Dentist"
+msgstr "Nha sĩ"
+
+#: map-quick/localization_data.cpp:87
+msgctxt "OSM::amenity/shop"
+msgid "Department Store"
+msgstr "Cửa hàng bách hóa"
+
+#: map-quick/localization_data.cpp:88 map-quick/localization_data.cpp:89
+msgctxt "OSM::healthcare"
+msgid "Doctor"
+msgstr "Bác sĩ"
+
+#: map-quick/localization_data.cpp:90
+msgctxt "OSM::amenity/shop"
+msgid "Hardware Store"
+msgstr "Cửa hàng vật liệu"
+
+#: map-quick/localization_data.cpp:91
+msgctxt "OSM::amenity/shop"
+msgid "Drinking Water"
+msgstr "Nước uống"
+
+#: map-quick/localization_data.cpp:92
+msgctxt "OSM::vending"
+msgid "Drinks"
+msgstr "Đồ uống"
+
+#: map-quick/localization_data.cpp:93
+msgctxt "OSM::amenity/shop"
+msgid "Dry Cleaning"
+msgstr "Giặt khô"
+
+#: map-quick/localization_data.cpp:94
+msgctxt "OSM::shop"
+msgid "Electrical"
+msgstr "Điện"
+
+#: map-quick/localization_data.cpp:95
+msgctxt "OSM::amenity/shop"
+msgid "Electronics"
+msgstr "Điện tử"
+
+#: map-quick/localization_data.cpp:96
+msgctxt "OSM::diplomatic"
+msgid "Embassy"
+msgstr "Đại sứ quán"
+
+#: map-quick/localization_data.cpp:97
+msgctxt "OSM::amenity"
+msgid "Events Venue"
+msgstr "Địa điểm sự kiện"
+
+#: map-quick/localization_data.cpp:98
+msgctxt "OSM::amenity"
+msgid "Exhibition Hall"
+msgstr "Trung tâm triển lãm"
+
+#: map-quick/localization_data.cpp:99
+msgctxt "OSM::shop"
+msgid "Fabric"
+msgstr "Vải"
+
+#: map-quick/localization_data.cpp:100
+msgctxt "OSM::amenity/shop"
+msgid "Fashion"
+msgstr "Thời trang"
+
+#: map-quick/localization_data.cpp:101
+msgctxt "OSM::shop"
+msgid "Fashion Accessories"
+msgstr "Phụ kiện thời trang"
+
+#: map-quick/localization_data.cpp:102
+msgctxt "OSM::amenity/shop"
+msgid "Fast Food"
+msgstr "Đồ ăn nhanh"
+
+#: map-quick/localization_data.cpp:103
+msgctxt "OSM::amenity/shop"
+msgid "Ferry Terminal"
+msgstr "Bến phà"
+
+#: map-quick/localization_data.cpp:104
+msgctxt "OSM::amenity"
+msgid "Fire Station"
+msgstr "Trạm Cứu Hỏa"
+
+#: map-quick/localization_data.cpp:105
+msgctxt "OSM::leisure"
+msgid "Fitness Center"
+msgstr "Trung tâm Thể dục"
+
+#: map-quick/localization_data.cpp:106
+msgctxt "OSM::leisure"
+msgid "Fitness Station"
+msgstr "Trạm Thể Dục"
+
+#: map-quick/localization_data.cpp:107
+msgctxt "OSM::amenity/shop"
+msgid "Florist"
+msgstr "Cửa hàng hoa"
+
+#: map-quick/localization_data.cpp:108
+msgctxt "OSM::shop"
+msgid "Food"
+msgstr "Thực phẩm"
+
+#: map-quick/localization_data.cpp:109
+msgctxt "OSM::amenity/shop"
+msgid "Food Court"
+msgstr "Khu ăn uống"
+
+#: map-quick/localization_data.cpp:110
+msgctxt "OSM::amenity/shop"
+msgid "Fountain"
+msgstr "Đài phun nước"
+
+#: map-quick/localization_data.cpp:111
+msgctxt "OSM::amenity"
+msgid "Gas Station"
+msgstr "Trạm xăng"
+
+#: map-quick/localization_data.cpp:112
+msgctxt "OSM::amenity/shop"
+msgid "Furniture"
+msgstr "Đồ nội thất"
+
+#: map-quick/localization_data.cpp:113
+msgctxt "OSM::amenity/shop"
+msgid "Gallery"
+msgstr "Phòng trưng bày"
+
+#: map-quick/localization_data.cpp:114
+msgctxt "OSM::shop"
+msgid "Games"
+msgstr "Trò chơi"
+
+#: map-quick/localization_data.cpp:115
+msgctxt "OSM::amenity/shop"
+msgid "Garden"
+msgstr "Vườn"
+
+#: map-quick/localization_data.cpp:116
+msgctxt "OSM::amenity/shop"
+msgid "Garden Center"
+msgstr "Trung tâm Vườn"
+
+#: map-quick/localization_data.cpp:117
+msgctxt "OSM::amenity/shop"
+msgid "Gift Shop"
+msgstr "Cửa hàng quà tặng"
+
+#: map-quick/localization_data.cpp:118
+msgctxt "OSM::leisure"
+msgid "Golf Course"
+msgstr "Sân golf"
+
+#: map-quick/localization_data.cpp:119
+msgctxt "OSM::office"
+msgid "Government"
+msgstr "Chính phủ"
+
+#: map-quick/localization_data.cpp:120
+msgctxt "OSM::amenity/shop"
+msgid "Greengrocer"
+msgstr "Cửa hàng rau quả"
+
+#: map-quick/localization_data.cpp:121
+msgctxt "OSM::amenity/shop"
+msgid "Guest House"
+msgstr "Nhà khách"
+
+#: map-quick/localization_data.cpp:122
+msgctxt "OSM::amenity/shop"
+msgid "Hairdresser"
+msgstr "Tiệm cắt tóc"
+
+#: map-quick/localization_data.cpp:123
+msgctxt "OSM::shop"
+msgid "Hardware"
+msgstr "Phần cứng"
+
+#: map-quick/localization_data.cpp:124
+msgctxt "OSM::shop"
+msgid "Health Food"
+msgstr "Thực phẩm sức khỏe"
+
+#: map-quick/localization_data.cpp:125
+msgctxt "OSM::amenity/shop"
+msgid "Hearing Aids"
+msgstr "Trợ thính"
+
+#: map-quick/localization_data.cpp:126
+msgctxt "OSM::shop"
+msgid "Hi-fi"
+msgstr "Âm thanh cao cấp"
+
+#: map-quick/localization_data.cpp:127
+msgctxt "OSM::amenity/shop"
+msgid "Hospital"
+msgstr "Bệnh viện"
+
+#: map-quick/localization_data.cpp:128
+msgctxt "OSM::amenity/shop"
+msgid "Hostel"
+msgstr "Nhà nghỉ"
+
+#: map-quick/localization_data.cpp:129
+msgctxt "OSM::amenity/shop"
+msgid "Hotel"
+msgstr "Khách sạn"
+
+#: map-quick/localization_data.cpp:130
+msgctxt "OSM::amenity/shop"
+msgid "Houseware"
+msgstr "Đồ gia dụng"
+
+#: map-quick/localization_data.cpp:131
+msgctxt "OSM::amenity/shop"
+msgid "Ice Cream"
+msgstr "Kem"
+
+#: map-quick/localization_data.cpp:132
+msgctxt "OSM::amenity/shop"
+msgid "Information"
+msgstr "Thông tin"
+
+#: map-quick/localization_data.cpp:133
+msgctxt "OSM::amenity/shop"
+msgid "Interior Decoration"
+msgstr "Trang trí nội thất"
+
+#: map-quick/localization_data.cpp:134
+msgctxt "OSM::amenity/shop"
+msgid "Internet Cafe"
+msgstr "Quán Internet"
+
+#: map-quick/localization_data.cpp:135
+msgctxt "OSM::amenity/shop"
+msgid "Jewelry"
+msgstr "Trang sức"
+
+#: map-quick/localization_data.cpp:136
+msgctxt "OSM::amenity/shop"
+msgid "Kiosk"
+msgstr "Quầy"
+
+#: map-quick/localization_data.cpp:137
+msgctxt "OSM::room"
+msgid "Kitchen"
+msgstr "Nhà bếp"
+
+#: map-quick/localization_data.cpp:138
+msgctxt "OSM::room"
+msgid "Laboratory"
+msgstr "Phòng thí nghiệm"
+
+#: map-quick/localization_data.cpp:139
+msgctxt "OSM::amenity/shop"
+msgid "Laundry"
+msgstr "Giặt là"
+
+#: map-quick/localization_data.cpp:140 map-quick/localization_data.cpp:141
+msgctxt "OSM::room"
+msgid "Lecture Hall"
+msgstr "Phòng học"
+
+#: map-quick/localization_data.cpp:142
+msgctxt "OSM::amenity/shop"
+msgid "Library"
+msgstr "Thư viện"
+
+#: map-quick/localization_data.cpp:143 map-quick/localization_data.cpp:144
+#: map-quick/localization_data.cpp:149
+msgctxt "OSM::amenity"
+msgid "Locker"
+msgstr "Tủ khóa"
+
+#: map-quick/localization_data.cpp:145
+msgctxt "OSM::amenity/shop"
+msgid "Locksmith"
+msgstr "Thợ khóa"
+
+#: map-quick/localization_data.cpp:146 map-quick/localization_data.cpp:147
+#: map-quick/localization_data.cpp:148
+msgctxt "OSM::amenity"
+msgid "Lost & Found"
+msgstr "Đồ nhặt được"
+
+#: map-quick/localization_data.cpp:150
+msgctxt "OSM::amenity/shop"
+msgid "Mall"
+msgstr "Trung tâm thương mại"
+
+#: map-quick/localization_data.cpp:151
+msgctxt "OSM::amenity"
+msgid "Marketplace"
+msgstr "Chợ"
+
+#: map-quick/localization_data.cpp:152
+msgctxt "OSM::amenity/shop"
+msgid "Medical Supply"
+msgstr "Cung cấp y tế"
+
+#: map-quick/localization_data.cpp:153
+msgctxt "OSM::room"
+msgid "Meeting Room"
+msgstr "Phòng họp"
+
+#: map-quick/localization_data.cpp:154
+msgctxt "OSM::historic"
+msgid "Memorial"
+msgstr "Kỷ niệm"
+
+#: map-quick/localization_data.cpp:155
+msgctxt "OSM::amenity/shop"
+msgid "Mobile Phone"
+msgstr "Điện thoại di động"
+
+#: map-quick/localization_data.cpp:156
+msgctxt "OSM::amenity/shop"
+msgid "Money Transfer"
+msgstr "Chuyển tiền"
+
+#: map-quick/localization_data.cpp:157
+msgctxt "OSM::historic"
+msgid "Monument"
+msgstr "Di tích"
+
+#: map-quick/localization_data.cpp:158
+msgctxt "OSM::shop"
+msgid "Motorcycle"
+msgstr "Xe máy"
+
+#: map-quick/localization_data.cpp:159
+msgctxt "OSM::amenity/shop"
+msgid "Motorcycle Parking"
+msgstr "Bãi đỗ xe mô tô"
+
+#: map-quick/localization_data.cpp:160
+msgctxt "OSM::amenity/shop"
+msgid "Motorcycle Rental"
+msgstr "Cho thuê xe máy"
+
+#: map-quick/localization_data.cpp:161
+msgctxt "OSM::amenity/shop"
+msgid "Museum"
+msgstr "Bảo tàng"
+
+#: map-quick/localization_data.cpp:162
+msgctxt "OSM::amenity/shop"
+msgid "Music"
+msgstr "Âm nhạc"
+
+#: map-quick/localization_data.cpp:163
+msgctxt "OSM::amenity/shop"
+msgid "Musical Instruments"
+msgstr "Nhạc cụ"
+
+#: map-quick/localization_data.cpp:164
+msgctxt "OSM::amenity/shop"
+msgid "Newsagent"
+msgstr "Cửa hàng báo"
+
+#: map-quick/localization_data.cpp:165
+msgctxt "OSM::amenity"
+msgid "Nightclub"
+msgstr "Câu lạc bộ đêm"
+
+#: map-quick/localization_data.cpp:166
+msgctxt "OSM::shop"
+msgid "Nutrition Supplements"
+msgstr "Thực phẩm bổ sung"
+
+#: map-quick/localization_data.cpp:167
+msgctxt "OSM::amenity/shop"
+msgid "Office"
+msgstr "Văn phòng"
+
+#: map-quick/localization_data.cpp:168
+msgctxt "OSM::amenity/shop"
+msgid "Optician"
+msgstr "Tiệm mắt kính"
+
+#: map-quick/localization_data.cpp:169
+msgctxt "OSM::healthcare"
+msgid "Optometrist"
+msgstr "Bác sĩ nhãn khoa"
+
+#: map-quick/localization_data.cpp:170
+msgctxt "OSM::amenity/shop"
+msgid "Outdoor"
+msgstr "Ngoài trời"
+
+#: map-quick/localization_data.cpp:171
+msgctxt "OSM::amenity/shop"
+msgid "Paint"
+msgstr "Sơn"
+
+#: map-quick/localization_data.cpp:172
+msgctxt "outdoor recreational area"
+msgid "Park"
+msgstr "Công viên"
+
+#: map-quick/localization_data.cpp:173
+msgctxt "OSM::amenity/shop"
+msgid "Parking"
+msgstr "Bãi đỗ xe"
+
+#: map-quick/localization_data.cpp:174
+msgctxt "OSM::amenity/shop"
+msgid "Parking Tickets"
+msgstr "Vé đỗ xe"
+
+#: map-quick/localization_data.cpp:175
+msgctxt "OSM::amenity/shop"
+msgid "Pastry"
+msgstr "Tiệm bánh"
+
+#: map-quick/localization_data.cpp:176
+msgctxt "OSM::amenity/shop"
+msgid "Perfumery"
+msgstr "Tiệm nước hoa"
+
+#: map-quick/localization_data.cpp:177
+msgctxt "OSM::amenity/shop"
+msgid "Pet"
+msgstr "Thú cưng"
+
+#: map-quick/localization_data.cpp:178
+msgctxt "OSM::amenity/shop"
+msgid "Pharmacy"
+msgstr "Nhà thuốc"
+
+#: map-quick/localization_data.cpp:179
+msgctxt "OSM::amenity/shop"
+msgid "Photo"
+msgstr "ảnh"
+
+#: map-quick/localization_data.cpp:180
+msgctxt "OSM::healthcare"
+msgid "Physiotherapist"
+msgstr "Bác sĩ vật lý trị liệu"
+
+#: map-quick/localization_data.cpp:181
+msgctxt "OSM::amenity/shop"
+msgid "Place of Worship"
+msgstr "Địa điểm thờ phụng"
+
+#: map-quick/localization_data.cpp:182
+msgid "Playground"
+msgstr "Khu vui chơi"
+
+#: map-quick/localization_data.cpp:183
+msgctxt "OSM::amenity/shop"
+msgid "Police"
+msgstr "Cảnh sát"
+
+#: map-quick/localization_data.cpp:184
+msgctxt "OSM::amenity/shop"
+msgid "Post Box"
+msgstr "Hộp thư"
+
+#: map-quick/localization_data.cpp:185
+msgctxt "OSM::amenity/shop"
+msgid "Post Office"
+msgstr "Bưu điện"
+
+#: map-quick/localization_data.cpp:186
+msgctxt "OSM::shop"
+msgid "Potery"
+msgstr "Gốm sứ"
+
+#: map-quick/localization_data.cpp:187
+msgctxt "OSM::healthcare"
+msgid "Psychotherapist"
+msgstr "Chuyên gia tâm lý trị liệu"
+
+#: map-quick/localization_data.cpp:188
+msgctxt "OSM::amenity/shop"
+msgid "Pub"
+msgstr "Quán rượu"
+
+#: map-quick/localization_data.cpp:189
+msgctxt "OSM::amenity/shop"
+msgid "Public Transport Tickets"
+msgstr "Vé Giao Thông Công Cộng"
+
+#: map-quick/localization_data.cpp:190 map-quick/localization_data.cpp:227
+msgctxt "OSM::building"
+msgid "Train Station"
+msgstr "Ga tàu"
+
+#: map-quick/localization_data.cpp:191
+msgctxt "place to welcome guests, e.g. in a hotel"
+msgid "Reception"
+msgstr "Lễ tân"
+
+#: map-quick/localization_data.cpp:192
+msgctxt "OSM::amenity/shop"
+msgid "Recycling"
+msgstr "Tái chế"
+
+#: map-quick/localization_data.cpp:193
+msgctxt "OSM::amenity"
+msgid "Research Institute"
+msgstr "Viện nghiên cứu"
+
+#: map-quick/localization_data.cpp:194
+msgctxt "OSM::amenity/shop"
+msgid "Restaurant"
+msgstr "Nhà hàng"
+
+#: map-quick/localization_data.cpp:195
+msgctxt "OSM::amenity"
+msgid "Sauna"
+msgstr "Phòng xông hơi"
+
+#: map-quick/localization_data.cpp:196
+msgctxt "OSM::amenity/shop"
+msgid "School"
+msgstr "Trường học"
+
+#: map-quick/localization_data.cpp:197
+msgctxt "OSM::amenity/shop"
+msgid "Kick Scooter Rental"
+msgstr "Cho thuê xe scooter"
+
+#: map-quick/localization_data.cpp:198
+msgctxt "OSM::amenity/shop"
+msgid "Seafood"
+msgstr "Hải sản"
+
+#: map-quick/localization_data.cpp:199
+msgctxt "OSM::shop"
+msgid "Second Hand"
+msgstr "Đồ cũ"
+
+#: map-quick/localization_data.cpp:200
+msgctxt "OSM::room"
+msgid "Seminar Room"
+msgstr "Phòng hội thảo"
+
+#: map-quick/localization_data.cpp:201
+msgctxt "OSM::shop"
+msgid "Shoe Repair"
+msgstr "Sửa giày"
+
+#: map-quick/localization_data.cpp:202
+msgctxt "OSM::shop"
+msgid "Shoes"
+msgstr "Giày"
+
+#: map-quick/localization_data.cpp:203
+msgctxt "OSM::amenity/shop"
+msgid "Shop"
+msgstr "Cửa hàng"
+
+#: map-quick/localization_data.cpp:204
+msgctxt "OSM::amenity"
+msgid "Shower"
+msgstr "Vòi sen"
+
+#: map-quick/localization_data.cpp:205
+msgctxt "OSM::amenity/shop"
+msgid "Social Facility"
+msgstr "Cơ sở xã hội"
+
+#: map-quick/localization_data.cpp:206
+msgctxt "OSM::amenity/shop"
+msgid "Souvenirs"
+msgstr "Lưu niệm"
+
+#: map-quick/localization_data.cpp:207
+msgctxt "OSM::amenity/shop"
+msgid "Sports"
+msgstr "Thể thao"
+
+#: map-quick/localization_data.cpp:208
+msgctxt "OSM::amenity"
+msgid "Sports Center"
+msgstr "Trung tâm Thể thao"
+
+#: map-quick/localization_data.cpp:209
+msgctxt "OSM::amenity"
+msgid "Sports Hall"
+msgstr "Nhà thi đấu thể thao"
+
+#: map-quick/localization_data.cpp:210
+msgctxt "OSM::amenity/shop"
+msgid "Stationery"
+msgstr "Văn phòng phẩm"
+
+#: map-quick/localization_data.cpp:211
+msgctxt "OSM::amenity/shop"
+msgid "Supermarket"
+msgstr "Siêu thị"
+
+#: map-quick/localization_data.cpp:212
+msgctxt "OSM::vending"
+msgid "Sweets"
+msgstr "Kẹo"
+
+#: map-quick/localization_data.cpp:213
+msgctxt "OSM::amenity/shop"
+msgid "Tailor"
+msgstr "Thợ may"
+
+#: map-quick/localization_data.cpp:214
+msgctxt "OSM::amenity/shop"
+msgid "Tattoo"
+msgstr "Xăm hình"
+
+#: map-quick/localization_data.cpp:215
+msgctxt "OSM::amenity/shop"
+msgid "Taxi"
+msgstr "Taxi"
+
+#: map-quick/localization_data.cpp:216
+msgctxt "OSM::amenity/shop"
+msgid "Tea"
+msgstr "Trà"
+
+#: map-quick/localization_data.cpp:217
+msgctxt "OSM::shop"
+msgid "Telecommunication"
+msgstr "Viễn thông"
+
+#: map-quick/localization_data.cpp:218
+msgctxt "OSM::room"
+msgid "Terrace"
+msgstr "Sân thượng"
+
+#: map-quick/localization_data.cpp:219
+msgctxt "OSM::amenity/shop"
+msgid "Theatre"
+msgstr "Rạp hát"
+
+#: map-quick/localization_data.cpp:220
+msgctxt "OSM::tourism"
+msgid "Theme Park"
+msgstr "Công viên chủ đề"
+
+#: map-quick/localization_data.cpp:221
+msgctxt "OSM::amenity/shop"
+msgid "Tickets"
+msgstr "Vé"
+
+#: map-quick/localization_data.cpp:222
+msgctxt "OSM::amenity/shop"
+msgid "Tobacco"
+msgstr "Thuốc lá"
+
+#: map-quick/localization_data.cpp:223 map-quick/localization_data.cpp:224
+msgctxt "OSM::amenity/shop"
+msgid "Toilets"
+msgstr "Nhà vệ sinh"
+
+#: map-quick/localization_data.cpp:225
+msgctxt "OSM::amenity/shop"
+msgid "Town Hall"
+msgstr "Tòa thị chính"
+
+#: map-quick/localization_data.cpp:226
+msgctxt "OSM::amenity/shop"
+msgid "Toys"
+msgstr "Đồ chơi"
+
+#: map-quick/localization_data.cpp:228 map-quick/localization_data.cpp:229
+msgctxt "OSM::amenity/shop"
+msgid "Travel Agency"
+msgstr "Đại lý du lịch"
+
+#: map-quick/localization_data.cpp:230
+msgctxt "OSM::amenity/shop"
+msgid "University"
+msgstr "Đại học"
+
+#: map-quick/localization_data.cpp:231
+msgctxt "OSM::amenity/shop"
+msgid "Variety Store"
+msgstr "Cửa hàng đa dạng"
+
+#: map-quick/localization_data.cpp:232
+msgctxt "OSM::amenity"
+msgid "Vending Machine"
+msgstr "Máy bán hàng tự động"
+
+#: map-quick/localization_data.cpp:233
+msgctxt "OSM::amenity"
+msgid "Veterinary"
+msgstr "Thú y"
+
+#: map-quick/localization_data.cpp:234
+msgctxt "OSM::amenity/shop"
+msgid "Video Games"
+msgstr "Trò chơi video"
+
+#: map-quick/localization_data.cpp:235
+msgctxt "OSM::tourism"
+msgid "Viewpoint"
+msgstr "Điểm quan sát"
+
+#: map-quick/localization_data.cpp:236 map-quick/localization_data.cpp:237
+#: map-quick/localization_data.cpp:238
+msgctxt "OSM::amenity/shop"
+msgid "Waiting Area"
+msgstr "Khu vực chờ"
+
+#: map-quick/localization_data.cpp:239
+msgctxt "OSM::amenity"
+msgid "Waste Basket"
+msgstr "Thùng rác"
+
+#: map-quick/localization_data.cpp:240
+msgctxt "OSM::shop"
+msgid "Watches"
+msgstr "Đồng hồ"
+
+#: map-quick/localization_data.cpp:241
+msgctxt "OSM::vending"
+msgid "Water"
+msgstr "Nước"
+
+#: map-quick/localization_data.cpp:242
+msgctxt "OSM::amenity/shop"
+msgid "Wine"
+msgstr "Rượu"
+
+#: map-quick/localization_data.cpp:243
+msgctxt "OSM::tourism"
+msgid "Zoo"
+msgstr "Vườn thú"
+
+#: map-quick/localization_data.cpp:249
+msgctxt "OSM::cuisine"
+msgid "African"
+msgstr "Phi châu"
+
+#: map-quick/localization_data.cpp:250
+msgctxt "OSM::cuisine"
+msgid "American"
+msgstr "Mỹ"
+
+#: map-quick/localization_data.cpp:251
+msgctxt "OSM::cuisine"
+msgid "Arab"
+msgstr "Ả Rập"
+
+#: map-quick/localization_data.cpp:252
+msgctxt "OSM::cuisine"
+msgid "Argentinian"
+msgstr "Argentinian"
+
+#: map-quick/localization_data.cpp:253
+msgctxt "OSM::cuisine"
+msgid "Asian"
+msgstr "Châu Á"
+
+#: map-quick/localization_data.cpp:254
+msgctxt "OSM::cuisine"
+msgid "Austrian"
+msgstr "Áo"
+
+#: map-quick/localization_data.cpp:255
+msgctxt "OSM::cuisine"
+msgid "Bagel"
+msgstr "Bánh mì vòng"
+
+#: map-quick/localization_data.cpp:256
+msgctxt "OSM::cuisine"
+msgid "Balkan"
+msgstr "Balkan"
+
+#: map-quick/localization_data.cpp:257 map-quick/localization_data.cpp:258
+#: map-quick/localization_data.cpp:260
+msgctxt "OSM::cuisine"
+msgid "Barbecue"
+msgstr "Nướng"
+
+#: map-quick/localization_data.cpp:259
+msgctxt "OSM::cuisine"
+msgid "Bavarian"
+msgstr "Bavarian"
+
+#: map-quick/localization_data.cpp:261
+msgctxt "OSM::cuisine"
+msgid "Beef Bowl"
+msgstr "Bát Bò"
+
+#: map-quick/localization_data.cpp:262
+msgctxt "OSM::cuisine"
+msgid "Bolivian"
+msgstr "Bolivian"
+
+#: map-quick/localization_data.cpp:263
+msgctxt "OSM::cuisine"
+msgid "Brazilian"
+msgstr "Braxin"
+
+#: map-quick/localization_data.cpp:264
+msgctxt "OSM::cuisine"
+msgid "Breakfast"
+msgstr "Bữa sáng"
+
+#: map-quick/localization_data.cpp:265
+msgctxt "OSM::cuisine"
+msgid "British"
+msgstr "Anh"
+
+#: map-quick/localization_data.cpp:266
+msgctxt "OSM::cuisine"
+msgid "Brunch"
+msgstr "Brunch"
+
+#: map-quick/localization_data.cpp:267
+msgctxt "OSM::cuisine"
+msgid "Bubble Tea"
+msgstr "Trà sữa"
+
+#: map-quick/localization_data.cpp:268
+msgctxt "OSM::cuisine"
+msgid "Buffet"
+msgstr "Buffet"
+
+#: map-quick/localization_data.cpp:269
+msgctxt "OSM::cuisine"
+msgid "Burger"
+msgstr "Burger"
+
+#: map-quick/localization_data.cpp:270
+msgctxt "OSM::cuisine"
+msgid "Cake"
+msgstr "Bánh"
+
+#: map-quick/localization_data.cpp:271
+msgctxt "OSM::cuisine"
+msgid "Caribbean"
+msgstr "Caribbean"
+
+#: map-quick/localization_data.cpp:272
+msgctxt "OSM::cuisine"
+msgid "Chicken"
+msgstr "Gà"
+
+#: map-quick/localization_data.cpp:273
+msgctxt "OSM::cuisine"
+msgid "Chinese"
+msgstr "Trung Quốc"
+
+#: map-quick/localization_data.cpp:274
+msgctxt "OSM::cuisine"
+msgid "Coffee"
+msgstr "Cà phê"
+
+#: map-quick/localization_data.cpp:275
+msgctxt "OSM::cuisine"
+msgid "Coffee Shop"
+msgstr "Quán cà phê"
+
+#: map-quick/localization_data.cpp:276
+msgctxt "OSM::cuisine"
+msgid "Cookies"
+msgstr "bánh quy"
+
+#: map-quick/localization_data.cpp:277
+msgctxt "OSM::cuisine"
+msgid "Crêpe"
+msgstr "Crêpe"
+
+#: map-quick/localization_data.cpp:278
+msgctxt "OSM::cuisine"
+msgid "Curry"
+msgstr "Cà ri"
+
+#: map-quick/localization_data.cpp:279
+msgctxt "OSM::cuisine"
+msgid "Czech"
+msgstr "Tiệm ăn Séc"
+
+#: map-quick/localization_data.cpp:280
+msgctxt "OSM::cuisine"
+msgid "Dessert"
+msgstr "Món tráng miệng"
+
+#: map-quick/localization_data.cpp:281
+msgctxt "OSM::cuisine"
+msgid "Donut"
+msgstr "Donut"
+
+#: map-quick/localization_data.cpp:282 map-quick/localization_data.cpp:283
+msgctxt "OSM::cuisine"
+msgid "Dumplings"
+msgstr "Bánh Nhân"
+
+#: map-quick/localization_data.cpp:284
+msgctxt "OSM::cuisine"
+msgid "Ethiopian"
+msgstr "Ethipian"
+
+#: map-quick/localization_data.cpp:285
+msgctxt "OSM::cuisine"
+msgid "Falafel"
+msgstr "Falafel"
+
+#: map-quick/localization_data.cpp:286
+msgctxt "OSM::cuisine"
+msgid "Fast Food"
+msgstr "Đồ ăn nhanh"
+
+#: map-quick/localization_data.cpp:287
+msgctxt "OSM::cuisine"
+msgid "Filipino"
+msgstr "Filipin"
+
+#: map-quick/localization_data.cpp:288
+msgctxt "OSM::cuisine"
+msgid "Fish"
+msgstr "Cá"
+
+#: map-quick/localization_data.cpp:289
+msgctxt "OSM::cuisine"
+msgid "Fish & Chips"
+msgstr "Cá và khoai tây chiên"
+
+#: map-quick/localization_data.cpp:290
+msgctxt "OSM::cuisine"
+msgid "French"
+msgstr "Pháp"
+
+#: map-quick/localization_data.cpp:291
+msgctxt "OSM::cuisine"
+msgid "Fries"
+msgstr "Khoai tây chiên"
+
+#: map-quick/localization_data.cpp:292
+msgctxt "OSM::cuisine"
+msgid "Georigan"
+msgstr "Georigan"
+
+#: map-quick/localization_data.cpp:293
+msgctxt "OSM::cuisine"
+msgid "German"
+msgstr "Đức"
+
+#: map-quick/localization_data.cpp:294
+msgctxt "OSM::cuisine"
+msgid "Greek"
+msgstr "Hy Lạp"
+
+#: map-quick/localization_data.cpp:295
+msgctxt "OSM::cuisine"
+msgid "Grill"
+msgstr "Nướng"
+
+#: map-quick/localization_data.cpp:296
+msgctxt "OSM::cuisine"
+msgid "Gyros"
+msgstr "Gyros"
+
+#: map-quick/localization_data.cpp:297
+msgctxt "OSM::cuisine"
+msgid "Hawaiian"
+msgstr "Hawaii"
+
+#: map-quick/localization_data.cpp:298 map-quick/localization_data.cpp:299
+msgctxt "OSM::cuisine"
+msgid "Hot Dog"
+msgstr "Xúc xích nóng"
+
+#: map-quick/localization_data.cpp:300
+msgctxt "OSM::cuisine"
+msgid "Ice Cream"
+msgstr "Kem"
+
+#: map-quick/localization_data.cpp:301
+msgctxt "OSM::cuisine"
+msgid "Indian"
+msgstr "Ấn Độ"
+
+#: map-quick/localization_data.cpp:302
+msgctxt "OSM::cuisine"
+msgid "Indonesian"
+msgstr "Indonesia"
+
+#: map-quick/localization_data.cpp:303
+msgctxt "OSM::cuisine"
+msgid "International"
+msgstr "Quốc tế"
+
+#: map-quick/localization_data.cpp:304
+msgctxt "OSM::cuisine"
+msgid "Irish"
+msgstr "Ái-len"
+
+#: map-quick/localization_data.cpp:305
+msgctxt "OSM::cuisine"
+msgid "Italian"
+msgstr "Ý"
+
+#: map-quick/localization_data.cpp:306 map-quick/localization_data.cpp:327
+msgctxt "OSM::cuisine"
+msgid "Pizza"
+msgstr "Pizza"
+
+#: map-quick/localization_data.cpp:307
+msgctxt "OSM::cuisine"
+msgid "Japanese"
+msgstr "Nhật Bản"
+
+#: map-quick/localization_data.cpp:308
+msgctxt "OSM::cuisine"
+msgid "Juice"
+msgstr "Nước ép"
+
+#: map-quick/localization_data.cpp:309
+msgctxt "OSM::cuisine"
+msgid "Kebab"
+msgstr "Kebab"
+
+#: map-quick/localization_data.cpp:310
+msgctxt "OSM::cuisine"
+msgid "Korean"
+msgstr "Hàn Quốc"
+
+#: map-quick/localization_data.cpp:311
+msgctxt "OSM::cuisine"
+msgid "Lebanese"
+msgstr "Liban"
+
+#: map-quick/localization_data.cpp:312
+msgctxt "OSM::cuisine"
+msgid "Local"
+msgstr "Địa phương"
+
+#: map-quick/localization_data.cpp:313
+msgctxt "OSM::cuisine"
+msgid "Malaysian"
+msgstr "Malayxia"
+
+#: map-quick/localization_data.cpp:314
+msgctxt "OSM::cuisine"
+msgid "Meat"
+msgstr "Thịt"
+
+#: map-quick/localization_data.cpp:315
+msgctxt "OSM::cuisine"
+msgid "Mediterranean"
+msgstr "Địa Trung Hải"
+
+#: map-quick/localization_data.cpp:316
+msgctxt "OSM::cuisine"
+msgid "Mexican"
+msgstr "Mễ"
+
+#: map-quick/localization_data.cpp:317
+msgctxt "OSM::cuisine"
+msgid "Moroccan"
+msgstr "Moroccan"
+
+#: map-quick/localization_data.cpp:318
+msgctxt "OSM::cuisine"
+msgid "Nepalese"
+msgstr "Nepalese"
+
+#: map-quick/localization_data.cpp:319 map-quick/localization_data.cpp:320
+msgctxt "OSM::cuisine"
+msgid "Noodle"
+msgstr "Mì"
+
+#: map-quick/localization_data.cpp:321
+msgctxt "OSM::cuisine"
+msgid "Pakistani"
+msgstr "Pakistanien"
+
+#: map-quick/localization_data.cpp:322
+msgctxt "OSM::cuisine"
+msgid "Pancake"
+msgstr "Bánh Pancake"
+
+#: map-quick/localization_data.cpp:323
+msgctxt "OSM::cuisine"
+msgid "Pasta"
+msgstr "Mì Ý"
+
+#: map-quick/localization_data.cpp:324
+msgctxt "OSM::cuisine"
+msgid "Pastry"
+msgstr "Bánh ngọt"
+
+#: map-quick/localization_data.cpp:325
+msgctxt "OSM::cuisine"
+msgid "Persian"
+msgstr "Ba Tư"
+
+#: map-quick/localization_data.cpp:326
+msgctxt "OSM::cuisine"
+msgid "Peruvian"
+msgstr "Peruvian"
+
+#: map-quick/localization_data.cpp:328
+msgctxt "OSM::cuisine"
+msgid "Poke"
+msgstr "Poke"
+
+#: map-quick/localization_data.cpp:329
+msgctxt "OSM::cuisine"
+msgid "Polish"
+msgstr "Ba Lan"
+
+#: map-quick/localization_data.cpp:330
+msgctxt "OSM::cuisine"
+msgid "Portuguese"
+msgstr "Bồ Đào Nha"
+
+#: map-quick/localization_data.cpp:331
+msgctxt "OSM::cuisine"
+msgid "Pretzel"
+msgstr "Pretzel"
+
+#: map-quick/localization_data.cpp:332
+msgctxt "OSM::cuisine"
+msgid "Ramen"
+msgstr "Ramen"
+
+#: map-quick/localization_data.cpp:333
+msgctxt "OSM::cuisine"
+msgid "Regional"
+msgstr "Khu vực"
+
+#: map-quick/localization_data.cpp:334
+msgctxt "OSM::cuisine"
+msgid "Russian"
+msgstr "Nga"
+
+#: map-quick/localization_data.cpp:335
+msgctxt "OSM::cuisine"
+msgid "Salad"
+msgstr "Salad"
+
+#: map-quick/localization_data.cpp:336
+msgctxt "OSM::cuisine"
+msgid "Sandwich"
+msgstr "Sandwich"
+
+#: map-quick/localization_data.cpp:337
+msgctxt "OSM::cuisine"
+msgid "Sausage"
+msgstr "Xúc xích"
+
+#: map-quick/localization_data.cpp:338
+msgctxt "OSM::cuisine"
+msgid "Seafood"
+msgstr "Hải sản"
+
+#: map-quick/localization_data.cpp:339
+msgctxt "OSM::cuisine"
+msgid "Shawarma"
+msgstr "Shawarma"
+
+#: map-quick/localization_data.cpp:340
+msgctxt "OSM::cuisine"
+msgid "Soup"
+msgstr "Súp"
+
+#: map-quick/localization_data.cpp:341
+msgctxt "OSM::cuisine"
+msgid "Spanish"
+msgstr "Tây Ban Nha"
+
+#: map-quick/localization_data.cpp:342 map-quick/localization_data.cpp:343
+msgctxt "OSM::cuisine"
+msgid "Steak"
+msgstr "Thịt bò"
+
+#: map-quick/localization_data.cpp:344
+msgctxt "OSM::cuisine"
+msgid "Sushi"
+msgstr "Sushi"
+
+#: map-quick/localization_data.cpp:345
+msgctxt "OSM::cuisine"
+msgid "Syrian"
+msgstr "Syria"
+
+#: map-quick/localization_data.cpp:346
+msgctxt "OSM::cuisine"
+msgid "Tacos"
+msgstr "Tacos"
+
+#: map-quick/localization_data.cpp:347
+msgctxt "OSM::cuisine"
+msgid "Taiwanese"
+msgstr "Đài Loan"
+
+#: map-quick/localization_data.cpp:348
+msgctxt "OSM::cuisine"
+msgid "Tapas"
+msgstr "Tapas"
+
+#: map-quick/localization_data.cpp:349
+msgctxt "OSM::cuisine"
+msgid "Tea"
+msgstr "Trà"
+
+#: map-quick/localization_data.cpp:350
+msgctxt "OSM::cuisine"
+msgid "Teahouse"
+msgstr "Quán trà"
+
+#: map-quick/localization_data.cpp:351
+msgctxt "OSM::cuisine"
+msgid "Tex-Mex"
+msgstr "Tex-Mex"
+
+#: map-quick/localization_data.cpp:352
+msgctxt "OSM::cuisine"
+msgid "Thai"
+msgstr "Thái"
+
+#: map-quick/localization_data.cpp:353
+msgctxt "OSM::cuisine"
+msgid "Turkish"
+msgstr "Thổ Nhĩ Kỳ"
+
+#: map-quick/localization_data.cpp:354
+msgctxt "OSM::cuisine"
+msgid "Vegetarian"
+msgstr "Chay"
+
+#: map-quick/localization_data.cpp:355
+msgctxt "OSM::cuisine"
+msgid "Vietnamese"
+msgstr "Việt Nam"
+
+#: map-quick/localization_data.cpp:356
+msgctxt "OSM::cuisine"
+msgid "Waffles"
+msgstr "Bánh Waffles"
+
+#: map-quick/localization_data.cpp:357
+msgctxt "OSM::cuisine"
+msgid "Chicken Wings"
+msgstr "Cánh Gà"
+
+#: map-quick/osmelementinformationmodel.cpp:27
+#, kde-format
+msgid "%1m"
+msgstr "%1m"
+
+#: map-quick/osmelementinformationmodel.cpp:30
+#: map-quick/osmelementinformationmodel.cpp:32
+#, kde-format
+msgid "%1km"
+msgstr "%1km"
+
+#: map-quick/osmelementinformationmodel.cpp:148
+#, kde-format
+msgid "Wikipedia"
+msgstr "Wikipedia"
+
+#: map-quick/osmelementinformationmodel.cpp:536
+#, kde-format
+msgid "Opening Hours"
+msgstr "Giờ mở cửa"
+
+#: map-quick/osmelementinformationmodel.cpp:537
+#, kde-format
+msgid "Contact"
+msgstr "liên hệ"
+
+#: map-quick/osmelementinformationmodel.cpp:538
+#, kde-format
+msgid "Payment"
+msgstr "Thanh toán"
+
+#: map-quick/osmelementinformationmodel.cpp:539
+#, kde-format
+msgid "Toilets"
+msgstr "Nhà vệ sinh"
+
+#: map-quick/osmelementinformationmodel.cpp:540
+#, kde-format
+msgid "Accessibility"
+msgstr "Hỗ trợ truy cập"
+
+#: map-quick/osmelementinformationmodel.cpp:541
+#, kde-format
+msgid "Parking"
+msgstr "Bãi đỗ xe"
+
+#: map-quick/osmelementinformationmodel.cpp:542
+#, kde-format
+msgid "Operator"
+msgstr "Toán tử"
+
+#: map-quick/osmelementinformationmodel.cpp:590
+#, kde-format
+msgid "Formerly"
+msgstr "Trước đây"
+
+#: map-quick/osmelementinformationmodel.cpp:591
+#, kde-format
+msgid "Description"
+msgstr "Mô tả"
+
+#: map-quick/osmelementinformationmodel.cpp:592
+#, kde-format
+msgid "Routes"
+msgstr "Tuyến đường"
+
+#: map-quick/osmelementinformationmodel.cpp:593
+#, kde-format
+msgid "Cuisine"
+msgstr "Ẩm thực"
+
+#: map-quick/osmelementinformationmodel.cpp:594
+#, kde-format
+msgid "Diet"
+msgstr "Chế độ ăn"
+
+#: map-quick/osmelementinformationmodel.cpp:595
+#, kde-format
+msgid "Takeaway"
+msgstr "Takeaway"
+
+#: map-quick/osmelementinformationmodel.cpp:596
+#, kde-format
+msgctxt "electrical power socket"
+msgid "Socket"
+msgstr "ổ cắm"
+
+#: map-quick/osmelementinformationmodel.cpp:598
+#, kde-format
+msgid "Available vehicles"
+msgstr "Phương tiện hiện có"
+
+#: map-quick/osmelementinformationmodel.cpp:599
+#, kde-format
+msgid "Fee"
+msgstr "Phí"
+
+#: map-quick/osmelementinformationmodel.cpp:600
+#, kde-format
+msgid "Authentication"
+msgstr "Xác thực"
+
+#: map-quick/osmelementinformationmodel.cpp:601
+#, kde-format
+msgid "Bicycle parking"
+msgstr "Bãi đỗ xe đạp"
+
+#: map-quick/osmelementinformationmodel.cpp:602
+#, kde-format
+msgid "Capacity"
+msgstr "Sức chứa"
+
+#: map-quick/osmelementinformationmodel.cpp:603
+#, kde-format
+msgid "Disabled parking spaces"
+msgstr "Chỗ đỗ xe dành cho người khuyết tật"
+
+#: map-quick/osmelementinformationmodel.cpp:604
+#, kde-format
+msgid "Women parking spaces"
+msgstr "Chỗ đỗ xe dành cho phụ nữ"
+
+#: map-quick/osmelementinformationmodel.cpp:605
+#, kde-format
+msgid "Parent parking spaces"
+msgstr "Các chỗ đỗ xe cha mẹ"
+
+#: map-quick/osmelementinformationmodel.cpp:606
+#, kde-format
+msgid "Parking spaces for charging"
+msgstr "Chỗ đỗ xe để sạc"
+
+#: map-quick/osmelementinformationmodel.cpp:607
+#, kde-format
+msgid "Maximum stay"
+msgstr "Thời gian lưu trú tối đa"
+
+#: map-quick/osmelementinformationmodel.cpp:608
+#, kde-format
+msgid "Diaper changing table"
+msgstr "Bàn thay tã"
+
+#: map-quick/osmelementinformationmodel.cpp:609
+#, kde-format
+msgid "Gender"
+msgstr "Giới tính"
+
+#: map-quick/osmelementinformationmodel.cpp:611
+#, kde-format
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: map-quick/osmelementinformationmodel.cpp:612
+#, kde-format
+msgid "Phone"
+msgstr "Điện thoại"
+
+#: map-quick/osmelementinformationmodel.cpp:613
+#, kde-format
+msgid "Email"
+msgstr "thư điện tử"
+
+#: map-quick/osmelementinformationmodel.cpp:614
+#, kde-format
+msgid "Website"
+msgstr "Trang web"
+
+#: map-quick/osmelementinformationmodel.cpp:615
+#, kde-format
+msgid "Cash"
+msgstr "Tiền mặt"
+
+#: map-quick/osmelementinformationmodel.cpp:616
+#, kde-format
+msgid "Digital"
+msgstr "Kỹ thuật số"
+
+#: map-quick/osmelementinformationmodel.cpp:617
+#, kde-format
+msgid "Debit cards"
+msgstr "Thẻ ghi nợ"
+
+#: map-quick/osmelementinformationmodel.cpp:618
+#, kde-format
+msgid "Credit cards"
+msgstr "Thẻ tín dụng"
+
+#: map-quick/osmelementinformationmodel.cpp:619
+#, kde-format
+msgid "Stored value cards"
+msgstr "Thẻ giá trị đã lưu"
+
+#: map-quick/osmelementinformationmodel.cpp:620
+#, kde-format
+msgid "Wheelchair access"
+msgstr "Khả năng tiếp cận bằng xe lăn"
+
+#: map-quick/osmelementinformationmodel.cpp:621
+#, kde-format
+msgid "Wheelchair lift"
+msgstr "Thang máy lên xuống dành cho người khuyết tật"
+
+#: map-quick/osmelementinformationmodel.cpp:622
+#, kde-format
+msgid "Central key"
+msgstr "Khóa trung tâm"
+
+#: map-quick/osmelementinformationmodel.cpp:623
+#, kde-format
+msgid "Speech output"
+msgstr "Đầu ra giọng nói"
+
+#: map-quick/osmelementinformationmodel.cpp:624
+#, kde-format
+msgid "Tactile writing"
+msgstr "Chữ nổi"
+
+#: map-quick/osmelementinformationmodel.cpp:626
+#, kde-format
+msgctxt "transport network"
+msgid "Network"
+msgstr "Mạng lưới"
+
+#: map-quick/osmelementinformationmodel.cpp:628
+#, kde-format
+msgctxt "remaining travel range of a battery powered vehicle"
+msgid "Remaining range"
+msgstr "Phạm vi còn lại"
+
+#: map-quick/osmelementinformationmodel.cpp:698
+#, kde-format
+msgctxt "local name (transliterated name)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: map-quick/osmelementinformationmodel.cpp:788
+#, kde-format
+msgid "only %1"
+msgstr "chỉ %1"
+
+#: map-quick/osmelementinformationmodel.cpp:790
+#, kde-format
+msgid "no %1"
+msgstr "không có %1"
+
+#: map-quick/osmelementinformationmodel.cpp:815
+#, kde-format
+msgctxt "electrical current/Ampere value"
+msgid "%1 A"
+msgstr "%1 A"
+
+#: map-quick/osmelementinformationmodel.cpp:823
+#, kde-format
+msgctxt "electrical power/kilowatt value"
+msgid "%1 kW"
+msgstr "%1 kW"
+
+#: map-quick/osmelementinformationmodel.cpp:854
+#, kde-format
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: map-quick/osmelementinformationmodel.cpp:923
+#: map-quick/osmelementinformationmodel.cpp:1111
+#, kde-format
+msgid "yes"
+msgstr "có"
+
+#: map-quick/osmelementinformationmodel.cpp:926
+#, kde-format
+msgctxt "payment option"
+msgid "coins only"
+msgstr "chỉ tiền xu"
+
+#: map-quick/osmelementinformationmodel.cpp:929
+#, kde-format
+msgctxt "payment option"
+msgid "notes only"
+msgstr "ghi chú"
+
+#: map-quick/osmelementinformationmodel.cpp:931
+#: map-quick/osmelementinformationmodel.cpp:982
+#: map-quick/osmelementinformationmodel.cpp:1114
+#, kde-format
+msgid "no"
+msgstr "không"
+
+#: map-quick/osmelementinformationmodel_data.cpp:22
+msgctxt "OSM::diet_type"
+msgid "gluten free"
+msgstr "không chứa gluten"
+
+#: map-quick/osmelementinformationmodel_data.cpp:23
+msgctxt "OSM::diet_type"
+msgid "halal"
+msgstr "halal"
+
+#: map-quick/osmelementinformationmodel_data.cpp:24
+msgctxt "OSM::diet_type"
+msgid "kosher"
+msgstr "kosher"
+
+#: map-quick/osmelementinformationmodel_data.cpp:25
+msgctxt "OSM::diet_type"
+msgid "lactose free"
+msgstr "không chứa lactose"
+
+#: map-quick/osmelementinformationmodel_data.cpp:26
+msgctxt "OSM::diet_type"
+msgid "vegan"
+msgstr "ăn chay"
+
+#: map-quick/osmelementinformationmodel_data.cpp:27
+msgctxt "OSM::diet_type"
+msgid "vegetarian"
+msgstr "chay"
+
+#: map-quick/osmelementinformationmodel_data.cpp:55
+msgctxt "OSM::payment_method"
+msgid "American Express"
+msgstr "American Express"
+
+#: map-quick/osmelementinformationmodel_data.cpp:56
+msgctxt "OSM::payment_method"
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+#: map-quick/osmelementinformationmodel_data.cpp:57
+msgctxt "OSM::payment_method"
+msgid "Diners Club"
+msgstr "Diners Club"
+
+#: map-quick/osmelementinformationmodel_data.cpp:58
+msgctxt "OSM::payment_method"
+msgid "Discover Card"
+msgstr "Thẻ Discover"
+
+#: map-quick/osmelementinformationmodel_data.cpp:59
+msgctxt "OSM::payment_method"
+msgid "JCB"
+msgstr "JCB"
+
+#: map-quick/osmelementinformationmodel_data.cpp:60
+msgctxt "OSM::payment_method"
+msgid "Girocard"
+msgstr "Girocard"
+
+#: map-quick/osmelementinformationmodel_data.cpp:61
+msgctxt "OSM::payment_method"
+msgid "Google Pay"
+msgstr "Google Pay"
+
+#: map-quick/osmelementinformationmodel_data.cpp:62
+msgctxt "OSM::payment_method"
+msgid "Maestro"
+msgstr "Maestro"
+
+#: map-quick/osmelementinformationmodel_data.cpp:63
+msgctxt "OSM::payment_method"
+msgid "Mastercard"
+msgstr "Mastercard"
+
+#: map-quick/osmelementinformationmodel_data.cpp:64
+msgctxt "OSM::payment_method"
+msgid "UnionPay"
+msgstr "UnionPay"
+
+#: map-quick/osmelementinformationmodel_data.cpp:65
+#: map-quick/osmelementinformationmodel_data.cpp:66
+msgctxt "OSM::payment_method"
+msgid "V Pay"
+msgstr "V Pay"
+
+#: map-quick/osmelementinformationmodel_data.cpp:67
+msgctxt "OSM::payment_method"
+msgid "Visa"
+msgstr "Visa"
+
+#: map-quick/osmelementinformationmodel_data.cpp:71
+msgctxt "OSM::wheelchair_access"
+msgid "limited"
+msgstr "hạn chế"
+
+#: map-quick/osmelementinformationmodel_data.cpp:72
+msgctxt "OSM::wheelchair_access"
+msgid "no"
+msgstr "không"
+
+#: map-quick/osmelementinformationmodel_data.cpp:73
+msgctxt "OSM::wheelchair_access"
+msgid "yes"
+msgstr "có"
+
+#: map-quick/osmelementinformationmodel_data.cpp:85
+msgctxt "OSM::charging_station_socket"
+msgid "Chademo"
+msgstr "Chademo"
+
+#: map-quick/osmelementinformationmodel_data.cpp:86
+msgctxt "OSM::charging_station_socket"
+msgid "Schuko"
+msgstr "Schuko"
+
+#: map-quick/osmelementinformationmodel_data.cpp:87
+msgctxt "OSM::charging_station_socket"
+msgid "Tesla"
+msgstr "Tesla"
+
+#: map-quick/osmelementinformationmodel_data.cpp:88
+msgctxt "OSM::charging_station_socket"
+msgid "Tesla Supercharger"
+msgstr "Trạm sạc Tesla Supercharger"
+
+#: map-quick/osmelementinformationmodel_data.cpp:89
+msgctxt "OSM::charging_station_socket"
+msgid "Tesla Supercharger CCS"
+msgstr "Trạm sạc Tesla Supercharger CCS"
+
+#: map-quick/osmelementinformationmodel_data.cpp:90
+msgctxt "OSM::charging_station_socket"
+msgid "Type 2"
+msgstr "Kiểu 2"
+
+#: map-quick/osmelementinformationmodel_data.cpp:91
+msgctxt "OSM::charging_station_socket"
+msgid "Type 2 cable"
+msgstr "Cáp Type 2"
+
+#: map-quick/osmelementinformationmodel_data.cpp:92
+msgctxt "OSM::charging_station_socket"
+msgid "Type 2 CCS"
+msgstr "Kiểu 2 CCS"
+
+#: map-quick/osmelementinformationmodel_data.cpp:93
+msgctxt "OSM::charging_station_socket"
+msgid "Type E"
+msgstr "Kiểu E"
+
+#: map-quick/osmelementinformationmodel_data.cpp:105
+msgctxt "OSM::charging_station_authentication"
+msgid "app"
+msgstr "ứng dụng"
+
+#: map-quick/osmelementinformationmodel_data.cpp:106
+msgctxt "OSM::charging_station_authentication"
+msgid "membership card"
+msgstr "thẻ hội viên"
+
+#: map-quick/osmelementinformationmodel_data.cpp:107
+msgctxt "OSM::charging_station_authentication"
+msgid "NFC"
+msgstr "NFC"
+
+#: map-quick/osmelementinformationmodel_data.cpp:108
+msgctxt "OSM::charging_station_authentication"
+msgid "none"
+msgstr "không có"
+
+#: map-quick/osmelementinformationmodel_data.cpp:109
+msgctxt "OSM::charging_station_authentication"
+msgid "phone call"
+msgstr "gọi điện thoại"
+
+#: map-quick/osmelementinformationmodel_data.cpp:110
+msgctxt "OSM::charging_station_authentication"
+msgid "SMS"
+msgstr "SMS"
+
+#: map-quick/osmelementinformationmodel_data.cpp:117
+msgctxt "OSM::bicycle_parking"
+msgid "anchors"
+msgstr "neo"
+
+#: map-quick/osmelementinformationmodel_data.cpp:118
+msgctxt "OSM::bicycle_parking"
+msgid "bollard"
+msgstr "trụ chắn"
+
+#: map-quick/osmelementinformationmodel_data.cpp:119
+msgctxt "OSM::bicycle_parking"
+msgid "building"
+msgstr "tòa nhà"
+
+#: map-quick/osmelementinformationmodel_data.cpp:120
+msgctxt "OSM::bicycle_parking"
+msgid "ground slots"
+msgstr "chỗ đậu xe đạp trên mặt đất"
+
+#: map-quick/osmelementinformationmodel_data.cpp:121
+msgctxt "OSM::bicycle_parking"
+msgid "lockers"
+msgstr "tủ đựng đồ"
+
+#: map-quick/osmelementinformationmodel_data.cpp:122
+msgctxt "OSM::bicycle_parking"
+msgid "racks"
+msgstr "giá đỗ xe đạp"
+
+#: map-quick/osmelementinformationmodel_data.cpp:123
+msgctxt "OSM::bicycle_parking"
+msgid "shed"
+msgstr "nhà chứa"
+
+#: map-quick/osmelementinformationmodel_data.cpp:124
+msgctxt "OSM::bicycle_parking"
+msgid "stands"
+msgstr "giá đỗ xe đạp"
+
+#: map-quick/osmelementinformationmodel_data.cpp:125
+msgctxt "OSM::bicycle_parking"
+msgid "wall loops"
+msgstr "vòng tường"
+
+#: map-quick/osmelementinformationmodel_data.cpp:126
+msgctxt "OSM::bicycle_parking"
+msgid "wide stands"
+msgstr "chỗ đỗ xe rộng rãi"
+
+#: map-quick/osmelementinformationmodel_data.cpp:133
+#, kde-format
+msgctxt "available rental vehicles"
+msgid "%1 bike"
+msgid_plural "%1 bikes"
+msgstr[0] "%1 xe đạp"
+
+#: map-quick/osmelementinformationmodel_data.cpp:134
+#, kde-format
+msgctxt "available rental vehicles"
+msgid "%1 pedelec"
+msgid_plural "%1 pedelecs"
+msgstr[0] "%1 xe đạp điện"
+
+#: map-quick/osmelementinformationmodel_data.cpp:135
+#, kde-format
+msgctxt "available rental vehicles"
+msgid "%1 kick scooter"
+msgid_plural "%1 kick scooters"
+msgstr[0] "%1 xe scooter điện"
+
+#: map-quick/osmelementinformationmodel_data.cpp:136
+#, kde-format
+msgctxt "available rental vehicles"
+msgid "%1 moped"
+msgid_plural "%1 mopeds"
+msgstr[0] "%1 xe máy"
+
+#: map-quick/osmelementinformationmodel_data.cpp:137
+#, kde-format
+msgctxt "available rental vehicles"
+msgid "%1 car"
+msgid_plural "%1 cars"
+msgstr[0] "%1 xe"
+
+#: map-quick/osmelementinformationmodel_data.cpp:148
+msgctxt "OSM::gender_segregation"
+msgid "female"
+msgstr "nữ"
+
+#: map-quick/osmelementinformationmodel_data.cpp:149
+msgctxt "OSM::gender_segregation"
+msgid "male"
+msgstr "nam"
+
+#: map-quick/osmelementinformationmodel_data.cpp:150
+msgctxt "OSM::gender_segregation"
+msgid "unisex"
+msgstr "không phân biệt giới tính"
+
+#: map-quick/osmelementinformationmodel_data.cpp:162
+msgctxt "tactile writing"
+msgid "braille"
+msgstr "chữ nổi"
+
+#: map-quick/osmelementinformationmodel_data.cpp:163
+msgctxt "tactile writing"
+msgid "embossed printed letters"
+msgstr "chữ in nổi"
+
+#: map-quick/osmelementinformationmodel_data.cpp:164
+msgctxt "tactile writing"
+msgid "engraved printed letters"
+msgstr "chữ in nổi"
+
+#: map-quick/roommodel.cpp:128
+#, kde-format
+msgid "Ground floor"
+msgstr "Tầng trệt"
+
+#: map-quick/roommodel.cpp:130
+#, kde-format
+msgid "Floor %1"
+msgstr "Tầng %1"

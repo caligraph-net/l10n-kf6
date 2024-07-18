@@ -1,0 +1,467 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the isoimagewriter package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: isoimagewriter\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-12-05 00:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: isoimagewriter/common.cpp:41
+#, kde-format
+msgid "Error code: %1"
+msgstr "Mã lỗi: %1"
+
+#: isoimagewriter/imagewriter.cpp:57
+#, kde-format
+msgid "Failed to allocate memory for buffer:"
+msgstr "Không thể cấp phát bộ nhớ cho bộ đệm:"
+
+#: isoimagewriter/imagewriter.cpp:61
+#, kde-format
+msgid "Failed to allocate memory for buffer."
+msgstr "Không thể cấp phát bộ nhớ cho bộ đệm."
+
+#: isoimagewriter/imagewriter.cpp:75
+#, kde-format
+msgid "Failed to open the image file: %1"
+msgstr "Không thể mở tệp ảnh: %1"
+
+#: isoimagewriter/imagewriter.cpp:82 isoimagewriter/imagewriter.cpp:87
+#: isoimagewriter/imagewriter.cpp:92
+#, kde-format
+msgid "Failed to open compression device: %1"
+msgstr "Không thể mở thiết bị nén: %1"
+
+#: isoimagewriter/imagewriter.cpp:118
+#, kde-format
+msgid "Failed to open the drive %1"
+msgstr "Không thể mở ổ đĩa %1"
+
+#: isoimagewriter/imagewriter.cpp:125
+#, kde-format
+msgid "Failed to unmount the drive %1"
+msgstr "Không thể bỏ gắn kết ổ đĩa %1"
+
+#: isoimagewriter/imagewriter.cpp:142
+#, kde-format
+msgid ""
+"Failed to unmount the volume %1\n"
+"%2"
+msgstr "Không thể bỏ gắn kết khối %1\n%2"
+
+#: isoimagewriter/imagewriter.cpp:154
+#, kde-format
+msgid ""
+"Failed to open the target device:\n"
+"%1"
+msgstr "Không thể mở thiết bị đích:\n%1"
+
+#: isoimagewriter/imagewriter.cpp:187
+#, kde-format
+msgid ""
+"The last block was not fully written (%1 of %2 bytes)!\n"
+"Aborting."
+msgstr "Khối cuối cùng không được ghi đầy đủ (%1 trong số %2 byte)!\nĐang hủy bỏ."
+
+#: isoimagewriter/imagewriter.cpp:219
+#, kde-format
+msgid ""
+"Failed to read the image file:\n"
+"%1"
+msgstr "Không thể đọc tệp ảnh:\n%1"
+
+#: isoimagewriter/imagewriter.cpp:241
+#, kde-format
+msgid "The operation completed successfully."
+msgstr "Thao tác đã hoàn thành thành công."
+
+#: isoimagewriter/imagewriter.cpp:243
+#, kde-format
+msgid "Now you need to format your device."
+msgstr "Bây giờ bạn cần định dạng thiết bị của mình."
+
+#: isoimagewriter/imagewriter.cpp:243
+#, kde-format
+msgid ""
+"To be able to store data on this device again, please, use the button \"Wipe "
+"USB Disk\"."
+msgstr ""
+"Để có thể lưu trữ dữ liệu trên thiết bị này một lần nữa, vui lòng sử dụng "
+"nút \"Xóa Ổ Đĩa USB\"."
+
+#: isoimagewriter/isoverifier.cpp:58
+#, kde-format
+msgid "Could not verify as a known distro image."
+msgstr "Không thể xác minh là một bản phân phối hình ảnh đã biết."
+
+#: isoimagewriter/isoverifier.cpp:70
+#, kde-format
+msgid "SHA256 Checksum"
+msgstr "Giá trị tổng kiểm SHA256"
+
+#: isoimagewriter/isoverifier.cpp:71
+#, kde-format
+msgid "Paste the SHA256 checksum for this ISO:"
+msgstr "Dán giá trị tổng kiểm SHA256 cho ISO này:"
+
+#: isoimagewriter/isoverifier.cpp:129
+#, kde-format
+msgid ""
+"Could not find %1, please download PGP signature file to same directory."
+msgstr "Không tìm thấy %1, vui lòng tải về tệp chữ ký PGP vào cùng thư mục."
+
+#: isoimagewriter/isoverifier.cpp:136
+#, kde-format
+msgid "Could not open signature file"
+msgstr "Không thể mở tệp chữ ký"
+
+#: isoimagewriter/isoverifier.cpp:142
+#, kde-format
+msgid "Could not open ISO image"
+msgstr "Không thể mở ảnh ISO"
+
+#: isoimagewriter/isoverifier.cpp:162 isoimagewriter/isoverifier.cpp:237
+#, kde-format
+msgid "Key is revoked."
+msgstr "Khóa đã bị thu hồi."
+
+#: isoimagewriter/isoverifier.cpp:165 isoimagewriter/isoverifier.cpp:240
+#, kde-format
+msgid "Uses wrong signature."
+msgstr "Sử dụng chữ ký sai."
+
+#: isoimagewriter/isoverifier.cpp:169 isoimagewriter/isoverifier.cpp:244
+#, kde-format
+msgid "This app is built without verification support."
+msgstr "Ứng dụng này được xây dựng mà không có hỗ trợ xác minh."
+
+#: isoimagewriter/isoverifier.cpp:181
+#, kde-format
+msgid "Could not open SHA256SUMS file, please download to same directory"
+msgstr "Không thể mở tệp SHA256SUMS, vui lòng tải về cùng thư mục"
+
+#: isoimagewriter/isoverifier.cpp:195
+#, kde-format
+msgid "Could not find checksum in SHA256SUMS file"
+msgstr "Không tìm thấy giá trị tổng kiểm trong tệp SHA256SUMS"
+
+#: isoimagewriter/isoverifier.cpp:203 isoimagewriter/isoverifier.cpp:256
+#, kde-format
+msgid "Could not read ISO image"
+msgstr "Không thể đọc ảnh ISO"
+
+#: isoimagewriter/isoverifier.cpp:207 isoimagewriter/isoverifier.cpp:260
+#, kde-format
+msgid "Could not perform checksum"
+msgstr "Không thể thực hiện giá trị tổng kiểm"
+
+#: isoimagewriter/isoverifier.cpp:212
+#, kde-format
+msgid "Checksum of .iso file does not match value in SHA256SUMS file"
+msgstr "Giá trị tổng kiểm của tệp .iso không khớp với giá trị trong tệp SHA256SUMS"
+
+#: isoimagewriter/isoverifier.cpp:220
+#, kde-format
+msgid ""
+"Could not find SHA256SUMS.gpg, please download PGP signature file to same "
+"directory."
+msgstr ""
+"Không tìm thấy tệp SHA256SUMS.gpg, vui lòng tải về tệp chữ ký PGP vào cùng "
+"thư mục."
+
+#: isoimagewriter/isoverifier.cpp:269
+#, kde-format
+msgid "Checksum did not match"
+msgstr "Giá trị tổng kiểm không khớp"
+
+#: isoimagewriter/isoverifier.cpp:275
+#, kde-format
+msgid "Requires an SHA256 checksum"
+msgstr "Yêu cầu một giá trị tổng kiểm SHA256"
+
+#: isoimagewriter/mainapplication.cpp:27
+#, kde-format
+msgid "ISO Image Writer"
+msgstr "Trình ghi ảnh ISO"
+
+#: isoimagewriter/mainapplication.cpp:29
+#, kde-format
+msgid "Write an ISO Image to a USB Disk"
+msgstr "Ghi một ảnh ISO vào ổ đĩa USB"
+
+#: isoimagewriter/mainapplication.cpp:31
+#, kde-format
+msgid ""
+"Copyright (c) 2016 ROSA, Copyright (c) 2022 Jonathan Esk-Riddell "
+"<jr@jriddell.org>"
+msgstr ""
+"Bản quyền (c) 2016 ROSA, Bản quyền (c) 2022 Jonathan Esk-Riddell "
+"<jr@jriddell.org>"
+
+#: isoimagewriter/mainapplication.cpp:33
+#, kde-format
+msgid "Konstantin Vlasov"
+msgstr "Konstantin Vlasov"
+
+#: isoimagewriter/mainapplication.cpp:33 isoimagewriter/mainapplication.cpp:34
+#, kde-format
+msgid "Author"
+msgstr "Tác giả"
+
+#: isoimagewriter/mainapplication.cpp:34
+#, kde-format
+msgid "Jonathan Riddell"
+msgstr "Jonathan Riddell"
+
+#: isoimagewriter/mainapplication.cpp:38
+#, kde-format
+msgid "ISO file to open"
+msgstr "Tệp ISO để mở"
+
+#: isoimagewriter/mainwindow.cpp:85
+#, kde-format
+msgid "KDE ISO Image Writer"
+msgstr "Trình ghi ảnh ISO của KDE"
+
+#: isoimagewriter/mainwindow.cpp:85
+#, kde-format
+msgid "A quick and simple way to create a bootable USB drive."
+msgstr "Một cách nhanh chóng và đơn giản để tạo một ổ đĩa USB có thể khởi động."
+
+#: isoimagewriter/mainwindow.cpp:113
+#, kde-format
+msgid "Path to ISO image..."
+msgstr "Đường dẫn đến tệp ISO..."
+
+#: isoimagewriter/mainwindow.cpp:124
+#, kde-format
+msgid "Create"
+msgstr "Tạo"
+
+#: isoimagewriter/mainwindow.cpp:144
+#, kde-format
+msgid "Write this ISO image:"
+msgstr "Ghi hình ảnh ISO này:"
+
+#: isoimagewriter/mainwindow.cpp:147
+#, kde-format
+msgid "To this USB drive:"
+msgstr "Đến ổ đĩa USB này:"
+
+#: isoimagewriter/mainwindow.cpp:165
+#, kde-format
+msgid ""
+"Everything on the USB drive will be overwritten.\n"
+"\n"
+"Do you want to continue?"
+msgstr "Tất cả dữ liệu trên ổ đĩa USB sẽ bị ghi đè.\n\nBạn có muốn tiếp tục không?"
+
+#: isoimagewriter/mainwindow.cpp:171
+#, kde-format
+msgid "Downloading %1..."
+msgstr "Đang tải về %1..."
+
+#: isoimagewriter/mainwindow.cpp:184 isoimagewriter/mainwindow.cpp:222
+#, kde-format
+msgctxt "Progress percent value"
+msgid "%p%"
+msgstr "%p%"
+
+#: isoimagewriter/mainwindow.cpp:190
+#, kde-format
+msgid "Abort"
+msgstr "Huỷ bỏ"
+
+#: isoimagewriter/mainwindow.cpp:193
+#, kde-format
+msgid "Continue"
+msgstr "Tiếp tục"
+
+#: isoimagewriter/mainwindow.cpp:215
+#, kde-format
+msgid ""
+"Your USB drive is being created.\n"
+"\n"
+"This may take some time depending on the size of the ISO image file and the "
+"transfer speed."
+msgstr ""
+"USB của bạn đang được tạo.\n\nTùy thuộc vào kích thước của tệp ảnh ISO và "
+"tốc độ truyền, quá trình này có thể mất một chút thời gian."
+
+#: isoimagewriter/mainwindow.cpp:223
+#, kde-format
+msgid "Cancel"
+msgstr "huỷ"
+
+#: isoimagewriter/mainwindow.cpp:239
+#, kde-format
+msgid "Your live USB flash drive is now complete and ready to use!"
+msgstr "Đĩa USB sống của bạn đã hoàn tất và sẵn sàng để sử dụng!"
+
+#: isoimagewriter/mainwindow.cpp:246
+#, kde-format
+msgid "Back"
+msgstr "Quay lại"
+
+#: isoimagewriter/mainwindow.cpp:249
+#, kde-format
+msgid "Close"
+msgstr "Đóng"
+
+#: isoimagewriter/mainwindow.cpp:274
+#, kde-format
+msgid "Failed to open the image file:"
+msgstr "Không thể mở tệp ảnh:"
+
+#: isoimagewriter/mainwindow.cpp:289
+#, kde-format
+msgid "Verifying ISO image"
+msgstr "Xác minh ảnh ISO"
+
+#: isoimagewriter/mainwindow.cpp:369
+#, kde-format
+msgid "Please plug in a USB drive"
+msgstr "Vui lòng cắm ổ đĩa USB"
+
+#: isoimagewriter/mainwindow.cpp:461
+#, kde-format
+msgid "Cancel?"
+msgstr "Hủy?"
+
+#: isoimagewriter/mainwindow.cpp:462
+#, kde-format
+msgid "Writing is in progress, abort it?"
+msgstr "Đang ghi, bạn có muốn huỷ bỏ không?"
+
+#: isoimagewriter/mainwindow.cpp:478
+#, kde-format
+msgid "Disk Images (%1)"
+msgstr "Ảnh đĩa (%1)"
+
+#: isoimagewriter/mainwindow.cpp:479
+#, kde-format
+msgid "All Files (%1)"
+msgstr "Tất cả các tệp (%1)"
+
+#: isoimagewriter/mainwindow.cpp:480
+#, kde-format
+msgid "Select image to flash"
+msgstr "Chọn ảnh để ghi"
+
+#: isoimagewriter/mainwindow.cpp:510
+#, kde-format
+msgid "Downloading ISO image"
+msgstr "Đang tải về ảnh ISO"
+
+#: isoimagewriter/mainwindow.cpp:529
+#, kde-format
+msgid "Unknown Disk Size"
+msgstr "Kích thước đĩa không rõ"
+
+#: isoimagewriter/mainwindow.cpp:530
+#, kde-format
+msgid ""
+"The selected disk is of unknown size, please check the image will fit before "
+"writing.\n"
+"\n"
+"Image size: %1 (%2 b)"
+msgstr ""
+"Đĩa đã chọn có kích thước không rõ, vui lòng kiểm tra xem ảnh sẽ vừa trước "
+"khi ghi.\n\nKích thước ảnh: %1 (%2 b)"
+
+#: isoimagewriter/mainwindow.cpp:541 isoimagewriter/mainwindow.cpp:601
+#, kde-format
+msgid "Error"
+msgstr "Lỗi"
+
+#: isoimagewriter/mainwindow.cpp:542
+#, kde-format
+msgid ""
+"The image is larger than your selected device!\n"
+"\n"
+"Image size: %1 (%2 b)\n"
+"Disk size: %3 (%4 b)"
+msgstr ""
+"Ảnh lớn hơn thiết bị đã chọn!\n\nKích thước ảnh: %1 (%2 b)\nKích thước đĩa: "
+"%3 (%4 b)"
+
+#: isoimagewriter/mainwindow.cpp:629
+#, kde-format
+msgid "The ISO image is valid"
+msgstr "Ảnh ISO hợp lệ"
+
+#: isoimagewriter/mainwindow.cpp:636
+#, kde-format
+msgid "Could not find the key to verify the ISO image"
+msgstr "Không thể tìm thấy khóa để xác minh ảnh ISO"
+
+#: isoimagewriter/mainwindow.cpp:638
+#, kde-format
+msgid "Could not verify ISO image"
+msgstr "Không thể xác minh ảnh ISO"
+
+#: isoimagewriter/mainwindow.cpp:639
+#, kde-format
+msgid "ISO Verification failed"
+msgstr "Xác minh ISO thất bại"
+
+#: isoimagewriter/physicaldevice.cpp:56
+#, kde-format
+msgid "Could not acquire lock:"
+msgstr "Không thể lấy được khóa:"
+
+#: isoimagewriter/platform_win.cpp:94
+#, kde-format
+msgid "CoCreateInstance(WbemAdministrativeLocator) failed."
+msgstr "CoCreateInstance(WbemAdministrativeLocator) không thành công."
+
+#: isoimagewriter/platform_win.cpp:95
+#, kde-format
+msgid "ConnectServer failed."
+msgstr "Kết nối máy chủ không thành công."
+
+#: isoimagewriter/platform_win.cpp:96
+#, kde-format
+msgid "Failed to query USB flash devices."
+msgstr "Không thể truy vấn các thiết bị USB flash."
+
+#: isoimagewriter/platform_win.cpp:160
+#, kde-format
+msgid "Failed to query list of partitions."
+msgstr "Không thể truy vấn danh sách các phân vùng."
+
+#: isoimagewriter/platform_win.cpp:192
+#, kde-format
+msgid "Failed to query list of logical disks."
+msgstr "Không thể truy vấn danh sách các ổ đĩa luận lí."
+
+#: isoimagewriter/usbdevice.h:23
+#, kde-format
+msgid "Unknown Device"
+msgstr "Thiết bị không rõ"
+
+#: isoimagewriter/usbdevice.h:32
+#, kde-format
+msgid "<unmounted>"
+msgstr "<unmounted>"

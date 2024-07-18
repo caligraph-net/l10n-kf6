@@ -1,0 +1,159 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdepim-runtime package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdepim-runtime\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-05-26 00:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: tomboyitemuploadjob.cpp:107 tomboyitemuploadjob.cpp:113
+#, kde-format
+msgid "Sync error. Server status not as expected."
+msgstr "Lỗi đồng bộ. Trạng thái máy chủ không như mong đợi."
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, TomboyNotesAgentConfigWidget)
+#: tomboynotesagentconfigwidget.ui:14
+#, kde-format
+msgid "Tomboy Server Settings"
+msgstr "Thiết lập Máy Chủ Tomboy"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab)
+#: tomboynotesagentconfigwidget.ui:36
+#, kde-format
+msgid "Tomboy"
+msgstr "Tomboy"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: tomboynotesagentconfigwidget.ui:42
+#, kde-format
+msgid "Display name:"
+msgstr "Tên hiển thị:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: tomboynotesagentconfigwidget.ui:56
+#, kde-format
+msgid "Type in the server URL:"
+msgstr "Nhập URL của máy chủ:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, kcfg_ServerURL)
+#: tomboynotesagentconfigwidget.ui:63
+#, kde-format
+msgid "This value is not changeable after first setup"
+msgstr "Giá trị này không thể thay đổi sau khi cài đặt lần đầu"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: tomboynotesagentconfigwidget.ui:76
+#, kde-format
+msgid "Update interval:"
+msgstr "Khoảng thời gian cập nhật:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: tomboynotesagentconfigwidget.ui:86
+#, kde-format
+msgid "minutes"
+msgstr "phút"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ReadOnly)
+#: tomboynotesagentconfigwidget.ui:96
+#, kde-format
+msgid "Open in read-only mode"
+msgstr "Mở ở chế độ chỉ đọc"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ignoreSslErrors)
+#: tomboynotesagentconfigwidget.ui:103
+#, kde-format
+msgid "Ignore SSL errors"
+msgstr "Bỏ qua lỗi SSL"
+
+#: tomboynotesconfigwidget.cpp:48
+#, kde-format
+msgid "Tomboy Notes %1"
+msgstr "Ghi chú %1"
+
+#: tomboynotesresource.cpp:61 tomboynotesresource.cpp:82
+#: tomboynotesresource.cpp:101
+#, kde-format
+msgid "Resource configuration is not valid"
+msgstr "Cấu hình tài nguyên không hợp lệ"
+
+#: tomboynotesresource.cpp:227 tomboynotesresource.cpp:248
+#: tomboynotesresource.cpp:268
+#, kde-format
+msgid "Resource is read-only"
+msgstr "Tài nguyên chỉ đọc"
+
+#. i18n: ectx: label, entry (collectionName), group (General)
+#: tomboynotesresource.kcfg:10
+#, kde-format
+msgid "The display name of this resource"
+msgstr "Tên hiển thị của tài nguyên này"
+
+#. i18n: ectx: label, entry (ServerURL), group (General)
+#: tomboynotesresource.kcfg:14
+#, kde-format
+msgid "The URL to the Tomboy sync server"
+msgstr "URL của máy chủ đồng bộ Tomboy"
+
+#. i18n: ectx: label, entry (contentURL), group (General)
+#: tomboynotesresource.kcfg:18
+#, kde-format
+msgid "The URL to the notes on the Tomboy sync server"
+msgstr "Địa chỉ URL của các ghi chú trên máy chủ đồng bộ Tomboy"
+
+#. i18n: ectx: label, entry (userURL), group (General)
+#: tomboynotesresource.kcfg:22
+#, kde-format
+msgid "The URL to the user data on the Tomboy sync server"
+msgstr "Địa chỉ URL của dữ liệu người dùng trên máy chủ đồng bộ Tomboy"
+
+#. i18n: ectx: label, entry (requestToken), group (General)
+#: tomboynotesresource.kcfg:26
+#, kde-format
+msgid "The request token to the Tomboy sync server"
+msgstr "Hiệu bài yêu cầu đến máy chủ đồng bộ Tomboy"
+
+#. i18n: ectx: label, entry (requestTokenSecret), group (General)
+#: tomboynotesresource.kcfg:30
+#, kde-format
+msgid "The request token secret to the Tomboy sync server"
+msgstr "Mã bí mật của hiệu bài yêu cầu đến máy chủ同步 Tomboy"
+
+#. i18n: ectx: label, entry (ConflictHandling), group (General)
+#: tomboynotesresource.kcfg:34
+#, kde-format
+msgid "The way how conflicts should be handled"
+msgstr "Cách xử lý xung đột"
+
+#. i18n: ectx: label, entry (ReadOnly), group (General)
+#: tomboynotesresource.kcfg:38
+#, kde-format
+msgid "Do not change the actual backend data."
+msgstr "Không thay đổi dữ liệu hậu phương thực tế."
+
+#. i18n: ectx: label, entry (ignoreSslErrors), group (General)
+#: tomboynotesresource.kcfg:42
+#, kde-format
+msgid "Ignore SSL errors."
+msgstr "Bỏ qua lỗi SSL."
+
+#. i18n: ectx: label, entry (refreshInterval), group (General)
+#: tomboynotesresource.kcfg:46
+#, kde-format
+msgid "Refresh every"
+msgstr "Cập nhật mỗi"
+
+#: tomboyserverauthenticatejob.cpp:58
+#, kde-format
+msgid "Authorization failed. It could be an SSL error."
+msgstr "Uỷ quyền thất bại. Có thể đây là lỗi SSL."

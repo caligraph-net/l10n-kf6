@@ -48,10 +48,10 @@ msgid "15 min"
 msgstr "15 phút"
 
 #: mobilepower.cpp:36
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "10 min"
 msgid "30 min"
-msgstr "10 phút"
+msgstr "30 phút"
 
 #: mobilepower.cpp:37
 #, kde-format
@@ -124,12 +124,12 @@ msgid "Current Charge"
 msgstr "Lượng sạc hiện tại"
 
 #: ui/BatteryPage.qml:108 ui/BatteryPage.qml:116
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "%1 is value, %2 is unit"
 #| msgid "%1 %2"
 msgctxt "%1 is percentage value"
 msgid "%1 %"
-msgstr "%1 %2"
+msgstr "%1 %"
 
 #: ui/BatteryPage.qml:115
 #, kde-format
@@ -192,12 +192,12 @@ msgid "Unknown technology"
 msgstr "Công nghệ không rõ"
 
 #: ui/Graph.qml:141
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "%1 is value, %2 is unit"
 #| msgid "%1%2"
 msgctxt "%1 is a percentage value"
 msgid "%1%"
-msgstr "%1 %2"
+msgstr "%1%"
 
 #: ui/main.qml:33
 #, kde-format
@@ -245,12 +245,12 @@ msgid "Unknown battery"
 msgstr "Pin không rõ"
 
 #: ui/main.qml:89
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "%1 is value, %2 is unit"
 #| msgid "%1%2"
 msgctxt "%1 is the charge percent, % is the percent sign"
 msgid "%1%"
-msgstr "%1 %2"
+msgstr "%1%"
 
 #: ui/main.qml:91
 #, kde-format

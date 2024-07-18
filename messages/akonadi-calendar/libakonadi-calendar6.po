@@ -1,0 +1,1984 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the akonadi-calendar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: akonadi-calendar\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-04 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: calendarbase.cpp:265
+#, kde-format
+msgid "Could not find incidence to update, it probably was deleted recently."
+msgstr "Không tìm thấy sự kiện để cập nhật, có thể nó đã bị xóa gần đây."
+
+#: calendarclipboard.cpp:67
+#, kde-format
+msgid "Error performing deletion."
+msgstr "Lỗi khi thực hiện xóa."
+
+#: calendarclipboard.cpp:72
+#, kde-format
+msgid "Error performing copy."
+msgstr "Lỗi khi thực hiện sao chép."
+
+#: calendarclipboard.cpp:96
+#, kde-format
+msgid "Can't find item: %1"
+msgstr "Không thể tìm thấy mục: %1"
+
+#: calendarclipboard.cpp:112 calendarclipboard.cpp:129
+#, kde-format
+msgid "Error while removing relations."
+msgstr "Lỗi khi xóa các mối quan hệ."
+
+#: calendarclipboard.cpp:158
+#, kde-format
+msgid "Error while deleting incidences: %1"
+msgstr "Lỗi khi xóa các sự kiện: %1"
+
+#: calendarclipboard.cpp:175
+#, kde-format
+msgid ""
+"The item \"%1\" has sub-to-dos. Do you want to cut just this item and make "
+"all its sub-to-dos independent, or cut the to-do with all its sub-to-dos?"
+msgstr ""
+"Mục \"%1\" có các công việc con. Bạn muốn cắt chỉ mục này và làm cho tất cả "
+"các công việc con của nó độc lập, hay cắt công việc cùng với tất cả các "
+"công việc con?"
+
+#: calendarclipboard.cpp:180 calendarclipboard.cpp:219
+#, kde-format
+msgctxt "@title:window"
+msgid "KOrganizer Confirmation"
+msgstr "Xác nhận KOrganizer"
+
+#: calendarclipboard.cpp:181
+#, kde-format
+msgctxt "@action:button"
+msgid "Cut Only This"
+msgstr "Chỉ cắt"
+
+#: calendarclipboard.cpp:182
+#, kde-format
+msgctxt "@action:button"
+msgid "Cut All"
+msgstr "Cắt Tất Cả"
+
+#: calendarclipboard.cpp:215
+#, kde-format
+msgid ""
+"The item \"%1\" has sub-to-dos. Do you want to copy just this item or copy "
+"the to-do with all its sub-to-dos?"
+msgstr ""
+"Mục \"%1\" có các công việc con. Bạn muốn chỉ sao chép mục này hay sao chép "
+"công việc cùng với tất cả các công việc con của nó?"
+
+#: calendarclipboard.cpp:220
+#, kde-format
+msgctxt "@action:button"
+msgid "Copy Only This"
+msgstr "Chỉ sao chép"
+
+#: calendarclipboard.cpp:221
+#, kde-format
+msgctxt "@action:button"
+msgid "Copy All"
+msgstr "Sao chép Tất cả"
+
+#: calendarmodel.cpp:192
+#, kde-format
+msgctxt "@title:column calendar event summary"
+msgid "Summary"
+msgstr "Tóm tắt"
+
+#: calendarmodel.cpp:194
+#, kde-format
+msgctxt "@title:column calendar event start date and time"
+msgid "Start Date and Time"
+msgstr "Ngày và Giờ Bắt Đầu"
+
+#: calendarmodel.cpp:196
+#, kde-format
+msgctxt "@title:column calendar event end date and time"
+msgid "End Date and Time"
+msgstr "Ngày và Giờ Kết Thúc"
+
+#: calendarmodel.cpp:198
+#, kde-format
+msgctxt "@title:column calendar event type"
+msgid "Type"
+msgstr "Kiểu"
+
+#: calendarmodel.cpp:200
+#, kde-format
+msgctxt "@title:column todo item due date and time"
+msgid "Due Date and Time"
+msgstr "Ngày và Giờ Đến Hạn"
+
+#: calendarmodel.cpp:202
+#, kde-format
+msgctxt "@title:column todo item priority"
+msgid "Priority"
+msgstr "Ưu tiên"
+
+#: calendarmodel.cpp:204
+#, kde-format
+msgctxt "@title:column todo item completion in percent"
+msgid "Complete"
+msgstr "Hoàn tất"
+
+#: calendarmodel.cpp:213
+#, kde-format
+msgctxt "@title:column calendar title"
+msgid "Calendar"
+msgstr "Lịch"
+
+#. i18n: ectx: label, entry (FreeBusyPublishUrl), group (FreeBusy Publish)
+#: calendarsettings.kcfg:23
+#, kde-format
+msgid "Free/Busy Publish URL"
+msgstr "URL Xuất bản Rảnh/Bận"
+
+#. i18n: ectx: whatsthis, entry (FreeBusyPublishUrl), group (FreeBusy Publish)
+#: calendarsettings.kcfg:24
+#, kde-format
+msgid "URL for publishing free/busy information"
+msgstr "URL để xuất bản thông tin lịch trống/bận"
+
+#. i18n: ectx: label, entry (FreeBusyPublishUser), group (FreeBusy Publish)
+#: calendarsettings.kcfg:28
+#, kde-format
+msgid "Free/Busy Publish Username"
+msgstr "Tên người dùng xuất bản Rảnh/Bận"
+
+#. i18n: ectx: whatsthis, entry (FreeBusyPublishUser), group (FreeBusy Publish)
+#: calendarsettings.kcfg:29
+#, kde-format
+msgid "Username for publishing free/busy information"
+msgstr "Tên người dùng để xuất bản thông tin lịch rảnh/bận"
+
+#. i18n: ectx: label, entry (FreeBusyPublishPassword), group (FreeBusy Publish)
+#: calendarsettings.kcfg:33
+#, kde-format
+msgid "Free/Busy Publish Password"
+msgstr "Mật khẩu xuất bản Rảnh/Bận"
+
+#. i18n: ectx: whatsthis, entry (FreeBusyPublishPassword), group (FreeBusy Publish)
+#: calendarsettings.kcfg:34
+#, kde-format
+msgid "Password for publishing free/busy information"
+msgstr "Mật khẩu để xuất bản thông tin lịch rảnh/bận"
+
+#. i18n: ectx: label, entry (FreeBusyRetrieveAuto), group (FreeBusy Retrieve)
+#: calendarsettings.kcfg:45
+#, kde-format
+msgid "Enable Automatic Free/Busy Retrieval"
+msgstr "Bật Tự động Lấy Trạng thái Rảnh/Bận"
+
+#. i18n: ectx: label, entry (FreeBusyFullDomainRetrieval), group (FreeBusy Retrieve)
+#: calendarsettings.kcfg:50
+#, kde-format
+msgid "Use full email address for retrieval"
+msgstr "Sử dụng địa chỉ email đầy đủ để truy xuất"
+
+#. i18n: ectx: whatsthis, entry (FreeBusyFullDomainRetrieval), group (FreeBusy Retrieve)
+#: calendarsettings.kcfg:51
+#, kde-format
+msgid ""
+"With this setting, you can change the filename that will be fetched from the "
+"server. With this checked, it will download a free/busy file called "
+"user@domain.ifb, for example nn@kde.org.ifb. Without this set, it will "
+"download user.ifb, for example nn.ifb."
+msgstr ""
+"Với cài đặt này, bạn có thể thay đổi tên tệp sẽ được tải về từ máy chủ. Khi "
+"được chọn, nó sẽ tải về một tệp lịch trống/bận gọi là user@domain.ifb, ví "
+"dụ nn@kde.org.ifb. Nếu không được cài đặt, nó sẽ tải về user.ifb, ví dụ "
+"nn.ifb."
+
+#. i18n: ectx: label, entry (FreeBusyRetrieveUrl), group (FreeBusy Retrieve)
+#: calendarsettings.kcfg:56
+#, kde-format
+msgid "Free/Busy Retrieval URL"
+msgstr "URL Lấy Thông Tin Rảnh/Bận"
+
+#. i18n: ectx: label, entry (FreeBusyRetrieveUser), group (FreeBusy Retrieve)
+#: calendarsettings.kcfg:60
+#, kde-format
+msgid "Free/Busy Retrieval Username"
+msgstr "Tên người dùng lấy thông tin Rảnh/Bận"
+
+#. i18n: ectx: label, entry (FreeBusyRetrievePassword), group (FreeBusy Retrieve)
+#: calendarsettings.kcfg:64
+#, kde-format
+msgid "Free/Busy Retrieval Password"
+msgstr "Mật khẩu lấy thông tin Rảnh/Bận"
+
+#. i18n: ectx: whatsthis, entry (FreeBusyRetrievePassword), group (FreeBusy Retrieve)
+#: calendarsettings.kcfg:65
+#, kde-format
+msgid "Password for retrieving free/busy information"
+msgstr "Mật khẩu để lấy thông tin lịch trống/bận"
+
+#. i18n: ectx: label, entry, group (Group Scheduling)
+#: calendarsettings.kcfg:76
+#, kde-format
+msgid "Send copy to owner when mailing events"
+msgstr "Gửi bản sao cho chủ sở hữu khi gửi email sự kiện"
+
+#. i18n: ectx: whatsthis, entry, group (Group Scheduling)
+#: calendarsettings.kcfg:77
+#, kde-format
+msgid ""
+"Check this box to get a copy of all e-mail messages that KOrganizer sends at "
+"your request to event attendees."
+msgstr ""
+"Đánh dấu vào ô này để nhận bản sao của tất cả các thư điện tử mà KOrganizer "
+"gửi theo yêu cầu của bạn cho những người tham dự sự kiện."
+
+#. i18n: ectx: label, entry (HideDeclinedInvitations), group (Group Scheduling)
+#: calendarsettings.kcfg:82
+#, kde-format
+msgid "Hide declined invitations"
+msgstr "Ẩn lời mời đã từ chối"
+
+#. i18n: ectx: whatsthis, entry (HideDeclinedInvitations), group (Group Scheduling)
+#: calendarsettings.kcfg:83
+#, kde-format
+msgid "Check this box to hide declined invitations in event views."
+msgstr "Chọn hộp này để ẩn lời mời đã từ chối trong các chế độ xem sự kiện."
+
+#. i18n: ectx: label, entry, group (Reminders)
+#: calendarsettings.kcfg:91
+#, kde-format
+msgid "Only show reminders for events I organize or attend"
+msgstr "Chỉ hiển thị lời nhắc cho các sự kiện mà tôi tổ chức hoặc tham dự"
+
+#. i18n: ectx: whatsthis, entry, group (Reminders)
+#: calendarsettings.kcfg:92
+#, kde-format
+msgid ""
+"Check this to only receive reminders for events that you are the organizer "
+"of or that you are attending."
+msgstr ""
+"Chọn tùy chọn này để chỉ nhận được lời nhắc về các sự kiện mà bạn là người "
+"tổ chức hoặc tham gia."
+
+#. i18n: ectx: label, entry (OutlookCompatCounterProposals), group (Hidden Options)
+#: calendarsettings.kcfg:100
+#, kde-format
+msgid "Send Outlook-like pseudo counter proposals"
+msgstr "Gửi các đề xuất giả mạo kiểu Outlook"
+
+#. i18n: ectx: label, entry (FreeBusyCheckHostname), group (Hidden Options)
+#: calendarsettings.kcfg:105
+#, kde-format
+msgid "Check whether hostname and retrieval email address match"
+msgstr "Kiểm tra xem tên máy chủ và địa chỉ email lấy về có khớp không"
+
+#. i18n: ectx: whatsthis, entry (FreeBusyCheckHostname), group (Hidden Options)
+#: calendarsettings.kcfg:106
+#, kde-format
+msgid ""
+"With this setting you can configure whether the domain part of the free/busy "
+"URL has to match the domain part of the user ID you are looking for. For "
+"example, if this option is set, then looking for the free/busy data of "
+"joe@mydomain.com on the server www.yourdomain.com will fail."
+msgstr ""
+"Với thiết lập này, bạn có thể cấu hình xem liệu phần miền của URL trạng "
+"thái rảnh/bận có phải khớp với phần miền của mã định danh người dùng mà bạn "
+"đang tìm kiếm hay không. Ví dụ, nếu tùy chọn này được bật, thì việc tìm "
+"kiếm dữ liệu trạng thái rảnh/bận của joe@mydomain.com trên máy chủ "
+"www.yourdomain.com sẽ không thành công."
+
+#: calendarutils.cpp:103 calendarutils.cpp:120 calendarutils.cpp:168
+#: todomodel.cpp:477
+#, kde-format
+msgid "Calendar"
+msgstr "Lịch"
+
+#: calendarutils.cpp:108 calendarutils.cpp:120 calendarutils.cpp:170
+#, kde-format
+msgid "Tasks"
+msgstr "Nhiệm vụ"
+
+#: calendarutils.cpp:113 calendarutils.cpp:120 calendarutils.cpp:172
+#, kde-format
+msgid "Journal"
+msgstr "Nhật ký"
+
+#: calendarutils.cpp:118 calendarutils.cpp:120 calendarutils.cpp:174
+#, kde-format
+msgid "Notes"
+msgstr "ghi chú"
+
+#: calendarutils.cpp:133
+#, kde-format
+msgctxt "%1 is folder contents"
+msgid "My Kolab %1"
+msgstr "Thư mục %1 của tôi"
+
+#: calendarutils.cpp:136
+#, kde-format
+msgctxt "%1 is folder name, %2 is folder contents"
+msgid "Shared Kolab %1 %2"
+msgstr "Chia sẻ Kolab %1 %2"
+
+#: calendarutils.cpp:139
+#, kde-format
+msgctxt "%1 is folder owner name, %2 is folder contents"
+msgid "%1's Kolab %2"
+msgstr "%1 Kolab %2"
+
+#: calendarutils.cpp:141
+#, kde-format
+msgctxt "%1 is folder owner name, %2 is folder name, %3 is folder contents"
+msgid "%1's %2 Kolab %3"
+msgstr "%1 %2 Kolab %3"
+
+#: calendarutils.cpp:145
+#, kde-format
+msgctxt "%1 is folder contents"
+msgid "Kolab %1"
+msgstr "Kolab %1"
+
+#: calendarutils.cpp:152
+#, kde-format
+msgctxt "%1 is the folder name"
+msgid "%1 in %2"
+msgstr "%1 trong %2"
+
+#: calendarutils.cpp:185
+#, kde-format
+msgctxt "%1 is folder owner name, %2 is folder contents"
+msgid "%1's Google %2"
+msgstr "%1 của Google %2"
+
+#: calendarutils.cpp:187
+#, kde-format
+msgctxt "%1 is folder owner name, %2 is folder name"
+msgid "%1's %2"
+msgstr "%1 của %2"
+
+#: calendarutils.cpp:190
+#, kde-format
+msgctxt "%1 is folder contents"
+msgid "Google %1"
+msgstr "Google %1"
+
+#: calendarutils.cpp:198
+#, kde-format
+msgid "My %1"
+msgstr "Của tôi %1"
+
+#: calendarutils.cpp:202
+#, kde-format
+msgctxt "unknown resource"
+msgid "Unknown"
+msgstr "không rõ"
+
+#: freebusymanager.cpp:380
+#, kde-format
+msgid ""
+"Failed to download free/busy data from: %1\n"
+"Reason: %2"
+msgstr "Không thể tải về dữ liệu lịch trống/bận từ: %1\nLý do: %2"
+
+#: freebusymanager.cpp:381 freebusymanager.cpp:404
+#, kde-format
+msgctxt "@title:window"
+msgid "Free/Busy Retrieval Error"
+msgstr "Lỗi Truy Xuất Trạng Thái Rảnh/Bận"
+
+#: freebusymanager.cpp:403
+#, kde-format
+msgid "Failed to parse free/busy information that was retrieved from: %1"
+msgstr "Không thể phân tách thông tin lịch rảnh/bận được truy xuất từ: %1"
+
+#: freebusymanager.cpp:418
+#, kde-format
+msgid ""
+"<qt><p>The software could not upload your free/busy list to the URL '%1'. "
+"There might be a problem with the access rights, or you specified an "
+"incorrect URL. The system said: <em>%2</em>.</p><p>Please check the URL or "
+"contact your system administrator.</p></qt>"
+msgstr ""
+"<qt><p>Phần mềm không tải lên được danh sách rảnh/bận của bạn lên URL '%1'. "
+"Có thể có vấn đề với quyền truy cập, hoặc bạn đã nhập sai URL. Hệ thống "
+"báo: <em>%2</em>.</p><p>Vui lòng kiểm tra lại URL hoặc liên hệ với quản trị "
+"viên hệ thống của bạn.</p></qt>"
+
+#: freebusymanager.cpp:619
+#, kde-format
+msgid "The free/busy information was successfully sent."
+msgstr "Thông tin lịch trống/bận đã được gửi thành công."
+
+#: freebusymanager.cpp:620 itiphandler_p.cpp:136
+#, kde-format
+msgctxt "@title:window"
+msgid "Sending Free/Busy"
+msgstr "Đang gửi Lịch rảnh/bận"
+
+#: freebusymanager.cpp:623
+#, kde-format
+msgid "Unable to publish the free/busy data: %1"
+msgstr "Không thể xuất bản dữ liệu lịch trống/bận: %1"
+
+#: freebusymanager.cpp:747
+#, kde-format
+msgid ""
+"<qt><p>No URL configured for uploading your free/busy list. Please set it in "
+"KOrganizer's configuration dialog, on the \"Free/Busy\" page.</p><p>Contact "
+"your system administrator for the exact URL and the account details.</p></qt>"
+msgstr ""
+"<qt><p>Chưa cấu hình URL để tải lên danh sách rảnh/bận của bạn. Vui lòng "
+"thiết lập nó trong hộp thoại cấu hình của KOrganizer, trên trang "
+"\"Rảnh/Bận\".</p><p>Liên hệ với quản trị viên hệ thống của bạn để biết URL "
+"chính xác và chi tiết tài khoản.</p></qt>"
+
+#: freebusymanager.cpp:752
+#, kde-format
+msgctxt "@title:window"
+msgid "No Free/Busy Upload URL"
+msgstr "Không có URL tải lên Rảnh/Bận"
+
+#: freebusymanager.cpp:762
+#, kde-format
+msgid "<qt>The target URL '%1' provided is invalid.</qt>"
+msgstr "<qt>URL đích '%1' được cung cấp không hợp lệ.</qt>"
+
+#: freebusymanager.cpp:763
+#, kde-format
+msgctxt "@title:window"
+msgid "Invalid URL"
+msgstr "URL không hợp lệ"
+
+#: history_p.cpp:71
+#, kde-format
+msgid "General error"
+msgstr "Lỗi chung"
+
+#: history_p.cpp:82
+#, kde-format
+msgctxt "%1 is event, todo or journal"
+msgid "%1 creation"
+msgstr "Tạo %1"
+
+#: history_p.cpp:150
+#, kde-format
+msgctxt "%1 is event, todo or journal"
+msgid "%1 deletion"
+msgstr "Xóa %1"
+
+#: history_p.cpp:232
+#, kde-format
+msgctxt "%1 is event, todo or journal"
+msgid "%1 modification"
+msgstr "Chỉnh sửa %1"
+
+#: icalimporter.cpp:83
+#, kde-format
+msgid "Error creating ical resource: %1"
+msgstr "Lỗi khi tạo tài nguyên ical: %1"
+
+#: icalimporter.cpp:93
+#, kde-format
+msgid "Failed to obtain D-Bus interface for remote configuration."
+msgstr "Không thể lấy được giao diện D-Bus cho cấu hình từ xa."
+
+#: icalimporter.cpp:118
+#, kde-format
+msgid "Could not download remote file."
+msgstr "Không thể tải về tệp từ xa."
+
+#: icalimporter.cpp:141 icalimporter.cpp:162
+#, kde-format
+msgid "An import task is already in progress."
+msgstr "Một tác vụ nhập khẩu đang được thực hiện."
+
+#: icalimporter.cpp:167
+#, kde-format
+msgid "Empty filename. Will not import ical file."
+msgstr "Tên tệp trống. Sẽ không nhập khẩu tệp ical."
+
+#: icalimporter.cpp:172
+#, kde-format
+msgid "Url to import is malformed."
+msgstr "Đường dẫn URL để nhập khẩu không hợp lệ."
+
+#: icalimporter.cpp:179
+#, kde-format
+msgid "The selected file is not a readable file."
+msgstr "Tệp đã chọn không phải là tệp có thể đọc được."
+
+#: icalimporter.cpp:187
+#, kde-format
+msgid ""
+"The selected file is not properly formatted, or in a format not supported by "
+"this software."
+msgstr ""
+"Tệp đã chọn không được định dạng đúng cách hoặc không ở định dạng được phần "
+"mềm này hỗ trợ."
+
+#: icalimporter.cpp:195
+#, kde-format
+msgid "The selected file is empty."
+msgstr "Tệp đã chọn trống."
+
+#: icalimporter.cpp:213
+#, kde-format
+msgid "Merge ical file into existing calendar."
+msgstr "Trộn tệp ical vào lịch hiện có."
+
+#: incidencechanger.cpp:260
+#, kde-format
+msgid "Error while trying to create calendar item. Error was: %1"
+msgstr "Đã xảy ra lỗi khi cố gắng tạo mục lịch. Lỗi là: %1"
+
+#: incidencechanger.cpp:339
+#, kde-format
+msgid "Error while trying to delete calendar item. Error was: %1"
+msgstr "Đã xảy ra lỗi khi cố gắng xóa mục lịch. Lỗi là: %1"
+
+#: incidencechanger.cpp:374
+#, kde-format
+msgctxt "errormessage for a job ended with an unexpected result"
+msgid "An unknown error occurred"
+msgstr "Đã xảy ra lỗi không rõ"
+
+#: incidencechanger.cpp:411
+#, kde-format
+msgid "Error while trying to modify calendar item. Error was: %1"
+msgstr "Lỗi khi cố gắng chỉnh sửa mục lịch. Lỗi là: %1"
+
+#: incidencechanger.cpp:805 incidencechanger.cpp:929
+#, kde-format
+msgid "That calendar item was already deleted, or currently being deleted."
+msgstr "Mục lịch này đã bị xóa hoặc đang được xóa."
+
+#: incidencechanger.cpp:1195
+#, kde-format
+msgid "Operation can not be performed due to ACL restrictions"
+msgstr "Không thể thực hiện thao tác do các hạn chế ACL"
+
+#: incidencechanger.cpp:1198
+#, kde-format
+msgid "The chosen collection is invalid"
+msgstr "Bộ sưu tập đã chọn không hợp lệ"
+
+#: incidencechanger.cpp:1202
+#, kde-format
+msgid ""
+"Default collection is invalid or doesn't have proper ACLs and "
+"DestinationPolicyNeverAsk was used"
+msgstr ""
+"Bộ sưu tập mặc định không hợp lệ hoặc không có ACL thích hợp và "
+"DestinationPolicyNeverAsk đã được sử dụng"
+
+#: incidencechanger.cpp:1206
+#, kde-format
+msgid "Duplicate item id in a group operation"
+msgstr "Trùng lặp mã định danh mục trong một thao tác nhóm"
+
+#: incidencechanger.cpp:1210
+#, kde-format
+msgid ""
+"One change belonging to a group of changes failed. All changes are being "
+"rolled back."
+msgstr ""
+"Một thay đổi thuộc về một nhóm các thay đổi đã thất bại. Tất cả các thay "
+"đổi đang được hoàn tác."
+
+#: incidencechanger.cpp:1215
+#, kde-format
+msgid "Unknown error"
+msgstr "Lỗi không rõ"
+
+#: itiphandler.cpp:110
+#, kde-format
+msgid "Error loading calendar."
+msgstr "Lỗi khi tải lịch."
+
+#: itiphandler.cpp:118
+#, kde-format
+msgid "Error message: %1"
+msgstr "Thông báo lỗi: %1"
+
+#: itiphandler.cpp:119
+#, kde-format
+msgid "Unknown error while parsing iCal invitation"
+msgstr "Lỗi không rõ khi phân tích lời mời iCal"
+
+#: itiphandler.cpp:125
+#, kde-format
+msgid "Error while processing an invitation or update."
+msgstr "Đã xảy ra lỗi khi xử lý một lời mời hoặc cập nhật."
+
+#: itiphandler.cpp:142
+#, kde-format
+msgid "Invalid incidence"
+msgstr "Sự kiện không hợp lệ"
+
+#: itiphandler.cpp:209
+#, kde-format
+msgid "Invalid action: %1"
+msgstr "Hành động không hợp lệ: %1"
+
+#: itiphandler.cpp:232
+#, kde-format
+msgid "Error sending counter proposal"
+msgstr "Lỗi khi gửi đề xuất đối lập"
+
+#: itiphandler.cpp:239
+#, kde-format
+msgid "Could not start editor to edit counter proposal"
+msgstr "Không thể khởi động trình biên tập để sửa đề xuất đối lập"
+
+#: itiphandler.cpp:270
+#, kde-format
+msgid ""
+"The item '%1' has no attendees. Therefore no groupware message will be sent."
+msgstr ""
+"Mục '%1' không có người tham dự. Do đó, không có thông điệp groupware nào "
+"được gửi."
+
+#: itiphandler.cpp:273
+#, kde-format
+msgctxt "@title:window"
+msgid "Message Not Sent"
+msgstr "Thông điệp chưa được gửi"
+
+#: itiphandler.h:102 itiphandler.h:120 itiphandler.h:136 itiphandler.h:149
+#, kde-format
+msgctxt "@action:button dialog positive answer"
+msgid "Send Email"
+msgstr "Gửi thư điện tử"
+
+#: itiphandler.h:103 itiphandler.h:121 itiphandler.h:137 itiphandler.h:150
+#, kde-format
+msgctxt "@action:button dialog negative answer"
+msgid "Do Not Send"
+msgstr "Không gửi"
+
+#: itiphandler_p.cpp:59 itiphandler_p.cpp:61 itiphandler_p.cpp:115
+#: itiphandlerhelper_p.cpp:510
+#, kde-format
+msgid "Error: %1"
+msgstr "Lỗi: %1"
+
+#: itiphandler_p.cpp:81
+#, kde-format
+msgid "Error loading calendar: %1"
+msgstr "Lỗi khi tải lịch: %1"
+
+#: itiphandler_p.cpp:132
+#, kde-format
+msgid ""
+"The groupware message for item '%1' was successfully sent.\n"
+"Method: %2"
+msgstr "Thông điệp groupware cho mục '%1' đã được gửi thành công.\nPhương thức: %2"
+
+#: itiphandler_p.cpp:144
+#, kde-format
+msgctxt ""
+"Groupware message sending failed. %2 is request/reply/add/cancel/counter/etc."
+msgid ""
+"Unable to send the item '%1'.\n"
+"Method: %2"
+msgstr "Không thể gửi mục '%1'.\nPhương thức: %2"
+
+#: itiphandler_p.cpp:160 itiphandler_p.cpp:180
+#, kde-format
+msgid "The item information was successfully sent."
+msgstr "Thông tin mục đã được gửi thành công."
+
+#: itiphandler_p.cpp:161
+#, kde-format
+msgctxt "@title:window"
+msgid "Publishing"
+msgstr "Đang xuất bản"
+
+#: itiphandler_p.cpp:166
+#, kde-format
+msgid "Unable to publish the item '%1'"
+msgstr "Không thể xuất bản mục '%1'"
+
+#: itiphandler_p.cpp:181
+#, kde-format
+msgctxt "@title:window"
+msgid "Forwarding"
+msgstr "Chuyển tiếp"
+
+#: itiphandler_p.cpp:188
+#, kde-format
+msgid "Unable to forward the item '%1'"
+msgstr "Không thể chuyển tiếp mục '%1'"
+
+#: itiphandler_p.cpp:189
+#, kde-format
+msgctxt "@title:window"
+msgid "Forwarding Error"
+msgstr "Lỗi chuyển tiếp"
+
+#: itiphandlerhelper_p.cpp:37
+#, kde-format
+msgid "Proposed new meeting time: %1 - %2"
+msgstr "Thời gian họp mới được đề xuất: %1 - %2"
+
+#: itiphandlerhelper_p.cpp:69
+#, kde-format
+msgctxt "@title:window"
+msgid "Group Scheduling Email"
+msgstr "Lịch họp nhóm"
+
+#: itiphandlerhelper_p.cpp:146
+#, kde-kuit-format
+msgid "<placeholder>No summary given</placeholder>"
+msgstr "<placeholder>Không có tóm tắt</placeholder>"
+
+#: itiphandlerhelper_p.cpp:237
+#, kde-format
+msgid ""
+"The event \"%1\" includes other people.\n"
+"Do you want to email the invitation to the attendees?"
+msgstr ""
+"Sự kiện \"%1\" bao gồm những người khác.\nBạn có muốn gửi lời mời tham dự "
+"qua thư điện tử cho những người tham dự không?"
+
+#: itiphandlerhelper_p.cpp:242
+#, kde-format
+msgid ""
+"The todo \"%1\" includes other people.\n"
+"Do you want to email the invitation to the attendees?"
+msgstr ""
+"Việc cần làm \"%1\" bao gồm những người khác.\nBạn có muốn gửi lời mời tham "
+"gia cho những người tham dự không?"
+
+#: itiphandlerhelper_p.cpp:247
+#, kde-format
+msgid ""
+"This incidence includes other people. Should an email be sent to the "
+"attendees?"
+msgstr ""
+"Sự kiện này bao gồm những người khác. Có nên gửi email cho những người tham "
+"dự không?"
+
+#: itiphandlerhelper_p.cpp:271
+#, kde-format
+msgid ""
+"You are not the organizer of this event. Editing it will bring your calendar "
+"out of sync with the organizer's calendar. Do you really want to edit it?"
+msgstr ""
+"Bạn không phải là người tổ chức sự kiện này. Chỉnh sửa nó sẽ khiến lịch của "
+"bạn không đồng bộ với lịch của người tổ chức. Bạn có thực sự muốn chỉnh sửa "
+"nó không?"
+
+#: itiphandlerhelper_p.cpp:304
+#, kde-format
+msgid ""
+"You changed the invitation \"%1\".\n"
+"Do you want to email the attendees an update message?"
+msgstr ""
+"Bạn đã thay đổi lời mời \"%1\".\nBạn có muốn gửi email cập nhật cho những "
+"người tham dự không?"
+
+#: itiphandlerhelper_p.cpp:312 itiphandlerhelper_p.cpp:333
+#: itiphandlerhelper_p.cpp:346
+#, kde-format
+msgctxt "@action:button"
+msgid "Send Update"
+msgstr "Gửi cập nhật"
+
+#: itiphandlerhelper_p.cpp:327 itiphandlerhelper_p.cpp:411
+#, kde-format
+msgid "Do you want to send a status update to the organizer of this task?"
+msgstr ""
+"Bạn có muốn gửi cập nhật trạng thái cho người tổ chức của nhiệm vụ này "
+"không?"
+
+#: itiphandlerhelper_p.cpp:339
+#, kde-format
+msgid ""
+"Your status as an attendee of this event changed. Do you want to send a "
+"status update to the event organizer?"
+msgstr ""
+"Tình trạng của bạn với tư cách là người tham dự sự kiện này đã thay đổi. "
+"Bạn có muốn gửi cập nhật tình trạng cho người tổ chức sự kiện không?"
+
+#: itiphandlerhelper_p.cpp:382
+#, kde-format
+msgid ""
+"You removed the invitation \"%1\".\n"
+"Do you want to email the attendees that the event is canceled?"
+msgstr ""
+"Bạn đã xóa lời mời \"%1\".\nBạn có muốn gửi email cho những người tham dự "
+"rằng sự kiện đã bị hủy?"
+
+#: itiphandlerhelper_p.cpp:387
+#, kde-format
+msgid ""
+"You removed the invitation \"%1\".\n"
+"Do you want to email the attendees that the todo is canceled?"
+msgstr ""
+"Bạn đã xóa lời mời \"%1\".\nBạn có muốn gửi email cho những người tham dự "
+"rằng việc cần làm này đã bị hủy?"
+
+#: itiphandlerhelper_p.cpp:392
+#, kde-format
+msgid ""
+"You removed the invitation \"%1\".\n"
+"Do you want to email the attendees that the journal is canceled?"
+msgstr ""
+"Bạn đã xóa lời mời \"%1\".\nBạn có muốn gửi email cho những người tham dự "
+"rằng sự kiện đã bị hủy?"
+
+#: itiphandlerhelper_p.cpp:414
+#, kde-format
+msgid "Do you want to send a status update to the organizer of this journal?"
+msgstr ""
+"Bạn có muốn gửi cập nhật trạng thái cho người tổ chức của nhật ký này "
+"không?"
+
+#: itiphandlerhelper_p.cpp:419 itiphandlerhelper_p.cpp:440
+#, kde-format
+msgctxt "@action:button dialog positive answer"
+msgid "Send Update"
+msgstr "Gửi cập nhật"
+
+#: itiphandlerhelper_p.cpp:434
+#, kde-format
+msgid ""
+"You had previously accepted an invitation to this event. Do you want to send "
+"an updated response to the organizer declining the invitation?"
+msgstr ""
+"Bạn đã từng chấp nhận lời mời tham dự sự kiện này. Bạn có muốn gửi lời hồi "
+"đáp cập nhật cho người tổ chức từ chối lời mời không?"
+
+#: itiphandlerhelper_p.cpp:478 mailscheduler_p.cpp:124
+#, kde-format
+msgid "Counter proposal: %1"
+msgstr "Đề xuất đối lập: %1"
+
+#: itiphandlerhelper_p.cpp:495
+#, kde-format
+msgid "Sending group scheduling email failed."
+msgstr "Gửi email lịch trình nhóm không thành công."
+
+#: itiphandlerhelper_p.cpp:503
+#, kde-format
+msgctxt "@action:button dialog positive answer to abort question"
+msgid "Abort Update"
+msgstr "Huỷ bỏ Cập nhật"
+
+#: mailclient_p.cpp:377 mailclient_p.cpp:415
+#, kde-format
+msgid "There are no attendees to e-mail"
+msgstr "Không có người tham dự để gửi email"
+
+#: mailclient_p.cpp:424
+#, kde-format
+msgid "Free Busy Object"
+msgstr "Đối tượng Bận/Rảnh"
+
+#: mailclient_p.cpp:458 mailclient_p.cpp:489
+#, kde-format
+msgid "Free Busy Message"
+msgstr "Thông điệp Rảnh/Bận"
+
+#: mailclient_p.cpp:629
+#, kde-format
+msgid "Error while creating transport"
+msgstr "Lỗi khi tạo giao thức vận chuyển"
+
+#: mailclient_p.cpp:647
+#, kde-format
+msgid "Error fetching transport. Unable to send invitations"
+msgstr "Lỗi khi lấy thông tin về giao thức vận chuyển. Không thể gửi lời mời"
+
+#: mailclient_p.cpp:669
+#, kde-format
+msgid "Error queuing message in outbox: %1"
+msgstr "Lỗi khi đưa thông điệp vào hộp thư đi: %1"
+
+#: mailclient_p.cpp:701
+#, kde-format
+msgid ""
+"Examination of the recipient's signing preferences yielded that you be asked "
+"whether or not to sign this message.\n"
+"Sign this message?"
+msgstr ""
+"Việc kiểm tra các thiết lập ký của người nhận cho thấy bạn nên được hỏi xem "
+"có muốn ký tin nhắn này hay không.\nKý tin nhắn này?"
+
+#: mailclient_p.cpp:706 mailclient_p.cpp:732
+#, kde-format
+msgid "Sign Message?"
+msgstr "Ký tin nhắn?"
+
+#: mailclient_p.cpp:707 mailclient_p.cpp:733
+#, kde-format
+msgctxt "to sign"
+msgid "&Sign"
+msgstr "&Ký"
+
+#: mailclient_p.cpp:708 mailclient_p.cpp:734
+#, kde-format
+msgctxt "@action:button"
+msgid "Do &Not Sign"
+msgstr "Khô&ng ký"
+
+#: mailclient_p.cpp:728
+#, kde-format
+msgid ""
+"There are conflicting signing preferences for these recipients.\n"
+"Sign this message?"
+msgstr "Có các thiết lập ký xung đột cho những người nhận này.\nKý tin nhắn này?"
+
+#: mailclient_p.cpp:753
+#, kde-format
+msgid ""
+"You have requested to sign this message, but no valid signing keys have been "
+"configured for this identity."
+msgstr ""
+"Bạn đã yêu cầu ký thông điệp này, nhưng không có khóa ký hợp lệ nào được "
+"cấu hình cho danh tính này."
+
+#: mailclient_p.cpp:756
+#, kde-format
+msgid "Send Unsigned?"
+msgstr "Gửi không ký?"
+
+#: mailclient_p.cpp:756
+#, kde-format
+msgctxt "@action:button"
+msgid "Send &Unsigned"
+msgstr "Gửi &không ký"
+
+#: mailclient_p.cpp:769
+#, kde-format
+msgid ""
+"Some parts of this message will not be signed.\n"
+"Sending only partially signed messages might violate site policy.\n"
+"Sign all parts instead?"
+msgstr ""
+"Một số phần của thông điệp này sẽ không được ký.\nChỉ gửi các thông điệp "
+"được ký một phần có thể vi phạm chính sách của địa điểm.\nKý tất cả các "
+"phần thay vào đó?"
+
+#: mailclient_p.cpp:773
+#, kde-format
+msgid ""
+"This message will not be signed.\n"
+"Sending unsigned message might violate site policy.\n"
+"Sign message instead?"
+msgstr ""
+"Thông điệp này sẽ không được ký.\nGửi thông điệp không được ký có thể vi "
+"phạm chính sách của trang web.\nKý thông điệp thay vào đó?"
+
+#: mailclient_p.cpp:776
+#, kde-format
+msgid "&Sign All Parts"
+msgstr "Ký &tất cả các phần"
+
+#: mailclient_p.cpp:776
+#, kde-format
+msgid "&Sign"
+msgstr "&Ký"
+
+#: mailclient_p.cpp:778
+#, kde-format
+msgid "Unsigned-Message Warning"
+msgstr "Cảnh báo Thư chưa ký"
+
+#: mailclient_p.cpp:780
+#, kde-format
+msgctxt "@action:button"
+msgid "Send &As Is"
+msgstr "Gửi Như &Vậy"
+
+#: mailclient_p.cpp:833
+#, kde-format
+msgid ""
+"Valid trusted encryption keys were found for all recipients.\n"
+"Encrypt this message?"
+msgstr ""
+"Đã tìm thấy các khóa mật mã hoá đáng tin cậy cho tất cả người nhận.\nMã hoá "
+"tin nhắn này?"
+
+#: mailclient_p.cpp:836
+#, kde-format
+msgid ""
+"Examination of the recipient's encryption preferences yielded that you be "
+"asked whether or not to encrypt this message.\n"
+"Encrypt this message?"
+msgstr ""
+"Việc kiểm tra các thiết lập về mật mã hoá của người nhận cho thấy bạn cần "
+"được hỏi xem có muốn mật mã hoá tin nhắn này hay không.\nMuốn mật mã hoá "
+"tin nhắn này?"
+
+#: mailclient_p.cpp:841 mailclient_p.cpp:867
+#, kde-format
+msgid "Encrypt Message?"
+msgstr "Mật mã hoá tin nhắn?"
+
+#: mailclient_p.cpp:842
+#, kde-format
+msgid "Sign && &Encrypt"
+msgstr "Ký && &Mật mã hoá"
+
+#: mailclient_p.cpp:842 mailclient_p.cpp:915
+#, kde-format
+msgid "&Encrypt"
+msgstr "&Mật mã hoá"
+
+#: mailclient_p.cpp:843 mailclient_p.cpp:919
+#, kde-format
+msgid "&Sign Only"
+msgstr "C&hỉ ký"
+
+#: mailclient_p.cpp:843 mailclient_p.cpp:919
+#, kde-format
+msgid "&Send As-Is"
+msgstr "Gửi N&hư Vậy"
+
+#: mailclient_p.cpp:863
+#, kde-format
+msgid ""
+"There are conflicting encryption preferences for these recipients.\n"
+"Encrypt this message?"
+msgstr ""
+"Có các thiết lập mật mã hoá mâu thuẫn cho những người nhận này.\nMã hoá tin "
+"nhắn này?"
+
+#: mailclient_p.cpp:868
+#, kde-format
+msgctxt "@action:button"
+msgid "&Encrypt"
+msgstr "&Mật mã hoá"
+
+#: mailclient_p.cpp:869
+#, kde-format
+msgctxt "@action:button"
+msgid "Do &Not Encrypt"
+msgstr "Không &mật mã hoá"
+
+#: mailclient_p.cpp:888
+#, kde-format
+msgid ""
+"You have requested to encrypt this message, and to encrypt a copy to "
+"yourself, but no valid trusted encryption keys have been configured for this "
+"identity."
+msgstr ""
+"Bạn đã yêu cầu mật mã hoá tin nhắn này và mật mã hoá một bản sao cho chính "
+"bạn, nhưng không có khóa mật mã đáng tin nào được cấu hình cho danh tính "
+"này."
+
+#: mailclient_p.cpp:892
+#, kde-format
+msgid "Send Unencrypted?"
+msgstr "Gửi không mã hóa?"
+
+#: mailclient_p.cpp:892
+#, kde-format
+msgctxt "@action:button"
+msgid "Send &Unencrypted"
+msgstr "Gửi khô&ng mã hóa"
+
+#: mailclient_p.cpp:906
+#, kde-format
+msgid ""
+"Some parts of this message will not be encrypted.\n"
+"Sending only partially encrypted messages might violate site policy and/or "
+"leak sensitive information.\n"
+"Encrypt all parts instead?"
+msgstr ""
+"Một số phần của thông điệp này sẽ không được mật mã hoá.\nChỉ gửi các thông "
+"điệp được mật mã hoá một phần có thể vi phạm chính sách của địa điểm "
+"và/hoặc rò rỉ thông tin nhạy cảm.\nHãy mật mã hoá tất cả các phần thay vì?"
+
+#: mailclient_p.cpp:911
+#, kde-format
+msgid ""
+"This message will not be encrypted.\n"
+"Sending unencrypted messages might violate site policy and/or leak sensitive "
+"information.\n"
+"Encrypt messages instead?"
+msgstr ""
+"Thông điệp này sẽ không được mã hóa.\nGửi thông điệp không được mã hóa có "
+"thể vi phạm chính sách của trang web và/hoặc rò rỉ thông tin nhạy cảm.\nBạn "
+"có muốn mã hóa thông điệp không?"
+
+#: mailclient_p.cpp:915
+#, kde-format
+msgid "&Encrypt All Parts"
+msgstr "Mật mã hoá tất cả các &phần"
+
+#: mailclient_p.cpp:917
+#, kde-format
+msgid "Unencrypted Message Warning"
+msgstr "Cảnh báo thông điệp không được mã hóa"
+
+#: mailscheduler_p.cpp:199
+#, kde-format
+msgid "Error sending e-mail: "
+msgstr "Lỗi khi gửi email:"
+
+#: publishdialog.cpp:34
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Addresses"
+msgstr "Chọn địa chỉ"
+
+#: publishdialog.cpp:61
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Send email to these recipients"
+msgstr "Gửi email đến những người nhận này"
+
+#: publishdialog.cpp:63
+#, kde-format
+msgid ""
+"Clicking the <b>Ok</b> button will cause an email to be sent to the "
+"recipients you have entered."
+msgstr ""
+"Nhấp vào nút <b>Ok</b> sẽ gửi một thư điện tử đến những người nhận mà bạn "
+"đã nhập."
+
+#: publishdialog.cpp:68
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Cancel recipient selection and the email"
+msgstr "Huỷ phần bôi đen và thư điện tử"
+
+#: publishdialog.cpp:70
+#, kde-format
+msgid ""
+"Clicking the <b>Cancel</b> button will cause the email operation to be "
+"terminated."
+msgstr "Nhấp vào nút <b>Hủy</b> sẽ khiến thao tác gửi thư điện tử bị chấm dứt."
+
+#: publishdialog.cpp:75
+#, kde-format
+msgid ""
+"Click the <b>Help</b> button to read more information about Group Scheduling."
+msgstr "Bấm nút <b>Trợ giúp</b> để đọc thêm thông tin về Lập lịch nhóm."
+
+#: publishdialog.cpp:123
+#, kde-format
+msgid ""
+"Unable to publish the calendar incidence due to an invalid recipients "
+"string.\n"
+"%1"
+msgstr "Không thể xuất bản sự kiện lịch do chuỗi người nhận không hợp lệ.\n%1"
+
+#: publishdialog.cpp:126
+#, kde-format
+msgctxt "@title:window"
+msgid "Publishing Error"
+msgstr "Lỗi Đăng Tải"
+
+#. i18n: ectx: property (toolTip), widget (QListWidget, mListWidget)
+#: publishdialog_base.ui:38
+#, kde-format
+msgid "The list of addressees to receive the invitation"
+msgstr "Danh sách người nhận lời mời"
+
+#. i18n: ectx: property (whatsThis), widget (QListWidget, mListWidget)
+#: publishdialog_base.ui:41
+#, kde-format
+msgid ""
+"This is a list of all the addresses you have currently selected to receive "
+"the iCalendar invitation."
+msgstr "Đây là danh sách tất cả các địa chỉ bạn đã chọn để nhận lời mời iCalendar."
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mNew)
+#: publishdialog_base.ui:52
+#, kde-format
+msgid "Create a new recipient"
+msgstr "Tạo người nhận mới"
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, mNew)
+#: publishdialog_base.ui:55
+#, kde-format
+msgid ""
+"Click this button and you will be able to enter a name and email for a new "
+"addressee to add to the recipients list"
+msgstr ""
+"Bấm nút này và bạn sẽ có thể nhập tên và thư điện tử cho một người nhận mới "
+"để thêm vào danh sách người nhận"
+
+#. i18n: ectx: property (text), widget (QPushButton, mNew)
+#: publishdialog_base.ui:58
+#, kde-format
+msgid "&New"
+msgstr "&Mới"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mRemove)
+#: publishdialog_base.ui:65
+#, kde-format
+msgid "Remove the recipient currently selected"
+msgstr "Xoá người nhận hiện đang được chọn"
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, mRemove)
+#: publishdialog_base.ui:68
+#, kde-format
+msgid ""
+"Click this button to remove the recipient currently selected from the list"
+msgstr "Bấm nút này để xoá người nhận hiện đang được chọn khỏi danh sách"
+
+#. i18n: ectx: property (text), widget (QPushButton, mRemove)
+#: publishdialog_base.ui:71
+#, kde-format
+msgid "&Remove"
+msgstr "&Xoá"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mSelectAddressee)
+#: publishdialog_base.ui:78
+#, kde-format
+msgid "Select a recipient from your address book"
+msgstr "Chọn một người nhận từ sổ địa chỉ của bạn"
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, mSelectAddressee)
+#: publishdialog_base.ui:81
+#, kde-format
+msgid ""
+"Click this button to show another dialog where you will be able to select a "
+"recipient from your address book"
+msgstr ""
+"Bấm nút này để hiển thị một hộp thoại khác nơi bạn có thể bôi đen một người "
+"nhận từ sổ địa chỉ của bạn"
+
+#. i18n: ectx: property (text), widget (QPushButton, mSelectAddressee)
+#: publishdialog_base.ui:84
+#, kde-format
+msgid "&Select…"
+msgstr "&Chọn..."
+
+#. i18n: ectx: property (text), widget (QLabel, TextLabel1)
+#: publishdialog_base.ui:113
+#, kde-format
+msgctxt "recipient name"
+msgid "Name:"
+msgstr "Tên:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, mNameLineEdit)
+#: publishdialog_base.ui:123
+#, kde-format
+msgid "The recipient's name"
+msgstr "Tên người nhận"
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, mNameLineEdit)
+#: publishdialog_base.ui:126
+#, kde-format
+msgid "This field contains the name of the recipient"
+msgstr "Trường này chứa tên của người nhận"
+
+#. i18n: ectx: property (text), widget (QLabel, TextLabel2)
+#: publishdialog_base.ui:136
+#, kde-format
+msgctxt "recipient email"
+msgid "E&mail:"
+msgstr "E&mail:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, mEmailLineEdit)
+#: publishdialog_base.ui:146
+#, kde-format
+msgid "The recipient's email address"
+msgstr "Địa chỉ email của người nhận"
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, mEmailLineEdit)
+#: publishdialog_base.ui:149
+#, kde-format
+msgid "This field contains the email address of the recipient"
+msgstr "Trường này chứa địa chỉ thư điện tử của người nhận"
+
+#: publishdialog_p.cpp:44
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "(EmptyName)"
+msgstr "(Tên trống)"
+
+#: publishdialog_p.cpp:45
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "(EmptyEmail)"
+msgstr "(Thư điện tử trống)"
+
+#: scheduler_p.cpp:132 scheduler_p.cpp:239
+#, kde-format
+msgid "Error: Assigning different incidence types."
+msgstr "Lỗi: Gán các loại sự kiện khác nhau."
+
+#: scheduler_p.cpp:223 scheduler_p.cpp:272
+#, kde-format
+msgid "This isn't an update. The found incidence was modified more recently."
+msgstr ""
+"Đây không phải là một bản cập nhật. Sự kiện được tìm thấy đã được chỉnh sửa "
+"gần đây hơn."
+
+#: scheduler_p.cpp:263 scheduler_p.cpp:534 scheduler_p.cpp:549
+#, kde-format
+msgid "Error modifying incidence"
+msgstr "Lỗi khi sửa đổi sự kiện"
+
+#: scheduler_p.cpp:288
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>You added an invitation update, but an earlier version of the item "
+"could not be found in your calendar.</para><para>This may have occurred "
+"because:<list><item>the organizer did not include you in the original "
+"invitation</item><item>you did not accept the original invitation yet</"
+"item><item>you deleted the original invitation from your calendar</"
+"item><item>you no longer have access to the calendar containing the "
+"invitation</item></list></para><para>This is not a problem, but we thought "
+"you should know.</para>"
+msgstr ""
+"<para>Bạn đã thêm một cập nhật lời mời, nhưng không tìm thấy được phiên bản "
+"trước đó của mục này trong lịch của bạn.</para><para>Điều này có thể xảy ra "
+"vì:<list><item>người tổ chức đã không bao gồm bạn trong lời mời ban "
+"đầu</item><item>bạn chưa chấp nhận lời mời ban đầu</item><item>bạn đã xóa "
+"lời mời ban đầu khỏi lịch của mình</item><item>bạn không còn quyền truy cập "
+"vào lịch chứa lời mời</item></list></para><para>Đây không phải là vấn đề, "
+"nhưng chúng tôi nghĩ bạn nên biết.</para>"
+
+#: scheduler_p.cpp:297
+#, kde-format
+msgctxt "@title:window"
+msgid "Cannot Find Invitation to be Updated"
+msgstr "Không thể tìm thấy lời mời để cập nhật"
+
+#: scheduler_p.cpp:304
+#, kde-format
+msgid "Error adding incidence"
+msgstr "Lỗi khi thêm sự kiện"
+
+#: scheduler_p.cpp:338
+#, kde-format
+msgid "Could not find incidence to delete."
+msgstr "Không thể tìm thấy sự kiện để xóa."
+
+#: scheduler_p.cpp:391
+#, kde-format
+msgid "Error recording exception"
+msgstr "Lỗi ghi ngoại lệ"
+
+#: scheduler_p.cpp:408
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The event or task could not be removed from your calendar. Maybe it has "
+"already been deleted or is not owned by you. Or it might belong to a read-"
+"only or disabled calendar."
+msgstr ""
+"Sự kiện hoặc tác vụ không thể được xóa khỏi lịch của bạn. Có thể nó đã bị "
+"xóa hoặc không thuộc về bạn. Hoặc nó có thể thuộc về lịch chỉ đọc hoặc đã "
+"bị tắt."
+
+#: scheduler_p.cpp:418 scheduler_p.cpp:433 scheduler_p.cpp:568
+#: scheduler_p.cpp:574
+#, kde-format
+msgid "Generic Error"
+msgstr "Lỗi chung"
+
+#: scheduler_p.cpp:476
+#, kde-format
+msgctxt "@info"
+msgid "%1 wants to attend %2 but was not invited."
+msgstr "%1 muốn tham dự %2 nhưng không được mời."
+
+#: scheduler_p.cpp:478
+#, kde-format
+msgctxt "@info"
+msgid "%1 wants to attend %2 on behalf of %3."
+msgstr "%1 muốn tham dự %2 thay mặt %3."
+
+#: scheduler_p.cpp:482
+#, kde-format
+msgctxt "@title:window"
+msgid "Uninvited Attendee"
+msgstr "Người tham dự không được mời"
+
+#: scheduler_p.cpp:483
+#, kde-format
+msgctxt "@option"
+msgid "Accept Attendance"
+msgstr "Chấp nhận tham dự"
+
+#: scheduler_p.cpp:484
+#, kde-format
+msgctxt "@option"
+msgid "Reject Attendance"
+msgstr "Từ chối tham dự"
+
+#: scheduler_p.cpp:487
+#, kde-format
+msgctxt "@info"
+msgid "The organizer rejected your attendance at this meeting."
+msgstr "Người tổ chức đã từ chối sự tham dự của bạn tại cuộc họp này."
+
+#: scheduler_p.cpp:508
+#, kde-format
+msgctxt "@info"
+msgid ""
+"An attendee was added to the incidence. Do you want to email the attendees "
+"an update message?"
+msgstr ""
+"Một người tham dự đã được thêm vào sự kiện. Bạn có muốn gửi email cập nhật "
+"cho những người tham dự không?"
+
+#: scheduler_p.cpp:510
+#, kde-format
+msgctxt "@title:window"
+msgid "Attendee Added"
+msgstr "Đã thêm người tham dự"
+
+#: scheduler_p.cpp:511
+#, kde-format
+msgctxt "@option"
+msgid "Send Messages"
+msgstr "Gửi tin nhắn"
+
+#: scheduler_p.cpp:512
+#, kde-format
+msgctxt "@option"
+msgid "Do Not Send"
+msgstr "Không gửi"
+
+#: scheduler_p.cpp:558
+#, kde-format
+msgid "No incidence for scheduling."
+msgstr "Không có sự kiện để lập lịch."
+
+#: scheduler_p.cpp:581
+#, kde-format
+msgid "No Free Busy Cache"
+msgstr "Không có Bộ Đệm Lịch Rảnh"
+
+#: scheduler_p.cpp:600
+#, kde-format
+msgid "Error saving freebusy object"
+msgstr "Lỗi khi lưu đối tượng freebusy"
+
+#: searchcollectionhelper.cpp:179
+#, kde-format
+msgctxt "A collection of all declined invidations."
+msgid "Declined Invitations"
+msgstr "Lời mời từ chối"
+
+#: searchcollectionhelper.cpp:187
+#, kde-format
+msgctxt "A collection of all open invidations."
+msgid "Open Invitations"
+msgstr "Lời mời mở"
+
+#: standardcalendaractionmanager.cpp:46
+#, kde-format
+msgid "Add Folder…"
+msgstr "Thêm Thư mục..."
+
+#: standardcalendaractionmanager.cpp:48
+#, kde-format
+msgid "Add a new calendar folder to the currently selected calendar folder."
+msgstr "Thêm một thư mục lịch mới vào thư mục lịch đã chọn."
+
+#: standardcalendaractionmanager.cpp:49
+#, kde-format
+msgctxt "@title:window"
+msgid "New Folder"
+msgstr "Thư mục mới"
+
+#: standardcalendaractionmanager.cpp:53
+#, kde-format
+msgid "Could not create calendar folder: %1"
+msgstr "Không thể tạo thư mục lịch: %1"
+
+#: standardcalendaractionmanager.cpp:57
+#, kde-format
+msgctxt "@title:window"
+msgid "Calendar Folder Creation Failed"
+msgstr "Tạo Thư Mục Lịch Không Thành Công"
+
+#: standardcalendaractionmanager.cpp:66
+#, kde-format
+msgid "Copy Folder"
+msgid_plural "Copy %1 Folders"
+msgstr[0] "Sao chép %1 Thư mục"
+
+#: standardcalendaractionmanager.cpp:68
+#, kde-format
+msgid "Copy the selected calendar folders to the clipboard."
+msgstr "Sao chép các thư mục lịch đã chọn vào bảng tạm."
+
+#: standardcalendaractionmanager.cpp:71
+#, kde-format
+msgid "Delete Folder"
+msgid_plural "Delete %1 Folders"
+msgstr[0] "Xóa %1 Thư mục"
+
+#: standardcalendaractionmanager.cpp:73
+#, kde-format
+msgid "Delete the selected calendar folders from the calendar."
+msgstr "Xóa các thư mục lịch đã chọn khỏi lịch."
+
+#: standardcalendaractionmanager.cpp:76
+#, kde-format
+msgid ""
+"Do you really want to delete this calendar folder and all its sub-folders?"
+msgid_plural ""
+"Do you really want to delete %1 calendar folders and all their sub-folders?"
+msgstr[0] ""
+"Bạn có thực sự muốn xóa %1 thư mục lịch và tất cả các thư mục con của "
+"chúng?"
+
+#: standardcalendaractionmanager.cpp:81
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete Calendar Folder?"
+msgid_plural "Delete Calendar Folders?"
+msgstr[0] "Xóa thư mục lịch?"
+
+#: standardcalendaractionmanager.cpp:85
+#, kde-format
+msgid "Could not delete calendar folder: %1"
+msgstr "Không thể xóa thư mục lịch: %1"
+
+#: standardcalendaractionmanager.cpp:89
+#, kde-format
+msgctxt "@title:window"
+msgid "Calendar Folder Deletion Failed"
+msgstr "Xóa thư mục lịch không thành công"
+
+#: standardcalendaractionmanager.cpp:93
+#, kde-format
+msgid "Update Folder"
+msgid_plural "Update %1 Folders"
+msgstr[0] "Cập nhật %1 Thư mục"
+
+#: standardcalendaractionmanager.cpp:95
+#, kde-format
+msgid "Update the content of the selected calendar folders."
+msgstr "Cập nhật nội dung của các thư mục lịch đã chọn."
+
+#: standardcalendaractionmanager.cpp:99
+#, kde-format
+msgid "Cut Folder"
+msgid_plural "Cut %1 Folders"
+msgstr[0] "Cắt %1 Thư mục"
+
+#: standardcalendaractionmanager.cpp:100
+#, kde-format
+msgid "Cut the selected calendar folders from the calendar."
+msgstr "Cắt các thư mục lịch đã chọn khỏi lịch."
+
+#: standardcalendaractionmanager.cpp:103
+#, kde-format
+msgid "Folder Properties…"
+msgstr "Thuộc tính Thư mục..."
+
+#: standardcalendaractionmanager.cpp:105
+#, kde-format
+msgid "Open a dialog to edit the properties of the selected calendar folder."
+msgstr "Mở một hộp thoại để sửa các thuộc tính của thư mục lịch đã chọn."
+
+#: standardcalendaractionmanager.cpp:108
+#, kde-format
+msgctxt "@title:window"
+msgid "Properties of Calendar Folder %1"
+msgstr "Thuộc tính của Thư mục Lịch %1"
+
+#: standardcalendaractionmanager.cpp:111 standardcalendaractionmanager.cpp:299
+#, kde-format
+msgid "Copy Event"
+msgid_plural "Copy %1 Events"
+msgstr[0] "Sao chép %1 sự kiện"
+
+#: standardcalendaractionmanager.cpp:112
+#, kde-format
+msgid "Copy the selected events to the clipboard."
+msgstr "Sao chép các sự kiện đã chọn vào bảng tạm."
+
+#: standardcalendaractionmanager.cpp:116 standardcalendaractionmanager.cpp:310
+#, kde-format
+msgid "Delete Event"
+msgid_plural "Delete %1 Events"
+msgstr[0] "Xóa %1 sự kiện"
+
+#: standardcalendaractionmanager.cpp:117
+#, kde-format
+msgid "Delete the selected events from the calendar."
+msgstr "Xóa các sự kiện đã chọn khỏi lịch."
+
+#: standardcalendaractionmanager.cpp:120
+#, kde-format
+msgid "Do you really want to delete the selected event?"
+msgid_plural "Do you really want to delete %1 events?"
+msgstr[0] "Bạn có thực sự muốn xóa %1 sự kiện?"
+
+#: standardcalendaractionmanager.cpp:124
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete Event?"
+msgid_plural "Delete Events?"
+msgstr[0] "Xóa sự kiện?"
+
+#: standardcalendaractionmanager.cpp:126
+#, kde-format
+msgid "Could not delete event: %1"
+msgstr "Không thể xóa sự kiện: %1"
+
+#: standardcalendaractionmanager.cpp:130
+#, kde-format
+msgctxt "@title:window"
+msgid "Event Deletion Failed"
+msgstr "Xóa sự kiện không thành công"
+
+#: standardcalendaractionmanager.cpp:134 standardcalendaractionmanager.cpp:313
+#, kde-format
+msgid "Cut Event"
+msgid_plural "Cut %1 Events"
+msgstr[0] "Cắt %1 sự kiện"
+
+#: standardcalendaractionmanager.cpp:135
+#, kde-format
+msgid "Cut the selected events from the calendar."
+msgstr "Cắt các sự kiện đã chọn khỏi lịch."
+
+#: standardcalendaractionmanager.cpp:138
+#, kde-format
+msgid "Add &Calendar…"
+msgstr "T&hêm Lịch..."
+
+#: standardcalendaractionmanager.cpp:140
+#, kde-format
+msgid ""
+"Add a new calendar<p>You will be presented with a dialog where you can "
+"select the type of the calendar that shall be added.</p>"
+msgstr ""
+"Thêm lịch mới<p>Bạn sẽ được hiển thị một hộp thoại nơi bạn có thể chọn kiểu "
+"lịch sẽ được thêm vào.</p>"
+
+#: standardcalendaractionmanager.cpp:143
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Calendar"
+msgstr "Thêm Lịch"
+
+#: standardcalendaractionmanager.cpp:147
+#, kde-format
+msgid "Could not create calendar: %1"
+msgstr "Không thể tạo lịch: %1"
+
+#: standardcalendaractionmanager.cpp:151
+#, kde-format
+msgctxt "@title:window"
+msgid "Calendar Creation Failed"
+msgstr "Tạo Lịch Không Thành Công"
+
+#: standardcalendaractionmanager.cpp:156
+#, kde-format
+msgid "&Delete Calendar"
+msgid_plural "&Delete %1 Calendars"
+msgstr[0] "Xó&a %1 Lịch"
+
+#: standardcalendaractionmanager.cpp:158
+#, kde-format
+msgid ""
+"Delete the selected calendars<p>The currently selected calendars will be "
+"deleted, along with all the events, todos and journals they contain.</p>"
+msgstr ""
+"Xóa các lịch đã chọn<p>Các lịch hiện đang được chọn sẽ bị xóa, cùng với tất "
+"cả các sự kiện, công việc cần làm và nhật ký chúng chứa.</p>"
+
+#: standardcalendaractionmanager.cpp:163
+#, kde-format
+msgid "Do you really want to delete this calendar?"
+msgid_plural "Do you really want to delete %1 calendars?"
+msgstr[0] "Bạn có thực sự muốn xóa %1 lịch không?"
+
+#: standardcalendaractionmanager.cpp:167
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete Calendar?"
+msgid_plural "Delete Calendars?"
+msgstr[0] "Xóa Lịch?"
+
+#: standardcalendaractionmanager.cpp:171
+#, kde-format
+msgid "Calendar Properties…"
+msgstr "Thuộc tính Lịch..."
+
+#: standardcalendaractionmanager.cpp:173
+#, kde-format
+msgid "Open a dialog to edit properties of the selected calendar."
+msgstr "Mở một hộp thoại để sửa đổi các thuộc tính của lịch đã chọn."
+
+#: standardcalendaractionmanager.cpp:177
+#, kde-format
+msgid "Update Calendar"
+msgid_plural "Update %1 Calendars"
+msgstr[0] "Cập nhật %1 Lịch"
+
+#: standardcalendaractionmanager.cpp:179
+#, kde-format
+msgid "Updates the content of all folders of the selected calendars."
+msgstr "Cập nhật nội dung của tất cả các thư mục của các lịch đã chọn."
+
+#: standardcalendaractionmanager.cpp:182
+#, kde-format
+msgid "&Copy to Calendar"
+msgstr "S&ao chép vào Lịch"
+
+#: standardcalendaractionmanager.cpp:183
+#, kde-format
+msgid "Copy the selected event to a different calendar."
+msgstr "Sao chép sự kiện đã chọn sang lịch khác."
+
+#: standardcalendaractionmanager.cpp:186
+#, kde-format
+msgid "&Move to Calendar"
+msgstr "Chuyển đến &Lịch"
+
+#: standardcalendaractionmanager.cpp:187
+#, kde-format
+msgid "Move the selected event to a different calendar."
+msgstr "Chuyển sự kiện đã chọn sang lịch khác."
+
+#: standardcalendaractionmanager.cpp:190
+#, kde-format
+msgid "Could not paste event: %1"
+msgstr "Không thể dán sự kiện: %1"
+
+#: standardcalendaractionmanager.cpp:192
+#, kde-format
+msgctxt "@title:window"
+msgid "Paste Failed"
+msgstr "Dán thất bại"
+
+#: standardcalendaractionmanager.cpp:195
+#, kde-format
+msgid "Update Available Calendars"
+msgstr "Cập nhật Lịch hiện có"
+
+#: standardcalendaractionmanager.cpp:196
+#, kde-format
+msgid "Updates the tree of available calendars."
+msgstr "Cập nhật cây các lịch hiện có."
+
+#: standardcalendaractionmanager.cpp:303 standardcalendaractionmanager.cpp:307
+#, kde-format
+msgid "Copy Event To"
+msgstr "Sao chép sự kiện đến"
+
+#: standardcalendaractionmanager.cpp:317 standardcalendaractionmanager.cpp:321
+#, kde-format
+msgid "Move Event To"
+msgstr "Di chuyển sự kiện đến"
+
+#: standardcalendaractionmanager.cpp:325
+#, kde-format
+msgid "Edit Event…"
+msgstr "Sửa Sự kiện..."
+
+#: standardcalendaractionmanager.cpp:329
+#, kde-format
+msgid "Copy To-do"
+msgid_plural "Copy %1 To-dos"
+msgstr[0] "Sao chép %1 Công việc cần làm"
+
+#: standardcalendaractionmanager.cpp:333 standardcalendaractionmanager.cpp:337
+#, kde-format
+msgid "Copy To-do To"
+msgstr "Sao chép Việc cần làm Đến"
+
+#: standardcalendaractionmanager.cpp:340
+#, kde-format
+msgid "Delete To-do"
+msgid_plural "Delete %1 To-dos"
+msgstr[0] "Xóa %1 Công việc cần làm"
+
+#: standardcalendaractionmanager.cpp:343
+#, kde-format
+msgid "Cut To-do"
+msgid_plural "Cut %1 To-dos"
+msgstr[0] "Cắt %1 Công việc cần làm"
+
+#: standardcalendaractionmanager.cpp:347 standardcalendaractionmanager.cpp:351
+#, kde-format
+msgid "Move To-do To"
+msgstr "Chuyển Công việc cần làm đến"
+
+#: standardcalendaractionmanager.cpp:355
+#, kde-format
+msgid "Edit To-do…"
+msgstr "Sửa Công việc..."
+
+#: standardcalendaractionmanager.cpp:359
+#, kde-format
+msgid "Copy Journal"
+msgid_plural "Copy %1 Journals"
+msgstr[0] "Sao chép %1 Nhật ký"
+
+#: standardcalendaractionmanager.cpp:363 standardcalendaractionmanager.cpp:367
+#, kde-format
+msgid "Copy Journal To"
+msgstr "Sao chép Nhật ký Đến"
+
+#: standardcalendaractionmanager.cpp:370
+#, kde-format
+msgid "Delete Journal"
+msgid_plural "Delete %1 Journals"
+msgstr[0] "Xóa %1 Nhật ký"
+
+#: standardcalendaractionmanager.cpp:373
+#, kde-format
+msgid "Cut Journal"
+msgid_plural "Cut %1 Journals"
+msgstr[0] "Cắt %1 Nhật ký"
+
+#: standardcalendaractionmanager.cpp:377 standardcalendaractionmanager.cpp:381
+#, kde-format
+msgid "Move Journal To"
+msgstr "Di chuyển nhật ký đến"
+
+#: standardcalendaractionmanager.cpp:385
+#, kde-format
+msgid "Edit Journal…"
+msgstr "Chỉnh sửa Nhật ký..."
+
+#: standardcalendaractionmanager.cpp:525
+#, kde-format
+msgid "New E&vent…"
+msgstr "&Sự kiện mới..."
+
+#: standardcalendaractionmanager.cpp:526
+#, kde-format
+msgid "Create a new event"
+msgstr "Tạo một sự kiện mới"
+
+#: standardcalendaractionmanager.cpp:536
+#, kde-format
+msgid "New &To-do…"
+msgstr "Công &việc mới..."
+
+#: standardcalendaractionmanager.cpp:537
+#, kde-format
+msgid "Create a new To-do"
+msgstr "Tạo một công việc mới"
+
+#: standardcalendaractionmanager.cpp:546
+#, kde-format
+msgid "New Su&b-to-do…"
+msgstr "Côn&g việc con mới..."
+
+#: standardcalendaractionmanager.cpp:547
+#, kde-format
+msgid "Create a new Sub-to-do"
+msgstr "Tạo một Công việc con mới"
+
+#: standardcalendaractionmanager.cpp:557
+#, kde-format
+msgid "New &Journal…"
+msgstr "&Nhật ký mới..."
+
+#: standardcalendaractionmanager.cpp:558
+#, kde-format
+msgid "Create a new Journal"
+msgstr "Tạo một Nhật ký mới"
+
+#: standardcalendaractionmanager.cpp:567
+#, kde-format
+msgid "&Edit…"
+msgstr "Chỉnh sử&a..."
+
+#: standardcalendaractionmanager.cpp:568
+#, kde-format
+msgid "Edit the selected incidence."
+msgstr "Chỉnh sửa sự kiện đã chọn."
+
+#: todomodel.cpp:159 todomodel.cpp:194
+#, kde-format
+msgctxt "yes, an exception to a recurring to-do"
+msgid "Exception"
+msgstr "Ngoại lệ"
+
+#: todomodel.cpp:161 todomodel.cpp:196
+#, kde-format
+msgctxt "yes, recurring to-do"
+msgid "Yes"
+msgstr "Có"
+
+#: todomodel.cpp:164 todomodel.cpp:199
+#, kde-format
+msgctxt "no, not a recurring to-do"
+msgid "No"
+msgstr "Không"
+
+#: todomodel.cpp:178 todomodel.cpp:215
+#, kde-format
+msgctxt "delimiter for joining category/tag names"
+msgid ","
+msgstr ","
+
+#: todomodel.cpp:459
+#, kde-format
+msgid "Summary"
+msgstr "Tóm tắt"
+
+#: todomodel.cpp:461
+#, kde-format
+msgid "Recurs"
+msgstr "Lặp lại"
+
+#: todomodel.cpp:463
+#, kde-format
+msgid "Priority"
+msgstr "Ưu tiên"
+
+#: todomodel.cpp:465
+#, kde-format
+msgctxt "@title:column percent complete"
+msgid "Complete"
+msgstr "Hoàn tất"
+
+#: todomodel.cpp:467
+#, kde-format
+msgid "Start Date"
+msgstr "Ngày bắt đầu"
+
+#: todomodel.cpp:469
+#, kde-format
+msgid "Due Date"
+msgstr "Ngày đến hạn"
+
+#: todomodel.cpp:471
+#, kde-format
+msgctxt "@title:column date completed"
+msgid "Completed"
+msgstr "Đã hoàn thành"
+
+#: todomodel.cpp:473
+#, kde-format
+msgid "Tags"
+msgstr "Thẻ"
+
+#: todomodel.cpp:475
+#, kde-format
+msgid "Description"
+msgstr "Mô tả"
+
+#: todopurger.cpp:61
+#, kde-format
+msgid "Purging completed to-dos"
+msgstr "Đã xóa các công việc đã hoàn thành"

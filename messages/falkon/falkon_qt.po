@@ -1,0 +1,6066 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: lib/3rdparty/lineedit.cpp:102
+msgctxt "LineEdit|"
+msgid "&Undo"
+msgstr "đảo ngượ&c"
+
+#: lib/3rdparty/lineedit.cpp:107
+msgctxt "LineEdit|"
+msgid "&Redo"
+msgstr "&làm lại"
+
+#: lib/3rdparty/lineedit.cpp:112
+msgctxt "LineEdit|"
+msgid "Cu&t"
+msgstr "Cắ&t"
+
+#: lib/3rdparty/lineedit.cpp:117
+msgctxt "LineEdit|"
+msgid "&Copy"
+msgstr "Sa&o chép"
+
+#: lib/3rdparty/lineedit.cpp:122
+msgctxt "LineEdit|"
+msgid "&Paste"
+msgstr "Dá&n"
+
+#: lib/3rdparty/lineedit.cpp:131
+msgctxt "LineEdit|"
+msgid "Delete"
+msgstr "Xóa"
+
+#: lib/3rdparty/lineedit.cpp:134
+msgctxt "LineEdit|"
+msgid "Clear All"
+msgstr "Làm trống tất cả"
+
+#: lib/3rdparty/lineedit.cpp:137
+msgctxt "LineEdit|"
+msgid "Select All"
+msgstr "Bôi đen tất cả"
+
+#: lib/3rdparty/squeezelabelv2.cpp:64
+msgctxt "SqueezeLabelV2|"
+msgid "Copy"
+msgstr "Sao chép"
+
+#: lib/adblock/adblockaddsubscriptiondialog.cpp:40
+msgctxt "AdBlockAddSubscriptionDialog|"
+msgid "Other..."
+msgstr "Khác..."
+
+#: lib/adblock/adblockaddsubscriptiondialog.ui:14
+msgctxt "AdBlockAddSubscriptionDialog|"
+msgid "Add Subscription"
+msgstr "Thêm theo dõi"
+
+#: lib/adblock/adblockaddsubscriptiondialog.ui:23
+msgctxt "AdBlockAddSubscriptionDialog|"
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: lib/adblock/adblockaddsubscriptiondialog.ui:33
+msgctxt "AdBlockAddSubscriptionDialog|"
+msgid "Address:"
+msgstr "Địa chỉ:"
+
+#: lib/adblock/adblockaddsubscriptiondialog.ui:53
+msgctxt "AdBlockAddSubscriptionDialog|"
+msgid "Add new subscription to AdBlock:"
+msgstr "Thêm theo dõi mới cho AdBlock:"
+
+#: lib/adblock/adblockdialog.cpp:49
+msgctxt "AdBlockDialog|"
+msgid "Add Rule"
+msgstr "Thêm quy tắc"
+
+#: lib/adblock/adblockdialog.cpp:50
+msgctxt "AdBlockDialog|"
+msgid "Remove Rule"
+msgstr "Xoá Quy Tắc"
+
+#: lib/adblock/adblockdialog.cpp:52
+msgctxt "AdBlockDialog|"
+msgid "Add Subscription"
+msgstr "Thêm theo dõi"
+
+#: lib/adblock/adblockdialog.cpp:53
+msgctxt "AdBlockDialog|"
+msgid "Remove Subscription"
+msgstr "Xoá theo dõi"
+
+#: lib/adblock/adblockdialog.cpp:54
+msgctxt "AdBlockDialog|"
+msgid "Update Subscriptions"
+msgstr "Cập nhật Đăng ký"
+
+#: lib/adblock/adblockdialog.cpp:56
+msgctxt "AdBlockDialog|"
+msgid "Learn about writing rules..."
+msgstr "Tìm hiểu về cách viết các quy tắc..."
+
+#: lib/adblock/adblockdialog.ui:14
+msgctxt "AdBlockDialog|"
+msgid "AdBlock Configuration"
+msgstr "Cấu hình AdBlock"
+
+#: lib/adblock/adblockdialog.ui:20
+msgctxt "AdBlockDialog|"
+msgid "Enable AdBlock"
+msgstr "Bật AdBlock"
+
+#: lib/adblock/adblockdialog.ui:32
+msgctxt "AdBlockDialog|"
+msgid "Search..."
+msgstr "Tìm kiếm..."
+
+#: lib/adblock/adblockdialog.ui:77
+msgctxt "AdBlockDialog|"
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: lib/adblock/adblockdialog.ui:107
+msgctxt "AdBlockDialog|"
+msgid "AdBlock"
+msgstr "Chặn quảng cáo"
+
+#: lib/adblock/adblockicon.cpp:34
+msgctxt "AdBlockIcon|"
+msgid "AdBlock"
+msgstr "Chặn quảng cáo"
+
+#: lib/adblock/adblockicon.cpp:52
+msgctxt "AdBlockIcon|"
+msgid "AdBlock Icon"
+msgstr "Biểu tượng AdBlock"
+
+#: lib/adblock/adblockicon.cpp:86
+msgctxt "AdBlockIcon|"
+msgid "AdBlock is disabled"
+msgstr "AdBlock đã bị tắt"
+
+#: lib/adblock/adblockicon.cpp:92
+msgctxt "AdBlockIcon|"
+msgid "AdBlock is disabled on this site "
+msgstr "Chặn quảng cáo đã bị tắt trên địa điểm web này"
+
+#: lib/adblock/adblockicon.cpp:98
+msgctxt "AdBlockIcon|"
+msgid "AdBlock is active"
+msgstr "Chặn quảng cáo đang hoạt động"
+
+#: lib/adblock/adblockicon.cpp:145
+msgctxt "AdBlockIcon|"
+msgid "Show AdBlock &Settings"
+msgstr "Hiển thị Thiết lập Ad&Block"
+
+#: lib/adblock/adblockicon.cpp:153
+#, qt-format
+msgctxt "AdBlockIcon|"
+msgid "Disable on %1"
+msgstr "Tắt trên %1"
+
+#: lib/adblock/adblockicon.cpp:159
+msgctxt "AdBlockIcon|"
+msgid "Disable only on this page"
+msgstr "Chỉ vô hiệu hóa trên trang này"
+
+#: lib/adblock/adblockmanager.cpp:184
+#, qt-format
+msgctxt "AdBlockManager|"
+msgid "Do you want to add <b>%1</b> subscription?"
+msgstr "Bạn có muốn thêm đăng ký <b>%1</b> không?"
+
+#: lib/adblock/adblockmanager.cpp:186
+msgctxt "AdBlockManager|"
+msgid "AdBlock Subscription"
+msgstr "Theo dõi AdBlock"
+
+#: lib/adblock/adblockmanager.cpp:317
+msgctxt "AdBlockManager|"
+msgid "EasyList"
+msgstr "EasyList"
+
+#: lib/adblock/adblockmanager.cpp:322
+msgctxt "AdBlockManager|"
+msgid "NoCoin List"
+msgstr "Danh sách NoCoin"
+
+#: lib/adblock/adblocksubscription.cpp:173
+msgctxt "AdBlockSubscription|"
+msgid "Cannot load subscription!"
+msgstr "Không thể tải subscription!"
+
+#: lib/adblock/adblocksubscription.cpp:286
+msgctxt "AdBlockCustomList|"
+msgid "Custom Rules"
+msgstr "Quy tắc tự chọn"
+
+#: lib/adblock/adblocktreewidget.cpp:80
+msgctxt "AdBlockTreeWidget|"
+msgid "Add Rule"
+msgstr "Thêm quy tắc"
+
+#: lib/adblock/adblocktreewidget.cpp:82
+msgctxt "AdBlockTreeWidget|"
+msgid "Remove Rule"
+msgstr "Xoá Quy Tắc"
+
+#: lib/adblock/adblocktreewidget.cpp:141
+msgctxt "AdBlockTreeWidget|"
+msgid "Add Custom Rule"
+msgstr "Thêm Quy Tắc Tùy Chỉnh"
+
+#: lib/adblock/adblocktreewidget.cpp:141
+msgctxt "AdBlockTreeWidget|"
+msgid "Please write your rule here:"
+msgstr "Vui lòng viết quy tắc của bạn ở đây:"
+
+#: lib/adblock/adblocktreewidget.cpp:179
+#, qt-format
+msgctxt "AdBlockTreeWidget|"
+msgid "%1 (recently updated)"
+msgstr "%1 (đã cập nhật gần đây)"
+
+#: lib/adblock/adblocktreewidget.cpp:188
+#, qt-format
+msgctxt "AdBlockTreeWidget|"
+msgid "%1 (Error: %2)"
+msgstr "%1 (Lỗi: %2)"
+
+#: lib/adblock/adblockurlinterceptor.cpp:41
+msgctxt "AdBlockUrlInterceptor|"
+msgid "Blocked content"
+msgstr "Nội dung bị chặn"
+
+#: lib/adblock/adblockurlinterceptor.cpp:42
+#, qt-format
+msgctxt "AdBlockUrlInterceptor|"
+msgid "Blocked by <i>%1 (%2)</i>"
+msgstr "Bị chặn bởi <i>%1 (%2)</i>"
+
+#: lib/app/browserwindow.cpp:203 lib/app/browserwindow.cpp:978
+msgctxt "BrowserWindow|"
+msgid "Falkon"
+msgstr "Falkon"
+
+#: lib/app/browserwindow.cpp:393
+msgctxt "BrowserWindow|"
+msgid "IP Address of current page"
+msgstr "Địa chỉ IP của trang hiện tại"
+
+#: lib/app/browserwindow.cpp:733
+msgctxt "BrowserWindow|"
+msgid " (Private Browsing)"
+msgstr "(Duyệt web riêng tư)"
+
+#: lib/app/browserwindow.cpp:980
+#, qt-format
+msgctxt "BrowserWindow|"
+msgid "%1 - Falkon"
+msgstr "%1 - Falkon"
+
+#: lib/app/browserwindow.cpp:1046
+msgctxt "BrowserWindow|"
+msgid "&Menu Bar"
+msgstr "T&rình đơn"
+
+#: lib/app/browserwindow.cpp:1051
+msgctxt "BrowserWindow|"
+msgid "&Navigation Toolbar"
+msgstr "Thanh công cụ đ&iều hướng"
+
+#: lib/app/browserwindow.cpp:1055
+msgctxt "BrowserWindow|"
+msgid "&Bookmarks Toolbar"
+msgstr "T&hanh công cụ Dấu trang"
+
+#: lib/app/browserwindow.cpp:1061
+msgctxt "BrowserWindow|"
+msgid "&Tabs on Top"
+msgstr "Các &tab ở trên"
+
+#: lib/app/browserwindow.cpp:1116
+msgctxt "BrowserWindow|"
+msgid "Other"
+msgstr "Khác"
+
+#: lib/app/browserwindow.cpp:1158
+msgctxt "BrowserWindow|"
+msgid "HTML files"
+msgstr "Tệp HTML"
+
+#: lib/app/browserwindow.cpp:1158
+msgctxt "BrowserWindow|"
+msgid "Image files"
+msgstr "Tệp ảnh"
+
+#: lib/app/browserwindow.cpp:1158
+msgctxt "BrowserWindow|"
+msgid "Text files"
+msgstr "Tệp văn bản"
+
+#: lib/app/browserwindow.cpp:1158
+msgctxt "BrowserWindow|"
+msgid "All files"
+msgstr "Tất cả các tệp"
+
+#: lib/app/browserwindow.cpp:1160
+msgctxt "BrowserWindow|"
+msgid "Open file..."
+msgstr "Mở tệp..."
+
+#: lib/app/browserwindow.cpp:1497
+#, qt-format
+msgctxt "BrowserWindow|"
+msgid ""
+"There are still %n open tabs and your session won't be stored.\n"
+"Are you sure you want to close this window?"
+msgid_plural ""
+"There are still %n open tabs and your session won't be stored.\n"
+"Are you sure you want to close this window?"
+msgstr[0] ""
+"Vẫn còn %n tab mở và phiên của bạn sẽ không được lưu.\nBạn có chắc chắn "
+"muốn đóng cửa sổ này?"
+
+#: lib/app/browserwindow.cpp:1498
+msgctxt "BrowserWindow|"
+msgid "Don't ask again"
+msgstr "Không hỏi lại"
+
+#: lib/app/browserwindow.cpp:1499
+msgctxt "BrowserWindow|"
+msgid "There are still open tabs"
+msgstr "Vẫn còn các tab mở"
+
+#: lib/app/mainapplication.cpp:1115
+msgctxt "MainApplication|"
+msgid ""
+"Falkon is not currently your default browser. Would you like to make it your "
+"default browser?"
+msgstr ""
+"Falkon hiện không phải là trình duyệt mặc định của bạn. Bạn có muốn đặt "
+"Falkon làm trình duyệt mặc định không?"
+
+#: lib/app/mainapplication.cpp:1116
+msgctxt "MainApplication|"
+msgid "Always perform this check when starting Falkon."
+msgstr "Luôn thực hiện kiểm tra này khi khởi động Falkon."
+
+#: lib/app/mainapplication.cpp:1118
+msgctxt "MainApplication|"
+msgid "Default Browser"
+msgstr "Trình duyệt mặc định"
+
+#: lib/app/mainapplication.cpp:1250
+msgctxt "MainApplication|"
+msgid "Open new tab"
+msgstr "Mở thẻ mới"
+
+#: lib/app/mainapplication.cpp:1251
+msgctxt "MainApplication|"
+msgid "Open new window"
+msgstr "Mở cửa sổ mới"
+
+#: lib/app/mainapplication.cpp:1252
+msgctxt "MainApplication|"
+msgid "Open new private window"
+msgstr "Mở cửa sổ riêng tư mới"
+
+#: lib/app/mainapplication.cpp:1267
+msgctxt "MainApplication|"
+msgid ""
+"Falkon is a new and very fast Qt web browser. Falkon is licensed under GPL "
+"version 3 or (at your option) any later version. It is based on QtWebEngine "
+"and Qt Framework."
+msgstr ""
+"Falkon là một trình duyệt web Qt mới và rất nhanh. Falkon được cấp phép "
+"theo GPL phiên bản 3 hoặc (tùy chọn của bạn) bất kỳ phiên bản nào sau đó. "
+"Nó dựa trên QtWebEngine và Qt Framework."
+
+#: lib/app/mainmenu.cpp:84 lib/app/mainmenu.cpp:501
+msgctxt "MainMenu|"
+msgid "Sessions"
+msgstr "Phiên làm việc"
+
+#: lib/app/mainmenu.cpp:471
+msgctxt "MainMenu|"
+msgid "&About Falkon"
+msgstr "Về &Falkon"
+
+#: lib/app/mainmenu.cpp:476
+msgctxt "MainMenu|"
+msgid "Pr&eferences"
+msgstr "các t&hiết lập"
+
+#: lib/app/mainmenu.cpp:482
+msgctxt "MainMenu|"
+msgid "Quit"
+msgstr "Thoát"
+
+#: lib/app/mainmenu.cpp:489
+msgctxt "MainMenu|"
+msgid "&File"
+msgstr "&Tệp"
+
+#: lib/app/mainmenu.cpp:492
+msgctxt "MainMenu|"
+msgid "New Tab"
+msgstr "Thẻ Mới"
+
+#: lib/app/mainmenu.cpp:493
+msgctxt "MainMenu|"
+msgid "&New Window"
+msgstr "&Cửa sổ mới"
+
+#: lib/app/mainmenu.cpp:494
+msgctxt "MainMenu|"
+msgid "New &Private Window"
+msgstr "Cửa sổ riêng &tư mới"
+
+#: lib/app/mainmenu.cpp:495
+msgctxt "MainMenu|"
+msgid "Open Location"
+msgstr "Mở địa điểm"
+
+#: lib/app/mainmenu.cpp:496
+msgctxt "MainMenu|"
+msgid "Open &File..."
+msgstr "Mở &Tệp..."
+
+#: lib/app/mainmenu.cpp:497
+msgctxt "MainMenu|"
+msgid "Close Window"
+msgstr "Đóng cửa sổ"
+
+#: lib/app/mainmenu.cpp:504
+msgctxt "MainMenu|"
+msgid "Session Manager"
+msgstr "Trình quản lý phiên"
+
+#: lib/app/mainmenu.cpp:511
+msgctxt "MainMenu|"
+msgid "&Save Page As..."
+msgstr "Lưu trang &dưới tên..."
+
+#: lib/app/mainmenu.cpp:512
+msgctxt "MainMenu|"
+msgid "Send Link..."
+msgstr "Gửi liên kết..."
+
+#: lib/app/mainmenu.cpp:513
+msgctxt "MainMenu|"
+msgid "&Print..."
+msgstr "I&n..."
+
+#: lib/app/mainmenu.cpp:518
+msgctxt "MainMenu|"
+msgid "&Edit"
+msgstr "&Sửa"
+
+#: lib/app/mainmenu.cpp:521
+msgctxt "MainMenu|"
+msgid "&Undo"
+msgstr "đảo n&gược"
+
+#: lib/app/mainmenu.cpp:523
+msgctxt "MainMenu|"
+msgid "&Redo"
+msgstr "là&m lại"
+
+#: lib/app/mainmenu.cpp:526
+msgctxt "MainMenu|"
+msgid "&Cut"
+msgstr "&Cắt"
+
+#: lib/app/mainmenu.cpp:528
+msgctxt "MainMenu|"
+msgid "C&opy"
+msgstr "Sa&o chép"
+
+#: lib/app/mainmenu.cpp:530
+msgctxt "MainMenu|"
+msgid "&Paste"
+msgstr "&Dán"
+
+#: lib/app/mainmenu.cpp:533
+msgctxt "MainMenu|"
+msgid "Select &All"
+msgstr "&Bôi đen tất cả"
+
+#: lib/app/mainmenu.cpp:535
+msgctxt "MainMenu|"
+msgid "&Find"
+msgstr "Tì&m kiếm"
+
+#: lib/app/mainmenu.cpp:540
+msgctxt "MainMenu|"
+msgid "&View"
+msgstr "Xe&m"
+
+#: lib/app/mainmenu.cpp:543
+msgctxt "MainMenu|"
+msgid "Toolbars"
+msgstr "thanh công cụ"
+
+#: lib/app/mainmenu.cpp:545
+msgctxt "MainMenu|"
+msgid "Sidebar"
+msgstr "thanh bên"
+
+#: lib/app/mainmenu.cpp:547
+msgctxt "MainMenu|"
+msgid "Character &Encoding"
+msgstr "Mã hoá &kí tự"
+
+#: lib/app/mainmenu.cpp:556
+msgctxt "MainMenu|"
+msgid "Sta&tus Bar"
+msgstr "Thanh &trạng thái"
+
+#: lib/app/mainmenu.cpp:558
+msgctxt "MainMenu|"
+msgid "&Stop"
+msgstr "Dừn&g"
+
+#: lib/app/mainmenu.cpp:559
+msgctxt "MainMenu|"
+msgid "&Reload"
+msgstr "Tả&i lại"
+
+#: lib/app/mainmenu.cpp:561
+msgctxt "MainMenu|"
+msgid "Zoom &In"
+msgstr "Th&u phóng"
+
+#: lib/app/mainmenu.cpp:562
+msgctxt "MainMenu|"
+msgid "Zoom &Out"
+msgstr "T&hu phóng"
+
+#: lib/app/mainmenu.cpp:563
+msgctxt "MainMenu|"
+msgid "Reset"
+msgstr "Đặt lại"
+
+#: lib/app/mainmenu.cpp:567
+msgctxt "MainMenu|"
+msgid "&Page Source"
+msgstr "Nguồn &trang"
+
+#: lib/app/mainmenu.cpp:569
+msgctxt "MainMenu|"
+msgid "&FullScreen"
+msgstr "&Toàn màn hình"
+
+#: lib/app/mainmenu.cpp:572
+msgctxt "MainMenu|"
+msgid "&Tools"
+msgstr "Cô&ng cụ"
+
+#: lib/app/mainmenu.cpp:575
+msgctxt "MainMenu|"
+msgid "&Web Search"
+msgstr "Tì&m kiếm trên web"
+
+#: lib/app/mainmenu.cpp:576
+msgctxt "MainMenu|"
+msgid "Site &Info"
+msgstr "T&hông tin trang web"
+
+#: lib/app/mainmenu.cpp:579
+msgctxt "MainMenu|"
+msgid "&Download Manager"
+msgstr "&Trình quản lý tải về"
+
+#: lib/app/mainmenu.cpp:580
+msgctxt "MainMenu|"
+msgid "&Cookies Manager"
+msgstr "Trìn&h quản lý bánh quy"
+
+#: lib/app/mainmenu.cpp:581
+msgctxt "MainMenu|"
+msgid "Web In&spector"
+msgstr "Trình duyệt we&b"
+
+#: lib/app/mainmenu.cpp:582
+msgctxt "MainMenu|"
+msgid "Clear Recent &History"
+msgstr "&Làm trống lịch sử gần đây"
+
+#: lib/app/mainmenu.cpp:587
+msgctxt "MainMenu|"
+msgid "&Extensions"
+msgstr "Tiện ích mở &rộng"
+
+#: lib/app/mainmenu.cpp:593
+msgctxt "MainMenu|"
+msgid "&Help"
+msgstr "Trợ giú&p"
+
+#: lib/app/mainmenu.cpp:596
+msgctxt "MainMenu|"
+msgid "About &Qt"
+msgstr "Về &Qt"
+
+#: lib/app/mainmenu.cpp:601
+msgctxt "MainMenu|"
+msgid "Information about application"
+msgstr "Thông tin về ứng dụng"
+
+#: lib/app/mainmenu.cpp:602
+msgctxt "MainMenu|"
+msgid "Configuration Information"
+msgstr "Thông tin cấu hình"
+
+#: lib/app/mainmenu.cpp:603
+msgctxt "MainMenu|"
+msgid "Report &Issue"
+msgstr "&Báo cáo sự cố"
+
+#: lib/app/mainmenu.cpp:616
+msgctxt "MainMenu|"
+msgid "Restore &Closed Tab"
+msgstr "Khôi &phục Thẻ Đã Đóng"
+
+#: lib/autofill/autofillicon.cpp:29
+msgctxt "AutoFillWidget|"
+msgid "Choose username to login"
+msgstr "Chọn tên người dùng để đăng nhập"
+
+#: lib/autofill/autofillnotification.cpp:39
+#, qt-format
+msgctxt "AutoFillNotification|"
+msgid "on %1"
+msgstr "vào %1"
+
+#: lib/autofill/autofillnotification.cpp:43
+#, qt-format
+msgctxt "AutoFillNotification|"
+msgid "for <b>%1</b>"
+msgstr "cho <b>%1</b>"
+
+#: lib/autofill/autofillnotification.cpp:47
+#, qt-format
+msgctxt "AutoFillNotification|"
+msgid "Do you want Falkon to update saved password %1?"
+msgstr "Bạn có muốn Falkon cập nhật mật khẩu đã lưu %1 không?"
+
+#: lib/autofill/autofillnotification.cpp:53
+#, qt-format
+msgctxt "AutoFillNotification|"
+msgid "Do you want Falkon to remember the password %1 %2?"
+msgstr "Bạn có muốn Falkon ghi nhớ mật khẩu %1 %2 không?"
+
+#: lib/autofill/autofillnotification.ui:69
+msgctxt "AutoFillNotification|"
+msgid "Update"
+msgstr "Cập nhật"
+
+#: lib/autofill/autofillnotification.ui:85
+msgctxt "AutoFillNotification|"
+msgid "Remember"
+msgstr "Ghi nhớ"
+
+#: lib/autofill/autofillnotification.ui:101
+msgctxt "AutoFillNotification|"
+msgid "Never For This Site"
+msgstr "Không bao giờ cho địa điểm này"
+
+#: lib/autofill/autofillnotification.ui:117
+msgctxt "AutoFillNotification|"
+msgid "Not Now"
+msgstr "Không phải bây giờ"
+
+#: lib/autofill/autofillwidget.ui:11
+msgctxt "AutoFillWidget|"
+msgid "Login as:"
+msgstr "Đăng nhập với:"
+
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:257
+msgctxt "AutoFill|"
+msgid "Database (encrypted)"
+msgstr "Cơ sở dữ liệu (mã hóa)"
+
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:546
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:551
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:600
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:643
+msgctxt "MasterPasswordDialog|"
+msgid "Warning!"
+msgstr "Cảnh báo!"
+
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:546
+msgctxt "MasterPasswordDialog|"
+msgid "You entered a wrong password!"
+msgstr "Bạn đã nhập sai mật khẩu!"
+
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:551
+msgctxt "MasterPasswordDialog|"
+msgid "New/Confirm password fields do not match!"
+msgstr "Các trường mật khẩu mới/xác nhận không khớp!"
+
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:578
+msgctxt "AutoFill|"
+msgid "Warning!"
+msgstr "Cảnh báo!"
+
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:579
+msgctxt "AutoFill|"
+msgid ""
+"This backend needs a master password to be set! Falkon just switches to its "
+"default backend"
+msgstr ""
+"Hậu phương này cần phải đặt mật khẩu chính! Falkon chỉ chuyển sang hậu "
+"phương mặc định của nó"
+
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:600
+msgctxt "MasterPasswordDialog|"
+msgid "Are you sure you want to clear master password and decrypt data?"
+msgstr "Bạn có chắc chắn muốn xóa mật khẩu chính và giải mã dữ liệu?"
+
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:643
+msgctxt "MasterPasswordDialog|"
+msgid "Some data has not been decrypted. The master password was not cleared!"
+msgstr "Một số dữ liệu chưa được giải mã. Mật khẩu chính chưa được xóa!"
+
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:669
+msgctxt "AutoFill|"
+msgid "Enter Master Password"
+msgstr "Nhập mật khẩu chính"
+
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:673
+msgctxt "AutoFill|"
+msgid "Permission is required, please enter Master Password:"
+msgstr "Cần có quyền, vui lòng nhập Mật khẩu Chính:"
+
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:679
+msgctxt "AutoFill|"
+msgid "Entered password is wrong!"
+msgstr "Mật khẩu đã nhập không đúng!"
+
+#: lib/autofill/passwordbackends/databasepasswordbackend.cpp:32
+msgctxt "AutoFill|"
+msgid "Database (plaintext)"
+msgstr "Cơ sở dữ liệu (văn bản thuần)"
+
+#: lib/autofill/passwordbackends/masterpassworddialog.ui:20
+msgctxt "MasterPasswordDialog|"
+msgid "Encrypted DataBase Settings"
+msgstr "Thiết lập Cơ Sở Dữ Liệu Mật Mã Hoá"
+
+#: lib/autofill/passwordbackends/masterpassworddialog.ui:33
+msgctxt "MasterPasswordDialog|"
+msgid "Set/Change Master Password..."
+msgstr "Đặt/Thay đổi Mật khẩu Chính..."
+
+#: lib/autofill/passwordbackends/masterpassworddialog.ui:36
+msgctxt "MasterPasswordDialog|"
+msgid "This backend does not work without a master password."
+msgstr "Hậu phương này không hoạt động nếu không có mật khẩu chính."
+
+#: lib/autofill/passwordbackends/masterpassworddialog.ui:43
+msgctxt "MasterPasswordDialog|"
+msgid "Clear Master Password..."
+msgstr "Làm trống Mật khẩu chính..."
+
+#: lib/autofill/passwordbackends/masterpassworddialog.ui:46
+msgctxt "MasterPasswordDialog|"
+msgid ""
+"This option clears the master password and moves all encrypted data to the "
+"\"DataBase (Plain Text)\" backend, and switches to it."
+msgstr ""
+"Lựa chọn này xoá mật khẩu chính và chuyển tất cả dữ liệu mật mã hoá sang "
+"backend \"DataBase (Plain Text)\", và chuyển sang backend này."
+
+#: lib/autofill/passwordbackends/masterpassworddialog.ui:64
+msgctxt "MasterPasswordDialog|"
+msgid ""
+"The Master Password is used to protect site passwords and form data. If you "
+"set a Master Password you will be asked to enter it once per session."
+msgstr ""
+"Mật khẩu chính được sử dụng để bảo vệ mật khẩu của các địa điểm web và dữ "
+"liệu biểu mẫu. Nếu bạn đặt Mật khẩu chính, bạn sẽ được yêu cầu nhập nó một "
+"lần mỗi phiên."
+
+#: lib/autofill/passwordbackends/masterpassworddialog.ui:76
+msgctxt "MasterPasswordDialog|"
+msgid "Current Password:"
+msgstr "Mật khẩu hiện tại:"
+
+#: lib/autofill/passwordbackends/masterpassworddialog.ui:83
+msgctxt "MasterPasswordDialog|"
+msgid "New Password:"
+msgstr "Mật khẩu mới:"
+
+#: lib/autofill/passwordbackends/masterpassworddialog.ui:90
+msgctxt "MasterPasswordDialog|"
+msgid "Confirm Password:"
+msgstr "Xác nhận mật khẩu:"
+
+#: lib/autofill/passwordbackends/masterpassworddialog.ui:120
+msgctxt "MasterPasswordDialog|"
+msgid ""
+"<b>Note:</b> The Master Password is not resettable. Do not forget it, please."
+msgstr "<b>Lưu ý:</b> Mật khẩu chủ không thể đặt lại. Xin đừng quên nó."
+
+#: lib/bookmarks/bookmarks.cpp:208
+msgctxt "Bookmarks|"
+msgid "Bookmarks Toolbar"
+msgstr "Thanh công cụ Bookmarks"
+
+#: lib/bookmarks/bookmarks.cpp:209
+msgctxt "Bookmarks|"
+msgid "Bookmarks located in Bookmarks Toolbar"
+msgstr "Các dấu trang được đặt trong Thanh công cụ Dấu trang"
+
+#: lib/bookmarks/bookmarks.cpp:212
+msgctxt "Bookmarks|"
+msgid "Bookmarks Menu"
+msgstr "Trình đơn Bookmarks"
+
+#: lib/bookmarks/bookmarks.cpp:213
+msgctxt "Bookmarks|"
+msgid "Bookmarks located in Bookmarks Menu"
+msgstr "Các dấu trang được đặt trong Trình đơn Dấu trang"
+
+#: lib/bookmarks/bookmarks.cpp:216
+msgctxt "Bookmarks|"
+msgid "Unsorted Bookmarks"
+msgstr "Các Dấu Trang Chưa Được Sắp Xếp"
+
+#: lib/bookmarks/bookmarks.cpp:217
+msgctxt "Bookmarks|"
+msgid "All other bookmarks"
+msgstr "Tất cả các dấu trang khác"
+
+#: lib/bookmarks/bookmarksexport/bookmarksexportdialog.cpp:64
+msgctxt "BookmarksExportDialog|"
+msgid "Error!"
+msgstr "Lỗi!"
+
+#: lib/bookmarks/bookmarksexport/bookmarksexportdialog.ui:14
+msgctxt "BookmarksExportDialog|"
+msgid "Export Bookmarks"
+msgstr "Xuất khẩu Dấu trang"
+
+#: lib/bookmarks/bookmarksexport/bookmarksexportdialog.ui:20
+msgctxt "BookmarksExportDialog|"
+msgid "<b>Export Bookmarks</b>"
+msgstr "<b>Xuất Dấu Trang</b>"
+
+#: lib/bookmarks/bookmarksexport/bookmarksexportdialog.ui:27
+msgctxt "BookmarksExportDialog|"
+msgid "Export options"
+msgstr "Tùy chọn xuất khẩu"
+
+#: lib/bookmarks/bookmarksexport/bookmarksexportdialog.ui:42
+msgctxt "BookmarksExportDialog|"
+msgid "Choose..."
+msgstr "Chọn..."
+
+#: lib/bookmarks/bookmarksexport/bookmarksexportdialog.ui:73
+msgctxt "BookmarksExportDialog|"
+msgid "Output File:"
+msgstr "Tệp đầu ra:"
+
+#: lib/bookmarks/bookmarksexport/bookmarksexportdialog.ui:89
+msgctxt "BookmarksExportDialog|"
+msgid "Format:"
+msgstr "Định dạng:"
+
+#: lib/bookmarks/bookmarksexport/htmlexporter.cpp:31
+msgctxt "BookmarksExporter|"
+msgid "HTML File"
+msgstr "Tệp HTML"
+
+#: lib/bookmarks/bookmarksexport/htmlexporter.cpp:37
+msgctxt "BookmarksExporter|"
+msgid "HTML Bookmarks"
+msgstr "Dấu trang HTML"
+
+#: lib/bookmarks/bookmarksexport/htmlexporter.cpp:38
+msgctxt "BookmarksExporter|"
+msgid "Choose file..."
+msgstr "Chọn tệp..."
+
+#: lib/bookmarks/bookmarksexport/htmlexporter.cpp:47
+msgctxt "BookmarksExporter|"
+msgid "Cannot open file for writing!"
+msgstr "Không thể mở tệp để ghi!"
+
+#: lib/bookmarks/bookmarksicon.cpp:37 lib/bookmarks/bookmarksicon.cpp:108
+msgctxt "BookmarksIcon|"
+msgid "Bookmark this Page"
+msgstr "Lưu dấu trang này"
+
+#: lib/bookmarks/bookmarksicon.cpp:100
+msgctxt "BookmarksIcon|"
+msgid "Edit this bookmark"
+msgstr "Sửa dấu nhớ này"
+
+#: lib/bookmarks/bookmarksimport/bookmarksimportdialog.cpp:113
+#: lib/bookmarks/bookmarksimport/bookmarksimportdialog.cpp:118
+msgctxt "BookmarksImportDialog|"
+msgid "Error!"
+msgstr "Lỗi!"
+
+#: lib/bookmarks/bookmarksimport/bookmarksimportdialog.cpp:118
+msgctxt "BookmarksImportDialog|"
+msgid "No bookmarks were found."
+msgstr "Không tìm thấy dấu trang."
+
+#: lib/bookmarks/bookmarksimport/bookmarksimportdialog.cpp:125
+msgctxt "BookmarksImportDialog|"
+msgid "Finish"
+msgstr "Hoàn tất"
+
+#: lib/bookmarks/bookmarksimport/bookmarksimportdialog.cpp:157
+#: lib/bookmarks/bookmarksimport/bookmarksimportdialog.ui:270
+msgctxt "BookmarksImportDialog|"
+msgid "Next >"
+msgstr "Tiếp >"
+
+#: lib/bookmarks/bookmarksimport/bookmarksimportdialog.cpp:186
+#, qt-format
+msgctxt "BookmarksImportDialog|"
+msgid "<b>Importing from %1</b>"
+msgstr "<b>Đang nhập từ %1</b>"
+
+#: lib/bookmarks/bookmarksimport/bookmarksimportdialog.ui:20
+msgctxt "BookmarksImportDialog|"
+msgid "Import Bookmarks"
+msgstr "Nhập khẩu Dấu trang"
+
+#: lib/bookmarks/bookmarksimport/bookmarksimportdialog.ui:26
+msgctxt "BookmarksImportDialog|"
+msgid "<b>Import Bookmarks</b>"
+msgstr "<b>Nhập Dấu Trang</b>"
+
+#: lib/bookmarks/bookmarksimport/bookmarksimportdialog.ui:74
+msgctxt "BookmarksImportDialog|"
+msgid "Internet Explorer"
+msgstr "Internet Explorer"
+
+#: lib/bookmarks/bookmarksimport/bookmarksimportdialog.ui:83
+msgctxt "BookmarksImportDialog|"
+msgid "Html File"
+msgstr "Tệp HTML"
+
+#: lib/bookmarks/bookmarksimport/bookmarksimportdialog.ui:95
+msgctxt "BookmarksImportDialog|"
+msgid "Choose from which you want to import bookmarks:"
+msgstr "Chọn từ đâu bạn muốn nhập khẩu dấu trang:"
+
+#: lib/bookmarks/bookmarksimport/bookmarksimportdialog.ui:125
+msgctxt "BookmarksImportDialog|"
+msgid "Choose..."
+msgstr "Chọn..."
+
+#: lib/bookmarks/bookmarksimport/bookmarksimportdialog.ui:257
+msgctxt "BookmarksImportDialog|"
+msgid "< Back"
+msgstr "< Quay lại"
+
+#: lib/bookmarks/bookmarksimport/chromeimporter.cpp:33
+msgctxt "BookmarksImporter|"
+msgid ""
+"Google Chrome stores its bookmarks in <b>Bookmarks</b> text file. This file "
+"is usually located in"
+msgstr ""
+"Google Chrome lưu trữ dấu trang của nó trong tệp văn bản <b>Bookmarks</b>. "
+"Tệp này thường được đặt ở"
+
+#: lib/bookmarks/bookmarksimport/chromeimporter.cpp:50
+#: lib/bookmarks/bookmarksimport/firefoximporter.cpp:57
+#: lib/bookmarks/bookmarksimport/htmlimporter.cpp:44
+#: lib/bookmarks/bookmarksimport/ieimporter.cpp:44
+#: lib/bookmarks/bookmarksimport/operaimporter.cpp:48
+msgctxt "BookmarksImporter|"
+msgid "Choose file..."
+msgstr "Chọn tệp..."
+
+#: lib/bookmarks/bookmarksimport/chromeimporter.cpp:59
+#: lib/bookmarks/bookmarksimport/htmlimporter.cpp:53
+#: lib/bookmarks/bookmarksimport/operaimporter.cpp:57
+msgctxt "BookmarksImporter|"
+msgid "Unable to open file."
+msgstr "Không thể mở tệp."
+
+#: lib/bookmarks/bookmarksimport/chromeimporter.cpp:76
+msgctxt "BookmarksImporter|"
+msgid "Cannot parse JSON file!"
+msgstr "Không thể phân tách tệp JSON!"
+
+#: lib/bookmarks/bookmarksimport/firefoximporter.cpp:42
+msgctxt "BookmarksImporter|"
+msgid ""
+"Mozilla Firefox stores its bookmarks in <b>places.sqlite</b> SQLite "
+"database. This file is usually located in"
+msgstr ""
+"Mozilla Firefox lưu trữ các dấu trang trong cơ sở dữ liệu SQLite "
+"<b>places.sqlite</b>. Tệp này thường được đặt ở"
+
+#: lib/bookmarks/bookmarksimport/firefoximporter.cpp:70
+msgctxt "BookmarksImportDialog|"
+msgid "File does not exist."
+msgstr "Tệp không tồn tại."
+
+#: lib/bookmarks/bookmarksimport/firefoximporter.cpp:77
+msgctxt "BookmarksImportDialog|"
+msgid "Unable to open database. Is Firefox running?"
+msgstr "Không thể mở cơ sở dữ liệu. Firefox có đang chạy không?"
+
+#: lib/bookmarks/bookmarksimport/htmlimporter.cpp:32
+msgctxt "BookmarksImporter|"
+msgid ""
+"You can import bookmarks from any browser that supports HTML exporting. This "
+"file has usually these suffixes"
+msgstr ""
+"Bạn có thể nhập khẩu dấu trang từ bất kỳ trình duyệt nào hỗ trợ xuất HTML. "
+"Tệp này thường có những phần mở rộng này"
+
+#: lib/bookmarks/bookmarksimport/htmlimporter.cpp:43
+msgctxt "BookmarksImporter|"
+msgid "HTML Bookmarks"
+msgstr "Dấu trang HTML"
+
+#: lib/bookmarks/bookmarksimport/ieimporter.cpp:33
+msgctxt "BookmarksImporter|"
+msgid ""
+"Internet Explorer stores its bookmarks in <b>Favorites</b> folder. This "
+"folder is usually located in"
+msgstr ""
+"Internet Explorer lưu trữ các dấu trang trong thư mục <b>Favorites</b>. Thư "
+"mục này thường được đặt tại"
+
+#: lib/bookmarks/bookmarksimport/ieimporter.cpp:52
+msgctxt "BookmarksImporter|"
+msgid "Directory does not exist."
+msgstr "Thư mục không tồn tại."
+
+#: lib/bookmarks/bookmarksimport/operaimporter.cpp:33
+msgctxt "BookmarksImporter|"
+msgid ""
+"Opera stores its bookmarks in <b>bookmarks.adr</b> text file. This file is "
+"usually located in"
+msgstr ""
+"Opera lưu trữ các dấu trang của nó trong tệp văn bản <b>bookmarks.adr</b>. "
+"Tệp này thường được đặt ở"
+
+#: lib/bookmarks/bookmarksimport/operaimporter.cpp:64
+msgctxt "BookmarksImporter|"
+msgid "File is not valid Opera bookmarks file!"
+msgstr "Tệp không phải là tệp dấu trang Opera hợp lệ!"
+
+#: lib/bookmarks/bookmarksimport/operaimporter.cpp:69
+msgctxt "BookmarksImporter|"
+msgid "Only UTF-8 encoded Opera bookmarks file is supported!"
+msgstr "Chỉ hỗ trợ tệp dấu trang Opera được mã hoá UTF-8!"
+
+#: lib/bookmarks/bookmarksmanager.cpp:105
+msgctxt "BookmarksManager|"
+msgid "Open in new tab"
+msgstr "Mở trong thẻ mới"
+
+#: lib/bookmarks/bookmarksmanager.cpp:106
+msgctxt "BookmarksManager|"
+msgid "Open in new window"
+msgstr "Mở trong cửa sổ mới"
+
+#: lib/bookmarks/bookmarksmanager.cpp:107
+msgctxt "BookmarksManager|"
+msgid "Open in new private window"
+msgstr "Mở trong cửa sổ riêng tư mới"
+
+#: lib/bookmarks/bookmarksmanager.cpp:110
+#: lib/bookmarks/bookmarksmanager.cpp:177
+msgctxt "BookmarksManager|"
+msgid "New Bookmark"
+msgstr "Dấu nhớ mới"
+
+#: lib/bookmarks/bookmarksmanager.cpp:111
+#: lib/bookmarks/bookmarksmanager.cpp:185
+msgctxt "BookmarksManager|"
+msgid "New Folder"
+msgstr "Thư mục mới"
+
+#: lib/bookmarks/bookmarksmanager.cpp:112
+msgctxt "BookmarksManager|"
+msgid "New Separator"
+msgstr "Phần phân cách mới"
+
+#: lib/bookmarks/bookmarksmanager.cpp:114
+msgctxt "BookmarksManager|"
+msgid "Delete"
+msgstr "Xóa"
+
+#: lib/bookmarks/bookmarksmanager.ui:14
+msgctxt "BookmarksManager|"
+msgid "Bookmarks"
+msgstr "Dấu trang"
+
+#: lib/bookmarks/bookmarksmanager.ui:32
+msgctxt "BookmarksManager|"
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: lib/bookmarks/bookmarksmanager.ui:42
+msgctxt "BookmarksManager|"
+msgid "Address:"
+msgstr "Địa chỉ:"
+
+#: lib/bookmarks/bookmarksmanager.ui:52
+msgctxt "BookmarksManager|"
+msgid "Keyword:"
+msgstr "Từ khóa:"
+
+#: lib/bookmarks/bookmarksmanager.ui:62
+msgctxt "BookmarksManager|"
+msgid "Description"
+msgstr "Mô tả"
+
+#: lib/bookmarks/bookmarksmenu.cpp:166
+msgctxt "BookmarksMenu|"
+msgid "&Bookmarks"
+msgstr "Dấu tra&ng"
+
+#: lib/bookmarks/bookmarksmenu.cpp:168
+msgctxt "BookmarksMenu|"
+msgid "Bookmark &This Page"
+msgstr "Lưu dấu trang nà&y"
+
+#: lib/bookmarks/bookmarksmenu.cpp:169
+msgctxt "BookmarksMenu|"
+msgid "Bookmark &All Tabs"
+msgstr "Lư&u dấu tất cả các tab"
+
+#: lib/bookmarks/bookmarksmenu.cpp:170
+msgctxt "BookmarksMenu|"
+msgid "Organize &Bookmarks"
+msgstr "Sắp xếp Dấu tr&ang"
+
+#: lib/bookmarks/bookmarksmodel.cpp:148
+msgctxt "BookmarksModel|"
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: lib/bookmarks/bookmarksmodel.cpp:150
+msgctxt "BookmarksModel|"
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: lib/bookmarks/bookmarkstoolbar.cpp:74
+msgctxt "BookmarksToolbar|"
+msgid "Open in new tab"
+msgstr "Mở trong thẻ mới"
+
+#: lib/bookmarks/bookmarkstoolbar.cpp:75
+msgctxt "BookmarksToolbar|"
+msgid "Open in new window"
+msgstr "Mở trong cửa sổ mới"
+
+#: lib/bookmarks/bookmarkstoolbar.cpp:76
+msgctxt "BookmarksToolbar|"
+msgid "Open in new private window"
+msgstr "Mở trong cửa sổ riêng tư mới"
+
+#: lib/bookmarks/bookmarkstoolbar.cpp:78 lib/bookmarks/bookmarkstoolbar.cpp:186
+msgctxt "BookmarksToolbar|"
+msgid "New Folder"
+msgstr "Thư mục mới"
+
+#: lib/bookmarks/bookmarkstoolbar.cpp:79
+msgctxt "BookmarksToolbar|"
+msgid "Edit"
+msgstr "Sửa"
+
+#: lib/bookmarks/bookmarkstoolbar.cpp:80
+msgctxt "BookmarksToolbar|"
+msgid "Delete"
+msgstr "Xóa"
+
+#: lib/bookmarks/bookmarkstoolbar.cpp:82
+msgctxt "BookmarksToolbar|"
+msgid "Show Only Icons"
+msgstr "Chỉ hiện biểu tượng"
+
+#: lib/bookmarks/bookmarkstoolbar.cpp:86
+msgctxt "BookmarksToolbar|"
+msgid "Show Only Text"
+msgstr "Chỉ hiển thị văn bản"
+
+#: lib/bookmarks/bookmarkstoolbar.cpp:186
+msgctxt "BookmarksToolbar|"
+msgid "Enter Folder Name:"
+msgstr "Nhập Tên Thư Mục:"
+
+#: lib/bookmarks/bookmarkstools.cpp:76
+#, qt-format
+msgctxt "BookmarksFoldersMenu|"
+msgid "Choose %1"
+msgstr "Chọn %1"
+
+#: lib/bookmarks/bookmarkstools.cpp:153
+msgctxt "Bookmarks|"
+msgid "Choose name and location of this bookmark."
+msgstr "Chọn tên và địa điểm của dấu trang này."
+
+#: lib/bookmarks/bookmarkstools.cpp:157
+msgctxt "Bookmarks|"
+msgid "Add New Bookmark"
+msgstr "Thêm Dấu Nhớ Mới"
+
+#: lib/bookmarks/bookmarkstools.cpp:197
+msgctxt "Bookmarks|"
+msgid "Choose folder for bookmarks:"
+msgstr "Chọn thư mục để lưu dấu trang:"
+
+#: lib/bookmarks/bookmarkstools.cpp:198
+msgctxt "Bookmarks|"
+msgid "Bookmark All Tabs"
+msgstr "Lưu dấu tất cả các tab"
+
+#: lib/bookmarks/bookmarkstools.cpp:239
+msgctxt "Bookmarks|"
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: lib/bookmarks/bookmarkstools.cpp:242
+msgctxt "Bookmarks|"
+msgid "Address:"
+msgstr "Địa chỉ:"
+
+#: lib/bookmarks/bookmarkstools.cpp:244
+msgctxt "Bookmarks|"
+msgid "Keyword:"
+msgstr "Từ khóa:"
+
+#: lib/bookmarks/bookmarkstools.cpp:247
+msgctxt "Bookmarks|"
+msgid "Description:"
+msgstr "Mô tả:"
+
+#: lib/bookmarks/bookmarkstools.cpp:252
+msgctxt "Bookmarks|"
+msgid "Edit Bookmark"
+msgstr "Sửa Dấu Nhớ"
+
+#: lib/bookmarks/bookmarkstools.cpp:344
+msgctxt "Bookmarks|"
+msgid "Confirmation"
+msgstr "Xác nhận"
+
+#: lib/bookmarks/bookmarkstools.cpp:345
+#, qt-format
+msgctxt "Bookmarks|"
+msgid "Are you sure you want to open all bookmarks from '%1' folder in tabs?"
+msgstr ""
+"Bạn có chắc chắn muốn mở tất cả các dấu trang từ thư mục '%1' trong các "
+"tab?"
+
+#: lib/bookmarks/bookmarkstools.cpp:440
+msgctxt "Bookmarks|"
+msgid "Empty"
+msgstr "Trống"
+
+#: lib/bookmarks/bookmarkswidget.cpp:98
+msgctxt "BookmarksWidget|"
+msgid "Update Bookmark"
+msgstr "Cập nhật Dấu nhớ"
+
+#: lib/bookmarks/bookmarkswidget.cpp:112 lib/bookmarks/bookmarkswidget.ui:33
+msgctxt "BookmarksWidget|"
+msgid "Add to Speed Dial"
+msgstr "Thêm vào Quay số nhanh"
+
+#: lib/bookmarks/bookmarkswidget.cpp:116
+msgctxt "BookmarksWidget|"
+msgid "Remove from Speed Dial"
+msgstr "Xoá khỏi Quay số nhanh"
+
+#: lib/bookmarks/bookmarkswidget.cpp:121
+msgctxt "BookmarksWidget|"
+msgid "Remove from Bookmarks"
+msgstr "Xoá khỏi Dấu trang"
+
+#: lib/bookmarks/bookmarkswidget.ui:20
+msgctxt "BookmarksWidget|"
+msgid "Add to Bookmarks"
+msgstr "Thêm vào Dấu trang"
+
+#: lib/cookies/cookiemanager.cpp:78
+msgctxt "CookieManager|"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: lib/cookies/cookiemanager.cpp:133
+msgctxt "CookieManager|"
+msgid "Confirmation"
+msgstr "Xác nhận"
+
+#: lib/cookies/cookiemanager.cpp:134
+msgctxt "CookieManager|"
+msgid "Are you sure you want to delete all cookies on your computer?"
+msgstr "Bạn có chắc chắn muốn xóa tất cả bánh quy trên máy tính của bạn không?"
+
+#: lib/cookies/cookiemanager.cpp:179 lib/cookies/cookiemanager.cpp:180
+#: lib/cookies/cookiemanager.cpp:181 lib/cookies/cookiemanager.cpp:182
+#: lib/cookies/cookiemanager.cpp:183 lib/cookies/cookiemanager.cpp:184
+#: lib/cookies/cookiemanager.ui:154 lib/cookies/cookiemanager.ui:164
+#: lib/cookies/cookiemanager.ui:174 lib/cookies/cookiemanager.ui:184
+#: lib/cookies/cookiemanager.ui:194 lib/cookies/cookiemanager.ui:204
+msgctxt "CookieManager|"
+msgid "<cookie not selected>"
+msgstr "Không có cookie được chọn"
+
+#: lib/cookies/cookiemanager.cpp:186 lib/cookies/cookiemanager.cpp:196
+#: lib/cookies/cookiemanager.ui:245
+msgctxt "CookieManager|"
+msgid "Remove cookies"
+msgstr "Xoá bánh quy"
+
+#: lib/cookies/cookiemanager.cpp:189 lib/cookies/cookiemanager.cpp:190
+#: lib/cookies/cookiemanager.cpp:191 lib/cookies/cookiemanager.cpp:192
+#: lib/cookies/cookiemanager.cpp:193 lib/cookies/cookiemanager.cpp:194
+msgctxt "CookieManager|"
+msgid "<multiple cookies selected>"
+msgstr "đã chọn nhiều bánh quy"
+
+#: lib/cookies/cookiemanager.cpp:206
+msgctxt "CookieManager|"
+msgid "Secure only"
+msgstr "Chỉ an toàn"
+
+#: lib/cookies/cookiemanager.cpp:206
+msgctxt "CookieManager|"
+msgid "All connections"
+msgstr "Tất cả các kết nối"
+
+#: lib/cookies/cookiemanager.cpp:207
+msgctxt "CookieManager|"
+msgid "Session cookie"
+msgstr "Bánh quy phiên"
+
+#: lib/cookies/cookiemanager.cpp:209
+msgctxt "CookieManager|"
+msgid "Remove cookie"
+msgstr "Xoá bánh quy"
+
+#: lib/cookies/cookiemanager.cpp:214 lib/cookies/cookiemanager.cpp:241
+#: lib/cookies/cookiemanager.ui:126
+msgctxt "CookieManager|"
+msgid "Server:"
+msgstr "Máy chủ:"
+
+#: lib/cookies/cookiemanager.cpp:214
+msgctxt "CookieManager|"
+msgid "Add to whitelist"
+msgstr "Thêm vào danh sách trắng"
+
+#: lib/cookies/cookiemanager.cpp:221
+msgctxt "CookieManager|"
+msgid "Already blacklisted!"
+msgstr "Đã được đưa vào danh sách đen!"
+
+#: lib/cookies/cookiemanager.cpp:221
+#, qt-format
+msgctxt "CookieManager|"
+msgid "The server \"%1\" is already in blacklist, please remove it first."
+msgstr "Máy chủ \"%1\" đã có trong danh sách đen, vui lòng xoá nó trước."
+
+#: lib/cookies/cookiemanager.cpp:241
+msgctxt "CookieManager|"
+msgid "Add to blacklist"
+msgstr "Thêm vào danh sách đen"
+
+#: lib/cookies/cookiemanager.cpp:252
+msgctxt "CookieManager|"
+msgid "Already whitelisted!"
+msgstr "Đã được thêm vào danh sách trắng!"
+
+#: lib/cookies/cookiemanager.cpp:252
+#, qt-format
+msgctxt "CookieManager|"
+msgid "The server \"%1\" is already in whitelist, please remove it first."
+msgstr "Máy chủ \"%1\" đã có trong danh sách trắng, vui lòng xoá nó trước."
+
+#: lib/cookies/cookiemanager.ui:14
+msgctxt "CookieManager|"
+msgid "Cookies"
+msgstr "bánh quy"
+
+#: lib/cookies/cookiemanager.ui:36
+msgctxt "CookieManager|"
+msgid "Stored Cookies"
+msgstr "Bánh quy đã lưu"
+
+#: lib/cookies/cookiemanager.ui:42
+msgctxt "CookieManager|"
+msgid "Find: "
+msgstr "Tìm kiếm:"
+
+#: lib/cookies/cookiemanager.ui:52
+msgctxt "CookieManager|"
+msgid "These cookies are stored on your computer:"
+msgstr "Những \"bánh quy\" này được lưu trữ trên máy tính của bạn:"
+
+#: lib/cookies/cookiemanager.ui:66
+msgctxt "CookieManager|"
+msgid "Server"
+msgstr "Máy chủ"
+
+#: lib/cookies/cookiemanager.ui:71
+msgctxt "CookieManager|"
+msgid "Cookie name"
+msgstr "Tên bánh quy"
+
+#: lib/cookies/cookiemanager.ui:109
+msgctxt "CookieManager|"
+msgid "Name:"
+msgstr "Tên:"
+
+#: lib/cookies/cookiemanager.ui:119
+msgctxt "CookieManager|"
+msgid "Value:"
+msgstr "Giá trị:"
+
+#: lib/cookies/cookiemanager.ui:133
+msgctxt "CookieManager|"
+msgid "Path:"
+msgstr "Đường dẫn:"
+
+#: lib/cookies/cookiemanager.ui:140
+msgctxt "CookieManager|"
+msgid "Secure:"
+msgstr "Bảo mật:"
+
+#: lib/cookies/cookiemanager.ui:147
+msgctxt "CookieManager|"
+msgid "Expiration:"
+msgstr "Hết hạn:"
+
+#: lib/cookies/cookiemanager.ui:238
+msgctxt "CookieManager|"
+msgid "Remove all cookies"
+msgstr "Xoá tất cả bánh quy"
+
+#: lib/cookies/cookiemanager.ui:269
+msgctxt "CookieManager|"
+msgid "Cookie Filtering"
+msgstr "Lọc bánh quy"
+
+#: lib/cookies/cookiemanager.ui:275
+msgctxt "CookieManager|"
+msgid "<b>Cookie whitelist</b>"
+msgstr "<b>Danh sách cho phép cookie</b>"
+
+#: lib/cookies/cookiemanager.ui:282
+msgctxt "CookieManager|"
+msgid ""
+"Cookies from these servers will ALWAYS be accepted (even if you have "
+"disabled saving cookies)"
+msgstr ""
+"Các cookie từ những máy chủ này sẽ LUÔN được chấp nhận (ngay cả khi bạn đã "
+"tắt lưu cookie)"
+
+#: lib/cookies/cookiemanager.ui:307 lib/cookies/cookiemanager.ui:361
+msgctxt "CookieManager|"
+msgid "Add"
+msgstr "Thêm"
+
+#: lib/cookies/cookiemanager.ui:314 lib/cookies/cookiemanager.ui:368
+msgctxt "CookieManager|"
+msgid "Remove"
+msgstr "Xoá"
+
+#: lib/cookies/cookiemanager.ui:326
+msgctxt "CookieManager|"
+msgid "<b>Cookie blacklist</b>"
+msgstr "<b>Danh sách đen cookie</b>"
+
+#: lib/cookies/cookiemanager.ui:333
+msgctxt "CookieManager|"
+msgid "Cookies from these servers will NEVER be accepted"
+msgstr "Bánh quy từ những máy chủ này sẽ KHÔNG BAO GIỜ được chấp nhận"
+
+#: lib/cookies/cookiemanager.ui:385
+msgctxt "CookieManager|"
+msgid "Settings"
+msgstr "Thiết lập"
+
+#: lib/cookies/cookiemanager.ui:407
+msgctxt "CookieManager|"
+msgid "Filter 3rd party cookies"
+msgstr "Lọc bánh quy của bên thứ ba"
+
+#: lib/cookies/cookiemanager.ui:414
+msgctxt "CookieManager|"
+msgid "<b>Cookie Settings</b>"
+msgstr "<b>Cài đặt Cookie</b>"
+
+#: lib/cookies/cookiemanager.ui:421
+msgctxt "CookieManager|"
+msgid "Allow storing of cookies"
+msgstr "Cho phép lưu trữ bánh quy"
+
+#: lib/cookies/cookiemanager.ui:428
+msgctxt "CookieManager|"
+msgid "Filter tracking cookies"
+msgstr "Lọc bánh quy theo dõi"
+
+#: lib/cookies/cookiemanager.ui:435
+msgctxt "CookieManager|"
+msgid "Delete cookies on close"
+msgstr "Xóa bánh quy khi đóng"
+
+#: lib/downloads/downloaditem.cpp:74
+msgctxt "DownloadItem|"
+msgid "Remaining time unavailable"
+msgstr "Thời gian còn lại không khả dụng"
+
+#: lib/downloads/downloaditem.cpp:130
+#, qt-format
+msgctxt "DownloadItem|"
+msgid "Done - %1 (%2)"
+msgstr "Hoàn thành - %1 (%2)"
+
+#: lib/downloads/downloaditem.cpp:134
+#, qt-format
+msgctxt "DownloadItem|"
+msgid "Error - %1"
+msgstr "Lỗi - %1"
+
+#: lib/downloads/downloaditem.cpp:138 lib/downloads/downloaditem.cpp:281
+#, qt-format
+msgctxt "DownloadItem|"
+msgid "Cancelled - %1"
+msgstr "Đã hủy - %1"
+
+#: lib/downloads/downloaditem.cpp:189 lib/downloads/downloaditem.cpp:325
+msgctxt "DownloadItem|"
+msgid "Cancelled"
+msgstr "Đã hủy"
+
+#: lib/downloads/downloaditem.cpp:195
+msgctxt "DownloadItem|"
+msgid "few seconds"
+msgstr "vài giây"
+
+#: lib/downloads/downloaditem.cpp:200
+#, qt-format
+msgctxt "DownloadItem|"
+msgid "%n seconds"
+msgid_plural "%n seconds"
+msgstr[0] "%n giây"
+
+#: lib/downloads/downloaditem.cpp:205
+#, qt-format
+msgctxt "DownloadItem|"
+msgid "%n minutes"
+msgid_plural "%n minutes"
+msgstr[0] "%n phút"
+
+#: lib/downloads/downloaditem.cpp:210
+#, qt-format
+msgctxt "DownloadItem|"
+msgid "%n hours"
+msgid_plural "%n hours"
+msgstr[0] "%n giờ"
+
+#: lib/downloads/downloaditem.cpp:217
+msgctxt "DownloadItem|"
+msgid "Unknown speed"
+msgstr "Tốc độ không rõ"
+
+#: lib/downloads/downloaditem.cpp:223
+#, qt-format
+msgctxt "DownloadItem|"
+msgid "%1 kB/s"
+msgstr "%1 kB/s"
+
+#: lib/downloads/downloaditem.cpp:228
+#, qt-format
+msgctxt "DownloadItem|"
+msgid "%1 MB/s"
+msgstr "%1 MB/giây"
+
+#: lib/downloads/downloaditem.cpp:232
+#, qt-format
+msgctxt "DownloadItem|"
+msgid "%1 GB/s"
+msgstr "%1 GB/s"
+
+#: lib/downloads/downloaditem.cpp:260
+msgctxt "DownloadItem|"
+msgid "Unknown size"
+msgstr "Kích thước không rõ"
+
+#: lib/downloads/downloaditem.cpp:261
+#, qt-format
+msgctxt "DownloadItem|"
+msgid "%2 - unknown size (%3)"
+msgstr "%2 - kích thước không rõ (%3)"
+
+#: lib/downloads/downloaditem.cpp:264
+#, qt-format
+msgctxt "DownloadItem|"
+msgid "Remaining %1 - %2 of %3 (%4)"
+msgstr "Còn lại %1 - %2 của %3 (%4)"
+
+#: lib/downloads/downloaditem.cpp:296
+#, qt-format
+msgctxt "DownloadItem|"
+msgid "Paused - %1"
+msgstr "Đã tạm dừng - %1"
+
+#: lib/downloads/downloaditem.cpp:309
+msgctxt "DownloadItem|"
+msgid "Open File"
+msgstr "Mở tệp"
+
+#: lib/downloads/downloaditem.cpp:311
+msgctxt "DownloadItem|"
+msgid "Open Folder"
+msgstr "Mở Thư Mục"
+
+#: lib/downloads/downloaditem.cpp:313
+msgctxt "DownloadItem|"
+msgid "Copy Download Link"
+msgstr "Sao chép Liên kết Tải về"
+
+#: lib/downloads/downloaditem.cpp:315
+msgctxt "DownloadItem|"
+msgid "Cancel downloading"
+msgstr "Huỷ tải về"
+
+#: lib/downloads/downloaditem.cpp:318
+msgctxt "DownloadItem|"
+msgid "Resume downloading"
+msgstr "Tiếp tục tải về"
+
+#: lib/downloads/downloaditem.cpp:320
+msgctxt "DownloadItem|"
+msgid "Pause downloading"
+msgstr "Tạm dừng tải về"
+
+#: lib/downloads/downloaditem.cpp:323
+msgctxt "DownloadItem|"
+msgid "Remove From List"
+msgstr "Xoá Khỏi Danh Sách"
+
+#: lib/downloads/downloaditem.cpp:325
+msgctxt "DownloadItem|"
+msgid "Error"
+msgstr "Lỗi"
+
+#: lib/downloads/downloaditem.cpp:351
+msgctxt "DownloadItem|"
+msgid "Not found"
+msgstr "Không tìm thấy"
+
+#: lib/downloads/downloaditem.cpp:351
+#, qt-format
+msgctxt "DownloadItem|"
+msgid ""
+"Sorry, the file \n"
+" %1 \n"
+" was not found!"
+msgstr "Xin lỗi, tệp \n %1 \n không được tìm thấy!"
+
+#: lib/downloads/downloadmanager.cpp:192 lib/downloads/downloadmanager.cpp:424
+#: lib/downloads/downloadmanager.ui:20
+msgctxt "DownloadManager|"
+msgid "Download Manager"
+msgstr "Trình quản lý tải về"
+
+#: lib/downloads/downloadmanager.cpp:230
+#, qt-format
+msgctxt "DownloadManager|"
+msgid "%1% of %2 files (%3) %4 remaining"
+msgstr "%1% trong số %2 tệp (%3) còn lại %4"
+
+#: lib/downloads/downloadmanager.cpp:234
+#, qt-format
+msgctxt "DownloadManager|"
+msgid "%1% - Download Manager"
+msgstr "%1% - Trình quản lý tải về"
+
+#: lib/downloads/downloadmanager.cpp:304
+msgctxt "DownloadManager|"
+msgid "Save file as..."
+msgstr "Lưu tệp với tên..."
+
+#: lib/downloads/downloadmanager.cpp:314
+msgctxt "DownloadManager|"
+msgid "MIME HTML Archive (*.mhtml)"
+msgstr "Kho trữ HTML MIME (*.mhtml)"
+
+#: lib/downloads/downloadmanager.cpp:315
+msgctxt "DownloadManager|"
+msgid "HTML Page, single (*.html)"
+msgstr "Trang HTML, đơn (*.html)"
+
+#: lib/downloads/downloadmanager.cpp:316
+msgctxt "DownloadManager|"
+msgid "HTML Page, complete (*.html)"
+msgstr "Trang HTML, hoàn tất (*.html)"
+
+#: lib/downloads/downloadmanager.cpp:320
+msgctxt "DownloadManager|"
+msgid "Save page as..."
+msgstr "Lưu trang web như..."
+
+#: lib/downloads/downloadmanager.cpp:417
+msgctxt "DownloadManager|"
+msgid "Falkon: Download Finished"
+msgstr "Falkon: Tải về hoàn tất"
+
+#: lib/downloads/downloadmanager.cpp:417
+msgctxt "DownloadManager|"
+msgid "All files have been successfully downloaded."
+msgstr "Tất cả các tệp đã được tải xuống thành công."
+
+#: lib/downloads/downloadmanager.cpp:464
+msgctxt "DownloadManager|"
+msgid "Warning"
+msgstr "Cảnh báo"
+
+#: lib/downloads/downloadmanager.cpp:465
+msgctxt "DownloadManager|"
+msgid ""
+"Are you sure you want to quit? All uncompleted downloads will be cancelled!"
+msgstr ""
+"Bạn có chắc chắn muốn thoát không? Tất cả các tải xuống chưa hoàn thành sẽ "
+"bị hủy!"
+
+#: lib/downloads/downloadmanager.ui:69
+msgctxt "DownloadManager|"
+msgid "Clear"
+msgstr "Làm trống"
+
+#: lib/downloads/downloadoptionsdialog.cpp:49
+#, qt-format
+msgctxt "DownloadOptionsDialog|"
+msgid "Opening %1"
+msgstr "Đang mở %1"
+
+#: lib/downloads/downloadoptionsdialog.cpp:112
+msgctxt "DownloadOptionsDialog|"
+msgid "Download link copied."
+msgstr "Đường dẫn tải về đã được sao chép."
+
+#: lib/downloads/downloadoptionsdialog.ui:25
+msgctxt "DownloadOptionsDialog|"
+msgid "What should Falkon do with this file?"
+msgstr "Falkon nên làm gì với tệp này?"
+
+#: lib/downloads/downloadoptionsdialog.ui:47
+msgctxt "DownloadOptionsDialog|"
+msgid "Open..."
+msgstr "Mở..."
+
+#: lib/downloads/downloadoptionsdialog.ui:54
+msgctxt "DownloadOptionsDialog|"
+msgid "Save File"
+msgstr "Lưu Tệp"
+
+#: lib/downloads/downloadoptionsdialog.ui:64
+msgctxt "DownloadOptionsDialog|"
+msgid "Download with External Manager"
+msgstr "Tải về bằng Trình quản lý Bên ngoài"
+
+#: lib/downloads/downloadoptionsdialog.ui:165
+msgctxt "DownloadOptionsDialog|"
+msgid "which is:"
+msgstr "là:"
+
+#: lib/downloads/downloadoptionsdialog.ui:215
+msgctxt "DownloadOptionsDialog|"
+msgid "from:"
+msgstr "từ:"
+
+#: lib/downloads/downloadoptionsdialog.ui:241
+msgctxt "DownloadOptionsDialog|"
+msgid "Copy download link"
+msgstr "Sao chép liên kết tải về"
+
+#: lib/downloads/downloadoptionsdialog.ui:256
+msgctxt "DownloadOptionsDialog|"
+msgid "You have chosen to open"
+msgstr "Bạn đã chọn để mở"
+
+#: lib/downloads/downloadsbutton.cpp:27 lib/downloads/downloadsbutton.cpp:43
+msgctxt "DownloadsButton|"
+msgid "Downloads"
+msgstr "Tải xuống"
+
+#: lib/downloads/downloadsbutton.cpp:28
+msgctxt "DownloadsButton|"
+msgid "Open Download Manager"
+msgstr "Mở Trình quản lý tải về"
+
+#: lib/history/history.cpp:83
+msgctxt "History|"
+msgid "Empty Page"
+msgstr "Trang trống"
+
+#: lib/history/history.cpp:273
+msgctxt "History|"
+msgid "January"
+msgstr "Tháng Một"
+
+#: lib/history/history.cpp:275
+msgctxt "History|"
+msgid "February"
+msgstr "Tháng Hai"
+
+#: lib/history/history.cpp:277
+msgctxt "History|"
+msgid "March"
+msgstr "Tháng ba"
+
+#: lib/history/history.cpp:279
+msgctxt "History|"
+msgid "April"
+msgstr "Tháng Tư"
+
+#: lib/history/history.cpp:281
+msgctxt "History|"
+msgid "May"
+msgstr "Tháng Năm"
+
+#: lib/history/history.cpp:283
+msgctxt "History|"
+msgid "June"
+msgstr "Tháng Sáu"
+
+#: lib/history/history.cpp:285
+msgctxt "History|"
+msgid "July"
+msgstr "Tháng Bảy"
+
+#: lib/history/history.cpp:287
+msgctxt "History|"
+msgid "August"
+msgstr "Tháng Tám"
+
+#: lib/history/history.cpp:289
+msgctxt "History|"
+msgid "September"
+msgstr "Tháng Chín"
+
+#: lib/history/history.cpp:291
+msgctxt "History|"
+msgid "October"
+msgstr "Tháng Mười"
+
+#: lib/history/history.cpp:293
+msgctxt "History|"
+msgid "November"
+msgstr "Tháng 11"
+
+#: lib/history/history.cpp:295
+msgctxt "History|"
+msgid "December"
+msgstr "Tháng 12"
+
+#: lib/history/historymanager.cpp:78
+msgctxt "HistoryManager|"
+msgid "Confirmation"
+msgstr "Xác nhận"
+
+#: lib/history/historymanager.cpp:79
+msgctxt "HistoryManager|"
+msgid "Are you sure you want to delete all history?"
+msgstr "Bạn có chắc chắn muốn xóa toàn bộ lịch sử không?"
+
+#: lib/history/historymanager.cpp:145
+msgctxt "HistoryManager|"
+msgid "Open in new tab"
+msgstr "Mở trong thẻ mới"
+
+#: lib/history/historymanager.cpp:146
+msgctxt "HistoryManager|"
+msgid "Open in new window"
+msgstr "Mở trong cửa sổ mới"
+
+#: lib/history/historymanager.cpp:147
+msgctxt "HistoryManager|"
+msgid "Open in new private window"
+msgstr "Mở trong cửa sổ riêng tư mới"
+
+#: lib/history/historymanager.cpp:150
+msgctxt "HistoryManager|"
+msgid "Copy url"
+msgstr "Sao chép URL"
+
+#: lib/history/historymanager.cpp:151
+msgctxt "HistoryManager|"
+msgid "Copy title"
+msgstr "Sao chép tiêu đề"
+
+#: lib/history/historymanager.cpp:154 lib/history/historymanager.ui:20
+msgctxt "HistoryManager|"
+msgid "Delete"
+msgstr "Xóa"
+
+#: lib/history/historymanager.ui:14
+msgctxt "HistoryManager|"
+msgid "History"
+msgstr "Lịch sử"
+
+#: lib/history/historymanager.ui:27
+msgctxt "HistoryManager|"
+msgid "Clear All History"
+msgstr "Làm trống toàn bộ lịch sử"
+
+#: lib/history/historymenu.cpp:135 lib/history/historymenu.cpp:157
+#: lib/history/historymenu.cpp:186
+msgctxt "HistoryMenu|"
+msgid "Empty"
+msgstr "Trống"
+
+#: lib/history/historymenu.cpp:161
+msgctxt "HistoryMenu|"
+msgid "Restore All Closed Tabs"
+msgstr "Khôi phục Tất cả Các Tab Đã Đóng"
+
+#: lib/history/historymenu.cpp:162 lib/history/historymenu.cpp:190
+msgctxt "HistoryMenu|"
+msgid "Clear list"
+msgstr "Làm trống danh sách"
+
+#: lib/history/historymenu.cpp:189
+msgctxt "HistoryMenu|"
+msgid "Restore All Closed Windows"
+msgstr "Khôi phục Tất cả Cửa sổ Đã Đóng"
+
+#: lib/history/historymenu.cpp:236
+msgctxt "HistoryMenu|"
+msgid "Hi&story"
+msgstr "Lịch &sử"
+
+#: lib/history/historymenu.cpp:238
+msgctxt "HistoryMenu|"
+msgid "&Back"
+msgstr "Q&uay lại"
+
+#: lib/history/historymenu.cpp:241
+msgctxt "HistoryMenu|"
+msgid "&Forward"
+msgstr "Tiế&n"
+
+#: lib/history/historymenu.cpp:244
+msgctxt "HistoryMenu|"
+msgid "&Home"
+msgstr "Tran&g chủ"
+
+#: lib/history/historymenu.cpp:247
+msgctxt "HistoryMenu|"
+msgid "Show &All History"
+msgstr "H&iển thị toàn bộ lịch sử"
+
+#: lib/history/historymenu.cpp:255
+msgctxt "HistoryMenu|"
+msgid "Most Visited"
+msgstr "Được truy cập nhiều nhất"
+
+#: lib/history/historymenu.cpp:258
+msgctxt "HistoryMenu|"
+msgid "Closed Tabs"
+msgstr "Các tab đã đóng"
+
+#: lib/history/historymenu.cpp:261
+msgctxt "HistoryMenu|"
+msgid "Closed Windows"
+msgstr "Cửa sổ đã đóng"
+
+#: lib/history/historymodel.cpp:57
+msgctxt "HistoryModel|"
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: lib/history/historymodel.cpp:59
+msgctxt "HistoryModel|"
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: lib/history/historymodel.cpp:61
+msgctxt "HistoryModel|"
+msgid "Visit Date"
+msgstr "Ngày xem"
+
+#: lib/history/historymodel.cpp:63
+msgctxt "HistoryModel|"
+msgid "Visit Count"
+msgstr "Số lần xem"
+
+#: lib/history/historymodel.cpp:341 lib/history/historymodel.cpp:472
+msgctxt "HistoryModel|"
+msgid "Today"
+msgstr "Hôm nay"
+
+#: lib/history/historymodel.cpp:477
+msgctxt "HistoryModel|"
+msgid "This Week"
+msgstr "Tuần này"
+
+#: lib/history/historymodel.cpp:482
+msgctxt "HistoryModel|"
+msgid "This Month"
+msgstr "Tháng này"
+
+#: lib/navigation/completer/locationcompleterdelegate.cpp:158
+msgctxt "LocationCompleterDelegate|"
+msgid "Visit"
+msgstr "Xem"
+
+#: lib/navigation/completer/locationcompleterdelegate.cpp:164
+#, qt-format
+msgctxt "LocationCompleterDelegate|"
+msgid "Search with %1"
+msgstr "Tìm kiếm với %1"
+
+#: lib/navigation/completer/locationcompleterdelegate.cpp:198
+msgctxt "LocationCompleterDelegate|"
+msgid "Switch to tab"
+msgstr "Chuyển đến thẻ"
+
+#: lib/navigation/completer/locationcompleterview.cpp:73
+msgctxt "LocationCompleterView|"
+msgid "Manage Search Engines"
+msgstr "Quản lý Công cụ Tìm kiếm"
+
+#: lib/navigation/completer/locationcompleterview.cpp:78
+msgctxt "LocationCompleterView|"
+msgid "Search with:"
+msgstr "Tìm kiếm với:"
+
+#: lib/navigation/locationbar.cpp:95
+msgctxt "LocationBar|"
+msgid "Paste And &Go"
+msgstr "Dán và Đ&i"
+
+#: lib/navigation/locationbar.cpp:163
+#, qt-format
+msgctxt "LocationBar|"
+msgid "Enter address or search with %1"
+msgstr "Nhập địa chỉ hoặc tìm kiếm với %1"
+
+#: lib/navigation/locationbar.cpp:165
+msgctxt "LocationBar|"
+msgid "Enter address"
+msgstr "Nhập địa chỉ"
+
+#: lib/navigation/navigationbar.cpp:49
+msgctxt "NavigationBar|"
+msgid "Empty Page"
+msgstr "Trang trống"
+
+#: lib/navigation/navigationbar.cpp:77
+msgctxt "NavigationBar|"
+msgid "Back"
+msgstr "Quay lại"
+
+#: lib/navigation/navigationbar.cpp:87
+msgctxt "NavigationBar|"
+msgid "Forward"
+msgstr "Tiến"
+
+#: lib/navigation/navigationbar.cpp:107
+msgctxt "NavigationBar|"
+msgid "Home"
+msgstr "Trang chủ"
+
+#: lib/navigation/navigationbar.cpp:115
+msgctxt "NavigationBar|"
+msgid "New Tab"
+msgstr "Thẻ Mới"
+
+#: lib/navigation/navigationbar.cpp:135
+msgctxt "NavigationBar|"
+msgid "Tools"
+msgstr "Công cụ"
+
+#: lib/navigation/navigationbar.cpp:148
+msgctxt "NavigationBar|"
+msgid "Main Menu"
+msgstr "Trình đơn chính"
+
+#: lib/navigation/navigationbar.cpp:165
+msgctxt "NavigationBar|"
+msgid "Exit Fullscreen"
+msgstr "Thoát toàn màn hình"
+
+#: lib/navigation/navigationbar.cpp:191
+msgctxt "NavigationBar|"
+msgid "Back and Forward buttons"
+msgstr "Nút Quay lại và Tiến tới"
+
+#: lib/navigation/navigationbar.cpp:192
+msgctxt "NavigationBar|"
+msgid "Reload button"
+msgstr "Nút tải lại"
+
+#: lib/navigation/navigationbar.cpp:193
+msgctxt "NavigationBar|"
+msgid "Home button"
+msgstr "Nút Trang chủ"
+
+#: lib/navigation/navigationbar.cpp:194
+msgctxt "NavigationBar|"
+msgid "Add tab button"
+msgstr "Thêm nút thẻ"
+
+#: lib/navigation/navigationbar.cpp:195
+msgctxt "NavigationBar|"
+msgid "Address and Search bar"
+msgstr "Thanh địa chỉ và tìm kiếm"
+
+#: lib/navigation/navigationbar.cpp:196
+msgctxt "NavigationBar|"
+msgid "Tools button"
+msgstr "Nút công cụ"
+
+#: lib/navigation/navigationbar.cpp:197
+msgctxt "NavigationBar|"
+msgid "Exit Fullscreen button"
+msgstr "Thoát chế độ toàn màn hình"
+
+#: lib/navigation/navigationbar.cpp:395 lib/navigation/navigationbar.cpp:429
+msgctxt "NavigationBar|"
+msgid "Clear history"
+msgstr "Làm trống lịch sử"
+
+#: lib/navigation/navigationbar.cpp:436
+msgctxt "NavigationBar|"
+msgid "Toolbars"
+msgstr "thanh công cụ"
+
+#: lib/navigation/navigationbar.cpp:437
+msgctxt "NavigationBar|"
+msgid "Sidebar"
+msgstr "thanh bên"
+
+#: lib/navigation/navigationbar.cpp:452 lib/navigation/navigationbar.cpp:466
+msgctxt "NavigationBar|"
+msgid "Configure Toolbar"
+msgstr "Cấu hình thanh công cụ"
+
+#: lib/navigation/navigationbarconfigdialog.ui:14
+msgctxt "NavigationBarConfigDialog|"
+msgid "Configure Toolbar"
+msgstr "Cấu hình Thanh công cụ"
+
+#: lib/navigation/navigationbarconfigdialog.ui:62
+msgctxt "NavigationBarConfigDialog|"
+msgid "Show search bar"
+msgstr "Hiển thị thanh tìm kiếm"
+
+#: lib/navigation/navigationbarconfigdialog.ui:82
+msgctxt "NavigationBarConfigDialog|"
+msgid "Available items:"
+msgstr "Các mục hiện có:"
+
+#: lib/navigation/navigationbarconfigdialog.ui:89
+msgctxt "NavigationBarConfigDialog|"
+msgid "Current items:"
+msgstr "Các mục hiện tại:"
+
+#: lib/navigation/reloadstopbutton.cpp:57
+msgctxt "ReloadStopButton|"
+msgid "Stop"
+msgstr "Dừng"
+
+#: lib/navigation/reloadstopbutton.cpp:61
+msgctxt "ReloadStopButton|"
+msgid "Reload"
+msgstr "Tải lại"
+
+#: lib/navigation/siteicon.cpp:40
+msgctxt "LocationBar|"
+msgid "Show information about this page"
+msgstr "Hiển thị thông tin về trang này"
+
+#: lib/navigation/websearchbar.cpp:97
+msgctxt "WebSearchBar|"
+msgid "Paste And &Search"
+msgstr "Dán và Tì&m kiếm"
+
+#: lib/navigation/websearchbar.cpp:123
+#, qt-format
+msgctxt "WebSearchBar|"
+msgid "Add %1 ..."
+msgstr "Thêm %1 ..."
+
+#: lib/navigation/websearchbar.cpp:127
+msgctxt "WebSearchBar|"
+msgid "Manage Search Engines"
+msgstr "Quản lý Công cụ Tìm kiếm"
+
+#: lib/navigation/websearchbar.cpp:257
+msgctxt "WebSearchBar|"
+msgid "Show suggestions"
+msgstr "Hiển thị gợi ý"
+
+#: lib/navigation/websearchbar.cpp:262
+msgctxt "WebSearchBar|"
+msgid "Search when engine changed"
+msgstr "Tìm kiếm khi dụng cụ thay đổi"
+
+#: lib/navigation/zoomlabel.cpp:36
+msgctxt "ZoomLabel|"
+msgid "Reset zoom level"
+msgstr "Đặt lại mức thu phóng"
+
+#: lib/navigation/zoomlabel.cpp:61
+#, qt-format
+msgctxt "ZoomLabel|"
+msgid "%1%"
+msgstr "%1%"
+
+#: lib/network/networkmanager.cpp:91
+msgctxt "NetworkManager|"
+msgid "SSL Certificate Error!"
+msgstr "Lỗi Chứng Chỉ SSL!"
+
+#: lib/network/networkmanager.cpp:92
+msgctxt "NetworkManager|"
+msgid ""
+"The page you are trying to access has the following errors in the SSL "
+"certificate:"
+msgstr "Trang bạn đang cố truy cập có các lỗi sau trong chứng chỉ SSL:"
+
+#: lib/network/networkmanager.cpp:93
+msgctxt "NetworkManager|"
+msgid "Would you like to make an exception for this certificate?"
+msgstr "Bạn có muốn tạo ngoại lệ cho chứng chỉ này không?"
+
+#: lib/network/networkmanager.cpp:124
+msgctxt "NetworkManager|"
+msgid "Authorization required"
+msgstr "Yêu cầu uỷ quyền"
+
+#: lib/network/networkmanager.cpp:131 lib/network/networkmanager.cpp:217
+msgctxt "NetworkManager|"
+msgid "Username: "
+msgstr "Tên người dùng:"
+
+#: lib/network/networkmanager.cpp:132 lib/network/networkmanager.cpp:218
+msgctxt "NetworkManager|"
+msgid "Password: "
+msgstr "Mật khẩu:"
+
+#: lib/network/networkmanager.cpp:138
+msgctxt "NetworkManager|"
+msgid "Save username and password for this site"
+msgstr "Lưu tên người dùng và mật khẩu cho địa điểm web này"
+
+#: lib/network/networkmanager.cpp:146
+#, qt-format
+msgctxt "NetworkManager|"
+msgid ""
+"A username and password are being requested by %1. The site says: \"%2\""
+msgstr ""
+"Một tên người dùng và mật khẩu đang được yêu cầu bởi %1. Trang web nói: "
+"\"%2\""
+
+#: lib/network/networkmanager.cpp:210
+msgctxt "NetworkManager|"
+msgid "Proxy authorization required"
+msgstr "Yêu cầu uỷ quyền uỷ nhiệm"
+
+#: lib/network/networkmanager.cpp:230
+#, qt-format
+msgctxt "NetworkManager|"
+msgid "A username and password are being requested by proxy %1. "
+msgstr "Một tên người dùng và mật khẩu đang được yêu cầu bởi uỷ nhiệm %1."
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:157
+msgctxt "FalkonSchemeReply|"
+msgid "Start Page"
+msgstr "Trang khởi động"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:158
+msgctxt "FalkonSchemeReply|"
+msgid "Search on Web"
+msgstr "Tìm kiếm trên Web"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:159
+msgctxt "FalkonSchemeReply|"
+msgid "Search results provided by DuckDuckGo"
+msgstr "Kết quả tìm kiếm được cung cấp bởi DuckDuckGo"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:161
+#: lib/network/schemehandlers/falkonschemehandler.cpp:178
+#: lib/network/schemehandlers/falkonschemehandler.cpp:179
+msgctxt "FalkonSchemeReply|"
+msgid "About Falkon"
+msgstr "Về Falkon"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:162
+msgctxt "FalkonSchemeReply|"
+msgid "<h1>Private Browsing</h1>"
+msgstr "<h1>Duyệt Web Riêng Tư</h1>"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:180
+#: lib/network/schemehandlers/falkonschemehandler.cpp:291
+msgctxt "FalkonSchemeReply|"
+msgid "Information about version"
+msgstr "Thông tin về phiên bản"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:181
+msgctxt "FalkonSchemeReply|"
+msgid "Copyright"
+msgstr "Bản quyền"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:184
+#: lib/network/schemehandlers/falkonschemehandler.cpp:301
+msgctxt "FalkonSchemeReply|"
+msgid "Version"
+msgstr "Phiên bản"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:191
+msgctxt "FalkonSchemeReply|"
+msgid "Main developer"
+msgstr "Nhà phát triển"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:212
+msgctxt "FalkonSchemeReply|"
+msgid "Speed Dial"
+msgstr "Trang Khởi động Nhanh"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:213
+msgctxt "FalkonSchemeReply|"
+msgid "Add New Page"
+msgstr "Thêm trang mới"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:214
+msgctxt "FalkonSchemeReply|"
+msgid "Edit"
+msgstr "Sửa"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:215
+msgctxt "FalkonSchemeReply|"
+msgid "Remove"
+msgstr "Xoá"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:216
+msgctxt "FalkonSchemeReply|"
+msgid "Reload"
+msgstr "Tải lại"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:217
+msgctxt "FalkonSchemeReply|"
+msgid "Are you sure you want to remove this speed dial?"
+msgstr "Bạn có chắc chắn muốn xoá bỏ trang tốc độ này không?"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:218
+msgctxt "FalkonSchemeReply|"
+msgid "Are you sure you want to reload all speed dials?"
+msgstr "Bạn có chắc chắn muốn tải lại tất cả các liên kết nhanh không?"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:219
+msgctxt "FalkonSchemeReply|"
+msgid "Load title from page"
+msgstr "Tải tiêu đề từ trang"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:220
+msgctxt "FalkonSchemeReply|"
+msgid "SpeedDial requires enabled JavaScript."
+msgstr "SpeedDial yêu cầu JavaScript được bật."
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:221
+msgctxt "FalkonSchemeReply|"
+msgid "Url"
+msgstr "Url"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:222
+msgctxt "FalkonSchemeReply|"
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:223
+msgctxt "FalkonSchemeReply|"
+msgid "Apply"
+msgstr "Áp dụng"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:224
+msgctxt "FalkonSchemeReply|"
+msgid "Cancel"
+msgstr "huỷ"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:225
+msgctxt "FalkonSchemeReply|"
+msgid "New Page"
+msgstr "Trang mới"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:226
+msgctxt "FalkonSchemeReply|"
+msgid "Speed Dial settings"
+msgstr "Thiết lập Speed Dial"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:227
+msgctxt "FalkonSchemeReply|"
+msgid "Placement: "
+msgstr "Vị trí: "
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:228
+msgctxt "FalkonSchemeReply|"
+msgid "Auto"
+msgstr "Tự động"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:229
+msgctxt "FalkonSchemeReply|"
+msgid "Cover"
+msgstr "Bìa"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:230
+msgctxt "FalkonSchemeReply|"
+msgid "Fit"
+msgstr "Vừa vặn"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:231
+msgctxt "FalkonSchemeReply|"
+msgid "Fit Width"
+msgstr "Vừa khít chiều rộng"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:232
+msgctxt "FalkonSchemeReply|"
+msgid "Fit Height"
+msgstr "Vừa chiều cao"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:233
+msgctxt "FalkonSchemeReply|"
+msgid "Use custom wallpaper"
+msgstr "Sử dụng phông nền tùy chỉnh"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:234
+msgctxt "FalkonSchemeReply|"
+msgid "Click to select image"
+msgstr "Bấm để bôi đen ảnh"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:235
+msgctxt "FalkonSchemeReply|"
+msgid "Maximum pages in a row:"
+msgstr "Số trang tối đa trong một hàng:"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:236
+msgctxt "FalkonSchemeReply|"
+msgid "Change size of pages:"
+msgstr "Thay đổi kích thước trang:"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:237
+msgctxt "FalkonSchemeReply|"
+msgid "Center speed dials"
+msgstr "Trung tâm tốc độ quay"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:238
+msgctxt "FalkonSchemeReply|"
+msgid "Lock the position of SpeedDial entries."
+msgstr "Khóa vị trí của các mục SpeedDial."
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:264
+msgctxt "FalkonSchemeReply|"
+msgid "Restore Session"
+msgstr "Khôi phục Phiên"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:265
+msgctxt "FalkonSchemeReply|"
+msgid "Oops, Falkon crashed."
+msgstr "Rất tiếc, Falkon đã bị sập."
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:266
+msgctxt "FalkonSchemeReply|"
+msgid "We apologize for this. Would you like to restore the last saved state?"
+msgstr ""
+"Chúng tôi xin lỗi về điều này. Bạn có muốn khôi phục trạng thái đã lưu "
+"trước đó không?"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:267
+msgctxt "FalkonSchemeReply|"
+msgid "Try removing one or more tabs that you think cause troubles"
+msgstr "Hãy thử gỡ bỏ một hoặc nhiều tab mà bạn nghĩ là gây ra vấn đề"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:268
+msgctxt "FalkonSchemeReply|"
+msgid "Or you can start completely new session"
+msgstr "Hoặc bạn có thể bắt đầu một phiên mới hoàn toàn"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:269
+msgctxt "FalkonSchemeReply|"
+msgid "Window"
+msgstr "Cửa sổ"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:270
+msgctxt "FalkonSchemeReply|"
+msgid "Windows and Tabs"
+msgstr "Cửa sổ và Thẻ"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:271
+msgctxt "FalkonSchemeReply|"
+msgid "Start New Session"
+msgstr "Khởi động Phiên Mới"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:272
+msgctxt "FalkonSchemeReply|"
+msgid "Restore"
+msgstr "Khôi phục"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:273
+msgctxt "FalkonSchemeReply|"
+msgid "Requires enabled JavaScript."
+msgstr "Yêu cầu JavaScript được bật."
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:289
+#: lib/network/schemehandlers/falkonschemehandler.cpp:290
+msgctxt "FalkonSchemeReply|"
+msgid "Configuration Information"
+msgstr "Thông tin cấu hình"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:292
+msgctxt "FalkonSchemeReply|"
+msgid ""
+"This page contains information about Falkon's current configuration - "
+"relevant for troubleshooting. Please include this information when "
+"submitting bug reports."
+msgstr ""
+"Trang này chứa thông tin về cấu hình hiện tại của Falkon - liên quan đến "
+"việc xử lý sự cố. Vui lòng bao gồm thông tin này khi gửi báo cáo lỗi."
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:293
+msgctxt "FalkonSchemeReply|"
+msgid "Browser Identification"
+msgstr "Định danh trình duyệt"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:294
+msgctxt "FalkonSchemeReply|"
+msgid "Paths"
+msgstr "Đường dẫn"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:295
+msgctxt "FalkonSchemeReply|"
+msgid "Build Configuration"
+msgstr "Cấu hình xây dựng"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:296
+msgctxt "FalkonSchemeReply|"
+msgid "Preferences"
+msgstr "các thiết lập"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:297
+msgctxt "FalkonSchemeReply|"
+msgid "Option"
+msgstr "lựa chọn"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:298
+msgctxt "FalkonSchemeReply|"
+msgid "Value"
+msgstr "Giá trị"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:299
+#: lib/network/schemehandlers/falkonschemehandler.cpp:335
+msgctxt "FalkonSchemeReply|"
+msgid "Extensions"
+msgstr "Phần mở rộng"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:300
+msgctxt "FalkonSchemeReply|"
+msgid "Name"
+msgstr "Tên"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:302
+msgctxt "FalkonSchemeReply|"
+msgid "Author"
+msgstr "Tác giả"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:303
+msgctxt "FalkonSchemeReply|"
+msgid "Description"
+msgstr "Mô tả"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:318
+msgctxt "FalkonSchemeReply|"
+msgid "Application version"
+msgstr "Phiên bản ứng dụng"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:325
+msgctxt "FalkonSchemeReply|"
+msgid "Qt version"
+msgstr "Phiên bản Qt"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:326
+msgctxt "FalkonSchemeReply|"
+msgid "QtWebEngine version"
+msgstr "Phiên bản QtWebEngine"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:327
+msgctxt "FalkonSchemeReply|"
+msgid "Platform"
+msgstr "Nền tảng"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:330
+msgctxt "FalkonSchemeReply|"
+msgid "Profile"
+msgstr "Hồ sơ"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:331
+msgctxt "FalkonSchemeReply|"
+msgid "Settings"
+msgstr "thiết lập"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:332
+msgctxt "FalkonSchemeReply|"
+msgid "Saved session"
+msgstr "Đã lưu phiên"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:333
+msgctxt "FalkonSchemeReply|"
+msgid "Data"
+msgstr "Dữ liệu"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:334
+msgctxt "FalkonSchemeReply|"
+msgid "Themes"
+msgstr "Chủ đề"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:338
+#: lib/network/schemehandlers/falkonschemehandler.cpp:345
+#: lib/network/schemehandlers/falkonschemehandler.cpp:351
+msgctxt "FalkonSchemeReply|"
+msgid "<b>Enabled</b>"
+msgstr "<b>Đã bật</b>"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:340
+#: lib/network/schemehandlers/falkonschemehandler.cpp:347
+#: lib/network/schemehandlers/falkonschemehandler.cpp:351
+msgctxt "FalkonSchemeReply|"
+msgid "Disabled"
+msgstr "Tắt"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:354
+msgctxt "FalkonSchemeReply|"
+msgid "Debug build"
+msgstr "Xây dựng gỡ lỗi"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:356
+msgctxt "FalkonSchemeReply|"
+msgid "Windows 7 API"
+msgstr "API Windows 7"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:358
+msgctxt "FalkonSchemeReply|"
+msgid "Portable build"
+msgstr "Xây di động"
+
+#: lib/network/schemehandlers/falkonschemehandler.cpp:376
+msgctxt "FalkonSchemeReply|"
+msgid "No available extensions."
+msgstr "Không có phần mở rộng nào khả dụng."
+
+#: lib/network/sslerrordialog.cpp:31
+msgctxt "SslErrorDialog|"
+msgid "Only for this session"
+msgstr "Chỉ cho phiên này"
+
+#: lib/network/sslerrordialog.ui:14
+msgctxt "SslErrorDialog|"
+msgid "SSL Certificate Error!"
+msgstr "Lỗi Chứng Chỉ SSL!"
+
+#: lib/notifications/desktopnotificationsfactory.cpp:119
+msgctxt "DesktopNotificationsFactory|"
+msgid "Preview"
+msgstr "xem thử"
+
+#: lib/notifications/desktopnotificationsfactory.cpp:119
+msgctxt "QObject|"
+msgid "Native System Notification"
+msgstr "Thông báo hệ thống bản địa"
+
+#: lib/opensearch/editsearchengine.ui:20
+msgctxt "EditSearchEngine|"
+msgid "Name:"
+msgstr "Tên:"
+
+#: lib/opensearch/editsearchengine.ui:30
+msgctxt "EditSearchEngine|"
+msgid "Url:"
+msgstr "URL:"
+
+#: lib/opensearch/editsearchengine.ui:44
+msgctxt "EditSearchEngine|"
+msgid "Shortcut:"
+msgstr "Lối tắt:"
+
+#: lib/opensearch/editsearchengine.ui:54
+msgctxt "EditSearchEngine|"
+msgid "Icon:"
+msgstr "Biểu tượng:"
+
+#: lib/opensearch/editsearchengine.ui:83
+msgctxt "EditSearchEngine|"
+msgid "Change..."
+msgstr "Thay đổi..."
+
+#: lib/opensearch/editsearchengine.ui:106
+msgctxt "EditSearchEngine|"
+msgid "<b>Note: </b>%s in url or post data represent searched string"
+msgstr "<b>Lưu ý: </b>%s trong url hoặc dữ liệu post đại diện cho chuỗi tìm kiếm"
+
+#: lib/opensearch/editsearchengine.ui:123
+msgctxt "EditSearchEngine|"
+msgid "Post Data:"
+msgstr "Dữ liệu đăng:"
+
+#: lib/opensearch/opensearchreader.cpp:105
+msgctxt "QObject|"
+msgid "The file is not an OpenSearch 1.1 file."
+msgstr "Đây không phải là tệp OpenSearch 1.1."
+
+#: lib/opensearch/searchenginesdialog.cpp:52
+#: lib/opensearch/searchenginesmanager.cpp:314
+msgctxt "SearchEnginesDialog|"
+msgid "Add Search Engine"
+msgstr "Thêm Dụng Cụ Tìm Kiếm"
+
+#: lib/opensearch/searchenginesdialog.cpp:89
+msgctxt "SearchEnginesDialog|"
+msgid "Remove Engine"
+msgstr "Xoá Dụng Cụ"
+
+#: lib/opensearch/searchenginesdialog.cpp:90
+#, qt-format
+msgctxt "SearchEnginesDialog|"
+msgid ""
+"You can't remove the default search engine.<br>Set a different engine as "
+"default before removing %1."
+msgstr ""
+"Bạn không thể xoá công cụ tìm kiếm mặc định.<br>Hãy đặt một công cụ khác "
+"làm mặc định trước khi xoá %1."
+
+#: lib/opensearch/searchenginesdialog.cpp:107
+msgctxt "SearchEnginesDialog|"
+msgid "Edit Search Engine"
+msgstr "Sửa Dụng Cụ Tìm Kiếm"
+
+#: lib/opensearch/searchenginesdialog.ui:14
+msgctxt "SearchEnginesDialog|"
+msgid "Manage Search Engines"
+msgstr "Quản lý Công cụ Tìm kiếm"
+
+#: lib/opensearch/searchenginesdialog.ui:22
+msgctxt "SearchEnginesDialog|"
+msgid "Add..."
+msgstr "Thêm..."
+
+#: lib/opensearch/searchenginesdialog.ui:29
+msgctxt "SearchEnginesDialog|"
+msgid "Remove"
+msgstr "Xoá"
+
+#: lib/opensearch/searchenginesdialog.ui:36
+msgctxt "SearchEnginesDialog|"
+msgid "Edit"
+msgstr "Sửa"
+
+#: lib/opensearch/searchenginesdialog.ui:56
+msgctxt "SearchEnginesDialog|"
+msgid "Set as default"
+msgstr "Đặt làm mặc định"
+
+#: lib/opensearch/searchenginesdialog.ui:63
+msgctxt "SearchEnginesDialog|"
+msgid "Up"
+msgstr "Lên"
+
+#: lib/opensearch/searchenginesdialog.ui:70
+msgctxt "SearchEnginesDialog|"
+msgid "Down"
+msgstr "Xuống"
+
+#: lib/opensearch/searchenginesdialog.ui:89
+msgctxt "SearchEnginesDialog|"
+msgid "Search Engine"
+msgstr "Dụng cụ tìm kiếm"
+
+#: lib/opensearch/searchenginesdialog.ui:94
+msgctxt "SearchEnginesDialog|"
+msgid "Shortcut"
+msgstr "Lối tắt"
+
+#: lib/opensearch/searchenginesdialog.ui:104
+msgctxt "SearchEnginesDialog|"
+msgid "Defaults"
+msgstr "Mặc định"
+
+#: lib/opensearch/searchenginesmanager.cpp:400
+msgctxt "SearchEnginesManager|"
+msgid "Search Engine Added"
+msgstr "Dụng cụ tìm kiếm đã được thêm"
+
+#: lib/opensearch/searchenginesmanager.cpp:400
+#, qt-format
+msgctxt "SearchEnginesManager|"
+msgid "Search Engine \"%1\" has been successfully added."
+msgstr "Dụng cụ tìm kiếm \"%1\" đã được thêm thành công."
+
+#: lib/opensearch/searchenginesmanager.cpp:407
+msgctxt "SearchEnginesManager|"
+msgid "Search Engine is not valid!"
+msgstr "Dụng cụ tìm kiếm không hợp lệ!"
+
+#: lib/opensearch/searchenginesmanager.cpp:408
+msgctxt "SearchEnginesManager|"
+msgid "Error"
+msgstr "Lỗi"
+
+#: lib/opensearch/searchenginesmanager.cpp:408
+#, qt-format
+msgctxt "SearchEnginesManager|"
+msgid "Error while adding Search Engine <br><b>Error Message: </b> %1"
+msgstr "Lỗi khi thêm Dụng cụ Tìm kiếm <br><b>Thông báo lỗi: </b> %1"
+
+#: lib/other/aboutdialog.cpp:51
+#, qt-format
+msgctxt "AboutDialog|"
+msgid "<p><b>Application version %1</b><br/>"
+msgstr "<p><b>Phiên bản ứng dụng %1</b><br/>"
+
+#: lib/other/aboutdialog.cpp:58
+#, qt-format
+msgctxt "AboutDialog|"
+msgid "<b>QtWebEngine version %1</b></p>"
+msgstr "<b>Phiên bản QtWebEngine %1</b></p>"
+
+#: lib/other/aboutdialog.ui:14
+msgctxt "AboutDialog|"
+msgid "About Falkon"
+msgstr "Về Falkon"
+
+#: lib/other/browsinglibrary.cpp:55
+msgctxt "BrowsingLibrary|"
+msgid "History"
+msgstr "Lịch sử"
+
+#: lib/other/browsinglibrary.cpp:56
+msgctxt "BrowsingLibrary|"
+msgid "Bookmarks"
+msgstr "Dấu trang"
+
+#: lib/other/browsinglibrary.cpp:61
+msgctxt "BrowsingLibrary|"
+msgid "Import Bookmarks..."
+msgstr "Nhập khẩu Dấu trang..."
+
+#: lib/other/browsinglibrary.cpp:62
+msgctxt "BrowsingLibrary|"
+msgid "Export Bookmarks..."
+msgstr "Xuất khẩu Dấu trang..."
+
+#: lib/other/browsinglibrary.ui:14
+msgctxt "BrowsingLibrary|"
+msgid "Library"
+msgstr "Thư viện"
+
+#: lib/other/browsinglibrary.ui:64
+msgctxt "BrowsingLibrary|"
+msgid "Import and Export"
+msgstr "Nhập khẩu và Xuất khẩu"
+
+#: lib/other/browsinglibrary.ui:84
+msgctxt "BrowsingLibrary|"
+msgid "Search..."
+msgstr "Tìm kiếm..."
+
+#: lib/other/clearprivatedata.cpp:155
+msgctxt "ClearPrivateData|"
+msgid "Done"
+msgstr "Xong"
+
+#: lib/other/clearprivatedata.cpp:173
+msgctxt "ClearPrivateData|"
+msgid "Database Optimized"
+msgstr "Cơ sở dữ liệu được tối ưu hóa"
+
+#: lib/other/clearprivatedata.cpp:173
+#, qt-format
+msgctxt "ClearPrivateData|"
+msgid ""
+"Database successfully optimized.<br/><br/><b>Database Size Before: "
+"</b>%1<br/><b>Database Size After: </b>%2"
+msgstr ""
+"Cơ sở dữ liệu đã được tối ưu hóa thành công.<br/><br/><b>Kích thước cơ sở "
+"dữ liệu trước: </b>%1<br/><b>Kích thước cơ sở dữ liệu sau: </b>%2"
+
+#: lib/other/clearprivatedata.ui:14
+msgctxt "ClearPrivateData|"
+msgid "Clear Recent History"
+msgstr "Xóa lịch sử gần đây"
+
+#: lib/other/clearprivatedata.ui:20
+msgctxt "ClearPrivateData|"
+msgid "<b>Clear Recent History</b>"
+msgstr "<b>Xóa Lịch Sử Gần Đây</b>"
+
+#: lib/other/clearprivatedata.ui:27
+msgctxt "ClearPrivateData|"
+msgid "Edit cookies"
+msgstr "Sửa bánh quy"
+
+#: lib/other/clearprivatedata.ui:38
+msgctxt "ClearPrivateData|"
+msgid "Earlier Today"
+msgstr "Sớm hôm nay"
+
+#: lib/other/clearprivatedata.ui:43
+msgctxt "ClearPrivateData|"
+msgid "Week"
+msgstr "Tuần"
+
+#: lib/other/clearprivatedata.ui:48
+msgctxt "ClearPrivateData|"
+msgid "Month"
+msgstr "Tháng"
+
+#: lib/other/clearprivatedata.ui:53
+msgctxt "ClearPrivateData|"
+msgid "All"
+msgstr "Tất cả"
+
+#: lib/other/clearprivatedata.ui:61
+msgctxt "ClearPrivateData|"
+msgid "Visited pages history from:"
+msgstr "Lịch sử các trang đã truy cập từ:"
+
+#: lib/other/clearprivatedata.ui:71
+msgctxt "ClearPrivateData|"
+msgid "Checked items will be cleared upon clicking the Clear button."
+msgstr "Các mục được chọn sẽ được làm trống khi nhấn nút Làm trống."
+
+#: lib/other/clearprivatedata.ui:78
+msgctxt "ClearPrivateData|"
+msgid "Local storage"
+msgstr "Bộ nhớ cục bộ"
+
+#: lib/other/clearprivatedata.ui:94
+msgctxt "ClearPrivateData|"
+msgid "Clear"
+msgstr "Làm trống"
+
+#: lib/other/clearprivatedata.ui:114
+msgctxt "ClearPrivateData|"
+msgid "Web databases"
+msgstr "Cơ sở dữ liệu web"
+
+#: lib/other/clearprivatedata.ui:124
+msgctxt "ClearPrivateData|"
+msgid "Cache"
+msgstr "Bộ đệm"
+
+#: lib/other/clearprivatedata.ui:134
+msgctxt "ClearPrivateData|"
+msgid "Optimize database"
+msgstr "Tối ưu hóa cơ sở dữ liệu"
+
+#: lib/other/clearprivatedata.ui:141
+msgctxt "ClearPrivateData|"
+msgid "Cookies"
+msgstr "bánh quy"
+
+#: lib/other/clearprivatedata.ui:158
+msgctxt "ClearPrivateData|"
+msgid "Database"
+msgstr "Cơ sở dữ liệu"
+
+#: lib/other/iconchooser.cpp:41
+msgctxt "IconChooser|"
+msgid "Image files"
+msgstr "Tệp ảnh"
+
+#: lib/other/iconchooser.cpp:42 lib/other/iconchooser.ui:14
+msgctxt "IconChooser|"
+msgid "Choose icon..."
+msgstr "Chọn biểu tượng..."
+
+#: lib/other/iconchooser.ui:20
+msgctxt "IconChooser|"
+msgid "From file"
+msgstr "Từ tệp"
+
+#: lib/other/iconchooser.ui:29
+msgctxt "IconChooser|"
+msgid "Image (.png, .jpg, .jpeg, .gif)"
+msgstr "Ảnh (.png, .jpg, .jpeg, .gif)"
+
+#: lib/other/iconchooser.ui:42
+msgctxt "IconChooser|"
+msgid "Choose file..."
+msgstr "Chọn tệp..."
+
+#: lib/other/iconchooser.ui:52
+msgctxt "IconChooser|"
+msgid "From database"
+msgstr "Từ cơ sở dữ liệu"
+
+#: lib/other/iconchooser.ui:61
+msgctxt "IconChooser|"
+msgid "Site Url:"
+msgstr "Địa chỉ web:"
+
+#: lib/other/licenseviewer.cpp:30
+msgctxt "LicenseViewer|"
+msgid "License Viewer"
+msgstr "Trình xem giấy phép"
+
+#: lib/other/protocolhandlerdialog.ui:14
+msgctxt "ProtocolHandlerDialog|"
+msgid "Manage protocol handlers"
+msgstr "Quản lý trình xử lý giao thức"
+
+#: lib/other/protocolhandlerdialog.ui:40
+msgctxt "ProtocolHandlerDialog|"
+msgid "Protocol"
+msgstr "Giao thức"
+
+#: lib/other/protocolhandlerdialog.ui:45
+msgctxt "ProtocolHandlerDialog|"
+msgid "Site"
+msgstr "Địa điểm"
+
+#: lib/other/protocolhandlerdialog.ui:68
+msgctxt "ProtocolHandlerDialog|"
+msgid "Remove"
+msgstr "Xoá"
+
+#: lib/other/registerqappassociation.cpp:110
+msgctxt "RegisterQAppAssociation|"
+msgid "Warning!"
+msgstr "Cảnh báo!"
+
+#: lib/other/registerqappassociation.cpp:111
+msgctxt "RegisterQAppAssociation|"
+msgid ""
+"There are some problems. Please, reinstall Falkon.\n"
+"Maybe relaunch with administrator right do a magic for you! ;)"
+msgstr ""
+"Có một số vấn đề. Vui lòng cài đặt lại Falkon.\nMaybe khởi động lại với "
+"quyền quản trị viên sẽ giúp ích cho bạn! ;)"
+
+#: lib/other/siteinfo.cpp:70
+msgctxt "SiteInfo|"
+msgid "<b>Connection is Encrypted.</b>"
+msgstr "<b>Kết nối được Mã hóa.</b>"
+
+#: lib/other/siteinfo.cpp:72
+msgctxt "SiteInfo|"
+msgid "<b>Connection Not Encrypted.</b>"
+msgstr "<b>Kết nối Không Được Mã hóa.</b>"
+
+#: lib/other/siteinfo.cpp:181
+msgctxt "SiteInfo|"
+msgid "Copy Image Location"
+msgstr "Sao chép Địa điểm Ảnh"
+
+#: lib/other/siteinfo.cpp:182
+msgctxt "SiteInfo|"
+msgid "Copy Image Name"
+msgstr "Sao chép Tên Ảnh"
+
+#: lib/other/siteinfo.cpp:184
+msgctxt "SiteInfo|"
+msgid "Save Image to Disk"
+msgstr "Lưu ảnh vào ổ đĩa"
+
+#: lib/other/siteinfo.cpp:196
+msgctxt "SiteInfo|"
+msgid "Copy Values"
+msgstr "Sao chép Giá trị"
+
+#: lib/other/siteinfo.cpp:197
+msgctxt "SiteInfo|"
+msgid "Copy Tags and Values"
+msgstr "Sao chép Thẻ và Giá trị"
+
+#: lib/other/siteinfo.cpp:235 lib/other/siteinfo.cpp:254
+msgctxt "SiteInfo|"
+msgid "Error!"
+msgstr "Lỗi!"
+
+#: lib/other/siteinfo.cpp:235
+msgctxt "SiteInfo|"
+msgid "This preview is not available!"
+msgstr "Xem thử này không khả dụng!"
+
+#: lib/other/siteinfo.cpp:246
+msgctxt "SiteInfo|"
+msgid "Save image..."
+msgstr "Lưu hình ảnh..."
+
+#: lib/other/siteinfo.cpp:254
+msgctxt "SiteInfo|"
+msgid "Cannot write to file!"
+msgstr "Không thể ghi vào tệp!"
+
+#: lib/other/siteinfo.cpp:264
+msgctxt "SiteInfo|"
+msgid "Loading..."
+msgstr "Đang tải..."
+
+#: lib/other/siteinfo.cpp:277
+msgctxt "SiteInfo|"
+msgid "Preview not available"
+msgstr "Xem thử không khả dụng"
+
+#: lib/other/siteinfo.ui:14
+msgctxt "SiteInfo|"
+msgid "Site Info"
+msgstr "Thông tin trang web"
+
+#: lib/other/siteinfo.ui:47
+msgctxt "SiteInfo|"
+msgid "General"
+msgstr "chung"
+
+#: lib/other/siteinfo.ui:52
+msgctxt "SiteInfo|"
+msgid "Media"
+msgstr "Phương tiện"
+
+#: lib/other/siteinfo.ui:57
+msgctxt "SiteInfo|"
+msgid "Permissions"
+msgstr "Quyền"
+
+#: lib/other/siteinfo.ui:89
+msgctxt "SiteInfo|"
+msgid "Site address:"
+msgstr "Địa chỉ trang web:"
+
+#: lib/other/siteinfo.ui:118
+msgctxt "SiteInfo|"
+msgid "Encoding:"
+msgstr "Mã hóa:"
+
+#: lib/other/siteinfo.ui:137
+msgctxt "SiteInfo|"
+msgid "Meta tags of site:"
+msgstr "Thẻ meta của trang web:"
+
+#: lib/other/siteinfo.ui:154
+msgctxt "SiteInfo|"
+msgid "Tag"
+msgstr "Thẻ"
+
+#: lib/other/siteinfo.ui:159
+msgctxt "SiteInfo|"
+msgid "Value"
+msgstr "Giá trị"
+
+#: lib/other/siteinfo.ui:173
+msgctxt "SiteInfo|"
+msgid "<b>Security information</b>"
+msgstr "<b>Thông tin bảo mật</b>"
+
+#: lib/other/siteinfo.ui:246
+msgctxt "SiteInfo|"
+msgid "Image"
+msgstr "Ảnh"
+
+#: lib/other/siteinfo.ui:251
+msgctxt "SiteInfo|"
+msgid "Image address"
+msgstr "Địa chỉ ảnh"
+
+#: lib/other/siteinfo.ui:276
+msgctxt "SiteInfo|"
+msgid "<b>Preview</b>"
+msgstr "<b>Xem trước</b>"
+
+#: lib/other/siteinfopermissionitem.ui:32
+msgctxt "SiteInfoPermissionItem|"
+msgid "Default"
+msgstr "Mặc định"
+
+#: lib/other/siteinfopermissionitem.ui:62
+msgctxt "SiteInfoPermissionItem|"
+msgid "Ask"
+msgstr "Hỏi"
+
+#: lib/other/siteinfopermissionitem.ui:69
+msgctxt "SiteInfoPermissionItem|"
+msgid "Allow"
+msgstr "Cho phép"
+
+#: lib/other/siteinfopermissionitem.ui:76
+msgctxt "SiteInfoPermissionItem|"
+msgid "Deny"
+msgstr "Từ chối"
+
+#: lib/other/siteinfowidget.cpp:42
+#, qt-format
+msgctxt "SiteInfoWidget|"
+msgid "<b>Site %1<b/>"
+msgstr "<b>Trang %1<b/>"
+
+#: lib/other/siteinfowidget.cpp:45
+msgctxt "SiteInfoWidget|"
+msgid "Your connection to this site is <b>secured</b>."
+msgstr "Kết nối của bạn đến địa điểm web này được <b>bảo mật</b>."
+
+#: lib/other/siteinfowidget.cpp:49
+msgctxt "SiteInfoWidget|"
+msgid "Your connection to this site is <b>unsecured</b>."
+msgstr "Kết nối của bạn đến địa điểm web này <b>không được bảo mật</b>."
+
+#: lib/other/siteinfowidget.cpp:64 lib/other/siteinfowidget.cpp:83
+#, qt-format
+msgctxt "SiteInfoWidget|"
+msgid "This is your <b>%1</b> visit of this site."
+msgstr "Đây là lần <b>%1</b> bạn xem trang web này."
+
+#: lib/other/siteinfowidget.cpp:68
+msgctxt "SiteInfoWidget|"
+msgid "You have <b>never</b> visited this site before."
+msgstr "Bạn <b>chưa từng</b> truy cập địa điểm web này trước đây."
+
+#: lib/other/siteinfowidget.cpp:75
+msgctxt "SiteInfoWidget|"
+msgid "first"
+msgstr "đầu tiên"
+
+#: lib/other/siteinfowidget.cpp:78
+msgctxt "SiteInfoWidget|"
+msgid "second"
+msgstr "thứ hai"
+
+#: lib/other/siteinfowidget.cpp:81
+msgctxt "SiteInfoWidget|"
+msgid "third"
+msgstr "thứ ba"
+
+#: lib/other/siteinfowidget.cpp:106
+#, qt-format
+msgctxt "SiteInfoWidget|"
+msgid "Register as <b>%1</b> links handler"
+msgstr "Đăng ký làm trình xử lý liên kết <b>%1</b>"
+
+#: lib/other/siteinfowidget.cpp:107
+msgctxt "SiteInfoWidget|"
+msgid "Register"
+msgstr "Đăng ký"
+
+#: lib/other/siteinfowidget.ui:71
+msgctxt "SiteInfoWidget|"
+msgid "More..."
+msgstr "Thêm..."
+
+#: lib/other/sitesettingsmanager.cpp:285
+msgctxt "SiteSettingsManager|"
+msgid "Zoom level"
+msgstr "Mức thu phóng"
+
+#: lib/other/sitesettingsmanager.cpp:287
+msgctxt "SiteSettingsManager|"
+msgid "Cookies"
+msgstr "bánh quy"
+
+#: lib/other/sitesettingsmanager.cpp:290 lib/other/sitesettingsmanager.cpp:315
+#: lib/other/sitesettingsmanager.cpp:355 lib/other/sitesettingsmanager.cpp:372
+msgctxt "SiteSettingsManager|"
+msgid "Unknown"
+msgstr "không rõ"
+
+#: lib/other/sitesettingsmanager.cpp:298
+msgctxt "SiteSettingsManager|"
+msgid "Notifications"
+msgstr "Thông báo"
+
+#: lib/other/sitesettingsmanager.cpp:300
+msgctxt "SiteSettingsManager|"
+msgid "Geolocation"
+msgstr "Vị trí địa lý"
+
+#: lib/other/sitesettingsmanager.cpp:302
+msgctxt "SiteSettingsManager|"
+msgid "Microphone"
+msgstr "Micro"
+
+#: lib/other/sitesettingsmanager.cpp:304
+msgctxt "SiteSettingsManager|"
+msgid "Camera"
+msgstr "Máy ảnh"
+
+#: lib/other/sitesettingsmanager.cpp:306
+msgctxt "SiteSettingsManager|"
+msgid "Microphone and Camera"
+msgstr "Micro và Camera"
+
+#: lib/other/sitesettingsmanager.cpp:308
+msgctxt "SiteSettingsManager|"
+msgid "Hide mouse pointer"
+msgstr "Ẩn con trỏ chuột"
+
+#: lib/other/sitesettingsmanager.cpp:310
+msgctxt "SiteSettingsManager|"
+msgid "Screen capture"
+msgstr "Thu thập màn hình"
+
+#: lib/other/sitesettingsmanager.cpp:312
+msgctxt "SiteSettingsManager|"
+msgid "Screen capture with audio"
+msgstr "Thu thập màn hình với âm thanh"
+
+#: lib/other/sitesettingsmanager.cpp:323
+msgctxt "SiteSettingsManager|"
+msgid "Autoload images"
+msgstr "Tự động tải hình ảnh"
+
+#: lib/other/sitesettingsmanager.cpp:326
+msgctxt "SiteSettingsManager|"
+msgid "Enable JavaScript"
+msgstr "Bật JavaScript"
+
+#: lib/other/sitesettingsmanager.cpp:328
+msgctxt "SiteSettingsManager|"
+msgid "JavaScript: Open popup windows"
+msgstr "JavaScript: Mở cửa sổ bật lên"
+
+#: lib/other/sitesettingsmanager.cpp:330
+msgctxt "SiteSettingsManager|"
+msgid "JavaScript: Access clipboard"
+msgstr "JavaScript: Truy cập bảng nháp"
+
+#: lib/other/sitesettingsmanager.cpp:332
+msgctxt "SiteSettingsManager|"
+msgid "JavaScript: Paste from clipboard"
+msgstr "JavaScript: Dán từ bảng nháp"
+
+#: lib/other/sitesettingsmanager.cpp:334
+msgctxt "SiteSettingsManager|"
+msgid "JavaScript: Activate windows"
+msgstr "JavaScript: Kích hoạt cửa sổ"
+
+#: lib/other/sitesettingsmanager.cpp:337
+msgctxt "SiteSettingsManager|"
+msgid "Local storage"
+msgstr "Bộ nhớ cục bộ"
+
+#: lib/other/sitesettingsmanager.cpp:339
+msgctxt "SiteSettingsManager|"
+msgid "FullScreen support"
+msgstr "Hỗ trợ toàn màn hình"
+
+#: lib/other/sitesettingsmanager.cpp:341
+msgctxt "SiteSettingsManager|"
+msgid "Run insecure content"
+msgstr "Chạy nội dung không an toàn"
+
+#: lib/other/sitesettingsmanager.cpp:343
+msgctxt "SiteSettingsManager|"
+msgid "Automatic playing of videos"
+msgstr "Tự động phát phim"
+
+#: lib/other/sitesettingsmanager.cpp:346
+msgctxt "SiteSettingsManager|"
+msgid "Allow reading from canvas"
+msgstr "Cho phép đọc từ canvas"
+
+#: lib/other/sitesettingsmanager.cpp:350
+msgctxt "SiteSettingsManager|"
+msgid "Force dark mode"
+msgstr "Buộc chế độ tối"
+
+#: lib/other/sitesettingsmanager.cpp:363
+msgctxt "SiteSettingsManager|"
+msgid "Allow"
+msgstr "Cho phép"
+
+#: lib/other/sitesettingsmanager.cpp:365
+msgctxt "SiteSettingsManager|"
+msgid "Ask"
+msgstr "Hỏi"
+
+#: lib/other/sitesettingsmanager.cpp:367
+msgctxt "SiteSettingsManager|"
+msgid "Deny"
+msgstr "Từ chối"
+
+#: lib/other/sitesettingsmanager.cpp:369
+msgctxt "SiteSettingsManager|"
+msgid "Default"
+msgstr "Mặc định"
+
+#: lib/other/statusbar.cpp:248
+msgctxt "StatusBar|"
+msgid "Hide"
+msgstr "Ẩn"
+
+#: lib/other/updater.cpp:151
+msgctxt "Updater|"
+msgid "Update available"
+msgstr "Có bản cập nhật"
+
+#: lib/other/updater.cpp:151
+msgctxt "Updater|"
+msgid "New version of Falkon is ready to download."
+msgstr "Phiên bản mới của Falkon đã sẵn sàng để tải xuống."
+
+#: lib/other/updater.cpp:163
+msgctxt "Updater|"
+msgid "Update"
+msgstr "Cập nhật"
+
+#: lib/popupwindow/popupwebview.cpp:100
+msgctxt "PopupWebView|"
+msgid "Inspect Element"
+msgstr "Kiểm tra Phần Tử"
+
+#: lib/popupwindow/popupwindow.cpp:83
+msgctxt "PopupWindow|"
+msgid "File"
+msgstr "Tệp"
+
+#: lib/popupwindow/popupwindow.cpp:84
+msgctxt "PopupWindow|"
+msgid "Send Link..."
+msgstr "Gửi liên kết..."
+
+#: lib/popupwindow/popupwindow.cpp:85
+msgctxt "PopupWindow|"
+msgid "&Print..."
+msgstr "I&n..."
+
+#: lib/popupwindow/popupwindow.cpp:87
+msgctxt "PopupWindow|"
+msgid "Close"
+msgstr "Đóng"
+
+#: lib/popupwindow/popupwindow.cpp:90
+msgctxt "PopupWindow|"
+msgid "Edit"
+msgstr "Sửa"
+
+#: lib/popupwindow/popupwindow.cpp:99
+msgctxt "PopupWindow|"
+msgid "Find"
+msgstr "Tìm"
+
+#: lib/popupwindow/popupwindow.cpp:102
+msgctxt "PopupWindow|"
+msgid "View"
+msgstr "Xem"
+
+#: lib/popupwindow/popupwindow.cpp:103
+msgctxt "PopupWindow|"
+msgid "&Stop"
+msgstr "Dừn&g"
+
+#: lib/popupwindow/popupwindow.cpp:105
+msgctxt "PopupWindow|"
+msgid "&Reload"
+msgstr "Tải &lại"
+
+#: lib/popupwindow/popupwindow.cpp:108
+msgctxt "PopupWindow|"
+msgid "Zoom &In"
+msgstr "Thu &phóng"
+
+#: lib/popupwindow/popupwindow.cpp:109
+msgctxt "PopupWindow|"
+msgid "Zoom &Out"
+msgstr "T&hu phóng"
+
+#: lib/popupwindow/popupwindow.cpp:110
+msgctxt "PopupWindow|"
+msgid "Reset"
+msgstr "Đặt lại"
+
+#: lib/popupwindow/popupwindow.cpp:112
+msgctxt "PopupWindow|"
+msgid "&Page Source"
+msgstr "Nguồ&n trang"
+
+#: lib/popupwindow/popupwindow.cpp:271
+#, qt-format
+msgctxt "PopupWindow|"
+msgid "%1 - Falkon"
+msgstr "%1 - Falkon"
+
+#: lib/preferences/acceptlanguage.cpp:99 lib/preferences/acceptlanguage.cpp:162
+#, qt-format
+msgctxt "AcceptLanguage|"
+msgid "Personal [%1]"
+msgstr "Cá nhân [%1]"
+
+#: lib/preferences/acceptlanguage.ui:14
+msgctxt "AcceptLanguage|"
+msgid "Preferred Languages"
+msgstr "Ngôn ngữ ưu tiên"
+
+#: lib/preferences/acceptlanguage.ui:25
+msgctxt "AcceptLanguage|"
+msgid "Add..."
+msgstr "Thêm..."
+
+#: lib/preferences/acceptlanguage.ui:32
+msgctxt "AcceptLanguage|"
+msgid "Remove"
+msgstr "Xoá"
+
+#: lib/preferences/acceptlanguage.ui:39
+msgctxt "AcceptLanguage|"
+msgid "Up"
+msgstr "Lên"
+
+#: lib/preferences/acceptlanguage.ui:46
+msgctxt "AcceptLanguage|"
+msgid "Down"
+msgstr "Xuống"
+
+#: lib/preferences/addacceptlanguage.ui:14
+msgctxt "AddAcceptLanguage|"
+msgid "Add Language"
+msgstr "Thêm Ngôn ngữ"
+
+#: lib/preferences/addacceptlanguage.ui:20
+msgctxt "AddAcceptLanguage|"
+msgid "Choose preferred language for web sites"
+msgstr "Chọn ngôn ngữ ưa thích cho các trang web"
+
+#: lib/preferences/addacceptlanguage.ui:32
+msgctxt "AddAcceptLanguage|"
+msgid "Personal definition:"
+msgstr "Định nghĩa cá nhân:"
+
+#: lib/preferences/autofillmanager.cpp:67
+msgctxt "AutoFillManager|"
+msgid "Import Passwords from File..."
+msgstr "Nhập khẩu mật khẩu từ tệp..."
+
+#: lib/preferences/autofillmanager.cpp:68
+msgctxt "AutoFillManager|"
+msgid "Export Passwords to File..."
+msgstr "Xuất khẩu mật khẩu vào tệp..."
+
+#: lib/preferences/autofillmanager.cpp:70
+msgctxt "AutoFillManager|"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: lib/preferences/autofillmanager.cpp:82
+#: lib/preferences/autofillmanager.cpp:171
+#: lib/preferences/autofillmanager.cpp:179
+#: lib/preferences/autofillmanager.ui:140
+msgctxt "AutoFillManager|"
+msgid "Show Passwords"
+msgstr "Hiện mật khẩu"
+
+#: lib/preferences/autofillmanager.cpp:130
+msgctxt "AutoFillManager|"
+msgid "Change backend..."
+msgstr "Thay đổi backend..."
+
+#: lib/preferences/autofillmanager.cpp:130
+msgctxt "AutoFillManager|"
+msgid "Change backend:"
+msgstr "Thay đổi backend:"
+
+#: lib/preferences/autofillmanager.cpp:179
+msgctxt "AutoFillManager|"
+msgid "Are you sure that you want to show all passwords?"
+msgstr "Bạn có chắc chắn muốn hiển thị tất cả mật khẩu không?"
+
+#: lib/preferences/autofillmanager.cpp:194
+msgctxt "AutoFillManager|"
+msgid "Hide Passwords"
+msgstr "Ẩn Mật Khẩu"
+
+#: lib/preferences/autofillmanager.cpp:232
+msgctxt "AutoFillManager|"
+msgid "Confirmation"
+msgstr "Xác nhận"
+
+#: lib/preferences/autofillmanager.cpp:233
+msgctxt "AutoFillManager|"
+msgid "Are you sure you want to delete all passwords on your computer?"
+msgstr "Bạn có chắc chắn muốn xóa tất cả mật khẩu trên máy tính của mình không?"
+
+#: lib/preferences/autofillmanager.cpp:252
+msgctxt "AutoFillManager|"
+msgid "Edit password"
+msgstr "Sửa mật khẩu"
+
+#: lib/preferences/autofillmanager.cpp:252
+msgctxt "AutoFillManager|"
+msgid "Change password:"
+msgstr "Thay đổi mật khẩu:"
+
+#: lib/preferences/autofillmanager.cpp:302
+#: lib/preferences/autofillmanager.cpp:313
+msgctxt "AutoFillManager|"
+msgid "Choose file..."
+msgstr "Chọn tệp..."
+
+#: lib/preferences/autofillmanager.cpp:327
+msgctxt "AutoFillManager|"
+msgid "Cannot read file!"
+msgstr "Không thể đọc tệp!"
+
+#: lib/preferences/autofillmanager.cpp:336
+msgctxt "AutoFillManager|"
+msgid "Successfully imported"
+msgstr "Đã nhập thành công"
+
+#: lib/preferences/autofillmanager.cpp:336
+msgctxt "AutoFillManager|"
+msgid "Error while importing!"
+msgstr "Lỗi khi nhập!"
+
+#: lib/preferences/autofillmanager.cpp:347
+msgctxt "AutoFillManager|"
+msgid "Cannot write to file!"
+msgstr "Không thể ghi vào tệp!"
+
+#: lib/preferences/autofillmanager.cpp:356
+msgctxt "AutoFillManager|"
+msgid "Successfully exported"
+msgstr "Đã xuất thành công"
+
+#: lib/preferences/autofillmanager.cpp:373
+msgctxt "AutoFillManager|"
+msgid "Copy Username"
+msgstr "Sao chép Tên người dùng"
+
+#: lib/preferences/autofillmanager.cpp:374
+msgctxt "AutoFillManager|"
+msgid "Copy Password"
+msgstr "Sao chép Mật khẩu"
+
+#: lib/preferences/autofillmanager.cpp:376
+msgctxt "AutoFillManager|"
+msgid "Edit Password"
+msgstr "Sửa Mật khẩu"
+
+#: lib/preferences/autofillmanager.ui:25
+msgctxt "AutoFillManager|"
+msgid "Passwords are stored in:"
+msgstr "Mật khẩu được lưu trữ trong:"
+
+#: lib/preferences/autofillmanager.ui:35
+msgctxt "AutoFillManager|"
+msgid "Change backend"
+msgstr "Thay đổi hậu phương"
+
+#: lib/preferences/autofillmanager.ui:42
+msgctxt "AutoFillManager|"
+msgid "Backend options"
+msgstr "Tùy chọn hậu phương"
+
+#: lib/preferences/autofillmanager.ui:71
+msgctxt "AutoFillManager|"
+msgid "Passwords"
+msgstr "Mật khẩu"
+
+#: lib/preferences/autofillmanager.ui:87 lib/preferences/autofillmanager.ui:201
+msgctxt "AutoFillManager|"
+msgid "Server"
+msgstr "Máy chủ"
+
+#: lib/preferences/autofillmanager.ui:92
+msgctxt "AutoFillManager|"
+msgid "Username"
+msgstr "Tên người dùng"
+
+#: lib/preferences/autofillmanager.ui:97
+msgctxt "AutoFillManager|"
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: lib/preferences/autofillmanager.ui:113
+msgctxt "AutoFillManager|"
+msgid "Import and Export"
+msgstr "Nhập khẩu và Xuất khẩu"
+
+#: lib/preferences/autofillmanager.ui:154
+msgctxt "AutoFillManager|"
+msgid "Edit"
+msgstr "Sửa"
+
+#: lib/preferences/autofillmanager.ui:161
+#: lib/preferences/autofillmanager.ui:211
+msgctxt "AutoFillManager|"
+msgid "Remove"
+msgstr "Xoá"
+
+#: lib/preferences/autofillmanager.ui:168
+#: lib/preferences/autofillmanager.ui:218
+msgctxt "AutoFillManager|"
+msgid "Remove All"
+msgstr "Xoá Tất Cả"
+
+#: lib/preferences/autofillmanager.ui:191
+msgctxt "AutoFillManager|"
+msgid "Exceptions"
+msgstr "Ngoại lệ"
+
+#: lib/preferences/certificatemanager.cpp:61
+msgctxt "CertificateManager|"
+msgid "Host: "
+msgstr "Máy chủ: "
+
+#: lib/preferences/certificatemanager.cpp:65
+msgctxt "CertificateManager|"
+msgid "Add certificate exception"
+msgstr "Thêm ngoại lệ chứng chỉ"
+
+#: lib/preferences/certificatemanager.cpp:74
+#, qt-format
+msgctxt "CertificateManager|"
+msgid "Host %1 already in the list"
+msgstr "Máy %1 đã có trong danh sách"
+
+#: lib/preferences/certificatemanager.cpp:83
+msgctxt "CertificateManager|"
+msgid "Empty host"
+msgstr "Máy trống"
+
+#: lib/preferences/certificatemanager.ui:14
+msgctxt "CertificateManager|"
+msgid "Certificate exception manager"
+msgstr "Trình quản lý ngoại lệ chứng chỉ"
+
+#: lib/preferences/certificatemanager.ui:22
+msgctxt "CertificateManager|"
+msgid "Add"
+msgstr "Thêm"
+
+#: lib/preferences/certificatemanager.ui:29
+msgctxt "CertificateManager|"
+msgid "Remove"
+msgstr "Xoá"
+
+#: lib/preferences/certificatemanager.ui:69
+msgctxt "CertificateManager|"
+msgid "Removing an entry requires a restart"
+msgstr "Xóa một mục nhập yêu cầu khởi động lại"
+
+#: lib/preferences/jsoptions.ui:14
+msgctxt "JsOptions|"
+msgid "JavaScript Options"
+msgstr "Tùy chọn JavaScript"
+
+#: lib/preferences/jsoptions.ui:20
+msgctxt "JsOptions|"
+msgid "Allow JavaScript to:"
+msgstr "Cho phép JavaScript:"
+
+#: lib/preferences/jsoptions.ui:29
+msgctxt "JsOptions|"
+msgid "Open popup windows"
+msgstr "Mở cửa sổ bật lên"
+
+#: lib/preferences/jsoptions.ui:36
+msgctxt "JsOptions|"
+msgid "Activate windows"
+msgstr "Kích hoạt cửa sổ"
+
+#: lib/preferences/jsoptions.ui:43
+msgctxt "JsOptions|"
+msgid "Access clipboard"
+msgstr "Truy cập bảng nháp"
+
+#: lib/preferences/jsoptions.ui:50
+msgctxt "JsOptions|"
+msgid "Paste from clipboard"
+msgstr "Dán từ bảng nháp"
+
+#: lib/preferences/pluginslist.ui:17
+msgctxt "PluginsList|"
+msgid "Enter name"
+msgstr "Nhập tên"
+
+#: lib/preferences/pluginslist.ui:51
+msgctxt "PluginsList|"
+msgid "Settings"
+msgstr "Thiết lập"
+
+#: lib/preferences/pluginslist.ui:61
+msgctxt "PluginsList|"
+msgid "Remove"
+msgstr "Xoá"
+
+#: lib/preferences/pluginslist.ui:81
+msgctxt "PluginsList|"
+msgid ""
+"<a href=\"https://store.kde.org/browse/cat/571/\">Get more extensions...</a>"
+msgstr ""
+"<a href=\"https://store.kde.org/browse/cat/571/\">Tải thêm tiện ích mở "
+"rộng...</a>"
+
+#: lib/preferences/pluginsmanager.cpp:198
+msgctxt "PluginsManager|"
+msgid "Error!"
+msgstr "Lỗi!"
+
+#: lib/preferences/pluginsmanager.cpp:198
+msgctxt "PluginsManager|"
+msgid "Cannot load extension!"
+msgstr "Không thể tải tiện ích mở rộng!"
+
+#: lib/preferences/pluginsmanager.cpp:237
+msgctxt "PluginsManager|"
+msgid "Confirmation"
+msgstr "Xác nhận"
+
+#: lib/preferences/pluginsmanager.cpp:238
+#, qt-format
+msgctxt "PluginsManager|"
+msgid "Are you sure you want to remove '%1'?"
+msgstr "Bạn có chắc chắn muốn xoá '%1' không?"
+
+#: lib/preferences/preferences.cpp:154 lib/preferences/preferences.cpp:643
+msgctxt "Preferences|"
+msgid "Default"
+msgstr "Mặc định"
+
+#: lib/preferences/preferences.cpp:158
+msgctxt "Preferences|"
+msgid "Set as default"
+msgstr "Đặt làm mặc định"
+
+#: lib/preferences/preferences.cpp:313
+#, qt-format
+msgctxt "Preferences|"
+msgid "%1%"
+msgstr "%1%"
+
+#: lib/preferences/preferences.cpp:586
+msgctxt "Preferences|"
+msgid "Choose executable location..."
+msgstr "Chọn vị trí thực thi..."
+
+#: lib/preferences/preferences.cpp:629
+msgctxt "Preferences|"
+msgid "OSD Notification"
+msgstr "Thông báo OSD"
+
+#: lib/preferences/preferences.cpp:630
+msgctxt "Preferences|"
+msgid "Drag it on the screen to place it where you want."
+msgstr "Kéo nó trên màn hình để đặt nó ở vị trí bạn muốn."
+
+#: lib/preferences/preferences.cpp:679
+msgctxt "Preferences|"
+msgid "Choose download location..."
+msgstr "Chọn vị trí tải về..."
+
+#: lib/preferences/preferences.cpp:693
+msgctxt "Preferences|"
+msgid "Choose stylesheet location..."
+msgstr "Chọn vị trí bản định kiểu..."
+
+#: lib/preferences/preferences.cpp:704
+msgctxt "Preferences|"
+msgid "Deleted"
+msgstr "Đã xóa"
+
+#: lib/preferences/preferences.cpp:806
+msgctxt "Preferences|"
+msgid "Choose cache path..."
+msgstr "Chọn đường dẫn bộ đệm..."
+
+#: lib/preferences/preferences.cpp:837
+msgctxt "Preferences|"
+msgid "New Profile"
+msgstr "Hồ sơ mới"
+
+#: lib/preferences/preferences.cpp:837
+msgctxt "Preferences|"
+msgid "Enter the new profile's name:"
+msgstr "Nhập tên của hồ sơ mới:"
+
+#: lib/preferences/preferences.cpp:847 lib/preferences/preferences.cpp:852
+msgctxt "Preferences|"
+msgid "Error!"
+msgstr "Lỗi!"
+
+#: lib/preferences/preferences.cpp:847
+msgctxt "Preferences|"
+msgid "This profile already exists!"
+msgstr "Hồ sơ này đã tồn tại!"
+
+#: lib/preferences/preferences.cpp:852
+msgctxt "Preferences|"
+msgid "Cannot create profile directory!"
+msgstr "Không thể tạo thư mục tiểu sử!"
+
+#: lib/preferences/preferences.cpp:863
+msgctxt "Preferences|"
+msgid "Confirmation"
+msgstr "Xác nhận"
+
+#: lib/preferences/preferences.cpp:864
+#, qt-format
+msgctxt "Preferences|"
+msgid ""
+"Are you sure you want to permanently delete \"%1\" profile? This action "
+"cannot be undone!"
+msgstr ""
+"Bạn có chắc chắn muốn xóa vĩnh viễn hồ sơ \"%1\"? Hành động này không thể "
+"hoàn tác!"
+
+#: lib/preferences/preferences.cpp:879 lib/preferences/preferences.ui:241
+msgctxt "Preferences|"
+msgid "Note: You cannot delete active profile."
+msgstr "Lưu ý: Bạn không thể xóa hồ sơ đang hoạt động."
+
+#: lib/preferences/preferences.cpp:1154
+msgctxt "Preferences|"
+msgid "Select Color"
+msgstr "Chọn Màu"
+
+#: lib/preferences/preferences.ui:14
+msgctxt "Preferences|"
+msgid "Preferences"
+msgstr "các thiết lập"
+
+#: lib/preferences/preferences.ui:67 lib/preferences/preferences.ui:2046
+msgctxt "Preferences|"
+msgid "General"
+msgstr "chung"
+
+#: lib/preferences/preferences.ui:72
+msgctxt "Preferences|"
+msgid "Appearance"
+msgstr "diện mạo"
+
+#: lib/preferences/preferences.ui:77
+msgctxt "Preferences|"
+msgid "Tabs"
+msgstr "Các tab"
+
+#: lib/preferences/preferences.ui:82
+msgctxt "Preferences|"
+msgid "Browsing"
+msgstr "Duyệt"
+
+#: lib/preferences/preferences.ui:87
+msgctxt "Preferences|"
+msgid "Fonts"
+msgstr "Phông chữ"
+
+#: lib/preferences/preferences.ui:92
+msgctxt "Preferences|"
+msgid "Keyboard Shortcuts"
+msgstr "Phím tắt"
+
+#: lib/preferences/preferences.ui:97
+msgctxt "Preferences|"
+msgid "Downloads"
+msgstr "Tải về"
+
+#: lib/preferences/preferences.ui:102
+msgctxt "Preferences|"
+msgid "Password Manager"
+msgstr "Trình quản lý mật khẩu"
+
+#: lib/preferences/preferences.ui:107
+msgctxt "Preferences|"
+msgid "Privacy"
+msgstr "Tính riêng tư"
+
+#: lib/preferences/preferences.ui:112
+msgctxt "Preferences|"
+msgid "Notifications"
+msgstr "Thông báo"
+
+#: lib/preferences/preferences.ui:117
+msgctxt "Preferences|"
+msgid "Extensions"
+msgstr "Phần mở rộng"
+
+#: lib/preferences/preferences.ui:122
+msgctxt "Preferences|"
+msgid "Spell Check"
+msgstr "Kiểm tra chính tả"
+
+#: lib/preferences/preferences.ui:127
+msgctxt "Preferences|"
+msgid "Other"
+msgstr "Khác"
+
+#: lib/preferences/preferences.ui:210 lib/preferences/preferences.ui:357
+msgctxt "Preferences|"
+msgid "Use current"
+msgstr "Sử dụng hiện tại"
+
+#: lib/preferences/preferences.ui:257
+msgctxt "Preferences|"
+msgid "Create New"
+msgstr "Tạo mới"
+
+#: lib/preferences/preferences.ui:273
+msgctxt "Preferences|"
+msgid "Delete"
+msgstr "Xóa"
+
+#: lib/preferences/preferences.ui:299
+msgctxt "Preferences|"
+msgid "<b>Launching</b>"
+msgstr "<b>Khởi chạy</b>"
+
+#: lib/preferences/preferences.ui:309
+msgctxt "Preferences|"
+msgid "After launch: "
+msgstr "Sau khi khởi chạy:"
+
+#: lib/preferences/preferences.ui:317
+msgctxt "Preferences|"
+msgid "Open blank page"
+msgstr "Mở trang trắng"
+
+#: lib/preferences/preferences.ui:322 lib/preferences/preferences.ui:379
+msgctxt "Preferences|"
+msgid "Open homepage"
+msgstr "Mở trang nhà"
+
+#: lib/preferences/preferences.ui:327 lib/preferences/preferences.ui:384
+msgctxt "Preferences|"
+msgid "Open speed dial"
+msgstr "Mở trang tổng quan"
+
+#: lib/preferences/preferences.ui:332
+msgctxt "Preferences|"
+msgid "Restore session"
+msgstr "Khôi phục phiên"
+
+#: lib/preferences/preferences.ui:337
+msgctxt "Preferences|"
+msgid "Select session"
+msgstr "Bôi đen phiên"
+
+#: lib/preferences/preferences.ui:345
+msgctxt "Preferences|"
+msgid "Homepage: "
+msgstr "Trang chủ: "
+
+#: lib/preferences/preferences.ui:366
+msgctxt "Preferences|"
+msgid "On new tab: "
+msgstr "Trên tab mới:"
+
+#: lib/preferences/preferences.ui:374
+msgctxt "Preferences|"
+msgid "Open blank tab"
+msgstr "Mở thẻ trắng"
+
+#: lib/preferences/preferences.ui:389
+msgctxt "Preferences|"
+msgid "Open other page..."
+msgstr "Mở trang khác..."
+
+#: lib/preferences/preferences.ui:397
+msgctxt "Preferences|"
+msgid "<b>Profiles</b>"
+msgstr "<b>Hồ sơ</b>"
+
+#: lib/preferences/preferences.ui:404
+msgctxt "Preferences|"
+msgid "Startup profile:"
+msgstr "Hồ sơ khởi động:"
+
+#: lib/preferences/preferences.ui:411
+msgctxt "Preferences|"
+msgid "Check for updates on start"
+msgstr "Kiểm tra cập nhật khi khởi động"
+
+#: lib/preferences/preferences.ui:418
+msgctxt "Preferences|"
+msgid "Active profile:"
+msgstr "Hồ sơ hoạt động:"
+
+#: lib/preferences/preferences.ui:432
+msgctxt "Preferences|"
+msgid "Don't load tabs until selected"
+msgstr "Không tải các tab cho đến khi được chọn"
+
+#: lib/preferences/preferences.ui:454
+msgctxt "Preferences|"
+msgid "Check to see if Falkon is the default browser on startup"
+msgstr "Kiểm tra xem Falkon có phải là trình duyệt mặc định khi khởi động không"
+
+#: lib/preferences/preferences.ui:464
+msgctxt "Preferences|"
+msgid "Check Now"
+msgstr "Kiểm tra ngay"
+
+#: lib/preferences/preferences.ui:494
+msgctxt "Preferences|"
+msgid "Themes"
+msgstr "Chủ đề"
+
+#: lib/preferences/preferences.ui:516
+msgctxt "Preferences|"
+msgid "Advanced options"
+msgstr "Tùy chọn nâng cao"
+
+#: lib/preferences/preferences.ui:524
+msgctxt "Preferences|"
+msgid "Show StatusBar on start"
+msgstr "Hiển thị thanh trạng thái khi khởi động"
+
+#: lib/preferences/preferences.ui:531
+msgctxt "Preferences|"
+msgid "Show Bookmarks ToolBar on start"
+msgstr "Hiển thị thanh công cụ Dấu trang khi khởi động"
+
+#: lib/preferences/preferences.ui:538
+msgctxt "Preferences|"
+msgid "Show Navigation ToolBar on start"
+msgstr "Hiển thị thanh công cụ điều hướng khi khởi động"
+
+#: lib/preferences/preferences.ui:545
+msgctxt "Preferences|"
+msgid "Enable instant Bookmarks ToolBar"
+msgstr "Bật thanh công cụ Dấu trang ngay lập tức"
+
+#: lib/preferences/preferences.ui:567
+msgctxt "Preferences|"
+msgid "<b>Browser Window</b>"
+msgstr "<b>Cửa sổ trình duyệt</b>"
+
+#: lib/preferences/preferences.ui:615
+msgctxt "Preferences|"
+msgid "Tabs behaviour"
+msgstr "Hành vi của tab"
+
+#: lib/preferences/preferences.ui:621
+msgctxt "Preferences|"
+msgid "Hide tabs when there is only one tab"
+msgstr "Ẩn thẻ khi chỉ có một thẻ"
+
+#: lib/preferences/preferences.ui:628
+msgctxt "Preferences|"
+msgid "Activate last tab when closing active tab"
+msgstr "Kích hoạt thẻ cuối cùng khi đóng thẻ đang hoạt động"
+
+#: lib/preferences/preferences.ui:635
+msgctxt "Preferences|"
+msgid "Open new tabs after active tab"
+msgstr "Mở các thẻ mới sau thẻ hoạt động"
+
+#: lib/preferences/preferences.ui:642
+msgctxt "Preferences|"
+msgid "Open new empty tabs after active tab"
+msgstr "Mở các thẻ mới trống sau thẻ hoạt động"
+
+#: lib/preferences/preferences.ui:649
+msgctxt "Preferences|"
+msgid "Open popup windows in tabs"
+msgstr "Mở cửa sổ bật lên trong các tab"
+
+#: lib/preferences/preferences.ui:656
+msgctxt "Preferences|"
+msgid "Always switch between tabs with mouse wheel"
+msgstr "Luôn chuyển đổi giữa các tab bằng chuột"
+
+#: lib/preferences/preferences.ui:663
+msgctxt "Preferences|"
+msgid "Automatically switch to newly opened tab"
+msgstr "Tự động chuyển sang thẻ mới được mở"
+
+#: lib/preferences/preferences.ui:670
+msgctxt "Preferences|"
+msgid "Don't close window upon closing last tab"
+msgstr "Không đóng cửa sổ khi đóng thẻ cuối cùng"
+
+#: lib/preferences/preferences.ui:677
+msgctxt "Preferences|"
+msgid "Ask when closing multiple tabs"
+msgstr "Hỏi khi đóng nhiều tab"
+
+#: lib/preferences/preferences.ui:684
+msgctxt "Preferences|"
+msgid "Show closed tabs button"
+msgstr "Hiện nút tab đã đóng"
+
+#: lib/preferences/preferences.ui:693
+msgctxt "Preferences|"
+msgid "Show close buttons on inactive tabs:"
+msgstr "Hiển thị nút đóng trên các tab bất hoạt:"
+
+#: lib/preferences/preferences.ui:701
+msgctxt "Preferences|"
+msgid "Automatic"
+msgstr "Tự động"
+
+#: lib/preferences/preferences.ui:706
+msgctxt "Preferences|"
+msgid "Always"
+msgstr "Luôn luôn"
+
+#: lib/preferences/preferences.ui:711
+msgctxt "Preferences|"
+msgid "Never"
+msgstr "Không bao giờ"
+
+#: lib/preferences/preferences.ui:751
+msgctxt "Preferences|"
+msgid "Address Bar behaviour"
+msgstr "Hành vi của thanh địa chỉ"
+
+#: lib/preferences/preferences.ui:759
+msgctxt "Preferences|"
+msgid "Suggest when typing into address bar:"
+msgstr "Gợi ý khi gõ vào thanh địa chỉ:"
+
+#: lib/preferences/preferences.ui:773
+msgctxt "Preferences|"
+msgid "History and Bookmarks"
+msgstr "Lịch sử và Dấu trang"
+
+#: lib/preferences/preferences.ui:778
+msgctxt "Preferences|"
+msgid "History"
+msgstr "Lịch sử"
+
+#: lib/preferences/preferences.ui:783
+msgctxt "Preferences|"
+msgid "Bookmarks"
+msgstr "Dấu trang"
+
+#: lib/preferences/preferences.ui:788
+msgctxt "Preferences|"
+msgid "Nothing"
+msgstr "Không có gì"
+
+#: lib/preferences/preferences.ui:814
+msgctxt "Preferences|"
+msgid "Enable inline suggestions"
+msgstr "Bật gợi ý nội tuyến"
+
+#: lib/preferences/preferences.ui:821
+msgctxt "Preferences|"
+msgid ""
+"Press \"Shift\" to not switch the tab but load the url in the current tab"
+msgstr "Nhấn \"Shift\" để không chuyển đổi thẻ mà tải URL trong thẻ hiện tại"
+
+#: lib/preferences/preferences.ui:824
+msgctxt "Preferences|"
+msgid "Propose to switch tab if completed url is already loaded"
+msgstr "Đề xuất chuyển sang thẻ khác nếu URL đã được tải"
+
+#: lib/preferences/preferences.ui:831
+msgctxt "Preferences|"
+msgid "Always show go icon"
+msgstr "Luôn hiển thị biểu tượng đi"
+
+#: lib/preferences/preferences.ui:838
+msgctxt "Preferences|"
+msgid "Show zoom label"
+msgstr "Hiển thị nhãn thu phóng"
+
+#: lib/preferences/preferences.ui:845
+msgctxt "Preferences|"
+msgid "Select all text by double clicking in address bar"
+msgstr "Nhấp đúp vào thanh địa chỉ để bôi đen toàn bộ văn bản"
+
+#: lib/preferences/preferences.ui:852
+msgctxt "Preferences|"
+msgid "Select all text by clicking in address bar"
+msgstr "Bôi đen toàn bộ văn bản bằng cách nhấp vào thanh địa chỉ"
+
+#: lib/preferences/preferences.ui:859
+msgctxt "Preferences|"
+msgid "Enable automatic searching from the address bar"
+msgstr "Bật tìm kiếm tự động từ thanh địa chỉ"
+
+#: lib/preferences/preferences.ui:866
+msgctxt "Preferences|"
+msgid "Search with Default Engine"
+msgstr "Tìm kiếm với Dụng cụ Mặc định"
+
+#: lib/preferences/preferences.ui:873
+msgctxt "Preferences|"
+msgid "Show search suggestions"
+msgstr "Hiển thị gợi ý tìm kiếm"
+
+#: lib/preferences/preferences.ui:880
+msgctxt "Preferences|"
+msgid "Expand suggestion popup to window width"
+msgstr "Mở rộng ô bật lên đến chiều rộng cửa sổ"
+
+#: lib/preferences/preferences.ui:903
+msgctxt "Preferences|"
+msgid "Show loading progress in address bar"
+msgstr "Hiển thị tiến trình tải trong thanh địa chỉ"
+
+#: lib/preferences/preferences.ui:936
+msgctxt "Preferences|"
+msgid "Fill"
+msgstr "Điền"
+
+#: lib/preferences/preferences.ui:941
+msgctxt "Preferences|"
+msgid "Bottom"
+msgstr "Dưới cùng"
+
+#: lib/preferences/preferences.ui:946
+msgctxt "Preferences|"
+msgid "Top"
+msgstr "Trên cùng"
+
+#: lib/preferences/preferences.ui:954
+msgctxt "Preferences|"
+msgid "Custom color:"
+msgstr "Màu tùy chỉnh:"
+
+#: lib/preferences/preferences.ui:970
+msgctxt "Preferences|"
+msgid "Select color"
+msgstr "Chọn màu"
+
+#: lib/preferences/preferences.ui:973 lib/preferences/preferences.ui:1307
+#: lib/preferences/preferences.ui:1841 lib/preferences/preferences.ui:1938
+#: lib/preferences/preferences.ui:2784
+msgctxt "Preferences|"
+msgid "..."
+msgstr "..."
+
+#: lib/preferences/preferences.ui:980
+msgctxt "Preferences|"
+msgid "Reset"
+msgstr "Đặt lại"
+
+#: lib/preferences/preferences.ui:1031
+msgctxt "Preferences|"
+msgid "Web Configuration"
+msgstr "Cấu hình web"
+
+#: lib/preferences/preferences.ui:1039
+msgctxt "Preferences|"
+msgid "Enable Pepper plugin API (PPAPI)"
+msgstr "Bật API phần cài cắm Pepper (PPAPI)"
+
+#: lib/preferences/preferences.ui:1046
+msgctxt "Preferences|"
+msgid "Use built-in PDF viewer (requires PPAPI)"
+msgstr "Sử dụng trình xem PDF tích hợp (yêu cầu PPAPI)"
+
+#: lib/preferences/preferences.ui:1053
+msgctxt "Preferences|"
+msgid "Allow JavaScript"
+msgstr "Cho phép JavaScript"
+
+#: lib/preferences/preferences.ui:1060
+msgctxt "Preferences|"
+msgid "Include links in focus chain"
+msgstr "Bao gồm liên kết trong chuỗi nhắm"
+
+#. try to detect possible XSS attacks when executing javascript
+#: lib/preferences/preferences.ui:1067
+msgctxt "Preferences|"
+msgid "Enable XSS Auditing"
+msgstr "Bật kiểm tra XSS"
+
+#. when you are printing page (on printer), it determine whether to also print background (color, image) of html elements
+#: lib/preferences/preferences.ui:1074
+msgctxt "Preferences|"
+msgid "Print element background"
+msgstr "In phần nền của phần tử"
+
+#: lib/preferences/preferences.ui:1081
+msgctxt "Preferences|"
+msgid "Animated scrolling"
+msgstr "Cuộn động"
+
+#: lib/preferences/preferences.ui:1088
+msgctxt "Preferences|"
+msgid "Enable spatial navigation"
+msgstr "Bật điều hướng không gian"
+
+#: lib/preferences/preferences.ui:1095
+msgctxt "Preferences|"
+msgid "Use native scrollbars"
+msgstr "Sử dụng thanh cuộn bản địa"
+
+#: lib/preferences/preferences.ui:1102
+msgctxt "Preferences|"
+msgid "Disable automatic playing of videos"
+msgstr "Vô hiệu hóa phát tự động phim, hình, phần hình"
+
+#: lib/preferences/preferences.ui:1109
+msgctxt "Preferences|"
+msgid "Prevent WebRTC from leaking local IP address"
+msgstr "Ngăn chặn WebRTC rò rỉ địa chỉ IP cục bộ"
+
+#: lib/preferences/preferences.ui:1116
+msgctxt "Preferences|"
+msgid "Enable DNS prefetching"
+msgstr "Bật tìm kiếm DNS trước"
+
+#: lib/preferences/preferences.ui:1123
+msgctxt "Preferences|"
+msgid "Enable screen capture"
+msgstr "Bật chụp màn hình"
+
+#: lib/preferences/preferences.ui:1130
+msgctxt "Preferences|"
+msgid "Use hardware acceleration (requires restart)"
+msgstr "Sử dụng tăng tốc phần cứng (yêu cầu khởi động lại)"
+
+#: lib/preferences/preferences.ui:1137
+msgctxt "Preferences|"
+msgid "Allow reading from canvas"
+msgstr "Cho phép đọc từ canvas"
+
+#: lib/preferences/preferences.ui:1144
+msgctxt "Preferences|"
+msgid "Force dark mode"
+msgstr "Buộc chế độ tối"
+
+#: lib/preferences/preferences.ui:1161
+msgctxt "Preferences|"
+msgid "Mouse wheel scrolls"
+msgstr "Cuộn chuột"
+
+#: lib/preferences/preferences.ui:1181
+msgctxt "Preferences|"
+msgid "lines on page"
+msgstr "các dòng trên trang"
+
+#: lib/preferences/preferences.ui:1192
+msgctxt "Preferences|"
+msgid "Default zoom on pages: "
+msgstr "Mặc định thu phóng trang:"
+
+#: lib/preferences/preferences.ui:1231
+msgctxt "Preferences|"
+msgid "Local Storage"
+msgstr "Bộ nhớ cục bộ"
+
+#: lib/preferences/preferences.ui:1239
+msgctxt "Preferences|"
+msgid "Allow storing network cache on disk"
+msgstr "Cho phép lưu bộ nhớ đệm mạng trên ổ đĩa"
+
+#: lib/preferences/preferences.ui:1262
+msgctxt "Preferences|"
+msgid "Delete cache on close"
+msgstr "Xóa bộ đệm khi đóng"
+
+#: lib/preferences/preferences.ui:1269
+msgctxt "Preferences|"
+msgid "Maximum:"
+msgstr "Tối đa:"
+
+#: lib/preferences/preferences.ui:1276
+msgctxt "Preferences|"
+msgid " MB"
+msgstr "MB"
+
+#: lib/preferences/preferences.ui:1292
+msgctxt "Preferences|"
+msgid "Store cache in:"
+msgstr "Lưu bộ đệm tại:"
+
+#: lib/preferences/preferences.ui:1320
+msgctxt "Preferences|"
+msgid "Allow saving history"
+msgstr "Cho phép lưu lịch sử"
+
+#: lib/preferences/preferences.ui:1327
+msgctxt "Preferences|"
+msgid "Delete history on close"
+msgstr "Xóa lịch sử khi đóng"
+
+#: lib/preferences/preferences.ui:1350
+msgctxt "Preferences|"
+msgid "Allow local storage of HTML5 web content"
+msgstr "Cho phép lưu trữ nội dung web HTML5 cục bộ"
+
+#: lib/preferences/preferences.ui:1357
+msgctxt "Preferences|"
+msgid "Delete locally stored HTML5 web content on close"
+msgstr "Xóa nội dung web HTML5 được lưu cục bộ khi đóng"
+
+#: lib/preferences/preferences.ui:1383
+msgctxt "Preferences|"
+msgid "Delete now"
+msgstr "Xóa ngay"
+
+#: lib/preferences/preferences.ui:1422
+msgctxt "Preferences|"
+msgid "Proxy Configuration"
+msgstr "Cấu hình Uỷ nhiệm"
+
+#: lib/preferences/preferences.ui:1441
+msgctxt "Preferences|"
+msgid "System proxy configuration"
+msgstr "Cấu hình uỷ nhiệm hệ thống"
+
+#: lib/preferences/preferences.ui:1464
+msgctxt "Preferences|"
+msgid "Manual configuration"
+msgstr "Cấu hình sổ tay"
+
+#: lib/preferences/preferences.ui:1474
+msgctxt "Preferences|"
+msgid "HTTP"
+msgstr "HTTP"
+
+#: lib/preferences/preferences.ui:1479
+msgctxt "Preferences|"
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+#: lib/preferences/preferences.ui:1490
+msgctxt "Preferences|"
+msgid "Port:"
+msgstr "Cổng:"
+
+#: lib/preferences/preferences.ui:1511
+msgctxt "Preferences|"
+msgid "Username:"
+msgstr "Tên người dùng:"
+
+#: lib/preferences/preferences.ui:1521
+msgctxt "Preferences|"
+msgid "Password:"
+msgstr "Mật khẩu:"
+
+#: lib/preferences/preferences.ui:1550
+msgctxt "Preferences|"
+msgid "No proxy"
+msgstr "Không uỷ nhiệm"
+
+#: lib/preferences/preferences.ui:1565
+msgctxt "Preferences|"
+msgid "<b>Font Families</b>"
+msgstr "<b>Họ phông chữ</b>"
+
+#: lib/preferences/preferences.ui:1578
+msgctxt "Preferences|"
+msgid "Standard"
+msgstr "Tiêu chuẩn"
+
+#: lib/preferences/preferences.ui:1585
+msgctxt "Preferences|"
+msgid "Fixed"
+msgstr "Cố định"
+
+#: lib/preferences/preferences.ui:1595
+msgctxt "Preferences|"
+msgid "Serif"
+msgstr "Serif"
+
+#: lib/preferences/preferences.ui:1605
+msgctxt "Preferences|"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: lib/preferences/preferences.ui:1615
+msgctxt "Preferences|"
+msgid "Cursive"
+msgstr "Chữ nghiêng"
+
+#: lib/preferences/preferences.ui:1667
+msgctxt "Preferences|"
+msgid "Fantasy"
+msgstr "Ảo tưởng"
+
+#: lib/preferences/preferences.ui:1674
+msgctxt "Preferences|"
+msgid "<b>Font Sizes</b>"
+msgstr "<b>Kích thước phông chữ</b>"
+
+#: lib/preferences/preferences.ui:1683
+msgctxt "Preferences|"
+msgid "Fixed Font Size"
+msgstr "Kích thước phông chữ cố định"
+
+#: lib/preferences/preferences.ui:1690
+msgctxt "Preferences|"
+msgid "Default Font Size"
+msgstr "Cỡ chữ mặc định"
+
+#: lib/preferences/preferences.ui:1717
+msgctxt "Preferences|"
+msgid "Minimum Font Size"
+msgstr "Kích thước phông chữ tối thiểu"
+
+#: lib/preferences/preferences.ui:1724
+msgctxt "Preferences|"
+msgid "Minimum Logical Font Size"
+msgstr "Kích thước phông chữ luận lí tối thiểu"
+
+#: lib/preferences/preferences.ui:1757
+msgctxt "Preferences|"
+msgid "<b>Shortcuts</b>"
+msgstr "<b>Phím tắt</b>"
+
+#: lib/preferences/preferences.ui:1764
+msgctxt "Preferences|"
+msgid "Switch to tabs with Alt + number of tab"
+msgstr "Chuyển sang các thẻ bằng Alt + số của thẻ"
+
+#: lib/preferences/preferences.ui:1771
+msgctxt "Preferences|"
+msgid "Load speed dials with Ctrl + number of speed dial"
+msgstr "Tải các số quay nhanh bằng Ctrl + số của số quay nhanh"
+
+#: lib/preferences/preferences.ui:1778
+msgctxt "Preferences|"
+msgid ""
+"Existing shortcuts:<br/><b>1</b> - previous tab<br/><b>2</b> - next "
+"tab<br/><b>/</b> - search on page"
+msgstr ""
+"Phím tắt hiện có:<br/><b>1</b> - tab trước<br/><b>2</b> - tab tiếp "
+"theo<br/><b>/</b> - tìm kiếm trên trang"
+
+#: lib/preferences/preferences.ui:1781
+msgctxt "Preferences|"
+msgid "Use single key shortcuts"
+msgstr "Sử dụng phím tắt một phím"
+
+#: lib/preferences/preferences.ui:1788
+msgctxt "Preferences|"
+msgid ""
+"If unchecked, prevents accidental exit from the application if the Ctrl-W "
+"shortcut was intended."
+msgstr ""
+"Nếu không được chọn, sẽ ngăn không cho ứng dụng thoát ra một cách vô tình "
+"nếu phím tắt Ctrl-W được sử dụng."
+
+#: lib/preferences/preferences.ui:1791
+msgctxt "Preferences|"
+msgid "Close application with Ctrl-Q"
+msgstr "Đóng ứng dụng bằng Ctrl-Q"
+
+#: lib/preferences/preferences.ui:1815
+msgctxt "Preferences|"
+msgid "<b>Download Location</b>"
+msgstr "<b>Vị trí Tải xuống</b>"
+
+#: lib/preferences/preferences.ui:1822
+msgctxt "Preferences|"
+msgid "Ask everytime for download location"
+msgstr "Luôn hỏi địa điểm tải về"
+
+#: lib/preferences/preferences.ui:1829
+msgctxt "Preferences|"
+msgid "Use defined location: "
+msgstr "Sử dụng vị trí đã định: "
+
+#: lib/preferences/preferences.ui:1879
+msgctxt "Preferences|"
+msgid "<b>Download Options</b>"
+msgstr "<b>Tùy chọn Tải xuống</b>"
+
+#: lib/preferences/preferences.ui:1886
+msgctxt "Preferences|"
+msgid "Close download manager when downloading finishes"
+msgstr "Đóng trình quản lý tải về khi tải về hoàn tất"
+
+#: lib/preferences/preferences.ui:1893
+msgctxt "Preferences|"
+msgid "<b>External download manager</b>"
+msgstr "<b>Trình quản lý tải về bên ngoài</b>"
+
+#: lib/preferences/preferences.ui:1900
+msgctxt "Preferences|"
+msgid "Use external download manager"
+msgstr "Sử dụng trình quản lý tải về bên ngoài"
+
+#: lib/preferences/preferences.ui:1912
+msgctxt "Preferences|"
+msgid "Executable:"
+msgstr "Chương trình thực thi:"
+
+#: lib/preferences/preferences.ui:1919
+msgctxt "Preferences|"
+msgid "Arguments:"
+msgstr "Đối số:"
+
+#: lib/preferences/preferences.ui:1926
+msgctxt "Preferences|"
+msgid "Leave blank if unsure"
+msgstr "Để trống nếu không chắc chắn"
+
+#: lib/preferences/preferences.ui:1947
+msgctxt "Preferences|"
+msgid "<b>%d</b> will be replaced with URL to be downloaded"
+msgstr "<b>%d</b> sẽ được thay thế bằng URL cần tải về"
+
+#: lib/preferences/preferences.ui:1973
+msgctxt "Preferences|"
+msgid "<b>AutoFill options</b>"
+msgstr "<b>Tùy chọn tự động điền</b>"
+
+#: lib/preferences/preferences.ui:1980
+msgctxt "Preferences|"
+msgid "Allow saving passwords from sites"
+msgstr "Cho phép lưu mật khẩu từ các trang web"
+
+#: lib/preferences/preferences.ui:2031
+msgctxt "Preferences|"
+msgid "Automatically complete passwords on sites"
+msgstr "Tự động hoàn tất mật khẩu trên các trang web"
+
+#: lib/preferences/preferences.ui:2052
+msgctxt "Preferences|"
+msgid "Manage Cookies"
+msgstr "Quản lý Bánh quy"
+
+#: lib/preferences/preferences.ui:2065
+msgctxt "Preferences|"
+msgid "Cookies Manager"
+msgstr "Quản lý Bánh Quy"
+
+#: lib/preferences/preferences.ui:2088
+msgctxt "Preferences|"
+msgid "<b>JavaScript</b>"
+msgstr "<b>JavaScript</b>"
+
+#: lib/preferences/preferences.ui:2101
+msgctxt "Preferences|"
+msgid "JavaScript options"
+msgstr "Tùy chọn JavaScript"
+
+#: lib/preferences/preferences.ui:2108
+msgctxt "Preferences|"
+msgid "Send Do Not Track header to servers"
+msgstr "Gửi tiêu đề Không Theo Dõi đến máy chủ"
+
+#: lib/preferences/preferences.ui:2115
+msgctxt "Preferences|"
+msgid "<b>Cookies</b>"
+msgstr "<b>Cookie</b>"
+
+#: lib/preferences/preferences.ui:2141
+msgctxt "Preferences|"
+msgid "Manage JavaScript privacy options"
+msgstr "Quản lý tùy chọn riêng tư của JavaScript"
+
+#: lib/preferences/preferences.ui:2148
+msgctxt "Preferences|"
+msgid "<b>Other</b>"
+msgstr "<b>Khác</b>"
+
+#: lib/preferences/preferences.ui:2169
+msgctxt "Preferences|"
+msgid "HTML5 Permissions"
+msgstr "Quyền HTML5"
+
+#: lib/preferences/preferences.ui:2179
+msgctxt "Preferences|"
+msgid "Site Settings"
+msgstr "Thiết lập địa điểm"
+
+#: lib/preferences/preferences.ui:2211
+msgctxt "Preferences|"
+msgid "Expiration timeout:"
+msgstr "Thời gian hết hạn:"
+
+#: lib/preferences/preferences.ui:2224
+msgctxt "Preferences|"
+msgid " seconds"
+msgstr "giây"
+
+#: lib/preferences/preferences.ui:2246
+msgctxt "Preferences|"
+msgid "<b>Notifications</b>"
+msgstr "<b>Thông báo</b>"
+
+#: lib/preferences/preferences.ui:2269
+msgctxt "Preferences|"
+msgid "Use Native System Notifications (Linux only)"
+msgstr "Sử dụng Thông báo Hệ thống Bản địa (chỉ Linux)"
+
+#: lib/preferences/preferences.ui:2276
+msgctxt "Preferences|"
+msgid "Do not use Notifications"
+msgstr "Không sử dụng thông báo"
+
+#: lib/preferences/preferences.ui:2299
+msgctxt "Preferences|"
+msgid ""
+"<b>Note: </b>You can change position of OSD Notification by dragging it on "
+"the screen."
+msgstr ""
+"<b>Lưu ý: </b>Bạn có thể thay đổi vị trí của Thông báo OSD bằng cách kéo nó "
+"trên màn hình."
+
+#: lib/preferences/preferences.ui:2325
+msgctxt "Preferences|"
+msgid "Use OSD Notifications"
+msgstr "Sử dụng thông báo OSD"
+
+#: lib/preferences/preferences.ui:2332
+msgctxt "Preferences|"
+msgid "Preview"
+msgstr "xem thử"
+
+#: lib/preferences/preferences.ui:2397
+msgctxt "Preferences|"
+msgid ""
+"For more information about Spell Check, please see <a "
+"href=\"https://userbase.kde.org/Falkon#Spell_Check\">wiki</a>."
+msgstr ""
+"Để biết thêm thông tin về Kiểm tra chính tả, vui lòng xem <a "
+"href=\"https://userbase.kde.org/Falkon#Spell_Check\">wiki</a>."
+
+#: lib/preferences/preferences.ui:2439
+msgctxt "Preferences|"
+msgid "<b>Spell Check options</b>"
+msgstr "<b>Tùy chọn kiểm tra chính tả</b>"
+
+#: lib/preferences/preferences.ui:2446
+msgctxt "Preferences|"
+msgid "Enable Spell Check"
+msgstr "Bật Kiểm tra Chính tả"
+
+#: lib/preferences/preferences.ui:2453
+msgctxt "Preferences|"
+msgid "<b>Dictionary directories</b>"
+msgstr "<b>Thư mục từ điển</b>"
+
+#: lib/preferences/preferences.ui:2504
+msgctxt "Preferences|"
+msgid "No languages found"
+msgstr "Không tìm thấy ngôn ngữ"
+
+#: lib/preferences/preferences.ui:2533
+msgctxt "Preferences|"
+msgid "Protocol Handlers Manager"
+msgstr "Trình quản lý Bộ xử lý Giao thức"
+
+#: lib/preferences/preferences.ui:2573
+msgctxt "Preferences|"
+msgid "Search Engines Manager"
+msgstr "Trình quản lý công cụ tìm kiếm"
+
+#: lib/preferences/preferences.ui:2595
+msgctxt "Preferences|"
+msgid "<b>User Style Sheet</b>"
+msgstr "<b>Trang Kiểu Cách Người Dùng</b>"
+
+#: lib/preferences/preferences.ui:2602
+msgctxt "Preferences|"
+msgid "<b>Manage search engines</b>"
+msgstr "<b>Quản lý công cụ tìm kiếm</b>"
+
+#: lib/preferences/preferences.ui:2615
+msgctxt "Preferences|"
+msgid "Manage custom schemes"
+msgstr "Quản lý các lược đồ tùy chỉnh"
+
+#: lib/preferences/preferences.ui:2640
+msgctxt "Preferences|"
+msgid "Languages"
+msgstr "Ngôn ngữ"
+
+#: lib/preferences/preferences.ui:2662
+msgctxt "Preferences|"
+msgid "<b>Preferred language for web sites</b>"
+msgstr "<b>Ngôn ngữ ưa thích cho các trang web</b>"
+
+#: lib/preferences/preferences.ui:2687
+msgctxt "Preferences|"
+msgid "Certificate Exception Manager"
+msgstr "Trình quản lý ngoại lệ chứng chỉ"
+
+#: lib/preferences/preferences.ui:2709
+msgctxt "Preferences|"
+msgid "<b>Change browser identification</b>"
+msgstr "<b>Thay đổi nhận dạng trình duyệt</b>"
+
+#: lib/preferences/preferences.ui:2734
+msgctxt "Preferences|"
+msgid "User Agent Manager"
+msgstr "Trình quản lý đại diện người dùng"
+
+#: lib/preferences/preferences.ui:2756
+msgctxt "Preferences|"
+msgid "Style Sheet automatically loaded with all websites: "
+msgstr "Tự động tải tệp kiểu cách với tất cả các trang web:"
+
+#: lib/preferences/preferences.ui:2793
+msgctxt "Preferences|"
+msgid "<b>Manage protocol handlers</b>"
+msgstr "<b>Quản lý trình xử lý giao thức</b>"
+
+#: lib/preferences/preferences.ui:2800
+msgctxt "Preferences|"
+msgid "<b>Certificate manager</b>"
+msgstr "<b>Trình quản lý chứng chỉ</b>"
+
+#: lib/preferences/preferences.ui:2851
+msgctxt "Preferences|"
+msgid "Custom Scheme Manager"
+msgstr "Trình quản lý quy hoạch tự chọn"
+
+#: lib/preferences/schememanager.cpp:84
+msgctxt "SchemeManager|"
+msgid "Add allowed scheme"
+msgstr "Thêm quy hoạch được phép"
+
+#: lib/preferences/schememanager.cpp:84 lib/preferences/schememanager.cpp:119
+msgctxt "SchemeManager|"
+msgid "Scheme:"
+msgstr "Sơ đồ:"
+
+#: lib/preferences/schememanager.cpp:119
+msgctxt "SchemeManager|"
+msgid "Add blocked scheme"
+msgstr "Thêm quy hoạch bị chặn"
+
+#: lib/preferences/schememanager.ui:14
+msgctxt "SchemeManager|"
+msgid "Custom scheme manager"
+msgstr "Trình quản lý quy hoạch tự chọn"
+
+#: lib/preferences/schememanager.ui:26
+msgctxt "SchemeManager|"
+msgid "Allowed schemes"
+msgstr "Các lược đồ được phép"
+
+#: lib/preferences/schememanager.ui:33
+msgctxt "SchemeManager|"
+msgid "**Note:** Allowed schemes can be added by extensions."
+msgstr ""
+"**Lưu ý:** Các lược đồ được phép có thể được thêm vào bằng các tiện ích mở "
+"rộng."
+
+#: lib/preferences/schememanager.ui:54 lib/preferences/schememanager.ui:116
+msgctxt "SchemeManager|"
+msgid "Add"
+msgstr "Thêm"
+
+#: lib/preferences/schememanager.ui:61 lib/preferences/schememanager.ui:123
+msgctxt "SchemeManager|"
+msgid "Remove"
+msgstr "Xoá"
+
+#: lib/preferences/schememanager.ui:68
+msgctxt "SchemeManager|"
+msgid "Block"
+msgstr "Ngưng trệ"
+
+#: lib/preferences/schememanager.ui:98
+msgctxt "SchemeManager|"
+msgid "Blocked schemes"
+msgstr "Các lược đồ bị chặn"
+
+#: lib/preferences/schememanager.ui:147
+msgctxt "SchemeManager|"
+msgid "Changes will take effect after Falkon restart."
+msgstr "Các thay đổi sẽ có hiệu lực sau khi khởi động lại Falkon."
+
+#: lib/preferences/sitesettingsattributesitem.ui:39
+msgctxt "SiteSettingsAttributesItem|"
+msgid "Browse"
+msgstr "Duyệt"
+
+#: lib/preferences/sitesettingsbrowsedialog.ui:14
+msgctxt "SiteSettingsBrowseDialog|"
+msgid "Site Permissions"
+msgstr "Quyền của Địa điểm"
+
+#: lib/preferences/sitesettingsbrowsedialog.ui:30
+msgctxt "SiteSettingsBrowseDialog|"
+msgid "Site"
+msgstr "Địa điểm"
+
+#: lib/preferences/sitesettingsbrowsedialog.ui:35
+msgctxt "SiteSettingsBrowseDialog|"
+msgid "Behaviour"
+msgstr "Hành vi"
+
+#: lib/preferences/sitesettingsbrowsedialog.ui:45
+msgctxt "SiteSettingsBrowseDialog|"
+msgid "Ask"
+msgstr "Hỏi"
+
+#: lib/preferences/sitesettingsbrowsedialog.ui:52
+msgctxt "SiteSettingsBrowseDialog|"
+msgid "Allow"
+msgstr "Cho phép"
+
+#: lib/preferences/sitesettingsbrowsedialog.ui:59
+msgctxt "SiteSettingsBrowseDialog|"
+msgid "Deny"
+msgstr "Từ chối"
+
+#: lib/preferences/sitesettingsbrowsedialog.ui:66
+msgctxt "SiteSettingsBrowseDialog|"
+msgid "Default"
+msgstr "Mặc định"
+
+#: lib/preferences/sitesettingshtml5item.ui:42
+msgctxt "SiteSettingsHtml5Item|"
+msgid "Browse"
+msgstr "Duyệt"
+
+#: lib/preferences/thememanager.cpp:100
+msgctxt "ThemeManager|"
+msgid "Confirmation"
+msgstr "Xác nhận"
+
+#: lib/preferences/thememanager.cpp:101
+#, qt-format
+msgctxt "ThemeManager|"
+msgid "Are you sure you want to remove '%1'?"
+msgstr "Bạn có chắc chắn muốn xoá '%1' không?"
+
+#: lib/preferences/thememanager.ui:51
+msgctxt "ThemeManager|"
+msgid "<b>Name:</b>"
+msgstr "<b>Tên:</b>"
+
+#: lib/preferences/thememanager.ui:61
+msgctxt "ThemeManager|"
+msgid "<b>Author:</b>"
+msgstr "<b>Tác giả:</b>"
+
+#: lib/preferences/thememanager.ui:84
+msgctxt "ThemeManager|"
+msgid "<b>Description:</b>"
+msgstr "<b>Mô tả:</b>"
+
+#: lib/preferences/thememanager.ui:128
+msgctxt "ThemeManager|"
+msgid "License"
+msgstr "Cấp phép"
+
+#: lib/preferences/thememanager.ui:155
+msgctxt "ThemeManager|"
+msgid "Remove"
+msgstr "Xoá"
+
+#: lib/preferences/thememanager.ui:175
+msgctxt "ThemeManager|"
+msgid ""
+"<a href=\"https://store.kde.org/browse/cat/572/\">Get more themes...</a>"
+msgstr "<a href=\"https://store.kde.org/browse/cat/572/\">Tải thêm chủ đề...</a>"
+
+#: lib/preferences/useragentdialog.cpp:99
+msgctxt "UserAgentDialog|"
+msgid "Add new site"
+msgstr "Thêm địa điểm web mới"
+
+#: lib/preferences/useragentdialog.cpp:137
+msgctxt "UserAgentDialog|"
+msgid "Edit site"
+msgstr "Chỉnh sửa địa điểm web"
+
+#: lib/preferences/useragentdialog.cpp:216
+msgctxt "UserAgentDialog|"
+msgid "Site domain: "
+msgstr "Tên miền trang web: "
+
+#: lib/preferences/useragentdialog.cpp:217
+msgctxt "UserAgentDialog|"
+msgid "User Agent: "
+msgstr "Tác nhân người dùng: "
+
+#: lib/preferences/useragentdialog.ui:14
+msgctxt "UserAgentDialog|"
+msgid "User Agent Manager"
+msgstr "Trình quản lý đại diện người dùng"
+
+#: lib/preferences/useragentdialog.ui:20
+msgctxt "UserAgentDialog|"
+msgid "Change global User Agent"
+msgstr "Thay đổi User Agent toàn cục"
+
+#: lib/preferences/useragentdialog.ui:48
+msgctxt "UserAgentDialog|"
+msgid "Use different User Agents for specified sites"
+msgstr "Sử dụng các User Agent khác nhau cho các trang web cụ thể"
+
+#: lib/preferences/useragentdialog.ui:92
+msgctxt "UserAgentDialog|"
+msgid "Site"
+msgstr "Địa điểm"
+
+#: lib/preferences/useragentdialog.ui:97
+msgctxt "UserAgentDialog|"
+msgid "User Agent"
+msgstr "Đại diện người dùng"
+
+#: lib/preferences/useragentdialog.ui:107
+msgctxt "UserAgentDialog|"
+msgid "Add"
+msgstr "Thêm"
+
+#: lib/preferences/useragentdialog.ui:114
+msgctxt "UserAgentDialog|"
+msgid "Remove"
+msgstr "Xoá"
+
+#: lib/preferences/useragentdialog.ui:134
+msgctxt "UserAgentDialog|"
+msgid "Edit"
+msgstr "Sửa"
+
+#: lib/session/sessionmanager.cpp:127
+msgctxt "SessionManager|"
+msgid "_cloned"
+msgstr "_đã sao chép"
+
+#: lib/session/sessionmanager.cpp:127
+msgctxt "SessionManager|"
+msgid "_renamed"
+msgstr "_đã đổi tên"
+
+#: lib/session/sessionmanager.cpp:128
+msgctxt "SessionManager|"
+msgid "Clone Session"
+msgstr "Nhân bản Phiên"
+
+#: lib/session/sessionmanager.cpp:128
+msgctxt "SessionManager|"
+msgid "Rename Session"
+msgstr "Đổi tên Phiên"
+
+#: lib/session/sessionmanager.cpp:129
+msgctxt "SessionManager|"
+msgid "Please enter a new name:"
+msgstr "Vui lòng nhập tên mới:"
+
+#: lib/session/sessionmanager.cpp:137 lib/session/sessionmanager.cpp:144
+#: lib/session/sessionmanager.cpp:149 lib/session/sessionmanager.cpp:171
+#: lib/session/sessionmanager.cpp:219
+msgctxt "SessionManager|"
+msgid "Error!"
+msgstr "Lỗi!"
+
+#: lib/session/sessionmanager.cpp:137 lib/session/sessionmanager.cpp:171
+#: lib/session/sessionmanager.cpp:219
+#, qt-format
+msgctxt "SessionManager|"
+msgid "The session file \"%1\" exists. Please enter another name."
+msgstr "Tệp phiên \"%1\" đã tồn tại. Vui lòng nhập tên khác."
+
+#: lib/session/sessionmanager.cpp:144
+msgctxt "SessionManager|"
+msgid "An error occurred when cloning session file."
+msgstr "Đã xảy ra lỗi khi sao chép tệp phiên."
+
+#: lib/session/sessionmanager.cpp:149
+msgctxt "SessionManager|"
+msgid "An error occurred when renaming session file."
+msgstr "Đã xảy ra lỗi khi đổi tên tệp phiên."
+
+#: lib/session/sessionmanager.cpp:162
+msgctxt "SessionManager|"
+msgid "Save Session"
+msgstr "Lưu Phiên"
+
+#: lib/session/sessionmanager.cpp:163
+msgctxt "SessionManager|"
+msgid "Please enter a name to save session:"
+msgstr "Vui lòng nhập tên để lưu phiên làm việc:"
+
+#: lib/session/sessionmanager.cpp:164
+#, qt-format
+msgctxt "SessionManager|"
+msgid "Saved Session (%1)"
+msgstr "Đã lưu phiên (%1)"
+
+#: lib/session/sessionmanager.cpp:181
+msgctxt "SessionManager|"
+msgid "Restore Backup"
+msgstr "Khôi phục Backup"
+
+#: lib/session/sessionmanager.cpp:181
+msgctxt "SessionManager|"
+msgid "Are you sure you want to replace current session?"
+msgstr "Bạn có chắc chắn muốn thay thế phiên làm việc hiện tại?"
+
+#: lib/session/sessionmanager.cpp:200
+msgctxt "SessionManager|"
+msgid "Delete Session"
+msgstr "Xóa Phiên"
+
+#: lib/session/sessionmanager.cpp:200
+#, qt-format
+msgctxt "SessionManager|"
+msgid "Are you sure you want to delete session '%1'?"
+msgstr "Bạn có chắc chắn muốn xóa phiên '%1' không?"
+
+#: lib/session/sessionmanager.cpp:210
+msgctxt "SessionManager|"
+msgid "New Session"
+msgstr "Phiên mới"
+
+#: lib/session/sessionmanager.cpp:211
+msgctxt "SessionManager|"
+msgid "Please enter a name to create new session:"
+msgstr "Vui lòng nhập tên để tạo phiên làm việc mới:"
+
+#: lib/session/sessionmanager.cpp:212
+#, qt-format
+msgctxt "SessionManager|"
+msgid "New Session (%1)"
+msgstr "Phiên mới (%1)"
+
+#: lib/session/sessionmanager.cpp:244
+msgctxt "SessionManager|"
+msgid "Backup 1"
+msgstr "Sao lưu 1"
+
+#: lib/session/sessionmanager.cpp:251
+msgctxt "SessionManager|"
+msgid "Backup 2"
+msgstr "Sao lưu 2"
+
+#: lib/session/sessionmanager.cpp:291
+msgctxt "SessionManager|"
+msgid "Default Session"
+msgstr "Phiên mặc định"
+
+#: lib/session/sessionmanager.cpp:394
+msgctxt "SessionManager|"
+msgid "Please select the startup session:"
+msgstr "Vui lòng bôi đen phiên làm việc khởi động:"
+
+#: lib/session/sessionmanager.cpp:413
+#, qt-format
+msgctxt "SessionManager|"
+msgid "%1 (last session)"
+msgstr "%1 (phiên cuối)"
+
+#: lib/session/sessionmanagerdialog.cpp:140
+msgctxt "SessionManagerDialog|"
+msgid "Restore"
+msgstr "Khôi phục"
+
+#: lib/session/sessionmanagerdialog.cpp:140
+msgctxt "SessionManagerDialog|"
+msgid "Switch To"
+msgstr "Chuyển Đến"
+
+#: lib/session/sessionmanagerdialog.ui:14
+msgctxt "SessionManagerDialog|"
+msgid "Session Manager"
+msgstr "Trình quản lý phiên"
+
+#: lib/session/sessionmanagerdialog.ui:24
+msgctxt "SessionManagerDialog|"
+msgid "Session"
+msgstr "Phiên"
+
+#: lib/session/sessionmanagerdialog.ui:29
+msgctxt "SessionManagerDialog|"
+msgid "Last Modified"
+msgstr "Chỉnh sửa lần cuối"
+
+#: lib/session/sessionmanagerdialog.ui:39
+msgctxt "SessionManagerDialog|"
+msgid "New"
+msgstr "Mới"
+
+#: lib/session/sessionmanagerdialog.ui:46
+msgctxt "SessionManagerDialog|"
+msgid "Rename"
+msgstr "Đổi tên"
+
+#: lib/session/sessionmanagerdialog.ui:53
+msgctxt "SessionManagerDialog|"
+msgid "Clone"
+msgstr "Nhân bản"
+
+#: lib/session/sessionmanagerdialog.ui:60
+msgctxt "SessionManagerDialog|"
+msgid "Delete"
+msgstr "Xóa"
+
+#: lib/session/sessionmanagerdialog.ui:67
+msgctxt "SessionManagerDialog|"
+msgid "Switch to"
+msgstr "Chuyển đến"
+
+#: lib/sidebar/bookmarkssidebar.cpp:103
+msgctxt "BookmarksSidebar|"
+msgid "Open in new tab"
+msgstr "Mở trong thẻ mới"
+
+#: lib/sidebar/bookmarkssidebar.cpp:104
+msgctxt "BookmarksSidebar|"
+msgid "Open in new window"
+msgstr "Mở trong cửa sổ mới"
+
+#: lib/sidebar/bookmarkssidebar.cpp:105
+msgctxt "BookmarksSidebar|"
+msgid "Open in new private window"
+msgstr "Mở trong cửa sổ riêng tư mới"
+
+#: lib/sidebar/bookmarkssidebar.cpp:108
+msgctxt "BookmarksSidebar|"
+msgid "Delete"
+msgstr "Xóa"
+
+#: lib/sidebar/bookmarkssidebar.ui:41
+msgctxt "BookmarksSideBar|"
+msgid "Search..."
+msgstr "Tìm kiếm..."
+
+#: lib/sidebar/historysidebar.cpp:85
+msgctxt "HistorySideBar|"
+msgid "Open in new tab"
+msgstr "Mở trong thẻ mới"
+
+#: lib/sidebar/historysidebar.cpp:86
+msgctxt "HistorySideBar|"
+msgid "Open in new window"
+msgstr "Mở trong cửa sổ mới"
+
+#: lib/sidebar/historysidebar.cpp:87
+msgctxt "HistorySideBar|"
+msgid "Open in new private window"
+msgstr "Mở trong cửa sổ riêng tư mới"
+
+#: lib/sidebar/historysidebar.cpp:90
+msgctxt "HistorySideBar|"
+msgid "Delete"
+msgstr "Xóa"
+
+#: lib/sidebar/historysidebar.ui:32
+msgctxt "HistorySideBar|"
+msgid "Search..."
+msgstr "Tìm kiếm..."
+
+#: lib/sidebar/sidebar.cpp:66 lib/sidebar/sidebar.cpp:108
+msgctxt "SideBar|"
+msgid "Bookmarks"
+msgstr "Dấu trang"
+
+#: lib/sidebar/sidebar.cpp:73 lib/sidebar/sidebar.cpp:115
+msgctxt "SideBar|"
+msgid "History"
+msgstr "Lịch sử"
+
+#: lib/tabwidget/tabbar.cpp:111
+msgctxt "BrowserWindow|"
+msgid "Close Tab"
+msgstr "Đóng Thẻ"
+
+#: lib/tabwidget/tabcontextmenu.cpp:63
+msgctxt "TabBar|"
+msgid "Don't ask again"
+msgstr "Không hỏi lại"
+
+#: lib/tabwidget/tabcontextmenu.cpp:80 lib/tabwidget/tabcontextmenu.cpp:91
+#: lib/tabwidget/tabcontextmenu.cpp:102
+msgctxt "TabContextMenu|"
+msgid "Close Tabs"
+msgstr "Đóng Thẻ"
+
+#: lib/tabwidget/tabcontextmenu.cpp:80
+msgctxt "TabContextMenu|"
+msgid "Do you really want to close other tabs?"
+msgstr "Bạn có thực sự muốn đóng các tab khác không?"
+
+#: lib/tabwidget/tabcontextmenu.cpp:88
+msgctxt "TabContextMenu|"
+msgid "Do you really want to close all tabs to the right?"
+msgstr "Bạn có thực sự muốn đóng tất cả các tab bên phải không?"
+
+#: lib/tabwidget/tabcontextmenu.cpp:89
+msgctxt "TabContextMenu|"
+msgid "Do you really want to close all tabs to the bottom?"
+msgstr "Bạn có thực sự muốn đóng tất cả các tab ở phía dưới không?"
+
+#: lib/tabwidget/tabcontextmenu.cpp:99
+msgctxt "TabContextMenu|"
+msgid "Do you really want to close all tabs to the left?"
+msgstr "Bạn có thực sự muốn đóng tất cả các tab bên trái không?"
+
+#: lib/tabwidget/tabcontextmenu.cpp:100
+msgctxt "TabContextMenu|"
+msgid "Do you really want to close all tabs to the top?"
+msgstr "Bạn có thực sự muốn đóng tất cả các tab ở trên không?"
+
+#: lib/tabwidget/tabcontextmenu.cpp:117
+msgctxt "TabContextMenu|"
+msgid "&Stop Tab"
+msgstr "Dừn&g thẻ"
+
+#: lib/tabwidget/tabcontextmenu.cpp:120
+msgctxt "TabContextMenu|"
+msgid "&Reload Tab"
+msgstr "Tải &lại Thẻ"
+
+#: lib/tabwidget/tabcontextmenu.cpp:123
+msgctxt "TabContextMenu|"
+msgid "&Duplicate Tab"
+msgstr "Nhâ&n bản Thẻ"
+
+#: lib/tabwidget/tabcontextmenu.cpp:126
+msgctxt "TabContextMenu|"
+msgid "D&etach Tab"
+msgstr "Tá&ch thẻ"
+
+#: lib/tabwidget/tabcontextmenu.cpp:129
+msgctxt "TabContextMenu|"
+msgid "Un&pin Tab"
+msgstr "Bỏ gh&im thẻ"
+
+#: lib/tabwidget/tabcontextmenu.cpp:129
+msgctxt "TabContextMenu|"
+msgid "&Pin Tab"
+msgstr "G&him thẻ"
+
+#: lib/tabwidget/tabcontextmenu.cpp:130
+msgctxt "TabContextMenu|"
+msgid "Un&mute Tab"
+msgstr "Bỏ &tắt tiếng thẻ"
+
+#: lib/tabwidget/tabcontextmenu.cpp:130
+msgctxt "TabContextMenu|"
+msgid "&Mute Tab"
+msgstr "Tắt tiếng t&hẻ"
+
+#: lib/tabwidget/tabcontextmenu.cpp:133
+msgctxt "TabContextMenu|"
+msgid "Load Tab"
+msgstr "Tải Thẻ"
+
+#: lib/tabwidget/tabcontextmenu.cpp:135
+msgctxt "TabContextMenu|"
+msgid "Unload Tab"
+msgstr "Tháo thẻ"
+
+#: lib/tabwidget/tabcontextmenu.cpp:139
+msgctxt "TabContextMenu|"
+msgid "Re&load All Tabs"
+msgstr "Tải &lại tất cả các tab"
+
+#: lib/tabwidget/tabcontextmenu.cpp:140 lib/tabwidget/tabcontextmenu.cpp:156
+msgctxt "TabContextMenu|"
+msgid "Bookmark &All Tabs"
+msgstr "Lưu &dấu tất cả các tab"
+
+#: lib/tabwidget/tabcontextmenu.cpp:144
+msgctxt "TabContextMenu|"
+msgid "Close Ot&her Tabs"
+msgstr "Đóng các tab k&hác"
+
+#: lib/tabwidget/tabcontextmenu.cpp:145
+msgctxt "TabContextMenu|"
+msgid "Close Tabs To The Right"
+msgstr "Đóng các tab bên phải"
+
+#: lib/tabwidget/tabcontextmenu.cpp:145
+msgctxt "TabContextMenu|"
+msgid "Close Tabs To The Bottom"
+msgstr "Đóng các tab ở phía dưới"
+
+#: lib/tabwidget/tabcontextmenu.cpp:146
+msgctxt "TabContextMenu|"
+msgid "Close Tabs To The Left"
+msgstr "Đóng các tab bên trái"
+
+#: lib/tabwidget/tabcontextmenu.cpp:146
+msgctxt "TabContextMenu|"
+msgid "Close Tabs To The Top"
+msgstr "Đóng các tab ở trên"
+
+#: lib/tabwidget/tabcontextmenu.cpp:151
+msgctxt "TabContextMenu|"
+msgid "Cl&ose Tab"
+msgstr "Đó&ng Thẻ"
+
+#: lib/tabwidget/tabcontextmenu.cpp:153
+msgctxt "TabContextMenu|"
+msgid "&New tab"
+msgstr "Thẻ &mới"
+
+#: lib/tabwidget/tabcontextmenu.cpp:155
+msgctxt "TabContextMenu|"
+msgid "Reloa&d All Tabs"
+msgstr "Tải lại &tất cả các tab"
+
+#: lib/tabwidget/tabicon.cpp:169
+msgctxt "TabIcon|"
+msgid "Unmute Tab"
+msgstr "Bỏ tắt tiếng thẻ"
+
+#: lib/tabwidget/tabicon.cpp:169
+msgctxt "TabIcon|"
+msgid "Mute Tab"
+msgstr "Tắt tiếng thẻ"
+
+#: lib/tabwidget/tabwidget.cpp:51
+msgctxt "TabWidget|"
+msgid "New Tab"
+msgstr "Thẻ mới"
+
+#: lib/tabwidget/tabwidget.cpp:126
+msgctxt "TabWidget|"
+msgid "Closed tabs"
+msgstr "Các tab đã đóng"
+
+#: lib/tabwidget/tabwidget.cpp:137
+msgctxt "TabWidget|"
+msgid "List of tabs"
+msgstr "Danh sách các tab"
+
+#: lib/tabwidget/tabwidget.cpp:294
+msgctxt "TabWidget|"
+msgid "Empty"
+msgstr "Trống"
+
+#: lib/tabwidget/tabwidget.cpp:298
+msgctxt "TabWidget|"
+msgid "Restore All Closed Tabs"
+msgstr "Khôi phục Tất cả Các Tab Đã Đóng"
+
+#: lib/tabwidget/tabwidget.cpp:299
+msgctxt "TabWidget|"
+msgid "Clear list"
+msgstr "Làm trống danh sách"
+
+#: lib/tabwidget/tabwidget.h:106
+msgctxt "TabWidget|"
+msgid "New tab"
+msgstr "Thẻ mới"
+
+#: lib/tools/aesinterface.cpp:146
+msgctxt "AesInterface|"
+msgid "Warning!"
+msgstr "Cảnh báo!"
+
+#: lib/tools/aesinterface.cpp:146
+msgctxt "AesInterface|"
+msgid ""
+"Data has been encrypted with a newer version of Falkon.\n"
+"Please install latest version of Falkon."
+msgstr ""
+"Dữ liệu đã được mật mã hoá bằng một phiên bản mới hơn của Falkon.\nVui lòng "
+"cài đặt phiên bản mới nhất của Falkon."
+
+#: lib/tools/certificateinfowidget.cpp:300
+msgctxt "QObject|"
+msgid "<not set in certificate>"
+msgstr "<không được đặt trong chứng chỉ>"
+
+#: lib/tools/certificateinfowidget.ui:17
+msgctxt "CertificateInfoWidget|"
+msgid "<b>Issued To</b>"
+msgstr "<b>Cấp cho</b>"
+
+#: lib/tools/certificateinfowidget.ui:24 lib/tools/certificateinfowidget.ui:99
+msgctxt "CertificateInfoWidget|"
+msgid "Common Name (CN):"
+msgstr "Tên thông thường (CN):"
+
+#: lib/tools/certificateinfowidget.ui:41 lib/tools/certificateinfowidget.ui:116
+msgctxt "CertificateInfoWidget|"
+msgid "Organization (O):"
+msgstr "Tổ chức (O):"
+
+#: lib/tools/certificateinfowidget.ui:58 lib/tools/certificateinfowidget.ui:133
+msgctxt "CertificateInfoWidget|"
+msgid "Organizational Unit (OU):"
+msgstr "Đơn vị tổ chức (OU):"
+
+#: lib/tools/certificateinfowidget.ui:75
+msgctxt "CertificateInfoWidget|"
+msgid "Serial Number:"
+msgstr "Số sê-ri:"
+
+#: lib/tools/certificateinfowidget.ui:92
+msgctxt "CertificateInfoWidget|"
+msgid "<b>Issued By</b>"
+msgstr "<b>Cấp bởi</b>"
+
+#: lib/tools/certificateinfowidget.ui:150
+msgctxt "CertificateInfoWidget|"
+msgid "<b>Validity</b>"
+msgstr "<b>Hiệu lực</b>"
+
+#: lib/tools/certificateinfowidget.ui:157
+msgctxt "CertificateInfoWidget|"
+msgid "Issued On:"
+msgstr "Được cấp vào:"
+
+#: lib/tools/certificateinfowidget.ui:174
+msgctxt "CertificateInfoWidget|"
+msgid "Expires On:"
+msgstr "Hết hạn vào:"
+
+#: lib/tools/html5permissions/html5permissionsnotification.cpp:42
+msgctxt "HTML5PermissionsNotification|"
+msgid "this site"
+msgstr "trang web này"
+
+#: lib/tools/html5permissions/html5permissionsnotification.cpp:46
+#, qt-format
+msgctxt "HTML5PermissionsNotification|"
+msgid "Allow %1 to show desktop notifications?"
+msgstr "Cho phép %1 hiển thị thông báo trên máy tính?"
+
+#: lib/tools/html5permissions/html5permissionsnotification.cpp:50
+#, qt-format
+msgctxt "HTML5PermissionsNotification|"
+msgid "Allow %1 to locate your position?"
+msgstr "Cho phép %1 định vị vị trí của bạn?"
+
+#: lib/tools/html5permissions/html5permissionsnotification.cpp:54
+#, qt-format
+msgctxt "HTML5PermissionsNotification|"
+msgid "Allow %1 to use your microphone?"
+msgstr "Cho phép %1 sử dụng micro của bạn?"
+
+#: lib/tools/html5permissions/html5permissionsnotification.cpp:58
+#, qt-format
+msgctxt "HTML5PermissionsNotification|"
+msgid "Allow %1 to use your camera?"
+msgstr "Cho phép %1 sử dụng camera của bạn?"
+
+#: lib/tools/html5permissions/html5permissionsnotification.cpp:62
+#, qt-format
+msgctxt "HTML5PermissionsNotification|"
+msgid "Allow %1 to use your microphone and camera?"
+msgstr "Cho phép %1 sử dụng micro và camera của bạn?"
+
+#: lib/tools/html5permissions/html5permissionsnotification.cpp:66
+#, qt-format
+msgctxt "HTML5PermissionsNotification|"
+msgid "Allow %1 to hide your pointer?"
+msgstr "Cho phép %1 ẩn con trỏ của bạn?"
+
+#: lib/tools/html5permissions/html5permissionsnotification.cpp:70
+#, qt-format
+msgctxt "HTML5PermissionsNotification|"
+msgid "Allow %1 to capture your screen?"
+msgstr "Cho phép %1 thu thập màn hình của bạn?"
+
+#: lib/tools/html5permissions/html5permissionsnotification.cpp:74
+#, qt-format
+msgctxt "HTML5PermissionsNotification|"
+msgid "Allow %1 to capture your screen and audio?"
+msgstr "Cho phép %1 thu thập màn hình và âm thanh của bạn?"
+
+#: lib/tools/html5permissions/html5permissionsnotification.ui:43
+msgctxt "HTML5PermissionsNotification|"
+msgid "Remember"
+msgstr "Ghi nhớ"
+
+#: lib/tools/html5permissions/html5permissionsnotification.ui:50
+msgctxt "HTML5PermissionsNotification|"
+msgid "Allow"
+msgstr "Cho phép"
+
+#: lib/tools/html5permissions/html5permissionsnotification.ui:57
+msgctxt "HTML5PermissionsNotification|"
+msgid "Deny"
+msgstr "Từ chối"
+
+#: lib/tools/qztools.cpp:379
+msgctxt "QObject|"
+msgid "Unknown size"
+msgstr "Kích thước không rõ"
+
+#: lib/tools/qztools.cpp:386
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 kB"
+msgstr "%1 kB"
+
+#: lib/tools/qztools.cpp:391
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 MB"
+msgstr "%1 MB"
+
+#: lib/tools/qztools.cpp:395
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 GB"
+msgstr "%1 GB"
+
+#: lib/tools/qztools.cpp:854
+msgctxt "QObject|"
+msgid "Executable: "
+msgstr "Chương trình thực thi:"
+
+#: lib/tools/qztools.cpp:855
+msgctxt "QObject|"
+msgid "Arguments: "
+msgstr "Đối số:"
+
+#: lib/tools/qztools.cpp:857
+msgctxt "QObject|"
+msgid "Cannot start external program"
+msgstr "Không thể khởi động chương trình bên ngoài"
+
+#: lib/tools/qztools.cpp:858
+#, qt-format
+msgctxt "QObject|"
+msgid "Cannot start external program! %1"
+msgstr "Không thể khởi động chương trình bên ngoài! %1"
+
+#: lib/webengine/jsalert.ui:125
+msgctxt "jsAlert|"
+msgid "Prevent this page from creating additional dialogs"
+msgstr "Ngăn chặn trang này tạo ra các hộp thoại bổ sung"
+
+#: lib/webengine/webpage.cpp:333
+#, qt-format
+msgctxt "WebPage|"
+msgid ""
+"Falkon cannot handle <b>%1:</b> links. The requested link is "
+"<ul><li>%2</li></ul>Do you want Falkon to try open this link in system "
+"application?"
+msgstr ""
+"Falkon không thể xử lý các liên kết <b>%1:</b>. Liên kết được yêu cầu là "
+"<ul><li>%2</li></ul>Bạn có muốn Falkon thử mở liên kết này trong ứng dụng "
+"hệ thống không?"
+
+#: lib/webengine/webpage.cpp:338
+msgctxt "WebPage|"
+msgid "Remember my choice for this protocol"
+msgstr "Ghi nhớ lựa chọn của tôi cho giao thức này"
+
+#: lib/webengine/webpage.cpp:339
+msgctxt "WebPage|"
+msgid "External Protocol Request"
+msgstr "Yêu cầu Giao thức Bên ngoài"
+
+#: lib/webengine/webpage.cpp:419 lib/webengine/webpage.cpp:420
+msgctxt "WebPage|"
+msgid "Failed loading page"
+msgstr "Không tải được trang"
+
+#: lib/webengine/webpage.cpp:421
+msgctxt "WebPage|"
+msgid "Something went wrong while loading this page."
+msgstr "Đã xảy ra sự cố khi tải trang này."
+
+#: lib/webengine/webpage.cpp:422
+msgctxt "WebPage|"
+msgid ""
+"Try reloading the page or closing some tabs to make more memory available."
+msgstr "Hãy thử tải lại trang hoặc đóng một số tab để giải phóng thêm bộ nhớ."
+
+#: lib/webengine/webpage.cpp:423
+msgctxt "WebPage|"
+msgid "Reload page"
+msgstr "Tải lại trang"
+
+#: lib/webengine/webpage.cpp:511
+msgctxt "WebPage|"
+msgid "Choose file..."
+msgstr "Chọn tệp..."
+
+#: lib/webengine/webpage.cpp:515
+msgctxt "WebPage|"
+msgid "Choose files..."
+msgstr "Chọn tệp..."
+
+#: lib/webengine/webpage.cpp:651
+msgctxt "WebPage|"
+msgid "JavaScript alert"
+msgstr "Cảnh báo JavaScript"
+
+#: lib/webengine/webpage.cpp:660
+msgctxt "WebPage|"
+msgid "Prevent this page from creating additional dialogs"
+msgstr "Ngăn chặn trang này tạo ra các hộp thoại bổ sung"
+
+#: lib/webengine/webview.cpp:126
+msgctxt "WebView|"
+msgid "Empty Page"
+msgstr "Trang trống"
+
+#: lib/webengine/webview.cpp:390
+#, qt-format
+msgctxt "WebView|"
+msgid "Falkon %1 (%2)"
+msgstr "Falkon %1 (%2)"
+
+#: lib/webengine/webview.cpp:699
+msgctxt "WebView|"
+msgid "No suggestions"
+msgstr "Không có gợi ý"
+
+#: lib/webengine/webview.cpp:750
+msgctxt "WebView|"
+msgid "&Back"
+msgstr "Quay &lại"
+
+#: lib/webengine/webview.cpp:754
+msgctxt "WebView|"
+msgid "&Forward"
+msgstr "Ch&uyển tiếp"
+
+#: lib/webengine/webview.cpp:761
+msgctxt "WebView|"
+msgid "&Add New Page"
+msgstr "Thêm &trang mới"
+
+#: lib/webengine/webview.cpp:762
+msgctxt "WebView|"
+msgid "&Configure Speed Dial"
+msgstr "&Cấu hình Speed Dial"
+
+#: lib/webengine/webview.cpp:764
+msgctxt "WebView|"
+msgid "Reload All Dials"
+msgstr "Tải lại tất cả các đồng hồ"
+
+#: lib/webengine/webview.cpp:783
+msgctxt "WebView|"
+msgid "Book&mark page"
+msgstr "Lưu dấu tran&g"
+
+#: lib/webengine/webview.cpp:784
+msgctxt "WebView|"
+msgid "&Save page as..."
+msgstr "Lưu trang &web như..."
+
+#: lib/webengine/webview.cpp:785
+msgctxt "WebView|"
+msgid "&Copy page link"
+msgstr "Sao chép liê&n kết trang"
+
+#: lib/webengine/webview.cpp:786
+msgctxt "WebView|"
+msgid "Send page link..."
+msgstr "Gửi liên kết trang..."
+
+#: lib/webengine/webview.cpp:788
+msgctxt "WebView|"
+msgid "Select &all"
+msgstr "Bôi đen &tất cả"
+
+#: lib/webengine/webview.cpp:794
+msgctxt "WebView|"
+msgid "Show so&urce code"
+msgstr "Hiển thị mã ng&uồn"
+
+#: lib/webengine/webview.cpp:798
+msgctxt "WebView|"
+msgid "Show info ab&out site"
+msgstr "Hiển thị thông tin &về địa điểm web"
+
+#: lib/webengine/webview.cpp:804
+msgctxt "WebView|"
+msgid "Open link in new &tab"
+msgstr "Mở liên kế&t trong thẻ mới"
+
+#: lib/webengine/webview.cpp:809
+msgctxt "WebView|"
+msgid "Open link in new &window"
+msgstr "&Mở liên kết trong cửa sổ mới"
+
+#: lib/webengine/webview.cpp:810
+msgctxt "WebView|"
+msgid "Open link in &private window"
+msgstr "Mở liên kết tron&g cửa sổ riêng tư"
+
+#: lib/webengine/webview.cpp:815
+msgctxt "WebView|"
+msgid "B&ookmark link"
+msgstr "Dấu &nhớ liên kết"
+
+#: lib/webengine/webview.cpp:817
+msgctxt "WebView|"
+msgid "&Save link as..."
+msgstr "Lưu liên &kết dưới dạng..."
+
+#: lib/webengine/webview.cpp:818
+msgctxt "WebView|"
+msgid "Send link..."
+msgstr "Gửi liên kết..."
+
+#: lib/webengine/webview.cpp:819
+msgctxt "WebView|"
+msgid "&Copy link address"
+msgstr "Sao chép địa chỉ l&iên kết"
+
+#: lib/webengine/webview.cpp:832
+msgctxt "WebView|"
+msgid "Show i&mage"
+msgstr "Hiệ&n ảnh"
+
+#: lib/webengine/webview.cpp:838
+msgctxt "WebView|"
+msgid "Copy image"
+msgstr "Sao chép ảnh"
+
+#: lib/webengine/webview.cpp:839
+msgctxt "WebView|"
+msgid "Copy image ad&dress"
+msgstr "Sao &chép địa chỉ ảnh"
+
+#: lib/webengine/webview.cpp:841
+msgctxt "WebView|"
+msgid "&Save image as..."
+msgstr "&Lưu ảnh dưới dạng..."
+
+#: lib/webengine/webview.cpp:842
+msgctxt "WebView|"
+msgid "Send image..."
+msgstr "Gửi hình ảnh..."
+
+#: lib/webengine/webview.cpp:861
+msgctxt "WebView|"
+msgid "Send text..."
+msgstr "Gửi văn bản..."
+
+#: lib/webengine/webview.cpp:873
+msgctxt "WebView|"
+msgid "Go to &web address"
+msgstr "Đi đến địa chỉ &web"
+
+#: lib/webengine/webview.cpp:887
+#, qt-format
+msgctxt "WebView|"
+msgid "Search \"%1 ..\" with %2"
+msgstr "Tìm kiếm \"%1 ..\" với %2"
+
+#: lib/webengine/webview.cpp:893
+msgctxt "WebView|"
+msgid "Search with..."
+msgstr "Tìm kiếm với..."
+
+#: lib/webengine/webview.cpp:915
+msgctxt "WebView|"
+msgid "&Play"
+msgstr "&Phát"
+
+#: lib/webengine/webview.cpp:915
+msgctxt "WebView|"
+msgid "&Pause"
+msgstr "Tạm &dừng"
+
+#: lib/webengine/webview.cpp:916
+msgctxt "WebView|"
+msgid "Un&mute"
+msgstr "Bỏ &tắt tiếng"
+
+#: lib/webengine/webview.cpp:916
+msgctxt "WebView|"
+msgid "&Mute"
+msgstr "Tắ&t tiếng"
+
+#: lib/webengine/webview.cpp:918
+msgctxt "WebView|"
+msgid "&Copy Media Address"
+msgstr "Sa&o chép địa chỉ phương tiện"
+
+#: lib/webengine/webview.cpp:919
+msgctxt "WebView|"
+msgid "&Send Media Address"
+msgstr "Gử&i địa chỉ phương tiện"
+
+#: lib/webengine/webview.cpp:920
+msgctxt "WebView|"
+msgid "Save Media To &Disk"
+msgstr "Lưu &phương tiện vào ổ đĩa"
+
+#: lib/webengine/webview.cpp:939
+msgctxt "WebView|"
+msgid "Create Search Engine"
+msgstr "Tạo Dụng Cụ Tìm Kiếm"
+
+#: lib/webengine/webview.cpp:980
+msgctxt "WebView|"
+msgid "&Undo"
+msgstr "đảo n&gược"
+
+#: lib/webengine/webview.cpp:986
+msgctxt "WebView|"
+msgid "&Redo"
+msgstr "Làm lạ&i"
+
+#: lib/webengine/webview.cpp:992
+msgctxt "WebView|"
+msgid "&Cut"
+msgstr "&Cắt"
+
+#: lib/webengine/webview.cpp:998
+msgctxt "WebView|"
+msgid "&Copy"
+msgstr "Sao ché&p"
+
+#: lib/webengine/webview.cpp:1004
+msgctxt "WebView|"
+msgid "&Paste"
+msgstr "Dá&n"
+
+#: lib/webengine/webview.cpp:1010
+msgctxt "WebView|"
+msgid "Select All"
+msgstr "Bôi đen tất cả"
+
+#: lib/webengine/webview.cpp:1016
+msgctxt "WebView|"
+msgid "&Reload"
+msgstr "Tả&i lại"
+
+#: lib/webengine/webview.cpp:1020
+msgctxt "WebView|"
+msgid "S&top"
+msgstr "Dừn&g"
+
+#: lib/webtab/searchtoolbar.cpp:151
+#, qt-format
+msgctxt "SearchToolBar|"
+msgid "%1 of %2"
+msgstr "%1 trong số %2"
+
+#: lib/webtab/searchtoolbar.ui:48
+msgctxt "SearchToolbar|"
+msgid "Find..."
+msgstr "Tìm kiếm..."
+
+#: lib/webtab/searchtoolbar.ui:58
+msgctxt "SearchToolbar|"
+msgid "Find the next match for the current search phrase"
+msgstr "Tìm khớp tiếp theo cho cụm từ tìm kiếm hiện tại"
+
+#: lib/webtab/searchtoolbar.ui:61
+msgctxt "SearchToolbar|"
+msgid "&Next"
+msgstr "T&iếp"
+
+#: lib/webtab/searchtoolbar.ui:74
+msgctxt "SearchToolbar|"
+msgid "Find the previous match for the current search phrase"
+msgstr "Tìm kết quả trước đó của cụm từ tìm kiếm hiện tại"
+
+#: lib/webtab/searchtoolbar.ui:77
+msgctxt "SearchToolbar|"
+msgid "&Previous"
+msgstr "Trướ&c"
+
+#: lib/webtab/searchtoolbar.ui:90
+msgctxt "SearchToolbar|"
+msgid "&Match Case"
+msgstr "Phân b&iệt chữ hoa/thường"
+
+#: lib/webtab/tabbedwebview.cpp:194
+msgctxt "TabbedWebView|"
+msgid "Inspect Element"
+msgstr "Kiểm tra phần tử"
+
+#: lib/webtab/webtab.cpp:624
+#, qt-format
+msgctxt "WebTab|"
+msgid "%1 - Falkon"
+msgstr "%1 - Falkon"

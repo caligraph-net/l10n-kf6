@@ -1,0 +1,353 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-sdk package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-sdk\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-03-15 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: package/contents/ui/ColorEditor.qml:38
+#, kde-format
+msgid "Edit Colors"
+msgstr "Sửa Màu"
+
+#: package/contents/ui/ColorEditor.qml:67
+#, kde-format
+msgid "Select Color"
+msgstr "Chọn Màu"
+
+#: package/contents/ui/ColorEditor.qml:115
+#, kde-format
+msgid "Normal text"
+msgstr "Văn bản bình thường"
+
+#: package/contents/ui/ColorEditor.qml:121
+#, kde-format
+msgid "Link"
+msgstr "Liên kết"
+
+#: package/contents/ui/ColorEditor.qml:125
+#, kde-format
+msgid "Visited Link"
+msgstr "Liên kết đã truy cập"
+
+#: package/contents/ui/ColorEditor.qml:148
+#, kde-format
+msgid "Complementary colors area:"
+msgstr "Khu vực màu bổ sung:"
+
+#: package/contents/ui/ColorEditor.qml:163
+#, kde-format
+msgid "Label"
+msgstr "nhãn"
+
+#: package/contents/ui/ColorEditor.qml:186
+#, kde-format
+msgid "Text color:"
+msgstr "Màu chữ:"
+
+#: package/contents/ui/ColorEditor.qml:193
+#, kde-format
+msgid "Background color:"
+msgstr "Màu nền:"
+
+#: package/contents/ui/ColorEditor.qml:200
+#, kde-format
+msgid "Highlight color:"
+msgstr "Màu tô sáng:"
+
+#: package/contents/ui/ColorEditor.qml:207
+#, kde-format
+msgid "Link color:"
+msgstr "Màu liên kết:"
+
+#: package/contents/ui/ColorEditor.qml:214
+#, kde-format
+msgid "Visited link color:"
+msgstr "Màu liên kết đã truy cập:"
+
+#: package/contents/ui/ColorEditor.qml:222
+#, kde-format
+msgid "Button text color:"
+msgstr "Màu văn bản nút:"
+
+#: package/contents/ui/ColorEditor.qml:229
+#, kde-format
+msgid "Button background color:"
+msgstr "Màu nền nút:"
+
+#: package/contents/ui/ColorEditor.qml:236
+#, kde-format
+msgid "Button mouse over color:"
+msgstr "Màu di chuột qua nút:"
+
+#: package/contents/ui/ColorEditor.qml:243
+#, kde-format
+msgid "Button focus color:"
+msgstr "Màu nút khi được chọn:"
+
+#: package/contents/ui/ColorEditor.qml:251
+#, kde-format
+msgid "Text view text color:"
+msgstr "Màu văn bản của khung xem:"
+
+#: package/contents/ui/ColorEditor.qml:258
+#, kde-format
+msgid "Text view background color:"
+msgstr "Màu nền của khung xem văn bản:"
+
+#: package/contents/ui/ColorEditor.qml:265
+#, kde-format
+msgid "Text view mouse over color:"
+msgstr "Màu di chuột qua văn bản:"
+
+#: package/contents/ui/ColorEditor.qml:272
+#, kde-format
+msgid "Text view focus color:"
+msgstr "Màu nhắm khung xem văn bản:"
+
+#: package/contents/ui/ColorEditor.qml:280
+#, kde-format
+msgid "Complementary text color:"
+msgstr "Màu văn bản bổ sung:"
+
+#: package/contents/ui/ColorEditor.qml:287
+#, kde-format
+msgid "Complementary background color:"
+msgstr "Màu nền bổ sung:"
+
+#: package/contents/ui/ColorEditor.qml:294
+#, kde-format
+msgid "Complementary mouse over color:"
+msgstr "Màu bổ sung khi di chuột:"
+
+#: package/contents/ui/ColorEditor.qml:301
+#, kde-format
+msgid "Complementary focus color:"
+msgstr "Màu nhắm bổ sung:"
+
+#: package/contents/ui/ColorEditor.qml:313
+#: package/contents/ui/MetadataEditor.qml:137
+#, kde-format
+msgid "OK"
+msgstr "Đồng ý"
+
+#: package/contents/ui/ColorEditor.qml:318
+#: package/contents/ui/MetadataEditor.qml:143
+#, kde-format
+msgid "Cancel"
+msgstr "huỷ"
+
+#: package/contents/ui/delegates/actionbutton.qml:35
+#: package/contents/ui/delegates/actionbutton.qml:39
+#: package/contents/ui/delegates/checkmarks.qml:31
+#: package/contents/ui/delegates/checkmarks.qml:35
+#: package/contents/ui/delegates/checkmarks.qml:39
+#: package/contents/ui/delegates/checkmarks.qml:43
+#, kde-format
+msgid "Option"
+msgstr "Lựa chọn"
+
+#: package/contents/ui/delegates/button.qml:27
+#, kde-format
+msgid "ToolButton"
+msgstr "Nút công cụ"
+
+#: package/contents/ui/delegates/button.qml:31
+#: package/contents/ui/fakecontrols/Button.qml:28
+#, kde-format
+msgid "Button"
+msgstr "Nút"
+
+#: package/contents/ui/delegates/tabbar.qml:29
+#, kde-format
+msgid "Tab1"
+msgstr "Tab1"
+
+#: package/contents/ui/delegates/tabbar.qml:32
+#, kde-format
+msgid "Tab2"
+msgstr "Tab2"
+
+#: package/contents/ui/delegates/tabbar.qml:35
+#, kde-format
+msgid "Tab3"
+msgstr "Tab3"
+
+#: package/contents/ui/delegates/textfield.qml:28
+#, kde-format
+msgid "Text"
+msgstr "Văn bản"
+
+#: package/contents/ui/fakecontrols/CheckBox.qml:69
+#, kde-format
+msgid "Checkbox"
+msgstr "hộp kiểm"
+
+#: package/contents/ui/fakecontrols/LineEdit.qml:34
+#, kde-format
+msgid "Text input…"
+msgstr "Nhập văn bản..."
+
+#: package/contents/ui/main.qml:32
+#, kde-format
+msgid "New Theme…"
+msgstr "Chủ đề mới..."
+
+#: package/contents/ui/main.qml:48
+#, kde-format
+msgid "Theme:"
+msgstr "Chủ đề:"
+
+#: package/contents/ui/main.qml:60
+#, kde-format
+msgid "Open Folder"
+msgstr "Mở Thư Mục"
+
+#: package/contents/ui/main.qml:65
+#, kde-format
+msgid "Edit Metadata…"
+msgstr "Sửa Siêu dữ liệu..."
+
+#: package/contents/ui/main.qml:82
+#, kde-format
+msgid "Edit Colors…"
+msgstr "Sửa Màu Sắc..."
+
+#: package/contents/ui/main.qml:98
+#, kde-format
+msgid "Help"
+msgstr "trợ giúp"
+
+#: package/contents/ui/main.qml:103
+#, kde-format
+msgid "Search…"
+msgstr "Tìm kiếm..."
+
+#: package/contents/ui/main.qml:222
+#, kde-format
+msgid "This is a readonly, system wide installed theme"
+msgstr "Đây là một chủ đề chỉ đọc, được cài đặt trên toàn hệ thống"
+
+#: package/contents/ui/main.qml:227
+#, kde-format
+msgid "Preview:"
+msgstr "Xem trước:"
+
+#: package/contents/ui/main.qml:242
+#, kde-format
+msgid "None"
+msgstr "Không"
+
+#: package/contents/ui/main.qml:242
+#, kde-format
+msgid "Image path: %1"
+msgstr "Đường dẫn ảnh: %1"
+
+#: package/contents/ui/main.qml:247
+#, kde-format
+msgid "Description: %1"
+msgstr "Mô tả: %1"
+
+#: package/contents/ui/main.qml:252
+#, kde-format
+msgid "Missing from this theme"
+msgstr "Thiếu trong chủ đề này"
+
+#: package/contents/ui/main.qml:252
+#, kde-format
+msgid "Present in this theme"
+msgstr "Hiện diện trong chủ đề này"
+
+#: package/contents/ui/main.qml:257
+#, kde-format
+msgid "Show Margins"
+msgstr "Hiện Lề"
+
+#: package/contents/ui/main.qml:260
+#, kde-format
+msgid "Create with Editor…"
+msgstr "Tạo với Trình chỉnh sửa..."
+
+#: package/contents/ui/main.qml:260
+#, kde-format
+msgid "Open In Editor…"
+msgstr "Mở trong Trình soạn thảo..."
+
+#: package/contents/ui/MetadataEditor.qml:24
+#, kde-format
+msgid "New Theme"
+msgstr "Chủ đề mới"
+
+#: package/contents/ui/MetadataEditor.qml:24
+#, kde-format
+msgid "Edit Theme"
+msgstr "Sửa Chủ Đề"
+
+#: package/contents/ui/MetadataEditor.qml:59
+#, kde-format
+msgid "Warning: don't change author or license for themes you don't own"
+msgstr ""
+"Cảnh báo: không thay đổi tác giả hoặc cấp phép cho các chủ đề mà bạn không "
+"sở hữu"
+
+#: package/contents/ui/MetadataEditor.qml:70
+#, kde-format
+msgid "Theme Name:"
+msgstr "Tên chủ đề:"
+
+#: package/contents/ui/MetadataEditor.qml:86
+#, kde-format
+msgid "This theme name already exists"
+msgstr "Tên chủ đề này đã tồn tại"
+
+#: package/contents/ui/MetadataEditor.qml:95
+#, kde-format
+msgid "Author:"
+msgstr "Tác giả:"
+
+#: package/contents/ui/MetadataEditor.qml:103
+#, kde-format
+msgid "Email:"
+msgstr "Email:"
+
+#: package/contents/ui/MetadataEditor.qml:111
+#, kde-format
+msgid "License:"
+msgstr "Giấy phép:"
+
+#: package/contents/ui/MetadataEditor.qml:122
+#, kde-format
+msgid "Website:"
+msgstr "Trang web:"
+
+#: src/main.cpp:37
+#, kde-format
+msgid "Plasma Theme Explorer"
+msgstr "Trình khám phá chủ đề Plasma"
+
+#: src/main.cpp:41
+#, kde-format
+msgid "The theme to open"
+msgstr "Chủ đề để mở"

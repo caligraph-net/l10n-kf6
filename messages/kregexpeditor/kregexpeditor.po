@@ -1,0 +1,1103 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kregexpeditor package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kregexpeditor\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-04-01 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: altnwidget.cpp:25 altnwidget.cpp:34 regexpbuttons.cpp:84
+#, kde-format
+msgid "Alternatives"
+msgstr "Các phương án"
+
+#: altnwidget.cpp:206
+#, kde-format
+msgid "Selecting several alternatives is currently not supported."
+msgstr "Hiện tại không hỗ trợ chọn nhiều phương án thay thế."
+
+#: altnwidget.cpp:208
+#, kde-format
+msgid "Selection Invalid"
+msgstr "Phần bôi đen không hợp lệ"
+
+#: characterswidget.cpp:102
+#, kde-format
+msgid "- A word character\n"
+msgstr "- Một ký tự từ\n"
+
+#: characterswidget.cpp:106
+#, kde-format
+msgid "- A non-word character\n"
+msgstr "- Một ký tự không phải từ\n"
+
+#: characterswidget.cpp:110
+#, kde-format
+msgid "- A digit character\n"
+msgstr "- Một ký tự số\n"
+
+#: characterswidget.cpp:114
+#, kde-format
+msgid "- A non-digit character\n"
+msgstr "- Một ký tự không phải số\n"
+
+#: characterswidget.cpp:118
+#, kde-format
+msgid "- A space character\n"
+msgstr "- Một ký tự khoảng trắng\n"
+
+#: characterswidget.cpp:122
+#, kde-format
+msgid "- A non-space character\n"
+msgstr "- Một ký tự không phải khoảng trắng\n"
+
+#: characterswidget.cpp:137
+#, kde-format
+msgctxt "a range of characters"
+msgid "- from %1 to %2\n"
+msgstr "- từ %1 đến %2\n"
+
+#: characterswidget.cpp:145
+#, kde-format
+msgid "Any Character Except"
+msgstr "Bất kỳ kí tự nào ngoài"
+
+#: characterswidget.cpp:147
+#, kde-format
+msgid "One of Following Characters"
+msgstr "Một trong các ký tự sau"
+
+#: characterswidget.cpp:265
+#, kde-format
+msgid "Specify Characters"
+msgstr "Chỉ định Ký tự"
+
+#: characterswidget.cpp:275
+#, kde-format
+msgid "Do not match the characters specified here"
+msgstr "Không khớp với các ký tự được chỉ định ở đây"
+
+#: characterswidget.cpp:279
+#, kde-format
+msgid "Predefined Character Ranges"
+msgstr "Phạm vi kí tự sẵn có"
+
+#: characterswidget.cpp:283
+#, kde-format
+msgid "A word character"
+msgstr "Một chữ"
+
+#: characterswidget.cpp:285
+#, kde-format
+msgid "A digit character"
+msgstr "Một chữ số"
+
+#: characterswidget.cpp:287
+#, kde-format
+msgid "A space character"
+msgstr "Một kí tự khoảng trắng"
+
+#: characterswidget.cpp:290
+#, kde-format
+msgid "A non-word character"
+msgstr "Một kí tự không phải từ"
+
+#: characterswidget.cpp:292
+#, kde-format
+msgid "A non-digit character"
+msgstr "Một kí tự không phải là số"
+
+#: characterswidget.cpp:294
+#, kde-format
+msgid "A non-space character"
+msgstr "Một kí tự không phải khoảng trắng"
+
+#: characterswidget.cpp:298
+#, kde-format
+msgid "Single Characters"
+msgstr "Ký tự đơn"
+
+#: characterswidget.cpp:310 characterswidget.cpp:331
+#, kde-format
+msgid "More Entries"
+msgstr "Thêm mục"
+
+#: characterswidget.cpp:318
+#, kde-format
+msgid "Character Ranges"
+msgstr "Phạm vi kí tự"
+
+#: characterswidget.cpp:412
+#, kde-format
+msgid "From:"
+msgstr "Từ:"
+
+#: characterswidget.cpp:419
+#, kde-format
+msgctxt "end of range"
+msgid "To:"
+msgstr "Đến:"
+
+#: charselector.cpp:49
+#, kde-format
+msgid "Normal Character"
+msgstr "Kí tự thông thường"
+
+#: charselector.cpp:49
+#, kde-format
+msgid "Unicode Char in Hex."
+msgstr "Mã Unicode theo hệ thập lục phân."
+
+#: charselector.cpp:49
+#, kde-format
+msgid "Unicode Char in Oct."
+msgstr "Kí tự Unicode ở dạng Bát phân"
+
+#: charselector.cpp:50
+#, kde-format
+msgid "The Bell Character (\\a)"
+msgstr "Kí tự Chuông (\\a)"
+
+#: charselector.cpp:50
+#, kde-format
+msgid "The Form Feed Character (\\f)"
+msgstr "Kí tự Xuống Trang (\\f)"
+
+#: charselector.cpp:50
+#, kde-format
+msgid "The Line Feed Character (\\n)"
+msgstr "Kí tự Xuống Dòng (\\n)"
+
+#: charselector.cpp:51
+#, kde-format
+msgid "The Carriage Return Character (\\r)"
+msgstr "Kí tự Xuống Dòng (\\r)"
+
+#: charselector.cpp:51
+#, kde-format
+msgid "The Horizontal Tab Character (\\t)"
+msgstr "Kí tự Tab Ngang (\\t)"
+
+#: charselector.cpp:51
+#, kde-format
+msgid "The Vertical Tab Character (\\v)"
+msgstr "Kí tự Tab Dọc (\\v)"
+
+#: compoundwidget.cpp:35
+#, kde-format
+msgid "&Title:"
+msgstr "&Tiêu đề:"
+
+#: compoundwidget.cpp:41
+#, kde-format
+msgid "&Description:"
+msgstr "&Mô tả:"
+
+#: compoundwidget.cpp:47
+#, kde-format
+msgid "&Automatically replace using this item"
+msgstr "Tự độ&ng thay thế bằng mục này"
+
+#: compoundwidget.cpp:50
+#, kde-format
+msgid ""
+"When the content of this box is typed in to the ASCII line,<br />this box "
+"will automatically be added around it,<br />if this check box is selected."
+msgstr ""
+"Khi nội dung của hộp này được gõ vào dòng ASCII,<br />hộp này sẽ tự động "
+"được thêm vào xung quanh nó,<br />nếu hộp kiểm này được chọn."
+
+#: compoundwidget.cpp:115
+#, kde-format
+msgid "Configure Compound"
+msgstr "Cấu hình Compound"
+
+#: emacsregexpconverter.cpp:66
+#, kde-format
+msgid "Look ahead regular expressions not supported in Emacs style"
+msgstr "Biểu thức chính quy dự đoán không được hỗ trợ trong kiểu cách Emacs"
+
+#: emacsregexpconverter.cpp:171
+#, kde-format
+msgid "Word boundary and non word boundary is not supported in Emacs syntax"
+msgstr ""
+"Ranh giới từ và không phải ranh giới từ không được hỗ trợ trong cú pháp "
+"Emacs"
+
+#: errormap.cpp:37
+#, kde-format
+msgid ""
+"Your regular expression is invalid, due to something preceding a 'line "
+"start'."
+msgstr ""
+"Biểu thức chính quy của bạn không hợp lệ, do có một cái gì đó đứng trước "
+"'bắt đầu dòng'."
+
+#: errormap.cpp:38 errormap.cpp:49 errormap.cpp:60
+#, kde-format
+msgid "Regular Expression Error"
+msgstr "Lỗi Biểu thức Chính quy"
+
+#: errormap.cpp:48
+#, kde-format
+msgid ""
+"Your regular expression is invalid, due to something following a 'line end'."
+msgstr ""
+"Biểu thức chính quy của bạn không hợp lệ, do có một cái gì đó theo sau 'kết "
+"thúc dòng'."
+
+#: errormap.cpp:59
+#, kde-format
+msgid ""
+"Your regular expression is invalid. 'Look Ahead' regular expression must be "
+"the last sub expression."
+msgstr ""
+"Biểu thức chính quy của bạn không hợp lệ. Biểu thức chính quy 'Look Ahead' "
+"phải là biểu thức con cuối cùng."
+
+#: infopage.cpp:22
+#, kde-format
+msgctxt ""
+"Translators, feel free to add yourself in the text below, asking for a "
+"postcard ;-), also feel free to add a section saying <h2>Translators</h2>. "
+"Kind regards, and thanks for your work - Jesper."
+msgid ""
+"<h1>Regular Expression Editor</h1><p>What you are currently looking at is an "
+"editor for <i>Regular Expressions</i>.</p><p>The upper part in the middle is "
+"the editing area, the lower part is a verification window where you can try "
+"your regular expressions right away. The row of buttons is the editing "
+"actions. This is actually very similar to common drawing programs. Select an "
+"editing tool to start editing your regular expression, and press the mouse "
+"button in the editing area where you want this item inserted.</p><p>For a "
+"more detailed description of this editor see the <a href=\"doc://\">info "
+"pages</a></p><h2>What is a regular expression?</h2>If you do not know what a "
+"regular expression is, then it might be a good idea to read <a href=\"doc://"
+"whatIsARegExp\">the introduction to regular expressions</a>.<br />"
+msgstr ""
+"<h1>Trình biên tập Biểu thức Chính quy</h1><p>Những gì bạn đang xem là một "
+"trình biên tập cho <i>Biểu thức Chính quy</i>.</p><p>Phần trên ở giữa là "
+"vùng chỉnh sửa, phần dưới là cửa sổ xác minh nơi bạn có thể thử ngay biểu "
+"thức chính quy của mình. Hàng các nút là các thao tác chỉnh sửa. Điều này "
+"thực sự rất giống với các chương trình vẽ thông thường. Chọn một công cụ "
+"chỉnh sửa để bắt đầu chỉnh sửa biểu thức chính quy của bạn, và nhấn nút "
+"chuột vào vùng chỉnh sửa nơi bạn muốn chèn mục này.</p><p>Để có mô tả chi "
+"tiết hơn về trình biên tập này, xem <a href=\"doc://\">trang thông "
+"tin</a></p><h2>Biểu thức chính quy là gì?</h2>Nếu bạn không biết biểu thức "
+"chính quy là gì, thì có lẽ nên đọc <a href=\"doc://whatIsARegExp\">phần "
+"giới thiệu về biểu thức chính quy</a>.<br />"
+
+#: KMultiFormListBox/ccp.cpp:58
+#, kde-format
+msgid "Cut"
+msgstr "Cắt"
+
+#: KMultiFormListBox/ccp.cpp:59 KMultiFormListBox/kmultiformlistbox-windowed.cpp:59
+#, kde-format
+msgid "Copy"
+msgstr "Sao chép"
+
+#: KMultiFormListBox/ccp.cpp:60
+#, kde-format
+msgid "Paste"
+msgstr "Dán"
+
+#: KMultiFormListBox/ccp.cpp:61
+#, kde-format
+msgid "Insert Blank"
+msgstr "Chèn Trống"
+
+#: KMultiFormListBox/kmultiformlistbox-multivisible.cpp:244
+#, kde-format
+msgid "Due to a bug, it is not possible to remove the last element."
+msgstr "Do lỗi, không thể xoá bỏ phần tử cuối cùng."
+
+#: KMultiFormListBox/kmultiformlistbox-multivisible.cpp:244
+#, kde-format
+msgid "Internal Error"
+msgstr "Lỗi nội bộ"
+
+#: KMultiFormListBox/kmultiformlistbox-multivisible.cpp:266
+#, kde-format
+msgid "There is no element on the clipboard to paste in."
+msgstr "Không có phần tử nào trên bảng nháp để dán."
+
+#: KMultiFormListBox/kmultiformlistbox-windowed.cpp:46
+#, kde-format
+msgid "Edit"
+msgstr "Sửa"
+
+#: KMultiFormListBox/kmultiformlistbox-windowed.cpp:53
+#: userdefinedregexps.cpp:142
+#, kde-format
+msgid "Delete"
+msgstr "Xóa"
+
+#: KMultiFormListBox/kmultiformlistbox-windowed.cpp:66
+#, kde-format
+msgid "Up"
+msgstr "Lên"
+
+#: KMultiFormListBox/kmultiformlistbox-windowed.cpp:72
+#, kde-format
+msgid "Down"
+msgstr "Xuống"
+
+#: KMultiFormListBox/kmultiformlistbox-windowed.cpp:152
+#, kde-format
+msgid "Delete item \"%1\"?"
+msgstr "Xóa mục \"%1\"?"
+
+#: KMultiFormListBox/kmultiformlistbox-windowed.cpp:152
+#, kde-format
+msgid "Delete Item"
+msgstr "Xóa mục"
+
+#: KMultiFormListBox/kmultiformlistbox.h:60
+#, kde-format
+msgid "Add"
+msgstr "Thêm"
+
+#: KMultiFormListBox/widgetwindow.cpp:35
+#, kde-format
+msgid "Widget Configuration"
+msgstr "Cấu hình Phụ kiện"
+
+#: kregexpeditorprivate.cpp:48
+#, kde-format
+msgid "Compound regular expression:"
+msgstr "Biểu thức chính quy phức hợp:"
+
+#: kregexpeditorprivate.cpp:50
+#, kde-format
+msgid ""
+"In this window you will find predefined regular expressions. Both regular "
+"expressions you have developed and saved, and regular expressions shipped "
+"with the system."
+msgstr ""
+"Trong cửa sổ này, bạn sẽ tìm thấy các biểu thức chính quy được định nghĩa "
+"trước. Cả những biểu thức chính quy mà bạn đã phát triển và lưu, và những "
+"biểu thức chính quy được cung cấp cùng với hệ thống."
+
+#: kregexpeditorprivate.cpp:60
+#, kde-format
+msgid ""
+"In this window you will develop your regular expressions. Select one of the "
+"actions from the action buttons above, and click the mouse in this window to "
+"insert the given action."
+msgstr ""
+"Trong cửa sổ này, bạn sẽ phát triển các biểu thức chính quy của mình. Hãy "
+"chọn một trong các hành động từ các nút hành động ở trên, và bấm chuột vào "
+"cửa sổ này để chèn hành động đã cho."
+
+#: kregexpeditorprivate.cpp:69
+#, kde-format
+msgid ""
+"<p>Type in some text in this window, and see what the regular expression you "
+"have developed matches.</p><p>Each second match will be colored in red and "
+"each other match will be colored blue, simply so you can distinguish them "
+"from each other.</p><p>If you select part of the regular expression in the "
+"editor window, then this part will be highlighted - This allows you to "
+"<i>debug</i> your regular expressions</p>"
+msgstr ""
+"<p>Nhập một số văn bản vào cửa sổ này và xem biểu thức chính quy bạn đã "
+"phát triển khớp với những gì.</p><p>Mỗi lần khớp thứ hai sẽ được tô màu đỏ "
+"và mỗi lần khớp khác sẽ được tô màu xanh, đơn giản để bạn có thể phân biệt "
+"chúng với nhau.</p><p>Nếu bạn bôi đen một phần của biểu thức chính quy "
+"trong cửa sổ trình biên tập, thì phần đó sẽ được làm nổi bật - Điều này cho "
+"phép bạn <i>gỡ lỗi</i> các biểu thức chính quy của mình</p>"
+
+#: kregexpeditorprivate.cpp:110
+#, kde-format
+msgid "ASCII syntax:"
+msgstr "Cú pháp ASCII:"
+
+#: kregexpeditorprivate.cpp:124
+#, kde-format
+msgid ""
+"<p>This is the regular expression in ASCII syntax. You are likely only to be "
+"interested in this if you are a programmer, and need to develop a regular "
+"expression using QRegExp.</p><p>You may develop your regular expression both "
+"by using the graphical editor, and by typing the regular expression in this "
+"line edit.</p>"
+msgstr ""
+"<p>Đây là biểu thức chính quy trong cú pháp ASCII. Bạn có thể chỉ quan tâm "
+"đến điều này nếu bạn là một lập trình viên và cần phát triển một biểu thức "
+"chính quy sử dụng QRegExp.</p><p>Bạn có thể phát triển biểu thức chính quy "
+"của mình bằng cách sử dụng trình soạn thảo đồ họa và bằng cách nhập biểu "
+"thức chính quy vào ô nhập liệu này.</p>"
+
+#: kregexpeditorprivate.cpp:348
+#, kde-format
+msgid "Could not open file '%1' for reading"
+msgstr "Không thể mở tệp '%1' để đọc"
+
+#: kregexpeditorwindow.cpp:35
+#, kde-format
+msgctxt "@title:window"
+msgid "Regular Expression Editor"
+msgstr "Trình biên tập biểu thức chính quy"
+
+#: kregexpeditorwindow.cpp:84
+#, kde-format
+msgid "Verify regular expression"
+msgstr "Xác minh biểu thức chính quy"
+
+#: kregexpeditorwindow.cpp:90
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Load text"
+msgstr "Tải văn bản"
+
+#: kregexpeditorwindow.cpp:91
+#, kde-format
+msgid "Load text in the verifier window"
+msgstr "Tải văn bản vào cửa sổ trình xác minh"
+
+#: kregexpeditorwindow.cpp:101
+#, kde-format
+msgid "Verify on the Fly"
+msgstr "Xác minh Ngay Lập Tức"
+
+#: kregexpeditorwindow.cpp:108
+#, kde-format
+msgid "Toggle on-the-fly verification of regular expression"
+msgstr "Bật/tắt xác minh thời gian thực của biểu thức chính quy"
+
+#: kregexpeditorwindow.cpp:110
+#, kde-format
+msgid ""
+"Enabling this option will make the verifier update for each edit. If the "
+"verify window contains much text, or if the regular expression is either "
+"complex or matches a lot of time, this may be very slow."
+msgstr ""
+"Kích hoạt tùy chọn này sẽ khiến bộ xác minh cập nhật sau mỗi lần chỉnh sửa. "
+"Nếu cửa sổ xác minh chứa nhiều văn bản, hoặc nếu biểu thức chính quy phức "
+"tạp hoặc khớp với nhiều thời gian, việc này có thể rất chậm."
+
+#: kregexpeditorwindow.cpp:115
+#, kde-format
+msgid "Match Greedy"
+msgstr "Khớp tham lam"
+
+#: kregexpeditorwindow.cpp:122
+#, kde-format
+msgid "Toggle greedy matching when verifying the regular expression."
+msgstr "Bật/tắt khớp tham lam khi xác minh biểu thức chính quy."
+
+#: kregexpeditorwindow.cpp:123
+#, kde-format
+msgid ""
+"When this option is enabled, the regular expression will be evaluated on a "
+"so-called greedy way."
+msgstr ""
+"Khi lựa chọn này được bật, biểu thức chính quy sẽ được đánh giá theo cách "
+"\"tham lam\"."
+
+#: kregexpeditorwindow.cpp:126
+#, kde-format
+msgctxt "@title:menu"
+msgid "RegExp Languages"
+msgstr "Ngôn ngữ RegExp"
+
+#: lookaheadwidget.cpp:39
+#, kde-format
+msgid "Pos. Look Ahead"
+msgstr "Vị trí Nhìn Trước"
+
+#: lookaheadwidget.cpp:41
+#, kde-format
+msgid "Neg. Look Ahead"
+msgstr "Xem trước âm"
+
+#: main.cpp:28
+#, kde-format
+msgid "RegExp Editor"
+msgstr "Trình biên tập biểu thức chính quy"
+
+#: main.cpp:30
+#, kde-format
+msgid "Editor for Regular Expressions"
+msgstr "Trình biên tập Biểu thức chính quy"
+
+#: main.cpp:32
+#, kde-format
+msgid "(c) 2002-2003 Jesper K. Pedersen"
+msgstr "(c) 2002-2003 Jesper K. Pedersen"
+
+#: main.cpp:33
+#, kde-format
+msgid "Laurent Montel"
+msgstr "Laurent Montel"
+
+#: main.cpp:33
+#, kde-format
+msgid "Developer"
+msgstr "nhà phát triển"
+
+#: main.cpp:34
+#, kde-format
+msgctxt "@info:credit"
+msgid "Carl Schwan"
+msgstr "Carl Schwan"
+
+#: main.cpp:35
+#, kde-format
+msgctxt "@info:credit"
+msgid "Port to Qt6"
+msgstr "Chuyển sang Qt6"
+
+#: predefined/General/anything.regexp:5
+#, kde-format
+msgid "anything"
+msgstr "bất cứ thứ gì"
+
+#: predefined/General/anything.regexp:6
+#, kde-format
+msgid "This regular expression matches anything."
+msgstr "Biểu thức chính quy này khớp với bất cứ thứ gì."
+
+#: predefined/General/spaces.regexp:5
+#, kde-format
+msgid "spaces"
+msgstr "khoảng trắng"
+
+#: predefined/General/spaces.regexp:6
+#, kde-format
+msgid "Matches an arbitrary amount of whitespace."
+msgstr "Khớp với một lượng khoảng trắng tùy ý."
+
+#: qregexpparser.y:205
+#, kde-format
+msgid ""
+"<p>Back reference regular expressions are not supported.</p><p><tt>\\1</tt>, "
+"<tt>\\2</tt>, ... are <i>back references</i>, meaning they refer to previous "
+"matches. Unfortunately this is not supported in the current version of this "
+"editor.</p><p>In the graphical area the text <b>%1</b> has been inserted. "
+"This is however just a workaround to ensure that the application handles the "
+"regexp at all. Therefore, as soon as you edit the regular expression in the "
+"graphical area, the back reference will be replaced by matching the text <b>"
+"%2</b> literally.</p>"
+msgstr ""
+"<p>Biểu thức chính quy tham chiếu ngược không được hỗ "
+"trợ.</p><p><tt>\\1</tt>, <tt>\\2</tt>, ... là <i>tham chiếu ngược</i>, "
+"nghĩa là chúng tham chiếu đến các kết quả khớp trước đó. Tiếc rằng điều này "
+"không được hỗ trợ trong phiên bản hiện tại của trình sửa này.</p><p>Trong "
+"vùng đồ họa, văn bản <b>%1</b> đã được chèn vào. Tuy nhiên, đây chỉ là một "
+"giải pháp tạm thời để đảm bảo ứng dụng xử lý được btcq. Do đó, ngay khi bạn "
+"sửa biểu thức chính quy trong vùng đồ họa, tham chiếu ngược sẽ được thay "
+"thế bằng việc khớp chính xác văn bản <b>%2</b>.</p>"
+
+#: qregexpparser.y:214
+#, kde-format
+msgid "Back reference regular expressions not supported"
+msgstr "Không hỗ trợ biểu thức chính quy tham chiếu ngược"
+
+#: regexpbuttons.cpp:38
+#, kde-format
+msgid "Selection tool"
+msgstr "Công cụ phần bôi đen"
+
+#: regexpbuttons.cpp:40
+#, kde-format
+msgid ""
+"<p>This will change the state of the editor to <i>selection state</i>.</"
+"p><p>In this state you will not be inserting <i>regexp items</i>, but "
+"instead select them. To select a number of items, press down the left mouse "
+"button and drag it over the items.</p><p>When you have selected a number of "
+"items, you may use cut/copy/paste. These functions are found in the right "
+"mouse button menu.</p>"
+msgstr ""
+"<p>Điều này sẽ thay đổi trạng thái của trình biên tập thành <i>trạng thái "
+"bôi đen</i>.</p><p>Trong trạng thái này, bạn sẽ không chèn <i>các mục biểu "
+"thức chính quy</i>, mà thay vào đó bôi đen chúng. Để bôi đen một số mục, "
+"nhấn giữ nút chuột trái và kéo qua các mục.</p><p>Khi bạn đã bôi đen một số "
+"mục, bạn có thể sử dụng cắt/sao chép/dán. Các chức năng này được tìm thấy "
+"trong menu chuột phải.</p>"
+
+#: regexpbuttons.cpp:51
+#, kde-format
+msgid "Text"
+msgstr "Văn bản"
+
+#: regexpbuttons.cpp:52
+#, kde-format
+msgid ""
+"<qt>This will insert a text field, where you may write text. The text you "
+"write will be matched literally. (i.e. you do not need to escape any "
+"characters)</qt>"
+msgstr ""
+"<qt>Thao tác này sẽ chèn một trường văn bản, nơi bạn có thể viết nội dung. "
+"Văn bản bạn viết sẽ được so khớp theo đúng nghĩa đen. (nghĩa là bạn không "
+"cần phải chuyển dịch bất kỳ ký tự nào)</qt>"
+
+#: regexpbuttons.cpp:58
+#, kde-format
+msgid "A single character specified in a range"
+msgstr "Một kí tự được chỉ định trong một phạm vi"
+
+#: regexpbuttons.cpp:59
+#, kde-format
+msgid ""
+"<p>This will match a single character from a predefined range.</p><p>When "
+"you insert this widget a dialog box will appear, which lets you specify "
+"which characters this <i>regexp item</i> will match.</p>"
+msgstr ""
+"<p>Điều này sẽ khớp với một kí tự đơn từ một phạm vi được xác định "
+"trước.</p><p>Khi bạn chèn phụ kiện này, một hộp thoại sẽ xuất hiện, cho "
+"phép bạn chỉ định những kí tự nào mà <i>mục biểu thức chính quy</i> này sẽ "
+"khớp.</p>"
+
+#: regexpbuttons.cpp:64
+#, kde-format
+msgid "Any character"
+msgstr "Bất kỳ kí tự"
+
+#: regexpbuttons.cpp:64
+#, kde-format
+msgid "<qt>This will match any single character</qt>"
+msgstr "<qt>Điều này sẽ khớp với bất kỳ ký tự đơn lẻ nào</qt>"
+
+#: regexpbuttons.cpp:69
+#, kde-format
+msgid "Repeated content"
+msgstr "Nội dung lặp lại"
+
+#: regexpbuttons.cpp:70
+#, kde-format
+msgid ""
+"<qt>This <i>regexp item</i> will repeat the <i>regexp items</i> it surrounds "
+"a specified number of times.<br />The number of times to repeat may be "
+"specified using ranges; e.g. it could be specified that it should match from "
+"2 to 4 times, that it should match exactly 5 times, or that it should match "
+"at least one time.<br />Examples:<br />If you specify that it should match "
+"<i>any</i> time, and the content it surrounds is <tt>abc</tt>, then this "
+"<i>regexp item</i> will match the empty string, the string <tt>abc</tt>, the "
+"string <tt>abcabc</tt>, the string <tt>abcabcabcabc</tt>, etc.</qt>"
+msgstr ""
+"<qt>Mục <i>biểu thức chính quy</i> này sẽ lặp lại các <i>mục biểu thức "
+"chính quy</i> mà nó bao quanh một số lần được chỉ định.<br />Số lần lặp lại "
+"có thể được chỉ định bằng cách sử dụng phạm vi; vd., có thể chỉ định rằng "
+"nó nên khớp từ 2 đến 4 lần, khớp chính xác 5 lần, hoặc khớp ít nhất một "
+"lần.<br />Ví dụ:<br />Nếu bạn chỉ định rằng nó nên khớp <i>bất kỳ</i> lần "
+"nào, và nội dung mà nó bao quanh là <tt>abc</tt>, thì <i>mục biểu thức "
+"chính quy</i> này sẽ khớp với chuỗi rỗng, chuỗi <tt>abc</tt>, chuỗi "
+"<tt>abcabc</tt>, chuỗi <tt>abcabcabcabc</tt>, v.v.</qt>"
+
+#: regexpbuttons.cpp:85
+#, kde-format
+msgid ""
+"<p>This <i>regexp item</i> will match any of its alternatives.</"
+"p><p>Alternatives are specified by placing <i>regexp items</i> on top of "
+"each other inside this widget.</p>"
+msgstr ""
+"<p>Mục <i>biểu thức chính quy</i> này sẽ khớp với bất kỳ lựa chọn nào của "
+"nó.</p><p>Các lựa chọn được chỉ định bằng cách đặt các <i>mục biểu thức "
+"chính quy</i> chồng lên nhau bên trong tiện ích này.</p>"
+
+#: regexpbuttons.cpp:92
+#, kde-format
+msgid "Compound regexp"
+msgstr "Biểu thức chính quy phức hợp"
+
+#: regexpbuttons.cpp:93
+#, kde-format
+msgid ""
+"<qt>This <i>regexp item</i> serves two purposes:<ul><li>It makes it possible "
+"for you to collapse a huge <i>regexp item</i> into a small box. This makes "
+"it easier for you to get an overview of large <i>regexp items</i>. This is "
+"especially useful if you load a predefined <i>regexp item</i> that you "
+"perhaps do not care about the inner workings of.</qt>"
+msgstr ""
+"<qt>Mục <i>biểu thức chính quy</i> này phục vụ hai mục đích:<ul><li>Nó cho "
+"phép bạn thu gọn một <i>mục biểu thức chính quy</i> lớn thành một hộp nhỏ. "
+"Điều này giúp bạn dễ dàng có cái nhìn tổng quan về các <i>mục biểu thức "
+"chính quy</i> lớn. Điều này đặc biệt hữu ích nếu bạn tải một <i>mục biểu "
+"thức chính quy</i> được định nghĩa trước mà có thể bạn không quan tâm đến "
+"cách hoạt động bên trong của nó.</qt>"
+
+#: regexpbuttons.cpp:100
+#, kde-format
+msgid "Beginning of line"
+msgstr "Đầu dòng"
+
+#: regexpbuttons.cpp:100
+#, kde-format
+msgid "<qt>This will match the beginning of a line.</qt>"
+msgstr "<qt>Điều này sẽ khớp với phần đầu của một dòng.</qt>"
+
+#: regexpbuttons.cpp:103
+#, kde-format
+msgid "End of line"
+msgstr "Cuối dòng"
+
+#: regexpbuttons.cpp:103
+#, kde-format
+msgid "<qt>This will match the end of a line.</qt>"
+msgstr "<qt>Điều này sẽ khớp với cuối dòng.</qt>"
+
+#: regexpbuttons.cpp:108
+#, kde-format
+msgid "Word boundary"
+msgstr "Ranh giới từ"
+
+#: regexpbuttons.cpp:109
+#, kde-format
+msgid ""
+"<qt>This asserts a word boundary (This part does not actually match any "
+"characters)</qt>"
+msgstr ""
+"<qt>Điều này khẳng định một ranh giới từ (Phần này thực sự không khớp với "
+"bất kỳ ký tự nào)</qt>"
+
+#: regexpbuttons.cpp:114
+#, kde-format
+msgid "Non Word boundary"
+msgstr "Không phải ranh giới từ"
+
+#: regexpbuttons.cpp:115
+#, kde-format
+msgid ""
+"<qt>This asserts a non-word boundary (This part does not actually match any "
+"characters)</qt>"
+msgstr ""
+"<qt>Điều này khẳng định một ranh giới không phải từ (Phần này thực sự không "
+"khớp với bất kỳ ký tự nào)</qt>"
+
+#: regexpbuttons.cpp:121
+#, kde-format
+msgid "Positive Look Ahead"
+msgstr "Tìm kiếm tiến"
+
+#: regexpbuttons.cpp:122
+#, kde-format
+msgid ""
+"<qt>This asserts a regular expression (This part does not actually match any "
+"characters). You can only use this at the end of a regular expression.</qt>"
+msgstr ""
+"<qt>Điều này khẳng định một biểu thức chính quy (Phần này thực sự không "
+"khớp với bất kỳ ký tự nào). Bạn chỉ có thể sử dụng điều này ở cuối biểu "
+"thức chính quy.</qt>"
+
+#: regexpbuttons.cpp:128
+#, kde-format
+msgid "Negative Look Ahead"
+msgstr "Phủ định Tìm Trước"
+
+#: regexpbuttons.cpp:129
+#, kde-format
+msgid ""
+"<qt>This asserts a regular expression that must not match (This part does "
+"not actually match any characters). You can only use this at the end of a "
+"regular expression.</qt>"
+msgstr ""
+"<qt>Điều này khẳng định một biểu thức chính quy không được phép khớp (Phần "
+"này thực sự không khớp với bất kỳ ký tự nào). Bạn chỉ có thể sử dụng điều "
+"này ở cuối biểu thức chính quy.</qt>"
+
+#: regexpeditorwindow.cpp:203
+#, kde-format
+msgid "There is no selection."
+msgstr "Không có lựa chọn nào."
+
+#: regexpeditorwindow.cpp:203
+#, kde-format
+msgid "Missing Selection"
+msgstr "Thiếu phần bôi đen"
+
+#: regexpeditorwindow.cpp:268
+#, kde-format
+msgid "There is no widget under cursor."
+msgstr "Không có phụ kiện nào ở dưới con trỏ."
+
+#: regexpeditorwindow.cpp:268
+#, kde-format
+msgid "Invalid Operation"
+msgstr "Thao tác không hợp lệ"
+
+#: regexpeditorwindow.cpp:316
+#, kde-format
+msgid "C&ut"
+msgstr "&Cắt"
+
+#: regexpeditorwindow.cpp:319
+#, kde-format
+msgid "&Copy"
+msgstr "Sa&o chép"
+
+#: regexpeditorwindow.cpp:322
+#, kde-format
+msgid "&Paste"
+msgstr "Dá&n"
+
+#: regexpeditorwindow.cpp:327
+#, kde-format
+msgid "&Edit"
+msgstr "&Sửa"
+
+#: regexpeditorwindow.cpp:330
+#, kde-format
+msgid "&Save Regular Expression..."
+msgstr "Lưu biểu thức chính qu&y..."
+
+#: regexpeditorwindow.cpp:370
+#, kde-format
+msgid "Name for Regular Expression"
+msgstr "Tên biểu thức chính quy"
+
+#: regexpeditorwindow.cpp:370
+#, kde-format
+msgid "Enter name:"
+msgstr "Nhập tên:"
+
+#: regexpeditorwindow.cpp:375
+#, kde-format
+msgid "Empty name is not supported"
+msgstr "Tên trống không được hỗ trợ"
+
+#: regexpeditorwindow.cpp:375
+#, kde-format
+msgid "Save Regular Expression"
+msgstr "Lưu biểu thức chính quy"
+
+#: regexpeditorwindow.cpp:384
+#, kde-format
+msgid "<p>Overwrite named regular expression <b>%1</b></p>"
+msgstr "<p>Ghi đè biểu thức chính quy có tên <b>%1</b></p>"
+
+#: regexpeditorwindow.cpp:394
+#, kde-format
+msgid "Could not open file for writing: %1"
+msgstr "Không thể mở tệp để ghi: %1"
+
+#: repeatregexp.cpp:47 repeatregexp.cpp:58
+#, kde-format
+msgid ""
+"<p>Value for attribute <b>%1</b> was not an integer for element <b>%2</b></"
+"p><p>It contained the value <b>%3</b></p>"
+msgstr ""
+"<p>Giá trị cho thuộc tính <b>%1</b> không phải là số nguyên cho phần tử "
+"<b>%2</b></p><p>Nó chứa giá trị <b>%3</b></p>"
+
+#: repeatregexp.cpp:52 repeatregexp.cpp:63 textrangeregexp.cpp:136
+#: textregexp.cpp:42 widgetfactory.cpp:152 widgetfactory.cpp:185
+#: widgetfactory.cpp:194
+#, kde-format
+msgid "Error While Loading From XML File"
+msgstr "Lỗi Khi Tải Từ Tệp XML"
+
+#: repeatwidget.cpp:62
+#, kde-format
+msgid "Number of Times to Repeat Content"
+msgstr "Số lần lặp lại nội dung"
+
+#: repeatwidget.cpp:170
+#, kde-format
+msgid "Times to Match"
+msgstr "Số lần khớp"
+
+#: repeatwidget.cpp:177
+#, kde-format
+msgid "Any number of times (including zero times)"
+msgstr "Bất kỳ số lần (bao gồm cả không lần)"
+
+#: repeatwidget.cpp:184
+#, kde-format
+msgid "At least"
+msgstr "Ít nhất"
+
+#: repeatwidget.cpp:185
+#, kde-format
+msgid "At most"
+msgstr "Tối đa"
+
+#: repeatwidget.cpp:186
+#, kde-format
+msgid "Exactly"
+msgstr "Chính xác"
+
+#: repeatwidget.cpp:189
+#, kde-format
+msgid "From"
+msgstr "Từ"
+
+#: repeatwidget.cpp:201
+#, kde-format
+msgid "to"
+msgstr "đến"
+
+#: repeatwidget.cpp:209 repeatwidget.cpp:235
+#, kde-format
+msgid "time(s)"
+msgstr "lần"
+
+#: repeatwidget.cpp:285
+#, kde-format
+msgid "Repeated Any Number of Times"
+msgstr "Lặp lại bất kỳ số lần nào"
+
+#: repeatwidget.cpp:287
+#, kde-format
+msgid "Repeated at Least 1 Time"
+msgid_plural "Repeated at Least %1 Times"
+msgstr[0] "Lặp lại ít nhất %1 lần"
+
+#: repeatwidget.cpp:289
+#, kde-format
+msgid "Repeated at Most 1 Time"
+msgid_plural "Repeated at Most %1 Times"
+msgstr[0] "Lặp lại tối đa %1 lần"
+
+#: repeatwidget.cpp:291
+#, kde-format
+msgid "Repeated Exactly 1 Time"
+msgid_plural "Repeated Exactly %1 Times"
+msgstr[0] "Lặp lại chính xác %1 lần"
+
+#: repeatwidget.cpp:293
+#, kde-format
+msgid "Repeated From %1 to %2 Times"
+msgstr "Lặp lại từ %1 đến %2 lần"
+
+#: textrangeregexp.cpp:135
+#, kde-format
+msgid ""
+"<p>Invalid sub element to element <b>TextRange</b>. Tag was <b>%1</b></p>"
+msgstr ""
+"<p>Phần tử con không hợp lệ cho phần tử <b>TextRange</b>. Thẻ gắn là "
+"<b>%1</b></p>"
+
+#: textregexp.cpp:42
+#, kde-format
+msgid "<p>Element <b>Text</b> did not contain any textual data.</p>"
+msgstr "<p>Phần tử <b>Text</b> không chứa bất kỳ dữ liệu văn bản nào.</p>"
+
+#: userdefinedregexps.cpp:55
+#, kde-format
+msgid "User Defined"
+msgstr "Người dùng định nghĩa"
+
+#: userdefinedregexps.cpp:76
+#, kde-format
+msgid "general"
+msgstr "chung"
+
+#: userdefinedregexps.cpp:90
+#, kde-format
+msgid "Could not open file for reading: %1"
+msgstr "Không thể mở tệp để đọc: %1"
+
+#: userdefinedregexps.cpp:100
+#, kde-format
+msgid "File %1 containing user defined regular expression contained an error"
+msgstr "Tệp %1 chứa biểu thức chính quy do người dùng định nghĩa có lỗi"
+
+#: userdefinedregexps.cpp:143
+#, kde-format
+msgid "Rename"
+msgstr "Đổi tên"
+
+#: userdefinedregexps.cpp:184
+#, kde-format
+msgid "Rename Item"
+msgstr "Đổi tên Mục"
+
+#: userdefinedregexps.cpp:184
+#, kde-format
+msgid "New name:"
+msgstr "Tên mới:"
+
+#: userdefinedregexps.cpp:191
+#, kde-format
+msgid "<p>Overwrite named regular expression <b>%1</b>?</p>"
+msgstr "<p>Ghi đè biểu thức chính quy có tên <b>%1</b>?</p>"
+
+#: userdefinedregexps.cpp:194
+#, kde-format
+msgid "Do Not Overwrite"
+msgstr "Không Ghi Đè"
+
+#: widgetfactory.cpp:152
+#, kde-format
+msgid "<p>Unknown tag while reading XML. Tag was <b>%1</b></p>"
+msgstr "<p>Thẻ không xác định khi đọc XML. Thẻ là <b>%1</b></p>"
+
+#: widgetfactory.cpp:176
+#, kde-format
+msgid "Error while loading regular expression from XML."
+msgstr "Lỗi khi tải biểu thức chính quy từ XML."
+
+#: widgetfactory.cpp:177
+#, kde-format
+msgid "Error While Loading Regular Expression From XML"
+msgstr "Lỗi Khi Tải Biểu Thức Chính Quy Từ XML"
+
+#: widgetfactory.cpp:184
+#, kde-format
+msgid "<p>XML file did not contain a <b>%1</b> tag.</p>"
+msgstr "<p>Tệp XML không chứa thẻ <b>%1</b>.</p>"
+
+#: widgetfactory.cpp:191
+#, kde-format
+msgid ""
+"<p>Error while reading XML file. The element just below the tag <b>%1</b> "
+"was not an element.</p>"
+msgstr ""
+"<p>Lỗi khi đọc tệp XML. Phần tử ngay dưới thẻ <b>%1</b> không phải là một "
+"phần tử.</p>"
+
+#: zerowidgets.cpp:60
+#, kde-format
+msgid ""
+"Any\n"
+"Character"
+msgstr "Bất kỳ\nKí tự"
+
+#: zerowidgets.cpp:73
+#, kde-format
+msgid ""
+"Line\n"
+"Start"
+msgstr "Dòng\nBắt đầu"
+
+#: zerowidgets.cpp:86
+#, kde-format
+msgid ""
+"Line\n"
+"End"
+msgstr "Dòng\nKết thúc"
+
+#: zerowidgets.cpp:99
+#, kde-format
+msgid ""
+"Word\n"
+"Boundary"
+msgstr "Ranh giới\nTừ"
+
+#: zerowidgets.cpp:112
+#, kde-format
+msgid ""
+"Non-word\n"
+"Boundary"
+msgstr "Không phải từ\nGiới hạn"

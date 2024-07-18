@@ -65,7 +65,7 @@ msgstr "&Tệp"
 #: data/katepart5ui.rc:10
 #, kde-format
 msgid "Print/Export"
-msgstr ""
+msgstr "In/Xuất"
 
 #. i18n: ectx: Menu (edit)
 #: data/katepart5ui.rc:17
@@ -142,10 +142,10 @@ msgstr "Đánh vần"
 
 #. i18n: ectx: Menu (speech)
 #: data/katepart5ui.rc:150
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Text to search for"
 msgid "Text to Speech"
-msgstr "Văn bản để tìm kiếm"
+msgstr "Chuyển văn bản thành giọng nói"
 
 #. i18n: ectx: Menu (settings)
 #: data/katepart5ui.rc:158
@@ -273,10 +273,10 @@ msgstr "Tô sáng các dòng bị thay đổi và chưa lưu"
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: dialogs/bordersappearanceconfigwidget.ui:145
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Scrollbars"
 msgid "Scrollbars:"
-msgstr "Thanh cuộn"
+msgstr "thanh cuộn"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, chkScrollbarMarks)
 #: dialogs/bordersappearanceconfigwidget.ui:152
@@ -451,13 +451,16 @@ msgid ""
 "editor. If disabled, Tab key or double-click can still be used to trigger "
 "completion."
 msgstr ""
+"Nhấn Enter sẽ chèn văn bản của mục hoàn tất đã chọn vào trình soạn thảo. "
+"Nếu tắt, phím Tab hoặc nhấp đúp vẫn có thể được sử dụng để kích hoạt hoàn "
+"tất."
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkEnterCompletion)
 #: dialogs/completionconfigtab.ui:59
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Use this to unindent a selected block of text."
 msgid "Use Enter key to insert selected completion"
-msgstr "Dùng thao tác này để bỏ thụt lề một khối văn bản bôi đen."
+msgstr "Sử dụng phím Enter để chèn hoàn tất đã chọn"
 
 #. i18n: ectx: property (title), widget (QGroupBox, gbWordCompletion)
 #: dialogs/completionconfigtab.ui:69
@@ -670,13 +673,13 @@ msgstr ""
 #: dialogs/editconfigwidget.ui:252
 #, kde-format
 msgid "Enable accessibility notifications"
-msgstr ""
+msgstr "Bật thông báo hỗ trợ truy cập"
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: dialogs/editconfigwidget.ui:259
 #, kde-format
 msgid "Accessibility:"
-msgstr ""
+msgstr "Khả năng truy cập:"
 
 #. i18n: ectx: property (text), widget (QLabel, lblFiletype)
 #: dialogs/filetypeconfigwidget.ui:14
@@ -1272,6 +1275,8 @@ msgid ""
 "Reloads and will automatically reload without warning about disk changes "
 "from now until you close either the tab or window."
 msgstr ""
+"Tải lại và sẽ tự động tải lại mà không cảnh báo về thay đổi trên đĩa từ bây "
+"giờ cho đến khi bạn đóng thẻ hoặc cửa sổ."
 
 #: dialogs/katedialogs.cpp:1455
 #, kde-format
@@ -1279,10 +1284,10 @@ msgid "View &Difference"
 msgstr "&Xem sự khác nhau"
 
 #: dialogs/katedialogs.cpp:1457
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Shows a diff of the changes"
 msgid "Shows a diff of the changes."
-msgstr "Hiện phần chênh của các thay đổi"
+msgstr "Hiện phần chênh của các thay đổi."
 
 #: dialogs/katedialogs.cpp:1462
 #, kde-format
@@ -1290,7 +1295,7 @@ msgid "&Reload"
 msgstr "&Tải lại"
 
 #: dialogs/katedialogs.cpp:1464
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Reload the file from disk. Unsaved changes will be lost."
 msgid "Reloads the file from disk. Unsaved changes will be lost."
 msgstr "Tải lại tệp từ đĩa. Các thay đổi chưa lưu sẽ bị mất."
@@ -1302,17 +1307,17 @@ msgid "&Close File"
 msgstr "Đón&g tệp"
 
 #: dialogs/katedialogs.cpp:1470
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Close the file, discarding its content."
 msgid "Closes the file, discarding its content."
-msgstr "Đóng tệp, loại bỏ nội dung."
+msgstr "Đóng tệp, loại bỏ nội dung của nó."
 
 #: dialogs/katedialogs.cpp:1474
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Save As..."
 msgctxt "@action"
 msgid "&Save As…"
-msgstr "&Lưu thành..."
+msgstr "Lư&u Với Tên..."
 
 #: dialogs/katedialogs.cpp:1476
 #, kde-format
@@ -1813,10 +1818,10 @@ msgstr "Bật lưu tự động (chỉ cho tệp cục bộ)"
 
 #. i18n: ectx: property (text), widget (QCheckBox, cbAutoSaveOnFocus)
 #: dialogs/opensaveconfigwidget.ui:254
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Auto save document when focus leaves the editor"
 msgid "Auto save document when the active document is losing focus"
-msgstr "Tự động lưu tài liệu khi trình biên tập mất nhắm"
+msgstr "Tự động lưu tài liệu khi tài liệu đang hoạt động mất nhắm"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: dialogs/opensaveconfigwidget.ui:263
@@ -2181,7 +2186,7 @@ msgid "&Close"
 msgstr "Đón&g"
 
 #: document/katedocument.cpp:2266 document/katedocument.cpp:6507
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Close message"
 msgctxt "Close the message being displayed"
 msgid "Close message"
@@ -2519,7 +2524,7 @@ msgid "Modes && Filetypes"
 msgstr "Chế độ && kiểu tệp"
 
 #: mode/katemodemenulist.cpp:139
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Placeholder in search bar"
 #| msgid "Search..."
 msgctxt "@info:placeholder"
@@ -2578,7 +2583,7 @@ msgstr "In &chú thích"
 #: printing/printconfigwidgets.cpp:46
 #, kde-format
 msgid "Don't print folded code"
-msgstr ""
+msgstr "Không in mã đã gập"
 
 #: printing/printconfigwidgets.cpp:54
 #, kde-format
@@ -3110,15 +3115,15 @@ msgstr "Di chuyển con trỏ đến dòng sau có cùng độ thụt lề"
 #, kde-format
 msgctxt "Script command name"
 msgid "Go to Next Paragraph"
-msgstr ""
+msgstr "Đi đến Đoạn Tiếp Theo"
 
 #: script/data/commands/navigation.js:13
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Script command name"
 #| msgid "Go to Previous Edit Point"
 msgctxt "Script command name"
 msgid "Go to Previous Paragraph"
-msgstr "Đi đến điểm sửa trước"
+msgstr "Đi đến đoạn văn trước"
 
 #: script/data/commands/utils.js:9
 #, kde-format
@@ -3146,36 +3151,36 @@ msgid "Remove Duplicates and Sort Selected Text Alphabetically"
 msgstr "Xoá các dòng lặp lại và sắp xếp văn bản bôi đen theo bảng chữ cái"
 
 #: script/data/commands/utils.js:17
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Script command name"
 #| msgid "Duplicate Selected Lines Up"
 msgctxt "Script command name"
 msgid "Remove Duplicate Lines"
-msgstr "Nhân đôi các dòng bôi đen lên"
+msgstr "Xoá Các Dòng Trùng Lặp"
 
 #: script/data/commands/utils.js:21
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Re&move trailing spaces:"
 msgctxt "Script command name"
 msgid "Remove Trailing Spaces"
-msgstr "&Xoá các dấu cách ở cuối:"
+msgstr "Xoá Dấu Cách Ở Cuối"
 
 #: script/data/commands/utils.js:25
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Re&move trailing spaces:"
 msgctxt "Script command name"
 msgid "Remove Leading Spaces"
-msgstr "&Xoá các dấu cách ở cuối:"
+msgstr "Xoá dấu cách đầu dòng"
 
 #: script/data/commands/utils.js:29
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Re&move trailing spaces:"
 msgctxt "Script command name"
 msgid "Remove Trailing and Leading Spaces"
-msgstr "&Xoá các dấu cách ở cuối:"
+msgstr "Xoá Dấu Cách Đầu và Cuối"
 
 #: script/data/commands/utils.js:33
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Join Lines"
 msgctxt "Script command name"
 msgid "Join Lines"
@@ -3206,12 +3211,12 @@ msgid "Duplicate Selected Lines Up"
 msgstr "Nhân đôi các dòng bôi đen lên"
 
 #: script/data/commands/utils.js:55
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Script command name"
 #| msgid "Duplicate Selected Lines Up"
 msgctxt "Script command name"
 msgid "Duplicate selected text"
-msgstr "Nhân đôi các dòng bôi đen lên"
+msgstr "Nhân đôi văn bản đã chọn"
 
 #: script/data/commands/utils.js:59
 #, kde-format
@@ -3226,11 +3231,11 @@ msgid "URI-decode Selected Text"
 msgstr "Giải mã hoá URI văn bản bôi đen"
 
 #: script/data/commands/utils.js:67
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Remove Cursors from Empty Lines"
 msgctxt "Script command name"
 msgid "Remove Empty Lines"
-msgstr "Bỏ con trỏ khỏi các dòng trống"
+msgstr "Xoá Các Dòng Trống"
 
 #: script/data/commands/utils.js:462
 #, kde-format
@@ -3933,7 +3938,7 @@ msgid "Spell check canceled."
 msgstr "Đã huỷ kiểm tra đánh vần."
 
 #: spellcheck/spellcheckbar.cpp:245
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "progress label"
 #| msgid "Spell checking in progress..."
 msgctxt "@info:progress"
@@ -4169,7 +4174,7 @@ msgid "I&gnore All"
 msgstr "Bỏ &qua tất cả"
 
 #: spellcheck/spellcheckdialog.cpp:51
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Spelling (from Cursor)..."
 msgctxt "@action"
 msgid "Spelling (from Cursor)…"
@@ -4295,32 +4300,32 @@ msgid "S&trikeout"
 msgstr "Gạch &xuyên"
 
 #: syntax/katestyletreewidget.cpp:260
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Normal &Color..."
 msgctxt "@action:inmenu"
 msgid "Normal &Color…"
-msgstr "Mà&u thường..."
+msgstr "Màu thườn&g..."
 
 #: syntax/katestyletreewidget.cpp:263
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Selected Color..."
 msgctxt "@action:inmenu"
 msgid "&Selected Color…"
-msgstr "Màu bôi đ&en..."
+msgstr "Màu đã &chọn..."
 
 #: syntax/katestyletreewidget.cpp:266
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Background Color..."
 msgctxt "@action:inmenu"
 msgid "&Background Color…"
-msgstr "Màu &nền..."
+msgstr "Mà&u nền..."
 
 #: syntax/katestyletreewidget.cpp:269
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "S&elected Background Color..."
 msgctxt "@action:inmenu"
 msgid "S&elected Background Color…"
-msgstr "&Màu nền bôi đen..."
+msgstr "Mà&u nền được chọn..."
 
 #: syntax/katestyletreewidget.cpp:275
 #, kde-format
@@ -4939,21 +4944,21 @@ msgid "&Theme:"
 msgstr "&Chủ đề:"
 
 #: syntax/katethemeconfig.cpp:1119
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Copy..."
 msgctxt "@action:button"
 msgid "&Copy…"
-msgstr "&Chép..."
+msgstr "Sa&o chép..."
 
 #: syntax/katethemeconfig.cpp:1127
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Export..."
 msgctxt "@action:button"
 msgid "Export…"
 msgstr "Xuất khẩu..."
 
 #: syntax/katethemeconfig.cpp:1131
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Import..."
 msgctxt "@action:button"
 msgid "Import…"
@@ -6199,7 +6204,7 @@ msgstr "Đặt chế độ cuối dòng."
 msgctxt "short translation please"
 msgid ""
 "Enable whether pressing enter will insert selected auto completion item."
-msgstr ""
+msgstr "Bật/tắt việc nhấn Enter sẽ chèn mục hoàn tất tự động được chọn."
 
 #: variableeditor/variablelineedit.cpp:181
 #, kde-format
@@ -6506,12 +6511,12 @@ msgid "Indent/Tab: %1/%2"
 msgstr "Thụt lề/lập bảng: %1/%2"
 
 #: view/katestatusbar.cpp:449 view/katestatusbar.cpp:475
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@item:intable Text context"
 #| msgid "Others"
 msgctxt "@item:inmenu"
 msgid "Other…"
-msgstr "Khác"
+msgstr "Khác..."
 
 #: view/katestatusbar.cpp:477
 #, kde-format
@@ -6583,12 +6588,12 @@ msgstr "Dán nội dung phần bôi đen từ trước bằng chuột"
 #: view/kateview.cpp:483
 #, kde-format
 msgid "Copy File Location"
-msgstr ""
+msgstr "Sao chép Địa điểm Tệp"
 
 #: view/kateview.cpp:484
 #, kde-format
 msgid "Copy the current file name and line number"
-msgstr ""
+msgstr "Sao chép tên tệp và số dòng hiện tại"
 
 #: view/kateview.cpp:487
 #, kde-format
@@ -6601,10 +6606,10 @@ msgid "Swap the selected text with the clipboard contents"
 msgstr "Hoán đổi văn bản bôi đen với nội dung bảng nháp"
 
 #: view/kateview.cpp:491
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Paste Selection"
 msgid "Take Screenshot of Selection"
-msgstr "Dán phần bôi đen"
+msgstr "Chụp ảnh màn hình của phần bôi đen"
 
 #: view/kateview.cpp:495
 #, kde-format
@@ -6673,11 +6678,11 @@ msgstr ""
 "thụt lề phù hợp."
 
 #: view/kateview.cpp:529
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Align On"
 msgctxt "@action"
 msgid "&Align On…"
-msgstr "Căn lề ở"
+msgstr "Căn &lề ở..."
 
 #: view/kateview.cpp:531
 #, kde-format
@@ -6762,13 +6767,13 @@ msgstr "Khoá/bỏ khoá tài liệu để ghi"
 #: view/kateview.cpp:580
 #, kde-format
 msgid "&Force RTL Direction"
-msgstr ""
+msgstr "Buộc &hướng RTL"
 
 #: view/kateview.cpp:581
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Text Decorations"
 msgid "Force RTL Text Direction"
-msgstr "Trang trí văn bản"
+msgstr "Buộc hướng văn bản RTL"
 
 #: view/kateview.cpp:591
 #, kde-format
@@ -6832,10 +6837,10 @@ msgstr ""
 "được kết buộc với hành động này."
 
 #: view/kateview.cpp:628
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Re&move trailing spaces:"
 msgid "Remove Trailing Spaces"
-msgstr "&Xoá các dấu cách ở cuối:"
+msgstr "Xoá Dấu Cách Ở Cuối"
 
 #: view/kateview.cpp:646
 #, kde-format
@@ -6863,18 +6868,18 @@ msgid "Save the current document to disk, with a name of your choice."
 msgstr "Lưu tài liệu hiện tại vào đĩa, với tên do bạn chọn."
 
 #: view/kateview.cpp:661
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Save As with Encoding..."
 msgctxt "@action"
 msgid "Save As with Encoding…"
-msgstr "Lưu thành với mã hoá..."
+msgstr "Lưu Thành với Mã Hoá..."
 
 #: view/kateview.cpp:667
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Save &Copy As..."
 msgctxt "@action"
 msgid "Save &Copy As…"
-msgstr "Lưu bản &sao thành..."
+msgstr "Lư&u bản sao thành..."
 
 #: view/kateview.cpp:668
 #, kde-format
@@ -6911,11 +6916,11 @@ msgid "Move downwards to the next modified line."
 msgstr "Di chuyển xuống dưới đến dòng bị chỉnh sửa ở đằng sau."
 
 #: view/kateview.cpp:687
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Configure Editor..."
 msgctxt "@action"
 msgid "&Configure Editor…"
-msgstr "&Cấu hình trình biên tập..."
+msgstr "&Cấu hình Trình biên tập..."
 
 #: view/kateview.cpp:689
 #, kde-format
@@ -7031,13 +7036,13 @@ msgstr ""
 "có."
 
 #: view/kateview.cpp:765
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Template"
 msgid "Show Whitespace"
-msgstr "Mẫu"
+msgstr "Hiện Khoảng Trắng"
 
 #: view/kateview.cpp:768
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "If this option is checked, the text lines will be wrapped at the view "
 #| "border on the screen.<br /><br />This is only a view option, meaning the "
@@ -7046,9 +7051,9 @@ msgid ""
 "If this option is checked, whitespaces in this document will be visible.<br /"
 "><br />This is only a view option, meaning the document will not changed."
 msgstr ""
-"Nếu lựa chọn này được chọn, các dòng văn bản sẽ được bọc tại viền khung xem "
-"trên màn hình.<br /><br />Đây chỉ là một lựa chọn về khung xem, tức là tài "
-"liệu sẽ không bị thay đổi."
+"Nếu lựa chọn này được chọn, khoảng trắng trong tài liệu này sẽ được hiển "
+"thị.<br /><br />Đây chỉ là một lựa chọn về khung xem, tức là tài liệu sẽ "
+"không bị thay đổi."
 
 #: view/kateview.cpp:772
 #, kde-format
@@ -7319,7 +7324,7 @@ msgid "Find and Select All Occurrences"
 msgstr "Tìm và bôi đen tất cả các lần xuất hiện"
 
 #: view/kateview.cpp:919
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Finds all occurrences of the word under cursor and select them."
 msgid "Finds all occurrences of the word under cursor and selects them."
 msgstr "Tìm tất cả các lần xuất hiện của từ ở vị trí con trỏ và bôi đen chúng."
@@ -7406,11 +7411,11 @@ msgid "Enable/disable automatic spell checking"
 msgstr "Bật/tắt kiểm tra đánh vần tự động"
 
 #: view/kateview.cpp:969
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Change dictionary"
 msgctxt "@action"
 msgid "Change Dictionary…"
-msgstr "Đổi từ điển"
+msgstr "Thay đổi từ điển..."
 
 #: view/kateview.cpp:970
 #, kde-format
@@ -7444,11 +7449,11 @@ msgstr ""
 "thống."
 
 #: view/kateview.cpp:987
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "E&xport as HTML..."
 msgctxt "@action"
 msgid "E&xport as HTML…"
-msgstr "&Xuất khẩu thành HTML..."
+msgstr "X&uất khẩu thành HTML..."
 
 #: view/kateview.cpp:989
 #, kde-format
@@ -7490,10 +7495,10 @@ msgid "Select Word Right"
 msgstr "Bôi đen từ phải"
 
 #: view/kateview.cpp:1064
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Paste Selection"
 msgid "Start the Marked Selection"
-msgstr "Dán phần bôi đen"
+msgstr "Khởi động phần bôi đen"
 
 #: view/kateview.cpp:1065
 #, kde-format
@@ -7501,6 +7506,8 @@ msgid ""
 "Emulate the Emacs-like selection mode, where the beginning is marked and "
 "then the selection is continuously updated."
 msgstr ""
+"Giả lập chế độ chọn lựa giống như Emacs, nơi mà điểm bắt đầu được đánh dấu "
+"và sau đó phần bôi đen được liên tục cập nhật."
 
 #: view/kateview.cpp:1070
 #, kde-format
@@ -7769,28 +7776,28 @@ msgid "Toggle Contained Nodes"
 msgstr "Gập/mở các nút bên trong"
 
 #: view/kateview.cpp:1361
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Text selection of the current document."
 msgid "Say current selection or document"
-msgstr "Phần bôi đen văn bản của tài liệu hiện tại."
+msgstr "Nói về phần bôi đen hoặc tài liệu hiện tại"
 
 #: view/kateview.cpp:1371
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Save the current document"
 msgid "Stop current output"
-msgstr "Lưu tài liệu hiện tại"
+msgstr "Dừng đầu ra hiện tại"
 
 #: view/kateview.cpp:1377
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Save the current document"
 msgid "Pause current output"
-msgstr "Lưu tài liệu hiện tại"
+msgstr "Tạm dừng đầu ra hiện tại"
 
 #: view/kateview.cpp:1383
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Save the current document"
 msgid "Resume current output"
-msgstr "Lưu tài liệu hiện tại"
+msgstr "Tiếp tục đầu ra hiện tại"
 
 #: view/kateview.cpp:1554
 #, kde-format
@@ -7906,71 +7913,71 @@ msgid "Disable Annotation Bar"
 msgstr "Tắt thanh chú dẫn"
 
 #: view/screenshotdialog.cpp:178
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Open/Save"
 msgid "Save"
-msgstr "Mở/Lưu"
+msgstr "Lưu"
 
 #: view/screenshotdialog.cpp:179
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Copy..."
 msgid "Copy"
-msgstr "&Chép..."
+msgstr "Sao chép"
 
 #: view/screenshotdialog.cpp:180
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Background Color..."
 msgctxt "@action:button"
 msgid "Background Color…"
-msgstr "Màu &nền..."
+msgstr "Màu nền..."
 
 #: view/screenshotdialog.cpp:182
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Text Decorations"
 msgid "Show Extra Decorations"
-msgstr "Trang trí văn bản"
+msgstr "Hiện Trang Trí Bổ Sung"
 
 #: view/screenshotdialog.cpp:183
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Show i&ndentation lines"
 msgid "Show Window Decorations"
-msgstr "Hiện các &mốc thụt lề"
+msgstr "Hiện Trang Trí Cửa Sổ"
 
 #: view/screenshotdialog.cpp:188
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Paste Selection"
 msgctxt "@title:window"
 msgid "Take Screenshot of Selection"
-msgstr "Dán phần bôi đen"
+msgstr "Chụp ảnh màn hình của phần bôi đen"
 
 #: view/screenshotdialog.cpp:260
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Show &Line Numbers"
 msgid "Don't Show Line Numbers"
-msgstr "Hiện &số thứ tự dòng"
+msgstr "Không hiện số thứ tự dòng"
 
 #: view/screenshotdialog.cpp:261
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Show &Line Numbers"
 msgid "Show Line Numbers From 1"
-msgstr "Hiện &số thứ tự dòng"
+msgstr "Hiện số thứ tự dòng từ 1"
 
 #: view/screenshotdialog.cpp:262
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Show &Line Numbers"
 msgid "Show Actual Line Numbers"
-msgstr "Hiện &số thứ tự dòng"
+msgstr "Hiện số thứ tự dòng thực"
 
 #: view/screenshotdialog.cpp:423
 #, kde-format
 msgctxt "@title:window"
 msgid "Screenshot saving failed"
-msgstr ""
+msgstr "Lưu ảnh chụp màn hình thất bại"
 
 #: view/screenshotdialog.cpp:423
 #, kde-format
 msgid "Screenshot saving failed: %1"
-msgstr ""
+msgstr "Lưu ảnh chụp màn hình thất bại: %1"
 
 #: vimode/appcommands.cpp:67
 #, kde-format

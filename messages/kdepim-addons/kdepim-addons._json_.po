@@ -1,0 +1,638 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-26 00:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: akonadi-import-wizard/evolutionv1/evolutionv1importer.json
+msgctxt "Name"
+msgid "Evolution1 Importer"
+msgstr "Trình nhập khẩu Evolution1"
+
+#: akonadi-import-wizard/evolutionv2/evolutionv2importer.json
+msgctxt "Name"
+msgid "Evolution2 Importer"
+msgstr "Trình nhập khẩu Evolution2"
+
+#: akonadi-import-wizard/geary/gearyimporter.json
+msgctxt "Name"
+msgid "Geary Importer"
+msgstr "Trình nhập khẩu Geary"
+
+#: akonadi-import-wizard/mailapp/mailappimporter.json
+msgctxt "Name"
+msgid "MailApp Importer"
+msgstr "Trình nhập khẩu MailApp"
+
+#: akonadi-import-wizard/oe/oeimporter.json
+msgctxt "Name"
+msgid "OE Importer"
+msgstr "Trình nhập khẩu OE"
+
+#: akonadi-import-wizard/opera/operaimporter.json
+msgctxt "Name"
+msgid "Opera Importer"
+msgstr "Trình nhập khẩu Opera"
+
+#: akonadi-import-wizard/pmail/pmailimporter.json
+msgctxt "Name"
+msgid "PMail Importer"
+msgstr "Trình nhập khẩu PMail"
+
+#: akonadi-import-wizard/thebat/thebatimporter.json
+msgctxt "Name"
+msgid "TheBat Importer"
+msgstr "Trình nhập khẩu TheBat"
+
+#: kaddressbook/importexportplugins/csv/kaddressbook_importexportcsvplugin.json
+msgctxt "Name"
+msgid "Import/Export CSV"
+msgstr "Nhập/Xuất CSV"
+
+#: kaddressbook/importexportplugins/gmx/kaddressbook_importexportgmxplugin.json
+msgctxt "Name"
+msgid "Import Export GMX"
+msgstr "Nhập Xuất GMX"
+
+#: kaddressbook/importexportplugins/ldap/kaddressbook_importexportldapplugin.json
+msgctxt "Name"
+msgid "Import/Export LDAP Contacts"
+msgstr "Nhập/Xuất Danh bạ LDAP"
+
+#: kaddressbook/importexportplugins/ldif/kaddressbook_importexportldifplugin.json
+msgctxt "Name"
+msgid "Import/Export LDIF"
+msgstr "Nhập/Xuất LDIF"
+
+#: kaddressbook/importexportplugins/vcards/kaddressbook_importexportvcardplugin.json
+msgctxt "Name"
+msgid "Import/Export vCard"
+msgstr "Nhập/Xuất vCard"
+
+#: kaddressbook/importexportplugins/windows-contacts/kaddressbook_importexportwindowscontactplugin.json
+msgctxt "Name"
+msgid "Import/Export Windows Contact"
+msgstr "Nhập/Xuất Liên Hệ Windows"
+
+#: kaddressbook/plugins/checkgravatar/kaddressbook_checkgravatarplugin.json
+msgctxt "Name"
+msgid "Check Gravatar"
+msgstr "Kiểm tra Gravatar"
+
+#: kaddressbook/plugins/mergecontacts/kaddressbook_mergecontactsplugin.json
+msgctxt "Name"
+msgid "Merge Contacts"
+msgstr "Trộn Danh Bạ"
+
+#: kaddressbook/plugins/searchduplicates/kaddressbook_searchduplicatesplugin.json
+msgctxt "Name"
+msgid "Search Duplicate Contacts"
+msgstr "Tìm kiếm liên hệ trùng lặp"
+
+#: kaddressbook/plugins/sendmail/kaddressbook_sendmailplugin.json
+msgctxt "Name"
+msgid "Send Mail"
+msgstr "Gửi thư"
+
+#: kaddressbook/plugins/sendvcards/kaddressbook_sendvcardsplugin.json
+msgctxt "Name"
+msgid "Send vCards"
+msgstr "Gửi vCards"
+
+#: kmail/checkbeforedeletemailplugins/confirmbeforedeleting/kmail_confirmbeforedeletingplugin.json
+msgctxt "Name"
+msgid "Confirm Before Deleting Emails"
+msgstr "Xác nhận trước khi xóa email"
+
+#: kmail/editorconvertertextplugins/markdown/plugin/kmail_markdownplugin.json
+msgctxt "Name"
+msgid "Markdown"
+msgstr "Markdown"
+
+#: kmail/editorinitplugins/externalcomposer/kmail_externalcomposereditorplugin.json
+msgctxt "Name"
+msgid "Open External Composer"
+msgstr "Mở Trình soạn thảo Ngoài"
+
+#: kmail/editorplugins/autocorrection/kmail_autocorrectioneditorplugin.json
+msgctxt "Name"
+msgid "Autocorrection"
+msgstr "Tự động chỉnh sửa"
+
+#: kmail/editorplugins/changecase/kmail_changecaseeditorplugin.json
+msgctxt "Name"
+msgid "Change Case"
+msgstr "Thay đổi chữ hoa/chữ thường"
+
+#: kmail/editorplugins/insertemail/kmail_insertemaileditorplugin.json
+msgctxt "Name"
+msgid "Insert Email"
+msgstr "Chèn Thư Điện Tử"
+
+#: kmail/editorplugins/insertshorturl/kmail_insertshorturleditorplugin.json
+msgctxt "Name"
+msgid "Insert Short URL"
+msgstr "Chèn URL ngắn"
+
+#: kmail/editorplugins/insertshorturl/shorturlengineplugin/isgdshorturlengineplugin/pimcommon_isgdshorturlengineplugin.json
+msgctxt "Name"
+msgid "Is.gd"
+msgstr "Is.gd"
+
+#: kmail/editorplugins/insertshorturl/shorturlengineplugin/tinyurlengineplugin/pimcommon_tinyurlengineplugin.json
+msgctxt "Name"
+msgid "TinyUrl"
+msgstr "TinyUrl"
+
+#: kmail/editorplugins/insertshorturl/shorturlengineplugin/triopabshorturlengineplugin/pimcommon_triopabshorturlengineplugin.json
+msgctxt "Name"
+msgid "to.ly"
+msgstr "to.ly"
+
+#: kmail/editorplugins/insertshorturl/shorturlengineplugin/ur1cashorturlengineplugin/pimcommon_ur1cashorturlengineplugin.json
+msgctxt "Name"
+msgid "Ur1Ca"
+msgstr "Ur1Ca"
+
+#: kmail/editorplugins/insertspecialcharacter/kmail_insertspecialcharactereditorplugin.json
+msgctxt "Name"
+msgid "Insert Special Character"
+msgstr "Chèn Kí Tự Đặc Biệt"
+
+#: kmail/editorplugins/nonbreakingspace/kmail_nonbreakingspaceeditorplugin.json
+msgctxt "Name"
+msgid "Insert Non Breaking Space"
+msgstr "Chèn Khoảng Trắng Không Ngắt"
+
+#: kmail/editorplugins/quicktext/kmail_quicktextplugin.json
+msgctxt "Name"
+msgid "Snippet"
+msgstr "mảnh mã"
+
+#: kmail/editorplugins/sharetext/kmail_sharetexteditorplugin.json
+msgctxt "Name"
+msgid "Share Text"
+msgstr "Chia sẻ văn bản"
+
+#: kmail/editorplugins/zoomtext/kmail_zoomtexteditorplugin.json
+msgctxt "Name"
+msgid "Zoom Text"
+msgstr "Thu phóng văn bản"
+
+#: kmail/editorsendcheckplugins/automaticaddcontacts/kmail_automaticaddcontactsplugin.json
+msgctxt "Name"
+msgid "Automatic Add Contacts"
+msgstr "Tự động thêm liên hệ"
+
+#: kmail/editorsendcheckplugins/checkbeforesend/kmail_checkbeforesendplugin.json
+msgctxt "Name"
+msgid "Check Before Send"
+msgstr "Kiểm tra trước khi gửi"
+
+#: kmail/editorsendcheckplugins/confirm-address/kmail_confirmaddressplugin.json
+msgctxt "Name"
+msgid "Confirm Address"
+msgstr "Xác nhận địa chỉ"
+
+#: kmail/grammarplugins/grammalecte/kmail_grammalecteplugin.json
+msgctxt "Name"
+msgid "French Grammar Checker"
+msgstr "Trình kiểm tra ngữ pháp tiếng Pháp"
+
+#: kmail/grammarplugins/languagetool/kmail_languagetoolplugin.json
+msgctxt "Name"
+msgid "Grammar Checker (LanguageTool)"
+msgstr "Trình kiểm tra ngữ pháp (LanguageTool)"
+
+#: kmail/plugins/akonadidatabasetools/kmail_akonadidatabasetoolsplugin.json
+msgctxt "Name"
+msgid "Akonadi Database Manager"
+msgstr "Trình quản lý cơ sở dữ liệu Akonadi"
+
+#: kmail/plugins/antispamplugin/kmail_antispamplugin.json
+msgctxt "Name"
+msgid "Antispam"
+msgstr "Chống thư rác"
+
+#: kmail/plugins/antivirusplugin/kmail_antivirusplugin.json
+msgctxt "Name"
+msgid "Antivirus"
+msgstr "Phần mềm diệt virus"
+
+#: kmail/plugins/expertplugin/kmail_expertplugin.json
+msgctxt "Name"
+msgid "Expert Plugin"
+msgstr "Phần cài cắm chuyên gia"
+
+#: kmailtransport/sendmail/sendmailtransport.json
+msgctxt "Name"
+msgid "SendMail Mail Transport"
+msgstr "Gửi Mail Transport"
+
+#: plugins/customtoolsplugins/translatorplugin/pimcommon_translatorplugin.json
+#: plugins/messageviewerplugins/common/translatorplugin/messageviewer_translatorplugin.json
+msgctxt "Name"
+msgid "Translator"
+msgstr "Bộ dịch"
+
+#: plugins/messageviewerconfigureplugins/dkim-verify/messageviewer_dkimconfigplugin.json
+msgctxt "Name"
+msgid "DKIM Checker"
+msgstr "Trình kiểm tra DKIM"
+
+#: plugins/messageviewerconfigureplugins/expireaccounttrashfolder/messageviewer_expireaccounttrashfolderconfigplugin.json
+msgctxt "Name"
+msgid "Expire Trash Folder"
+msgstr "Hết hạn Thùng rác"
+
+#: plugins/messageviewerconfigureplugins/foldersettings/messageviewer_folderconfiguresettingsplugin.json
+msgctxt "Name"
+msgid "Folder Settings"
+msgstr "Thiết lập Thư mục"
+
+#: plugins/messageviewerconfigureplugins/gravatar/messageviewer_gravatarconfigplugin.json
+msgctxt "Name"
+msgid "Gravatar"
+msgstr "Gravatar"
+
+#: plugins/messageviewerconfigureplugins/openurlwith/messageviewer_openurlwithconfigplugin.json
+msgctxt "Name"
+msgid "Open Url With"
+msgstr "Mở URL Bằng"
+
+#: plugins/messageviewerconfigureplugins/scamsettings/messageviewer_scamconfiguresettingsplugin.json
+msgctxt "Name"
+msgid "Scam Settings"
+msgstr "Thiết lập Lừa đảo"
+
+#: plugins/messageviewerheaderplugins/briefheaderstyleplugin/messageviewer_briefheaderstyleplugin.json
+msgctxt "Name"
+msgid "Brief Header Style"
+msgstr "Kiểu Đầu Tải Ngắn"
+
+#: plugins/messageviewerheaderplugins/fancyheaderstyleplugin/messageviewer_fancyheaderstyleplugin.json
+msgctxt "Name"
+msgid "Fancy Header Style"
+msgstr "Kiểu cách đầu tải"
+
+#: plugins/messageviewerheaderplugins/grantleeheaderstyleplugin/messageviewer_grantleeheaderstyleplugin.json
+msgctxt "Name"
+msgid "Grantlee Header Style"
+msgstr "Kiểu cách đầu tải"
+
+#: plugins/messageviewerheaderplugins/longheaderstyleplugin/messageviewer_longheaderstyleplugin.json
+msgctxt "Name"
+msgid "Long Header Style"
+msgstr "Kiểu Đầu Tải Dài"
+
+#: plugins/messageviewerheaderplugins/standardsheaderstyleplugin/messageviewer_standardsheaderstyleplugin.json
+msgctxt "Name"
+msgid "Standards Header Style"
+msgstr "Kiểu cách đầu tải chuẩn"
+
+#: plugins/messageviewerplugins/common/expandurlplugin/messageviewer_expandurlplugin.json
+msgctxt "Name"
+msgid "Expand URL"
+msgstr "Mở rộng URL"
+
+#: plugins/messageviewerplugins/createeventplugin/messageviewer_createeventplugin.json
+msgctxt "Name"
+msgid "Create Event"
+msgstr "Tạo sự kiện"
+
+#: plugins/messageviewerplugins/createtodoplugin/messageviewer_createtodoplugin.json
+msgctxt "Name"
+msgid "Create Todo"
+msgstr "Tạo Việc Cần Làm"
+
+#: plugins/messageviewerplugins/externalscriptplugin/messageviewer_externalscriptplugin.json
+msgctxt "Name"
+msgid "External Script"
+msgstr "Kịch bản Bên ngoài"
+
+#: plugins/plasma/pimeventsplugin/pimeventsplugin.json
+msgctxt "Name"
+msgid "Calendar Events"
+msgstr "Sự kiện lịch"
+
+#: plugins/templateparser/templateparseremailaddressrequesterakonadi.json
+msgctxt "Name"
+msgid "Email Address Akonadi Requester for Template Parser library"
+msgstr "Bản mẫu Yêu cầu Địa chỉ Email Akonadi cho thư viện Template Parser"
+
+#: plugins/webengineurlinterceptor/adblock/messageviewer_adblockurlinterceptor.json
+msgctxt "Name"
+msgid "Adblock"
+msgstr "Chặn quảng cáo"
+
+#: plugins/webengineurlinterceptor/donottrack/messageviewer_donottrackurlinterceptor.json
+msgctxt "Name"
+msgid "Do Not Track"
+msgstr "Không theo dõi"
+
+#: kaddressbook/importexportplugins/csv/kaddressbook_importexportcsvplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to import/export CSV."
+msgstr "Phần cài cắm này cho phép bạn nhập/xuất CSV."
+
+#: kaddressbook/importexportplugins/gmx/kaddressbook_importexportgmxplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to import/export GMX."
+msgstr "Phần cài cắm này cho phép bạn nhập/xuất GMX."
+
+#: kaddressbook/importexportplugins/ldap/kaddressbook_importexportldapplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to import/export LDAP contacts."
+msgstr "Phần cài cắm này cho phép bạn nhập/xuất danh bạ LDAP."
+
+#: kaddressbook/importexportplugins/ldif/kaddressbook_importexportldifplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to import/export LDIF."
+msgstr "Phần cài cắm này cho phép bạn nhập/xuất LDIF."
+
+#: kaddressbook/importexportplugins/vcards/kaddressbook_importexportvcardplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to import/export vCards."
+msgstr "Phần cài cắm này cho phép bạn nhập/xuất vCards."
+
+#: kaddressbook/importexportplugins/windows-contacts/kaddressbook_importexportwindowscontactplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to import/export Windows Contacts."
+msgstr "Phần cài cắm này cho phép bạn nhập/xuất Danh bạ Windows."
+
+#: kaddressbook/plugins/checkgravatar/kaddressbook_checkgravatarplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to check the Gravatar images."
+msgstr "Phần cài cắm này cho phép bạn kiểm tra các hình ảnh Gravatar."
+
+#: kaddressbook/plugins/mergecontacts/kaddressbook_mergecontactsplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to merge contacts."
+msgstr "Phần cài cắm này cho phép bạn trộn, hợp các liên hệ."
+
+#: kaddressbook/plugins/searchduplicates/kaddressbook_searchduplicatesplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to search duplicate contacts."
+msgstr "Phần cài cắm này cho phép bạn tìm kiếm các liên hệ trùng lặp."
+
+#: kaddressbook/plugins/sendmail/kaddressbook_sendmailplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to send email directly to selected contacts."
+msgstr ""
+"Phần cài cắm này cho phép bạn gửi thư điện tử trực tiếp đến các liên hệ đã "
+"chọn."
+
+#: kaddressbook/plugins/sendvcards/kaddressbook_sendvcardsplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to send vCard from selected contacts."
+msgstr "Phần cài cắm này cho phép bạn gửi vCard từ các liên hệ đã chọn."
+
+#: kmail/checkbeforedeletemailplugins/confirmbeforedeleting/kmail_confirmbeforedeletingplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to check if we want to delete specific email"
+msgstr ""
+"Phần cài cắm này cho phép bạn kiểm tra xem có muốn xóa một email cụ thể hay "
+"không"
+
+#: kmail/editorconvertertextplugins/markdown/plugin/kmail_markdownplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to generate html from markdown language"
+msgstr "Phần cài cắm này cho phép bạn tạo ra HTML từ ngôn ngữ Markdown"
+
+#: kmail/editorinitplugins/externalcomposer/kmail_externalcomposereditorplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to use an external composer."
+msgstr "Phần cài cắm này cho phép bạn sử dụng một trình soạn thảo bên ngoài."
+
+#: kmail/editorplugins/autocorrection/kmail_autocorrectioneditorplugin.json
+msgctxt "Description"
+msgid ""
+"This plugin allows you to autocorrect all text in composer or selected text."
+msgstr ""
+"Phần cài cắm này cho phép bạn tự động sửa lỗi chính tả trong toàn bộ văn "
+"bản trong trình soạn thảo hoặc trong văn bản đã chọn."
+
+#: kmail/editorplugins/changecase/kmail_changecaseeditorplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to change the case of the selected text."
+msgstr ""
+"Phần cài cắm này cho phép bạn thay đổi chữ hoa/chữ thường của văn bản đã "
+"chọn."
+
+#: kmail/editorplugins/insertemail/kmail_insertemaileditorplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to select email and insert it in composer."
+msgstr ""
+"Phần cài cắm này cho phép bạn bôi đen thư điện tử và chèn nó vào trình soạn "
+"thư."
+
+#: kmail/editorplugins/insertshorturl/kmail_insertshorturleditorplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to generate a shorter URL."
+msgstr "Phần cài cắm này cho phép bạn tạo ra một URL ngắn hơn."
+
+#: kmail/editorplugins/insertspecialcharacter/kmail_insertspecialcharactereditorplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to insert special character in composer."
+msgstr ""
+"Phần cài cắm này cho phép bạn chèn các kí tự đặc biệt trong trình soạn "
+"thảo."
+
+#: kmail/editorplugins/nonbreakingspace/kmail_nonbreakingspaceeditorplugin.json
+msgctxt "Description"
+msgid ""
+"This plugin allows you to add non breaking space. It's useful in french "
+"language."
+msgstr ""
+"Phần cài cắm này cho phép bạn thêm khoảng trắng không ngắt. Nó rất hữu ích "
+"trong tiếng Pháp."
+
+#: kmail/editorplugins/quicktext/kmail_quicktextplugin.json
+msgctxt "Description"
+msgid ""
+"This plugin allows you to insert special text as attachment name, emails etc."
+msgstr ""
+"Phần cài cắm này cho phép bạn chèn văn bản đặc biệt vào tên tệp đính kèm, "
+"email v.v."
+
+#: kmail/editorplugins/sharetext/kmail_sharetexteditorplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to share text."
+msgstr "Phần cài cắm này cho phép bạn chia sẻ văn bản."
+
+#: kmail/editorplugins/zoomtext/kmail_zoomtexteditorplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to change zoom factor in composer."
+msgstr ""
+"Phần cài cắm này cho phép bạn thay đổi hệ số thu phóng trong trình soạn "
+"thảo."
+
+#: kmail/editorsendcheckplugins/automaticaddcontacts/kmail_automaticaddcontactsplugin.json
+msgctxt "Description"
+msgid ""
+"This plugin allows you to add automatically email address to addressbook."
+msgstr "Phần cài cắm này cho phép bạn tự động thêm địa chỉ email vào sổ địa chỉ."
+
+#: kmail/editorsendcheckplugins/checkbeforesend/kmail_checkbeforesendplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to check message settings before sending."
+msgstr ""
+"Phần cài cắm này cho phép bạn kiểm tra thiết lập của thông điệp trước khi "
+"gửi."
+
+#: kmail/editorsendcheckplugins/confirm-address/kmail_confirmaddressplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to check mail before to send it"
+msgstr "Phần cài cắm này cho phép bạn kiểm tra thư trước khi gửi"
+
+#: kmail/grammarplugins/grammalecte/kmail_grammalecteplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to check grammar in french only."
+msgstr "Phần cài cắm này cho phép bạn kiểm tra ngữ pháp chỉ bằng tiếng Pháp."
+
+#: kmail/grammarplugins/languagetool/kmail_languagetoolplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to check grammar using LanguageTool."
+msgstr ""
+"Phần cài cắm này cho phép bạn kiểm tra ngữ pháp bằng cách sử dụng "
+"LanguageTool."
+
+#: kmail/plugins/akonadidatabasetools/kmail_akonadidatabasetoolsplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to manage Akonadi database."
+msgstr "Phần cài cắm này cho phép bạn quản lý cơ sở dữ liệu Akonadi."
+
+#: kmail/plugins/antispamplugin/kmail_antispamplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to configure Anti Spam in KMail."
+msgstr "Phần cài cắm này cho phép bạn cấu hình chức năng chống thư rác trong KMail."
+
+#: kmail/plugins/antivirusplugin/kmail_antivirusplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to configure Anti Virus in KMail."
+msgstr "Phần cài cắm này cho phép bạn cấu hình Phần mềm Diệt Virus trong KMail."
+
+#: kmail/plugins/expertplugin/kmail_expertplugin.json
+msgctxt "Description"
+msgid "This plugin activates some expert actions."
+msgstr "Phần cài cắm này kích hoạt một số hành động chuyên gia."
+
+#: plugins/customtoolsplugins/translatorplugin/pimcommon_translatorplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to translate text."
+msgstr "Phần cài cắm này cho phép bạn dịch văn bản."
+
+#: plugins/messageviewerconfigureplugins/dkim-verify/messageviewer_dkimconfigplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to configure dkim support."
+msgstr "Phần cài cắm này cho phép bạn cấu hình hỗ trợ dkim."
+
+#: plugins/messageviewerconfigureplugins/expireaccounttrashfolder/messageviewer_expireaccounttrashfolderconfigplugin.json
+msgctxt "Description"
+msgid ""
+"This plugin allows you to configure expire trash folder for each accounts."
+msgstr ""
+"Phần cài cắm này cho phép bạn cấu hình thư mục rác hết hạn cho từng tài "
+"khoản."
+
+#: plugins/messageviewerconfigureplugins/foldersettings/messageviewer_folderconfiguresettingsplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to configure folder settings."
+msgstr "Phần cài cắm này cho phép bạn cấu hình các thiết lập của thư mục."
+
+#: plugins/messageviewerconfigureplugins/gravatar/messageviewer_gravatarconfigplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to configure gravatar support."
+msgstr "Phần cài cắm này cho phép bạn cấu hình hỗ trợ gravatar."
+
+#: plugins/messageviewerconfigureplugins/openurlwith/messageviewer_openurlwithconfigplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to configure which apps used for specific url."
+msgstr ""
+"Phần cài cắm này cho phép bạn cấu hình các ứng dụng được sử dụng cho các "
+"URL cụ thể."
+
+#: plugins/messageviewerconfigureplugins/scamsettings/messageviewer_scamconfiguresettingsplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to configure scam settings."
+msgstr "Phần cài cắm này cho phép bạn cấu hình các thiết lập chống lừa đảo."
+
+#: plugins/messageviewerheaderplugins/briefheaderstyleplugin/messageviewer_briefheaderstyleplugin.json
+msgctxt "Description"
+msgid "This plugin reduces mail header to strict minimum."
+msgstr "Phần cài cắm này giảm thiểu đầu tải thư đến mức tối thiểu."
+
+#: plugins/messageviewerheaderplugins/fancyheaderstyleplugin/messageviewer_fancyheaderstyleplugin.json
+msgctxt "Description"
+msgid "This plugin provides you a fancy mail header style."
+msgstr "Phần cài cắm này cung cấp cho bạn một kiểu đầu tải thư điện tử sang trọng."
+
+#: plugins/messageviewerheaderplugins/grantleeheaderstyleplugin/messageviewer_grantleeheaderstyleplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to use a Grantlee-based mail header style."
+msgstr "Phần cài cắm này cho phép bạn sử dụng kiểu đầu tải dựa trên Grantlee."
+
+#: plugins/messageviewerheaderplugins/longheaderstyleplugin/messageviewer_longheaderstyleplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to show all headers from mail."
+msgstr "Phần cài cắm này cho phép bạn hiển thị tất cả các tiêu đề từ thư."
+
+#: plugins/messageviewerheaderplugins/standardsheaderstyleplugin/messageviewer_standardsheaderstyleplugin.json
+msgctxt "Description"
+msgid "This plugin defines the standard mail header style."
+msgstr "Phần cài cắm này định nghĩa kiểu hiển thị tiêu đề thư chuẩn."
+
+#: plugins/messageviewerplugins/common/expandurlplugin/messageviewer_expandurlplugin.json
+msgctxt "Description"
+msgid "This plugin expands URL."
+msgstr "Phần cài cắm này mở rộng URL."
+
+#: plugins/messageviewerplugins/common/translatorplugin/messageviewer_translatorplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to translate selected text."
+msgstr "Phần cài cắm này cho phép bạn dịch văn bản đã chọn."
+
+#: plugins/messageviewerplugins/createeventplugin/messageviewer_createeventplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to create an event from a message."
+msgstr "Phần cài cắm này cho phép bạn tạo một sự kiện từ một tin nhắn."
+
+#: plugins/messageviewerplugins/createtodoplugin/messageviewer_createtodoplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to create a todo from a message."
+msgstr "Phần cài cắm này cho phép bạn tạo một việc cần làm từ một tin nhắn."
+
+#: plugins/messageviewerplugins/externalscriptplugin/messageviewer_externalscriptplugin.json
+msgctxt "Description"
+msgid ""
+"This plugin allows you to use an external script against the message viewer."
+msgstr ""
+"Phần cài cắm này cho phép bạn sử dụng một kịch bản bên ngoài đối với trình "
+"xem thông điệp."
+
+#: plugins/plasma/pimeventsplugin/pimeventsplugin.json
+msgctxt "Description"
+msgid "Calendar plugin for displaying events from KDE PIM calendars"
+msgstr "Phần cài cắm lịch để hiển thị các sự kiện từ lịch KDE PIM"
+
+#: plugins/webengineurlinterceptor/adblock/messageviewer_adblockurlinterceptor.json
+msgctxt "Description"
+msgid "This plugin allows you to block advertising."
+msgstr "Phần cài cắm này cho phép bạn ngưng trệ quảng cáo."
+
+#: plugins/webengineurlinterceptor/donottrack/messageviewer_donottrackurlinterceptor.json
+msgctxt "Description"
+msgid "This plugin adds support for \"do not track\"."
+msgstr "Phần cài cắm này thêm hỗ trợ cho \"không theo dõi\"."
+
+#: plugins/plasma/pimeventsplugin/pimeventsplugin.json
+msgctxt "Authors Name"
+msgid "Daniel Vrátil"
+msgstr "Daniel Vrátil"

@@ -1,0 +1,347 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the knetwalk package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: knetwalk\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-03 00:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, width)
+#: customgame.ui:30
+#, kde-format
+msgid "Width of the grid"
+msgstr "Chiều rộng của lưới"
+
+#. i18n: ectx: property (text), widget (QLabel, width)
+#: customgame.ui:33
+#, kde-format
+msgid "Width:"
+msgstr "Chiều rộng:"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_Wrapping)
+#: customgame.ui:56
+#, kde-format
+msgid "Wrap from left to right and from top to bottom"
+msgstr "Bọc từ trái sang phải và từ trên xuống dưới"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_Wrapping)
+#: customgame.ui:59
+#, kde-format
+msgid "Wrapping"
+msgstr "Bọc"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, height)
+#: customgame.ui:66
+#, kde-format
+msgid "Height of the grid"
+msgstr "Chiều cao của lưới"
+
+#. i18n: ectx: property (text), widget (QLabel, height)
+#: customgame.ui:69
+#, kde-format
+msgid "Height:"
+msgstr "Chiều cao:"
+
+#: gameview.cpp:162
+#, kde-format
+msgid ""
+"Note: to win the game all terminals <strong>and all <em>cables</em></strong> "
+"need to be connected to the server!"
+msgstr ""
+"Lưu ý: để thắng bàn chơi, tất cả các trình dòng lệnh <strong>và tất cả "
+"<em>cáp</em></strong> cần được kết nối với máy chủ!"
+
+#: gameview.cpp:165
+#, kde-format
+msgid "The game is not won yet!"
+msgstr "Trò chơi chưa được thắng!"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, label)
+#: general.ui:17
+#, kde-format
+msgid "Duration for cell to complete one rotation in milliseconds"
+msgstr "Thời gian để một ô hoàn tất một lần xoay tính bằng mili giây"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: general.ui:20
+#, kde-format
+msgid "Rotate duration:"
+msgstr "Thời gian xoay:"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_PlaySounds)
+#: general.ui:40
+#, kde-format
+msgid "Play sounds on actions"
+msgstr "Phát âm thanh khi thực hiện hành động"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_PlaySounds)
+#: general.ui:43
+#, kde-format
+msgid "Play sounds"
+msgstr "Phát âm thanh"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_Autolock)
+#: general.ui:60
+#, kde-format
+msgid "Automatically lock cell after rotation"
+msgstr "Tự động khóa ô sau khi xoay"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_Autolock)
+#: general.ui:63
+#, kde-format
+msgid "Auto lock"
+msgstr "Tự động khóa"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ReverseButtons)
+#: general.ui:83
+#, kde-format
+msgid "Reverse mouse buttons"
+msgstr "Đảo nút chuột"
+
+#. i18n: ectx: label, entry (username), group (Preferences)
+#: knetwalk.kcfg:9
+#, kde-format
+msgid "Default user name"
+msgstr "Tên người dùng mặc định"
+
+#. i18n: ectx: label, entry (PlaySounds), group (General)
+#: knetwalk.kcfg:14
+#, kde-format
+msgid "Whether game sounds are played."
+msgstr "Liệu có phát ra âm thanh của trò chơi hay không."
+
+#. i18n: ectx: label, entry (Autolock), group (General)
+#: knetwalk.kcfg:18
+#, kde-format
+msgid "Whether lock cell after rotation."
+msgstr "Liệu có khóa ô sau khi xoay."
+
+#. i18n: ectx: label, entry (ReverseButtons), group (General)
+#: knetwalk.kcfg:22
+#, kde-format
+msgid "Use left click for clockwise and right click for counter-clockwise."
+msgstr ""
+"Sử dụng click trái để xoay theo chiều kim đồng hồ và click phải để xoay "
+"ngược chiều kim đồng hồ."
+
+#. i18n: ectx: label, entry (RotateDuration), group (General)
+#: knetwalk.kcfg:26
+#, kde-format
+msgid "Duration for cell to complete one rotation."
+msgstr "Thời gian để một ô hoàn tất một lần quay."
+
+#. i18n: ectx: label, entry (Width), group (Custom)
+#: knetwalk.kcfg:34
+#, kde-format
+msgid "The width of the board."
+msgstr "Chiều rộng của bảng."
+
+#. i18n: ectx: label, entry (Height), group (Custom)
+#: knetwalk.kcfg:40
+#, kde-format
+msgid "The height of the board."
+msgstr "Chiều cao của bảng."
+
+#. i18n: ectx: label, entry (Wrapping), group (Custom)
+#: knetwalk.kcfg:46
+#, kde-format
+msgid "Whether wrap from left to right and from top to bottom is enabled."
+msgstr "Cho phép bọc từ trái sang phải và từ trên xuống dưới."
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: knetwalkui.rc:13
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Thanh công cụ chính"
+
+#: main.cpp:25
+#, kde-format
+msgid "KNetWalk"
+msgstr "KNetWalk"
+
+#: main.cpp:26
+#, kde-format
+msgid "KNetWalk, a game for system administrators."
+msgstr "KNetWalk, một bàn chơi dành cho quản trị viên hệ thống."
+
+#: main.cpp:27
+#, kde-format
+msgid ""
+"(C) 2004-2005 Andi Peredri, ported to KDE by Thomas Nagy\n"
+"(C) 2007-2008 Fela Winkelmolen\n"
+"(C) 2013 Ashwin Rajeev"
+msgstr ""
+"(C) 2004-2005 Andi Peredri, được chuyển đổi sang KDE bởi Thomas Nagy\n(C) "
+"2007-2008 Fela Winkelmolen\n(C) 2013 Ashwin Rajeev"
+
+#: main.cpp:32
+#, kde-format
+msgid "Andi Peredri"
+msgstr "Andi Peredri"
+
+#: main.cpp:33
+#, kde-format
+msgid "original author"
+msgstr "tác giả gốc"
+
+#: main.cpp:36
+#, kde-format
+msgid "Thomas Nagy"
+msgstr "Thomas Nagy"
+
+#: main.cpp:37
+#, kde-format
+msgid "KDE port"
+msgstr "Cổng KDE"
+
+#: main.cpp:40
+#, kde-format
+msgid "Ashwin Rajeev"
+msgstr "Ashwin Rajeev"
+
+#: main.cpp:41
+#, kde-format
+msgid "Port to QtQuick"
+msgstr "Chuyển sang QtQuick"
+
+#: main.cpp:44
+#, kde-format
+msgid "Eugene Trounev"
+msgstr "Eugene Trounev"
+
+#: main.cpp:45
+#, kde-format
+msgid "icon design"
+msgstr "thiết kế biểu tượng"
+
+#: main.cpp:48
+#, kde-format
+msgid "Brian Croom"
+msgstr "Brian Croom"
+
+#: main.cpp:49
+#, kde-format
+msgid "Port to use the QGraphicsView framework"
+msgstr "Chuyển sang sử dụng kết cấu QGraphicsView"
+
+#: mainwindow.cpp:84
+#, kde-format
+msgctxt "@item difficulty"
+msgid "Custom"
+msgstr "Tự chọn"
+
+#: mainwindow.cpp:130
+#, kde-format
+msgctxt "@action"
+msgid "&Unlock All"
+msgstr "Mở khóa tất &cả"
+
+#: mainwindow.cpp:135
+#, kde-format
+msgctxt "@action"
+msgid "Move Right"
+msgstr "Di chuyển sang phải"
+
+#: mainwindow.cpp:140
+#, kde-format
+msgctxt "@action"
+msgid "Move Left"
+msgstr "Di chuyển sang trái"
+
+#: mainwindow.cpp:145
+#, kde-format
+msgctxt "@action"
+msgid "Move Up"
+msgstr "Di chuyển lên"
+
+#: mainwindow.cpp:150
+#, kde-format
+msgctxt "@action"
+msgid "Move Down"
+msgstr "Di chuyển xuống"
+
+#: mainwindow.cpp:155
+#, kde-format
+msgctxt "@action"
+msgid "Turn Clockwise"
+msgstr "Xoay theo chiều kim đồng hồ"
+
+#: mainwindow.cpp:160
+#, kde-format
+msgctxt "@action"
+msgid "Turn Counterclockwise"
+msgstr "Xoay ngược chiều kim đồng hồ"
+
+#: mainwindow.cpp:165
+#, kde-format
+msgctxt "@action"
+msgid "Toggle Lock"
+msgstr "Bật/Tắt Khóa"
+
+#: mainwindow.cpp:176
+#, kde-format
+msgctxt "@title:tab"
+msgid "General"
+msgstr "chung"
+
+#: mainwindow.cpp:177
+#, kde-format
+msgctxt "@title:tab"
+msgid "Theme"
+msgstr "Chủ đề"
+
+#: mainwindow.cpp:178
+#, kde-format
+msgctxt "@title:tab"
+msgid "Custom Game"
+msgstr "Trò chơi tự chọn"
+
+#: mainwindow.cpp:187 mainwindow.cpp:244
+#, kde-format
+msgid "Moves Penalty"
+msgstr "Phạt di chuyển"
+
+#: mainwindow.cpp:248
+#, kde-format
+msgid "Your score was %1, you did not make it to the high score list."
+msgid_plural "Your score was %1, you did not make it to the high score list."
+msgstr[0] "Điểm số của bạn là %1, bạn không lọt vào danh sách điểm cao."
+
+#: mainwindow.cpp:273
+#, kde-format
+msgctxt "Number of mouse clicks"
+msgid "Moves: %1"
+msgstr "Lượt di chuyển: %1"
+
+#: mainwindow.cpp:274
+#, kde-format
+msgctxt "Time elapsed"
+msgid "Time: %1"
+msgstr "Thời gian: %1"
+
+#: qml/main.qml:66
+#, kde-format
+msgid "Paused"
+msgstr "Đã tạm dừng"

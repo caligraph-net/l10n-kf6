@@ -32,12 +32,12 @@ msgid "Web Browser"
 msgstr "Trình duyệt mạng"
 
 #: konqy_preload.desktop:4
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Konqueror Preloading During KDE startup"
 msgctxt "Name"
 msgid "Konqueror preloading during desktop environment startup"
-msgstr "Nạp sẵn Konqueror trong lúc khởi chạy KDE"
+msgstr "Nạp sẵn Konqueror trong lúc khởi động môi trường desktop"
 
 #: libkonq/src/directory_bookmarkbar.desktop:3
 msgctxt "Name"
@@ -47,7 +47,7 @@ msgstr "Thanh công cụ Lưu địa chỉ"
 #: org.kde.konqueror.desktop:96
 msgctxt "GenericName"
 msgid "Web Browser, File Manager and Viewer"
-msgstr ""
+msgstr "Trình duyệt web, Trình quản lý và Trình xem tệp"
 
 #: org.kde.konqueror.desktop:137
 msgctxt "Comment"
@@ -55,17 +55,17 @@ msgid "KDE File Manager & Web Browser"
 msgstr "Trình quản lí Tệp và Duyệt mạng KDE"
 
 #: plugins/fsview/fsview.desktop:9
-#, fuzzy
+#, 
 #| msgctxt "GenericName"
 #| msgid "Picture Viewer"
 msgctxt "Name"
 msgid "File Size Viewer"
-msgstr "Bộ xem hình"
+msgstr "Trình xem kích thước tệp"
 
 #: plugins/fsview/fsview.desktop:73
 msgctxt "Comment"
 msgid "View your filesystem as a TreeMap"
-msgstr ""
+msgstr "Xem hệ thống tệp tin của bạn dưới dạng TreeMap"
 
 #: plugins/imagerotation/imageconverter.desktop:6
 msgctxt "X-KDE-Submenu"
@@ -83,12 +83,12 @@ msgid "PNG"
 msgstr "PNG"
 
 #: plugins/imagerotation/imageconverter.desktop:225
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "TIF"
 msgctxt "Name"
 msgid "TIFF"
-msgstr "TIF"
+msgstr "TIFF"
 
 #: plugins/imagerotation/imageconverter.desktop:293
 msgctxt "Name"
@@ -123,7 +123,7 @@ msgstr "Lật ngang"
 #: plugins/webarchiver/thumbnailer/webarchivethumbnail.desktop:3
 msgctxt "Name"
 msgid "Web Archives and HTML files"
-msgstr ""
+msgstr "Tệp web và HTML"
 
 #: settings/konqhtml/css/kcmcss.desktop:10
 msgctxt "Name"
@@ -136,7 +136,7 @@ msgid "Configure the stylesheets used to render web pages"
 msgstr "Cấu hình kiểu dáng mẫu được dùng để vẽ trang mạng"
 
 #: settings/konqhtml/css/kcmcss.desktop:193
-#, fuzzy
+#, 
 #| msgctxt "Keywords"
 #| msgid "CSS,HTML,style,stylesheet,accessibility"
 msgctxt "X-KDE-Keywords"
@@ -154,7 +154,7 @@ msgid "Configure settings that can improve Konqueror performance"
 msgstr "Cấu hình thiết lập nâng cao khả năng của Konqueror"
 
 #: settings/performance/kcmkonqyperformance.desktop:189
-#, fuzzy
+#, 
 #| msgctxt "Keywords"
 #| msgid "konqueror,reuse,preloading"
 msgctxt "X-KDE-Keywords"
@@ -183,7 +183,7 @@ msgstr "Phông chữ"
 #: sidebar/default_entries/fonts.desktop:90
 msgctxt "Comment"
 msgid "Personal and System fonts list."
-msgstr ""
+msgstr "Danh sách phông chữ cá nhân và hệ thống."
 
 #: sidebar/default_entries/history.desktop:7
 msgctxt "Name"
@@ -210,28 +210,28 @@ msgid "This folder contains your personal files"
 msgstr "Thư mục này chứa các tệp cá nhân của bạn"
 
 #: sidebar/default_entries/places.desktop:9
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Faces"
 msgctxt "Name"
 msgid "Places"
-msgstr "Các mặt"
+msgstr "Địa điểm"
 
 #: sidebar/default_entries/places.desktop:85
-#, fuzzy
+#, 
 #| msgctxt "Comment"
 #| msgid "This is the root of the filesystem"
 msgctxt "Comment"
 msgid "This is the list of places."
-msgstr "Đây là gốc của hệ thống tệp"
+msgstr "Đây là danh sách các vị trí."
 
 #: sidebar/default_entries/remote.desktop:11
-#, fuzzy
+#, 
 #| msgctxt "GenericName"
 #| msgid "Remote Access"
 msgctxt "Name"
 msgid "Remote"
-msgstr "Truy cập từ xa"
+msgstr "Từ xa"
 
 #: sidebar/default_entries/root.desktop:11
 msgctxt "Name"

@@ -1,0 +1,667 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the skanpage package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: skanpage\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-25 00:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: DocumentModel.cpp:54 DocumentModel.cpp:71 DocumentModel.cpp:82
+#, kde-format
+msgid "New document"
+msgstr "Tài liệu mới"
+
+#: DocumentModel.cpp:74
+#, kde-format
+msgctxt "for file names, indicates a range: from file0000.png to file0014.png"
+msgid "%1 ... %2"
+msgstr "%1 ... %2"
+
+#: DocumentPrinter.cpp:33
+#, kde-format
+msgid "Nothing to print."
+msgstr "Không có gì để in."
+
+#: DocumentPrinter.cpp:37
+#, kde-format
+msgid "Previous printing operation still in progress."
+msgstr "Thao tác in trước đó vẫn đang tiến hành."
+
+#: DocumentPrinter.cpp:69
+#, kde-format
+msgid "Document sent to printer."
+msgstr "Tài liệu đã được gửi đến máy in."
+
+#: DocumentSaver.cpp:34
+#, kde-format
+msgid "No file path given."
+msgstr "Không có đường dẫn tệp được cung cấp."
+
+#: DocumentSaver.cpp:38
+#, kde-format
+msgid "Nothing to save."
+msgstr "Không có gì để lưu."
+
+#: DocumentSaver.cpp:42
+#, kde-format
+msgid "Saving to non-local directories is currently unsupported."
+msgstr "Hiện tại không hỗ trợ lưu vào các thư mục không cục bộ."
+
+#: DocumentSaver.cpp:67 DocumentSaver.cpp:99
+#, kde-format
+msgctxt "%1 is the error message"
+msgid "An error ocurred while saving: %1."
+msgstr "Đã xảy ra lỗi khi lưu: %1."
+
+#: DocumentSaver.cpp:75 DocumentSaver.cpp:108 DocumentSaver.cpp:174
+#, kde-format
+msgctxt "indicate status update during saving"
+msgid "Processing page %1 to save the document."
+msgstr "Đang xử lý trang %1 để lưu tài liệu."
+
+#: DocumentSaver.cpp:80
+#, kde-format
+msgid "Document saved as PDF."
+msgstr "Tài liệu đã được lưu dưới dạng PDF."
+
+#: DocumentSaver.cpp:113
+#, kde-format
+msgid "Document saved with OCR as PDF."
+msgstr "Tài liệu đã được lưu với OCR dưới dạng PDF."
+
+#: DocumentSaver.cpp:194
+#, kde-format
+msgid "Document saved as image."
+msgstr "Tài liệu đã được lưu dưới dạng hình ảnh."
+
+#: DocumentSaver.cpp:203
+#, kde-format
+msgid "Failed to save document as image."
+msgstr "Không thể lưu tài liệu dưới dạng hình ảnh."
+
+#: DocumentSaver.cpp:218
+#, kde-format
+msgid "Failed to save image."
+msgstr "Không thể lưu hình ảnh."
+
+#: FormatModel.cpp:54
+#, kde-format
+msgid "All files"
+msgstr "Tất cả các tệp"
+
+#: ImageImport.cpp:42
+#, kde-format
+msgid "Failed to load image!"
+msgstr "Không thể tải hình ảnh!"
+
+#: ImageImport.cpp:53
+#, kde-format
+msgid "Failed to load PDF file!"
+msgstr "Không thể tải tệp PDF!"
+
+#: main.cpp:56
+#, kde-format
+msgid "Skanpage"
+msgstr "Skanpage"
+
+#: main.cpp:58
+#, kde-format
+msgid "Multi-page scanning application by KDE."
+msgstr "Ứng dụng quét đa trang của KDE."
+
+#: main.cpp:60
+#, kde-format
+msgid "© 2015-2022 Kåre Särs, Alexander Stippich"
+msgstr "© 2015-2022 Kåre Särs, Alexander Stippich"
+
+#: main.cpp:63 main.cpp:64
+#, kde-format
+msgid "developer"
+msgstr "nhà phát triển"
+
+#: main.cpp:75
+#, kde-format
+msgid "Sane scanner device name. Use 'test' for test device."
+msgstr "Tên thiết bị quét hợp lý. Sử dụng 'kiểm thử' để kiểm thử thiết bị."
+
+#: main.cpp:75
+#, kde-format
+msgid "device"
+msgstr "thiết bị"
+
+#: main.cpp:78
+#, kde-format
+msgid "A file path in which the options of your scanner device are dumped."
+msgstr "Một đường dẫn tệp tin nơi các tùy chọn của thiết bị quét của bạn được đổ."
+
+#: qml/ContentView.qml:18
+#, kde-format
+msgctxt "Prefix for document name indicating an unsaved document"
+msgid "* %1"
+msgstr "* %1"
+
+#: qml/DeviceSelection.qml:54
+#, kde-format
+msgctxt ""
+"Device vendor with device model, followed by the device name identifier"
+msgid ""
+"%1 %2\n"
+"(%3)"
+msgstr "%1 %2\n(%3)"
+
+#: qml/DeviceSelection.qml:69
+#, kde-kuit-format
+msgctxt "@info"
+msgid "No devices found."
+msgstr "Không tìm thấy thiết bị."
+
+#: qml/DeviceSelection.qml:86
+#, kde-format
+msgid "Open selected device"
+msgstr "Mở thiết bị đã chọn"
+
+#: qml/DeviceSelection.qml:95
+#, kde-format
+msgid "Reload devices list"
+msgstr "Tải lại danh sách thiết bị"
+
+#: qml/DevicesLoading.qml:29
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Searching for available devices."
+msgstr "Đang tìm kiếm các thiết bị hiện có."
+
+#: qml/DocumentList.qml:73
+#, kde-format
+msgid "Select previous page"
+msgstr "Chọn trang trước"
+
+#: qml/DocumentList.qml:79
+#, kde-format
+msgid "Select next page"
+msgstr "Chọn trang tiếp theo"
+
+#: qml/DocumentList.qml:85
+#, kde-format
+msgid "Move selected page up"
+msgstr "Di chuyển trang đã chọn lên trên"
+
+#: qml/DocumentList.qml:94
+#, kde-format
+msgid "Move selected page down"
+msgstr "Di chuyển trang đã chọn xuống dưới"
+
+#: qml/DocumentList.qml:205
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Processing page..."
+msgstr "Đang xử lý trang..."
+
+#: qml/DocumentList.qml:218
+#, kde-format
+msgctxt "Page index"
+msgid "Page %1"
+msgstr "Trang %1"
+
+#: qml/DocumentList.qml:229
+#, kde-format
+msgid "Move Up"
+msgstr "Di chuyển lên"
+
+#: qml/DocumentList.qml:239
+#, kde-format
+msgid "Move Down"
+msgstr "Di chuyển xuống"
+
+#: qml/DocumentList.qml:249 qml/DocumentPage.qml:140
+#, kde-format
+msgid "Rotate Left"
+msgstr "Xoay Trái"
+
+#: qml/DocumentList.qml:255 qml/DocumentPage.qml:147
+#, kde-format
+msgid "Rotate Right"
+msgstr "Xoay Phải"
+
+#: qml/DocumentList.qml:261 qml/DocumentPage.qml:154
+#, kde-format
+msgid "Flip"
+msgstr "Lật"
+
+#: qml/DocumentList.qml:267 qml/DocumentPage.qml:161
+#, kde-format
+msgid "Save Page"
+msgstr "Lưu trang"
+
+#: qml/DocumentList.qml:273 qml/DocumentPage.qml:168
+#, kde-format
+msgid "Delete Page"
+msgstr "Xóa trang"
+
+#: qml/DocumentList.qml:292
+#, kde-format
+msgid "%1 page"
+msgid_plural "%1 pages"
+msgstr[0] "%1 trang"
+
+#: qml/DocumentList.qml:301
+#, kde-format
+msgid "Flip Pages"
+msgstr "Lật trang"
+
+#: qml/DocumentList.qml:306
+#, kde-format
+msgid "Flip Odd Pages"
+msgstr "Lật các trang lẻ"
+
+#: qml/DocumentList.qml:313
+#, kde-format
+msgid "Flip Even Pages"
+msgstr "Lật các trang chẵn"
+
+#: qml/DocumentList.qml:320
+#, kde-format
+msgid "Flip All Pages"
+msgstr "Lật tất cả các trang"
+
+#: qml/DocumentList.qml:328
+#, kde-format
+msgid "Reorder Pages"
+msgstr "Sắp xếp lại các trang"
+
+#: qml/DocumentList.qml:333
+#, kde-format
+msgctxt "Indicates how pages are going to be reordered"
+msgid "13 24 → 1234"
+msgstr "13 24 → 1234"
+
+#: qml/DocumentList.qml:340
+#, kde-format
+msgctxt "Indicates how pages are going to be reordered"
+msgid "13 42 → 1234"
+msgstr "13 42 → 1234"
+
+#: qml/DocumentList.qml:347
+#, kde-format
+msgid "Reverse Order"
+msgstr "Đảo ngược thứ tự"
+
+#: qml/DocumentPage.qml:40
+#, kde-kuit-format
+msgctxt "@info"
+msgid "You do not have any images in this document.<nl/><nl/>Start scanning!"
+msgstr "Bạn không có bất kỳ hình ảnh nào trong tài liệu này.<nl/><nl/>Bắt đầu quét!"
+
+#: qml/DocumentPage.qml:98
+#, kde-format
+msgid "Zoom In"
+msgstr "Thu phóng"
+
+#: qml/DocumentPage.qml:107
+#, kde-format
+msgid "Zoom Out"
+msgstr "Thu phóng"
+
+#: qml/DocumentPage.qml:116
+#, kde-format
+msgid "Zoom Fit"
+msgstr "Thu phóng vừa"
+
+#: qml/DocumentPage.qml:132
+#, kde-format
+msgid "Zoom 100%"
+msgstr "Thu phóng 100%"
+
+#: qml/ExportWindow.qml:21 qml/MainWindow.qml:121
+#, kde-format
+msgid "Export PDF"
+msgstr "Xuất khẩu PDF"
+
+#: qml/ExportWindow.qml:44
+#, kde-format
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: qml/ExportWindow.qml:60
+#, kde-format
+msgid "File:"
+msgstr "Tệp:"
+
+#: qml/ExportWindow.qml:85
+#, kde-format
+msgid "Enable optical character recognition (OCR)"
+msgstr "Bật nhận dạng quang học ký tự (OCR)"
+
+#: qml/ExportWindow.qml:105
+#, kde-format
+msgid "Languages:"
+msgstr "Ngôn ngữ:"
+
+#: qml/ExportWindow.qml:133
+#, kde-format
+msgid "%1 [%2]"
+msgstr "%1 [%2]"
+
+#: qml/ExportWindow.qml:154
+#, kde-format
+msgid ""
+"If your required language is not listed, please install Tesseract's language "
+"file with your package manager."
+msgstr ""
+"Nếu ngôn ngữ yêu cầu của bạn không được liệt kê, vui lòng cài đặt tệp ngôn "
+"ngữ của Tesseract bằng trình quản lý gói của bạn."
+
+#: qml/ExportWindow.qml:180
+#, kde-format
+msgid "Save"
+msgstr "Lưu"
+
+#: qml/ExportWindow.qml:196 qml/MainWindow.qml:163
+#, kde-format
+msgid "Cancel"
+msgstr "huỷ"
+
+#: qml/GlobalMenu.qml:26
+#, kde-format
+msgctxt "menu category"
+msgid "File"
+msgstr "Tệp"
+
+#: qml/GlobalMenu.qml:68
+#, kde-format
+msgctxt "menu category"
+msgid "Scan"
+msgstr "Quét"
+
+#: qml/GlobalMenu.qml:124
+#, kde-format
+msgctxt "menu category"
+msgid "Help"
+msgstr "Trợ giúp"
+
+#: qml/InProgressPage.qml:26
+#, kde-kuit-format
+msgctxt "Countdown string with time given in seconds"
+msgid "Next scan starts in<nl/>%1 s"
+msgstr "Lần quét tiếp theo bắt đầu sau<nl/>%1 gy"
+
+#: qml/InProgressPage.qml:44
+#, kde-format
+msgctxt "@info"
+msgid "Scan in progress."
+msgstr "Đang quét."
+
+#: qml/MainWindow.qml:23
+#, kde-format
+msgctxt "document title: app title"
+msgid "%1 ― Skanpage"
+msgstr "%1 ― Skanpage"
+
+#: qml/MainWindow.qml:85
+#, kde-format
+msgid "Discard All"
+msgstr "Loại Bỏ Tất Cả"
+
+#: qml/MainWindow.qml:94
+#, kde-format
+msgid "Save All"
+msgstr "Lưu Tất Cả"
+
+#: qml/MainWindow.qml:108
+#, kde-format
+msgctxt "@action:button import existing PDF file"
+msgid "Import"
+msgstr "Nhập khẩu"
+
+#: qml/MainWindow.qml:129
+#, kde-format
+msgid "Preview"
+msgstr "xem thử"
+
+#: qml/MainWindow.qml:148
+#, kde-format
+msgid "Scan"
+msgstr "Quét"
+
+#: qml/MainWindow.qml:172
+#, kde-format
+msgid "Show Scanner Options"
+msgstr "Hiển thị Tùy chọn Máy quét"
+
+#: qml/MainWindow.qml:182 qml/ShareWindow.qml:20
+#, kde-format
+msgid "Share"
+msgstr "Chia sẻ"
+
+#: qml/MainWindow.qml:190
+#, kde-format
+msgid "Print"
+msgstr "In"
+
+#: qml/MainWindow.qml:211 qml/MainWindow.qml:423
+#, kde-format
+msgid "About Skanpage"
+msgstr "Về Skanpage"
+
+#: qml/MainWindow.qml:218
+#, kde-format
+msgid "Configure Skanpage…"
+msgstr "Cấu hình Skanpage..."
+
+#: qml/MainWindow.qml:226
+#, kde-format
+msgid "Configure Keyboard Shortcuts…"
+msgstr "Cấu hình phím tắt bàn phím..."
+
+#: qml/MainWindow.qml:234
+#, kde-format
+msgid "Quit"
+msgstr "Thoát"
+
+#: qml/OptionDelegate.qml:55
+#, kde-format
+msgid "%1:"
+msgstr "%1:"
+
+#: qml/OptionDelegate.qml:150
+#, kde-format
+msgctxt "Add ':' to make a header text"
+msgid "%1:"
+msgstr "%1:"
+
+#: qml/OptionDelegate.qml:154
+#, kde-format
+msgctxt "@option:check a noun, as in 'the default setting'"
+msgid "Default"
+msgstr "Mặc định"
+
+#: qml/OptionDelegate.qml:168
+#, kde-format
+msgctxt "%1 is a numeric value"
+msgid "Brightness: %1"
+msgstr "Độ sáng: %1"
+
+#: qml/OptionDelegate.qml:181
+#, kde-format
+msgctxt "%1 is a numeric value"
+msgid "Contrast: %1"
+msgstr "Độ tương phản: %1"
+
+#: qml/OptionDelegate.qml:194
+#, kde-format
+msgctxt "%1 is a numeric value"
+msgid "Gamma: %1"
+msgstr "Gamma: %1"
+
+#: qml/OptionDelegate.qml:224
+#, kde-format
+msgctxt "Adding unit suffix"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: qml/OptionDelegate.qml:249
+#, kde-format
+msgctxt "Unit suffix for bit"
+msgid "bit"
+msgstr "bit"
+
+#: qml/OptionDelegate.qml:252
+#, kde-format
+msgctxt "Unit suffix for DPI"
+msgid "DPI"
+msgstr "DPI"
+
+#: qml/OptionDelegate.qml:255
+#, kde-format
+msgctxt "Unit suffix for microsecond"
+msgid "µs"
+msgstr "µs"
+
+#: qml/OptionDelegate.qml:258
+#, kde-format
+msgctxt "Unit suffix for second"
+msgid "s"
+msgstr "gy"
+
+#: qml/OptionDelegate.qml:261
+#, kde-format
+msgctxt "Unit suffix for millimeter"
+msgid "mm"
+msgstr "mm"
+
+#: qml/OptionDelegate.qml:264
+#, kde-format
+msgctxt "Unit suffix for percent"
+msgid "%"
+msgstr "%"
+
+#: qml/OptionDelegate.qml:267
+#, kde-format
+msgctxt "Unit suffix for pixel"
+msgid "px"
+msgstr "px"
+
+#: qml/OptionsPanel.qml:30
+#, kde-format
+msgid "Select options for quick access:"
+msgstr "Chọn tùy chọn để truy cập nhanh:"
+
+#: qml/OptionsPanel.qml:71
+#, kde-format
+msgctxt "scanner device vendor and model"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: qml/OptionsPanel.qml:84
+#, kde-format
+msgid "Show More"
+msgstr "Hiện thêm"
+
+#: qml/OptionsPanel.qml:94
+#, kde-format
+msgid "Configure Visibility"
+msgstr "Cấu hình Khả kiến"
+
+#: qml/OptionsPanel.qml:109
+#, kde-format
+msgid "Reselect Scanner"
+msgstr "Chọn lại máy quét"
+
+#: qml/PreviewScanView.qml:239
+#, kde-format
+msgid "Discard this selection"
+msgstr "Loại bỏ phần bôi đen này"
+
+#: qml/PreviewScanView.qml:262
+#, kde-format
+msgid "New Preview Scan"
+msgstr "Xem thử quét mới"
+
+#: qml/PreviewScanView.qml:271
+#, kde-format
+msgid "Add Selection Area"
+msgstr "Thêm Vùng Chọn"
+
+#: qml/PreviewScanView.qml:275
+#, kde-format
+msgid "Click and drag to select another area"
+msgstr "Bấm và kéo để bôi đen một khu vực khác"
+
+#: qml/PreviewScanView.qml:285
+#, kde-format
+msgid "Split Scan Vertically"
+msgstr "Chia quét dọc"
+
+#: qml/PreviewScanView.qml:295
+#, kde-format
+msgid "Split Scan Horizontally"
+msgstr "Chia quét ngang"
+
+#: qml/PreviewScanView.qml:305
+#, kde-format
+msgid "Close Preview"
+msgstr "Đóng xem thử"
+
+#: qml/SettingsWindow.qml:20
+#, kde-format
+msgid "Configure"
+msgstr "Cấu hình"
+
+#: qml/SettingsWindow.qml:38
+#, kde-format
+msgid "Devices to show:"
+msgstr "Thiết bị để hiển thị:"
+
+#: qml/SettingsWindow.qml:39
+#, kde-format
+msgctxt "@option:radio Devices to show for scanning"
+msgid "Scanners only"
+msgstr "Chỉ máy quét"
+
+#: qml/SettingsWindow.qml:46
+#, kde-format
+msgctxt "@option:radio Devices to show for scanning"
+msgid "Scanners, cameras, and virtual devices"
+msgstr "Máy quét, máy ảnh và thiết bị ảo"
+
+#: qml/SettingsWindow.qml:53
+#, kde-format
+msgid "Default file format:"
+msgstr "Định dạng tệp mặc định:"
+
+#: qml/SettingsWindow.qml:70
+#, kde-format
+msgid "Default save location:"
+msgstr "Vị trí lưu mặc định:"
+
+#: qml/SettingsWindow.qml:103
+#, kde-format
+msgid "Close"
+msgstr "Đóng"
+
+#: qml/ShareWindow.qml:42
+#, kde-format
+msgid "Share as:"
+msgstr "Chia sẻ dưới dạng:"

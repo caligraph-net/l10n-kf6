@@ -1,0 +1,860 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: contents/ui/gallery/CardsLayoutGallery.qml:30
+msgctxt "CardsLayoutGallery|"
+msgid "Cards Layout"
+msgstr "Bố cục thẻ"
+
+#: contents/ui/gallery/CardsLayoutGallery.qml:43
+msgctxt "CardsLayoutGallery|"
+msgid "AbstractCard"
+msgstr "AbstractCard"
+
+#: contents/ui/gallery/CardsLayoutGallery.qml:48
+msgctxt "CardsLayoutGallery|"
+msgid ""
+"An AbstractCard is the simplest form of card. It's just a rectangle with a "
+"shadow, which can contain any Item in it. It can also have items assigned to "
+"the Header or Footer properties. In this case a Kirigami.Heading is its "
+"header and a Label with WordWrap is the contentItem."
+msgstr ""
+"AbstractCard là dạng thẻ đơn giản nhất. Nó chỉ là một hình chữ nhật với "
+"bóng đổ, có thể chứa bất kỳ mục nào bên trong. Nó cũng có thể có các mục "
+"được gán cho các thuộc tính Đầu tải hoặc Chân trang. Trong trường hợp này, "
+"Kirigami.Heading là đầu tải và Label với WordWrap là mục nội dung."
+
+#: contents/ui/gallery/CardsLayoutGallery.qml:56
+msgctxt "CardsLayoutGallery|"
+msgid ""
+"This is an AbstractCard with a Label with WordWrap in it and nothing else, "
+"it's the simplest form Cards can be found in.\n"
+"An AbstractCard can be clicked itself, with the usual onClicked signal "
+"handler and the showClickFeedback property can be used if the click should "
+"show any kind of visual feedback. It is recommended to set it to true if you "
+"plan to make the card reactive on any kind of click."
+msgstr ""
+"Đây là một AbstractCard với một Nhãn có WordWrap bên trong và không có gì "
+"khác, đây là dạng đơn giản nhất mà các Thẻ có thể được tìm thấy.\nMột "
+"AbstractCard có thể được bấm vào chính nó, với bộ xử lý tín hiệu onClicked "
+"thông thường và thuộc tính showClickFeedback có thể được sử dụng nếu bấm "
+"vào nó nên hiển thị bất kỳ loại phản hồi trực quan nào. Nó được khuyến nghị "
+"đặt thành true nếu bạn dự định làm cho thẻ phản ứng với bất kỳ loại bấm "
+"nào."
+
+#: contents/ui/gallery/CardsLayoutGallery.qml:58
+msgctxt "CardsLayoutGallery|"
+msgid "Card clicked"
+msgstr "Thẻ đã được nhấp"
+
+#: contents/ui/gallery/CardsLayoutGallery.qml:64
+#: contents/ui/gallery/CardsLayoutGallery.qml:86
+#: contents/ui/gallery/CardsLayoutGallery.qml:124
+#: contents/ui/gallery/CardsLayoutGallery.qml:198
+msgctxt "CardsLayoutGallery|"
+msgid "Action1"
+msgstr "Hành động 1"
+
+#: contents/ui/gallery/CardsLayoutGallery.qml:68
+#: contents/ui/gallery/CardsLayoutGallery.qml:90
+#: contents/ui/gallery/CardsLayoutGallery.qml:128
+#: contents/ui/gallery/CardsLayoutGallery.qml:202
+msgctxt "CardsLayoutGallery|"
+msgid "Action2"
+msgstr "Hành động 2"
+
+#: contents/ui/gallery/CardsLayoutGallery.qml:74
+msgctxt "CardsLayoutGallery|"
+msgid "Card"
+msgstr "Thẻ"
+
+#: contents/ui/gallery/CardsLayoutGallery.qml:78
+msgctxt "CardsLayoutGallery|"
+msgid ""
+"This is an instance of the Card type: it can optionally have an image, a "
+"title and an icon assigned to its banner group property, one or all of the "
+"properties together. A Card can also have Actions that will appear in the "
+"footer."
+msgstr ""
+"Đây là một hiện thể của kiểu Thẻ: nó có thể tùy chọn có một hình ảnh, một "
+"tiêu đề và một biểu tượng được gán cho thuộc tính nhóm banner của nó, một "
+"hoặc tất cả các thuộc tính cùng nhau. Một Thẻ cũng có thể có Hành động sẽ "
+"xuất hiện trong chân trang."
+
+#: contents/ui/gallery/CardsLayoutGallery.qml:94
+msgctxt "CardsLayoutGallery|"
+msgid "Action3"
+msgstr "Hành động 3"
+
+#: contents/ui/gallery/CardsLayoutGallery.qml:98
+msgctxt "CardsLayoutGallery|"
+msgid "Action4"
+msgstr "Hành động 4"
+
+#: contents/ui/gallery/CardsLayoutGallery.qml:102
+msgctxt "CardsLayoutGallery|"
+msgid "Action5"
+msgstr "Hành động 5"
+
+#: contents/ui/gallery/CardsLayoutGallery.qml:106
+msgctxt "CardsLayoutGallery|"
+msgid "Action6"
+msgstr "Hành động 6"
+
+#: contents/ui/gallery/CardsLayoutGallery.qml:117
+msgctxt "CardsLayoutGallery|"
+msgid ""
+"The title can be aligned to all corners or centered with a combination of "
+"Qt.Alignment flags.\n"
+" When there are too many actions, they go in an overflow menu."
+msgstr ""
+"Tiêu đề có thể được căn chỉnh vào tất cả các góc hoặc được căn giữa bằng "
+"cách sử dụng các cờ Qt.Alignment.\n Khi có quá nhiều hành động, chúng sẽ "
+"được đưa vào một menu tràn."
+
+#: contents/ui/gallery/CardsLayoutGallery.qml:132
+msgctxt "CardsLayoutGallery|"
+msgid "Action always hidden"
+msgstr "Hành động luôn ẩn"
+
+#: contents/ui/gallery/CardsLayoutGallery.qml:143
+msgctxt "CardsLayoutGallery|"
+msgid ""
+"The Banner can contain only the title and/or an icon, even if there is no "
+"banner image."
+msgstr ""
+"Băng-rôn chỉ có thể chứa tiêu đề và/hoặc một biểu tượng, ngay cả khi không "
+"có hình ảnh băng-rôn."
+
+#: contents/ui/gallery/CardsLayoutGallery.qml:166
+msgctxt "CardsLayoutGallery|"
+msgid ""
+"It's possible to have custom contents overlapping the image, for cases where "
+"a more personalized design is needed."
+msgstr ""
+"Có thể có nội dung tùy chỉnh chồng lên trên hình ảnh, cho những trường hợp "
+"cần thiết kế cá nhân hóa hơn."
+
+#: contents/ui/gallery/CardsLayoutGallery.qml:181
+msgctxt "CardsLayoutGallery|"
+msgid ""
+"It's possible to customize the look and feel for Cards too, if the no "
+"padding behavior for headers is needed. This is usually discouraged in order "
+"to have greater consistency, but in some cases the design requires a more "
+"fancy layout, as shown in this example of a Card. If a custom header is "
+"used, the title and icon in the banner property shouldn't be used. If a "
+"custom footer is used (which is discouraged), actions shouldn't be used."
+msgstr ""
+"Có thể tùy chỉnh giao diện và cảm giác cho Thẻ, nếu hành vi không có lề cho "
+"tiêu đề là cần thiết. Điều này thường bị khuyến cáo để có sự nhất quán lớn "
+"hơn, nhưng trong một số trường hợp, thiết kế yêu cầu bố cục phức tạp hơn, "
+"như được hiển thị trong ví dụ này về một Thẻ. Nếu sử dụng tiêu đề tùy "
+"chỉnh, không nên sử dụng thuộc tính tiêu đề và biểu tượng trong thuộc tính "
+"banner. Nếu sử dụng chân trang tùy chỉnh (điều này bị khuyến cáo), không "
+"nên sử dụng các hành động."
+
+#: contents/ui/gallery/CardsLayoutGallery.qml:186
+msgctxt "CardsLayoutGallery|"
+msgid "Custom footer"
+msgstr "Chân trang tùy chỉnh"
+
+#: contents/ui/gallery/CardsLayoutGallery.qml:189
+msgctxt "CardsLayoutGallery|"
+msgid "Ok"
+msgstr "Đồng ý"
+
+#: contents/ui/gallery/CardsLayoutGallery.qml:212
+msgctxt "CardsLayoutGallery|"
+msgid ""
+"A card can optionally have horizontal orientation.\n"
+" In this case will be wider than tall, so is fit to be used also in a "
+"ColumnLayout.\n"
+"If you need to put it in a CardsLayout, it will have by default a columnSpan "
+"of 2 (which can be overridden)."
+msgstr ""
+"Một thẻ có thể tùy chọn có hướng ngang. Trong trường hợp này, nó sẽ rộng "
+"hơn cao, vì vậy phù hợp để sử dụng trong một ColumnLayout. Nếu bạn cần đặt "
+"nó trong một CardsLayout, nó sẽ có columnSpan mặc định là 2 (có thể ghi "
+"đè)."
+
+#: contents/ui/gallery/CardsListViewGallery.qml:30
+msgctxt "CardsListViewGallery|"
+msgid "List view of simple cards"
+msgstr "Khung xem của các thẻ đơn giản"
+
+#: contents/ui/gallery/CardsListViewGallery.qml:67
+msgctxt "CardsListViewGallery|"
+msgid "Product "
+msgstr "Sản phẩm "
+
+#: contents/ui/gallery/CardsListViewGallery.qml:75
+msgctxt "CardsListViewGallery|"
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id risus id "
+"augue euismod accumsan."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id mã định "
+"danh id augue euismod accumsan."
+
+#: contents/ui/gallery/CardsListViewGallery.qml:81
+msgctxt "CardsListViewGallery|"
+msgid "Install"
+msgstr "Cài đặt"
+
+#: contents/ui/gallery/ChipGallery.qml:31
+msgctxt "ChipGallery|"
+msgid "Chips"
+msgstr "Chips"
+
+#: contents/ui/gallery/ChipGallery.qml:46
+msgctxt "ChipGallery|"
+msgid "Closable Chips"
+msgstr "Các Chip có thể đóng"
+
+#: contents/ui/gallery/ChipGallery.qml:76
+msgctxt "ChipGallery|"
+msgid "Informative Chips"
+msgstr "Các Chip Thông Tin"
+
+#: contents/ui/gallery/ChipGallery.qml:112
+msgctxt "ChipGallery|"
+msgid "Checkable Chips"
+msgstr "Các Chip có thể kiểm tra"
+
+#: contents/ui/gallery/ColorsGallery.qml:30
+msgctxt "ColorsGallery|"
+msgid "Colors"
+msgstr "Màu sắc"
+
+#: contents/ui/gallery/components/InfoSheet.qml:50
+msgctxt "InfoSheet|"
+msgid "HIG…"
+msgstr "HIG..."
+
+#: contents/ui/gallery/components/InfoSheet.qml:55
+msgctxt "InfoSheet|"
+msgid "Source code…"
+msgstr "Mã nguồn..."
+
+#: contents/ui/gallery/components/InfoSheet.qml:60
+msgctxt "InfoSheet|"
+msgid "API…"
+msgstr "API..."
+
+#: contents/ui/gallery/components/InfoSheetAction.qml:16
+msgctxt "InfoSheetAction|"
+msgid "Info"
+msgstr "Thông tin"
+
+#: contents/ui/gallery/DialogGallery.qml:34
+msgctxt "DialogGallery|"
+msgid "Dialogs"
+msgstr "Hộp thoại"
+
+#: contents/ui/gallery/DialogGallery.qml:58
+msgctxt "DialogGallery|"
+msgid "Create Folder"
+msgstr "Tạo Thư Mục"
+
+#: contents/ui/gallery/DialogGallery.qml:66
+msgctxt "DialogGallery|"
+msgid "Cancel"
+msgstr "Huỷ"
+
+#: contents/ui/gallery/DialogGallery.qml:75
+msgctxt "DialogGallery|"
+msgid "Folder name:"
+msgstr "Tên thư mục:"
+
+#: contents/ui/gallery/DialogGallery.qml:83
+msgctxt "DialogGallery|"
+msgid "Alarm Snooze Length"
+msgstr "Thời gian báo thức tạm hoãn"
+
+#: contents/ui/gallery/DialogGallery.qml:92
+msgctxt "DialogGallery|"
+msgid "1 minute"
+msgstr "1 phút"
+
+#: contents/ui/gallery/DialogGallery.qml:93
+msgctxt "DialogGallery|"
+msgid "2 minutes"
+msgstr "2 phút"
+
+#: contents/ui/gallery/DialogGallery.qml:94
+msgctxt "DialogGallery|"
+msgid "3 minutes"
+msgstr "3 phút"
+
+#: contents/ui/gallery/DialogGallery.qml:95
+msgctxt "DialogGallery|"
+msgid "4 minutes"
+msgstr "4 phút"
+
+#: contents/ui/gallery/DialogGallery.qml:96
+msgctxt "DialogGallery|"
+msgid "5 minutes"
+msgstr "5 phút"
+
+#: contents/ui/gallery/DialogGallery.qml:97
+msgctxt "DialogGallery|"
+msgid "10 minutes"
+msgstr "10 phút"
+
+#: contents/ui/gallery/DialogGallery.qml:98
+msgctxt "DialogGallery|"
+msgid "30 minutes"
+msgstr "30 phút"
+
+#: contents/ui/gallery/DialogGallery.qml:99
+msgctxt "DialogGallery|"
+msgid "1 hour"
+msgstr "1 giờ"
+
+#: contents/ui/gallery/DialogGallery.qml:121
+msgctxt "DialogGallery|"
+msgid "Select Number"
+msgstr "Chọn số"
+
+#: contents/ui/gallery/DialogGallery.qml:141
+#: contents/ui/gallery/DialogGallery.qml:207
+msgctxt "DialogGallery|"
+msgid "No Footer Dialog"
+msgstr "Hộp thoại không có chân trang"
+
+#: contents/ui/gallery/DialogGallery.qml:142
+msgctxt "DialogGallery|"
+msgid "This dialog has no footer buttons.<br/>It also has no close button."
+msgstr "Hộp thoại này không có nút chân trang.<br/>Nó cũng không có nút đóng."
+
+#: contents/ui/gallery/DialogGallery.qml:150
+msgctxt "DialogGallery|"
+msgid "Track Options"
+msgstr "Tùy chọn bản nhạc"
+
+#: contents/ui/gallery/DialogGallery.qml:155
+msgctxt "DialogGallery|Start playback of the selected track"
+msgid "Play"
+msgstr "Phát"
+
+#: contents/ui/gallery/DialogGallery.qml:156
+msgctxt "DialogGallery|"
+msgid "Start playback of the selected track"
+msgstr "Bắt đầu phát lại bản nhạc đã chọn"
+
+#: contents/ui/gallery/DialogGallery.qml:161
+msgctxt "DialogGallery|Show the file for this song in the file manager"
+msgid "Show in folder"
+msgstr "Hiển thị trong thư mục"
+
+#: contents/ui/gallery/DialogGallery.qml:162
+msgctxt "DialogGallery|"
+msgid "Show the file for this song in the file manager"
+msgstr "Hiển thị tệp của bài hát này trong trình quản lý tệp"
+
+#: contents/ui/gallery/DialogGallery.qml:166
+msgctxt "DialogGallery|Show track metadata"
+msgid "View details"
+msgstr "Xem chi tiết"
+
+#: contents/ui/gallery/DialogGallery.qml:167
+msgctxt "DialogGallery|"
+msgid "Show track metadata"
+msgstr "Hiển thị siêu dữ liệu bài hát"
+
+#: contents/ui/gallery/DialogGallery.qml:171
+msgctxt ""
+"DialogGallery|Add the track to the queue, right after the current track"
+msgid "Play next"
+msgstr "Phát tiếp"
+
+#: contents/ui/gallery/DialogGallery.qml:172
+msgctxt "DialogGallery|"
+msgid "Add the track to the queue, right after the current track"
+msgstr "Thêm bài hát vào hàng đợi, ngay sau bài hát hiện tại"
+
+#: contents/ui/gallery/DialogGallery.qml:176
+msgctxt "DialogGallery|Enqueue current track"
+msgid "Add to queue"
+msgstr "Thêm vào hàng đợi"
+
+#: contents/ui/gallery/DialogGallery.qml:177
+msgctxt "DialogGallery|"
+msgid "Enqueue current track"
+msgstr "Thêm bài hát hiện tại vào hàng đợi"
+
+#: contents/ui/gallery/DialogGallery.qml:187
+msgctxt "DialogGallery|"
+msgid "Prompt Dialog"
+msgstr "Hộp thoại nhắc nhở"
+
+#: contents/ui/gallery/DialogGallery.qml:192
+msgctxt "DialogGallery|"
+msgid "Text Prompt Dialog"
+msgstr "Hộp thoại nhắc nhập văn bản"
+
+#: contents/ui/gallery/DialogGallery.qml:197
+msgctxt "DialogGallery|"
+msgid "Selection Dialog"
+msgstr "Hộp thoại phần bôi đen"
+
+#: contents/ui/gallery/DialogGallery.qml:202
+msgctxt "DialogGallery|"
+msgid "Scrollable Dialog"
+msgstr "Hộp thoại có thể cuộn"
+
+#: contents/ui/gallery/DialogGallery.qml:212
+msgctxt "DialogGallery|"
+msgid "Menu Dialog"
+msgstr "Trình đơn Hộp thoại"
+
+#: contents/ui/gallery/DrawerGallery.qml:31
+msgctxt "DrawerGallery|"
+msgid "Drawers"
+msgstr "Ngăn kéo"
+
+#: contents/ui/gallery/DrawerGallery.qml:39
+msgctxt "DrawerGallery|"
+msgid "Action 1"
+msgstr "Hành động 1"
+
+#: contents/ui/gallery/DrawerGallery.qml:41
+msgctxt "DrawerGallery|"
+msgid "Action 1 clicked"
+msgstr "Hành động 1 đã được nhấp"
+
+#: contents/ui/gallery/DrawerGallery.qml:44
+msgctxt "DrawerGallery|"
+msgid "Disabled Action"
+msgstr "Hành động Tắt"
+
+#: contents/ui/gallery/DrawerGallery.qml:49
+msgctxt "DrawerGallery|"
+msgid "Action 3"
+msgstr "Hành động 3"
+
+#: contents/ui/gallery/DrawerGallery.qml:50
+msgctxt "DrawerGallery|"
+msgid "Action 3 clicked"
+msgstr "Hành động 3 đã được nhấp"
+
+#: contents/ui/gallery/DrawerGallery.qml:62
+msgctxt "DrawerGallery|"
+msgid ""
+"A modal bottom drawer will span for the whole application window width and "
+"will darken the rest of the app. Clicking on a darkened will dismiss the "
+"drawer."
+msgstr ""
+"Một ngăn kéo dưới cùng sẽ trải rộng toàn bộ chiều rộng của cửa sổ ứng dụng "
+"và làm tối phần còn lại của ứng dụng. Nhấp vào phần tối sẽ đóng ngăn kéo."
+
+#: contents/ui/gallery/DrawerGallery.qml:66
+#: contents/ui/gallery/DrawerGallery.qml:85
+#: contents/ui/gallery/DrawerGallery.qml:103
+#: contents/ui/gallery/DrawerGallery.qml:122
+msgctxt "DrawerGallery|"
+msgid "Close"
+msgstr "Đóng"
+
+#: contents/ui/gallery/DrawerGallery.qml:81
+msgctxt "DrawerGallery|"
+msgid ""
+"An inline bottom drawer covers the whole application width but lets the "
+"uncovered pieces to still be interacted with."
+msgstr ""
+"Một ngăn kéo dưới cùng nằm trong ứng dụng, che toàn bộ chiều rộng nhưng vẫn "
+"cho phép tương tác với các phần không bị che."
+
+#: contents/ui/gallery/DrawerGallery.qml:99
+msgctxt "DrawerGallery|"
+msgid ""
+"A modal top drawer will span for the whole application window width and will "
+"darken the rest of the app. Clicking on the darkened area will dismiss the "
+"drawer."
+msgstr ""
+"Một ngăn kéo trên cùng kiểu modal sẽ chiếm toàn bộ chiều rộng của cửa sổ "
+"ứng dụng và làm tối phần còn lại của ứng dụng. Nhấp vào khu vực tối sẽ đóng "
+"ngăn kéo."
+
+#: contents/ui/gallery/DrawerGallery.qml:118
+msgctxt "DrawerGallery|"
+msgid ""
+"An inline top drawer covers the whole application width but lets the "
+"uncovered pieces to still be interacted with."
+msgstr ""
+"Một ngăn kéo trên cùng nằm trong ứng dụng, che toàn bộ chiều rộng của ứng "
+"dụng nhưng vẫn cho phép tương tác với các phần không bị che."
+
+#: contents/ui/gallery/DrawerGallery.qml:133
+msgctxt "DrawerGallery|"
+msgid "Left Global Drawer"
+msgstr "Ngăn kéo toàn cục bên trái"
+
+#: contents/ui/gallery/DrawerGallery.qml:138
+msgctxt "DrawerGallery|"
+msgid "Right Context Drawer"
+msgstr "Ngăn kéo Ngữ cảnh Phải"
+
+#: contents/ui/gallery/DrawerGallery.qml:144
+msgctxt "DrawerGallery|"
+msgid "Modal Bottom Drawer"
+msgstr "Ngăn kéo dưới cùng dạng modal"
+
+#: contents/ui/gallery/DrawerGallery.qml:154
+msgctxt "DrawerGallery|"
+msgid "Modal Top Drawer"
+msgstr "Ngăn kéo trên cùng dạng modal"
+
+#: contents/ui/gallery/FormLayoutGallery.qml:67
+msgctxt "FormLayoutGallery|"
+msgid "Expanding Button"
+msgstr "Nút mở rộng"
+
+#: contents/ui/gallery/FormLayoutGallery.qml:116
+msgctxt "FormLayoutGallery|"
+msgid "Twin Layout:"
+msgstr "Bố cục đôi:"
+
+#: contents/ui/gallery/InlineMessagesGallery.qml:32
+msgctxt "InlineMessagesGallery|"
+msgid "Inline Messages"
+msgstr "Tin nhắn nội tuyến"
+
+#: contents/ui/gallery/InlineMessagesGallery.qml:47
+msgctxt "InlineMessagesGallery|"
+msgid ""
+"This is an informational inline message (the default type). Use it for "
+"example to announce a result or provide commentary."
+msgstr ""
+"Đây là một thông điệp nội tuyến thông tin (loại mặc định). Sử dụng nó, ví "
+"dụ, để thông báo kết quả hoặc cung cấp bình luận."
+
+#: contents/ui/gallery/InlineMessagesGallery.qml:57
+msgctxt "InlineMessagesGallery|"
+msgid ""
+"This is a positive inline message. Use it for example to announce a "
+"successful result or the successful completion of a procedure."
+msgstr ""
+"Đây là một thông báo tích cực được hiển thị trực tiếp. Bạn có thể sử dụng "
+"nó, ví dụ, để thông báo về một kết quả thành công hoặc việc hoàn tất một "
+"quy trình."
+
+#: contents/ui/gallery/InlineMessagesGallery.qml:67
+msgctxt "InlineMessagesGallery|"
+msgid ""
+"This is a warning inline message. Use it for example to provide critical "
+"guidance or warn about something that is not going to work."
+msgstr ""
+"Đây là một thông báo cảnh báo nội tuyến. Sử dụng nó, ví dụ, để cung cấp "
+"hướng dẫn quan trọng hoặc cảnh báo về điều gì đó sẽ không hoạt động."
+
+#: contents/ui/gallery/InlineMessagesGallery.qml:77
+msgctxt "InlineMessagesGallery|"
+msgid ""
+"This is an error inline message. Use it for example to announce something "
+"has gone wrong or that input will not be accepted."
+msgstr ""
+"Đây là một thông báo lỗi nội tuyến. Sử dụng nó, ví dụ, để thông báo rằng có "
+"điều gì đó đã xảy ra sai hoặc rằng đầu vào sẽ không được chấp nhận."
+
+#: contents/ui/gallery/InlineMessagesGallery.qml:91
+msgctxt "InlineMessagesGallery|"
+msgid "Inline messages can optionally have a custom icon set."
+msgstr "Các tin nhắn nội tuyến có thể tùy chọn có biểu tượng tùy chỉnh."
+
+#: contents/ui/gallery/InlineMessagesGallery.qml:99
+msgctxt "InlineMessagesGallery|"
+msgid ""
+"You can use rich text in inline messages and optionally handle clicks on "
+"links (opens in browser): <a "
+"href=\"https://www.kde.org\">https://www.kde.org/<a/>"
+msgstr ""
+"Bạn có thể sử dụng văn bản có định dạng trong các tin nhắn nội tuyến và tùy "
+"chọn xử lý các lượt nhấp chuột vào các liên kết (mở trong trình duyệt): <a "
+"href=\"https://www.kde.org\">https://www.kde.org/</a>"
+
+#: contents/ui/gallery/InlineMessagesGallery.qml:111
+msgctxt "InlineMessagesGallery|"
+msgid "Inline messages can have an optional close button."
+msgstr "Tin nhắn nội tuyến có thể có nút đóng tuỳ chọn."
+
+#: contents/ui/gallery/InlineMessagesGallery.qml:129
+msgctxt "InlineMessagesGallery|"
+msgid "Add text"
+msgstr "Thêm văn bản"
+
+#: contents/ui/gallery/InlineMessagesGallery.qml:139
+msgctxt "InlineMessagesGallery|"
+msgid "Reset text"
+msgstr "Đặt lại văn bản"
+
+#: contents/ui/gallery/InlineMessagesGallery.qml:161
+msgctxt "InlineMessagesGallery|"
+msgid "Inline messages are initially hidden and animate when revealed. Try it!"
+msgstr "Tin nhắn nội tuyến ban đầu được ẩn và hiện ra khi được hiển thị. Hãy thử!"
+
+#: contents/ui/gallery/InlineMessagesGallery.qml:170
+msgctxt "InlineMessagesGallery|"
+msgid "Show additional message"
+msgstr "Hiển thị thông điệp bổ sung"
+
+#: contents/ui/gallery/InlineMessagesGallery.qml:186
+msgctxt "InlineMessagesGallery|"
+msgid "Boo!"
+msgstr "Boo!"
+
+#: contents/ui/gallery/InlineMessagesGallery.qml:190
+msgctxt "InlineMessagesGallery|"
+msgid "Shush"
+msgstr "Yên lặng"
+
+#: contents/ui/gallery/ListViewGallery.qml:41
+msgctxt "ListViewGallery|"
+msgid "Main Action Text"
+msgstr "Văn bản hành động chính"
+
+#: contents/ui/gallery/ListViewGallery.qml:52
+msgctxt "ListViewGallery|"
+msgid "Footer:"
+msgstr "Chân trang:"
+
+#: contents/ui/gallery/ListViewGallery.qml:67
+#, qt-format
+msgctxt "ListViewGallery|"
+msgid "Item in sheet %n"
+msgid_plural "Item in sheet %n"
+msgstr[0] "Mục trong trang %n"
+
+#: contents/ui/gallery/ListViewGallery.qml:114
+msgctxt "ListViewGallery|"
+msgid "Action 1"
+msgstr "Hành động 1"
+
+#: contents/ui/gallery/ListViewGallery.qml:116
+#: contents/ui/gallery/ListViewGallery.qml:123
+#, qt-format
+msgctxt "ListViewGallery|"
+msgid "%1: %2 clicked"
+msgstr "%1: %2 đã được nhấp"
+
+#: contents/ui/gallery/ListViewGallery.qml:121
+msgctxt "ListViewGallery|"
+msgid "Action 2"
+msgstr "Hành động 2"
+
+#: contents/ui/gallery/ListViewGallery.qml:144
+#, qt-format
+msgctxt "ListViewGallery|"
+msgid "Item %1"
+msgstr "Mục %1"
+
+#: contents/ui/gallery/ListViewGallery.qml:162
+#, qt-format
+msgctxt "ListViewGallery|"
+msgid "Section %1"
+msgstr "Khu vực %1"
+
+#: contents/ui/gallery/MetricsGallery.qml:42
+msgctxt "MetricsGallery|"
+msgid "Heading 1"
+msgstr "Tiêu đề 1"
+
+#: contents/ui/gallery/MetricsGallery.qml:47
+#: contents/ui/gallery/MetricsGallery.qml:57
+#: contents/ui/gallery/MetricsGallery.qml:67
+#: contents/ui/gallery/MetricsGallery.qml:77
+#, qt-format
+msgctxt "MetricsGallery|"
+msgid "%1 points"
+msgstr "%1 điểm"
+
+#: contents/ui/gallery/MetricsGallery.qml:52
+msgctxt "MetricsGallery|"
+msgid "Heading 2"
+msgstr "Tiêu đề 2"
+
+#: contents/ui/gallery/MetricsGallery.qml:62
+msgctxt "MetricsGallery|"
+msgid "Heading 3"
+msgstr "Tiêu đề 3"
+
+#: contents/ui/gallery/MetricsGallery.qml:72
+msgctxt "MetricsGallery|"
+msgid "Heading 4"
+msgstr "Tiêu đề 4"
+
+#: contents/ui/gallery/MiscGallery.qml:72
+msgctxt "MiscGallery|"
+msgid "Text Beside Icon"
+msgstr "Văn bản bên cạnh biểu tượng"
+
+#: contents/ui/gallery/MiscGallery.qml:87
+msgctxt "MiscGallery|"
+msgid "Text Under Icon"
+msgstr "Văn bản dưới biểu tượng"
+
+#: contents/ui/gallery/MiscGallery.qml:102
+msgctxt "MiscGallery|"
+msgid "Text Only"
+msgstr "Chỉ Văn Bản"
+
+#: contents/ui/gallery/MiscGallery.qml:117
+msgctxt "MiscGallery|"
+msgid "Icon Only"
+msgstr "Chỉ biểu tượng"
+
+#: contents/ui/gallery/MultipleColumnsGallery.qml:117
+msgctxt "MultipleColumnsGallery|"
+msgid "Pin page"
+msgstr "Ghim trang"
+
+#: contents/ui/gallery/OverlaySheetGallery.qml:32
+msgctxt "OverlaySheetGallery|"
+msgid "Overlay Sheets"
+msgstr "Trang Phủ Lớp"
+
+#: contents/ui/gallery/OverlaySheetGallery.qml:65
+msgctxt "OverlaySheetGallery|"
+msgid "Close"
+msgstr "Đóng"
+
+#: contents/ui/gallery/OverlaySheetGallery.qml:75
+#: contents/ui/gallery/OverlaySheetGallery.qml:143
+#: contents/ui/gallery/OverlaySheetGallery.qml:167
+msgctxt "OverlaySheetGallery|"
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: contents/ui/gallery/OverlaySheetGallery.qml:79
+#: contents/ui/gallery/OverlaySheetGallery.qml:147
+#: contents/ui/gallery/OverlaySheetGallery.qml:171
+msgctxt "OverlaySheetGallery|"
+msgid "Footer:"
+msgstr "Chân trang:"
+
+#: contents/ui/gallery/OverlaySheetGallery.qml:90
+msgctxt "OverlaySheetGallery|"
+msgid ""
+"A sheet can have optional header and footer items which will not scroll away "
+"when the sheet overflows."
+msgstr ""
+"Một trang có thể có các mục đầu tải và chân trang tuỳ chọn, những mục này "
+"sẽ không cuộn đi khi trang tràn."
+
+#: contents/ui/gallery/OverlaySheetGallery.qml:109
+msgctxt "OverlaySheetGallery|"
+msgid ""
+"A sheet will take the maximum available width in the page by default.\n"
+"However, if the main item sets an implicitWidth or Layout.preferredWidth, "
+"the sheet won't grow in width more than such given value."
+msgstr ""
+"Theo mặc định, một trang sẽ chiếm toàn bộ chiều rộng có sẵn.\nTuy nhiên, "
+"nếu mục chính đặt một implicitWidth hoặc Layout.preferredWidth, trang sẽ "
+"không mở rộng chiều rộng hơn giá trị đã cho."
+
+#: contents/ui/gallery/OverlaySheetGallery.qml:130
+msgctxt "OverlaySheetGallery|"
+msgid ""
+"A sheet by default will be over a single page, even if the app is in wide "
+"mode. By changing the sheet parent to applicationWindow().overlay it will "
+"display the sheet as an overlay on top of the whole application window.\n"
+"In this case the sheet will cover the page Action buttons too."
+msgstr ""
+"Theo mặc định, một trang sẽ được hiển thị trên một trang duy nhất, ngay cả "
+"khi ứng dụng ở chế độ rộng. Bằng cách thay đổi phụ cha của trang thành "
+"applicationWindow().overlay, nó sẽ hiển thị trang như một lớp phủ trên toàn "
+"bộ cửa sổ ứng dụng.\nTrong trường hợp này, trang sẽ che các nút Hành động "
+"của trang."
+
+#: contents/ui/gallery/OverlaySheetGallery.qml:159
+msgctxt "OverlaySheetGallery|"
+msgid "Item in sheet "
+msgstr "Mục trong trang"
+
+#: contents/ui/gallery/OverlaySheetGallery.qml:203
+msgctxt "OverlaySheetGallery|"
+msgid "Very Long Sheet"
+msgstr "Tờ rất dài"
+
+#: contents/ui/gallery/SelectionControlsGallery.qml:31
+msgctxt "SelectionControlsGallery|"
+msgid "Selection Controls"
+msgstr "Các điều khiển phần bôi đen"
+
+#: contents/ui/gallery/SelectionControlsGallery.qml:47
+msgctxt "SelectionControlsGallery|"
+msgid "Checkable List Items"
+msgstr "Các mục danh sách có thể kiểm tra"
+
+#: contents/ui/gallery/SelectionControlsGallery.qml:55
+#: contents/ui/gallery/SelectionControlsGallery.qml:79
+#: contents/ui/gallery/SelectionControlsGallery.qml:103
+#, qt-format
+msgctxt "SelectionControlsGallery|"
+msgid "Delegate %1"
+msgstr "Đại diện %1"
+
+#: contents/ui/gallery/SelectionControlsGallery.qml:71
+#: contents/ui/gallery/SelectionControlsGallery.qml:95
+msgctxt "SelectionControlsGallery|"
+msgid "Radio List Items"
+msgstr "Danh sách các mục Radio"
+
+#: contents/ui/gallery/SelectionControlsGallery.qml:112
+msgctxt "SelectionControlsGallery|"
+msgid "Checkboxes"
+msgstr "Hộp kiểm"
+
+#: contents/ui/gallery/SelectionControlsGallery.qml:116
+#: contents/ui/gallery/SelectionControlsGallery.qml:134
+#: contents/ui/gallery/SelectionControlsGallery.qml:152
+msgctxt "SelectionControlsGallery|"
+msgid "Item selected"
+msgstr "Mục đã được chọn"
+
+#: contents/ui/gallery/SelectionControlsGallery.qml:120
+#: contents/ui/gallery/SelectionControlsGallery.qml:138
+#: contents/ui/gallery/SelectionControlsGallery.qml:156
+msgctxt "SelectionControlsGallery|"
+msgid "Item not selected"
+msgstr "Mục chưa được chọn"
+
+#: contents/ui/gallery/SelectionControlsGallery.qml:124
+msgctxt "SelectionControlsGallery|"
+msgid "Checkable List View"
+msgstr "Danh sách xem có thể kiểm tra"
+
+#: contents/ui/gallery/SelectionControlsGallery.qml:130
+msgctxt "SelectionControlsGallery|"
+msgid "Radio buttons"
+msgstr "Nút radio"
+
+#: contents/ui/gallery/SelectionControlsGallery.qml:143
+msgctxt "SelectionControlsGallery|"
+msgid "Radio List View"
+msgstr "Danh sách xem Radio"
+
+#: contents/ui/gallery/SelectionControlsGallery.qml:149
+msgctxt "SelectionControlsGallery|"
+msgid "Switches"
+msgstr "Công tắc"
+
+#: contents/ui/gallery/SelectionControlsGallery.qml:160
+msgctxt "SelectionControlsGallery|"
+msgid "Switch List View"
+msgstr "Chuyển sang Xem Danh sách"
+
+#: contents/ui/MainPage.qml:35
+msgctxt "MainPage|"
+msgid "Kirigami Gallery"
+msgstr "Bộ sưu tập Kirigami"
+
+#: contents/ui/MainPage.qml:40
+msgctxt "MainPage|"
+msgid "Home"
+msgstr "Trang chủ"

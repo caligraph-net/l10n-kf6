@@ -1,0 +1,113 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kcmutils package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmutils\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-01-26 00:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: main.cpp:104
+#, kde-format
+msgid "A tool to start single system settings modules"
+msgstr "Một công cụ để khởi động các mô-đun thiết lập hệ thống riêng lẻ"
+
+#: main.cpp:106
+#, kde-format
+msgid "(c) 1999-2023, The KDE Developers"
+msgstr "(c) 1999-2023, Các nhà phát triển KDE"
+
+#: main.cpp:108
+#, kde-format
+msgid "Frans Englich"
+msgstr "Frans Englich"
+
+#: main.cpp:108
+#, kde-format
+msgid "Maintainer"
+msgstr "Bảo trì viên"
+
+#: main.cpp:109
+#, kde-format
+msgid "Daniel Molkentin"
+msgstr "Daniel Molkentin"
+
+#: main.cpp:110
+#, kde-format
+msgid "Matthias Hoelzer-Kluepfel"
+msgstr "Matthias Hoelzer-Kluepfel"
+
+#: main.cpp:111
+#, kde-format
+msgid "Matthias Elter"
+msgstr "Matthias Elter"
+
+#: main.cpp:112
+#, kde-format
+msgid "Matthias Ettrich"
+msgstr "Matthias Ettrich"
+
+#: main.cpp:113
+#, kde-format
+msgid "Waldo Bastian"
+msgstr "Waldo Bastian"
+
+#: main.cpp:119
+#, kde-format
+msgid "List all possible modules"
+msgstr "Liệt kê tất cả các mô-đun có thể"
+
+#: main.cpp:120
+#, kde-format
+msgid "Configuration module to open"
+msgstr "Mô-đun cấu hình để mở"
+
+#: main.cpp:121
+#, kde-format
+msgid "Space separated arguments for the module"
+msgstr "Các đối số cách nhau bằng dấu cách cho khối"
+
+#: main.cpp:122
+#, kde-format
+msgid "Use a specific icon for the window"
+msgstr "Sử dụng một biểu tượng cụ thể cho cửa sổ"
+
+#: main.cpp:123
+#, kde-format
+msgid "Use a specific caption for the window"
+msgstr "Sử dụng một chú thích cụ thể cho cửa sổ"
+
+#: main.cpp:124
+#, kde-format
+msgid "Show an indicator when settings have changed from their default value"
+msgstr "Hiển thị một chỉ báo khi các thiết lập đã thay đổi so với giá trị mặc định"
+
+#: main.cpp:132
+#, kde-format
+msgid "The following modules are available:"
+msgstr "Các mô-đun sau đây đang có sẵn:"
+
+#: main.cpp:145
+#, kde-format
+msgid "No description available"
+msgstr "Không có mô tả hiện có"

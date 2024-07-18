@@ -295,7 +295,7 @@ msgstr "Tiến trình con gặp sự cố. Kiểm tra bản cài đặt của b�
 #, kde-format
 msgctxt "@title CLI title"
 msgid "Crashed Processes Viewer"
-msgstr ""
+msgstr "Trình xem tiến trình bị sập"
 
 #: coredump/gui/main.cpp:32
 #, kde-format
@@ -312,13 +312,13 @@ msgstr "(C) 2020-2022, Các tác giả DrKonqi"
 #, kde-format
 msgctxt "@title"
 msgid "Failure"
-msgstr ""
+msgstr "Lỗi"
 
 #: coredump/gui/Patient.cpp:58
 #, kde-format
 msgctxt "@info"
 msgid "Failed to access crash data for unknown reasons."
-msgstr ""
+msgstr "Không thể truy cập dữ liệu sự cố vì lý do không rõ."
 
 #: coredump/gui/qml/DetailsPage.qml:19
 msgctxt "@title"
@@ -358,7 +358,7 @@ msgstr "Không có sự cố nào khớp với tìm kiếm"
 #: coredump/gui/qml/main.qml:12
 msgctxt "@title:window"
 msgid "Overview"
-msgstr ""
+msgstr "Tổng quan"
 
 #: debugpackageinstaller.cpp:51
 #, kde-format
@@ -404,12 +404,12 @@ msgid "Could not create a file in which to save the report."
 msgstr "Không tạo được tệp để lưu báo cáo."
 
 #: drkonqi.cpp:156
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@action:button"
 #| msgid "Save Report to File"
 msgctxt "@title:window"
 msgid "Save Report"
-msgstr "Lưu báo cáo vào tệp"
+msgstr "Lưu báo"
 
 #: drkonqi.cpp:185
 #, kde-kuit-format
@@ -560,18 +560,17 @@ msgid "Debug in %1"
 msgstr "Gỡ lỗi trong %1"
 
 #: main.cpp:151
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "The KDE Crash Handler"
 msgid "Crash Handler"
-msgstr "Trình xử lí sự cố của KDE"
+msgstr "Trình xử lí sự cố"
 
 #: main.cpp:153
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "The KDE Crash Handler gives the user feedback if a program has crashed."
 msgid "Crash Handler gives the user feedback if a program has crashed."
-msgstr ""
-"Trình xử lí sự cố của KDE phản hồi với người dùng khi một ứng dụng gặp sự cố."
+msgstr "Trình xử lý sự cố phản hồi với người dùng khi một ứng dụng gặp sự cố."
 
 #: main.cpp:156
 #, kde-format
@@ -792,12 +791,12 @@ msgid "Developer Information"
 msgstr "Thông tin nhà phát triển"
 
 #: qml/DeveloperPage.qml:33
-#, fuzzy
+#, 
 #| msgctxt "@info/plain report to url/mail address"
 #| msgid "Report to %1"
 msgctxt "@action Report the bug on this domain"
 msgid "Report on %1"
-msgstr "Báo cáo cho %1"
+msgstr "Báo cáo trên %1"
 
 #: qml/DeveloperPage.qml:35
 msgctxt "@info:tooltip"
@@ -860,7 +859,7 @@ msgstr ""
 "tương tác và tử hậu.</para>"
 
 #: qml/DeveloperPage.qml:199
-#, fuzzy
+#, 
 #| msgctxt "@info/rich"
 #| msgid ""
 #| "You can click the <interface>Install Debug Symbols</interface> button in "
@@ -882,14 +881,13 @@ msgid ""
 msgstr ""
 "Bạn có thể bấm nút <interface>Cài đặt các kí hiệu gỡ lỗi</interface> để tự "
 "động cài đặt các gói thông tin gỡ lỗi còn thiếu. Nếu cách này không hoạt "
-"động,\n"
-"vui lòng đọc <link url='%1'>Cách tạo báo cáo sự cố hữu ích</link> để biết "
-"cách lấy một vết ngăn xếp có ích;\n"
-"cài đặt các gói cần thiết (<link url='%2'>danh sách các tệp</link>) và bấm "
-"nút <interface>Tải lại</interface>."
+"động: vui lòng đọc <link url='%1'>Cách tạo báo cáo sự cố hữu ích</link> để "
+"biết cách lấy một vết ngăn xếp có ích; cài đặt các gói cần thiết (<link "
+"url='%2'>danh sách các tệp</link>) và bấm nút <interface>Tải "
+"lại</interface>."
 
 #: qml/DeveloperPage.qml:207
-#, fuzzy
+#, 
 #| msgctxt "@info/rich"
 #| msgid ""
 #| "Please read <link url='%1'>How to create useful crash reports</link> to "
@@ -904,8 +902,9 @@ msgid ""
 "interface> button."
 msgstr ""
 "Vui lòng đọc <link url='%1'>Cách tạo báo cáo sự cố hữu ích</link> để biết "
-"cách lấy một vết ngăn xếp có ích; cài đặt các gói cần thiết (<link "
-"url='%2'>danh sách các tệp</link>) và bấm nút <interface>Tải lại</interface>."
+"cách lấy một vết ngăn xếp có ích; cài đặt các gói cần thiết\n(<link "
+"url='%2'>danh sách các tệp</link>) và bấm nút <interface>Tải "
+"lại</interface>."
 
 #: qml/DeveloperPage.qml:219
 msgctxt "@info/rich"
@@ -919,7 +918,7 @@ msgstr ""
 #: qml/DownloadSymbolsCheckBox.qml:16
 msgctxt "@label"
 msgid "Automatically download debug symbols to enhance crash reports"
-msgstr ""
+msgstr "Tự động tải về kí hiệu gỡ lỗi để nâng cao báo cáo sự cố"
 
 #: qml/DownloadSymbolsCheckBox.qml:25
 msgctxt "@info:tooltip"
@@ -929,6 +928,10 @@ msgid ""
 "This causes downloads of unknown size when a crash occurs. This is skipped "
 "automatically when using a metered internet connection."
 msgstr ""
+"Các báo cáo sự cố có thể có giá trị lớn hơn nếu các tài nguyên gỡ lỗi bổ "
+"sung được tải về từ nhà phân phối của bạn trước tiên.\nĐiều này gây ra các "
+"tải về có kích thước không rõ khi xảy ra sự cố. Điều này sẽ được bỏ qua tự "
+"động khi sử dụng kết nối internet có giới hạn."
 
 #: qml/LoginPage.qml:14
 msgctxt "@title"
@@ -987,7 +990,7 @@ msgstr ""
 "điện tử và mật khẩu đã cho."
 
 #: qml/main.qml:32
-#, fuzzy
+#, 
 #| msgctxt "@info"
 #| msgid ""
 #| "<para>As the Crash Handler itself has failed, the\n"
@@ -1007,16 +1010,14 @@ msgid ""
 "the backtrace from the <interface>Developer Information</interface>\n"
 "page.</para>"
 msgstr ""
-"<para>Vì bản thân trình xử lí sự cố đã bị hỏng, tiến\n"
-"trình báo cáo tự động đã bị tắt để giảm nguy cơ hỏng\n"
-"một lần nữa.<nl /><nl />\n"
-"Vui lòng <link url='%1'>báo cáo thủ công</link> lỗi này\n"
-"đến hệ thống theo dõi lỗi của KDE. Đừng quên kèm theo\n"
-"vết ngăn xếp trong thẻ <interface>Thông tin nhà phát triển</interface>.</"
-"para>"
+"<para>Vì bản thân trình xử lí sự cố đã bị hỏng, tiến\ntrình báo cáo tự động "
+"đã bị tắt để giảm nguy cơ hỏng\nmột lần nữa.<nl /><nl />\nVui lòng <link "
+"url='%1'>báo cáo thủ công</link> lỗi này\nđến hệ thống theo dõi lỗi của "
+"KDE. Đừng quên kèm theo\nvết ngăn xếp từ trang <interface>Thông tin nhà "
+"phát triển</interface>.</para>"
 
 #: qml/main.qml:44
-#, fuzzy
+#, 
 #| msgctxt "@info"
 #| msgid ""
 #| "<para>The reporting assistant is disabled because the crash handler "
@@ -1031,10 +1032,10 @@ msgid ""
 "You can manually report this bug to <link>%1</link> (including the backtrace "
 "from the <interface>Developer Information</interface> page.)</para>"
 msgstr ""
-"<para>Trợ tá báo cáo đã bị tắt vì hộp thoại trình xử lí sự cố được khởi động "
-"trong chế độ an toàn.<nl />\n"
-"Bạn có thể báo cáo thủ công lỗi này đến <link>%1</link> (kèm theo vết ngăn "
-"xếp trong thẻ <interface>Thông tin nhà phát triển</interface>.)</para>"
+"<para>Trợ tá báo cáo đã bị tắt vì hộp thoại trình xử lí sự cố được khởi "
+"động trong chế độ an toàn.<nl />\nBạn có thể báo cáo thủ công lỗi này đến "
+"<link>%1</link> (kèm theo vết ngăn xếp từ trang <interface>Thông tin nhà "
+"phát triển</interface>.)</para>"
 
 #: qml/main.qml:51
 msgctxt "@info"
@@ -1061,9 +1062,11 @@ msgid ""
 "Gathering crash information failed for unknown reasons. You can retry, or "
 "close the window."
 msgstr ""
+"Thu thập thông tin về sự cố không thành công vì lý do không rõ. Bạn có thể "
+"thử lại hoặc đóng cửa sổ."
 
 #: qml/main.qml:89
-#, fuzzy
+#, 
 #| msgctxt "@action"
 #| msgid "Retry"
 msgctxt "@action retry gathering crash data"
@@ -1073,15 +1076,15 @@ msgstr "Thử lại"
 #: qml/MainPage.qml:55
 msgctxt "@action"
 msgid "Send Automatic Report"
-msgstr ""
+msgstr "Gửi Báo Tự Động"
 
 #: qml/MainPage.qml:69
-#, fuzzy
+#, 
 #| msgctxt "@action"
 #| msgid "Developer Information"
 msgctxt "@action"
 msgid "See Developer Information"
-msgstr "Thông tin nhà phát triển"
+msgstr "Xem Thông tin Nhà phát triển"
 
 #: qml/PreviewPage.qml:14
 msgctxt "@title"
@@ -1239,12 +1242,12 @@ msgid "Crash Report Sent"
 msgstr "Đã gửi báo cáo sự cố"
 
 #: qml/SentPage.qml:19 qml/SentryPage.qml:17
-#, fuzzy
+#, 
 #| msgctxt "Notification action button, keep short"
 #| msgid "Restart App"
 msgctxt "@action %1 is an application name e.g. kwrite"
 msgid "Restart %1"
-msgstr "Khởi động lại ứng dụng"
+msgstr "Khởi động lại %1"
 
 #: qml/SentPage.qml:27
 msgctxt "@info"
@@ -1258,15 +1261,15 @@ msgstr ""
 "Cảm ơn bạn đã tham gia đóng góp cho KDE. Giờ bạn có thể đóng cửa sổ này."
 
 #: qml/SentryPage.qml:32
-#, fuzzy
+#, 
 #| msgctxt "@info"
 #| msgid "Waiting for data…"
 msgctxt "@label"
 msgid "Collecting crash data…"
-msgstr "Đang chờ dữ liệu…"
+msgstr "Đang thu thập dữ liệu sự cố..."
 
 #: qml/SentryPage.qml:53
-#, fuzzy
+#, 
 #| msgctxt "@title"
 #| msgid "Crash Report Sent"
 msgctxt "@label"
@@ -1277,15 +1280,15 @@ msgstr "Đã gửi báo cáo sự cố"
 msgctxt ""
 "@label other side of row 'in the future: [x] submit stuff automatically"
 msgid "In the future:"
-msgstr ""
+msgstr "Trong tương lai:"
 
 #: qml/SentryPage.qml:64
-#, fuzzy
+#, 
 #| msgctxt "@info bug resolution"
 #| msgid "Not a valid report/crash"
 msgctxt "@label"
 msgid "Automatically report crashes"
-msgstr "Không phải một lỗi/báo cáo hợp lệ"
+msgstr "Tự động báo cáo sự cố"
 
 #: qml/SentryPage.qml:73
 msgctxt "@info:tooltip"
@@ -1294,24 +1297,26 @@ msgid ""
 "No manual input required.\n"
 "You will not receive any more crash notifications."
 msgstr ""
+"Luôn tự động gửi báo cáo sự cố đến hệ thống theo dõi sự cố của KDE. Không "
+"cần nhập thủ công.\nBạn sẽ không nhận được thông báo sự cố nữa."
 
 #: qml/SentryPage.qml:89
-#, fuzzy
+#, 
 #| msgctxt "@info"
 #| msgid "Information about the crash:"
 msgctxt "@label placeholder text in TextArea"
 msgid "Tell us more about the crash…"
-msgstr "Thông tin về sự cố:"
+msgstr "Hãy cho chúng tôi biết thêm về sự cố..."
 
 #: qml/SentryPage.qml:100
 msgctxt "@action:button"
 msgid "Send Message"
-msgstr ""
+msgstr "Gửi thông điệp"
 
 #: qml/SentryPage.qml:118
 msgctxt "@action:button"
 msgid "Finish"
-msgstr ""
+msgstr "Hoàn thành"
 
 #: qml/WelcomePage.qml:14
 msgctxt "@title:window"
@@ -1392,14 +1397,14 @@ msgid "Please report this error to help improve this software."
 msgstr "Vui lòng báo lỗi này để giúp cải thiện phần mềm."
 
 #: statusnotifier.cpp:33
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Notification text"
 #| msgid "The application closed unexpectedly."
 msgctxt "Notification text"
 msgid ""
 "The application closed unexpectedly. A report is being automatically "
 "submitted."
-msgstr "Ứng dụng đã bất ngờ bị đóng."
+msgstr "Ứng dụng đã bất ngờ bị đóng. Một báo cáo đang được tự động gửi."
 
 #: statusnotifier.cpp:47
 #, kde-format
@@ -1429,12 +1434,12 @@ msgid "Hide"
 msgstr "Ẩn"
 
 #: statusnotifier.cpp:120
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@title"
 #| msgid "Details"
 msgctxt "@action:button, keep short"
 msgid "Add Details"
-msgstr "Chi tiết"
+msgstr "Thêm chi tiết"
 
 #: statusnotifier.cpp:123
 #, kde-format
@@ -2968,5 +2973,3 @@ msgstr "mật khẩu bugtest.kde.org"
 #~ "<p><note>This bug report is not about a crash or about any other critical "
 #~ "bug.</note></p>"
 #~ msgstr "<p><note>Báo cáo lỗi này không phải về một lỗi nào cả.</note></p>"
-
-

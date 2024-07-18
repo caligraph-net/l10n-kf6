@@ -1,0 +1,1030 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kiten package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kiten\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-11-22 01:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, configDictSelect)
+#: app/configdictselect.ui:14
+#, kde-format
+msgid "Dictionary Selector"
+msgstr "Bộ chọn từ điển"
+
+#. i18n: ectx: property (text), widget (QCheckBox, __useGlobal)
+#: app/configdictselect.ui:25
+#, kde-format
+msgid "Use prei&nstalled dict"
+msgstr "Sử dụ&ng từ điển đã cài đặt sẵn"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, fileList)
+#: app/configdictselect.ui:56
+#, kde-format
+msgid "Name"
+msgstr "Tên"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, fileList)
+#: app/configdictselect.ui:67
+#, kde-format
+msgid "File"
+msgstr "Tệp"
+
+#. i18n: ectx: property (text), widget (QPushButton, addButton)
+#: app/configdictselect.ui:86
+#, kde-format
+msgid "&Add..."
+msgstr "T&hêm..."
+
+#. i18n: ectx: property (text), widget (QPushButton, delButton)
+#: app/configdictselect.ui:93
+#, kde-format
+msgid "Delete"
+msgstr "Xóa"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, ConfigFont)
+#: app/configfont.ui:13
+#, kde-format
+msgid "Fonts"
+msgstr "Phông chữ"
+
+#. i18n: ectx: property (text), widget (QLabel, Listview_mainentry_label)
+#: app/configfont.ui:21
+#, kde-format
+msgid "Main Font"
+msgstr "Phông chữ chính"
+
+#. i18n: ectx: property (sampleText), widget (KFontRequester, kcfg_font)
+#: app/configfont.ui:28
+#, kde-format
+msgid "漢字 かな romaji"
+msgstr "Hán tự Kana Romaji"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, ConfigSearching)
+#: app/configsearching.ui:13 app/configuredialog.cpp:44
+#, kde-format
+msgid "Searching"
+msgstr "Tìm kiếm"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_initialSearch)
+#: app/configsearching.ui:27
+#, kde-format
+msgid "Search for \"jiten\" on startup"
+msgstr "Tìm kiếm \"jiten\" khi khởi động"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, configSorting)
+#: app/configsorting.ui:15
+#, kde-format
+msgid "sorting"
+msgstr "sắp xếp"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_dictionary_enable)
+#: app/configsorting.ui:21
+#, kde-format
+msgid "Sort Se&arch Results By Dictionary"
+msgstr "Sắ&p xếp kết quả tìm kiếm theo từ điển"
+
+#. i18n: ectx: property (availableLabel), widget (KActionSelector, dictionary_order)
+#: app/configsorting.ui:28
+#, kde-format
+msgid "Dicti&onaries Available:"
+msgstr "Từ điển &có sẵn:"
+
+#. i18n: ectx: property (selectedLabel), widget (KActionSelector, dictionary_order)
+#: app/configsorting.ui:31
+#, kde-format
+msgid "Displa&y First:"
+msgstr "Hiển thị Trướ&c:"
+
+#. i18n: ectx: property (availableLabel), widget (KActionSelector, field_order)
+#: app/configsorting.ui:48
+#, kde-format
+msgid "Fields to Sort &By:"
+msgstr "Các trường để sắ&p xếp:"
+
+#: app/configuredialog.cpp:38
+#, kde-format
+msgid "Dictionaries"
+msgstr "Từ điển"
+
+#: app/configuredialog.cpp:49
+#, kde-format
+msgid "Font"
+msgstr "phông chữ"
+
+#: app/configuredialog.cpp:52
+#, kde-format
+msgctxt "@title:group the settings for the dictionary display"
+msgid "Display"
+msgstr "Hiển thị"
+
+#: app/configuredialog.cpp:54
+#, kde-format
+msgid "Results Sorting"
+msgstr "Sắp xếp kết quả"
+
+#: app/dictionaryupdatemanager.cpp:46
+#, kde-format
+msgid "Check for dictionary &updates"
+msgstr "Kiểm &tra cập nhật từ điển"
+
+#: app/dictionaryupdatemanager.cpp:78
+#, kde-format
+msgid ""
+"Update canceled.\n"
+"Could not read file."
+msgstr "Cập nhật đã bị hủy.\nKhông thể đọc tệp."
+
+#: app/dictionaryupdatemanager.cpp:87
+#, kde-format
+msgid ""
+"Update canceled.\n"
+"Could not open file."
+msgstr "Cập nhật đã bị hủy.\nKhông thể mở tệp."
+
+#: app/dictionaryupdatemanager.cpp:103
+#, kde-format
+msgid ""
+"Update canceled.\n"
+"The update information file has an invalid date."
+msgstr "Cập nhật đã bị hủy.\nTệp thông tin cập nhật có ngày không hợp lệ."
+
+#: app/dictionaryupdatemanager.cpp:287
+#, kde-format
+msgid "You already have the latest updates."
+msgstr "Bạn đã có các bản cập nhật mới nhất."
+
+#: app/dictionaryupdatemanager.cpp:289
+#, kde-format
+msgid "Successfully updated your dictionaries."
+msgstr "Đã cập nhật thành công từ điển của bạn."
+
+#: app/dictionaryupdatemanager.cpp:291
+#, kde-format
+msgid ""
+"Successfully updated:\n"
+"%1\n"
+"\n"
+"Failed to update:\n"
+"%2"
+msgstr "Đã cập nhật thành công:\n%1\n\nKhông thể cập nhật:\n%2"
+
+#: app/dictionaryupdatemanager.cpp:293
+#, kde-format
+msgid ""
+"Failed to update:\n"
+"%1"
+msgstr "Không thể cập nhật:\n%1"
+
+#: app/kiten.cpp:133 radselect/main.cpp:24
+#, kde-format
+msgid "Radical Selector"
+msgstr "Bộ chọn Radical"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, KanjiBrowserView)
+#: app/kiten.cpp:138 kanjibrowser/kanjibrowserview.ui:26
+#: kanjibrowser/main.cpp:21
+#, kde-format
+msgid "Kanji Browser"
+msgstr "Trình duyệt Kanji"
+
+#. i18n: ectx: Menu (search)
+#: app/kiten.cpp:146 app/kitenui.rc:15
+#, kde-format
+msgid "S&earch"
+msgstr "Tìm &kiếm"
+
+#: app/kiten.cpp:164
+#, kde-format
+msgid "&Automatically Search Clipboard Selections"
+msgstr "Tự động tìm k&iếm các lựa chọn từ bảng nháp"
+
+#: app/kiten.cpp:167
+#, kde-format
+msgid "Search &in Results"
+msgstr "Tìm k&iếm trong Kết quả"
+
+#: app/kiten.cpp:173
+#, kde-format
+msgid "Focus result view"
+msgstr "Nhắm khung xem kết quả"
+
+#: app/kiten.cpp:178
+#, kde-format
+msgid "Go to the previous search query."
+msgstr "Đi đến truy vấn tìm kiếm trước đó."
+
+#: app/kiten.cpp:180
+#, kde-format
+msgid "Go to the next search query."
+msgstr "Đi đến truy vấn tìm kiếm tiếp theo."
+
+#: app/kiten.cpp:187
+#, kde-format
+msgid "Export List"
+msgstr "Xuất khẩu Danh sách"
+
+#: app/kiten.cpp:217
+#, kde-format
+msgid "Initializing Dictionaries"
+msgstr "Khởi tạo từ điển"
+
+#: app/kiten.cpp:230
+#, kde-format
+msgid "Welcome to Kiten"
+msgstr "Chào mừng đến với Kiten"
+
+#: app/kiten.cpp:326 app/kiten.cpp:383
+#, kde-format
+msgid "Searching..."
+msgstr "Đang tìm kiếm..."
+
+#: app/kiten.cpp:402
+#, kde-format
+msgid "Found 1 result"
+msgid_plural "Found %1 results"
+msgstr[0] "Đã tìm thấy %1 kết quả"
+
+#: app/kiten.cpp:404
+#, kde-format
+msgid "No results found"
+msgstr "Không tìm thấy kết quả"
+
+#. i18n: ectx: label, entry (dictionary_list), group (dict_config_types)
+#: app/kiten.kcfg:10
+#, kde-format
+msgid "List of dictionary Types, used internally, do not touch"
+msgstr "Danh sách các loại từ điển, được sử dụng nội bộ, không được chạm vào"
+
+#. i18n: ectx: label, entry (edict__NAMES), group (dicts_edict)
+#: app/kiten.kcfg:25
+#, kde-format
+msgid "Edict dictionary files"
+msgstr "Tệp từ điển Edict"
+
+#. i18n: ectx: label, entry (edict__useGlobal), group (dicts_edict)
+#: app/kiten.kcfg:28
+#, kde-format
+msgid "Use preinstalled edict"
+msgstr "Sử dụng edict đã cài đặt sẵn"
+
+#. i18n: ectx: label, entry (edict__displayFields), group (dicts_edict)
+#. i18n: ectx: label, entry (kanjidic__displayFields), group (dicts_kanjidic)
+#: app/kiten.kcfg:32 app/kiten.kcfg:46
+#, kde-format
+msgid "Set of fields to display for this dictionary type"
+msgstr "Bộ trường để hiển thị cho kiểu từ điển này"
+
+#. i18n: ectx: label, entry (kanjidic__NAMES), group (dicts_kanjidic)
+#: app/kiten.kcfg:39
+#, kde-format
+msgid "Kanjidic dictionary files"
+msgstr "Các tệp từ điển Kanjidic"
+
+#. i18n: ectx: label, entry (kanjidic__useGlobal), group (dicts_kanjidic)
+#: app/kiten.kcfg:42
+#, kde-format
+msgid "Use preinstalled kanjidic"
+msgstr "Sử dụng kanjidic đã cài đặt trước"
+
+#. i18n: ectx: label, entry, group (Searching Options)
+#: app/kiten.kcfg:53
+#, kde-format
+msgid "Do we search for \"jiten\" on startup"
+msgstr "Chúng ta có tìm kiếm \"jiten\" khi khởi động không"
+
+#. i18n: ectx: label, entry, group (Searching Options)
+#: app/kiten.kcfg:57
+#, kde-format
+msgid "Case sensitive searches"
+msgstr "Tìm kiếm phân biệt chữ hoa chữ thường"
+
+#. i18n: ectx: label, entry, group (Sorting)
+#: app/kiten.kcfg:63
+#, kde-format
+msgid "Enable Sorting By Dictionary"
+msgstr "Bật sắp xếp theo từ điển"
+
+#. i18n: ectx: label, entry, group (Sorting)
+#: app/kiten.kcfg:67
+#, kde-format
+msgid "What order do we sort the dictionaries in?"
+msgstr "Chúng ta sắp xếp từ điển theo thứ tự nào?"
+
+#. i18n: ectx: label, entry, group (Sorting)
+#: app/kiten.kcfg:71
+#, kde-format
+msgid "What order do we sort the fields in?"
+msgstr "Chúng ta sắp xếp các trường theo thứ tự nào?"
+
+#. i18n: ectx: label, entry, group (app)
+#: app/kiten.kcfg:89
+#, kde-format
+msgid ""
+"0=No filter, 1=Limit search results to \"common\" entries only, 2=Separate "
+"common and uncommon entries"
+msgstr ""
+"0=Không có bộ lọc, 1=Giới hạn kết quả tìm kiếm chỉ với các mục \"thông "
+"thường\", 2=Tách biệt các mục thông thường và không thông thường"
+
+#. i18n: ectx: label, entry, group (app)
+#: app/kiten.kcfg:93
+#, kde-format
+msgid ""
+"The user's last type of search, 0=Exact, 1=Match Start, 2=Match End, 3=Match "
+"Anywhere"
+msgstr ""
+"Kiểu tìm kiếm cuối cùng của người dùng, 0=Chính xác, 1=Khớp đầu, 2=Khớp "
+"cuối, 3=Khớp bất kỳ"
+
+#. i18n: ectx: label, entry, group (app)
+#: app/kiten.kcfg:97
+#, kde-format
+msgid ""
+"The user's last type of search, 0=Any, 1=Verb, 2=Noun, 3=Adjective, "
+"4=Adverb, 5=Prefix, 6=Suffix, 7=Expression"
+msgstr ""
+"Kiểu tìm kiếm cuối cùng của người dùng, 0=Bất kỳ, 1=Động từ, 2=Danh từ, "
+"3=Tính từ, 4=Trạng từ, 5=Tiền tố, 6=Hậu tố, 7=Cụm từ"
+
+#. i18n: ectx: label, entry, group (app)
+#: app/kiten.kcfg:101
+#, kde-format
+msgid "Automatically search for clipboard entries?"
+msgstr "Tự động tìm kiếm các mục trong bảng nháp?"
+
+#. i18n: ectx: Menu (file)
+#: app/kitenui.rc:6 kanjibrowser/kanjibrowserui.rc:6
+#, kde-format
+msgid "&File"
+msgstr "&Tệp"
+
+#. i18n: ectx: ToolBar (mainToolbar)
+#: app/kitenui.rc:35 kanjibrowser/kanjibrowserui.rc:16
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Thanh công cụ"
+
+#. i18n: ectx: ToolBar (extraToolbar)
+#: app/kitenui.rc:44
+#, kde-format
+msgid "Extra Toolbar"
+msgstr "Thanh công cụ bổ sung"
+
+#. i18n: ectx: ToolBar (searchToolbar)
+#: app/kitenui.rc:48
+#, kde-format
+msgid "Search Toolbar"
+msgstr "Thanh công cụ tìm kiếm"
+
+#. i18n: ectx: Menu (search_options)
+#: app/kitenui.rc:52
+#, kde-format
+msgid "Search Options"
+msgstr "Tùy chọn tìm kiếm"
+
+#: app/main.cpp:32
+#, kde-format
+msgid "Kiten"
+msgstr "Kiten"
+
+#: app/main.cpp:34
+#, kde-format
+msgid "Japanese Reference Tool"
+msgstr "Công cụ tham khảo tiếng Nhật"
+
+#: app/main.cpp:36
+#, kde-format
+msgid ""
+"(c) 2001-2004, Jason Katz-Brown\n"
+"(c) 2006-2007, Eric Kjeldergaard\n"
+"(c) 2006-2008, Joseph Kerian\n"
+"(c) 2011, Daniel E. Moctezuma"
+msgstr ""
+"(c) 2001-2004, Jason Katz-Brown\n(c) 2006-2007, Eric Kjeldergaard\n(c) "
+"2006-2008, Joseph Kerian\n(c) 2011, Daniel E. Moctezuma"
+
+#: app/main.cpp:43
+#, kde-format
+msgid "Jason Katz-Brown"
+msgstr "Jason Katz-Brown"
+
+#: app/main.cpp:43
+#, kde-format
+msgid "Original author"
+msgstr "Tác giả gốc"
+
+#: app/main.cpp:44
+#, kde-format
+msgid "Jim Breen"
+msgstr "Jim Breen"
+
+#: app/main.cpp:45
+#, kde-format
+msgid ""
+"Wrote xjdic, of which Kiten borrows code, and the xjdic index file "
+"generator.\n"
+"Also is main author of edict and kanjidic, which Kiten essentially require."
+msgstr ""
+"Đã viết xjdic, mã của Kiten mượn, và trình tạo tệp lập chỉ mục xjdic.\nCũng "
+"là tác giả chính của edict và kanjidic, mà Kiten cần sử dụng."
+
+#: app/main.cpp:48
+#, kde-format
+msgid "Neil Stevens"
+msgstr "Neil Stevens"
+
+#: app/main.cpp:48
+#, kde-format
+msgid "Code simplification, UI suggestions."
+msgstr "Đơn giản hóa mã, gợi ý giao diện người dùng."
+
+#: app/main.cpp:49
+#, kde-format
+msgid "David Vignoni"
+msgstr "David Vignoni"
+
+#: app/main.cpp:49
+#, kde-format
+msgid "svg icon"
+msgstr "biểu tượng svg"
+
+#: app/main.cpp:50
+#, kde-format
+msgid "Paul Temple"
+msgstr "Paul Temple"
+
+#: app/main.cpp:50
+#, kde-format
+msgid "Porting to KConfig XT, bug fixing"
+msgstr "Chuyển sang KConfig XT, sửa lỗi"
+
+#: app/main.cpp:51 radselect/main.cpp:32
+#, kde-format
+msgid "Joseph Kerian"
+msgstr "Joseph Kerian"
+
+#: app/main.cpp:51 app/main.cpp:52
+#, kde-format
+msgid "KDE4 rewrite"
+msgstr "Viết lại KDE4"
+
+#: app/main.cpp:52
+#, kde-format
+msgid "Eric Kjeldergaard"
+msgstr "Eric Kjeldergaard"
+
+#: app/main.cpp:53 kanjibrowser/main.cpp:29
+#, kde-format
+msgid "Daniel E. Moctezuma"
+msgstr "Daniel E. Moctezuma"
+
+#: app/main.cpp:54
+#, kde-format
+msgid ""
+"Deinflection system improvements, Dictionary updates for EDICT and KANJIDIC, "
+"GUI Improvements, Kanji Browser, Bug fixes, Code polishing and simplification"
+msgstr ""
+"Cải thiện hệ thống loại từ, Cập nhật từ điển cho EDICT và KANJIDIC, Cải "
+"thiện giao diện người dùng, Trình duyệt Kanji, Sửa lỗi, Làm sạch và đơn "
+"giản hóa mã"
+
+#: app/searchstringinput.cpp:27
+#, kde-format
+msgid "Filter Type"
+msgstr "Kiểu lọc"
+
+#: app/searchstringinput.cpp:28
+#, kde-format
+msgid "No filter"
+msgstr "Không có bộ lọc"
+
+#: app/searchstringinput.cpp:29
+#, kde-format
+msgid "Filter out rare"
+msgstr "Lọc ra hiếm"
+
+#: app/searchstringinput.cpp:30
+#, kde-format
+msgid "Common/Uncommon"
+msgstr "Thông thường/Không thông thường"
+
+#: app/searchstringinput.cpp:33
+#, kde-format
+msgid "Match Type"
+msgstr "Kiểu"
+
+#: app/searchstringinput.cpp:34
+#, kde-format
+msgid "Exact Match"
+msgstr "Khớp chính xác"
+
+#: app/searchstringinput.cpp:35
+#, kde-format
+msgid "Match Beginning"
+msgstr "Khớp đầu"
+
+#: app/searchstringinput.cpp:36
+#, kde-format
+msgid "Match Ending"
+msgstr "Khớp kết thúc"
+
+#: app/searchstringinput.cpp:37
+#, kde-format
+msgid "Match Anywhere"
+msgstr "Khớp ở bất kỳ đâu"
+
+#: app/searchstringinput.cpp:40
+#, kde-format
+msgid "Word Type"
+msgstr "Kiểu từ"
+
+#: app/searchstringinput.cpp:41
+#, kde-format
+msgid "Any"
+msgstr "Bất kỳ"
+
+#: app/searchstringinput.cpp:42
+#, kde-format
+msgid "Verb"
+msgstr "Động từ"
+
+#: app/searchstringinput.cpp:43
+#, kde-format
+msgid "Noun"
+msgstr "Danh từ"
+
+#: app/searchstringinput.cpp:44
+#, kde-format
+msgid "Adjective"
+msgstr "Tính từ"
+
+#: app/searchstringinput.cpp:45
+#, kde-format
+msgid "Adverb"
+msgstr "Trạng từ"
+
+#: app/searchstringinput.cpp:46
+#, kde-format
+msgid "Prefix"
+msgstr "Tiền tố"
+
+#: app/searchstringinput.cpp:47
+#, kde-format
+msgid "Suffix"
+msgstr "Hậu tố"
+
+#: app/searchstringinput.cpp:48
+#, kde-format
+msgid "Expression"
+msgstr "Biểu thức"
+
+#: app/searchstringinput.cpp:57
+#, kde-format
+msgid "Focus input field"
+msgstr "Tập trung vào trường nhập"
+
+#: app/searchstringinput.cpp:60
+#, kde-format
+msgid "Search Bar"
+msgstr "Thanh tìm kiếm"
+
+#: kanjibrowser/kanjibrowserview.cpp:184
+#, kde-format
+msgid "%1 kanji found"
+msgid_plural "%1 kanji found"
+msgstr[0] "Đã tìm thấy %1 chữ Hán"
+
+#: kanjibrowser/kanjibrowserview.cpp:197
+#, kde-format
+msgid "About %1"
+msgstr "Về %1"
+
+#: kanjibrowser/kanjibrowserview.cpp:198
+#, kde-format
+msgid "Copy %1 to clipboard"
+msgstr "Sao chép %1 vào bảng nháp"
+
+#: kanjibrowser/kanjibrowserview.cpp:211
+#, kde-format
+msgid "Could not load the necessary kanji information."
+msgstr "Không thể tải thông tin kanji cần thiết."
+
+#: kanjibrowser/kanjibrowserview.cpp:221
+#, kde-format
+msgid "Kanji &List"
+msgstr "Danh sách Kan&ji"
+
+#: kanjibrowser/kanjibrowserview.cpp:224
+#, kde-format
+msgid "Kanji &Information"
+msgstr "Thông t&in Kanji"
+
+#: kanjibrowser/kanjibrowserview.cpp:228
+#, kde-format
+msgid "&Search…"
+msgstr "Tìm k&iếm..."
+
+#: kanjibrowser/kanjibrowserview.cpp:233
+#, kde-format
+msgid "All Jouyou Kanji grades"
+msgstr "Tất cả các cấp độ Kanji Jouyou"
+
+#: kanjibrowser/kanjibrowserview.cpp:237
+#, kde-format
+msgid "Grade %1 (Jinmeiyou)"
+msgstr "Cấp độ %1 (Jinmeiyou)"
+
+#: kanjibrowser/kanjibrowserview.cpp:239
+#, kde-format
+msgid "Grade %1"
+msgstr "Cấp độ %1"
+
+#: kanjibrowser/kanjibrowserview.cpp:242
+#, kde-format
+msgid "Not in Jouyou list"
+msgstr "Không có trong danh sách Jouyou"
+
+#: kanjibrowser/kanjibrowserview.cpp:244
+#, kde-format
+msgid "No stroke limit"
+msgstr "Không giới hạn nét vẽ"
+
+#: kanjibrowser/kanjibrowserview.cpp:246
+#, kde-format
+msgid "%1 stroke"
+msgid_plural "%1 strokes"
+msgstr[0] "%1 nét"
+
+#: kanjibrowser/kanjibrowserview.cpp:293
+#, kde-format
+msgid "Grade:"
+msgstr "Cấp độ:"
+
+#. i18n: ectx: property (text), widget (QLabel, strokes_label_2)
+#: kanjibrowser/kanjibrowserview.cpp:295 radselect/radical_selector.ui:102
+#, kde-format
+msgid "Strokes:"
+msgstr "Nét:"
+
+#: kanjibrowser/kanjibrowserview.cpp:301
+#, kde-format
+msgid "Onyomi: "
+msgstr "Âm Hán Việt:"
+
+#: kanjibrowser/kanjibrowserview.cpp:309
+#, kde-format
+msgid "Kunyomi: "
+msgstr "Kunyomi: "
+
+#: kanjibrowser/kanjibrowserview.cpp:317 lib/DictKanjidic/entrykanjidic.cpp:148
+#, kde-format
+msgid "In names: "
+msgstr "Trong tên:"
+
+#: kanjibrowser/kanjibrowserview.cpp:325 lib/DictKanjidic/entrykanjidic.cpp:153
+#, kde-format
+msgid "As radical: "
+msgstr "Như bộ phận cấu tạo:"
+
+#: kanjibrowser/kanjibrowserview.cpp:332
+#, kde-format
+msgid "Meaning: "
+msgstr "Ý nghĩa:"
+
+#: kanjibrowser/kanjibrowserview.cpp:334
+#, kde-format
+msgid "Meanings: "
+msgstr "Ý nghĩa:"
+
+#: kanjibrowser/main.cpp:23
+#, kde-format
+msgid "Kiten's Kanji Browser, a KDE Japanese Reference Tool"
+msgstr "Trình duyệt Kanji của Kiten, một công cụ tham khảo tiếng Nhật của KDE"
+
+#: kanjibrowser/main.cpp:25
+#, kde-format
+msgid "(C) 2011 Daniel E. Moctezuma"
+msgstr "(C) 2011 Daniel E. Moctezuma"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, preferences)
+#. i18n: ectx: property (windowTitle), widget (QWidget, radselectprefdialog)
+#: kanjibrowser/preferences.ui:14 radselect/radselectprefdialog.ui:15
+#, kde-format
+msgid "Preferences"
+msgstr "các thiết lập"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: kanjibrowser/preferences.ui:20
+#, kde-format
+msgid "Kanji List"
+msgstr "Danh sách Kanji"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, _kanjiListFontLabel)
+#. i18n: ectx: property (toolTip), widget (QLabel, resultListFontSize_label)
+#. i18n: ectx: property (toolTip), widget (KFontRequester, kcfg_resultListFont)
+#. i18n: ectx: property (toolTip), widget (QLabel, fontSize_label)
+#. i18n: ectx: property (toolTip), widget (KFontRequester, kcfg_font)
+#: kanjibrowser/preferences.ui:34 radselect/radselectprefdialog.ui:46
+#: radselect/radselectprefdialog.ui:59 radselect/radselectprefdialog.ui:72
+#: radselect/radselectprefdialog.ui:85
+#, kde-format
+msgid "The font for the main kanji/kana entry in list view"
+msgstr "Phông chữ cho mục nhập chính kanji/kana trong khung xem danh sách"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, _kanjiListFontLabel)
+#. i18n: ectx: property (whatsThis), widget (QLabel, fontSize_label)
+#. i18n: ectx: property (whatsThis), widget (KFontRequester, kcfg_font)
+#: kanjibrowser/preferences.ui:37 radselect/radselectprefdialog.ui:75
+#: radselect/radselectprefdialog.ui:88
+#, kde-format
+msgid "Use this to adjust the button font"
+msgstr "Sử dụng điều này để điều chỉnh phông chữ của nút"
+
+#. i18n: ectx: property (text), widget (QLabel, _kanjiListFontLabel)
+#: kanjibrowser/preferences.ui:40
+#, kde-format
+msgid "Kanji font:"
+msgstr "Phông chữ Kanji:"
+
+#. i18n: ectx: property (sampleText), widget (KFontRequester, kcfg_kanjiListFont)
+#: kanjibrowser/preferences.ui:56
+#, kde-format
+msgid "漢字"
+msgstr "Hán tự"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: kanjibrowser/preferences.ui:77
+#, kde-format
+msgid "Kanji Information"
+msgstr "Thông tin Kanji"
+
+#. i18n: ectx: property (text), widget (QLabel, _kanjiSizeLabel)
+#: kanjibrowser/preferences.ui:97
+#, kde-format
+msgid "Kanji size:"
+msgstr "Kích thước Kanji:"
+
+#. i18n: ectx: property (text), widget (QLabel, _kanaFontLabel)
+#: kanjibrowser/preferences.ui:121
+#, kde-format
+msgid "Kana font:"
+msgstr "Phông chữ Kana:"
+
+#. i18n: ectx: property (sampleText), widget (KFontRequester, kcfg_kanaFont)
+#: kanjibrowser/preferences.ui:128
+#, kde-format
+msgid "かな"
+msgstr "Kana"
+
+#. i18n: ectx: property (text), widget (QLabel, _labelFontLabel)
+#: kanjibrowser/preferences.ui:151
+#, kde-format
+msgid "Label font:"
+msgstr "Phông chữ nhãn:"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, SearchDialog)
+#: kanjibrowser/searchdialog.ui:20
+#, kde-format
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: kanjibrowser/searchdialog.ui:26
+#, kde-format
+msgid "Enter a search query:"
+msgstr "Nhập truy vấn tìm kiếm:"
+
+#: lib/DictEdict/deinflection.cpp:118
+#, kde-format
+msgid "verb"
+msgstr "động từ"
+
+#: lib/DictEdict/deinflection.cpp:120
+#, kde-format
+msgid "adjective"
+msgstr "tính từ"
+
+#: lib/DictEdict/deinflection.cpp:146
+#, kde-format
+msgid ""
+"Verb deinflection information not found, so verb deinflection cannot be used."
+msgstr ""
+"Không tìm thấy thông tin về việc loại bỏ từ vựng, vì vậy không thể sử dụng "
+"việc loại bỏ từ vựng."
+
+#: lib/DictEdict/deinflection.cpp:154
+#, kde-format
+msgid ""
+"Verb deinflection information could not be loaded, so verb deinflection "
+"cannot be used."
+msgstr ""
+"Thông tin về từ loại không thể được tải, vì vậy không thể sử dụng chức năng "
+"từ loại."
+
+#: lib/DictEdict/dictfilefieldselector.cpp:28
+#, kde-format
+msgid "&Available Fields:"
+msgstr "Cá&c trường hiện có:"
+
+#: lib/entry.cpp:154
+#, kde-format
+msgid "; "
+msgstr "; "
+
+#: lib/entrylist.cpp:105
+#, kde-format
+msgid "From Dictionary:"
+msgstr "Từ Từ điển:"
+
+#: lib/entrylist.cpp:122
+#, kde-format
+msgctxt ""
+"%1 is a word type (verb or adjective). %2 is a verb or adjective tense. "
+"Example: 'Entered verb in past tense'."
+msgid "Entered %1 in %2 form"
+msgstr "Đã nhập %1 ở dạng %2"
+
+#: lib/entrylist.cpp:143
+#, kde-format
+msgid "Common"
+msgstr "Chung"
+
+#: lib/entrylist.cpp:146
+#, kde-format
+msgid "Uncommon"
+msgstr "Không phổ biến"
+
+#: radselect/buttongrid.cpp:113
+#, kde-format
+msgid "No Radicals Selected"
+msgstr "Không có Radical nào được chọn"
+
+#: radselect/buttongrid.cpp:149
+#, kde-format
+msgid "Selected Radicals: "
+msgstr "Các Radical đã chọn:"
+
+#: radselect/main.cpp:26
+#, kde-format
+msgid "A KDE Application"
+msgstr "Một ứng dụng KDE"
+
+#: radselect/main.cpp:28
+#, kde-format
+msgid "(C) 2005 Joseph Kerian"
+msgstr "(C) 2005 Joseph Kerian"
+
+#: radselect/main.cpp:33
+#, kde-format
+msgid "Electronic Dictionary Research and Development Group"
+msgstr "Nhóm Nghiên cứu và Phát triển Từ điển Điện tử"
+
+#: radselect/main.cpp:34
+#, kde-format
+msgid ""
+"This program uses the KANJIDIC and RADKFILE dictionary files. These files "
+"are the property of the Electronic Dictionary Research and Development "
+"Group, and are used in conformance with the Group's licence."
+msgstr ""
+"Chương trình này sử dụng các tệp từ điển KANJIDIC và RADKFILE. Các tệp này "
+"là tài sản của Nhóm Nghiên cứu và Phát triển Từ điện tử, và được sử dụng "
+"phù hợp với giấy phép của Nhóm."
+
+#: radselect/main.cpp:44
+#, kde-format
+msgid "Initial Search String from Kiten"
+msgstr "Chuỗi tìm kiếm ban đầu từ Kiten"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, radical_selector)
+#: radselect/radical_selector.ui:22
+#, kde-format
+msgid "RadicalSelector"
+msgstr "Bộ chọn Radical"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: radselect/radical_selector.ui:40
+#, kde-format
+msgid "Results"
+msgstr "Kết quả"
+
+#. i18n: ectx: property (text), widget (QPushButton, copy_button)
+#: radselect/radical_selector.ui:82
+#, kde-format
+msgid "&To Clipboard"
+msgstr "Sao c&hép vào bảng nháp"
+
+#. i18n: ectx: property (text), widget (QLabel, strokes_label)
+#: radselect/radical_selector.ui:122
+#, kde-format
+msgid " - "
+msgstr " - "
+
+#. i18n: ectx: property (text), widget (QPushButton, clear_button)
+#: radselect/radical_selector.ui:164
+#, kde-format
+msgid "Clear"
+msgstr "Làm trống"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_sortByFrequency)
+#. i18n: ectx: label, entry, group (Options)
+#: radselect/radselectconfig.kcfg:20 radselect/radselectprefdialog.ui:31
+#, kde-format
+msgid "Display radicals in descending frequency order"
+msgstr "Hiển thị các bộ thể hiện theo thứ tự tần suất giảm dần"
+
+#. i18n: ectx: label, entry, group (Options)
+#: radselect/radselectconfig.kcfg:24
+#, kde-format
+msgid "Do we close this program when searching?"
+msgstr "Chúng tôi có đóng chương trình này khi đang tìm kiếm không?"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_closeOnSearch)
+#: radselect/radselectprefdialog.ui:24
+#, kde-format
+msgid "Close radselect when you press search"
+msgstr "Đóng radselect khi bạn nhấn tìm kiếm"
+
+#. i18n: ectx: property (text), widget (QLabel, resultListFontSize_label)
+#: radselect/radselectprefdialog.ui:43
+#, kde-format
+msgid "Search Results Font:"
+msgstr "Phông chữ Kết quả Tìm kiếm:"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, resultListFontSize_label)
+#. i18n: ectx: property (whatsThis), widget (KFontRequester, kcfg_resultListFont)
+#: radselect/radselectprefdialog.ui:49 radselect/radselectprefdialog.ui:62
+#, kde-format
+msgid "Use this to adjust the result list font"
+msgstr "Sử dụng điều này để điều chỉnh phông chữ của danh sách kết quả"
+
+#. i18n: ectx: property (sampleText), widget (KFontRequester, kcfg_resultListFont)
+#. i18n: ectx: property (sampleText), widget (KFontRequester, kcfg_font)
+#: radselect/radselectprefdialog.ui:56 radselect/radselectprefdialog.ui:82
+#, kde-format
+msgid "漢字 かな"
+msgstr "Hán tự Kana"
+
+#. i18n: ectx: property (text), widget (QLabel, fontSize_label)
+#: radselect/radselectprefdialog.ui:69
+#, kde-format
+msgid "Button Font:"
+msgstr "Phông chữ nút:"
+
+#: radselect/radselectview.cpp:38
+#, kde-format
+msgid ""
+"Kanji radical information does not seem to be installed (file kiten/"
+"radkfile), this file is required for this app to function."
+msgstr ""
+"Thông tin về bộ chữ Kanji dường như chưa được cài đặt (tệp kiten/radkfile), "
+"tệp này là bắt buộc để ứng dụng này hoạt động."
+
+#: radselect/radselectview.cpp:45
+#, kde-format
+msgid ""
+"Kanji dictionary does not seem to be installed (file kiten/kanjidic), stroke "
+"count information will be unavailable."
+msgstr ""
+"Từ điển Kanji dường như chưa được cài đặt (tệp kiten/kanjidic), thông tin "
+"về số nét sẽ không khả dụng."
+
+#: radselect/radselectview.cpp:61
+#, kde-format
+msgctxt "Minimum number of strokes for a kanji"
+msgid "Min"
+msgstr "Tối thiểu"
+
+#: radselect/radselectview.cpp:62
+#, kde-format
+msgctxt "Maximum number of strokes for a kanji"
+msgid "Max"
+msgstr "Tối đa"
+
+#: radselect/radselectview.cpp:106
+#, kde-format
+msgctxt "@item:inlist all matches should be found"
+msgid "(ALL)"
+msgstr "(TẤT CẢ)"

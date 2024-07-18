@@ -18,33 +18,33 @@ msgstr ""
 "X-Generator: LocFactoryEditor 1.6fc1\n"
 
 #: akregatorplugin.cpp:46
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add Feed to Akregator"
 msgctxt "@action:inmenu"
 msgid "Add Feed to Akregator"
 msgstr "Thêm nguồn tin cho Akregator"
 
 #: konqfeedicon.cpp:130
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add Feed to Akregator"
 msgid "Add feed to Akregator"
-msgstr "Thêm nguồn tin cho Akregator"
+msgstr "Thêm nguồn tin vào Akregator"
 
 #: konqfeedicon.cpp:131
 #, kde-format
 msgid "Copy feed URL to clipboard"
-msgstr ""
+msgstr "Sao chép URL nguồn cấp dữ liệu vào bảng nháp"
 
 #: konqfeedicon.cpp:132
 #, kde-format
 msgid "Open feed URL"
-msgstr ""
+msgstr "Mở URL nguồn cấp dữ liệu"
 
 #: konqfeedicon.cpp:143
 #, kde-format
 msgctxt "@title:menu title for the feeds menu"
 msgid "Feeds"
-msgstr ""
+msgstr "Nguồn cấp dữ liệu"
 
 #: konqfeedicon.cpp:149
 #, kde-format
@@ -52,9 +52,9 @@ msgid "Add All Found Feeds to Akregator"
 msgstr "Thêm mọi nguồn tin cho Akregator"
 
 #: konqfeedicon.cpp:222
-#, fuzzy, kde-format
+#, kde-format
 msgid "Subscribe to site updates (using news feed)"
-msgstr "Theo dõi chỗ Mạng này tìm bản cập nhật (dùng nguồn tin)"
+msgstr "Đăng ký nhận bản cập nhật của trang web (dùng nguồn tin)"
 
 #: pluginutil.cpp:35 pluginutil.cpp:45
 #, kde-format
@@ -64,13 +64,13 @@ msgstr "Nguồn tin đã nhập"
 #: pluginutil.cpp:37
 #, kde-format
 msgid "Unable to contact Akregator via D-Bus"
-msgstr ""
+msgstr "Không thể liên hệ với Akregator qua D-Bus"
 
 #: pluginutil.cpp:38
 #, kde-format
 msgctxt "@title:window"
 msgid "D-Bus call failed"
-msgstr ""
+msgstr "Gọi D-Bus thất bại"
 
 #~ msgid "Add Feeds to Akregator"
 #~ msgstr "Thêm các nguồn tin cho Akregator"

@@ -1,0 +1,873 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kfourinline package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kfourinline\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-04 00:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#, kde-format
+msgctxt "Player 0 color"
+msgid "Black"
+msgstr "Đen"
+
+#, kde-format
+msgctxt "Player 0 color"
+msgid "Yellow"
+msgstr "Vàng"
+
+#, kde-format
+msgctxt "Player 1 color"
+msgid "Red"
+msgstr "Đỏ"
+
+#: chatdlg.cpp:33
+#, kde-format
+msgctxt "@title:window"
+msgid "Chat Dlg"
+msgstr "Hộp thoại trò chuyện"
+
+#: chatdlg.cpp:48
+#, kde-format
+msgctxt "@title:group"
+msgid "Chat"
+msgstr "Trò chuyện"
+
+#: chatdlg.cpp:54
+#, kde-format
+msgctxt "@action:button"
+msgid "Configure…"
+msgstr "Cấu hình..."
+
+#: displayintro.cpp:71
+#, kde-format
+msgctxt "@title:group"
+msgid "Quick Launch"
+msgstr "Khởi chạy nhanh"
+
+#: displayintro.cpp:77
+#, kde-format
+msgctxt "@label Ask player who should start game"
+msgid "Who starts?"
+msgstr "Ai bắt đầu?"
+
+#: displayintro.cpp:80
+#, kde-format
+msgctxt "@label Ask player which color he wants to play"
+msgid "Your color?"
+msgstr "Màu của bạn?"
+
+#: displayintro.cpp:124
+#, kde-format
+msgctxt "@action:button quick start - player versus AI level easy"
+msgid "Easy Game"
+msgstr "Trò chơi dễ"
+
+#: displayintro.cpp:130
+#, kde-format
+msgctxt "@action:button quick start - player versus AI level normal"
+msgid "Normal Game"
+msgstr "Trò chơi bình thường"
+
+#: displayintro.cpp:136
+#, kde-format
+msgctxt "@action:button quick start - player versus AI level hard"
+msgid "Hard Game"
+msgstr "Trò Chơi Khó"
+
+#: displayintro.cpp:142
+#, kde-format
+msgctxt "@action:button quick start - player versus player"
+msgid "Two Player Game"
+msgstr "Trò chơi Hai Người Chơi"
+
+#: kchatdialog.cpp:80
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure Chat"
+msgstr "Cấu hình Trò chuyện"
+
+#: kchatdialog.cpp:92 kchatdialog.cpp:114
+#, kde-format
+msgctxt "@action:button"
+msgid "Name Font…"
+msgstr "Phông chữ tên..."
+
+#: kchatdialog.cpp:95 kchatdialog.cpp:117
+#, kde-format
+msgctxt "@action:button"
+msgid "Text Font…"
+msgstr "Phông chữ văn bản..."
+
+#: kchatdialog.cpp:104
+#, kde-format
+msgid "Player: "
+msgstr "Người chơi:"
+
+#: kchatdialog.cpp:106
+#, kde-format
+msgid "This is a player message"
+msgstr "Đây là thông điệp của người chơi"
+
+#: kchatdialog.cpp:112
+#, kde-format
+msgid "System Messages - Messages directly sent from the game"
+msgstr "Thông điệp hệ thống - Thông điệp được gửi trực tiếp từ bàn chơi"
+
+#: kchatdialog.cpp:126
+#, kde-format
+msgid "--- Game: "
+msgstr "--- Trò chơi: "
+
+#: kchatdialog.cpp:128
+#, kde-format
+msgid "This is a system message"
+msgstr "Đây là một thông điệp hệ thống"
+
+#: kchatdialog.cpp:132
+#, kde-format
+msgid "Maximum number of messages (-1 = unlimited):"
+msgstr "Số lượng tin nhắn tối đa (-1 = không giới hạn):"
+
+#. i18n: ectx: Menu (game)
+#: kfourinlineui.rc:10
+#, kde-format
+msgid "&Game"
+msgstr "Bàn &chơi"
+
+#. i18n: ectx: Menu (settings)
+#: kfourinlineui.rc:18
+#, kde-format
+msgid "&Settings"
+msgstr "Th&iết lập"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kfourinlineui.rc:24
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Thanh công cụ chính"
+
+#: kgameconnectdialog.cpp:63
+#, kde-format
+msgctxt "@option:radio"
+msgid "Create a network game"
+msgstr "Tạo một bàn chơi mạng"
+
+#: kgameconnectdialog.cpp:66
+#, kde-format
+msgctxt "@option:radio"
+msgid "Join a network game"
+msgstr "Tham gia một trò chơi mạng"
+
+#: kgameconnectdialog.cpp:72
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Game name:"
+msgstr "Tên bàn chơi:"
+
+#: kgameconnectdialog.cpp:74
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Network games:"
+msgstr "Trò chơi mạng:"
+
+#: kgameconnectdialog.cpp:84
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Port to connect to:"
+msgstr "Cổng để kết nối đến:"
+
+#: kgameconnectdialog.cpp:90
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Host to connect to:"
+msgstr "Máy để kết nối đến:"
+
+#: kgameconnectdialog.cpp:95
+#, kde-format
+msgctxt "@action:button"
+msgid "&Start Network"
+msgstr "Khởi độ&ng Mạng"
+
+#: kgamedebugdialog.cpp:118
+#, kde-format
+msgctxt "@title:window"
+msgid "KGame Debug Dialog"
+msgstr "Hộp thoại gỡ lỗi KGame"
+
+#: kgamedebugdialog.cpp:140
+#, kde-format
+msgid "Debug &KGame"
+msgstr "Gỡ lỗi &KGame"
+
+#: kgamedebugdialog.cpp:162 kgamedebugdialog.cpp:215
+#, kde-format
+msgid "Update"
+msgstr "Cập nhật"
+
+#: kgamedebugdialog.cpp:167
+#, kde-format
+msgid "KGame Pointer"
+msgstr "Con trỏ KGame"
+
+#: kgamedebugdialog.cpp:168
+#, kde-format
+msgid "Game ID"
+msgstr "Mã định danh bàn chơi"
+
+#: kgamedebugdialog.cpp:169
+#, kde-format
+msgid "Game Cookie"
+msgstr "Bánh quy bàn chơi"
+
+#: kgamedebugdialog.cpp:170
+#, kde-format
+msgid "Is Master"
+msgstr "Là chủ"
+
+#: kgamedebugdialog.cpp:171
+#, kde-format
+msgid "Is Admin"
+msgstr "Là quản trị viên"
+
+#: kgamedebugdialog.cpp:172
+#, kde-format
+msgid "Is Offering Connections"
+msgstr "Đang cung cấp kết nối"
+
+#: kgamedebugdialog.cpp:173
+#, kde-format
+msgid "Game Status"
+msgstr "Trạng thái bàn chơi"
+
+#: kgamedebugdialog.cpp:174
+#, kde-format
+msgid "Game is Running"
+msgstr "Bàn chơi đang chạy"
+
+#: kgamedebugdialog.cpp:175
+#, kde-format
+msgid "Maximal Players"
+msgstr "Số người chơi tối đa"
+
+#: kgamedebugdialog.cpp:176
+#, kde-format
+msgid "Minimal Players"
+msgstr "Số lượng người chơi tối thiểu"
+
+#: kgamedebugdialog.cpp:177
+#, kde-format
+msgid "Players"
+msgstr "Người chơi"
+
+#: kgamedebugdialog.cpp:183
+#, kde-format
+msgid "Debug &Players"
+msgstr "Gỡ lỗ&i người chơi"
+
+#: kgamedebugdialog.cpp:193
+#, kde-format
+msgid "Available Players"
+msgstr "Người chơi hiện có"
+
+#: kgamedebugdialog.cpp:219
+#, kde-format
+msgid "Player Pointer"
+msgstr "Con trỏ người chơi"
+
+#: kgamedebugdialog.cpp:220
+#, kde-format
+msgid "Player ID"
+msgstr "Mã định danh"
+
+#: kgamedebugdialog.cpp:221
+#, kde-format
+msgid "Player Name"
+msgstr "Tên người chơi"
+
+#: kgamedebugdialog.cpp:222
+#, kde-format
+msgid "Player Group"
+msgstr "Nhóm người chơi"
+
+#: kgamedebugdialog.cpp:223
+#, kde-format
+msgid "Player User ID"
+msgstr "Mã định danh người chơi"
+
+#: kgamedebugdialog.cpp:224
+#, kde-format
+msgid "My Turn"
+msgstr "Lượt của tôi"
+
+#: kgamedebugdialog.cpp:225
+#, kde-format
+msgid "Async Input"
+msgstr "Đầu vào bất đồng bộ"
+
+#: kgamedebugdialog.cpp:226
+#, kde-format
+msgid "KGame Address"
+msgstr "Địa chỉ KGame"
+
+#: kgamedebugdialog.cpp:227
+#, kde-format
+msgid "Player is Virtual"
+msgstr "Người chơi là ảo"
+
+#: kgamedebugdialog.cpp:228
+#, kde-format
+msgid "Player is Active"
+msgstr "Người chơi đang hoạt động"
+
+#: kgamedebugdialog.cpp:229
+#, kde-format
+msgid "RTTI"
+msgstr "RTTI"
+
+#: kgamedebugdialog.cpp:230
+#, kde-format
+msgid "Network Priority"
+msgstr "Độ ưu tiên mạng"
+
+#: kgamedebugdialog.cpp:236
+#, kde-format
+msgid "Debug &Messages"
+msgstr "Thô&ng điệp gỡ lỗi"
+
+#: kgamedebugdialog.cpp:251
+#, kde-format
+msgid "&>>"
+msgstr "&gt;&gt;"
+
+#: kgamedebugdialog.cpp:255
+#, kde-format
+msgid "&<<"
+msgstr "&lt;&lt;"
+
+#: kgamedebugdialog.cpp:259
+#, kde-format
+msgid "Do not show IDs:"
+msgstr "Không hiển thị ID:"
+
+#: kgamedebugdialog.cpp:328
+#, kde-format
+msgid "NULL pointer"
+msgstr "con trỏ NULL"
+
+#: kgamedebugdialog.cpp:338 kgamedebugdialog.cpp:339 kgamedebugdialog.cpp:340
+#: kgamedebugdialog.cpp:342 kgamedebugdialog.cpp:395 kgamedebugdialog.cpp:396
+#: kgamedebugdialog.cpp:399 kgamedebugdialog.cpp:400
+#, kde-format
+msgid "True"
+msgstr "Đúng"
+
+#: kgamedebugdialog.cpp:338 kgamedebugdialog.cpp:339 kgamedebugdialog.cpp:340
+#: kgamedebugdialog.cpp:342 kgamedebugdialog.cpp:395 kgamedebugdialog.cpp:396
+#: kgamedebugdialog.cpp:399 kgamedebugdialog.cpp:400
+#, kde-format
+msgid "False"
+msgstr "Sai"
+
+#: kgamedebugdialog.cpp:354 kgamedebugdialog.cpp:412
+#, kde-format
+msgid "Clean"
+msgstr "Dọn dẹp"
+
+#: kgamedebugdialog.cpp:357 kgamedebugdialog.cpp:415
+#, kde-format
+msgid "Dirty"
+msgstr "Bẩn"
+
+#: kgamedebugdialog.cpp:360 kgamedebugdialog.cpp:418
+#, kde-format
+msgid "Local"
+msgstr "Cục bộ"
+
+#: kgamedebugdialog.cpp:364 kgamedebugdialog.cpp:422
+#, kde-format
+msgid "Undefined"
+msgstr "Không xác định"
+
+#: kgamedebugdialog.cpp:507
+#, kde-format
+msgid "Unknown"
+msgstr "không rõ"
+
+#: kgamedialog.cpp:92
+#, kde-format
+msgctxt "@title:tab"
+msgid "&Network"
+msgstr "Mạn&g"
+
+#: kgamedialogconfig.cpp:124
+#, kde-format
+msgctxt "@action:button"
+msgid "Disconnect"
+msgstr "Ngắt kết nối"
+
+#: kgamedialogconfig.cpp:128
+#, kde-format
+msgctxt "@title:group"
+msgid "Network Configuration"
+msgstr "Cấu hình mạng"
+
+#: kgamedialogconfig.cpp:187
+#, kde-format
+msgid "Cannot connect to the network"
+msgstr "Không thể kết nối với mạng"
+
+#: kgamedialogconfig.cpp:193
+#, kde-format
+msgid "Network status: No Network"
+msgstr "Trạng thái mạng: Không có mạng"
+
+#: kgamedialogconfig.cpp:199
+#, kde-format
+msgid "Network status: You are MASTER"
+msgstr "Trạng thái mạng: Bạn là MASTER"
+
+#: kgamedialogconfig.cpp:201
+#, kde-format
+msgid "Network status: You are connected"
+msgstr "Trạng thái mạng: Bạn đã được kết nối"
+
+#: kwin4.cpp:75
+#, kde-format
+msgid "Installation error: No theme list found."
+msgstr "Lỗi cài đặt: Không tìm thấy danh sách chủ đề."
+
+#: kwin4.cpp:102
+#, kde-format
+msgid "Installation error: No AI engine found. Continue without AI."
+msgstr "Lỗi cài đặt: Không tìm thấy dụng cụ AI. Tiếp tục mà không có AI."
+
+#: kwin4.cpp:117
+#, kde-format
+msgid "Installation error: Theme file error."
+msgstr "Lỗi cài đặt: Lỗi tệp chủ đề."
+
+#: kwin4.cpp:267
+#, kde-format
+msgid "Ends a currently played game. No winner will be declared."
+msgstr "Kết thúc trò chơi đang được chơi. Không có người chiến thắng được tuyên bố."
+
+#: kwin4.cpp:272
+#, kde-format
+msgctxt "@action"
+msgid "Configure Network…"
+msgstr "Cấu hình Mạng..."
+
+#: kwin4.cpp:276
+#, kde-format
+msgctxt "@action"
+msgid "Network Chat"
+msgstr "Trò chuyện mạng"
+
+#: kwin4.cpp:281
+#, kde-format
+msgctxt "@action"
+msgid "Show Statistics"
+msgstr "Hiển thị Thống kê"
+
+#: kwin4.cpp:283
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Show statistics"
+msgstr "Hiển thị thống kê"
+
+#: kwin4.cpp:295
+#, kde-format
+msgctxt "@title:menu"
+msgid "Theme"
+msgstr "Chủ đề"
+
+#: kwin4.cpp:306
+#, kde-format
+msgid "Debug KGame"
+msgstr "Gỡ lỗi KGame"
+
+#: kwin4.cpp:329
+#, kde-format
+msgid "Welcome to Four Wins"
+msgstr "Chào mừng đến với Four Wins"
+
+#: kwin4.cpp:485 kwin4.cpp:638
+#, kde-format
+msgctxt "@info"
+msgid "Game running…"
+msgstr "Trò chơi đang chạy..."
+
+#: kwin4.cpp:599
+#, kde-format
+msgid "No game  "
+msgstr "Không có bàn chơi"
+
+#: kwin4.cpp:601 kwin4.cpp:603
+#, kde-format
+msgid " %1 - %2 "
+msgstr "%1 - %2"
+
+#: kwin4.cpp:605
+#, kde-format
+msgid "Nobody  "
+msgstr "Không ai"
+
+#: kwin4.cpp:627
+#, kde-format
+msgid "The network game ended!\n"
+msgstr "Trò chơi mạng đã kết thúc!\n"
+
+#: kwin4.cpp:648
+#, kde-format
+msgid "The game is drawn. Please restart next round."
+msgstr "Bàn chơi đã hòa. Vui lòng khởi động lại vòng tiếp theo."
+
+#: kwin4.cpp:655
+#, kde-format
+msgid "%1 won the game. Please restart next round."
+msgstr "%1 đã thắng trò chơi. Vui lòng khởi động lại vòng tiếp theo."
+
+#: kwin4.cpp:660
+#, kde-format
+msgid " Game ended. Please restart next round."
+msgstr "Bàn chơi đã kết thúc. Vui lòng khởi động lại vòng chơi tiếp theo."
+
+#: kwin4.cpp:679
+#, kde-format
+msgctxt "@title:window"
+msgid "Network Configuration"
+msgstr "Cấu hình mạng"
+
+#: kwin4.cpp:690
+#, kde-format
+msgctxt "@option:radio"
+msgid "Black should be played by remote player"
+msgstr "Quân đen nên được chơi bởi người chơi ở xa"
+
+#: kwin4.cpp:691
+#, kde-format
+msgctxt "@option:radio"
+msgid "Red should be played by remote player"
+msgstr "Màu đỏ nên được chơi bởi người chơi ở xa"
+
+#: kwin4.cpp:788
+#, kde-format
+msgctxt "@title:tab"
+msgid "General"
+msgstr "chung"
+
+#. i18n: ectx: label, entry (port), group (Parameter)
+#: kwin4.kcfg:10
+#, kde-format
+msgid "Network connection port"
+msgstr "Cổng kết nối mạng"
+
+#. i18n: ectx: label, entry (gamename), group (Parameter)
+#: kwin4.kcfg:14
+#, kde-format
+msgid "Game name"
+msgstr "Tên trò chơi"
+
+#. i18n: ectx: label, entry (host), group (Parameter)
+#: kwin4.kcfg:17
+#, kde-format
+msgid "Network connection host"
+msgstr "Máy chủ kết nối mạng"
+
+#. i18n: ectx: property (whatsThis), widget (QSlider, kcfg_level)
+#. i18n: ectx: label, entry (level), group (Parameter)
+#: kwin4.kcfg:21 settings.ui:26
+#, kde-format
+msgid "Change the strength of the computer player."
+msgstr "Thay đổi độ mạnh của máy chơi."
+
+#. i18n: ectx: label, entry (Name1), group (Parameter)
+#: kwin4.kcfg:28
+#, kde-format
+msgid "Player 1 name"
+msgstr "Người chơi 1"
+
+#: kwin4.kcfg:32
+#, kde-format
+msgctxt "default name of first player"
+msgid "Player 1"
+msgstr "Người chơi 1"
+
+#. i18n: ectx: label, entry (Name2), group (Parameter)
+#: kwin4.kcfg:35
+#, kde-format
+msgid "Player 2 name"
+msgstr "Tên người chơi 2"
+
+#: kwin4.kcfg:39
+#, kde-format
+msgctxt "default name of second player"
+msgid "Player 2"
+msgstr "Người chơi 2"
+
+#: main.cpp:56
+#, kde-format
+msgid "KFourInLine"
+msgstr "KFourInLine"
+
+#: main.cpp:58
+#, kde-format
+msgid "KFourInLine: Two player board game"
+msgstr "KFourInLine: Trò chơi bàn chơi hai người chơi"
+
+#: main.cpp:60
+#, kde-format
+msgid "(c) 1995-2007, Martin Heni"
+msgstr "(c) 1995-2007, Martin Heni"
+
+#: main.cpp:61
+#, kde-format
+msgid "Martin Heni"
+msgstr "Martin Heni"
+
+#: main.cpp:61
+#, kde-format
+msgid "Game design and code"
+msgstr "Thiết kế và mã nguồn trò chơi"
+
+#: main.cpp:62
+#, kde-format
+msgid "Johann Ollivier Lapeyre"
+msgstr "Johann Ollivier Lapeyre"
+
+#: main.cpp:62 main.cpp:63
+#, kde-format
+msgid "Graphics"
+msgstr "Đồ họa"
+
+#: main.cpp:63
+#, kde-format
+msgid "Eugene Trounev"
+msgstr "Eugene Trounev"
+
+#: main.cpp:64
+#, kde-format
+msgid "Benjamin Meyer"
+msgstr "Benjamin Meyer"
+
+#: main.cpp:64
+#, kde-format
+msgid "Code Improvements"
+msgstr "Cải thiện mã"
+
+#: main.cpp:72
+#, kde-format
+msgid "Enter debug level"
+msgstr "Nhập cấp độ gỡ lỗi"
+
+#: main.cpp:73
+#, kde-format
+msgid "Skip intro animation"
+msgstr "Bỏ qua hiệu ứng động"
+
+#: main.cpp:74
+#, kde-format
+msgid "Run game in demo (autoplay) mode"
+msgstr "Chạy trò chơi ở chế độ demo (tự động phát)"
+
+#: scoresprite.cpp:158
+#, kde-format
+msgctxt "computer level"
+msgid "Level %1"
+msgstr "Cấp độ %1"
+
+#. i18n: ectx: property (title), widget (QGroupBox, Difficulty)
+#: settings.ui:20
+#, kde-format
+msgid "Computer Difficulty"
+msgstr "Độ khó máy tính"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: settings.ui:53
+#, kde-format
+msgid "Easy"
+msgstr "Dễ dàng"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: settings.ui:60
+#, kde-format
+msgid "Hard"
+msgstr "Khó"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_learning)
+#: settings.ui:72
+#, kde-format
+msgid "Use AI learning"
+msgstr "Sử dụng học máy"
+
+#. i18n: ectx: property (title), widget (QGroupBox, Player1)
+#: settings.ui:95
+#, kde-format
+msgid "Red"
+msgstr "Đỏ"
+
+#. i18n: ectx: property (text), widget (QLabel, nameLabel1)
+#. i18n: ectx: property (text), widget (QLabel, nameLabel2)
+#: settings.ui:103 settings.ui:217
+#, kde-format
+msgid "Name:"
+msgstr "Tên:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_startcolourred)
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_startcolouryellow)
+#: settings.ui:113 settings.ui:227
+#, kde-format
+msgid "Starting Player"
+msgstr "Người chơi bắt đầu"
+
+#. i18n: ectx: property (text), widget (QLabel, playerLabel1)
+#. i18n: ectx: property (text), widget (QLabel, playerLabel2)
+#: settings.ui:146 settings.ui:257
+#, kde-format
+msgid "Player:"
+msgstr "Người chơi:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_input0mouse)
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_input1mouse)
+#: settings.ui:153 settings.ui:264
+#, kde-format
+msgid "Human with Mouse"
+msgstr "Người dùng chuột"
+
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_input0key)
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_input1key)
+#: settings.ui:166 settings.ui:274
+#, kde-format
+msgid "Human with Keyboard"
+msgstr "Người dùng với bàn phím"
+
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_input0ai)
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_input1ai)
+#: settings.ui:176 settings.ui:281
+#, kde-format
+msgid "Computer"
+msgstr "Máy tính"
+
+#. i18n: ectx: property (title), widget (QGroupBox, Player2)
+#: settings.ui:209
+#, kde-format
+msgid "Black"
+msgstr "Đen"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, Statistics)
+#: statistics.ui:13
+#, kde-format
+msgid "Statistics"
+msgstr "Thống kê"
+
+#. i18n: ectx: property (text), widget (QLabel, p1_name)
+#: statistics.ui:51 statuswidget.ui:107
+#, kde-format
+msgid "Player 1"
+msgstr "Người chơi 1"
+
+#. i18n: ectx: property (text), widget (QLabel, Name)
+#: statistics.ui:58
+#, kde-format
+msgid "Name"
+msgstr "Tên"
+
+#. i18n: ectx: property (text), widget (QLabel, won)
+#: statistics.ui:68
+#, kde-format
+msgid "Won"
+msgstr "Thắng"
+
+#. i18n: ectx: property (text), widget (QLabel, lost)
+#: statistics.ui:81
+#, kde-format
+msgid "Lost"
+msgstr "Mất"
+
+#. i18n: ectx: property (text), widget (QLabel, sum)
+#: statistics.ui:97
+#, kde-format
+msgid "Sum"
+msgstr "Tổng"
+
+#. i18n: ectx: property (text), widget (QLabel, aborted)
+#: statistics.ui:107
+#, kde-format
+msgid "Aborted"
+msgstr "Huỷ bỏ"
+
+#. i18n: ectx: property (text), widget (QPushButton, pushButton1)
+#: statistics.ui:122
+#, kde-format
+msgid "Clear All Statistics"
+msgstr "Làm trống tất cả thống kê"
+
+#. i18n: ectx: property (text), widget (QPushButton, pushButton2)
+#: statistics.ui:145
+#, kde-format
+msgid "&Close"
+msgstr "Đón&g"
+
+#. i18n: ectx: property (text), widget (QLabel, p2_name)
+#: statistics.ui:157 statuswidget.ui:214
+#, kde-format
+msgid "Player 2"
+msgstr "Người chơi 2"
+
+#. i18n: ectx: property (text), widget (QLabel, drawn)
+#: statistics.ui:167
+#, kde-format
+msgid "Drawn"
+msgstr "Đã vẽ"
+
+#. i18n: ectx: property (text), widget (QLabel, wins)
+#: statuswidget.ui:57
+#, kde-format
+msgid "W"
+msgstr "W"
+
+#. i18n: ectx: property (text), widget (QLabel, draws)
+#: statuswidget.ui:67
+#, kde-format
+msgid "D"
+msgstr "D"
+
+#. i18n: ectx: property (text), widget (QLabel, loses)
+#: statuswidget.ui:77
+#, kde-format
+msgid "L"
+msgstr "L"
+
+#. i18n: ectx: property (text), widget (QLabel, num)
+#: statuswidget.ui:87
+#, kde-format
+msgid "No"
+msgstr "Không"
+
+#. i18n: ectx: property (text), widget (QLabel, bk)
+#: statuswidget.ui:97
+#, kde-format
+msgid "Bk"
+msgstr "Bk"

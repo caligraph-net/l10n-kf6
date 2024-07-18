@@ -1,0 +1,591 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the ktnef package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ktnef\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-04-04 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: formatter.cpp:300
+#, kde-format
+msgid "Reminder"
+msgstr "Nhắc nhở"
+
+#: mapi.cpp:26
+msgid "Alternate Recipient Allowed"
+msgstr "Được phép sử dụng người nhận thay thế"
+
+#: mapi.cpp:27 mapi.cpp:132
+msgid "Message Class"
+msgstr "Lớp Thông Điệp"
+
+#: mapi.cpp:28
+msgid "Originator Delivery Report Requested"
+msgstr "Yêu cầu báo cáo giao hàng của người gửi"
+
+#: mapi.cpp:29
+msgid "Originator Return Address"
+msgstr "Địa chỉ trả lại của người gửi"
+
+#: mapi.cpp:30 mapi.cpp:137
+msgid "Priority"
+msgstr "Ưu tiên"
+
+#: mapi.cpp:31
+msgid "Read Receipt Requested"
+msgstr "Yêu cầu biên nhận đọc"
+
+#: mapi.cpp:32
+msgid "Recipient Reassignment Prohibited"
+msgstr "Không được phép chuyển người nhận"
+
+#: mapi.cpp:33
+msgid "Original Sensitivity"
+msgstr "Độ nhạy cảm ban đầu"
+
+#: mapi.cpp:34
+msgid "Report Tag"
+msgstr "Báo cáo Thẻ"
+
+#: mapi.cpp:35
+msgid "Sensitivity"
+msgstr "Độ nhạy cảm"
+
+#: mapi.cpp:36 mapi.cpp:128
+msgid "Subject"
+msgstr "chủ đề"
+
+#: mapi.cpp:37
+msgid "Client Submit Time"
+msgstr "Thời gian gửi của trình khách"
+
+#: mapi.cpp:38
+msgid "Sent Representing Search Key"
+msgstr "Đã gửi Khóa tìm kiếm đại diện"
+
+#: mapi.cpp:39
+msgid "Subject Prefix"
+msgstr "Tiền tố chủ đề"
+
+#: mapi.cpp:40
+msgid "Sent Representing Entry ID"
+msgstr "Mã định danh của mục đại diện đã gửi"
+
+#: mapi.cpp:41
+msgid "Sent Representing Name"
+msgstr "Tên đại diện đã gửi"
+
+#: mapi.cpp:42
+msgid "Message Submission ID"
+msgstr "Mã định danh thông điệp"
+
+#: mapi.cpp:43
+msgid "Original Author Name"
+msgstr "Tác giả gốc"
+
+#: mapi.cpp:44 mapi.cpp:125
+msgid "Owner Appointment ID"
+msgstr "Mã định danh của chủ sở hữu"
+
+#: mapi.cpp:45 mapi.cpp:126
+msgid "Response Requested"
+msgstr "Lời hồi đáp được yêu cầu"
+
+#: mapi.cpp:46
+msgid "Sent Representing Address Type"
+msgstr "Loại Địa Chỉ Đại Diện Đã Gửi"
+
+#: mapi.cpp:47
+msgid "Sent Representing E-mail Address"
+msgstr "Địa chỉ email đại diện đã gửi"
+
+#: mapi.cpp:48
+msgid "Conversation Topic"
+msgstr "Chủ đề cuộc trò chuyện"
+
+#: mapi.cpp:49
+msgid "Conversation Index"
+msgstr "Lập chỉ mục cuộc trò chuyện"
+
+#: mapi.cpp:50
+msgid "TNEF Correlation Key"
+msgstr "Khóa Tương Quan TNEF"
+
+#: mapi.cpp:51
+msgid "Reply Requested"
+msgstr "Yêu cầu hồi đáp"
+
+#: mapi.cpp:52
+msgid "Sender Name"
+msgstr "Tên người gửi"
+
+#: mapi.cpp:53
+msgid "Sender Search Key"
+msgstr "Khóa tìm kiếm người gửi"
+
+#: mapi.cpp:54
+msgid "Sender Address Type"
+msgstr "Kiểu địa chỉ người gửi"
+
+#: mapi.cpp:55
+msgid "Sender E-mail Address"
+msgstr "Địa chỉ email người gửi"
+
+#: mapi.cpp:56
+msgid "Delete After Submit"
+msgstr "Xóa sau khi gửi"
+
+#: mapi.cpp:57
+msgid "Display Bcc"
+msgstr "Hiển thị Bcc"
+
+#: mapi.cpp:58
+msgid "Display Cc"
+msgstr "Hiển thị Cc"
+
+#: mapi.cpp:59
+msgid "Display To"
+msgstr "Hiển thị Đến"
+
+#: mapi.cpp:60
+msgid "Message Delivery Time"
+msgstr "Thời gian gửi thông điệp"
+
+#: mapi.cpp:61
+msgid "Message Flags"
+msgstr "Cờ Thông Điệp"
+
+#: mapi.cpp:62
+msgid "Message Size"
+msgstr "Kích thước thông điệp"
+
+#: mapi.cpp:63
+msgid "Parent Entry ID"
+msgstr "Mã định danh của mục cha"
+
+#: mapi.cpp:64
+msgid "Sent-Mail Entry ID"
+msgstr "Mã định danh của thư đã gửi"
+
+#: mapi.cpp:65
+msgid "Message Recipients"
+msgstr "Người nhận thông điệp"
+
+#: mapi.cpp:66
+msgid "Submit Flags"
+msgstr "Gửi cờ"
+
+#: mapi.cpp:67
+msgid "Has Attachment"
+msgstr "Có tệp đính kèm"
+
+#: mapi.cpp:68
+msgid "Normalized Subject"
+msgstr "Chủ đề chuẩn hóa"
+
+#: mapi.cpp:69
+msgid "RTF In Sync"
+msgstr "RTF Đồng bộ"
+
+#: mapi.cpp:70
+msgid "Attachment Size"
+msgstr "Kích thước tệp đính kèm"
+
+#: mapi.cpp:71
+msgid "Attachment Number"
+msgstr "Số tệp đính kèm"
+
+#: mapi.cpp:72
+msgid "Access"
+msgstr "Truy cập"
+
+#: mapi.cpp:73
+msgid "Access Level"
+msgstr "Cấp độ truy cập"
+
+#: mapi.cpp:74
+msgid "Mapping Signature"
+msgstr "Chữ ký Ánh xạ"
+
+#: mapi.cpp:75
+msgid "Record Key"
+msgstr "Khóa bản ghi"
+
+#: mapi.cpp:76
+msgid "Store Record Key"
+msgstr "Khóa bản ghi lưu trữ"
+
+#: mapi.cpp:77
+msgid "Store Entry ID"
+msgstr "Mã định danh"
+
+#: mapi.cpp:78
+msgid "Object Type"
+msgstr "Kiểu đối tượng"
+
+#: mapi.cpp:79
+msgid "Entry ID"
+msgstr "Mã định danh"
+
+#: mapi.cpp:80
+msgid "Message Body"
+msgstr "Nội dung thông điệp"
+
+#: mapi.cpp:81
+msgid "RTF Sync Body CRC"
+msgstr "RTF Sync Body CRC"
+
+#: mapi.cpp:82
+msgid "RTF Sync Body Count"
+msgstr "Số lượng Cơ thể đồng bộ RTF"
+
+#: mapi.cpp:83
+msgid "RTF Sync Body Tag"
+msgstr "Thẻ đồng bộ hóa nội dung RTF"
+
+#: mapi.cpp:84
+msgid "RTF Compressed"
+msgstr "RTF nén"
+
+#: mapi.cpp:85
+msgid "RTF Sync Prefix Count"
+msgstr "Số lượng tiền tố同步RTF"
+
+#: mapi.cpp:86
+msgid "RTF Sync Trailing Count"
+msgstr "Đồng bộ hóa Số lượng Trailing RTF"
+
+#: mapi.cpp:87
+msgid "HTML Message Body"
+msgstr "Nội dung thông điệp HTML"
+
+#: mapi.cpp:88 mapi.cpp:133
+msgid "Message ID"
+msgstr "Mã định danh thông điệp"
+
+#: mapi.cpp:89
+msgid "Parent's Message ID"
+msgstr "Mã định danh của thông điệp của cha mẹ"
+
+#: mapi.cpp:90
+msgid "Action"
+msgstr "hành động"
+
+#: mapi.cpp:91
+msgid "Action Flag"
+msgstr "Cờ hành động"
+
+#: mapi.cpp:92
+msgid "Action Date"
+msgstr "Ngày hành động"
+
+#: mapi.cpp:93
+msgid "Display Name"
+msgstr "Tên hiển thị"
+
+#: mapi.cpp:94
+msgid "Creation Time"
+msgstr "Thời gian tạo"
+
+#: mapi.cpp:95
+msgid "Last Modification Time"
+msgstr "Thời gian chỉnh sửa cuối cùng"
+
+#: mapi.cpp:96
+msgid "Search Key"
+msgstr "Khóa tìm kiếm"
+
+#: mapi.cpp:97
+msgid "Store Support Mask"
+msgstr "Mặt nạ hỗ trợ lưu trữ"
+
+#: mapi.cpp:98
+msgid "MDB Provider"
+msgstr "Nhà cung cấp MDB"
+
+#: mapi.cpp:99 mapi.cpp:138
+msgid "Attachment Data"
+msgstr "Dữ liệu đính kèm"
+
+#: mapi.cpp:100
+msgid "Attachment Encoding"
+msgstr "Mã hoá tệp đính kèm"
+
+#: mapi.cpp:101
+msgid "Attachment Extension"
+msgstr "Phần mở rộng tệp đính kèm"
+
+#: mapi.cpp:102
+msgid "Attachment Method"
+msgstr "Phương thức đính kèm"
+
+#: mapi.cpp:103
+msgid "Attachment Long File Name"
+msgstr "Tên Tệp Đính Kèm Dài"
+
+#: mapi.cpp:104
+msgid "Attachment Rendering Position"
+msgstr "Vị trí kết xuất tệp đính kèm"
+
+#: mapi.cpp:105
+msgid "Attachment Mime Tag"
+msgstr "Thẻ MIME đính kèm"
+
+#: mapi.cpp:106
+msgid "Attachment Flags"
+msgstr "Cờ đính kèm"
+
+#: mapi.cpp:107
+msgid "Account"
+msgstr "Tài khoản"
+
+#: mapi.cpp:108
+msgid "Generation"
+msgstr "Thế hệ"
+
+#: mapi.cpp:109
+msgid "Given Name"
+msgstr "Tên"
+
+#: mapi.cpp:110
+msgid "Initials"
+msgstr "Chữ cái đầu"
+
+#: mapi.cpp:111
+msgid "Keyword"
+msgstr "Từ khóa"
+
+#: mapi.cpp:112
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: mapi.cpp:113
+msgid "Location"
+msgstr "địa điểm"
+
+#: mapi.cpp:114
+msgid "Surname"
+msgstr "Họ"
+
+#: mapi.cpp:115
+msgid "Company Name"
+msgstr "Tên công ty"
+
+#: mapi.cpp:116
+msgid "Title"
+msgstr "tiêu đề"
+
+#: mapi.cpp:117
+msgid "Department Name"
+msgstr "Tên Phòng Ban"
+
+#: mapi.cpp:118
+msgid "Country"
+msgstr "Quốc gia"
+
+#: mapi.cpp:119
+msgid "Locality"
+msgstr "Địa phương"
+
+#: mapi.cpp:120
+msgid "State/Province"
+msgstr "Tỉnh/Thành phố"
+
+#: mapi.cpp:121
+msgid "Middle Name"
+msgstr "Tên đệm"
+
+#: mapi.cpp:122
+msgid "Display Name Prefix"
+msgstr "Tiền tố Tên Hiển Thị"
+
+#: mapi.cpp:127
+msgid "From"
+msgstr "Từ"
+
+#: mapi.cpp:129
+msgid "Date Sent"
+msgstr "Ngày gửi"
+
+#: mapi.cpp:130
+msgid "Date Received"
+msgstr "Ngày nhận"
+
+#: mapi.cpp:131
+msgid "Message Status"
+msgstr "Trạng thái thông điệp"
+
+#: mapi.cpp:134
+msgid "Parent ID"
+msgstr "Mã định danh"
+
+#: mapi.cpp:135
+msgid "Conversation ID"
+msgstr "Mã định danh"
+
+#: mapi.cpp:136
+msgid "Body"
+msgstr "Nội dung"
+
+#: mapi.cpp:139
+msgid "Attachment Title"
+msgstr "tiêu đề"
+
+#: mapi.cpp:140
+msgid "Attachment Meta File"
+msgstr "Tệp Meta Đính Kèm"
+
+#: mapi.cpp:141
+msgid "Attachment Create Date"
+msgstr "Ngày tạo tệp đính kèm"
+
+#: mapi.cpp:142
+msgid "Attachment Modify Date"
+msgstr "Ngày chỉnh sửa tệp đính kèm"
+
+#: mapi.cpp:143
+msgid "Date Modified"
+msgstr "Ngày chỉnh sửa"
+
+#: mapi.cpp:144
+msgid "Attachment Transport File Name"
+msgstr "Tên Tệp Vận Chuyển Đính Kèm"
+
+#: mapi.cpp:145
+msgid "Attachment Rendering Data"
+msgstr "Dữ liệu kết xuất tệp đính kèm"
+
+#: mapi.cpp:146
+msgid "MAPI Properties"
+msgstr "Thuộc tính MAPI"
+
+#: mapi.cpp:147
+msgid "Recipients Table"
+msgstr "Bảng Người Nhận"
+
+#: mapi.cpp:148
+msgid "Attachment MAPI Properties"
+msgstr "Thuộc tính MAPI của tệp đính kèm"
+
+#: mapi.cpp:149
+msgid "TNEF Version"
+msgstr "Phiên bản TNEF"
+
+#: mapi.cpp:150
+msgid "OEM Code Page"
+msgstr "Trang mã OEM"
+
+#: mapi.cpp:152
+msgid "Contact File Under"
+msgstr "Liên hệ được lưu trong"
+
+#: mapi.cpp:153
+msgid "Contact Last Name And First Name"
+msgstr "Họ và tên liên hệ"
+
+#: mapi.cpp:154
+msgid "Contact Company And Full Name"
+msgstr "Công ty liên hệ và tên đầy đủ"
+
+#: mapi.cpp:156
+msgid "Contact EMail-1 Full"
+msgstr "Liên hệ EMail-1 Đầy đủ"
+
+#: mapi.cpp:157
+msgid "Contact EMail-1 Address Type"
+msgstr "Kiểu địa chỉ email liên hệ 1"
+
+#: mapi.cpp:158
+msgid "Contact EMail-1 Address"
+msgstr "Địa chỉ email liên hệ 1"
+
+#: mapi.cpp:159
+msgid "Contact EMail-1 Display Name"
+msgstr "Tên hiển thị của liên hệ Email-1"
+
+#: mapi.cpp:160
+msgid "Contact EMail-1 Entry ID"
+msgstr "Mã định danh của mục liên hệ Email-1"
+
+#: mapi.cpp:162
+msgid "Contact EMail-2 Full"
+msgstr "Liên hệ EMail-2 Đầy đủ"
+
+#: mapi.cpp:163
+msgid "Contact EMail-2 Address Type"
+msgstr "Loại địa chỉ email liên hệ 2"
+
+#: mapi.cpp:164
+msgid "Contact EMail-2 Address"
+msgstr "Địa chỉ email liên hệ 2"
+
+#: mapi.cpp:165
+msgid "Contact EMail-2 Display Name"
+msgstr "Tên hiển thị của liên hệ Email-2"
+
+#: mapi.cpp:166
+msgid "Contact EMail-2 Entry ID"
+msgstr "Mã định danh của mục Liên hệ Email-2"
+
+#: mapi.cpp:168 mapi.cpp:169
+msgid "Appointment Location"
+msgstr "Địa điểm cuộc hẹn"
+
+#: mapi.cpp:170
+msgid "Appointment Start Date"
+msgstr "Ngày bắt đầu cuộc hẹn"
+
+#: mapi.cpp:171
+msgid "Appointment End Date"
+msgstr "Ngày kết thúc cuộc hẹn"
+
+#: mapi.cpp:172
+msgid "Appointment Duration"
+msgstr "Thời lượng cuộc hẹn"
+
+#: mapi.cpp:173
+msgid "Appointment Response Status"
+msgstr "Trạng thái lời hồi đáp cuộc hẹn"
+
+#: mapi.cpp:174
+msgid "Appointment Is Recurring"
+msgstr "Lịch hẹn Định kỳ"
+
+#: mapi.cpp:175
+msgid "Appointment Recurrence Type"
+msgstr "Kiểu lặp lại cuộc hẹn"
+
+#: mapi.cpp:176
+msgid "Appointment Recurrence Pattern"
+msgstr "Mẫu lặp lại cuộc hẹn"
+
+#: mapi.cpp:177
+msgid "Reminder Time"
+msgstr "Thời gian nhắc nhở"
+
+#: mapi.cpp:178
+msgid "Reminder Set"
+msgstr "Đã đặt lời nhắc"
+
+#: mapi.cpp:179
+msgid "Start Date"
+msgstr "Ngày bắt đầu"
+
+#: mapi.cpp:180
+msgid "End Date"
+msgstr "Ngày kết thúc"
+
+#: mapi.cpp:181
+msgid "Reminder Next Time"
+msgstr "Nhắc lại lần sau"

@@ -20,115 +20,115 @@ msgstr ""
 "X-Generator: Lokalize 1.5\n"
 
 #: kmoretools.cpp:517
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Installed"
 msgctxt "@action:inmenu"
 msgid "Not installed:"
-msgstr "Đã cài"
+msgstr "Chưa cài đặt:"
 
 #: kmoretools.cpp:614
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt ""
 #| "@option:check An item in a list of resources that allows to query for "
 #| "more resources to put in the list"
 #| msgid "More..."
 msgctxt "@action:inmenu"
 msgid "More"
-msgstr "Thêm..."
+msgstr "Thêm"
 
 #: kmoretools.cpp:650
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Confi&gure..."
 msgctxt "@action:inmenu"
 msgid "Configure..."
-msgstr "&Cấu hình..."
+msgstr "Cấu hình..."
 
 #: kmoretools_p.h:369
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Visit contributor's homepage"
 msgctxt "@action:inmenu"
 msgid "Visit homepage"
-msgstr "Xem trang chủ của người đóng góp"
+msgstr "Xem trang nhà"
 
 #: kmoretools_p.h:378
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Install"
 msgctxt "@action:inmenu"
 msgid "Install"
 msgstr "Cài đặt"
 
 #: kmoretools_p.h:386
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "There is no matching item available.\n"
 msgctxt "@action:inmenu"
 msgid "No further information available."
-msgstr "Không có gì khớp.\n"
+msgstr "Không có thông tin bổ sung."
 
 #: kmoretoolsconfigdialog_p.cpp:170
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Configure"
 msgid "Configure menu"
-msgstr "Cấu hình"
+msgstr "Cấu hình trình đơn"
 
 #: kmoretoolsconfigdialog_p.cpp:172
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Configure %1..."
 msgid "Configure menu - %1"
-msgstr "&Cấu hình %1..."
+msgstr "Cấu hình trình đơn - %1"
 
 #: kmoretoolsmenufactory.cpp:172
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Path to documents folder"
 msgctxt "@action:inmenu %1=\"$GenericName\""
 msgid "%1 - current folder"
-msgstr "Đường dẫn tới thư mục tài liệu"
+msgstr "%1 - thư mục hiện tại"
 
 #: kmoretoolsmenufactory.cpp:181
 #, kde-format
 msgctxt "@action:inmenu %1=\"$GenericName\""
 msgid "%1 - current device"
-msgstr ""
+msgstr "%1 - thiết bị hiện tại"
 
 #: kmoretoolsmenufactory.cpp:194
 #, kde-format
 msgctxt "@action:inmenu %1=\"$GenericName\""
 msgid "%1 - all devices"
-msgstr ""
+msgstr "%1 - tất cả các thiết bị"
 
 #. i18n: ectx: property (title), widget (QGroupBox, gbMainSection)
 #: ui/kmoretoolsconfigwidget.ui:25
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Maintainer"
 msgid "Main section"
-msgstr "Nhà duy trì"
+msgstr "Khu vực chính"
 
 #. i18n: ectx: property (text), widget (QToolButton, buttonMoveDown)
 #: ui/kmoretoolsconfigwidget.ui:58
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Move &Down"
 msgid "Move down"
-msgstr "Đem &xuống"
+msgstr "Di chuyển xuống"
 
 #. i18n: ectx: property (text), widget (QToolButton, buttonMoveUp)
 #: ui/kmoretoolsconfigwidget.ui:77
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Move &Up"
 msgid "Move up"
-msgstr "Đem &lên"
+msgstr "Di chuyển lên"
 
 #. i18n: ectx: property (text), widget (QToolButton, buttonMoveToMain)
 #: ui/kmoretoolsconfigwidget.ui:96
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Move to Trash"
 msgid "Move to Main section"
-msgstr "Chuyển vào Rác"
+msgstr "Chuyển vào khu vực Chính"
 
 #. i18n: ectx: property (text), widget (QToolButton, buttonMoveToMore)
 #: ui/kmoretoolsconfigwidget.ui:115
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "More Actions"
 msgid "Move to More section"
-msgstr "Thêm hành động"
+msgstr "Di chuyển đến khu vực Thêm"
 
 #. i18n: ectx: property (text), widget (QToolButton, buttonReset)
 #: ui/kmoretoolsconfigwidget.ui:134
@@ -138,10 +138,10 @@ msgstr "Đặt lại"
 
 #. i18n: ectx: property (title), widget (QGroupBox, gbMoreSection)
 #: ui/kmoretoolsconfigwidget.ui:154
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "More Actions"
 msgid "More section"
-msgstr "Thêm hành động"
+msgstr "Khu vực khác"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: ui/kmoretoolsconfigwidget.ui:206
@@ -150,16 +150,18 @@ msgid ""
 "For this menu there are some more tools suggested which are currently not "
 "installed:"
 msgstr ""
+"Đối với trình đơn này có một số công cụ khác được đề xuất nhưng hiện chưa "
+"được cài đặt:"
 
 #. i18n: ectx: property (text), widget (QPushButton, buttonNotInstalledTools)
 #: ui/kmoretoolsconfigwidget.ui:216
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt ""
 #| "@option:check An item in a list of resources that allows to query for "
 #| "more resources to put in the list"
 #| msgid "More..."
 msgid "More tools..."
-msgstr "Thêm..."
+msgstr "Thêm công cụ..."
 
 #, fuzzy
 #~| msgid "All Categories"

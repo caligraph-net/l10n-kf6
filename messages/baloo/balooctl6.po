@@ -1,0 +1,459 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the baloo package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: baloo\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-11-17 01:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: configcommand.cpp:45
+#, kde-format
+msgid "Manipulate the Baloo configuration"
+msgstr "Thao tác với cấu hình Baloo"
+
+#: configcommand.cpp:68
+#, kde-format
+msgid "The config command can be used to manipulate the Baloo Configuration\n"
+msgstr "Lệnh cấu hình có thể được sử dụng để thao tác với Cấu hình Baloo\n"
+
+#: configcommand.cpp:69
+#, kde-format
+msgid ""
+"Usage: balooctl config <command>\n"
+"\n"
+msgstr "Cách dùng: balooctl config <command>\n\n"
+
+#: configcommand.cpp:70
+#, kde-format
+msgid "Possible Commands:\n"
+msgstr "Các lệnh có thể:\n"
+
+#: configcommand.cpp:72
+#, kde-format
+msgid "Add a value to config parameter"
+msgstr "Thêm một giá trị vào tham số cấu hình"
+
+#: configcommand.cpp:73
+#, kde-format
+msgid "Remove a value from a config parameter"
+msgstr "Xoá một giá trị khỏi một tham số cấu hình"
+
+#: configcommand.cpp:74
+#, kde-format
+msgid "Show the value of a config parameter"
+msgstr "Hiển thị giá trị của một tham số cấu hình"
+
+#: configcommand.cpp:75
+#, kde-format
+msgid "Set the value of a config parameter"
+msgstr "Đặt giá trị của một tham số cấu hình"
+
+#: configcommand.cpp:76
+#, kde-format
+msgid "Display this help menu"
+msgstr "Hiển thị trình đơn trợ giúp này"
+
+#: configcommand.cpp:82
+#, kde-format
+msgid ""
+"The following configuration options may be listed:\n"
+"\n"
+msgstr "Các tùy chọn cấu hình sau đây có thể được liệt kê:\n\n"
+
+#: configcommand.cpp:84 configcommand.cpp:363
+#, kde-format
+msgid "Controls if Baloo indexes hidden files and folders"
+msgstr "Điều khiển việc Baloo lập chỉ mục các tệp và thư mục ẩn"
+
+#: configcommand.cpp:85 configcommand.cpp:364
+#, kde-format
+msgid "Controls if Baloo indexes file content"
+msgstr "Điều khiển việc Baloo lập chỉ mục nội dung tệp"
+
+#: configcommand.cpp:86 configcommand.cpp:149 configcommand.cpp:240
+#, kde-format
+msgid "The list of folders which Baloo indexes"
+msgstr "Danh sách các thư mục mà Baloo lập chỉ mục"
+
+#: configcommand.cpp:87 configcommand.cpp:150 configcommand.cpp:241
+#, kde-format
+msgid "The list of folders which Baloo will never index"
+msgstr "Danh sách các thư mục mà Baloo sẽ không bao giờ lập chỉ mục"
+
+#: configcommand.cpp:88 configcommand.cpp:151 configcommand.cpp:242
+#, kde-format
+msgid "The list of filters which are used to exclude files"
+msgstr "Danh sách các bộ lọc được sử dụng để loại trừ các tệp"
+
+#: configcommand.cpp:89 configcommand.cpp:152 configcommand.cpp:243
+#, kde-format
+msgid "The list of mimetypes which are used to exclude files"
+msgstr "Danh sách các kiểu MIME được sử dụng để loại trừ các tệp"
+
+#: configcommand.cpp:141 configcommand.cpp:232 configcommand.cpp:355
+#: configcommand.cpp:425
+#, kde-format
+msgid "Config parameter could not be found\n"
+msgstr "Không tìm thấy tham số cấu hình\n"
+
+#: configcommand.cpp:147 configcommand.cpp:238 configcommand.cpp:361
+#, kde-format
+msgid ""
+"The following configuration options may be modified:\n"
+"\n"
+msgstr "Các tùy chọn cấu hình sau có thể được sửa đổi:\n\n"
+
+#: configcommand.cpp:160 configcommand.cpp:180 configcommand.cpp:251
+#: configcommand.cpp:286
+#, kde-format
+msgid "A folder must be provided\n"
+msgstr "Phải cung cấp một thư mục\n"
+
+#: configcommand.cpp:168
+#, kde-format
+msgid "%1 is not in the list of include folders"
+msgstr "%1 không nằm trong danh sách các thư mục bao gồm"
+
+#: configcommand.cpp:188
+#, kde-format
+msgid "%1 is not in the list of exclude folders"
+msgstr "%1 không nằm trong danh sách các thư mục loại trừ"
+
+#: configcommand.cpp:200 configcommand.cpp:321
+#, kde-format
+msgid "A filter must be provided\n"
+msgstr "Phải cung cấp một bộ lọc\n"
+
+#: configcommand.cpp:206
+#, kde-format
+msgid "%1 is not in list of exclude filters"
+msgstr "%1 không nằm trong danh sách các bộ lọc loại trừ"
+
+#: configcommand.cpp:217 configcommand.cpp:339
+#, kde-format
+msgid "A mimetype must be provided\n"
+msgstr "Phải cung cấp một kiểu MIME\n"
+
+#: configcommand.cpp:223
+#, kde-format
+msgid "%1 is not in list of exclude mimetypes"
+msgstr "%1 không nằm trong danh sách các kiểu MIME bị loại trừ"
+
+#: configcommand.cpp:257 configcommand.cpp:292
+#, kde-format
+msgid "Path does not exist\n"
+msgstr "Đường dẫn không tồn tại\n"
+
+#: configcommand.cpp:262 configcommand.cpp:297
+#, kde-format
+msgid "Path is not a directory\n"
+msgstr "Đường dẫn không phải là một thư mục\n"
+
+#: configcommand.cpp:269
+#, kde-format
+msgid "%1 is already in the list of include folders"
+msgstr "%1 đã có trong danh sách các thư mục bao gồm"
+
+#: configcommand.cpp:274 configcommand.cpp:309
+#, kde-format
+msgid "%1 is in the list of exclude folders"
+msgstr "%1 nằm trong danh sách các thư mục loại trừ"
+
+#: configcommand.cpp:304
+#, kde-format
+msgid "%1 is already in the list of exclude folders"
+msgstr "%1 đã có trong danh sách các thư mục loại trừ"
+
+#: configcommand.cpp:327
+#, kde-format
+msgid "Exclude filter is already in the list\n"
+msgstr "Bộ lọc loại trừ đã có trong danh sách\n"
+
+#: configcommand.cpp:345
+#, kde-format
+msgid "Exclude mimetype is already in the list\n"
+msgstr "Kiểu MIME đã có trong danh sách\n"
+
+#: configcommand.cpp:373 configcommand.cpp:400
+#, kde-format
+msgid "A value must be provided\n"
+msgstr "Phải cung cấp một giá trị\n"
+
+#: configcommand.cpp:394 configcommand.cpp:421
+#, kde-format
+msgid "Invalid value\n"
+msgstr "Giá trị không hợp lệ\n"
+
+#: main.cpp:51
+#, kde-format
+msgid "balooctl"
+msgstr "balooctl"
+
+#: main.cpp:52
+#, kde-format
+msgid "Vishesh Handa"
+msgstr "Vishesh Handa"
+
+#: main.cpp:57
+#, kde-format
+msgid "The command to execute"
+msgstr "lệnh để thực thi"
+
+#: main.cpp:59
+#, kde-format
+msgid "Print the status of the indexer"
+msgstr "In trạng thái của trình lập chỉ mục"
+
+#: main.cpp:60
+#, kde-format
+msgid "Enable the file indexer"
+msgstr "Bật trình lập chỉ mục tệp"
+
+#: main.cpp:61
+#, kde-format
+msgid "Disable the file indexer"
+msgstr "Vô hiệu hóa trình lập chỉ mục tệp"
+
+#: main.cpp:62
+#, kde-format
+msgid "Remove the index database"
+msgstr "Xoá bỏ cơ sở dữ liệu lập chỉ mục"
+
+#: main.cpp:63
+#, kde-format
+msgid "Suspend the file indexer"
+msgstr "Tạm dừng trình lập chỉ mục tệp"
+
+#: main.cpp:64
+#, kde-format
+msgid "Resume the file indexer"
+msgstr "Tiếp tục trở lại trình lập chỉ mục tệp"
+
+#: main.cpp:65
+#, kde-format
+msgid "Check for any unindexed files and index them"
+msgstr "Kiểm tra các tệp chưa được lập chỉ mục và lập chỉ mục cho chúng"
+
+#: main.cpp:66
+#, kde-format
+msgid "Index the specified files"
+msgstr "Lập chỉ mục các tệp đã chỉ định"
+
+#: main.cpp:67
+#, kde-format
+msgid "Forget the specified files"
+msgstr "Quên các tệp đã chỉ định"
+
+#: main.cpp:68
+#, kde-format
+msgid "Modify the Baloo configuration"
+msgstr "Chỉnh sửa cấu hình Baloo"
+
+#: main.cpp:69
+#, kde-format
+msgid "Monitor the file indexer"
+msgstr "Theo dõi trình lập chỉ mục tệp"
+
+#: main.cpp:70
+#, kde-format
+msgid "Display the disk space used by index"
+msgstr "Hiển thị dung lượng đĩa được sử dụng bởi lập chỉ mục"
+
+#: main.cpp:71
+#, kde-format
+msgid "Display files which could not be indexed"
+msgstr "Hiển thị các tệp không thể được lập chỉ mục"
+
+#: main.cpp:74
+#, kde-format
+msgctxt ""
+"Format to use for status command, %1|%2|%3 are option values, %4 is a CLI "
+"command"
+msgid ""
+"Output format <%1|%2|%3>.\n"
+"The default format is \"%1\".\n"
+"Only applies to \"%4\""
+msgstr ""
+"Định dạng đầu ra <%1|%2|%3>.\nĐịnh dạng mặc định là \"%1\".\nChỉ áp dụng "
+"cho \"%4\""
+
+#: main.cpp:80
+#, kde-format
+msgid "format"
+msgstr "định dạng"
+
+#: monitorcommand.cpp:54
+#, kde-format
+msgid "Press ctrl+c to stop monitoring\n"
+msgstr "Nhấn ctrl+c để dừng theo dõi\n"
+
+#: monitorcommand.cpp:70
+#, kde-format
+msgid "Waiting for file indexer to start\n"
+msgstr "Đang chờ trình lập chỉ mục tệp khởi động\n"
+
+#: monitorcommand.cpp:71
+#, kde-format
+msgid "Press Ctrl+C to stop monitoring\n"
+msgstr "Nhấn Ctrl+C để dừng theo dõi\n"
+
+#: monitorcommand.cpp:78
+#, kde-format
+msgid "File indexer is running\n"
+msgstr "Trình lập chỉ mục tệp đang chạy\n"
+
+#: monitorcommand.cpp:94 statuscommand.cpp:307
+#, kde-format
+msgctxt "currently indexed file"
+msgid "Indexing: %1"
+msgstr "Đang lập chỉ mục: %1"
+
+#: monitorcommand.cpp:103
+#, kde-format
+msgid ": Ok\n"
+msgstr ": Ok\n"
+
+#: monitorcommand.h:32
+#, kde-format
+msgid "CLI interface for monitoring Baloo"
+msgstr "Giao diện dòng lệnh để theo dõi Baloo"
+
+#: statuscommand.cpp:33
+#, kde-format
+msgid "Print the status of the Indexer"
+msgstr "In trạng thái của Trình lập chỉ mục"
+
+#: statuscommand.cpp:117
+#, kde-format
+msgid "File ignored"
+msgstr "Tệp bị bỏ qua"
+
+#: statuscommand.cpp:118
+#, kde-format
+msgid "Basic Indexing: Disabled"
+msgstr "Lập chỉ mục cơ bản: Tắt"
+
+#: statuscommand.cpp:119 statuscommand.cpp:120
+#, kde-format
+msgid "Basic Indexing: Scheduled"
+msgstr "Lập chỉ mục cơ bản: Đã lên lịch"
+
+#: statuscommand.cpp:121 statuscommand.cpp:122 statuscommand.cpp:123
+#: statuscommand.cpp:124
+#, kde-format
+msgid "Basic Indexing: Done"
+msgstr "Lập chỉ mục cơ bản: Hoàn thành"
+
+#: statuscommand.cpp:130 statuscommand.cpp:133
+#, kde-format
+msgid "Content Indexing: Scheduled"
+msgstr "Lập chỉ mục nội dung: Đã lên lịch"
+
+#: statuscommand.cpp:134
+#, kde-format
+msgid "Content Indexing: Failed"
+msgstr "Lập chỉ mục nội dung: Thất bại"
+
+#: statuscommand.cpp:135
+#, kde-format
+msgid "Content Indexing: Done"
+msgstr "Lập chỉ mục nội dung: Hoàn tất"
+
+#: statuscommand.cpp:142 statuscommand.cpp:182 statuscommand.cpp:230
+#, kde-format
+msgid "Ignoring non-existent file %1"
+msgstr "Đang bỏ qua tệp không tồn tại %1"
+
+#: statuscommand.cpp:147 statuscommand.cpp:187 statuscommand.cpp:235
+#, kde-format
+msgid "Ignoring symlink/special file %1"
+msgstr "Đang bỏ qua liên kết tượng trưng/tệp đặc biệt %1"
+
+#: statuscommand.cpp:151
+#, kde-format
+msgid "File: %1"
+msgstr "Tệp: %1"
+
+#: statuscommand.cpp:262
+#, kde-format
+msgid "Output format \"%1\" is invalid, use one of:\n"
+msgstr ""
+"Định dạng đầu ra \"%1\" không hợp lệ, hãy sử dụng một trong những định dạng "
+"sau:\n"
+
+#: statuscommand.cpp:264
+#, kde-format
+msgctxt "bullet list item with output format"
+msgid "- %1\n"
+msgstr "- %1\n"
+
+#: statuscommand.cpp:271
+#, kde-format
+msgid "Baloo is currently disabled. To enable, please run %1\n"
+msgstr "Baloo hiện đang bị vô hiệu hóa. Để kích hoạt, vui lòng chạy %1\n"
+
+#: statuscommand.cpp:277
+#, kde-format
+msgid "Baloo Index could not be opened\n"
+msgstr "Không thể mở Chỉ mục Baloo\n"
+
+#: statuscommand.cpp:304
+#, kde-format
+msgid "Baloo File Indexer is running\n"
+msgstr "Trình lập chỉ mục tệp Baloo đang chạy\n"
+
+#: statuscommand.cpp:306 statuscommand.cpp:309
+#, kde-format
+msgid "Indexer state: %1"
+msgstr "Trạng thái của trình lập chỉ mục: %1"
+
+#: statuscommand.cpp:313
+#, kde-format
+msgid "Baloo File Indexer is not running\n"
+msgstr "Trình lập chỉ mục tệp Baloo không đang chạy\n"
+
+#: statuscommand.cpp:320
+#, kde-format
+msgid "Total files indexed: %1"
+msgstr "Tổng số tệp đã lập chỉ mục: %1"
+
+#: statuscommand.cpp:321
+#, kde-format
+msgid "Files waiting for content indexing: %1"
+msgstr "Các tệp đang chờ lập chỉ mục nội dung: %1"
+
+#: statuscommand.cpp:322
+#, kde-format
+msgid "Files failed to index: %1"
+msgstr "Không thể lập chỉ mục các tệp: %1"
+
+#: statuscommand.cpp:330
+#, kde-format
+msgid "Current size of index is %1"
+msgstr "Kích thước hiện tại của lập chỉ mục là %1"
+
+#: statuscommand.cpp:332
+#, kde-format
+msgid "Index does not exist yet\n"
+msgstr "Lập chỉ mục chưa tồn tại\n"

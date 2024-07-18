@@ -31,7 +31,7 @@ msgstr "kde-l10n-vi@kde.org"
 #: babelfishplugin.rc:4
 #, kde-format
 msgid "&Tools"
-msgstr ""
+msgstr "&Công cụ"
 
 #. i18n: ectx: ToolBar (extraToolBar)
 #: babelfishplugin.rc:8
@@ -65,10 +65,10 @@ msgid "&German To"
 msgstr "Đứ&c sang"
 
 #: plugin_babelfish.cpp:88
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&French To"
 msgid "&Greek To"
-msgstr "&Pháp sang"
+msgstr "&Tiếng Hy Lạp sang"
 
 #: plugin_babelfish.cpp:91
 #, kde-format
@@ -91,10 +91,10 @@ msgid "&Dutch To"
 msgstr "&Hoà Lan sang"
 
 #: plugin_babelfish.cpp:103
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Russian"
 msgid "&Russian To"
-msgstr "N&ga"
+msgstr "Tiếng &Nga"
 
 #: plugin_babelfish.cpp:122
 msgid "&Chinese (Simplified)"
@@ -120,7 +120,7 @@ msgstr "Đứ&c"
 
 #: plugin_babelfish.cpp:127 plugin_babelfish.cpp:140
 msgid "&Greek"
-msgstr ""
+msgstr "Tiế&ng Hy Lạp"
 
 #: plugin_babelfish.cpp:128 plugin_babelfish.cpp:141
 msgid "&Italian"
@@ -156,7 +156,7 @@ msgstr "T&hái"
 
 #: plugin_babelfish.cpp:136
 msgid "&Arabic"
-msgstr ""
+msgstr "Tiế&ng Ả Rập"
 
 #: plugin_babelfish.cpp:138 plugin_babelfish.cpp:145 plugin_babelfish.cpp:147
 #: plugin_babelfish.cpp:149 plugin_babelfish.cpp:151 plugin_babelfish.cpp:153
@@ -188,7 +188,7 @@ msgstr "Hàn &Quốc sang Anh"
 #, kde-format
 msgctxt "@title:window"
 msgid "Malformed URL"
-msgstr ""
+msgstr "URL không đúng định dạng"
 
 #: plugin_babelfish.cpp:259
 #, kde-format
@@ -203,9 +203,12 @@ msgid ""
 "page will sent to the online translation service,<nl/>which may fetch the "
 "insecure version of the page."
 msgstr ""
+"Bạn đang xem trang này qua kết nối an toàn.<nl/><nl/>URL của trang sẽ được "
+"gửi đến dịch vụ dịch thuật trực tuyến,<nl/>có thể tìm nạp phiên bản không "
+"an toàn của trang."
 
 #: plugin_babelfish.cpp:273
 #, kde-format
 msgctxt "@title:window"
 msgid "Security Warning"
-msgstr ""
+msgstr "Cảnh báo an ninh"

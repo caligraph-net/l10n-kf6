@@ -17,247 +17,249 @@ msgstr ""
 #: agents/archivemailagent/archivemailagent.desktop:55
 msgctxt "Comment"
 msgid "Archive Mail Agent"
-msgstr ""
+msgstr "Đại diện Kho trữ Thư"
 
 #: agents/archivemailagent/akonadi_archivemail_agent.notifyrc:56
 #: agents/archivemailagent/archivemailagent.desktop:2
 msgctxt "Name"
 msgid "Archive Mail Agent"
-msgstr ""
+msgstr "Đại diện Kho trữ Thư"
 
 #: agents/archivemailagent/akonadi_archivemail_agent.notifyrc:111
 msgctxt "Name"
 msgid "Archive Mail finished"
-msgstr ""
+msgstr "Kho trữ thư hoàn tất"
 
 #: agents/archivemailagent/akonadi_archivemail_agent.notifyrc:167
 msgctxt "Name"
 msgid "Archive Mail started"
-msgstr ""
+msgstr "Bắt đầu lưu trữ thư"
 
 #: agents/archivemailagent/akonadi_archivemail_agent.notifyrc:223
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Directory does not exist"
-msgstr "Thư mục "
+msgstr "Thư mục không tồn tại"
 
 #: agents/archivemailagent/akonadi_archivemail_agent.notifyrc:273
 msgctxt "Name"
 msgid "Archive Mail Error"
-msgstr ""
+msgstr "Lỗi Kho Trữ Thư"
 
 #: agents/followupreminderagent/akonadi_followupreminder_agent.notifyrc:3
 msgctxt "Comment"
 msgid "Followup reminder agent"
-msgstr ""
+msgstr "Đại diện nhắc nhở theo dõi"
 
 #: agents/followupreminderagent/akonadi_followupreminder_agent.notifyrc:52
 msgctxt "Name"
 msgid "Mail Follow Up Received"
-msgstr ""
+msgstr "Thư Theo Dõi Đã Nhận"
 
 #: agents/followupreminderagent/followupreminder.desktop:2
 msgctxt "Name"
 msgid "Followup Reminder Agent"
-msgstr ""
+msgstr "Đại diện Nhắc Nhở Theo Dõi"
 
 #: agents/followupreminderagent/followupreminder.desktop:49
 msgctxt "Comment"
 msgid ""
 "Followup Reminder Agent allows to remind you when an email was not answered."
 msgstr ""
+"Đại diện Nhắc nhở Theo dõi cho phép bạn nhắc nhở khi một email chưa được "
+"trả lời."
 
 #: agents/mailfilteragent/akonadi_mailfilter_agent.notifyrc:3
-#, fuzzy
+#, 
 msgctxt "Comment"
 msgid "Mail Filter Agent"
-msgstr "GenericName=File tráo đổi vCalendar "
+msgstr "Đại diện Lọc Thư"
 
 #: agents/mailfilteragent/akonadi_mailfilter_agent.notifyrc:56
 #: agents/mailfilteragent/mailfilteragent.desktop:2
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Mail Filter Agent"
-msgstr "GenericName=File tráo đổi vCalendar "
+msgstr "Đại diện Lọc Thư"
 
 #: agents/mailfilteragent/akonadi_mailfilter_agent.notifyrc:111
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Mail filter log enabled"
-msgstr "GenericName=File tráo đổi vCalendar "
+msgstr "Nhật kí lọc thư được bật"
 
 #: agents/mailfilteragent/akonadi_mailfilter_agent.notifyrc:167
 msgctxt "Name"
 msgid "An error occurred during filtering"
-msgstr ""
+msgstr "Đã xảy ra lỗi trong quá trình lọc"
 
 #: agents/mailfilteragent/mailfilteragent.desktop:55
 msgctxt "Comment"
 msgid "Extension to filter emails"
-msgstr ""
+msgstr "Phần mở rộng để lọc email"
 
 #: agents/mailmergeagent/akonadi_mailmerge_agent.notifyrc:3
 #: agents/mailmergeagent/mailmergeagent.desktop:38
-#, fuzzy
+#, 
 msgctxt "Comment"
 msgid "Mail Merge Agent"
-msgstr "GenericName=File tráo đổi vCalendar "
+msgstr "Đại diện Trộn Thư"
 
 #: agents/mailmergeagent/mailmergeagent.desktop:2
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Mail Merge Agent"
-msgstr "GenericName=File tráo đổi vCalendar "
+msgstr "Đại diện Trộn Thư"
 
 #: agents/sendlateragent/akonadi_sendlater_agent.notifyrc:3
 #: agents/sendlateragent/sendlateragent.desktop:52
-#, fuzzy
+#, 
 msgctxt "Comment"
 msgid "Send Later Agent"
-msgstr "Trình lịch"
+msgstr "Đại diện Gửi Sau"
 
 #: agents/sendlateragent/akonadi_sendlater_agent.notifyrc:55
-#, fuzzy
+#, 
 #| msgctxt "GenericName"
 #| msgid "Mail Client"
 msgctxt "Name"
 msgid "Mail is sent"
-msgstr "Mail Client"
+msgstr "Thư đã được gửi"
 
 #: agents/sendlateragent/akonadi_sendlater_agent.notifyrc:108
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Send mail failed"
-msgstr "File nén Rar "
+msgstr "Gửi thư không thành công"
 
 #: agents/sendlateragent/sendlateragent.desktop:2
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Send Later Agent"
-msgstr "Trình lịch"
+msgstr "Đại diện Gửi Sau"
 
 #: agents/unifiedmailboxagent/unifiedmailboxagent.desktop:2
 msgctxt "Name"
 msgid "Unified Mailbox Agent"
-msgstr ""
+msgstr "Đại diện Hộp thư Thống nhất"
 
 #: agents/unifiedmailboxagent/unifiedmailboxagent.desktop:42
 msgctxt "Comment"
 msgid "Unified Mailbox Agent"
-msgstr ""
+msgstr "Đại diện Hộp thư Thống nhất"
 
 #: kmail-refresh-settings/org.kde.kmail-refresh-settings.desktop:2
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "KMail Refresh Settings"
-msgstr "Name=Các liên kết "
+msgstr "Cập nhật Thiết lập KMail"
 
 #: kmail-refresh-settings/org.kde.kmail-refresh-settings.desktop:46
 msgctxt "GenericName"
 msgid "KMail refresh settings"
-msgstr ""
+msgstr "Cập nhật thiết lập KMail"
 
 #: kmail-refresh-settings/org.kde.kmail-refresh-settings.desktop:86
-#, fuzzy
+#, 
 msgctxt "Comment"
 msgid "Refresh KMail settings"
-msgstr "Name=Các liên kết "
+msgstr "Cập nhật thiết lập KMail"
 
 #: ktnef/src/org.kde.ktnef.desktop:2
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "KTnef"
-msgstr "KTron"
+msgstr "KTnef"
 
 #: ktnef/src/org.kde.ktnef.desktop:65
 msgctxt "GenericName"
 msgid "TNEF File Viewer (proprietary format used by outlook)"
-msgstr ""
+msgstr "Trình xem tệp TNEF (định dạng độc quyền được sử dụng bởi Outlook)"
 
 #: ktnef/src/org.kde.ktnef.desktop:117
-#, fuzzy
+#, 
 msgctxt "Comment"
 msgid "A viewer/extractor for TNEF files"
-msgstr "X-Server information,thông tin vềEX-Server "
+msgstr "Trình xem/trích xuất tệp TNEF"
 
 #: src/data/kmail2.notifyrc:4
-#, fuzzy
+#, 
 msgctxt "Comment"
 msgid "KMail"
-msgstr "Makefile"
+msgstr "KMail"
 
 #: src/data/kmail2.notifyrc:77
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Akonadi server sent a warning"
-msgstr "Comment=Cấu hình Chuông hềEthống "
+msgstr "Máy chủ Akonadi đã gửi cảnh báo"
 
 #: src/data/kmail2.notifyrc:130
-#, fuzzy
+#, 
 msgctxt "Comment"
 msgid "Akonadi server sent a warning"
-msgstr "Comment=Cấu hình Chuông hềEthống "
+msgstr "Máy chủ Akonadi đã gửi cảnh báo"
 
 #: src/data/kmail2.notifyrc:186
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Akonadi server sent an error"
-msgstr "Comment=Cấu hình Chuông hềEthống "
+msgstr "Máy chủ Akonadi đã gửi lỗi"
 
 #: src/data/kmail2.notifyrc:239
-#, fuzzy
+#, 
 msgctxt "Comment"
 msgid "Akonadi server sent an error"
-msgstr "Comment=Cấu hình Chuông hềEthống "
+msgstr "Máy chủ Akonadi đã gửi lỗi"
 
 #: src/data/kmail2.notifyrc:295
 msgctxt "Name"
 msgid "A resource is broken"
-msgstr ""
+msgstr "Tài nguyên bị hỏng"
 
 #: src/data/kmail2.notifyrc:348
 msgctxt "Comment"
 msgid "A resource change its state to broken"
-msgstr ""
+msgstr "Một tài nguyên đã thay đổi trạng thái thành bị hỏng"
 
 #: src/data/kmail2.notifyrc:404
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Impossible to send email"
-msgstr "Name=KColorChooser"
+msgstr "Không thể gửi thư điện tử"
 
 #: src/data/kmail2.notifyrc:444
 msgctxt "Comment"
 msgid "Problem during send mail"
-msgstr ""
+msgstr "Vấn đề khi gửi thư"
 
 #: src/data/kmail2.notifyrc:487
 msgctxt "Name"
 msgid "Archive Mails in Folder done"
-msgstr ""
+msgstr "Đã lưu trữ thư trong thư mục"
 
 #: src/data/kmail2.notifyrc:538
 msgctxt "Name"
 msgid "Folder Archive Error"
-msgstr ""
+msgstr "Lỗi Kho Trữ Thư Mục"
 
 #: src/data/kmail2.notifyrc:588
 msgctxt "Name"
 msgid "Email added to the send later queue"
-msgstr ""
+msgstr "Thư đã được thêm vào hàng đợi gửi sau"
 
 #: src/data/kmail2.notifyrc:628
 msgctxt "Comment"
 msgid "A delayed email delivery is configured and can be canceled"
-msgstr ""
+msgstr "Một lần gửi thư điện tử bị trì hoãn đã được cấu hình và có thể được huỷ"
 
 #: src/data/kmail_view.desktop:2
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "KMail"
 msgctxt "Name"
 msgid "KMail view"
-msgstr "KMail"
+msgstr "Khung xem KMail"
 
 #: src/data/org.kde.kmail2.desktop:2
 msgctxt "Name"
@@ -272,19 +274,19 @@ msgstr "Mail Client"
 #: src/data/org.kde.kmail2.desktop:157
 msgctxt "Comment"
 msgid "Send, receive and manage your mail with KMail"
-msgstr ""
+msgstr "Gửi, nhận và quản lý email của bạn với KMail"
 
 #: src/data/org.kde.kmail2.desktop:211
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "New Message..."
-msgstr "Name=KMessage"
+msgstr "Tin nhắn mới..."
 
 #: src/data/org.kde.kmail2.desktop:256
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Check Mail"
-msgstr "Comment=File Backup "
+msgstr "Kiểm tra thư"
 
 #, fuzzy
 #~ msgctxt "Name"

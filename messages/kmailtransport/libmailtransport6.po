@@ -1,0 +1,718 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kmailtransport package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kmailtransport\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-16 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. i18n: ectx: label, entry (id), group (Transport $(transportId))
+#: mailtransport.kcfg:12
+#, kde-format
+msgid "Unique identifier"
+msgstr "Mã định danh"
+
+#. i18n: ectx: label, entry (name), group (Transport $(transportId))
+#: mailtransport.kcfg:16
+#, kde-format
+msgid "User-visible transport name"
+msgstr "Tên giao thức hiển thị cho người dùng"
+
+#. i18n: ectx: whatsthis, entry (name), group (Transport $(transportId))
+#: mailtransport.kcfg:17
+#, kde-format
+msgid "The name that will be used when referring to this server."
+msgstr "Tên sẽ được sử dụng khi đề cập đến máy chủ này."
+
+#: mailtransport.kcfg:18
+#, kde-format
+msgid "Unnamed"
+msgstr "Không tên"
+
+#. i18n: ectx: label, entry (host), group (Transport $(transportId))
+#: mailtransport.kcfg:27
+#, kde-format
+msgid "Host name of the server"
+msgstr "Tên máy chủ"
+
+#. i18n: ectx: whatsthis, entry (host), group (Transport $(transportId))
+#: mailtransport.kcfg:28
+#, kde-format
+msgid "The domain name or numerical address of the SMTP server."
+msgstr "Tên miền hoặc địa chỉ số của máy chủ SMTP."
+
+#. i18n: ectx: label, entry (port), group (Transport $(transportId))
+#: mailtransport.kcfg:31
+#, kde-format
+msgid "Port number of the server"
+msgstr "Số cổng của máy chủ"
+
+#. i18n: ectx: whatsthis, entry (port), group (Transport $(transportId))
+#: mailtransport.kcfg:32
+#, kde-format
+msgid ""
+"The port number that the SMTP server is listening on. The default port is "
+"587."
+msgstr "Số cổng mà máy chủ SMTP đang lắng nghe. Cổng mặc định là 587."
+
+#. i18n: ectx: label, entry (userName), group (Transport $(transportId))
+#: mailtransport.kcfg:36
+#, kde-format
+msgid "User name needed for login"
+msgstr "Cần tên người dùng để đăng nhập"
+
+#. i18n: ectx: whatsthis, entry (userName), group (Transport $(transportId))
+#: mailtransport.kcfg:37
+#, kde-format
+msgid "The user name to send to the server for authorization."
+msgstr "Tên người dùng để gửi đến máy chủ để xác thực."
+
+#. i18n: ectx: label, entry (precommand), group (Transport $(transportId))
+#: mailtransport.kcfg:40
+#, kde-format
+msgid "Command to execute before sending a mail"
+msgstr "Lệnh để thực thi trước khi gửi thư"
+
+#. i18n: ectx: whatsthis, entry (precommand), group (Transport $(transportId))
+#: mailtransport.kcfg:41
+#, kde-format
+msgid ""
+"A command to run locally, prior to sending email. This can be used to set up "
+"SSH tunnels, for example. Leave it empty if no command should be run."
+msgstr ""
+"Một lệnh để chạy cục bộ, trước khi gửi email. Điều này có thể được sử dụng "
+"để thiết lập đường hầm SSH, ví dụ. Để trống nếu không có lệnh nào cần chạy."
+
+#. i18n: ectx: label, entry (options), group (Transport $(transportId))
+#: mailtransport.kcfg:44
+#, kde-format
+msgid "Options added to mailtransport method"
+msgstr "Tùy chọn được thêm vào phương thức mailtransport"
+
+#. i18n: ectx: label, entry (requiresAuthentication), group (Transport $(transportId))
+#: mailtransport.kcfg:47
+#, kde-format
+msgid "Server requires authentication"
+msgstr "Máy chủ yêu cầu xác thực"
+
+#. i18n: ectx: whatsthis, entry (requiresAuthentication), group (Transport $(transportId))
+#: mailtransport.kcfg:48
+#, kde-format
+msgid ""
+"Check this option if your SMTP server requires authentication before "
+"accepting mail. This is known as 'Authenticated SMTP' or simply ASMTP."
+msgstr ""
+"Chọn tùy chọn này nếu máy chủ SMTP của bạn yêu cầu xác thực trước khi chấp "
+"nhận thư. Điều này được gọi là 'SMTP được xác thực' hoặc đơn giản là ASMTP."
+
+#. i18n: ectx: label, entry (storePassword), group (Transport $(transportId))
+#: mailtransport.kcfg:52
+#, kde-format
+msgid "Store password"
+msgstr "Lưu mật khẩu"
+
+#. i18n: ectx: whatsthis, entry (storePassword), group (Transport $(transportId))
+#: mailtransport.kcfg:55
+#, kde-format
+msgid ""
+"Check this option to have your password stored.\n"
+"If KWallet is available the password will be stored there, which is "
+"considered safe.\n"
+"However, if KWallet is not available, the password will be stored in the "
+"configuration file. The password is stored in an obfuscated format, but "
+"should not be considered secure from decryption efforts if access to the "
+"configuration file is obtained."
+msgstr ""
+"Chọn tùy chọn này để lưu mật khẩu của bạn.\nNếu KWallet có sẵn, mật khẩu sẽ "
+"được lưu trữ ở đó, được coi là an toàn.\nTuy nhiên, nếu KWallet không có "
+"sẵn, mật khẩu sẽ được lưu trong tệp cấu hình. Mật khẩu được lưu trữ dưới "
+"dạng mã hóa, nhưng không nên coi là an toàn khỏi các nỗ lực giải mã nếu có "
+"quyền truy cập vào tệp cấu hình."
+
+#. i18n: ectx: label, entry (encryption), group (Transport $(transportId))
+#: mailtransport.kcfg:59
+#, kde-format
+msgid "Encryption method used for communication"
+msgstr "Phương pháp mã hoá được sử dụng cho liên lạc"
+
+#. i18n: ectx: label, entry (encryption), group (Transport $(transportId))
+#: mailtransport.kcfg:62
+#, kde-format
+msgid "No encryption"
+msgstr "Không mật mã hoá"
+
+#. i18n: ectx: label, entry (encryption), group (Transport $(transportId))
+#: mailtransport.kcfg:65
+#, kde-format
+msgid "SSL/TLS encryption"
+msgstr "Mật mã hoá SSL/TLS"
+
+#. i18n: ectx: label, entry (encryption), group (Transport $(transportId))
+#: mailtransport.kcfg:68
+#, kde-format
+msgid "STARTTLS encryption"
+msgstr "mật mã hoá STARTTLS"
+
+#. i18n: ectx: label, entry (authenticationType), group (Transport $(transportId))
+#: mailtransport.kcfg:74
+#, kde-format
+msgid "Authentication method"
+msgstr "Phương thức xác thực"
+
+#. i18n: ectx: label, entry (specifyHostname), group (Transport $(transportId))
+#. i18n: ectx: label, entry (localHostname), group (Transport $(transportId))
+#. i18n: ectx: label, entry (specifySenderOverwriteAddress), group (Transport $(transportId))
+#. i18n: ectx: label, entry (senderOverwriteAddress), group (Transport $(transportId))
+#: mailtransport.kcfg:91 mailtransport.kcfg:96 mailtransport.kcfg:100
+#: mailtransport.kcfg:105
+#, kde-format
+msgid "<!-- TODO -->"
+msgstr "<!-- TODO -->"
+
+#. i18n: ectx: whatsthis, entry (specifyHostname), group (Transport $(transportId))
+#: mailtransport.kcfg:92
+#, kde-format
+msgid ""
+"Check this option to use a custom hostname when identifying to the mail "
+"server. This is useful when your system's hostname may not be set correctly "
+"or to mask your system's true hostname."
+msgstr ""
+"Chọn tùy chọn này để sử dụng tên máy chủ tùy chỉnh khi xác định danh tính "
+"với máy chủ thư. Điều này hữu ích khi tên máy của hệ thống của bạn có thể "
+"không được đặt đúng hoặc để che giấu tên máy thật của hệ thống."
+
+#. i18n: ectx: whatsthis, entry (localHostname), group (Transport $(transportId))
+#: mailtransport.kcfg:97
+#, kde-format
+msgid "Enter the hostname that should be used when identifying to the server."
+msgstr "Nhập tên máy chủ sẽ được sử dụng khi xác định với máy chủ."
+
+#. i18n: ectx: whatsthis, entry (specifySenderOverwriteAddress), group (Transport $(transportId))
+#: mailtransport.kcfg:101
+#, kde-format
+msgid ""
+"Check this option to use a custom sender address when identifying to the "
+"mail server. If not checked, the address from the identity is used."
+msgstr ""
+"Chọn tùy chọn này để sử dụng địa chỉ người gửi tùy chỉnh khi xác định với "
+"máy chủ thư. Nếu không được chọn, địa chỉ từ danh tính sẽ được sử dụng."
+
+#. i18n: ectx: whatsthis, entry (senderOverwriteAddress), group (Transport $(transportId))
+#: mailtransport.kcfg:106
+#, kde-format
+msgid ""
+"Enter the address that should be used to overwrite the default sender "
+"address."
+msgstr "Nhập địa chỉ sẽ được sử dụng để ghi đè lên địa chỉ người gửi mặc định."
+
+#. i18n: ectx: label, entry (useProxy), group (Transport $(transportId))
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_useProxy)
+#: mailtransport.kcfg:109 plugins/smtp/smtpsettings.ui:284
+#, kde-format
+msgid "Connect using the system proxy settings"
+msgstr "Kết nối bằng cách sử dụng thiết lập uỷ nhiệm của hệ thống"
+
+#. i18n: ectx: whatsthis, entry (useProxy), group (Transport $(transportId))
+#: mailtransport.kcfg:110
+#, kde-format
+msgid ""
+"If checked, the system proxy settings will be used to connect to the mail "
+"server."
+msgstr ""
+"Nếu được chọn, thiết lập uỷ nhiệm của hệ thống sẽ được sử dụng để kết nối "
+"với máy chủ thư."
+
+#: plugins/smtp/smtpconfigwidget.cpp:148
+#, kde-format
+msgid "The password to send to the server for authorization."
+msgstr "Mật khẩu để gửi đến máy chủ để được ủy quyền."
+
+#: plugins/smtp/smtpconfigwidget.cpp:160 servertest.cpp:552
+#, kde-format
+msgctxt "Percent value; %p is the value, % is the percent sign"
+msgid "%p%"
+msgstr "%p%"
+
+#: plugins/smtp/smtpconfigwidget.cpp:280
+#, kde-format
+msgid ""
+"Failed to check capabilities. Please verify port and authentication mode."
+msgstr "Không thể kiểm tra khả năng. Vui lòng xác minh cổng và chế độ xác thực."
+
+#: plugins/smtp/smtpconfigwidget.cpp:280
+#, kde-format
+msgid "Check Capabilities Failed"
+msgstr "Kiểm tra Khả năng Thất bại"
+
+#: plugins/smtp/smtpjob.cpp:223
+#, kde-format
+msgid "You need to supply a username and a password to use this SMTP server."
+msgstr "Bạn cần cung cấp tên người dùng và mật khẩu để sử dụng máy chủ SMTP này."
+
+#: plugins/smtp/smtpmailtransportplugin.cpp:27
+#, kde-format
+msgctxt "@option SMTP transport"
+msgid "SMTP"
+msgstr "SMTP"
+
+#: plugins/smtp/smtpmailtransportplugin.cpp:28
+#, kde-format
+msgid "An SMTP server on the Internet"
+msgstr "Một máy chủ SMTP trên Internet"
+
+#: plugins/smtp/smtpmailtransportplugin.cpp:38
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure account"
+msgstr "Cấu hình tài khoản"
+
+#. i18n: ectx: attribute (title), widget (QWidget, smptTab)
+#: plugins/smtp/smtpsettings.ui:34
+#, kde-format
+msgctxt "general smtp settings"
+msgid "General"
+msgstr "Chung"
+
+#. i18n: ectx: property (text), widget (KTitleWidget, ktitlewidget)
+#: plugins/smtp/smtpsettings.ui:40
+#, kde-format
+msgid "Account Information"
+msgstr "Thông tin tài khoản"
+
+#. i18n: ectx: property (text), widget (QLabel, hostLabel)
+#: plugins/smtp/smtpsettings.ui:47
+#, kde-format
+msgid "Outgoing &mail server:"
+msgstr "Máy c&hủ thư đi:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_requiresAuthentication)
+#: plugins/smtp/smtpsettings.ui:67
+#, kde-format
+msgid "Server &requires authentication"
+msgstr "Máy chủ yê&u cầu xác thực"
+
+#. i18n: ectx: property (text), widget (QLabel, usernameLabel)
+#: plugins/smtp/smtpsettings.ui:77
+#, kde-format
+msgid "&Login:"
+msgstr "Đă&ng nhập:"
+
+#. i18n: ectx: property (text), widget (QLabel, passwordLabel)
+#: plugins/smtp/smtpsettings.ui:103
+#, kde-format
+msgid "P&assword:"
+msgstr "Mật khẩ&u:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_storePassword)
+#: plugins/smtp/smtpsettings.ui:126
+#, kde-format
+msgid "&Store SMTP password"
+msgstr "Lưu mật khẩu &SMTP"
+
+#. i18n: ectx: attribute (title), widget (QWidget, advancedTab)
+#: plugins/smtp/smtpsettings.ui:147
+#, kde-format
+msgctxt "advanced smtp settings"
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#. i18n: ectx: property (text), widget (KTitleWidget, ktitlewidget_2)
+#: plugins/smtp/smtpsettings.ui:153
+#, kde-format
+msgid "Connection Settings"
+msgstr "Thiết lập kết nối"
+
+#. i18n: ectx: property (text), widget (QLabel, noAuthPossible)
+#: plugins/smtp/smtpsettings.ui:172
+#, kde-format
+msgid "This server does not support authentication"
+msgstr "Máy chủ này không hỗ trợ xác thực"
+
+#. i18n: ectx: property (text), widget (QPushButton, checkCapabilities)
+#: plugins/smtp/smtpsettings.ui:189
+#, kde-format
+msgid "Auto Detect"
+msgstr "Tự động phát hiện"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: plugins/smtp/smtpsettings.ui:216
+#, kde-format
+msgid "Encryption:"
+msgstr "Mã hóa:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, encryptionNone)
+#: plugins/smtp/smtpsettings.ui:225
+#, kde-format
+msgid "&None"
+msgstr "Khô&ng"
+
+#. i18n: ectx: property (text), widget (QRadioButton, encryptionSsl)
+#: plugins/smtp/smtpsettings.ui:232
+#, kde-format
+msgid "&SSL/TLS"
+msgstr "&SSL/TLS"
+
+#. i18n: ectx: property (text), widget (QRadioButton, encryptionTls)
+#: plugins/smtp/smtpsettings.ui:239
+#, kde-format
+msgid "START&TLS"
+msgstr "S&TARTTLS"
+
+#. i18n: ectx: property (text), widget (QLabel, portLabel)
+#: plugins/smtp/smtpsettings.ui:248
+#, kde-format
+msgid "&Port:"
+msgstr "&Cổng:"
+
+#. i18n: ectx: property (text), widget (QLabel, authLabel)
+#: plugins/smtp/smtpsettings.ui:274
+#, kde-format
+msgid "Authentication:"
+msgstr "Xác thực:"
+
+#. i18n: ectx: property (text), widget (KTitleWidget, ktitlewidget_3)
+#: plugins/smtp/smtpsettings.ui:293
+#, kde-format
+msgid "SMTP Settings"
+msgstr "Thiết lập SMTP"
+
+#. i18n: ectx: property (text), widget (QLabel, hostnameLabel)
+#: plugins/smtp/smtpsettings.ui:303
+#, kde-format
+msgid "Hostna&me:"
+msgstr "Tên &máy chủ:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: plugins/smtp/smtpsettings.ui:329
+#, kde-format
+msgid "Sender Address:"
+msgstr "Địa chỉ người gửi:"
+
+#. i18n: ectx: property (text), widget (QLabel, precommandLabel)
+#: plugins/smtp/smtpsettings.ui:346
+#, kde-format
+msgid "Precommand:"
+msgstr "Lệnh trước:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_specifyHostname)
+#: plugins/smtp/smtpsettings.ui:376
+#, kde-format
+msgid "Sen&d custom hostname to server"
+msgstr "Gửi tên má&y chủ tùy chỉnh đến máy chủ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_specifySenderOverwriteAddress)
+#: plugins/smtp/smtpsettings.ui:383
+#, kde-format
+msgid "Use custom sender address"
+msgstr "Sử dụng địa chỉ người gửi tự chọn"
+
+#: precommandjob.cpp:68
+#, kde-format
+msgid "Executing precommand '%1'."
+msgstr "Đang thực thi lệnh precommand '%1'."
+
+#: precommandjob.cpp:75
+#, kde-format
+msgid "Unable to start precommand '%1'."
+msgstr "Không thể khởi động lệnh precommand '%1'."
+
+#: precommandjob.cpp:77
+#, kde-format
+msgid "Error while executing precommand '%1'."
+msgstr "Lỗi khi thực hiện lệnh precommand '%1'."
+
+#: precommandjob.cpp:93
+#, kde-format
+msgid "The precommand crashed."
+msgstr "Lệnh trước đó đã bị sập."
+
+#: precommandjob.cpp:96
+#, kde-format
+msgid "The precommand exited with code %1."
+msgstr "Lệnh trước đó đã thoát với mã %1."
+
+#: transport.cpp:81
+#, kde-format
+msgctxt ""
+"%1: name; %2: number appended to it to make it unique among a list of names"
+msgid "%1 #%2"
+msgstr "%1 #%2"
+
+#: transport.cpp:131
+#, kde-format
+msgctxt "Authentication method"
+msgid "Clear text"
+msgstr "Văn bản rõ ràng"
+
+#: transport.cpp:135
+#, kde-format
+msgctxt "Authentication method"
+msgid "Anonymous"
+msgstr "Ẩn danh"
+
+#: transport.cpp:166
+#, kde-format
+msgctxt "An unknown transport type"
+msgid "Unknown"
+msgstr "không rõ"
+
+#: transport.cpp:210
+#, kde-format
+msgid ""
+"QKeychain not found a backend for storing your password. It is strongly "
+"recommended to use strong backend for managing your passwords.\n"
+"However, the password can be stored in the configuration file instead. The "
+"password is stored in an obfuscated format, but should not be considered "
+"secure from decryption efforts if access to the configuration file is "
+"obtained.\n"
+"Do you want to store the password for server '%1' in the configuration file?"
+msgstr ""
+"QKeychain không tìm thấy hậu phương để lưu trữ mật khẩu của bạn. Rất khuyến "
+"nghị sử dụng hậu phương mạnh mẽ để quản lý mật khẩu của bạn.\nTuy nhiên, "
+"mật khẩu có thể được lưu trữ trong tệp cấu hình thay vào đó. Mật khẩu được "
+"lưu trữ dưới dạng mã hóa, nhưng không nên coi là an toàn khỏi các nỗ lực "
+"giải mật mã nếu có quyền truy cập vào tệp cấu hình.\nBạn có muốn lưu trữ "
+"mật khẩu cho máy chủ '%1' trong tệp cấu hình không?"
+
+#: transport.cpp:219
+#, kde-format
+msgid "KWallet Not Available"
+msgstr "Ví KWallet không khả dụng"
+
+#: transport.cpp:220
+#, kde-format
+msgctxt "@action:button"
+msgid "Store Password"
+msgstr "Lưu mật khẩu"
+
+#: transport.cpp:221
+#, kde-format
+msgctxt "@action:button"
+msgid "Do Not Store Password"
+msgstr "Không lưu mật khẩu"
+
+#: transportjob.cpp:122
+#, kde-format
+msgid "The outgoing account \"%1\" is not correctly configured."
+msgstr "Tài khoản đi ra \"%1\" không được cấu hình đúng."
+
+#: transportmanager.cpp:224
+#, kde-format
+msgid "You must create an outgoing account before sending."
+msgstr "Bạn phải tạo một tài khoản đi ra trước khi gửi."
+
+#: transportmanager.cpp:225
+#, kde-format
+msgid "Create Account Now?"
+msgstr "Tạo tài khoản ngay?"
+
+#: transportmanager.cpp:226
+#, kde-format
+msgctxt "@action:button"
+msgid "Create Account Now"
+msgstr "Tạo Tài Khoản Ngay"
+
+#: transportmanager.cpp:608
+#, kde-format
+msgid ""
+"The following mail transports store their passwords in an unencrypted "
+"configuration file.\n"
+"For security reasons, please consider migrating these passwords to KWallet, "
+"the KDE Wallet management tool,\n"
+"which stores sensitive data for you in a strongly encrypted file.\n"
+"Do you want to migrate your passwords to KWallet?"
+msgstr ""
+"Các trình vận chuyển thư sau đây lưu trữ mật khẩu của họ trong một tệp cấu "
+"hình không được mã hóa.\nVì lý do an ninh, vui lòng hãy xem xét di chuyển "
+"các mật khẩu này sang KWallet, công cụ quản lý ví KDE,\nthứ lưu trữ dữ liệu "
+"nhạy cảm của bạn trong một tệp được mã hóa mạnh mẽ.\nBạn có muốn di chuyển "
+"mật khẩu của mình sang KWallet không?"
+
+#: transportmanager.cpp:615
+#, kde-format
+msgid "Question"
+msgstr "Câu hỏi"
+
+#: transportmanager.cpp:616
+#, kde-format
+msgctxt "@action:button"
+msgid "Migrate"
+msgstr "Di chuyển"
+
+#: transportmanager.cpp:617
+#, kde-format
+msgctxt "@action:button"
+msgid "Keep"
+msgstr "Giữ lại"
+
+#: transportmodel.cpp:61
+#, kde-format
+msgctxt "Default transport"
+msgid " (default)"
+msgstr "(mặc định)"
+
+#: transportmodel.cpp:83 widgets/transportlistwidget.cpp:27
+#, kde-format
+msgctxt "@title:column email transport name"
+msgid "Name"
+msgstr "Tên"
+
+#: transportmodel.cpp:85 widgets/transportlistwidget.cpp:27
+#, kde-format
+msgctxt "@title:column email transport type"
+msgid "Type"
+msgstr "Kiểu"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, AddTransportDialog)
+#: ui/addtransportdialog.ui:20
+#, kde-format
+msgid "Step One: Select Transport Type"
+msgstr "Bước Một: Bôi đen Kiểu Vận Chuyển"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: ui/addtransportdialog.ui:38
+#, kde-format
+msgctxt "The name of a mail transport"
+msgid "Name:"
+msgstr "Tên:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, setDefault)
+#: ui/addtransportdialog.ui:48
+#, kde-format
+msgid "Make this the default outgoing account"
+msgstr "Đặt tài khoản này làm tài khoản gửi mặc định"
+
+#. i18n: ectx: property (text), widget (QLabel, descLabel)
+#: ui/addtransportdialog.ui:61
+#, kde-format
+msgid "Select an account type from the list below:"
+msgstr "Chọn một kiểu tài khoản từ danh sách bên dưới:"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, typeListView)
+#: ui/addtransportdialog.ui:81
+#, kde-format
+msgid "Type"
+msgstr "Kiểu"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, typeListView)
+#: ui/addtransportdialog.ui:86
+#, kde-format
+msgid "Description"
+msgstr "Mô tả"
+
+#. i18n: ectx: property (text), widget (QPushButton, removeButton)
+#: ui/transportmanagementwidget.ui:17 ui/transportmanagementwidgetng.ui:17
+#, kde-format
+msgid "Remo&ve"
+msgstr "&Xoá"
+
+#. i18n: ectx: property (text), widget (QPushButton, defaultButton)
+#: ui/transportmanagementwidget.ui:24 ui/transportmanagementwidgetng.ui:24
+#, kde-format
+msgid "&Set as Default"
+msgstr "Đặt làm mặc địn&h"
+
+#. i18n: ectx: property (text), widget (QPushButton, addButton)
+#: ui/transportmanagementwidget.ui:54
+#, kde-format
+msgid "A&dd..."
+msgstr "T&hêm..."
+
+#. i18n: ectx: property (text), widget (QPushButton, renameButton)
+#: ui/transportmanagementwidget.ui:61 ui/transportmanagementwidgetng.ui:61
+#, kde-format
+msgid "&Rename"
+msgstr "Đổ&i tên"
+
+#. i18n: ectx: property (text), widget (QPushButton, editButton)
+#: ui/transportmanagementwidget.ui:68
+#, kde-format
+msgid "&Modify..."
+msgstr "Sửa đổ&i..."
+
+#. i18n: ectx: property (text), widget (QPushButton, addButton)
+#: ui/transportmanagementwidgetng.ui:54
+#, kde-format
+msgid "A&dd…"
+msgstr "Thê&m..."
+
+#. i18n: ectx: property (text), widget (QPushButton, editButton)
+#: ui/transportmanagementwidgetng.ui:68
+#, kde-format
+msgid "&Modify…"
+msgstr "Sử&a đổi..."
+
+#: widgets/addtransportdialogng.cpp:94
+#, kde-format
+msgctxt "@title:window"
+msgid "Create Outgoing Account"
+msgstr "Tạo Tài Khoản Đi Ra"
+
+#: widgets/addtransportdialogng.cpp:97
+#, kde-format
+msgctxt "create and configure a mail transport"
+msgid "Create and Configure"
+msgstr "Tạo và Cấu hình"
+
+#: widgets/transportlistwidget.cpp:99
+#, kde-format
+msgctxt "@label the default mail transport"
+msgid " (Default)"
+msgstr "(Mặc định)"
+
+#: widgets/transportmanagementwidgetng.cpp:137
+#, kde-format
+msgid "Do you want to remove outgoing account '%1'?"
+msgstr "Bạn có muốn xoá tài khoản đi ra '%1' không?"
+
+#: widgets/transportmanagementwidgetng.cpp:138
+#, kde-format
+msgid "Do you really want to remove this %1 outgoing account?"
+msgid_plural "Do you really want to remove these %1 outgoing accounts?"
+msgstr[0] "Bạn có thực sự muốn xoá %1 tài khoản đi ra này không?"
+
+#: widgets/transportmanagementwidgetng.cpp:140
+#, kde-format
+msgid "Remove outgoing account?"
+msgstr "Xoá tài khoản đi ra?"
+
+#: widgets/transportmanagementwidgetng.cpp:170
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Add…"
+msgstr "Thêm..."
+
+#: widgets/transportmanagementwidgetng.cpp:175
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Modify…"
+msgstr "Sửa đổi..."
+
+#: widgets/transportmanagementwidgetng.cpp:178
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Rename"
+msgstr "Đổi tên"
+
+#: widgets/transportmanagementwidgetng.cpp:182
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Remove"
+msgstr "Xoá"
+
+#: widgets/transportmanagementwidgetng.cpp:188
+#, kde-format
+msgid "Set as Default"
+msgstr "Đặt làm Mặc định"

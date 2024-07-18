@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kclock package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kclock\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-03-18 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: alarm.cpp:73 alarm.h:51
+#, kde-format
+msgid "Alarm"
+msgstr "Báo thức"
+
+#: alarm.cpp:77 timer.cpp:67
+#, kde-format
+msgid "View"
+msgstr "Xem"
+
+#: alarm.cpp:80
+#, kde-format
+msgid "Dismiss"
+msgstr "Bỏ qua"
+
+#: alarm.cpp:83
+#, kde-format
+msgid "Snooze"
+msgstr "Tạm dừng"
+
+#: alarmmodel.cpp:222
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Alarm: <shortcut>%1 %2</shortcut>"
+msgstr "Báo thức: <shortcut>%1 %2</shortcut>"
+
+#: main.cpp:30
+#, kde-format
+msgid "Don't use PowerDevil for alarms if it is available"
+msgstr "Không sử dụng PowerDevil cho báo thức nếu nó hiện có"
+
+#: main.cpp:45
+#, kde-format
+msgid "© 2020-2022 KDE Community"
+msgstr "© 2020-2022 Cộng đồng KDE"
+
+#: main.cpp:46
+#, kde-format
+msgid "Devin Lin"
+msgstr "Devin Lin"
+
+#: main.cpp:47
+#, kde-format
+msgid "Han Young"
+msgstr "Han Young"
+
+#: timer.cpp:62
+#, kde-format
+msgid "Timer complete"
+msgstr "Bộ hẹn giờ hoàn tất"
+
+#: timer.cpp:63
+#, kde-format
+msgid "Your timer %1 has finished!"
+msgstr "Bộ hẹn giờ %1 của bạn đã hoàn thành!"
+
+#: xdgportal.cpp:34
+#, kde-format
+msgid ""
+"Allow the clock process to be in the background and launched on startup."
+msgstr "Cho phép tiến trình đồng hồ chạy ở chế độ nền và khởi động cùng hệ thống."

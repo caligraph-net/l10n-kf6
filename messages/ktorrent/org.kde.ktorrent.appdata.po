@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2024-07-03 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: component/name
+#: org.kde.ktorrent.appdata.xml:10
+msgid "KTorrent"
+msgstr "KTorrent"
+
+#. (itstool) path: component/summary
+#: org.kde.ktorrent.appdata.xml:11
+msgid "BitTorrent Client"
+msgstr "Trình khách BitTorrent"
+
+#. (itstool) path: description/p
+#: org.kde.ktorrent.appdata.xml:13
+msgid "KTorrent is a BitTorrent application by KDE which allows you to download files using the BitTorrent protocol. It enables you to run multiple torrents at the same time and comes with extended features to make it a full-featured client for BitTorrent."
+msgstr ""
+"KTorrent là một ứng dụng BitTorrent của KDE cho phép bạn tải về các tệp sử "
+"dụng giao thức BitTorrent. Nó cho phép bạn chạy nhiều torrent cùng một lúc "
+"và đi kèm với các tính năng mở rộng để trở thành một trình khách BitTorrent "
+"đầy đủ tính năng."
+
+#. (itstool) path: description/p
+#: org.kde.ktorrent.appdata.xml:18
+msgid "Features:"
+msgstr "Tính năng:"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:20
+msgid "Queuing of torrents"
+msgstr "Hàng đợi các torrent"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:21
+msgid "Global and per torrent speed limits"
+msgstr "Giới hạn tốc độ toàn cục và mỗi torrent"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:22
+msgid "Previewing of certain file types, build in (video and audio)"
+msgstr "Xem trước một số loại tệp, xây sẵn (video và âm thanh)"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:23
+msgid "Importing of partially or fully downloaded files"
+msgstr "Nhập khẩu các tệp đã tải về một phần hoặc hoàn toàn"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:24
+msgid "File prioritization for multi-file torrents"
+msgstr "Ưu tiên tệp cho các torrent đa tệp"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:25
+msgid "Selective downloading for multi-file torrents"
+msgstr "Tải về chọn lọc cho các torrent nhiều tệp"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:26
+msgid "Kick/ban peers with an additional IP Filter dialog for list/edit purposes"
+msgstr ""
+"Cấm/chặn các đối tác với một hộp thoại bộ lọc IP bổ sung để danh sách/chỉnh "
+"sửa"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:27
+msgid "UDP tracker support"
+msgstr "Hỗ trợ theo dõi UDP"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:28
+msgid "Support for private trackers and torrents"
+msgstr "Hỗ trợ các máy chủ theo dõi và torrent riêng tư"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:29
+msgid "Support for µTorrent's peer exchange"
+msgstr "Hỗ trợ trao đổi đối tác của µTorrent"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:30
+msgid "Support for protocol encryption (compatible with Azureus)"
+msgstr "Hỗ trợ mã hoá giao thức (tương thích với Azureus)"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:31
+msgid "Support for creating trackerless torrents"
+msgstr "Hỗ trợ tạo các torrent không có máy chủ theo dõi"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:32
+msgid "Support for distributed hash tables (DHT, the Mainline version)"
+msgstr "Hỗ trợ bảng băm phân tán (DHT, phiên bản Mainline)"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:33
+msgid "Support for UPnP to automatically forward ports on a LAN with dynamic assigned hosts"
+msgstr ""
+"Hỗ trợ UPnP để tự động chuyển tiếp các cổng trên mạng LAN với các máy chủ "
+"được gán động"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:34
+msgid "Support for webseeds"
+msgstr "Hỗ trợ webseeds"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:35
+msgid "System tray integration"
+msgstr "Tích hợp khay hệ thống"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:36
+msgid "Tracker authentication support"
+msgstr "Hỗ trợ xác thực máy theo dõi"
+
+#. (itstool) path: ul/li
+#: org.kde.ktorrent.appdata.xml:37
+msgid "Connection through a proxy"
+msgstr "Kết nối thông qua uỷ nhiệm"
+
+#. (itstool) path: description/p
+#: org.kde.ktorrent.appdata.xml:39
+msgid "In addition to the built-in functionalities, there are some plugins available for KTorrent."
+msgstr "Ngoài các chức năng tích hợp sẵn, KTorrent còn có một số plugin khả dụng."

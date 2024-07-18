@@ -34,6 +34,10 @@ msgid ""
 "checking all your favorite web sites manually for updates, Akregator "
 "collects the content for you."
 msgstr ""
+"Trình đọc nguồn cấp dữ liệu cung cấp một cách tiện lợi để duyệt các loại "
+"nội dung khác nhau, bao gồm tin tức, blog và các nội dung khác từ các trang "
+"web trực tuyến. Thay vì kiểm tra thủ công tất cả các trang web yêu thích "
+"của bạn để cập nhật, Akregator sẽ thu thập nội dung cho bạn."
 
 #: src/about/introduction_akregator.html:19
 msgid ""
@@ -42,55 +46,59 @@ msgid ""
 "want to see this page anymore, <a href='config:/disable_introduction'>click "
 "here</a>."
 msgstr ""
+"Để biết thêm thông tin về cách sử dụng Akregator, hãy xem <a "
+"href='https://kontact.kde.org/components/akregator/'>trang web "
+"Akregator</a>. Nếu bạn không muốn thấy trang này nữa, <a "
+"href='config:/disable_introduction'>nhấp vào đây</a>."
 
 #: src/formatter/html/combinedview.html:24
-#, fuzzy
+#, 
 #| msgid "&Mark Feed as Read"
 msgid "Mark as Read"
-msgstr "&Đánh dấu đã đọc nguồn tin"
+msgstr "Đánh dấu đã đọc"
 
 #: src/formatter/html/combinedview.html:27
-#, fuzzy
+#, 
 #| msgid "Mark selected article as unread"
 msgid "Mark as Unread"
-msgstr "Đánh dấu chưa đọc bài viết được chọn"
+msgstr "Đánh dấu chưa đọc"
 
 #: src/formatter/html/combinedview.html:31
-#, fuzzy
+#, 
 #| msgid "Remove &Important Mark"
 msgid "Remove Important Status"
-msgstr "Bỏ dấu &quan trọng"
+msgstr "Xoá dấu quan trọng"
 
 #: src/formatter/html/combinedview.html:33
-#, fuzzy
+#, 
 #| msgid "&Mark as Important"
 msgid "Mark as Important"
-msgstr "Đánh dấu &quan trọng"
+msgstr "Đánh dấu là quan trọng"
 
 #: src/formatter/html/combinedview.html:35
-#, fuzzy
+#, 
 #| msgid "Open Link in External &Browser"
 msgid "Open Link in External Browser"
-msgstr "Mở liên kết trong trình duyệt &ngoài"
+msgstr "Mở liên kết trong trình duyệt ngoài"
 
 #: src/formatter/html/combinedview.html:36
 #: src/urlhandler/webengine/urlhandlerwebengine.cpp:110
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Open in Background Tab"
 msgid "Open In Background Tab"
 msgstr "Mở trong thẻ nền"
 
 #: src/formatter/html/combinedview.html:37
-#, fuzzy
+#, 
 #| msgid "Send &Link Address..."
 msgid "Send File Address"
-msgstr "Gửi địa chỉ &liên kết..."
+msgstr "Gửi địa chỉ tệp"
 
 #: src/formatter/html/combinedview.html:38
-#, fuzzy
+#, 
 #| msgid "Send &Link Address..."
 msgid "Send Link Address"
-msgstr "Gửi địa chỉ &liên kết..."
+msgstr "Gửi địa chỉ liên kết"
 
 #: src/formatter/html/combinedview.html:39
 #: src/urlhandler/webengine/urlhandlerwebengine.cpp:96
@@ -103,6 +111,8 @@ msgid ""
 "<b>Note:</b> For security reasons, external reference is blocked (See "
 "configure dialog)."
 msgstr ""
+"<b>Lưu ý:</b> Vì lý do an ninh, tham chiếu bên ngoài bị chặn (Xem hộp thoại "
+"cấu hình)."
 
 #: configuration/akregator_config_archive.cpp:33
 #, kde-format
@@ -125,10 +135,10 @@ msgid_plural " minutes"
 msgstr[0] " phút"
 
 #: configuration/akregatorconfigurepluginlistwidget.cpp:51
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Configure Feeds"
 msgid "Webengine Plugins"
-msgstr "Thiết lập nguồn tin"
+msgstr "Trình bổ sung Webengine"
 
 #: configuration/settings_advanced.cpp:27
 #, kde-format
@@ -235,10 +245,10 @@ msgstr "Thiết lập lưu trữ mặc định"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rb_DisableArchiving)
 #: configuration/ui/settings_archive.ui:36
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Disable archiving"
 msgid "Disa&ble archiving"
-msgstr "Tắt lưu trữ"
+msgstr "Tắt lư&u trữ"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rb_KeepAllArticles)
 #. i18n: ectx: property (text), widget (QRadioButton, rb_keepAllArticles)
@@ -250,10 +260,10 @@ msgstr "G&iữ tất cả bài viết"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rb_LimitArticleNumber)
 #: configuration/ui/settings_archive.ui:64
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Limit feed archive size to:"
 msgid "Limit feed archi&ve size to:"
-msgstr "Giới hạn kích thước lưu trữ nguồn tin:"
+msgstr "Giới hạn kích thước kho trữ n&guồn tin:"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rb_LimitArticleAge)
 #: configuration/ui/settings_archive.ui:100
@@ -320,17 +330,17 @@ msgstr "firefox %u"
 
 #. i18n: ectx: property (text), widget (QRadioButton, kcfg_ExternalBrowserUseCustomCommand)
 #: configuration/ui/settings_browser.ui:90
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Use this command:"
 msgid "Use &this command:"
-msgstr "Dùng lệnh này:"
+msgstr "Sử dụng &lệnh này:"
 
 #. i18n: ectx: property (text), widget (QRadioButton, kcfg_ExternalBrowserUseKdeDefault)
 #: configuration/ui/settings_browser.ui:97
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Use default web browser"
 msgid "Use default web &browser"
-msgstr "Dùng trình duyệt web mặc định"
+msgstr "Sử dụng trình duyệt we&b mặc định"
 
 #. i18n: ectx: property (title), widget (QGroupBox, tabsGroupBox)
 #: configuration/ui/settings_browser.ui:110
@@ -362,32 +372,32 @@ msgstr "Mở liên kết trong thẻ mới thanh vì cửa sổ mới"
 #: configuration/ui/settings_browser.ui:140
 #, kde-format
 msgid "Security"
-msgstr ""
+msgstr "An ninh"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_CheckPhishingUrl)
 #: configuration/ui/settings_browser.ui:146
 #, kde-format
 msgid "Verify URLs using Google's Safe Browsing API"
-msgstr ""
+msgstr "Xác minh URL bằng API Safe Browsing của Google"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_EnableJavascript)
 #. i18n: ectx: label, entry, group (Browser)
 #: configuration/ui/settings_browser.ui:153 interfaces/akregator.kcfg:195
 #, kde-format
 msgid "Enable JavaScript"
-msgstr ""
+msgstr "Bật JavaScript"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
 #: configuration/ui/settings_browser.ui:163
 #, kde-format
 msgid "Accessibility"
-msgstr ""
+msgstr "Hỗ trợ truy cập"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_AccessKeyEnabled)
 #: configuration/ui/settings_browser.ui:169
 #, kde-format
 msgid "Enable Access Key activation with Ctrl key"
-msgstr ""
+msgstr "Bật kích hoạt phím truy cập với phím Ctrl"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
 #: configuration/ui/settings_general.ui:30
@@ -404,32 +414,32 @@ msgstr "Hiện biểu tượng &khay hệ thống"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowUnreadInTaskbar)
 #: configuration/ui/settings_general.ui:43
-#, fuzzy, kde-format
+#, kde-format
 #| msgid " (no unread articles)"
 msgid "Show unread articles in Taskbar"
-msgstr "(không có bài viết chưa đọc)"
+msgstr "Hiển thị các bài viết chưa đọc trên thanh tác vụ"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_HideReadFeeds)
 #. i18n: ectx: label, entry, group (View)
 #: configuration/ui/settings_general.ui:50 interfaces/akregator.kcfg:9
-#, fuzzy, kde-format
+#, kde-format
 #| msgid " (no unread articles)"
 msgid "Hide feeds with no unread articles"
-msgstr "(không có bài viết chưa đọc)"
+msgstr "Ẩn nguồn cấp dữ liệu không có bài viết chưa đọc"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_LockFeedsInPlace)
 #: configuration/ui/settings_general.ui:57
 #, kde-format
 msgid "Lock feeds in place"
-msgstr ""
+msgstr "Khóa nguồn tin tại vị trí"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_AutoExpandFolders)
 #. i18n: ectx: whatsthis, entry, group (View)
 #: configuration/ui/settings_general.ui:64 interfaces/akregator.kcfg:27
-#, fuzzy, kde-format
+#, kde-format
 #| msgid " (no unread articles)"
 msgid "Auto-expand folders containing unread articles"
-msgstr "(không có bài viết chưa đọc)"
+msgstr "Tự động mở rộng các thư mục chứa các bài viết chưa đọc"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_UseNotifications)
 #: configuration/ui/settings_general.ui:74
@@ -447,7 +457,7 @@ msgstr "Dùng &thông báo cho tất cả nguồn tin"
 #: configuration/ui/settings_general.ui:84
 #, kde-format
 msgid "Disable save as finished notification"
-msgstr ""
+msgstr "Tắt thông báo lưu thành hoàn tất"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_UseIntervalFetch)
 #: configuration/ui/settings_general.ui:91
@@ -465,7 +475,7 @@ msgstr "Lấy tin mỗi khi:"
 #: configuration/ui/settings_general.ui:157
 #, kde-format
 msgid "Enable Plasma Activities integration"
-msgstr ""
+msgstr "Bật tích hợp Hoạt động Plasma"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
 #: configuration/ui/settings_general.ui:167
@@ -501,7 +511,7 @@ msgstr "Dùng bộ đệm trình &duyệt (ít lưu lượng mạng hơn)"
 #: configuration/ui/settings_security.ui:17
 #, kde-format
 msgid "Allow article preview to load external references"
-msgstr ""
+msgstr "Cho phép xem thử tải các tham chiếu bên ngoài"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_LoadExternalReferences)
 #: configuration/ui/settings_security.ui:20
@@ -511,37 +521,40 @@ msgid ""
 "This may allow websites or third parties to observe the articles that you "
 "have viewed."
 msgstr ""
+"Cho phép xem thử bài viết tải các tham chiếu bên ngoài từ Internet. Điều "
+"này có thể cho phép các trang web hoặc bên thứ ba quan sát các bài viết mà "
+"bạn đã xem."
 
 #: export/akregatorstorageexporter.cpp:280
 #, kde-format
 msgid "Akregator Export for %1"
-msgstr ""
+msgstr "Xuất khẩu Akregator cho %1"
 
 #. i18n: ectx: whatsthis, entry, group (View)
 #: interfaces/akregator.kcfg:10
-#, fuzzy, kde-format
+#, kde-format
 #| msgid " (no unread articles)"
 msgid "Hides feeds with no unread articles"
-msgstr "(không có bài viết chưa đọc)"
+msgstr "Ẩn nguồn cấp dữ liệu không có bài viết chưa đọc"
 
 #. i18n: ectx: label, entry, group (View)
 #: interfaces/akregator.kcfg:21
 #, kde-format
 msgid "Prevent feeds from being moved in the list"
-msgstr ""
+msgstr "Ngăn không cho các nguồn cấp dữ liệu được di chuyển trong danh sách"
 
 #. i18n: ectx: whatsthis, entry, group (View)
 #: interfaces/akregator.kcfg:22
 #, kde-format
 msgid "Locks feeds where they are"
-msgstr ""
+msgstr "Khóa nguồn cấp dữ liệu ở vị trí hiện tại"
 
 #. i18n: ectx: label, entry, group (View)
 #: interfaces/akregator.kcfg:26
-#, fuzzy, kde-format
+#, kde-format
 #| msgid " (no unread articles)"
 msgid "Auto-Expand folders with unread articles"
-msgstr "(không có bài viết chưa đọc)"
+msgstr "Tự động mở rộng các thư mục có bài viết chưa đọc"
 
 #. i18n: ectx: label, entry, group (View)
 #: interfaces/akregator.kcfg:31 src/actions/actionmanagerimpl.cpp:318
@@ -825,14 +838,14 @@ msgstr "Chỉ định việc sử dụng biểu tượng khay hệ thống."
 #: interfaces/akregator.kcfg:182
 #, kde-format
 msgid "Show Unread In Taskbar"
-msgstr ""
+msgstr "Hiển thị tin chưa đọc trên thanh tác vụ"
 
 #. i18n: ectx: whatsthis, entry, group (General)
 #: interfaces/akregator.kcfg:183
-#, fuzzy, kde-format
+#, kde-format
 #| msgid " (no unread articles)"
 msgid "Specifies if we show unread article in taskbar."
-msgstr "(không có bài viết chưa đọc)"
+msgstr "Xác định xem có hiển thị bài viết chưa đọc trong thanh tác vụ hay không."
 
 #. i18n: ectx: whatsthis, entry, group (Browser)
 #: interfaces/akregator.kcfg:200
@@ -888,10 +901,10 @@ msgstr "Sử dụng lệnh đã chỉ định khi mở trình duyệt ngoài."
 
 #. i18n: ectx: whatsthis, entry, group (Browser)
 #: interfaces/akregator.kcfg:224
-#, fuzzy, no-c-format, kde-format
+#, no-c-format, kde-format
 #| msgid "Command to launch external browser.  URL will substitute for %u."
 msgid "Command to launch external browser. URL will substitute for %u."
-msgstr "Lệnh để chạy trình duyệt ngoài. URL sẽ được thay cho %u."
+msgstr "Lệnh để khởi chạy trình duyệt ngoài. URL sẽ được thay cho %u."
 
 #. i18n: ectx: whatsthis, entry, group (Browser)
 #: interfaces/akregator.kcfg:228
@@ -909,7 +922,7 @@ msgstr "Hành động khi nhấn chuột giữa."
 #: interfaces/akregator.kcfg:246
 #, kde-format
 msgid "Enabled Plasma Activity"
-msgstr ""
+msgstr "Hoạt động Plasma được bật"
 
 #. i18n: ectx: label, entry, group (Advanced)
 #: interfaces/akregator.kcfg:266
@@ -946,23 +959,25 @@ msgid "Akregator"
 msgstr "Akregator"
 
 #: kontactplugin/akregator_plugin.cpp:29
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Add Feed..."
 msgctxt "@action:inmenu"
 msgid "New Feed..."
-msgstr "&Thêm nguồn tin..."
+msgstr "Nguồn tin mới..."
 
 #: kontactplugin/akregator_plugin.cpp:32
 #, kde-format
 msgctxt "@info:status"
 msgid "Create a new feed"
-msgstr ""
+msgstr "Tạo một nguồn cấp dữ liệu mới"
 
 #: kontactplugin/akregator_plugin.cpp:33
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "You will be presented with a dialog where you can add a new feed."
 msgstr ""
+"Bạn sẽ được hiển thị một hộp thoại nơi bạn có thể thêm một nguồn cấp dữ "
+"liệu mới."
 
 #: src/aboutdata.cpp:21
 #, kde-format
@@ -970,16 +985,16 @@ msgid "A KDE Feed Reader"
 msgstr "Một trình đọc tin của KDE"
 
 #: src/aboutdata.cpp:23
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Copyright © 2004–2010 Akregator authors"
 msgid "Copyright © 2004–%1 Akregator authors"
-msgstr "Bản quyền © 2004–2010 các tác giả Akregator"
+msgstr "Bản quyền © 2004–%1 các tác giả Akregator"
 
 #: src/aboutdata.cpp:27
 #, kde-format
 msgctxt "@info:credit"
 msgid "Laurent Montel"
-msgstr ""
+msgstr "Laurent Montel"
 
 #: src/aboutdata.cpp:27
 #, kde-format
@@ -987,20 +1002,20 @@ msgid "Maintainer"
 msgstr "Người duy trì"
 
 #: src/aboutdata.cpp:28
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Frank Osterfeld"
 msgctxt "@info:credit"
 msgid "Frank Osterfeld"
 msgstr "Frank Osterfeld"
 
 #: src/aboutdata.cpp:28
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Maintainer"
 msgid "Former maintainer"
-msgstr "Người duy trì"
+msgstr "Người bảo trì trước đây"
 
 #: src/aboutdata.cpp:29
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Teemu Rytilahti"
 msgctxt "@info:credit"
 msgid "Teemu Rytilahti"
@@ -1013,28 +1028,28 @@ msgid "Developer"
 msgstr "Nhà phát triển"
 
 #: src/aboutdata.cpp:30
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Sashmit Bhaduri"
 msgctxt "@info:credit"
 msgid "Sashmit Bhaduri"
 msgstr "Sashmit Bhaduri"
 
 #: src/aboutdata.cpp:31
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Pierre Habouzit"
 msgctxt "@info:credit"
 msgid "Pierre Habouzit"
 msgstr "Pierre Habouzit"
 
 #: src/aboutdata.cpp:32
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Stanislav Karchebny"
 msgctxt "@info:credit"
 msgid "Stanislav Karchebny"
 msgstr "Stanislav Karchebny"
 
 #: src/aboutdata.cpp:33
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Gary Cramblitt"
 msgctxt "@info:credit"
 msgid "Gary Cramblitt"
@@ -1046,21 +1061,21 @@ msgid "Contributor"
 msgstr "Người đóng góp"
 
 #: src/aboutdata.cpp:34
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Stephan Binner"
 msgctxt "@info:credit"
 msgid "Stephan Binner"
-msgstr "Gary Cramblitt"
+msgstr "Stephan Binner"
 
 #: src/aboutdata.cpp:35
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Christof Musik"
 msgctxt "@info:credit"
 msgid "Christof Musik"
 msgstr "Christof Musik"
 
 #: src/aboutdata.cpp:36
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Anne-Marie Mahfouf"
 msgctxt "@info:credit"
 msgid "Anne-Marie Mahfouf"
@@ -1072,7 +1087,7 @@ msgid "Handbook"
 msgstr "Sổ tay"
 
 #: src/aboutdata.cpp:37
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Frerich Raabe"
 msgctxt "@info:credit"
 msgid "Frerich Raabe"
@@ -1084,7 +1099,7 @@ msgid "Author of librss"
 msgstr "Tác giả librss"
 
 #: src/aboutdata.cpp:38
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Eckhart Woerner"
 msgctxt "@info:credit"
 msgid "Eckhart Woerner"
@@ -1096,7 +1111,7 @@ msgid "Bug tracker management, Usability improvements"
 msgstr "Quản lí theo dõi lỗi, cải thiện khả năng sử dụng"
 
 #: src/aboutdata.cpp:39
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Heinrich Wendel"
 msgctxt "@info:credit"
 msgid "Heinrich Wendel"
@@ -1108,7 +1123,7 @@ msgid "Tons of bug fixes"
 msgstr "Rất nhiều sửa lỗi"
 
 #: src/aboutdata.cpp:40
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Eike Hein"
 msgctxt "@info:credit"
 msgid "Eike Hein"
@@ -1120,7 +1135,7 @@ msgid "'Delayed mark as read' feature"
 msgstr "Tính năng 'đánh dấu đã đọc trễ'"
 
 #: src/aboutdata.cpp:41
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Marcel Dierkes"
 msgctxt "@info:credit"
 msgid "Marcel Dierkes"
@@ -1132,7 +1147,7 @@ msgid "Icons"
 msgstr "Biểu tượng"
 
 #: src/aboutdata.cpp:42
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "George Staikos"
 msgctxt "@info:credit"
 msgid "George Staikos"
@@ -1144,7 +1159,7 @@ msgid "Insomnia"
 msgstr "Mất ngủ"
 
 #: src/aboutdata.cpp:43
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Philipp Droessler"
 msgctxt "@info:credit"
 msgid "Philipp Droessler"
@@ -1153,7 +1168,7 @@ msgstr "Philipp Droessler"
 #: src/aboutdata.cpp:43
 #, kde-format
 msgid "Gentoo Ebuild"
-msgstr ""
+msgstr "Gentoo Ebuild"
 
 #: src/actions/actionmanagerimpl.cpp:64 src/actions/actionmanagerimpl.cpp:287
 #, kde-format
@@ -1166,10 +1181,10 @@ msgid "&Delete Feed"
 msgstr "&Xoá nguồn tin"
 
 #: src/actions/actionmanagerimpl.cpp:66 src/actions/actionmanagerimpl.cpp:249
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Edit Feed..."
 msgid "&Edit Feed…"
-msgstr "&Sửa nguồn tin..."
+msgstr "Sửa n&guồn tin..."
 
 #: src/actions/actionmanagerimpl.cpp:67 src/actions/actionmanagerimpl.cpp:306
 #, kde-format
@@ -1197,19 +1212,19 @@ msgid "&Mark Feeds as Read"
 msgstr "Đánh &dấu đã đọc nguồn tin"
 
 #: src/actions/actionmanagerimpl.cpp:191
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Import Feeds..."
 msgid "&Import Feeds…"
-msgstr "&Nhập nguồn tin..."
+msgstr "Nhập khẩu N&guồn tin..."
 
 #: src/actions/actionmanagerimpl.cpp:195
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Export Feeds..."
 msgid "&Export Feeds…"
-msgstr "&Xuất nguồn tin..."
+msgstr "Xuấ&t khẩu Nguồn tin..."
 
 #: src/actions/actionmanagerimpl.cpp:200
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Configure Akregator..."
 msgid "&Configure Akregator…"
 msgstr "&Cấu hình Akregator..."
@@ -1225,16 +1240,16 @@ msgid "Reload All Tabs"
 msgstr "Tải lại tất cả thẻ"
 
 #: src/actions/actionmanagerimpl.cpp:231
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add Feed"
 msgid "&Add Feed…"
-msgstr "Thêm nguồn tin"
+msgstr "Thêm &nguồn tin..."
 
 #: src/actions/actionmanagerimpl.cpp:237
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Ne&w Folder..."
 msgid "Ne&w Folder…"
-msgstr "T&hư mục mới..."
+msgstr "Thư &mục mới..."
 
 #: src/actions/actionmanagerimpl.cpp:262
 #, kde-format
@@ -1298,11 +1313,11 @@ msgid "&Read"
 msgstr "Đã đọ&c"
 
 #: src/actions/actionmanagerimpl.cpp:371
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Mark selected article as read"
 msgctxt "@info:tooltip"
 msgid "Mark selected article as read"
-msgstr "Đánh dấu đã đọc bài viết được chọn"
+msgstr "Đánh dấu bài viết đã chọn là đã đọc"
 
 #: src/actions/actionmanagerimpl.cpp:377
 #, kde-format
@@ -1311,11 +1326,11 @@ msgid "&New"
 msgstr "&Mới"
 
 #: src/actions/actionmanagerimpl.cpp:380
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Mark selected article as new"
 msgctxt "@info:tooltip"
 msgid "Mark selected article as new"
-msgstr "Đánh dấu mới bài viết được chọn"
+msgstr "Đánh dấu bài viết đã chọn là mới"
 
 #: src/actions/actionmanagerimpl.cpp:385
 #, kde-format
@@ -1324,11 +1339,11 @@ msgid "&Unread"
 msgstr "&Chưa đọc"
 
 #: src/actions/actionmanagerimpl.cpp:387
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Mark selected article as unread"
 msgctxt "@info:tooltip"
 msgid "Mark selected article as unread"
-msgstr "Đánh dấu chưa đọc bài viết được chọn"
+msgstr "Đánh dấu bài viết đã chọn là chưa đọc"
 
 #: src/actions/actionmanagerimpl.cpp:393
 #, kde-format
@@ -1336,11 +1351,11 @@ msgid "&Mark as Important"
 msgstr "Đánh dấu &quan trọng"
 
 #: src/actions/actionmanagerimpl.cpp:397
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Remove &Important Mark"
 msgctxt "@action:button"
 msgid "Remove &Important Mark"
-msgstr "Bỏ dấu &quan trọng"
+msgstr "Xoá dấu qua&n trọng"
 
 #: src/actions/actionmanagerimpl.cpp:401
 #, kde-format
@@ -1363,22 +1378,22 @@ msgid "Move Node Right"
 msgstr "Di chuyển nút sang phải"
 
 #: src/actions/actionmanagerimpl.cpp:422
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Send &Link Address..."
 msgid "Send &Link Address…"
 msgstr "Gửi địa chỉ &liên kết..."
 
 #: src/actions/actionmanagerimpl.cpp:427
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Send &File..."
 msgid "Send &File…"
-msgstr "Gửi &tệp..."
+msgstr "Gử&i tệp..."
 
 #: src/actions/actionmanagerimpl.cpp:433
 #, kde-format
 msgctxt "@action"
 msgid "Set Focus to Quick Search"
-msgstr ""
+msgstr "Đặt Nhắm vào Tìm Kiếm Nhanh"
 
 #: src/actions/actionmanagerimpl.cpp:465
 #, kde-format
@@ -1441,21 +1456,21 @@ msgid "Go Down in Tree"
 msgstr "Đi xuống trong cây"
 
 #: src/actions/actionmanagerimpl.cpp:538
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "N&ext Unread Feed"
 msgid "Hide Read Feeds"
-msgstr "Nguồn tin &chưa đọc tiếp"
+msgstr "Ẩn nguồn tin đã đọc"
 
 #: src/actions/actionmanagerimpl.cpp:544
 #, kde-format
 msgid "Lock Feeds In Place"
-msgstr ""
+msgstr "Khóa Feeds tại Địa điểm"
 
 #: src/actions/actionmanagerimpl.cpp:550
-#, fuzzy, kde-format
+#, kde-format
 #| msgid " (no unread articles)"
 msgid "Auto-expand folders with unread articles"
-msgstr "(không có bài viết chưa đọc)"
+msgstr "Tự động mở rộng các thư mục có bài viết chưa đọc"
 
 #: src/actions/actionmanagerimpl.cpp:566
 #, kde-format
@@ -1475,23 +1490,23 @@ msgstr "Tháo rời thẻ"
 #: src/actions/actionmanagerimpl.cpp:591
 #, kde-format
 msgid "Mute"
-msgstr ""
+msgstr "Tắt tiếng"
 
 #: src/actions/actionmanagerimpl.cpp:595
 #, kde-format
 msgid "Unmute"
-msgstr ""
+msgstr "Bỏ tắt tiếng"
 
 #: src/actions/actionmanagerimpl.cpp:598
 #, kde-format
 msgctxt "@action"
 msgid "Speak Text"
-msgstr ""
+msgstr "Đọc văn bản"
 
 #: src/actions/actionmanagerimpl.cpp:603
 #, kde-format
 msgid "&Find in Message…"
-msgstr ""
+msgstr "Tìm tron&g tin nhắn..."
 
 #: src/actions/actionmanagerimpl.cpp:614
 #, kde-format
@@ -1502,13 +1517,13 @@ msgstr "Đóng thẻ"
 #, kde-format
 msgctxt "@action"
 msgid "Activate Tab %1"
-msgstr ""
+msgstr "Kích hoạt Thẻ %1"
 
 #: src/actions/actionmanagerimpl.cpp:633
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Save Link As..."
 msgid "&Save Link As…"
-msgstr "&Lưu liên kết dạng..."
+msgstr "Lưu liên kế&t dưới tên..."
 
 #: src/actions/actionmanagerimpl.cpp:637
 #, kde-format
@@ -1519,13 +1534,13 @@ msgstr "Sao chép địa chỉ &liên kết"
 #, kde-format
 msgctxt "@action"
 msgid "Copy Image Location"
-msgstr ""
+msgstr "Sao chép Địa điểm Ảnh"
 
 #: src/actions/actionmanagerimpl.cpp:647
 #, kde-format
 msgctxt "@action"
 msgid "Save Image On Disk…"
-msgstr ""
+msgstr "Lưu ảnh trên đĩa..."
 
 #: src/actions/actions.cpp:19
 #, kde-format
@@ -1538,7 +1553,7 @@ msgid "Open Link in External &Browser"
 msgstr "Mở liên kết trong trình duyệt &ngoài"
 
 #: src/addfeeddialog.cpp:49
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add Feed"
 msgctxt "@title:window"
 msgid "Add Feed"
@@ -1555,27 +1570,27 @@ msgid "Feed not found from %1."
 msgstr "Không tìm thấy tin từ %1."
 
 #: src/addfeeddialog.cpp:121
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Feed found, downloading..."
 msgid "Feed found, downloading…"
 msgstr "Đã tìm thấy nguồn tin, đang tải..."
 
 #: src/akregator_options.h:20 src/akregator_options.h:28
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add a feed with the given URL"
 msgctxt "@info:shell"
 msgid "Add a feed with the given URL"
 msgstr "Thêm một nguồn tin với URL được cung cấp"
 
 #: src/akregator_options.h:23
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "When adding feeds, place them in this group"
 msgctxt "@info:shell"
 msgid "When adding feeds, place them in this group"
 msgstr "Khi thêm nguồn tin, hãy đặt chúng vào nhóm này"
 
 #: src/akregator_options.h:25
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Hide main window on startup"
 msgctxt "@info:shell"
 msgid "Hide main window on startup"
@@ -1585,7 +1600,7 @@ msgstr "Ẩn cửa sổ chính khi khởi động"
 #, kde-format
 msgctxt "@info:shell"
 msgid "Lists the available options for user feedback"
-msgstr ""
+msgstr "Liệt kê các tùy chọn hiện có để người dùng phản hồi"
 
 #: src/akregator_part.cpp:78
 #, kde-format
@@ -1642,7 +1657,7 @@ msgid "Could not import the file %1 (no valid OPML)"
 msgstr "Không thể nhập tệp %1 (không có OPML hợp lệ)"
 
 #: src/akregator_part.cpp:464 src/command/loadfeedlistcommand.cpp:71
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "OPML Parsing Error"
 msgctxt "@title:window"
 msgid "OPML Parsing Error"
@@ -1658,7 +1673,7 @@ msgstr ""
 "hiện tại đọc hay không."
 
 #: src/akregator_part.cpp:469 src/command/loadfeedlistcommand.cpp:144
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Read Error"
 msgctxt "@title:window"
 msgid "Read Error"
@@ -1671,7 +1686,7 @@ msgstr ""
 "Từ chối truy cập: không thể ghi vào tệp %1. Hãy kiểm tra quyền của bạn."
 
 #: src/akregator_part.cpp:481
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Write Error"
 msgctxt "@title:window"
 msgid "Write Error"
@@ -1680,7 +1695,7 @@ msgstr "Lỗi ghi"
 #: src/akregator_part.cpp:496 src/akregator_part.cpp:505
 #, kde-format
 msgid "OPML Outlines (%1);;All Files (*)"
-msgstr ""
+msgstr "Bản phác thảo OPML (%1);;Tất cả các tệp (*)"
 
 #: src/akregator_part.cpp:629
 #, kde-format
@@ -1700,10 +1715,10 @@ msgstr "Cột"
 #: src/articlelistview.cpp:214
 #, kde-format
 msgid "No result found"
-msgstr ""
+msgstr "Không tìm thấy kết quả"
 
 #: src/articlelistview.cpp:375
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "<h2>Article list</h2>Here you can browse articles from the currently "
 #| "selected feed. You can also manage articles, as marking them as "
@@ -1718,10 +1733,10 @@ msgid ""
 "a tab or in an external browser window."
 msgstr ""
 "<h2>Danh sách bài viết</h2>Ở đây bạn có thể duyệt các bài viết từ nguồn tin "
-"hiện được chọn. Bạn cũng có thể quản lí các bài viết, đánh dấu giữ lại chúng "
-"(\"Giữ bài viết\") hay xoá chúng sử dụng trình đơn nút chuột phải. Để xem "
-"trang web của bài viết, bạn có thể mở bài viết trong một thẻ hay mở trong "
-"một cửa sổ trình duyệt ngoài."
+"hiện được chọn. Bạn cũng có thể quản lý các bài viết, như đánh dấu chúng là "
+"lưu trữ (\"Đánh dấu là Quan trọng\") hoặc xóa chúng, sử dụng trình đơn "
+"chuột phải. Để xem trang web của bài viết, bạn có thể mở bài viết trong một "
+"thẻ nội bộ hoặc trong cửa sổ trình duyệt bên ngoài."
 
 #: src/articlemodel.cpp:74
 #, kde-format
@@ -1760,17 +1775,17 @@ msgid "Content"
 msgstr "Nội dung"
 
 #: src/articleviewer-ng/webengine/articleviewerwebengine.cpp:143
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "A KDE news feed reader."
 msgid "Akregator is a KDE news feed reader."
-msgstr "Một trình đọc tin tức của KDE."
+msgstr "Akregator là một trình đọc tin tức của KDE."
 
 #: src/articleviewer-ng/webengine/articleviewerwebengine.cpp:184
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Save Link As..."
 msgctxt "@title:window"
 msgid "Save As"
-msgstr "&Lưu liên kết dạng..."
+msgstr "Lưu thành"
 
 #: src/articleviewer-ng/webengine/articleviewerwebengine.cpp:373
 #, kde-format
@@ -1788,7 +1803,7 @@ msgid "Are you sure you want to disable this introduction page?"
 msgstr "Bạn có chắc muốn tắt trang giới thiệu này?"
 
 #: src/articleviewer-ng/webengine/articleviewerwebengine.cpp:377
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Disable Introduction Page"
 msgctxt "@title:window"
 msgid "Disable Introduction Page"
@@ -1797,30 +1812,30 @@ msgstr "Tắt trang giới thiệu"
 #: src/articleviewer-ng/webengine/articleviewerwebengine.cpp:412
 #, kde-format
 msgid "This web site is a malware, do you want to continue to show it?"
-msgstr ""
+msgstr "Đây là một trang web độc hại, bạn có muốn tiếp tục hiển thị nó không?"
 
 #: src/articleviewer-ng/webengine/articleviewerwebengine.cpp:413
 #, kde-format
 msgctxt "@title:window"
 msgid "Malware"
-msgstr ""
+msgstr "Phần mềm độc hại"
 
 #: src/articleviewer-ng/webengine/articleviewerwebengine.cpp:425
 #, kde-format
 msgid "The network is broken."
-msgstr ""
+msgstr "Mạng bị hỏng."
 
 #: src/articleviewer-ng/webengine/articleviewerwebengine.cpp:425
 #: src/articleviewer-ng/webengine/articleviewerwebengine.cpp:428
 #, kde-format
 msgctxt "@title:window"
 msgid "Check Phishing Url"
-msgstr ""
+msgstr "Kiểm tra URL lừa đảo"
 
 #: src/articleviewer-ng/webengine/articleviewerwebengine.cpp:428
 #, kde-format
 msgid "The url %1 is not valid."
-msgstr ""
+msgstr "URL %1 không hợp lệ."
 
 #: src/command/createfoldercommand.cpp:47
 #, kde-format
@@ -1850,11 +1865,11 @@ msgstr ""
 "nó?</qt>"
 
 #: src/command/deletesubscriptioncommand.cpp:44
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Delete Folder"
 msgctxt "@title:window"
 msgid "Delete Folder"
-msgstr "Xoá thư mục"
+msgstr "Xóa thư mục"
 
 #: src/command/deletesubscriptioncommand.cpp:61
 #, kde-format
@@ -1867,7 +1882,7 @@ msgid "<qt>Are you sure you want to delete feed <b>%1</b>?</qt>"
 msgstr "<qt>Bạn có muốn xoá nguồn tin <b>%1</b>?</qt>"
 
 #: src/command/deletesubscriptioncommand.cpp:68
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Delete Feed"
 msgctxt "@title:window"
 msgid "Delete Feed"
@@ -1907,7 +1922,7 @@ msgstr ""
 "bản sao lưu.</qt>"
 
 #: src/command/loadfeedlistcommand.cpp:129
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Opening Feed List..."
 msgid "Opening Feed List…"
 msgstr "Đang mở danh sách nguồn tin..."
@@ -1924,14 +1939,12 @@ msgid "XML Parsing Error"
 msgstr "Lỗi phân tích XML"
 
 #: src/command/loadfeedlistcommand.cpp:157
-#, fuzzy, kde-kuit-format
+#, kde-kuit-format
 #| msgid ""
 #| "<qt><p>XML parsing error in line <numid>%1</numid>, column <numid>%2</"
 #| "numid> of %3:</p><p>%4</p></qt>"
 msgid "<qt><p>XML parsing error in line %1, column %2 of %3:</p><p>%4</p></qt>"
-msgstr ""
-"<qt><p>Lỗi phân tích XML tại dòng <numid>%1</numid>, cột <numid>%2</numid> "
-"trong %3:</p><p>%4</p></qt>"
+msgstr "<qt><p>Lỗi phân tích XML ở dòng %1, cột %2 của %3:</p><p>%4</p></qt>"
 
 #: src/command/loadfeedlistcommand.cpp:164
 #, kde-format
@@ -1952,7 +1965,7 @@ msgstr ""
 "một bản sao lưu.</qt>"
 
 #: src/crashwidget/crashwidget.cpp:21
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "Akregator did not close correctly. Would you like to restore the previous "
 #| "session?"
@@ -1961,7 +1974,7 @@ msgid ""
 "Akregator did not close correctly. Would you like to restore the previous "
 "session?"
 msgstr ""
-"Akregator đã không được tắt đúng cách. Bạn có muốn phục hồi phiên làm việc "
+"Akregator đã không đóng đúng cách. Bạn có muốn khôi phục phiên làm việc "
 "trước không?"
 
 #: src/crashwidget/crashwidget.cpp:37
@@ -1970,13 +1983,13 @@ msgid "Restore Session"
 msgstr "Phục hồi"
 
 #: src/crashwidget/crashwidget.cpp:43
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Restore Session"
 msgid "Do Not Restore Session"
-msgstr "Phục hồi"
+msgstr "Không khôi phục phiên"
 
 #: src/crashwidget/crashwidget.cpp:49
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Ask Me Later"
 msgid "Ask me later"
 msgstr "Hỏi sau"
@@ -2053,7 +2066,7 @@ msgid_plural "Days"
 msgstr[0] "Ngày"
 
 #: src/feed/feedpropertiesdialog.cpp:60 src/feed/feedpropertiesdialog.cpp:112
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Feed Properties"
 msgctxt "@title:window"
 msgid "Feed Properties"
@@ -2078,7 +2091,7 @@ msgid_plural " articles"
 msgstr[0] " bài viết"
 
 #: src/feed/feedpropertiesdialog.cpp:112
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Properties of %1"
 msgctxt "@title:window"
 msgid "Properties of %1"
@@ -2103,22 +2116,22 @@ msgid_plural " (%1 unread articles)"
 msgstr[0] " (%1 bài viết chưa đọc)"
 
 #: src/formatter/grantleeviewformatter.cpp:179
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "<b>Description:</b> %1<br /><br />"
 msgid "<b>Description:</b> %1<br />"
-msgstr "<b>Mô tả:</b> %1<br /><br />"
+msgstr "<b>Mô tả:</b> %1<br />"
 
 #: src/formatter/grantleeviewformatter.cpp:186
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "<b>Homepage:</b> <a href=\"%1\">%2</a>"
 msgid "<b>Homepage:</b> <a href=\"%1\">%1</a>"
-msgstr "<b>Trang chủ:</b> <a href=\"%1\">%2</a>"
+msgstr "<b>Trang chủ:</b> <a href=\"%1\">%1</a>"
 
 #: src/formatter/grantleeviewformatter.cpp:193
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "<b>Description:</b> %1<br /><br />"
 msgid "<b>Copyright:</b> %1</a>"
-msgstr "<b>Mô tả:</b> %1<br /><br />"
+msgstr "<b>Bản quyền:</b> %1</a>"
 
 #: src/formatter/grantleeviewformatter.cpp:253
 #, kde-format
@@ -2126,10 +2139,10 @@ msgid "Date"
 msgstr "Ngày tháng"
 
 #: src/formatter/grantleeviewformatter.cpp:254
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Comments"
 msgid "Comment"
-msgstr "Bình luận"
+msgstr "Chú thích"
 
 #: src/formatter/grantleeviewformatter.cpp:255
 #, kde-format
@@ -2152,7 +2165,7 @@ msgid "Untitled"
 msgstr "Chưa đặt tên"
 
 #: src/frame/frame.cpp:140
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Loading..."
 msgid "Loading…"
 msgstr "Đang tải..."
@@ -2188,40 +2201,46 @@ msgid "About"
 msgstr "Giới thiệu"
 
 #: src/mainwidget.cpp:777
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "<qt>Are you sure you want to delete feed <b>%1</b>?</qt>"
 msgid ""
 "<qt>Are you sure you want to mark <b>all articles in the feed</b> as read?</"
 "qt>"
-msgstr "<qt>Bạn có muốn xoá nguồn tin <b>%1</b>?</qt>"
+msgstr ""
+"<qt>Bạn có chắc chắn muốn đánh dấu <b>tất cả các bài viết trong nguồn "
+"tin</b> là đã đọc?</qt>"
 
 #: src/mainwidget.cpp:778
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Mark Feed as Read"
 msgctxt "@title:window"
 msgid "Mark Feed as Read"
-msgstr "&Đánh dấu đã đọc nguồn tin"
+msgstr "Đánh dấu nguồn tin đã đọc"
 
 #: src/mainwidget.cpp:781
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "<qt>Are you sure you want to delete feed <b>%1</b>?</qt>"
 msgid "<qt>Are you sure you want to mark <b>all feeds</b> as read?</qt>"
-msgstr "<qt>Bạn có muốn xoá nguồn tin <b>%1</b>?</qt>"
+msgstr ""
+"<qt>Bạn có chắc chắn muốn đánh dấu <b>tất cả các nguồn tin</b> là đã "
+"đọc?</qt>"
 
 #: src/mainwidget.cpp:783
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "<qt>Are you sure you want to delete this feed?</qt>"
 msgid ""
 "<qt>Are you sure you want to mark <b>all feeds in the folder</b> as read?</"
 "qt>"
-msgstr "<qt>Bạn có muốn xoá nguồn tin này?</qt>"
+msgstr ""
+"<qt>Bạn có chắc chắn muốn đánh dấu <b>tất cả các nguồn tin trong thư "
+"mục</b> là đã đọc?</qt>"
 
 #: src/mainwidget.cpp:785
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Mark Feeds as Read"
 msgctxt "@title:window"
 msgid "Mark Feeds as Read"
-msgstr "Đánh &dấu đã đọc nguồn tin"
+msgstr "Đánh dấu nguồn tin đã đọc"
 
 #: src/mainwidget.cpp:849 src/mainwidget.cpp:858 src/mainwidget.cpp:1260
 #, kde-format
@@ -2229,7 +2248,7 @@ msgid "Networking is not available."
 msgstr "Mạng không sẵn sàng."
 
 #: src/mainwidget.cpp:866
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Fetching Feeds..."
 msgid "Fetching Feeds…"
 msgstr "Đang lấy tin..."
@@ -2247,11 +2266,11 @@ msgid_plural ""
 msgstr[0] "<qt>Bạn có chắc muốn xoá %1 bài viết đã chọn?</qt>"
 
 #: src/mainwidget.cpp:1075
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Delete Article"
 msgctxt "@title:window"
 msgid "Delete Article"
-msgstr "Xoá bài viết"
+msgstr "Xóa bài viết"
 
 #: src/mainwidget.cpp:1257
 #, kde-format
@@ -2264,12 +2283,14 @@ msgid ""
 "<qt>This will hide the menu bar completely. You can show it again by typing "
 "%1.</qt>"
 msgstr ""
+"<qt>Thao tác này sẽ ẩn hoàn toàn thanh trình đơn. Bạn có thể hiển thị lại "
+"nó bằng cách gõ %1.</qt>"
 
 #: src/mainwindow.cpp:124
 #, kde-format
 msgctxt "@title:window"
 msgid "Hide menu bar"
-msgstr ""
+msgstr "Ẩn thanh trình đơn"
 
 #: src/mainwindow.cpp:157
 #, kde-format
@@ -2303,7 +2324,7 @@ msgstr ""
 #, kde-format
 msgid "<i>and 1 other</i>"
 msgid_plural "<i>and %1 others</i>"
-msgstr[0] ""
+msgstr[0] "<i>và %1 người khác</i>"
 
 #: src/progressmanager.cpp:127
 #, kde-format
@@ -2389,51 +2410,51 @@ msgid "Total"
 msgstr "Tất cả"
 
 #: src/tabwidget.cpp:92
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Close the current tab"
 msgctxt "@info:tooltip"
 msgid "Close the current tab"
-msgstr "Đóng thẻ hiện tại "
+msgstr "Đóng thẻ hiện tại"
 
 #: src/tabwidget.cpp:95
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Close Tab"
 msgid "Close tab"
 msgstr "Đóng thẻ"
 
 #: src/tabwidget.cpp:118
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Detach Tab"
 msgctxt "@action:inmenu"
 msgid "Detach Tab"
 msgstr "Tháo rời thẻ"
 
 #: src/tabwidget.cpp:123
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Close Tab"
 msgctxt "@action:inmenu"
 msgid "Close Tab"
 msgstr "Đóng thẻ"
 
 #: src/tabwidget.cpp:127
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Close the current tab"
 msgctxt "@action:inmenu"
 msgid "Close All Other Tabs"
-msgstr "Đóng thẻ hiện tại "
+msgstr "Đóng tất cả các thẻ khác"
 
 #: src/tabwidget.cpp:131
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Close Tab"
 msgctxt "@action:inmenu"
 msgid "Close All Tabs"
-msgstr "Đóng thẻ"
+msgstr "Đóng tất cả các thẻ"
 
 #: src/trayicon.cpp:54
-#, fuzzy, kde-format
+#, kde-format
 #| msgid " (no unread articles)"
 msgid "There are no unread articles"
-msgstr "(không có bài viết chưa đọc)"
+msgstr "Không có bài viết chưa đọc"
 
 #: src/trayicon.cpp:54
 #, kde-format
@@ -2479,7 +2500,7 @@ msgstr "&Sử dụng thời gian cập nhật tuỳ biến"
 
 #. i18n: ectx: property (text), widget (QLabel, updateLabel)
 #: src/ui/feedpropertieswidgetbase.ui:88
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Update &every:"
 msgid "Update ever&y:"
 msgstr "Cập nhật &mỗi:"
@@ -2510,10 +2531,10 @@ msgstr "Hiện tên cột RSS"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: src/ui/feedpropertieswidgetbase.ui:171
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Comments"
 msgid "Comment:"
-msgstr "Bình luận"
+msgstr "Bình luận:"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab2)
 #: src/ui/feedpropertieswidgetbase.ui:194
@@ -2564,71 +2585,71 @@ msgid "Mar&k articles as read when they arrive"
 msgstr "Đánh dấu đã đọc bài viết &khi chúng tới"
 
 #: src/urlhandler/webengine/urlhandlerwebengine.cpp:40
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Disable Introduction Page"
 msgid "Disable Introduction"
 msgstr "Tắt trang giới thiệu"
 
 #: src/urlhandler/webengine/urlhandlerwebengine.cpp:58
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Copy Link Address"
 msgid "&Copy Email Address"
-msgstr "Sao chép địa chỉ liên kết"
+msgstr "Sa&o chép địa chỉ thư điện tử"
 
 #: src/urlhandler/webengine/urlhandlerwebengine.cpp:67
 #, kde-format
 msgid "Address copied to clipboard."
-msgstr ""
+msgstr "Địa chỉ đã được sao chép vào bảng tạm."
 
 #: src/urlhandler/webengine/urlhandlerwebengine.cpp:98
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Ma&rk All Feeds as Read"
 msgid "Mark Article as Read"
-msgstr "Đánh &dấu đã đọc tất cả nguồn tin"
+msgstr "Đánh dấu bài viết đã đọc"
 
 #: src/urlhandler/webengine/urlhandlerwebengine.cpp:100
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Mark selected article as unread"
 msgid "Mark Article as Unread"
-msgstr "Đánh dấu chưa đọc bài viết được chọn"
+msgstr "Đánh dấu bài viết là chưa đọc"
 
 #: src/urlhandler/webengine/urlhandlerwebengine.cpp:102
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Remove &Important Mark"
 msgid "Change Important Flag"
-msgstr "Bỏ dấu &quan trọng"
+msgstr "Thay đổi cờ quan trọng"
 
 #: src/urlhandler/webengine/urlhandlerwebengine.cpp:104
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Share Article"
 msgid "Send the URL of the article"
-msgstr "Chia sẻ bài viết"
+msgstr "Gửi URL của bài viết"
 
 #: src/urlhandler/webengine/urlhandlerwebengine.cpp:106
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Share Article"
 msgid "Send the Html Page of Article"
-msgstr "Chia sẻ bài viết"
+msgstr "Gửi trang HTML của bài viết"
 
 #: src/urlhandler/webengine/urlhandlerwebengine.cpp:108
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Open in External Browser"
 msgid "Open In External Browser"
 msgstr "Mở trong trình duyệt ngoài"
 
 #: src/widgets/searchbar.cpp:43
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Unread articles:"
 msgctxt "@info:placeholder"
 msgid "Search articles…"
-msgstr "Bài viết chưa đọc:"
+msgstr "Tìm kiếm bài viết..."
 
 #: src/widgets/searchbar.cpp:118
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Unread articles:"
 msgctxt "@info:placeholder"
 msgid "Search articles…<%1>"
-msgstr "Bài viết chưa đọc:"
+msgstr "Tìm kiếm bài viết…<%1>"
 
 #: src/widgets/statussearchbuttons.cpp:29
 #, kde-format
@@ -2648,12 +2669,12 @@ msgid "Unread"
 msgstr "Chưa đọc"
 
 #: src/widgets/statussearchbuttons.cpp:57
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "as in: mark as read"
 #| msgid "&Read"
 msgctxt "Read articles filter"
 msgid "Read"
-msgstr "Đã đọ&c"
+msgstr "Đã đọc"
 
 #: src/widgets/statussearchbuttons.cpp:66
 #, kde-format

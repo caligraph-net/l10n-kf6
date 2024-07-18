@@ -14,93 +14,93 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: src/kcm_knote_action.json
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Actions"
-msgstr "Chương trình "
+msgstr "hành động"
 
 #: src/kcm_knote_collection.json
-#, fuzzy
+#, 
 #| msgid "Name=Connections"
 msgctxt "Name"
 msgid "Collections"
-msgstr "Name=Các liên kết "
+msgstr "Bộ sưu tập"
 
 #: src/kcm_knote_display.json
 msgctxt "Name"
 msgid "Display"
-msgstr ""
+msgstr "bộ hiển thị"
 
 #: src/kcm_knote_editor.json
-#, fuzzy
+#, 
 #| msgid "Name=Editors"
 msgctxt "Name"
 msgid "Editor"
-msgstr "Name=Trình biên tập "
+msgstr "Trình biên tập"
 
 #: src/kcm_knote_misc.json
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Misc"
-msgstr "Mê hi cô"
+msgstr "Khác"
 
 #: src/kcm_knote_network.json
-#, fuzzy
+#, 
 #| msgid "Name=Network"
 msgctxt "Name"
 msgid "Network"
-msgstr "Name=Mạng "
+msgstr "Mạng"
 
 #: src/kcm_knote_print.json
 msgctxt "Name"
 msgid "Print"
-msgstr ""
+msgstr "In"
 
 #: src/kontactplugin/kcmknotessummary.json
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "New Notes"
-msgstr "KNotes"
+msgstr "Ghi chú mới"
 
 #: src/kontactplugin/knotesplugin.json
-#, fuzzy
+#, 
 #| msgctxt "GenericName"
 #| msgid "Popup Notes"
 msgctxt "Name"
 msgid "Popup Notes"
-msgstr "Ghi chép Popup"
+msgstr "Ghi chú Bật lên"
 
 #: src/kcm_knote_action.json
 msgctxt "Description"
 msgid "Setup actions for notes"
-msgstr ""
+msgstr "Thiết lập hành động cho ghi chú"
 
 #: src/kcm_knote_collection.json
 msgctxt "Description"
 msgid "Setup collections for notes"
-msgstr ""
+msgstr "Thiết lập bộ sưu tập cho các ghi chú"
 
 #: src/kcm_knote_display.json
 msgctxt "Description"
 msgid "Setup display for notes"
-msgstr ""
+msgstr "Thiết lập bộ hiển thị cho ghi chú"
 
 #: src/kcm_knote_editor.json
 msgctxt "Description"
 msgid "Setup editor"
-msgstr ""
+msgstr "Thiết lập trình biên tập"
 
 #: src/kontactplugin/kcmknotessummary.json
-#, fuzzy
+#, 
 msgctxt "Description"
 msgid "Notes Summary Setup"
-msgstr "Công cụ cài đặt Samba "
+msgstr "Cài đặt Tóm tắt Ghi chú"
 
 #: src/kontactplugin/knotesplugin.json
-#, fuzzy
+#, 
 msgctxt "Description"
 msgid "Kontact KNotes Plugin"
-msgstr "Kafka HTMLPart Plugin"
+msgstr "Phần cài cắm KNotes của Kontact"
 
 #, fuzzy
 #~ msgctxt "Description"

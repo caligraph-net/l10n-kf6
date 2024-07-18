@@ -1,0 +1,3361 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the libksieve package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: libksieve\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-04 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: kmanagesieve/session.cpp:89
+#, kde-format
+msgid "Cannot use TLS since the underlying Qt library does not support it."
+msgstr "Không thể sử dụng TLS vì thư viện Qt cơ bản không hỗ trợ."
+
+#: kmanagesieve/session.cpp:96
+#, kde-format
+msgid ""
+"TLS encryption was requested, but your Sieve server does not advertise TLS "
+"in its capabilities.\n"
+"You can choose to try to initiate TLS negotiations nonetheless, or cancel "
+"the operation."
+msgstr ""
+"Đã yêu cầu mật mã hoá TLS, nhưng máy chủ Sieve của bạn không quảng cáo TLS "
+"trong khả năng của nó.\nBạn có thể chọn cố gắng bắt đầu đàm phán mật mã hoá "
+"TLS dù sao, hoặc huỷ thao tác."
+
+#: kmanagesieve/session.cpp:98
+#, kde-format
+msgctxt "@title:window"
+msgid "Sieve Server Does Not Advertise TLS"
+msgstr "Máy chủ Sieve không quảng cáo TLS"
+
+#: kmanagesieve/session.cpp:99
+#, kde-format
+msgctxt "@action:button"
+msgid "&Start TLS nonetheless"
+msgstr "Vẫn khởi động TL&S"
+
+#: kmanagesieve/session.cpp:103
+#, kde-format
+msgid "TLS encryption requested, but not supported by server."
+msgstr "Yêu cầu mật mã hoá TLS, nhưng không được máy chủ hỗ trợ."
+
+#: kmanagesieve/session.cpp:145
+#, kde-format
+msgid ""
+"The server does not seem to support TLS. Disable TLS if you want to connect "
+"without encryption."
+msgstr ""
+"Máy chủ dường như không hỗ trợ TLS. Hãy tắt TLS nếu bạn muốn kết nối mà "
+"không cần mã hóa."
+
+#: kmanagesieve/session.cpp:257
+#, kde-format
+msgid "Sieve Authentication Details"
+msgstr "Chi tiết xác thực Sieve"
+
+#: kmanagesieve/session.cpp:259
+#, kde-format
+msgid ""
+"Please enter your authentication details for your sieve account "
+"\"%1\" (usually the same as your email password):"
+msgstr ""
+"Vui lòng nhập thông tin xác thực cho danh khoản sieve của bạn \"%1\" "
+"(thường giống với mật khẩu thư điện tử của bạn):"
+
+#: kmanagesieve/session.cpp:321
+#, kde-format
+msgid ""
+"The Sieve server on %1 has reported an error:\n"
+"%2"
+msgstr "Máy chủ Sieve trên %1 đã báo cáo lỗi:\n%2"
+
+#: kmanagesieve/session.cpp:321
+#, kde-format
+msgctxt "@title:window"
+msgid "Sieve Manager"
+msgstr "Trình quản lý Sieve"
+
+#: kmanagesieve/sessionthread.cpp:299
+#, kde-format
+msgid ""
+"Authentication failed.\n"
+"Most likely the password is wrong.\n"
+"The server responded:\n"
+"%1"
+msgstr ""
+"Xác thực không thành công.\nGần như chắc chắn mật khẩu không đúng.\nMáy chủ "
+"đã phản hồi:\n%1"
+
+#: kmanagesieve/sievejob.cpp:142 kmanagesieve/sievejob.cpp:149
+#, kde-format
+msgid ""
+"The script did not upload successfully.\n"
+"This is probably due to errors in the script.\n"
+"The server responded:\n"
+"%1"
+msgstr ""
+"Kịch bản không được tải lên thành công.\nĐiều này có thể do lỗi trong kịch "
+"bản.\nMáy chủ đã phản hồi:\n%1"
+
+#: kmanagesieve/sievejob.cpp:154
+#, kde-format
+msgid ""
+"The script did not upload successfully.\n"
+"The script may contain errors."
+msgstr "Kịch bản không được tải lên thành công.\nKịch bản có thể chứa lỗi."
+
+#: ksieve/error.cpp:91
+#, kde-format
+msgid "Parse error: Carriage Return (CR) without Line Feed (LF)"
+msgstr "Lỗi phân tách: Dấu xuống dòng (CR) không có Dấu mới dòng (LF)"
+
+#: ksieve/error.cpp:95
+#, kde-format
+msgid ""
+"Parse error: Unquoted Slash ('/') without Asterisk ('*'). Broken Comment?"
+msgstr ""
+"Lỗi phân tách: Dấu gạch chéo ('/') không có dấu sao ('*'). Bình luận bị "
+"hỏng?"
+
+#: ksieve/error.cpp:99
+#, kde-format
+msgid "Parse error: Illegal Character"
+msgstr "Lỗi phân tách: Kí tự không hợp lệ"
+
+#: ksieve/error.cpp:102
+#, kde-format
+msgid "Parse error: Unexpected Character, probably a missing space?"
+msgstr "Lỗi phân tách: Ký tự bất ngờ, có lẽ là thiếu khoảng trắng?"
+
+#: ksieve/error.cpp:105
+#, kde-format
+msgid "Parse error: Tag Name has leading Digits"
+msgstr "Lỗi phân tách: Tên thẻ có chữ số đứng đầu"
+
+#: ksieve/error.cpp:109
+#, kde-format
+msgid ""
+"Parse error: Only whitespace and #comments may follow \"text:\" on the same "
+"line"
+msgstr ""
+"Lỗi phân tách: Chỉ có khoảng trắng và #comments mới có thể theo sau "
+"\"text:\" trên cùng một dòng"
+
+#: ksieve/error.cpp:113
+#, kde-format
+msgid "Parse error: Number out of Range (must be smaller than %1)"
+msgstr "Lỗi phân tách: Số nằm ngoài phạm vi (phải nhỏ hơn %1)"
+
+#: ksieve/error.cpp:116
+#, kde-format
+msgid "Parse error: Invalid UTF-8 sequence"
+msgstr "Lỗi phân tách: Chuỗi UTF-8 không hợp lệ"
+
+#: ksieve/error.cpp:119
+#, kde-format
+msgid ""
+"Parse error: Premature end of Multiline String (did you forget the '.'?)"
+msgstr "Lỗi phân tách: Kết thúc chuỗi đa dòng quá sớm (bạn có quên dấu '.' không?)"
+
+#: ksieve/error.cpp:122
+#, kde-format
+msgid "Parse error: Premature end of Quoted String (missing closing '\"')"
+msgstr "Lỗi phân tách: Kết thúc chuỗi được trích dẫn quá sớm (thiếu dấu đóng '\"')"
+
+#: ksieve/error.cpp:125
+#, kde-format
+msgid "Parse error: Premature end of String List (missing closing ']')"
+msgstr "Lỗi phân tách: Kết thúc chuỗi danh sách quá sớm (thiếu dấu đóng ']')"
+
+#: ksieve/error.cpp:128
+#, kde-format
+msgid "Parse error: Premature end of Test List (missing closing ')')"
+msgstr "Lỗi phân tách: Kết thúc sớm của Danh sách Kiểm thử (thiếu dấu ')' đóng)"
+
+#: ksieve/error.cpp:131
+#, kde-format
+msgid "Parse error: Premature end of Block (missing closing '}')"
+msgstr "Lỗi phân tách: Kết thúc khối quá sớm (thiếu dấu ngoặc đóng '}')"
+
+#: ksieve/error.cpp:134
+#, kde-format
+msgid "Parse error: Missing Whitespace"
+msgstr "Lỗi phân tách: Thiếu khoảng trắng"
+
+#: ksieve/error.cpp:137
+#, kde-format
+msgid "Parse error: Missing ';' or Block"
+msgstr "Lỗi phân tách: Thiếu ';' hoặc Khối"
+
+#: ksieve/error.cpp:140
+#, kde-format
+msgid "Parse error: Expected ';' or '{', got something else"
+msgstr "Lỗi phân tách: Mong đợi ';' hoặc '{', nhưng lại nhận được cái khác"
+
+#: ksieve/error.cpp:143 ksieve/error.cpp:158
+#, kde-format
+msgid "Parse error: Expected Command, got something else"
+msgstr "Lỗi phân tách: Mong đợi Lệnh, nhưng lại nhận được cái gì đó khác"
+
+#: ksieve/error.cpp:146
+#, kde-format
+msgid "Parse error: Trailing, Leading or Duplicate Commas in String List"
+msgstr "Lỗi phân tách: Dấu phẩy thừa, thiếu hoặc trùng lặp trong Danh sách chuỗi"
+
+#: ksieve/error.cpp:149
+#, kde-format
+msgid "Parse error: Trailing, Leading or Duplicate Commas in Test List"
+msgstr "Lỗi phân tách: Dấu phẩy thừa, thiếu hoặc trùng lặp trong Danh sách Kiểm thử"
+
+#: ksieve/error.cpp:152
+#, kde-format
+msgid "Parse error: Missing ',' between Strings in String List"
+msgstr "Lỗi phân tách: Thiếu ',' giữa các chuỗi trong danh sách chuỗi"
+
+#: ksieve/error.cpp:155
+#, kde-format
+msgid "Parse error: Missing ',' between Tests in Test List"
+msgstr "Lỗi phân tách: Thiếu ',' giữa các Kiểm thử trong Danh sách Kiểm thử"
+
+#: ksieve/error.cpp:161
+#, kde-format
+msgid "Parse error: Only Strings allowed in String Lists"
+msgstr "Lỗi phân tách: Chỉ cho phép Chuỗi trong Danh sách Chuỗi"
+
+#: ksieve/error.cpp:164
+#, kde-format
+msgid "Parse error: Only Tests allowed in Test Lists"
+msgstr "Lỗi phân tách: Chỉ được phép có Kiểm thử trong Danh sách Kiểm thử"
+
+#: ksieve/error.cpp:169
+#, kde-format
+msgid "\"require\" must be first command"
+msgstr "\"require\" phải là lệnh đầu tiên"
+
+#: ksieve/error.cpp:172
+#, kde-format
+msgid "\"require\" missing for command \"%1\""
+msgstr "Thiếu \"require\" cho lệnh \"%1\""
+
+#: ksieve/error.cpp:175
+#, kde-format
+msgid "\"require\" missing for test \"%1\""
+msgstr "Thiếu \"require\" cho kiểm thử \"%1\""
+
+#: ksieve/error.cpp:178
+#, kde-format
+msgid "\"require\" missing for comparator \"%1\""
+msgstr "\"require\" bị thiếu cho bộ so sánh \"%1\""
+
+#: ksieve/error.cpp:181
+#, kde-format
+msgid "Command \"%1\" not supported"
+msgstr "Lệnh \"%1\" không được hỗ trợ"
+
+#: ksieve/error.cpp:184
+#, kde-format
+msgid "Test \"%1\" not supported"
+msgstr "Kiểm thử \"%1\" không được hỗ trợ"
+
+#: ksieve/error.cpp:187
+#, kde-format
+msgid "Comparator \"%1\" not supported"
+msgstr "Bộ so sánh \"%1\" không được hỗ trợ"
+
+#: ksieve/error.cpp:190
+#, kde-format
+msgid "Site Policy Limit Violation: Test nesting too deep (max. %1)"
+msgstr ""
+"Vi phạm giới hạn chính sách trang web: Kiểm thử lồng nhau quá sâu (tối đa "
+"%1)"
+
+#: ksieve/error.cpp:193
+#, kde-format
+msgid "Site Policy Limit Violation: Block nesting too deep (max. %1)"
+msgstr "Vi phạm giới hạn chính sách trang web: Lồng khối quá sâu (tối đa %1)"
+
+#: ksieve/error.cpp:196
+#, kde-format
+msgid "Invalid Argument \"%1\" to \"%2\""
+msgstr "Đối số \"%1\" không hợp lệ cho \"%2\""
+
+#: ksieve/error.cpp:199
+#, kde-format
+msgid "Conflicting Arguments: \"%1\" and \"%2\""
+msgstr "Các đối số mâu thuẫn: \"%1\" và \"%2\""
+
+#: ksieve/error.cpp:202
+#, kde-format
+msgid "Argument \"%1\" Repeated"
+msgstr "Đối số \"%1\" Bị Lặp Lại"
+
+#: ksieve/error.cpp:205
+#, kde-format
+msgid "Command \"%1\" violates command ordering constraints"
+msgstr "Lệnh \"%1\" vi phạm các ràng buộc về thứ tự lệnh"
+
+#: ksieve/error.cpp:210
+#, kde-format
+msgid "Incompatible Actions \"%1\" and \"%2\" requested"
+msgstr "Các hành động \"%1\" và \"%2\" không tương thích được yêu cầu"
+
+#: ksieve/error.cpp:213
+#, kde-format
+msgid "Mail Loop detected"
+msgstr "Đã phát hiện vòng lặp thư"
+
+#: ksieve/error.cpp:216
+#, kde-format
+msgid "Site Policy Limit Violation: Too many Actions requested (max. %1)"
+msgstr ""
+"Vi phạm giới hạn chính sách trang web: Quá nhiều hành động được yêu cầu "
+"(tối đa %1)"
+
+#: ksieve/error.cpp:219
+#, kde-format
+msgid "Unknown error"
+msgstr "Lỗi không rõ"
+
+#: ksievecore/managescriptsjob/checkscriptjob.cpp:65
+#, kde-format
+msgid "No errors found."
+msgstr "Không tìm thấy lỗi."
+
+#: ksievecore/managescriptsjob/checkscriptjob.cpp:68
+#, kde-format
+msgid "An unknown error was encountered."
+msgstr "Đã gặp lỗi không rõ."
+
+#: ksievecore/managescriptsjob/generateglobalscriptjob.cpp:52
+#: ksievecore/managescriptsjob/parseuserscriptjob.cpp:42
+#, kde-format
+msgid "Path is not specified."
+msgstr "Đường dẫn không được chỉ định."
+
+#: ksievecore/managescriptsjob/generateglobalscriptjob.cpp:96
+#, kde-format
+msgid ""
+"Error writing \"MASTER\" script on server.\n"
+"The server responded:\n"
+"%1"
+msgstr "Lỗi khi ghi \"MASTER\" kịch bản trên máy chủ.\nMáy chủ đã phản hồi:\n%1"
+
+#: ksievecore/managescriptsjob/generateglobalscriptjob.cpp:134
+#, kde-format
+msgid ""
+"Error writing \"User\" script on server.\n"
+"The server responded:\n"
+"%1"
+msgstr "Lỗi khi ghi \"Người dùng\" kịch bản trên máy chủ.\nMáy chủ đã phản hồi:\n%1"
+
+#: ksievecore/managescriptsjob/parseuserscriptjob.cpp:64
+#: ksieveui/debug/sievedebugdialog.cpp:199
+#: ksieveui/managesievescriptsdialog.cpp:170
+#, kde-format
+msgid ""
+"Retrieving the script failed.\n"
+"The server responded:\n"
+"%1"
+msgstr "Không thể lấy về kịch bản.\nMáy chủ đã phản hồi:\n%1"
+
+#: ksievecore/managescriptsjob/parseuserscriptjob.cpp:70
+#, kde-format
+msgid "Script is empty. (%1)"
+msgstr "Kịch bản trống. (%1)"
+
+#: ksievecore/managescriptsjob/parseuserscriptjob.cpp:78
+#, kde-format
+msgid "Script parsing error."
+msgstr "Lỗi phân tích kịch bản."
+
+#: ksievecore/managescriptsjob/renamescriptjob.cpp:56
+#, kde-format
+msgid "Impossible to start job"
+msgstr "Không thể khởi động công việc"
+
+#: ksievecore/managescriptsjob/renamescriptjob.cpp:66
+#, kde-format
+msgid "An error occurred during loading the sieve script."
+msgstr "Đã xảy ra lỗi trong quá trình tải kịch bản sieve."
+
+#: ksievecore/managescriptsjob/renamescriptjob.cpp:82
+#, kde-format
+msgid "An error occurred during saving the sieve script."
+msgstr "Đã xảy ra lỗi trong quá trình lưu kịch bản sieve."
+
+#: ksievecore/managescriptsjob/renamescriptjob.cpp:93
+#, kde-format
+msgid "An error occurred during deleting the sieve script."
+msgstr "Đã xảy ra lỗi trong quá trình xóa tập lệnh sieve."
+
+#. i18n: ectx: label, entry (AllowOutOfOfficeSettings), group (OutOfOffice)
+#: ksievecore/settings/sieve-vacation.kcfg:16
+#, kde-format
+msgid "Allow out-of-office settings to be changeable by the user."
+msgstr "Cho phép người dùng thay đổi thiết lập chế độ nghỉ phép."
+
+#. i18n: ectx: label, entry (AllowOutOfOfficeUploadButNoSettings), group (OutOfOffice)
+#: ksievecore/settings/sieve-vacation.kcfg:20
+#, kde-format
+msgid ""
+"Allow users to upload out-of-office sieve scripts, but prevent them from "
+"changing any settings, such as the domain to react to or the spam reaction "
+"switch."
+msgstr ""
+"Cho phép người dùng tải lên các tập lệnh sieve khi nghỉ phép, nhưng ngăn họ "
+"thay đổi bất kỳ cài đặt nào, chẳng hạn như miền để phản ứng hoặc công tắc "
+"phản ứng spam."
+
+#. i18n: ectx: label, entry (OutOfOfficeDomain), group (OutOfOffice)
+#: ksievecore/settings/sieve-vacation.kcfg:24
+#, kde-format
+msgid "Send out-of-office replies to mails coming from this domain only."
+msgstr "Chỉ gửi hồi đáp văn phòng vắng mặt cho các thư đến từ miền này."
+
+#. i18n: ectx: label, entry (OutOfOfficeReactToSpam), group (OutOfOffice)
+#: ksievecore/settings/sieve-vacation.kcfg:28
+#, kde-format
+msgid "Allow out-of-office replies to be sent to messages marked as SPAM."
+msgstr ""
+"Cho phép hồi đáp ngoài văn phòng được gửi đến các tin nhắn được đánh dấu là "
+"THƯ RÁC."
+
+#. i18n: ectx: label, entry (CheckOutOfOfficeOnStartup), group (OutOfOffice)
+#: ksievecore/settings/sieve-vacation.kcfg:32
+#, kde-format
+msgid ""
+"Check if there is still an active out-of-office reply configured on startup."
+msgstr ""
+"Kiểm tra xem có còn hồi đáp nghỉ phép chủ động được cấu hình khi khởi động "
+"hay không."
+
+#: ksievecore/vacation/vacationcheckjob.cpp:125
+#, kde-format
+msgid "ParseUserScriptJob failed: %1"
+msgstr "ParseUserScriptJob thất bại: %1"
+
+#: ksievecore/vacation/vacationcheckjob.cpp:141
+#, kde-format
+msgid ""
+"Failed to get the list of Sieve scripts.\n"
+"The server responded:\n"
+"%1"
+msgstr "Không thể lấy danh sách các tập lệnh Sieve.\nMáy chủ đã phản hồi:\n%1"
+
+#: ksievecore/vacation/vacationcreatescriptjob.cpp:144
+#, kde-format
+msgid ""
+"Sieve script installed successfully on the server '%1'.\n"
+"Out of Office reply is now active."
+msgstr ""
+"Kịch bản Sieve đã được cài đặt thành công trên máy chủ '%1'.\nPhản hồi "
+"Ngoài Văn Phòng đã được kích hoạt."
+
+#: ksievecore/vacation/vacationcreatescriptjob.cpp:147
+#, kde-format
+msgid ""
+"Sieve script installed successfully on the server '%1'.\n"
+"Out of Office reply has been deactivated."
+msgstr ""
+"Kịch bản Sieve đã được cài đặt thành công trên máy chủ '%1'.\nHồi đáp Ngoài "
+"Văn Phòng đã được vô hiệu hóa."
+
+#: ksievecore/vacation/vacationcreatescriptjob.cpp:151
+#, kde-format
+msgid "Impossible to install script on server '%1'"
+msgstr "Không thể cài đặt kịch bản trên máy chủ '%1'"
+
+#: ksievecore/vacation/vacationutils.cpp:39
+#, kde-format
+msgid "Out of office till %1"
+msgstr "Vắng mặt khỏi văn phòng đến %1"
+
+#: ksievecore/vacation/vacationutils.cpp:46
+#: ksieveui/autocreatescripts/sieveactions/sieveactionkeep.cpp:20
+#, kde-format
+msgid "Keep"
+msgstr "Giữ lại"
+
+#: ksievecore/vacation/vacationutils.cpp:48
+#: ksieveui/autocreatescripts/sieveactions/sieveactiondiscard.cpp:12
+#, kde-format
+msgid "Discard"
+msgstr "loại bỏ"
+
+#: ksievecore/vacation/vacationutils.cpp:50
+#, kde-format
+msgid "Redirect to"
+msgstr "Chuyển hướng đến"
+
+#: ksievecore/vacation/vacationutils.cpp:52
+#, kde-format
+msgid "Copy to"
+msgstr "Sao chép đến"
+
+#: ksievecore/vacation/vacationutils.cpp:66
+#, kde-format
+msgid ""
+"I am out of office till %1.\n"
+"\n"
+"In urgent cases, please contact Mrs. \"vacation replacement\"\n"
+"\n"
+"email: \"email address of vacation replacement\"\n"
+"phone: +49 711 1111 11\n"
+"fax.:  +49 711 1111 12\n"
+"\n"
+"Yours sincerely,\n"
+"-- \"enter your name and email address here\"\n"
+msgstr ""
+"Tôi sẽ vắng mặt khỏi văn phòng đến %1.\n\nTrong trường hợp khẩn cấp, vui "
+"lòng liên hệ với bà \"người thay thế nghỉ phép\"\n\nthư điện tử: \"địa chỉ "
+"thư điện tử của người thay thế nghỉ phép\"\nđiện thoại: +49 711 1111 "
+"11\nfax.:  +49 711 1111 12\n\nChân thành,\n-- \"nhập tên và địa chỉ thư "
+"điện tử của bạn ở đây\"\n"
+
+#: ksieveui/autocreatescripts/autocreatescriptdialog.cpp:29
+#, kde-format
+msgctxt "@title:window"
+msgid "Create Sieve Filter"
+msgstr "Tạo Bộ Lọc Sieve"
+
+#: ksieveui/autocreatescripts/autocreatescriptutil.cpp:177
+#, kde-format
+msgid "Cannot find item \"%1\" in widget \"%2\""
+msgstr "Không thể tìm thấy mục \"%1\" trong phụ kiện \"%2\""
+
+#: ksieveui/autocreatescripts/autocreatescriptutil.cpp:185
+#, kde-format
+msgid "More information"
+msgstr "Thêm thông tin"
+
+#: ksieveui/autocreatescripts/commonwidgets/selectconvertparameterwidget.cpp:32
+#, kde-format
+msgid ""
+"Not enough arguments for SelectConvertParameterWidget. Expected 2 arguments."
+msgstr "Không đủ đối số cho SelectConvertParameterWidget. Cần 2 đối số."
+
+#: ksieveui/autocreatescripts/commonwidgets/selectconvertparameterwidget.cpp:37
+#, kde-format
+msgid "Too many arguments for SelectConvertParameterWidget, \"%1\""
+msgstr "Quá nhiều đối số cho SelectConvertParameterWidget, \"%1\""
+
+#: ksieveui/autocreatescripts/commonwidgets/selectconvertparameterwidget.cpp:60
+#: ksieveui/autocreatescripts/commonwidgets/selectconvertparameterwidget.cpp:71
+#, kde-format
+msgid " px"
+msgstr " px"
+
+#: ksieveui/autocreatescripts/commonwidgets/selectmatchtypecombobox.cpp:35
+#, kde-format
+msgid "is"
+msgstr "là"
+
+#: ksieveui/autocreatescripts/commonwidgets/selectmatchtypecombobox.cpp:36
+#, kde-format
+msgid "not is"
+msgstr "không phải là"
+
+#: ksieveui/autocreatescripts/commonwidgets/selectmatchtypecombobox.cpp:37
+#, kde-format
+msgid "contains"
+msgstr "chứa"
+
+#: ksieveui/autocreatescripts/commonwidgets/selectmatchtypecombobox.cpp:38
+#, kde-format
+msgid "not contains"
+msgstr "không chứa"
+
+#: ksieveui/autocreatescripts/commonwidgets/selectmatchtypecombobox.cpp:39
+#, kde-format
+msgid "matches"
+msgstr "khớp"
+
+#: ksieveui/autocreatescripts/commonwidgets/selectmatchtypecombobox.cpp:40
+#, kde-format
+msgid "not matches"
+msgstr "không khớp"
+
+#: ksieveui/autocreatescripts/commonwidgets/selectmatchtypecombobox.cpp:42
+#, kde-format
+msgid "regex"
+msgstr "btcq"
+
+#: ksieveui/autocreatescripts/commonwidgets/selectmatchtypecombobox.cpp:43
+#, kde-format
+msgid "not regex"
+msgstr "không phải regex"
+
+#: ksieveui/autocreatescripts/commonwidgets/selectmimetypecombobox.cpp:25
+#, kde-format
+msgid "JPEG"
+msgstr "JPEG"
+
+#: ksieveui/autocreatescripts/commonwidgets/selectmimetypecombobox.cpp:26
+#, kde-format
+msgid "TIFF"
+msgstr "TIFF"
+
+#: ksieveui/autocreatescripts/commonwidgets/selectmimetypecombobox.cpp:27
+#, kde-format
+msgid "PNG"
+msgstr "PNG"
+
+#: ksieveui/autocreatescripts/commonwidgets/selectmimetypecombobox.cpp:28
+#, kde-format
+msgid "BMP"
+msgstr "BMP"
+
+#: ksieveui/autocreatescripts/commonwidgets/sievecommonactioncondition.cpp:101
+#: ksieveui/autocreatescripts/sieveactions/sieveaction.cpp:53
+#, kde-format
+msgid "An unknown tag value \"%1\" was found during parsing action \"%2\"."
+msgstr ""
+"Đã tìm thấy một giá trị thẻ không rõ \"%1\" trong khi phân tích hành động "
+"\"%2\"."
+
+#: ksieveui/autocreatescripts/commonwidgets/sievecommonactioncondition.cpp:106
+#: ksieveui/autocreatescripts/sieveactions/sieveaction.cpp:41
+#, kde-format
+msgid "An unknown tag \"%1\" was found during parsing action \"%2\"."
+msgstr ""
+"Một thẻ không rõ \"%1\" đã được tìm thấy trong khi phân tích hành động "
+"\"%2\"."
+
+#: ksieveui/autocreatescripts/commonwidgets/sievecommonactioncondition.cpp:112
+#: ksieveui/autocreatescripts/sieveactions/sieveaction.cpp:48
+#, kde-format
+msgid ""
+"Too many arguments found for \"%1\", max value is %2, number of value found "
+"%3 for %4"
+msgstr ""
+"Quá nhiều đối số được tìm thấy cho \"%1\", giá trị tối đa là %2, số lượng "
+"giá trị được tìm thấy %3 cho %4"
+
+#: ksieveui/autocreatescripts/commonwidgets/sievecommonactioncondition.cpp:117
+#: ksieveui/autocreatescripts/sieveactions/sieveaction.cpp:58
+#: ksieveui/autocreatescripts/sieveconditions/sievecondition.cpp:52
+#, kde-format
+msgid "A feature \"%1\" in condition \"%2\" is not supported by server"
+msgstr "Tính năng \"%1\" trong điều kiện \"%2\" không được máy chủ hỗ trợ"
+
+#: ksieveui/autocreatescripts/commonwidgets/sievehelpbutton.cpp:19
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Help"
+msgstr "trợ giúp"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionaddflags.cpp:13
+#, kde-format
+msgid "Add Flags"
+msgstr "Thêm cờ"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionaddflags.cpp:25
+#, kde-format
+msgid ""
+"Addflag is used to add flags to a list of [IMAP] flags.  It doesn't replace "
+"any previously set flags.  This means that multiple occurrences of addflag "
+"are treated additively."
+msgstr ""
+"Addflag được sử dụng để thêm cờ vào danh sách các cờ [IMAP]. Nó không thay "
+"thế bất kỳ cờ nào đã được đặt trước đó. Điều này có nghĩa là nhiều lần xuất "
+"hiện của addflag được xử lý cộng dồn."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionaddheader.cpp:24
+#, kde-format
+msgid "Add header"
+msgstr "Thêm đầu tải"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionaddheader.cpp:40
+#: ksieveui/autocreatescripts/sieveactions/sieveactiondeleteheader.cpp:40
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditiondate.cpp:42
+#, kde-format
+msgctxt "@label:textbox"
+msgid "header:"
+msgstr "tiêu đề:"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionaddheader.cpp:49
+#: ksieveui/autocreatescripts/sieveactions/sieveactiondeleteheader.cpp:49
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectdatewidget.cpp:53
+#, kde-format
+msgctxt "@label:textbox"
+msgid "value:"
+msgstr "giá trị:"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionaddheader.cpp:114
+#, kde-format
+msgid ""
+"The addheader action adds a header field to the existing message header."
+msgstr ""
+"Hành động thêm đầu tải thêm một trường đầu tải vào đầu tải thông điệp hiện "
+"có."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionbreak.cpp:21
+#, kde-format
+msgid "Break"
+msgstr "Ngắt"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionbreak.cpp:32
+#: ksieveui/autocreatescripts/sieveforeverypartwidget.cpp:45
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Name (optional):"
+msgstr "Tên (tùy chọn):"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionbreak.cpp:89
+#, kde-format
+msgid "The break command terminates the closest enclosing loop."
+msgstr "Lệnh break sẽ kết thúc vòng lặp bao quanh gần nhất."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionconvert.cpp:20
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionconvert.cpp:20
+#, kde-format
+msgid "Convert"
+msgstr "Chuyển đổi"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionconvert.cpp:31
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionconvert.cpp:31
+#, kde-format
+msgctxt "@label:textbox"
+msgid "From:"
+msgstr "Từ:"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionconvert.cpp:39
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionconvert.cpp:39
+#, kde-format
+msgctxt "@label:textbox"
+msgid "To:"
+msgstr "Đến:"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionconvert.cpp:47
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionconvert.cpp:47
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Parameters:"
+msgstr "Tham số:"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionconvert.cpp:129
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionconvert.cpp:94
+#, kde-format
+msgid ""
+"The \"convert\" action specifies that all body parts with a media type equal "
+"to \"media-type\" be converted to the media type in \"media-type\" using "
+"conversion parameters."
+msgstr ""
+"Hành động \"convert\" chỉ định rằng tất cả các phần nội dung với kiểu "
+"phương tiện bằng \"kiểu-phương-tiện\" sẽ được chuyển đổi sang kiểu phương "
+"tiện trong \"kiểu-phương-tiện\" bằng cách sử dụng các tham số chuyển đổi."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactiondeleteheader.cpp:24
+#, kde-format
+msgid "Delete header"
+msgstr "Xóa đầu tải"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactiondeleteheader.cpp:124
+#, kde-format
+msgid ""
+"By default, the deleteheader action deletes all occurrences of the named "
+"header field."
+msgstr ""
+"Theo mặc định, hành động xóa đầu tải sẽ xóa tất cả các lần xuất hiện của "
+"trường đầu tải được đặt tên."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactiondiscard.cpp:23
+#, kde-format
+msgid "Discard is used to silently throw away the message."
+msgstr "Loại bỏ được sử dụng để lặng lẽ vứt bỏ tin nhắn."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionenclose.cpp:22
+#, kde-format
+msgid "Enclose"
+msgstr "Đóng gói"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionenclose.cpp:33
+#: ksieveui/autocreatescripts/sieveactions/sieveactionreplace.cpp:35
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Subject:"
+msgstr "Chủ đề:"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionenclose.cpp:42
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionexists.cpp:40
+#, kde-format
+msgctxt "@label:textbox"
+msgid "headers:"
+msgstr "tiêu đề:"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionenclose.cpp:51
+#: ksieveui/autocreatescripts/sieveactions/sieveactionereject.cpp:30
+#: ksieveui/autocreatescripts/sieveactions/sieveactionreject.cpp:30
+#: ksieveui/autocreatescripts/sieveactions/sieveactionreplace.cpp:52
+#, kde-format
+msgctxt "@label:textbox"
+msgid "text:"
+msgstr "văn bản:"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionenclose.cpp:143
+#, kde-format
+msgid ""
+"Enclose action command is defined to allow an entire message to be enclosed "
+"as an attachment to a new message."
+msgstr ""
+"Lệnh hành động Enclose được định nghĩa để cho phép toàn bộ thông điệp được "
+"đính kèm như một tệp đính kèm vào một thông điệp mới."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionereject.cpp:20
+#, kde-format
+msgid "E-Reject"
+msgstr "Từ chối E"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionereject.cpp:86
+#, kde-format
+msgid ""
+" The \"ereject\" action cancels the implicit keep and refuses delivery of a "
+"message."
+msgstr ""
+"Hành động \"ereject\" hủy bỏ việc giữ ngầm định và từ chối giao hàng của "
+"một tin nhắn."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionextracttext.cpp:21
+#, kde-format
+msgid "Extract Text"
+msgstr "Trích xuất văn bản"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionextracttext.cpp:32
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Number of characters:"
+msgstr "Số ký tự:"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionextracttext.cpp:42
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Stored in variable name:"
+msgstr "Lưu trữ trong tên biến:"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionextracttext.cpp:110
+#, kde-format
+msgid ""
+"The \"extracttext\" action may be used within the context of a \"foreverypart"
+"\" loop and is used to store text into a variable"
+msgstr ""
+"Hành động \"extracttext\" có thể được sử dụng trong ngữ cảnh của vòng lặp "
+"\"foreverypart\" và được dùng để lưu trữ văn bản vào một biến"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionfileinto.cpp:20
+#, kde-format
+msgid "File Into"
+msgstr "Tệp Vào"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionfileinto.cpp:57
+#, kde-format
+msgid ""
+"Action \"fileinto\" has \"copy\" argument but current server does not "
+"support it"
+msgstr ""
+"Hành động \"fileinto\" có đối số \"copy\" nhưng máy chủ hiện tại không hỗ "
+"trợ nó"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionfileinto.cpp:96
+#: ksieveui/autocreatescripts/sieveactions/sieveactionredirect.cpp:35
+#, kde-format
+msgid "Keep a copy"
+msgstr "Giữ bản sao"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionfileinto.cpp:102
+#, kde-format
+msgid "Create folder"
+msgstr "Tạo thư mục"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionfileinto.cpp:147
+#, kde-format
+msgid ""
+"The \"fileinto\" action delivers the message into the specified mailbox."
+msgstr "Hành động \"fileinto\" sẽ chuyển thông điệp vào hộp thư đã chỉ định."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionfileinto.cpp:150
+#, kde-format
+msgid ""
+"If the optional \":create\" argument is specified, it instructs the Sieve "
+"interpreter to create the specified mailbox, if needed, before attempting to "
+"deliver the message into the specified mailbox."
+msgstr ""
+"Nếu đối số tuỳ chọn \":create\" được chỉ định, nó sẽ yêu cầu trình thông "
+"dịch Sieve tạo hộp thư được chỉ định, nếu cần, trước khi cố gắng chuyển "
+"thông điệp vào hộp thư được chỉ định."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionfileinto.cpp:155
+#, kde-format
+msgid ""
+"If the optional \":copy\" keyword is specified, the tagged command does not "
+"cancel the implicit \"keep\". Instead, it merely files or redirects a copy "
+"in addition to whatever else is happening to the message."
+msgstr ""
+"Nếu từ khoá tuỳ chọn \":copy\" được chỉ định, lệnh gắn thẻ sẽ không huỷ "
+"lệnh \"keep\" ngầm định. Thay vào đó, nó chỉ lưu trữ hoặc chuyển tiếp một "
+"bản sao ngoài những gì đang xảy ra với tin nhắn."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionkeep.cpp:44
+#, kde-format
+msgid ""
+"The \"keep\" action is whatever action is taken in lieu of all other "
+"actions, if no filtering happens at all; generally, this simply means to "
+"file the message into the user's main mailbox."
+msgstr ""
+"Hành động \"giữ lại\" là bất kỳ hành động nào được thực hiện thay vì tất cả "
+"các hành động khác, nếu không có bộ lọc nào xảy ra; nói chung, điều này chỉ "
+"đơn giản là lưu thông điệp vào hộp thư chính của người dùng."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionkeep.cpp:55
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Add flags:"
+msgstr "Thêm cờ:"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionnotify.cpp:23
+#, kde-format
+msgid "Notify"
+msgstr "Thông báo"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionnotify.cpp:39
+#, kde-format
+msgctxt "@label:textbox"
+msgid "message:"
+msgstr "tin nhắn:"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionnotify.cpp:48
+#, kde-format
+msgctxt "@label:textbox"
+msgid "method:"
+msgstr "phương thức:"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionnotify.cpp:132
+#, kde-format
+msgid ""
+"The \"notify\" action specifies that a notification should be sent to a user."
+msgstr ""
+"Hành động \"thông báo\" chỉ định rằng một thông báo nên được gửi đến người "
+"dùng."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionredirect.cpp:22
+#, kde-format
+msgid "Redirect"
+msgstr "Chuyển hướng"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionredirect.cpp:41
+#, kde-format
+msgid "Use list"
+msgstr "Sử dụng danh sách"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionredirect.cpp:139
+#, kde-format
+msgid ""
+"The \"redirect\" action is used to send the message to another user at a "
+"supplied address, as a mail forwarding feature does.  The \"redirect\" "
+"action makes no changes to the message body or existing headers, but it may "
+"add new headers."
+msgstr ""
+"Hành động \"chuyển tiếp\" được sử dụng để gửi thông điệp đến người dùng "
+"khác tại địa chỉ được cung cấp, như một tính năng chuyển tiếp thư. Hành "
+"động \"chuyển tiếp\" không thực hiện bất kỳ thay đổi nào đối với nội dung "
+"thông điệp hoặc các tiêu đề hiện có, nhưng có thể thêm các tiêu đề mới."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionredirect.cpp:143
+#, kde-format
+msgid ""
+"If the optional \":copy\" keyword is specified, the tagged command does not "
+"cancel the implicit \"keep\". Instead, it redirects a copy in addition to "
+"whatever else is happening to the message."
+msgstr ""
+"Nếu từ khoá tuỳ chọn \":copy\" được chỉ định, lệnh gắn thẻ sẽ không huỷ "
+"lệnh \"keep\" ngầm định. Thay vào đó, nó sẽ chuyển tiếp một bản sao ngoài "
+"những gì đang xảy ra với tin nhắn."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionreject.cpp:20
+#, kde-format
+msgid "Reject"
+msgstr "Từ chối"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionreject.cpp:86
+#, kde-format
+msgid ""
+" The \"reject\" action cancels the implicit keep and refuses delivery of a "
+"message."
+msgstr ""
+"Hành động \"từ chối\" hủy bỏ việc lưu giữ ngầm định và từ chối giao hàng "
+"của một tin nhắn."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionremoveflags.cpp:13
+#, kde-format
+msgid "Remove Flags"
+msgstr "Xoá Cờ"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionremoveflags.cpp:25
+#, kde-format
+msgid ""
+"Removeflag is used to remove flags from a list of [IMAP] flags. Removeflag "
+"clears flags previously set by \"set\"/\"addflag\". Calling removeflag with "
+"a flag that wasn't set before is not an error and is ignored."
+msgstr ""
+"Xoá cờ được sử dụng để xoá các cờ khỏi danh sách các cờ [IMAP]. Xoá cờ xóa "
+"các cờ đã được đặt trước đó bằng \"set\"/\"addflag\". Gọi xoá cờ với một cờ "
+"chưa được đặt trước đó không phải là lỗi và sẽ bị bỏ qua."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionreplace.cpp:24
+#, kde-format
+msgid "Replace"
+msgstr "Thay thế"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionreplace.cpp:44
+#, kde-format
+msgctxt "@label:textbox"
+msgid "from:"
+msgstr "từ:"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionreplace.cpp:142
+#, kde-format
+msgid ""
+"The \"replace\" command is defined to allow a MIME part to be replaced with "
+"the text supplied in the command."
+msgstr ""
+"Lệnh \"thay thế\" được định nghĩa để cho phép một phần MIME được thay thế "
+"bằng văn bản được cung cấp trong lệnh."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionreturn.cpp:13
+#, kde-format
+msgid "Return"
+msgstr "Trở về"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionreturn.cpp:30
+#, kde-format
+msgid ""
+"The \"return\" command stops processing of the immediately included script "
+"only and returns processing control to the script that includes it."
+msgstr ""
+"Lệnh \"return\" chỉ dừng việc xử lý kịch bản được bao gồm ngay lập tức và "
+"trả lại quyền điều khiển xử lý cho kịch bản bao gồm nó."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionsetflags.cpp:13
+#, kde-format
+msgid "Set Flags"
+msgstr "Đặt cờ"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionsetflags.cpp:24
+#, kde-format
+msgid ""
+"Setflag is used for setting [IMAP] system flags or keywords. Setflag "
+"replaces any previously set flags."
+msgstr ""
+"Setflag được sử dụng để thiết lập các cờ hệ thống [IMAP] hoặc từ khóa. "
+"Setflag sẽ thay thế bất kỳ cờ nào đã được thiết lập trước đó."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionsetvariable.cpp:24
+#, kde-format
+msgid "Variable"
+msgstr "Biến"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionsetvariable.cpp:42
+#, kde-format
+msgid "Protect special character"
+msgstr "Bảo vệ kí tự đặc biệt"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionsetvariable.cpp:48
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionenvironment.cpp:49
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionhasflag.cpp:56
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionmetadata.cpp:63
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionservermetadata.cpp:61
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Value:"
+msgstr "Giá trị:"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionsetvariable.cpp:57
+#, kde-format
+msgctxt "@label:textbox"
+msgid "In variable:"
+msgstr "Trong biến:"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionsetvariable.cpp:106
+#, kde-format
+msgid "Script needs regex support, but server does not have it."
+msgstr "Kịch bản cần hỗ trợ btcq, nhưng máy chủ không có."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionsetvariable.cpp:169
+#, kde-format
+msgid ""
+"The \"set\" action stores the specified value in the variable identified by "
+"name."
+msgstr ""
+"Hành động \"set\" lưu trữ giá trị được chỉ định trong biến được xác định "
+"bằng tên."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionsetvariable.cpp:172
+#, kde-format
+msgid ""
+"This modifier adds the necessary quoting to ensure that the expanded text "
+"will only match a literal occurrence if used as a parameter to :regex.  "
+"Every character with special meaning (. , *, ? , etc.) is prefixed with \\ "
+"in the expansion"
+msgstr ""
+"Bộ điều chỉnh này thêm các dấu trích dẫn cần thiết để đảm bảo rằng văn bản "
+"mở rộng chỉ khớp với một lần xuất hiện theo nghĩa đen nếu được sử dụng làm "
+"tham số cho :regex. Mỗi ký tự có ý nghĩa đặc biệt (. , *, ? , v.v.) được "
+"thêm tiền tố \\ trong phần mở rộng."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionstop.cpp:14
+#, kde-format
+msgid "Stop"
+msgstr "Dừng"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionstop.cpp:25
+#, kde-format
+msgid ""
+"The \"stop\" action ends all processing.  If the implicit keep has not been "
+"cancelled, then it is taken."
+msgstr ""
+"Hành động \"dừng\" kết thúc tất cả các xử lý. Nếu hành động giữ ngầm định "
+"chưa bị hủy, thì nó sẽ được thực hiện."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionvacation.cpp:27
+#, kde-format
+msgid "Vacation"
+msgstr "Nghỉ phép"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionvacation.cpp:46
+#, kde-format
+msgctxt "@label:textbox"
+msgid "day:"
+msgstr "ngày:"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionvacation.cpp:57
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Message subject:"
+msgstr "Chủ đề thông điệp:"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionvacation.cpp:66
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Additional email:"
+msgstr "Email bổ sung:"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionvacation.cpp:75
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Vacation reason:"
+msgstr "Lý do nghỉ phép:"
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionvacation.cpp:196
+#, kde-format
+msgid ""
+"The \"vacation\" action implements a vacation autoresponder similar to the "
+"vacation command available under many versions of Unix. Its purpose is to "
+"provide correspondents with notification that the user is away for an "
+"extended period of time and that they should not expect quick responses."
+msgstr ""
+"Hành động \"vacation\" thực hiện một tự động trả lời khi đi nghỉ tương tự "
+"như lệnh vacation có sẵn trên nhiều phiên bản Unix. Mục đích của nó là "
+"thông báo cho người liên lạc biết rằng người dùng đang đi vắng trong một "
+"thời gian dài và không nên mong đợi phản hồi nhanh chóng."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionvacation.cpp:200
+#, kde-format
+msgid ""
+"Through the \":days\" parameter, it limits the number of auto-replies to the "
+"same sender to one per [n] days, for a specified number of days. But there "
+"are cases when one needs more granularity, if one would like to generate "
+"\"vacation\" replies more frequently."
+msgstr ""
+"Thông qua tham số \":days\", nó giới hạn số lượng hồi đáp tự động gửi đến "
+"cùng một người gửi là một mỗi [n] ngày, trong một số ngày nhất định. Nhưng "
+"có những trường hợp khi cần có độ chi tiết cao hơn, nếu muốn tạo ra các hồi "
+"đáp \"nghỉ phép\" thường xuyên hơn."
+
+#: ksieveui/autocreatescripts/sieveactions/sieveactionvacation.cpp:202
+#, kde-format
+msgid ""
+"This extension defines a \":seconds\" parameter to provide more granularity "
+"for such situations."
+msgstr ""
+"Phần mở rộng này định nghĩa một tham số \":seconds\" để cung cấp độ chi "
+"tiết hơn cho những tình huống như vậy."
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/addresslineedit.cpp:27
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Define Email Address…"
+msgstr "Định nghĩa địa chỉ email..."
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/multilineedit.cpp:15
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Enter message…"
+msgstr "Nhập tin nhắn..."
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectaddheaderpositioncombobox.cpp:23
+#, kde-format
+msgid "Insert at the beginning"
+msgstr "Chèn vào đầu"
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectaddheaderpositioncombobox.cpp:24
+#, kde-format
+msgid "Append at the end"
+msgstr "Thêm vào cuối"
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectflagswidget.cpp:33
+#, kde-format
+msgctxt "@title:window"
+msgid "Flags"
+msgstr "Cờ"
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectflagswidget.cpp:89
+#, kde-format
+msgid "Deleted"
+msgstr "Đã xóa"
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectflagswidget.cpp:92
+#, kde-format
+msgid "Answered"
+msgstr "Đã trả lời"
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectflagswidget.cpp:95
+#, kde-format
+msgid "Flagged"
+msgstr "Đã đánh dấu"
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectflagswidget.cpp:98
+#, kde-format
+msgid "Seen"
+msgstr "Đã xem"
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectflagswidget.cpp:103
+#, kde-format
+msgid "Draft"
+msgstr "Bản nháp"
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectflagswidget.cpp:140
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Click on button for selecting flags…"
+msgstr "Bấm vào nút để chọn cờ..."
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectflagswidget.cpp:144
+#, kde-format
+msgid "…"
+msgstr "..."
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectflagswidget.cpp:145
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Select Flags"
+msgstr "Bôi đen Cờ"
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectimportancecombobox.cpp:25
+#, kde-format
+msgid "high importance"
+msgstr "mức độ quan trọng cao"
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectimportancecombobox.cpp:26
+#, kde-format
+msgid "normal importance"
+msgstr "mức độ quan trọng bình thường"
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectimportancecombobox.cpp:27
+#, kde-format
+msgid "low importance"
+msgstr "mức độ quan trọng thấp"
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectvacationcombobox.cpp:24
+#, kde-format
+msgid "days"
+msgstr "ngày"
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectvacationcombobox.cpp:25
+#, kde-format
+msgid "seconds"
+msgstr "giây"
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectvariablemodifiercombobox.cpp:24
+#, kde-format
+msgid "None"
+msgstr "Không"
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectvariablemodifiercombobox.cpp:25
+#, kde-format
+msgid "Lower"
+msgstr "Chữ thường"
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectvariablemodifiercombobox.cpp:26
+#, kde-format
+msgid "Upper"
+msgstr "Viết hoa"
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectvariablemodifiercombobox.cpp:27
+#, kde-format
+msgid "Lower first letter"
+msgstr "Chữ cái đầu tiên viết thường"
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectvariablemodifiercombobox.cpp:28
+#, kde-format
+msgid "Upper first letter"
+msgstr "Viết hoa chữ cái đầu"
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectvariablemodifiercombobox.cpp:29
+#, kde-format
+msgid "Quote wildcard"
+msgstr "Trích dẫn thế tự"
+
+#: ksieveui/autocreatescripts/sieveactions/widgets/selectvariablemodifiercombobox.cpp:30
+#, kde-format
+msgid "Length"
+msgstr "Độ dài"
+
+#: ksieveui/autocreatescripts/sieveactionwidgetlister.cpp:62
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Please select an action."
+msgstr "Vui lòng bôi đen một hành động."
+
+#: ksieveui/autocreatescripts/sieveactionwidgetlister.cpp:139
+#: ksieveui/autocreatescripts/sieveconditionwidgetlister.cpp:110
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Add comment"
+msgstr "Thêm chú thích"
+
+#: ksieveui/autocreatescripts/sieveactionwidgetlister.cpp:274
+#: ksieveui/autocreatescripts/sieveconditionwidgetlister.cpp:222
+#, kde-format
+msgid "Script contains unsupported feature \"%1\""
+msgstr "Kịch bản chứa tính năng không được hỗ trợ \"%1\""
+
+#: ksieveui/autocreatescripts/sieveactionwidgetlister.cpp:410
+#, kde-format
+msgid "We detected a loop if in a loop if. It's not supported"
+msgstr ""
+"Chúng tôi đã phát hiện một vòng lặp if trong một vòng lặp if. Điều này "
+"không được hỗ trợ"
+
+#: ksieveui/autocreatescripts/sieveconditions/sievecondition.cpp:31
+#, kde-format
+msgid "Unknown tag \"%1\" during parsing condition \"%2\""
+msgstr "Gặp thẻ \"%1\" không rõ trong khi phân tích điều kiện \"%2\""
+
+#: ksieveui/autocreatescripts/sieveconditions/sievecondition.cpp:41
+#, kde-format
+msgid ""
+"Too many argument found for \"%1\", max value is %2, number of value found "
+"%3 for %4"
+msgstr ""
+"Đã tìm thấy quá nhiều đối số cho \"%1\", giá trị tối đa là %2, số lượng đối "
+"số tìm thấy %3 cho %4"
+
+#: ksieveui/autocreatescripts/sieveconditions/sievecondition.cpp:47
+#, kde-format
+msgid "An unknown tag value \"%1\" was found during parsing condition \"%2\"."
+msgstr ""
+"Đã tìm thấy một giá trị thẻ không rõ \"%1\" trong khi phân tích điều kiện "
+"\"%2\"."
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionaddress.cpp:23
+#, kde-format
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionaddress.cpp:52
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionenvelope.cpp:54
+#, kde-format
+msgctxt "@label:textbox"
+msgid "address:"
+msgstr "địa chỉ:"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionaddress.cpp:59
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionenvelope.cpp:62
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Use ; to separate emails"
+msgstr "Sử dụng ; để phân tách các email"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionaddress.cpp:95
+#, kde-format
+msgid ""
+"The \"address\" test matches Internet addresses in structured headers that "
+"contain addresses.  It returns true if any header contains any key in the "
+"specified part of the address, as modified by the comparator and the match "
+"keyword."
+msgstr ""
+"Kiểm thử \"địa chỉ\" khớp với các địa chỉ Internet trong các đầu tải có cấu "
+"trúc chứa địa chỉ. Nó trả về true nếu bất kỳ đầu tải nào chứa bất kỳ khóa "
+"nào trong phần địa chỉ được chỉ định, như được chỉnh sửa bởi bộ so sánh và "
+"từ khóa khớp."
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionbody.cpp:20
+#, kde-format
+msgid "Body"
+msgstr "Nội dung"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionbody.cpp:85
+#, kde-format
+msgid ""
+"The body test matches content in the body of an email message, that is, "
+"anything following the first empty line after the header.  (The empty line "
+"itself, if present, is not considered to be part of the body.)"
+msgstr ""
+"Kiểm thử nội dung khớp với nội dung trong thân của một thư điện tử, tức là "
+"bất cứ thứ gì sau dòng trống đầu tiên sau phần tiêu đề. (Dòng trống đó, nếu "
+"có, không được coi là một phần của thân thư.)"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditioncurrentdate.cpp:21
+#, kde-format
+msgid "Currentdate"
+msgstr "Ngày hiện tại"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditioncurrentdate.cpp:78
+#, kde-format
+msgid ""
+"The currentdate test is similar to the date test, except that it operates on "
+"the current date/time rather than a value extracted from the message header."
+msgstr ""
+"Kiểm thử currentdate tương tự như kiểm thử date, ngoại trừ nó hoạt động "
+"trên ngày/thời gian hiện tại thay vì một giá trị được trích xuất từ tiêu đề "
+"thông điệp."
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditiondate.cpp:23
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectdatewidget.cpp:41
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectheadertypecombobox.cpp:255
+#, kde-format
+msgid "Date"
+msgstr "Ngày"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditiondate.cpp:93
+#, kde-format
+msgid ""
+"The date test matches date/time information derived from headers containing "
+"date-time values."
+msgstr ""
+"Kiểm thử ngày khớp với thông tin ngày/giờ được rút ra từ các tiêu đề chứa "
+"các giá trị ngày-giờ."
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionenvelope.cpp:24
+#, kde-format
+msgid "Envelope"
+msgstr "Phong bì"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionenvelope.cpp:106
+#, kde-format
+msgid ""
+"The \"envelope\" test is true if the specified part of the [SMTP] (or "
+"equivalent) envelope matches the specified key."
+msgstr ""
+"Kiểm thử \"envelope\" là đúng nếu phần được chỉ định của phần (SMTP) (hoặc "
+"tương đương) phù hợp với khóa được chỉ định."
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionenvironment.cpp:23
+#, kde-format
+msgid "Environment"
+msgstr "Môi trường"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionenvironment.cpp:33
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Item:"
+msgstr "Mục:"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionenvironment.cpp:90
+#, kde-format
+msgid ""
+"The environment test retrieves the item of environment information specified "
+"by the name string and matches it to the values specified in the key-list "
+"argument."
+msgstr ""
+"Kiểm thử môi trường lấy mục thông tin môi trường được chỉ định bởi chuỗi "
+"tên và so khớp nó với các giá trị được chỉ định trong đối số danh sách "
+"khóa."
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionexists.cpp:22
+#, kde-format
+msgid "Exists"
+msgstr "Tồn tại"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionexists.cpp:35
+#, kde-format
+msgid "exists"
+msgstr "tồn tại"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionexists.cpp:36
+#, kde-format
+msgid "not exists"
+msgstr "không tồn tại"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionexists.cpp:63
+#, kde-format
+msgid ""
+"The \"exists\" test is true if the headers listed in the header-names "
+"argument exist within the message.  All of the headers must exist or the "
+"test is false."
+msgstr ""
+"Kiểm thử \"exists\" là đúng nếu các tiêu đề được liệt kê trong đối số tên "
+"tiêu đề tồn tại trong thư. Tất cả các tiêu đề phải tồn tại hoặc kiểm thử sẽ "
+"sai."
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionfalse.cpp:20
+#, kde-format
+msgid "False"
+msgstr "Sai"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionfalse.cpp:31
+#, kde-format
+msgctxt "@label:textbox"
+msgid "false"
+msgstr "sai"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionfalse.cpp:43
+#, kde-format
+msgid "The \"false\" test always evaluates to false."
+msgstr "Kiểm thử \"false\" luôn luôn trả về kết quả sai."
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionhasflag.cpp:24
+#, kde-format
+msgid "Has Flag"
+msgstr "Có cờ"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionhasflag.cpp:46
+#, kde-format
+msgctxt "@label:textbox"
+msgid ""
+"Variable name\n"
+" (if empty it uses internal variable):"
+msgstr "Tên biến\n (nếu để trống sẽ sử dụng biến nội bộ):"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionhasflag.cpp:127
+#, kde-format
+msgid ""
+"The hasflag test evaluates to true if any of the variables matches any flag "
+"name."
+msgstr ""
+"Kiểm thử hasflag sẽ trả về true nếu bất kỳ biến nào khớp với bất kỳ tên cờ "
+"nào."
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionheader.cpp:21
+#, kde-format
+msgid "Header"
+msgstr "Đầu tải"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionheader.cpp:45
+#, kde-format
+msgctxt "@label:textbox"
+msgid "With value:"
+msgstr "Với giá trị:"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionheader.cpp:75
+#, kde-format
+msgid ""
+"The \"header\" test evaluates to true if the value of any of the named "
+"headers, ignoring leading and trailing whitespace, matches any key."
+msgstr ""
+"Kiểm thử \"header\" sẽ trả về true nếu giá trị của bất kỳ tiêu đề nào được "
+"đặt tên, bỏ qua khoảng trắng đầu và cuối, khớp với bất kỳ khóa nào."
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionihave.cpp:21
+#, kde-format
+msgid "IHave"
+msgstr "Tôi có"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionihave.cpp:35
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Use \",\" to separate capabilities"
+msgstr "Sử dụng \",\" để phân tách các khả năng"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionihave.cpp:68
+#, kde-format
+msgid ""
+"The \"ihave\" test provides a means for Sieve scripts to test for the "
+"existence of a given extension prior to actually using it."
+msgstr ""
+"Kiểm thử \"ihave\" cung cấp một phương tiện để các kịch bản Sieve kiểm tra "
+"sự tồn tại của một phần mở rộng nhất định trước khi thực sự sử dụng nó."
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionmailboxexists.cpp:20
+#, kde-format
+msgid "Mailbox exists"
+msgstr "Hộp thư tồn tại"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionmailboxexists.cpp:66
+#, kde-format
+msgid ""
+"The \"mailboxexists\" test is true if all mailboxes listed in the \"mailbox-"
+"names\" argument exist in the mailstore, and each allows the user in whose "
+"context the Sieve script runs to \"deliver\" messages into it."
+msgstr ""
+"Kiểm thử \"mailboxexists\" là đúng nếu tất cả các hộp thư được liệt kê "
+"trong đối số \"mailbox-names\" tồn tại trong kho thư, và mỗi hộp thư cho "
+"phép người dùng trong ngữ cảnh mà kịch bản Sieve chạy để \"giao hàng\" tin "
+"nhắn vào đó."
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionmetadata.cpp:24
+#, kde-format
+msgid "Meta Data"
+msgstr "Siêu dữ liệu"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionmetadata.cpp:44
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionmetadataexists.cpp:33
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionservermetadata.cpp:43
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Mailbox:"
+msgstr "Hộp thư:"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionmetadata.cpp:54
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionservermetadata.cpp:52
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Annotations:"
+msgstr "Chú thích:"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionmetadata.cpp:119
+#, kde-format
+msgid ""
+"This test retrieves the value of the mailbox annotation \"annotation-name\" "
+"for the mailbox \"mailbox\". The retrieved value is compared to the \"key-"
+"list\". The test returns true if the annotation exists and its value matches "
+"any of the keys."
+msgstr ""
+"Bài kiểm thử này lấy giá trị của chú dẫn mailbox \"annotation-name\" cho "
+"mailbox \"mailbox\". Giá trị lấy được sẽ được so sánh với \"key-list\". Bài "
+"kiểm thử sẽ trả về true nếu chú dẫn tồn tại và giá trị của nó khớp với bất "
+"kỳ khóa nào trong danh sách."
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionmetadataexists.cpp:22
+#, kde-format
+msgid "Metadata exists"
+msgstr "Siêu dữ liệu tồn tại"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionmetadataexists.cpp:42
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionservermetadataexists.cpp:31
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Annotation:"
+msgstr "Chú thích:"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionmetadataexists.cpp:81
+#, kde-format
+msgid ""
+"The \"metadataexists\" test is true if all of the annotations listed in the "
+"\"annotation-names\" argument exist for the specified mailbox."
+msgstr ""
+"Kiểm thử \"metadataexists\" là đúng nếu tất cả các chú thích được liệt kê "
+"trong đối số \"annotation-names\" tồn tại cho hộp thư được chỉ định."
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionservermetadata.cpp:23
+#, kde-format
+msgid "Server Meta Data"
+msgstr "Siêu dữ liệu máy chủ"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionservermetadata.cpp:117
+#, kde-format
+msgid ""
+"This test retrieves the value of the server annotation \"annotation-name\".  "
+"The retrieved value is compared to the \"key-list\". The test returns true "
+"if the annotation exists and its value matches any of the keys."
+msgstr ""
+"Kiểm thử này lấy giá trị của chú dẫn máy chủ \"annotation-name\". Giá trị "
+"lấy được được so sánh với \"key-list\". Kiểm thử trả về đúng nếu chú dẫn "
+"tồn tại và giá trị của nó khớp với bất kỳ khóa nào trong danh sách."
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionservermetadataexists.cpp:20
+#, kde-format
+msgid "Server Meta Data Exists"
+msgstr "Máy chủ Meta Data Tồn tại"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionservermetadataexists.cpp:67
+#, kde-format
+msgid ""
+"The \"servermetadataexists\" test is true if all of the server annotations "
+"listed in the \"annotation-names\" argument exist."
+msgstr ""
+"Kiểm thử \"servermetadataexists\" là đúng nếu tất cả các chú thích máy chủ "
+"được liệt kê trong đối số \"annotation-names\" đều tồn tại."
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionsize.cpp:20
+#, kde-format
+msgid "Size"
+msgstr "Kích thước"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionsize.cpp:33
+#, kde-format
+msgid "under"
+msgstr "dưới"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionsize.cpp:34
+#, kde-format
+msgid "over"
+msgstr "lớn hơn"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionsize.cpp:57
+#, kde-format
+msgid ""
+"The \"size\" test deals with the size of a message.  It takes either a "
+"tagged argument of \":over\" or \":under\", followed by a number "
+"representing the size of the message."
+msgstr ""
+"Kiểm thử \"size\" xử lý với kích thước của một tin nhắn. Nó nhận một đối số "
+"gắn thẻ \":over\" hoặc \":under\", theo sau là một số đại diện cho kích "
+"thước của tin nhắn."
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionspamtest.cpp:24
+#, kde-format
+msgid "Spam Test"
+msgstr "Kiểm thử Spam"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionspamtest.cpp:37
+#, kde-format
+msgid "Percent"
+msgstr "Phần trăm"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionspamtest.cpp:111
+#, kde-format
+msgid ""
+"Sieve implementations that implement the \"spamtest\" test use an identifier "
+"of either \"spamtest\" or \"spamtestplus\" for use with the capability "
+"mechanism."
+msgstr ""
+"Các triển khai Sieve thực hiện \"kiểm thử spam\" sử dụng mã định danh "
+"\"spamtest\" hoặc \"spamtestplus\" để sử dụng với cơ chế khả năng."
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditiontrue.cpp:20
+#, kde-format
+msgid "True"
+msgstr "Đúng"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditiontrue.cpp:31
+#, kde-format
+msgctxt "@label:textbox"
+msgid "true"
+msgstr "đúng"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditiontrue.cpp:43
+#, kde-format
+msgid "The \"true\" test always evaluates to true."
+msgstr "Kiểm thử \"true\" luôn đánh giá là đúng."
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionvirustest.cpp:22
+#, kde-format
+msgid "Virus Test"
+msgstr "Kiểm thử virus"
+
+#: ksieveui/autocreatescripts/sieveconditions/sieveconditionvirustest.cpp:90
+#, kde-format
+msgid ""
+"Sieve implementations that implement the \"virustest\" test have an "
+"identifier of \"virustest\" for use with the capability mechanism."
+msgstr ""
+"Các triển khai Sieve thực hiện \"kiểm thử virus\" có mã định danh "
+"\"virustest\" để sử dụng với cơ chế khả năng."
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectaddresspartcombobox.cpp:26
+#, kde-format
+msgid "all"
+msgstr "tất cả"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectaddresspartcombobox.cpp:27
+#, kde-format
+msgid "localpart"
+msgstr "phần địa phương"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectaddresspartcombobox.cpp:28
+#, kde-format
+msgid "domain"
+msgstr "miền"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectaddresspartcombobox.cpp:30
+#, kde-format
+msgid "user"
+msgstr "người dùng"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectaddresspartcombobox.cpp:31
+#, kde-format
+msgid "detail"
+msgstr "chi tiết"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectbodytypewidget.cpp:33
+#, kde-format
+msgid "raw"
+msgstr "raw"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectbodytypewidget.cpp:34
+#, kde-format
+msgid "content"
+msgstr "nội dung"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectbodytypewidget.cpp:35
+#, kde-format
+msgid "text"
+msgstr "văn bản"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectdatewidget.cpp:38
+#, kde-format
+msgid "Year"
+msgstr "Năm"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectdatewidget.cpp:39
+#, kde-format
+msgid "Month"
+msgstr "Tháng"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectdatewidget.cpp:40
+#, kde-format
+msgid "Day"
+msgstr "Ngày"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectdatewidget.cpp:42
+#, kde-format
+msgid "Julian"
+msgstr "Julian"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectdatewidget.cpp:43
+#, kde-format
+msgid "Hour"
+msgstr "Giờ"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectdatewidget.cpp:44
+#, kde-format
+msgid "Minute"
+msgstr "Phút"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectdatewidget.cpp:45
+#, kde-format
+msgid "Second"
+msgstr "Thứ hai"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectdatewidget.cpp:46
+#, kde-format
+msgid "Time"
+msgstr "Thời gian"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectdatewidget.cpp:47
+#, kde-format
+msgid "iso8601"
+msgstr "iso8601"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectdatewidget.cpp:48
+#, kde-format
+msgid "std11"
+msgstr "std11"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectdatewidget.cpp:49
+#, kde-format
+msgid "Zone"
+msgstr "Vùng"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectdatewidget.cpp:50
+#, kde-format
+msgid "Weekday"
+msgstr "Ngày trong tuần"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectheadertypecombobox.cpp:29
+msgid "Select multiple headers…"
+msgstr "Bôi đen nhiều tiêu đề..."
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectheadertypecombobox.cpp:36
+#, kde-format
+msgctxt "@title:window"
+msgid "Headers"
+msgstr "Tiêu đề"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectheadertypecombobox.cpp:55
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Add new header:"
+msgstr "Thêm tiêu đề mới:"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectheadertypecombobox.cpp:245
+#, kde-format
+msgid "From"
+msgstr "Từ"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectheadertypecombobox.cpp:246
+#, kde-format
+msgid "To"
+msgstr "Đến"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectheadertypecombobox.cpp:247
+#, kde-format
+msgid "Reply To"
+msgstr "Hồi đáp"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectheadertypecombobox.cpp:248
+#, kde-format
+msgid "Cc"
+msgstr "Cc"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectheadertypecombobox.cpp:249
+#, kde-format
+msgid "Bcc"
+msgstr "Bcc"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectheadertypecombobox.cpp:250
+#, kde-format
+msgid "Resent From"
+msgstr "Gửi lại từ"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectheadertypecombobox.cpp:251
+#, kde-format
+msgid "Resent To"
+msgstr "Gửi lại đến"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectheadertypecombobox.cpp:252
+#, kde-format
+msgid "Sender"
+msgstr "Người gửi"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectheadertypecombobox.cpp:254
+#, kde-format
+msgid "Subject"
+msgstr "Chủ đề"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectheadertypecombobox.cpp:256
+#, kde-format
+msgid "Message Id"
+msgstr "Mã định danh thông điệp"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectheadertypecombobox.cpp:257
+#, kde-format
+msgid "Content type"
+msgstr "Kiểu nội dung"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectmimecombobox.cpp:24
+#, kde-format
+msgid "Type"
+msgstr "Kiểu"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectmimecombobox.cpp:25
+#, kde-format
+msgid "Subtype"
+msgstr "Phụ loại"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectmimecombobox.cpp:26
+#, kde-format
+msgid "Anychild"
+msgstr "Bất kỳ con nào"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectmimecombobox.cpp:27
+#, kde-format
+msgid "Parameters"
+msgstr "Tham số"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectrelationalmatchtype.cpp:55
+#, kde-format
+msgid "Value"
+msgstr "Giá trị"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectrelationalmatchtype.cpp:56
+#, kde-format
+msgid "Count"
+msgstr "Đếm"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectrelationalmatchtype.cpp:60
+#, kde-format
+msgid "Greater than"
+msgstr "Lớn hơn"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectrelationalmatchtype.cpp:61
+#, kde-format
+msgid "Greater than or equal"
+msgstr "Lớn hơn hoặc bằng"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectrelationalmatchtype.cpp:62
+#, kde-format
+msgid "Less than"
+msgstr "Nhỏ hơn"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectrelationalmatchtype.cpp:63
+#, kde-format
+msgid "Less than or equal"
+msgstr "Nhỏ hơn hoặc bằng"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectrelationalmatchtype.cpp:64
+#, kde-format
+msgid "Equal to"
+msgstr "Bằng"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectrelationalmatchtype.cpp:65
+#, kde-format
+msgid "Not equal to"
+msgstr "Không bằng"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectsizetypecombobox.cpp:24
+#, kde-format
+msgid "Bytes"
+msgstr "Byte"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectsizetypecombobox.cpp:25
+#, kde-format
+msgid "KiB"
+msgstr "KiB"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectsizetypecombobox.cpp:26
+#, kde-format
+msgid "MiB"
+msgstr "MiB"
+
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectsizetypecombobox.cpp:27
+#, kde-format
+msgid "GiB"
+msgstr "GiB"
+
+#: ksieveui/autocreatescripts/sieveconditionwidgetlister.cpp:54
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Please select an condition."
+msgstr "Vui lòng bôi đen một điều kiện."
+
+#: ksieveui/autocreatescripts/sieveeditorgraphicalmodewidget.cpp:30
+#, kde-format
+msgid "Sieve Script"
+msgstr "Kịch bản Sieve"
+
+#: ksieveui/autocreatescripts/sieveeditorgraphicalmodewidget.cpp:138
+#, kde-format
+msgid "Error during importing script. Do you want to switch to text mode?"
+msgstr ""
+"Lỗi trong quá trình nhập kịch bản. Bạn có muốn chuyển sang chế độ văn bản "
+"không?"
+
+#: ksieveui/autocreatescripts/sieveeditorgraphicalmodewidget.cpp:140
+#, kde-format
+msgctxt "@action:button"
+msgid "Switch to Text Mode"
+msgstr "Chuyển sang Chế độ Văn bản"
+
+#: ksieveui/autocreatescripts/sieveeditorgraphicalmodewidget.cpp:141
+#, kde-format
+msgctxt "@action:button"
+msgid "Do Not Switch"
+msgstr "Không chuyển đổi"
+
+#: ksieveui/autocreatescripts/sieveforeverypartwidget.cpp:30
+#, kde-format
+msgid "Add ForEveryPart loop"
+msgstr "Thêm vòng lặp ForEveryPart"
+
+#: ksieveui/autocreatescripts/sieveforeverypartwidget.cpp:62
+#, kde-format
+msgid ""
+"\"foreverypart\", which is an iterator that walks though every MIME part of "
+"a message, including nested parts, depth first, and applies the commands in "
+"the specified block to each of them."
+msgstr ""
+"\"foreverypart\", là một bộ lặp đi qua từng phần MIME của một thư, bao gồm "
+"cả các phần lồng nhau, theo thứ tự sâu trước rộng sau, và áp dụng các lệnh "
+"trong khối được chỉ định cho từng phần."
+
+#: ksieveui/autocreatescripts/sieveforeverypartwidget.cpp:92
+#, kde-format
+msgid "Unknown tagValue \"%1\" during loading loop \"for\""
+msgstr "Không rõ tagValue \"%1\" trong vòng lặp \"for\" khi đang tải"
+
+#: ksieveui/autocreatescripts/sieveforeverypartwidget.cpp:104
+#, kde-format
+msgid "Unknown tag \"%1\" during loading loop \"for\""
+msgstr "Không rõ gắn thẻ \"%1\" trong vòng lặp \"for\" khi đang tải"
+
+#: ksieveui/autocreatescripts/sieveglobalvariablewidget.cpp:58
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Variable name:"
+msgstr "Tên biến:"
+
+#: ksieveui/autocreatescripts/sieveglobalvariablewidget.cpp:65
+#, kde-format
+msgid "Set value to:"
+msgstr "Đặt giá trị thành:"
+
+#: ksieveui/autocreatescripts/sieveglobalvariablewidget.cpp:129
+#, kde-format
+msgid "Unknown tag \"%1\" during loading of variables."
+msgstr "Không rõ thẻ \"%1\" trong quá trình tải các biến."
+
+#: ksieveui/autocreatescripts/sieveglobalvariablewidget.cpp:179
+#, kde-format
+msgid ""
+"A variable has global scope in all scripts that have declared it with the "
+"\"global\" command.  If a script uses that variable name without declaring "
+"it global, the name specifies a separate, non-global variable within that "
+"script."
+msgstr ""
+"Một biến có phạm vi toàn cục trong tất cả các kịch bản đã khai báo nó với "
+"lệnh \"global\". Nếu một kịch bản sử dụng tên biến đó mà không khai báo nó "
+"là toàn cục, tên đó sẽ chỉ định một biến riêng biệt, không phải toàn cục "
+"trong kịch bản đó."
+
+#: ksieveui/autocreatescripts/sieveincludewidget.cpp:43
+#, kde-format
+msgid "personal"
+msgstr "cá nhân"
+
+#: ksieveui/autocreatescripts/sieveincludewidget.cpp:44
+#, kde-format
+msgid "global"
+msgstr "toàn cục"
+
+#: ksieveui/autocreatescripts/sieveincludewidget.cpp:58
+#, kde-format
+msgid "Unknown location type \"%1\" during parsing includes"
+msgstr "Không rõ kiểu địa điểm \"%1\" trong khi phân tích các bao gồm"
+
+#: ksieveui/autocreatescripts/sieveincludewidget.cpp:129
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Include:"
+msgstr "Bao gồm:"
+
+#: ksieveui/autocreatescripts/sieveincludewidget.cpp:135
+#: ksieveui/templates/sievetemplateeditdialog.cpp:59
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Name:"
+msgstr "Tên:"
+
+#: ksieveui/autocreatescripts/sieveincludewidget.cpp:144
+#, kde-format
+msgid "Optional"
+msgstr "Tuỳ chọn"
+
+#: ksieveui/autocreatescripts/sieveincludewidget.cpp:148
+#, kde-format
+msgid "Once"
+msgstr "Một lần"
+
+#: ksieveui/autocreatescripts/sieveincludewidget.cpp:220
+#, kde-format
+msgid ""
+"The \"include\" command takes an optional \"location\" parameter, an "
+"optional \":once\" parameter, an optional \":optional\" parameter, and a "
+"single string argument representing the name of the script to include for "
+"processing at that point."
+msgstr ""
+"Lệnh \"include\" có thể nhận một tham số \"location\" tuỳ chọn, một tham số "
+"\":once\" tuỳ chọn, một tham số \":optional\" tuỳ chọn, và một đối số dạng "
+"chuỗi đại diện cho tên của kịch bản cần được bao gồm để xử lý tại điểm đó."
+
+#: ksieveui/autocreatescripts/sieveincludewidget.cpp:342
+#, kde-format
+msgid "We can not add more includes elements."
+msgstr "Chúng tôi không thể thêm nhiều phần tử bao gồm hơn nữa."
+
+#: ksieveui/autocreatescripts/sievescriptblockwidget.cpp:35
+#, kde-format
+msgid "Conditions"
+msgstr "Điều kiện"
+
+#: ksieveui/autocreatescripts/sievescriptblockwidget.cpp:38
+#, kde-format
+msgid "Match all messages"
+msgstr "Khớp với tất cả các tin nhắn"
+
+#: ksieveui/autocreatescripts/sievescriptblockwidget.cpp:39
+#, kde-format
+msgid "Match a&ll of the following"
+msgstr "Khớp tất cả các điều &sau"
+
+#: ksieveui/autocreatescripts/sievescriptblockwidget.cpp:40
+#, kde-format
+msgid "Match an&y of the following"
+msgstr "Khớp với bất kỳ điều nào sau đâ&y"
+
+#: ksieveui/autocreatescripts/sievescriptblockwidget.cpp:68
+#, kde-format
+msgid "Actions"
+msgstr "Hành động"
+
+#: ksieveui/autocreatescripts/sievescriptblockwidget.cpp:83
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Add new block:"
+msgstr "Thêm khối mới:"
+
+#: ksieveui/autocreatescripts/sievescriptblockwidget.cpp:87
+#, kde-format
+msgid "\"elsif\" block"
+msgstr "khối \"elsif\""
+
+#: ksieveui/autocreatescripts/sievescriptblockwidget.cpp:88
+#, kde-format
+msgid "\"else\" block"
+msgstr "khối \"else\""
+
+#: ksieveui/autocreatescripts/sievescriptdescriptiondialog.cpp:28
+#, kde-format
+msgctxt "@title:window"
+msgid "Description"
+msgstr "Mô tả"
+
+#: ksieveui/autocreatescripts/sievescriptlistbox.cpp:128
+#, kde-format
+msgctxt "Move selected filter up."
+msgid "Up"
+msgstr "Lên"
+
+#: ksieveui/autocreatescripts/sievescriptlistbox.cpp:129
+#, kde-format
+msgctxt "Move selected filter down."
+msgid "Down"
+msgstr "Xuống"
+
+#: ksieveui/autocreatescripts/sievescriptlistbox.cpp:130
+#, kde-format
+msgctxt "Move selected filter to the top."
+msgid "Top"
+msgstr "Lên trên"
+
+#: ksieveui/autocreatescripts/sievescriptlistbox.cpp:131
+#, kde-format
+msgctxt "Move selected filter to the bottom."
+msgid "Bottom"
+msgstr "Chuyển bộ lọc đã chọn xuống dưới cùng."
+
+#: ksieveui/autocreatescripts/sievescriptlistbox.cpp:143
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "New Script"
+msgstr "Kịch bản mới"
+
+#: ksieveui/autocreatescripts/sievescriptlistbox.cpp:149
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Delete Script"
+msgstr "Xóa kịch bản"
+
+#: ksieveui/autocreatescripts/sievescriptlistbox.cpp:153
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Rename Script"
+msgstr "Đổi tên kịch bản"
+
+#: ksieveui/autocreatescripts/sievescriptlistbox.cpp:159
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Edit Script Description"
+msgstr "Sửa mô tả kịch bản"
+
+#: ksieveui/autocreatescripts/sievescriptlistbox.cpp:188
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "New Script"
+msgstr "Kịch bản mới"
+
+#: ksieveui/autocreatescripts/sievescriptlistbox.cpp:193
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Rename Script"
+msgstr "Đổi tên kịch bản"
+
+#: ksieveui/autocreatescripts/sievescriptlistbox.cpp:198
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Edit Script Description"
+msgstr "Sửa mô tả kịch bản"
+
+#: ksieveui/autocreatescripts/sievescriptlistbox.cpp:203
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Delete Script"
+msgstr "Xóa kịch bản"
+
+#: ksieveui/autocreatescripts/sievescriptlistbox.cpp:257
+#: ksieveui/widgets/managesievewidget.cpp:228
+#: ksieveui/widgets/managesievewidget.cpp:234
+#: ksieveui/widgets/managesievewidget.cpp:246
+#, kde-format
+msgctxt "@title:window"
+msgid "New Script"
+msgstr "Kịch bản mới"
+
+#: ksieveui/autocreatescripts/sievescriptlistbox.cpp:257
+#, kde-format
+msgid "New script name:"
+msgstr "Tên kịch bản mới:"
+
+#: ksieveui/autocreatescripts/sievescriptlistbox.cpp:269
+#, kde-format
+msgid "Do you want to delete \"%1\" script?"
+msgstr "Bạn có muốn xóa kịch bản \"%1\" không?"
+
+#: ksieveui/autocreatescripts/sievescriptlistbox.cpp:270
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete Script"
+msgstr "Xóa kịch bản"
+
+#: ksieveui/autocreatescripts/sievescriptlistbox.cpp:290
+#, kde-format
+msgctxt "@title:window"
+msgid "Rename Script"
+msgstr "Đổi tên Kịch bản"
+
+#: ksieveui/autocreatescripts/sievescriptlistbox.cpp:290
+#, kde-format
+msgid "New name for the script:"
+msgstr "Tên mới cho tập lệnh:"
+
+#: ksieveui/autocreatescripts/sievescriptlistbox.cpp:479
+#, kde-format
+msgid "forEveryPart is not supported by your server"
+msgstr "máy chủ của bạn không hỗ trợ forEveryPart"
+
+#: ksieveui/autocreatescripts/sievescriptlistbox.cpp:583
+#, kde-format
+msgid "Script part %1"
+msgstr "Phần kịch bản %1"
+
+#: ksieveui/autocreatescripts/sievescriptpage.cpp:36
+#, kde-format
+msgid "Includes"
+msgstr "Bao gồm"
+
+#: ksieveui/autocreatescripts/sievescriptpage.cpp:40
+#, kde-format
+msgid "Global Variable"
+msgstr "Biến toàn cục"
+
+#: ksieveui/autocreatescripts/sievescriptpage.cpp:46
+#, kde-format
+msgid "ForEveryPart"
+msgstr "ForEveryPart"
+
+#: ksieveui/autocreatescripts/sievescriptpage.cpp:95
+#, kde-format
+msgid ""
+"Script should always have just one \"Else\" block. We cannot add another one."
+msgstr ""
+"Kịch bản luôn chỉ nên có một khối \"Else\". Chúng tôi không thể thêm một "
+"cái khác."
+
+#: ksieveui/autocreatescripts/sievescriptpage.cpp:111
+#, kde-format
+msgid "Main block"
+msgstr "Khối chính"
+
+#: ksieveui/autocreatescripts/sievescriptpage.cpp:113
+#, kde-format
+msgid "Block \"Elsif\""
+msgstr "Khối \"Elsif\""
+
+#: ksieveui/autocreatescripts/sievescriptpage.cpp:115
+#, kde-format
+msgid "Block \"Else\""
+msgstr "Khối \"Else\""
+
+#: ksieveui/autocreatescripts/sievescriptparsingerrordialog.cpp:30
+#, kde-format
+msgctxt "@title:window"
+msgid "Sieve Parsing Error"
+msgstr "Lỗi phân tích cú pháp Sieve"
+
+#: ksieveui/autocreatescripts/sievescriptparsingerrordialog.cpp:39
+#: ksieveui/scriptsparsing/parsingresultdialog.cpp:40
+#, kde-format
+msgid "Save As…"
+msgstr "Lưu Dưới Tên..."
+
+#: ksieveui/autocreatescripts/sievescriptparsingerrordialog.cpp:54
+#, kde-format
+msgid "Sieve script:"
+msgstr "Kịch bản Sieve:"
+
+#: ksieveui/autocreatescripts/sievescriptparsingerrordialog.cpp:56
+#, kde-format
+msgid "Errors reported:"
+msgstr "Các lỗi được báo cáo:"
+
+#: ksieveui/autocreatescripts/sievescriptparsingerrordialog.cpp:79
+#, kde-format
+msgid "All Files (*)"
+msgstr "Tất cả các tệp (*)"
+
+#: ksieveui/autocreatescripts/sievescriptparsingerrordialog.cpp:80
+#, kde-format
+msgctxt "@title:window"
+msgid "Save Log To File"
+msgstr "Lưu nhật kí vào tệp"
+
+#: ksieveui/autocreatescripts/sievescripttabwidget.cpp:45
+#: ksieveui/editor/sieveeditortabwidget.cpp:45
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Close Tab"
+msgstr "Đóng Thẻ"
+
+#: ksieveui/debug/sievedebugdialog.cpp:40
+#, kde-format
+msgctxt "@title:window"
+msgid "Sieve Diagnostics"
+msgstr "Chẩn đoán Sieve"
+
+#: ksieveui/debug/sievedebugdialog.cpp:65
+#, kde-format
+msgid ""
+"Collecting diagnostic information about Sieve support…\n"
+"\n"
+msgstr "Đang thu thập thông tin chẩn đoán về hỗ trợ Sieve…\n"
+
+#: ksieveui/debug/sievedebugdialog.cpp:68
+#, kde-format
+msgid "No IMAP resource found."
+msgstr "Không tìm thấy tài nguyên IMAP."
+
+#: ksieveui/debug/sievedebugdialog.cpp:104
+#, kde-format
+msgid ""
+"Unable to get the info\n"
+"\n"
+msgstr "Không thể lấy thông tin\n\n"
+
+#: ksieveui/debug/sievedebugdialog.cpp:122
+#, kde-format
+msgid "Collecting data for account '%1'…\n"
+msgstr "Đang thu thập dữ liệu cho danh khoản '%1'…\n"
+
+#: ksieveui/debug/sievedebugdialog.cpp:123
+#, kde-format
+msgid "------------------------------------------------------------\n"
+msgstr "------------------------------------------------------------\n"
+
+#: ksieveui/debug/sievedebugdialog.cpp:137
+#, kde-format
+msgid ""
+"(Account does not support Sieve)\n"
+"\n"
+msgstr "(Tài khoản không hỗ trợ Sieve)\n\n"
+
+#: ksieveui/debug/sievedebugdialog.cpp:169
+#, kde-format
+msgid "Contents of script '%1':\n"
+msgstr "Nội dung của kịch bản '%1':\n"
+
+#: ksieveui/debug/sievedebugdialog.cpp:203
+#, kde-format
+msgid ""
+"(This script is empty)\n"
+"\n"
+msgstr "(Kịch bản này trống)\n\n"
+
+#: ksieveui/debug/sievedebugdialog.cpp:206
+#, kde-format
+msgid ""
+"------------------------------------------------------------\n"
+"%1\n"
+"------------------------------------------------------------\n"
+"\n"
+msgstr ""
+""
+"------------------------------------------------------------\n%1\n------------------------------------------------------------\n\n"
+
+#: ksieveui/debug/sievedebugdialog.cpp:224
+#, kde-format
+msgid "Sieve capabilities:\n"
+msgstr "Khả năng của Sieve:\n"
+
+#: ksieveui/debug/sievedebugdialog.cpp:227
+#, kde-format
+msgid "(No special capabilities available)"
+msgstr "(Không có khả năng đặc biệt nào có sẵn)"
+
+#: ksieveui/debug/sievedebugdialog.cpp:235
+#, kde-format
+msgid "Available Sieve scripts:\n"
+msgstr "Các tập lệnh Sieve hiện có:\n"
+
+#: ksieveui/debug/sievedebugdialog.cpp:238
+#, kde-format
+msgid ""
+"(No Sieve scripts available on this server)\n"
+"\n"
+msgstr "(Không có kịch bản Sieve nào khả dụng trên máy chủ này)\n\n"
+
+#: ksieveui/debug/sievedebugdialog.cpp:245
+#, kde-format
+msgid ""
+"Active script: '%1'\n"
+"\n"
+msgstr "Kịch bản hoạt động: '%1'\n\n"
+
+#: ksieveui/editor/sieveeditor.cpp:39
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Sieve Script"
+msgstr "Sửa Kịch Bản Sieve"
+
+#: ksieveui/editor/sieveeditor.cpp:182
+#, kde-format
+msgid "Script is modified. Do you want to close editor?"
+msgstr "Kịch bản đã được sửa đổi. Bạn có muốn đóng trình chỉnh sửa không?"
+
+#: ksieveui/editor/sieveeditor.cpp:184
+#, kde-format
+msgctxt "@action:button"
+msgid "Close Editor"
+msgstr "Đóng Trình Biên Tập"
+
+#: ksieveui/editor/sieveeditor.cpp:185
+#, kde-format
+msgctxt "@action:button"
+msgid "Do Not Close"
+msgstr "Không đóng"
+
+#: ksieveui/editor/sieveeditorabstractwidget.cpp:28
+#, kde-format
+msgid "Sieve Files (*.siv);;All Files (*)"
+msgstr "Tệp Sieve (*.siv);;Tất cả Tệp (*)"
+
+#: ksieveui/editor/sieveeditorabstractwidget.cpp:29
+#, kde-format
+msgctxt "@title:window"
+msgid "Save Script"
+msgstr "Lưu Kịch Bản"
+
+#: ksieveui/editor/sieveeditorabstractwidget.cpp:55
+#, kde-format
+msgid "You will overwrite script. Do you want to continue?"
+msgstr "Bạn sẽ ghi đè lên script. Bạn có muốn tiếp tục không?"
+
+#: ksieveui/editor/sieveeditorabstractwidget.cpp:56
+#, kde-format
+msgctxt "@title:window"
+msgid "Import Script"
+msgstr "Nhập kịch bản"
+
+#: ksieveui/editor/sieveeditorabstractwidget.cpp:63
+#, kde-format
+msgid "*.siv;;sieve files (*.siv);;all files (*)"
+msgstr "*.siv;;các tệp sieve (*.siv);;tất cả các tệp (*)"
+
+#: ksieveui/editor/sieveeditorabstractwidget.cpp:64
+#, kde-format
+msgctxt "@title:window"
+msgid "Import Script Sieve"
+msgstr "Nhập Kịch Bản Sieve"
+
+#: ksieveui/editor/sieveeditorabstractwidget.cpp:70
+#, kde-format
+msgid ""
+"Could not load the file %1:\n"
+"\"%2\" is the detailed error description."
+msgstr "Không thể tải tệp %1:\n\"%2\" là mô tả lỗi chi tiết."
+
+#: ksieveui/editor/sieveeditorabstractwidget.cpp:74
+#, kde-format
+msgid "Sieve Editor Error"
+msgstr "Lỗi Trình Biên Tập Sieve"
+
+#: ksieveui/editor/sieveeditormenubar.cpp:50
+#, kde-format
+msgctxt "@action"
+msgid "Go to Line"
+msgstr "Đi đến dòng"
+
+#: ksieveui/editor/sieveeditormenubar.cpp:55
+#, kde-format
+msgctxt "@action"
+msgid "Comment"
+msgstr "Chú thích"
+
+#: ksieveui/editor/sieveeditormenubar.cpp:59
+#, kde-format
+msgctxt "@action"
+msgid "Uncomment"
+msgstr "Bỏ ghi chú"
+
+#: ksieveui/editor/sieveeditormenubar.cpp:63
+#, kde-format
+msgctxt "@action"
+msgid "Debug Sieve Script…"
+msgstr "Gỡ lỗi kịch bản Sieve..."
+
+#: ksieveui/editor/sieveeditormenubar.cpp:81
+#, kde-format
+msgctxt "@action"
+msgid "Wordwrap"
+msgstr "Ngắt dòng"
+
+#: ksieveui/editor/sieveeditormenubar.cpp:98
+#, kde-format
+msgctxt "@title:menu"
+msgid "File"
+msgstr "Tệp"
+
+#: ksieveui/editor/sieveeditormenubar.cpp:101
+#, kde-format
+msgctxt "@title:menu"
+msgid "Edit"
+msgstr "Sửa"
+
+#: ksieveui/editor/sieveeditormenubar.cpp:121
+#, kde-format
+msgctxt "@title:menu"
+msgid "View"
+msgstr "Xem"
+
+#: ksieveui/editor/sieveeditormenubar.cpp:127
+#, kde-format
+msgctxt "@title:menu"
+msgid "Tools"
+msgstr "Công cụ"
+
+#: ksieveui/editor/sieveeditortabwidget.cpp:51
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Close All Other Tabs"
+msgstr "Đóng tất cả các tab khác"
+
+#: ksieveui/editor/sieveeditortabwidget.cpp:57
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Close All Tabs"
+msgstr "Đóng tất cả các tab"
+
+#: ksieveui/editor/sieveeditortabwidget.cpp:150
+#, kde-format
+msgid "Help"
+msgstr "trợ giúp"
+
+#: ksieveui/editor/sieveeditortabwidget.cpp:161
+#, kde-format
+msgid "Error during load page about %1"
+msgstr "Lỗi trong quá trình tải trang thông tin về %1"
+
+#: ksieveui/editor/sieveeditortabwidget.cpp:178
+#, kde-format
+msgid "Help about: %1"
+msgstr "Trợ giúp về: %1"
+
+#: ksieveui/editor/sieveeditortextmodewidget.cpp:67
+#, kde-format
+msgid "Sieve Template:"
+msgstr "Mẫu Sieve:"
+
+#: ksieveui/editor/sieveeditortextmodewidget.cpp:92
+#, kde-format
+msgid "Editor"
+msgstr "Trình biên tập"
+
+#: ksieveui/editor/sieveeditortextmodewidget.cpp:146
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Show result from \"check syntax\""
+msgstr "Hiển thị kết quả từ \"kiểm tra cú pháp\""
+
+#: ksieveui/editor/sieveeditortextmodewidget.cpp:234
+#, kde-format
+msgid "Error during parsing"
+msgstr "Lỗi trong quá trình phân tích cú pháp"
+
+#: ksieveui/editor/sieveeditortextmodewidget.cpp:264
+#, kde-format
+msgid "Selected text is not a full sieve script"
+msgstr "Văn bản đã chọn không phải là một kịch bản sieve đầy đủ"
+
+#: ksieveui/editor/sieveeditortextmodewidget.cpp:264
+#, kde-format
+msgctxt "@title:window"
+msgid "Parsing error"
+msgstr "Lỗi phân tích cú pháp"
+
+#: ksieveui/editor/sieveeditorwidget.cpp:45
+#, kde-format
+msgctxt "@action"
+msgid "Check Syntax"
+msgstr "Kiểm tra cú pháp"
+
+#: ksieveui/editor/sieveeditorwidget.cpp:50
+#, kde-format
+msgid "Import…"
+msgstr "Nhập khẩu..."
+
+#: ksieveui/editor/sieveeditorwidget.cpp:52
+#, kde-format
+msgctxt "@action"
+msgid "Create Rules Graphically…"
+msgstr "Tạo Quy Tắc Trực Quan..."
+
+#: ksieveui/editor/sieveeditorwidget.cpp:66
+#, kde-format
+msgid "Share…"
+msgstr "Chia sẻ..."
+
+#: ksieveui/editor/sieveeditorwidget.cpp:72
+#, kde-format
+msgctxt "@action"
+msgid "Server Info"
+msgstr "Thông tin máy chủ"
+
+#: ksieveui/editor/sieveeditorwidget.cpp:116
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Script name:"
+msgstr "Tên kịch bản:"
+
+#: ksieveui/editor/sieveeditorwidget.cpp:385
+#, kde-format
+msgid "Simple Mode"
+msgstr "Chế độ đơn giản"
+
+#: ksieveui/editor/sieveeditorwidget.cpp:385
+#, kde-format
+msgid "Advanced Mode"
+msgstr "Chế độ nâng cao"
+
+#: ksieveui/editor/sieveinfodialog.cpp:28
+#, kde-format
+msgctxt "@title:window"
+msgid "Sieve Server Support"
+msgstr "Hỗ trợ máy chủ Sieve"
+
+#: ksieveui/editor/sieveinfowidget.cpp:30
+#, kde-format
+msgid "Sieve server supports:"
+msgstr "Máy chủ Sieve hỗ trợ:"
+
+#: ksieveui/editor/sievetextedit.cpp:277
+#, kde-format
+msgctxt "@action"
+msgid "Insert Rule"
+msgstr "Chèn Quy tắc"
+
+#: ksieveui/editor/sievetextedit.cpp:291
+#, kde-format
+msgctxt "@action"
+msgid "Help about: '%1'"
+msgstr "Trợ giúp về: '%1'"
+
+#: ksieveui/editor/sievetextedit.cpp:300
+#, kde-format
+msgctxt "@action"
+msgid "Edit Rule"
+msgstr "Sửa Quy tắc"
+
+#: ksieveui/editor/warningwidget/sieveeditorparsingmissingfeaturewarning.cpp:20
+#, kde-format
+msgid ""
+"Some errors were found during parsing. <a href=\"sieveerrordetails"
+"\">(Details…)</a>"
+msgstr ""
+"Đã phát hiện một số lỗi trong quá trình phân tích. <a "
+"href=\"sieveerrordetails\">(Chi tiết…)</a>"
+
+#: ksieveui/editor/warningwidget/sieveeditorparsingmissingfeaturewarning.cpp:25
+#, kde-format
+msgctxt "@action"
+msgid "Switch to Graphical Mode"
+msgstr "Chuyển sang Chế độ Đồ họa"
+
+#: ksieveui/editor/warningwidget/sieveeditorparsingmissingfeaturewarning.cpp:29
+#, kde-format
+msgctxt "@action"
+msgid "Stay in Text Mode"
+msgstr "Ở chế độ văn bản"
+
+#: ksieveui/editor/warningwidget/sieveeditorparsingmissingfeaturewarning.cpp:35
+#, kde-format
+msgctxt "@action"
+msgid "Switch to Text Mode"
+msgstr "Chuyển sang Chế độ Văn bản"
+
+#: ksieveui/editor/warningwidget/sieveeditorparsingmissingfeaturewarning.cpp:39
+#, kde-format
+msgctxt "@action"
+msgid "Stay in Graphical Mode"
+msgstr "Ở chế độ đồ họa"
+
+#: ksieveui/editor/warningwidget/sieveeditorwarning.cpp:17
+#, kde-format
+msgid "We cannot parse script. We cannot switch to graphical mode"
+msgstr ""
+"Chúng tôi không thể phân tách kịch bản. Chúng tôi không thể chuyển sang chế "
+"độ đồ họa"
+
+#: ksieveui/editor/webengine/findbar/findbarbase.cpp:37
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Close"
+msgstr "Đóng"
+
+#: ksieveui/editor/webengine/findbar/findbarbase.cpp:40
+#, kde-format
+msgid "Close"
+msgstr "Đóng"
+
+#: ksieveui/editor/webengine/findbar/findbarbase.cpp:46
+#, kde-format
+msgctxt "Find text"
+msgid "F&ind:"
+msgstr "&Tìm:"
+
+#: ksieveui/editor/webengine/findbar/findbarbase.cpp:51
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Text to search for"
+msgstr "Văn bản để tìm kiếm"
+
+#: ksieveui/editor/webengine/findbar/findbarbase.cpp:56
+#, kde-format
+msgctxt "Find and go to the next search match"
+msgid "Next"
+msgstr "Tiếp"
+
+#: ksieveui/editor/webengine/findbar/findbarbase.cpp:57
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Jump to next match"
+msgstr "Nhảy đến kết quả tiếp theo"
+
+#: ksieveui/editor/webengine/findbar/findbarbase.cpp:62
+#, kde-format
+msgctxt "Find and go to the previous search match"
+msgid "Previous"
+msgstr "Trước"
+
+#: ksieveui/editor/webengine/findbar/findbarbase.cpp:63
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Jump to previous match"
+msgstr "Nhảy đến kết quả trước"
+
+#: ksieveui/editor/webengine/findbar/findbarbase.cpp:69
+#, kde-format
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: ksieveui/editor/webengine/findbar/findbarbase.cpp:70
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Modify search behavior"
+msgstr "Chỉnh sửa hành vi tìm kiếm"
+
+#: ksieveui/editor/webengine/findbar/findbarbase.cpp:72
+#, kde-format
+msgid "Case sensitive"
+msgstr "Phân biệt chữ hoa chữ thường"
+
+#: ksieveui/editor/webengine/findbar/findbarbase.cpp:88
+#, kde-format
+msgid "Phrase not found"
+msgstr "Không tìm thấy cụm từ"
+
+#: ksieveui/editor/webengine/sieveeditorwebengineview.cpp:47
+#, kde-format
+msgid "Save Web Page"
+msgstr "Lưu Trang Web"
+
+#: ksieveui/managesievescriptsdialog.cpp:63
+#, kde-format
+msgctxt "@title:window"
+msgid "Manage Sieve Scripts"
+msgstr "Quản lý Kịch bản Sieve"
+
+#: ksieveui/managesievescriptsdialog.cpp:85
+#, kde-format
+msgctxt "create a new sieve script"
+msgid "New…"
+msgstr "Mới..."
+
+#: ksieveui/managesievescriptsdialog.cpp:89
+#, kde-format
+msgctxt "@action:button"
+msgid "Edit…"
+msgstr "Chỉnh sửa..."
+
+#: ksieveui/managesievescriptsdialog.cpp:93
+#, kde-format
+msgctxt "@action:button"
+msgid "Delete"
+msgstr "Xóa"
+
+#: ksieveui/managesievescriptsdialog.cpp:97
+#, kde-format
+msgctxt "@action:button"
+msgid "Deactivate"
+msgstr "Vô hiệu hóa"
+
+#: ksieveui/managesievescriptsdialog.cpp:173
+#: ksieveui/managesievescriptsdialog.cpp:262
+#: ksieveui/widgets/managesievewidget.cpp:512
+#, kde-format
+msgctxt "@title:window"
+msgid "Sieve Error"
+msgstr "Lỗi Sieve"
+
+#: ksieveui/managesievescriptsdialog.cpp:206
+#, kde-format
+msgid "Uploading script to server for checking it, please wait…"
+msgstr "Đang tải kịch bản lên máy chủ để kiểm tra, vui lòng chờ..."
+
+#: ksieveui/managesievescriptsdialog.cpp:252
+#, kde-format
+msgid "The Sieve script was successfully uploaded."
+msgstr "Kịch bản Sieve đã được tải lên thành công."
+
+#: ksieveui/managesievescriptsdialog.cpp:252
+#, kde-format
+msgctxt "@title:window"
+msgid "Sieve Script Upload"
+msgstr "Tải lên kịch bản Sieve"
+
+#: ksieveui/managesievescriptsdialog.cpp:259
+#, kde-format
+msgid ""
+"Uploading the Sieve script failed.\n"
+"The server responded:\n"
+"%1"
+msgstr "Tải lên kịch bản Sieve không thành công.\nMáy chủ đã phản hồi:\n%1"
+
+#: ksieveui/scriptsparsing/parsingresultdialog.cpp:33
+#, kde-format
+msgctxt "@title:window"
+msgid "Sieve Parsing"
+msgstr "Phân tích Sieve"
+
+#: ksieveui/scriptsparsing/parsingresultdialog.cpp:83
+#, kde-format
+msgid "XML Files (*.xml);;All Files (*)"
+msgstr "Tệp XML (*.xml);;Tất cả các tệp (*)"
+
+#: ksieveui/sievescriptdebugger/sievescriptdebuggerdialog.cpp:30
+#, kde-format
+msgctxt "@title:window"
+msgid "Debug Sieve Script"
+msgstr "Gỡ lỗi kịch bản Sieve"
+
+#: ksieveui/sievescriptdebugger/sievescriptdebuggerdialog.cpp:42
+#, kde-format
+msgid "Apply Changes"
+msgstr "Áp dụng thay đổi"
+
+#: ksieveui/sievescriptdebugger/sievescriptdebuggerdialog.cpp:51
+#, kde-format
+msgctxt "@action:button"
+msgid "Debug"
+msgstr "Gỡ lỗi"
+
+#: ksieveui/sievescriptdebugger/sievescriptdebuggerdialog.cpp:52
+#, kde-format
+msgid "Debug"
+msgstr "Gỡ lỗi"
+
+#: ksieveui/sievescriptdebugger/sievescriptdebuggerfrontendwidget.cpp:43
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Email path:"
+msgstr "Đường dẫn email:"
+
+#: ksieveui/sievescriptdebugger/sievescriptdebuggerfrontendwidget.cpp:57
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Extension:"
+msgstr "Phần mở rộng:"
+
+#: ksieveui/sievescriptdebugger/sievescriptdebuggerfrontendwidget.cpp:62
+#, kde-format
+msgctxt "@info:placeholder"
+msgid ""
+"Activate extension with \"+<name of extension>\", deactivate it with \"-"
+"<name of extension>\""
+msgstr ""
+"Kích hoạt phần mở rộng bằng \"+<name of extension>\", vô hiệu hóa nó bằng "
+"\"-<name of extension>\""
+
+#: ksieveui/sievescriptdebugger/sievescriptdebuggerfrontendwidget.cpp:94
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Display check script result…"
+msgstr "Hiển thị kết quả kiểm tra kịch bản..."
+
+#: ksieveui/sievescriptdebugger/sievescriptdebuggerfrontendwidget.cpp:143
+#, kde-format
+msgid "Script text is empty."
+msgstr "Kịch bản trống."
+
+#: ksieveui/sievescriptdebugger/sievescriptdebuggerfrontendwidget.cpp:147
+#, kde-format
+msgid "Email file must be installed locally."
+msgstr "Tệp thư điện tử phải được cài đặt cục bộ."
+
+#: ksieveui/sievescriptdebugger/sievescriptdebuggerfrontendwidget.cpp:153
+#, kde-format
+msgid "Failed to open temporary file."
+msgstr "Không thể mở tệp tạm thời."
+
+#: ksieveui/sievescriptdebugger/sievescriptdebuggerfrontendwidget.cpp:223
+#, kde-format
+msgid "Script still contains debug method. Remove it please."
+msgstr "Kịch bản vẫn chứa phương thức gỡ lỗi. Vui lòng xoá nó."
+
+#: ksieveui/sievescriptdebugger/sievescriptdebuggerresulteditor.cpp:27
+#, kde-format
+msgctxt "@action"
+msgid "Clear"
+msgstr "Làm trống"
+
+#: ksieveui/sievescriptdebugger/sievescriptdebuggerresulteditor.cpp:38
+#, kde-format
+msgid "Text Files (*.txt);;All Files (*)"
+msgstr "Tệp văn bản (*.txt);;Tất cả các tệp (*)"
+
+#: ksieveui/sievescriptdebugger/sievescriptdebuggertextedit.cpp:30
+#, kde-format
+msgctxt "@action"
+msgid "Add debug here"
+msgstr "Thêm gỡ lỗi ở đây"
+
+#: ksieveui/sievescriptdebugger/sievescriptdebuggerwidget.cpp:35
+#, kde-format
+msgctxt "@label:textbox"
+msgid ""
+"\"sieve-test\" was not found on system. Please install it. (See in Dovecot "
+"package)"
+msgstr ""
+"\"sieve-test\" không được tìm thấy trên hệ thống. Vui lòng cài đặt nó. (Xem "
+"trong gói Dovecot)"
+
+#: ksieveui/templates/sievedefaulttemplate.cpp:16
+#, kde-format
+msgid "Filter on Mailing List-ID"
+msgstr "Lọc theo ID danh sách thư"
+
+#: ksieveui/templates/sievedefaulttemplate.cpp:25
+#, kde-format
+msgid "Filter on Subject"
+msgstr "Lọc theo Chủ đề"
+
+#: ksieveui/templates/sievedefaulttemplate.cpp:33
+#, kde-format
+msgid "Filter on Spamassassin"
+msgstr "Lọc trên Spamassassin"
+
+#: ksieveui/templates/sievedefaulttemplate.cpp:41
+#, kde-format
+msgid "Flag messages"
+msgstr "Đánh dấu tin nhắn"
+
+#: ksieveui/templates/sievedefaulttemplate.cpp:49
+#, kde-format
+msgid "Forward Message"
+msgstr "Chuyển tiếp Thông điệp"
+
+#: ksieveui/templates/sievedefaulttemplate.cpp:57
+#, kde-format
+msgid "Forward Message and add copy"
+msgstr "Chuyển tiếp thông điệp và thêm bản sao"
+
+#: ksieveui/templates/sievedefaulttemplate.cpp:66
+#, kde-format
+msgid "Destroy mail posted by…"
+msgstr "Hủy bỏ thư được gửi bởi..."
+
+#: ksieveui/templates/sievedefaulttemplate.cpp:79
+#, kde-format
+msgid "Vacations"
+msgstr "Kỳ nghỉ"
+
+#: ksieveui/templates/sievetemplateeditdialog.cpp:39
+#, kde-format
+msgctxt "@title:window"
+msgid "Default template"
+msgstr "Bản mẫu mặc định"
+
+#: ksieveui/templates/sievetemplateeditdialog.cpp:39
+#, kde-format
+msgctxt "@title:window"
+msgid "Template"
+msgstr "Bản mẫu"
+
+#: ksieveui/templates/sievetemplatewidget.cpp:95
+#, kde-format
+msgid "You can drag and drop element on editor to import template"
+msgstr "Bạn có thể kéo và thả phần tử vào trình biên tập để nhập khẩu bản mẫu"
+
+#: ksieveui/vacation/multiimapvacationdialog.cpp:49
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure \"Out of Office\" Replies"
+msgstr "Cấu hình Hồi Đáp \"Ngoài Văn Phòng\""
+
+#: ksieveui/vacation/multiimapvacationdialog.cpp:78
+#, kde-format
+msgctxt "@info"
+msgid "Do you really want to cancel?"
+msgstr "Bạn có thực sự muốn hủy bỏ không?"
+
+#: ksieveui/vacation/multiimapvacationdialog.cpp:79
+#, kde-format
+msgctxt "@title:window"
+msgid "Confirmation"
+msgstr "Xác nhận"
+
+#: ksieveui/vacation/multiimapvacationdialog.cpp:80
+#, kde-format
+msgctxt "@action:button"
+msgid "Cancel Editing"
+msgstr "Huỷ Chỉnh sửa"
+
+#: ksieveui/vacation/multiimapvacationdialog.cpp:81
+#, kde-format
+msgctxt "@action:button"
+msgid "Do Not Cancel"
+msgstr "Không Huỷ"
+
+#: ksieveui/vacation/multiimapvacationdialog.cpp:112
+#, kde-format
+msgctxt "@label:textbox"
+msgid ""
+"KMail's Out of Office Reply functionality relies on server-side filtering. "
+"You have not yet configured an IMAP server for this. You can do this on the "
+"\"Filtering\" tab of the IMAP account configuration."
+msgstr ""
+"Chức năng Trả lời Ngoài văn phòng của KMail dựa trên bộ lọc phía máy chủ. "
+"Bạn chưa cấu hình máy chủ IMAP cho chức năng này. Bạn có thể thực hiện điều "
+"này trên thẻ \"Bộ lọc\" của cấu hình tài khoản IMAP."
+
+#: ksieveui/vacation/vacationeditwidget.cpp:48
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Configure vacation notifications to be sent:"
+msgstr "Cấu hình thông báo nghỉ phép để gửi:"
+
+#: ksieveui/vacation/vacationeditwidget.cpp:56
+#, kde-format
+msgid "&Activate vacation notifications"
+msgstr "Kích hoạt thôn&g báo nghỉ phép"
+
+#: ksieveui/vacation/vacationeditwidget.cpp:76
+#, kde-format
+msgctxt "@label:textbox"
+msgid "&Subject of the vacation mail:"
+msgstr "C&hủ đề của thư nghỉ phép:"
+
+#: ksieveui/vacation/vacationeditwidget.cpp:108
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Start date:"
+msgstr "Ngày bắt đầu:"
+
+#: ksieveui/vacation/vacationeditwidget.cpp:138
+#, kde-format
+msgctxt "@label:textbox"
+msgid "End date:"
+msgstr "Ngày kết thúc:"
+
+#: ksieveui/vacation/vacationeditwidget.cpp:161
+#: ksieveui/vacation/vacationeditwidget.cpp:310
+#, kde-format
+msgid " day"
+msgid_plural " days"
+msgstr[0] "ngày"
+
+#: ksieveui/vacation/vacationeditwidget.cpp:163
+#, kde-format
+msgctxt "@label:textbox"
+msgid "&Resend notification only after:"
+msgstr "&Chỉ gửi lại thông báo sau:"
+
+#: ksieveui/vacation/vacationeditwidget.cpp:176
+#, kde-format
+msgctxt "@label:textbox"
+msgid "&Send responses for these addresses:"
+msgstr "Gử&i phản hồi cho các địa chỉ này:"
+
+#: ksieveui/vacation/vacationeditwidget.cpp:202
+#, kde-format
+msgctxt "@label:textbox"
+msgid "&Action for incoming mails:"
+msgstr "&Hành động cho thư đến:"
+
+#: ksieveui/vacation/vacationeditwidget.cpp:210
+#, kde-format
+msgid "Do not send vacation replies to spam messages"
+msgstr "Không gửi hồi đáp nghỉ phép đến tin nhắn spam"
+
+#: ksieveui/vacation/vacationeditwidget.cpp:218
+#, kde-format
+msgid "Only react to mail coming from domain:"
+msgstr "Chỉ phản ứng với thư đến từ miền:"
+
+#: ksieveui/vacation/vacationmanager.cpp:55
+#, kde-format
+msgid ""
+"There is still an active out-of-office reply configured.\n"
+"Do you want to edit it?"
+msgstr ""
+"Vẫn còn một thông báo tự động trả lời đang hoạt động.\nBạn có muốn chỉnh "
+"sửa nó không?"
+
+#: ksieveui/vacation/vacationmanager.cpp:57
+#, kde-format
+msgctxt "@title:window"
+msgid "Out-of-office reply still active"
+msgstr "Trả lời khi nghỉ phép vẫn còn hoạt động"
+
+#: ksieveui/vacation/vacationmanager.cpp:58
+#, kde-format
+msgctxt "@action:button"
+msgid "Edit"
+msgstr "Sửa"
+
+#: ksieveui/vacation/vacationmanager.cpp:59
+#, kde-format
+msgctxt "@action:button"
+msgid "Ignore"
+msgstr "Bỏ qua"
+
+#: ksieveui/vacation/vacationpagewidget.cpp:49
+#, kde-format
+msgctxt "@label:textbox"
+msgid ""
+"Your server did not list \"vacation\" in its list of supported Sieve "
+"extensions;without it, KMail cannot install out-of-office replies for you."
+"Please contact your system administrator."
+msgstr ""
+"Máy chủ của bạn không liệt kê \"vacation\" trong danh sách các phần mở rộng "
+"Sieve được hỗ trợ; mà không có nó, KMail không thể cài đặt hồi đáp tự động "
+"ngoài văn phòng cho bạn. Vui lòng liên hệ với quản trị viên hệ thống."
+
+#: ksieveui/vacation/vacationwarningwidget.cpp:20
+#, kde-format
+msgid ""
+"Someone (probably you) changed the vacation script on the server. KMail is "
+"no longer able to determine the parameters for the autoreplies. Default "
+"values will be used."
+msgstr ""
+"Có người (có thể là bạn) đã thay đổi kịch bản nghỉ phép trên máy chủ. KMail "
+"không thể xác định được thông số cho các tự động trả lời. Các giá trị mặc "
+"định sẽ được sử dụng."
+
+#: ksieveui/widgets/custommanagesievewidget.cpp:91
+#, kde-format
+msgid "No Sieve URL configured"
+msgstr "Không có URL Sieve được cấu hình"
+
+#: ksieveui/widgets/managesievetreeview.cpp:16
+#: ksieveui/widgets/managesievetreeview.cpp:30
+#, kde-format
+msgid "No IMAP server configured…"
+msgstr "Chưa cấu hình máy chủ IMAP..."
+
+#: ksieveui/widgets/managesievetreeview.cpp:20
+#, kde-format
+msgid "Available Scripts"
+msgstr "Các Kịch Bản Hiện Có"
+
+#: ksieveui/widgets/managesievetreeview.cpp:39
+#, kde-format
+msgid "Network down."
+msgstr "Mạng bị ngắt."
+
+#: ksieveui/widgets/managesievewidget.cpp:147
+#, kde-format
+msgid "Edit Script…"
+msgstr "Sửa Kịch bản..."
+
+#: ksieveui/widgets/managesievewidget.cpp:148
+#, kde-format
+msgid "Rename Script…"
+msgstr "Đổi tên Kịch bản..."
+
+#: ksieveui/widgets/managesievewidget.cpp:150
+#, kde-format
+msgid "Delete Script"
+msgstr "Xóa kịch bản"
+
+#: ksieveui/widgets/managesievewidget.cpp:153
+#, kde-format
+msgid "Deactivate Script"
+msgstr "Vô hiệu hóa kịch bản"
+
+#: ksieveui/widgets/managesievewidget.cpp:159
+#, kde-format
+msgid "New Script…"
+msgstr "Kịch bản mới..."
+
+#: ksieveui/widgets/managesievewidget.cpp:224
+#, kde-format
+msgid "New Sieve Script"
+msgstr "Kịch bản Sieve mới"
+
+#: ksieveui/widgets/managesievewidget.cpp:224
+#, kde-format
+msgid "Please enter a name for the new Sieve script:"
+msgstr "Vui lòng nhập tên cho tập lệnh Sieve mới:"
+
+#: ksieveui/widgets/managesievewidget.cpp:224
+#, kde-format
+msgid "unnamed"
+msgstr "không tên"
+
+#: ksieveui/widgets/managesievewidget.cpp:228
+#, kde-format
+msgid "Empty name is not a valid name"
+msgstr "Tên trống không phải là tên hợp lệ"
+
+#: ksieveui/widgets/managesievewidget.cpp:234
+#, kde-format
+msgid "You cannot use protected name."
+msgstr "Bạn không thể sử dụng tên được bảo vệ."
+
+#: ksieveui/widgets/managesievewidget.cpp:246
+#, kde-format
+msgid "Script name already used \"%1\"."
+msgstr "Tên kịch bản đã được sử dụng \"%1\"."
+
+#: ksieveui/widgets/managesievewidget.cpp:426
+#: ksieveui/widgets/managesievewidget.cpp:454
+#, kde-format
+msgid "Rename Script"
+msgstr "Đổi tên Kịch bản"
+
+#: ksieveui/widgets/managesievewidget.cpp:426
+#, kde-format
+msgid "Script Name:"
+msgstr "Tên kịch bản:"
+
+#: ksieveui/widgets/managesievewidget.cpp:490
+#, kde-format
+msgid "Really delete script \"%1\" from the server?"
+msgstr "Bạn có thực sự muốn xóa kịch bản \"%1\" khỏi máy chủ không?"
+
+#: ksieveui/widgets/managesievewidget.cpp:491
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete Sieve Script Confirmation"
+msgstr "Xác nhận xóa kịch bản Sieve"
+
+#: ksieveui/widgets/managesievewidget.cpp:509
+#, kde-format
+msgid ""
+"Deleting the script failed.\n"
+"The server responded:\n"
+"%1"
+msgstr "Xóa kịch bản không thành công.\nMáy chủ đã phản hồi:\n%1"
+
+#: ksieveui/widgets/managesievewidget.cpp:561
+#, kde-format
+msgid "Failed to fetch the list of scripts"
+msgstr "Không thể tìm nạp danh sách các script"
+
+#: ksieveui/widgets/moveimapfolderwidget.cpp:24
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Define Folder"
+msgstr "Định nghĩa thư mục"

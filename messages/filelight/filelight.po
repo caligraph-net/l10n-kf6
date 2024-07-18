@@ -1,0 +1,504 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the filelight package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: filelight\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-19 00:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: src/Config.cpp:57
+#, kde-format
+msgid "Select path to ignore"
+msgstr "Chọn đường dẫn để bỏ qua"
+
+#: src/Config.cpp:70
+#, kde-format
+msgid "Folder already ignored"
+msgstr "Thư mục đã bị bỏ qua"
+
+#: src/contextMenuContext.cpp:63
+#, kde-format
+msgid ""
+"<qt>The folder at <i>'%1'</i> will be <b>recursively</b> and <b>permanently</"
+"b> deleted.</qt>"
+msgstr ""
+"<qt>Thư mục tại <i>'%1'</i> sẽ bị xóa <b>đệ quy</b> và <b>vĩnh "
+"viễn</b>.</qt>"
+
+#: src/contextMenuContext.cpp:64
+#, kde-format
+msgid "<qt><i>'%1'</i> will be <b>permanently</b> deleted.</qt>"
+msgstr "<qt><i>'%1'</i> sẽ bị xóa <b>vĩnh viễn</b>.</qt>"
+
+#: src/contextMenuContext.cpp:65
+#, kde-format
+msgid "&Delete"
+msgstr "&Xóa"
+
+#: src/contextMenuContext.cpp:92
+#, kde-format
+msgctxt "@info:notification"
+msgid "Error while deleting: %1"
+msgstr "Lỗi khi xóa: %1"
+
+#: src/main.cpp:68
+#, kde-format
+msgid "Graphical disk-usage information"
+msgstr "Thông tin sử dụng đĩa đồ họa"
+
+#: src/main.cpp:70
+#, kde-format
+msgid ""
+"(C) 2006 Max Howell\n"
+"(C) 2008-2014 Martin Sandsmark\n"
+"(C) 2017-2022 Harald Sitter"
+msgstr ""
+"(C) 2006 Max Howell\n(C) 2008-2014 Martin Sandsmark\n(C) 2017-2022 Harald "
+"Sitter"
+
+#: src/main.cpp:75
+#, kde-format
+msgid "Laurent Montel"
+msgstr "Laurent Montel"
+
+#: src/main.cpp:75 src/main.cpp:76
+#, kde-format
+msgid "Maintainer"
+msgstr "Bảo trì viên"
+
+#: src/main.cpp:76
+#, kde-format
+msgid "Martin Sandsmark"
+msgstr "Martin Sandsmark"
+
+#: src/main.cpp:77
+#, kde-format
+msgid "Harald Sitter"
+msgstr "Harald Sitter"
+
+#: src/main.cpp:77
+#, kde-format
+msgid "QtQuick Port"
+msgstr "Cổng QtQuick"
+
+#: src/main.cpp:78
+#, kde-format
+msgid "Max Howell"
+msgstr "Max Howell"
+
+#: src/main.cpp:78
+#, kde-format
+msgid "Original author"
+msgstr "Tác giả gốc"
+
+#: src/main.cpp:79
+#, kde-format
+msgid "Lukas Appelhans"
+msgstr "Lukas Appelhans"
+
+#: src/main.cpp:79
+#, kde-format
+msgid "Help and support"
+msgstr "Trợ giúp và hỗ trợ"
+
+#: src/main.cpp:80
+#, kde-format
+msgid "Steffen Gerlach"
+msgstr "Steffen Gerlach"
+
+#: src/main.cpp:80
+#, kde-format
+msgid "Inspiration"
+msgstr "Cảm hứng"
+
+#: src/main.cpp:81
+#, kde-format
+msgid "Mike Diehl"
+msgstr "Mike Diehl"
+
+#: src/main.cpp:81
+#, kde-format
+msgid "Original documentation"
+msgstr "Tài liệu gốc"
+
+#: src/main.cpp:82
+#, kde-format
+msgid "Sune Vuorela"
+msgstr "Sune Vuorela"
+
+#: src/main.cpp:82 src/main.cpp:83
+#, kde-format
+msgid "Icon"
+msgstr "biểu tượng"
+
+#: src/main.cpp:83
+#, kde-format
+msgid "Nuno Pinheiro"
+msgstr "Nuno Pinheiro"
+
+#: src/main.cpp:90
+#, kde-format
+msgid "Path or URL to scan"
+msgstr "Đường dẫn hoặc URL để quét"
+
+#: src/main.cpp:90
+#, kde-format
+msgid "[url]"
+msgstr "[url]"
+
+#: src/mainContext.cpp:130
+#, kde-format
+msgid "Select Folder to Scan"
+msgstr "Chọn Thư mục để Quét"
+
+#: src/mainContext.cpp:182
+#, kde-format
+msgid "The entered URL cannot be parsed"
+msgstr "URL đã nhập không thể được phân tích"
+
+#: src/mainContext.cpp:182
+#, kde-format
+msgid "it is invalid."
+msgstr "không hợp lệ."
+
+#: src/mainContext.cpp:184
+#, kde-format
+msgid "Filelight only accepts absolute paths"
+msgstr "Filelight chỉ chấp nhận đường dẫn tuyệt đối"
+
+#: src/mainContext.cpp:184
+#, kde-format
+msgid "eg. /%1"
+msgstr "ví dụ. /%1"
+
+#: src/mainContext.cpp:186
+#, kde-format
+msgid "Folder not found: %1"
+msgstr "Không tìm thấy thư mục: %1"
+
+#: src/mainContext.cpp:188
+#, kde-format
+msgid "Unable to enter: %1"
+msgstr "Không thể nhập: %1"
+
+#: src/mainContext.cpp:188
+#, kde-format
+msgid "You do not have access rights to this location."
+msgstr "Bạn không có quyền truy cập vào vị trí này."
+
+#: src/qml/GlobalMenu.qml:10
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Scan"
+msgstr "Quét"
+
+#: src/qml/GlobalMenu.qml:21
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Settings"
+msgstr "thiết lập"
+
+#: src/qml/GlobalMenu.qml:27
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Help"
+msgstr "trợ giúp"
+
+#: src/qml/main.qml:30
+#, kde-format
+msgctxt "@action"
+msgid "Scan Folder"
+msgstr "Quét Thư Mục"
+
+#: src/qml/main.qml:37
+#, kde-format
+msgctxt "@action"
+msgid "Scan Home Folder"
+msgstr "Quét Thư mục Chính"
+
+#: src/qml/main.qml:44
+#, kde-format
+msgctxt "@action"
+msgid "Scan Root Folder"
+msgstr "Quét thư mục gốc"
+
+#: src/qml/main.qml:51
+#, kde-format
+msgctxt "@action"
+msgid "Quit"
+msgstr "Thoát"
+
+#: src/qml/main.qml:59
+#, kde-format
+msgctxt "@action configure app"
+msgid "Configure…"
+msgstr "Cấu hình..."
+
+#: src/qml/main.qml:64
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure"
+msgstr "Cấu hình"
+
+#: src/qml/main.qml:76
+#, kde-format
+msgctxt "@action"
+msgid "Open Handbook"
+msgstr "Mở Sổ tay"
+
+#: src/qml/main.qml:84
+#, kde-format
+msgctxt "@action opens about app page"
+msgid "About"
+msgstr "Thông tin"
+
+#: src/qml/main.qml:105
+#, kde-format
+msgctxt "@info:status"
+msgid "No files."
+msgstr "Không có tệp nào."
+
+#: src/qml/main.qml:106
+#, kde-format
+msgctxt "@info:status"
+msgid "1 file"
+msgid_plural "%1 files"
+msgstr[0] "%1 tệp"
+
+#: src/qml/main.qml:174
+#, kde-format
+msgctxt "@info:status"
+msgid "Aborting Scan..."
+msgstr "Đang huỷ bỏ quét..."
+
+#: src/qml/MapPage.qml:37
+#, kde-format
+msgctxt "@action"
+msgid "Go to Overview"
+msgstr "Đi đến Tổng quan"
+
+#: src/qml/MapPage.qml:45
+#, kde-format
+msgctxt "@action"
+msgid "Up"
+msgstr "Lên"
+
+#: src/qml/MapPage.qml:54
+#, kde-format
+msgctxt "@action"
+msgid "Rescan"
+msgstr "Quét lại"
+
+#: src/qml/MapPage.qml:63
+#, kde-format
+msgctxt "@action"
+msgid "Stop"
+msgstr "Dừng"
+
+#: src/qml/MapPage.qml:71
+#, kde-format
+msgctxt "@action"
+msgid "Zoom In"
+msgstr "Thu phóng"
+
+#: src/qml/MapPage.qml:81
+#, kde-format
+msgctxt "@action"
+msgid "Zoom Out"
+msgstr "Thu phóng"
+
+#: src/qml/MapPage.qml:114 src/qml/MapPage.qml:237
+#, kde-format
+msgctxt "@action Open file or directory from context menu"
+msgid "Open"
+msgstr "Mở"
+
+#: src/qml/MapPage.qml:122 src/qml/MapPage.qml:245
+#, kde-format
+msgctxt "@action"
+msgid "Open Terminal Here"
+msgstr "Mở Trình dòng lệnh tại đây"
+
+#: src/qml/MapPage.qml:130
+#, kde-format
+msgctxt "@action focuses the filelight view on a given map segment"
+msgid "Center Map Here"
+msgstr "Định vị bản đồ ở đây"
+
+#: src/qml/MapPage.qml:141 src/qml/MapPage.qml:253
+#, kde-format
+msgctxt "@action"
+msgid "Add to Do Not Scan List"
+msgstr "Thêm vào Danh sách Không Quét"
+
+#: src/qml/MapPage.qml:149
+#, kde-format
+msgctxt "@action rescan filelight map"
+msgid "Rescan"
+msgstr "Quét lại"
+
+#: src/qml/MapPage.qml:156 src/qml/MapPage.qml:260
+#, kde-format
+msgctxt "@action"
+msgid "Copy to clipboard"
+msgstr "Sao chép vào bảng nháp"
+
+#: src/qml/MapPage.qml:164 src/qml/MapPage.qml:268
+#, kde-format
+msgctxt "@action delete file or folder"
+msgid "Delete"
+msgstr "Xóa"
+
+#: src/qml/MapPage.qml:321
+#, kde-format
+msgctxt "Tooltip of folder, %1 is number of files"
+msgid "%1 File (%2%)"
+msgid_plural "%1 Files (%2%)"
+msgstr[0] "%1 Tệp (%2%)"
+
+#: src/qml/MapPage.qml:323
+#, kde-format
+msgctxt "Tooltip of folder, %1 is number of files"
+msgid "%1 File"
+msgid_plural "%1 Files"
+msgstr[0] "%1 Tệp"
+
+#: src/qml/MapPage.qml:327
+#, kde-format
+msgctxt "part of tooltip indicating that the item under the mouse is clickable"
+msgid "Click to go up to parent directory"
+msgstr "Bấm để đi lên thư mục cha"
+
+#: src/qml/MapPage.qml:546
+#, kde-format
+msgctxt "Scanned number of files and size so far"
+msgid "%1 File, %2"
+msgid_plural "%1 Files, %2"
+msgstr[0] "%1 Tệp, %2"
+
+#: src/qml/MapPage.qml:555
+#, kde-format
+msgid "No data available"
+msgstr "Không có dữ liệu hiện có"
+
+#: src/qml/OverviewPage.qml:14
+#, kde-format
+msgctxt "@title"
+msgid "Overview"
+msgstr "Tổng quan"
+
+#: src/qml/OverviewPage.qml:34
+#, kde-format
+msgctxt "@title"
+msgid "Welcome to Filelight"
+msgstr "Chào mừng đến Filelight"
+
+#: src/qml/SettingsPage.qml:22
+#, kde-format
+msgctxt "@title"
+msgid "Scanning"
+msgstr "Quét"
+
+#: src/qml/SettingsPage.qml:25
+#, kde-format
+msgctxt "@title"
+msgid "Appearance"
+msgstr "diện mạo"
+
+#: src/qml/SettingsPageAppearance.qml:16
+#, kde-format
+msgctxt "@title:group"
+msgid "Color Scheme"
+msgstr "Quy hoạch màu sắc"
+
+#: src/qml/SettingsPageAppearance.qml:25
+#, kde-format
+msgctxt "@option:radio a color scheme variant"
+msgid "Rainbow"
+msgstr "Cầu vồng"
+
+#: src/qml/SettingsPageAppearance.qml:34
+#, kde-format
+msgctxt "@option:radio a color scheme variant"
+msgid "System colors"
+msgstr "Màu hệ thống"
+
+#: src/qml/SettingsPageAppearance.qml:43
+#, kde-format
+msgctxt "@option:radio a color scheme variant"
+msgid "High contrast"
+msgstr "Độ tương phản cao"
+
+#: src/qml/SettingsPageAppearance.qml:52
+#, kde-format
+msgctxt "@label:slider"
+msgid "Contrast"
+msgstr "Độ tương phản"
+
+#: src/qml/SettingsPageAppearance.qml:69
+#, kde-format
+msgctxt "@checkbox"
+msgid "Show small files"
+msgstr "Hiển thị tệp nhỏ"
+
+#: src/qml/SettingsPageScanning.qml:33
+#, kde-format
+msgctxt "@label"
+msgid "Do not scan these folders:"
+msgstr "Không quét các thư mục này:"
+
+#: src/qml/SettingsPageScanning.qml:41
+#, kde-format
+msgctxt "@action:button remove list entry"
+msgid "Add…"
+msgstr "Thêm..."
+
+#: src/qml/SettingsPageScanning.qml:90
+#, kde-format
+msgctxt "@action:button remove list entry"
+msgid "Remove"
+msgstr "Xoá"
+
+#: src/qml/SettingsPageScanning.qml:110
+#, kde-format
+msgctxt "@checkbox"
+msgid "Scan across filesystem boundaries"
+msgstr "Quét qua ranh giới hệ thống tệp"
+
+#: src/qml/SettingsPageScanning.qml:122
+#, kde-format
+msgctxt "@checkbox"
+msgid "Exclude remote filesystems"
+msgstr "Loại trừ hệ thống tệp tin từ xa"
+
+#: src/radialMap/map.cpp:62
+#, kde-format
+msgid ""
+"\n"
+"%1 file, with an average size of %2"
+msgid_plural ""
+"\n"
+"%1 files, with an average size of %2"
+msgstr[0] "\n%1 tệp, với kích thước trung bình là %2"

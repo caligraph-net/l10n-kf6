@@ -1,0 +1,183 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kmail package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kmail\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-18 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: filterlogdialog.cpp:45
+#, kde-format
+msgctxt "@title:window"
+msgid "Filter Log Viewer"
+msgstr "Trình xem nhật kí lọc"
+
+#: filterlogdialog.cpp:79
+#, kde-format
+msgctxt "@action:button"
+msgid "Share…"
+msgstr "Chia sẻ..."
+
+#: filterlogdialog.cpp:85
+#, kde-format
+msgid "&Log filter activities"
+msgstr "&Lọc nhật kí hoạt động"
+
+#: filterlogdialog.cpp:90
+#, kde-format
+msgid ""
+"You can turn logging of filter activities on and off here. Of course, log "
+"data is collected and shown only when logging is turned on. "
+msgstr ""
+"Bạn có thể bật và tắt ghi nhật kí các hoạt động của bộ lọc ở đây. Tất "
+"nhiên, dữ liệu nhật kí chỉ được thu thập và hiển thị khi ghi nhật kí được "
+"bật."
+
+#: filterlogdialog.cpp:94
+#, kde-format
+msgid "Logging Details"
+msgstr "Chi tiết ghi nhật kí"
+
+#: filterlogdialog.cpp:101
+#, kde-format
+msgid "Log pattern description"
+msgstr "Mô tả dạng mẫu nhật kí"
+
+#: filterlogdialog.cpp:106
+#, kde-format
+msgid "Log filter &rule evaluation"
+msgstr "Đánh giá quy tắc lọc nhật &kí"
+
+#: filterlogdialog.cpp:111
+#, kde-format
+msgid ""
+"You can control the feedback in the log concerning the evaluation of the "
+"filter rules of applied filters: having this option checked will give "
+"detailed feedback for each single filter rule; alternatively, only feedback "
+"about the result of the evaluation of all rules of a single filter will be "
+"given."
+msgstr ""
+"Bạn có thể kiểm soát phản hồi trong nhật kí liên quan đến việc đánh giá các "
+"quy tắc lọc của các bộ lọc đã áp dụng: khi chọn tùy chọn này, sẽ có phản "
+"hồi chi tiết cho từng quy tắc lọc riêng lẻ; hoặc chỉ có phản hồi về kết quả "
+"đánh giá tất cả các quy tắc của một bộ lọc duy nhất."
+
+#: filterlogdialog.cpp:118
+#, kde-format
+msgid "Log filter pattern evaluation"
+msgstr "Đánh giá mẫu lọc nhật kí"
+
+#: filterlogdialog.cpp:123
+#, kde-format
+msgid "Log filter actions"
+msgstr "Hành động lọc nhật kí"
+
+#: filterlogdialog.cpp:133
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Log size limit:"
+msgstr "Giới hạn kích thước nhật kí:"
+
+#: filterlogdialog.cpp:141
+#, kde-format
+msgid " KB"
+msgstr "KB"
+
+#: filterlogdialog.cpp:142
+#, kde-format
+msgctxt "@label:spinbox Set the size of the logfile to unlimited."
+msgid "unlimited"
+msgstr "không giới hạn"
+
+#: filterlogdialog.cpp:145
+#, kde-format
+msgid ""
+"Collecting log data uses memory to temporarily store the log data; here you "
+"can limit the maximum amount of memory to be used: if the size of the "
+"collected log data exceeds this limit then the oldest data will be discarded "
+"until the limit is no longer exceeded. "
+msgstr ""
+"Thu thập dữ liệu nhật kí sử dụng bộ nhớ để tạm thời lưu trữ dữ liệu nhật "
+"kí; ở đây bạn có thể giới hạn lượng bộ nhớ tối đa được sử dụng: nếu kích "
+"thước của dữ liệu nhật kí thu thập vượt quá giới hạn này thì dữ liệu cũ "
+"nhất sẽ bị loại bỏ cho đến khi giới hạn không còn bị vượt quá."
+
+#: filterlogdialog.cpp:326
+#, kde-format
+msgid ""
+"Could not write the file %1:\n"
+"\"%2\" is the detailed error description."
+msgstr "Không thể ghi tệp %1:\n\"%2\" là mô tả lỗi chi tiết."
+
+#: filterlogdialog.cpp:330
+#, kde-format
+msgctxt "@title:window"
+msgid "KMail Error"
+msgstr "Lỗi KMail"
+
+#: filtermanager.cpp:100
+#, kde-format
+msgid "Filtering message %1 of %2"
+msgstr "Đang lọc thông điệp %1 trong %2"
+
+#: filtermanager.cpp:187
+#, kde-format
+msgid "Error applying mail filter move"
+msgstr "Lỗi khi áp dụng di chuyển bộ lọc thư"
+
+#: filtermanager.cpp:195
+#, kde-format
+msgid "Error applying mail filter delete"
+msgstr "Lỗi khi áp dụng xóa bộ lọc thư"
+
+#: filtermanager.cpp:203
+#, kde-format
+msgid "Error applying mail filter modifications"
+msgstr "Lỗi khi áp dụng các thay đổi bộ lọc thư"
+
+#: filtermanager.cpp:220
+#, kde-format
+msgid "<b>Evaluating filter rules:</b> "
+msgstr "<b>Đang đánh giá các quy tắc lọc:</b> "
+
+#: filtermanager.cpp:227
+#, kde-format
+msgid "<b>Filter rules have matched.</b>"
+msgstr "<b>Các quy tắc lọc đã khớp.</b>"
+
+#: filtermanager.cpp:255
+#, kde-format
+msgid "<b>Begin filtering on message \"%1\" from \"%2\" at \"%3\" :</b>"
+msgstr "<b>Bắt đầu lọc thông điệp \"%1\" từ \"%2\" lúc \"%3\" :</b>"
+
+#: filtermanager.cpp:589 filtermanager.cpp:617
+#, kde-format
+msgid "Filtering messages"
+msgstr "Đang lọc tin nhắn"
+
+#: mailfilteragent.cpp:102
+#, kde-format
+msgctxt "Notification when the filter log was enabled"
+msgid "Mail Filter Log Enabled"
+msgstr "Nhật kí Bộ lọc Thư đã được bật"
+
+#: mailfilteragent.cpp:166
+#, kde-format
+msgid "Ready"
+msgstr "Sẵn sàng"
+
+#: mailfilteragent.cpp:252
+#, kde-format
+msgid "Filtering in %1"
+msgstr "Đang lọc trong %1"

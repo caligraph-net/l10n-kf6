@@ -1,0 +1,5421 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the neochat package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: neochat\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-08 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: src/chatbar/AttachDialog.qml:29
+#, kde-format
+msgid "Choose local file"
+msgstr "Chọn tệp cục bộ"
+
+#: src/chatbar/AttachDialog.qml:45
+#, kde-format
+msgid "Clipboard image"
+msgstr "Ảnh từ bảng nháp"
+
+#: src/chatbar/ChatBar.qml:79
+#, kde-format
+msgid "Attach an image or file"
+msgstr "Đính kèm một ảnh hoặc tệp"
+
+#: src/chatbar/ChatBar.qml:97
+#, kde-format
+msgid "Emojis & Stickers"
+msgstr "Biểu tượng cảm xúc và Sticker"
+
+#: src/chatbar/ChatBar.qml:114
+#, kde-format
+msgid "Send a Location"
+msgstr "Gửi một địa điểm"
+
+#: src/chatbar/ChatBar.qml:130
+#, kde-format
+msgid "Send message"
+msgstr "Gửi thông điệp"
+
+#: src/chatbar/ChatBar.qml:208
+#, kde-format
+msgid "Send an encrypted message…"
+msgstr "Gửi một tin nhắn được mã hoá..."
+
+#: src/chatbar/ChatBar.qml:208
+#, kde-format
+msgid "Set an attachment caption…"
+msgstr "Đặt tiêu đề tệp đính kèm..."
+
+#: src/chatbar/ChatBar.qml:208
+#, kde-format
+msgid "Send a message…"
+msgstr "Gửi tin nhắn..."
+
+#: src/chatbar/EmojiGrid.qml:87
+#, kde-format
+msgid "No stickers"
+msgstr "Không có hình dán"
+
+#: src/chatbar/EmojiGrid.qml:87
+#, kde-format
+msgid "No emojis"
+msgstr "Không có biểu tượng cảm xúc"
+
+#: src/chatbar/EmojiPicker.qml:52 src/settings/EmoticonsPage.qml:19
+#, kde-format
+msgid "Emojis"
+msgstr "Biểu tượng cảm xúc"
+
+#: src/chatbar/EmojiPicker.qml:59 src/settings/EmoticonsPage.qml:27
+#, kde-format
+msgid "Stickers"
+msgstr "Sticker"
+
+#: src/chatbar/ReplyPane.qml:89
+#, kde-format
+msgctxt "@action:button"
+msgid "Cancel reply"
+msgstr "Huỷ hồi đáp"
+
+#: src/controller.cpp:132
+#, kde-format
+msgctxt ""
+"The reason for using push notifications, as in: '[Push notifications are "
+"used for] Receiving notifications for new messages'"
+msgid "Receiving notifications for new messages"
+msgstr "Nhận thông báo về các tin nhắn mới"
+
+#: src/controller.cpp:211
+#, kde-format
+msgid "Network Error: %1"
+msgstr "Lỗi mạng: %1"
+
+#: src/controller.cpp:233
+#, kde-format
+msgid "Access token wasn't found"
+msgstr "Không tìm thấy hiệu bài"
+
+#: src/controller.cpp:233
+#, kde-format
+msgid "Maybe it was deleted?"
+msgstr "Có thể nó đã bị xóa?"
+
+#: src/controller.cpp:237
+#, kde-format
+msgid "Access to keychain was denied."
+msgstr "Truy cập vào keychain bị từ chối."
+
+#: src/controller.cpp:237
+#, kde-format
+msgid "Please allow NeoChat to read the access token"
+msgstr "Vui lòng cho phép NeoChat đọc hiệu bài"
+
+#: src/controller.cpp:240
+#, kde-format
+msgid "No keychain available."
+msgstr "Không có chuỗi khóa nào có sẵn."
+
+#: src/controller.cpp:240
+#, kde-format
+msgid "Please install a keychain, e.g. KWallet or GNOME keyring on Linux"
+msgstr ""
+"Vui lòng cài đặt một trình quản lý khóa, vd., KWallet hoặc GNOME keyring "
+"trên Linux"
+
+#: src/controller.cpp:243
+#, kde-format
+msgid "Unable to read access token"
+msgstr "Không thể đọc hiệu bài"
+
+#: src/controller.cpp:339
+#, kde-format
+msgid "Receiving push notifications"
+msgstr "Nhận thông báo đẩy"
+
+#: src/devtools/AccountData.qml:19
+#, kde-format
+msgctxt "@title:group"
+msgid "Account Data"
+msgstr "Dữ liệu tài khoản"
+
+#: src/devtools/AccountData.qml:29 src/devtools/StateKeys.qml:47
+#, kde-format
+msgctxt "@title:window"
+msgid "Event Source"
+msgstr "Nguồn sự kiện"
+
+#: src/devtools/DebugOptions.qml:19
+#, kde-format
+msgctxt "@option:check"
+msgid "Show hidden events in the timeline"
+msgstr "Hiển thị các sự kiện ẩn trong dòng thời gian"
+
+#: src/devtools/DebugOptions.qml:26
+#, kde-format
+msgctxt "@option:check Enable the matrix 'threads' feature"
+msgid "Always allow device verification"
+msgstr "Luôn cho phép xác minh thiết bị"
+
+#: src/devtools/DebugOptions.qml:27
+#, kde-format
+msgid ""
+"Allow the user to start a verification session with devices that were "
+"already verified"
+msgstr ""
+"Cho phép người dùng khởi động một phiên xác minh với các thiết bị đã được "
+"xác minh"
+
+#: src/devtools/DebugOptions.qml:33
+#, kde-format
+msgctxt "@option:check"
+msgid "Show focus in window header"
+msgstr "Hiển thị nhắm trong đầu tải cửa sổ"
+
+#: src/devtools/DevtoolsPage.qml:18 src/settings/NeoChatGeneralPage.qml:245
+#, kde-format
+msgid "Developer Tools"
+msgstr "Công cụ dành cho nhà phát triển"
+
+#: src/devtools/DevtoolsPage.qml:29
+#, kde-format
+msgctxt "@title:tab"
+msgid "Debug Options"
+msgstr "Tùy chọn gỡ lỗi"
+
+#: src/devtools/DevtoolsPage.qml:34
+#, kde-format
+msgctxt "@title:tab"
+msgid "Room Data"
+msgstr "Dữ liệu phòng"
+
+#: src/devtools/DevtoolsPage.qml:39
+#, kde-format
+msgctxt "@title:tab"
+msgid "Server Info"
+msgstr "Thông tin máy chủ"
+
+#: src/devtools/DevtoolsPage.qml:44
+#, kde-format
+msgctxt "@title:tab"
+msgid "Account Data"
+msgstr "Dữ liệu tài khoản"
+
+#: src/devtools/DevtoolsPage.qml:49
+#, kde-format
+msgctxt "@title:tab"
+msgid "Feature Flags"
+msgstr "Cờ tính năng"
+
+#: src/devtools/FeatureFlagPage.qml:20
+#, kde-format
+msgctxt "@option:check Enable the matrix 'threads' feature"
+msgid "Threads"
+msgstr "Luồng"
+
+#: src/devtools/FeatureFlagPage.qml:26
+#, kde-format
+msgctxt "@option:check Enable the matrix 'secret backup' feature"
+msgid "Secret Backup"
+msgstr "Bản sao lưu bí mật"
+
+#: src/devtools/FeatureFlagPage.qml:32
+#, kde-format
+msgctxt ""
+"@option:check Enable the matrix feature to add a phone number as a third "
+"party ID"
+msgid "Add phone numbers as 3PIDs"
+msgstr "Thêm số điện thoại làm 3PID"
+
+#: src/devtools/RoomData.qml:20
+#, kde-format
+msgctxt "@title"
+msgid "Choose Room"
+msgstr "Chọn Phòng"
+
+#: src/devtools/RoomData.qml:25 src/qml/CreateRoomDialog.qml:54
+#, kde-format
+msgid "Room"
+msgstr "Phòng"
+
+#: src/devtools/RoomData.qml:36
+#, kde-format
+msgid "Room Id: %1"
+msgstr "Mã phòng: %1"
+
+#: src/devtools/RoomData.qml:40
+#, kde-format
+msgid "Room Account Data"
+msgstr "Dữ liệu Tài khoản Phòng"
+
+#: src/devtools/RoomData.qml:53 src/devtools/RoomData.qml:99
+#: src/qml/MessageSourceSheet.qml:42
+#, kde-format
+msgid "Event Source"
+msgstr "Nguồn sự kiện"
+
+#: src/devtools/RoomData.qml:61
+#, kde-format
+msgid "Room State"
+msgstr "Trạng thái phòng"
+
+#: src/devtools/RoomData.qml:75
+#, kde-format
+msgctxt "'Event' being some JSON data, not something physically happening."
+msgid "%1 event of this type"
+msgid_plural "%1 events of this type"
+msgstr[0] "%1 sự kiện của kiểu này"
+
+#: src/devtools/RoomData.qml:84
+#, kde-format
+msgctxt "'Event' being some JSON data, not something physically happening."
+msgid "Event Information"
+msgstr "Thông tin sự kiện"
+
+#: src/devtools/ServerData.qml:20
+#, kde-format
+msgid "Server Capabilities"
+msgstr "Khả năng của Máy Chủ"
+
+#: src/devtools/ServerData.qml:24
+#, kde-format
+msgid "Can change password"
+msgstr "Có thể thay đổi mật khẩu"
+
+#: src/devtools/ServerData.qml:29
+#, kde-format
+msgid "Default Room Version"
+msgstr "Phiên bản Phòng Mặc định"
+
+#: src/devtools/ServerData.qml:37
+#, kde-format
+msgid "Available Room Versions"
+msgstr "Các phiên bản phòng hiện có"
+
+#: src/devtools/StateKeys.qml:22
+#, kde-format
+msgctxt ""
+"The name of one instance of a state of configuration. Unless you really know "
+"what you're doing, best leave this untranslated."
+msgid "State Keys"
+msgstr "State Keys"
+
+#: src/enums/neochatroomtype.h:59
+#, kde-format
+msgid "Invited"
+msgstr "Đã mời"
+
+#: src/enums/neochatroomtype.h:61
+#, kde-format
+msgid "Favorite"
+msgstr "Yêu thích"
+
+#: src/enums/neochatroomtype.h:63 src/qml/UserSearchPage.qml:84
+#, kde-format
+msgid "Friends"
+msgstr "Bạn bè"
+
+#: src/enums/neochatroomtype.h:65
+#, kde-format
+msgid "Normal"
+msgstr "Bình thường"
+
+#: src/enums/neochatroomtype.h:67
+#, kde-format
+msgid "Low priority"
+msgstr "Ưu tiên thấp"
+
+#: src/enums/neochatroomtype.h:69
+#, kde-format
+msgid "Spaces"
+msgstr "Không gian"
+
+#: src/enums/powerlevel.cpp:10
+#, kde-format
+msgid "Member"
+msgstr "Thành viên"
+
+#: src/enums/powerlevel.cpp:12
+#, kde-format
+msgid "Moderator"
+msgstr "Điều phối viên"
+
+#: src/enums/powerlevel.cpp:14
+#, kde-format
+msgid "Admin"
+msgstr "Quản trị viên"
+
+#: src/enums/powerlevel.cpp:16
+#, kde-format
+msgid "Mute"
+msgstr "Tắt tiếng"
+
+#: src/enums/powerlevel.cpp:18
+#, kde-format
+msgid "Custom"
+msgstr "Tự chọn"
+
+#: src/enums/powerlevel.cpp:88 src/models/permissionsmodel.cpp:162
+#: src/models/userlistmodel.cpp:110
+#, kde-format
+msgctxt ""
+"%1 is the name of the power level, e.g. admin and %2 is the value that "
+"represents."
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: src/eventhandler.cpp:304 src/eventhandler.cpp:509 src/models/messagecontentmodel.cpp:213
+#: src/models/messageeventmodel.cpp:456
+#, kde-format
+msgid "<i>[This message was deleted]</i>"
+msgstr "<i>[Thông điệp này đã bị xóa]</i>"
+
+#: src/eventhandler.cpp:304 src/models/messagecontentmodel.cpp:214
+#: src/models/messageeventmodel.cpp:457
+#, kde-format
+msgid "<i>[This message was deleted: %1]</i>"
+msgstr "<i>[Thông điệp này đã bị xóa: %1]</i>"
+
+#: src/eventhandler.cpp:335
+#, kde-format
+msgid "reinvited %1 to the room"
+msgstr "đã mời lại %1 vào phòng"
+
+#: src/eventhandler.cpp:337
+#, kde-format
+msgctxt "Optional reason for an invitation"
+msgid ": %1"
+msgstr ": %1"
+
+#: src/eventhandler.cpp:346 src/eventhandler.cpp:533
+#, kde-format
+msgid "joined the room (repeated)"
+msgstr "đã tham gia phòng (lặp lại)"
+
+#: src/eventhandler.cpp:348
+#, kde-format
+msgid "invited %1 to the room"
+msgstr "đã mời %1 vào phòng"
+
+#: src/eventhandler.cpp:348 src/eventhandler.cpp:535
+#, kde-format
+msgid "joined the room"
+msgstr "đã tham gia phòng"
+
+#: src/eventhandler.cpp:352
+#, kde-format
+msgid ": %1"
+msgstr ": %1"
+
+#: src/eventhandler.cpp:359 src/eventhandler.cpp:543
+#, kde-format
+msgctxt "their refers to a singular user"
+msgid "cleared their display name"
+msgstr "đã xóa tên hiển thị của họ"
+
+#: src/eventhandler.cpp:362
+#, kde-format
+msgctxt "their refers to a singular user"
+msgid "changed their display name to %1"
+msgstr "đã thay đổi tên hiển thị của họ thành %1"
+
+#: src/eventhandler.cpp:368 src/eventhandler.cpp:550
+#, kde-format
+msgid " and "
+msgstr " và "
+
+#: src/eventhandler.cpp:371 src/eventhandler.cpp:553
+#, kde-format
+msgctxt "their refers to a singular user"
+msgid "cleared their avatar"
+msgstr "đã xóa hiện thân ảo của họ"
+
+#: src/eventhandler.cpp:373 src/eventhandler.cpp:555
+#, kde-format
+msgid "set an avatar"
+msgstr "đặt một hiện thân ảo"
+
+#: src/eventhandler.cpp:375 src/eventhandler.cpp:557
+#, kde-format
+msgctxt "their refers to a singular user"
+msgid "updated their avatar"
+msgstr "đã cập nhật hiện thân ảo của họ"
+
+#: src/eventhandler.cpp:379 src/eventhandler.cpp:561
+#, kde-format
+msgctxt "<user> changed nothing"
+msgid "changed nothing"
+msgstr "không thay đổi gì"
+
+#: src/eventhandler.cpp:385
+#, kde-format
+msgid "withdrew %1's invitation"
+msgstr "đã thu hồi lời mời của %1"
+
+#: src/eventhandler.cpp:385 src/eventhandler.cpp:567
+#, kde-format
+msgid "rejected the invitation"
+msgstr "từ chối lời mời"
+
+#: src/eventhandler.cpp:389
+#, kde-format
+msgid "unbanned %1"
+msgstr "đã bỏ cấm %1"
+
+#: src/eventhandler.cpp:389 src/eventhandler.cpp:571
+#, kde-format
+msgid "self-unbanned"
+msgstr "tự gỡ bỏ cấm"
+
+#: src/eventhandler.cpp:392
+#, kde-format
+msgid "has put %1 out of the room: %2"
+msgstr "đã đưa %1 ra khỏi phòng: %2"
+
+#: src/eventhandler.cpp:393 src/eventhandler.cpp:573
+#, kde-format
+msgid "left the room"
+msgstr "rời khỏi phòng"
+
+#: src/eventhandler.cpp:397
+#, kde-format
+msgid "banned %1 from the room"
+msgstr "đã cấm %1 khỏi phòng"
+
+#: src/eventhandler.cpp:399
+#, kde-format
+msgid "banned %1 from the room: %2"
+msgstr "đã cấm %1 khỏi phòng: %2"
+
+#: src/eventhandler.cpp:402 src/eventhandler.cpp:578
+#, kde-format
+msgid "self-banned from the room"
+msgstr "tự cấm khỏi phòng"
+
+#: src/eventhandler.cpp:406 src/eventhandler.cpp:581
+#, kde-format
+msgid "requested an invite"
+msgstr "đã yêu cầu lời mời"
+
+#: src/eventhandler.cpp:406
+#, kde-format
+msgid "requested an invite with reason: %1"
+msgstr "đã yêu cầu một lời mời với lý do: %1"
+
+#: src/eventhandler.cpp:410 src/eventhandler.cpp:585
+#, kde-format
+msgid "made something unknown"
+msgstr "đã làm một cái gì đó không rõ"
+
+#: src/eventhandler.cpp:413 src/eventhandler.cpp:588
+#, kde-format
+msgid "cleared the room main alias"
+msgstr "đã xóa biệt danh chính của phòng"
+
+#: src/eventhandler.cpp:413
+#, kde-format
+msgid "set the room main alias to: %1"
+msgstr "đặt biệt danh chính của phòng thành: %1"
+
+#: src/eventhandler.cpp:416 src/eventhandler.cpp:591
+#, kde-format
+msgid "cleared the room name"
+msgstr "đã xóa tên phòng"
+
+#: src/eventhandler.cpp:416
+#, kde-format
+msgid "set the room name to: %1"
+msgstr "đặt tên phòng thành: %1"
+
+#: src/eventhandler.cpp:419 src/eventhandler.cpp:594
+#, kde-format
+msgid "cleared the topic"
+msgstr "đã xóa chủ đề"
+
+#: src/eventhandler.cpp:420
+#, kde-format
+msgid "set the topic to: %1"
+msgstr "đặt chủ đề thành: %1"
+
+#: src/eventhandler.cpp:426 src/eventhandler.cpp:597
+#, kde-format
+msgid "changed the room avatar"
+msgstr "đã thay đổi hiện thân ảo của phòng"
+
+#: src/eventhandler.cpp:429 src/eventhandler.cpp:600
+#, kde-format
+msgid "activated End-to-End Encryption"
+msgstr "đã kích hoạt Mật mã hoá Đầu-Cuối"
+
+#: src/eventhandler.cpp:433
+#, kde-format
+msgid "upgraded the room to version %1"
+msgstr "đã nâng cấp phòng lên phiên bản %1"
+
+#: src/eventhandler.cpp:434
+#, kde-format
+msgid "created the room, version %1"
+msgstr "đã tạo phòng, phiên bản %1"
+
+#: src/eventhandler.cpp:437 src/eventhandler.cpp:606
+#, kde-format
+msgctxt "'power level' means permission level"
+msgid "changed the power levels for this room"
+msgstr "đã thay đổi các mức nguồn điện cho phòng này"
+
+#: src/eventhandler.cpp:443 src/eventhandler.cpp:612
+#, kde-format
+msgid "changed the server access control lists for this room"
+msgstr "đã thay đổi danh sách kiểm soát truy cập máy chủ cho phòng này"
+
+#: src/eventhandler.cpp:447
+#, kde-format
+msgctxt "[User] added <name> widget"
+msgid "added %1 widget"
+msgstr "đã thêm phụ kiện %1"
+
+#: src/eventhandler.cpp:450
+#, kde-format
+msgctxt "[User] removed <name> widget"
+msgid "removed %1 widget"
+msgstr "đã xóa phụ kiện %1"
+
+#: src/eventhandler.cpp:452
+#, kde-format
+msgctxt "[User] configured <name> widget"
+msgid "configured %1 widget"
+msgstr "đã cấu hình phụ kiện %1"
+
+#: src/eventhandler.cpp:455
+#, kde-format
+msgid "updated %1 state"
+msgstr "đã cập nhật trạng thái %1"
+
+#: src/eventhandler.cpp:456
+#, kde-format
+msgid "updated %1 state for %2"
+msgstr "đã cập nhật trạng thái %1 cho %2"
+
+#: src/eventhandler.cpp:461 src/eventhandler.cpp:630
+#, kde-format
+msgid "Unknown event"
+msgstr "Sự kiện không rõ"
+
+#: src/eventhandler.cpp:476
+#, kde-format
+msgid "a file"
+msgstr "tệp"
+
+#: src/eventhandler.cpp:516
+#, kde-format
+msgid "sent a message"
+msgstr "đã gửi một thông điệp"
+
+#: src/eventhandler.cpp:520
+#, kde-format
+msgid "sent a sticker"
+msgstr "đã gửi một sticker"
+
+#: src/eventhandler.cpp:526
+#, kde-format
+msgid "reinvited someone to the room"
+msgstr "đã mời lại ai đó vào phòng"
+
+#: src/eventhandler.cpp:535
+#, kde-format
+msgid "invited someone to the room"
+msgstr "đã mời ai đó vào phòng"
+
+#: src/eventhandler.cpp:545
+#, kde-format
+msgctxt "their refers to a singular user"
+msgid "changed their display name"
+msgstr "đã thay đổi tên hiển thị của họ"
+
+#: src/eventhandler.cpp:567
+#, kde-format
+msgid "withdrew a user's invitation"
+msgstr "thu hồi lời mời của người dùng"
+
+#: src/eventhandler.cpp:571
+#, kde-format
+msgid "unbanned a user"
+msgstr "đã bỏ cấm người dùng"
+
+#: src/eventhandler.cpp:573
+#, kde-format
+msgid "put a user out of the room"
+msgstr "đưa người dùng ra khỏi phòng"
+
+#: src/eventhandler.cpp:576
+#, kde-format
+msgid "banned a user from the room"
+msgstr "đã cấm người dùng khỏi phòng"
+
+#: src/eventhandler.cpp:588
+#, kde-format
+msgid "set the room main alias"
+msgstr "đặt biệt danh chính của phòng"
+
+#: src/eventhandler.cpp:591
+#, kde-format
+msgid "set the room name"
+msgstr "đặt tên phòng"
+
+#: src/eventhandler.cpp:594
+#, kde-format
+msgid "set the topic"
+msgstr "đặt chủ đề"
+
+#: src/eventhandler.cpp:603
+#, kde-format
+msgid "upgraded the room version"
+msgstr "đã nâng cấp phiên bản phòng"
+
+#: src/eventhandler.cpp:603
+#, kde-format
+msgid "created the room"
+msgstr "đã tạo phòng"
+
+#: src/eventhandler.cpp:609
+#, kde-format
+msgid "sent a live location beacon"
+msgstr "đã gửi một tín hiệu định vị trực tiếp"
+
+#: src/eventhandler.cpp:616
+#, kde-format
+msgid "added a widget"
+msgstr "đã thêm một phụ kiện"
+
+#: src/eventhandler.cpp:619
+#, kde-format
+msgid "removed a widget"
+msgstr "đã xóa một phụ kiện"
+
+#: src/eventhandler.cpp:621
+#, kde-format
+msgid "configured a widget"
+msgstr "đã cấu hình một phụ kiện"
+
+#: src/eventhandler.cpp:624
+#, kde-format
+msgid "updated the state"
+msgstr "đã cập nhật trạng thái"
+
+#: src/eventhandler.cpp:628
+#, kde-format
+msgid "started a poll"
+msgstr "bắt đầu một cuộc thăm dò"
+
+#: src/eventhandler.cpp:1035
+#, kde-format
+msgid "1 user: "
+msgid_plural "%1 users: "
+msgstr[0] "%1 người dùng: "
+
+#: src/eventhandler.cpp:1040
+#, kde-format
+msgctxt "A member who is not in the room has been requested."
+msgid "unknown member"
+msgstr "không rõ"
+
+#: src/eventhandler.cpp:1044
+#, kde-format
+msgctxt "list separator"
+msgid ", "
+msgstr ", "
+
+#: src/filetransferpseudojob.cpp:48
+#, kde-format
+msgctxt "Job heading, like 'Copying'"
+msgid "Downloading"
+msgstr "Tải về"
+
+#: src/filetransferpseudojob.cpp:48
+#, kde-format
+msgctxt "Job heading, like 'Copying'"
+msgid "Uploading"
+msgstr "Đang tải lên"
+
+#: src/filetransferpseudojob.cpp:49
+#, kde-format
+msgctxt "The URL being downloaded/uploaded"
+msgid "Source"
+msgstr "Nguồn"
+
+#: src/filetransferpseudojob.cpp:50
+#, kde-format
+msgctxt "The location being downloaded to"
+msgid "Destination"
+msgstr "Đích đến"
+
+#: src/login.cpp:90 src/login.cpp:105
+#, kde-format
+msgid "Network Error"
+msgstr "Lỗi mạng"
+
+#: src/login.cpp:98
+#, kde-format
+msgid "Login Failed: %1"
+msgstr "Đăng nhập thất bại: %1"
+
+#: src/login/Email.qml:21
+#, kde-format
+msgid "Add an e-mail address:"
+msgstr "Thêm địa chỉ email:"
+
+#: src/login/Email.qml:33
+#, kde-format
+msgid "Confirm e-mail address"
+msgstr "Xác nhận địa chỉ email"
+
+#: src/login/Email.qml:35
+#, kde-format
+msgid ""
+"A confirmation e-mail has been sent to your address. Please continue here "
+"<b>after</b> clicking on the confirmation link in the e-mail"
+msgstr ""
+"Một email xác nhận đã được gửi đến địa chỉ của bạn. Vui lòng tiếp tục tại "
+"đây <b>sau khi</b> nhấp vào liên kết xác nhận trong email"
+
+#: src/login/Email.qml:40
+#, kde-format
+msgctxt "@button"
+msgid "Re-send confirmation e-mail"
+msgstr "Gửi lại email xác nhận"
+
+#: src/login/Homeserver.qml:21
+#, kde-format
+msgid "Server Url:"
+msgstr "Địa chỉ máy chủ:"
+
+#: src/login/Homeserver.qml:26
+#, kde-format
+msgid "Registration is disabled on this server."
+msgstr "Đăng ký đã bị vô hiệu hóa trên máy chủ này."
+
+#: src/login/Homeserver.qml:41 src/login/Username.qml:38
+#: src/timeline/LoadComponent.qml:33
+#, kde-format
+msgid "Loading"
+msgstr "Đang tải"
+
+#: src/login/Loading.qml:16
+#, kde-format
+msgid ""
+"Please wait while your messages are loaded from the server. This might take "
+"a little while."
+msgstr ""
+"Vui lòng chờ trong khi tin nhắn của bạn được tải từ máy chủ. Điều này có "
+"thể mất một chút thời gian."
+
+#: src/login/Login.qml:25
+#, kde-format
+msgid "Matrix ID:"
+msgstr "ID Matrix:"
+
+#: src/login/Login.qml:27
+#, kde-format
+msgid "Matrix ID"
+msgstr "Mã định danh"
+
+#: src/login/Login.qml:38 src/qml/NotificationsView.qml:34
+#: src/qml/NotificationsView.qml:39 src/settings/DevicesPage.qml:20
+#: src/timeline/LoadingDelegate.qml:19
+#, kde-format
+msgid "Loading…"
+msgstr "Đang tải..."
+
+#: src/login/Login.qml:38 src/login/WelcomePage.qml:198
+#: src/settings/ThreePIdCard.qml:181
+#, kde-format
+msgctxt "@action:button"
+msgid "Continue"
+msgstr "Tiếp tục"
+
+#: src/login/Login.qml:38
+#, kde-format
+msgid "Already logged in"
+msgstr "Đã đăng nhập"
+
+#: src/login/LoginMethod.qml:20
+#, kde-format
+msgctxt "@action:button"
+msgid "Login with password"
+msgstr "Đăng nhập bằng mật khẩu"
+
+#: src/login/LoginMethod.qml:26
+#, kde-format
+msgctxt "@action:button"
+msgid "Login with single sign-on"
+msgstr "Đăng nhập bằng đăng nhập duy nhất"
+
+#: src/login/LoginRegister.qml:24 src/login/Password.qml:41
+#, kde-format
+msgctxt "@action:button"
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: src/login/LoginRegister.qml:31
+#, kde-format
+msgctxt "@action:button"
+msgid "Register"
+msgstr "Đăng ký"
+
+#: src/login/Password.qml:28 src/login/RegisterPassword.qml:20
+#: src/settings/DevicesPage.qml:81
+#, kde-format
+msgid "Password:"
+msgstr "Mật khẩu:"
+
+#: src/login/Password.qml:32 src/settings/AccountEditorPage.qml:149
+#: src/settings/NetworkProxyPage.qml:95
+#, kde-format
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: src/login/Password.qml:33
+#, kde-format
+msgid "Invalid username or password"
+msgstr "Tên người dùng hoặc mật khẩu không hợp lệ"
+
+#: src/login/RegisterPassword.qml:30
+#, kde-format
+msgid "Confirm Password:"
+msgstr "Xác nhận mật khẩu:"
+
+#: src/login/RegisterPassword.qml:33
+#, kde-format
+msgid "The passwords do not match."
+msgstr "Mật khẩu không khớp."
+
+#: src/login/Sso.qml:30
+#, kde-format
+msgid "Continue the login process in your browser."
+msgstr "Tiếp tục quá trình đăng nhập trong trình duyệt của bạn."
+
+#: src/login/Sso.qml:38
+#, kde-format
+msgctxt "@action:button"
+msgid "Re-open SSO URL"
+msgstr "Mở lại URL SSO"
+
+#: src/login/Terms.qml:18
+#, kde-format
+msgid "Terms & Conditions"
+msgstr "Các điều khoản & Điều kiện"
+
+#: src/login/Terms.qml:19
+#, kde-format
+msgid ""
+"By continuing with the registration, you agree to the following terms and "
+"conditions:"
+msgstr ""
+"Bằng việc tiếp tục với đăng ký, bạn đồng ý với các điều khoản và điều kiện "
+"sau:"
+
+#: src/login/Username.qml:20
+#, kde-format
+msgid "Username:"
+msgstr "Tên người dùng:"
+
+#: src/login/Username.qml:23
+#, kde-format
+msgid "Username unavailable"
+msgstr "Tên người dùng không khả dụng"
+
+#: src/login/WelcomePage.qml:25
+#, kde-format
+msgid "Welcome"
+msgstr "Chào mừng"
+
+#: src/login/WelcomePage.qml:46 src/qml/RoomPage.qml:157
+#, kde-format
+msgid "Welcome to NeoChat"
+msgstr "Chào mừng đến NeoChat"
+
+#: src/login/WelcomePage.qml:54
+#, kde-format
+msgctxt "@title"
+msgid "Continue with an existing account"
+msgstr "Tiếp tục với một tài khoản hiện có"
+
+#: src/login/WelcomePage.qml:86
+#, kde-format
+msgctxt "As in 'this account is still loading'"
+msgid "%1 (loading)"
+msgstr "%1 (đang tải)"
+
+#: src/login/WelcomePage.qml:95
+#, kde-format
+msgctxt "@action:button"
+msgid "Log out of this account"
+msgstr "Đăng xuất khỏi tài khoản này"
+
+#: src/login/WelcomePage.qml:124
+#, kde-format
+msgctxt "@title"
+msgid "Log in or Create a New Account"
+msgstr "Đăng nhập hoặc Tạo Tài Khoản Mới"
+
+#: src/login/WelcomePage.qml:206
+#, kde-format
+msgctxt "@action:button"
+msgid "Go back"
+msgstr "Quay lại"
+
+#: src/login/WelcomePage.qml:217
+#, kde-format
+msgctxt "@action:button"
+msgid "Open proxy settings"
+msgstr "Mở thiết lập uỷ nhiệm"
+
+#: src/login/WelcomePage.qml:220
+#, kde-format
+msgctxt "@title:window"
+msgid "Proxy Settings"
+msgstr "Thiết lập uỷ nhiệm"
+
+#: src/main.cpp:142
+#, kde-format
+msgid "NeoChat"
+msgstr "NeoChat"
+
+#: src/main.cpp:144
+#, kde-format
+msgid "Matrix client"
+msgstr "Máy khách Matrix"
+
+#: src/main.cpp:146
+#, kde-format
+msgid "© 2018-2020 Black Hat, 2020-2024 KDE Community"
+msgstr "© 2018-2020 Black Hat, 2020-2024 Cộng đồng KDE"
+
+#: src/main.cpp:147
+#, kde-format
+msgid "Carl Schwan"
+msgstr "Carl Schwan"
+
+#: src/main.cpp:148 src/main.cpp:152 src/main.cpp:153
+#, kde-format
+msgid "Maintainer"
+msgstr "Bảo trì viên"
+
+#: src/main.cpp:152
+#, kde-format
+msgid "Tobias Fella"
+msgstr "Tobias Fella"
+
+#: src/main.cpp:153
+#, kde-format
+msgid "James Graham"
+msgstr "James Graham"
+
+#: src/main.cpp:154
+#, kde-format
+msgid "Black Hat"
+msgstr "Mũ đen"
+
+#: src/main.cpp:154
+#, kde-format
+msgid "Original author of Spectral"
+msgstr "Tác giả gốc của Spectral"
+
+#: src/main.cpp:155
+#, kde-format
+msgid "Alexey Rusakov"
+msgstr "Alexey Rusakov"
+
+#: src/main.cpp:155
+#, kde-format
+msgid "Maintainer of libQuotient"
+msgstr "Bảo trì viên của libQuotient"
+
+#: src/main.cpp:156
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#: src/main.cpp:156
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Địa chỉ email của bạn"
+
+#: src/main.cpp:160
+#, kde-format
+msgid "A Qt library to write cross-platform clients for Matrix"
+msgstr "Một thư viện Qt để viết các ứng dụng khách đa nền tảng cho Matrix"
+
+#: src/main.cpp:162
+#, kde-format
+msgctxt "<version number> (built against <possibly different version number>)"
+msgid "%1 (built against %2)"
+msgstr "%1 (được xây dựng dựa trên %2)"
+
+#: src/main.cpp:193
+#, kde-format
+msgid "Client for the matrix communication protocol"
+msgstr "Trình khách cho giao thức liên lạc matrix"
+
+#: src/main.cpp:194
+#, kde-format
+msgid "Supports matrix: url scheme"
+msgstr "Hỗ trợ ma trận: quy hoạch URL"
+
+#: src/main.cpp:195
+#, kde-format
+msgid "Ignore all SSL Errors, e.g., unsigned certificates."
+msgstr "Bỏ qua tất cả các lỗi SSL, ví dụ như chứng chỉ không được ký."
+
+#: src/main.cpp:197
+#, kde-format
+msgid "Only used for autotests"
+msgstr "Chỉ dùng cho các bài kiểm tra tự động"
+
+#: src/main.cpp:202
+#, kde-format
+msgid "Internal usage only."
+msgstr "Chỉ sử dụng nội bộ."
+
+#: src/main.cpp:207
+#, kde-format
+msgid "Share a URL to Matrix"
+msgstr "Chia sẻ một URL lên Matrix"
+
+#: src/matriximageprovider.cpp:38
+#, kde-format
+msgid "Media id '%1' doesn't follow server/mediaId pattern"
+msgstr "Mã định danh phương tiện '%1' không tuân theo dạng mẫu server/mediaId"
+
+#: src/matriximageprovider.cpp:96
+#, kde-format
+msgid "Image request has been cancelled"
+msgstr "Yêu cầu ảnh đã bị hủy"
+
+#: src/models/actionsmodel.cpp:27
+#, kde-format
+msgid "Leaving this room."
+msgstr "Rời khỏi phòng này."
+
+#: src/models/actionsmodel.cpp:35 src/models/actionsmodel.cpp:236
+#: src/models/actionsmodel.cpp:263 src/models/actionsmodel.cpp:294
+#, kde-format
+msgctxt "'<text>' does not look like a room id or alias."
+msgid "'%1' does not look like a room id or alias."
+msgstr "'%1' không giống như một mã định danh hoặc bí danh của phòng."
+
+#: src/models/actionsmodel.cpp:43
+#, kde-format
+msgctxt "Leaving room <roomname>."
+msgid "Leaving room %1."
+msgstr "Rời khỏi phòng %1."
+
+#: src/models/actionsmodel.cpp:46
+#, kde-format
+msgctxt "Room <roomname> not found"
+msgid "Room %1 not found."
+msgstr "Không tìm thấy phòng %1."
+
+#: src/models/actionsmodel.cpp:54 src/models/actionsmodel.cpp:330
+#, kde-format
+msgid "No new nickname provided, no changes will happen."
+msgstr "Không có biệt danh mới được cung cấp, không có thay đổi nào sẽ xảy ra."
+
+#: src/models/actionsmodel.cpp:69 src/models/actionsmodel.cpp:79
+#: src/models/actionsmodel.cpp:89 src/models/actionsmodel.cpp:99
+#: src/models/actionsmodel.cpp:119 src/models/actionsmodel.cpp:139
+#: src/models/actionsmodel.cpp:150 src/models/actionsmodel.cpp:166
+#: src/models/actionsmodel.cpp:176 src/models/actionsmodel.cpp:186
+msgid "<message>"
+msgstr ""
+
+#: src/models/actionsmodel.cpp:70
+msgid "Prepends ¯\\_(ツ)_/¯ to a plain-text message"
+msgstr "Thêm ¯\\_(ツ)_/¯ vào đầu một thông điệp văn bản thuần túy"
+
+#: src/models/actionsmodel.cpp:80
+msgid "Prepends ( ͡° ͜ʖ ͡°) to a plain-text message"
+msgstr "Thêm ( ͡° ͜ʖ ͡°) vào đầu một thông điệp văn bản thuần túy"
+
+#: src/models/actionsmodel.cpp:90
+msgid "Prepends (╯°□°）╯︵ ┻━┻ to a plain-text message"
+msgstr "Thêm (╯°□°）╯︵ ┻━┻ vào đầu một thông điệp văn bản thuần túy"
+
+#: src/models/actionsmodel.cpp:100
+msgid "Prepends ┬──┬ ノ( ゜-゜ノ) to a plain-text message"
+msgstr "Thêm ┬──┬ ノ( ゜-゜ノ) vào đầu một thông điệp văn bản thuần túy"
+
+#: src/models/actionsmodel.cpp:120
+msgid "Sends the given message colored as a rainbow"
+msgstr "Gửi thông điệp được tô màu như cầu vồng"
+
+#: src/models/actionsmodel.cpp:140
+msgid "Sends the given emote colored as a rainbow"
+msgstr "Gửi hình biểu cảm được tô màu cầu vồng"
+
+#: src/models/actionsmodel.cpp:151
+msgid "Sends the given message as plain text"
+msgstr "Gửi thông điệp được cung cấp dưới dạng văn bản thuần"
+
+#: src/models/actionsmodel.cpp:167
+msgid "Sends the given message as a spoiler"
+msgstr "Gửi thông điệp được cung cấp dưới dạng spoiler"
+
+#: src/models/actionsmodel.cpp:177
+msgid "Sends the given emote"
+msgstr "Gửi hình biểu cảm đã cho"
+
+#: src/models/actionsmodel.cpp:187
+msgid "Sends the given message as a notice"
+msgstr "Gửi thông điệp được cung cấp dưới dạng thông báo"
+
+#: src/models/actionsmodel.cpp:197 src/models/actionsmodel.cpp:365
+#: src/models/actionsmodel.cpp:390 src/models/actionsmodel.cpp:435
+#: src/models/actionsmodel.cpp:476 src/models/actionsmodel.cpp:513
+#, kde-format
+msgctxt "'<text>' does not look like a matrix id."
+msgid "'%1' does not look like a matrix id."
+msgstr "'%1' không giống như một mã định danh ma trận."
+
+#: src/models/actionsmodel.cpp:203
+#, kde-format
+msgctxt "<user> is already invited to this room."
+msgid "%1 is already invited to this room."
+msgstr "%1 đã được mời tham gia phòng này."
+
+#: src/models/actionsmodel.cpp:207
+#, kde-format
+msgctxt "<user> is banned from this room."
+msgid "%1 is banned from this room."
+msgstr "%1 đã bị cấm vào phòng này."
+
+#: src/models/actionsmodel.cpp:211
+#, kde-format
+msgid "You are already in this room."
+msgstr "Bạn đã ở trong phòng này rồi."
+
+#: src/models/actionsmodel.cpp:215
+#, kde-format
+msgctxt "<user> is already in this room."
+msgid "%1 is already in this room."
+msgstr "%1 đã có mặt trong phòng này."
+
+#: src/models/actionsmodel.cpp:220
+#, kde-format
+msgctxt "<username> was invited into this room"
+msgid "%1 was invited into this room"
+msgstr "%1 đã được mời vào phòng này"
+
+#: src/models/actionsmodel.cpp:225 src/models/actionsmodel.cpp:379
+#: src/models/actionsmodel.cpp:403 src/models/actionsmodel.cpp:501
+msgid "<user id>"
+msgstr "ID người dùng"
+
+#: src/models/actionsmodel.cpp:226
+msgid "Invites the user to this room"
+msgstr "Mời người dùng vào phòng này"
+
+#: src/models/actionsmodel.cpp:244 src/models/actionsmodel.cpp:301
+#, kde-format
+msgctxt "Joining room <roomname>."
+msgid "Joining room %1."
+msgstr "Đang tham gia phòng %1."
+
+#: src/models/actionsmodel.cpp:250 src/models/actionsmodel.cpp:307
+msgid "<room alias or id>"
+msgstr "biệt danh"
+
+#: src/models/actionsmodel.cpp:251 src/models/actionsmodel.cpp:308
+msgid "Joins the given room"
+msgstr "Tham gia phòng đã cho"
+
+#: src/models/actionsmodel.cpp:271
+#, kde-format
+msgctxt "Knocking room <roomname>."
+msgid "Knocking room %1."
+msgstr "Gõ cửa phòng %1."
+
+#: src/models/actionsmodel.cpp:283
+msgid "<room alias or id> [<reason>]"
+msgstr "<biệt danh hoặc id phòng> [<lý do>]"
+
+#: src/models/actionsmodel.cpp:284
+msgid "Requests to join the given room"
+msgstr "Yêu cầu tham gia phòng đã cho"
+
+#: src/models/actionsmodel.cpp:298
+#, kde-format
+msgctxt "You are already in room <roomname>."
+msgid "You are already in room %1."
+msgstr "Bạn đã ở trong phòng %1 rồi."
+
+#: src/models/actionsmodel.cpp:315 src/models/actionsmodel.cpp:323
+msgid "[<room alias or id>]"
+msgstr "[<biệt danh>]"
+
+#: src/models/actionsmodel.cpp:316 src/models/actionsmodel.cpp:324
+msgid "Leaves the given room or this room, if there is none given"
+msgstr "Rời khỏi phòng đã cho hoặc phòng này, nếu không có phòng nào được chỉ định"
+
+#: src/models/actionsmodel.cpp:338 src/models/actionsmodel.cpp:346
+#: src/models/actionsmodel.cpp:354
+msgid "<display name>"
+msgstr "Tên hiển thị"
+
+#: src/models/actionsmodel.cpp:339
+msgid "Changes your global display name"
+msgstr "Thay đổi tên hiển thị toàn cục của bạn"
+
+#: src/models/actionsmodel.cpp:347 src/models/actionsmodel.cpp:355
+msgid "Changes your display name in this room"
+msgstr "Thay đổi tên hiển thị của bạn trong phòng này"
+
+#: src/models/actionsmodel.cpp:369
+#, kde-format
+msgctxt "<username> is already ignored."
+msgid "%1 is already ignored."
+msgstr "%1 đã bị bỏ qua."
+
+#: src/models/actionsmodel.cpp:373
+#, kde-format
+msgctxt "<username> is now ignored"
+msgid "%1 is now ignored."
+msgstr "%1 đã bị bỏ qua."
+
+#: src/models/actionsmodel.cpp:380
+msgid "Ignores the given user"
+msgstr "Bỏ qua người dùng đã cho"
+
+#: src/models/actionsmodel.cpp:394
+#, kde-format
+msgctxt "<username> is not ignored."
+msgid "%1 is not ignored."
+msgstr "%1 không bị bỏ qua."
+
+#: src/models/actionsmodel.cpp:398
+#, kde-format
+msgctxt "<username> is no longer ignored."
+msgid "%1 is no longer ignored."
+msgstr "%1 không còn bị bỏ qua nữa."
+
+#: src/models/actionsmodel.cpp:404
+msgid "Unignores the given user"
+msgstr "Bỏ bỏ qua người dùng đã cho"
+
+#: src/models/actionsmodel.cpp:423
+msgid "<reaction text>"
+msgstr "phản ứng văn bản"
+
+#: src/models/actionsmodel.cpp:424
+msgid "React to the message with the given text"
+msgstr "Phản ứng với thông điệp bằng văn bản đã cho"
+
+#: src/models/actionsmodel.cpp:441
+#, kde-format
+msgctxt "<user> is already banned from this room."
+msgid "%1 is already banned from this room."
+msgstr "%1 đã bị cấm khỏi phòng này."
+
+#: src/models/actionsmodel.cpp:449
+#, kde-format
+msgid "You are not allowed to ban users from this room."
+msgstr "Bạn không được phép cấm người dùng khỏi phòng này."
+
+#: src/models/actionsmodel.cpp:455
+#, kde-format
+msgctxt "You are not allowed to ban <username> from this room."
+msgid "You are not allowed to ban %1 from this room."
+msgstr "Bạn không được phép cấm %1 khỏi phòng này."
+
+#: src/models/actionsmodel.cpp:460
+#, kde-format
+msgctxt "<username> was banned from this room."
+msgid "%1 was banned from this room."
+msgstr "%1 đã bị cấm vào phòng này."
+
+#: src/models/actionsmodel.cpp:465 src/models/actionsmodel.cpp:546
+msgid "<user id> [<reason>]"
+msgstr "<user id> [<reason>]"
+
+#: src/models/actionsmodel.cpp:466
+msgid "Bans the given user"
+msgstr "Cấm người dùng đã cho"
+
+#: src/models/actionsmodel.cpp:484
+#, kde-format
+msgid "You are not allowed to unban users from this room."
+msgstr "Bạn không được phép bỏ cấm người dùng khỏi phòng này."
+
+#: src/models/actionsmodel.cpp:490
+#, kde-format
+msgctxt "<user> is not banned from this room."
+msgid "%1 is not banned from this room."
+msgstr "%1 không bị cấm trong phòng này."
+
+#: src/models/actionsmodel.cpp:495
+#, kde-format
+msgctxt "<username> was unbanned from this room."
+msgid "%1 was unbanned from this room."
+msgstr "%1 đã được bỏ cấm khỏi phòng này."
+
+#: src/models/actionsmodel.cpp:502
+msgid "Removes the ban of the given user"
+msgstr "Xóa cấm của người dùng đã cho"
+
+#: src/models/actionsmodel.cpp:517
+#, kde-format
+msgid "You cannot kick yourself from the room."
+msgstr "Bạn không thể tự đuổi mình ra khỏi phòng."
+
+#: src/models/actionsmodel.cpp:521
+#, kde-format
+msgctxt "<username> is not in this room"
+msgid "%1 is not in this room."
+msgstr "%1 không có trong phòng này."
+
+#: src/models/actionsmodel.cpp:530
+#, kde-format
+msgid "You are not allowed to kick users from this room."
+msgstr "Bạn không được phép đuổi người dùng khỏi phòng này."
+
+#: src/models/actionsmodel.cpp:536
+#, kde-format
+msgctxt "You are not allowed to kick <username> from this room"
+msgid "You are not allowed to kick %1 from this room."
+msgstr "Bạn không được phép đuổi %1 ra khỏi phòng này."
+
+#: src/models/actionsmodel.cpp:541
+#, kde-format
+msgctxt "<username> was kicked from this room."
+msgid "%1 was kicked from this room."
+msgstr "%1 đã bị đuổi khỏi phòng này."
+
+#: src/models/actionsmodel.cpp:547
+msgid "Removes the user from the room"
+msgstr "Xóa người dùng khỏi phòng"
+
+#: src/models/emojimodel.cpp:153 src/models/emojimodel.cpp:211
+#, kde-format
+msgctxt "Previously used emojis"
+msgid "History"
+msgstr "Lịch sử"
+
+#: src/models/emojimodel.cpp:158
+#, kde-format
+msgctxt "'Smileys' is a category of emoji"
+msgid "Smileys"
+msgstr "Biểu tượng cảm xúc"
+
+#: src/models/emojimodel.cpp:163
+#, kde-format
+msgctxt "'People' is a category of emoji"
+msgid "People"
+msgstr "Người"
+
+#: src/models/emojimodel.cpp:168
+#, kde-format
+msgctxt "'Nature' is a category of emoji"
+msgid "Nature"
+msgstr "Thiên nhiên"
+
+#: src/models/emojimodel.cpp:173
+#, kde-format
+msgctxt "'Food' is a category of emoji"
+msgid "Food"
+msgstr "Thức ăn"
+
+#: src/models/emojimodel.cpp:178
+#, kde-format
+msgctxt "'Activities' is a category of emoji"
+msgid "Activities"
+msgstr "Hoạt động"
+
+#: src/models/emojimodel.cpp:183
+#, kde-format
+msgctxt "'Travel' is  a category of emoji"
+msgid "Travel"
+msgstr "Du lịch"
+
+#: src/models/emojimodel.cpp:188
+#, kde-format
+msgctxt "'Objects' is a category of emoji"
+msgid "Objects"
+msgstr "Đồ vật"
+
+#: src/models/emojimodel.cpp:193
+#, kde-format
+msgctxt "'Symbols' is a category of emoji"
+msgid "Symbols"
+msgstr "kí hiệu"
+
+#: src/models/emojimodel.cpp:198
+#, kde-format
+msgctxt "'Flags' is a category of emoji"
+msgid "Flags"
+msgstr "Cờ"
+
+#: src/models/emojimodel.cpp:217
+#, kde-format
+msgctxt "'Custom' is a category of emoji"
+msgid "Custom"
+msgstr "Tự chọn"
+
+#: src/models/imagepacksmodel.cpp:92
+#, kde-format
+msgctxt "As in 'The user's own Stickers'"
+msgid "Own Stickers"
+msgstr "Sticker của riêng tôi"
+
+#: src/models/imagepacksmodel.cpp:92
+#, kde-format
+msgctxt "As in 'The user's own emojis"
+msgid "Own Emojis"
+msgstr "Biểu tượng cảm xúc của riêng tôi"
+
+#: src/models/messagecontentmodel.cpp:206
+#: src/timeline/LinkPreviewLoadComponent.qml:66
+#, kde-format
+msgid "Loading reply"
+msgstr "Đang tải hồi đáp"
+
+#: src/models/messagefiltermodel.cpp:162
+#, kde-format
+msgctxt "%1: What's being done; %2: How often it is done."
+msgid " %1"
+msgid_plural " %1 %2 times"
+msgstr[0] "%1 %2 lần"
+
+#: src/models/messagefiltermodel.cpp:166
+#, kde-format
+msgctxt "n users"
+msgid " %1 user "
+msgid_plural " %1 users "
+msgstr[0] " %1 người dùng "
+
+#: src/models/messagefiltermodel.cpp:175
+#, kde-format
+msgctxt "[action 1], [action 2 and/or action 3]"
+msgid ", "
+msgstr "Hành động 1, Hành động 2 và/hoặc Hành động 3"
+
+#: src/models/messagefiltermodel.cpp:179
+#, kde-format
+msgctxt "[action 1, action 2] or [action 3]"
+msgid " or "
+msgstr "hoặc"
+
+#: src/models/messagefiltermodel.cpp:179
+#, kde-format
+msgctxt "[action 1, action 2] and [action 3]"
+msgid " and "
+msgstr "và"
+
+#: src/models/messagefiltermodel.cpp:185
+#, kde-format
+msgctxt ""
+"userText (%1) is either a Matrix username if a single user sent all the "
+"states or n users if they were sent by multiple users.chunksText (%2) is a "
+"list of comma separated actions for each of the state events in the group."
+msgid "<style>a {text-decoration: none;}</style>%1 %2"
+msgstr "<style>a {text-decoration: none;}</style>%1 %2"
+
+#: src/models/permissionsmodel.cpp:37
+msgctxt "Room permission type"
+msgid "Default user power level"
+msgstr "Mức nguồn điện mặc định của người dùng"
+
+#: src/models/permissionsmodel.cpp:38
+msgctxt "Room permission type"
+msgid "Default power level to set the room state"
+msgstr "Mức nguồn điện mặc định để đặt trạng thái của phòng"
+
+#: src/models/permissionsmodel.cpp:39
+msgctxt "Room permission type"
+msgid "Default power level to send messages"
+msgstr "Mức nguồn điện mặc định để gửi tin nhắn"
+
+#: src/models/permissionsmodel.cpp:40
+msgctxt "Room permission type"
+msgid "Invite users"
+msgstr "Mời người dùng"
+
+#: src/models/permissionsmodel.cpp:41
+msgctxt "Room permission type"
+msgid "Kick users"
+msgstr "Đuổi người dùng"
+
+#: src/models/permissionsmodel.cpp:42
+msgctxt "Room permission type"
+msgid "Ban users"
+msgstr "Cấm người dùng"
+
+#: src/models/permissionsmodel.cpp:43
+msgctxt "Room permission type"
+msgid "Remove messages sent by other users"
+msgstr "Xoá tin nhắn được gửi bởi người dùng khác"
+
+#: src/models/permissionsmodel.cpp:44
+msgctxt "Room permission type"
+msgid "Send reactions"
+msgstr "Gửi phản ứng"
+
+#: src/models/permissionsmodel.cpp:45
+msgctxt "Room permission type"
+msgid "Remove their own messages"
+msgstr "Xoá tin nhắn của họ"
+
+#: src/models/permissionsmodel.cpp:46
+msgctxt "Room permission type"
+msgid "Change user permissions"
+msgstr "Thay đổi quyền người dùng"
+
+#: src/models/permissionsmodel.cpp:47
+msgctxt "Room permission type"
+msgid "Change the room name"
+msgstr "Thay đổi tên phòng"
+
+#: src/models/permissionsmodel.cpp:48
+msgctxt "Room permission type"
+msgid "Change the room avatar"
+msgstr "Thay đổi hiện thân ảo của phòng"
+
+#: src/models/permissionsmodel.cpp:49
+msgctxt "Room permission type"
+msgid "Change the room canonical alias"
+msgstr "Thay đổi biệt danh chính thức của phòng"
+
+#: src/models/permissionsmodel.cpp:50
+msgctxt "Room permission type"
+msgid "Change the room topic"
+msgstr "Thay đổi chủ đề phòng"
+
+#: src/models/permissionsmodel.cpp:51
+msgctxt "Room permission type"
+msgid "Enable encryption for the room"
+msgstr "Bật mật mã hoá cho phòng"
+
+#: src/models/permissionsmodel.cpp:52
+msgctxt "Room permission type"
+msgid "Change the room history visibility"
+msgstr "Thay đổi khả kiến lịch sử phòng"
+
+#: src/models/permissionsmodel.cpp:53
+msgctxt "Room permission type"
+msgid "Set pinned events"
+msgstr "Đặt sự kiện ghim"
+
+#: src/models/permissionsmodel.cpp:54
+msgctxt "Room permission type"
+msgid "Upgrade the room"
+msgstr "Nâng cấp phòng"
+
+#: src/models/permissionsmodel.cpp:55
+msgctxt "Room permission type"
+msgid "Set the room server access control list (ACL)"
+msgstr "Đặt danh sách kiểm soát truy cập (ACL) của máy chủ phòng"
+
+#: src/models/permissionsmodel.cpp:56
+msgctxt "Room permission type"
+msgid "Set the children of this space"
+msgstr "Đặt các phần con của không gian này"
+
+#: src/models/permissionsmodel.cpp:57
+msgctxt "Room permission type"
+msgid "Set the parent space of this room"
+msgstr "Đặt không gian cha của phòng này"
+
+#: src/models/permissionsmodel.cpp:62
+msgctxt "Room permission type"
+msgid "This is the power level for all new users when joining the room"
+msgstr "Đây là mức quyền hạn cho tất cả người dùng mới khi tham gia phòng"
+
+#: src/models/permissionsmodel.cpp:63
+msgctxt "Room permission type"
+msgid "This is used for all state events that do not have their own entry here"
+msgstr ""
+"Điều này được sử dụng cho tất cả các sự kiện trạng thái không có mục nhập "
+"riêng của chúng ở đây"
+
+#: src/models/permissionsmodel.cpp:64
+msgctxt "Room permission type"
+msgid ""
+"This is used for all message events that do not have their own entry here"
+msgstr ""
+"Điều này được sử dụng cho tất cả các sự kiện thông điệp không có mục riêng "
+"của chúng ở đây"
+
+#: src/models/pushrulemodel.cpp:20
+msgctxt "Notification type"
+msgid "Enable notifications for this account"
+msgstr "Bật thông báo cho tài khoản này"
+
+#: src/models/pushrulemodel.cpp:21
+msgctxt "Notification type"
+msgid "Messages in one-to-one chats"
+msgstr "Tin nhắn trong trò chuyện một-một"
+
+#: src/models/pushrulemodel.cpp:22
+msgctxt "Notification type"
+msgid "Encrypted messages in one-to-one chats"
+msgstr "Tin nhắn được mật mã hoá trong trò chuyện một-một"
+
+#: src/models/pushrulemodel.cpp:23
+msgctxt "Notification type"
+msgid "Messages in group chats"
+msgstr "Tin nhắn trong nhóm trò chuyện"
+
+#: src/models/pushrulemodel.cpp:24
+msgctxt "Notification type"
+msgid "Messages in encrypted group chats"
+msgstr "Tin nhắn trong các nhóm trò chuyện được mật mã hoá"
+
+#: src/models/pushrulemodel.cpp:25
+msgctxt "Notification type"
+msgid "Room upgrade messages"
+msgstr "Thông báo về nâng cấp phòng"
+
+#: src/models/pushrulemodel.cpp:26
+msgctxt "Notification type"
+msgid "Messages containing my display name"
+msgstr "Tin nhắn chứa tên hiển thị của tôi"
+
+#: src/models/pushrulemodel.cpp:27
+msgctxt "Notification type"
+msgid "Messages which mention my Matrix user ID"
+msgstr "Tin nhắn nhắc đến mã định danh Matrix của tôi"
+
+#: src/models/pushrulemodel.cpp:28
+msgctxt "Notification type"
+msgid "Messages which mention a room"
+msgstr "Tin nhắn nhắc đến một phòng"
+
+#: src/models/pushrulemodel.cpp:29
+msgctxt "Notification type"
+msgid "Messages containing the local part of my Matrix ID"
+msgstr "Chứa tin nhắn có phần địa phương của mã định danh Matrix của tôi"
+
+#: src/models/pushrulemodel.cpp:30
+msgctxt "Notification type"
+msgid "Whole room (@room) notifications"
+msgstr "Thông báo toàn bộ phòng (@room)"
+
+#: src/models/pushrulemodel.cpp:31
+msgctxt "Notification type"
+msgid "Invites to a room"
+msgstr "Lời mời vào phòng"
+
+#: src/models/pushrulemodel.cpp:32
+msgctxt "Notification type"
+msgid "Call invitation"
+msgstr "Lời mời gọi"
+
+#: src/models/reactionmodel.cpp:69
+#, kde-format
+msgctxt "Separate the usernames of users"
+msgid " and "
+msgstr "và"
+
+#: src/models/reactionmodel.cpp:76
+#, kde-format
+msgctxt "%1 is the number of other users"
+msgid " and %1 other"
+msgid_plural " and %1 others"
+msgstr[0] "và %1 người khác"
+
+#: src/models/reactionmodel.cpp:80
+#, kde-format
+msgctxt "%2 is the users who reacted and %3 the emoji that was given"
+msgid "%2 reacted with %3"
+msgid_plural "%2 reacted with %3"
+msgstr[0] "%2 đã phản ứng với %3"
+
+#: src/neochatconnection.cpp:85
+#, kde-format
+msgid "File too large to download."
+msgstr "Tệp quá lớn để tải xuống."
+
+#: src/neochatconnection.cpp:85
+#, kde-format
+msgid "Contact your matrix server administrator for support."
+msgstr "Liên hệ với quản trị viên máy chủ Matrix của bạn để được hỗ trợ."
+
+#: src/neochatconnection.cpp:296
+#, kde-format
+msgctxt "@info"
+msgid "No identity server configured"
+msgstr "Không có máy chủ danh tính được cấu hình"
+
+#: src/neochatconnection.cpp:327
+#, kde-format
+msgid "Room creation failed: %1"
+msgstr "Tạo phòng thất bại: %1"
+
+#: src/neochatconnection.cpp:364
+#, kde-format
+msgid "Space creation failed: %1"
+msgstr "Tạo không gian thất bại: %1"
+
+#: src/neochatroom.cpp:1352
+#, kde-format
+msgid "Report sent successfully."
+msgstr "Báo cáo đã được gửi thành công."
+
+#: src/neochatroom.cpp:1622 src/neochatroom.cpp:1630
+#, kde-format
+msgctxt "'Lat' and 'Lon' as in Latitude and Longitude"
+msgid "Lat: %1, Lon: %2"
+msgstr "Vĩ độ: %1, Kinh độ: %2"
+
+#: src/notificationsmanager.cpp:120 src/notificationsmanager.cpp:325
+#, kde-format
+msgid "Encrypted Message"
+msgstr "Thông điệp mật mã hoá"
+
+#: src/notificationsmanager.cpp:204 src/qml/Main.qml:279
+#, kde-format
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: src/notificationsmanager.cpp:210
+#, kde-format
+msgid "Open NeoChat in this room"
+msgstr "Mở NeoChat trong phòng này"
+
+#: src/notificationsmanager.cpp:223 src/qml/DelegateContextMenu.qml:98
+#: src/qml/HoverActions.qml:104
+#, kde-format
+msgid "Reply"
+msgstr "hồi đáp"
+
+#: src/notificationsmanager.cpp:224
+#, kde-format
+msgid "Reply..."
+msgstr "Trả lời..."
+
+#: src/notificationsmanager.cpp:243
+#, kde-format
+msgid "%1 invited you to a room"
+msgstr "%1 đã mời bạn vào một phòng"
+
+#: src/notificationsmanager.cpp:247
+#, kde-format
+msgid "Open this invitation in NeoChat"
+msgstr "Mở lời mời này trong NeoChat"
+
+#: src/notificationsmanager.cpp:257
+#, kde-format
+msgctxt "@action:button The thing being accepted is an invitation to chat"
+msgid "Accept"
+msgstr "Chấp nhận"
+
+#: src/notificationsmanager.cpp:258
+#, kde-format
+msgctxt "@action:button The thing being rejected is an invitation to chat"
+msgid "Reject"
+msgstr "Từ chối"
+
+#: src/notificationsmanager.cpp:259
+#, kde-format
+msgctxt "@action:button The thing being rejected is an invitation to chat"
+msgid "Reject and Ignore User"
+msgstr "Từ chối và Bỏ qua Người dùng"
+
+#: src/notificationsmanager.cpp:318
+#, kde-format
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: src/notificationsmanager.cpp:329
+#, kde-format
+msgid "Open NeoChat"
+msgstr "Mở NeoChat"
+
+#: src/qml/AccountMenu.qml:23 src/qml/UserInfo.qml:46
+#, kde-format
+msgid "Edit this account"
+msgstr "Sửa tài khoản này"
+
+#: src/qml/AccountMenu.qml:28 src/settings/AccountsPage.qml:34
+#: src/settings/AccountsPage.qml:51
+#, kde-format
+msgid "Account editor"
+msgstr "Trình sửa tài khoản"
+
+#: src/qml/AccountMenu.qml:32
+#, kde-format
+msgid "Notification settings"
+msgstr "Thiết lập thông báo"
+
+#: src/qml/AccountMenu.qml:39 src/settings/DevicesPage.qml:17
+#: src/settings/NeoChatSettingsView.qml:85
+#, kde-format
+msgid "Devices"
+msgstr "Thiết bị"
+
+#: src/qml/AccountMenu.qml:46 src/settings/NeoChatGeneralPage.qml:241
+#, kde-format
+msgid "Open developer tools"
+msgstr "Mở công cụ dành cho nhà phát triển"
+
+#: src/qml/AccountMenu.qml:52
+#, kde-format
+msgctxt "@title:window"
+msgid "Developer Tools"
+msgstr "Công cụ nhà phát triển"
+
+#: src/qml/AccountMenu.qml:58
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open Secret Backup"
+msgstr "Mở Sao lưu Bí mật"
+
+#: src/qml/AccountMenu.qml:62
+#, kde-format
+msgctxt "@title:window"
+msgid "Open Key Backup"
+msgstr "Mở Sao lưu Khóa"
+
+#: src/qml/AccountMenu.qml:66
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Verify this Device"
+msgstr "Xác minh thiết bị này"
+
+#: src/qml/AccountMenu.qml:72 src/settings/AccountsPage.qml:88
+#, kde-format
+msgid "Logout"
+msgstr "Đăng xuất"
+
+#: src/qml/AccountSwitchDialog.qml:29
+#, kde-format
+msgctxt "@title: dialog to switch between logged in accounts"
+msgid "Switch Account"
+msgstr "Chuyển Đổi Tài Khoản"
+
+#: src/qml/AccountSwitchDialog.qml:54
+#, kde-format
+msgctxt "@button: login to or register a new account."
+msgid "Add Account"
+msgstr "Thêm tài khoản"
+
+#: src/qml/AccountSwitchDialog.qml:57
+#, kde-format
+msgid "Log in or create a new account"
+msgstr "Đăng nhập hoặc tạo tài khoản mới"
+
+#: src/qml/AccountSwitchDialog.qml:64
+#, kde-format
+msgctxt "@title:window"
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: src/qml/AskDirectChatConfirmation.qml:20
+#, kde-format
+msgctxt "@title:dialog"
+msgid "Start a chat"
+msgstr "Bắt đầu một cuộc trò chuyện"
+
+#: src/qml/AskDirectChatConfirmation.qml:23
+#, kde-format
+msgid "Do you want to start a chat with %1?"
+msgstr "Bạn có muốn bắt đầu một cuộc trò chuyện với %1 không?"
+
+#: src/qml/AskDirectChatConfirmation.qml:32
+#, kde-format
+msgctxt "@action:button"
+msgid "Start Chat"
+msgstr "Bắt đầu trò chuyện"
+
+#: src/qml/AttachmentPane.qml:30
+#, kde-format
+msgid "Attachment:"
+msgstr "Tệp đính kèm:"
+
+#: src/qml/AttachmentPane.qml:38 src/qml/HoverActions.qml:95
+#: src/qml/ImageEditorPage.qml:21 src/qml/MessageDelegateContextMenu.qml:37
+#, kde-format
+msgid "Edit"
+msgstr "Sửa"
+
+#: src/qml/AttachmentPane.qml:62
+#, kde-format
+msgid "Cancel sending attachment"
+msgstr "Huỷ gửi tệp đính kèm"
+
+#: src/qml/BanSheet.qml:18
+#, kde-format
+msgid "Ban User"
+msgstr "Cấm người dùng"
+
+#: src/qml/BanSheet.qml:27
+#, kde-format
+msgid "Reason for banning this user"
+msgstr "Lý do cấm người dùng này"
+
+#: src/qml/BanSheet.qml:43
+#, kde-format
+msgctxt "@action:button 'Ban' as in 'Ban this user'"
+msgid "Ban"
+msgstr "Cấm"
+
+#: src/qml/BanSheet.qml:52 src/qml/InviteUserPage.qml:24
+#: src/qml/RemoveSheet.qml:57 src/qml/ReportSheet.qml:52
+#, kde-format
+msgctxt "@action"
+msgid "Cancel"
+msgstr "Huỷ"
+
+#: src/qml/ChooseRoomDialog.qml:14
+#, kde-format
+msgctxt "@title"
+msgid "Choose a Room"
+msgstr "Chọn một phòng"
+
+#: src/qml/CodeMaximizeComponent.qml:39
+#, kde-format
+msgctxt "@action"
+msgid "Copy to clipboard"
+msgstr "Sao chép vào bảng nháp"
+
+#: src/qml/ConfirmDeactivateAccountDialog.qml:16
+#, kde-format
+msgctxt "@title:dialog"
+msgid "Confirm Account Deactivation"
+msgstr "Xác nhận Vô hiệu hóa Tài khoản"
+
+#: src/qml/ConfirmDeactivateAccountDialog.qml:17
+#, kde-format
+msgid ""
+"Your account will be permanently disabled.\n"
+"This cannot be undone.\n"
+"Your Matrix ID will not be available for new accounts.\n"
+"Your messages will stay available."
+msgstr ""
+"Tài khoản của bạn sẽ bị vô hiệu hóa vĩnh viễn.\nĐiều này không thể hoàn "
+"tác.\nMã định danh Matrix của bạn sẽ không còn khả dụng cho các tài khoản "
+"mới.\nTin nhắn của bạn sẽ vẫn hiện có."
+
+#: src/qml/ConfirmDeactivateAccountDialog.qml:23
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: src/qml/ConfirmDeactivateAccountDialog.qml:33
+#, kde-format
+msgid "Deactivate account"
+msgstr "Hủy kích hoạt tài khoản"
+
+#: src/qml/ConfirmEncryptionDialog.qml:14
+#, kde-format
+msgctxt "@title:dialog"
+msgid "Activate Encryption"
+msgstr "Kích hoạt mật mã hoá"
+
+#: src/qml/ConfirmEncryptionDialog.qml:15
+#, kde-format
+msgid ""
+"It will not be possible to deactivate the encryption after it is enabled."
+msgstr "Sẽ không thể vô hiệu hoá mật mã hoá sau khi đã kích hoạt."
+
+#: src/qml/ConfirmEncryptionDialog.qml:28
+#, kde-format
+msgid "Activate Encryption"
+msgstr "Kích hoạt mật mã hoá"
+
+#: src/qml/ConfirmLeaveDialog.qml:16
+#, kde-format
+msgctxt "@title:dialog"
+msgid "Confirm Leaving Room"
+msgstr "Xác nhận rời khỏi phòng"
+
+#: src/qml/ConfirmLeaveDialog.qml:17
+#, kde-format
+msgctxt "Do you really want to leave <room name>?"
+msgid "Do you really want to leave %1?"
+msgstr "Bạn có thực sự muốn rời khỏi %1?"
+
+#: src/qml/ConfirmLeaveDialog.qml:28
+#, kde-format
+msgctxt "@action:button"
+msgid "Leave Room"
+msgstr "Rời khỏi phòng"
+
+#: src/qml/ConfirmLogoutDialog.qml:15
+#, kde-format
+msgctxt "@title:dialog"
+msgid "Sign out"
+msgstr "Đăng xuất"
+
+#: src/qml/ConfirmLogoutDialog.qml:16
+#, kde-format
+msgid "Are you sure you want to sign out?"
+msgstr "Bạn có chắc chắn muốn đăng xuất?"
+
+#: src/qml/ConfirmLogoutDialog.qml:27
+#, kde-format
+msgctxt "@action:button"
+msgid "Sign out"
+msgstr "Đăng xuất"
+
+#: src/qml/ConfirmUrlDialog.qml:14
+#, kde-format
+msgctxt "@title:dialog"
+msgid "Open URL"
+msgstr "Mở URL"
+
+#: src/qml/ConfirmUrlDialog.qml:15
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Do you want to open <link>%1</link>?"
+msgstr "Bạn có muốn mở <link>%1</link> không?"
+
+#: src/qml/ConsentDialog.qml:21
+#, kde-format
+msgctxt "@title:dialog"
+msgid "User Consent"
+msgstr "Sự đồng ý của người dùng"
+
+#: src/qml/ConsentDialog.qml:24
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Your homeserver requires you to agree to its terms and conditions before "
+"being able to use it. Please click the button below to read them."
+msgstr ""
+"Máy chủ nhà của bạn yêu cầu bạn đồng ý với các điều khoản và điều kiện của "
+"nó trước khi có thể sử dụng. Vui lòng bấm vào nút bên dưới để đọc chúng."
+
+#: src/qml/ConsentDialog.qml:31
+#, kde-format
+msgctxt "@action:button"
+msgid "Open"
+msgstr "Mở"
+
+#: src/qml/ContextMenu.qml:31
+#, kde-format
+msgid "Remove from Favorites"
+msgstr "Xoá khỏi Mục yêu thích"
+
+#: src/qml/ContextMenu.qml:31
+#, kde-format
+msgid "Add to Favorites"
+msgstr "Thêm vào Mục yêu thích"
+
+#: src/qml/ContextMenu.qml:37 src/qml/ContextMenu.qml:197
+#, kde-format
+msgid "Reprioritize"
+msgstr "Thay đổi thứ tự ưu tiên"
+
+#: src/qml/ContextMenu.qml:37 src/qml/ContextMenu.qml:197
+#, kde-format
+msgid "Deprioritize"
+msgstr "Hạ thấp độ ưu tiên"
+
+#: src/qml/ContextMenu.qml:43 src/qml/ContextMenu.qml:204
+#, kde-format
+msgid "Mark as Read"
+msgstr "Đánh dấu là Đã đọc"
+
+#: src/qml/ContextMenu.qml:49
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Copy user's Matrix ID to Clipboard"
+msgstr "Sao chép mã định danh Matrix của người dùng vào bảng nháp"
+
+#: src/qml/ContextMenu.qml:49 src/qml/SpaceListContextMenu.qml:38
+#: src/qml/SpaceListContextMenu.qml:120
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Copy Address to Clipboard"
+msgstr "Sao chép địa chỉ vào bảng nháp"
+
+#: src/qml/ContextMenu.qml:61
+#, kde-format
+msgid "Notification State"
+msgstr "Trạng thái thông báo"
+
+#: src/qml/ContextMenu.qml:65
+#, kde-format
+msgid "Follow Global Setting"
+msgstr "Theo Thiết Lập Toàn Cục"
+
+#: src/qml/ContextMenu.qml:76 src/settings/PushNotification.qml:39
+#, kde-format
+msgctxt "As in 'notify for all messages'"
+msgid "All"
+msgstr "Tất cả"
+
+#: src/qml/ContextMenu.qml:87 src/settings/PushNotification.qml:47
+#, kde-format
+msgctxt ""
+"As in 'notify when the user is mentioned or the message contains a set "
+"keyword'"
+msgid "@Mentions and Keywords"
+msgstr "Nhắc đến và Từ khóa"
+
+#: src/qml/ContextMenu.qml:98 src/settings/PushNotification.qml:55
+#, kde-format
+msgctxt "As in 'do not notify for any messages'"
+msgid "Off"
+msgstr "Tắt"
+
+#: src/qml/ContextMenu.qml:111
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Room Settings"
+msgstr "Thiết lập phòng"
+
+#: src/qml/ContextMenu.qml:121 src/qml/ContextMenu.qml:211
+#, kde-format
+msgid "Leave Room"
+msgstr "Rời khỏi phòng"
+
+#: src/qml/ContextMenu.qml:182
+#, kde-format
+msgid "Remove from Favourites"
+msgstr "Xoá khỏi Mục yêu thích"
+
+#: src/qml/ContextMenu.qml:182
+#, kde-format
+msgid "Add to Favourites"
+msgstr "Thêm vào Mục yêu thích"
+
+#: src/qml/ContextMenu.qml:187
+#, kde-format
+msgctxt "@action:button"
+msgid "Room Settings"
+msgstr "Thiết lập phòng"
+
+#: src/qml/CreateRoomDialog.qml:30 src/qml/ExploreComponent.qml:64
+#: src/qml/ExploreComponent.qml:66 src/qml/ExploreComponentMobile.qml:162
+#: src/qml/ExploreComponentMobile.qml:164
+#: src/qml/SpaceDrawer.qml:294 src/qml/SpaceDrawer.qml:296
+#, kde-format
+msgctxt "@title"
+msgid "Create a Space"
+msgstr "Tạo một không gian"
+
+#: src/qml/CreateRoomDialog.qml:30 src/qml/ExploreComponent.qml:52
+#: src/qml/ExploreComponentMobile.qml:146
+#, kde-format
+msgctxt "@title"
+msgid "Create a Room"
+msgstr "Tạo một phòng"
+
+#: src/qml/CreateRoomDialog.qml:35
+#, kde-format
+msgid "New Space Information"
+msgstr "Thông tin Không gian mới"
+
+#: src/qml/CreateRoomDialog.qml:35
+#, kde-format
+msgid "New Room Information"
+msgstr "Thông tin phòng mới"
+
+#: src/qml/CreateRoomDialog.qml:44
+#, kde-format
+msgid "Select type"
+msgstr "Bôi đen kiểu"
+
+#: src/qml/CreateRoomDialog.qml:58
+#, kde-format
+msgid "Space"
+msgstr "Không gian"
+
+#: src/qml/CreateRoomDialog.qml:77 src/settings/AccountEditorPage.qml:106
+#, kde-format
+msgid "Name:"
+msgstr "Tên:"
+
+#: src/qml/CreateRoomDialog.qml:87
+#, kde-format
+msgid "Topic:"
+msgstr "Chủ đề:"
+
+#: src/qml/CreateRoomDialog.qml:96 src/qml/CreateRoomDialog.qml:235
+#, kde-format
+msgctxt ""
+"@option:check As in make the space from which this dialog was created an "
+"official parent."
+msgid "Make this parent official"
+msgstr "Làm cho cha mẹ này chính thức"
+
+#: src/qml/CreateRoomDialog.qml:106
+#, kde-format
+msgctxt "@action:button"
+msgid "Create Space"
+msgstr "Tạo Không Gian"
+
+#: src/qml/CreateRoomDialog.qml:106
+#, kde-format
+msgctxt "@action:button"
+msgid "Create Room"
+msgstr "Tạo phòng"
+
+#: src/qml/CreateRoomDialog.qml:121
+#, kde-format
+msgid "Select Existing Room"
+msgstr "Chọn Phòng Hiện Có"
+
+#: src/qml/CreateRoomDialog.qml:127 src/qml/SelectParentDialog.qml:50
+#, kde-format
+msgctxt "@action:button"
+msgid "Pick room"
+msgstr "Chọn phòng"
+
+#: src/qml/CreateRoomDialog.qml:132 src/qml/CreateRoomDialog.qml:215
+#: src/qml/ExploreComponent.qml:29 src/qml/ExploreComponentMobile.qml:58
+#: src/qml/GlobalMenu.qml:64 src/qml/RoomListPage.qml:210
+#: src/qml/SelectParentDialog.qml:142
+#, kde-format
+msgctxt "@title"
+msgid "Explore Rooms"
+msgstr "Khám phá phòng"
+
+#: src/qml/CreateRoomDialog.qml:181 src/qml/ExplorerDelegate.qml:77
+#: src/qml/SelectParentDialog.qml:106 src/qml/SpaceHierarchyDelegate.qml:93
+#, kde-format
+msgid "Joined"
+msgstr "Đã tham gia"
+
+#: src/qml/CreateRoomDialog.qml:236
+#, kde-format
+msgid "You have the required privilege level in the child to set this state"
+msgstr "Bạn có cấp độ đặc quyền cần thiết trong phần con để đặt trạng thái này"
+
+#: src/qml/CreateRoomDialog.qml:236
+#, kde-format
+msgid ""
+"You do not have a high enough privilege level in the child to set this state"
+msgstr "Bạn không có đủ quyền hạn trong phần con để đặt trạng thái này"
+
+#: src/qml/CreateRoomDialog.qml:258
+#, kde-format
+msgctxt ""
+"@option:check The canonical parent is the default one if a room has multiple "
+"parent spaces."
+msgid "Make this space the canonical parent"
+msgstr "Đặt không gian này làm không gian cha chính"
+
+#: src/qml/CreateRoomDialog.qml:267 src/qml/ServerComboBox.qml:186
+#, kde-format
+msgctxt "@action:button"
+msgid "Ok"
+msgstr "Được"
+
+#: src/qml/DelegateContextMenu.qml:78
+#, kde-format
+msgid "View Source"
+msgstr "Xem mã nguồn"
+
+#: src/qml/DelegateContextMenu.qml:85 src/qml/FileDelegateContextMenu.qml:67
+#, kde-format
+msgid "Remove"
+msgstr "Xoá"
+
+#: src/qml/DelegateContextMenu.qml:92 src/qml/FileDelegateContextMenu.qml:74
+#, kde-format
+msgctxt "@title"
+msgid "Remove Message"
+msgstr "Xoá Thông Điệp"
+
+#: src/qml/DelegateContextMenu.qml:108 src/qml/ReportSheet.qml:43
+#, kde-format
+msgctxt ""
+"@action:button 'Report' as in 'Report this event to the administrators'"
+msgid "Report"
+msgstr "báo"
+
+#: src/qml/DelegateContextMenu.qml:115
+#, kde-format
+msgctxt "@title"
+msgid "Report Message"
+msgstr "Báo cáo thông điệp"
+
+#: src/qml/DelegateContextMenu.qml:160
+#, kde-format
+msgid "Search for '%1'"
+msgstr "Tìm kiếm '%1'"
+
+#: src/qml/DelegateContextMenu.qml:181
+#, kde-format
+msgid "Configure Web Shortcuts..."
+msgstr "Cấu hình Lối tắt Web..."
+
+#: src/qml/EditMenu.qml:15
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Undo"
+msgstr "đảo ngược"
+
+#: src/qml/EditMenu.qml:25
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Redo"
+msgstr "làm lại"
+
+#: src/qml/EditMenu.qml:37
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Cut"
+msgstr "Cắt"
+
+#: src/qml/EditMenu.qml:47
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Copy"
+msgstr "Sao chép"
+
+#: src/qml/EditMenu.qml:57
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Paste"
+msgstr "Dán"
+
+#: src/qml/EditMenu.qml:67
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Delete"
+msgstr "Xóa"
+
+#: src/qml/EditMenu.qml:79
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Select All"
+msgstr "Chọn Tất Cả"
+
+#: src/qml/EditStateDialog.qml:28 src/qml/MessageSourceSheet.qml:56
+#, kde-format
+msgctxt "@title As in 'edit the state of this room'"
+msgid "Edit State"
+msgstr "Sửa Trạng Thái"
+
+#: src/qml/EditStateDialog.qml:32
+#, kde-format
+msgctxt "@action"
+msgid "Revert changes"
+msgstr "Hoàn nguyên thay đổi"
+
+#: src/qml/EditStateDialog.qml:38
+#, kde-format
+msgctxt "@action As in 'Apply the changes'"
+msgid "Apply"
+msgstr "Áp dụng"
+
+#: src/qml/EmojiSas.qml:26
+#, kde-format
+msgid ""
+"Confirm the emoji below are displayed on both devices, in the same order."
+msgstr ""
+"Xác nhận các hình biểu cảm bên dưới được hiển thị trên cả hai thiết bị, "
+"theo đúng thứ tự."
+
+#: src/qml/EmojiSas.qml:45
+#, kde-format
+msgid "They match"
+msgstr "Chúng khớp"
+
+#: src/qml/EmojiSas.qml:51
+#, kde-format
+msgid "They don't match"
+msgstr "Chúng không khớp"
+
+#: src/qml/ExploreComponent.qml:23 src/qml/ExploreComponentMobile.qml:52
+#: src/qml/RoomListPage.qml:204
+#, kde-format
+msgid "Explore rooms"
+msgstr "Khám phá phòng"
+
+#: src/qml/ExploreComponent.qml:37 src/qml/ExploreComponentMobile.qml:67
+#: src/qml/GlobalMenu.qml:42 src/qml/GlobalMenu.qml:51
+#: src/qml/RoomListPage.qml:172 src/qml/RoomListPage.qml:221
+#, kde-format
+msgid "Find your friends"
+msgstr "Tìm bạn bè của bạn"
+
+#: src/qml/ExploreComponent.qml:42 src/qml/ExploreComponentMobile.qml:73
+#: src/qml/GlobalMenu.qml:46 src/qml/RoomListPage.qml:180
+#: src/qml/RoomListPage.qml:225
+#, kde-format
+msgctxt "@title"
+msgid "Find your friends"
+msgstr "Tìm bạn bè của bạn"
+
+#: src/qml/ExploreComponent.qml:46 src/qml/ExploreComponentMobile.qml:140
+#, kde-format
+msgid "Create a Room"
+msgstr "Tạo một phòng"
+
+#: src/qml/ExploreComponent.qml:58 src/qml/ExploreComponentMobile.qml:156
+#, kde-format
+msgid "Create a Space"
+msgstr "Tạo một không gian"
+
+#: src/qml/ExploreComponent.qml:72
+#, kde-format
+msgid "Scan a QR Code"
+msgstr "Quét mã QR"
+
+#: src/qml/ExploreComponent.qml:77 src/qml/QrScannerPage.qml:16
+#, kde-format
+msgctxt "@title"
+msgid "Scan a QR Code"
+msgstr "Quét mã QR"
+
+#: src/qml/ExploreComponent.qml:93
+#, kde-format
+msgctxt "@title"
+msgid "Rooms"
+msgstr "Phòng"
+
+#: src/qml/ExploreComponent.qml:105
+#, kde-format
+msgctxt "@action"
+msgid "Search Rooms"
+msgstr "Tìm kiếm phòng"
+
+#: src/qml/ExploreComponent.qml:123
+#, kde-format
+msgctxt "@action:button"
+msgid "Show Menu"
+msgstr "Hiện Trình đơn"
+
+#: src/qml/ExploreComponent.qml:192
+#, kde-format
+msgid "Create rooms and chats"
+msgstr "Tạo phòng và trò chuyện"
+
+#: src/qml/ExploreComponentMobile.qml:36
+#, kde-format
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: src/qml/ExploreComponentMobile.qml:79
+#, kde-format
+msgid "Create New"
+msgstr "Tạo Mới"
+
+#: src/qml/ExplorerDelegate.qml:72
+#, kde-format
+msgctxt "@info:label A matrix space"
+msgid "Space"
+msgstr "Không gian"
+
+#: src/qml/ExploreRoomsPage.qml:52
+#, kde-format
+msgctxt "@action:title"
+msgid "Explore Rooms"
+msgstr "Khám phá các phòng"
+
+#: src/qml/ExploreRoomsPage.qml:62
+#, kde-format
+msgctxt "@action:button"
+msgid "Only show spaces"
+msgstr "Chỉ hiện không gian"
+
+#: src/qml/ExploreRoomsPage.qml:93
+#, kde-format
+msgid "Enter a room address"
+msgstr "Nhập địa chỉ phòng"
+
+#: src/qml/ExploreRoomsPage.qml:107
+#, kde-format
+msgid "Find a room…"
+msgstr "Tìm một phòng..."
+
+#: src/qml/ExploreRoomsPage.qml:108
+#, kde-format
+msgctxt "@info:label"
+msgid "No public rooms found"
+msgstr "Không tìm thấy phòng công cộng"
+
+#: src/qml/FileDelegateContextMenu.qml:42
+#, kde-format
+msgid "Open Externally"
+msgstr "Mở bên ngoài"
+
+#: src/qml/FileDelegateContextMenu.qml:49
+#, kde-format
+msgid "Save As"
+msgstr "Lưu Thành"
+
+#: src/qml/FileDelegateContextMenu.qml:59
+#: src/qml/MessageDelegateContextMenu.qml:64
+#, kde-format
+msgid "Copy"
+msgstr "Sao chép"
+
+#: src/qml/FullScreenMap.qml:23
+#, kde-format
+msgid "View Location"
+msgstr "Xem địa điểm"
+
+#: src/qml/FullScreenMap.qml:70
+#, kde-format
+msgid "Close"
+msgstr "Đóng"
+
+#: src/qml/GlobalMenu.qml:21
+#, kde-format
+msgctxt "menu"
+msgid "NeoChat"
+msgstr "NeoChat"
+
+#: src/qml/GlobalMenu.qml:24
+#, kde-format
+msgid "Configure NeoChat…"
+msgstr "Cấu hình NeoChat..."
+
+#: src/qml/GlobalMenu.qml:25
+#, kde-format
+msgctxt "menu"
+msgid "Configure NeoChat..."
+msgstr "Cấu hình NeoChat..."
+
+#: src/qml/GlobalMenu.qml:31
+#, kde-format
+msgctxt "menu"
+msgid "Quit NeoChat"
+msgstr "Thoát NeoChat"
+
+#: src/qml/GlobalMenu.qml:38
+#, kde-format
+msgctxt "menu"
+msgid "File"
+msgstr "Tệp"
+
+#: src/qml/GlobalMenu.qml:41
+#, kde-format
+msgctxt "menu"
+msgid "Find your friends"
+msgstr "Tìm bạn bè của bạn"
+
+#: src/qml/GlobalMenu.qml:50
+#, kde-format
+msgctxt "menu"
+msgid "New Group…"
+msgstr "Nhóm mới..."
+
+#: src/qml/GlobalMenu.qml:59
+#, kde-format
+msgctxt "menu"
+msgid "Browse Chats…"
+msgstr "Duyệt Trò chuyện..."
+
+#: src/qml/GlobalMenu.qml:73
+#, kde-format
+msgctxt "menu"
+msgid "Edit"
+msgstr "Sửa"
+
+#: src/qml/GlobalMenu.qml:77
+#, kde-format
+msgctxt "menu"
+msgid "View"
+msgstr "Xem"
+
+#: src/qml/GlobalMenu.qml:80
+#, kde-format
+msgctxt ""
+"menu item that opens a UI element called the 'Quick Switcher', which offers "
+"a fast keyboard-based interface for switching in between chats."
+msgid "Open Quick Switcher"
+msgstr "Mở Trình chuyển nhanh"
+
+#: src/qml/GlobalMenu.qml:85
+#, kde-format
+msgctxt "menu"
+msgid "Window"
+msgstr "Cửa sổ"
+
+#: src/qml/GlobalMenu.qml:88
+#, kde-format
+msgctxt "menu"
+msgid "Exit Full Screen"
+msgstr "Thoát toàn màn hình"
+
+#: src/qml/GlobalMenu.qml:88
+#, kde-format
+msgctxt "menu"
+msgid "Enter Full Screen"
+msgstr "Vào toàn màn hình"
+
+#: src/qml/GlobalMenu.qml:93
+#, kde-format
+msgctxt "menu"
+msgid "Help"
+msgstr "Trợ giúp"
+
+#: src/qml/GlobalMenu.qml:96
+#, kde-format
+msgctxt "menu"
+msgid "About Matrix"
+msgstr "Về Matrix"
+
+#: src/qml/GlobalMenu.qml:100
+#, kde-format
+msgctxt "menu"
+msgid "About NeoChat"
+msgstr "Về NeoChat"
+
+#: src/qml/GlobalMenu.qml:104
+#, kde-format
+msgctxt "menu"
+msgid "About KDE"
+msgstr "Về KDE"
+
+#: src/qml/GroupChatDrawerHeader.qml:67 src/timeline/TimelineEndDelegate.qml:68
+#, kde-format
+msgid "No name"
+msgstr "Không có tên"
+
+#: src/qml/HoverActions.qml:76
+#, kde-format
+msgid "This message was sent from a verified device"
+msgstr "Thông điệp này được gửi từ một thiết bị đã được xác minh"
+
+#: src/qml/HoverActions.qml:89
+#, kde-format
+msgid "React"
+msgstr "Phản ứng"
+
+#: src/qml/HoverActions.qml:114
+#, kde-format
+msgid "Reply in Thread"
+msgstr "Hồi đáp trong Luồng"
+
+#: src/qml/HoverLinkIndicator.qml:24
+#, kde-format
+msgctxt "@info screenreader"
+msgid "The currently selected link"
+msgstr "Liên kết đang được chọn"
+
+#: src/qml/ImageEditorPage.qml:37
+#, kde-format
+msgctxt "@action:button Undo modification"
+msgid "Undo"
+msgstr "Đảo ngược"
+
+#: src/qml/ImageEditorPage.qml:44
+#, kde-format
+msgctxt "@action:button Accept image modification"
+msgid "Accept"
+msgstr "Chấp nhận"
+
+#: src/qml/ImageEditorPage.qml:52
+#, kde-format
+msgid ""
+"Unable to save file. Check if you have the correct permission to edit the "
+"cache directory."
+msgstr ""
+"Không thể lưu tệp. Hãy kiểm tra xem bạn có quyền truy cập đúng để sửa thư "
+"mục bộ nhớ đệm không."
+
+#: src/qml/ImageEditorPage.qml:124
+#, kde-format
+msgid "Cancel"
+msgstr "huỷ"
+
+#: src/qml/ImageEditorPage.qml:124 src/qml/ImageEditorPage.qml:140
+#, kde-format
+msgctxt "@action:button Crop an image"
+msgid "Crop"
+msgstr "Xén cạnh"
+
+#: src/qml/ImageEditorPage.qml:145
+#, kde-format
+msgctxt "@action:button Rotate an image to the left"
+msgid "Rotate left"
+msgstr "Xoay trái"
+
+#: src/qml/ImageEditorPage.qml:151
+#, kde-format
+msgctxt "@action:button Rotate an image to the right"
+msgid "Rotate right"
+msgstr "Xoay phải"
+
+#: src/qml/ImageEditorPage.qml:157
+#, kde-format
+msgctxt "@action:button Mirror an image vertically"
+msgid "Flip"
+msgstr "Lật"
+
+#: src/qml/ImageEditorPage.qml:163
+#, kde-format
+msgctxt "@action:button Mirror an image horizontally"
+msgid "Mirror"
+msgstr "Lật ngang"
+
+#: src/qml/InvitationView.qml:17
+#, kde-format
+msgid "Accept this invitation?"
+msgstr "Chấp nhận lời mời này?"
+
+#: src/qml/InvitationView.qml:21
+#, kde-format
+msgctxt "@action:button The thing being rejected is an invitation to chat"
+msgid "Reject and ignore user"
+msgstr "Từ chối và bỏ qua người dùng"
+
+#: src/qml/InvitationView.qml:30
+#, kde-format
+msgid "Reject"
+msgstr "Từ chối"
+
+#: src/qml/InvitationView.qml:37 src/qml/KeyVerificationDialog.qml:92
+#, kde-format
+msgid "Accept"
+msgstr "Chấp nhận"
+
+#: src/qml/InviteUserPage.qml:19
+#, kde-format
+msgid "Invite a User"
+msgstr "Mời người dùng"
+
+#: src/qml/InviteUserPage.qml:37
+#, kde-format
+msgid "Find a user..."
+msgstr "Tìm người dùng..."
+
+#: src/qml/InviteUserPage.qml:44
+#, kde-format
+msgid "Add"
+msgstr "Thêm"
+
+#: src/qml/InviteUserPage.qml:70
+#, kde-format
+msgid "No users available"
+msgstr "Không có người dùng hiện có"
+
+#: src/qml/InviteUserPage.qml:101
+#, kde-format
+msgid "Send invitation"
+msgstr "Gửi lời mời"
+
+#: src/qml/InviteUserPage.qml:115
+#, kde-format
+msgid "User is either already a member or has been invited"
+msgstr "Người dùng đã là thành viên hoặc đã được mời tham gia"
+
+#: src/qml/JoinRoomDialog.qml:29
+#, kde-format
+msgctxt "@title:dialog"
+msgid "Join Room"
+msgstr "Tham gia phòng"
+
+#: src/qml/JoinRoomDialog.qml:67
+#, kde-format
+msgctxt "@action:button"
+msgid "Join room"
+msgstr "Tham gia phòng"
+
+#: src/qml/KeyVerificationDialog.qml:16
+#, kde-format
+msgid "Session Verification"
+msgstr "Xác minh Phiên"
+
+#: src/qml/KeyVerificationDialog.qml:98
+#, kde-format
+msgid "Decline"
+msgstr "Từ chối"
+
+#: src/qml/KeyVerificationDialog.qml:140
+#, kde-format
+msgid "Waiting for device to accept verification."
+msgstr "Đang chờ thiết bị chấp nhận xác minh."
+
+#: src/qml/KeyVerificationDialog.qml:142
+#, kde-format
+msgid "Incoming key verification request from device **%1**"
+msgstr "Yêu cầu xác minh khóa đến từ thiết bị **%1**"
+
+#: src/qml/KeyVerificationDialog.qml:144
+#, kde-format
+msgid "Waiting for other party to verify."
+msgstr "Đang chờ bên kia xác minh."
+
+#: src/qml/KeyVerificationDialog.qml:146
+#, kde-format
+msgid "Successfully verified device **%1**"
+msgstr "Đã xác minh thiết bị **%1** thành công"
+
+#: src/qml/KeyVerificationDialog.qml:158
+#, kde-format
+msgid "Emoji Verification"
+msgstr "Xác minh hình biểu cảm"
+
+#: src/qml/KeyVerificationDialog.qml:160
+#, kde-format
+msgid "Compare a set of emoji on both devices"
+msgstr "So sánh một tập hợp các hình biểu cảm trên cả hai thiết bị"
+
+#: src/qml/LocationChooser.qml:22
+#, kde-format
+msgid "Choose a Location"
+msgstr "Chọn một địa điểm"
+
+#: src/qml/LocationChooser.qml:27
+#, kde-format
+msgid "Send this location"
+msgstr "Gửi địa điểm này"
+
+#: src/qml/LocationsPage.qml:16 src/qml/RoomInformation.qml:125
+#, kde-format
+msgctxt "Locations on a map"
+msgid "Locations"
+msgstr "địa điểm"
+
+#: src/qml/LocationsPage.qml:65
+#, kde-format
+msgid "There are no locations shared in this room."
+msgstr "Không có địa điểm nào được chia sẻ trong phòng này."
+
+#: src/qml/Main.qml:166
+#, kde-format
+msgctxt "@action:button"
+msgid "Show Room Information"
+msgstr "Hiển thị thông tin phòng"
+
+#: src/qml/Main.qml:169
+#, kde-format
+msgctxt "@action:button"
+msgid "Close Room Information Drawer"
+msgstr "Đóng ngăn kéo thông tin phòng"
+
+#: src/qml/Main.qml:308
+#, kde-format
+msgctxt "@title:window"
+msgid "Session Verification"
+msgstr "Xác minh Phiên"
+
+#: src/qml/Main.qml:344 src/qml/ShareAction.qml:68
+#, kde-format
+msgctxt "@title"
+msgid "Share"
+msgstr "Chia sẻ"
+
+#: src/qml/ManualRoomDialog.qml:25
+#, kde-format
+msgctxt "@title"
+msgid "Room ID or Alias"
+msgstr "Mã định danh hoặc Biệt danh"
+
+#: src/qml/ManualRoomDialog.qml:37 src/qml/ManualUserDialog.qml:38
+#: src/qml/SelectParentDialog.qml:37
+#, kde-format
+msgid "OK"
+msgstr "Đồng ý"
+
+#: src/qml/ManualRoomDialog.qml:80
+#, kde-format
+msgid "Room ID or Alias:"
+msgstr "Mã định danh hoặc Bí danh:"
+
+#: src/qml/ManualRoomDialog.qml:83 src/qml/ManualRoomDialog.qml:91
+#, kde-format
+msgid "Must start with # for an alias or ! for an ID"
+msgstr "Phải bắt đầu bằng # để có một biệt danh hoặc ! để có một mã định danh"
+
+#: src/qml/ManualRoomDialog.qml:89
+#, kde-format
+msgid "The input is not a valid room ID or alias"
+msgstr "Đầu vào không phải là mã định danh hoặc biệt danh hợp lệ"
+
+#: src/qml/ManualUserDialog.qml:26
+#, kde-format
+msgctxt "@title"
+msgid "User ID"
+msgstr "Mã định danh"
+
+#: src/qml/ManualUserDialog.qml:54
+#, kde-format
+msgid "User ID:"
+msgstr "Mã người dùng:"
+
+#: src/qml/ManualUserDialog.qml:57 src/qml/ManualUserDialog.qml:65
+#, kde-format
+msgid "User IDs Must start with @"
+msgstr "Mã người dùng phải bắt đầu bằng @"
+
+#: src/qml/ManualUserDialog.qml:63
+#, kde-format
+msgid "The input is not a valid user ID"
+msgstr "Đầu vào không phải là mã định danh hợp lệ"
+
+#: src/qml/MessageDelegateContextMenu.qml:47
+#, kde-format
+msgctxt "@action:inmenu As in 'Forward this message'"
+msgid "Forward"
+msgstr "Chuyển tiếp"
+
+#: src/qml/MessageDelegateContextMenu.qml:53
+#, kde-format
+msgctxt "@title"
+msgid "Forward Message"
+msgstr "Chuyển tiếp Thông điệp"
+
+#: src/qml/MessageDelegateContextMenu.qml:70
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Show User"
+msgstr "Hiển thị người dùng"
+
+#: src/qml/MessageDelegateContextMenu.qml:78
+#, kde-format
+msgid "Copy Link"
+msgstr "Sao chép liên kết"
+
+#: src/qml/MessageSourceSheet.qml:46
+#, kde-format
+msgctxt "@action As in 'edit the state of this room'"
+msgid "Edit state"
+msgstr "Sửa trạng thái"
+
+#: src/qml/NotificationsView.qml:19 src/qml/SpaceDrawer.qml:68
+#, kde-format
+msgctxt "@title"
+msgid "Notifications"
+msgstr "Thông báo"
+
+#: src/qml/NotificationsView.qml:34
+#, kde-format
+msgid "No Notifications"
+msgstr "Không có thông báo"
+
+#: src/qml/OpenFileDialog.qml:12
+#, kde-format
+msgid "Select a File"
+msgstr "Bôi đen một Tệp"
+
+#: src/qml/PowerLevelDialog.qml:15
+#, kde-format
+msgctxt "@title"
+msgid "Edit User Power Level"
+msgstr "Chỉnh sửa cấp độ nguồn điện của người dùng"
+
+#: src/qml/PowerLevelDialog.qml:35
+#, kde-format
+msgid "New power level"
+msgstr "Mức nguồn điện mới"
+
+#: src/qml/PowerLevelDialog.qml:43 src/settings/RoomGeneralPage.qml:418
+#, kde-format
+msgid "Confirm"
+msgstr "Xác nhận"
+
+#: src/qml/QuickFormatBar.qml:23
+#, kde-format
+msgid "Bold"
+msgstr "Đậm"
+
+#: src/qml/QuickFormatBar.qml:42
+#, kde-format
+msgid "Italic"
+msgstr "Nghiêng"
+
+#: src/qml/QuickFormatBar.qml:61
+#, kde-format
+msgid "Strikethrough"
+msgstr "Gạch ngang"
+
+#: src/qml/QuickFormatBar.qml:80
+#, kde-format
+msgid "Code block"
+msgstr "Khối mã"
+
+#: src/qml/QuickFormatBar.qml:99
+#, kde-format
+msgid "Quote"
+msgstr "Trích dẫn"
+
+#: src/qml/QuickFormatBar.qml:118
+#, kde-format
+msgid "Insert link"
+msgstr "Chèn liên kết"
+
+#: src/qml/QuickSwitcher.qml:29
+#, kde-format
+msgctxt "Placeholder message"
+msgid "No room found"
+msgstr "Không tìm thấy phòng"
+
+#: src/qml/RecommendedSpaceDialog.qml:25
+#, kde-format
+msgctxt "@title Join <name of a space>"
+msgid "Join %1"
+msgstr "Tham gia %1"
+
+#: src/qml/RecommendedSpaceDialog.qml:52
+#, kde-format
+msgctxt "@action:button"
+msgid "Join"
+msgstr "Tham gia"
+
+#: src/qml/RecommendedSpaceDialog.qml:60
+#, kde-format
+msgctxt "@action:button"
+msgid "Ignore"
+msgstr "Bỏ qua"
+
+#: src/qml/RemoveChildDialog.qml:27
+#, kde-format
+msgctxt "@title"
+msgid "Remove Child"
+msgstr "Xoá Bỏ Trẻ"
+
+#: src/qml/RemoveChildDialog.qml:39
+#, kde-format
+msgid "The child %1 will be removed from the space %2"
+msgstr "Trẻ em %1 sẽ bị loại bỏ khỏi không gian %2"
+
+#: src/qml/RemoveChildDialog.qml:46
+#, kde-format
+msgid ""
+"The current space is the official parent of this room, should this be "
+"cleared?"
+msgstr ""
+"Không gian hiện tại là cha mẹ chính thức của phòng này, liệu có nên xóa "
+"điều này?"
+
+#: src/qml/RemoveSheet.qml:20
+#, kde-format
+msgid "Remove Messages"
+msgstr "Xoá Tin nhắn"
+
+#: src/qml/RemoveSheet.qml:20
+#, kde-format
+msgid "Remove Message"
+msgstr "Xoá Thông Điệp"
+
+#: src/qml/RemoveSheet.qml:29
+#, kde-format
+msgid "Reason for removing this user's recent messages"
+msgstr "Lý do để xóa tin nhắn gần đây của người dùng này"
+
+#: src/qml/RemoveSheet.qml:29
+#, kde-format
+msgid "Reason for removing this message"
+msgstr "Lý do để loại bỏ thông điệp này"
+
+#: src/qml/RemoveSheet.qml:44
+#, kde-format
+msgctxt "@action:button 'Remove' as in 'Remove this message'"
+msgid "Remove"
+msgstr "Xoá"
+
+#: src/qml/ReportSheet.qml:18
+#, kde-format
+msgid "Report Message"
+msgstr "Thông điệp báo cáo"
+
+#: src/qml/ReportSheet.qml:27
+#, kde-format
+msgid "Reason for reporting this message"
+msgstr "Lý do báo cáo thông điệp này"
+
+#: src/qml/RoomDelegate.qml:108
+#, kde-format
+msgid "Muted room"
+msgstr "Phòng bị tắt tiếng"
+
+#: src/qml/RoomDelegate.qml:141
+#, kde-format
+msgid "Configure room"
+msgstr "Cấu hình phòng"
+
+#: src/qml/RoomDrawer.qml:104
+#, kde-format
+msgctxt "@action:button"
+msgid "Room settings"
+msgstr "Thiết lập phòng"
+
+#: src/qml/RoomDrawer.qml:151 src/qml/RoomDrawerPage.qml:88
+#, kde-format
+msgid "Information"
+msgstr "Thông tin"
+
+#: src/qml/RoomDrawer.qml:156 src/qml/RoomDrawerPage.qml:93
+#, kde-format
+msgid "Media"
+msgstr "Phương tiện"
+
+#: src/qml/RoomDrawerPage.qml:45
+#, kde-format
+msgid "Settings"
+msgstr "thiết lập"
+
+#: src/qml/RoomDrawerPage.qml:51
+#, kde-format
+msgid "Room Settings"
+msgstr "Thiết lập phòng"
+
+#: src/qml/RoomInformation.qml:40
+#, kde-format
+msgctxt "@action:title"
+msgid "Space Members"
+msgstr "Thành viên không gian"
+
+#: src/qml/RoomInformation.qml:40
+#, kde-format
+msgctxt "@action:title"
+msgid "Room information"
+msgstr "Thông tin phòng"
+
+#: src/qml/RoomInformation.qml:68
+#, kde-format
+msgctxt "Room actions"
+msgid "Actions"
+msgstr "Hành động"
+
+#: src/qml/RoomInformation.qml:78
+#, kde-format
+msgid "Search in this room"
+msgstr "Tìm kiếm trong phòng này"
+
+#: src/qml/RoomInformation.qml:87
+#, kde-format
+msgctxt "@action:title"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: src/qml/RoomInformation.qml:95
+#, kde-format
+msgctxt "@action:button"
+msgid "Verify user"
+msgstr "Xác minh người dùng"
+
+#: src/qml/RoomInformation.qml:106
+#, kde-format
+msgid "Remove room from favorites"
+msgstr "Xoá phòng khỏi mục yêu thích"
+
+#: src/qml/RoomInformation.qml:106
+#, kde-format
+msgid "Favorite this room"
+msgstr "Đánh dấu phòng này là yêu thích"
+
+#: src/qml/RoomInformation.qml:119
+#, kde-format
+msgid "Show locations for this room"
+msgstr "Hiển thị các địa điểm cho phòng này"
+
+#: src/qml/RoomInformation.qml:134
+#, kde-format
+msgctxt "@action:button"
+msgid "Leave this room"
+msgstr "Rời khỏi phòng này"
+
+#: src/qml/RoomInformation.qml:147
+#, kde-format
+msgid "Members"
+msgstr "Thành viên"
+
+#: src/qml/RoomInformation.qml:162 src/qml/SpaceHomePage.qml:55
+#, kde-format
+msgctxt "@title"
+msgid "Invite a User"
+msgstr "Mời người dùng"
+
+#: src/qml/RoomInformation.qml:166
+#, kde-format
+msgid "Invite user to room"
+msgstr "Mời người dùng vào phòng"
+
+#: src/qml/RoomInformation.qml:173
+#, kde-format
+msgid "%1 member"
+msgid_plural "%1 members"
+msgstr[0] "%1 thành viên"
+
+#: src/qml/RoomInformation.qml:173
+#, kde-format
+msgid "No member count"
+msgstr "Không có số lượng thành viên"
+
+#: src/qml/RoomListPage.qml:195
+#, kde-format
+msgid "No friends found"
+msgstr "Không tìm thấy bạn bè"
+
+#: src/qml/RoomListPage.qml:195
+#, kde-format
+msgid "No rooms found"
+msgstr "Không tìm thấy phòng"
+
+#: src/qml/RoomListPage.qml:197
+#, kde-format
+msgid ""
+"You haven't added any of your friends yet, click below to search for them."
+msgstr "Bạn chưa thêm bất kỳ người bạn nào, bấm vào bên dưới để tìm kiếm họ."
+
+#: src/qml/RoomListPage.qml:197
+#, kde-format
+msgid "Join some rooms to get started"
+msgstr "Tham gia một số phòng để bắt đầu"
+
+#: src/qml/RoomListPage.qml:204
+#, kde-format
+msgid "Search in room directory"
+msgstr "Tìm kiếm trong danh bạ phòng"
+
+#: src/qml/RoomListPage.qml:221
+#, kde-format
+msgid "Search in friend directory"
+msgstr "Tìm kiếm trong danh bạ bạn bè"
+
+#: src/qml/RoomMedia.qml:29
+#, kde-format
+msgctxt "@action:title"
+msgid "Room Media"
+msgstr "Phương tiện phòng"
+
+#: src/qml/RoomPage.qml:100
+#, kde-format
+msgid "NeoChat is offline. Please check your network connection."
+msgstr "NeoChat đang ngoại tuyến. Vui lòng kiểm tra kết nối mạng của bạn."
+
+#: src/qml/RoomPage.qml:264
+#, kde-format
+msgid "Message Source"
+msgstr "Nguồn tin nhắn"
+
+#: src/qml/RoomSearchPage.qml:26
+#, kde-format
+msgctxt "@action:title"
+msgid "Search Messages"
+msgstr "Tìm kiếm tin nhắn"
+
+#: src/qml/RoomSearchPage.qml:37
+#, kde-format
+msgid "Find messages…"
+msgstr "Tìm tin nhắn..."
+
+#: src/qml/RoomSearchPage.qml:38
+#, kde-format
+msgid "Enter text to start searching"
+msgstr "Nhập văn bản để bắt đầu tìm kiếm"
+
+#: src/qml/RoomSearchPage.qml:39
+#, kde-format
+msgid "No messages found"
+msgstr "Không tìm thấy tin nhắn"
+
+#: src/qml/RoomTreeSection.qml:71
+#, kde-format
+msgctxt "Collapse <section name>"
+msgid "Collapse %1"
+msgstr "Thu gọn %1"
+
+#: src/qml/RoomTreeSection.qml:71
+#, kde-format
+msgctxt "Expand <section name"
+msgid "Expand %1"
+msgstr "Mở rộng %1"
+
+#: src/qml/SearchPage.qml:130
+#, kde-format
+msgctxt "@action:button"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: src/qml/SelectParentDialog.qml:25
+#, kde-format
+msgctxt "@title"
+msgid "Select new official parent"
+msgstr "Chọn cha mẹ chính thức mới"
+
+#: src/qml/SelectParentDialog.qml:57
+#, kde-format
+msgctxt "@title"
+msgid "Choose Parent Space"
+msgstr "Chọn Không Gian Cha"
+
+#: src/qml/SelectParentDialog.qml:159
+#, kde-format
+msgid "Set this room as a child of the space %1"
+msgstr "Đặt phòng này là con của không gian %1"
+
+#: src/qml/SelectParentDialog.qml:166
+#, kde-format
+msgid ""
+"You do not have a high enough privilege level in the parent to set this state"
+msgstr "Bạn không có đủ quyền hạn trong phần cha để đặt trạng thái này"
+
+#: src/qml/SelectParentDialog.qml:166
+#, kde-format
+msgid "The selected room is not a space"
+msgstr "Phòng đã chọn không phải là không gian"
+
+#: src/qml/SelectParentDialog.qml:166
+#, kde-format
+msgid "You do not have the privileges to complete this action"
+msgstr "Bạn không có đặc quyền để hoàn tất hành động này"
+
+#: src/qml/SelectParentDialog.qml:171
+#, kde-format
+msgid "Make this space the canonical parent"
+msgstr "Đặt không gian này làm cha chính"
+
+#: src/qml/SelectSpacesDialog.qml:35
+#, kde-format
+msgctxt "@title"
+msgid "Select Spaces"
+msgstr "Chọn Không Gian"
+
+#: src/qml/ServerComboBox.qml:47
+#, kde-format
+msgid "Add New Server"
+msgstr "Thêm Máy Chủ Mới"
+
+#: src/qml/ServerComboBox.qml:63
+#, kde-format
+msgid "Home Server"
+msgstr "Máy chủ chính"
+
+#: src/qml/ServerComboBox.qml:70
+#, kde-format
+msgctxt "@action:button"
+msgid "Add new server"
+msgstr "Thêm máy chủ mới"
+
+#: src/qml/ServerComboBox.qml:110
+#, kde-format
+msgctxt "@title:window"
+msgid "Add server"
+msgstr "Thêm máy chủ"
+
+#: src/qml/ServerComboBox.qml:137
+#, kde-format
+msgid "The entered text is not a valid url"
+msgstr "Văn bản đã nhập không phải là một URL hợp lệ"
+
+#: src/qml/ServerComboBox.qml:141
+#, kde-format
+msgid "This server cannot be resolved or has already been added"
+msgstr "Máy chủ này không thể được giải quyết hoặc đã được thêm vào"
+
+#: src/qml/ServerComboBox.qml:152
+#, kde-format
+msgid "Server URL:"
+msgstr "Địa chỉ URL máy chủ:"
+
+#: src/qml/ShareAction.qml:23
+#, kde-format
+msgid "Share"
+msgstr "Chia sẻ"
+
+#: src/qml/ShareAction.qml:24
+#, kde-format
+msgid "Share the selected media"
+msgstr "Chia sẻ phương tiện đã chọn"
+
+#: src/qml/ShareDialog.qml:37
+#, kde-format
+msgid "Sharing failed"
+msgstr "Chia sẻ thất bại"
+
+#: src/qml/ShareDialog.qml:58
+#, kde-format
+msgid "Shared url for image is <a href='%1'>%1</a>"
+msgstr "Đường dẫn chia sẻ cho ảnh là <a href='%1'>%1</a>"
+
+#: src/qml/SpaceDrawer.qml:58
+#, kde-format
+msgid "View notifications"
+msgstr "Xem thông báo"
+
+#: src/qml/SpaceDrawer.qml:86
+#, kde-format
+msgid "Home"
+msgstr "Trang chủ"
+
+#: src/qml/SpaceDrawer.qml:134
+#, kde-format
+msgctxt "@button View all one-on-one chats with your friends."
+msgid "Friends"
+msgstr "Bạn bè"
+
+#: src/qml/SpaceDrawer.qml:242
+#, kde-format
+msgctxt "Join <name of a space>"
+msgid "Join %1"
+msgstr "Tham gia %1"
+
+#: src/qml/SpaceDrawer.qml:284
+#, kde-format
+msgid "Create a space"
+msgstr "Tạo một không gian"
+
+#: src/qml/SpaceHierarchyDelegate.qml:93
+#, kde-format
+msgid "Suggested"
+msgstr "Đề xuất"
+
+#: src/qml/SpaceHierarchyDelegate.qml:102
+#, kde-format
+msgctxt "number of room members"
+msgid "%1 member - "
+msgid_plural "%1 members - "
+msgstr[0] "%1 thành viên - "
+
+#: src/qml/SpaceHierarchyDelegate.qml:102
+#, kde-format
+msgctxt "number of room members"
+msgid "%1 member"
+msgid_plural "%1 members"
+msgstr[0] "%1 thành viên"
+
+#: src/qml/SpaceHierarchyDelegate.qml:111
+#: src/qml/SpaceHomePage.qml:60
+#, kde-format
+msgctxt "@button"
+msgid "Add new room"
+msgstr "Thêm phòng mới"
+
+#: src/qml/SpaceHierarchyDelegate.qml:122
+#, kde-format
+msgctxt "@button"
+msgid "Remove"
+msgstr "Xoá"
+
+#: src/qml/SpaceHierarchyDelegate.qml:142
+#, kde-format
+msgctxt "@button"
+msgid "Don't Make Suggested"
+msgstr "Không đề xuất"
+
+#: src/qml/SpaceHierarchyDelegate.qml:142
+#, kde-format
+msgctxt "@button"
+msgid "Make Suggested"
+msgstr "Đề xuất"
+
+#: src/qml/SpaceHomePage.qml:50
+#, kde-format
+msgctxt "@button"
+msgid "Invite user to space"
+msgstr "Mời người dùng tham gia không gian"
+
+#: src/qml/SpaceHomePage.qml:65
+#, kde-format
+msgctxt "@button"
+msgid "Leave the space"
+msgstr "Rời khỏi không gian"
+
+#: src/qml/SpaceHomePage.qml:76 src/qml/SpaceListContextMenu.qml:48
+#: src/qml/SpaceListContextMenu.qml:130
+#, kde-format
+msgctxt "'Space' is a matrix space"
+msgid "Space Settings"
+msgstr "Thiết lập Space"
+
+#: src/qml/SpaceHomePage.qml:163 src/qml/SpaceHomePage.qml:169
+#, kde-format
+msgctxt "@title"
+msgid "Create a Child"
+msgstr "Tạo một trẻ em"
+
+#: src/qml/SpaceListContextMenu.qml:32 src/qml/SpaceListContextMenu.qml:114
+#, kde-format
+msgctxt "'Space' is a matrix space"
+msgid "View Space"
+msgstr "Xem Không gian"
+
+#: src/qml/SpaceListContextMenu.qml:58 src/qml/SpaceListContextMenu.qml:139
+#, kde-format
+msgctxt "'Space' is a matrix space"
+msgid "Leave Space"
+msgstr "Rời Không gian"
+
+#: src/qml/TimelineView.qml:195
+#, kde-format
+msgid "Jump to first unread message"
+msgstr "Nhảy đến thông điệp chưa đọc đầu tiên"
+
+#: src/qml/TimelineView.qml:195
+#, kde-format
+msgid "Jump to oldest loaded message"
+msgstr "Nhảy đến thông điệp cũ nhất đã tải"
+
+#: src/qml/TimelineView.qml:235
+#, kde-format
+msgid "Jump to latest message"
+msgstr "Nhảy đến thông điệp mới nhất"
+
+#: src/qml/TimelineView.qml:260
+#, kde-format
+msgid "Drag items here to share them"
+msgstr "Kéo các mục vào đây để chia sẻ chúng"
+
+#: src/qml/TimelineView.qml:267
+#, kde-format
+msgctxt "Message displayed when some users are typing"
+msgid "%2 is typing"
+msgid_plural "%2 are typing"
+msgstr[0] "%2 đang nhập"
+
+#: src/qml/UnlockSSSSDialog.qml:17
+#, kde-format
+msgctxt "@title:window"
+msgid "Load your encrypted messages"
+msgstr "Tải tin nhắn mật mã hoá của bạn"
+
+#: src/qml/UnlockSSSSDialog.qml:48
+#, kde-format
+msgctxt "@info:status"
+msgid "The security phrase was not correct."
+msgstr "Cụm từ bảo mật không chính xác."
+
+#: src/qml/UnlockSSSSDialog.qml:54
+#, kde-format
+msgctxt "@title"
+msgid "Unlock using Passphrase"
+msgstr "Mở khóa bằng mật tổ"
+
+#: src/qml/UnlockSSSSDialog.qml:58
+#, kde-format
+msgctxt "@info"
+msgid "If you have a backup passphrase for this account, enter it below."
+msgstr "Nếu bạn có mật tổ sao lưu cho tài khoản này, hãy nhập nó bên dưới."
+
+#: src/qml/UnlockSSSSDialog.qml:62
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Backup Password:"
+msgstr "Mật khẩu sao lưu:"
+
+#: src/qml/UnlockSSSSDialog.qml:67 src/qml/UnlockSSSSDialog.qml:102
+#, kde-format
+msgctxt "@action:button"
+msgid "Unlock"
+msgstr "Mở khóa"
+
+#: src/qml/UnlockSSSSDialog.qml:79
+#, kde-format
+msgctxt "@title"
+msgid "Unlock using Security Key"
+msgstr "Mở khóa bằng Khóa An ninh"
+
+#: src/qml/UnlockSSSSDialog.qml:83
+#, kde-format
+msgctxt "@info"
+msgid ""
+"If you have a security key for this account, enter it below or upload it as "
+"a file."
+msgstr ""
+"Nếu bạn có một khóa an ninh cho tài khoản này, hãy nhập nó bên dưới hoặc "
+"tải lên nó như một tệp."
+
+#: src/qml/UnlockSSSSDialog.qml:87
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Security Key:"
+msgstr "Khóa an ninh:"
+
+#: src/qml/UnlockSSSSDialog.qml:92
+#, kde-format
+msgctxt "@action:button"
+msgid "Upload from File"
+msgstr "Tải lên từ Tệp"
+
+#: src/qml/UnlockSSSSDialog.qml:113
+#, kde-format
+msgctxt "@title"
+msgid "Unlock from Cross-Signing"
+msgstr "Mở khóa từ Cross-Signing"
+
+#: src/qml/UnlockSSSSDialog.qml:117
+#, kde-format
+msgctxt "@info"
+msgid ""
+"If you have previously verified this device, you can try loading the backup "
+"key from other devices by clicking the button below."
+msgstr ""
+"Nếu bạn đã xác minh thiết bị này trước đây, bạn có thể thử tải khóa sao lưu "
+"từ các thiết bị khác bằng cách nhấp vào nút bên dưới."
+
+#: src/qml/UnlockSSSSDialog.qml:122
+#, kde-format
+msgctxt "@action:button"
+msgid "Request from other Devices"
+msgstr "Yêu cầu từ các thiết bị khác"
+
+#: src/qml/UserDetailDialog.qml:34
+#, kde-format
+msgctxt "@title:menu Account details dialog"
+msgid "Account Details"
+msgstr "Chi tiết tài khoản"
+
+#: src/qml/UserDetailDialog.qml:109
+#, kde-format
+msgid "Unignore this user"
+msgstr "Bỏ bỏ qua người dùng này"
+
+#: src/qml/UserDetailDialog.qml:109
+#, kde-format
+msgid "Ignore this user"
+msgstr "Bỏ qua người dùng này"
+
+#: src/qml/UserDetailDialog.qml:122
+#, kde-format
+msgid "Kick this user"
+msgstr "Đuổi người dùng này"
+
+#: src/qml/UserDetailDialog.qml:136
+#, kde-format
+msgid "Invite this user"
+msgstr "Mời người dùng này"
+
+#: src/qml/UserDetailDialog.qml:149
+#, kde-format
+msgid "Ban this user"
+msgstr "Cấm người dùng này"
+
+#: src/qml/UserDetailDialog.qml:157
+#, kde-format
+msgctxt "@title"
+msgid "Ban User"
+msgstr "Cấm người dùng"
+
+#: src/qml/UserDetailDialog.qml:169
+#, kde-format
+msgid "Unban this user"
+msgstr "Bỏ cấm người dùng này"
+
+#: src/qml/UserDetailDialog.qml:182
+#, kde-format
+msgid "Set user power level"
+msgstr "Đặt mức nguồn điện của người dùng"
+
+#: src/qml/UserDetailDialog.qml:207
+#, kde-format
+msgid "Remove recent messages by this user"
+msgstr "Xoá các tin nhắn gần đây của người dùng này"
+
+#: src/qml/UserDetailDialog.qml:215
+#, kde-format
+msgctxt "@title"
+msgid "Remove Messages"
+msgstr "Xoá Tin Nhắn"
+
+#: src/qml/UserDetailDialog.qml:226
+#, kde-format
+msgctxt "%1 is the name of the user."
+msgid "Chat with %1"
+msgstr "Trò chuyện với %1"
+
+#: src/qml/UserDetailDialog.qml:226
+#, kde-format
+msgid "Invite to private chat"
+msgstr "Mời vào trò chuyện riêng"
+
+#: src/qml/UserDetailDialog.qml:237
+#, kde-format
+msgid "Copy link"
+msgstr "Sao chép liên kết"
+
+#: src/qml/UserInfo.qml:90
+#, kde-format
+msgid "Switch User"
+msgstr "Chuyển đổi người dùng"
+
+#: src/qml/UserInfo.qml:99
+#, kde-format
+msgid "Open Settings"
+msgstr "Mở Thiết lập"
+
+#: src/qml/UserSearchPage.qml:33
+#, kde-format
+msgctxt "@action:title"
+msgid "Find Your Friends"
+msgstr "Tìm bạn của bạn"
+
+#: src/qml/UserSearchPage.qml:46
+#, kde-format
+msgid "Enter a user ID"
+msgstr "Nhập mã định danh người dùng"
+
+#: src/qml/UserSearchPage.qml:91
+#, kde-format
+msgid "Find your friends…"
+msgstr "Tìm bạn bè của bạn..."
+
+#: src/qml/UserSearchPage.qml:92
+#, kde-format
+msgid "Enter text to start searching for your friends"
+msgstr "Nhập văn bản để bắt đầu tìm kiếm bạn bè của bạn"
+
+#: src/qml/UserSearchPage.qml:93
+#, kde-format
+msgctxt "@info:label"
+msgid "No matches found"
+msgstr "Không tìm thấy kết quả"
+
+#: src/qml/VerificationCanceled.qml:18
+#, kde-format
+msgid "The session verification was canceled for unknown reason."
+msgstr "Phiên xác minh đã bị huỷ vì lý do không rõ."
+
+#: src/qml/VerificationCanceled.qml:20
+#, kde-format
+msgid "The session verification timed out."
+msgstr "Phiên xác minh đã hết thời gian."
+
+#: src/qml/VerificationCanceled.qml:22
+#, kde-format
+msgid "The session verification timed out for remote party."
+msgstr "Phiên xác minh từ xa đã hết thời gian."
+
+#: src/qml/VerificationCanceled.qml:24
+#, kde-format
+msgid "You canceled the session verification."
+msgstr "Bạn đã huỷ xác minh phiên."
+
+#: src/qml/VerificationCanceled.qml:26
+#, kde-format
+msgid "The remote party canceled the session verification."
+msgstr "Bên kia đã huỷ phiên xác minh."
+
+#: src/qml/VerificationCanceled.qml:28
+#, kde-format
+msgid ""
+"The session verification was canceled because we received an unexpected "
+"message."
+msgstr "Phiên xác minh đã bị huỷ vì chúng tôi nhận được một thông điệp bất ngờ."
+
+#: src/qml/VerificationCanceled.qml:30
+#, kde-format
+msgid ""
+"The remote party canceled the session verification because it received an "
+"unexpected message."
+msgstr "Bên kia đã huỷ phiên xác minh vì nhận được một tin nhắn bất ngờ."
+
+#: src/qml/VerificationCanceled.qml:32
+#, kde-format
+msgid ""
+"The session verification was canceled because it received a message for an "
+"unknown session."
+msgstr ""
+"Việc xác minh phiên đã bị huỷ vì nó nhận được một thông điệp cho một phiên "
+"không rõ."
+
+#: src/qml/VerificationCanceled.qml:34
+#, kde-format
+msgid ""
+"The remote party canceled the session verification because it received a "
+"message for an unknown session."
+msgstr ""
+"Bên xa đã huỷ xác minh phiên vì họ nhận được một thông điệp cho một phiên "
+"không rõ."
+
+#: src/qml/VerificationCanceled.qml:36
+#, kde-format
+msgid ""
+"The session verification was canceled because NeoChat is unable to handle "
+"this verification method."
+msgstr ""
+"Phiên xác minh đã bị huỷ vì NeoChat không thể xử lý phương thức xác minh "
+"này."
+
+#: src/qml/VerificationCanceled.qml:38
+#, kde-format
+msgid ""
+"The remote party canceled the session verification because it is unable to "
+"handle this verification method."
+msgstr "Bên kia đã huỷ xác minh phiên vì không thể xử lý phương thức xác minh này."
+
+#: src/qml/VerificationCanceled.qml:40
+#, kde-format
+msgid "The session verification was canceled because the keys are incorrect."
+msgstr "Phiên xác minh đã bị huỷ vì các khóa không chính xác."
+
+#: src/qml/VerificationCanceled.qml:42
+#, kde-format
+msgid ""
+"The remote party canceled the session verification because the keys are "
+"incorrect.\n"
+"\n"
+"**Please log out and log back in, your session is broken/corrupt.**"
+msgstr ""
+"Bên kia đã huỷ xác minh phiên vì các khoá không chính xác.\n\n**Vui lòng "
+"đăng xuất và đăng nhập lại, phiên của bạn đã bị hỏng/hư.**"
+
+#: src/qml/VerificationCanceled.qml:44
+#, kde-format
+msgid ""
+"The session verification was canceled because it verifies an unexpected user."
+msgstr "Phiên xác minh đã bị huỷ vì nó xác minh một người dùng bất ngờ."
+
+#: src/qml/VerificationCanceled.qml:46
+#, kde-format
+msgid ""
+"The remote party canceled the session verification because it verifies an "
+"unexpected user."
+msgstr "Bên kia đã huỷ xác minh phiên vì xác minh một người dùng bất ngờ."
+
+#: src/qml/VerificationCanceled.qml:48
+#, kde-format
+msgid ""
+"The session verification was canceled because we received an invalid message."
+msgstr "Phiên xác minh đã bị huỷ vì chúng tôi nhận được một tin nhắn không hợp lệ."
+
+#: src/qml/VerificationCanceled.qml:50
+#, kde-format
+msgid ""
+"The remote party canceled the session verification because it received an "
+"invalid message."
+msgstr "Bên kia đã huỷ xác minh phiên vì nhận được một tin nhắn không hợp lệ."
+
+#: src/qml/VerificationCanceled.qml:52 src/qml/VerificationCanceled.qml:54
+#, kde-format
+msgid "The session was accepted on a different device"
+msgstr "Phiên đã được chấp nhận trên một thiết bị khác"
+
+#: src/qml/VerificationCanceled.qml:56
+#, kde-format
+msgid "The session verification was canceled because of a mismatched key."
+msgstr "Phiên xác minh đã bị huỷ do khóa không khớp."
+
+#: src/qml/VerificationCanceled.qml:58
+#, kde-format
+msgid ""
+"The remote party canceled the session verification because of a mismatched "
+"key."
+msgstr "Bên từ xa đã huỷ xác minh phiên vì khóa không khớp."
+
+#: src/qml/VerificationCanceled.qml:60
+#, kde-format
+msgid "The session verification was canceled because the keys do not match."
+msgstr "Phiên xác minh đã bị huỷ vì các khoá không khớp."
+
+#: src/qml/VerificationCanceled.qml:62
+#, kde-format
+msgid ""
+"The remote party canceled the session verification because the keys do not "
+"match."
+msgstr "Bên kia đã huỷ xác minh phiên vì các khoá không khớp."
+
+#: src/qml/VerificationCanceled.qml:64
+#, kde-format
+msgid "The session verification was canceled due to an unknown error."
+msgstr "Phiên xác minh đã bị huỷ do lỗi không rõ."
+
+#: src/registration.cpp:311
+#, kde-format
+msgid "No server."
+msgstr "Không có máy chủ."
+
+#: src/registration.cpp:313
+#, kde-format
+msgid "Checking Server availability."
+msgstr "Đang kiểm tra khả năng sẵn sàng của máy chủ."
+
+#: src/registration.cpp:315
+#, kde-format
+msgid "This is not a valid server."
+msgstr "Đây không phải là một máy chủ hợp lệ."
+
+#: src/registration.cpp:317
+#, kde-format
+msgid "Registration for this server is disabled."
+msgstr "Đăng ký cho máy chủ này đã bị vô hiệu hóa."
+
+#: src/registration.cpp:319
+#, kde-format
+msgid "No username."
+msgstr "Không có tên người dùng."
+
+#: src/registration.cpp:321
+#, kde-format
+msgid "Checking username availability."
+msgstr "Đang kiểm tra tính khả dụng của tên người dùng."
+
+#: src/registration.cpp:323
+#, kde-format
+msgid "This username is not available."
+msgstr "Tên người dùng này không khả dụng."
+
+#: src/registration.cpp:325
+#, kde-format
+msgid "Continue"
+msgstr "Tiếp tục"
+
+#: src/registration.cpp:327
+#, kde-format
+msgid "Working"
+msgstr "Đang hoạt động"
+
+#: src/roommanager.cpp:125
+#, kde-format
+msgid "Malformed or empty Matrix id"
+msgstr "Mã định danh Matrix không hợp lệ hoặc trống"
+
+#: src/roommanager.cpp:125
+#, kde-format
+msgid "%1 is not a correct Matrix identifier"
+msgstr "%1 không phải là mã định danh Matrix chính xác"
+
+#: src/roommanager.cpp:336
+#, kde-format
+msgid "Failed to join room"
+msgstr "Không thể tham gia phòng"
+
+#: src/roommanager.cpp:368
+#, kde-format
+msgid "You requested to join '%1'"
+msgstr "Bạn đã yêu cầu tham gia '%1'"
+
+#: src/roommanager.cpp:372
+#, kde-format
+msgid "Failed to request joining room"
+msgstr "Không thể yêu cầu tham gia phòng"
+
+#: src/settings/AccountEditorPage.qml:20
+#, kde-format
+msgid "Edit Account"
+msgstr "Sửa Tài Khoản"
+
+#: src/settings/AccountEditorPage.qml:61
+#, kde-format
+msgid "Upload new avatar"
+msgstr "Tải lên hiện thân ảo mới"
+
+#: src/settings/AccountEditorPage.qml:78
+#, kde-format
+msgid "Remove current avatar"
+msgstr "Xoá hiện thân ảo hiện tại"
+
+#: src/settings/AccountEditorPage.qml:101
+#, kde-format
+msgid "User information"
+msgstr "Thông tin người dùng"
+
+#: src/settings/AccountEditorPage.qml:112
+#, kde-format
+msgid "Label:"
+msgstr "Nhãn:"
+
+#: src/settings/AccountEditorPage.qml:117
+#, kde-format
+msgctxt "@action:button"
+msgid "QR code for account"
+msgstr "Mã QR cho tài khoản"
+
+#: src/settings/AccountEditorPage.qml:133
+#: src/settings/AccountEditorPage.qml:188
+#: src/settings/EmoticonEditorPage.qml:108
+#: src/settings/RoomGeneralPage.qml:105
+#, kde-format
+msgid "Save"
+msgstr "Lưu"
+
+#: src/settings/AccountEditorPage.qml:154
+#, kde-format
+msgid "Your server doesn't support changing your password"
+msgstr "Máy chủ của bạn không hỗ trợ thay đổi mật khẩu của bạn"
+
+#: src/settings/AccountEditorPage.qml:161
+#, kde-format
+msgid "Current Password:"
+msgstr "Mật khẩu hiện tại:"
+
+#: src/settings/AccountEditorPage.qml:168
+#, kde-format
+msgid "New Password:"
+msgstr "Mật khẩu mới:"
+
+#: src/settings/AccountEditorPage.qml:175
+#, kde-format
+msgid "Confirm new Password:"
+msgstr "Xác nhận mật khẩu mới:"
+
+#: src/settings/AccountEditorPage.qml:180
+#, kde-format
+msgid "Passwords don't match"
+msgstr "Mật khẩu không khớp"
+
+#: src/settings/AccountEditorPage.qml:194
+#, kde-format
+msgid "Passwords do not match"
+msgstr "Mật khẩu không khớp"
+
+#: src/settings/AccountEditorPage.qml:201
+#, kde-format
+msgid "Email Addresses"
+msgstr "Địa chỉ thư điện tử"
+
+#: src/settings/AccountEditorPage.qml:207
+#, kde-format
+msgid "Phone Numbers"
+msgstr "Số điện thoại"
+
+#: src/settings/AccountEditorPage.qml:212
+#, kde-format
+msgid "Identity Server"
+msgstr "Máy chủ danh tính"
+
+#: src/settings/AccountEditorPage.qml:221
+#, kde-format
+msgid "Server Information"
+msgstr "Thông tin máy chủ"
+
+#: src/settings/AccountEditorPage.qml:225
+#, kde-format
+msgid "Homeserver url"
+msgstr "Địa chỉ máy chủ chính"
+
+#: src/settings/AccountEditorPage.qml:246
+#, kde-format
+msgctxt "@title"
+msgid "Account Management"
+msgstr "Quản lý tài khoản"
+
+#: src/settings/AccountEditorPage.qml:251
+#, kde-format
+msgid "Deactivate Account"
+msgstr "Hủy kích hoạt tài khoản"
+
+#: src/settings/AccountEditorPage.qml:266
+#, kde-format
+msgid "Password changed successfully"
+msgstr "Đã thay đổi mật khẩu thành công"
+
+#: src/settings/AccountEditorPage.qml:268
+#, kde-format
+msgid "Wrong password entered"
+msgstr "Mật khẩu không đúng"
+
+#: src/settings/AccountEditorPage.qml:270
+#, kde-format
+msgid "Unknown problem while trying to change password"
+msgstr "Không rõ vấn đề khi cố gắng thay đổi mật khẩu"
+
+#: src/settings/AccountsPage.qml:21 src/settings/AccountsPage.qml:39
+#: src/settings/NeoChatSettingsView.qml:61
+#, kde-format
+msgid "Accounts"
+msgstr "Tài khoản"
+
+#: src/settings/AccountsPage.qml:118
+#, kde-format
+msgid "Add Account"
+msgstr "Thêm Tài Khoản"
+
+#: src/settings/AppearanceSettingsPage.qml:18
+#, kde-format
+msgctxt "@title:window"
+msgid "Appearance"
+msgstr "diện mạo"
+
+#: src/settings/AppearanceSettingsPage.qml:21
+#, kde-format
+msgid "General theme"
+msgstr "Chủ đề chung"
+
+#: src/settings/AppearanceSettingsPage.qml:115
+#, kde-format
+msgid "Bubbles"
+msgstr "Bong bóng"
+
+#: src/settings/AppearanceSettingsPage.qml:184
+#, kde-format
+msgid "Compact"
+msgstr "Gọn gàng"
+
+#: src/settings/AppearanceSettingsPage.qml:206
+#, kde-format
+msgid "Use compact room list"
+msgstr "Sử dụng danh sách phòng gọn"
+
+#: src/settings/AppearanceSettingsPage.qml:233
+#, kde-format
+msgid "Use transparent chat page"
+msgstr "Sử dụng trang trò chuyện trong suốt"
+
+#: src/settings/AppearanceSettingsPage.qml:254
+#, kde-format
+msgid "Transparency"
+msgstr "Độ trong suốt"
+
+#: src/settings/AppearanceSettingsPage.qml:273
+#, kde-format
+msgid "Only enabled if the transparent chat page is enabled."
+msgstr "Chỉ được bật nếu trang trò chuyện trong suốt được bật."
+
+#: src/settings/AppearanceSettingsPage.qml:290
+#, kde-format
+msgid "Show your messages on the right"
+msgstr "Hiển thị tin nhắn của bạn bên phải"
+
+#: src/settings/AppearanceSettingsPage.qml:306
+#, kde-format
+msgid "Show links preview in the chat messages"
+msgstr "Hiển thị xem thử liên kết trong các tin nhắn trò chuyện"
+
+#: src/settings/AppearanceSettingsPage.qml:316
+#, kde-format
+msgid "Show Avatar"
+msgstr "Hiện thân ảo"
+
+#: src/settings/AppearanceSettingsPage.qml:320
+#, kde-format
+msgid "In chat"
+msgstr "Trong trò chuyện"
+
+#: src/settings/AppearanceSettingsPage.qml:330
+#, kde-format
+msgid "In sidebar"
+msgstr "Trong thanh bên"
+
+#: src/settings/ColorScheme.qml:14
+#, kde-format
+msgid "Color theme"
+msgstr "Chủ đề màu"
+
+#: src/settings/DeviceDelegate.qml:51
+#, kde-format
+msgctxt "@label"
+msgid "%1, Last activity: %2"
+msgstr "%1, Hoạt động lần cuối: %2"
+
+#: src/settings/DeviceDelegate.qml:60
+#, kde-format
+msgid "New device name"
+msgstr "Tên thiết bị mới"
+
+#: src/settings/DeviceDelegate.qml:69
+#, kde-format
+msgid "Cancel editing display name"
+msgstr "Huỷ chỉnh sửa tên hiển thị"
+
+#: src/settings/DeviceDelegate.qml:76
+#, kde-format
+msgid "Confirm new display name"
+msgstr "Xác nhận tên hiển thị mới"
+
+#: src/settings/DeviceDelegate.qml:91
+#, kde-format
+msgid "Edit device name"
+msgstr "Sửa tên thiết bị"
+
+#: src/settings/DeviceDelegate.qml:105
+#, kde-format
+msgid "Verify device"
+msgstr "Xác minh thiết bị"
+
+#: src/settings/DeviceDelegate.qml:126
+#, kde-format
+msgctxt "This device is verified"
+msgid "Verified"
+msgstr "Xác minh"
+
+#: src/settings/DeviceDelegate.qml:135
+#, kde-format
+msgid "Logout device"
+msgstr "Đăng xuất thiết bị"
+
+#: src/settings/DevicesPage.qml:33
+#, kde-format
+msgid "This Device"
+msgstr "Thiết bị này"
+
+#: src/settings/DevicesPage.qml:38
+#, kde-format
+msgid "Verified Devices"
+msgstr "Thiết bị đã xác minh"
+
+#: src/settings/DevicesPage.qml:43
+#, kde-format
+msgid "Unverified Devices"
+msgstr "Thiết bị chưa được xác minh"
+
+#: src/settings/DevicesPage.qml:48
+#, kde-format
+msgid "Devices without Encryption Support"
+msgstr "Thiết bị không hỗ trợ Mật mã hoá"
+
+#: src/settings/DevicesPage.qml:63
+#, kde-format
+msgid "Please login to view the signed-in devices for your account."
+msgstr "Vui lòng đăng nhập để xem các thiết bị đã đăng nhập cho tài khoản của bạn."
+
+#: src/settings/DevicesPage.qml:75
+#, kde-format
+msgid "Remove device"
+msgstr "Xoá thiết bị"
+
+#: src/settings/DevicesPage.qml:87
+#, kde-format
+msgctxt "As in 'Remove this device'"
+msgid "Remove"
+msgstr "Xoá"
+
+#: src/settings/EmoticonEditorPage.qml:27
+#: src/settings/EmoticonFormCard.qml:53
+#, kde-format
+msgctxt "@title"
+msgid "Edit Emoji"
+msgstr "Sửa hình biểu cảm"
+
+#: src/settings/EmoticonEditorPage.qml:27
+#: src/settings/EmoticonFormCard.qml:53
+#, kde-format
+msgctxt "@title"
+msgid "Edit Sticker"
+msgstr "Sửa Sticker"
+
+#: src/settings/EmoticonEditorPage.qml:27
+#: src/settings/EmoticonFormCard.qml:103
+#, kde-format
+msgctxt "@title"
+msgid "Add Emoji"
+msgstr "Thêm hình biểu cảm"
+
+#: src/settings/EmoticonEditorPage.qml:27
+#: src/settings/EmoticonFormCard.qml:103
+#, kde-format
+msgctxt "@title"
+msgid "Add Sticker"
+msgstr "Thêm Sticker"
+
+#: src/settings/EmoticonEditorPage.qml:30
+#, kde-format
+msgid "Sticker"
+msgstr "Hình dán"
+
+#: src/settings/EmoticonEditorPage.qml:30
+#, kde-format
+msgid "Emoji"
+msgstr "Hình biểu cảm"
+
+#: src/settings/EmoticonEditorPage.qml:59
+#, kde-format
+msgid "Change Image"
+msgstr "Thay đổi ảnh"
+
+#: src/settings/EmoticonEditorPage.qml:59
+#, kde-format
+msgid "Set Image"
+msgstr "Đặt ảnh"
+
+#: src/settings/EmoticonEditorPage.qml:98
+#, kde-format
+msgid "Shortcode:"
+msgstr "Mã viết tắt:"
+
+#: src/settings/EmoticonEditorPage.qml:103
+#, kde-format
+msgid "Description:"
+msgstr "Mô tả:"
+
+#: src/settings/EmoticonFormCard.qml:71
+#, kde-format
+msgctxt "As in 'This sticker/emoji has no description'"
+msgid "No Description"
+msgstr "Không có mô tả"
+
+#: src/settings/EmoticonFormCard.qml:112
+#, kde-format
+msgid "Add Emoji"
+msgstr "Thêm hình biểu cảm"
+
+#: src/settings/EmoticonFormCard.qml:112
+#, kde-format
+msgid "Add Sticker"
+msgstr "Thêm Sticker"
+
+#: src/settings/EmoticonsPage.qml:16
+#, kde-format
+msgctxt "@title"
+msgid "Stickers & Emojis"
+msgstr "Sticker và Emoji"
+
+#: src/settings/GlobalNotificationsPage.qml:19
+#, kde-format
+msgctxt "@title:window"
+msgid "Notifications"
+msgstr "Thông báo"
+
+#: src/settings/GlobalNotificationsPage.qml:28
+#, kde-format
+msgid "Enable notifications for this account"
+msgstr "Bật thông báo cho tài khoản này"
+
+#: src/settings/GlobalNotificationsPage.qml:29
+#, kde-format
+msgid "Whether push notifications are generated by your Matrix server"
+msgstr "Liệu máy chủ Matrix của bạn có tạo thông báo nhấn hay không"
+
+#: src/settings/GlobalNotificationsPage.qml:39
+#, kde-format
+msgid "Room Notifications"
+msgstr "Thông báo phòng"
+
+#: src/settings/GlobalNotificationsPage.qml:56
+#, kde-format
+msgid "@Mentions"
+msgstr "Nhắc đến"
+
+#: src/settings/GlobalNotificationsPage.qml:73
+#: src/settings/PushNotification.qml:65
+#, kde-format
+msgid "Keywords"
+msgstr "Từ khóa"
+
+#: src/settings/GlobalNotificationsPage.qml:97
+#: src/settings/PushNotification.qml:100
+#, kde-format
+msgid "Keyword…"
+msgstr "Từ khóa..."
+
+#: src/settings/GlobalNotificationsPage.qml:116
+#: src/settings/Permissions.qml:391 src/settings/PushNotification.qml:119
+#, kde-format
+msgid "Add keyword"
+msgstr "Thêm từ khóa"
+
+#: src/settings/GlobalNotificationsPage.qml:137
+#, kde-format
+msgid "Invites"
+msgstr "Lời mời"
+
+#: src/settings/GlobalNotificationsPage.qml:154
+#, kde-format
+msgid "Unknown"
+msgstr "không rõ"
+
+#: src/settings/IdentityServerDelegate.qml:39
+#, kde-format
+msgid "New identity server url"
+msgstr "Url máy chủ danh tính mới"
+
+#: src/settings/IdentityServerDelegate.qml:43
+#, kde-format
+msgctxt "@action:button"
+msgid "Cancel editing identity server url"
+msgstr "Huỷ chỉnh sửa URL máy chủ danh tính"
+
+#: src/settings/IdentityServerDelegate.qml:49
+#, kde-format
+msgctxt "@action:button"
+msgid "Confirm new identity server url"
+msgstr "Xác nhận URL máy chủ danh tính mới"
+
+#: src/settings/IdentityServerDelegate.qml:73
+#, kde-format
+msgid "The entered url is not a valid identity server"
+msgstr "Địa chỉ URL đã nhập không phải là một máy chủ danh tính hợp lệ"
+
+#: src/settings/IdentityServerDelegate.qml:75
+#, kde-format
+msgid "The entered url is already configured as your identity server"
+msgstr "Địa chỉ URL đã được cấu hình là máy chủ danh tính của bạn"
+
+#: src/settings/IdentityServerDelegate.qml:98
+#, kde-format
+msgctxt "@action:button"
+msgid "Edit identity server url"
+msgstr "Sửa URL máy chủ danh tính"
+
+#: src/settings/IdentityServerDelegate.qml:119
+#, kde-format
+msgctxt "@action:button"
+msgid "Remove identity server"
+msgstr "Xoá máy chủ danh tính"
+
+#: src/settings/IgnoredUsersDialog.qml:18
+#, kde-format
+msgctxt "@title"
+msgid "Ignored Users"
+msgstr "Người dùng bị bỏ qua"
+
+#: src/settings/IgnoredUsersDialog.qml:24
+#: src/settings/NeoChatSecurityPage.qml:37
+#, kde-format
+msgctxt "@title:group"
+msgid "Ignored Users"
+msgstr "Người dùng bị bỏ qua"
+
+#: src/settings/IgnoredUsersDialog.qml:29
+#, kde-format
+msgctxt "Placeholder message when no user is ignored"
+msgid "You are not ignoring any users"
+msgstr "Bạn không bỏ qua bất kỳ người dùng nào"
+
+#: src/settings/IgnoredUsersDialog.qml:51
+#, kde-format
+msgctxt "@action:button"
+msgid "Unignore this user"
+msgstr "Bỏ bỏ qua người dùng này"
+
+#: src/settings/NeoChatGeneralPage.qml:20
+#, kde-format
+msgctxt "@title:window"
+msgid "General"
+msgstr "Chung"
+
+#: src/settings/NeoChatGeneralPage.qml:23
+#, kde-format
+msgid "General settings"
+msgstr "Thiết lập chung"
+
+#: src/settings/NeoChatGeneralPage.qml:29
+#, kde-format
+msgid "Show in System Tray"
+msgstr "Hiển thị trong khay hệ thống"
+
+#: src/settings/NeoChatGeneralPage.qml:46
+#, kde-format
+msgid "Minimize to system tray on startup"
+msgstr "Giảm thiểu vào khay hệ thống khi khởi động"
+
+#: src/settings/NeoChatGeneralPage.qml:63
+#, kde-format
+msgid "Automatically hide/unhide the room information when resizing the window"
+msgstr "Tự động ẩn/hiện thông tin phòng khi thay đổi kích thước cửa sổ"
+
+#: src/settings/NeoChatGeneralPage.qml:79
+#, kde-format
+msgid "Show all rooms in \"Home\" tab"
+msgstr "Hiển thị tất cả các phòng trong thẻ \"Trang chủ\""
+
+#: src/settings/NeoChatGeneralPage.qml:90
+#, kde-format
+msgid "Room list sort order"
+msgstr "Thứ tự sắp xếp danh sách phòng"
+
+#: src/settings/NeoChatGeneralPage.qml:94
+#, kde-format
+msgctxt "As in 'sort something based on last activity'"
+msgid "Activity"
+msgstr "Hoạt động"
+
+#: src/settings/NeoChatGeneralPage.qml:103
+#, kde-format
+msgctxt "As in 'sort something alphabetically'"
+msgid "Alphabetical"
+msgstr "Theo thứ tự bảng chữ cái"
+
+#: src/settings/NeoChatGeneralPage.qml:113
+#, kde-format
+msgid "Timeline Events"
+msgstr "Sự kiện dòng thời gian"
+
+#: src/settings/NeoChatGeneralPage.qml:118
+#, kde-format
+msgid "Show deleted messages"
+msgstr "Hiển thị tin nhắn đã xóa"
+
+#: src/settings/NeoChatGeneralPage.qml:134
+#, kde-format
+msgid "Show state events"
+msgstr "Hiển thị sự kiện trạng thái"
+
+#: src/settings/NeoChatGeneralPage.qml:152
+#, kde-format
+msgid "Show leave and join events"
+msgstr "Hiển thị sự kiện tham gia và rời khỏi"
+
+#: src/settings/NeoChatGeneralPage.qml:170
+#, kde-format
+msgid "Show name change events"
+msgstr "Hiển thị sự kiện thay đổi tên"
+
+#: src/settings/NeoChatGeneralPage.qml:188
+#, kde-format
+msgid "Show avatar update events"
+msgstr "Hiện thông báo cập nhật hiện thân ảo"
+
+#: src/settings/NeoChatGeneralPage.qml:198
+#, kde-format
+msgctxt "Chat Editor"
+msgid "Editor"
+msgstr "Trình biên tập"
+
+#: src/settings/NeoChatGeneralPage.qml:203
+#, kde-format
+msgid "Use s/text/replacement syntax to edit your last message"
+msgstr ""
+"Sử dụng cú pháp s/text/replacement để chỉnh sửa thông điệp cuối cùng của "
+"bạn"
+
+#: src/settings/NeoChatGeneralPage.qml:217
+#, kde-format
+msgid "Send typing notifications"
+msgstr "Gửi thông báo đang gõ"
+
+#: src/settings/NeoChatGeneralPage.qml:227
+#, kde-format
+msgid "Developer Settings"
+msgstr "Thiết lập nhà phát triển"
+
+#: src/settings/NeoChatGeneralPage.qml:231
+#, kde-format
+msgid "Enable developer tools"
+msgstr "Bật công cụ dành cho nhà phát triển"
+
+#: src/settings/NeoChatSecurityPage.qml:17
+#, kde-format
+msgctxt "@title"
+msgid "Security"
+msgstr "An ninh"
+
+#: src/settings/NeoChatSecurityPage.qml:20
+#, kde-format
+msgctxt "@title"
+msgid "Keys"
+msgstr "Khóa"
+
+#: src/settings/NeoChatSecurityPage.qml:25
+#, kde-format
+msgid "Device key"
+msgstr "Khóa thiết bị"
+
+#: src/settings/NeoChatSecurityPage.qml:29
+#, kde-format
+msgid "Encryption key"
+msgstr "Khoá mật mã"
+
+#: src/settings/NeoChatSecurityPage.qml:33
+#, kde-format
+msgid "Device id"
+msgstr "Mã định danh"
+
+#: src/settings/NeoChatSecurityPage.qml:41
+#, kde-format
+msgctxt "@action:button"
+msgid "Manage ignored users"
+msgstr "Quản lý người dùng bị bỏ qua"
+
+#: src/settings/NeoChatSecurityPage.qml:43
+#, kde-format
+msgctxt "@title:window"
+msgid "Ignored Users"
+msgstr "Người dùng bị bỏ qua"
+
+#: src/settings/NeoChatSettingsView.qml:22
+#: src/settings/RoomGeneralPage.qml:22 src/settings/RoomSettingsView.qml:39
+#, kde-format
+msgid "General"
+msgstr "chung"
+
+#: src/settings/NeoChatSettingsView.qml:33
+#, kde-format
+msgid "Appearance"
+msgstr "diện mạo"
+
+#: src/settings/NeoChatSettingsView.qml:39
+#: src/settings/RoomSettingsView.qml:73
+#, kde-format
+msgid "Notifications"
+msgstr "Thông báo"
+
+#: src/settings/NeoChatSettingsView.qml:50
+#: src/settings/RoomSecurityPage.qml:20 src/settings/RoomSettingsView.qml:51
+#, kde-format
+msgid "Security"
+msgstr "an ninh"
+
+#: src/settings/NeoChatSettingsView.qml:67
+#, kde-format
+msgid "Stickers & Emojis"
+msgstr "Sticker và Emoji"
+
+#: src/settings/NeoChatSettingsView.qml:79
+#: src/settings/NetworkProxyPage.qml:21
+#, kde-format
+msgid "Network Proxy"
+msgstr "Uỷ nhiệm mạng"
+
+#: src/settings/NeoChatSettingsView.qml:96
+#, kde-format
+msgid "About NeoChat"
+msgstr "Về NeoChat"
+
+#: src/settings/NeoChatSettingsView.qml:99
+#: src/settings/NeoChatSettingsView.qml:106
+#, kde-format
+msgctxt "@title:group"
+msgid "About"
+msgstr "Thông tin"
+
+#: src/settings/NeoChatSettingsView.qml:103
+#, kde-format
+msgid "About KDE"
+msgstr "Về KDE"
+
+#: src/settings/NetworkProxyPage.qml:15
+#, kde-format
+msgctxt "@title:window"
+msgid "Proxy"
+msgstr "Uỷ nhiệm"
+
+#: src/settings/NetworkProxyPage.qml:25
+#, kde-format
+msgid "System Default"
+msgstr "Mặc định hệ thống"
+
+#: src/settings/NetworkProxyPage.qml:33
+#, kde-format
+msgid "No Proxy"
+msgstr "Không có uỷ nhiệm"
+
+#: src/settings/NetworkProxyPage.qml:41
+#, kde-format
+msgid "HTTP"
+msgstr "HTTP"
+
+#: src/settings/NetworkProxyPage.qml:49
+#, kde-format
+msgid "Socks5"
+msgstr "Socks5"
+
+#: src/settings/NetworkProxyPage.qml:59
+#, kde-format
+msgid "Proxy Settings"
+msgstr "Thiết lập uỷ nhiệm"
+
+#: src/settings/NetworkProxyPage.qml:64
+#, kde-format
+msgid "Host"
+msgstr "Máy chủ"
+
+#: src/settings/NetworkProxyPage.qml:73
+#, kde-format
+msgid "Port"
+msgstr "Cổng"
+
+#: src/settings/NetworkProxyPage.qml:86
+#, kde-format
+msgid "User"
+msgstr "Người dùng"
+
+#: src/settings/NetworkProxyPage.qml:113
+#, kde-format
+msgid "Apply"
+msgstr "Áp dụng"
+
+#: src/settings/NotificationRuleItem.qml:70
+#, kde-format
+msgid "Disable notifications"
+msgstr "Tắt thông báo"
+
+#: src/settings/NotificationRuleItem.qml:70
+#, kde-format
+msgid "Enable notifications"
+msgstr "Bật thông báo"
+
+#: src/settings/NotificationRuleItem.qml:92
+#, kde-format
+msgid "Mute notifications"
+msgstr "Tắt thông báo"
+
+#: src/settings/NotificationRuleItem.qml:92
+#, kde-format
+msgid "Unmute notifications"
+msgstr "Bỏ tắt tiếng thông báo"
+
+#: src/settings/NotificationRuleItem.qml:113
+#, kde-format
+msgctxt ""
+"As in clicking this button will switch off highlights for messages that "
+"match this rule"
+msgid "Disable message highlights"
+msgstr "Tắt đánh dấu thông điệp"
+
+#: src/settings/NotificationRuleItem.qml:113
+#, kde-format
+msgctxt ""
+"As in clicking this button will switch on highlights for messages that match "
+"this rule"
+msgid "Enable message highlights"
+msgstr "Bật tô sáng thông điệp"
+
+#: src/settings/NotificationRuleItem.qml:135
+#, kde-format
+msgid "Delete keyword"
+msgstr "Xóa từ khóa"
+
+#: src/settings/PasswordSheet.qml:16
+#, kde-format
+msgctxt "@title:dialog"
+msgid "Enter password"
+msgstr "Nhập mật khẩu"
+
+#: src/settings/PasswordSheet.qml:30
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Password:"
+msgstr "Mật khẩu:"
+
+#: src/settings/Permissions.qml:37
+#, kde-format
+msgid "Privileged Users"
+msgstr "Người dùng có đặc quyền"
+
+#: src/settings/Permissions.qml:238
+#, kde-format
+msgid "Default permissions"
+msgstr "Quyền mặc định"
+
+#: src/settings/Permissions.qml:278
+#, kde-format
+msgid "Basic permissions"
+msgstr "Quyền cơ bản"
+
+#: src/settings/Permissions.qml:318
+#, kde-format
+msgid "Event permissions"
+msgstr "Quyền truy cập sự kiện"
+
+#: src/settings/Permissions.qml:365
+#, kde-format
+msgid "Event Type…"
+msgstr "Loại sự kiện..."
+
+#: src/settings/PushNotification.qml:26
+#, kde-format
+msgid "Room notifications setting"
+msgstr "Thiết lập thông báo phòng"
+
+#: src/settings/PushNotification.qml:31
+#, kde-format
+msgid "Follow global setting"
+msgstr "Theo thiết lập toàn cục"
+
+#: src/settings/RoomGeneralPage.qml:25
+#, kde-format
+msgid "Room Information"
+msgstr "Thông tin phòng"
+
+#: src/settings/RoomGeneralPage.qml:47
+#, kde-format
+msgid "Update avatar"
+msgstr "Cập nhật hiện thân ảo"
+
+#: src/settings/RoomGeneralPage.qml:70
+#, kde-format
+msgid "Room name:"
+msgstr "Tên phòng:"
+
+#: src/settings/RoomGeneralPage.qml:80
+#, kde-format
+msgid "Room topic:"
+msgstr "Chủ đề phòng:"
+
+#: src/settings/RoomGeneralPage.qml:119
+#, kde-format
+msgid "Room ID"
+msgstr "Mã định danh"
+
+#: src/settings/RoomGeneralPage.qml:124
+#, kde-format
+msgid "Copy room ID to clipboard"
+msgstr "Sao chép mã định danh phòng vào bảng nháp"
+
+#: src/settings/RoomGeneralPage.qml:138
+#, kde-format
+msgid "Room version"
+msgstr "Phiên bản phòng"
+
+#: src/settings/RoomGeneralPage.qml:144
+#, kde-format
+msgid "Upgrade Room"
+msgstr "Nâng cấp phòng"
+
+#: src/settings/RoomGeneralPage.qml:163
+#, kde-format
+msgid "Aliases"
+msgstr "Bí danh"
+
+#: src/settings/RoomGeneralPage.qml:168
+#, kde-format
+msgid "No canonical alias set"
+msgstr "Không có biệt danh chính thức được đặt"
+
+#: src/settings/RoomGeneralPage.qml:183
+#, kde-format
+msgid "Make this alias the room's canonical alias"
+msgstr "Đặt biệt danh này làm biệt danh chính thức của phòng"
+
+#: src/settings/RoomGeneralPage.qml:198
+#, kde-format
+msgid "Delete alias"
+msgstr "Xóa biệt danh"
+
+#: src/settings/RoomGeneralPage.qml:222
+#, kde-format
+msgid "#new_alias:server.org"
+msgstr "#new_alias:server.org"
+
+#: src/settings/RoomGeneralPage.qml:239
+#, kde-format
+msgid "Add new alias"
+msgstr "Thêm biệt danh mới"
+
+#: src/settings/RoomGeneralPage.qml:259
+#, kde-format
+msgid "URL Previews"
+msgstr "Xem thử URL"
+
+#: src/settings/RoomGeneralPage.qml:263
+#, kde-format
+msgid "Enable URL previews by default for room members"
+msgstr "Bật xem thử URL mặc định cho thành viên phòng"
+
+#: src/settings/RoomGeneralPage.qml:271
+#, kde-format
+msgid "Enable URL previews"
+msgstr "Bật xem thử URL"
+
+#: src/settings/RoomGeneralPage.qml:273
+#, kde-format
+msgid "URL previews are enabled by default in this room"
+msgstr "URL xem thử được bật mặc định trong phòng này"
+
+#: src/settings/RoomGeneralPage.qml:273
+#, kde-format
+msgid "URL previews are disabled by default in this room"
+msgstr "URL xem thử được tắt theo mặc định trong phòng này"
+
+#: src/settings/RoomGeneralPage.qml:281
+#, kde-format
+msgid "Official Parent Spaces"
+msgstr "Không gian Cha Chính thức"
+
+#: src/settings/RoomGeneralPage.qml:314
+#, kde-format
+msgid "Canonical"
+msgstr "Chính thức"
+
+#: src/settings/RoomGeneralPage.qml:321
+#, kde-format
+msgid "Make canonical parent"
+msgstr "Tạo cha chính thức"
+
+#: src/settings/RoomGeneralPage.qml:333
+#, kde-format
+msgid "Remove parent"
+msgstr "Xoá cha mẹ"
+
+#: src/settings/RoomGeneralPage.qml:346
+#, kde-format
+msgid "This room has no official parent spaces."
+msgstr "Phòng này không có không gian cha chính thức."
+
+#: src/settings/RoomGeneralPage.qml:350
+#, kde-format
+msgctxt "@action:button"
+msgid "Add new official parent"
+msgstr "Thêm phụ huynh chính thức mới"
+
+#: src/settings/RoomGeneralPage.qml:365
+#, kde-format
+msgid "This room continues another conversation."
+msgstr "Phòng này tiếp tục một cuộc trò chuyện khác."
+
+#: src/settings/RoomGeneralPage.qml:369
+#, kde-format
+msgid "See older messages…"
+msgstr "Xem các tin nhắn cũ hơn..."
+
+#: src/settings/RoomGeneralPage.qml:379
+#, kde-format
+msgid "This room has been replaced."
+msgstr "Phòng này đã được thay thế."
+
+#: src/settings/RoomGeneralPage.qml:383
+#, kde-format
+msgid "See new room…"
+msgstr "Xem phòng mới..."
+
+#: src/settings/RoomGeneralPage.qml:406
+#, kde-format
+msgid "Upgrade the Room"
+msgstr "Nâng cấp Phòng"
+
+#: src/settings/RoomGeneralPage.qml:410
+#, kde-format
+msgid "Select new version"
+msgstr "Chọn phiên bản mới"
+
+#: src/settings/RoomSecurityPage.qml:18
+#, kde-format
+msgid ""
+"You need to upgrade this room to a newer version to enable this setting."
+msgstr "Bạn cần nâng cấp phòng này lên phiên bản mới hơn để kích hoạt cài đặt này."
+
+#: src/settings/RoomSecurityPage.qml:23
+#, kde-format
+msgctxt "@option:check"
+msgid "Encryption"
+msgstr "Mật mã hoá"
+
+#: src/settings/RoomSecurityPage.qml:28
+#, kde-format
+msgid "Enable encryption"
+msgstr "Bật mật mã hoá"
+
+#: src/settings/RoomSecurityPage.qml:29
+#, kde-format
+msgctxt "option:check"
+msgid "Once enabled, encryption cannot be disabled."
+msgstr "Một khi được kích hoạt, mật mã hoá không thể bị tắt."
+
+#: src/settings/RoomSecurityPage.qml:42
+#, kde-format
+msgctxt "@option:check"
+msgid "Access"
+msgstr "Truy cập"
+
+#: src/settings/RoomSecurityPage.qml:46
+#, kde-format
+msgctxt "@option:check"
+msgid "Private (invite only)"
+msgstr "Riêng tư (chỉ mời)"
+
+#: src/settings/RoomSecurityPage.qml:47
+#, kde-format
+msgid "Only invited people can join."
+msgstr "Chỉ những người được mời mới có thể tham gia."
+
+#: src/settings/RoomSecurityPage.qml:55
+#, kde-format
+msgctxt "@option:check"
+msgid "Space members"
+msgstr "Thành viên không gian"
+
+#: src/settings/RoomSecurityPage.qml:56
+#, kde-format
+msgid "Anyone in the selected spaces can find and join."
+msgstr "Bất kỳ ai trong các không gian đã chọn đều có thể tìm thấy và tham gia."
+
+#: src/settings/RoomSecurityPage.qml:65
+#, kde-format
+msgid "Select spaces"
+msgstr "Chọn không gian"
+
+#: src/settings/RoomSecurityPage.qml:83
+#, kde-format
+msgctxt "@option:check"
+msgid "Knock"
+msgstr "Gõ cửa"
+
+#: src/settings/RoomSecurityPage.qml:84
+#, kde-format
+msgid "People not in the room need to request an invite to join the room."
+msgstr "Những người không ở trong phòng cần phải yêu cầu lời mời để tham gia phòng."
+
+#: src/settings/RoomSecurityPage.qml:93
+#, kde-format
+msgctxt "@option:check"
+msgid "Public"
+msgstr "Công khai"
+
+#: src/settings/RoomSecurityPage.qml:94
+#, kde-format
+msgctxt "@option:check"
+msgid "Anyone can find and join."
+msgstr "Bất kỳ ai cũng có thể tìm thấy và tham gia."
+
+#: src/settings/RoomSecurityPage.qml:104
+#, kde-format
+msgctxt "@option:check"
+msgid "Message history visibility"
+msgstr "Khả kiến của lịch sử thông điệp"
+
+#: src/settings/RoomSecurityPage.qml:108
+#, kde-format
+msgctxt "@option:check"
+msgid "Anyone"
+msgstr "Bất kỳ ai"
+
+#: src/settings/RoomSecurityPage.qml:109
+#, kde-format
+msgctxt "@option:check"
+msgid "Anyone, regardless of whether they have joined, can view history."
+msgstr "Bất kỳ ai, bất kể họ đã tham gia hay chưa, đều có thể xem lịch sử."
+
+#: src/settings/RoomSecurityPage.qml:117
+#, kde-format
+msgctxt "@option:check"
+msgid "Members only"
+msgstr "Chỉ dành cho thành viên"
+
+#: src/settings/RoomSecurityPage.qml:118
+#, kde-format
+msgctxt "@option:check"
+msgid ""
+"All members can view the entire message history, even before they joined."
+msgstr ""
+"Tất cả thành viên có thể xem toàn bộ lịch sử thông điệp, ngay cả trước khi "
+"họ tham gia."
+
+#: src/settings/RoomSecurityPage.qml:126
+#, kde-format
+msgctxt "@option:check"
+msgid "Members only (since invite)"
+msgstr "Chỉ thành viên (kể từ lời mời)"
+
+#: src/settings/RoomSecurityPage.qml:127
+#, kde-format
+msgctxt "@option:check"
+msgid ""
+"New members can view the message history from the point they were invited to "
+"the room."
+msgstr ""
+"Thành viên mới có thể xem lịch sử thông điệp từ thời điểm họ được mời vào "
+"phòng."
+
+#: src/settings/RoomSecurityPage.qml:135
+#, kde-format
+msgctxt "@option:check"
+msgid "Members only (since joining)"
+msgstr "Chỉ dành cho thành viên (kể từ khi tham gia)"
+
+#: src/settings/RoomSecurityPage.qml:136
+#, kde-format
+msgctxt "@option:check"
+msgid ""
+"New members can view the message history from the point they joined the room."
+msgstr ""
+"Thành viên mới có thể xem lịch sử thông điệp từ thời điểm họ tham gia "
+"phòng."
+
+#: src/settings/RoomSettingsView.qml:28
+#, kde-format
+msgctxt "@title:window"
+msgid "Space Settings"
+msgstr "Thiết lập Không gian"
+
+#: src/settings/RoomSettingsView.qml:30
+#, kde-format
+msgctxt "@title:window"
+msgid "Room Settings"
+msgstr "Thiết lập phòng"
+
+#: src/settings/RoomSettingsView.qml:62
+#, kde-format
+msgid "Permissions"
+msgstr "Quyền"
+
+#: src/settings/ThreePIdCard.qml:55
+#, kde-format
+msgctxt "@action:button"
+msgid "Hide"
+msgstr "Ẩn"
+
+#: src/settings/ThreePIdCard.qml:61
+#, kde-format
+msgctxt "@action:button"
+msgid "Share"
+msgstr "Chia sẻ"
+
+#: src/settings/ThreePIdCard.qml:66
+#, kde-format
+msgctxt "@action:button"
+msgid "Remove"
+msgstr "Xoá"
+
+#: src/settings/ThreePIdCard.qml:85
+#, kde-format
+msgctxt "@action:button"
+msgid "Complete"
+msgstr "Hoàn tất"
+
+#: src/settings/ThreePIdCard.qml:90
+#, kde-format
+msgctxt "@action:button"
+msgid "Cancel"
+msgstr "Huỷ"
+
+#: src/settings/ThreePIdCard.qml:130
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Country Code for new phone number"
+msgstr "Mã quốc gia cho số điện thoại mới"
+
+#: src/settings/ThreePIdCard.qml:146
+#, kde-format
+msgctxt "@label:textbox"
+msgid "New email address"
+msgstr "Địa chỉ email mới"
+
+#: src/settings/ThreePIdCard.qml:146
+#, kde-format
+msgctxt "@label:textbox"
+msgid "New phone number"
+msgstr "Số điện thoại mới"
+
+#: src/settings/ThreePIdCard.qml:150 src/threepidbindhelper.cpp:177
+#, kde-format
+msgid "We've sent you an email"
+msgstr "Chúng tôi đã gửi cho bạn một email"
+
+#: src/settings/ThreePIdCard.qml:150 src/threepidbindhelper.cpp:177
+#, kde-format
+msgid "We've sent you a text message"
+msgstr "Chúng tôi đã gửi cho bạn một tin nhắn văn bản"
+
+#: src/settings/ThreePIdCard.qml:150
+#, kde-format
+msgid ""
+"%1. Please follow the instructions there and then click the button below"
+msgstr "%1. Vui lòng làm theo hướng dẫn ở đó và sau đó bấm nút bên dưới"
+
+#: src/settings/ThreePIdCard.qml:152 src/threepidbindhelper.cpp:179
+#, kde-format
+msgid "The entered email is not valid"
+msgstr "Địa chỉ email đã nhập không hợp lệ"
+
+#: src/settings/ThreePIdCard.qml:152 src/threepidbindhelper.cpp:179
+#, kde-format
+msgid "The entered phone number is not valid"
+msgstr "Số điện thoại đã nhập không hợp lệ"
+
+#: src/settings/ThreePIdCard.qml:154
+#, kde-format
+msgid "Incorrect password entered"
+msgstr "Mật khẩu không chính xác"
+
+#: src/settings/ThreePIdCard.qml:156
+#, kde-format
+msgid ""
+"The email has not been verified. Please go to the email and follow the "
+"instructions there and then click the button below"
+msgstr ""
+"Địa chỉ email chưa được xác minh. Vui lòng truy cập vào thư điện tử và làm "
+"theo hướng dẫn, sau đó bấm vào nút bên dưới"
+
+#: src/settings/ThreePIdCard.qml:156
+#, kde-format
+msgid ""
+"The phone number has not been verified. Please go to the text message and "
+"follow the instructions there and then click the button below"
+msgstr ""
+"Số điện thoại chưa được xác minh. Vui lòng đi đến thông điệp văn bản và làm "
+"theo hướng dẫn ở đó, sau đó bấm nút bên dưới"
+
+#: src/settings/ThreePIdCard.qml:181
+#, kde-format
+msgctxt "@action:button Add new email or phone number"
+msgid "Add"
+msgstr "Thêm"
+
+#: src/settings/ThreePIdCard.qml:189
+#, kde-format
+msgctxt "@action:button As in 'go back'"
+msgid "Back"
+msgstr "Quay lại"
+
+#: src/threepidbindhelper.cpp:176
+#, kde-format
+msgid ""
+"%1. Please follow the instructions there and then click the button above"
+msgstr "%1. Vui lòng làm theo hướng dẫn ở đó và sau đó bấm nút ở trên"
+
+#: src/threepidbindhelper.cpp:182
+#, kde-format
+msgid ""
+"The email has not been verified. Please go to the email and follow the "
+"instructions there and then click the button above"
+msgstr ""
+"Địa chỉ email chưa được xác minh. Vui lòng truy cập vào thư điện tử và làm "
+"theo hướng dẫn, sau đó bấm nút ở trên"
+
+#: src/threepidbindhelper.cpp:183
+#, kde-format
+msgid ""
+"The phone number has not been verified. Please go to the text message and "
+"follow the instructions there and then click the button above"
+msgstr ""
+"Số điện thoại chưa được xác minh. Vui lòng đi đến thông điệp văn bản và làm "
+"theo hướng dẫn ở đó, sau đó bấm nút ở trên"
+
+#: src/timeline/CodeComponent.qml:159
+#, kde-format
+msgid "Copy to clipboard"
+msgstr "Sao chép vào bảng nháp"
+
+#: src/timeline/CodeComponent.qml:171
+#, kde-format
+msgctxt "@action:button"
+msgid "Maximize"
+msgstr "Phóng to"
+
+#: src/timeline/EncryptedComponent.qml:21
+#, kde-format
+msgid ""
+"This message is encrypted and the sender has not shared the key with this "
+"device."
+msgstr ""
+"Thông điệp này đã được mật mã hoá và người gửi chưa chia sẻ khoá với thiết "
+"bị này."
+
+#: src/timeline/FileComponent.qml:107 src/timeline/FileComponent.qml:190
+#, kde-format
+msgctxt ""
+"tooltip for a button on a message; offers ability to download its file"
+msgid "Download"
+msgstr "Tải về"
+
+#: src/timeline/FileComponent.qml:123 src/timeline/FileComponent.qml:180
+#, kde-format
+msgctxt ""
+"tooltip for a button on a message; offers ability to open its downloaded "
+"file with an appropriate application"
+msgid "Open File"
+msgstr "Mở Tệp"
+
+#: src/timeline/FileComponent.qml:138
+#, kde-format
+msgctxt "file download progress"
+msgid "%1 / %2"
+msgstr "%1 / %2"
+
+#: src/timeline/FileComponent.qml:143
+#, kde-format
+msgctxt ""
+"tooltip for a button on a message; stops downloading the message's file"
+msgid "Stop Download"
+msgstr "Dừng tải về"
+
+#: src/timeline/FlightReservationComponent.qml:73
+#, kde-format
+msgctxt "flight departure, %1 is airport, %2 is time"
+msgid "Departure from %1"
+msgstr "Khởi hành từ %1"
+
+#: src/timeline/FlightReservationComponent.qml:90
+#, kde-format
+msgctxt "flight arrival, %1 is airport, %2 is time"
+msgid "Arrival at %1"
+msgstr "Đến %1"
+
+#: src/timeline/HotelReservationComponent.qml:65
+#, kde-format
+msgid "Check-in time: %1"
+msgstr "Thời gian nhận phòng: %1"
+
+#: src/timeline/HotelReservationComponent.qml:69
+#, kde-format
+msgid "Check-out time: %1"
+msgstr "Thời gian trả phòng: %1"
+
+#: src/timeline/ItineraryComponent.qml:57
+#, kde-format
+msgctxt "@action"
+msgid "Send to KDE Itinerary"
+msgstr "Gửi đến KDE Itinerary"
+
+#: src/timeline/LinkPreviewComponent.qml:129
+#: src/timeline/LinkPreviewLoadComponent.qml:79
+#, kde-format
+msgctxt "As in remove the link preview so it's no longer shown"
+msgid "Remove preview"
+msgstr "Xoá xem thử"
+
+#: src/timeline/LinkPreviewComponent.qml:147
+#, kde-format
+msgid "Shrink preview"
+msgstr "Thu nhỏ xem thử"
+
+#: src/timeline/LinkPreviewComponent.qml:147
+#, kde-format
+msgid "Expand preview"
+msgstr "Mở rộng xem thử"
+
+#: src/timeline/LinkPreviewLoadComponent.qml:68
+#, kde-format
+msgid "Loading URL preview"
+msgstr "Đang tải xem thử URL"
+
+#: src/timeline/MessageComponentChooser.qml:220
+#, kde-format
+msgid "%1 started a user verification"
+msgstr "%1 đã bắt đầu một xác minh người dùng"
+
+#: src/timeline/MessageEditComponent.qml:103
+#, kde-format
+msgctxt "@action:button"
+msgid "Confirm edit"
+msgstr "Xác nhận sửa"
+
+#: src/timeline/MessageEditComponent.qml:115
+#, kde-format
+msgctxt "@action:button"
+msgid "Cancel edit"
+msgstr "Huỷ sửa"
+
+#: src/timeline/PollComponent.qml:73
+#, kde-format
+msgid "Based on votes by %1 user"
+msgid_plural "Based on votes by %1 users"
+msgstr[0] "Dựa trên phiếu bầu của %1 người dùng"
+
+#: src/timeline/PollComponent.qml:73
+#, kde-format
+msgctxt "as in 'this vote has ended'"
+msgid "(Ended)"
+msgstr "(Đã kết thúc)"
+
+#: src/timeline/ReadMarkerDelegate.qml:39
+#, kde-format
+msgctxt "Relative time since the room was last read"
+msgid "Last read: %1"
+msgstr "Lần đọc cuối: %1"
+
+#: src/timeline/TimelineEndDelegate.qml:89
+#, kde-format
+msgid ""
+"This is the beginning of the chat. There are no historical messages beyond "
+"this point."
+msgstr ""
+"Đây là bắt đầu của cuộc trò chuyện. Không có tin nhắn lịch sử nào ngoài "
+"điểm này."
+
+#: src/timeline/TrainReservationComponent.qml:124
+#: src/timeline/TrainReservationComponent.qml:191
+#, kde-format
+msgid "Pl. %1"
+msgstr "Pl. %1"
+
+#: src/timeline/VideoComponent.qml:171
+#, kde-format
+msgid "Video"
+msgstr "phim"
+
+#: src/timeline/VideoComponent.qml:235
+#, kde-format
+msgctxt "@action:button"
+msgid "Volume"
+msgstr "Âm lượng"
+
+#: src/timeline/VideoComponent.qml:319
+#, kde-format
+msgid "Maximize"
+msgstr "Phóng to"
+
+#: src/trayicon.cpp:19
+#, kde-format
+msgid "Show"
+msgstr "Hiện"
+
+#: src/trayicon.cpp:34
+#, kde-format
+msgid "Quit"
+msgstr "Thoát"

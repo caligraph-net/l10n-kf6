@@ -82,7 +82,7 @@ msgid "Configure"
 msgstr "Cấu hình"
 
 #: kpluginwidget.cpp:67
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Search..."
 msgid "Search…"
 msgstr "Tìm kiếm..."
@@ -96,7 +96,7 @@ msgstr "Thông tin"
 #, kde-format
 msgctxt "@action:button"
 msgid "Show Contextual Help"
-msgstr ""
+msgstr "Hiện Trợ Giúp Ngữ Cảnh"
 
 #: qml/components/PluginDelegate.qml:89
 #, kde-format
@@ -105,11 +105,11 @@ msgid "About"
 msgstr "Thông tin"
 
 #: qml/components/PluginDelegate.qml:104
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Configure"
 msgctxt "@info:tooltip"
 msgid "Configure…"
-msgstr "Cấu hình"
+msgstr "Cấu hình..."
 
 #: qml/components/PluginSelector.qml:84
 #, kde-format
@@ -158,15 +158,15 @@ msgid "Send an email to %1"
 msgstr "Gửi thư đến %1"
 
 #: qml/components/private/GridViewInternal.qml:77
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "No plugins found"
 msgid "No items found"
-msgstr "Không tìm thấy phần cài cắm nào"
+msgstr "Không tìm thấy mục nào"
 
 #: qml/kquickconfigmodule.cpp:121
 #, kde-format
 msgid "Could not find resource '%1'"
-msgstr ""
+msgstr "Không tìm thấy tài nguyên '%1'"
 
 #~ msgctxt "@info:tooltip"
 #~ msgid "Configure..."

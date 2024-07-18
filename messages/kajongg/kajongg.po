@@ -1,0 +1,2268 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kajongg package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kajongg\n"
+"Report-Msgid-Bugs-To: wolfgang@rohdewald.de\n"
+"POT-Creation-Date: 2024-05-01 00:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Preview"
+msgstr "xem thử"
+
+msgid "Properties"
+msgstr "Thuộc tính"
+
+msgid "Author:"
+msgstr "Tác giả:"
+
+msgid "Contact:"
+msgstr "Liên hệ:"
+
+msgid "Description:"
+msgstr "Mô tả:"
+
+msgctxt "kajongg"
+msgid "Game"
+msgstr "bàn chơi"
+
+msgid "View"
+msgstr "Xem"
+
+msgid "Toolbar"
+msgstr "thanh công cụ"
+
+#: src/background.py:71 src/tileset.py:50
+msgid "file <filename>%1</filename> contains no valid SVG"
+msgstr "tệp <filename>%1</filename> không chứa SVG hợp lệ"
+
+#: src/board.py:315
+msgctxt "kajongg:arrow keys hjkl like in konqueror"
+msgid "hjklHJKL"
+msgstr "hjklHJKL"
+
+#: src/board.py:365
+msgid "Choose from"
+msgstr "Chọn từ"
+
+#: src/chat.py:51
+msgid "Time"
+msgstr "Thời gian"
+
+#: src/chat.py:51 src/playerlist.py:86
+msgid "Player"
+msgstr "Người chơi"
+
+#: src/chat.py:51
+msgid "Message"
+msgstr "thông điệp"
+
+#: src/chat.py:124
+msgid "Chat on table %1 at %2"
+msgstr "Trò chuyện trên bàn %1 lúc %2"
+
+#: src/client.py:69
+msgctxt "table status"
+msgid "Suspended"
+msgstr "Tạm dừng"
+
+#: src/client.py:74
+msgctxt "table status"
+msgid "Running"
+msgstr "Đang chạy"
+
+#: src/client.py:75
+msgctxt "table status"
+msgid "New"
+msgstr "Mới"
+
+#: src/configdialog.py:47
+msgid "Show tile shadows"
+msgstr "Hiển thị bóng đổ của ô"
+
+#: src/configdialog.py:50
+msgid "Rearrange undisclosed tiles to melds"
+msgstr "Sắp xếp lại các ô chưa được tiết lộ để tạo thành các cặp"
+
+#: src/configdialog.py:53
+msgid "Show only possible actions"
+msgstr "Chỉ hiển thị các hành động có thể thực hiện"
+
+#: src/configdialog.py:56
+msgid "Propose what to do"
+msgstr "Đề xuất cách xử lý"
+
+#: src/configdialog.py:62
+msgid "Animation speed:"
+msgstr "Tốc độ hiệu ứng động:"
+
+#: src/configdialog.py:66
+msgid "Use sounds if available"
+msgstr "Sử dụng âm thanh nếu có sẵn"
+
+#: src/configdialog.py:69
+msgid "Let others hear my voice"
+msgstr "Để người khác nghe tiếng của tôi"
+
+#: src/configdialog.py:103
+msgctxt "kajongg"
+msgid "Play"
+msgstr "phát"
+
+#: src/configdialog.py:106
+msgid "Tiles"
+msgstr "Ô vuông"
+
+#: src/configdialog.py:109
+msgid "Backgrounds"
+msgstr "Hình nền"
+
+#: src/deferredutil.py:272 src/deferredutil.py:436
+msgid "The game server lost connection to player %1"
+msgstr "Máy chủ bàn chơi đã mất kết nối với người chơi %1"
+
+#: src/deferredutil.py:275
+msgid ""
+"Error for player %1: %2\n"
+"%3"
+msgstr "Lỗi cho người chơi %1: %2\n%3"
+
+#: src/differ.py:71
+msgctxt "Kajongg"
+msgid "Rule"
+msgstr "Quy tắc"
+
+#: src/differ.py:126
+msgctxt "@title:window"
+msgid "Compare"
+msgstr "So sánh"
+
+#: src/differ.py:169 src/differ.py:171
+msgctxt "Kajongg-Rule"
+msgid "not defined"
+msgstr "chưa được định nghĩa"
+
+#: src/game.py:558
+msgid "Score computed manually"
+msgstr "Điểm số được tính thủ công"
+
+#: src/game.py:655
+msgid "Player %1 not known"
+msgstr "Người chơi %1 không được biết đến"
+
+#: src/game.py:1082
+msgid "Short living wall: Tile is invisible, hence dangerous"
+msgstr "Tường sống ngắn: Ô vuông không hiển thị, do đó nguy hiểm"
+
+#: src/games.py:94 src/playerlist.py:63 src/tables.py:66
+msgid "Players"
+msgstr "Người chơi"
+
+#: src/games.py:94
+msgid "Started"
+msgstr "Đã bắt đầu"
+
+#: src/games.py:106
+msgctxt "@title:window"
+msgid "Games"
+msgstr "Trò chơi"
+
+#: src/games.py:123
+msgctxt "start a new game"
+msgid "&New"
+msgstr "Mớ&i"
+
+#: src/games.py:127
+msgid "&Load"
+msgstr "&Tải"
+
+#: src/games.py:131 src/playerlist.py:53
+msgid "&Delete"
+msgstr "&Xóa"
+
+#: src/games.py:135
+msgid "Show only pending games"
+msgstr "Chỉ hiển thị các trò chơi đang chờ"
+
+#: src/games.py:237
+msgid "Do you really want to delete <numid>%1</numid> games?<br>This will be final, you cannot cancel it with the cancel button"
+msgstr ""
+"Bạn có thực sự muốn xóa <numid>%1</numid> trò chơi không?<br>Điều này sẽ là "
+"cuối cùng, bạn không thể huỷ nó bằng nút huỷ"
+
+#: src/guiutil.py:146 src/kdestub.py:129 src/kdestub.py:132
+msgid "Kajongg"
+msgstr "Kajongg"
+
+#: src/humanclient.py:65
+msgid "Which chow do you want to expose?"
+msgstr "Bạn muốn hiển thị chow nào?"
+
+#: src/humanclient.py:103
+msgid "Which kong do you want to declare?"
+msgstr "Bạn muốn khai báo kong nào?"
+
+#: src/humanclient.py:170
+msgid "Choose"
+msgstr "Chọn"
+
+#: src/humanclient.py:380
+msgid "You cannot say %1"
+msgstr "Bạn không thể nói %1"
+
+#: src/humanclient.py:605
+msgid "Player %1 has left the table"
+msgstr "Người chơi %1 đã rời khỏi bàn"
+
+#: src/humanclient.py:668
+msgid "The game on table <numid>%1</numid> can begin. Are you ready to play now?"
+msgstr ""
+"Bàn chơi trên bàn <numid>%1</numid> có thể bắt đầu. Bạn đã sẵn sàng để phát "
+"chưa?"
+
+#: src/humanclient.py:688
+msgid "Ready for next hand?"
+msgstr "Sẵn sàng cho ván tiếp theo?"
+
+#: src/humanclient.py:962
+msgid "The connection to the server %1 broke, please try again later."
+msgstr "Kết nối với máy chủ %1 đã bị ngắt, vui lòng thử lại sau."
+
+#: src/kajongg.py:81 src/kdestub.py:1086
+msgid "Mah Jongg - the ancient Chinese board game for 4 players"
+msgstr "Mah Jongg - trò chơi cổ xưa của Trung Quốc dành cho 4 người chơi"
+
+#: src/kajongg.py:85
+msgid "all robots play with visible concealed tiles"
+msgstr "tất cả các robot phát với các ô bài ẩn và hiện"
+
+#: src/kajongg.py:86
+msgid "start with demo mode"
+msgstr "khởi động chế độ demo"
+
+#: src/kajongg.py:87
+msgid "login to HOST"
+msgstr "đăng nhập vào HOST"
+
+#: src/kajongg.py:88
+msgid "start new TABLE"
+msgstr "khởi động bảng mới"
+
+#: src/kajongg.py:89
+msgid "join TABLE"
+msgstr "tham gia TABLE"
+
+#: src/kajongg.py:90
+msgid "use RULESET without asking"
+msgstr "sử dụng RULESET mà không cần hỏi"
+
+#: src/kajongg.py:91
+msgid "prefer PLAYER for next login"
+msgstr "ưu tiên PLAYER cho lần đăng nhập tiếp theo"
+
+#: src/kajongg.py:92
+msgid "use AI variant for human player in demo mode"
+msgstr "sử dụng biến thể AI cho người chơi trong chế độ demo"
+
+#: src/kajongg.py:93
+msgid "write statistics to CSV"
+msgstr "ghi thống kê vào CSV"
+
+#: src/kajongg.py:94
+msgid "show all available rulesets"
+msgstr "hiển thị tất cả các bộ quy tắc hiện có"
+
+#: src/kajongg.py:95
+msgid "for testing purposes: Initializes the random generator"
+msgstr "Để mục đích kiểm tra: Khởi tạo bộ phát sinh ngẫu nhiên"
+
+#: src/kajongg.py:97
+msgid "show no graphical user interface. Intended only for testing"
+msgstr "không hiển thị giao diện người dùng đồ họa. Chỉ dành cho mục đích kiểm tra"
+
+#: src/kajongg.py:99
+msgid "use a dedicated server already running and listening on SOCKET. Intended only for testing"
+msgstr ""
+"sử dụng một máy chủ chuyên dụng đang chạy và lắng nghe trên SOCKET. Chỉ "
+"dành cho mục đích kiểm tra"
+
+#: src/kajongg.py:101
+msgid "use a dedicated server already running and listening on PORT. Intended only for testing"
+msgstr ""
+"sử dụng một máy chủ chuyên dụng đang chạy và lắng nghe trên PORT. Chỉ dành "
+"cho mục đích kiểm tra"
+
+#: src/kdestub.py:269
+msgid "&OK"
+msgstr "Đồn&g ý"
+
+#: src/kdestub.py:271
+msgid "&Apply"
+msgstr "Áp dụ&ng"
+
+#: src/kdestub.py:273
+msgid "&Cancel"
+msgstr "h&uỷ"
+
+#: src/kdestub.py:275 src/kdestub.py:460
+msgid "&Help"
+msgstr "trợ &giúp"
+
+#: src/kdestub.py:278
+msgid "&Defaults"
+msgstr "Mặc đị&nh"
+
+#: src/kdestub.py:343
+msgctxt "@action:inmenu"
+msgid "Show St&atusbar"
+msgstr "Hiện Th&anh Trạng Thái"
+
+#: src/kdestub.py:349
+msgctxt "@action:inmenu"
+msgid "Show &Toolbar"
+msgstr "Hiện &Thanh Công Cụ"
+
+#: src/kdestub.py:355
+msgid "Configure Tool&bars..."
+msgstr "Cấu hì&nh Thanh công cụ..."
+
+#: src/kdestub.py:357
+msgid "Configure toolbars"
+msgstr "Cấu hình thanh công cụ"
+
+#: src/kdestub.py:364
+msgid "Configure &Kajongg..."
+msgstr "Cấu hình &Kajongg..."
+
+#: src/kdestub.py:366 src/kdestub.py:1202
+msgid "Configure"
+msgstr "Cấu hình"
+
+#: src/kdestub.py:456
+msgid "&Game"
+msgstr "&Bàn chơi"
+
+#: src/kdestub.py:457
+msgid "&View"
+msgstr "X&em"
+
+#: src/kdestub.py:458
+msgid "&Settings"
+msgstr "t&hiết lập"
+
+#: src/kdestub.py:466
+msgctxt "@action:inmenu"
+msgid "&Help"
+msgstr "trợ g&iúp"
+
+#: src/kdestub.py:469 src/kdestub.py:848
+msgid "Switch Application Language"
+msgstr "Chuyển đổi ngôn ngữ ứng dụng"
+
+#: src/kdestub.py:473
+msgctxt "@action:inmenu"
+msgid "About &Kajongg"
+msgstr "Về &Kajongg"
+
+#: src/kdestub.py:853
+msgid "Please choose the language which should be used for this application:"
+msgstr "Vui lòng chọn ngôn ngữ sẽ được sử dụng cho ứng dụng này:"
+
+#: src/kdestub.py:872
+msgid "Add Fallback Language"
+msgstr "Thêm Ngôn Ngữ Thoái Lui"
+
+#: src/kdestub.py:884
+msgid "Primary language:"
+msgstr "Ngôn ngữ chính:"
+
+#: src/kdestub.py:884
+msgid "Fallback language:"
+msgstr "Ngôn ngữ thoái lui:"
+
+#: src/kdestub.py:890
+msgid "Remove"
+msgstr "Xoá"
+
+#: src/kdestub.py:894
+msgid "This is the main application language which will be used first, before any other languages."
+msgstr ""
+"Đây là ngôn ngữ chính của ứng dụng, sẽ được sử dụng trước tiên, trước khi "
+"sử dụng bất kỳ ngôn ngữ nào khác."
+
+#: src/kdestub.py:896
+msgid "This is the language which will be used if any previous languages do not contain a proper translation."
+msgstr ""
+"Đây là ngôn ngữ sẽ được sử dụng nếu bất kỳ ngôn ngữ trước đó không chứa bản "
+"dịch phù hợp."
+
+#: src/kdestub.py:1026
+msgid "About Kajongg"
+msgstr "Về Kajongg"
+
+#: src/kdestub.py:1049
+msgid "Version: %1"
+msgstr "Phiên bản: %1"
+
+#: src/kdestub.py:1050
+msgid "Protocol version %1"
+msgstr "Phiên bản giao thức %1"
+
+#: src/kdestub.py:1053
+msgid "Original author"
+msgstr "Tác giả gốc"
+
+#: src/kdestub.py:1060
+msgid "KDE Frameworks (not installed or not usable)"
+msgstr "Các Khuôn khổ KDE (chưa được cài đặt hoặc không thể sử dụng)"
+
+#: src/kdestub.py:1066
+msgctxt "kajongg"
+msgid "Using versions %1"
+msgstr "Đang sử dụng phiên bản %1"
+
+#: src/kdestub.py:1087
+msgid "This is the classical Mah Jongg for four players. If you are looking for Mah Jongg solitaire please use the application kmahjongg."
+msgstr ""
+"Đây là Mah Jongg cổ điển dành cho bốn người chơi. Nếu bạn đang tìm kiếm Mah "
+"Jongg solitaire, vui lòng sử dụng ứng dụng kmahjongg."
+
+#: src/kdestub.py:1104
+msgid "Please use <a href=\"https://bugs.kde.org\">https://bugs.kde.org</a> to report bugs."
+msgstr ""
+"Vui lòng sử dụng <a href=\"https://bugs.kde.org\">https://bugs.kde.org</a> "
+"để báo cáo lỗi."
+
+#: src/kdestub.py:1109
+msgid "Authors:"
+msgstr "Tác giả:"
+
+#: src/kdestub.py:1155
+msgid "License Agreement"
+msgstr "Thỏa thuận cấp phép"
+
+#: src/kdestub.py:1404
+msgid "Configure Toolbars"
+msgstr "Cấu hình thanh công cụ"
+
+#: src/kdestub.py:1406
+msgid "A&vailable actions:"
+msgstr "Các hà&nh động hiện có:"
+
+#: src/kdestub.py:1417
+msgid "Curr&ent actions:"
+msgstr "Các hành động h&iện tại:"
+
+#: src/login.py:177
+msgid "trying to start local server %1"
+msgstr "đang cố gắng khởi động máy chủ địa phương %1"
+
+#: src/login.py:188 src/login.py:636
+msgid "removed stale socket <filename>%1</filename>"
+msgstr "đã xóa ổ cắm cũ <filename>%1</filename>"
+
+#: src/login.py:208
+msgid "started the local kajongg server: pid=<numid>%1</numid> %2"
+msgstr "đã khởi động máy chủ kajongg cục bộ: pid=<numid>%1</numid> %2"
+
+#: src/login.py:251
+msgctxt "kajongg"
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: src/login.py:299 src/login.py:405
+msgid "Game server:"
+msgstr "Máy chủ bàn chơi:"
+
+#: src/login.py:302 src/login.py:407
+msgid "Username:"
+msgstr "Tên người dùng:"
+
+#: src/login.py:305 src/login.py:410
+msgid "Password:"
+msgstr "Mật khẩu:"
+
+#: src/login.py:307
+msgctxt "kajongg"
+msgid "Ruleset:"
+msgstr "Bộ luật:"
+
+#: src/login.py:399
+msgctxt "@title:window"
+msgid "Create User Account"
+msgstr "Tạo Tài Khoản Người Dùng"
+
+#: src/login.py:413
+msgid "Repeat password:"
+msgstr "Nhập lại mật khẩu:"
+
+#: src/login.py:564
+msgid "You are already connected to server %1"
+msgstr "Bạn đã được kết nối với máy chủ %1"
+
+#: src/login.py:604
+msgctxt "USER is not known on SERVER"
+msgid "%1 is not known on %2, do you want to open an account?"
+msgstr "%1 không được biết đến trên %2, bạn có muốn mở một tài khoản?"
+
+#: src/login.py:617
+msgid "Server %1 did not answer"
+msgstr "Máy chủ %1 không trả lời"
+
+#: src/login.py:619
+msgid "Server %1 refused connection"
+msgstr "Máy chủ %1 từ chối kết nối"
+
+#: src/login.py:621
+msgid "Server %1 does not run a kajongg server"
+msgstr "Máy chủ %1 không chạy máy chủ kajongg"
+
+#: src/login.py:623
+msgid "Address for server %1 cannot be found"
+msgstr "Không tìm thấy địa chỉ cho máy chủ %1"
+
+#: src/login.py:626
+msgid "Login to server %1 failed: You have no network connection"
+msgstr "Đăng nhập vào máy chủ %1 thất bại: Bạn không có kết nối mạng"
+
+#: src/login.py:637
+msgid "Please try again"
+msgstr "Vui lòng thử lại"
+
+#: src/mainwindow.py:511
+msgctxt "@action:inmenu"
+msgid "&Score Manual Game"
+msgstr "Điểm Bàn Chơi &Sổ Tay"
+
+#: src/mainwindow.py:513
+msgctxt "@action:intoolbar"
+msgid "Manual Game"
+msgstr "Bàn chơi sổ tay"
+
+#: src/mainwindow.py:516
+msgctxt "kajongg @info:tooltip"
+msgid "&Score a manual game."
+msgstr "Ghi điểm cho một vá&n chơi thủ công."
+
+#: src/mainwindow.py:518
+msgctxt "@action:intoolbar"
+msgid "&Play"
+msgstr "&Phát"
+
+#: src/mainwindow.py:521
+msgctxt "kajongg @info:tooltip"
+msgid "Start a new game."
+msgstr "Bắt đầu một trò chơi mới."
+
+#: src/mainwindow.py:523
+msgctxt "@action:inmenu"
+msgid "&Abort Game"
+msgstr "Huỷ bỏ bàn chơ&i"
+
+#: src/mainwindow.py:527
+msgctxt "kajongg @info:tooltip"
+msgid "Abort the current game."
+msgstr "Huỷ bỏ trò chơi hiện tại."
+
+#: src/mainwindow.py:529
+msgctxt "@action:inmenu"
+msgid "&Quit Kajongg"
+msgstr "Thoát Ka&jongg"
+
+#: src/mainwindow.py:532
+msgctxt "@action:intoolbar"
+msgid "&Players"
+msgstr "&Người chơi"
+
+#: src/mainwindow.py:535
+msgctxt "kajongg @info:tooltip"
+msgid "define your players."
+msgstr "xác định người chơi của bạn."
+
+#: src/mainwindow.py:537
+msgctxt "@action:intoolbar"
+msgid "&Rulesets"
+msgstr "Bộ qu&y tắc"
+
+#: src/mainwindow.py:540
+msgctxt "kajongg @info:tooltip"
+msgid "customize rulesets."
+msgstr "tự chọn bộ quy tắc."
+
+#: src/mainwindow.py:544
+msgctxt "@action:inmenu"
+msgid "&Change Visual Angle"
+msgstr "Thay đổi Góc T&rực Quan"
+
+#: src/mainwindow.py:545
+msgctxt "@action:intoolbar"
+msgid "Angle"
+msgstr "Góc"
+
+#: src/mainwindow.py:548
+msgctxt "kajongg @info:tooltip"
+msgid "Change the visual appearance of the tiles."
+msgstr "Thay đổi diện mạo trực quan của các quân bài."
+
+#: src/mainwindow.py:552
+msgctxt "@action:inmenu"
+msgid "F&ull Screen Mode"
+msgstr "C&hế độ toàn màn hình"
+
+#: src/mainwindow.py:555
+msgctxt "kajongg @action:inmenu"
+msgid "&Score Table"
+msgstr "Bản&g Điểm"
+
+#: src/mainwindow.py:557
+msgctxt "kajongg @action:intoolbar"
+msgid "&Scores"
+msgstr "Điể&m số"
+
+#: src/mainwindow.py:559
+msgctxt "kajongg @info:tooltip"
+msgid "Show or hide the score table for the current game."
+msgstr "Hiển thị hoặc ẩn bảng điểm cho trò chơi hiện tại."
+
+#: src/mainwindow.py:561
+msgctxt "@action:inmenu"
+msgid "&Explain Scores"
+msgstr "Giải &thích Điểm số"
+
+#: src/mainwindow.py:562
+msgctxt "@action:intoolbar"
+msgid "&Explain"
+msgstr "G&iải thích"
+
+#: src/mainwindow.py:564
+msgctxt "kajongg @info:tooltip"
+msgid "Explain the scoring for all players in the current game."
+msgstr "Giải thích điểm số cho tất cả người chơi trong trò chơi hiện tại."
+
+#: src/mainwindow.py:566
+msgctxt "@action:inmenu"
+msgid "&Demo Mode"
+msgstr "Chế độ de&mo"
+
+#: src/mainwindow.py:569
+msgctxt "kajongg @info:tooltip"
+msgid "Let the computer take over for you. Start a new local game if needed."
+msgstr "Để máy tính thay bạn. Khởi động một bàn chơi mới nếu cần."
+
+#: src/mainwindow.py:571
+msgid "C&hat"
+msgstr "Trò c&huyện"
+
+#: src/mainwindow.py:574
+msgctxt "kajongg @info:tooltip"
+msgid "Chat with the other players."
+msgstr "Trò chuyện với các người chơi khác."
+
+#: src/message.py:262
+msgid "saying %1 violates Original Call"
+msgstr "nói %1 vi phạm Gọi Gốc"
+
+#: src/message.py:275
+msgid "claiming %1 is dangerous because you will have to discard a dangerous tile"
+msgstr "tuyên bố %1 là nguy hiểm vì bạn sẽ phải loại bỏ một ô nguy hiểm"
+
+#: src/message.py:280
+msgid "claiming %1 for %2 is dangerous because you will have to discard a dangerous tile"
+msgstr "yêu cầu %1 cho %2 là nguy hiểm vì bạn sẽ phải loại bỏ một ô nguy hiểm"
+
+#: src/message.py:283
+msgid "You may say %1"
+msgstr "Bạn có thể nói %1"
+
+#: src/message.py:293
+msgctxt "kajongg"
+msgid "Pung"
+msgstr "Pung"
+
+#: src/message.py:294
+msgctxt "kajongg game dialog:Key for Pung"
+msgid "P"
+msgstr "P"
+
+#: src/message.py:313
+msgctxt "kajongg"
+msgid "Kong"
+msgstr "Kong"
+
+#: src/message.py:314
+msgctxt "kajongg game dialog:Key for Kong"
+msgid "K"
+msgstr "K"
+
+#: src/message.py:340
+msgid "saying Kong for %1 violates Original Call"
+msgstr "nói Kong cho %1 vi phạm Gọi ban đầu"
+
+#: src/message.py:344
+msgid "You may say Kong for %1"
+msgstr "Bạn có thể nói Kong cho %1"
+
+#: src/message.py:359
+msgctxt "kajongg"
+msgid "Chow"
+msgstr "Chow"
+
+#: src/message.py:360
+msgctxt "kajongg game dialog:Key for Chow"
+msgid "C"
+msgstr "C"
+
+#: src/message.py:394
+msgctxt "kajongg"
+msgid "Mah Jongg"
+msgstr "Mah Jongg"
+
+#: src/message.py:395
+msgctxt "kajongg game dialog:Key for Mah Jongg"
+msgid "M"
+msgstr "p"
+
+#: src/message.py:403
+msgid "Press here and you win"
+msgstr "Nhấn vào đây và bạn sẽ thắng"
+
+#: src/message.py:418
+msgctxt "kajongg"
+msgid "Original Call"
+msgstr "Gọi ban đầu"
+
+#: src/message.py:419
+msgctxt "kajongg game dialog:Key for Original Call"
+msgid "O"
+msgstr "O"
+
+#: src/message.py:435
+msgid "discarding %1 and declaring Original Call makes this hand unwinnable"
+msgstr "loại bỏ %1 và tuyên bố Cuộc gọi ban đầu khiến ván này không thể thắng"
+
+#: src/message.py:439
+msgid "Discard a tile, declaring Original Call meaning you need only one tile to complete the hand and will not alter the hand in any way (except bonus tiles)"
+msgstr ""
+"Loại bỏ một quân cờ, tuyên bố Gọi Nguyên Bản có nghĩa là bạn chỉ cần một "
+"quân cờ để hoàn tất bộ và sẽ không thay đổi bộ theo bất kỳ cách nào (ngoại "
+"trừ các quân cờ thưởng)"
+
+#: src/message.py:465
+msgctxt "kajongg"
+msgid "Discard"
+msgstr "Loại bỏ"
+
+#: src/message.py:466
+msgctxt "kajongg game dialog:Key for Discard"
+msgid "D"
+msgstr "D"
+
+#: src/message.py:483
+msgid "discarding %1 violates Original Call"
+msgstr "loại bỏ %1 vi phạm Gọi Gốc"
+
+#: src/message.py:486
+msgid "discarding %1 is Dangerous Game"
+msgstr "loại bỏ %1 là Trò Chơi Nguy Hiểm"
+
+#: src/message.py:489
+msgid "discard the least useful tile"
+msgstr "loại bỏ ô có ích ít nhất"
+
+#: src/message.py:569
+msgid "%1 is not ready to start the game"
+msgstr "%1 chưa sẵn sàng để khởi động bàn chơi"
+
+#: src/message.py:608
+msgid "Kajongg <numid>%1</numid>"
+msgstr "Kajongg <numid>%1</numid>"
+
+#: src/message.py:694
+msgctxt "kajongg"
+msgid "Violates Original Call"
+msgstr "Vi phạm Gọi Gốc"
+
+#: src/message.py:837
+msgctxt "kajongg"
+msgid "Dangerous Game"
+msgstr "Trò chơi nguy hiểm"
+
+#: src/message.py:852
+msgctxt "kajongg"
+msgid "No Choice"
+msgstr "Không có lựa chọn"
+
+#: src/message.py:915
+msgctxt "kajongg"
+msgid "OK"
+msgstr "OK"
+
+#: src/message.py:916
+msgctxt "kajongg game dialog:Key for OK"
+msgid "O"
+msgstr "O"
+
+#: src/message.py:920
+msgid "Confirm that you saw the message"
+msgstr "Xác nhận rằng bạn đã xem thông điệp"
+
+#: src/message.py:929
+msgctxt "kajongg"
+msgid "No Claim"
+msgstr "Không Tuyên Bố"
+
+#: src/message.py:930
+msgctxt "kajongg game dialog:Key for No claim"
+msgid "N"
+msgstr "N"
+
+#: src/message.py:934
+msgid "You cannot or do not want to claim this tile"
+msgstr "Bạn không thể hoặc không muốn chiếm lĩnh ô này"
+
+#: src/mjresource.py:88
+msgid "cannot find any %1 in the following directories, is libkmahjongg installed?"
+msgstr ""
+"không thể tìm thấy bất kỳ %1 trong các thư mục sau, liệu libkmahjongg có "
+"được cài đặt?"
+
+#: src/mjresource.py:112
+msgid "cannot find %1, using default"
+msgstr "không thể tìm thấy %1, sử dụng mặc định"
+
+#: src/mjresource.py:127
+msgid "unknown name"
+msgstr "không rõ"
+
+#: src/mjresource.py:128
+msgid "unknown author"
+msgstr "không rõ"
+
+#: src/mjresource.py:131
+msgid "no description available"
+msgstr "không có mô tả khả dụng"
+
+#: src/mjresource.py:134
+msgid "no E-Mail address available"
+msgstr "không có địa chỉ E-Mail hiện có"
+
+#: src/player.py:726
+msgid "%1 claiming MahJongg: She does not really have tile %2"
+msgstr "%1 tuyên bố MahJongg: Cô ấy thực sự không có quân bài %2"
+
+#: src/player.py:735
+msgid "%1 claiming MahJongg: She did not pass all concealed tiles to the server"
+msgstr ""
+"%1 đang tuyên bố MahJongg: Cô ấy đã không chuyển tất cả các quân bài ẩn đến "
+"máy chủ"
+
+#: src/player.py:856
+msgid "Player %1 has 3 or 4 exposed melds, all are green"
+msgstr "Người chơi %1 có 3 hoặc 4 lá bài lộ ra, tất cả đều là màu xanh lá cây"
+
+#: src/player.py:864
+msgid "Player %1 may try a True Color Game"
+msgstr "Người chơi %1 có thể thử một Bàn chơi True Color"
+
+#: src/player.py:867
+msgid "Player %1 may try an All Terminals Game"
+msgstr "Người chơi %1 có thể thử chơi Bàn Chơi Tất Cả Dòng Lệnh"
+
+#: src/player.py:880
+msgid "Player %1 exposed many winds"
+msgstr "Người chơi %1 đã phơi bày nhiều gió"
+
+#: src/player.py:884
+msgid "Player %1 exposed many dragons"
+msgstr "Người chơi %1 đã phơi bày nhiều rồng"
+
+#: src/playerlist.py:48
+msgctxt "define a new player"
+msgid "&New"
+msgstr "&Mới"
+
+#: src/playerlist.py:106
+msgid "Player %1 already exists"
+msgstr "Người chơi %1 đã tồn tại"
+
+#: src/playerlist.py:116
+msgid "Error while adding player %1: %2"
+msgstr "Lỗi khi thêm người chơi %1: %2"
+
+#: src/playerlist.py:171
+msgid "There are %1 finished and %2 unfinished games for %3, delete %3 anyway?  This will also delete all games played by %3!"
+msgstr ""
+"Có %1 trò chơi đã hoàn thành và %2 trò chơi chưa hoàn thành cho %3, bạn có "
+"muốn xóa %3 không? Điều này cũng sẽ xóa tất cả các trò chơi do %3 chơi!"
+
+#: src/predefined.py:29
+msgid "Classical Chinese standard"
+msgstr "Tiêu chuẩn Trung Quốc cổ điển"
+
+#: src/predefined.py:35
+msgid "Classical Chinese"
+msgstr "Tiếng Trung Cổ"
+
+#: src/predefined.py:41
+msgid "Last Tile Taken from Dead Wall"
+msgstr "Ô cuối cùng được lấy từ Tường Chết"
+
+#: src/predefined.py:43
+msgid "The dead wall is also called kong box: The last 16 tiles of the wall used as source of replacement tiles"
+msgstr ""
+"Bức tường chết cũng được gọi là hộp kong: 16 ô cuối cùng của bức tường được "
+"sử dụng làm nguồn thay thế các ô"
+
+#: src/predefined.py:46
+msgid "Last Tile is Last Tile of Wall"
+msgstr "Ô cuối cùng là ô cuối cùng của tường"
+
+#: src/predefined.py:48
+msgid "Winner said Mah Jong with the last tile taken from the living end of the wall"
+msgstr ""
+"Người chiến thắng nói Mah Jong với quân bài cuối cùng lấy từ cuối của bức "
+"tường"
+
+#: src/predefined.py:50
+msgid "Last Tile is Last Tile of Wall Discarded"
+msgstr "Ô cuối cùng là Ô cuối cùng của Tường đã Loại bỏ"
+
+#: src/predefined.py:52
+msgid "Winner said Mah Jong by claiming the last tile taken from the living end of the wall, discarded by another player"
+msgstr ""
+"Người chiến thắng đã nói Mah Jong bằng cách tuyên bố quân bài cuối cùng "
+"được lấy từ đầu của bức tường, được loại bỏ bởi một người chơi khác"
+
+#: src/predefined.py:55
+msgid "Robbing the Kong"
+msgstr "Cướp Kong"
+
+#: src/predefined.py:56
+msgid "Winner said Mah Jong by claiming the 4th tile of a kong another player just declared"
+msgstr ""
+"Người chiến thắng đã nói Mah Jong bằng cách tuyên bố quân bài thứ 4 của một "
+"kong mà người chơi khác vừa tuyên bố"
+
+#: src/predefined.py:59
+msgid "Mah Jongg with Original Call"
+msgstr "Mah Jongg với Gọi Gốc"
+
+#: src/predefined.py:62
+msgid "Just before the first discard, a player can declare Original Call meaning she needs only one tile to complete the hand and announces she will not alter the hand in any way (except bonus tiles)"
+msgstr ""
+"Ngay trước lần loại bỏ đầu tiên, một người chơi có thể khai báo Lời Gọi Ban "
+"Đầu, có nghĩa là cô ấy chỉ cần một quân bài để hoàn tất bộ và thông báo "
+"rằng cô ấy sẽ không thay đổi bộ bài theo bất kỳ cách nào (ngoại trừ các "
+"quân bài thưởng)"
+
+#: src/predefined.py:65
+msgid "Dangerous Game"
+msgstr "Trò Chơi Nguy Hiểm"
+
+#: src/predefined.py:66
+msgid "In some situations discarding a tile that has a high chance to help somebody to win is declared to be dangerous, and if that tile actually makes somebody win, the discarder pays the winner for all"
+msgstr ""
+"Trong một số tình huống, việc loại bỏ một quân cờ có khả năng cao giúp ai "
+"đó thắng được coi là nguy hiểm, và nếu quân cờ đó thực sự giúp người khác "
+"thắng, người loại bỏ sẽ phải trả tiền cho người thắng"
+
+#: src/predefined.py:70
+msgid "Twofold Fortune"
+msgstr "Vận may gấp đôi"
+
+#: src/predefined.py:71
+msgid "Kong after Kong: Declare Kong and a second Kong with the replacement tile and Mah Jong with the second replacement tile"
+msgstr ""
+"Kong sau Kong: Khai báo Kong và một Kong thứ hai với ô thay thế và Mah Jong "
+"với ô thay thế thứ hai"
+
+#: src/predefined.py:75
+msgid "Blessing of Heaven"
+msgstr "Phước lành của Thiên đường"
+
+#: src/predefined.py:76
+msgid "East says Mah Jong with the unmodified dealt tiles"
+msgstr "Phương Đông nói Mah Jong với các quân bài được phát ra chưa được sửa đổi"
+
+#: src/predefined.py:78
+msgid "Blessing of Earth"
+msgstr "Phước lành của Trái Đất"
+
+#: src/predefined.py:79
+msgid "South, West or North says Mah Jong with the first tile discarded by East"
+msgstr "Nam, Tây hoặc Bắc nói Mah Jong với quân bài đầu tiên bị loại bỏ bởi Đông"
+
+#: src/predefined.py:81
+msgid "East won nine times in a row"
+msgstr "Phương Đông đã thắng liên tiếp 9 lần"
+
+#: src/predefined.py:82
+msgid "If that happens, East gets a limit score and the winds rotate"
+msgstr "Nếu điều đó xảy ra, Đông nhận được điểm giới hạn và gió xoay"
+
+#: src/predefined.py:87
+msgid "False Naming of Discard, Claimed for Mah Jongg and False Declaration of Mah Jongg"
+msgstr ""
+"Đặt tên sai cho Loại bỏ, Tuyên bố sai cho Mah Jongg và Khai báo sai Mah "
+"Jongg"
+
+#: src/predefined.py:93
+msgid "Own Flower and Own Season"
+msgstr "Hoa và Mùa của Riêng"
+
+#: src/predefined.py:96
+msgid "All Flowers"
+msgstr "Tất cả các loài hoa"
+
+#: src/predefined.py:97
+msgid "All Seasons"
+msgstr "Tất cả các mùa"
+
+#: src/predefined.py:99
+msgid "Three Concealed Pongs"
+msgstr "Ba Pông Bí Mật"
+
+#: src/predefined.py:103
+msgid "Long Hand"
+msgstr "Viết đầy đủ"
+
+#: src/predefined.py:104
+msgid "The hand contains too many tiles"
+msgstr "Quân bài trong tay quá nhiều"
+
+#: src/predefined.py:109
+msgid "Points Needed for Mah Jongg"
+msgstr "Điểm cần thiết cho Mah Jongg"
+
+#: src/predefined.py:113
+msgid "Minimum number of doubles needed for Mah Jongg"
+msgstr "Số lượng nhỏ nhất các quân bài cặp cần thiết cho Mah Jongg"
+
+#: src/predefined.py:116
+msgid "Points for a Limit Hand"
+msgstr "Điểm cho Limit Hand"
+
+#: src/predefined.py:120
+msgid "Play with the roof off"
+msgstr "Phát với mái nhà mở"
+
+#: src/predefined.py:121
+msgid "Play with no upper scoring limit"
+msgstr "Phát với không có giới hạn điểm số trên"
+
+#: src/predefined.py:123
+msgid "Claim Timeout"
+msgstr "Hết giờ"
+
+#: src/predefined.py:127
+msgid "Size of Kong Box"
+msgstr "Kích thước của Kong Box"
+
+#: src/predefined.py:128
+msgid "The Kong Box is used for replacement tiles when declaring kongs"
+msgstr "Hộp Kong được sử dụng để thay thế các ô khi khai báo các kongs"
+
+#: src/predefined.py:130
+msgid "Play with Bonus Tiles"
+msgstr "Phát với Ô Thưởng"
+
+#: src/predefined.py:131
+msgid "Bonus tiles increase the luck factor"
+msgstr "Các ô thưởng làm tăng yếu tố may mắn"
+
+#: src/predefined.py:133
+msgid "Minimum number of rounds in game"
+msgstr "Số lượng vòng chơi tối thiểu"
+
+#: src/predefined.py:137
+msgid "number of allowed chows"
+msgstr "số lượng chows được phép"
+
+#: src/predefined.py:138
+msgid "The number of chows a player may build"
+msgstr "Số lượng chow mà một người chơi có thể xây"
+
+#: src/predefined.py:140
+msgid "must declare calling hand"
+msgstr "phải khai báo tay chơi"
+
+#: src/predefined.py:142
+msgid "Mah Jongg is only allowed after having declared to have a calling hand"
+msgstr "Mah Jongg chỉ được phép sau khi đã tuyên bố có một bộ bài gọi"
+
+#: src/predefined.py:144
+msgid "Standard Rotation"
+msgstr "Xoay tiêu chuẩn"
+
+#: src/predefined.py:147
+msgid "Discard tiles ordered"
+msgstr "Loại bỏ các ô đã được đặt hàng"
+
+#: src/predefined.py:149
+msgid "Discard tiles ordered from top left"
+msgstr "Loại bỏ các ô được sắp xếp từ trái sang phải"
+
+#: src/predefined.py:151
+msgid "Leave holes for claimed discards"
+msgstr "Để lại lỗ trống cho các lần loại bỏ được yêu cầu"
+
+#: src/predefined.py:154
+msgid "Only when discarding tiles ordered: Do not place the next discard where the claimed discard was"
+msgstr ""
+"Chỉ khi loại bỏ các ô đã được sắp xếp: Không đặt ô loại bỏ tiếp theo ở nơi "
+"mà ô loại bỏ đã được yêu cầu"
+
+#: src/predefined.py:163
+msgid "Last Tile Completes Pair of 2..8"
+msgstr "Ô cuối cùng hoàn thành cặp 2..8"
+
+#: src/predefined.py:167
+msgid "Last Tile Completes Pair of Terminals or Honors"
+msgstr "Ô cuối cùng hoàn thành cặp đầu cuối hoặc các lá bài danh dự"
+
+#: src/predefined.py:170
+msgid "Last Tile is Only Possible Tile"
+msgstr "Ô cuối cùng là ô duy nhất có thể"
+
+#: src/predefined.py:174
+msgid "Won with Last Tile Taken from Wall"
+msgstr "Thắng với Ô Cuối Cùng Lấy từ Tường"
+
+#: src/predefined.py:179
+msgid "Zero Point Hand"
+msgstr "Bàn tay Điểm Không"
+
+#: src/predefined.py:180
+msgid "The hand has 0 basis points excluding bonus tiles"
+msgstr "Bàn tay có 0 điểm cơ bản không tính các lá bài thưởng"
+
+#: src/predefined.py:181
+msgid "No Chow"
+msgstr "Không có Chow"
+
+#: src/predefined.py:183
+msgid "Only Concealed Melds"
+msgstr "Chỉ Các Lá Bài Che Khuất"
+
+#: src/predefined.py:187
+msgid "False Color Game"
+msgstr "Trò chơi Màu Giả"
+
+#: src/predefined.py:188
+msgid "Only same-colored tiles (only bamboo/stone/character) plus any number of winds and dragons"
+msgstr "Chỉ những ô cùng màu (chỉ tre/đá/chữ) cộng với bất kỳ số lượng gió và rồng"
+
+#: src/predefined.py:191
+msgid "True Color Game"
+msgstr "Trò chơi Màu Thật"
+
+#: src/predefined.py:192
+msgid "Only same-colored tiles (only bamboo/stone/character)"
+msgstr "Chỉ những ô cùng màu (chỉ tre/đá/chữ)"
+
+#: src/predefined.py:194
+msgid "Concealed True Color Game"
+msgstr "Bàn chơi Màu Thật Bí Ẩn"
+
+#: src/predefined.py:195
+msgid "All tiles concealed and of the same suit, no honors"
+msgstr "Tất cả các ô đều được che kín và cùng một lá bài, không có lá danh dự"
+
+#: src/predefined.py:197
+msgid "Only Terminals and Honors"
+msgstr "Chỉ Dòng lệnh và Danh hiệu"
+
+#: src/predefined.py:198
+msgid "Only winds, dragons, 1 and 9"
+msgstr "Chỉ gió, rồng, 1 và 9"
+
+#: src/predefined.py:199
+msgid "Only Honors"
+msgstr "Chỉ Danh hiệu"
+
+#: src/predefined.py:200
+msgid "Only winds and dragons"
+msgstr "Chỉ có gió và rồng"
+
+#: src/predefined.py:202
+msgid "Hidden Treasure"
+msgstr "Kho báu bí mật"
+
+#: src/predefined.py:203
+msgid "Only hidden Pungs or Kongs, last tile from wall"
+msgstr "Chỉ các Pungs hoặc Kongs ẩn, quân bài cuối cùng từ tường"
+
+#: src/predefined.py:205
+msgid "Heads and Tails"
+msgstr "Đầu và Đuôi"
+
+#: src/predefined.py:206
+msgid "Only 1 and 9"
+msgstr "Chỉ 1 và 9"
+
+#: src/predefined.py:208
+msgid "Fourfold Plenty"
+msgstr "Bốn lần Dồi dào"
+
+#: src/predefined.py:209
+msgid "4 Kongs"
+msgstr "4 Kongs"
+
+#: src/predefined.py:211 src/predefined.py:429
+msgid "Three Great Scholars"
+msgstr "Ba Học Giả Vĩ Đại"
+
+#: src/predefined.py:212 src/predefined.py:334
+msgid "3 Pungs or Kongs of dragons"
+msgstr "3 Pungs hoặc Kongs của rồng"
+
+#: src/predefined.py:213
+msgid "Four Blessings Hovering over the Door"
+msgstr "Bốn Phước Lành Trôi Lơ Lửng trên Cửa"
+
+#: src/predefined.py:215 src/predefined.py:339
+msgid "4 Pungs or Kongs of winds"
+msgstr "4 Pungs hoặc Kongs của gió"
+
+#: src/predefined.py:216
+msgid "Imperial Jade"
+msgstr "Ngọc Hoàng Gia"
+
+#: src/predefined.py:217
+msgid "Only green tiles: Green dragon and Bamboo 2,3,4,6,8"
+msgstr "Chỉ có các ô xanh lá cây: Rồng xanh và Tre 2,3,4,6,8"
+
+#: src/predefined.py:218
+msgid "Gathering the Plum Blossom from the Roof"
+msgstr "Thu hái Hoa Mận từ Mái nhà"
+
+#: src/predefined.py:220
+msgid "Mah Jong with stone 5 from the dead wall"
+msgstr "Mah Jong với đá 5 từ bức tường chết"
+
+#: src/predefined.py:222
+msgid "Plucking the Moon from the Bottom of the Sea"
+msgstr "Lấy Mặt Trăng từ Đáy Biển"
+
+#: src/predefined.py:223
+msgid "Mah Jong with the last tile from the wall being a stone 1"
+msgstr "Mah Jong với quân bài cuối cùng từ tường là một viên đá 1"
+
+#: src/predefined.py:225
+msgid "Scratching a Carrying Pole"
+msgstr "Cọ xát Cây Gánh"
+
+#: src/predefined.py:226
+msgid "Robbing the Kong of bamboo 2"
+msgstr "Cướp bông tre của Kong 2"
+
+#: src/predefined.py:232
+msgid "Standard Mah Jongg"
+msgstr "Mah Jongg tiêu chuẩn"
+
+#: src/predefined.py:237
+msgid "Nine Gates"
+msgstr "Chín Cổng"
+
+#: src/predefined.py:239
+msgid "A concealed hand in one color 1112345678999 plus last tile of this suit (from wall or discarded)"
+msgstr ""
+"Một bàn tay ẩn trong một màu sắc 1112345678999 cộng với quân bài cuối cùng "
+"của bộ này (từ tường hoặc đã loại bỏ)"
+
+#: src/predefined.py:241
+msgid "Thirteen Orphans"
+msgstr "Mười ba Mồ Côi"
+
+#: src/predefined.py:242
+msgid "13 single tiles: All dragons, winds, 1, 9 and a 14th tile building a pair with one of them"
+msgstr ""
+"13 lá bài đơn: Tất cả các con rồng, gió, 1, 9 và một lá bài thứ 14 tạo "
+"thành một cặp với một trong số chúng"
+
+#: src/predefined.py:246
+msgid "Pung/Kong of Dragons"
+msgstr "Pung/Kong của Rồng"
+
+#: src/predefined.py:248
+msgid "Pung/Kong of Own Wind"
+msgstr "Pung/Kong của Gió Riêng"
+
+#: src/predefined.py:251
+msgid "Pung/Kong of Round Wind"
+msgstr "Pung/Kong của Gió Tròn"
+
+#: src/predefined.py:255
+msgid "Exposed Kong"
+msgstr "Đã hiển thị Kong"
+
+#: src/predefined.py:258
+msgid "Exposed Kong of Terminals"
+msgstr "Hiển thị Kong của Dòng lệnh"
+
+#: src/predefined.py:261
+msgid "Exposed Kong of Honors"
+msgstr "Vương quốc Danh dự được phơi bày"
+
+#: src/predefined.py:264
+msgid "Exposed Pung"
+msgstr "Pung được phơi bày"
+
+#: src/predefined.py:267
+msgid "Exposed Pung of Terminals"
+msgstr "Các Dòng Lệnh Được Hiển Thị"
+
+#: src/predefined.py:270
+msgid "Exposed Pung of Honors"
+msgstr "Danh hiệu được công bố"
+
+#: src/predefined.py:274
+msgid "Concealed Kong"
+msgstr "Concealed Kong"
+
+#: src/predefined.py:277
+msgid "Concealed Kong of Terminals"
+msgstr "Vua Ẩn Của Dòng Lệnh"
+
+#: src/predefined.py:280
+msgid "Concealed Kong of Honors"
+msgstr "Vua Kong bí ẩn của Danh dự"
+
+#: src/predefined.py:283
+msgid "Concealed Pung"
+msgstr "Pung Bí Mật"
+
+#: src/predefined.py:286
+msgid "Concealed Pung of Terminals"
+msgstr "Pung Ẩn của Dòng Lệnh"
+
+#: src/predefined.py:289
+msgid "Concealed Pung of Honors"
+msgstr "Pung Ẩn của Danh Dự"
+
+#: src/predefined.py:292
+msgid "Pair of Own Wind"
+msgstr "Cặp Gió Riêng"
+
+#: src/predefined.py:294
+msgid "Pair of Round Wind"
+msgstr "Cặp Gió Tròn"
+
+#: src/predefined.py:296
+msgid "Pair of Dragons"
+msgstr "Cặp Rồng"
+
+#: src/predefined.py:300
+msgid "Flower"
+msgstr "Hoa"
+
+#: src/predefined.py:302
+msgid "Season"
+msgstr "Mùa"
+
+#: src/predefined.py:313
+msgid "Classical Chinese DMJL"
+msgstr "Tiếng Trung Cổ DMJL"
+
+#: src/predefined.py:319
+msgid "Classical Chinese as defined by the Deutsche Mah Jongg Liga (DMJL) e.V."
+msgstr ""
+"Tiếng Trung cổ điển như được định nghĩa bởi Deutsche Mah Jongg Liga (DMJL) "
+"e.V."
+
+#: src/predefined.py:326
+msgid "Squirming Snake"
+msgstr "Con rắn quằn quại"
+
+#: src/predefined.py:327
+msgid "All tiles of same color. Pung or Kong of 1 and 9, pair of 2, 5 or 8 and two Chows of the remaining values"
+msgstr ""
+"Tất cả các ô cùng màu. Pung hoặc Kong của 1 và 9, cặp của 2, 5 hoặc 8 và "
+"hai Chows của các giá trị còn lại"
+
+#: src/predefined.py:330
+msgid "Little Three Dragons"
+msgstr "Ba con rồng nhỏ"
+
+#: src/predefined.py:331
+msgid "2 Pungs or Kongs of dragons and 1 pair of dragons"
+msgstr "2 Pungs hoặc Kongs của rồng và 1 cặp rồng"
+
+#: src/predefined.py:333
+msgid "Big Three Dragons"
+msgstr "Ba Rồng Lớn"
+
+#: src/predefined.py:336
+msgid "Little Four Joys"
+msgstr "Bốn Niềm Vui Nhỏ"
+
+#: src/predefined.py:337
+msgid "3 Pungs or Kongs of winds and 1 pair of winds"
+msgstr "3 Pungs hoặc Kongs của gió và 1 cặp gió"
+
+#: src/predefined.py:338
+msgid "Big Four Joys"
+msgstr "Bốn Niềm Vui Lớn"
+
+#: src/predefined.py:344
+msgid "False Naming of Discard, Claimed for Chow"
+msgstr "Đặt tên sai cho Discard, Được Tuyên Bố cho Chow"
+
+#: src/predefined.py:347
+msgid "False Naming of Discard, Claimed for Pung/Kong"
+msgstr "Đặt tên sai cho Discard, Được Tuyên Bố cho Pung/Kong"
+
+#: src/predefined.py:350 src/predefined.py:443
+msgid "False Declaration of Mah Jongg by One Player"
+msgstr "Khai báo sai Mah Jongg bởi một người chơi"
+
+#: src/predefined.py:353
+msgid "False Declaration of Mah Jongg by Two Players"
+msgstr "Khai báo sai Mah Jongg bởi Hai Người Chơi"
+
+#: src/predefined.py:356
+msgid "False Declaration of Mah Jongg by Three Players"
+msgstr "Khai báo sai về Mah Jongg của ba người chơi"
+
+#: src/predefined.py:359 src/predefined.py:446
+msgid "False Naming of Discard, Claimed for Mah Jongg"
+msgstr "Đặt tên sai cho Discard, Được Tuyên Bố cho Mah Jongg"
+
+#: src/predefined.py:370
+msgid "Classical Chinese BMJA"
+msgstr "Tiếng Trung Cổ BMJA"
+
+#: src/predefined.py:376
+msgid "Classical Chinese as defined by the British Mah-Jong Association"
+msgstr "Tiếng Trung Cổ như được định nghĩa bởi Hiệp hội Mah-Jong Anh"
+
+#: src/predefined.py:391
+msgid "Original Call"
+msgstr "Gọi ban đầu"
+
+#: src/predefined.py:395
+msgid "Gates of Heaven"
+msgstr "Cổng Thiên Đường"
+
+#: src/predefined.py:396
+msgid "All tiles concealed of same color: Values 1112345678999 with one pair from 2 to 8 (last tile from wall or discarded)"
+msgstr ""
+"Tất cả các ô được che kín cùng một màu: Giá trị 1112345678999 với một cặp "
+"từ 2 đến 8 (ô cuối cùng từ tường hoặc đã bỏ)"
+
+#: src/predefined.py:399
+msgid "Wriggling Snake"
+msgstr "Rắn Uốn Lượn"
+
+#: src/predefined.py:400
+msgid "Pair of 1s and a run from 2 to 9 in the same suit with each of the winds"
+msgstr "Cặp 1 và một dãy từ 2 đến 9 trong cùng một bộ với mỗi gió"
+
+#: src/predefined.py:402
+msgid "Triple Knitting"
+msgstr "Ba sợi len"
+
+#: src/predefined.py:403
+msgid "Four sets of three tiles in the different suits and a pair: No Winds or Dragons"
+msgstr "Bốn bộ ba lá bài khác nhau và một cặp: Không có Gió hoặc Rồng"
+
+#: src/predefined.py:404
+msgid "Knitting"
+msgstr "Đan len"
+
+#: src/predefined.py:405
+msgid "7 pairs of tiles in any 2 out of 3 suits; no Winds or Dragons"
+msgstr "7 cặp quân trong bất kỳ 2 trong 3 bộ; không có Gió hoặc Rồng"
+
+#: src/predefined.py:407
+msgid "All pair honors"
+msgstr "Tất cả các cặp danh dự"
+
+#: src/predefined.py:408
+msgid "7 pairs of 1s/9s/Winds/Dragons"
+msgstr "7 cặp 1s/9s/Winds/Dragons"
+
+#: src/predefined.py:411
+msgid "Own Flower"
+msgstr "Hoa của tôi"
+
+#: src/predefined.py:412
+msgid "Own Season"
+msgstr "Mùa của riêng"
+
+#: src/predefined.py:424
+msgid "Buried Treasure"
+msgstr "Kho báu chôn giấu"
+
+#: src/predefined.py:425
+msgid "Concealed pungs of one suit with winds/dragons and a pair"
+msgstr "Các cặp bài che khuất của một bộ với gió/rồng và một cặp"
+
+#: src/predefined.py:426
+msgid "Purity"
+msgstr "Tinh khiết"
+
+#: src/predefined.py:427
+msgid "Only same-colored tiles (no chows, dragons or winds)"
+msgstr "Chỉ những ô cùng màu (không có chows, rồng hoặc gió)"
+
+#: src/predefined.py:430
+msgid "3 Pungs or Kongs of dragons plus any pung/kong and a pair"
+msgstr "3 Pungs hoặc Kongs của rồng cộng với bất kỳ pung/kong và một cặp"
+
+#: src/predefined.py:433
+msgid "The 13 Unique Wonders"
+msgstr "13 Kỳ quan Độc Nhất"
+
+#: src/predefined.py:440
+msgid "False Naming of Discard, Claimed for Chow/Pung/Kong"
+msgstr "Đặt tên sai Bỏ, Tuyên bố cho Chow/Pung/Kong"
+
+#: src/predefined.py:450
+msgid "Calling for Only Honors"
+msgstr "Gọi cho Chỉ Danh Hiệu"
+
+#: src/predefined.py:454
+msgid "Calling for Wriggling Snake"
+msgstr "Gọi Rắn Uốn Lượn"
+
+#: src/predefined.py:458
+msgid "Calling for Triple Knitting"
+msgstr "Gọi cho Đan Ba Sợi"
+
+#: src/predefined.py:462
+msgid "Calling for Gates of Heaven"
+msgstr "Gọi cổng của Thiên Đường"
+
+#: src/predefined.py:465
+msgid "Calling for Knitting"
+msgstr "Gọi để đan"
+
+#: src/predefined.py:469
+msgid "Calling for Imperial Jade"
+msgstr "Gọi Ngọc Bích Hoàng Gia"
+
+#: src/predefined.py:473
+msgid "Calling for The 13 Unique Wonders"
+msgstr "Gọi cho 13 Kỳ Quan Độc Nhất"
+
+#: src/predefined.py:476
+msgid "Calling for Three Great Scholars"
+msgstr "Gọi ba học giả vĩ đại"
+
+#: src/predefined.py:479
+msgid "Calling for All pair honors"
+msgstr "Gọi tất cả các danh hiệu đôi"
+
+#: src/predefined.py:483
+msgid "Calling for Heads and Tails"
+msgstr "Gọi Đầu và Đuôi"
+
+#: src/predefined.py:487
+msgid "Calling for Four Blessings Hovering over the Door"
+msgstr "Gọi Bốn Phước Lành Đang Treo Trên Cửa"
+
+#: src/predefined.py:490
+msgid "Calling for Buried Treasure"
+msgstr "Gọi Kho báu Chôn giấu"
+
+#: src/predefined.py:494
+msgid "Calling for Fourfold Plenty"
+msgstr "Gọi Bốn Sự Dư Dả"
+
+#: src/predefined.py:498
+msgid "Calling for Purity"
+msgstr "Kêu gọi Thanh khiết"
+
+#: src/query.py:196
+msgctxt "kajongg name for local game server"
+msgid "Local Game"
+msgstr "Bàn chơi"
+
+#: src/query.py:376
+msgid "Database %1 updated from schema %2 to %3"
+msgstr "Cơ sở dữ liệu %1 đã được cập nhật từ sơ đồ %2 lên %3"
+
+#: src/rule.py:49 src/scoringdialog.py:702 src/scoringdialog.py:780
+msgid "points"
+msgstr "điểm"
+
+#: src/rule.py:50
+msgctxt "kajongg"
+msgid "doubles"
+msgstr "gấp đôi"
+
+#: src/rule.py:51
+msgctxt "kajongg"
+msgid "limits"
+msgstr "giới hạn"
+
+#: src/rule.py:91
+msgctxt "Kajongg"
+msgid "%1 points"
+msgstr "%1 điểm"
+
+#: src/rule.py:93
+msgctxt "Kajongg"
+msgid "%1 doubles"
+msgstr "%1 gấp đôi"
+
+#: src/rule.py:98
+msgctxt "Kajongg"
+msgid "%1 limits"
+msgstr "%1 giới hạn"
+
+#: src/rule.py:365
+msgid "Meld Rules"
+msgstr "Quy tắc Meld"
+
+#: src/rule.py:366
+msgid "Meld rules are applied to single melds independent of the rest of the hand"
+msgstr ""
+"Các quy tắc Meld được áp dụng cho các meld đơn lẻ độc lập với phần còn lại "
+"của bộ bài"
+
+#: src/rule.py:367
+msgid "Hand Rules"
+msgstr "Quy tắc tay"
+
+#: src/rule.py:368
+msgid "Hand rules are applied to the entire hand, for all players"
+msgstr "Các quy tắc tay được áp dụng cho toàn bộ bàn tay, đối với tất cả người chơi"
+
+#: src/rule.py:369
+msgid "Winner Rules"
+msgstr "Quy tắc của người chiến thắng"
+
+#: src/rule.py:370
+msgid "Winner rules are applied to the entire hand but only for the winner"
+msgstr ""
+"Các quy tắc dành cho người chiến thắng được áp dụng cho toàn bộ lá bài "
+"nhưng chỉ đối với người chiến thắng"
+
+#: src/rule.py:371
+msgid "Loser Rules"
+msgstr "Quy tắc của người thua"
+
+#: src/rule.py:372
+msgid "Loser rules are applied to the entire hand but only for non-winners"
+msgstr ""
+"Các quy tắc thua lỗ được áp dụng cho toàn bộ bàn tay nhưng chỉ dành cho "
+"những người không thắng"
+
+#: src/rule.py:373
+msgid "Mah Jongg Rules"
+msgstr "Luật Mah Jongg"
+
+#: src/rule.py:374
+msgid "Only hands matching a Mah Jongg rule can win"
+msgstr "Chỉ những bộ bài phù hợp với quy tắc Mah Jongg mới có thể thắng"
+
+#: src/rule.py:375
+msgctxt "kajongg"
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: src/rule.py:376
+msgid "Here we have several special game related options"
+msgstr "Ở đây chúng ta có một số tùy chọn đặc biệt liên quan đến bàn chơi"
+
+#: src/rule.py:377
+msgid "Penalties"
+msgstr "Hình phạt"
+
+#: src/rule.py:378
+msgid ""
+"Penalties are applied manually by the user. They are only used for scoring games.\n"
+"When playing against the computer or over the net, Kajongg will never let you get\n"
+"into a situation where you have to pay a penalty"
+msgstr ""
+"Các hình phạt được áp dụng thủ công bởi người dùng. Chúng chỉ được sử dụng "
+"để chấm điểm các ván chơi.\nKhi chơi với máy tính hoặc qua mạng, Kajongg sẽ "
+"không bao giờ để bạn rơi vào tình huống phải trả hình phạt."
+
+#: src/rule.py:578
+msgctxt "Ruleset._newKey:%1 is empty or space plus number"
+msgid "Copy%1 of %2"
+msgstr "Sao chép %1 của %2"
+
+#: src/rule.py:934
+msgctxt "%1 can be a sentence"
+msgid "%4 have impossible values %2/%3 in rule \"%1\""
+msgstr "Quy tắc \"%1\" có các giá trị không thể có %2/%3"
+
+#: src/rule.py:1022
+msgctxt "wrong value for rule"
+msgid "%1: %2 is too small, minimal value is %3"
+msgstr "%1: %2 quá nhỏ, giá trị tối thiểu là %3"
+
+#: src/rulesetselector.py:500
+msgctxt "@title:window"
+msgid "Customize rulesets"
+msgstr "Tùy chỉnh bộ quy tắc"
+
+#: src/rulesetselector.py:519
+msgctxt "kajongg"
+msgid "Rule"
+msgstr "Quy tắc"
+
+#: src/rulesetselector.py:580
+msgid "C&opy"
+msgstr "Sa&o chép"
+
+#: src/rulesetselector.py:581
+msgctxt "Kajongg ruleset comparer"
+msgid "Co&mpare"
+msgstr "So &sánh"
+
+#: src/rulesetselector.py:582
+msgid "&Remove"
+msgstr "X&oá"
+
+#: src/rulesetselector.py:583
+msgid "&Close"
+msgstr "Đón&g"
+
+#: src/scene.py:396 src/scene.py:527
+msgid "Do you really want to abort this game?"
+msgstr "Bạn có thực sự muốn huỷ bỏ trò chơi này không?"
+
+#: src/scoring.py:60
+msgctxt "@title:window"
+msgid "Swap Seats"
+msgstr "Hoán Đổi Chỗ"
+
+#: src/scoring.py:62
+msgid "By the rules, %1 and %2 should now exchange their seats. "
+msgstr "Theo các quy tắc, %1 và %2 nên đổi chỗ ngồi của họ."
+
+#: src/scoring.py:64
+msgid "&Exchange"
+msgstr "Trao đổ&i"
+
+#: src/scoring.py:66
+msgid "&Keep seat"
+msgstr "Giữ g&hế"
+
+#: src/scoring.py:85
+msgctxt "@title:window"
+msgid "Select four players"
+msgstr "Chọn bốn người chơi"
+
+#: src/scoring.py:332
+msgid "Move Exposed Tiles Here"
+msgstr "Di chuyển các ô đã lộ ra đây"
+
+#: src/scoring.py:333
+msgid "Move Concealed Tiles Here"
+msgstr "Di chuyển các ô bài che kín đến đây"
+
+#: src/scoring.py:651
+msgid "Please define four players in <interface>Settings|Players</interface>"
+msgstr ""
+"Vui lòng xác định bốn người chơi trong <interface>Cài đặt|Người "
+"chơi</interface>"
+
+#: src/scoringdialog.py:242
+msgid "Round/Hand"
+msgstr "Vòng/Ván"
+
+#: src/scoringdialog.py:275 src/scoringdialog.py:832
+msgctxt "kajongg"
+msgid "Score"
+msgstr "Điểm số"
+
+#: src/scoringdialog.py:275
+msgctxt "kajongg"
+msgid "Payments"
+msgstr "Thanh toán"
+
+#: src/scoringdialog.py:276
+msgctxt "kajongg"
+msgid "Balance"
+msgstr "Số dư"
+
+#: src/scoringdialog.py:276
+msgctxt "kajongg"
+msgid "Chart"
+msgstr "Biểu đồ"
+
+#: src/scoringdialog.py:422
+msgctxt "kajongg"
+msgid "Scores"
+msgstr "Điểm số"
+
+#: src/scoringdialog.py:462
+msgctxt "kajongg"
+msgid "Used Rules"
+msgstr "Quy tắc đã sử dụng"
+
+#: src/scoringdialog.py:496
+msgid "Final scores for game <numid>%1</numid>"
+msgstr "Điểm số cuối cùng cho bàn chơi <numid>%1</numid>"
+
+#: src/scoringdialog.py:498
+msgid "Scores for game <numid>%1</numid>"
+msgstr "Điểm số cho bàn chơi <numid>%1</numid>"
+
+#: src/scoringdialog.py:571
+msgctxt "@title:window"
+msgid "Explain Scores"
+msgstr "Giải thích Điểm số"
+
+#: src/scoringdialog.py:587
+msgid "There is no active game"
+msgstr "Không có bàn chơi nào đang hoạt động"
+
+#: src/scoringdialog.py:590
+msgid "%1"
+msgstr "%1"
+
+#: src/scoringdialog.py:604
+msgid "Manual score for %1: %2 points"
+msgstr "Điểm số thủ công cho %1: %2 điểm"
+
+#: src/scoringdialog.py:688
+msgid "Penalty"
+msgstr "Phạt"
+
+#: src/scoringdialog.py:691
+msgid "Offense:"
+msgstr "Lỗi:"
+
+#: src/scoringdialog.py:698
+msgid "Total Penalty"
+msgstr "Tổng Phạt"
+
+#: src/scoringdialog.py:726
+msgid "&Execute"
+msgstr "&Thực thi"
+
+#: src/scoringdialog.py:803
+msgctxt "penalty dialog, appears behind paying player combobox"
+msgid "pays %1 points"
+msgstr "trả %1 điểm"
+
+#: src/scoringdialog.py:808
+msgctxt "penalty dialog, appears behind profiting player combobox"
+msgid "gets %1 points"
+msgstr "nhận được %1 điểm"
+
+#: src/scoringdialog.py:819
+msgctxt "@title:window"
+msgid "Scoring for this Hand"
+msgstr "Điểm số cho Ván này"
+
+#: src/scoringdialog.py:830
+msgctxt "kajongg"
+msgid "Player"
+msgstr "Người chơi"
+
+#: src/scoringdialog.py:831
+msgctxt "kajongg"
+msgid "Wind"
+msgstr "Gió"
+
+#: src/scoringdialog.py:833
+msgid "Winner"
+msgstr "Người chiến thắng"
+
+#: src/scoringdialog.py:839
+msgctxt "kajongg"
+msgid "Draw"
+msgstr "Vẽ"
+
+#: src/scoringdialog.py:841
+msgid "&Penalties"
+msgstr "Hình phạ&t"
+
+#: src/scoringdialog.py:843
+msgid "&Save Hand"
+msgstr "Lư&u bài"
+
+#: src/scoringdialog.py:865
+msgid "&Last Tile:"
+msgstr "Ô &cuối cùng:"
+
+#: src/scoringdialog.py:874
+msgid "L&ast Meld:"
+msgstr "Meld cuố&i cùng:"
+
+#: src/server.py:120
+msgid "Wrong password"
+msgstr "Sai mật khẩu"
+
+#: src/server.py:216
+msgid "table with id <numid>%1</numid> not found"
+msgstr "không tìm thấy bảng với mã định danh <numid>%1</numid>"
+
+#: src/server.py:364
+msgid "Player %1 has logged out"
+msgstr "Người chơi %1 đã đăng xuất"
+
+#: src/server.py:434
+msgid "the server will listen on PORT ({int(defaultPort)})"
+msgstr "máy chủ sẽ lắng nghe trên CỔNG ({int(defaultPort)})"
+
+#: src/server.py:437
+msgid "the server will listen on SOCKET"
+msgstr "máy chủ sẽ lắng nghe trên ổ cắm"
+
+#: src/server.py:441
+msgid "name of the database"
+msgstr "tên cơ sở dữ liệu"
+
+#: src/server.py:445
+msgid "do not terminate local game server after last client disconnects"
+msgstr ""
+"không kết thúc máy chủ bàn chơi địa phương sau khi trình khách cuối cùng "
+"ngắt kết nối"
+
+#: src/servertable.py:180
+msgid "You already joined this table"
+msgstr "Bạn đã tham gia bảng này rồi"
+
+#: src/servertable.py:182
+msgid "All seats are already taken"
+msgstr "Tất cả các chỗ ngồi đã được đặt"
+
+#: src/servertable.py:187
+msgid "takes a seat"
+msgstr "ngồi xuống"
+
+#: src/servertable.py:195
+msgid "leaves the table"
+msgstr "rời khỏi bàn"
+
+#: src/servertable.py:241
+msgctxt "kajongg, name of robot player, to be translated"
+msgid "Robot 1"
+msgstr "Robot 1"
+
+#: src/servertable.py:244
+msgctxt "kajongg, name of robot player, to be translated"
+msgid "Robot 2"
+msgstr "Robot 2"
+
+#: src/servertable.py:245
+msgctxt "kajongg, name of robot player, to be translated"
+msgid "Robot 3"
+msgstr "Robot 3"
+
+#: src/servertable.py:301
+msgid "Only the initiator %1 can start this game, you are %2"
+msgstr "Chỉ người khởi tạo %1 mới có thể khởi động trò chơi này, bạn là %2"
+
+#: src/servertable.py:700
+msgid "Game <numid>%1</numid> is over!"
+msgstr "Bàn chơi <numid>%1</numid> đã kết thúc!"
+
+#: src/servertable.py:729
+msgid "%1 wrongly said %2 for meld %3"
+msgstr "%1 đã nói sai %2 cho meld %3"
+
+#: src/servertable.py:734
+msgid "%1 wrongly said %2: claims to have concealed tiles %3 but only has %4"
+msgstr "%1 đã nói sai %2: tuyên bố đã che giấu các ô %3 nhưng chỉ có %4"
+
+#: src/servertable.py:771
+msgid "declareKong:%1 wrongly said Kong for meld %2"
+msgstr "declareKong:%1 đã nói sai Kong cho meld %2"
+
+#: src/servertable.py:820
+msgid "%1 claiming MahJongg: This is not a winning hand: %2"
+msgstr "%1 đang tuyên bố Mạt Chược: Đây không phải là bộ bài thắng: %2"
+
+#: src/sound.py:70
+msgid "No voices will be heard because the program %1 is missing"
+msgstr "Sẽ không có giọng nói nào được nghe vì chương trình %1 bị thiếu"
+
+#: src/sound.py:374
+msgid "cannot write <filename>%1</filename>: %2"
+msgstr "không thể ghi <filename>%1</filename>: %2"
+
+#: src/sound.py:377
+msgid "The voice files have changed, their checksum has changed."
+msgstr "Các tệp âm thanh đã thay đổi, giá trị tổng kiểm của chúng đã thay đổi."
+
+#: src/sound.py:378
+msgid "Please reinstall kajongg or do, with sufficient permissions:"
+msgstr "Vui lòng cài đặt lại kajongg hoặc thực hiện, với đủ quyền:"
+
+#: src/tables.py:64
+msgid "Table"
+msgstr "Bảng"
+
+#: src/tables.py:68
+msgctxt "table status"
+msgid "Status"
+msgstr "Trạng thái"
+
+#: src/tables.py:69
+msgid "Ruleset"
+msgstr "Bộ quy tắc"
+
+#: src/tables.py:148
+msgid "Select a ruleset"
+msgstr "Chọn một bộ quy tắc"
+
+#: src/tables.py:186
+msgctxt "allocate a new table"
+msgid "&New"
+msgstr "&Mới"
+
+#: src/tables.py:189 src/tables.py:316 src/tables.py:348
+msgid "Allocate a new table"
+msgstr "Cấp phát một bảng mới"
+
+#: src/tables.py:192 src/tables.py:317 src/tables.py:349
+msgid "&Join"
+msgstr "&Kết nối"
+
+#: src/tables.py:196 src/tables.py:318 src/tables.py:350
+msgid "Join a table"
+msgstr "Tham gia một bảng"
+
+#: src/tables.py:198
+msgid "&Leave"
+msgstr "Rời k&hỏi"
+
+#: src/tables.py:202
+msgid "Leave a table"
+msgstr "Rời khỏi bảng"
+
+#: src/tables.py:205
+msgctxt "Kajongg-Ruleset"
+msgid "Compare"
+msgstr "So sánh"
+
+#: src/tables.py:210
+msgid "Compare the rules of this table with my own rulesets"
+msgstr "So sánh các quy tắc của bảng này với các bộ quy tắc của riêng tôi"
+
+#: src/tables.py:212
+msgid "&Chat"
+msgstr "&Trò chuyện"
+
+#: src/tables.py:217
+msgid "&Start"
+msgstr "Khởi độn&g"
+
+#: src/tables.py:222
+msgid "Start playing on a table. Empty seats will be taken by robot players."
+msgstr ""
+"Bắt đầu chơi trên một bàn. Các ghế trống sẽ được lấp đầy bởi các người chơi "
+"robot."
+
+#: src/tables.py:267
+msgid "opens a chat window"
+msgstr "mở một cửa sổ trò chuyện"
+
+#: src/tables.py:286
+msgid "Local Games with Ruleset %1"
+msgstr "Trò chơi địa phương với Bộ luật %1"
+
+#: src/tables.py:290
+msgid "Tables at %1"
+msgstr "Bảng tại %1"
+
+#: src/tables.py:342
+msgid "Start a new game"
+msgstr "Khởi động một bàn chơi mới"
+
+#: src/tables.py:344
+msgctxt "resuming a local suspended game"
+msgid "&Resume"
+msgstr "Tiếp tụ&c trở lại"
+
+#: src/tables.py:346
+msgid "Resume the selected suspended game"
+msgstr "Tiếp tục trở lại bàn chơi đã chọn"
+
+#: src/tables.py:364
+msgid "Chat with others on this table"
+msgstr "Trò chuyện với những người khác trên bàn này"
+
+#: src/tables.py:367
+msgid "For chatting with others on this table, please first take a seat"
+msgstr ""
+"Để trò chuyện với những người khác tại bàn này, vui lòng trước tiên ngồi "
+"xuống"
+
+#: src/tile.py:276
+msgctxt "kajongg"
+msgid "hidden"
+msgstr "ẩn"
+
+#: src/tile.py:277
+msgctxt "kajongg"
+msgid "stone"
+msgstr "đá"
+
+#: src/tile.py:278
+msgctxt "kajongg"
+msgid "bamboo"
+msgstr "tre"
+
+#: src/tile.py:279
+msgctxt "kajongg"
+msgid "character"
+msgstr "chữ, kí tự"
+
+#: src/tile.py:280
+msgctxt "kajongg"
+msgid "wind"
+msgstr "gió"
+
+#: src/tile.py:281
+msgctxt "kajongg"
+msgid "dragon"
+msgstr "rồng"
+
+#: src/tile.py:282
+msgctxt "kajongg"
+msgid "flower"
+msgstr "hoa"
+
+#: src/tile.py:283
+msgctxt "kajongg"
+msgid "season"
+msgstr "mùa"
+
+#: src/tile.py:289
+msgctxt "kajongg"
+msgid "tile"
+msgstr "quân bài"
+
+#: src/tile.py:290
+msgctxt "kajongg"
+msgid "white"
+msgstr "trắng"
+
+#: src/tile.py:291
+msgctxt "kajongg"
+msgid "red"
+msgstr "đỏ"
+
+#: src/tile.py:292
+msgctxt "kajongg"
+msgid "green"
+msgstr "xanh lá cây"
+
+#: src/tile.py:293
+msgctxt "kajongg"
+msgid "East"
+msgstr "Đông"
+
+#: src/tile.py:294
+msgctxt "kajongg"
+msgid "South"
+msgstr "Nam"
+
+#: src/tile.py:295
+msgctxt "kajongg"
+msgid "West"
+msgstr "Tây"
+
+#: src/tile.py:296
+msgctxt "kajongg"
+msgid "North"
+msgstr "Bắc"
+
+#: src/tile.py:305
+msgid "East Wind"
+msgstr "Gió Đông"
+
+#: src/tile.py:306
+msgid "South Wind"
+msgstr "Gió Nam"
+
+#: src/tile.py:307
+msgid "West Wind"
+msgstr "Gió Tây"
+
+#: src/tile.py:308
+msgid "North Wind"
+msgstr "Gió Bắc"
+
+#: src/tile.py:310
+#, python-brace-format
+msgctxt "kajongg tile name"
+msgid "{group} {value}"
+msgstr "{group} {value}"
+
+#: src/tile.py:889
+msgctxt "kajongg meld type"
+msgid "Bonus"
+msgstr "Thưởng"
+
+#: src/tile.py:891
+msgctxt "kajongg meld type"
+msgid "&single"
+msgstr "đơ&n"
+
+#: src/tile.py:893
+msgctxt "kajongg meld type"
+msgid "&pair"
+msgstr "cặ&p"
+
+#: src/tile.py:895
+msgctxt "kajongg meld type"
+msgid "&chow"
+msgstr "&chow"
+
+#: src/tile.py:897
+msgctxt "kajongg meld type"
+msgid "p&ung"
+msgstr "bộ b&a"
+
+#: src/tile.py:899
+msgctxt "kajongg meld type"
+msgid "c&laimed kong"
+msgstr "đòi k&ong"
+
+#: src/tile.py:901
+msgctxt "kajongg meld type"
+msgid "k&ong"
+msgstr "k&ong"
+
+#: src/tile.py:902
+msgctxt "kajongg meld type"
+msgid "rest of tiles"
+msgstr "các lá còn lại"
+
+#: src/tile.py:909
+msgctxt "kajongg meld state"
+msgid "Exposed"
+msgstr "Lộ diện"
+
+#: src/tile.py:910
+msgctxt "kajongg meld state"
+msgid "Concealed"
+msgstr "Ẩn"
+
+#: src/tile.py:916
+#, python-brace-format
+msgctxt "kajongg meld name, do not translate parameter names"
+msgid "{state} {meldType} {name}"
+msgstr "{state} {meldType} {name}"
+
+#: src/user.py:94
+msgid "Your client has a version older than 4.9.0 but you need %1 for this server"
+msgstr ""
+"Máy khách của bạn có phiên bản cũ hơn 4.9.0 nhưng bạn cần %1 cho máy chủ "
+"này"
+
+#: src/user.py:98
+msgid "Your client has version %1 but you need %2 for this server"
+msgstr "Máy khách của bạn có phiên bản %1 nhưng bạn cần %2 cho máy chủ này"

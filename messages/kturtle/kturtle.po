@@ -1,0 +1,2179 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kturtle package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kturtle\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-12-06 01:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: canvas.cpp:195
+#, kde-format
+msgid "bold"
+msgstr "đậm"
+
+#: canvas.cpp:196
+#, kde-format
+msgid "italic"
+msgstr "nghiêng"
+
+#: canvas.cpp:197
+#, kde-format
+msgid "underline"
+msgstr "gạch chân"
+
+#: canvas.cpp:198
+#, kde-format
+msgid "overline"
+msgstr "gạch ngang trên"
+
+#: canvas.cpp:199
+#, kde-format
+msgid "strikeout"
+msgstr "gạch ngang"
+
+#: colorpicker.cpp:29
+#, kde-format
+msgctxt "@title:window"
+msgid "Color Picker"
+msgstr "Bộ chọn màu"
+
+#: colorpicker.cpp:48
+#, kde-format
+msgid "Amount red:"
+msgstr "Lượng đỏ:"
+
+#: colorpicker.cpp:62
+#, kde-format
+msgid "Amount green:"
+msgstr "Lượng xanh lá:"
+
+#: colorpicker.cpp:75
+#, kde-format
+msgid "Amount blue:"
+msgstr "Lượng xanh da trời:"
+
+#: colorpicker.cpp:105 directiondialog.cpp:283
+#, kde-format
+msgid "&Copy to clipboard"
+msgstr "Sao ché&p vào bảng nháp"
+
+#: colorpicker.cpp:110 directiondialog.cpp:287
+#, kde-format
+msgid "&Paste to editor"
+msgstr "Dá&n vào trình biên tập"
+
+#: console.cpp:33 console.cpp:60
+#, kde-format
+msgid "Write a command here and press enter..."
+msgstr "Nhập lệnh ở đây và nhấn enter..."
+
+#: console.cpp:34
+#, kde-format
+msgid ""
+"Console: quickly run single commands -- write a command here and press enter."
+msgstr "Console: chạy nhanh các lệnh đơn lẻ -- viết một lệnh ở đây và nhấn enter."
+
+#: console.cpp:36
+#, kde-format
+msgid "Console:"
+msgstr "Bảng điều khiển:"
+
+#: console.cpp:79
+#, kde-format
+msgid "<p style='white-space:pre'><b>ERROR:</b> %1</p>"
+msgstr "<p style='white-space:pre'><b>LỖI:</b> %1</p>"
+
+#: directiondialog.cpp:195
+#, kde-format
+msgctxt "@title:window"
+msgid "Direction Chooser"
+msgstr "Trình chọn hướng"
+
+#: directiondialog.cpp:226
+#, kde-format
+msgid "Command &type:"
+msgstr "Loạ&i lệnh:"
+
+#: directiondialog.cpp:241
+#, kde-format
+msgid "&Previous direction:"
+msgstr "Hướng t&rước:"
+
+#: directiondialog.cpp:258
+#, kde-format
+msgid "&New direction:"
+msgstr "Hướng &mới:"
+
+#: editor.cpp:146
+#, kde-format
+msgid "Open"
+msgstr "Mở"
+
+#: editor.cpp:148 editor.cpp:256
+#, kde-format
+msgid "Turtle code files"
+msgstr "Tệp mã Turtle"
+
+#: editor.cpp:148 editor.cpp:256 mainwindow.cpp:1014 mainwindow.cpp:1030
+#: mainwindow.cpp:1040
+#, kde-format
+msgid "All files"
+msgstr "Tất cả các tệp"
+
+#: editor.cpp:164
+#, kde-format
+msgid ""
+"The file you try to open is not a valid KTurtle script, or is incompatible "
+"with this version of KTurtle.\n"
+"Cannot open %1"
+msgstr ""
+"Tệp bạn đang cố mở không phải là một tập lệnh KTurtle hợp lệ, hoặc không "
+"tương thích với phiên bản KTurtle này.\nKhông thể mở %1"
+
+#: editor.cpp:231 editor.cpp:237
+#, kde-format
+msgid "Could not save file."
+msgstr "Không thể lưu tệp."
+
+#: editor.cpp:254
+#, kde-format
+msgid "Save As"
+msgstr "Lưu Thành"
+
+#: editor.cpp:267
+#, kde-format
+msgid ""
+"The program you are currently working on is not saved. By continuing you may "
+"lose the changes you have made."
+msgstr ""
+"Chương trình bạn đang làm việc hiện không được lưu. Bằng cách tiếp tục, bạn "
+"có thể mất những thay đổi bạn đã thực hiện."
+
+#: editor.cpp:269
+#, kde-format
+msgid "Unsaved File"
+msgstr "Tệp chưa lưu"
+
+#: editor.cpp:269
+#, kde-format
+msgid "&Discard Changes"
+msgstr "Loại Bỏ T&hay Đổi"
+
+#: errordialog.cpp:27
+#, kde-format
+msgctxt "@title:window"
+msgid "Errors"
+msgstr "Lỗi"
+
+#: errordialog.cpp:42
+#, kde-format
+msgid ""
+"In this list you find the error(s) that resulted from running your code.\n"
+"Good luck!"
+msgstr ""
+"Trong danh sách này, bạn sẽ tìm thấy lỗi(các lỗi) phát sinh từ việc chạy mã "
+"của bạn.\nChúc may mắn!"
+
+#: errordialog.cpp:59
+#, kde-format
+msgid "line"
+msgstr "dòng"
+
+#: errordialog.cpp:59
+#, kde-format
+msgid "description"
+msgstr "mô tả"
+
+#: errordialog.cpp:59
+#, kde-format
+msgid "code"
+msgstr "mã"
+
+#: errordialog.cpp:72
+#, kde-format
+msgid "Hide Errors"
+msgstr "Ẩn Lỗi"
+
+#: errordialog.cpp:89
+#, kde-format
+msgid "No errors occurred yet."
+msgstr "Chưa có lỗi nào xảy ra."
+
+#: inspector.cpp:37
+#, kde-format
+msgid "Variables"
+msgstr "Biến"
+
+#: inspector.cpp:44
+#, kde-format
+msgid "Functions"
+msgstr "Chức năng"
+
+#: inspector.cpp:51
+#, kde-format
+msgid "Tree"
+msgstr "Cây"
+
+#: inspector.cpp:95 inspector.cpp:113
+#, kde-format
+msgid "name"
+msgstr "tên"
+
+#: inspector.cpp:95
+#, kde-format
+msgid "value"
+msgstr "giá trị"
+
+#: inspector.cpp:95
+#, kde-format
+msgid "type"
+msgstr "kiểu"
+
+#: inspector.cpp:105
+#, kde-format
+msgid "No variables"
+msgstr "Không có biến"
+
+#: inspector.cpp:113
+#, kde-format
+msgid "parameters"
+msgstr "tham số"
+
+#: inspector.cpp:122
+#, kde-format
+msgid "No learned functions"
+msgstr "Không có chức năng được học"
+
+#: inspector.cpp:165
+#, kde-format
+msgctxt "undefined type of a variable"
+msgid "empty"
+msgstr "trống"
+
+#: inspector.cpp:172
+#, kde-format
+msgid "boolean"
+msgstr "luận lí"
+
+#: inspector.cpp:175
+#, kde-format
+msgid "number"
+msgstr "số"
+
+#: inspector.cpp:178
+#, kde-format
+msgid "string"
+msgstr "chuỗi"
+
+#: inspector.cpp:210
+#, kde-format
+msgid "None"
+msgstr "Không có"
+
+#: interpreter/executer.cpp:72
+#, kde-format
+msgid "Cannot return outside a function. "
+msgstr "Không thể trả về ngoài một hàm."
+
+#: interpreter/executer.cpp:262
+#, kde-format
+msgid "The %1 command accepts no parameters."
+msgstr "Lệnh %1 không chấp nhận tham số."
+
+#: interpreter/executer.cpp:272
+#, kde-format
+msgid "The %2 command was called with %3 but needs 1 parameter."
+msgid_plural "The %2 command was called with %3 but needs %1 parameters."
+msgstr[0] "Lệnh %2 được gọi với %3 nhưng cần %1 tham số."
+
+#: interpreter/executer.cpp:274
+#, kde-format
+msgid "The %2 command was called with %3 but only accepts 1 parameter."
+msgid_plural ""
+"The %2 command was called with %3 but only accepts %1 parameters."
+msgstr[0] "Lệnh %2 được gọi với %3 nhưng chỉ chấp nhận %1 tham số."
+
+#: interpreter/executer.cpp:292
+#, kde-format
+msgid "The %1 command only accepts a string as its parameter."
+msgstr "Lệnh %1 chỉ chấp nhận chuỗi làm tham số."
+
+#: interpreter/executer.cpp:294
+#, kde-format
+msgid "The %1 command only accepts strings as its parameters."
+msgstr "Lệnh %1 chỉ chấp nhận chuỗi ký tự làm tham số."
+
+#: interpreter/executer.cpp:299
+#, kde-format
+msgid "The %1 command only accepts a number as its parameter."
+msgstr "Lệnh %1 chỉ chấp nhận một số làm tham số."
+
+#: interpreter/executer.cpp:301
+#, kde-format
+msgid "The %1 command only accepts numbers as its parameters."
+msgstr "Lệnh %1 chỉ chấp nhận số làm tham số."
+
+#: interpreter/executer.cpp:306
+#, kde-format
+msgid "The %1 command only accepts an answer as its parameter."
+msgstr "Lệnh %1 chỉ chấp nhận một câu trả lời làm tham số."
+
+#: interpreter/executer.cpp:308
+#, kde-format
+msgid "The %1 command only accepts answers as its parameters."
+msgstr "Lệnh %1 chỉ chấp nhận các câu trả lời làm tham số."
+
+#: interpreter/executer.cpp:386
+#, kde-format
+msgid "The variable '%1' was used without first being assigned to a value"
+msgstr "Biến '%1' đã được sử dụng mà không được gán giá trị trước đó"
+
+#: interpreter/executer.cpp:405
+#, kde-format
+msgid "An unknown function named '%1' was called"
+msgstr "Một chức năng không rõ tên '%1' đã được gọi"
+
+#: interpreter/executer.cpp:420
+#, kde-format
+msgid "The function '%1' was called with %2, while it should be called with %3"
+msgstr "Chức năng '%1' đã được gọi với %2, trong khi nó nên được gọi với %3"
+
+#: interpreter/executer.cpp:422 interpreter/executer.cpp:423
+#, kde-format
+msgctxt ""
+"The function '%1' was called with %2, while it should be called with %3"
+msgid "1 parameter"
+msgid_plural "%1 parameters"
+msgstr[0] "%1 tham số"
+
+#: interpreter/executer.cpp:627
+#, kde-format
+msgid "ASSERT failed"
+msgstr "ASSERT thất bại"
+
+#: interpreter/executer.cpp:633
+#, kde-format
+msgid "'And' needs two variables"
+msgstr "'And' cần hai biến"
+
+#: interpreter/executer.cpp:642
+#, kde-format
+msgid "'Or' needs two variables"
+msgstr "Toán tử 'Or' cần hai biến"
+
+#: interpreter/executer.cpp:652
+#, kde-format
+msgid "I need something to do a not on"
+msgstr "Tôi cần một cái gì đó để thực hiện một phép NOT"
+
+#: interpreter/executer.cpp:660
+#, kde-format
+msgid "I cannot do a '==' without 2 variables"
+msgstr "Tôi không thể thực hiện '==' mà không có 2 biến"
+
+#: interpreter/executer.cpp:668
+#, kde-format
+msgid "I cannot do a '!=' without 2 variables"
+msgstr "Tôi không thể thực hiện '!=' mà không có 2 biến"
+
+#: interpreter/executer.cpp:676
+#, kde-format
+msgid "I cannot do a '>' without 2 variables"
+msgstr "Tôi không thể thực hiện '>' mà không có 2 biến"
+
+#: interpreter/executer.cpp:684
+#, kde-format
+msgid "I cannot do a '<' without 2 variables"
+msgstr "Tôi không thể thực hiện '<' mà không có 2 biến"
+
+#: interpreter/executer.cpp:692
+#, kde-format
+msgid "I cannot do a '>=' without 2 variables"
+msgstr "Tôi không thể thực hiện '>=' mà không có 2 biến"
+
+#: interpreter/executer.cpp:700
+#, kde-format
+msgid "I cannot do a '<=' without 2 variables"
+msgstr "Tôi không thể thực hiện '<=' mà không có 2 biến"
+
+#: interpreter/executer.cpp:708
+#, kde-format
+msgid "You need two numbers or string to do an addition"
+msgstr "Bạn cần hai số hoặc chuỗi để thực hiện phép cộng"
+
+#: interpreter/executer.cpp:720
+#, kde-format
+msgid "You need two numbers to subtract"
+msgstr "Bạn cần hai số để trừ"
+
+#: interpreter/executer.cpp:727
+#, kde-format
+msgid "You tried to subtract from a non-number, '%1'"
+msgstr "Bạn đã cố gắng trừ từ một giá trị không phải là số, '%1'"
+
+#: interpreter/executer.cpp:729
+#, kde-format
+msgid "You tried to subtract a non-number, '%1'"
+msgstr "Bạn đã cố gắng trừ một giá trị không phải là số, '%1'"
+
+#: interpreter/executer.cpp:735
+#, kde-format
+msgid "You need two numbers to multiplicate"
+msgstr "Bạn cần hai số để nhân"
+
+#: interpreter/executer.cpp:742
+#, kde-format
+msgid "You tried to multiplicate a non-number, '%1'"
+msgstr "Bạn đã cố gắng nhân một giá trị không phải là số, '%1'"
+
+#: interpreter/executer.cpp:744
+#, kde-format
+msgid "You tried to multiplicate by a non-number, '%1'"
+msgstr "Bạn đã cố nhân với một giá trị không phải là số, '%1'"
+
+#: interpreter/executer.cpp:750
+#, kde-format
+msgid "You need two numbers to divide"
+msgstr "Bạn cần hai số để chia"
+
+#: interpreter/executer.cpp:755
+#, kde-format
+msgid "You tried to divide by zero"
+msgstr "Bạn đã cố chia cho 0"
+
+#: interpreter/executer.cpp:761
+#, kde-format
+msgid "You tried to divide a non-number, '%1'"
+msgstr "Bạn đã cố chia một giá trị không phải là số, '%1'"
+
+#: interpreter/executer.cpp:763
+#, kde-format
+msgid "You tried to divide by a non-number, '%1'"
+msgstr "Bạn đã cố chia cho một giá trị không phải là số, '%1'"
+
+#: interpreter/executer.cpp:769
+#, kde-format
+msgid "You need two numbers to raise a power"
+msgstr "Bạn cần hai số để nâng lên một nguồn điện"
+
+#: interpreter/executer.cpp:780
+#, kde-format
+msgid "The result of an exponentiation was too large"
+msgstr "Kết quả của phép lũy thừa quá lớn"
+
+#: interpreter/executer.cpp:786
+#, kde-format
+msgid "You tried to raise a non-number to a power, '%1'"
+msgstr "Bạn đã cố gắng nâng một số không phải là số lên lũy thừa, '%1'"
+
+#: interpreter/executer.cpp:788
+#, kde-format
+msgid "You tried to raise the power of a non-number, '%1'"
+msgstr "Bạn đã cố gắng nâng cao nguồn điện của một giá trị không phải là số, '%1'"
+
+#: interpreter/executer.cpp:794
+#, kde-format
+msgid "You need one variable and a value or variable to do a '='"
+msgstr "Bạn cần một biến và một giá trị hoặc biến để thực hiện một '='"
+
+#: interpreter/executer.cpp:811
+#, kde-format
+msgid "The function '%1' is already defined."
+msgstr "Chức năng '%1' đã được định nghĩa."
+
+#: interpreter/executer.cpp:1041
+#, kde-format
+msgid "Can't do a sqrt of a negative number"
+msgstr "Không thể tính căn bậc hai của một số âm"
+
+#: interpreter/parser.cpp:38
+#, kde-format
+msgid "Expected a command, instead got '%1'"
+msgstr "Đã mong đợi một lệnh, thay vào đó nhận được '%1'"
+
+#: interpreter/parser.cpp:71
+#, kde-format
+msgid "Could not understand '%1'"
+msgstr "Không thể hiểu '%1'"
+
+#: interpreter/parser.cpp:106
+#, kde-format
+msgid "A comma was expected here..."
+msgstr "Ở đây cần có dấu phẩy..."
+
+#: interpreter/parser.cpp:109
+#, kde-format
+msgid "Did not expect '%1', instead expected the line to end after %2"
+msgstr "Không mong đợi '%1', thay vào đó mong đợi dòng kết thúc sau %2"
+
+#: interpreter/parser.cpp:115
+#, kde-format
+msgid "Expected an assignment, '=', after the variable '%1'"
+msgstr "Dự kiến một phép gán, '=', sau biến '%1'"
+
+#: interpreter/parser.cpp:119
+#, kde-format
+msgid "Did not expect '%1', instead expected a closing parenthesis, ')'"
+msgstr "Không mong đợi '%1', thay vào đó mong đợi một dấu ngoặc đóng, ')'"
+
+#: interpreter/parser.cpp:123
+#, kde-format
+msgid "Expected 'to' after 'for'"
+msgstr "Dự kiến 'to' sau 'for'"
+
+#: interpreter/parser.cpp:126
+#, kde-format
+msgid "Expected a name for a command after 'learn' command"
+msgstr "Sau lệnh 'learn' cần có tên của một lệnh"
+
+#: interpreter/parser.cpp:232
+#, kde-format
+msgid "You cannot put '%1' here."
+msgstr "Bạn không thể đặt '%1' ở đây."
+
+#: interpreter/parser.cpp:268
+#, kde-format
+msgid ""
+"Text string was not properly closed, expected a double quote, ' \" ', to "
+"close the string."
+msgstr ""
+"Chuỗi văn bản không được đóng đúng cách, mong đợi một dấu ngoặc kép đôi, ' "
+"\" ', để đóng chuỗi."
+
+#: interpreter/parser.cpp:616
+#, kde-format
+msgid "'for' was called wrongly"
+msgstr "Lệnh 'for' đã được gọi sai"
+
+#: interpreter/parser.cpp:686
+#, kde-format
+msgid "Expected a scope after the 'learn' command"
+msgstr "Sau lệnh 'learn' cần có một phạm vi"
+
+#: interpreter/translator.cpp:96
+#, kde-format
+msgctxt ""
+"You are about to translate the 'True' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "true"
+msgstr "đúng"
+
+#: interpreter/translator.cpp:103
+#, kde-format
+msgctxt ""
+"You are about to translate the 'False' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "false"
+msgstr "sai"
+
+#: interpreter/translator.cpp:122
+#, kde-format
+msgctxt ""
+"You are about to translate the 'ArgumentSeparator' COMMAND, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid ","
+msgstr ","
+
+#: interpreter/translator.cpp:129
+#, kde-format
+msgctxt ""
+"You are about to translate the 'DecimalSeparator' COMMAND, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "."
+msgstr "."
+
+#: interpreter/translator.cpp:136
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Exit' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "exit"
+msgstr "thoát"
+
+#: interpreter/translator.cpp:143
+#, kde-format
+msgctxt ""
+"You are about to translate the 'If' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "if"
+msgstr "nếu"
+
+#: interpreter/translator.cpp:150
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Else' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "else"
+msgstr "khác"
+
+#: interpreter/translator.cpp:157
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Repeat' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "repeat"
+msgstr "lặp lại"
+
+#: interpreter/translator.cpp:164
+#, kde-format
+msgctxt ""
+"You are about to translate the 'While' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "while"
+msgstr "trong khi"
+
+#: interpreter/translator.cpp:171
+#, kde-format
+msgctxt ""
+"You are about to translate the 'For' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "for"
+msgstr "lặp"
+
+#: interpreter/translator.cpp:178
+#, kde-format
+msgctxt ""
+"You are about to translate the 'To' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "to"
+msgstr "đến"
+
+#: interpreter/translator.cpp:185
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Step' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "step"
+msgstr "bước"
+
+#: interpreter/translator.cpp:192
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Break' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "break"
+msgstr "dừng"
+
+#: interpreter/translator.cpp:199
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Return' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "return"
+msgstr "trở về"
+
+#: interpreter/translator.cpp:206
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Wait' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "wait"
+msgstr "đợi"
+
+#: interpreter/translator.cpp:213
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Assert' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "assert"
+msgstr "khẳng định"
+
+#: interpreter/translator.cpp:220
+#, kde-format
+msgctxt ""
+"You are about to translate the 'And' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "and"
+msgstr "và"
+
+#: interpreter/translator.cpp:227
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Or' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "or"
+msgstr "hoặc"
+
+#: interpreter/translator.cpp:234
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Not' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "not"
+msgstr "không"
+
+#: interpreter/translator.cpp:265
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Learn' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "learn"
+msgstr "học"
+
+#: interpreter/translator.cpp:272
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Reset' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "reset"
+msgstr "đặt lại"
+
+#: interpreter/translator.cpp:279
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Clear' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "clear"
+msgstr "làm trống"
+
+#: interpreter/translator.cpp:286
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Clear' COMMAND ALIAS, there are some rules "
+"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
+"to learn how to properly translate it."
+msgid "ccl"
+msgstr "ccl"
+
+#: interpreter/translator.cpp:293
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Center' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "center"
+msgstr "trung tâm"
+
+#: interpreter/translator.cpp:300
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Go' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "go"
+msgstr "đi"
+
+#: interpreter/translator.cpp:307
+#, kde-format
+msgctxt ""
+"You are about to translate the 'GoX' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "gox"
+msgstr "gox"
+
+#: interpreter/translator.cpp:314
+#, kde-format
+msgctxt ""
+"You are about to translate the 'GoX' COMMAND ALIAS, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "gx"
+msgstr "gx"
+
+#: interpreter/translator.cpp:321
+#, kde-format
+msgctxt ""
+"You are about to translate the 'GoY' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "goy"
+msgstr "goy"
+
+#: interpreter/translator.cpp:328
+#, kde-format
+msgctxt ""
+"You are about to translate the 'GoY' COMMAND ALIAS, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "gy"
+msgstr "gy"
+
+#: interpreter/translator.cpp:335
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Forward' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "forward"
+msgstr "tiến lên"
+
+#: interpreter/translator.cpp:342
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Forward' COMMAND ALIAS, there are some rules "
+"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
+"to learn how to properly translate it."
+msgid "fw"
+msgstr "tiến"
+
+#: interpreter/translator.cpp:349
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Backward' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "backward"
+msgstr "lùi"
+
+#: interpreter/translator.cpp:356
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Backward' COMMAND ALIAS, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "bw"
+msgstr "bw"
+
+#: interpreter/translator.cpp:363
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Direction' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "direction"
+msgstr "hướng"
+
+#: interpreter/translator.cpp:370
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Direction' COMMAND ALIAS, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "dir"
+msgstr "dir"
+
+#: interpreter/translator.cpp:377
+#, kde-format
+msgctxt ""
+"You are about to translate the 'TurnLeft' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "turnleft"
+msgstr "quay trái"
+
+#: interpreter/translator.cpp:384
+#, kde-format
+msgctxt ""
+"You are about to translate the 'TurnLeft' COMMAND ALIAS, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "tl"
+msgstr "trái"
+
+#: interpreter/translator.cpp:391
+#, kde-format
+msgctxt ""
+"You are about to translate the 'TurnRight' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "turnright"
+msgstr "quay phải"
+
+#: interpreter/translator.cpp:398
+#, kde-format
+msgctxt ""
+"You are about to translate the 'TurnRight' COMMAND ALIAS, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "tr"
+msgstr "tr"
+
+#: interpreter/translator.cpp:405
+#, kde-format
+msgctxt ""
+"You are about to translate the 'PenWidth' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "penwidth"
+msgstr "độ rộng bút"
+
+#: interpreter/translator.cpp:412
+#, kde-format
+msgctxt ""
+"You are about to translate the 'PenWidth' COMMAND ALIAS, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "pw"
+msgstr "pw"
+
+#: interpreter/translator.cpp:419
+#, kde-format
+msgctxt ""
+"You are about to translate the 'PenUp' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "penup"
+msgstr "nhấc bút"
+
+#: interpreter/translator.cpp:426
+#, kde-format
+msgctxt ""
+"You are about to translate the 'PenUp' COMMAND ALIAS, there are some rules "
+"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
+"to learn how to properly translate it."
+msgid "pu"
+msgstr "pu"
+
+#: interpreter/translator.cpp:433
+#, kde-format
+msgctxt ""
+"You are about to translate the 'PenDown' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "pendown"
+msgstr "bút xuống"
+
+#: interpreter/translator.cpp:440
+#, kde-format
+msgctxt ""
+"You are about to translate the 'PenDown' COMMAND ALIAS, there are some rules "
+"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
+"to learn how to properly translate it."
+msgid "pd"
+msgstr "pd"
+
+#: interpreter/translator.cpp:447
+#, kde-format
+msgctxt ""
+"You are about to translate the 'PenColor' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "pencolor"
+msgstr "màu bút"
+
+#: interpreter/translator.cpp:454
+#, kde-format
+msgctxt ""
+"You are about to translate the 'PenColor' COMMAND ALIAS, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "pc"
+msgstr "pc"
+
+#: interpreter/translator.cpp:461
+#, kde-format
+msgctxt ""
+"You are about to translate the 'CanvasColor' COMMAND, there are some rules "
+"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
+"to learn how to properly translate it."
+msgid "canvascolor"
+msgstr "màu nền"
+
+#: interpreter/translator.cpp:468
+#, kde-format
+msgctxt ""
+"You are about to translate the 'CanvasColor' COMMAND ALIAS, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "cc"
+msgstr "cc"
+
+#: interpreter/translator.cpp:475
+#, kde-format
+msgctxt ""
+"You are about to translate the 'CanvasSize' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "canvassize"
+msgstr "kích thước canvas"
+
+#: interpreter/translator.cpp:482
+#, kde-format
+msgctxt ""
+"You are about to translate the 'CanvasSize' COMMAND ALIAS, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "cs"
+msgstr "cs"
+
+#: interpreter/translator.cpp:489
+#, kde-format
+msgctxt ""
+"You are about to translate the 'SpriteShow' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "spriteshow"
+msgstr "hiển thị sprite"
+
+#: interpreter/translator.cpp:496
+#, kde-format
+msgctxt ""
+"You are about to translate the 'SpriteShow' COMMAND ALIAS, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "ss"
+msgstr "ss"
+
+#: interpreter/translator.cpp:503
+#, kde-format
+msgctxt ""
+"You are about to translate the 'SpriteHide' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "spritehide"
+msgstr "ẩn sprite"
+
+#: interpreter/translator.cpp:510
+#, kde-format
+msgctxt ""
+"You are about to translate the 'SpriteHide' COMMAND ALIAS, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "sh"
+msgstr "sh"
+
+#: interpreter/translator.cpp:517
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Print' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "print"
+msgstr "in"
+
+#: interpreter/translator.cpp:524
+#, kde-format
+msgctxt ""
+"You are about to translate the 'FontSize' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "fontsize"
+msgstr "cỡ chữ"
+
+#: interpreter/translator.cpp:531
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Random' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "random"
+msgstr "ngẫu nhiên"
+
+#: interpreter/translator.cpp:538
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Random' COMMAND ALIAS, there are some rules "
+"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
+"to learn how to properly translate it."
+msgid "rnd"
+msgstr "rnd"
+
+#: interpreter/translator.cpp:545
+#, kde-format
+msgctxt ""
+"You are about to translate the 'GetX' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "getx"
+msgstr "lấy x"
+
+#: interpreter/translator.cpp:552
+#, kde-format
+msgctxt ""
+"You are about to translate the 'GetY' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "gety"
+msgstr "lấy y"
+
+#: interpreter/translator.cpp:559
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Message' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "message"
+msgstr "thông điệp"
+
+#: interpreter/translator.cpp:566
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Ask' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "ask"
+msgstr "hỏi"
+
+#: interpreter/translator.cpp:573
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Pi' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "pi"
+msgstr "pi"
+
+#: interpreter/translator.cpp:580
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Tan' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "tan"
+msgstr "tan"
+
+#: interpreter/translator.cpp:587
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Sin' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "sin"
+msgstr "sin"
+
+#: interpreter/translator.cpp:594
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Cos' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "cos"
+msgstr "cos"
+
+#: interpreter/translator.cpp:601
+#, kde-format
+msgctxt ""
+"You are about to translate the 'ArcTan' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "arctan"
+msgstr "arctan"
+
+#: interpreter/translator.cpp:608
+#, kde-format
+msgctxt ""
+"You are about to translate the 'ArcSin' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "arcsin"
+msgstr "arcsin"
+
+#: interpreter/translator.cpp:615
+#, kde-format
+msgctxt ""
+"You are about to translate the 'ArcCos' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "arccos"
+msgstr "arccos"
+
+#: interpreter/translator.cpp:622
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Sqrt' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "sqrt"
+msgstr "căn bậc hai"
+
+#: interpreter/translator.cpp:629
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Round' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "round"
+msgstr "làm tròn"
+
+#: interpreter/translator.cpp:636
+#, kde-format
+msgctxt ""
+"You are about to translate the 'GetDirection' COMMAND, there are some rules "
+"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
+"to learn how to properly translate it."
+msgid "getdirection"
+msgstr "hướng"
+
+#: interpreter/translator.cpp:643
+#, kde-format
+msgctxt ""
+"You are about to translate the 'Mod' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "mod"
+msgstr "mod"
+
+#: interpreter/translator.cpp:662
+#, kde-format
+msgctxt ""
+"This is an EXAMPLE NAME in KTurtle.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn know how to properly translate it."
+msgid "triangle"
+msgstr "tam giác"
+
+#: interpreter/translator.cpp:674
+#, kde-format
+msgctxt ""
+"This is an EXAMPLE NAME in KTurtle.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn know how to properly translate it."
+msgid "curly"
+msgstr "curly"
+
+#: interpreter/translator.cpp:692
+#, kde-format
+msgctxt ""
+"This is an EXAMPLE NAME in KTurtle.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn know how to properly translate it."
+msgid "arrow"
+msgstr "mũi tên"
+
+#: interpreter/translator.cpp:719
+#, kde-format
+msgctxt ""
+"This is an EXAMPLE NAME in KTurtle.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn know how to properly translate it."
+msgid "flower"
+msgstr "hoa"
+
+#. i18n: ectx: Menu (file)
+#: kturtleui.rc:6
+#, kde-format
+msgid "&File"
+msgstr "Tệ&p"
+
+#. i18n: ectx: Menu (examples)
+#: kturtleui.rc:11
+#, kde-format
+msgid "&Examples"
+msgstr "Ví &dụ"
+
+#. i18n: ectx: Menu (edit)
+#: kturtleui.rc:24
+#, kde-format
+msgid "&Edit"
+msgstr "Sử&a"
+
+#. i18n: ectx: Menu (canvas)
+#: kturtleui.rc:41 mainwindow.cpp:499 mainwindow.cpp:521
+#, kde-format
+msgid "&Canvas"
+msgstr "Bảng &vẽ"
+
+#. i18n: ectx: Menu (run)
+#: kturtleui.rc:47 mainwindow.cpp:298 mainwindow.cpp:417
+#, kde-format
+msgid "&Run"
+msgstr "C&hạy"
+
+#. i18n: ectx: Menu (speed)
+#: kturtleui.rc:51
+#, kde-format
+msgid "&Run Speed"
+msgstr "Tố&c độ chạy"
+
+#. i18n: ectx: Menu (tools)
+#: kturtleui.rc:60
+#, kde-format
+msgid "&Tools"
+msgstr "Côn&g cụ"
+
+#. i18n: ectx: Menu (settings)
+#: kturtleui.rc:64
+#, kde-format
+msgid "&Settings"
+msgstr "thiết lậ&p"
+
+#. i18n: ectx: Menu (language)
+#: kturtleui.rc:65
+#, kde-format
+msgid "&Script Language"
+msgstr "Ngô&n ngữ kịch bản"
+
+#. i18n: ectx: Menu (help)
+#: kturtleui.rc:75
+#, kde-format
+msgid "&Help"
+msgstr "trợ giú&p"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kturtleui.rc:80
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Thanh công cụ chính"
+
+#: main.cpp:34
+#, kde-format
+msgid "KTurtle"
+msgstr "KTurtle"
+
+#: main.cpp:36
+#, kde-format
+msgid "https://edu.kde.org/kturtle"
+msgstr "https://edu.kde.org/kturtle"
+
+#: main.cpp:37
+#, kde-format
+msgid ""
+"KTurtle is an educational programming environment that aims to make learning "
+"how to program as easy as possible. To achieve this KTurtle makes all "
+"programming tools available from the user interface. The programming "
+"language used is TurtleScript which allows its commands to be translated."
+msgstr ""
+"KTurtle là một môi trường lập trình giáo dục nhằm mục đích làm cho việc học "
+"lập trình trở nên dễ dàng nhất có thể. Để đạt được điều này, KTurtle cung "
+"cấp tất cả các công cụ lập trình từ giao diện người dùng. Ngôn ngữ lập "
+"trình được sử dụng là TurtleScript, cho phép các lệnh của nó được dịch."
+
+#: main.cpp:38
+#, kde-format
+msgid "(c) 2003-2009 Cies Breijs"
+msgstr "(c) 2003-2009 Cies Breijs"
+
+#: main.cpp:40
+#, kde-format
+msgid "Cies Breijs"
+msgstr "Cies Breijs"
+
+#: main.cpp:40
+#, kde-format
+msgid "Initiator and core developer"
+msgstr "Người khởi xướng và nhà phát triển lõi"
+
+#: main.cpp:41
+#, kde-format
+msgid "Niels Slot"
+msgstr "Niels Slot"
+
+#: main.cpp:41 main.cpp:42
+#, kde-format
+msgid "Core developer"
+msgstr "Nhà phát triển lõi"
+
+#: main.cpp:42
+#, kde-format
+msgid "Mauricio Piacentini"
+msgstr "Mauricio Piacentini"
+
+#: main.cpp:50
+#, kde-format
+msgid "File or URL to open (in the GUI mode)"
+msgstr "Tệp hoặc URL để mở (trong chế độ GUI)"
+
+#: main.cpp:51
+#, kde-format
+msgid ""
+"Starts KTurtle in D-Bus mode (without a GUI), good for automated unit test "
+"scripts"
+msgstr ""
+"Khởi động KTurtle ở chế độ D-Bus (không có giao diện người dùng), tốt cho "
+"các kịch bản kiểm thử đơn vị tự động"
+
+#: main.cpp:52
+#, kde-format
+msgid ""
+"Starts KTurtle in testing mode (without a GUI), directly runs the specified "
+"local file"
+msgstr ""
+"Khởi động KTurtle ở chế độ kiểm tra (không có giao diện người dùng), trực "
+"tiếp chạy tệp cục bộ được chỉ định"
+
+#: main.cpp:53
+#, kde-format
+msgid ""
+"Specifies the localization language by a language code, defaults to \"en_US"
+"\" (only works in testing mode)"
+msgstr ""
+"Chỉ định ngôn ngữ địa phương hoá bằng mã ngôn ngữ, mặc định là \"en_US\" "
+"(chỉ hoạt động trong chế độ thử nghiệm)"
+
+#. i18n("Only tokenizes the turtle code (only works in testing mode)")));
+#: main.cpp:55
+#, kde-format
+msgid ""
+"Translates turtle code to embeddable C++ example strings (for developers "
+"only)"
+msgstr ""
+"Dịch mã rùa thành chuỗi ví dụ C++ có thể nhúng (chỉ dành cho nhà phát "
+"triển)"
+
+#: mainwindow.cpp:61
+#, kde-format
+msgctxt "@info:status the application is ready for commands"
+msgid "Ready"
+msgstr "Sẵn sàng"
+
+#: mainwindow.cpp:175
+#, kde-format
+msgid "Create a new file"
+msgstr "Tạo một tệp mới"
+
+#: mainwindow.cpp:176
+#, kde-format
+msgid "New File: Create a new file"
+msgstr "Tệp mới: Tạo một tệp mới"
+
+#: mainwindow.cpp:179
+#, kde-format
+msgid "Open an existing file"
+msgstr "Mở một tệp hiện có"
+
+#: mainwindow.cpp:180
+#, kde-format
+msgid "Open File: Open an existing file"
+msgstr "Mở Tệp: Mở một tệp hiện có"
+
+#: mainwindow.cpp:184
+#, kde-format
+msgid "Open a recently used file"
+msgstr "Mở một tệp đã dùng gần đây"
+
+#: mainwindow.cpp:185
+#, kde-format
+msgid "Open Recent File: Open a recently used file"
+msgstr "Mở Tệp Gần Đây: Mở một tệp đã sử dụng gần đây"
+
+#: mainwindow.cpp:187
+#, kde-format
+msgid "Get more examples..."
+msgstr "Nhận thêm ví dụ..."
+
+#: mainwindow.cpp:196
+#, kde-format
+msgid "Save the current file to disk"
+msgstr "Lưu tệp hiện tại vào ổ đĩa"
+
+#: mainwindow.cpp:197
+#, kde-format
+msgid "Save File: Save the current file to disk"
+msgstr "Lưu tệp: Lưu tệp hiện tại vào ổ đĩa"
+
+#: mainwindow.cpp:201
+#, kde-format
+msgid "Save the current file under a different name"
+msgstr "Lưu tệp hiện tại với tên khác"
+
+#: mainwindow.cpp:202
+#, kde-format
+msgid "Save File As: Save the current file under a different name"
+msgstr "Lưu Tệp Với Tên Khác: Lưu tệp hiện tại với tên khác"
+
+#: mainwindow.cpp:205
+#, kde-format
+msgid "Export to &HTML..."
+msgstr "Xuất khẩu sang &HTML..."
+
+#: mainwindow.cpp:206
+#, kde-format
+msgid "Export the contents of the editor as HTML"
+msgstr "Xuất khẩu nội dung của trình biên tập dưới dạng HTML"
+
+#: mainwindow.cpp:207
+#, kde-format
+msgid "Export to HTML: Export the contents of the editor as HTML"
+msgstr "Xuất ra HTML: Xuất nội dung của trình biên tập ra HTML"
+
+#: mainwindow.cpp:211
+#, kde-format
+msgid "Print the code"
+msgstr "In mã nguồn"
+
+#: mainwindow.cpp:212
+#, kde-format
+msgid "Print: Print the code"
+msgstr "In: In mã"
+
+#: mainwindow.cpp:215
+#, kde-format
+msgid "Quit KTurtle"
+msgstr "Thoát KTurtle"
+
+#: mainwindow.cpp:216
+#, kde-format
+msgid "Quit: Quit KTurtle"
+msgstr "Thoát: Thoát KTurtle"
+
+#: mainwindow.cpp:220
+#, kde-format
+msgid "Undo a change in the editor"
+msgstr "Đảo ngược thay đổi trong trình sửa"
+
+#: mainwindow.cpp:221
+#, kde-format
+msgid "Undo: Undo a change in the editor"
+msgstr "Hoàn tác: Hoàn tác thay đổi trong trình biên tập"
+
+#: mainwindow.cpp:226
+#, kde-format
+msgid "Redo a previously undone change in the editor"
+msgstr "Làm lại một thay đổi trước đó đã được đảo ngược trong trình biên tập"
+
+#: mainwindow.cpp:227
+#, kde-format
+msgid "Redo: Redo a previously undone change in the editor"
+msgstr ""
+"Làm lại: Làm lại một thay đổi đã được đảo ngược trước đó trong trình biên "
+"tập"
+
+#: mainwindow.cpp:232
+#, kde-format
+msgid "Cut the selected text to the clipboard"
+msgstr "Cắt văn bản đã chọn vào bảng nháp"
+
+#: mainwindow.cpp:233
+#, kde-format
+msgid "Cut: Cut the selected text to the clipboard"
+msgstr "Cắt: Cắt văn bản đã chọn vào bảng nháp"
+
+#: mainwindow.cpp:238
+#, kde-format
+msgid "Copy the selected text to the clipboard"
+msgstr "Sao chép văn bản đã chọn vào bảng nháp"
+
+#: mainwindow.cpp:239
+#, kde-format
+msgid "Copy: Copy the selected text to the clipboard"
+msgstr "Sao chép: Sao chép văn bản đã chọn vào bảng nháp"
+
+#: mainwindow.cpp:244
+#, kde-format
+msgid "Paste the clipboard's content into the current selection"
+msgstr "Dán nội dung của bảng tạm vào phần bôi đen hiện tại"
+
+#: mainwindow.cpp:245
+#, kde-format
+msgid "Paste: Paste the clipboard's content into the current selection"
+msgstr "Dán: Dán nội dung của bảng tạm vào phần bôi đen hiện tại"
+
+#: mainwindow.cpp:248
+#, kde-format
+msgid "Select all the code in the editor"
+msgstr "Bôi đen tất cả mã trong trình biên tập"
+
+#: mainwindow.cpp:249
+#, kde-format
+msgid "Select All: Select all the code in the editor"
+msgstr "Chọn Tất Cả: Chọn tất cả mã trong trình biên tập"
+
+#: mainwindow.cpp:252
+#, kde-format
+msgid "Overwrite Mode"
+msgstr "Chế độ ghi đè"
+
+#: mainwindow.cpp:254
+#, kde-format
+msgid "Toggle between the 'insert' and 'overwrite' mode"
+msgstr "Chuyển đổi giữa chế độ 'chèn' và 'ghi đè'"
+
+#: mainwindow.cpp:255
+#, kde-format
+msgid "Overwrite Mode: Toggle between the 'insert' and 'overwrite' mode"
+msgstr "Chế độ ghi đè: Chuyển đổi giữa chế độ 'chèn' và 'ghi đè'"
+
+#: mainwindow.cpp:262
+#, kde-format
+msgid "Search through the code in the editor"
+msgstr "Tìm kiếm trong mã nguồn trong trình biên tập"
+
+#: mainwindow.cpp:263
+#, kde-format
+msgid "Find: Search through the code in the editor"
+msgstr "Tìm kiếm: Tìm kiếm trong mã nguồn trong trình biên tập"
+
+#: mainwindow.cpp:266
+#, kde-format
+msgid "Continue searching through the code in the editor"
+msgstr "Tiếp tục tìm kiếm trong mã nguồn trong trình biên tập"
+
+#: mainwindow.cpp:267
+#, kde-format
+msgid "Find Next: Continue searching through the code in the editor"
+msgstr "Tìm tiếp: Tiếp tục tìm kiếm trong trình biên tập"
+
+#: mainwindow.cpp:270
+#, kde-format
+msgid "Continue searching backwards through the code in the editor"
+msgstr "Tiếp tục tìm kiếm ngược lại trong mã trong trình biên tập"
+
+#: mainwindow.cpp:271
+#, kde-format
+msgid ""
+"Find Previous: Continue searching backwards through the code in the editor"
+msgstr "Tìm trước: Tiếp tục tìm kiếm về phía sau trong mã trong trình biên tập"
+
+#: mainwindow.cpp:280
+#, kde-format
+msgid "Export to &Image (PNG)..."
+msgstr "Xuất khẩu sa&ng Ảnh (PNG)..."
+
+#: mainwindow.cpp:281
+#, kde-format
+msgid "Export the current canvas to a PNG raster image"
+msgstr "Xuất khẩu canvas hiện tại thành một ảnh raster PNG"
+
+#: mainwindow.cpp:282
+#, kde-format
+msgid "Export to PNG: Export the current canvas to a PNG raster image"
+msgstr "Xuất ra PNG: Xuất ảnh hiện tại ra một tệp tin ảnh PNG"
+
+#: mainwindow.cpp:286
+#, kde-format
+msgid "Export to &Drawing (SVG)..."
+msgstr "Xuất khẩu sang Bản vẽ (SV&G)..."
+
+#: mainwindow.cpp:287
+#, kde-format
+msgid "Export the current canvas to Scalable Vector Graphics"
+msgstr "Xuất khẩu canvas hiện tại sang Scalable Vector Graphics"
+
+#: mainwindow.cpp:288
+#, kde-format
+msgid "Export to SVG: Export the current canvas to Scalable Vector Graphics"
+msgstr "Xuất ra SVG: Xuất bản vẽ hiện tại ra Scalable Vector Graphics"
+
+#: mainwindow.cpp:291
+#, kde-format
+msgid "&Print Canvas..."
+msgstr "I&n Canvas..."
+
+#: mainwindow.cpp:293
+#, kde-format
+msgid "Print the canvas"
+msgstr "In bản vẽ"
+
+#: mainwindow.cpp:294
+#, kde-format
+msgid "Print: Print the canvas"
+msgstr "In: In bản đồ"
+
+#: mainwindow.cpp:301
+#, kde-format
+msgid "Execute the program"
+msgstr "Thực thi chương trình"
+
+#: mainwindow.cpp:302
+#, kde-format
+msgid "Run: Execute the program"
+msgstr "Chạy: Thực thi chương trình"
+
+#: mainwindow.cpp:305
+#, kde-format
+msgid "&Pause"
+msgstr "Tạm dừ&ng"
+
+#: mainwindow.cpp:309
+#, kde-format
+msgid "Pause execution"
+msgstr "Tạm dừng thực thi"
+
+#: mainwindow.cpp:310
+#, kde-format
+msgid "Pause: Pause execution"
+msgstr "Tạm dừng: Tạm dừng thực thi"
+
+#: mainwindow.cpp:313
+#, kde-format
+msgid "&Abort"
+msgstr "&Huỷ bỏ"
+
+#: mainwindow.cpp:316
+#, kde-format
+msgid "Stop executing program"
+msgstr "Dừng chương trình đang chạy"
+
+#: mainwindow.cpp:317
+#, kde-format
+msgid "Abort: Stop executing program"
+msgstr "Hủy bỏ: Dừng chương trình"
+
+#. i18n("&Indent"), "format-indent-more", CTRL+Key_I, this, SLOT(slotIndent()), ac, "edit_indent");
+#. i18n("&Unindent"), "format-indent-less", CTRL+SHIFT+Key_I, this, SLOT(slotUnIndent()), ac, "edit_unindent");
+#. i18n("Cl&ean Indentation"), 0, 0, this, SLOT(slotCleanIndent()), ac, "edit_cleanIndent");
+#. i18n("Co&mment"), 0, CTRL+Key_D, this, SLOT(slotComment()), ac, "edit_comment");
+#. i18n("Unc&omment"), 0, CTRL+SHIFT+Key_D, this, SLOT(slotUnComment()), ac, "edit_uncomment");
+#. Tools menu actions
+#: mainwindow.cpp:327
+#, kde-format
+msgid "&Direction Chooser..."
+msgstr "Trình chọn hướn&g..."
+
+#: mainwindow.cpp:329
+#, kde-format
+msgid "Shows the direction chooser dialog"
+msgstr "Hiển thị hộp thoại chọn hướng"
+
+#: mainwindow.cpp:330
+#, kde-format
+msgid "Direction Chooser: Show the direction chooser dialog"
+msgstr "Trình chọn hướng: Hiển thị hộp thoại trình chọn hướng"
+
+#: mainwindow.cpp:333
+#, kde-format
+msgid "&Color Picker..."
+msgstr "Bộ chọ&n màu..."
+
+#: mainwindow.cpp:335
+#, kde-format
+msgid "Shows the color picker dialog"
+msgstr "Hiển thị hộp thoại chọn màu"
+
+#: mainwindow.cpp:336
+#, kde-format
+msgid "Color Picker: Show the color picker dialog"
+msgstr "Bộ chọn màu: Hiển thị hộp thoại bộ chọn màu"
+
+#: mainwindow.cpp:340
+#, kde-format
+msgid "Show &Editor"
+msgstr "Hiện Trình biên tậ&p"
+
+#: mainwindow.cpp:342
+#, kde-format
+msgid "Show or hide the Code Editor"
+msgstr "Hiện hoặc ẩn Trình biên tập mã"
+
+#: mainwindow.cpp:343
+#, kde-format
+msgid "Show Code Editor: Show or hide the Code Editor"
+msgstr "Hiện Trình biên tập mã: Hiện hoặc ẩn Trình biên tập mã"
+
+#: mainwindow.cpp:350
+#, kde-format
+msgid "Show &Inspector"
+msgstr "Hiện Thanh kiể&m tra"
+
+#: mainwindow.cpp:352
+#, kde-format
+msgid "Show or hide the Inspector"
+msgstr "Hiển thị hoặc ẩn Trình kiểm tra"
+
+#: mainwindow.cpp:353
+#, kde-format
+msgid "Show Inspector: Show or hide the Inspector"
+msgstr "Hiện Trình kiểm tra: Hiện hoặc ẩn Trình kiểm tra"
+
+#: mainwindow.cpp:360
+#, kde-format
+msgid "Show E&rrors"
+msgstr "Hiển thị &lỗi"
+
+#: mainwindow.cpp:362
+#, kde-format
+msgid "Show or hide the Errors tab"
+msgstr "Hiện hoặc ẩn thẻ Lỗi"
+
+#: mainwindow.cpp:363
+#, kde-format
+msgid "Show Errors: Show or hide the Errors tab"
+msgstr "Hiện Lỗi: Hiện hoặc ẩn thẻ Lỗi"
+
+#. i18n("Show &Console"), this);
+#. actionCollection()->addAction("show_console", a);
+#. a->setStatusTip(i18n("Show or hide the interactive Console tab"));
+#. a->setWhatsThis(i18n("Show Console: Show or hide the interactive Console tab"));
+#. a->setCheckable(true);
+#. a->setChecked(false);
+#. connect(a, SIGNAL(toggled(bool)), consoleDock, SLOT(setVisible(bool)));
+#. connect(consoleDock, SIGNAL(visibilityChanged(bool)), a, SLOT(setChecked(bool)));
+#: mainwindow.cpp:377
+#, kde-format
+msgid "Show &Line Numbers"
+msgstr "Hiện Số Dòn&g"
+
+#: mainwindow.cpp:379
+#, kde-format
+msgid "Turn the line numbers on/off in the editor"
+msgstr "Bật/tắt số dòng trong trình biên tập"
+
+#: mainwindow.cpp:380
+#, kde-format
+msgid "Show Line Numbers: Turn the line numbers on/off in the editor"
+msgstr "Hiện số dòng: Bật/tắt hiển thị số dòng trong trình biên tập"
+
+#: mainwindow.cpp:391
+#, kde-format
+msgid "Get help on the command under the cursor"
+msgstr "Nhận trợ giúp về lệnh ở dưới con trỏ"
+
+#: mainwindow.cpp:392
+#, kde-format
+msgid "Context Help: Get help on the command under the cursor"
+msgstr "Trợ giúp ngữ cảnh: Nhận trợ giúp về lệnh ở dưới con trỏ"
+
+#: mainwindow.cpp:397
+#, kde-format
+msgid "Help"
+msgstr "trợ giúp"
+
+#: mainwindow.cpp:398
+#, kde-format
+msgid "Help: Open manual for KTurtle"
+msgstr "Trợ giúp: Mở sổ tay cho KTurtle"
+
+#: mainwindow.cpp:402
+#, kde-format
+msgid "Console"
+msgstr "bàn điều khiển"
+
+#: mainwindow.cpp:409
+#, kde-format
+msgid "Execute"
+msgstr "Thực thi"
+
+#: mainwindow.cpp:411
+#, kde-format
+msgid "Execute: Executes the current line in the console"
+msgstr "Thực thi: Thực thi dòng hiện tại trong bàn điều khiển"
+
+#: mainwindow.cpp:422
+#, kde-format
+msgid "Execute the program, or use the drop down menu to select the run speed"
+msgstr ""
+"Thực thi chương trình, hoặc sử dụng trình đơn thả xuống để bôi đen tốc độ "
+"chạy"
+
+#: mainwindow.cpp:423
+#, kde-format
+msgid ""
+"Run: Execute the program, or use the drop down menu to select the run speed"
+msgstr ""
+"Chạy: Thực thi chương trình, hoặc sử dụng trình đơn thả xuống để bôi đen "
+"tốc độ chạy"
+
+#: mainwindow.cpp:426
+#, kde-format
+msgctxt "@option:radio"
+msgid "Full Speed (&no highlighting and inspector)"
+msgstr "Tốc độ tối đa (khô&ng có tô sáng và trình duyệt)"
+
+#: mainwindow.cpp:429
+#, kde-format
+msgid "Run the program at full speed, with highlighting and inspector disabled"
+msgstr ""
+"Chạy chương trình ở tốc độ tối đa, với chức năng đánh dấu và trình duyệt bị "
+"tắt"
+
+#: mainwindow.cpp:430
+#, kde-format
+msgid ""
+"Full Speed: Run the program at full speed, with highlighting and inspector "
+"disabled"
+msgstr ""
+"Tốc độ tối đa: Chạy chương trình ở tốc độ tối đa, với chức năng đánh dấu và "
+"trình duyệt bị tắt"
+
+#: mainwindow.cpp:435
+#, kde-format
+msgctxt "@option:radio"
+msgid "&Full Speed"
+msgstr "Tốc độ tối đ&a"
+
+#: mainwindow.cpp:439
+#, kde-format
+msgid "Run the program at full speed"
+msgstr "Chạy chương trình ở tốc độ tối đa"
+
+#: mainwindow.cpp:440
+#, kde-format
+msgid "Full Speed: Run the program at full speed"
+msgstr "Tốc độ tối đa: Chạy chương trình ở tốc độ tối đa"
+
+#: mainwindow.cpp:445
+#, kde-format
+msgctxt "@option:radio choose the slow speed"
+msgid "&Slow"
+msgstr "C&hậm"
+
+#: mainwindow.cpp:448
+#, kde-format
+msgid "Run the program at a slow speed"
+msgstr "Chạy chương trình ở tốc độ chậm"
+
+#: mainwindow.cpp:449
+#, kde-format
+msgid "Slow Speed: Run the program at a slow speed"
+msgstr "Tốc độ chậm: Chạy chương trình ở tốc độ chậm"
+
+#: mainwindow.cpp:454
+#, kde-format
+msgctxt "@option:radio"
+msgid "S&lower"
+msgstr "&Chậm hơn"
+
+#: mainwindow.cpp:457
+#, kde-format
+msgid "Run the program at a slower speed"
+msgstr "Chạy chương trình ở tốc độ chậm hơn"
+
+#: mainwindow.cpp:458
+#, kde-format
+msgid "Slower Speed: Run the program at a slower speed"
+msgstr "Tốc độ chậm hơn: Chạy chương trình với tốc độ chậm hơn"
+
+#: mainwindow.cpp:463
+#, kde-format
+msgctxt "@option:radio"
+msgid "Sl&owest"
+msgstr "C&hậm nhất"
+
+#: mainwindow.cpp:466
+#, kde-format
+msgid "Run the program at the slowest speed"
+msgstr "Chạy chương trình ở tốc độ chậm nhất"
+
+#: mainwindow.cpp:467
+#, kde-format
+msgid "Slowest Speed: Run the program at the slowest speed"
+msgstr "Tốc độ chậm nhất: Chạy chương trình ở tốc độ chậm nhất"
+
+#: mainwindow.cpp:472
+#, kde-format
+msgctxt "@option:radio"
+msgid "S&tep-by-Step"
+msgstr "Từng &bước"
+
+#: mainwindow.cpp:475
+#, kde-format
+msgid "Run the program one step at a time"
+msgstr "Chạy chương trình từng bước một"
+
+#: mainwindow.cpp:476
+#, kde-format
+msgid "Step Speed: Run the program one step at a time"
+msgstr "Tốc độ bước: Chạy chương trình một bước một lần"
+
+#: mainwindow.cpp:496
+#, kde-format
+msgid ""
+"Canvas: This is where the turtle moves and draws when the program is running"
+msgstr "Canvas: Đây là nơi con rùa di chuyển và vẽ khi chương trình đang chạy"
+
+#: mainwindow.cpp:505
+#, kde-format
+msgid "E&rrors"
+msgstr "&Lỗi"
+
+#: mainwindow.cpp:535
+#, kde-format
+msgid "&Editor"
+msgstr "&Trình biên tập"
+
+#: mainwindow.cpp:549
+#, kde-format
+msgid "Editor: Write your KTurtle commands here"
+msgstr "Trình soạn thảo: Viết các lệnh KTurtle của bạn ở đây"
+
+#: mainwindow.cpp:552
+#, kde-format
+msgid "&Inspector"
+msgstr "Trì&nh kiểm tra"
+
+#: mainwindow.cpp:562
+#, kde-format
+msgid ""
+"Inspector: See information about variables and functions when the program "
+"runs"
+msgstr ""
+"Trình kiểm tra: Xem thông tin về các biến và chức năng khi chương trình "
+"chạy"
+
+#: mainwindow.cpp:655
+#, kde-format
+msgid "Switch to the %1 dictionary"
+msgstr "Chuyển sang từ điển %1"
+
+#: mainwindow.cpp:734
+#, kde-format
+msgid " OVR "
+msgstr "OVR"
+
+#: mainwindow.cpp:734
+#, kde-format
+msgid " INS "
+msgstr "INS"
+
+#: mainwindow.cpp:742
+#, kde-format
+msgid "<nothing under cursor>"
+msgstr "Không có gì được chọn"
+
+#: mainwindow.cpp:743
+#, kde-format
+msgid "Help on: %1"
+msgstr "Trợ giúp về: %1"
+
+#: mainwindow.cpp:748
+#, kde-format
+msgid " Line: %1 Column: %2 "
+msgstr "Dòng: %1 Cột: %2"
+
+#: mainwindow.cpp:756
+#, kde-format
+msgid "\"%1\" <%2>"
+msgstr "\"%1\" <%2>"
+
+#: mainwindow.cpp:759
+#, kde-format
+msgid "<variable>"
+msgstr "<variable>"
+
+#: mainwindow.cpp:760
+#, kde-format
+msgid "<number>"
+msgstr "<number>"
+
+#: mainwindow.cpp:761
+#, kde-format
+msgid "<comment>"
+msgstr "<comment>"
+
+#: mainwindow.cpp:762
+#, kde-format
+msgid "<string>"
+msgstr "<string>"
+
+#: mainwindow.cpp:768
+#, kde-format
+msgid "scope"
+msgstr "phạm vi"
+
+#: mainwindow.cpp:770
+#, kde-format
+msgid "assignment"
+msgstr "giao việc"
+
+#: mainwindow.cpp:772
+#, kde-format
+msgid "parenthesis"
+msgstr "dấu ngoặc"
+
+#: mainwindow.cpp:774
+#, kde-format
+msgid "mathematical operator"
+msgstr "toán tử"
+
+#: mainwindow.cpp:776
+#, kde-format
+msgid "expression"
+msgstr "biểu thức"
+
+#: mainwindow.cpp:778
+#, kde-format
+msgid "boolean operator"
+msgstr "toán tử luận lí"
+
+#: mainwindow.cpp:780
+#, kde-format
+msgid "learned command"
+msgstr "lệnh đã học"
+
+#: mainwindow.cpp:782
+#, kde-format
+msgid "argument separator"
+msgstr "phần phân cách đối số"
+
+#: mainwindow.cpp:785
+#, kde-format
+msgid "command"
+msgstr "lệnh"
+
+#: mainwindow.cpp:788
+#, kde-format
+msgid "controller command"
+msgstr "lệnh điều khiển"
+
+#: mainwindow.cpp:813
+#, kde-format
+msgid "Could not change the language to %1."
+msgstr "Không thể thay đổi ngôn ngữ sang %1."
+
+#: mainwindow.cpp:821
+#, kde-format
+msgid "English [built in]"
+msgstr "Tiếng Anh [tích hợp sẵn]"
+
+#: mainwindow.cpp:822
+#, kde-format
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: mainwindow.cpp:970
+#, kde-format
+msgid "untitled"
+msgstr "chưa đặt tên"
+
+#: mainwindow.cpp:1012
+#, kde-format
+msgid "Save as Picture"
+msgstr "Lưu thành Ảnh"
+
+#: mainwindow.cpp:1014
+#, kde-format
+msgid "PNG Images"
+msgstr "Ảnh PNG"
+
+#: mainwindow.cpp:1030
+#, kde-format
+msgctxt "@title:window"
+msgid "Save as SVG"
+msgstr "Lưu thành SVG"
+
+#: mainwindow.cpp:1030
+#, kde-format
+msgid "Scalable Vector Graphics"
+msgstr "Đồ họa Vector có thể mở rộng"
+
+#: mainwindow.cpp:1040
+#, kde-format
+msgctxt "@title:window"
+msgid "Save code as HTML"
+msgstr "Lưu mã dưới dạng HTML"
+
+#: mainwindow.cpp:1040
+#, kde-format
+msgid "HTML documents"
+msgstr "Tài liệu HTML"
+
+#: mainwindow.cpp:1058
+#, kde-format
+msgid "Input"
+msgstr "Đầu vào"
+
+#: mainwindow.cpp:1067
+#, kde-format
+msgid "Message"
+msgstr "thông điệp"

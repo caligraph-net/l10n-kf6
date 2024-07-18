@@ -18,78 +18,78 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: csv/csvimportexportplugininterface.cpp:36
-#, fuzzy, kde-format
+#, kde-format
 msgid "Export CSV file…"
-msgstr "&Xuất ra danh sách"
+msgstr "Xuất ra tệp CSV..."
 
 #: csv/csvimportexportplugininterface.cpp:37
 #, kde-format
 msgid "Export contacts to a file in comma separated value format."
-msgstr ""
+msgstr "Xuất khẩu danh bạ vào một tệp ở định dạng giá trị phân cách bằng dấu phẩy."
 
 #: csv/csvimportexportplugininterface.cpp:42
-#, fuzzy, kde-format
+#, kde-format
 msgid "Import CSV file…"
-msgstr "Danh sách &nhập vào"
+msgstr "Nhập khẩu tệp CSV..."
 
 #: csv/csvimportexportplugininterface.cpp:43
 #, kde-format
 msgid "Import contacts from a file in comma separated value format."
-msgstr ""
+msgstr "Nhập khẩu danh bạ từ một tệp ở định dạng giá trị phân cách bằng dấu phẩy."
 
 #: csv/csvimportexportplugininterface.cpp:148
 #: gmx/gmximportexportplugininterface.cpp:80
 #: ldif/ldifimportexportplugininterface.cpp:123
 #: vcards/vcardimportexportplugininterface.cpp:370
-#, fuzzy, kde-format
+#, kde-format
 msgid "Which contact do you want to export?"
-msgstr "Contact &mới"
+msgstr "Bạn muốn xuất liên hệ nào?"
 
 #: csv/csvimportexportplugininterface.cpp:158
 #: gmx/gmximportexportplugininterface.cpp:90
 #: ldif/ldifimportexportplugininterface.cpp:133
 #: vcards/vcardimportexportplugininterface.cpp:382
-#, fuzzy, kde-format
+#, kde-format
 msgid "You have not selected any contacts to export."
-msgstr "Contact &mới"
+msgstr "Bạn chưa chọn liên hệ nào để xuất."
 
 #: csv/csvimportexportplugininterface.cpp:187
 #: gmx/gmximportexportplugininterface.cpp:124
 #: ldif/ldifimportexportplugininterface.cpp:154
-#, fuzzy, kde-format
+#, kde-format
 msgid "<qt>Unable to open file <b>%1</b></qt>"
-msgstr "Danh sách &phân phốị.."
+msgstr "<qt>Không thể mở tệp <b>%1</b></qt>"
 
 #: csv/csvimportexportplugininterface.cpp:199
 #: gmx/gmximportexportplugininterface.cpp:139
 #: ldif/ldifimportexportplugininterface.cpp:184
-#, fuzzy, kde-format
+#, kde-format
 msgid "<qt>Unable to open file <b>%1</b>.</qt>"
-msgstr "Danh sách &phân phốị.."
+msgstr "<qt>Không thể mở tệp <b>%1</b>.</qt>"
 
 #: csv/import/csvimportdialog.cpp:168
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:window"
 msgid "CSV Import Dialog"
-msgstr "Nhập vào file văn bản"
+msgstr "Hộp thoại nhập khẩu CSV"
 
 #: csv/import/csvimportdialog.cpp:223
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@label"
 msgid "Importing contacts"
-msgstr "Tất cả cá c trường  liên hệ"
+msgstr "Đang nhập danh bạ"
 
 #: csv/import/csvimportdialog.cpp:294
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@label"
 msgid "File to import:"
-msgstr "File sẽ xuất ra"
+msgstr "Tệp để nhập:"
 
 #: csv/import/csvimportdialog.cpp:302
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Select a csv file to import"
-msgstr "File sẽ xuất ra"
+msgstr "Chọn một tệp csv để nhập khẩu"
 
 #: csv/import/csvimportdialog.cpp:304
 #, kde-format
@@ -97,25 +97,25 @@ msgctxt "@info:whatsthis"
 msgid ""
 "Click this button to start a file chooser that will allow you to select a "
 "csv file to import."
-msgstr ""
+msgstr "Bấm nút này để mở trình chọn tệp, cho phép bạn chọn một tệp CSV để nhập."
 
 #: csv/import/csvimportdialog.cpp:311
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:group"
 msgid "Delimiter"
-msgstr "Các trường đã chọn"
+msgstr "Dấu tách"
 
 #: csv/import/csvimportdialog.cpp:321
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@option:radio Field separator"
 msgid "Comma"
-msgstr "Công ti"
+msgstr "Dấu phẩy"
 
 #: csv/import/csvimportdialog.cpp:322
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Set the field separator to a comma"
-msgstr ""
+msgstr "Đặt phần phân cách trường thành dấu phẩy"
 
 #: csv/import/csvimportdialog.cpp:323
 #, kde-format
@@ -123,18 +123,20 @@ msgctxt "@info:whatsthis"
 msgid ""
 "Select this option if your csv file uses the comma as a field separator."
 msgstr ""
+"Chọn tùy chọn này nếu tệp CSV của bạn sử dụng dấu phẩy làm dấu phân cách "
+"trường."
 
 #: csv/import/csvimportdialog.cpp:328
 #, kde-format
 msgctxt "@option:radio Field separator"
 msgid "Semicolon"
-msgstr ""
+msgstr "Dấu chấm phẩy"
 
 #: csv/import/csvimportdialog.cpp:329
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Set the field separator to a semicolon"
-msgstr ""
+msgstr "Đặt phần phân cách trường thành dấu chấm phẩy"
 
 #: csv/import/csvimportdialog.cpp:330
 #, kde-format
@@ -142,18 +144,20 @@ msgctxt "@info:whatsthis"
 msgid ""
 "Select this option if your csv file uses the semicolon as a field separator."
 msgstr ""
+"Chọn tùy chọn này nếu tệp CSV của bạn sử dụng dấu chấm phẩy làm dấu phân "
+"cách trường."
 
 #: csv/import/csvimportdialog.cpp:334
 #, kde-format
 msgctxt "@option:radio Field separator"
 msgid "Tabulator"
-msgstr ""
+msgstr "Tab"
 
 #: csv/import/csvimportdialog.cpp:335
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Set the field separator to a tab character"
-msgstr ""
+msgstr "Đặt phần phân cách trường thành kí tự thẻ"
 
 #: csv/import/csvimportdialog.cpp:336
 #, kde-format
@@ -162,19 +166,21 @@ msgid ""
 "Select this option if your csv file uses the tab character as a field "
 "separator."
 msgstr ""
+"Chọn lựa chọn này nếu tệp csv của bạn sử dụng kí tự thẻ làm dấu phân cách "
+"trường."
 
 #: csv/import/csvimportdialog.cpp:340
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Space"
 msgctxt "@option:radio Field separator"
 msgid "Space"
 msgstr "Khoảng trắng"
 
 #: csv/import/csvimportdialog.cpp:341
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Set the field separator to a space character"
-msgstr "Contact &mới"
+msgstr "Đặt phần phân cách trường thành kí tự khoảng trắng"
 
 #: csv/import/csvimportdialog.cpp:342
 #, kde-format
@@ -183,9 +189,11 @@ msgid ""
 "Select this option if your csv file uses the space character as a field "
 "separator."
 msgstr ""
+"Chọn tùy chọn này nếu tệp CSV của bạn sử dụng kí tự khoảng trắng làm dấu "
+"phân cách trường."
 
 #: csv/import/csvimportdialog.cpp:346
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Other"
 msgctxt "@option:radio Custom field separator"
 msgid "Other"
@@ -195,7 +203,7 @@ msgstr "Khác"
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Set the field separator to a custom character"
-msgstr ""
+msgstr "Đặt phần phân cách trường thành một kí tự tùy chọn"
 
 #: csv/import/csvimportdialog.cpp:349
 #, kde-format
@@ -204,12 +212,14 @@ msgid ""
 "Select this option if to use some other character as the field delimiter for "
 "the data in your csv file."
 msgstr ""
+"Chọn tùy chọn này nếu muốn sử dụng một ký tự khác làm dấu tách trường cho "
+"dữ liệu trong tệp CSV của bạn."
 
 #: csv/import/csvimportdialog.cpp:355
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Set the custom delimiter character"
-msgstr "Contact &mới"
+msgstr "Đặt kí tự dấu tách tùy chỉnh"
 
 #: csv/import/csvimportdialog.cpp:357
 #, kde-format
@@ -219,18 +229,21 @@ msgid ""
 "more than 1 character, only the first will be used and the remaining "
 "characters will be ignored."
 msgstr ""
+"Nhập một kí tự tùy chọn để sử dụng làm dấu tách. Nếu bạn nhập nhiều hơn 1 "
+"kí tự, chỉ kí tự đầu tiên sẽ được sử dụng và các kí tự còn lại sẽ bị bỏ "
+"qua."
 
 #: csv/import/csvimportdialog.cpp:363
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@label:listbox"
 msgid "Text quote:"
-msgstr "&cụ thể:"
+msgstr "Dấu ngoặc kép:"
 
 #: csv/import/csvimportdialog.cpp:369
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Select the quote character"
-msgstr "Contact &mới"
+msgstr "Chọn kí tự trích dẫn"
 
 #: csv/import/csvimportdialog.cpp:371
 #, kde-format
@@ -241,30 +254,34 @@ msgid ""
 "if the comma is the field delimiter, then any comma occurring with the data "
 "will be \"quoted\" by the character specified here."
 msgstr ""
+"Chọn kí tự mà dữ liệu CSV của bạn sử dụng để \"trích dẫn\" dấu tách trường "
+"nếu kí tự đó xuất hiện trong dữ liệu. Ví dụ, nếu dấu phẩy là dấu tách "
+"trường, thì bất kỳ dấu phẩy nào xuất hiện trong dữ liệu sẽ được \"trích "
+"dẫn\" bằng kí tự được chỉ định ở đây."
 
 #: csv/import/csvimportdialog.cpp:376
 #, kde-format
 msgctxt "@item:inlistbox Quote character option"
 msgid "\""
-msgstr ""
+msgstr "\""
 
 #: csv/import/csvimportdialog.cpp:377
 #, kde-format
 msgctxt "@item:inlistbox Quote character option"
 msgid "'"
-msgstr ""
+msgstr "Dấu ngoặc kép"
 
 #: csv/import/csvimportdialog.cpp:378
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@item:inlistbox Quote character option"
 msgid "None"
-msgstr "Phone"
+msgstr "Không"
 
 #: csv/import/csvimportdialog.cpp:382
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@label:listbox"
 msgid "Date format:"
-msgstr "Tên trường"
+msgstr "Định dạng ngày:"
 
 #: csv/import/csvimportdialog.cpp:390
 #, kde-kuit-format
@@ -276,6 +293,11 @@ msgid ""
 "item><item>H: hours with 2 digits</item><item>I: minutes with 2 digits</"
 "item><item>S: seconds with 2 digits</item></list></para>"
 msgstr ""
+"<para><list><item>y: năm với 2 chữ số</item><item>Y: năm với 4 chữ "
+"số</item><item>m: tháng với 1 hoặc 2 chữ số</item><item>M: tháng với 2 chữ "
+"số</item><item>d: ngày với 1 hoặc 2 chữ số</item><item>D: ngày với 2 chữ "
+"số</item><item>H: giờ với 2 chữ số</item><item>I: phút với 2 chữ "
+"số</item><item>S: giây với 2 chữ số</item></list></para>"
 
 #: csv/import/csvimportdialog.cpp:401
 #, kde-kuit-format
@@ -291,36 +313,44 @@ msgid ""
 "para><para>Example: \"Y-M-D\" corresponds to a date like \"2012-01-04\"</"
 "para>"
 msgstr ""
+"<para>Chỉ định một định dạng để sử dụng cho các ngày tháng trong dữ liệu "
+"csv của bạn. Sử dụng các chuỗi sau để giúp bạn xác định định "
+"dạng:</para><para><list><item>y: năm với 2 chữ số</item><item>Y: năm với 4 "
+"chữ số</item><item>m: tháng với 1 hoặc 2 chữ số</item><item>M: tháng với 2 "
+"chữ số</item><item>d: ngày với 1 hoặc 2 chữ số</item><item>D: ngày với 2 "
+"chữ số</item><item>H: giờ với 2 chữ số</item><item>I: phút với 2 chữ "
+"số</item><item>S: giây với 2 chữ số</item></list></para><para>Ví dụ: "
+"\"Y-M-D\" tương ứng với một ngày như \"2012-01-04\"</para>"
 
 #: csv/import/csvimportdialog.cpp:417
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@label:listbox"
 msgid "Text codec:"
-msgstr "&cụ thể:"
+msgstr "Bộ mã văn bản:"
 
 #: csv/import/csvimportdialog.cpp:423
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Select the text codec"
-msgstr "KAđressBook"
+msgstr "Chọn bộ mã giải văn bản"
 
 #: csv/import/csvimportdialog.cpp:424
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "Choose the character encoding of the data in your csv file."
-msgstr ""
+msgstr "Chọn mã hoá kí tự của dữ liệu trong tệp csv của bạn."
 
 #: csv/import/csvimportdialog.cpp:428
 #, kde-format
 msgctxt "@option:check"
 msgid "Skip first row of file"
-msgstr ""
+msgstr "Bỏ qua hàng đầu tiên của tệp"
 
 #: csv/import/csvimportdialog.cpp:430
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Skip first row of csv file when importing"
-msgstr ""
+msgstr "Bỏ qua hàng đầu tiên của tệp csv khi nhập"
 
 #: csv/import/csvimportdialog.cpp:432
 #, kde-format
@@ -330,196 +360,199 @@ msgid ""
 "data. In many cases, the first line of a csv file will be a comment line "
 "describing the order of the data fields included in the file."
 msgstr ""
+"Đánh dấu vào ô này nếu bạn muốn bỏ qua dòng đầu tiên của dữ liệu CSV khi "
+"nhập khẩu. Trong nhiều trường hợp, dòng đầu tiên của tệp CSV sẽ là dòng chú "
+"thích mô tả thứ tự của các trường dữ liệu được bao gồm trong tệp."
 
 #: csv/import/csvimportdialog.cpp:448
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action:button"
 msgid "Apply Template…"
-msgstr "&Xuất ra danh sách"
+msgstr "Áp dụng mẫu..."
 
 #: csv/import/csvimportdialog.cpp:449
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action:button"
 msgid "Save Template…"
-msgstr "&Xuất ra danh sách"
+msgstr "Lưu mẫu..."
 
 #: csv/import/csvimportdialog.cpp:470
 #, kde-format
 msgctxt "@item:inlistbox Codec setting"
 msgid "Local (%1)"
-msgstr ""
+msgstr "Cục bộ (%1)"
 
 #: csv/import/csvimportdialog.cpp:471
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@item:inlistbox Codec setting"
 msgid "Latin1"
-msgstr "Latvia"
+msgstr "Latin1"
 
 #: csv/import/csvimportdialog.cpp:472
 #, kde-format
 msgctxt "@item:inlistbox Codec setting"
 msgid "Unicode"
-msgstr ""
+msgstr "Unicode"
 
 #: csv/import/csvimportdialog.cpp:473
 #, kde-format
 msgctxt "@item:inlistbox Codec setting"
 msgid "Microsoft Unicode"
-msgstr ""
+msgstr "Bộ mã Unicode của Microsoft"
 
 #: csv/import/csvimportdialog.cpp:574
 #, kde-format
 msgctxt "@info:status"
 msgid "You must assign at least one column."
-msgstr ""
+msgstr "Bạn phải gán ít nhất một cột."
 
 #: csv/import/csvimportdialog.cpp:584
 #, kde-format
 msgctxt "@label"
 msgid "There are no templates available yet."
-msgstr ""
+msgstr "Chưa có mẫu nào khả dụng."
 
 #: csv/import/csvimportdialog.cpp:584
 #, kde-format
 msgctxt "@title:window"
 msgid "No templates available"
-msgstr ""
+msgstr "Không có mẫu nào hiện có"
 
 #: csv/import/csvimportdialog.cpp:649
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:window"
 msgid "Template Name"
-msgstr "Tên"
+msgstr "Tên Bản Mẫu"
 
 #: csv/import/csvimportdialog.cpp:649
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info"
 msgid "Please enter a name for the template:"
-msgstr "Hiển thị trình sửa contact với email đã chỉ định"
+msgstr "Vui lòng nhập tên cho mẫu:"
 
 #: csv/import/csvimportdialog.cpp:699
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:status"
 msgid "Cannot open input file."
-msgstr "Danh sách &phân phốị.."
+msgstr "Không thể mở tệp đầu vào."
 
 #: csv/import/qcsvreader.cpp:92
 #, kde-format
 msgid "Device is not open"
-msgstr ""
+msgstr "Thiết bị không được mở"
 
 #: csv/import/templateselectiondialog.cpp:182
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@label"
 msgid "Do you really want to delete template '%1'?"
-msgstr "Danh sách &phân phốị.."
+msgstr "Bạn có thực sự muốn xóa bản mẫu '%1'?"
 
 #: csv/import/templateselectiondialog.cpp:203
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:window"
 msgid "Template Selection"
-msgstr "Contact pinning"
+msgstr "Chọn bản mẫu"
 
 #: csv/import/templateselectiondialog.cpp:206
 #, kde-format
 msgctxt "@info"
 msgid "Please select a template, that matches the CSV file:"
-msgstr ""
+msgstr "Vui lòng bôi đen một mẫu phù hợp với tệp CSV:"
 
 #: gmx/gmximportexportplugininterface.cpp:25
-#, fuzzy, kde-format
+#, kde-format
 msgid "GMX address book file (*.gmxa)"
-msgstr "KAđressBook"
+msgstr "Tệp sổ địa chỉ GMX (*.gmxa)"
 
 #: gmx/gmximportexportplugininterface.cpp:40
-#, fuzzy, kde-format
+#, kde-format
 msgid "Import GMX file…"
-msgstr "Danh sách &nhập vào"
+msgstr "Nhập khẩu tệp GMX..."
 
 #: gmx/gmximportexportplugininterface.cpp:41
-#, fuzzy, kde-format
+#, kde-format
 msgid "Import contacts from a GMX address book file."
-msgstr "KAđressBook"
+msgstr "Nhập khẩu danh bạ từ tệp sổ địa chỉ GMX."
 
 #: gmx/gmximportexportplugininterface.cpp:46
-#, fuzzy, kde-format
+#, kde-format
 msgid "Export GMX file…"
-msgstr "Nhập vào tự sổ danh sách của kde2"
+msgstr "Xuất khẩu tệp GMX..."
 
 #: gmx/gmximportexportplugininterface.cpp:47
-#, fuzzy, kde-format
+#, kde-format
 msgid "Export contacts to a GMX address book file."
-msgstr "KAđressBook"
+msgstr "Xuất khẩu danh bạ vào tệp sổ địa chỉ GMX."
 
 #: gmx/gmximportexportplugininterface.cpp:434
 #: ldif/ldifimportexportplugininterface.cpp:80
 #: windows-contacts/importwindowcontact.cpp:26
-#, fuzzy, kde-format
+#, kde-format
 msgid "<qt>Unable to open <b>%1</b> for reading.</qt>"
-msgstr "Danh sách &phân phốị.."
+msgstr "<qt>Không thể mở <b>%1</b> để đọc.</qt>"
 
 #: gmx/gmximportexportplugininterface.cpp:447
-#, fuzzy, kde-format
+#, kde-format
 msgid "%1 is not a GMX address book file."
-msgstr "KAđressBook"
+msgstr "%1 không phải là tệp sổ địa chỉ GMX."
 
 #: ldap/ldapimportexportplugininterface.cpp:25
-#, fuzzy, kde-format
+#, kde-format
 msgid "Import From LDAP server…"
-msgstr "Điện thoại di động"
+msgstr "Nhập khẩu từ máy chủ LDAP..."
 
 #: ldap/ldapimportexportplugininterface.cpp:26
-#, fuzzy, kde-format
+#, kde-format
 msgid "Import contacts from an LDAP server."
-msgstr "Tất cả cá c trường  liên hệ"
+msgstr "Nhập khẩu danh bạ từ máy chủ LDAP."
 
 #: ldif/ldifimportexportplugininterface.cpp:36
-#, fuzzy, kde-format
+#, kde-format
 msgid "Import LDIF file…"
-msgstr "Nhập vào tự sổ danh sách của kde2"
+msgstr "Nhập khẩu tệp LDIF..."
 
 #: ldif/ldifimportexportplugininterface.cpp:37
-#, fuzzy, kde-format
+#, kde-format
 msgid "Import contacts from an LDIF file."
-msgstr "Tất cả cá c trường  liên hệ"
+msgstr "Nhập khẩu danh bạ từ tệp LDIF."
 
 #: ldif/ldifimportexportplugininterface.cpp:42
-#, fuzzy, kde-format
+#, kde-format
 msgid "Export LDIF file…"
-msgstr "Nhập vào tự sổ danh sách của kde2"
+msgstr "Xuất khẩu tệp LDIF..."
 
 #: ldif/ldifimportexportplugininterface.cpp:43
-#, fuzzy, kde-format
+#, kde-format
 msgid "Export contacts to an LDIF file."
-msgstr "Nhập vào tự sổ danh sách của kde2"
+msgstr "Xuất khẩu danh bạ vào tệp LDIF."
 
 #: ldif/ldifimportexportplugininterface.cpp:106
 #, kde-format
 msgid "LDif Files"
-msgstr ""
+msgstr "Tệp LDIF"
 
 #: ldif/ldifimportexportplugininterface.cpp:144
 #, kde-format
 msgid "LDif Files (*.ldif)"
-msgstr ""
+msgstr "Tệp LDIF (*.ldif)"
 
 #: vcards/engine/vcardexportselectionwidget.cpp:22
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:group"
 msgid "Fields to be exported"
-msgstr "File sẽ xuất ra"
+msgstr "Các trường sẽ được xuất"
 
 #: vcards/engine/vcardexportselectionwidget.cpp:29
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@option:check"
 msgid "Private fields"
-msgstr "Tên trường"
+msgstr "Trường riêng tư"
 
 #: vcards/engine/vcardexportselectionwidget.cpp:30
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Export private fields"
-msgstr "Tên trường"
+msgstr "Xuất khẩu các trường riêng tư"
 
 #: vcards/engine/vcardexportselectionwidget.cpp:32
 #, kde-format
@@ -528,18 +561,20 @@ msgid ""
 "Check this box if you want to export the contact's private fields to the "
 "vCard output file."
 msgstr ""
+"Đánh dấu vào ô này nếu bạn muốn xuất khẩu các trường riêng tư của liên hệ "
+"vào tệp vCard."
 
 #: vcards/engine/vcardexportselectionwidget.cpp:36
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@option:check"
 msgid "Business fields"
-msgstr "Địa chỉ nơi làm việc"
+msgstr "Các trường công việc"
 
 #: vcards/engine/vcardexportselectionwidget.cpp:37
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Export business fields"
-msgstr "Địa chỉ nơi làm việc"
+msgstr "Xuất các trường công việc"
 
 #: vcards/engine/vcardexportselectionwidget.cpp:39
 #, kde-format
@@ -548,18 +583,20 @@ msgid ""
 "Check this box if you want to export the contact's business fields to the "
 "vCard output file."
 msgstr ""
+"Chọn hộp này nếu bạn muốn xuất khẩu các trường công việc của liên hệ vào "
+"tệp vCard."
 
 #: vcards/engine/vcardexportselectionwidget.cpp:43
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@option:check"
 msgid "Other fields"
-msgstr "Tên trường"
+msgstr "Các trường khác"
 
 #: vcards/engine/vcardexportselectionwidget.cpp:44
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Export other fields"
-msgstr "Tên trường"
+msgstr "Xuất các trường khác"
 
 #: vcards/engine/vcardexportselectionwidget.cpp:46
 #, kde-format
@@ -568,18 +605,20 @@ msgid ""
 "Check this box if you want to export the contact's other fields to the vCard "
 "output file."
 msgstr ""
+"Chọn hộp này nếu bạn muốn xuất khẩu các trường khác của liên hệ vào tệp đầu "
+"ra vCard."
 
 #: vcards/engine/vcardexportselectionwidget.cpp:50
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@option:check"
 msgid "Encryption keys"
-msgstr "Egypt( Ai Cập)"
+msgstr "Khóa mật mã"
 
 #: vcards/engine/vcardexportselectionwidget.cpp:51
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Export encryption keys"
-msgstr "Egypt( Ai Cập)"
+msgstr "Xuất khẩu các khoá mật mã"
 
 #: vcards/engine/vcardexportselectionwidget.cpp:53
 #, kde-format
@@ -588,18 +627,20 @@ msgid ""
 "Check this box if you want to export the contact's encryption keys to the "
 "vCard output file."
 msgstr ""
+"Đánh dấu vào ô này nếu bạn muốn xuất khẩu các khoá mật mã hoá của liên hệ "
+"vào tệp vCard."
 
 #: vcards/engine/vcardexportselectionwidget.cpp:57
 #, kde-format
 msgctxt "@option:check"
 msgid "Pictures"
-msgstr ""
+msgstr "Hình ảnh"
 
 #: vcards/engine/vcardexportselectionwidget.cpp:58
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Export pictures"
-msgstr ""
+msgstr "Xuất ảnh"
 
 #: vcards/engine/vcardexportselectionwidget.cpp:60
 #, kde-format
@@ -607,25 +648,25 @@ msgctxt "@info:whatsthis"
 msgid ""
 "Check this box if you want to export the contact's picture to the vCard "
 "output file."
-msgstr ""
+msgstr "Chọn hộp này nếu bạn muốn xuất khẩu ảnh của liên hệ vào tệp vCard."
 
 #: vcards/engine/vcardexportselectionwidget.cpp:64
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:group"
 msgid "Export options"
-msgstr "Điện thoại di động"
+msgstr "Tùy chọn xuất khẩu"
 
 #: vcards/engine/vcardexportselectionwidget.cpp:70
 #, kde-format
 msgctxt "@option:check"
 msgid "Display name as full name"
-msgstr ""
+msgstr "Hiển thị tên đầy đủ"
 
 #: vcards/engine/vcardexportselectionwidget.cpp:71
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Export display name as full name"
-msgstr ""
+msgstr "Xuất tên hiển thị dưới dạng tên đầy đủ"
 
 #: vcards/engine/vcardexportselectionwidget.cpp:73
 #, kde-format
@@ -635,87 +676,90 @@ msgid ""
 "vCard's full name field.  This may be required to get the name shown "
 "correctly in GMail or Android."
 msgstr ""
+"Đánh dấu vào ô này nếu bạn muốn xuất tên hiển thị của liên hệ vào trường "
+"tên đầy đủ của vCard. Điều này có thể cần thiết để tên được hiển thị chính "
+"xác trong GMail hoặc Android."
 
 #: vcards/engine/vcardviewerdialog.cpp:28
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:window"
 msgid "Import vCard"
-msgstr "Danh sách &nhập vào"
+msgstr "Nhập khẩu vCard"
 
 #: vcards/engine/vcardviewerdialog.cpp:51
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info"
 msgid "Do you want to import this contact into your address book?"
-msgstr "Xin lỗi, contact không tìm thấy trong sổ địa chỉ"
+msgstr "Bạn có muốn nhập khẩu liên hệ này vào sổ địa chỉ của bạn không?"
 
 #: vcards/engine/vcardviewerdialog.cpp:61
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action:button"
 msgid "Import All…"
-msgstr "Danh sách &nhập vào"
+msgstr "Nhập khẩu tất cả..."
 
 #: vcards/vcardimportexportplugininterface.cpp:44
-#, fuzzy, kde-format
+#, kde-format
 msgid "Import vCard…"
-msgstr "Danh sách &nhập vào"
+msgstr "Nhập khẩu vCard..."
 
 #: vcards/vcardimportexportplugininterface.cpp:45
-#, fuzzy, kde-format
+#, kde-format
 msgid "Import contacts from a vCard file."
-msgstr "Tất cả cá c trường  liên hệ"
+msgstr "Nhập khẩu danh bạ từ tệp vCard."
 
 #: vcards/vcardimportexportplugininterface.cpp:52
-#, fuzzy, kde-format
+#, kde-format
 msgid "Export contacts to a vCard 4.0 file."
-msgstr "Danh sách &nhập vào"
+msgstr "Xuất khẩu danh bạ vào tệp vCard 4.0."
 
 #: vcards/vcardimportexportplugininterface.cpp:53
-#, fuzzy, kde-format
+#, kde-format
 msgid "Export vCard 4.0…"
-msgstr "Danh sách &nhập vào"
+msgstr "Xuất khẩu vCard 4.0..."
 
 #: vcards/vcardimportexportplugininterface.cpp:58
-#, fuzzy, kde-format
+#, kde-format
 msgid "Export vCard 3.0…"
-msgstr "Danh sách &nhập vào"
+msgstr "Xuất khẩu vCard 3.0..."
 
 #: vcards/vcardimportexportplugininterface.cpp:59
-#, fuzzy, kde-format
+#, kde-format
 msgid "Export contacts to a vCard 3.0 file."
-msgstr "Danh sách &nhập vào"
+msgstr "Xuất khẩu danh bạ vào tệp vCard 3.0."
 
 #: vcards/vcardimportexportplugininterface.cpp:64
-#, fuzzy, kde-format
+#, kde-format
 msgid "Export vCard 2.1…"
-msgstr "Danh sách &nhập vào"
+msgstr "Xuất khẩu vCard 2.1..."
 
 #: vcards/vcardimportexportplugininterface.cpp:65
-#, fuzzy, kde-format
+#, kde-format
 msgid "Export contacts to a vCard 2.1 file."
-msgstr "Danh sách &nhập vào"
+msgstr "Xuất khẩu danh bạ vào tệp vCard 2.1."
 
 #: vcards/vcardimportexportplugininterface.cpp:113
 #, kde-format
 msgid "vCard (*.vcf *.vcard *.vct *.gcrd);;All files (*)"
-msgstr ""
+msgstr "Thẻ vCard (*.vcf *.vcard *.vct *.gcrd);;Tất cả các tệp (*)"
 
 #: vcards/vcardimportexportplugininterface.cpp:114
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:window"
 msgid "Select vCard to Import"
-msgstr "File sẽ xuất ra"
+msgstr "Chọn vCard để Nhập Khẩu"
 
 #: vcards/vcardimportexportplugininterface.cpp:120
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:window"
 msgid "vCard Import Failed"
-msgstr "Nhập vào file văn bản"
+msgstr "Nhập khẩu vCard Thất Bại"
 
 #: vcards/vcardimportexportplugininterface.cpp:134
-#, fuzzy, kde-kuit-format
+#, kde-kuit-format
 msgctxt "@info"
 msgid "<para>Unable to access vCard:</para><para>%1</para>"
-msgstr "Danh sách &phân phốị.."
+msgstr "<para>Không thể truy cập vCard:</para><para>%1</para>"
 
 #: vcards/vcardimportexportplugininterface.cpp:436
 #, kde-format
@@ -724,33 +768,35 @@ msgid ""
 "You have selected a list of contacts, shall they be exported to several "
 "files?"
 msgstr ""
+"Bạn đã chọn một danh sách các liên hệ, chúng có được xuất ra nhiều tệp "
+"không?"
 
 #: vcards/vcardimportexportplugininterface.cpp:439
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action:button"
 msgid "Export to One File"
-msgstr "Điện thoại di động"
+msgstr "Xuất khẩu vào một tệp"
 
 #: vcards/vcardimportexportplugininterface.cpp:440
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action:button"
 msgid "Export to Several Files"
-msgstr "Điện thoại di động"
+msgstr "Xuất khẩu nhiều tệp"
 
 #: windows-contacts/windowscontactimportexportplugininterface.cpp:29
-#, fuzzy, kde-format
+#, kde-format
 msgid "Import Windows Contact file…"
-msgstr "Danh sách &nhập vào"
+msgstr "Nhập tệp liên hệ Windows..."
 
 #: windows-contacts/windowscontactimportexportplugininterface.cpp:30
-#, fuzzy, kde-format
+#, kde-format
 msgid "Import contacts from windows contact file."
-msgstr "Tất cả cá c trường  liên hệ"
+msgstr "Nhập khẩu liên hệ từ tệp liên hệ Windows."
 
 #: windows-contacts/windowscontactimportexportplugininterface.cpp:68
 #, kde-format
 msgid "Windows Contact file (*.contact)"
-msgstr ""
+msgstr "Tệp liên hệ Windows (*.contact)"
 
 #, fuzzy
 #~ msgid "Import vCard..."

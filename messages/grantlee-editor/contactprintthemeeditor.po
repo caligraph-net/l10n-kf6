@@ -1,0 +1,227 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the grantlee-editor package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: grantlee-editor\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-16 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: contactprintthemeconfiguredialog.cpp:32
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure"
+msgstr "Cấu hình"
+
+#: contactprintthemeconfiguredialog.cpp:43
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Default contact:"
+msgstr "Liên hệ mặc định:"
+
+#: contactprintthemeconfiguredialog.cpp:49
+#, kde-format
+msgid "General"
+msgstr "chung"
+
+#: contactprintthemeconfiguredialog.cpp:52
+#, kde-format
+msgid "Default Template"
+msgstr "Bản mẫu mặc định"
+
+#. i18n: ectx: Menu (edit)
+#: contactprintthemeeditorui.rc:16
+#, kde-format
+msgid "&Edit"
+msgstr "&Sửa"
+
+#. i18n: ectx: Menu (Display)
+#: contactprintthemeeditorui.rc:22
+#, kde-format
+msgid "&Display"
+msgstr "&Bộ hiển thị"
+
+#: editorpage.cpp:55
+#, kde-format
+msgid "Theme Templates:"
+msgstr "Mẫu chủ đề:"
+
+#: main.cpp:22 main.cpp:24
+#, kde-format
+msgid "Contact Print Theme Editor"
+msgstr "Trình biên tập chủ đề in liên hệ"
+
+#: main.cpp:26
+#, kde-format
+msgid "Copyright © 2015-%1 contactprintthemeeditor authors"
+msgstr "Bản quyền © 2015-%1 tác giả contactprintthemeeditor"
+
+#: main.cpp:27
+#, kde-format
+msgctxt "@info:credit"
+msgid "Laurent Montel"
+msgstr "Laurent Montel"
+
+#: main.cpp:27
+#, kde-format
+msgid "Maintainer"
+msgstr "Bảo trì viên"
+
+#: themeeditormainwindow.cpp:76
+#, kde-format
+msgid "Load Recent Theme..."
+msgstr "Tải Chủ đề Gần đây..."
+
+#: themeeditormainwindow.cpp:83
+#, kde-format
+msgctxt "@action"
+msgid "Add Extra Page..."
+msgstr "Thêm trang bổ sung..."
+
+#: themeeditormainwindow.cpp:87
+#, kde-format
+msgid "Upload theme..."
+msgstr "Tải lên chủ đề..."
+
+#: themeeditormainwindow.cpp:93
+#, kde-format
+msgid "New theme..."
+msgstr "Chủ đề mới..."
+
+#: themeeditormainwindow.cpp:96
+#, kde-format
+msgid "Open theme..."
+msgstr "Mở chủ đề..."
+
+#: themeeditormainwindow.cpp:98
+#, kde-format
+msgid "Save theme"
+msgstr "Lưu chủ đề"
+
+#: themeeditormainwindow.cpp:101
+#, kde-format
+msgid "Save theme as..."
+msgstr "Lưu chủ đề dưới tên..."
+
+#: themeeditormainwindow.cpp:107
+#, kde-format
+msgctxt "@action"
+msgid "Install theme"
+msgstr "Cài đặt chủ đề"
+
+#: themeeditormainwindow.cpp:111
+#, kde-format
+msgctxt "@action"
+msgid "Insert File..."
+msgstr "Chèn Tệp..."
+
+#: themeeditormainwindow.cpp:115
+#, kde-format
+msgctxt "@action"
+msgid "Manage themes..."
+msgstr "Quản lý chủ đề..."
+
+#: themeeditormainwindow.cpp:119
+#, kde-format
+msgid "Update view"
+msgstr "Cập nhật xem"
+
+#: themeeditormainwindow.cpp:190 themeeditormainwindow.cpp:323
+#, kde-format
+msgid "Select theme directory"
+msgstr "Chọn thư mục chủ đề"
+
+#: themeeditormainwindow.cpp:206
+#, kde-format
+msgid "Directory does not contain a theme file. We cannot load theme."
+msgstr "Thư mục không chứa tệp chủ đề. Chúng tôi không thể tải chủ đề."
+
+#: themeeditorpage.cpp:40
+#, kde-format
+msgid "Editor (%1)"
+msgstr "Trình biên tập (%1)"
+
+#: themeeditorpage.cpp:46
+#, kde-format
+msgid "Desktop File"
+msgstr "Tệp desktop"
+
+#: themeeditorpage.cpp:134
+#, kde-format
+msgid "Theme already exists. Do you want to overwrite it?"
+msgstr "Chủ đề đã tồn tại. Bạn có muốn ghi đè lên nó không?"
+
+#: themeeditorpage.cpp:135
+#, kde-format
+msgid "Theme already exists"
+msgstr "Chủ đề đã tồn tại"
+
+#: themeeditorpage.cpp:143
+#, kde-format
+msgid "Cannot create theme folder."
+msgstr "Không thể tạo thư mục chủ đề."
+
+#: themeeditorpage.cpp:153
+#, kde-format
+msgid "Theme installed in \"%1\""
+msgstr "Chủ đề đã được cài đặt trong \"%1\""
+
+#: themeeditorpage.cpp:174
+#, kde-format
+msgid "We cannot add preview file in zip file"
+msgstr "Chúng tôi không thể thêm tệp xem thử vào tệp zip"
+
+#: themeeditorpage.cpp:174
+#, kde-format
+msgid "Failed to add file."
+msgstr "Không thể thêm tệp."
+
+#: themeeditorpage.cpp:188
+#, kde-format
+msgid "My favorite KMail header"
+msgstr "Đầu tải KMail yêu thích của tôi"
+
+#: themeeditorpage.cpp:211
+#, kde-format
+msgid "Filename of extra page"
+msgstr "Tên tệp của trang bổ sung"
+
+#: themeeditorpage.cpp:211
+#, kde-format
+msgid "Filename:"
+msgstr "Tên tệp:"
+
+#: themeeditorpage.cpp:257
+#, kde-format
+msgid "Do you want to save current project?"
+msgstr "Bạn có muốn lưu dự án hiện tại không?"
+
+#: themeeditorpage.cpp:258
+#, kde-format
+msgid "Save current project"
+msgstr "Lưu dự án hiện tại"
+
+#: themetemplatewidget.cpp:35
+#, kde-format
+msgid "You can drag and drop element on editor to import template"
+msgstr "Bạn có thể kéo và thả phần tử vào trình biên tập để nhập khẩu bản mẫu"

@@ -19,122 +19,122 @@ msgstr ""
 "X-Generator: LocFactoryEditor 1.6.4a6\n"
 
 #: transfer-plugins/bittorrent/kget_bittorrentfactory.json
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Bit Torrent Info"
 msgctxt "Name"
 msgid "Bittorrent"
-msgstr "Thông tin BitTorrent"
+msgstr "BitTorrent"
 
 #: transfer-plugins/checksumsearch/kget_checksumsearchfactory.json
 msgctxt "Name"
 msgid "Checksum Search"
-msgstr ""
+msgstr "Tìm kiếm giá trị tổng kiểm"
 
 #: transfer-plugins/kio/kget_kiofactory.json
 msgctxt "Name"
 msgid "KIO"
-msgstr ""
+msgstr "KIO"
 
 #: transfer-plugins/metalink/kget_metalinkfactory.json
 msgctxt "Name"
 msgid "Metalink"
-msgstr ""
+msgstr "Metalink"
 
 #: transfer-plugins/mirrorsearch/kget_mirrorsearchfactory.json
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "MetaLink TransferFactory"
 msgctxt "Name"
 msgid "Mirror Search"
-msgstr "MetaLink TransferFactory"
+msgstr "Tìm kiếm gương"
 
 #: transfer-plugins/mmsthreads/kget_mmsfactory.json
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "SMS"
 msgctxt "Name"
 msgid "MMS"
-msgstr "SMS"
+msgstr "MMS"
 
 #: transfer-plugins/multisegmentkio/kget_multisegkiofactory.json
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Multi Segments KIO TransferFactory"
 msgctxt "Name"
 msgid "Multi Segment KIO"
-msgstr "Multi Segments KIO TransferFactory"
+msgstr "Multi Segment KIO"
 
 #: transfer-plugins/bittorrent/kget_bittorrentfactory.json
 msgctxt "Description"
 msgid "Allows files to be downloaded using Bittorrent"
-msgstr ""
+msgstr "Cho phép tải về các tệp bằng Bittorrent"
 
 #: transfer-plugins/checksumsearch/kget_checksumsearchfactory.json
 msgctxt "Description"
 msgid "Tries to find checksums for a specified URL"
-msgstr ""
+msgstr "Cố gắng tìm giá trị tổng kiểm cho một URL được chỉ định"
 
 #: transfer-plugins/kio/kget_kiofactory.json
-#, fuzzy
+#, 
 #| msgctxt "Comment"
 #| msgid "Transfer plugin for KGet"
 msgctxt "Description"
 msgid "Classic file downloader plugin"
-msgstr "Phần bổ sung truyền cho KGet"
+msgstr "Phần cài cắm truyền tải tệp cổ điển"
 
 #: transfer-plugins/metalink/kget_metalinkfactory.json
 msgctxt "Description"
 msgid "Allows files to be downloaded from Metalink"
-msgstr ""
+msgstr "Cho phép tải về các tệp từ Metalink"
 
 #: transfer-plugins/mirrorsearch/kget_mirrorsearchfactory.json
 msgctxt "Description"
 msgid "Allows KGet to search through mirror search engines for files"
-msgstr ""
+msgstr "Cho phép KGet tìm kiếm các tệp thông qua các công cụ tìm kiếm mirror"
 
 #: transfer-plugins/mmsthreads/kget_mmsfactory.json
-#, fuzzy
+#, 
 #| msgctxt "Comment"
 #| msgid "Transfer plugin for KGet"
 msgctxt "Description"
 msgid "MMS-Transfer plugin for KGet"
-msgstr "Phần bổ sung truyền cho KGet"
+msgstr "Phần cài cắm truyền MMS cho KGet"
 
 #: transfer-plugins/multisegmentkio/kget_multisegkiofactory.json
-#, fuzzy
+#, 
 #| msgctxt "Comment"
 #| msgid "Transfer plugin for KGet"
 msgctxt "Description"
 msgid "Multithreaded file download plugin"
-msgstr "Phần bổ sung truyền cho KGet"
+msgstr "Phần cài cắm tải về tệp đa luồng"
 
 #: transfer-plugins/bittorrent/kget_bittorrentfactory.json
 msgctxt "Authors Name"
 msgid "Lukas Appelhans"
-msgstr ""
+msgstr "Lukas Appelhans"
 
 #: transfer-plugins/checksumsearch/kget_checksumsearchfactory.json
 msgctxt "Authors Name"
 msgid "Matthias Fuchs"
-msgstr ""
+msgstr "Matthias Fuchs"
 
 #: transfer-plugins/kio/kget_kiofactory.json
 msgctxt "Authors Name"
 msgid "Dario Massarin"
-msgstr ""
+msgstr "Dario Massarin"
 
 #: transfer-plugins/metalink/kget_metalinkfactory.json
 #: transfer-plugins/mirrorsearch/kget_mirrorsearchfactory.json
 #: transfer-plugins/multisegmentkio/kget_multisegkiofactory.json
 msgctxt "Authors Name"
 msgid "Manolo Valdes"
-msgstr ""
+msgstr "Manolo Valdes"
 
 #: transfer-plugins/mmsthreads/kget_mmsfactory.json
 msgctxt "Authors Name"
 msgid "Ernesto Rodriguez Ortiz"
-msgstr ""
+msgstr "Ernesto Rodriguez Ortiz"
 
 #, fuzzy
 #~| msgctxt "Comment"

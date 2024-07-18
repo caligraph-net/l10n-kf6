@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2024-03-19 01:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: component/name
+#: org.kde.kgraphviewer.appdata.xml:9
+msgid "KGraphViewer"
+msgstr "KGraphViewer"
+
+#. (itstool) path: component/summary
+#: org.kde.kgraphviewer.appdata.xml:10
+msgid "A Graphviz DOT graph viewer"
+msgstr "Trình xem đồ thị DOT của Graphviz"
+
+#. (itstool) path: description/p
+#: org.kde.kgraphviewer.appdata.xml:12
+msgid "KGraphViewer is a Graphviz DOT graph file viewer, aimed to replace the other outdated Graphviz tools. Graphs are commonly used in scientific domains and particularly in computer science."
+msgstr ""
+"KGraphViewer là một trình xem tệp đồ thị Graphviz DOT, nhằm thay thế các "
+"công cụ Graphviz lỗi thời khác. Đồ thị thường được sử dụng trong các lĩnh "
+"vực khoa học và đặc biệt là trong khoa học máy tính."
+
+#. (itstool) path: description/p
+#: org.kde.kgraphviewer.appdata.xml:16
+msgid "Features:"
+msgstr "Tính năng:"
+
+#. (itstool) path: ul/li
+#: org.kde.kgraphviewer.appdata.xml:18
+msgid "Zooming"
+msgstr "Phóng to/thu nhỏ"
+
+#. (itstool) path: ul/li
+#: org.kde.kgraphviewer.appdata.xml:19
+msgid "Threaded loading of several graphs in tabs"
+msgstr "Tải nhiều đồ thị trong các tab một cách đa luồng"
+
+#. (itstool) path: ul/li
+#: org.kde.kgraphviewer.appdata.xml:20
+msgid "Saving of the recent files list"
+msgstr "Lưu danh sách các tệp gần đây"
+
+#. (itstool) path: ul/li
+#: org.kde.kgraphviewer.appdata.xml:21
+msgid "Manual reload of files"
+msgstr "Tải lại tệp theo sổ tay"
+
+#. (itstool) path: ul/li
+#: org.kde.kgraphviewer.appdata.xml:22
+msgid "Display of a bird-eye view of the graph"
+msgstr "Hiển thị góc nhìn toàn cảnh của đồ thị"
+
+#. (itstool) path: ul/li
+#: org.kde.kgraphviewer.appdata.xml:23
+msgid "Moving of the graph by dragging"
+msgstr "Di chuyển đồ thị bằng cách kéo"
+
+#. (itstool) path: ul/li
+#: org.kde.kgraphviewer.appdata.xml:24
+msgid "Full featured printing"
+msgstr "In đầy đủ tính năng"
+
+#. (itstool) path: ul/li
+#: org.kde.kgraphviewer.appdata.xml:25
+msgid "Perfect drawing of all graphviz example graphs"
+msgstr "Vẽ hoàn hảo tất cả các biểu đồ ví dụ của Graphviz"
+
+#. (itstool) path: ul/li
+#: org.kde.kgraphviewer.appdata.xml:26
+msgid "Automatically choose dot for directed graphs and neato for undirected"
+msgstr "Tự động chọn dot cho đồ thị có hướng và neato cho đồ thị không hướng"
+
+#. (itstool) path: ul/li
+#: org.kde.kgraphviewer.appdata.xml:27
+msgid "Possibility to use an arbitrary layout algorithm as soon as it produces xdot format"
+msgstr ""
+"Khả năng sử dụng bất kỳ thuật toán bố cục nào miễn là nó tạo ra định dạng "
+"xdot"
+
+#. (itstool) path: ul/li
+#: org.kde.kgraphviewer.appdata.xml:28
+msgid "Automatic reloading with user confirmation of (externally) modified files (configurable)"
+msgstr ""
+"Tự động tải lại với xác nhận của người dùng đối với các tệp đã được chỉnh "
+"sửa (bên ngoài) (có thể cấu hình)"
+
+#. (itstool) path: ul/li
+#: org.kde.kgraphviewer.appdata.xml:29
+msgid "Open new instances as new tabs in the old one (configurable)"
+msgstr ""
+"Mở các hiện thể mới dưới dạng các tab mới trong hiện thể cũ (có thể cấu "
+"hình)"

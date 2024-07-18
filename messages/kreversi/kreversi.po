@@ -1,0 +1,725 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kreversi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kreversi\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-05 00:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: commondefs.cpp:31
+#, kde-format
+msgid "Blue"
+msgstr "Xanh"
+
+#: commondefs.cpp:31
+#, kde-format
+msgid "Red"
+msgstr "Đỏ"
+
+#. i18n: ectx: property (text), widget (QLabel, blackLabel)
+#: commondefs.cpp:32 startgamedialog.ui:24
+#, kde-format
+msgid "Black"
+msgstr "Đen"
+
+#. i18n: ectx: property (text), widget (QLabel, whiteLabel)
+#: commondefs.cpp:32 startgamedialog.ui:146
+#, kde-format
+msgid "White"
+msgstr "Trắng"
+
+#: kexthighscore.cpp:198
+#, kde-format
+msgid "Score"
+msgstr "Điểm số"
+
+#: kexthighscore.cpp:201
+#, kde-format
+msgid "Mean Score"
+msgstr "Điểm trung bình"
+
+#: kexthighscore.cpp:206
+#, kde-format
+msgid "Best Score"
+msgstr "Điểm số cao nhất"
+
+#: kexthighscore.cpp:210
+#, kde-format
+msgid "Elapsed Time"
+msgstr "Thời gian đã trôi qua"
+
+#: kexthighscore_gui.cpp:147
+#, kde-format
+msgctxt "@title:tab"
+msgid "Best &Scores"
+msgstr "Đ&iểm số cao nhất"
+
+#: kexthighscore_gui.cpp:152
+#, kde-format
+msgctxt "@title:tab"
+msgid "&Players"
+msgstr "Người c&hơi"
+
+#: kexthighscore_gui.cpp:157
+#, kde-format
+msgctxt "@title:tab"
+msgid "Statistics"
+msgstr "Thống kê"
+
+#: kexthighscore_gui.cpp:163
+#, kde-format
+msgctxt "@title:tab"
+msgid "Histogram"
+msgstr "Biểu đồ"
+
+#: kexthighscore_gui.cpp:170
+#, kde-format
+msgid "View world-wide highscores"
+msgstr "Xem điểm cao trên toàn thế giới"
+
+#: kexthighscore_gui.cpp:176
+#, kde-format
+msgid "View world-wide players"
+msgstr "Xem người chơi trên toàn thế giới"
+
+#: kexthighscore_gui.cpp:221
+#, kde-format
+msgctxt "@title:window"
+msgid "Highscores"
+msgstr "Bảng điểm cao"
+
+#: kexthighscore_gui.cpp:327
+#, kde-format
+msgid "Winner"
+msgstr "Người chiến thắng"
+
+#: kexthighscore_gui.cpp:365
+#, kde-format
+msgid "Won Games"
+msgstr "Trò chơi đã thắng"
+
+#: kexthighscore_gui.cpp:393
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure Highscores"
+msgstr "Cấu hình Điểm cao"
+
+#: kexthighscore_gui.cpp:406
+#, kde-format
+msgctxt "@title:tan"
+msgid "Main"
+msgstr "Chính"
+
+#: kexthighscore_gui.cpp:421 kexthighscore_gui.cpp:460
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Nickname:"
+msgstr "Biệt danh:"
+
+#: kexthighscore_gui.cpp:432
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Comment:"
+msgstr "Bình luận:"
+
+#: kexthighscore_gui.cpp:442
+#, kde-format
+msgctxt "@option:check"
+msgid "World-wide highscores enabled"
+msgstr "Bật điểm cao toàn cầu"
+
+#: kexthighscore_gui.cpp:449
+#, kde-format
+msgctxt "@title:tab"
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: kexthighscore_gui.cpp:455
+#, kde-format
+msgctxt "@title:group"
+msgid "Registration Data"
+msgstr "Dữ liệu đăng ký"
+
+#: kexthighscore_gui.cpp:466
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Key:"
+msgstr "Khóa:"
+
+#: kexthighscore_gui.cpp:473 kexthighscore_gui.cpp:516
+#, kde-format
+msgctxt "@action:button"
+msgid "Remove"
+msgstr "Xoá"
+
+#: kexthighscore_gui.cpp:518
+#, kde-format
+msgid ""
+"This will permanently remove your registration key. You will not be able to "
+"use the currently registered nickname anymore."
+msgstr ""
+"Việc này sẽ xoá vĩnh viễn khoá đăng ký của bạn. Bạn sẽ không thể sử dụng "
+"biệt danh đã đăng ký hiện tại nữa."
+
+#: kexthighscore_gui.cpp:561
+#, kde-format
+msgid "Please choose a non empty nickname."
+msgstr "Vui lòng chọn một biệt danh không được để trống."
+
+#: kexthighscore_gui.cpp:565
+#, kde-format
+msgid "Nickname already in use. Please choose another one"
+msgstr "Biệt danh đã được sử dụng. Vui lòng chọn một cái khác"
+
+#: kexthighscore_gui.cpp:586
+#, kde-format
+msgctxt "@title:window"
+msgid "Enter Your Nickname"
+msgstr "Nhập biệt danh của bạn"
+
+#: kexthighscore_gui.cpp:595
+#, kde-format
+msgid "Congratulations, you have won!"
+msgstr "Xin chúc mừng, bạn đã chiến thắng!"
+
+#: kexthighscore_gui.cpp:600
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Enter your nickname:"
+msgstr "Nhập biệt danh của bạn:"
+
+#: kexthighscore_gui.cpp:608
+#, kde-format
+msgctxt "@option:check"
+msgid "Do not ask again."
+msgstr "Không hỏi lại."
+
+#: kexthighscore_internal.cpp:33
+msgid "anonymous"
+msgstr "vô danh"
+
+#: kexthighscore_internal.cpp:258
+#, kde-format
+msgid "Games Count"
+msgstr "Số lượng trò chơi"
+
+#: kexthighscore_internal.cpp:265
+#, kde-format
+msgid "Comment"
+msgstr "chú thích"
+
+#: kexthighscore_internal.cpp:587
+msgid "Undefined error."
+msgstr "Lỗi không xác định."
+
+#: kexthighscore_internal.cpp:588
+msgid "Missing argument(s)."
+msgstr "Thiếu đối số."
+
+#: kexthighscore_internal.cpp:589
+msgid "Invalid argument(s)."
+msgstr "Đối số không hợp lệ."
+
+#: kexthighscore_internal.cpp:591
+msgid "Unable to connect to MySQL server."
+msgstr "Không thể kết nối với máy chủ MySQL."
+
+#: kexthighscore_internal.cpp:592
+msgid "Unable to select database."
+msgstr "Không thể bôi đen cơ sở dữ liệu."
+
+#: kexthighscore_internal.cpp:593
+msgid "Error on database query."
+msgstr "Lỗi truy vấn cơ sở dữ liệu."
+
+#: kexthighscore_internal.cpp:594
+msgid "Error on database insert."
+msgstr "Lỗi khi chèn vào cơ sở dữ liệu."
+
+#: kexthighscore_internal.cpp:596
+msgid "Nickname already registered."
+msgstr "Biệt danh đã được đăng ký."
+
+#: kexthighscore_internal.cpp:597
+msgid "Nickname not registered."
+msgstr "Biệt danh chưa được đăng ký."
+
+#: kexthighscore_internal.cpp:598
+msgid "Invalid key."
+msgstr "Khóa không hợp lệ."
+
+#: kexthighscore_internal.cpp:599
+msgid "Invalid submit key."
+msgstr "Khóa gửi không hợp lệ."
+
+#: kexthighscore_internal.cpp:601
+msgid "Invalid level."
+msgstr "Cấp độ không hợp lệ."
+
+#: kexthighscore_internal.cpp:602
+msgid "Invalid score."
+msgstr "Điểm không hợp lệ."
+
+#: kexthighscore_internal.cpp:606
+msgid "Unable to contact world-wide highscore server"
+msgstr "Không thể liên hệ với máy chủ điểm cao toàn cầu"
+
+#: kexthighscore_internal.cpp:615
+#, kde-format
+msgid "Unable to open temporary file."
+msgstr "Không thể mở tệp tạm thời."
+
+#: kexthighscore_internal.cpp:624
+#, kde-format
+msgid "Server URL: %1"
+msgstr "Địa chỉ URL máy chủ: %1"
+
+#: kexthighscore_internal.cpp:646
+#, kde-format
+msgctxt "@title:window"
+msgid "Message from World-Wide High Scores Server"
+msgstr "Thông điệp từ Máy chủ Bảng Điểm Cao Toàn Cầu"
+
+#: kexthighscore_internal.cpp:652
+#, kde-format
+msgid "Invalid answer from world-wide highscores server."
+msgstr "Câu trả lời không hợp lệ từ máy chủ bảng xếp hạng toàn cầu."
+
+#: kexthighscore_internal.cpp:653
+#, kde-format
+msgid "Raw message: %1"
+msgstr "Thông điệp thô: %1"
+
+#: kexthighscore_internal.cpp:665
+#, kde-format
+msgid "Invalid answer from world-wide highscores server (missing item: %1)."
+msgstr "Câu trả lời không hợp lệ từ máy chủ điểm cao toàn cầu (thiếu mục: %1)."
+
+#: kexthighscore_tab.cpp:32
+#, kde-format
+msgid "all"
+msgstr "tất cả"
+
+#: kexthighscore_tab.cpp:61
+#, kde-format
+msgid "Select player:"
+msgstr "Chọn người chơi:"
+
+#: kexthighscore_tab.cpp:97
+msgid "Total:"
+msgstr "Tổng:"
+
+#: kexthighscore_tab.cpp:97
+msgid "Won:"
+msgstr "Đã thắng:"
+
+#: kexthighscore_tab.cpp:97
+msgid "Lost:"
+msgstr "Thua:"
+
+#: kexthighscore_tab.cpp:98
+msgid "Draw:"
+msgstr "Vẽ:"
+
+#: kexthighscore_tab.cpp:101
+msgid "Current:"
+msgstr "Hiện tại:"
+
+#: kexthighscore_tab.cpp:101
+msgid "Max won:"
+msgstr "Điểm cao nhất:"
+
+#: kexthighscore_tab.cpp:101
+msgid "Max lost:"
+msgstr "Thua tối đa:"
+
+#: kexthighscore_tab.cpp:116
+#, kde-format
+msgctxt "@title:group"
+msgid "Game Counts"
+msgstr "Số lượng bàn chơi"
+
+#: kexthighscore_tab.cpp:129
+#, kde-format
+msgctxt "@title:group"
+msgid "Trends"
+msgstr "Xu hướng"
+
+#: kexthighscore_tab.cpp:217
+#, kde-format
+msgctxt "@title:column"
+msgid "From"
+msgstr "Từ"
+
+#: kexthighscore_tab.cpp:218
+#, kde-format
+msgctxt "@title:column"
+msgid "To"
+msgstr "Đến"
+
+#: kexthighscore_tab.cpp:219
+#, kde-format
+msgctxt "@title:column"
+msgid "Count"
+msgstr "Số lượng"
+
+#: kexthighscore_tab.cpp:220
+#, kde-format
+msgctxt "@title:column"
+msgid "Percent"
+msgstr "Phần trăm"
+
+#. i18n: ectx: label, entry (AnimationSpeed), group (Game)
+#: kreversi.kcfg:9
+#, kde-format
+msgid "The speed of the animations."
+msgstr "Tốc độ của các hoạt ảnh."
+
+#. i18n: ectx: label, entry (CompetitiveGameChoice), group (Game)
+#: kreversi.kcfg:18
+#, kde-format
+msgid "Whether to play competitively in contrast to casually."
+msgstr "Xem có nên chơi cạnh tranh hay chơi một cách thoải mái."
+
+#. i18n: ectx: label, entry (UseColoredChips), group (Game)
+#: kreversi.kcfg:22
+#, kde-format
+msgid "Whether to use colored chips instead of black and white ones."
+msgstr "Sử dụng các con chip màu thay vì đen và trắng."
+
+#. i18n: ectx: Menu (view)
+#: kreversiui.rc:13
+#, kde-format
+msgid "&View"
+msgstr "X&em"
+
+#. i18n: ectx: Menu (settings)
+#: kreversiui.rc:18
+#, kde-format
+msgid "&Settings"
+msgstr "&Thiết lập"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kreversiui.rc:25
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Thanh công cụ chính"
+
+#: kreversiview.cpp:255
+#, kde-format
+msgid "Red can not perform any move. It is blue turn again."
+msgstr "Đỏ không thể thực hiện bất kỳ nước đi nào. Lượt chơi lại thuộc về xanh."
+
+#: kreversiview.cpp:256
+#, kde-format
+msgid "White can not perform any move. It is black turn again."
+msgstr "Trắng không thể thực hiện bất kỳ nước đi nào. Đến lượt đen lại."
+
+#: kreversiview.cpp:265
+#, kde-format
+msgid "Blue can not perform any move. It is red turn again."
+msgstr "Xanh không thể thực hiện bất kỳ nước đi nào. Đến lượt đỏ lại."
+
+#: kreversiview.cpp:266
+#, kde-format
+msgid "Black can not perform any move. It is white turn again."
+msgstr ""
+"Quân đen không thể thực hiện bất kỳ nước đi nào. Lượt chơi lại thuộc về "
+"quân trắng."
+
+#: main.cpp:26
+#, kde-format
+msgid "KReversi"
+msgstr "KReversi"
+
+#: main.cpp:28
+#, kde-format
+msgid "KDE Reversi Board Game"
+msgstr "Trò chơi Reversi của KDE"
+
+#: main.cpp:30
+#, kde-format
+msgid ""
+"(c) 1997-2000, Mario Weilguni\n"
+"(c) 2004-2006, Inge Wallin\n"
+"(c) 2006, Dmitry Suzdalev"
+msgstr ""
+"(c) 1997-2000, Mario Weilguni\n(c) 2004-2006, Inge Wallin\n(c) 2006, Dmitry "
+"Suzdalev"
+
+#: main.cpp:33
+#, kde-format
+msgid "Mario Weilguni"
+msgstr "Mario Weilguni"
+
+#: main.cpp:33 main.cpp:34
+#, kde-format
+msgid "Original author"
+msgstr "Tác giả gốc"
+
+#: main.cpp:34
+#, kde-format
+msgid "Inge Wallin"
+msgstr "Inge Wallin"
+
+#: main.cpp:35
+#, kde-format
+msgid "Dmitry Suzdalev"
+msgstr "Dmitry Suzdalev"
+
+#: main.cpp:35
+#, kde-format
+msgid "Game rewrite for KDE4. Current maintainer."
+msgstr "Viết lại trò chơi cho KDE4. Người bảo trì hiện tại."
+
+#: main.cpp:36
+#, kde-format
+msgid "Simon Hürlimann"
+msgstr "Simon Hürlimann"
+
+#: main.cpp:36
+#, kde-format
+msgid "Action refactoring"
+msgstr "Cải tổ hành động"
+
+#: main.cpp:37
+#, kde-format
+msgid "Mats Luthman"
+msgstr "Mats Luthman"
+
+#: main.cpp:37
+#, kde-format
+msgid "Game engine, ported from his JAVA applet."
+msgstr "Bộ máy trò chơi, được chuyển từ ứng dụng Java của ông."
+
+#: main.cpp:38
+#, kde-format
+msgid "Arne Klaassen"
+msgstr "Arne Klaassen"
+
+#: main.cpp:38
+#, kde-format
+msgid "Original raytraced chips."
+msgstr "Các chip được phác họa bằng tia ban đầu."
+
+#: main.cpp:39
+#, kde-format
+msgid "Mauricio Piacentini"
+msgstr "Mauricio Piacentini"
+
+#: main.cpp:39
+#, kde-format
+msgid "Vector chips and background for KDE4."
+msgstr "Các chip vector và nền cho KDE4."
+
+#: main.cpp:40
+#, kde-format
+msgid "Brian Croom"
+msgstr "Brian Croom"
+
+#: main.cpp:40
+#, kde-format
+msgid "Port rendering code to KGameRenderer"
+msgstr "Chuyển mã kết xuất sang KGameRenderer"
+
+#: main.cpp:41
+#, kde-format
+msgid "Denis Kuplyakov"
+msgstr "Denis Kuplyakov"
+
+#: main.cpp:41
+#, kde-format
+msgid "Port rendering code to QML, redesign and a lot of improvements"
+msgstr "Chuyển mã kết xuất sang QML, thiết kế lại và nhiều cải tiến"
+
+#: main.cpp:49
+#, kde-format
+msgid "Start with demo game playing"
+msgstr "Bắt đầu với bàn chơi demo"
+
+#: mainwindow.cpp:49
+#, kde-format
+msgid "Press start game!"
+msgstr "Nhấn khởi động trò chơi!"
+
+#: mainwindow.cpp:64
+#, kde-format
+msgctxt "@title:window"
+msgid "Move History"
+msgstr "Lịch sử di chuyển"
+
+#: mainwindow.cpp:111
+#, kde-format
+msgctxt "@option:check"
+msgid "Show Last Move"
+msgstr "Hiển thị Nước Cuối Cùng"
+
+#: mainwindow.cpp:116
+#, kde-format
+msgctxt "@option:check"
+msgid "Show Legal Moves"
+msgstr "Hiển thị các nước đi hợp pháp"
+
+#: mainwindow.cpp:121
+#, kde-format
+msgctxt "@title:menu"
+msgid "Animation Speed"
+msgstr "Tốc độ hiệu ứng động"
+
+#: mainwindow.cpp:125
+#, kde-format
+msgctxt "@item:inmenu animation speed"
+msgid "Slow"
+msgstr "Chậm"
+
+#: mainwindow.cpp:126
+#, kde-format
+msgctxt "@item:inmenu animation speed"
+msgid "Normal"
+msgstr "Bình thường"
+
+#: mainwindow.cpp:127
+#, kde-format
+msgctxt "@item:inmenu animation speed"
+msgid "Fast"
+msgstr "Nhanh"
+
+#: mainwindow.cpp:133
+#, kde-format
+msgctxt "@option:check"
+msgid "Use Colored Chips"
+msgstr "Sử dụng Chip Màu"
+
+#: mainwindow.cpp:141
+#, kde-format
+msgctxt "@action"
+msgid "Show Move History"
+msgstr "Hiển thị lịch sử di chuyển"
+
+#: mainwindow.cpp:219 mainwindow.cpp:234 mainwindow.cpp:247 mainwindow.cpp:255
+#, kde-format
+msgid "Game is drawn!"
+msgstr "Bàn chơi đã hòa!"
+
+#: mainwindow.cpp:222 mainwindow.cpp:237
+#, kde-format
+msgid "You win!"
+msgstr "Bạn đã thắng!"
+
+#: mainwindow.cpp:225 mainwindow.cpp:240
+#, kde-format
+msgid "You have lost!"
+msgstr "Bạn đã thua!"
+
+#: mainwindow.cpp:249 mainwindow.cpp:251 mainwindow.cpp:257 mainwindow.cpp:259
+#, kde-format
+msgid "%1 has won!"
+msgstr "%1 đã thắng!"
+
+#: mainwindow.cpp:265 mainwindow.cpp:266 mainwindow.cpp:268 mainwindow.cpp:269
+#, kde-format
+msgid ""
+"\n"
+"%1: %2"
+msgstr "\n%1: %2"
+
+#: mainwindow.cpp:272
+#, kde-format
+msgctxt "@title:window"
+msgid "Game Over"
+msgstr "Kết thúc trò chơi"
+
+#: mainwindow.cpp:339
+#, kde-format
+msgid "GAME OVER"
+msgstr "HẾT GAME"
+
+#: mainwindow.cpp:344 mainwindow.cpp:345 mainwindow.cpp:351 mainwindow.cpp:352
+#, kde-format
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: mainwindow.cpp:348
+#, kde-format
+msgid "%1 turn"
+msgstr "%1 lượt"
+
+#: mainwindow.cpp:355
+#, kde-format
+msgid "%1's turn"
+msgstr "Lượt của %1"
+
+#: mainwindow.cpp:365 startgamedialog.cpp:155 startgamedialog.cpp:169
+#, kde-format
+msgid "Computer"
+msgstr "Máy tính"
+
+#: startgamedialog.cpp:26
+#, kde-format
+msgctxt "@title:window"
+msgid "New game"
+msgstr "Trò chơi mới"
+
+#: startgamedialog.cpp:36
+#, kde-format
+msgctxt "@action:button"
+msgid "Start Game"
+msgstr "Khởi động Bàn chơi"
+
+#: startgamedialog.cpp:37
+#, kde-format
+msgid "Let's start playing!"
+msgstr "Hãy bắt đầu chơi!"
+
+#: startgamedialog.cpp:38
+#, kde-format
+msgctxt "@action:button"
+msgid "Quit"
+msgstr "Thoát"
+
+#: startgamedialog.cpp:39
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Quit KReversi"
+msgstr "Thoát KReversi"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: startgamedialog.ui:79 startgamedialog.ui:201
+#, kde-format
+msgid "Name:"
+msgstr "Tên:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: startgamedialog.ui:96 startgamedialog.ui:218
+#, kde-format
+msgid "Skill level:"
+msgstr "Mức độ kỹ năng:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: startgamedialog.ui:124
+#, kde-format
+msgid "VS"
+msgstr "VS"

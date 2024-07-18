@@ -1,0 +1,181 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-thunderbolt package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-thunderbolt\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-25 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ui/DeviceList.qml:25
+#, kde-format
+msgid "Enable Thunderbolt devices"
+msgstr "Bật các thiết bị Thunderbolt"
+
+#: ui/DeviceList.qml:60
+#, kde-format
+msgid "No Thunderbolt devices connected"
+msgstr "Không có thiết bị Thunderbolt được kết nối"
+
+#: ui/DeviceList.qml:61
+#, kde-format
+msgid "Plug in a Thunderbolt device"
+msgstr "Cắm thiết bị Thunderbolt"
+
+#: ui/DeviceView.qml:62
+#, kde-format
+msgid "Vendor:"
+msgstr "Nhà sản xuất:"
+
+#: ui/DeviceView.qml:66
+#, kde-format
+msgid "UID:"
+msgstr "UID:"
+
+#: ui/DeviceView.qml:70
+#, kde-format
+msgid "Status:"
+msgstr "Trạng thái:"
+
+#: ui/DeviceView.qml:75
+#, kde-format
+msgid "Authorized at:"
+msgstr "Được ủy quyền tại:"
+
+#: ui/DeviceView.qml:80
+#, kde-format
+msgid "Connected at:"
+msgstr "Đã kết nối tại:"
+
+#: ui/DeviceView.qml:85
+#, kde-format
+msgid "Enrolled at:"
+msgstr "Đã đăng ký tại:"
+
+#: ui/DeviceView.qml:89
+#, kde-format
+msgid "Yes"
+msgstr "Có"
+
+#: ui/DeviceView.qml:89
+#, kde-format
+msgid "No"
+msgstr "Không"
+
+#: ui/DeviceView.qml:90
+#, kde-format
+msgid "Trusted:"
+msgstr "Đáng tin cậy:"
+
+#: ui/DeviceView.qml:99
+#, kde-format
+msgid "Authorizing..."
+msgstr "Đang ủy quyền..."
+
+#: ui/DeviceView.qml:99
+#, kde-format
+msgid "Authorize"
+msgstr "Uỷ quyền"
+
+#: ui/DeviceView.qml:110 ui/DeviceView.qml:130
+#, kde-format
+msgid "Failed to enroll device <b>%1</b>: %2"
+msgstr "Không thể đăng ký thiết bị <b>%1</b>: %2"
+
+#: ui/DeviceView.qml:117
+#, kde-format
+msgid "Trust this Device"
+msgstr "Tin tưởng thiết bị này"
+
+#: ui/DeviceView.qml:138
+#, kde-format
+msgid "Revoke Trust"
+msgstr "Hủy bỏ Tin cậy"
+
+#: ui/DeviceView.qml:150
+#, kde-format
+msgid "Error changing device trust: <b>%1</b>: %2"
+msgstr "Lỗi khi thay đổi độ tin cậy của thiết bị: <b>%1</b>: %2"
+
+#: ui/DeviceView.qml:167
+#, kde-format
+msgid ""
+"Hint: trusted device will be automatically authorized the next time it is "
+"connected to the computer."
+msgstr ""
+"Gợi ý: thiết bị đáng tin cậy sẽ được tự động ủy quyền vào lần kết nối tiếp "
+"theo với máy tính."
+
+#: ui/DeviceView.qml:168
+#, kde-format
+msgid ""
+"Hint: an untrusted device needs to be manually authorized each time it is "
+"connected to the computer."
+msgstr ""
+"Gợi ý: một thiết bị không đáng tin cậy cần được ủy quyền thủ công mỗi khi "
+"được kết nối với máy tính."
+
+#: ui/main.qml:33
+#, kde-format
+msgid "Thunderbolt support has been disabled in BIOS"
+msgstr "Hỗ trợ Thunderbolt đã bị tắt trong BIOS"
+
+#: ui/main.qml:34
+#, kde-format
+msgid "Follow your system manufacturer's guide to enable Thunderbolt support"
+msgstr ""
+"Làm theo hướng dẫn của nhà sản xuất hệ thống của bạn để kích hoạt hỗ trợ "
+"Thunderbolt"
+
+#: ui/main.qml:42
+#, kde-format
+msgid "Thunderbolt subsystem is disabled or unavailable"
+msgstr "Hệ thống Thunderbolt bị tắt hoặc không khả dụng"
+
+#: ui/main.qml:43
+#, kde-format
+msgid ""
+"If the device supports Thunderbolt, try plugging in a Thunderbolt device"
+msgstr "Nếu thiết bị hỗ trợ Thunderbolt, hãy thử cắm một thiết bị Thunderbolt"
+
+#: ui/utils.js:16
+msgid "Disconnected"
+msgstr "Đã ngắt kết nối"
+
+#: ui/utils.js:18
+msgid "Connecting"
+msgstr "Đang kết nối"
+
+#: ui/utils.js:20
+msgid "Connected"
+msgstr "Đã kết nối"
+
+#: ui/utils.js:23
+msgid "Authorization Error"
+msgstr "Lỗi uỷ quyền"
+
+#: ui/utils.js:25
+msgid "Authorizing"
+msgstr "Đang ủy quyền"
+
+#: ui/utils.js:29
+msgid "Reduced Functionality"
+msgstr "Chức năng Giảm"
+
+#: ui/utils.js:31
+msgid "Connected & Authorized"
+msgstr "Đã kết nối và được ủy quyền"
+
+#: ui/utils.js:38
+msgid "Trusted"
+msgstr "Đáng tin cậy"

@@ -1,0 +1,336 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the messagelib package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: messagelib\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-26 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: attachment/attachmentcompressjob.cpp:50
+#, kde-format
+msgid "Could not initiate attachment compression."
+msgstr "Không thể bắt đầu nén tệp đính kèm."
+
+#: attachment/attachmentcompressjob.cpp:60
+#, kde-format
+msgid "Could not compress the attachment."
+msgstr "Không thể nén tệp đính kèm."
+
+#: attachment/attachmentfromfolderjob.cpp:51
+#, kde-format
+msgid "Could not create compressed file."
+msgstr "Không thể tạo tệp nén."
+
+#: attachment/attachmentfromfolderjob.cpp:90
+#, kde-format
+msgid ""
+"The resulting attachment would be larger than the maximum allowed size, "
+"aborting."
+msgstr "Kết quả đính kèm sẽ lớn hơn kích thước tối đa được phép, đang hủy bỏ."
+
+#: attachment/attachmentfromfolderjob.cpp:100
+#: attachment/attachmentfromfolderjob.cpp:119
+#, kde-format
+msgid "Could not add %1 to the archive"
+msgstr "Không thể thêm %1 vào kho trữ"
+
+#: attachment/attachmentfromfolderjob.cpp:113
+#, kde-format
+msgid "Could not open %1 for reading."
+msgstr "Không thể mở %1 để đọc."
+
+#: attachment/attachmentfromurljob.cpp:68
+#, kde-format
+msgctxt "a file called 'unknown.ext'"
+msgid "unknown%1"
+msgstr "không xác định%1"
+
+#: attachment/attachmentfromurljob.cpp:70
+#, kde-format
+msgctxt "a file called 'unknown'"
+msgid "unknown"
+msgstr "không rõ"
+
+#: attachment/attachmentfromurljob.cpp:102
+#, kde-format
+msgid "\"%1\" not found. Please specify the full path."
+msgstr "\"%1\" không được tìm thấy. Vui lòng chỉ định đường dẫn đầy đủ."
+
+#: attachment/attachmentfromurljob.cpp:111
+#, kde-format
+msgid "You may not attach files bigger than %1. Share it with storage service."
+msgstr "Bạn không thể đính kèm tệp lớn hơn %1. Hãy chia sẻ nó với dịch vụ lưu trữ."
+
+#: attachment/attachmentpropertiesdialog.cpp:134
+#, kde-format
+msgid ""
+"<p>The <em>MIME type</em> of the file:</p><p>Normally, you do not need to "
+"touch this setting, since the type of the file is automatically checked; "
+"but, sometimes, %1 may not detect the type correctly -- here is where you "
+"can fix that.</p>"
+msgstr ""
+"<p>Kiểu <em>MIME</em> của tệp:</p><p>Thông thường, bạn không cần chỉnh sửa "
+"cài đặt này, vì kiểu tệp được tự động kiểm tra; tuy nhiên, đôi khi %1 có "
+"thể không phát hiện chính xác kiểu -- đây là nơi bạn có thể sửa điều "
+"đó.</p>"
+
+#: attachment/attachmentpropertiesdialog.cpp:142
+#, kde-format
+msgid ""
+"<p>The estimated size of the attachment:</p><p>Note that, in an email "
+"message, a binary file encoded with base64 will take up four thirds the "
+"actual size of the file.</p>"
+msgstr ""
+"<p>Kích thước ước tính của tệp đính kèm:</p><p>Lưu ý rằng, trong một thư "
+"điện tử, một tệp nhị phân được mã hoá bằng base64 sẽ chiếm dụng bốn phần ba "
+"kích thước thực tế của tệp.</p>"
+
+#: attachment/attachmentpropertiesdialog.cpp:147
+#, kde-format
+msgid ""
+"<p>The file name of the part:</p><p>Although this defaults to the name of "
+"the attached file, it does not specify the file to be attached; rather, it "
+"suggests a file name to be used by the recipient's mail agent when saving "
+"the part to disk.</p>"
+msgstr ""
+"<p>Tên tệp của phần:</p><p>Mặc dù mặc định là tên của tệp đính kèm, nó "
+"không chỉ định tệp cần đính kèm; thay vào đó, nó đề xuất một tên tệp để đại "
+"diện thư của người nhận sử dụng khi lưu phần này vào ổ đĩa.</p>"
+
+#: attachment/attachmentpropertiesdialog.cpp:154
+#, kde-format
+msgid ""
+"<p>A description of the part:</p><p>This is just an informational "
+"description of the part, much like the Subject is for the whole message; "
+"most mail agents will show this information in their message previews "
+"alongside the attachment's icon.</p>"
+msgstr ""
+"<p>Mô tả về phần đính kèm:</p><p>Đây chỉ là một mô tả thông tin về phần "
+"đính kèm, tương tự như phần Chủ đề dành cho toàn bộ thông điệp; hầu hết các "
+"ứng dụng thư điện tử sẽ hiển thị thông tin này trong phần xem thử thông "
+"điệp cùng với biểu tượng của tệp đính kèm.</p>"
+
+#: attachment/attachmentpropertiesdialog.cpp:161
+#, kde-format
+msgid ""
+"<p>The transport encoding of this part:</p><p>Normally, you do not need to "
+"change this, since %1 will use a decent default encoding, depending on the "
+"MIME type; yet, sometimes, you can significantly reduce the size of the "
+"resulting message, e.g. if a PostScript file does not contain binary data, "
+"but consists of pure text -- in this case, choosing \"quoted-printable\" "
+"over the default \"base64\" will save up to 25% in resulting message size.</"
+"p>"
+msgstr ""
+"<p>Mã hoá truyền tải của phần này:</p><p>Thông thường, bạn không cần thay "
+"đổi điều này, vì %1 sẽ sử dụng mã hoá mặc định phù hợp, tùy thuộc vào kiểu "
+"MIME; tuy nhiên, đôi khi, bạn có thể giảm đáng kể kích thước của thông điệp "
+"kết quả, vd. nếu một tệp PostScript không chứa dữ liệu nhị phân mà chỉ gồm "
+"văn bản thuần túy -- trong trường hợp này, việc chọn \"quoted-printable\" "
+"thay vì mặc định \"base64\" sẽ tiết kiệm đến 25% kích thước thông điệp kết "
+"quả.</p>"
+
+#: attachment/attachmentpropertiesdialog.cpp:172
+#, kde-format
+msgid ""
+"<p>Check this option if you want to suggest to the recipient the automatic "
+"(inline) display of this part in the message preview, instead of the default "
+"icon view;</p><p>Technically, this is carried out by setting this part's "
+"<em>Content-Disposition</em> header field to \"inline\" instead of the "
+"default \"attachment\".</p>"
+msgstr ""
+"<p>Đánh dấu lựa chọn này nếu bạn muốn đề xuất cho người nhận hiển thị tự "
+"động (nội tuyến) phần này trong bản xem trước thông điệp, thay vì chế độ "
+"xem biểu tượng mặc định;</p><p>Về mặt kỹ thuật, điều này được thực hiện "
+"bằng cách thiết lập trường <em>Content-Disposition</em> trong đầu tải của "
+"phần này thành \"inline\" thay vì \"attachment\" mặc định.</p>"
+
+#: attachment/attachmentpropertiesdialog.cpp:180
+#, kde-format
+msgid ""
+"<p>Check this option if you want this message part to be signed.</p><p>The "
+"signature will be made with the key that you associated with the currently-"
+"selected identity.</p>"
+msgstr ""
+"<p>Đánh dấu lựa chọn này nếu bạn muốn phần thông điệp này được "
+"ký.</p><p>Chữ ký sẽ được tạo bằng khóa mà bạn đã liên kết với danh tính "
+"hiện đang được chọn.</p>"
+
+#: attachment/attachmentpropertiesdialog.cpp:186
+#, kde-format
+msgid ""
+"<p>Check this option if you want this message part to be encrypted.</"
+"p><p>The part will be encrypted for the recipients of this message.</p>"
+msgstr ""
+"<p>Đánh dấu lựa chọn này nếu bạn muốn phần thông điệp này được mật mã "
+"hoá.</p><p>Phần này sẽ được mật mã hoá cho những người nhận thông điệp "
+"này.</p>"
+
+#: attachment/attachmentpropertiesdialog.cpp:307
+#: attachment/attachmentpropertiesdialog.cpp:322
+#, kde-format
+msgctxt "@title:window"
+msgid "Attachment Properties"
+msgstr "Thuộc tính tệp đính kèm"
+
+#: attachment/attachmentupdatejob.cpp:40
+#, kde-format
+msgid "URL is empty."
+msgstr "URL trống."
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: attachment/ui/attachmentpropertiesdialog.ui:39
+#: attachment/ui/attachmentpropertiesdialog_readonly.ui:60
+#, kde-format
+msgctxt "MIME type of this attachment"
+msgid "Type:"
+msgstr "Loại:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: attachment/ui/attachmentpropertiesdialog.ui:82
+#: attachment/ui/attachmentpropertiesdialog_readonly.ui:87
+#, kde-format
+msgctxt "size of the attachment"
+msgid "Size:"
+msgstr "Kích thước:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: attachment/ui/attachmentpropertiesdialog.ui:109
+#: attachment/ui/attachmentpropertiesdialog_readonly.ui:114
+#, kde-format
+msgctxt "file name of the attachment"
+msgid "Name:"
+msgstr "Tên:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#. i18n: ectx: property (text), widget (QLabel, descriptionLabel)
+#: attachment/ui/attachmentpropertiesdialog.ui:139
+#: attachment/ui/attachmentpropertiesdialog_readonly.ui:134
+#, kde-format
+msgctxt "description of the attachment"
+msgid "Description:"
+msgstr "Mô tả:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: attachment/ui/attachmentpropertiesdialog.ui:169
+#: attachment/ui/attachmentpropertiesdialog_readonly.ui:154
+#, kde-format
+msgctxt "encoding of the attachment"
+msgid "Encoding:"
+msgstr "Mã hóa:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, autoDisplay)
+#: attachment/ui/attachmentpropertiesdialog.ui:187
+#, kde-format
+msgid "Suggest automatic display"
+msgstr "Gợi ý hiển thị tự động"
+
+#. i18n: ectx: property (text), widget (QCheckBox, encrypt)
+#: attachment/ui/attachmentpropertiesdialog.ui:194
+#, kde-format
+msgid "Encrypt this attachment"
+msgstr "Mật mã hoá tệp đính kèm này"
+
+#. i18n: ectx: property (text), widget (QCheckBox, sign)
+#: attachment/ui/attachmentpropertiesdialog.ui:201
+#, kde-format
+msgid "Sign this attachment"
+msgstr "Ký vào tệp đính kèm này"
+
+#. i18n: ectx: whatsthis, entry (OverrideCharacterEncoding), group (Reader)
+#: settings/messagecore.kcfg:32
+#, kde-format
+msgid ""
+"Changing this from its default 'Auto' will force the use of the specified "
+"encoding for all emails, regardless of what they specify themselves."
+msgstr ""
+"Thay đổi cài đặt này từ mặc định 'Tự động' sẽ buộc sử dụng mã hoá được chỉ "
+"định cho tất cả email, bất kể chúng tự chỉ định như thế nào."
+
+#. i18n: ectx: label, entry (QuotedText3), group (Reader)
+#: settings/messagecore.kcfg:35
+#, kde-format
+msgid "This is the color used in the 3rd level of quoted text"
+msgstr "Đây là màu sử dụng ở cấp độ 3 của văn bản trích dẫn"
+
+#. i18n: ectx: label, entry (QuotedText2), group (Reader)
+#: settings/messagecore.kcfg:39
+#, kde-format
+msgid "This is the color used in the 2nd level of quoted text"
+msgstr "Đây là màu sử dụng ở cấp độ thứ 2 của văn bản trích dẫn"
+
+#. i18n: ectx: label, entry (QuotedText1), group (Reader)
+#: settings/messagecore.kcfg:43
+#, kde-format
+msgid "This is the color used in the 1st level of quoted text"
+msgstr "Đây là màu sử dụng ở cấp độ 1 của văn bản trích dẫn"
+
+#. i18n: ectx: label, entry (ReplaceReplyPrefix), group (Composer)
+#: settings/messagecore.kcfg:54
+#, kde-format
+msgid "Replace recognized prefi&x with \"Re:\""
+msgstr "Tha&y thế tiền tố được nhận dạng bằng \"Re:\""
+
+#. i18n: ectx: label, entry (ReplaceForwardPrefix), group (Composer)
+#: settings/messagecore.kcfg:62
+#, kde-format
+msgid "Replace recognized prefix with \"&Fwd:\""
+msgstr "Thay thế tiền tố được nhận dạng bằng \"&Fwd:\""
+
+#. i18n: ectx: label, entry (MaximumAttachmentSize), group (Composer)
+#: settings/messagecore.kcfg:67
+#, kde-format
+msgid ""
+"The maximum size in bits that email attachments are allowed to have (-1 for "
+"no limit)"
+msgstr ""
+"Kích thước tối đa bằng bit mà các tệp đính kèm thư điện tử được phép có (-1 "
+"để không giới hạn)"
+
+#: utils/dateformatter.cpp:158
+#, kde-format
+msgctxt "invalid time specified"
+msgid "unknown"
+msgstr "không rõ"
+
+#: utils/dateformatter.cpp:172
+#, kde-format
+msgid "Today %1"
+msgstr "Hôm nay %1"
+
+#: utils/dateformatter.cpp:175
+#, kde-format
+msgid "Yesterday %1"
+msgstr "Hôm qua %1"
+
+#: utils/dateformatter.cpp:180
+#, kde-format
+msgctxt "1. weekday, 2. time"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: utils/stringutil.cpp:417
+#, kde-format
+msgctxt "signal that this email is defined in my identity"
+msgid "Me"
+msgstr "Tôi"

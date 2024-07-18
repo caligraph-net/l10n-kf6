@@ -1,0 +1,169 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-sdk package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-sdk\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-03 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/main.cpp:68
+#, kde-format
+msgid "Start with category"
+msgstr "Bắt đầu với loại"
+
+#: src/main.cpp:68
+#, kde-format
+msgid "category"
+msgstr "loại"
+
+#: src/main.cpp:71
+#, kde-format
+msgid "Start full-screen"
+msgstr "Khởi động toàn màn hình"
+
+#: src/main.cpp:74
+#, kde-format
+msgid "Run in icon-picker mode"
+msgstr "Chạy ở chế độ chọn biểu tượng"
+
+#: src/qml/Actions.qml:16
+#, kde-format
+msgid "Open with External Program"
+msgstr "Mở bằng Chương trình Bên ngoài"
+
+#: src/qml/Actions.qml:21
+#, kde-format
+msgid "Open Containing Folder"
+msgstr "Mở thư mục chứa"
+
+#: src/qml/Actions.qml:26
+#, kde-format
+msgid "Insert Name"
+msgstr "Chèn Tên"
+
+#: src/qml/Actions.qml:26
+#, kde-format
+msgid "Copy Name to Clipboard"
+msgstr "Sao chép Tên vào Bảng nháp"
+
+#: src/qml/Actions.qml:30
+#, kde-format
+msgid "Icon name copied to clipboard"
+msgstr "Tên biểu tượng đã được sao chép vào bảng nháp"
+
+#: src/qml/Actions.qml:36
+#, kde-format
+msgid "Take Screenshot…"
+msgstr "Chụp ảnh màn hình..."
+
+#: src/qml/Actions.qml:39
+#, kde-format
+msgid "Breeze Colors"
+msgstr "Màu sắc Breeze"
+
+#: src/qml/Actions.qml:43
+#, kde-format
+msgid "Breeze Dark Colors"
+msgstr "Màu sắc Breeze Dark"
+
+#: src/qml/Actions.qml:47 src/qml/GlobalMenuBar.qml:35
+#, kde-format
+msgid "Breeze (Normal) and Breeze Dark"
+msgstr "Breeze (Bình thường) và Breeze Dark"
+
+#: src/qml/Actions.qml:51 src/qml/GlobalMenuBar.qml:23
+#, kde-format
+msgid "Active Color Scheme"
+msgstr "Quy hoạch màu sắc đang hoạt động"
+
+#: src/qml/Actions.qml:56
+#, kde-format
+msgid "View in Other Icon Themes"
+msgstr "Xem trong các chủ đề biểu tượng khác"
+
+#: src/qml/Comparison.qml:30
+#, kde-format
+msgctxt "@title placeholder is an icon name"
+msgid "Other versions of %1"
+msgstr "Các phiên bản khác của %1"
+
+#: src/qml/GlobalMenuBar.qml:19
+#, kde-format
+msgid "File"
+msgstr "Tệp"
+
+#: src/qml/GlobalMenuBar.qml:21
+#, kde-format
+msgid "Export Montage with Color Scheme…"
+msgstr "Xuất khẩu Montage với Bảng Màu..."
+
+#: src/qml/GlobalMenuBar.qml:27
+#, kde-format
+msgid "Breeze (Normal)"
+msgstr "Breeze (Bình thường)"
+
+#: src/qml/GlobalMenuBar.qml:31
+#, kde-format
+msgid "Breeze Dark"
+msgstr "Breeze Dark"
+
+#: src/qml/GlobalMenuBar.qml:42
+#, kde-format
+msgid "Quit"
+msgstr "Thoát"
+
+#: src/qml/GlobalMenuBar.qml:48
+#, kde-format
+msgid "View"
+msgstr "Xem"
+
+#: src/qml/GlobalMenuBar.qml:51
+#, kde-format
+msgid "Zoom In"
+msgstr "Thu phóng"
+
+#: src/qml/GlobalMenuBar.qml:57
+#, kde-format
+msgid "Zoom Out"
+msgstr "Thu phóng"
+
+#: src/qml/Preview.qml:51 src/qml/ResponsivePreview.qml:37
+#, kde-format
+msgid "File name:"
+msgstr "Tên tệp:"
+
+#: src/qml/Preview.qml:57 src/qml/ResponsivePreview.qml:42
+#, kde-format
+msgid "Category:"
+msgstr "Danh mục:"
+
+#: src/qml/Preview.qml:63 src/qml/ResponsivePreview.qml:47
+#, kde-format
+msgid "Scalable:"
+msgstr "Có thể mở rộng:"
+
+#: src/qml/Preview.qml:65 src/qml/ResponsivePreview.qml:48
+#, kde-format
+msgid "yes"
+msgstr "có"
+
+#: src/qml/Preview.qml:65 src/qml/ResponsivePreview.qml:48
+#, kde-format
+msgid "no"
+msgstr "không"
+
+#: src/qml/Tools.qml:97
+#, kde-format
+msgid "Color scheme:"
+msgstr "Bảng màu:"

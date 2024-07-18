@@ -1,0 +1,213 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kapman package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kapman\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-04-29 00:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: gamescene.cpp:90
+#, kde-format
+msgid "GET READY!!!"
+msgstr "SẴN SÀNG!!!"
+
+#: gamescene.cpp:94
+#, kde-format
+msgid "Press any arrow key to start"
+msgstr "Nhấn bất kỳ phím mũi tên nào để khởi động"
+
+#: gamescene.cpp:104
+#, kde-format
+msgid "PAUSED"
+msgstr "TẠMNGỪNG"
+
+#: gamescene.cpp:228
+#, kde-format
+msgctxt "The number of the game level"
+msgid "Level %1"
+msgstr "Cấp độ %1"
+
+#. i18n: ectx: label, entry (Theme), group (General)
+#: kapman.kcfg:9
+#, kde-format
+msgid "The graphical theme to be used."
+msgstr "Chủ đề đồ họa được sử dụng."
+
+#. i18n: ectx: label, entry (Sounds), group (General)
+#: kapman.kcfg:13
+#, kde-format
+msgid "Whether sound effects should be played."
+msgstr "Liệu hiệu ứng âm thanh có nên được phát."
+
+#: kapmanmainwindow.cpp:63
+#, kde-format
+msgctxt "@option:check"
+msgid "Play Sounds"
+msgstr "Phát Âm Thanh"
+
+#: kapmanmainwindow.cpp:67
+#, kde-format
+msgctxt "@action"
+msgid "&Change Level…"
+msgstr "&Thay đổi cấp độ..."
+
+#: kapmanmainwindow.cpp:72 kapmanmainwindow.cpp:249
+#, kde-format
+msgctxt "Used to display the current level of play to the user"
+msgid "Level: %1"
+msgstr "Cấp độ: %1"
+
+#: kapmanmainwindow.cpp:74 kapmanmainwindow.cpp:254
+#, kde-format
+msgctxt "Used to inform the user of their current score"
+msgid "Score: %1"
+msgstr "Điểm số: %1"
+
+#: kapmanmainwindow.cpp:76 kapmanmainwindow.cpp:259
+#, kde-format
+msgctxt "Used to tell the user how many lives they have left"
+msgid "Lives: %1"
+msgstr "Mạng sống: %1"
+
+#: kapmanmainwindow.cpp:138
+#, kde-format
+msgid "Are you sure you want to quit the current game?"
+msgstr "Bạn có chắc chắn muốn thoát khỏi trò chơi hiện tại?"
+
+#: kapmanmainwindow.cpp:139
+#, kde-format
+msgctxt "@title:window"
+msgid "New Game"
+msgstr "Trò chơi mới"
+
+#: kapmanmainwindow.cpp:140
+#, kde-format
+msgctxt "@action;button"
+msgid "Quit Game"
+msgstr "Thoát Bàn Chơi"
+
+#: kapmanmainwindow.cpp:165
+#, kde-format
+msgid "Your score is %1 point."
+msgid_plural "Your score is %1 points."
+msgstr[0] "Điểm của bạn là %1 điểm."
+
+#: kapmanmainwindow.cpp:165
+#, kde-format
+msgid "Game Over"
+msgstr "Kết thúc trò chơi"
+
+#: kapmanmainwindow.cpp:168
+#, kde-format
+msgid "You cheated, no Highscore for you ;)"
+msgstr "Bạn đã gian lận, không có điểm cao cho bạn ;)"
+
+#: kapmanmainwindow.cpp:168
+#, kde-format
+msgid "Cheater!"
+msgstr "Kẻ gian lận!"
+
+#: kapmanmainwindow.cpp:188
+#, kde-format
+msgctxt "@title:window"
+msgid "Change Level"
+msgstr "Thay đổi cấp độ"
+
+#: kapmanmainwindow.cpp:188
+#, kde-format
+msgctxt "@label:textbox The number of the game level"
+msgid "Level:"
+msgstr "Cấp độ:"
+
+#: kapmanmainwindow.cpp:233
+#, kde-format
+msgid "Are you sure you want to quit Kapman?"
+msgstr "Bạn có chắc chắn muốn thoát Kapman?"
+
+#: kapmanmainwindow.cpp:234
+#, kde-format
+msgctxt "@title:window To quit Kapman"
+msgid "Quit"
+msgstr "Thoát"
+
+#: main.cpp:27
+#, kde-format
+msgid "Kapman"
+msgstr "Kapman"
+
+#: main.cpp:29
+#, kde-format
+msgid "Kapman: Go through the levels escaping ghosts!"
+msgstr "Kapman: Vượt qua các cấp độ thoát khỏi những con ma!"
+
+#: main.cpp:31
+#, kde-format
+msgid "Copyright (c) 2007-2008 The KapTeam"
+msgstr "Bản quyền (c) 2007-2008 The KapTeam"
+
+#: main.cpp:35
+#, kde-format
+msgid "Alexandre Galinier"
+msgstr "Alexandre Galinier"
+
+#: main.cpp:35 main.cpp:36 main.cpp:37 main.cpp:38 main.cpp:39 main.cpp:40
+#, kde-format
+msgid "Developer"
+msgstr "nhà phát triển"
+
+#: main.cpp:36
+#, kde-format
+msgid "Nathalie Liesse"
+msgstr "Nathalie Liesse"
+
+#: main.cpp:37
+#, kde-format
+msgid "Ömer Fadıl USTA"
+msgstr "Ömer Fadıl USTA"
+
+#: main.cpp:38
+#, kde-format
+msgid "Pierre-Benoit Besse"
+msgstr "Pierre-Benoit Besse"
+
+#: main.cpp:39
+#, kde-format
+msgid "Romain Castan"
+msgstr "Romain Castan"
+
+#: main.cpp:40
+#, kde-format
+msgid "Thomas Gallinari"
+msgstr "Thomas Gallinari"
+
+#: main.cpp:41
+#, kde-format
+msgid "Roney Gomes"
+msgstr "Roney Gomes"
+
+#: main.cpp:41
+#, kde-format
+msgid "Port to KgSound framework"
+msgstr "Chuyển sang kết cấu KgSound"

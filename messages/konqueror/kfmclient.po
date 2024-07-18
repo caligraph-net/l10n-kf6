@@ -20,12 +20,12 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "Tên của bạn"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "Emails của bạn"
 
 #: kfmclient.cpp:57
 #, kde-format
@@ -53,12 +53,14 @@ msgid ""
 "The mimetype of the URL. Allows Konqueror to determine in advance which "
 "component to use, making it start faster."
 msgstr ""
+"URL của kiểu MIME. Cho phép Konqueror xác định trước thành phần nào sẽ được "
+"sử dụng, giúp nó khởi động nhanh hơn."
 
 #: kfmclient.cpp:78
 #, kde-format
 msgctxt "the name for a the value of an option on the command line help"
 msgid "type"
-msgstr ""
+msgstr "kiểu"
 
 #: kfmclient.cpp:80
 #, kde-format
@@ -73,7 +75,7 @@ msgstr "Đối số cho lệnh"
 #: kfmclient.cpp:84
 #, kde-format
 msgid "The files/URLs opened by the application will be deleted after use"
-msgstr ""
+msgstr "Các tệp/URL được mở bởi ứng dụng sẽ bị xóa sau khi sử dụng"
 
 #: kfmclient.cpp:93
 #, kde-format
@@ -85,7 +87,7 @@ msgstr ""
 "Cú pháp:\n"
 
 #: kfmclient.cpp:94
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "  kfmclient openURL 'url' ['mimetype']\n"
 #| "            # Opens a window showing 'url'.\n"
@@ -101,15 +103,13 @@ msgid ""
 "            #   If 'url' is omitted, the start page is shown.\n"
 "\n"
 msgstr ""
-"  kfmclient openURL 'url' ['mimetype']\n"
-"            # Mở một cửa sổ hiển thị 'url'.\n"
-"            #  'url' có thể là một đường dẫn tương đối\n"
-"            #   hoặc tên tệp, như . hay subdir/\n"
-"            #   Nếu bỏ qua 'url', thì sẽ dùng $HOME thay thế.\n"
-"\n"
+"  kfmclient openURL 'url' ['mimetype']\n            # Mở một cửa sổ hiển "
+"thị 'url'.\n            #  'url' có thể là một đường dẫn tương đối\n        "
+"    #   hoặc tên tệp, như . hay subdir/\n            #   Nếu 'url' bị bỏ "
+"qua, thì trang khởi động sẽ được hiển thị.\n"
 
 #: kfmclient.cpp:99
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "            # If 'mimetype' is specified, it will be used to determine "
 #| "the\n"
@@ -126,10 +126,11 @@ msgid ""
 "            #   Please use the --mimetype option\n"
 "\n"
 msgstr ""
-"            # Nếu chỉ ra 'mimetype', nó sẽ được dùng để xác định ứng dụng\n"
-"            #   mà Konqueror cần dùng. Ví dụ, đặt thành text/html\n"
-"            #   cho một trang web để nó xuất hiện nhanh hơn\n"
-"\n"
+"            # Nếu chỉ ra 'kiểu MIME', nó sẽ được dùng để xác định ứng "
+"dụng\n            #   mà Konqueror cần dùng. Ví dụ, đặt thành text/html\n   "
+"         #   cho một trang web để nó xuất hiện nhanh hơn\n            # Lưu "
+"ý: cách chỉ ra kiểu MIME này đã lỗi thời.\n            #   Vui lòng dùng "
+"tùy chọn --mimetype\n\n"
 
 #: kfmclient.cpp:104
 #, kde-format
@@ -147,19 +148,19 @@ msgstr ""
 "\n"
 
 #: kfmclient.cpp:280
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Syntax Error: Not enough arguments\n"
 msgid "Syntax error, not enough arguments\n"
-msgstr "Lỗi cú pháp: Không đủ đối số\n"
+msgstr "Lỗi cú pháp, không đủ đối số\n"
 
 #: kfmclient.cpp:284
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Syntax Error: Too many arguments\n"
 msgid "Syntax error, too many arguments\n"
-msgstr "Lỗi cú pháp: Quá nhiều đối số\n"
+msgstr "Lỗi cú pháp, quá nhiều đối số\n"
 
 #: kfmclient.cpp:339
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Syntax Error: Unknown command '%1'\n"
 msgid "Syntax error, unknown command '%1'\n"
-msgstr "Lỗi cú pháp: Lệnh không biết '%1'\n"
+msgstr "Lỗi cú pháp, lệnh '%1' không rõ\n"

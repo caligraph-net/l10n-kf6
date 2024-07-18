@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2022-07-06 00:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: component/name
+#: org.kde.kio_audiocd.metainfo.xml:9
+msgid "KIO AudioCD"
+msgstr "KIO AudioCD"
+
+#. (itstool) path: component/summary
+#: org.kde.kio_audiocd.metainfo.xml:10
+msgid "Transparent integration of audio CDs with KDE Plasma and KDE applications with data conversion capabilities"
+msgstr ""
+"Tích hợp minh bạch các đĩa CD âm thanh với KDE Plasma và các ứng dụng KDE "
+"có khả năng chuyển đổi dữ liệu"
+
+#. (itstool) path: description/p
+#: org.kde.kio_audiocd.metainfo.xml:12
+msgid "KIO AudioCD is a KIO worker that enables KIO-aware applications (such as Dolphin or k3b) to access audio and CD text data on the audio compact disks. It allows transparent drag and drop conversion of audio data into the popular formats and has a configuration System Settings module available in the \"Multimedia\" section."
+msgstr ""
+"KIO AudioCD là một trình xử lý KIO cho phép các ứng dụng nhận thức KIO (như "
+"Dolphin hoặc k3b) truy cập dữ liệu âm thanh và văn bản CD trên đĩa CD âm "
+"thanh. Nó cho phép chuyển đổi dữ liệu âm thanh sang các định dạng phổ biến "
+"một cách minh bạch và có một mô-đun cấu hình Cài đặt Hệ thống có sẵn trong "
+"phần \"Đa phương tiện\"."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kio_audiocd.metainfo.xml:20
+msgid "KIO AudioCD configuration window"
+msgstr "Cửa sổ cấu hình KIO AudioCD"

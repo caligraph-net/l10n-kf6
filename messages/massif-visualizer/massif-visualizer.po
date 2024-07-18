@@ -1,0 +1,658 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the massif-visualizer package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: massif-visualizer\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-04-22 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: app/callgraphtab.cpp:90
+#, kde-format
+msgctxt "@action"
+msgid "Focus Most Expensive Node"
+msgstr "Nhắm vào Nút Tốn Kém Nhất"
+
+#. i18n: ectx: ToolBar (callgraphToolBar)
+#: app/callgraphtabui.rc:13
+#, kde-format
+msgid "CallGraph Toolbar"
+msgstr "Thanh công cụ CallGraph"
+
+#: app/charttab.cpp:187
+#, kde-format
+msgctxt "@action"
+msgid "Toggle Total Cost Graph"
+msgstr "Chuyển đổi Biểu đồ Tổng Chi Phí"
+
+#: app/charttab.cpp:193
+#, kde-format
+msgctxt "@action"
+msgid "Toggle Detailed Cost Graph"
+msgstr "Chuyển đổi Biểu đồ Chi phí Chi tiết"
+
+#: app/charttab.cpp:201
+#, kde-format
+msgid "Stacked diagrams"
+msgstr "Biểu đồ chồng"
+
+#: app/charttab.cpp:204
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Stacked diagrams:"
+msgstr "Biểu đồ chồng:"
+
+#: app/charttab.cpp:213
+#, kde-format
+msgctxt "@action"
+msgid "Hide Function"
+msgstr "Ẩn Chức Năng"
+
+#: app/charttab.cpp:216
+#, kde-format
+msgctxt "@action"
+msgid "Hide Other Functions"
+msgstr "Ẩn Các Chức Năng Khác"
+
+#: app/charttab.cpp:281
+#, kde-format
+msgid "time in %1"
+msgstr "thời gian trong %1"
+
+#: app/charttab.cpp:288
+#, kde-format
+msgid "memory heap size"
+msgstr "kích thước vùng nhớ"
+
+#: app/charttab.cpp:458
+#, kde-format
+msgid "Memory consumption of %1"
+msgstr "Mức tiêu thụ bộ nhớ của %1"
+
+#: app/charttab.cpp:459
+#, kde-format
+msgid "Peak of %1 at snapshot #%2"
+msgstr "Đỉnh của %1 tại ảnh chụp #%2"
+
+#: app/charttab.cpp:461
+#, kde-format
+msgid ""
+"Command: %1\n"
+"Valgrind Options: %2"
+msgstr "Lệnh: %1\nTùy chọn Valgrind: %2"
+
+#: app/charttab.cpp:466
+#, kde-format
+msgctxt "@title:window"
+msgid "Save Current Visualization"
+msgstr "Lưu Trực quan Hiện tại"
+
+#: app/charttab.cpp:468
+#, kde-format
+msgid "Images (*.png *.jpg *.tiff *.svg)"
+msgstr "Hình ảnh (*.png *.jpg *.tiff *.svg)"
+
+#: app/charttab.cpp:492
+#, kde-format
+msgid "Failed to save the image to %1."
+msgstr "Không thể lưu ảnh vào %1."
+
+#: app/charttab.cpp:503
+#, kde-format
+msgctxt "@title:window"
+msgid "Massif Chart Print Preview"
+msgstr "Xem thử Biểu đồ Massif"
+
+#. i18n: ectx: ToolBar (chartToolBar)
+#: app/charttabui.rc:17
+#, kde-format
+msgid "Chart Toolbar"
+msgstr "Thanh công cụ biểu đồ"
+
+#. i18n: ectx: property (text), widget (QLabel, costLabel)
+#: app/config.ui:17
+#, kde-format
+msgid "Cost Precision:"
+msgstr "Độ chính xác của chi phí:"
+
+#. i18n: ectx: property (text), widget (QLabel)
+#: app/config.ui:27
+#, kde-format
+msgid "Shorten Templates:"
+msgstr "Rút gọn Mẫu:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: app/config.ui:37
+#, kde-format
+msgid "Legend"
+msgstr "Chú giải"
+
+#. i18n: ectx: property (text), widget (QLabel, legendPositionLabel)
+#: app/config.ui:43
+#, kde-format
+msgid "Position:"
+msgstr "Vị trí:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_LegendPosition)
+#: app/config.ui:51
+#, kde-format
+msgid "North"
+msgstr "Bắc"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_LegendPosition)
+#: app/config.ui:56
+#, kde-format
+msgid "East"
+msgstr "Đông"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_LegendPosition)
+#: app/config.ui:61
+#, kde-format
+msgid "South"
+msgstr "Nam"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_LegendPosition)
+#: app/config.ui:66
+#, kde-format
+msgid "West"
+msgstr "Tây"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_LegendPosition)
+#: app/config.ui:71
+#, kde-format
+msgid "Floating"
+msgstr "Nổi"
+
+#. i18n: ectx: property (text), widget (QLabel, legendAlignmentLabel)
+#: app/config.ui:79
+#, kde-format
+msgid "Alignment:"
+msgstr "Căn chỉnh:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_LegendAlignment)
+#: app/config.ui:87
+#, kde-format
+msgid "Left"
+msgstr "Trái"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_LegendAlignment)
+#: app/config.ui:92
+#, kde-format
+msgid "Center"
+msgstr "Giữa"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_LegendAlignment)
+#: app/config.ui:97
+#, kde-format
+msgid "Right"
+msgstr "Phải"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_LegendAlignment)
+#: app/config.ui:102
+#, kde-format
+msgid "Top"
+msgstr "Trên cùng"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_LegendAlignment)
+#: app/config.ui:107
+#, kde-format
+msgid "Bottom"
+msgstr "Dưới"
+
+#. i18n: ectx: property (text), widget (QLabel, legendFontSizeLabel)
+#: app/config.ui:115
+#, kde-format
+msgid "Font Size:"
+msgstr "Cỡ phông chữ:"
+
+#: app/configdialog.cpp:41
+#, kde-format
+msgctxt "@title:tab"
+msgid "Settings"
+msgstr "thiết lập"
+
+#: app/documentwidget.cpp:111
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Loading file <filename>%1</filename>…"
+msgstr "Đang tải tệp <filename>%1</filename>…"
+
+#: app/documentwidget.cpp:191
+#, kde-format
+msgctxt "@title:tab"
+msgid "Memory Chart"
+msgstr "Biểu đồ bộ nhớ"
+
+#: app/documentwidget.cpp:199
+#, kde-format
+msgctxt "@title:tab"
+msgid "Callgraph"
+msgstr "Đồ thị gọi"
+
+#: app/documentwidget.cpp:205
+#, kde-format
+msgctxt "@title:tab"
+msgid "Allocators"
+msgstr "Bộ phân bổ"
+
+#: app/main.cpp:40
+#, kde-format
+msgid "Massif Visualizer"
+msgstr "Trình xem Massif"
+
+#: app/main.cpp:42
+#, kde-format
+msgid "A visualizer for output generated by Valgrind's massif tool."
+msgstr "Một trình trực quan hóa đầu ra được tạo ra bởi công cụ massif của Valgrind."
+
+#: app/main.cpp:43
+#, kde-format
+msgid "Copyright 2010-2015, Milian Wolff <mail@milianw.de>"
+msgstr "Bản quyền 2010-2015, Milian Wolff <mail@milianw.de>"
+
+#: app/main.cpp:45
+#, kde-format
+msgid "Milian Wolff"
+msgstr "Milian Wolff"
+
+#: app/main.cpp:45
+#, kde-format
+msgid "Original author, maintainer"
+msgstr "Tác giả gốc, bảo trì viên"
+
+#: app/main.cpp:48
+#, kde-format
+msgid "Arnold Dumas"
+msgstr "Arnold Dumas"
+
+#: app/main.cpp:48
+#, kde-format
+msgid "Multiple document interface, bug fixes"
+msgstr "Giao diện tài liệu đa dạng, sửa lỗi"
+
+#: app/main.cpp:59
+#, kde-format
+msgid "Files to load"
+msgstr "Tệp để tải"
+
+#: app/main.cpp:59
+#, kde-format
+msgid "[FILE...]"
+msgstr "[TẬP TIN...]"
+
+#: app/mainwindow.cpp:188
+#, kde-format
+msgctxt "@action"
+msgid "Shorten Templates"
+msgstr "Rút gọn Mẫu"
+
+#: app/mainwindow.cpp:194
+#, kde-format
+msgctxt "@action"
+msgid "Select Peak Snapshot"
+msgstr "Chọn Ảnh Chụp Đỉnh"
+
+#: app/mainwindow.cpp:200
+#, kde-format
+msgctxt "@action"
+msgid "Add"
+msgstr "Thêm"
+
+#: app/mainwindow.cpp:201
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Add custom allocator"
+msgstr "Thêm bộ phân bổ tùy chỉnh"
+
+#: app/mainwindow.cpp:204
+#, kde-format
+msgctxt "@action"
+msgid "Remove"
+msgstr "Xoá"
+
+#: app/mainwindow.cpp:206
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Remove selected allocator"
+msgstr "Xoá bỏ bộ phân bổ đã chọn"
+
+#: app/mainwindow.cpp:213
+#, kde-format
+msgctxt "@action"
+msgid "Mark as Custom Allocator"
+msgstr "Đánh dấu là Bộ phân bổ Tùy chỉnh"
+
+#: app/mainwindow.cpp:224
+#, kde-format
+msgctxt "@action:button"
+msgid "Open Massif Data File"
+msgstr "Mở Tệp Dữ Liệu Massif"
+
+#: app/mainwindow.cpp:256
+#, kde-format
+msgctxt "@title:window"
+msgid "Open Massif Output File"
+msgstr "Mở Tệp Đầu Ra Massif"
+
+#: app/mainwindow.cpp:258
+#, kde-format
+msgid "Massif data files (massif.out.*)"
+msgstr "Tệp dữ liệu Massif (massif.out.*)"
+
+#: app/mainwindow.cpp:395
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Custom Allocator"
+msgstr "Thêm Bộ Phân Bổ Tùy Chỉnh"
+
+#: app/mainwindow.cpp:395
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Allocator:"
+msgstr "Bộ phân bổ:"
+
+#: app/mainwindow.cpp:479
+#, kde-format
+msgctxt "@title:window"
+msgid "Evaluation of %1 (%2)"
+msgstr "Đánh giá của %1 (%2)"
+
+#. i18n: ectx: property (text), widget (QToolButton, openFile)
+#: app/mainwindow.ui:79
+#, kde-format
+msgid "..."
+msgstr "..."
+
+#. i18n: ectx: property (windowTitle), widget (QDockWidget, dataTreeDock)
+#: app/mainwindow.ui:121
+#, kde-format
+msgid "Massif Data"
+msgstr "Dữ liệu Massif"
+
+#. i18n: ectx: property (clickMessage), widget (KLineEdit, filterDataTree)
+#: app/mainwindow.ui:146
+#, kde-format
+msgid "filter"
+msgstr "bộ lọc"
+
+#. i18n: ectx: property (windowTitle), widget (QDockWidget, allocatorDock)
+#: app/mainwindow.ui:161
+#, kde-format
+msgid "Custom Allocators"
+msgstr "Bộ phân bổ tùy chỉnh"
+
+#. i18n: ectx: label, entry (PrettyCostPrecision), group (Settings)
+#: app/massif-visualizer-settings.kcfg:9
+#, kde-format
+msgid "Cost Precision"
+msgstr "Độ chính xác của chi phí"
+
+#. i18n: ectx: tooltip, entry (PrettyCostPrecision), group (Settings)
+#: app/massif-visualizer-settings.kcfg:10
+#, kde-format
+msgid ""
+"Defines the number of places after the comma for memory costs shown in the "
+"application."
+msgstr ""
+"Xác định số chữ số sau dấu phẩy cho chi phí bộ nhớ được hiển thị trong ứng "
+"dụng."
+
+#. i18n: ectx: label, entry (ShortenTemplates), group (Settings)
+#: app/massif-visualizer-settings.kcfg:14
+#, kde-format
+msgid "Shorten Templates"
+msgstr "Rút gọn Mẫu"
+
+#. i18n: ectx: tooltip, entry (ShortenTemplates), group (Settings)
+#: app/massif-visualizer-settings.kcfg:15
+#, kde-format
+msgid ""
+"Defines whether identifiers of C++ template instantiations should be "
+"shortened by removing their template arguments."
+msgstr ""
+"Xác định xem các định danh của các lần khởi tạo bản mẫu C++ có nên được rút "
+"gọn bằng cách loại bỏ các đối số bản mẫu của chúng hay không."
+
+#. i18n: ectx: label, entry (LegendPosition), group (Settings)
+#: app/massif-visualizer-settings.kcfg:19
+#, kde-format
+msgid "Legend Position"
+msgstr "Vị trí chú giải"
+
+#. i18n: ectx: tooltip, entry (LegendPosition), group (Settings)
+#: app/massif-visualizer-settings.kcfg:20
+#, kde-format
+msgid "Defines the position of the legend relative to the plot."
+msgstr "Định nghĩa vị trí của chú thích tương đối so với biểu đồ."
+
+#. i18n: ectx: label, entry (LegendAlignment), group (Settings)
+#: app/massif-visualizer-settings.kcfg:31
+#, kde-format
+msgid "Legend Alignment"
+msgstr "Căn chỉnh chú thích"
+
+#. i18n: ectx: tooltip, entry (LegendAlignment), group (Settings)
+#: app/massif-visualizer-settings.kcfg:32
+#, kde-format
+msgid "Defines the alignment of the legend."
+msgstr "Định nghĩa sự căn chỉnh của chú thích."
+
+#. i18n: ectx: label, entry (LegendFontSize), group (Settings)
+#: app/massif-visualizer-settings.kcfg:45
+#, kde-format
+msgid "Legend Font Size"
+msgstr "Kích thước phông chữ chú thích"
+
+#. i18n: ectx: tooltip, entry (LegendFontSize), group (Settings)
+#: app/massif-visualizer-settings.kcfg:46
+#, kde-format
+msgid "Defines the font size used in the legend."
+msgstr "Định nghĩa kích thước phông chữ được sử dụng trong chú thích."
+
+#. i18n: ectx: Menu (file)
+#: app/massif-visualizerui.rc:5
+#, kde-format
+msgid "&File"
+msgstr "Tệ&p"
+
+#. i18n: ectx: Menu (view)
+#: app/massif-visualizerui.rc:19
+#, kde-format
+msgid "&View"
+msgstr "X&em"
+
+#. i18n: ectx: Menu (settings)
+#: app/massif-visualizerui.rc:23
+#, kde-format
+msgid "&Settings"
+msgstr "&thiết lập"
+
+#. i18n: ectx: Menu (dockWidgets)
+#: app/massif-visualizerui.rc:25
+#, kde-format
+msgid "&Dock Widgets"
+msgstr "Giá Wi&dgets"
+
+#. i18n: ectx: Menu (help)
+#: app/massif-visualizerui.rc:34
+#, kde-format
+msgid "&Help"
+msgstr "trợ &giúp"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: app/massif-visualizerui.rc:45
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Thanh công cụ chính"
+
+#: massifdata/parseworker.cpp:57
+#, kde-format
+msgid "Download Failed"
+msgstr "Tải về không thành công"
+
+#: massifdata/parseworker.cpp:58
+#, kde-format
+msgid "Failed to download remote massif data file <i>%1</i>."
+msgstr "Không thể tải về tệp dữ liệu massif từ xa <i>%1</i>."
+
+#: massifdata/parseworker.cpp:68
+#, kde-format
+msgid "Read Failed"
+msgstr "Đọc thất bại"
+
+#: massifdata/parseworker.cpp:69
+#, kde-format
+msgid "Could not open file <i>%1</i> for reading."
+msgstr "Không mở được tệp <i>%1</i> để đọc."
+
+#: massifdata/parseworker.cpp:80
+#, kde-format
+msgid "Parser Failed"
+msgstr "Bộ phân tích cú pháp thất bại"
+
+#: massifdata/parseworker.cpp:81
+#, kde-format
+msgid "Could not parse file <i>%1</i>.<br>Parse error in line %2:<br>%3"
+msgstr "Không phân tách được tệp <i>%1</i>.<br>Lỗi phân tách ở dòng %2:<br>%3"
+
+#: massifdata/parseworker.cpp:88
+#, kde-format
+msgid "Empty Data File"
+msgstr "Tệp Dữ Liệu Trống"
+
+#: massifdata/parseworker.cpp:89
+#, kde-format
+msgid "Empty data file <i>%1</i>."
+msgstr "Tệp dữ liệu trống <i>%1</i>."
+
+#: massifdata/util.cpp:136
+#, kde-format
+msgid "<dt>function:</dt><dd>%1</dd>\n"
+msgstr "<dt>hàm:</dt><dd>%1</dd>\n"
+
+#: massifdata/util.cpp:139
+#, kde-format
+msgid "<dt>location:</dt><dd>%1</dd>\n"
+msgstr "<dt>vị trí:</dt><dd>%1</dd>\n"
+
+#: massifdata/util.cpp:142
+#, kde-format
+msgid "<dt>address:</dt><dd>%1</dd>\n"
+msgstr "<dt>địa chỉ:</dt><dd>%1</dd>\n"
+
+#: massifdata/util.cpp:155
+#, kde-format
+msgid "<dt>cost:</dt><dd>%1, i.e. %2% of snapshot #%3</dd>"
+msgstr "<dt>chi phí:</dt><dd>%1, tức là %2% của ảnh chụp #%3</dd>"
+
+#: visualizer/allocatorsmodel.cpp:127
+#, kde-format
+msgid "<dt>peak cost:</dt><dd>%1</dd>"
+msgstr "<dt>chi phí cao nhất:</dt><dd>%1</dd>"
+
+#: visualizer/allocatorsmodel.cpp:137
+#, kde-format
+msgid "below threshold"
+msgstr "dưới ngưỡng"
+
+#: visualizer/allocatorsmodel.cpp:160
+#, kde-format
+msgid "Function"
+msgstr "chức năng"
+
+#: visualizer/allocatorsmodel.cpp:162
+#, kde-format
+msgid "Location"
+msgstr "địa điểm"
+
+#: visualizer/allocatorsmodel.cpp:164
+#, kde-format
+msgid "Peak"
+msgstr "Đỉnh"
+
+#: visualizer/datatreemodel.cpp:84
+#, kde-format
+msgid "Snapshots"
+msgstr "Ảnh chụp"
+
+#: visualizer/datatreemodel.cpp:148
+#, kde-format
+msgid "Peak snapshot: heap cost of %1"
+msgstr "Ảnh chụp đỉnh: chi phí đống của %1"
+
+#: visualizer/datatreemodel.cpp:150
+#, kde-format
+msgid "Snapshot #%1: heap cost of %2"
+msgstr "Ảnh chụp #%1: chi phí đống %2"
+
+#: visualizer/datatreemodel.cpp:153
+#, kde-format
+msgctxt "%1: snapshot number"
+msgid "Snapshot #%1"
+msgstr "Ảnh chụp #%1"
+
+#: visualizer/datatreemodel.cpp:160
+#, kde-format
+msgctxt "%1: cost, %2: snapshot number"
+msgid "%1: Snapshot #%2 (peak)"
+msgstr "%1: Ảnh chụp #%2 (đỉnh)"
+
+#: visualizer/datatreemodel.cpp:163
+#, kde-format
+msgctxt "%1: cost, %2: snapshot number"
+msgid "%1: Snapshot #%2"
+msgstr "%1: Ảnh chụp #%2"
+
+#: visualizer/datatreemodel.cpp:175
+#, kde-format
+msgctxt "%1: cost, %2: snapshot label (i.e. func name etc.)"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: visualizer/dotgraphgenerator.cpp:199
+#, kde-format
+msgid "snapshot #%1 (taken at %2%4)\\nheap cost: %3"
+msgstr "ảnh chụp #%1 (chụp lúc %2%4)\\nchi phí heap: %3"
+
+#: visualizer/dotgraphgenerator.cpp:304
+#, kde-format
+msgid "in one place below threshold"
+msgid_plural "in %1 places, all below threshold"
+msgstr[0] "trong %1 vị trí, tất cả đều dưới ngưỡng"
+
+#: visualizer/totalcostmodel.cpp:79
+#, kde-format
+msgid "Total Memory Heap Consumption"
+msgstr "Tổng Tiêu Thụ Vùng Nhớ Heap"
+
+#: visualizer/totalcostmodel.cpp:123
+#, kde-format
+msgid ""
+"Snapshot #%1:\n"
+"Heap cost of %2\n"
+"Extra heap cost of %3\n"
+"Stack cost of %4"
+msgstr ""
+"Ảnh chụp #%1:\nChí phí đống của %2\nChí phí đống bổ sung của %3\nChí phí "
+"ngăn xếp của %4"

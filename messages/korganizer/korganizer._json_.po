@@ -16,119 +16,119 @@ msgstr ""
 #: plugins/datenums/datenums.json
 msgctxt "Name"
 msgid "Date Numbers Plugin for Calendars"
-msgstr ""
+msgstr "Phần cài cắm Số ngày tháng cho Lịch"
 
 #: plugins/hebrew/hebrew.json
 msgctxt "Name"
 msgid "Jewish Calendar Plugin"
-msgstr ""
+msgstr "Phần cài cắm Lịch Do Thái"
 
 #: plugins/lunarphases/lunarphases.json
 msgctxt "Name"
 msgid "Lunar Phases Plugin for Calendars"
-msgstr ""
+msgstr "Phần cài cắm Pha Trăng cho Lịch"
 
 #: plugins/picoftheday/picoftheday.json
 msgctxt "Name"
 msgid "Wikipedia Picture Of the Day Plugin for Calendars"
-msgstr ""
+msgstr "Phần cài cắm Ảnh của Ngày Wikipedia cho Lịch"
 
 #: plugins/thisdayinhistory/thisdayinhistory.json
 msgctxt "Name"
 msgid "Wikipedia 'This Day in History' Plugin"
-msgstr ""
+msgstr "Phần cài cắm 'Sự kiện lịch sử trong ngày' của Wikipedia"
 
 #: src/kontactplugin/korganizer/journalplugin.json
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Journal"
-msgstr "San hô "
+msgstr "Nhật ký"
 
 #: src/kontactplugin/korganizer/kcmapptsummary.json
 msgctxt "Name"
 msgid "Upcoming Events"
-msgstr ""
+msgstr "Sự kiện sắp tới"
 
 #: src/kontactplugin/korganizer/kcmtodosummary.json
 msgctxt "Name"
 msgid "Pending To-dos"
-msgstr ""
+msgstr "Công việc chưa hoàn thành"
 
 #: src/kontactplugin/korganizer/korganizerplugin.json
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Calendar"
-msgstr "Canada"
+msgstr "Lịch"
 
 #: src/kontactplugin/korganizer/todoplugin.json
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "To-do List"
-msgstr "Liszt"
+msgstr "Danh sách công việc"
 
 #: src/kontactplugin/specialdates/kcmsdsummary.json
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Upcoming Special Dates"
-msgstr "Ical"
+msgstr "Các Ngày Đặc Biệt Sắp Tới"
 
 #: src/kontactplugin/specialdates/specialdatesplugin.json
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Special Dates"
-msgstr "Ical"
+msgstr "Ngày đặc biệt"
 
 #: src/korganizer_configcolorsandfonts.json
 msgctxt "Name"
 msgid "Colors and Fonts"
-msgstr ""
+msgstr "Màu sắc và Phông chữ"
 
 #: src/korganizer_configdesignerfields.json
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Custom Pages"
-msgstr "A?nh "
+msgstr "Trang Tùy Chỉnh"
 
 #: src/korganizer_configfreebusy.json
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Free/Busy"
-msgstr "DFree"
+msgstr "Rảnh/Bận"
 
 #: src/korganizer_configgroupscheduling.json
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Group Scheduling"
-msgstr "Desktop"
+msgstr "Lập lịch nhóm"
 
 #: src/korganizer_configmain.json
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "General"
-msgstr "Tiếng Đức "
+msgstr "chung"
 
 #: src/korganizer_configplugins.json
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Plugins"
-msgstr "DềEhiểu "
+msgstr "Plugins"
 
 #: src/korganizer_configtime.json
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Time and Date"
-msgstr "Time 3D"
+msgstr "Thời gian và Ngày"
 
 #: src/korganizer_configviews.json
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Views"
-msgstr "Trình đềExem "
+msgstr "Chế độ xem"
 
 #: src/korganizer_userfeedback.json
 msgctxt "Name"
 msgid "User Feedback"
-msgstr ""
+msgstr "Phản hồi của người dùng"
 
 #: plugins/datenums/datenums.json
 msgctxt "Description"
@@ -136,122 +136,128 @@ msgid ""
 "For each day this plugin shows its daynumber of the year at the top of the "
 "agenda view. For example, February 1 is day 32 of the year."
 msgstr ""
+"Đối với mỗi ngày, phần cài cắm này hiển thị số ngày trong năm ở đầu chế độ "
+"xem lịch. Ví dụ, ngày 1 tháng 2 là ngày 32 trong năm."
 
 #: plugins/hebrew/hebrew.json
 msgctxt "Description"
 msgid "Shows all dates in KOrganizer also in the Jewish calendar system."
-msgstr ""
+msgstr "Hiển thị tất cả các ngày trong KOrganizer cũng trong hệ thống lịch Do Thái."
 
 #: plugins/lunarphases/lunarphases.json
 msgctxt "Description"
 msgid "This plugin shows the day's lunar phase (New, First, Last, Full)"
 msgstr ""
+"Phần cài cắm này hiển thị pha mặt trăng trong ngày (Mới, Lưỡi liềm, Khuyết, "
+"Tròn)"
 
 #: plugins/picoftheday/picoftheday.json
 msgctxt "Description"
 msgid "This plugin provides the Wikipedia Picture of the Day"
-msgstr ""
+msgstr "Phần cài cắm này cung cấp Ảnh của Ngày từ Wikipedia"
 
 #: plugins/thisdayinhistory/thisdayinhistory.json
 msgctxt "Description"
 msgid "This plugin provides links to Wikipedia's 'This Day in History' pages"
 msgstr ""
+"Phần cài cắm này cung cấp các liên kết đến các trang \"Sự kiện lịch sử "
+"trong ngày này\" trên Wikipedia"
 
 #: src/kontactplugin/korganizer/journalplugin.json
-#, fuzzy
+#, 
 msgctxt "Description"
 msgid "Kontact KOrganizer Journal Plugin"
-msgstr "Plugin lịch"
+msgstr "Phần cài cắm Nhật ký KOrganizer của Kontact"
 
 #: src/kontactplugin/korganizer/kcmapptsummary.json
-#, fuzzy
+#, 
 msgctxt "Description"
 msgid "Upcoming Events Summary Setup"
-msgstr "Công cụ cài đặt Samba "
+msgstr "Cài đặt Tóm tắt Sự kiện Sắp tới"
 
 #: src/kontactplugin/korganizer/kcmtodosummary.json
-#, fuzzy
+#, 
 msgctxt "Description"
 msgid "Pending To-dos Summary Setup"
-msgstr "Công cụ cài đặt Samba "
+msgstr "Cài đặt Tóm tắt Công việc Chưa hoàn thành"
 
 #: src/kontactplugin/korganizer/korganizerplugin.json
-#, fuzzy
+#, 
 msgctxt "Description"
 msgid "Kontact KOrganizer Plugin"
-msgstr "Plugin lịch"
+msgstr "Phần cài cắm KOrganizer của Kontact"
 
 #: src/kontactplugin/korganizer/todoplugin.json
-#, fuzzy
+#, 
 msgctxt "Description"
 msgid "Kontact KOrganizer To-do List Plugin"
-msgstr "Plugin lịch"
+msgstr "Phần cài cắm Danh sách Công việc của KOrganizer trong Kontact"
 
 #: src/kontactplugin/specialdates/kcmsdsummary.json
-#, fuzzy
+#, 
 msgctxt "Description"
 msgid "Upcoming Special Dates Summary Setup"
-msgstr "Công cụ cài đặt Samba "
+msgstr "Cài đặt Tóm tắt Ngày đặc biệt sắp tới"
 
 #: src/kontactplugin/specialdates/specialdatesplugin.json
-#, fuzzy
+#, 
 msgctxt "Description"
 msgid "Special Dates Plugin"
-msgstr "Plugin cho cơ sềEdữ liệu Kdbcore "
+msgstr "Phần cài cắm Ngày Đặc Biệt"
 
 #: src/korganizer_configcolorsandfonts.json
-#, fuzzy
+#, 
 msgctxt "Description"
 msgid "KOrganizer Colors and Fonts Configuration"
-msgstr "Cấu hình Napster "
+msgstr "Cấu hình Màu sắc và Phông chữ của KOrganizer"
 
 #: src/korganizer_configdesignerfields.json
-#, fuzzy
+#, 
 msgctxt "Description"
 msgid "Configure the Custom Pages"
-msgstr "Cấu hình tên và đánh sềEcác desktop "
+msgstr "Cấu hình các Trang Tùy Chỉnh"
 
 #: src/korganizer_configfreebusy.json
-#, fuzzy
+#, 
 msgctxt "Description"
 msgid "KOrganizer Free/Busy Configuration"
-msgstr "Sao luư cấu hình Init "
+msgstr "Cấu hình Rảnh/Bận của KOrganizer"
 
 #: src/korganizer_configgroupscheduling.json
-#, fuzzy
+#, 
 msgctxt "Description"
 msgid "KOrganizer Group Scheduling Configuration"
-msgstr "Cấu hình Fetchmail"
+msgstr "Cấu hình Lập lịch Nhóm KOrganizer"
 
 #: src/korganizer_configmain.json
-#, fuzzy
+#, 
 msgctxt "Description"
 msgid "KOrganizer Main Configuration"
-msgstr "Cấu hình Midi "
+msgstr "Cấu hình Chính của KOrganizer"
 
 #: src/korganizer_configplugins.json
-#, fuzzy
+#, 
 msgctxt "Description"
 msgid "KOrganizer Plugin Configuration"
-msgstr "Cấu hình Midi "
+msgstr "Cấu hình phần cài cắm KOrganizer"
 
 #: src/korganizer_configtime.json
-#, fuzzy
+#, 
 msgctxt "Description"
 msgid "KOrganizer Time and Date Configuration"
-msgstr "Cấu hình Midi "
+msgstr "Cấu hình Thời gian và Ngày của KOrganizer"
 
 #: src/korganizer_configviews.json
-#, fuzzy
+#, 
 msgctxt "Description"
 msgid "KOrganizer View Configuration"
-msgstr "Cấu hình Midi "
+msgstr "Cấu hình Xem KOrganizer"
 
 #: src/korganizer_userfeedback.json
-#, fuzzy
+#, 
 msgctxt "Description"
 msgid "KOrganizer User Feedback Configuration"
-msgstr "Sao luư cấu hình Init "
+msgstr "Cấu hình Phản hồi người dùng KOrganizer"
 
 #, fuzzy
 #~ msgctxt "Name"

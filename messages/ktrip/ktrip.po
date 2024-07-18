@@ -1,0 +1,244 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the ktrip package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ktrip\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-04-24 00:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: main.cpp:70
+#, kde-format
+msgid "KTrip"
+msgstr "KTrip"
+
+#: main.cpp:72
+#, kde-format
+msgid "Public transport assistant"
+msgstr "Trợ tá giao thông công cộng"
+
+#: main.cpp:74
+#, kde-format
+msgid "© 2019 KDE Community"
+msgstr "© 2019 Cộng đồng KDE"
+
+#: main.cpp:75
+#, kde-format
+msgid "Nicolas Fella"
+msgstr "Nicolas Fella"
+
+#: qml/BackendPage.qml:20 qml/Main.qml:53
+#, kde-format
+msgid "Providers"
+msgstr "Nhà cung cấp"
+
+#: qml/BackendPage.qml:23
+#, kde-format
+msgid "Select the providers relevant for your area"
+msgstr "Chọn các nhà cung cấp liên quan cho khu vực của bạn"
+
+#: qml/BackendPage.qml:29
+#, kde-format
+msgid "Save"
+msgstr "Lưu"
+
+#: qml/BackendPage.qml:106
+#, kde-format
+msgid "Global"
+msgstr "Toàn cục"
+
+#: qml/BackendPage.qml:108
+#, kde-format
+msgid "🇪🇺 European Union"
+msgstr "🇪🇺 Liên minh châu Âu"
+
+#: qml/BackendPage.qml:111
+#, kde-format
+msgctxt "emoji flag, country name"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: qml/ConnectionDetailsPage.qml:16
+#, kde-format
+msgctxt "@title"
+msgid "Details"
+msgstr "Chi tiết"
+
+#: qml/ConnectionDetailsPage.qml:45
+#, kde-format
+msgid "Walking (%1 minute)"
+msgid_plural "Walking (%1 minutes)"
+msgstr[0] "Đi bộ (%1 phút)"
+
+#: qml/ConnectionDetailsPage.qml:53
+#, kde-format
+msgid "Waiting (%1 minute)"
+msgid_plural "Waiting (%1 minutes)"
+msgstr[0] "Đang chờ (%1 phút)"
+
+#: qml/ConnectionDetailsPage.qml:61
+#, kde-format
+msgid "Transfer (%1 minute)"
+msgid_plural "Transfer (%1 minutes)"
+msgstr[0] "Truyền (%1 phút)"
+
+#: qml/ConnectionDetailsPage.qml:97
+#, kde-format
+msgid "Hide intermediate Stops"
+msgstr "Ẩn các điểm dừng trung gian"
+
+#: qml/ConnectionDetailsPage.qml:97
+#, kde-format
+msgid "Show intermediate Stops"
+msgstr "Hiển thị các điểm dừng trung gian"
+
+#: qml/ConnectionsPage.qml:15
+#, kde-format
+msgctxt "@title"
+msgid "Connections"
+msgstr "Kết nối"
+
+#: qml/ConnectionsPage.qml:59 qml/ConnectionsPage.qml:85
+#, kde-format
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: qml/ConnectionsPage.qml:65 qml/ConnectionsPage.qml:91
+#, kde-format
+msgid "+%1"
+msgstr "+%1"
+
+#: qml/ConnectionsPage.qml:75
+#, kde-format
+msgid "%1 change"
+msgid_plural "%1 changes"
+msgstr[0] "%1 thay đổi"
+
+#: qml/ConnectionsPage.qml:107
+#, kde-format
+msgid "No connections found"
+msgstr "Không tìm thấy kết nối"
+
+#: qml/DeparturesPage.qml:15
+#, kde-format
+msgctxt "@title"
+msgid "Departures"
+msgstr "Khởi hành"
+
+#: qml/DeparturesPage.qml:37
+#, kde-format
+msgid "%3 %1 (%2)"
+msgstr "%3 %1 (%2)"
+
+#: qml/LocationQueryPage.qml:53
+#, kde-format
+msgid "No locations found"
+msgstr "Không tìm thấy địa điểm"
+
+#: qml/LocationQueryPage.qml:60
+#, kde-format
+msgid "No providers enabled"
+msgstr "Không có nhà cung cấp nào được bật"
+
+#: qml/LocationQueryPage.qml:63
+#, kde-format
+msgid "Configure providers"
+msgstr "Cấu hình nhà cung cấp"
+
+#: qml/Main.qml:30
+#, kde-format
+msgid "Journey"
+msgstr "Hành trình"
+
+#: qml/Main.qml:40
+#, kde-format
+msgid "Departures"
+msgstr "Khởi hành"
+
+#: qml/Main.qml:58
+#, kde-format
+msgid "About KTrip"
+msgstr "Về KTrip"
+
+#: qml/QueryPage.qml:16
+#, kde-format
+msgctxt "@title"
+msgid "Query Departures"
+msgstr "Truy vấn Khởi hành"
+
+#: qml/QueryPage.qml:16
+#, kde-format
+msgctxt "@title"
+msgid "Start Journey"
+msgstr "Bắt đầu hành trình"
+
+#: qml/QueryPage.qml:23
+#, kde-format
+msgctxt "@action"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: qml/QueryPage.qml:42
+#, kde-format
+msgid "From:"
+msgstr "Từ:"
+
+#: qml/QueryPage.qml:46
+#, kde-format
+msgctxt "@action:button"
+msgid "Pick Start"
+msgstr "Chọn khởi động"
+
+#: qml/QueryPage.qml:48
+#, kde-format
+msgctxt "@title"
+msgid "Search for Start Location"
+msgstr "Tìm kiếm Địa điểm Khởi động"
+
+#: qml/QueryPage.qml:54
+#, kde-format
+msgid "To:"
+msgstr "Đến:"
+
+#: qml/QueryPage.qml:60
+#, kde-format
+msgctxt "@action:button"
+msgid "Pick Destination"
+msgstr "Chọn điểm đến"
+
+#: qml/QueryPage.qml:62
+#, kde-format
+msgctxt "@title"
+msgid "Search for Destination Location"
+msgstr "Tìm kiếm địa điểm đến"
+
+#: qml/QueryPage.qml:68
+#, kde-format
+msgid "Departure date:"
+msgstr "Ngày khởi hành:"
+
+#: qml/QueryPage.qml:82
+#, kde-format
+msgid "Departure time:"
+msgstr "Thời gian khởi hành:"

@@ -1,0 +1,430 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the alligator package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: alligator\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-28 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: database.cpp:67 database.cpp:312
+#, kde-format
+msgid "Default"
+msgstr "Mặc định"
+
+#: database.cpp:68 database.cpp:313
+#, kde-format
+msgid "Default Feed Group"
+msgstr "Nhóm nguồn cấp mặc định"
+
+#: fetcher.cpp:241
+#, kde-format
+msgid "Invalid XML"
+msgstr "XML không hợp lệ"
+
+#: fetcher.cpp:243
+#, kde-format
+msgid "No parser accepted the XML"
+msgstr "Không có trình phân tích cú pháp nào chấp nhận XML"
+
+#: fetcher.cpp:245
+#, kde-format
+msgid "Error while parsing feed"
+msgstr "Lỗi khi phân tích nguồn cấp dữ liệu"
+
+#: main.cpp:79 qml/AlligatorGlobalDrawer.qml:56
+#, kde-format
+msgid "Alligator"
+msgstr "Cá sấu"
+
+#: main.cpp:81
+#, kde-format
+msgid "Feed Reader"
+msgstr "Trình đọc tin"
+
+#: main.cpp:83
+#, kde-format
+msgid "© 2020-2024 KDE Community"
+msgstr "© 2020-2024 Cộng đồng KDE"
+
+#: main.cpp:84
+#, kde-format
+msgid "Tobias Fella"
+msgstr "Tobias Fella"
+
+#: main.cpp:93
+#, kde-format
+msgid "RSS/Atom Feed Reader"
+msgstr "Trình đọc nguồn cấp dữ liệu RSS/Atom"
+
+#: main.cpp:95
+#, kde-format
+msgid "Adds a new feed to database."
+msgstr "Thêm một nguồn cấp dữ liệu mới vào cơ sở dữ liệu."
+
+#: main.cpp:96
+#, kde-format
+msgid "feed URL"
+msgstr "URL nguồn cấp dữ liệu"
+
+#: qml/AddFeedDialog.qml:19
+#, kde-format
+msgid "Add Feed"
+msgstr "Thêm nguồn cấp dữ liệu"
+
+#: qml/AddFeedDialog.qml:25
+#, kde-format
+msgid "Url"
+msgstr "URL"
+
+#: qml/AddFeedDialog.qml:31
+#, kde-format
+msgid "Mark entries as read"
+msgstr "Đánh dấu các mục đã đọc"
+
+#: qml/AddFeedDialog.qml:36
+#, kde-format
+msgctxt "@action:button"
+msgid "Add Feed"
+msgstr "Thêm nguồn cấp dữ liệu"
+
+#: qml/AddFeedDialog.qml:43
+#, kde-format
+msgctxt "@action:button"
+msgid "Cancel"
+msgstr "Huỷ"
+
+#: qml/AlligatorGlobalDrawer.qml:90 qml/AlligatorGlobalDrawer.qml:100
+#, kde-format
+msgid "All Feeds"
+msgstr "Tất cả Feeds"
+
+#: qml/AlligatorGlobalDrawer.qml:161 qml/SettingsPage.qml:21
+#, kde-format
+msgid "Settings"
+msgstr "thiết lập"
+
+#: qml/AlligatorGlobalDrawer.qml:175
+#, kde-format
+msgid "Manage Feeds"
+msgstr "Quản lý Nguồn cấp dữ liệu"
+
+#: qml/AlligatorGlobalDrawer.qml:190
+#, kde-format
+msgid "About"
+msgstr "Thông tin"
+
+#: qml/EditFeedDialog.qml:15
+#, kde-format
+msgid "Edit Feed"
+msgstr "Sửa Nguồn"
+
+#: qml/EditFeedDialog.qml:35
+#, kde-format
+msgid "Display Name:"
+msgstr "Tên hiển thị:"
+
+#: qml/EditFeedDialog.qml:45
+#, kde-format
+msgid "Group:"
+msgstr "Nhóm:"
+
+#: qml/EntryListDelegate.qml:64
+#, kde-format
+msgctxt "by <author(s)>"
+msgid "by"
+msgstr "bởi"
+
+#: qml/EntryListPage.qml:45
+#, kde-format
+msgid "Refresh"
+msgstr "Cập nhật"
+
+#: qml/EntryListPage.qml:52
+#, kde-format
+msgid "Details"
+msgstr "Chi tiết"
+
+#: qml/EntryListPage.qml:67
+#, kde-format
+msgid "Expand sidebar"
+msgstr "Mở rộng thanh bên"
+
+#: qml/EntryListPage.qml:67
+#, kde-format
+msgid "Collapse sidebar"
+msgstr "Thu gọn thanh bên"
+
+#: qml/EntryListPage.qml:77
+#, kde-format
+msgid "All Entries"
+msgstr "Tất cả các mục"
+
+#: qml/EntryListPage.qml:85
+#, kde-format
+msgid "Error"
+msgstr "Lỗi"
+
+#: qml/EntryListPage.qml:86 qml/EntryListPage.qml:99
+#, kde-format
+msgid "Error (%1): %2"
+msgstr "Lỗi (%1): %2"
+
+#: qml/EntryListPage.qml:97
+#, kde-format
+msgid "No unread entries available"
+msgstr "Không có mục nhập chưa đọc nào hiện có"
+
+#: qml/EntryListPage.qml:97
+#, kde-format
+msgid "No entries available"
+msgstr "Không có mục nhập nào hiện có"
+
+#: qml/EntryListPage.qml:141
+#, kde-format
+msgid "All"
+msgstr "Tất cả"
+
+#: qml/EntryListPage.qml:147
+#, kde-format
+msgid "Unread"
+msgstr "Chưa đọc"
+
+#: qml/EntryPage.qml:63
+#, kde-format
+msgid "Open in Browser"
+msgstr "Mở trong trình duyệt"
+
+#: qml/FeedDetailsPage.qml:20
+#, kde-format
+msgctxt "<Feed Name> - Details"
+msgid "%1 - Details"
+msgstr "%1 - Chi tiết"
+
+#: qml/FeedDetailsPage.qml:36
+#, kde-format
+msgctxt "by <author(s)>"
+msgid "by %1"
+msgstr "bởi %1"
+
+#: qml/FeedDetailsPage.qml:44
+#, kde-format
+msgid "Subscribed since: %1"
+msgstr "Đã đăng ký từ: %1"
+
+#: qml/FeedDetailsPage.qml:47
+#, kde-format
+msgid "last updated: %1"
+msgstr "cập nhật lần cuối: %1"
+
+#: qml/FeedDetailsPage.qml:50
+#, kde-format
+msgid "%1 posts, %2 unread"
+msgstr "%1 bài đăng, %2 chưa đọc"
+
+#: qml/FeedGroupDialog.qml:23
+#, kde-format
+msgid "Feed Group"
+msgstr "Nhóm nguồn cấp dữ liệu"
+
+#: qml/FeedGroupDialog.qml:43
+#, kde-format
+msgid "Name:"
+msgstr "Tên:"
+
+#: qml/FeedGroupDialog.qml:50
+#, kde-format
+msgid "Description:"
+msgstr "Mô tả:"
+
+#: qml/FeedListDelegate.qml:29
+#, kde-format
+msgid "%1 unread entry"
+msgid_plural "%1 unread entries"
+msgstr[0] "%1 mục chưa đọc"
+
+#: qml/FeedListDelegate.qml:35
+#, kde-format
+msgctxt "'Feed' is an rss feed"
+msgid "Delete this Feed"
+msgstr "Xóa nguồn cấp dữ liệu này"
+
+#: qml/FeedListDelegate.qml:50
+#, kde-format
+msgctxt "'Feed' is an rss feed"
+msgid "Edit this Feed"
+msgstr "Sửa bản tin này"
+
+#: qml/FeedListPage.qml:18
+#, kde-format
+msgctxt "'Feeds' as in 'RSS Feeds'"
+msgid "Manage Feeds"
+msgstr "Quản lý Feeds"
+
+#: qml/FeedListPage.qml:30
+#, kde-format
+msgid "Refresh All Feeds"
+msgstr "Cập nhật tất cả nguồn cấp dữ liệu"
+
+#: qml/FeedListPage.qml:36
+#, kde-format
+msgid "Add Feed…"
+msgstr "Thêm nguồn cấp dữ liệu..."
+
+#: qml/FeedListPage.qml:40
+#, kde-format
+msgctxt "@title"
+msgid "Add Feed"
+msgstr "Thêm nguồn cấp dữ liệu"
+
+#: qml/FeedListPage.qml:46
+#, kde-format
+msgid "Manage Feed Groups"
+msgstr "Quản lý Nhóm Nguồn"
+
+#: qml/FeedListPage.qml:51
+#, kde-format
+msgid "Import Feeds…"
+msgstr "Nhập khẩu Feeds..."
+
+#: qml/FeedListPage.qml:56
+#, kde-format
+msgid "Export Feeds…"
+msgstr "Xuất khẩu Feeds..."
+
+#: qml/FeedListPage.qml:86
+#, kde-format
+msgid "No feeds added yet"
+msgstr "Chưa có nguồn cấp dữ liệu nào được thêm"
+
+#: qml/FeedListPage.qml:124
+#, kde-format
+msgid "Import Feeds"
+msgstr "Nhập khẩu Nguồn cấp dữ liệu"
+
+#: qml/FeedListPage.qml:126
+#, kde-format
+msgid "All Files (*)"
+msgstr "Tất cả tệp (*)"
+
+#: qml/FeedListPage.qml:126
+#, kde-format
+msgid "XML Files (*.xml)"
+msgstr "Tệp XML (*.xml)"
+
+#: qml/FeedListPage.qml:126
+#, kde-format
+msgid "OPML Files (*.opml)"
+msgstr "Tệp OPML (*.opml)"
+
+#: qml/FeedListPage.qml:132
+#, kde-format
+msgid "Export Feeds"
+msgstr "Xuất khẩu Feeds"
+
+#: qml/FeedListPage.qml:134
+#, kde-format
+msgid "All Files"
+msgstr "Tất cả tệp"
+
+#: qml/GroupsListPage.qml:18
+#, kde-format
+msgid "Groups"
+msgstr "Nhóm"
+
+#: qml/GroupsListPage.qml:24
+#, kde-format
+msgid "Add Group…"
+msgstr "Thêm nhóm..."
+
+#: qml/GroupsListPage.qml:55
+#, kde-format
+msgid "Remove"
+msgstr "Xoá"
+
+#: qml/GroupsListPage.qml:63
+#, kde-format
+msgid "Set as Default"
+msgstr "Đặt làm Mặc định"
+
+#: qml/GroupsListPage.qml:72
+#, kde-format
+msgid "No groups created yet"
+msgstr "Chưa có nhóm nào được tạo"
+
+#: qml/GroupsListPage.qml:77
+#, kde-format
+msgid "Add Group"
+msgstr "Thêm Nhóm"
+
+#: qml/SettingsPage.qml:24
+#, kde-format
+msgctxt "@title"
+msgid "Article List"
+msgstr "Danh sách bài viết"
+
+#: qml/SettingsPage.qml:33
+#, kde-format
+msgid "Delete after:"
+msgstr "Xóa sau:"
+
+#: qml/SettingsPage.qml:46
+#, kde-format
+msgid "Never"
+msgstr "Không bao giờ"
+
+#: qml/SettingsPage.qml:46
+#, kde-format
+msgid "Articles"
+msgstr "Bài viết"
+
+#: qml/SettingsPage.qml:46
+#, kde-format
+msgid "Days"
+msgstr "Ngày"
+
+#: qml/SettingsPage.qml:46
+#, kde-format
+msgid "Weeks"
+msgstr "Tuần"
+
+#: qml/SettingsPage.qml:46
+#, kde-format
+msgid "Months"
+msgstr "Tháng"
+
+#: qml/SettingsPage.qml:55
+#, kde-format
+msgid "Article"
+msgstr "Bài viết"
+
+#: qml/SettingsPage.qml:62
+#, kde-format
+msgid "Font size:"
+msgstr "Cỡ phông chữ:"
+
+#: qml/SettingsPage.qml:71
+#, kde-format
+msgid "Use system default"
+msgstr "Sử dụng mặc định của hệ thống"

@@ -1,0 +1,577 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the libktorrent package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: libktorrent\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-03-14 00:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: src/bcodec/bdecoder.cpp:48
+#, kde-format
+msgid "Illegal token: %1"
+msgstr "Mã thông báo không hợp lệ: %1"
+
+#: src/bcodec/bdecoder.cpp:101 src/bcodec/bdecoder.cpp:109
+#, kde-format
+msgid "Decode error"
+msgstr "Lỗi giải mã"
+
+#: src/bcodec/bdecoder.cpp:161 src/bcodec/bdecoder.cpp:199
+#, kde-format
+msgid "Unexpected end of input"
+msgstr "Kết thúc đầu vào bất ngờ"
+
+#: src/bcodec/bdecoder.cpp:178 src/bcodec/bdecoder.cpp:218
+#, kde-format
+msgid "Cannot convert %1 to an int"
+msgstr "Không thể chuyển đổi %1 thành một số nguyên"
+
+#: src/bcodec/bdecoder.cpp:223
+#, kde-format
+msgid "Torrent is incomplete."
+msgstr "Torrent chưa hoàn thành."
+
+#: src/datachecker/datacheckerjob.cpp:67
+#, kde-format
+msgid "Waiting for other data checks to finish"
+msgstr "Đang chờ các kiểm tra dữ liệu khác hoàn thành"
+
+#: src/datachecker/datacheckerjob.cpp:73 src/torrent/torrentstats.cpp:92
+#, kde-format
+msgid "Checking data"
+msgstr "Đang kiểm tra dữ liệu"
+
+#: src/datachecker/datacheckerjob.cpp:120
+#, kde-format
+msgid "Checking Data"
+msgstr "Đang kiểm tra dữ liệu"
+
+#: src/datachecker/multidatachecker.cpp:181
+#: src/datachecker/singledatachecker.cpp:34
+#: src/diskio/multifilecache.cpp:621 src/diskio/multifilecache.cpp:656
+#: src/torrent/torrentcreator.cpp:111 src/torrent/torrentcreator.cpp:232
+#: src/torrent/torrentcreator.cpp:264
+#, kde-format
+msgid "Cannot open file %1: %2"
+msgstr "Không thể mở tệp %1: %2"
+
+#: src/diskio/cache.cpp:148 src/diskio/multifilecache.cpp:95
+#: src/diskio/singlefilecache.cpp:67
+#, kde-format
+msgid "Failed to create %1: %2"
+msgstr "Không thể tạo %1: %2"
+
+#: src/diskio/cachefile.cpp:76 src/util/fileops.cpp:313
+#: src/util/fileops.cpp:355
+#, kde-format
+msgid "Cannot open %1: %2"
+msgstr "Không thể mở %1: %2"
+
+#: src/diskio/cachefile.cpp:103 src/diskio/cachefile.cpp:215
+#: src/diskio/cachefile.cpp:368 src/diskio/cachefile.cpp:427
+#, kde-format
+msgid "Cannot open %1 for writing: readonly filesystem"
+msgstr "Không thể mở %1 để ghi: hệ thống tệp chỉ đọc"
+
+#: src/diskio/cachefile.cpp:109 src/diskio/cachefile.cpp:373
+#, kde-format
+msgid "Attempting to write beyond the maximum size of %1"
+msgstr "Đang cố ghi vượt quá kích thước tối đa của %1"
+
+#: src/diskio/cachefile.cpp:220
+#, kde-format
+msgid ""
+"Cannot expand file %1: attempting to grow the file beyond the maximum size"
+msgstr ""
+"Không thể mở rộng tệp %1: đang cố gắng tăng kích thước tệp vượt quá kích "
+"thước tối đa"
+
+#: src/diskio/cachefile.cpp:224
+#, kde-format
+msgid "Cannot expand file %1: %2"
+msgstr "Không thể mở rộng tệp %1: %2"
+
+#: src/diskio/cachefile.cpp:336
+#, kde-format
+msgid "Error: Reading past the end of the file %1"
+msgstr "Lỗi: Đọc vượt quá cuối tệp %1"
+
+#: src/diskio/cachefile.cpp:341 src/diskio/cachefile.cpp:383
+#, kde-format
+msgid "Failed to seek file %1: %2"
+msgstr "Không thể tìm kiếm tệp %1: %2"
+
+#: src/diskio/cachefile.cpp:348
+#, kde-format
+msgid "Error reading from %1"
+msgstr "Lỗi khi đọc từ %1"
+
+#: src/diskio/cachefile.cpp:386
+#, kde-format
+msgid "Failed to write to file %1: %2"
+msgstr "Không thể ghi vào tệp %1: %2"
+
+#: src/diskio/cachefile.cpp:443
+#, kde-format
+msgid "Cannot preallocate diskspace: %1"
+msgstr "Không thể cấp phát trước không gian đĩa: %1"
+
+#: src/diskio/chunkmanager.cpp:849 src/diskio/chunkmanager.cpp:872
+#, kde-format
+msgid "Cannot open index file %1: %2"
+msgstr "Không thể mở tệp lập chỉ mục %1: %2"
+
+#: src/diskio/dndfile.cpp:72
+#, kde-format
+msgid "Cannot create file %1: %2"
+msgstr "Không thể tạo tệp %1: %2"
+
+#: src/diskio/dndfile.cpp:114
+#, kde-format
+msgid "Failed to write first chunk to DND file: %1"
+msgstr "Không thể ghi chunk đầu tiên vào tệp DND: %1"
+
+#: src/diskio/dndfile.cpp:129
+#, kde-format
+msgid "Failed to write last chunk to DND file: %1"
+msgstr "Không thể ghi phần cuối cùng vào tệp DND: %1"
+
+#: src/diskio/movedatafilesjob.cpp:110
+#, kde-format
+msgid "Waiting for other move jobs to finish"
+msgstr "Đang chờ các tác vụ di chuyển khác hoàn thành"
+
+#: src/diskio/movedatafilesjob.cpp:111 src/diskio/movedatafilesjob.cpp:147
+#, kde-format
+msgctxt "The source of a file operation"
+msgid "Source"
+msgstr "Nguồn"
+
+#: src/diskio/movedatafilesjob.cpp:112 src/diskio/movedatafilesjob.cpp:148
+#, kde-format
+msgctxt "The destination of a file operation"
+msgid "Destination"
+msgstr "Đích đến"
+
+#: src/diskio/movedatafilesjob.cpp:146
+#, kde-format
+msgctxt "@title job"
+msgid "Moving"
+msgstr "Đang di chuyển"
+
+#: src/diskio/multifilecache.cpp:70 src/diskio/singlefilecache.cpp:57
+#, kde-format
+msgid "Failed to open %1: %2"
+msgstr "Không thể mở %1: %2"
+
+#: src/diskio/piecedata.cpp:53 src/diskio/piecedata.cpp:91
+#, kde-format
+msgid "Unable to write to a piece mapped read only"
+msgstr "Không thể ghi vào một mảnh được ánh xạ chỉ đọc"
+
+#: src/download/chunkdownload.cpp:342
+#, kde-format
+msgid "1 peer"
+msgid_plural "%1 peers"
+msgstr[0] "%1 đồng cấp"
+
+#: src/download/downloader.cpp:693
+#, kde-format
+msgid "Disabled because webseed does not match torrent"
+msgstr "Bị vô hiệu hóa vì webseed không khớp với torrent"
+
+#: src/download/httpconnection.cpp:29 src/download/webseed.cpp:40
+#: src/download/webseed.cpp:85
+#, kde-format
+msgid "Not connected"
+msgstr "Chưa kết nối"
+
+#: src/download/httpconnection.cpp:96
+#, kde-format
+msgid "Resolving proxy %1:%2"
+msgstr "Đang giải quyết uỷ nhiệm %1:%2"
+
+#: src/download/httpconnection.cpp:100 src/download/httpconnection.cpp:114
+#, kde-format
+msgid "Not enough system resources available"
+msgstr "Không đủ tài nguyên hệ thống hiện có"
+
+#: src/download/httpconnection.cpp:110
+#, kde-format
+msgid "Resolving hostname %1"
+msgstr "Đang giải quyết tên máy chủ %1"
+
+#: src/download/httpconnection.cpp:126 src/download/webseed.cpp:313
+#, kde-format
+msgid "Connection closed"
+msgstr "Kết nối đã đóng"
+
+#: src/download/httpconnection.cpp:130
+#, kde-format
+msgid "Error: request failed: %1"
+msgstr "Lỗi: yêu cầu không thành công: %1"
+
+#: src/download/httpconnection.cpp:154 src/download/httpconnection.cpp:181
+#, kde-format
+msgid "Connected"
+msgstr "Đã kết nối"
+
+#: src/download/httpconnection.cpp:162
+#, kde-format
+msgid "Error: Failed to connect to webseed"
+msgstr "Lỗi: Không thể kết nối với webseed"
+
+#: src/download/httpconnection.cpp:186
+#, kde-format
+msgid "Connecting"
+msgstr "Đang kết nối"
+
+#: src/download/httpconnection.cpp:195
+#, kde-format
+msgid "Failed to connect to webseed"
+msgstr "Không thể kết nối với webseed"
+
+#: src/download/httpconnection.cpp:200
+#, kde-format
+msgid "Failed to resolve hostname of webseed"
+msgstr "Không thể phân giải tên máy chủ của webseed"
+
+#: src/download/httpconnection.cpp:271
+#, kde-format
+msgid "Error: failed to connect, server not responding"
+msgstr "Lỗi: không thể kết nối, máy chủ không phản hồi"
+
+#: src/download/httpconnection.cpp:281
+#, kde-format
+msgid "Error: request timed out"
+msgstr "Lỗi: yêu cầu đã hết thời gian chờ"
+
+#: src/download/httpconnection.cpp:351
+#, kde-format
+msgid "Redirected without a new location."
+msgstr "Chuyển hướng mà không có vị trí mới."
+
+#: src/download/webseed.cpp:500
+#, kde-format
+msgid "Unused for %1 second (Too many connection failures)"
+msgid_plural "Unused for %1 seconds (Too many connection failures)"
+msgstr[0] "Không sử dụng trong %1 giây (Quá nhiều lỗi kết nối)"
+
+#: src/interfaces/trackerinterface.cpp:45
+#, kde-format
+msgid "OK"
+msgstr "OK"
+
+#: src/interfaces/trackerinterface.cpp:45
+#, kde-format
+msgid "Warning: %1"
+msgstr "Cảnh báo: %1"
+
+#: src/interfaces/trackerinterface.cpp:47
+#, kde-format
+msgid "Announcing"
+msgstr "Đang thông báo"
+
+#: src/interfaces/trackerinterface.cpp:49
+#: src/torrent/torrentstats.cpp:86
+#, kde-format
+msgid "Error: %1"
+msgstr "Lỗi: %1"
+
+#: src/peer/peerid.cpp:299
+#, kde-format
+msgid "Unknown client"
+msgstr "Khách hàng không rõ"
+
+#: src/torrent/torrent.cpp:96 src/torrent/torrent.cpp:153
+#: src/torrent/torrent.cpp:180 src/torrent/torrent.cpp:187
+#: src/torrent/torrent.cpp:194 src/torrent/torrent.cpp:198
+#: src/torrent/torrent.cpp:218 src/torrent/torrent.cpp:282
+#, kde-format
+msgid "Corrupted torrent."
+msgstr "Torrent bị hỏng."
+
+#: src/torrent/torrentcontrol.cpp:277
+#, kde-format
+msgid "Error writing to disk, do you have enough diskspace?"
+msgstr "Lỗi khi ghi vào đĩa, bạn có đủ dung lượng ổ đĩa không?"
+
+#: src/torrent/torrentcontrol.cpp:492
+#, kde-format
+msgid "An error occurred while loading <b>%1</b>:<br/><b>%2</b>"
+msgstr "Đã xảy ra lỗi khi tải <b>%1</b>:<br/><b>%2</b>"
+
+#: src/torrent/torrentcontrol.cpp:502
+#, kde-format
+msgid "Unable to create %1: %2"
+msgstr "Không thể tạo %1: %2"
+
+#: src/torrent/torrentcontrol.cpp:515
+#, kde-format
+msgid ""
+"You are already downloading the torrent <b>%1</b>. The tracker lists from "
+"both torrents have been merged."
+msgstr ""
+"Bạn đang tải về torrent <b>%1</b>. Danh sách máy theo dõi từ cả hai torrent "
+"đã được hợp nhất."
+
+#: src/torrent/torrentcontrol.cpp:519
+#, kde-format
+msgid "You are already downloading the torrent <b>%1</b>."
+msgstr "Bạn đang tải về torrent <b>%1</b> rồi."
+
+#: src/torrent/torrentcreator.cpp:332
+#, kde-format
+msgid "Cannot create index file: %1"
+msgstr "Không thể tạo lập chỉ mục tệp: %1"
+
+#: src/torrent/torrentstats.cpp:72
+#, kde-format
+msgid "Not started"
+msgstr "Chưa bắt đầu"
+
+#: src/torrent/torrentstats.cpp:74
+#, kde-format
+msgid "Download completed"
+msgstr "Tải về hoàn tất"
+
+#: src/torrent/torrentstats.cpp:76
+#, kde-format
+msgid "Seeding completed"
+msgstr "Đã hoàn thành chia sẻ"
+
+#: src/torrent/torrentstats.cpp:78
+#, kde-format
+msgctxt "Status of a torrent file"
+msgid "Seeding"
+msgstr "Đang chia sẻ"
+
+#: src/torrent/torrentstats.cpp:80
+#, kde-format
+msgid "Downloading"
+msgstr "Tải về"
+
+#: src/torrent/torrentstats.cpp:82
+#, kde-format
+msgid "Stalled"
+msgstr "Bị treo"
+
+#: src/torrent/torrentstats.cpp:84
+#, kde-format
+msgid "Stopped"
+msgstr "Đã dừng"
+
+#: src/torrent/torrentstats.cpp:88
+#, kde-format
+msgid "Allocating diskspace"
+msgstr "Đang cấp phát dung lượng đĩa"
+
+#: src/torrent/torrentstats.cpp:90
+#, kde-format
+msgid "Queued for seeding"
+msgstr "Đang xếp hàng để chia sẻ"
+
+#: src/torrent/torrentstats.cpp:90
+#, kde-format
+msgid "Queued for downloading"
+msgstr "Đang xếp hàng để tải về"
+
+#: src/torrent/torrentstats.cpp:94
+#, kde-format
+msgid "Stopped. No space left on device."
+msgstr "Đã dừng. Không còn dung lượng trên thiết bị."
+
+#: src/torrent/torrentstats.cpp:96
+#, kde-format
+msgid "Paused"
+msgstr "Đã tạm dừng"
+
+#: src/torrent/torrentstats.cpp:98
+#, kde-format
+msgid "Superseeding"
+msgstr "Đang siêu phát"
+
+#: src/tracker/httptracker.cpp:241 src/tracker/httptracker.cpp:257
+#: src/tracker/httptracker.cpp:390
+#, kde-format
+msgid "Invalid response from tracker"
+msgstr "Lời hồi đáp từ trình theo dõi không hợp lệ"
+
+#: src/tracker/httptracker.cpp:251
+#, kde-format
+msgid "Invalid data from tracker"
+msgstr "Dữ liệu không hợp lệ từ trình theo dõi"
+
+#: src/tracker/httptracker.cpp:405
+#, kde-format
+msgid "Invalid tracker URL"
+msgstr "URL trình theo dõi không hợp lệ"
+
+#: src/tracker/httptracker.cpp:463 src/tracker/udptracker.cpp:315
+#: src/tracker/udptracker.cpp:322
+#, kde-format
+msgid "Timeout contacting tracker %1"
+msgstr "Hết giờ khi liên lạc với máy theo dõi %1"
+
+#: src/tracker/udptracker.cpp:343
+#, kde-format
+msgid "Unable to resolve hostname %1"
+msgstr "Không thể phân giải tên máy chủ %1"
+
+#: src/upnp/httprequest.cpp:39
+#, kde-format
+msgid "Operation timed out"
+msgstr "Thao tác đã hết thời gian chờ"
+
+#: src/upnp/upnprouter.cpp:156
+#, kde-format
+msgid "Failed to download %1: %2"
+msgstr "Không thể tải về %1: %2"
+
+#: src/upnp/upnprouter.cpp:166
+#, kde-format
+msgid "Error parsing router description."
+msgstr "Lỗi khi phân tích mô tả bộ định tuyến."
+
+#: src/upnp/upnprouter.cpp:200
+#, kde-format
+msgid ""
+"Forwarding failed:\n"
+"Device does not have a WANIPConnection or WANPPPConnection."
+msgstr ""
+"Chuyển tiếp không thành công:\nThiết bị không có WANIPConnection hoặc "
+"WANPPPConnection."
+
+#: src/upnp/upnprouter.cpp:279
+#, kde-format
+msgid "Cannot find port forwarding service in the device's description."
+msgstr "Không thể tìm thấy dịch vụ chuyển tiếp cổng trong mô tả của thiết bị."
+
+#: src/util/file.cpp:68
+#, kde-format
+msgid "Cannot write to %1: %2"
+msgstr "Không thể ghi vào %1: %2"
+
+#: src/util/file.cpp:81
+#, kde-format
+msgid "Cannot read from %1"
+msgstr "Không thể đọc từ %1"
+
+#: src/util/fileops.cpp:92
+#, kde-format
+msgid "Cannot create directory %1"
+msgstr "Không thể tạo thư mục %1"
+
+#: src/util/fileops.cpp:150
+#, kde-format
+msgid "Cannot symlink %1 to %2: %3"
+msgstr "Không thể liên kết tượng trưng %1 đến %2: %3"
+
+#: src/util/fileops.cpp:163
+#, kde-format
+msgid "Cannot move %1 to %2: %3"
+msgstr "Không thể di chuyển %1 đến %2: %3"
+
+#: src/util/fileops.cpp:174 src/util/fileops.cpp:185
+#, kde-format
+msgid "Cannot copy %1 to %2: %3"
+msgstr "Không thể sao chép %1 đến %2: %3"
+
+#: src/util/fileops.cpp:239
+#, kde-format
+msgid "Cannot delete %1: %2"
+msgstr "Không thể xóa %1: %2"
+
+#: src/util/fileops.cpp:255
+#, kde-format
+msgid "Cannot create %1: %2"
+msgstr "Không thể tạo %1: %2"
+
+#: src/util/fileops.cpp:272
+#, kde-format
+msgid "Cannot calculate the filesize of %1: %2"
+msgstr "Không thể tính kích thước tệp của %1: %2"
+
+#: src/util/fileops.cpp:288
+#, kde-format
+msgid "Cannot calculate the filesize: %1"
+msgstr "Không thể tính kích thước tệp: %1"
+
+#: src/util/fileops.cpp:333 src/util/fileops.cpp:337 src/util/fileops.cpp:340
+#: src/util/fileops.cpp:343 src/util/fileops.cpp:346
+#, kde-format
+msgid "Cannot expand file: %1"
+msgstr "Không thể mở rộng tệp: %1"
+
+#: src/util/fileops.cpp:373
+#, kde-format
+msgid "Cannot seek in file: %1"
+msgstr "Không thể tìm kiếm trong tệp: %1"
+
+#: src/util/fileops.cpp:614
+#, kde-format
+msgid "Unable to open file %1: %2"
+msgstr "Không thể mở tệp %1: %2"
+
+#: src/util/functions.cpp:205
+#, kde-format
+msgid "%1/s"
+msgstr "%1/giây"
+
+#: src/util/functions.cpp:214
+#, kde-format
+msgid "1 day "
+msgid_plural "%1 days "
+msgstr[0] "%1 ngày "
+
+#: src/util/logsystemmanager.cpp:19
+#, kde-format
+msgid "General"
+msgstr "chung"
+
+#: src/util/logsystemmanager.cpp:20
+#, kde-format
+msgid "Connections"
+msgstr "Kết nối"
+
+#: src/util/logsystemmanager.cpp:21
+#, kde-format
+msgid "Tracker"
+msgstr "Trình theo dõi"
+
+#: src/util/logsystemmanager.cpp:22
+#, kde-format
+msgid "DHT"
+msgstr "DHT"
+
+#: src/util/logsystemmanager.cpp:23
+#, kde-format
+msgid "Disk Input/Output"
+msgstr "Đầu vào/Đầu ra Đĩa"
+
+#: src/util/logsystemmanager.cpp:24
+#, kde-format
+msgid "µTP"
+msgstr "µTP"
+
+#: src/util/signalcatcher.cpp:62
+#, kde-format
+msgid "Error when writing to disk"
+msgstr "Lỗi khi ghi vào đĩa"
+
+#: src/util/signalcatcher.cpp:62
+#, kde-format
+msgid "Error when reading from disk"
+msgstr "Lỗi khi đọc từ đĩa"

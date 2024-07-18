@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2024-06-19 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: component/name
+#: org.kde.ruqola.appdata.xml:7
+msgid "Ruqola"
+msgstr "Ruqola"
+
+#. (itstool) path: component/summary
+#: org.kde.ruqola.appdata.xml:8
+msgid "Rocket Chat Client"
+msgstr "Trình khách Rocket Chat"
+
+#. (itstool) path: description/p
+#: org.kde.ruqola.appdata.xml:10
+msgid "Ruqola is a client for Rocket.Chat."
+msgstr "Ruqola là một trình khách cho Rocket.Chat."
+
+#. (itstool) path: description/p
+#: org.kde.ruqola.appdata.xml:13
+msgid "It supports RC features:"
+msgstr "Nó hỗ trợ các tính năng RC:"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:17
+msgid "Direct Message"
+msgstr "Tin nhắn trực tiếp"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:18
+msgid "group channel"
+msgstr "kênh nhóm"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:19
+msgid "channel"
+msgstr "kênh"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:20
+msgid "Support autotranslate (when RC has it)"
+msgstr "Hỗ trợ tự động dịch (khi RC có tính năng này)"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:21
+msgid "Configuring room notification"
+msgstr "Cấu hình thông báo phòng"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:22
+msgid "Configuring room"
+msgstr "Cấu hình phòng"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:23
+msgid "Thread message support"
+msgstr "Hỗ trợ tin nhắn luồng"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:24
+msgid "Discussion room"
+msgstr "Phòng thảo luận"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:25
+msgid "Teams room support"
+msgstr "Hỗ trợ phòng Teams"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:26
+msgid "Configuring own account"
+msgstr "Cấu hình tài khoản của bạn"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:27
+msgid "Registering new account"
+msgstr "Đăng ký tài khoản mới"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:28
+msgid "Support multi account"
+msgstr "Hỗ trợ nhiều tài khoản"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:29
+msgid "Search message in room"
+msgstr "Tìm kiếm thông điệp trong phòng"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:30
+msgid "Show mention/attachment/Pinned message/start message"
+msgstr "Hiển thị tin nhắn được nhắc đến/đính kèm/ghim/bắt đầu"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:31
+msgid "Support emoji"
+msgstr "Hỗ trợ hình biểu cảm"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:32
+msgid "Video support"
+msgstr "Hỗ trợ video"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:33
+msgid "Configure administrator support (add/remove roles, add/remove users, add/remove permissions, configure rooms etc.)"
+msgstr ""
+"Cấu hình hỗ trợ quản trị viên (thêm/xóa vai trò, thêm/xóa người dùng, "
+"thêm/xóa quyền, cấu hình phòng chat, v.v.)"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:34
+msgid "Support OTR (in progress)"
+msgstr "Hỗ trợ OTR (đang thực hiện)"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:35
+msgid "support gif image"
+msgstr "hỗ trợ ảnh gif"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:36
+msgid "Add support for uploading attachment files"
+msgstr "Thêm hỗ trợ tải lên tệp đính kèm"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:37
+msgid "Show unread message information"
+msgstr "Hiển thị thông tin thông điệp chưa đọc"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:38
+msgid "Allow to block/unblock users"
+msgstr "Cho phép chặn/bỏ chặn người dùng"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:39
+msgid "Auto-away"
+msgstr "Tự động đi vắng"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:40
+msgid "Two-factor authentication via TOTP"
+msgstr "Xác thực hai yếu tố qua TOTP"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:41
+msgid "Two-factor authentication via email"
+msgstr "Xác thực hai yếu tố qua email"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:42
+msgid "Administrator support (Server Info, Rooms, Custom User Status, Custom Sounds, Custom Emoji, Users, Invites, View Log, Permissions, Roles, Oauth), Administrator settings (Message, Account, Retention Policy, File Upload, Encryption)"
+msgstr ""
+"Hỗ trợ quản trị viên (Thông tin máy chủ, Phòng, Trạng thái người dùng tùy "
+"chỉnh, Âm thanh tùy chỉnh, Emoji tùy chỉnh, Người dùng, Lời mời, Xem nhật "
+"ký, Quyền, Vai trò, Oauth), Thiết lập quản trị viên (Tin nhắn, Tài khoản, "
+"Chính sách lưu giữ, Tải lên tệp, Mã hóa)"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:43
+msgid "Export Messages"
+msgstr "Xuất khẩu tin nhắn"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:44
+msgid "Video Conference"
+msgstr "Hội nghị truyền hình"
+
+#. (itstool) path: description/p
+#: org.kde.ruqola.appdata.xml:46
+msgid "Extra features:"
+msgstr "Các tính năng bổ sung:"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:50
+msgid "Allow to reply directly to message from notification (kde features)"
+msgstr "Cho phép hồi đáp trực tiếp thông điệp từ thông báo (tính năng của KDE)"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:51
+msgid "Drag and drop image from ruqola to website or local folder"
+msgstr "Kéo và thả ảnh từ Ruqola vào website hoặc thư mục cục bộ"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:52
+msgid "Store message in local database so we can search in offline"
+msgstr ""
+"Lưu trữ thông điệp trong cơ sở dữ liệu cục bộ để có thể tìm kiếm khi ngoại "
+"tuyến"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:53
+msgid "Mark All Channels are read"
+msgstr "Đánh dấu tất cả các kênh đã đọc"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:54
+msgid "Add notification history"
+msgstr "Thêm lịch sử thông báo"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:55
+msgid "New RocketChat Server Information Support"
+msgstr "Hỗ trợ thông tin máy chủ RocketChat mới"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:56
+msgid "Manage Device (RC &gt;= 5.0)"
+msgstr "Quản lý thiết bị (RC &gt;= 5.0)"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:57
+msgid "Manage Personal Access Token"
+msgstr "Quản lý Hiệu Bài Truy Cập Cá Nhân"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:58
+msgid "Add support for local translation"
+msgstr "Thêm hỗ trợ cho bản dịch cục bộ"
+
+#. (itstool) path: ul/li
+#: org.kde.ruqola.appdata.xml:59
+msgid "Add support for text auto-correction"
+msgstr "Thêm hỗ trợ cho chức năng tự động sửa lỗi chính tả"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.ruqola.appdata.xml:68
+msgid "Chat room in Ruqola"
+msgstr "Phòng trò chuyện trong Ruqola"

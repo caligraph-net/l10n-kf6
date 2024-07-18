@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2024-06-20 00:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: component/name
+#: org.kde.kdebugsettings.appdata.xml:13
+msgid "KDebugSettings"
+msgstr "Cài đặt gỡ lỗi KDE"
+
+#. (itstool) path: component/summary
+#: org.kde.kdebugsettings.appdata.xml:14
+msgid "Set which debug messages are shown"
+msgstr "Đặt các thông báo gỡ lỗi được hiển thị"
+
+#. (itstool) path: description/p
+#: org.kde.kdebugsettings.appdata.xml:16
+msgid "KDebugSettings edits which QLoggingCategory are displayed. QLoggingCategory prints messages on the console for applications and you can define which applications display messages for information, warning or critical errors to help debugging Qt applications."
+msgstr ""
+"KDebugSettings chỉnh sửa các QLoggingCategory được hiển thị. "
+"QLoggingCategory in các thông báo trên bàn điều khiển cho các ứng dụng và "
+"bạn có thể định nghĩa các ứng dụng nào hiển thị thông báo cho thông tin, "
+"cảnh báo hoặc lỗi nghiêm trọng để giúp gỡ lỗi các ứng dụng Qt."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kdebugsettings.appdata.xml:29
+msgid "The main window of KDebugSettings."
+msgstr "Cửa sổ chính của KDebugSettings."

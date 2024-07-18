@@ -20,60 +20,60 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "Tên của bạn"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "Emails của bạn"
 
 #: kgrapheditor.cpp:126 kgraphviewer.cpp:107
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Session Management"
 msgid "Session Restore"
-msgstr "Quản lí Phiên chạy"
+msgstr "Khôi phục Phiên chạy"
 
 #: kgrapheditor.cpp:126
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Do you want to reload files from previous session ?"
 msgid "Do you want to reload files from previous session?"
-msgstr "Bạn có muốn nạp lại tệp từ phiên chạy trước không?"
+msgstr "Bạn có muốn nạp lại các tệp từ phiên trước không?"
 
 #: kgrapheditor.cpp:142
 #, kde-format
 msgid "Unable to start"
-msgstr ""
+msgstr "Không thể khởi động"
 
 #: kgrapheditor.cpp:142 kgraphviewer.cpp:129
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Could not find our part."
 msgid "Could not find the KGraphViewer part."
-msgstr "Không tìm thấy phần riêng."
+msgstr "Không tìm thấy phần KGraphViewer."
 
 #: kgrapheditor.cpp:223 kgraphviewer.cpp:208
 #, kde-format
 msgid "Closes the current file"
-msgstr ""
+msgstr "Đóng tệp hiện tại"
 
 #: kgrapheditor.cpp:234
 #, kde-format
 msgid "Create a New Vertex"
-msgstr ""
+msgstr "Tạo một Đỉnh Mới"
 
 #: kgrapheditor.cpp:239
 #, kde-format
 msgid "Create a New Edge"
-msgstr ""
+msgstr "Tạo một cạnh mới"
 
 #: kgrapheditor.cpp:494
 #, kde-format
 msgid "Save current graph"
-msgstr ""
+msgstr "Lưu đồ thị hiện tại"
 
 #: kgrapheditorConfigDialog.cpp:48 kgraphviewerConfigDialog.cpp:55
 #, kde-format
 msgid "Parsing"
-msgstr ""
+msgstr "Phân tích"
 
 #: kgrapheditorConfigDialog.cpp:49 kgraphviewerConfigDialog.cpp:56
 #, kde-format
@@ -91,43 +91,43 @@ msgid "Session Management"
 msgstr "Quản lí Phiên chạy"
 
 #: KGraphEditorElementTreeWidget.cpp:50 KGraphEditorNodesTreeWidget.cpp:54
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add date and time"
 msgid "Add a new attribute"
-msgstr "Thêm ngày giờ"
+msgstr "Thêm một thuộc tính mới"
 
 #: KGraphEditorElementTreeWidget.cpp:56 KGraphEditorNodesTreeWidget.cpp:60
 #, kde-format
 msgid "Remove this attribute"
-msgstr ""
+msgstr "Xoá thuộc tính này"
 
 #: kgrapheditormain.cpp:40
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "KGraphViewer"
 msgid "KGraphEditor"
-msgstr "Bộ xem đồ thị KDE"
+msgstr "Trình chỉnh sửa đồ thị KDE"
 
 #: kgrapheditormain.cpp:42
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "A Graphviz dot graph viewer for KDE"
 msgid "A Graphviz DOT graph editor by KDE"
-msgstr "Bộ xem đồ thị chấm GraphViz cho KDE"
+msgstr "Trình biên tập đồ thị DOT của Graphviz bởi KDE"
 
 #: kgrapheditormain.cpp:44 main.cpp:43
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "(C) 2005-2006 Gaël de Chalendar"
 msgid "(C) 2005-2010 Gaël de Chalendar"
-msgstr "© năm 2005-2006 của Gaël de Chalendar"
+msgstr "(C) 2005-2010 Gaël de Chalendar"
 
 #: kgrapheditormain.cpp:57 main.cpp:59
 #, kde-format
 msgid "Path or URL to scan"
-msgstr ""
+msgstr "Đường dẫn hoặc URL để quét"
 
 #: kgrapheditormain.cpp:57 main.cpp:59
 #, kde-format
 msgid "[url]"
-msgstr ""
+msgstr "[url]"
 
 #: kgrapheditormain.cpp:82 main.cpp:84
 #, kde-format
@@ -138,18 +138,18 @@ msgstr "Xác nhận mở trong cửa sổ mới"
 #, kde-format
 msgid ""
 "A KGraphEditor window is already open, do you want to open the file in it?"
-msgstr ""
+msgstr "Một cửa sổ KGraphEditor đã được mở, bạn có muốn mở tệp trong đó không?"
 
 #: KGraphEditorNodesTreeWidget.cpp:65
 #, kde-format
 msgid "Remove this node"
-msgstr ""
+msgstr "Xoá nút này"
 
 #. i18n: ectx: label, entry (reloadOnChangeMode), group (Notification Messages)
 #: kgrapheditorsettings.kcfg:9 kgraphviewersettings.kcfg:9
 #, kde-format
 msgid "The answer to the question 'File modified, do you want to reload it'"
-msgstr ""
+msgstr "Tệp đã được sửa đổi, bạn có muốn tải lại nó không"
 
 #. i18n: ectx: label, entry (parsingMode), group (Notification Messages)
 #: kgrapheditorsettings.kcfg:13 kgraphviewersettings.kcfg:13
@@ -158,6 +158,8 @@ msgid ""
 "To choose whether to parse using an external command (usually dot) or the "
 "graphviz library"
 msgstr ""
+"Để chọn sử dụng lệnh bên ngoài (thường là dot) hoặc thư viện graphviz để "
+"phân tách"
 
 #. i18n: ectx: label, entry (openInExistingWindowMode), group (Notification Messages)
 #: kgrapheditorsettings.kcfg:17 kgraphviewersettings.kcfg:17
@@ -166,6 +168,8 @@ msgid ""
 "The answer to the question 'If another window already exist when launching "
 "kgraphviewer, should we open in it, open a new window or ask?'"
 msgstr ""
+"Câu trả lời cho câu hỏi 'Nếu một cửa sổ khác đã tồn tại khi khởi chạy "
+"kgraphviewer, chúng ta nên mở trong đó, mở cửa sổ mới hay hỏi?'"
 
 #. i18n: ectx: label, entry (reopenPreviouslyOpenedFilesMode), group (Notification Messages)
 #: kgrapheditorsettings.kcfg:21 kgraphviewersettings.kcfg:21
@@ -174,19 +178,21 @@ msgid ""
 "The answer to the question 'Should the files that were opened in previous "
 "sessions be reopened at startup?'"
 msgstr ""
+"Câu trả lời cho câu hỏi 'Các tệp đã được mở trong các phiên trước đó có nên "
+"được mở lại khi khởi động không?'"
 
 #. i18n: ectx: label, entry (birdsEyeViewEnabled), group (Notification Messages)
 #: kgrapheditorsettings.kcfg:25 kgraphviewersettings.kcfg:25
 #: part/kgraphviewer_partsettings.kcfg:9
 #, kde-format
 msgid "If true, the bird's eye view will be shown if needed."
-msgstr ""
+msgstr "Nếu đúng, khung xem toàn cảnh sẽ được hiển thị nếu cần."
 
 #. i18n: ectx: label, entry (PreviouslyOpenedFiles), group (Notification Messages)
 #: kgrapheditorsettings.kcfg:29 kgraphviewersettings.kcfg:29
 #, kde-format
 msgid "The list of files that were opened in past instances of kgraphviewer"
-msgstr ""
+msgstr "Danh sách các tệp đã được mở trong các hiện thể trước đó của kgraphviewer"
 
 #. i18n: ectx: ToolBar (viewToolBar)
 #: kgrapheditorui.rc:22 kgraphviewerui.rc:16
@@ -202,40 +208,40 @@ msgstr "Thanh công cụ Trợ giúp"
 
 #. i18n: ectx: ToolBar (editToolBar)
 #: kgrapheditorui.rc:30
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Main Toolbar"
 msgid "Edit Toolbar"
-msgstr "Thanh công cụ chính"
+msgstr "Thanh công cụ Sửa"
 
 #: kgraphviewer.cpp:106
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Do you want to reload files from previous session ?"
 msgid "Do you want to reload files from the previous session?"
 msgstr "Bạn có muốn nạp lại tệp từ phiên chạy trước không?"
 
 #: kgraphviewer.cpp:108
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Reloading"
 msgctxt "@action:button"
 msgid "Reload"
-msgstr "Đang nạp lại"
+msgstr "Tải lại"
 
 #: kgraphviewer.cpp:109
 #, kde-format
 msgctxt "@action:button"
 msgid "Do Not Reload"
-msgstr ""
+msgstr "Không tải lại"
 
 #: kgraphviewer.cpp:196
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Open in existing window"
 msgid "Opens a new empty KGraphViewer window."
-msgstr "Mở trong cửa sổ đã có"
+msgstr "Mở một cửa sổ KGraphViewer mới trống."
 
 #: kgraphviewer.cpp:199
 #, kde-format
 msgid "Shows the file open dialog to choose a Graphviz DOT file to open."
-msgstr ""
+msgstr "Hiển thị hộp thoại mở tệp để chọn một tệp Graphviz DOT để mở."
 
 #: kgraphviewer.cpp:202
 #, kde-format
@@ -243,39 +249,41 @@ msgid ""
 "This lists files which you have opened recently, and allows you to easily "
 "open them again."
 msgstr ""
+"Danh sách này liệt kê các tệp mà bạn đã mở gần đây, và cho phép bạn dễ dàng "
+"mở chúng lại."
 
 #: kgraphviewer.cpp:212
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "KGraphViewer"
 msgid "Quits KGraphViewer."
-msgstr "Bộ xem đồ thị KDE"
+msgstr "Thoát KGraphViewer."
 
 #: kgraphviewer.cpp:215
 #, kde-format
 msgid "Shows or hides the status bar."
-msgstr ""
+msgstr "Hiển thị hoặc ẩn thanh trạng thái."
 
 #: kgraphviewer.cpp:218
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Reload Confirmation"
 msgid "Toolbar configuration."
-msgstr "Xác nhận nạp lại"
+msgstr "Cấu hình thanh công cụ."
 
 #: kgraphviewer.cpp:221
 #, kde-format
 msgid "Main KGraphViewer configuration options."
-msgstr ""
+msgstr "Các tùy chọn cấu hình chính của KGraphViewer."
 
 #: kgraphviewerConfigDialog.cpp:54
 #, kde-format
 msgid "Appearance"
-msgstr ""
+msgstr "diện mạo"
 
 #. i18n: ectx: label, entry (backgroundColor), group (Appearance)
 #: kgraphviewersettings.kcfg:34
 #, kde-format
 msgid "Background color of the graph view."
-msgstr ""
+msgstr "Màu nền của chế độ xem đồ thị."
 
 #: main.cpp:39
 #, kde-format
@@ -283,10 +291,10 @@ msgid "KGraphViewer"
 msgstr "Bộ xem đồ thị KDE"
 
 #: main.cpp:41
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "A Graphviz dot graph viewer for KDE"
 msgid "A Graphviz DOT graph viewer"
-msgstr "Bộ xem đồ thị chấm GraphViz cho KDE"
+msgstr "Trình xem đồ thị DOT của Graphviz"
 
 #: main.cpp:46
 #, kde-format
@@ -296,42 +304,42 @@ msgstr "Gaël de Chalendar"
 #: main.cpp:46
 #, kde-format
 msgid "Original Author and current maintainer"
-msgstr ""
+msgstr "Tác giả gốc và bảo trì viên hiện tại"
 
 #: main.cpp:47
 #, kde-format
 msgid "Reimar Döffinger"
-msgstr ""
+msgstr "Reimar Döffinger"
 
 #: main.cpp:47 main.cpp:48 main.cpp:49 main.cpp:50
 #, kde-format
 msgid "Contributor"
-msgstr ""
+msgstr "Người đóng góp"
 
 #: main.cpp:48
 #, kde-format
 msgid "Matthias Peinhardt"
-msgstr ""
+msgstr "Matthias Peinhardt"
 
 #: main.cpp:49
 #, kde-format
 msgid "Sandro Andrade"
-msgstr ""
+msgstr "Sandro Andrade"
 
 #: main.cpp:50
 #, kde-format
 msgid "Milian Wolff"
-msgstr ""
+msgstr "Milian Wolff"
 
 #: main.cpp:51
 #, kde-format
 msgid "Martin Sandsmark"
-msgstr ""
+msgstr "Martin Sandsmark"
 
 #: main.cpp:51
 #, kde-format
 msgid "Port to KF5"
-msgstr ""
+msgstr "Chuyển sang KF5"
 
 #: main.cpp:84
 #, kde-format
@@ -339,132 +347,134 @@ msgid ""
 "A KGraphViewer window is already open, where do you want to open this file "
 "in the existing window?"
 msgstr ""
+"Một cửa sổ KGraphViewer đã được mở, bạn muốn mở tệp này trong cửa sổ hiện "
+"có ở đâu?"
 
 #: part/canvasedge.cpp:70
 #, kde-format
 msgid ""
 "%1 -> %2\n"
 "label='%3'"
-msgstr ""
+msgstr "%1 -> %2\nlabel='%3'"
 
 #: part/canvasedge.cpp:74
 #, kde-format
 msgid "Remove selected edge(s)"
-msgstr ""
+msgstr "Xoá các cạnh đã chọn"
 
 #: part/canvaselement.cpp:87
 #, kde-format
 msgid "Remove selected element(s)"
-msgstr ""
+msgstr "Xoá các phần tử đã chọn"
 
 #: part/canvasnode.cpp:51
 #, kde-format
 msgid ""
 "id='%1'\n"
 "label='%2'"
-msgstr ""
+msgstr "id='%1'\nlabel='%2'"
 
 #: part/dotgraph.cpp:260 part/dotgraph.cpp:263 part/dotgraph.cpp:266
 #: part/dotgraph.cpp:269 part/dotgraph.cpp:272 part/dotgraph.cpp:275
 #, kde-format
 msgid "Layout process failed"
-msgstr ""
+msgstr "Quá trình bố cục thất bại"
 
 #: part/dotgraph.cpp:260
 #, kde-format
 msgid "Unable to start %1."
-msgstr ""
+msgstr "Không thể khởi động %1."
 
 #: part/dotgraph.cpp:263
 #, kde-format
 msgid "%1 crashed."
-msgstr ""
+msgstr "%1 đã bị sập."
 
 #: part/dotgraph.cpp:266
 #, kde-format
 msgid "%1 timed out."
-msgstr ""
+msgstr "%1 đã hết thời gian."
 
 #: part/dotgraph.cpp:269
 #, kde-format
 msgid "Was not able to write data to the %1 process."
-msgstr ""
+msgstr "Không thể ghi dữ liệu vào quá trình %1."
 
 #: part/dotgraph.cpp:272
 #, kde-format
 msgid "Was not able to read data from the %1 process."
-msgstr ""
+msgstr "Không thể đọc dữ liệu từ quá trình %1."
 
 #: part/dotgraph.cpp:275
 #, kde-format
 msgid "Unknown error running %1."
-msgstr ""
+msgstr "Lỗi không rõ khi chạy %1."
 
 #: part/dotgraphview.cpp:407
 #, kde-format
 msgctxt "@title:menu"
 msgid "Layout Algorithm"
-msgstr ""
+msgstr "Thuật toán bố cục"
 
 #: part/dotgraphview.cpp:410
 #, kde-format
 msgctxt "@item:inmenu algorithm program"
 msgid "Dot"
-msgstr ""
+msgstr "Dot"
 
 #: part/dotgraphview.cpp:411
 #, kde-format
 msgid "Layout the graph using the dot program."
-msgstr ""
+msgstr "Bố cục đồ thị bằng chương trình dot."
 
 #: part/dotgraphview.cpp:415
 #, kde-format
 msgctxt "@item:inmenu algorithm program"
 msgid "Neato"
-msgstr ""
+msgstr "Neato"
 
 #: part/dotgraphview.cpp:416
 #, kde-format
 msgid "Layout the graph using the neato program."
-msgstr ""
+msgstr "Bố cục đồ thị bằng chương trình neato."
 
 #: part/dotgraphview.cpp:420
 #, kde-format
 msgctxt "@item:inmenu algorithm program"
 msgid "Twopi"
-msgstr ""
+msgstr "Twopi"
 
 #: part/dotgraphview.cpp:421
 #, kde-format
 msgid "Layout the graph using the twopi program."
-msgstr ""
+msgstr "Bố cục đồ thị bằng chương trình twopi."
 
 #: part/dotgraphview.cpp:425
 #, kde-format
 msgctxt "@item:inmenu algorithm program"
 msgid "Fdp"
-msgstr ""
+msgstr "Fdp"
 
 #: part/dotgraphview.cpp:426
 #, kde-format
 msgid "Layout the graph using the fdp program."
-msgstr ""
+msgstr "Bố cục đồ thị bằng chương trình fdp."
 
 #: part/dotgraphview.cpp:430
 #, kde-format
 msgctxt "@item:inmenu algorithm program"
 msgid "Circo"
-msgstr ""
+msgstr "Circo"
 
 #: part/dotgraphview.cpp:431
 #, kde-format
 msgid "Layout the graph using the circo program."
-msgstr ""
+msgstr "Bố cục đồ thị bằng chương trình circo."
 
 #: part/dotgraphview.cpp:443
 #, kde-format
 msgid "Choose a Graphviz layout algorithm or edit your own one."
-msgstr ""
+msgstr "Chọn một thuật toán bố cục Graphviz hoặc biên tập bố cục của riêng bạn."
 
 #: part/dotgraphview.cpp:445
 #, kde-format
@@ -474,17 +484,21 @@ msgid ""
 "manually specify the <tt>G</tt> option to the dot command, type in: <tt>dot -"
 "Gname=MyGraphName -Txdot </tt>"
 msgstr ""
+"Chọn một thuật toán bố cục Graphviz hoặc nhập lệnh của riêng bạn để tạo đồ "
+"thị ở định dạng xdot trên đầu ra chuẩn. Ví dụ, để chỉ định thủ công lựa "
+"chọn <tt>G</tt> cho lệnh dot, hãy nhập: <tt>dot -Gname=MyGraphName -Txdot "
+"</tt>"
 
 #: part/dotgraphview.cpp:453
 #, kde-format
 msgctxt "@title:menu"
 msgid "Export Graph"
-msgstr ""
+msgstr "Xuất khẩu Đồ thị"
 
 #: part/dotgraphview.cpp:454
 #, kde-format
 msgid "Allows the graph to be exported in another format."
-msgstr ""
+msgstr "Cho phép xuất biểu đồ sang định dạng khác."
 
 #: part/dotgraphview.cpp:456
 #, kde-format
@@ -492,118 +506,120 @@ msgid ""
 "Use the Export Graph menu to export the graph in another format. There is "
 "currently only one export format supported: as a PNG image."
 msgstr ""
+"Sử dụng trình đơn Xuất khẩu Đồ thị để xuất khẩu đồ thị sang định dạng khác. "
+"Hiện chỉ có một định dạng xuất khẩu được hỗ trợ: dưới dạng ảnh PNG."
 
 #: part/dotgraphview.cpp:459
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Change..."
 msgctxt "@action:inmenu"
 msgid "As Image…"
-msgstr "Đổi..."
+msgstr "Như Hình Ảnh..."
 
 #: part/dotgraphview.cpp:460
 #, kde-format
 msgid "Export the graph to an image file."
-msgstr ""
+msgstr "Xuất khẩu đồ thị sang tệp ảnh."
 
 #: part/dotgraphview.cpp:470
 #, no-c-format, kde-format
 msgid "Zoom in by 10% on the currently viewed graph"
-msgstr ""
+msgstr "Thu phóng đồ thị hiện tại lên 10%"
 
 #: part/dotgraphview.cpp:474
 #, no-c-format, kde-format
 msgid "Zoom out by 10% from the currently viewed graph"
-msgstr ""
+msgstr "Thu phóng ra 10% từ biểu đồ đang được xem"
 
 #: part/dotgraphview.cpp:477
 #, kde-format
 msgctxt "@option:check"
 msgid "Enable Bird's-Eye View"
-msgstr ""
+msgstr "Bật Chế Độ Xem Toàn Cảnh"
 
 #: part/dotgraphview.cpp:478
 #, kde-format
 msgid "Enables or disables the Bird's-eye View"
-msgstr ""
+msgstr "Bật hoặc tắt Chế độ xem toàn cảnh"
 
 #: part/dotgraphview.cpp:484
 #, kde-format
 msgctxt "@title:menu"
 msgid "Bird's-Eye View Position"
-msgstr ""
+msgstr "Vị trí Xem Toàn Cảnh"
 
 #: part/dotgraphview.cpp:485
 #, kde-format
 msgid "Allows the Bird's-eye View to be setup."
-msgstr ""
+msgstr "Cho phép thiết lập Khung xem Toàn cảnh."
 
 #: part/dotgraphview.cpp:487
 #, kde-format
 msgctxt "@item:inmenu bev position"
 msgid "Top Left"
-msgstr ""
+msgstr "Trên cùng bên trái"
 
 #: part/dotgraphview.cpp:488
 #, kde-format
 msgid "Puts the Bird's-eye View in the top-left corner."
-msgstr ""
+msgstr "Đặt Khung xem Toàn cảnh ở góc trên bên trái."
 
 #: part/dotgraphview.cpp:493
 #, kde-format
 msgctxt "@item:inmenu bev position"
 msgid "Top Right"
-msgstr ""
+msgstr "Trên cùng bên phải"
 
 #: part/dotgraphview.cpp:494
 #, kde-format
 msgid "Puts the Bird's-eye View in the top-right corner."
-msgstr ""
+msgstr "Đặt Khung xem Toàn cảnh ở góc trên bên phải."
 
 #: part/dotgraphview.cpp:499
 #, kde-format
 msgctxt "@item:inmenu bev position"
 msgid "Bottom Left"
-msgstr ""
+msgstr "Dưới cùng bên trái"
 
 #: part/dotgraphview.cpp:500
 #, kde-format
 msgid "Puts the Bird's-eye View in the bottom-left corner."
-msgstr ""
+msgstr "Đặt Khung xem Toàn cảnh ở góc dưới bên trái."
 
 #: part/dotgraphview.cpp:505
 #, kde-format
 msgctxt "@item:inmenu bev position"
 msgid "Bottom Right"
-msgstr ""
+msgstr "Dưới cùng bên phải"
 
 #: part/dotgraphview.cpp:506
 #, kde-format
 msgid "Puts the Bird's-eye View in the bottom-right corner."
-msgstr ""
+msgstr "Đặt Khung xem Toàn cảnh ở góc dưới bên phải."
 
 #: part/dotgraphview.cpp:511
 #, kde-format
 msgctxt "@item:inmenu bev position"
 msgid "Automatic"
-msgstr ""
+msgstr "Tự động"
 
 #: part/dotgraphview.cpp:512
 #, kde-format
 msgid ""
 "Let KGraphViewer automatically choose the position of the Bird's-eye View."
-msgstr ""
+msgstr "Để KGraphViewer tự động chọn vị trí của Chế độ xem toàn cảnh."
 
 #: part/dotgraphview.cpp:557
 #, kde-format
 msgctxt "@title:menu"
 msgid "Layout"
-msgstr ""
+msgstr "Bố cục"
 
 #: part/dotgraphview.cpp:560
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Specify Layout Command…"
-msgstr ""
+msgstr "Chỉ định Lệnh Bố Cục..."
 
 #: part/dotgraphview.cpp:562
 #, kde-format
@@ -611,12 +627,14 @@ msgid ""
 "Specify yourself the layout command to use. Given a dot file, it should "
 "produce an xdot file on its standard output."
 msgstr ""
+"Hãy chỉ định lệnh bố cục mà bạn muốn sử dụng. Với một tệp dot, nó sẽ tạo ra "
+"một tệp xdot trên đầu ra tiêu chuẩn của nó."
 
 #: part/dotgraphview.cpp:564
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Reset Layout Command to Default"
-msgstr ""
+msgstr "Đặt lại Lệnh Bố cục về Mặc định"
 
 #: part/dotgraphview.cpp:566
 #, kde-format
@@ -624,21 +642,23 @@ msgid ""
 "Resets the layout command to use to the default depending on the graph type "
 "(directed or not)."
 msgstr ""
+"Đặt lại lệnh bố cục để sử dụng mặc định tùy thuộc vào kiểu đồ thị (có hướng "
+"hoặc không)."
 
 #: part/dotgraphview.cpp:600
 #, kde-format
 msgid "Select file"
-msgstr ""
+msgstr "Bôi đen tệp"
 
 #: part/dotgraphview.cpp:614
 #, kde-format
 msgid "Graph SVG Generated by KGraphViewer"
-msgstr ""
+msgstr "Đồ thị SVG được tạo bởi KGraphViewer"
 
 #: part/dotgraphview.cpp:615
 #, kde-format
 msgid "Graph SVG Generated by KGraphViewer."
-msgstr ""
+msgstr "Đồ thị SVG được tạo bởi KGraphViewer."
 
 #: part/dotgraphview.cpp:662
 #, kde-format
@@ -658,23 +678,38 @@ msgid ""
 "<tt>Print preview</tt> or the <tt>Page setup</tt> buttons to explore the "
 "printing options.</li></ul>"
 msgstr ""
+"<h1>Trực quan hóa đồ thị định dạng DOT của Graphviz</h1><p>Nếu đồ thị lớn "
+"hơn khu vực khiển tố, một bảng điều khiển tổng quan sẽ hiển thị ở một cạnh. "
+"Chọn thông qua trình đơn ngữ cảnh nếu vị trí tối ưu của tổng quan này nên "
+"được tính toán tự động hoặc đặt nó ở nơi bạn muốn.</p><h2>Làm việc với nó "
+"như thế nào?</h2><ul><li>Để di chuyển đồ thị, bạn có thể:  <ul>    <li>bấm "
+"& kéo nó</li>    <li>sử dụng thanh cuộn</li>    <li>nhấn các phím mũi "
+"tên</li>    <li>bấm vào đâu đó trong khung nhìn bảng điều khiển</li>    "
+"<li>sử dụng con lăn chuột (lên và xuống không cần phím bổ trợ, trái và phải "
+"với phím <Alt> được nhấn)</li>    <li>hoặc bấm & kéo khung nhìn bảng điều "
+"khiển</li>  </ul></li><li>Để thu phóng, bạn có thể sử dụng các nút thu "
+"phóng to và thu nhỏ trên thanh công cụ, hoặc bấm phím <Shift> trong khi lăn "
+"con lăn chuột.</li><li>Thử trình đơn ngữ cảnh (thường bằng cách bấm chuột "
+"phải) để khám phá các khả năng khác.</li><li>Thử nút <tt>Xem trước khi "
+"in</tt> hoặc <tt>Thiết lập trang</tt> để khám phá các tùy chọn in "
+"ấn.</li></ul>"
 
 #: part/dotgraphview.cpp:817
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Dot graph to open"
 msgid "no graph loaded"
-msgstr "Đồ thị chấm cần mở"
+msgstr "chưa tải đồ thị"
 
 #: part/dotgraphview.cpp:933 part/dotgraphview.cpp:954
 #: part/dotgraphview.cpp:1001
 #, kde-format
 msgid "graph %1 is getting loaded..."
-msgstr ""
+msgstr "đồ thị %1 đang được tải..."
 
 #: part/dotgraphview.cpp:941
 #, kde-format
 msgid "error parsing file %1"
-msgstr ""
+msgstr "lỗi khi phân tích tệp %1"
 
 #: part/dotgraphview.cpp:1646
 #, kde-format
@@ -686,12 +721,12 @@ msgstr "Xác nhận nạp lại"
 msgid ""
 "The file %1 has been modified on disk.\n"
 "Do you want to reload it?"
-msgstr ""
+msgstr "Tệp %1 đã được chỉnh sửa trên ổ đĩa.\nBạn có muốn tải lại nó không?"
 
 #: part/dotgraphview.cpp:1732
 #, kde-format
 msgid "Layout Command"
-msgstr ""
+msgstr "Lệnh Bố Cục"
 
 #: part/dotgraphview.cpp:1733
 #, kde-format
@@ -699,39 +734,41 @@ msgid ""
 "Specify here the command that will be used to layout the graph.\n"
 "The command MUST write its results on stdout in xdot format."
 msgstr ""
+"Chỉ định lệnh sẽ được sử dụng để bố cục đồ thị.\nLệnh NỘI BỘ phải ghi kết "
+"quả của nó trên stdout ở định dạng xdot."
 
 #: part/dotgraphview.cpp:2182
 #, kde-format
 msgid "Failed to open %1"
-msgstr ""
+msgstr "Không thể mở %1"
 
 #: part/kgraphviewer_part.cpp:84
 #, kde-format
 msgid "Print the graph using current page setup settings"
-msgstr ""
+msgstr "In đồ thị bằng cách sử dụng thiết lập trang hiện tại"
 
 #: part/kgraphviewer_part.cpp:87
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Open in existing window"
 msgid "Open the print preview window"
-msgstr "Mở trong cửa sổ đã có"
+msgstr "Mở cửa sổ xem thử trước khi in"
 
 #: part/kgraphviewer_part.cpp:92
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Page Size && Margins"
 msgctxt "@action:inmenu"
 msgid "Page Setup…"
-msgstr "Cỡ và Lề Trang"
+msgstr "Thiết lập Trang..."
 
 #: part/kgraphviewer_part.cpp:93
 #, kde-format
 msgid "Opens the Page Setup dialog to allow graph printing to be setup"
-msgstr ""
+msgstr "Mở hộp thoại Thiết lập Trang để cho phép cài đặt in đồ thị"
 
 #: part/kgraphviewer_part.cpp:96
 #, kde-format
 msgid "Reload the current graph from file"
-msgstr ""
+msgstr "Tải lại đồ thị hiện tại từ tệp"
 
 #. i18n: ectx: Menu (file)
 #: part/kgraphviewer_part.rc:4
@@ -748,12 +785,12 @@ msgstr "&Xem"
 #: part/KgvPageLayout.cpp:69
 msgctxt "Page size"
 msgid "Screen"
-msgstr ""
+msgstr "Màn hình"
 
 #: part/KgvPageLayout.cpp:70
 msgctxt "Page size"
 msgid "Custom"
-msgstr ""
+msgstr "Tự chọn"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel1)
 #: part/KgvPageLayoutColumnsBase.ui:27
@@ -770,10 +807,10 @@ msgstr "Khoảng cách cột:"
 #: part/KgvPageLayoutDia.cpp:53
 #, kde-format
 msgid "Page Preview"
-msgstr ""
+msgstr "Xem thử trang"
 
 #: part/KgvPageLayoutDia.cpp:268
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Page Size && Margins"
 msgid "Page Size & Margins"
 msgstr "Cỡ và Lề Trang"
@@ -841,118 +878,118 @@ msgstr "Khoảng cách giữa cước chú và thân:"
 #: part/KgvPageLayoutSize.cpp:58
 #, kde-format
 msgid "Unit:"
-msgstr ""
+msgstr "Đơn vị:"
 
 #: part/KgvPageLayoutSize.cpp:71
 #, kde-format
 msgid "All values are given in %1."
-msgstr ""
+msgstr "Tất cả các giá trị được đưa ra bằng %1."
 
 #: part/KgvPageLayoutSize.cpp:76
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Page Size && Margins"
 msgid "Page Size"
-msgstr "Cỡ và Lề Trang"
+msgstr "Cỡ Trang"
 
 #: part/KgvPageLayoutSize.cpp:85
 #, kde-format
 msgid "&Size:"
-msgstr ""
+msgstr "Kíc&h thước:"
 
 #: part/KgvPageLayoutSize.cpp:106
 #, kde-format
 msgid "&Width:"
-msgstr ""
+msgstr "Ch&iều rộng:"
 
 #: part/KgvPageLayoutSize.cpp:117
 #, kde-format
 msgid "&Height:"
-msgstr ""
+msgstr "Chiều ca&o:"
 
 #: part/KgvPageLayoutSize.cpp:131
 #, kde-format
 msgid "Orientation"
-msgstr ""
+msgstr "Hướng"
 
 #: part/KgvPageLayoutSize.cpp:135
 #, kde-format
 msgid "&Portrait"
-msgstr ""
+msgstr "&Dọc"
 
 #: part/KgvPageLayoutSize.cpp:139
 #, kde-format
 msgid "La&ndscape"
-msgstr ""
+msgstr "Nga&ng"
 
 #: part/KgvPageLayoutSize.cpp:147
 #, kde-format
 msgid "Margins"
-msgstr ""
+msgstr "Lề"
 
 #: part/KgvPageLayoutSize.cpp:370 part/KgvPageLayoutSize.cpp:374
 #, kde-format
 msgid "Page Layout Problem"
-msgstr ""
+msgstr "Vấn đề Bố cục Trang"
 
 #: part/KgvPageLayoutSize.cpp:370
 #, kde-format
 msgid "The page width is smaller than the left and right margins."
-msgstr ""
+msgstr "Chiều rộng trang nhỏ hơn lề trái và lề phải."
 
 #: part/KgvPageLayoutSize.cpp:374
 #, kde-format
 msgid "The page height is smaller than the top and bottom margins."
-msgstr ""
+msgstr "Chiều cao trang nhỏ hơn lề trên và lề dưới."
 
 #: part/KgvUnit.cpp:52
 #, kde-format
 msgid "Millimeters (mm)"
-msgstr ""
+msgstr "Milimét (mm)"
 
 #: part/KgvUnit.cpp:54
 #, kde-format
 msgid "Centimeters (cm)"
-msgstr ""
+msgstr "Xentimét (cm)"
 
 #: part/KgvUnit.cpp:56
 #, kde-format
 msgid "Decimeters (dm)"
-msgstr ""
+msgstr "Decimeters (dm)"
 
 #: part/KgvUnit.cpp:58
 #, kde-format
 msgid "Inches (in)"
-msgstr ""
+msgstr "Inch (in)"
 
 #: part/KgvUnit.cpp:60
 #, kde-format
 msgid "Pica (pi)"
-msgstr ""
+msgstr "Pica (pi)"
 
 #: part/KgvUnit.cpp:62
 #, kde-format
 msgid "Didot (dd)"
-msgstr ""
+msgstr "Didot (dd)"
 
 #: part/KgvUnit.cpp:64
 #, kde-format
 msgid "Cicero (cc)"
-msgstr ""
+msgstr "Cicero (cc)"
 
 #: part/KgvUnit.cpp:66
 #, kde-format
 msgid "Points (pt)"
-msgstr ""
+msgstr "Điểm (pt)"
 
 #: part/KgvUnit.cpp:68
 #, kde-format
 msgid "Error."
-msgstr ""
+msgstr "Lỗi."
 
 #: part/pannerview.cpp:59
 #, kde-format
 msgid "View of the complete graph. Click and drag to move the visible part."
-msgstr ""
+msgstr "Xem toàn bộ đồ thị. Bấm và kéo để di chuyển phần hiển thị."
 
 #: part/pannerview.cpp:61
 #, kde-format
@@ -962,108 +999,112 @@ msgid ""
 "p><p>Clicking and dragging within the red square will cause the view to "
 "follow the movement.</p>"
 msgstr ""
+"<h1>Khung Xem Đồ Thị Hoàn Tất</h1><p>Nhấp chuột một lần vào vị trí ngoài "
+"hình vuông đỏ sẽ di chuyển trung tâm của khung xem đến vị trí được nhấp "
+"chuột.</p><p>Nhấp và kéo chuột trong hình vuông đỏ sẽ khiến khung xem di "
+"chuyển theo.</p>"
 
 #: part/simpleprintingcommand.cpp:78
 #, kde-format
 msgid "Print Preview"
-msgstr ""
+msgstr "Xem thử"
 
 #: part/simpleprintingengine.cpp:190 part/simpleprintpreviewwindow.cpp:209
 #: part/simpleprintpreviewwindow.cpp:227
 #, kde-format
 msgctxt "Page (number) of (total)"
 msgid "Page %1 of %2"
-msgstr ""
+msgstr "Trang %1 trên %2"
 
 #: part/simpleprintingengine.cpp:192
 #, kde-format
 msgid "Page %1"
-msgstr ""
+msgstr "Trang %1"
 
 #: part/simpleprintingpagesetup.cpp:85
 #, kde-format
 msgid "Print Preview..."
-msgstr ""
+msgstr "Xem trước khi in..."
 
 #: part/simpleprintingpagesetup.cpp:88
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Set Font..."
 msgid "Font..."
-msgstr "Đặt phông..."
+msgstr "Phông chữ..."
 
 #: part/simpleprintingpagesetup.cpp:89
 #, kde-format
 msgid "Changes font for title text."
-msgstr ""
+msgstr "Thay đổi phông chữ cho văn bản tiêu đề."
 
 #: part/simpleprintingpagesetup.cpp:95
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "<h2>Page Setup for Printing Graph \"%1\"</h2>"
 msgid "<qt><h2>Page Setup for Printing Graph \"%1\"</h2></qt>"
-msgstr "<h2>Thiết lập trang để in đồ thị « %1 »</h2>"
+msgstr "<qt><h2>Thiết lập trang để in đồ thị \"%1\"</h2></qt>"
 
 #: part/simpleprintingpagesetup.cpp:100
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Save This Setup as Default"
 msgid "Saves settings for this setup as default."
-msgstr "Lưu thiết lập này làm mặc định"
+msgstr "Lưu thiết lập này làm mặc định."
 
 #: part/simpleprintingpagesetup.cpp:103
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add date and time"
 msgid "Adds date and time to the header."
-msgstr "Thêm ngày giờ"
+msgstr "Thêm ngày và giờ vào phần đầu trang."
 
 #: part/simpleprintingpagesetup.cpp:104
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add page numbers"
 msgid "Adds page numbers to the footer."
-msgstr "Thêm số thứ tự trang"
+msgstr "Thêm số thứ tự trang vào chân trang."
 
 #: part/simpleprintingpagesetup.cpp:105
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add &borders"
 msgid "Adds table borders."
-msgstr "Thêm &viền"
+msgstr "Thêm đường viền bảng."
 
 #: part/simpleprintingpagesetup.cpp:113
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Page Size && Margins"
 msgid "Change Page Size and Margins..."
-msgstr "Cỡ và Lề Trang"
+msgstr "Thay đổi Cỡ Trang và Lề..."
 
 #: part/simpleprintingpagesetup.cpp:114
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Page Size && Margins"
 msgid "Changes page size and margins."
-msgstr "Cỡ và Lề Trang"
+msgstr "Thay đổi cỡ trang và lề."
 
 #: part/simpleprintingpagesetup.cpp:164
 #, kde-format
 msgid "Chosen font looks like this"
-msgstr ""
+msgstr "Phông chữ đã chọn trông như thế này"
 
 #: part/simpleprintingpagesetup.cpp:180
 #, kde-format
 msgid "Portrait"
-msgstr ""
+msgstr "Dọc"
 
 #: part/simpleprintingpagesetup.cpp:180
 #, kde-format
 msgid "Landscape"
-msgstr ""
+msgstr "Ngang"
 
 #: part/simpleprintingpagesetup.cpp:180
 #, kde-format
 msgid "margins:"
-msgstr ""
+msgstr "lề:"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel2)
 #: part/simpleprintingpagesetupbase.ui:64
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Page &font:"
 msgid "Pa&ge font:"
-msgstr "&Phông trang:"
+msgstr "Phôn&g chữ trang:"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox1)
 #: part/simpleprintingpagesetupbase.ui:93
@@ -1097,47 +1138,47 @@ msgstr "Số trang chứa"
 
 #. i18n: ectx: property (text), widget (QRadioButton, naturalSizeRadioButton)
 #: part/simpleprintingpagesetupbase.ui:167
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Natural size"
 msgid "&Natural size"
-msgstr "Kích cỡ tự nhiên"
+msgstr "Kích cỡ tự nh&iên"
 
 #. i18n: ectx: property (text), widget (QRadioButton, fitToOnePageRadioButton)
 #: part/simpleprintingpagesetupbase.ui:174
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Fit to one page"
 msgid "Fit &to one page"
-msgstr "Vừa một trang"
+msgstr "Vừa mộ&t trang"
 
 #. i18n: ectx: property (text), widget (QRadioButton, fitToSeveralPagesRadioButton)
 #: part/simpleprintingpagesetupbase.ui:181
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Fit to several pages"
 msgid "F&it to several pages"
-msgstr "Vừa vài trang"
+msgstr "Vừa và&i trang"
 
 #. i18n: ectx: property (text), widget (QLabel)
 #: part/simpleprintingpagesetupbase.ui:192
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Horizontaly"
 msgctxt "@label:spinbox"
 msgid "Horizontally:"
-msgstr "Ngang"
+msgstr "Ngang:"
 
 #. i18n: ectx: property (text), widget (QLabel)
 #: part/simpleprintingpagesetupbase.ui:202
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Verticaly"
 msgctxt "@label:spinbox"
 msgid "Vertically:"
-msgstr "Dọc"
+msgstr "Theo chiều dọc:"
 
 #. i18n: ectx: property (text), widget (QCheckBox, maintainAspectCheckBox)
 #: part/simpleprintingpagesetupbase.ui:212
 #, kde-format
 msgctxt "@option:check"
 msgid "Preserve aspect ratio:"
-msgstr ""
+msgstr "Giữ tỷ lệ khung hình:"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel6)
 #: part/simpleprintingpagesetupbase.ui:228
@@ -1148,34 +1189,34 @@ msgstr "Hành động liên quan:"
 #: part/simpleprintpreviewwindow.cpp:58
 #, kde-format
 msgid "%1 - Print Preview - %2"
-msgstr ""
+msgstr "%1 - Xem thử In - %2"
 
 #: part/simpleprintpreviewwindow.cpp:73
 #, kde-format
 msgid "&Page setup"
-msgstr ""
+msgstr "Thiế&t lập trang"
 
 #: part/simpleprintpreviewwindow.cpp:112
 #, kde-format
 msgid "Previous Page"
-msgstr ""
+msgstr "Trang trước"
 
 #: part/simpleprintpreviewwindow.cpp:122
 #, kde-format
 msgid "Next Page"
-msgstr ""
+msgstr "Trang tiếp theo"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: preferencesAppearance.ui:19
 #, kde-format
 msgid "Default background color:"
-msgstr ""
+msgstr "Màu nền mặc định:"
 
 #. i18n: ectx: property (text), widget (QLabel, note)
 #: preferencesAppearance.ui:51
 #, kde-format
 msgid "Note: this will be overridden if the graph has its own background color"
-msgstr ""
+msgstr "Lưu ý: điều này sẽ bị ghi đè nếu biểu đồ có màu nền riêng của nó"
 
 #. i18n: ectx: property (title), widget (QGroupBox, openInExistingWindowMode)
 #: preferencesOpenInExistingWindow.ui:17
@@ -1193,10 +1234,10 @@ msgstr "&Có"
 #. i18n: ectx: property (text), widget (QRadioButton, no)
 #: preferencesOpenInExistingWindow.ui:30 preferencesReload.ui:33
 #: preferencesReopenPreviouslyOpenedFiles.ui:36
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "No"
 msgid "&No"
-msgstr "Không"
+msgstr "&Không"
 
 #. i18n: ectx: property (text), widget (QRadioButton, ask)
 #: preferencesOpenInExistingWindow.ui:37
@@ -1209,19 +1250,19 @@ msgstr "&Hỏi"
 #: preferencesParsing.ui:17
 #, kde-format
 msgid "Parse using:"
-msgstr ""
+msgstr "Phân tách bằng:"
 
 #. i18n: ectx: property (text), widget (QRadioButton, external)
 #: preferencesParsing.ui:26
 #, kde-format
 msgid "E&xternal command"
-msgstr ""
+msgstr "Lệnh bên ng&oài"
 
 #. i18n: ectx: property (text), widget (QRadioButton, internal)
 #: preferencesParsing.ui:33
 #, kde-format
 msgid "Internal &library"
-msgstr ""
+msgstr "&Thư viện nội bộ"
 
 #. i18n: ectx: property (title), widget (QGroupBox, reloadOnChangeMode)
 #: preferencesReload.ui:17
@@ -1233,7 +1274,7 @@ msgstr "Nạp lại tệp bị sửa đổi trên đĩa"
 #: preferencesReload.ui:40
 #, kde-format
 msgid "&Ask"
-msgstr ""
+msgstr "&Hỏi"
 
 #. i18n: ectx: property (title), widget (QGroupBox, reopenPreviouslyOpenedFilesMode)
 #: preferencesReopenPreviouslyOpenedFiles.ui:17

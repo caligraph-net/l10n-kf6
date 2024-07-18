@@ -1,0 +1,1152 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the ksudoku package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ksudoku\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-05 00:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: src/generator/sudokuboard.cpp:123
+#, kde-format
+msgid "Attempts to generate a puzzle failed after about 200 tries. Try again?"
+msgstr "Sau khoảng 200 lần thử, không thể tạo được câu đố. Thử lại?"
+
+#: src/generator/sudokuboard.cpp:125
+#, kde-format
+msgctxt "@title:window"
+msgid "Mathdoku or Killer Sudoku Puzzle"
+msgstr "Bài toán Mathdoku hoặc Killer Sudoku"
+
+#: src/generator/sudokuboard.cpp:126 src/generator/sudokuboard.cpp:230
+#, kde-format
+msgctxt "@action:button"
+msgid "&Try Again"
+msgstr "&Thử lại"
+
+#: src/generator/sudokuboard.cpp:212 src/generator/sudokuboard.cpp:254
+#, kde-format
+msgid "%1"
+msgstr "%1"
+
+#: src/generator/sudokuboard.cpp:218
+#, kde-format
+msgid ""
+"After %1 tries, the best difficulty level achieved by the generator is %2, "
+"with internal difficulty rating %3, but you requested difficulty level %4.\n"
+"\n"
+"Do you wish to let the generator try again or accept the puzzle as is?\n"
+"\n"
+"Hint: you can try to increase the difficulty rating by doing the following: "
+"Continue with the 'Accept' button, choose Game -> New, then change the "
+"Symmetry setting to 'No Symmetry' or some low symmetry type and then use "
+"'Generate A Puzzle' again."
+msgstr ""
+"Sau %1 lần thử, mức độ khó đạt được tốt nhất bởi bộ tạo là %2, với mức độ "
+"khó bên trong %3, nhưng bạn yêu cầu mức độ khó %4.\n\nBạn có muốn để bộ tạo "
+"thử lại hoặc chấp nhận bàn chơi như vậy?\n\nGợi ý: bạn có thể thử tăng mức "
+"độ khó bằng cách tiếp tục với nút 'Chấp nhận', chọn Trò chơi -> Mới, sau đó "
+"thay đổi thiết lập Đối xứng thành 'Không đối xứng' hoặc một kiểu đối xứng "
+"thấp, rồi sử dụng 'Tạo một bàn chơi' một lần nữa."
+
+#: src/generator/sudokuboard.cpp:229 src/generator/sudokuboard.cpp:250
+#: src/generator/sudokuboard.cpp:266
+#, kde-format
+msgctxt "@title:window"
+msgid "Difficulty Level"
+msgstr "Mức độ khó"
+
+#: src/generator/sudokuboard.cpp:231
+#, kde-format
+msgctxt "@action:button"
+msgid "&Accept"
+msgstr "C&hấp nhận"
+
+#: src/generator/sudokuboard.cpp:243
+#, kde-format
+msgid ""
+"It will be possible to solve the generated puzzle by logic alone. No "
+"guessing will be required.\n"
+"\n"
+"The internal difficulty rating is %1. There are %2 clues at the start and %3 "
+"moves to go."
+msgstr ""
+"Sẽ có thể giải được câu đố được tạo ra bằng logic một mình. Không cần phải "
+"đoán.\n\nMức độ khó bên trong là %1. Có %2 gợi ý lúc khởi động và %3 nước "
+"đi còn lại."
+
+#: src/generator/sudokuboard.cpp:251 src/generator/sudokuboard.cpp:268
+#, kde-format
+msgctxt "@action:button"
+msgid "&Retry"
+msgstr "&Thử lại"
+
+#: src/generator/sudokuboard.cpp:257
+#, kde-format
+msgid ""
+"Solving the generated puzzle will require an average of %1 guesses or branch "
+"points and if you guess wrong, backtracking will be necessary. The first "
+"guess should come after %2 moves.\n"
+"\n"
+"The internal difficulty rating is %3, there are %4 clues at the start and %5 "
+"moves to go."
+msgstr ""
+"Giải câu đố được tạo ra sẽ yêu cầu trung bình %1 lần đoán hoặc điểm phân "
+"nhánh và nếu bạn đoán sai, việc quay lại sẽ là cần thiết. Lần đoán đầu tiên "
+"nên đến sau %2 nước di chuyển.\n\nXếp hạng độ khó bên trong là %3, có %4 "
+"manh mối lúc khởi động và %5 nước di chuyển để hoàn thành."
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_PrintMulti)
+#: src/gui/configgame.ui:20
+#, kde-format
+msgid "When printing, try to fit more than one puzzle on a page"
+msgstr "Khi in, hãy cố gắng in nhiều hơn một câu đố trên một trang"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_ShowHighlights)
+#: src/gui/configgame.ui:43
+#, kde-format
+msgid "Highlight the row, column and block that contain the selected cell"
+msgstr "Tô sáng hàng, cột và khối chứa ô đã chọn"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_ShowHighlights)
+#: src/gui/configgame.ui:46
+#, kde-format
+msgid ""
+"Highlight the row, column and block that contain the selected cell. Blocks "
+"may be square or irregular (as in jigsaw-type or XSudoku puzzles)."
+msgstr ""
+"Tô sáng hàng, cột và khối chứa ô đã chọn. Các khối có thể là hình vuông "
+"hoặc không đều (như trong các câu đố kiểu jigsaw hoặc XSudoku)."
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowHighlights)
+#: src/gui/configgame.ui:49
+#, kde-format
+msgid "Show highlights in 2-D puzzles"
+msgstr "Hiển thị điểm nhấn trong các câu đố 2-D"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_ShowErrors)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_ShowErrors)
+#: src/gui/configgame.ui:56 src/gui/configgame.ui:59
+#, kde-format
+msgid "Highlight in red any cells whose values break the Sudoku rules."
+msgstr "Tô sáng bằng màu đỏ bất kỳ ô nào có giá trị vi phạm quy tắc Sudoku."
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowErrors)
+#: src/gui/configgame.ui:62
+#, kde-format
+msgid "Show errors"
+msgstr "Hiển thị lỗi"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_ShowHighlights3D)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_ShowHighlights3D)
+#: src/gui/configgame.ui:69 src/gui/configgame.ui:72
+#, kde-format
+msgid "Highlight the planes (blocks) that contain the selected cell."
+msgstr "Tô sáng các mặt phẳng (khối) chứa ô đã chọn."
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowHighlights3D)
+#: src/gui/configgame.ui:75
+#, kde-format
+msgid "Show highlights in 3-D puzzles"
+msgstr "Hiển thị điểm nhấn trong các trò chơi xếp hình 3D"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: src/gui/configgame.ui:137
+#, kde-format
+msgid "Mathdoku puzzle size (3-9)"
+msgstr "Kích thước câu đố Mathdoku (3-9)"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: src/gui/configgame.ui:167
+#, kde-format
+msgid "Settings for 3-D Puzzles Only"
+msgstr "Thiết lập cho Câu đố 3D Chỉ"
+
+#. i18n: ectx: property (toolTip), widget (QSlider, kcfg_OverallSize3D)
+#. i18n: ectx: property (whatsThis), widget (QSlider, kcfg_OverallSize3D)
+#. i18n: ectx: property (toolTip), widget (QLabel, label_6)
+#. i18n: ectx: property (whatsThis), widget (QLabel, label_6)
+#: src/gui/configgame.ui:182 src/gui/configgame.ui:185
+#: src/gui/configgame.ui:228 src/gui/configgame.ui:231
+#, kde-format
+msgid "Set the relative size of 3-D cells and the spaces between them."
+msgstr "Đặt kích thước tương đối của các ô 3D và khoảng cách giữa chúng."
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: src/gui/configgame.ui:234
+#, kde-format
+msgid "Overall size of 3-D cells"
+msgstr "Kích thước tổng thể của các ô 3D"
+
+#. i18n: ectx: property (toolTip), widget (QSlider, kcfg_SelectionSize3D)
+#. i18n: ectx: property (whatsThis), widget (QSlider, kcfg_SelectionSize3D)
+#. i18n: ectx: property (toolTip), widget (QLabel, label)
+#. i18n: ectx: property (whatsThis), widget (QLabel, label)
+#: src/gui/configgame.ui:254 src/gui/configgame.ui:257
+#: src/gui/configgame.ui:300 src/gui/configgame.ui:303
+#, no-c-format, kde-format
+msgid "Shrink or expand a cell by up to 30% when it is selected."
+msgstr "Thu nhỏ hoặc mở rộng một ô lên đến 30% khi nó được chọn."
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/gui/configgame.ui:306
+#, kde-format
+msgid "Size of selected 3-D cell"
+msgstr "Kích thước của ô 3D đã chọn"
+
+#. i18n: ectx: property (toolTip), widget (QSlider, kcfg_HighlightedSize3D)
+#. i18n: ectx: property (whatsThis), widget (QSlider, kcfg_HighlightedSize3D)
+#. i18n: ectx: property (toolTip), widget (QLabel, label_3)
+#. i18n: ectx: property (whatsThis), widget (QLabel, label_3)
+#: src/gui/configgame.ui:326 src/gui/configgame.ui:329
+#: src/gui/configgame.ui:363 src/gui/configgame.ui:366
+#, no-c-format, kde-format
+msgid "Shrink or expand cells by up to 30% when they are highlighted."
+msgstr "Thu nhỏ hoặc mở rộng các ô lên đến 30% khi chúng được đánh dấu."
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: src/gui/configgame.ui:369
+#, kde-format
+msgid "Size of highlighted 3-D cells"
+msgstr "Kích thước của các ô 3D được đánh dấu"
+
+#. i18n: ectx: property (toolTip), widget (QSlider, kcfg_OuterCellSize3D)
+#. i18n: ectx: property (toolTip), widget (QLabel, label_5)
+#: src/gui/configgame.ui:389 src/gui/configgame.ui:426
+#, no-c-format, kde-format
+msgid ""
+"Shrink cells by up to 60% if they are not in an NxNxN cube that contains the "
+"selected cell."
+msgstr ""
+"Giảm kích thước các ô lên đến 60% nếu chúng không nằm trong một khối lập "
+"phương NxNxN chứa ô đã chọn."
+
+#. i18n: ectx: property (whatsThis), widget (QSlider, kcfg_OuterCellSize3D)
+#. i18n: ectx: property (whatsThis), widget (QLabel, label_5)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_DarkenOuterCells3D)
+#: src/gui/configgame.ui:392 src/gui/configgame.ui:429
+#: src/gui/configgame.ui:449
+#, no-c-format, kde-format
+msgid ""
+"Shrink cells by up to 60% if they are not in an NxNxN cube that contains the "
+"selected cell. This is useful if a 3-D puzzle has more than one cube."
+msgstr ""
+"Giảm kích thước các ô lên đến 60% nếu chúng không nằm trong một khối lập "
+"phương NxNxN chứa ô đã chọn. Điều này hữu ích nếu một câu đố 3D có nhiều "
+"khối hơn một."
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: src/gui/configgame.ui:432
+#, kde-format
+msgid "Size of 3-D cells outside the selected volume"
+msgstr "Kích thước của các ô 3D bên ngoài khối lượng đã chọn"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_DarkenOuterCells3D)
+#: src/gui/configgame.ui:446
+#, kde-format
+msgid ""
+"Darken cells if they are not in an NxNxN cube that contains the selected "
+"cell."
+msgstr "Làm tối các ô nếu chúng không nằm trong một khối NxNxN chứa ô đã chọn."
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_DarkenOuterCells3D)
+#: src/gui/configgame.ui:452
+#, kde-format
+msgid "Darken 3-D cells outside the selected volume"
+msgstr "Làm tối các ô 3D bên ngoài khối được chọn"
+
+#: src/gui/gamevariants.cpp:280 src/gui/gamevariants.cpp:337
+#, kde-format
+msgid "Configuration not yet implemented"
+msgstr "Cấu hình chưa được thực hiện"
+
+#: src/gui/ksudoku.cpp:76
+#, kde-format
+msgid ""
+"Sorry, your solution contains mistakes.\n"
+"\n"
+"Enable \"Show errors\" in the settings to highlight them."
+msgstr ""
+"Xin lỗi, giải pháp của bạn chứa sai sót.\n\nBật tùy chọn \"Hiển thị lỗi\" "
+"trong thiết lập để tô sáng chúng."
+
+#: src/gui/ksudoku.cpp:87
+#, kde-format
+msgid "Congratulations! You made it in 1 second. With some tricks."
+msgid_plural "Congratulations! You made it in %1 seconds. With some tricks."
+msgstr[0] "Chúc mừng! Bạn đã hoàn thành trong %1 giây. Với một số mẹo."
+
+#: src/gui/ksudoku.cpp:89
+#, kde-format
+msgid "Congratulations! You made it in 1 minute. With some tricks."
+msgid_plural "Congratulations! You made it in %1 minutes. With some tricks."
+msgstr[0] "Chúc mừng! Bạn đã hoàn thành trong %1 phút. Với một số mẹo."
+
+#: src/gui/ksudoku.cpp:91 src/gui/ksudoku.cpp:98
+#, kde-format
+msgid "1 minute"
+msgid_plural "%1 minutes"
+msgstr[0] "%1 phút"
+
+#: src/gui/ksudoku.cpp:91 src/gui/ksudoku.cpp:98
+#, kde-format
+msgid "1 second"
+msgid_plural "%1 seconds"
+msgstr[0] "%1 giây"
+
+#: src/gui/ksudoku.cpp:91
+#, kde-format
+msgctxt "The two parameters are strings like '2 minutes' or '1 second'."
+msgid "Congratulations! You made it in %1 and %2. With some tricks."
+msgstr "Chúc mừng! Bạn đã hoàn thành trong %1 và %2. Với một số mẹo."
+
+#: src/gui/ksudoku.cpp:94
+#, kde-format
+msgid "Congratulations! You made it in 1 second."
+msgid_plural "Congratulations! You made it in %1 seconds."
+msgstr[0] "Chúc mừng! Bạn đã hoàn thành trong %1 giây."
+
+#: src/gui/ksudoku.cpp:96
+#, kde-format
+msgid "Congratulations! You made it in 1 minute."
+msgid_plural "Congratulations! You made it in %1 minutes."
+msgstr[0] "Chúc mừng! Bạn đã hoàn thành trong %1 phút."
+
+#: src/gui/ksudoku.cpp:98
+#, kde-format
+msgctxt "The two parameters are strings like '2 minutes' or '1 second'."
+msgid "Congratulations! You made it in %1 and %2."
+msgstr "Chúc mừng! Bạn đã hoàn thành trong %1 và %2."
+
+#: src/gui/ksudoku.cpp:178
+#, kde-format
+msgid "Sudoku Standard (9x9)"
+msgstr "Sudoku Tiêu chuẩn (9x9)"
+
+#: src/gui/ksudoku.cpp:179
+#, kde-format
+msgid "The classic and fashionable game"
+msgstr "Trò chơi cổ điển và thời trang"
+
+#: src/gui/ksudoku.cpp:182
+#, kde-format
+msgid "Roxdoku 9 (3x3x3)"
+msgstr "Roxdoku 9 (3x3x3)"
+
+#: src/gui/ksudoku.cpp:183
+#, kde-format
+msgid "The Rox 3D Sudoku"
+msgstr "Rox 3D Sudoku"
+
+#: src/gui/ksudoku.cpp:205
+#, kde-format
+msgid "Missing Variant Name"
+msgstr "Thiếu tên biến thể"
+
+#: src/gui/ksudoku.cpp:221
+#, kde-format
+msgid "Sudoku 16x16"
+msgstr "Sudoku 16x16"
+
+#: src/gui/ksudoku.cpp:222
+#, kde-format
+msgid "Sudoku with 16 symbols"
+msgstr "Sudoku với 16 kí hiệu"
+
+#: src/gui/ksudoku.cpp:224
+#, kde-format
+msgid "Sudoku 25x25"
+msgstr "Sudoku 25x25"
+
+#: src/gui/ksudoku.cpp:225
+#, kde-format
+msgid "Sudoku with 25 symbols"
+msgstr "Sudoku với 25 kí hiệu"
+
+#: src/gui/ksudoku.cpp:228
+#, kde-format
+msgid "Roxdoku 16 (4x4x4)"
+msgstr "Roxdoku 16 (4x4x4)"
+
+#: src/gui/ksudoku.cpp:229
+#, kde-format
+msgid "The Rox 3D sudoku with 16 symbols"
+msgstr "Rox 3D sudoku với 16 kí hiệu"
+
+#: src/gui/ksudoku.cpp:231
+#, kde-format
+msgid "Roxdoku 25 (5x5x5)"
+msgstr "Roxdoku 25 (5x5x5)"
+
+#: src/gui/ksudoku.cpp:232
+#, kde-format
+msgid "The Rox 3D sudoku with 25 symbols"
+msgstr "Rox 3D sudoku với 25 kí hiệu"
+
+#: src/gui/ksudoku.cpp:278
+#, kde-format
+msgid ""
+"Mathdoku puzzles can have any size from 3x3 up to 9x9. The solution is a "
+"grid in which every row and every column contains the available digits (1-3 "
+"up to 1-9) exactly once. The grid is covered with irregularly shaped cages.\n"
+"\n"
+"Cages of size 1 are starting-values or clues, but there are not many of "
+"them. Cages of larger size have a target value and an arithmetic operator (+-"
+"x/). The digits in the cage must combine together, using the operator, to "
+"reach the target value, e.g. '12x' means that the digits must multiply "
+"together to make 12. A digit can occur more than once in a cage, provided it "
+"occurs in different rows and columns.\n"
+"\n"
+"In general, larger Mathdokus are more difficult and so are larger cages. You "
+"can select the puzzle size in KSudoku's Settings dialog and the maximum cage-"
+"size by using KSudoku's Difficulty button."
+msgstr ""
+"Các câu đố Mathdoku có thể có kích thước từ 3x3 đến 9x9. Lời giải là một "
+"lưới ô mà mỗi hàng và mỗi cột chứa các chữ số khả dụng (1-3 đến 1-9) chính "
+"xác một lần. Lưới được phủ bởi các lồng không đều nhau.\n\nCác lồng kích "
+"thước 1 là các giá trị khởi đầu hoặc manh mối, nhưng không nhiều. Các lồng "
+"có kích thước lớn hơn có một giá trị mục tiêu và một toán tử số học (+-x/). "
+"Các chữ số trong lồng phải kết hợp với nhau, sử dụng toán tử, để đạt đến "
+"giá trị mục tiêu, ví dụ '12x' có nghĩa là các chữ số phải nhân lại với nhau "
+"để được 12. Một chữ số có thể xuất hiện nhiều lần trong một lồng, với điều "
+"kiện nó xuất hiện ở các hàng và cột khác nhau.\n\nNhìn chung, các Mathdoku "
+"lớn hơn sẽ khó hơn và các lồng lớn hơn cũng vậy. Bạn có thể chọn kích thước "
+"câu đố trong hộp thoại Cài đặt của KSudoku và kích thước lồng tối đa bằng "
+"cách sử dụng nút Độ khó của KSudoku."
+
+#: src/gui/ksudoku.cpp:297
+#, kde-format
+msgid "Playing Mathdoku"
+msgstr "Chơi Mathdoku"
+
+#: src/gui/ksudoku.cpp:301
+#, kde-format
+msgid ""
+"Killer Sudoku puzzles can have sizes 4x4 or 9x9, with either four 2x2 blocks "
+"or nine 3x3 blocks. The solution must follow Classic Sudoku rules. The "
+"difference is that there are few starting-values or clues (if any). Instead "
+"the grid is covered with irregularly shaped cages.\n"
+"\n"
+"Cages of size 1 are starting-values or clues. Cages of larger size have a "
+"target value and the digits in them must add up to that value. In Killer "
+"Sudoku, a cage cannot contain any digit more than once.\n"
+"\n"
+"In general, larger cages are more difficult. You can select the maximum cage-"
+"size by using KSudoku's Difficulty button."
+msgstr ""
+"Các câu đố Killer Sudoku có kích thước 4x4 hoặc 9x9, với bốn khối 2x2 hoặc "
+"chín khối 3x3. Lời giải phải tuân theo các quy tắc Sudoku cổ điển. Sự khác "
+"biệt là có rất ít giá trị bắt đầu hoặc manh mối (nếu có). Thay vào đó, lưới "
+"được phủ bởi các lồng hình dạng không đều.\n\nCác lồng kích thước 1 là các "
+"giá trị bắt đầu hoặc manh mối. Các lồng có kích thước lớn hơn có một giá "
+"trị mục tiêu và các chữ số trong chúng phải cộng lại bằng giá trị đó. Trong "
+"Killer Sudoku, một lồng không thể chứa bất kỳ chữ số nào nhiều hơn một "
+"lần.\n\nNói chung, các lồng lớn hơn sẽ khó hơn. Bạn có thể bôi đen kích "
+"thước lồng tối đa bằng cách sử dụng nút Độ khó của KSudoku."
+
+#: src/gui/ksudoku.cpp:315
+#, kde-format
+msgid "Playing Killer Sudoku"
+msgstr "Chơi Killer Sudoku"
+
+#: src/gui/ksudoku.cpp:319
+#, kde-format
+msgid ""
+"Mathdoku and Killer Sudoku puzzles have to be keyed in by working on one "
+"cage at a time. To start a cage, left click on any unused cell or enter a "
+"number in the cell that is under the cursor or enter + - / or x there. A "
+"small cage-label will appear in that cell. To extend the cage in any "
+"direction, left-click on a neigbouring cell or move the cursor there and "
+"type a Space.\n"
+"\n"
+"The number you type is the cage's value and it can have one or more digits, "
+"including zero. A cell of size 1 has to have a 1-digit number, as in a "
+"normal Sudoku puzzle. It becomes a starting-value or clue for the player.\n"
+"\n"
+"The + - / or x is the operator (Add, Subtract, Divide or Multiply). You must "
+"have one in cages of size 2 or more. In Killer Sudoku, the operator is "
+"provided automatically because it is always + or none.\n"
+"\n"
+"You can enter digits, operators and cells in any order. To complete the cage "
+"and start another cage, always press Return. If you make a mistake, the only "
+"thing to do is delete a whole cage and re-enter it. Use right click in the "
+"current cage or any earlier cage, if you wish to delete it. Alternatively, "
+"use the cursor and the Delete or Backspace key.\n"
+"\n"
+"When the grid is filled with cages, hit the Check button, to solve the "
+"puzzle and make sure there is only one solution. If the check fails, you "
+"have probably made an error somewhere in one of the cages."
+msgstr ""
+"Các câu đố Mathdoku và Killer Sudoku phải được nhập bằng cách làm việc trên "
+"một lồng (cage) tại một thời điểm. Để bắt đầu một lồng, bấm chuột trái vào "
+"bất kỳ ô trống nào hoặc nhập một số vào ô đang có con trỏ hoặc nhập + - / "
+"hoặc x ở đó. Một nhãn lồng nhỏ sẽ xuất hiện trong ô đó. Để mở rộng lồng "
+"theo bất kỳ hướng nào, bấm chuột trái vào ô lân cận hoặc di chuyển con trỏ "
+"đến đó và gõ một dấu cách.\n\nSố bạn gõ là giá trị của lồng và nó có thể có "
+"một hoặc nhiều chữ số, bao gồm cả số không. Một ô kích thước 1 phải có một "
+"số 1 chữ số, như trong câu đố Sudoku thông thường. Nó trở thành giá trị "
+"khởi đầu hoặc manh mối cho người chơi.\n\nDấu + - / hoặc x là toán tử "
+"(Cộng, Trừ, Chia hoặc Nhân). Bạn phải có một trong các lồng có kích thước 2 "
+"hoặc lớn hơn. Trong Killer Sudoku, toán tử được cung cấp tự động vì nó luôn "
+"là + hoặc không có.\n\nBạn có thể nhập các chữ số, toán tử và ô theo bất kỳ "
+"thứ tự nào. Để hoàn tất lồng và bắt đầu lồng khác, luôn nhấn Enter. Nếu bạn "
+"mắc sai lầm, việc duy nhất cần làm là xóa toàn bộ lồng và nhập lại. Sử dụng "
+"chuột phải trong lồng hiện tại hoặc bất kỳ lồng nào trước đó, nếu bạn muốn "
+"xóa nó. Hoặc sử dụng con trỏ và phím Delete hoặc Backspace.\n\nKhi lưới đã "
+"được điền đầy các lồng, nhấn nút Kiểm tra để giải câu đố và đảm bảo chỉ có "
+"một giải pháp. Nếu kiểm tra không thành công, bạn có thể đã mắc lỗi ở một "
+"nơi nào đó trong một trong các lồng."
+
+#: src/gui/ksudoku.cpp:349
+#, kde-format
+msgid "Data-entry for Puzzles with Cages"
+msgstr "Nhập dữ liệu cho các Câu đố có Lồng"
+
+#: src/gui/ksudoku.cpp:405
+#, kde-format
+msgid "The puzzle you entered contains some errors."
+msgstr "Câu đố bạn nhập có một số lỗi."
+
+#: src/gui/ksudoku.cpp:418
+#, kde-format
+msgid ""
+"Sorry, no solutions have been found. Please check that you have entered in "
+"the puzzle completely and correctly."
+msgstr ""
+"Xin lỗi, không tìm thấy giải pháp nào. Vui lòng kiểm tra xem bạn đã nhập "
+"đầy đủ và chính xác câu đố."
+
+#: src/gui/ksudoku.cpp:421 src/gui/ksudoku.cpp:428 src/gui/ksudoku.cpp:434
+#, kde-format
+msgctxt "@title:window"
+msgid "Check Puzzle"
+msgstr "Kiểm tra Câu đố"
+
+#: src/gui/ksudoku.cpp:426
+#, kde-format
+msgid "The Puzzle you entered has a unique solution and is ready to be played."
+msgstr "Câu đố bạn đã nhập có một giải pháp duy nhất và sẵn sàng để chơi."
+
+#: src/gui/ksudoku.cpp:431
+#, kde-format
+msgid ""
+"The Puzzle you entered has multiple solutions. Please check that you have "
+"entered in the puzzle completely and correctly."
+msgstr ""
+"Câu đố bạn đã nhập có nhiều lời giải. Vui lòng kiểm tra lại để đảm bảo bạn "
+"đã nhập câu đố đầy đủ và chính xác."
+
+#: src/gui/ksudoku.cpp:437
+#, kde-format
+msgid "Do you wish to play the puzzle now?"
+msgstr "Bạn có muốn phát câu đố ngay bây giờ không?"
+
+#: src/gui/ksudoku.cpp:438
+#, kde-format
+msgctxt "@title:window"
+msgid "Play Puzzle"
+msgstr "Phát Puzzle"
+
+#: src/gui/ksudoku.cpp:439
+#, kde-format
+msgctxt "@action:button"
+msgid "Play"
+msgstr "Phát"
+
+#: src/gui/ksudoku.cpp:478
+#, kde-format
+msgctxt "@action"
+msgid "Enable All Messages"
+msgstr "Bật tất cả các thông báo"
+
+#: src/gui/ksudoku.cpp:495
+#, kde-format
+msgctxt "@action"
+msgid "Check"
+msgstr "Kiểm tra"
+
+#: src/gui/ksudoku.cpp:511
+#, kde-format
+msgctxt "A level of difficulty in Sudoku puzzles"
+msgid "Diabolical"
+msgstr "Khó khăn"
+
+#: src/gui/ksudoku.cpp:513
+#, kde-format
+msgctxt "A level of difficulty in Sudoku puzzles"
+msgid "Unlimited"
+msgstr "Không giới hạn"
+
+#: src/gui/ksudoku.cpp:524
+#, kde-format
+msgctxt "@option drop down box"
+msgid "Difficulty:"
+msgstr "Độ khó:"
+
+#: src/gui/ksudoku.cpp:528
+#, kde-format
+msgctxt "@option drop down box"
+msgid "Symmetry:"
+msgstr "Đối xứng:"
+
+#: src/gui/ksudoku.cpp:532
+#, kde-format
+msgctxt "Symmetry of layout of clues when puzzle starts"
+msgid "Symmetry"
+msgstr "Đối xứng"
+
+#: src/gui/ksudoku.cpp:534
+#, kde-format
+msgid "The symmetry of layout of the clues when the puzzle starts"
+msgstr "Sự đối xứng của bố cục các gợi ý khi câu đố bắt đầu"
+
+#: src/gui/ksudoku.cpp:536
+#, kde-format
+msgctxt "Symmetry of layout of clues"
+msgid "Diagonal"
+msgstr "Đường chéo"
+
+#: src/gui/ksudoku.cpp:537
+#, kde-format
+msgctxt "Symmetry of layout of clues"
+msgid "Central"
+msgstr "Trung tâm"
+
+#: src/gui/ksudoku.cpp:538
+#, kde-format
+msgctxt "Symmetry of layout of clues"
+msgid "Left-Right"
+msgstr "Trái-Phải"
+
+#: src/gui/ksudoku.cpp:539
+#, kde-format
+msgctxt "Symmetry of layout of clues"
+msgid "Spiral"
+msgstr "Xoắn ốc"
+
+#: src/gui/ksudoku.cpp:540
+#, kde-format
+msgctxt "Symmetry of layout of clues"
+msgid "Four-Way"
+msgstr "Đối xứng bốn chiều"
+
+#: src/gui/ksudoku.cpp:541
+#, kde-format
+msgctxt "Symmetry of layout of clues"
+msgid "Random Choice"
+msgstr "Lựa chọn ngẫu nhiên"
+
+#: src/gui/ksudoku.cpp:542
+#, kde-format
+msgid "No Symmetry"
+msgstr "Không có đối xứng"
+
+#: src/gui/ksudoku.cpp:646 src/gui/ksudoku.cpp:705
+#, kde-format
+msgctxt "@title:window"
+msgid "Error Loading Game"
+msgstr "Lỗi Khi Tải Bàn Chơi"
+
+#: src/gui/ksudoku.cpp:662
+#, kde-format
+msgid "Do you really want to end this game in order to start a new one?"
+msgstr "Bạn có thực sự muốn kết thúc bàn chơi này để bắt đầu một bàn chơi mới?"
+
+#: src/gui/ksudoku.cpp:663
+#, kde-format
+msgctxt "window title"
+msgid "New Game"
+msgstr "Trò chơi mới"
+
+#: src/gui/ksudoku.cpp:664
+#, kde-format
+msgctxt "@action:button"
+msgid "New Game"
+msgstr "Trò chơi mới"
+
+#: src/gui/ksudoku.cpp:681
+#, kde-format
+msgid "Do you really want to restart this game?"
+msgstr "Bạn có thực sự muốn khởi động lại trò chơi này không?"
+
+#: src/gui/ksudoku.cpp:682
+#, kde-format
+msgctxt "window title"
+msgid "Restart Game"
+msgstr "Khởi động lại Bàn chơi"
+
+#: src/gui/ksudoku.cpp:683
+#, kde-format
+msgctxt "@action:button"
+msgid "Restart Game"
+msgstr "Khởi động lại bàn chơi"
+
+#: src/gui/ksudoku.cpp:732
+#, kde-format
+msgctxt "@title:window"
+msgid "Error Writing File"
+msgstr "Lỗi Khi Ghi Tệp"
+
+#: src/gui/ksudoku.cpp:754
+#, kde-format
+msgid "There seems to be no puzzle to print."
+msgstr "Có vẻ như không có bài toán nào để in."
+
+#: src/gui/ksudoku.cpp:791
+#, kde-format
+msgctxt "@title:tab Game Section in Config"
+msgid "Game"
+msgstr "Bàn chơi"
+
+#: src/gui/ksudoku.cpp:792
+#, kde-format
+msgctxt "@title:tab"
+msgid "Theme"
+msgstr "Chủ đề"
+
+#: src/gui/ksudoku.cpp:824
+#, kde-format
+msgid ""
+"Warning: The Unlimited difficulty level has no limit on how many guesses or "
+"branch points are required to solve the puzzle and there is no lower limit "
+"on how soon guessing becomes necessary.\n"
+"\n"
+"Please also note that the generation of this type of puzzle might take much "
+"longer than other ones. During this time KSudoku will not respond."
+msgstr ""
+"Cảnh báo: Mức độ khó Không Giới Hạn không có giới hạn về số lượng đoán hoặc "
+"điểm phân nhánh cần để giải xong câu đố và không có giới hạn dưới về khi "
+"cần phải đoán.\n\nVui lòng lưu ý rằng việc tạo ra loại câu đố này có thể "
+"mất nhiều thời gian hơn các loại khác. Trong thời gian này, KSudoku sẽ "
+"không phản hồi."
+
+#: src/gui/ksudoku.cpp:831
+#, kde-format
+msgctxt "@title:window"
+msgid "Warning"
+msgstr "Cảnh báo"
+
+#: src/gui/ksudoku.cpp:871
+#, kde-format
+msgid ""
+"This will enable all the dialogs that you had disabled by marking the 'Do "
+"not show this message again' option.\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"Điều này sẽ kích hoạt lại tất cả các hộp thoại mà bạn đã tắt bằng cách đánh "
+"dấu vào tùy chọn 'Không hiển thị thông điệp này nữa'.\n\nBạn có muốn tiếp "
+"tục không?"
+
+#: src/gui/ksudoku.cpp:875
+#, kde-format
+msgctxt "@action:button"
+msgid "Enable"
+msgstr "Bật"
+
+#. i18n: ectx: label, entry (Theme), group (Themes)
+#: src/gui/ksudoku.kcfg:41
+#, kde-format
+msgid "The graphical theme to be used."
+msgstr "Chủ đề đồ họa sẽ được sử dụng."
+
+#. i18n: ectx: label, entry (Symbols), group (Themes)
+#: src/gui/ksudoku.kcfg:44
+#, kde-format
+msgid "Select the themes you want to use"
+msgstr "Chọn chủ đề bạn muốn sử dụng"
+
+#: src/gui/ksudokugame.cpp:375
+#, kde-format
+msgid ""
+"In Killer Sudoku, the operator is always + or none and KSudoku automatically "
+"sets the correct choice."
+msgstr ""
+"Trong Killer Sudoku, toán tử luôn là + hoặc không có và KSudoku tự động đặt "
+"lựa chọn chính xác."
+
+#: src/gui/ksudokugame.cpp:377
+#, kde-format
+msgctxt "@title:window"
+msgid "Killer Sudoku Cage"
+msgstr "Ô Killer Sudoku"
+
+#: src/gui/ksudokugame.cpp:423
+#, kde-format
+msgid "The cell you have selected has already been used in a cage."
+msgstr "Ô bạn đã chọn đã được sử dụng trong một lồng."
+
+#: src/gui/ksudokugame.cpp:425 src/gui/ksudokugame.cpp:455
+#: src/gui/ksudokugame.cpp:480 src/gui/ksudokugame.cpp:487
+#: src/gui/ksudokugame.cpp:495 src/gui/ksudokugame.cpp:504
+#, kde-format
+msgctxt "@title:window"
+msgid "Error in Cage"
+msgstr "Lỗi trong Ô"
+
+#: src/gui/ksudokugame.cpp:453
+#, kde-format
+msgid ""
+"The cell you have selected is not next to any cell in the cage you are "
+"creating."
+msgstr "Ô bạn đã chọn không liền kề với bất kỳ ô nào trong lồng bạn đang tạo."
+
+#: src/gui/ksudokugame.cpp:478
+#, kde-format
+msgid ""
+"The cage you wish to complete has no cells in it yet. Please click on a cell "
+"or key in + - / x or a number."
+msgstr ""
+"Ô bạn muốn hoàn tất chưa có ô nào trong đó. Vui lòng bấm vào một ô hoặc "
+"nhập + - / x hoặc một số."
+
+#: src/gui/ksudokugame.cpp:485
+#, kde-format
+msgid ""
+"The cage you wish to complete has no value yet. Please key in a number with "
+"one or more digits."
+msgstr ""
+"Ô bạn muốn hoàn tất chưa có giá trị. Vui lòng nhập một số có một hoặc nhiều "
+"chữ số."
+
+#: src/gui/ksudokugame.cpp:493
+#, kde-format
+msgid ""
+"The cage you wish to complete has more than one cell, but it has no operator "
+"yet. Please key in + - / or x."
+msgstr ""
+"Ô bạn muốn hoàn tất có nhiều hơn một ô, nhưng nó chưa có toán tử. Vui lòng "
+"nhập + - / hoặc x."
+
+#: src/gui/ksudokugame.cpp:501
+#, kde-format
+msgid ""
+"The cage you wish to complete has one cell, but its value is too large. A "
+"single-cell cage must have a value from 1 to %1 in a puzzle of this size."
+msgstr ""
+"Ô bạn muốn hoàn tất có một ô, nhưng giá trị của nó quá lớn. Một ô đơn phải "
+"có giá trị từ 1 đến %1 trong một câu đố có kích thước này."
+
+#: src/gui/ksudokugame.cpp:537
+#, kde-format
+msgid "Do you wish to delete this cage?"
+msgstr "Bạn có muốn xóa ô này không?"
+
+#: src/gui/ksudokugame.cpp:538 src/gui/ksudokugame.cpp:566
+#: src/gui/ksudokugame.cpp:574
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete Cage"
+msgstr "Xóa Ô"
+
+#: src/gui/ksudokugame.cpp:564
+#, kde-format
+msgid ""
+"The cell you have selected is not in any cage, so the Delete action will not "
+"delete anything."
+msgstr ""
+"Ô bạn đã chọn không nằm trong bất kỳ lồng nào, vì vậy hành động Xóa sẽ "
+"không xóa bất cứ thứ gì."
+
+#: src/gui/ksudokugame.cpp:572
+#, kde-format
+msgid "The Delete action finds that there are no cages to delete."
+msgstr "Hành động Xóa không tìm thấy ô nào để xóa."
+
+#. i18n: ectx: Menu (game)
+#: src/gui/ksudokuui.rc:10
+#, kde-format
+msgid "&Game"
+msgstr "Bàn c&hơi"
+
+#. i18n: ectx: Menu (move)
+#: src/gui/ksudokuui.rc:23
+#, kde-format
+msgid "&Move"
+msgstr "Di chuyể&n"
+
+#. i18n: ectx: Menu (help)
+#: src/gui/ksudokuui.rc:38
+#, kde-format
+msgid "&Help"
+msgstr "trợ giú&p"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: src/gui/ksudokuui.rc:46
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Thanh công cụ chính"
+
+#. i18n: ectx: ToolBar (actionsToolbar)
+#: src/gui/ksudokuui.rc:53
+#, kde-format
+msgid "Actions Toolbar"
+msgstr "Thanh công cụ hành động"
+
+#: src/gui/puzzleprinter.cpp:62
+#, kde-format
+msgid "Sorry, cannot print three-dimensional puzzles."
+msgstr "Xin lỗi, không thể in các câu đố ba chiều."
+
+#: src/gui/puzzleprinter.cpp:92
+#, kde-format
+msgid ""
+"The KSudoku setting for printing several puzzles per page is currently "
+"selected.\n"
+"\n"
+"Your puzzle will be printed when no more will fit on the page or when "
+"KSudoku terminates."
+msgstr ""
+"Thiết lập KSudoku để in nhiều câu đố trên một trang hiện đang được "
+"chọn.\n\nCâu đố của bạn sẽ được in khi không còn chỗ trên trang hoặc khi "
+"KSudoku kết thúc."
+
+#: src/gui/puzzleprinter.cpp:108
+#, kde-format
+msgid "KSudoku has sent output to your printer."
+msgstr "KSudoku đã gửi đầu ra đến máy in của bạn."
+
+#: src/gui/puzzleprinter.cpp:121
+#, kde-format
+msgctxt "@title:window"
+msgid "Print Sudoku Puzzle"
+msgstr "In Bài Sudoku"
+
+#: src/gui/serializer.cpp:399
+#, kde-format
+msgid "Unable to download file: URL is empty."
+msgstr "Không thể tải về tệp: URL trống."
+
+#: src/gui/serializer.cpp:406
+#, kde-format
+msgid "Unable to open file."
+msgstr "Không thể mở tệp."
+
+#: src/gui/serializer.cpp:413 src/gui/serializer.cpp:446
+#, kde-format
+msgid "Cannot read XML file on line %1"
+msgstr "Không thể đọc tệp XML ở dòng %1"
+
+#: src/gui/serializer.cpp:440
+#, kde-format
+msgid "Unable to download file."
+msgstr "Không thể tải về tệp."
+
+#: src/gui/serializer.cpp:680
+#, kde-format
+msgid "Unable to create temporary file."
+msgstr "Không thể tạo tệp tạm thời."
+
+#: src/gui/serializer.cpp:693
+#, kde-format
+msgid "Unable to upload file."
+msgstr "Không thể tải tệp lên."
+
+#: src/gui/views/gameactions.cpp:54
+#, kde-format
+msgctxt "@action"
+msgid "Select %1 (%2)"
+msgstr "Chọn %1 (%2)"
+
+#: src/gui/views/gameactions.cpp:60
+#, kde-format
+msgctxt "@action"
+msgid "Enter %1 (%2)"
+msgstr "Nhập %1 (%2)"
+
+#: src/gui/views/gameactions.cpp:83
+#, kde-format
+msgctxt "@action"
+msgid "Mark %1 (%2)"
+msgstr "Đánh dấu %1 (%2)"
+
+#: src/gui/views/gameactions.cpp:95
+#, kde-format
+msgctxt "@action"
+msgid "Move Up"
+msgstr "Di chuyển lên"
+
+#: src/gui/views/gameactions.cpp:102
+#, kde-format
+msgctxt "@action"
+msgid "Move Down"
+msgstr "Di chuyển xuống"
+
+#: src/gui/views/gameactions.cpp:109
+#, kde-format
+msgctxt "@action"
+msgid "Move Left"
+msgstr "Di chuyển sang trái"
+
+#: src/gui/views/gameactions.cpp:116
+#, kde-format
+msgctxt "@action"
+msgid "Move Right"
+msgstr "Di chuyển sang phải"
+
+#: src/gui/views/gameactions.cpp:123
+#, kde-format
+msgctxt "@action"
+msgid "Clear Cell"
+msgstr "Làm Trống Ô"
+
+#: src/gui/welcomescreen.cpp:133
+#, kde-format
+msgid "GetNewVariant not implemented"
+msgstr "GetNewVariant chưa được thực hiện"
+
+#: src/gui/welcomescreen.cpp:146 src/gui/welcomescreen.cpp:163
+#: src/gui/welcomescreen.cpp:179
+#, kde-format
+msgid "Please select a puzzle variant."
+msgstr "Vui lòng bôi đen một biến thể của câu đố."
+
+#: src/gui/welcomescreen.cpp:146 src/gui/welcomescreen.cpp:152
+#: src/gui/welcomescreen.cpp:163 src/gui/welcomescreen.cpp:169
+#: src/gui/welcomescreen.cpp:179 src/gui/welcomescreen.cpp:185
+#, kde-format
+msgctxt "@title:window"
+msgid "Unable to Start Puzzle"
+msgstr "Không thể khởi động Puzzle"
+
+#: src/gui/welcomescreen.cpp:152
+#, kde-format
+msgid ""
+"Unable to create an empty puzzle of the chosen variant; please try another."
+msgstr "Không thể tạo một câu đố trống của biến thể đã chọn; vui lòng thử lại."
+
+#: src/gui/welcomescreen.cpp:169
+#, kde-format
+msgid "Unable to start a puzzle of the chosen variant; please try another."
+msgstr ""
+"Không thể khởi động một bài toán của biến thể đã chọn; vui lòng thử một cái "
+"khác."
+
+#: src/gui/welcomescreen.cpp:185
+#, kde-format
+msgid "Unable to generate a puzzle of the chosen variant; please try another."
+msgstr "Không thể tạo được một câu đố của biến thể đã chọn; vui lòng thử lại."
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox1)
+#: src/gui/welcomescreen.ui:17
+#, kde-format
+msgid "Choose your Game"
+msgstr "Chọn bàn chơi của bạn"
+
+#. i18n: ectx: property (text), widget (QPushButton, getNewGameButton)
+#: src/gui/welcomescreen.ui:28
+#, kde-format
+msgid "Get New"
+msgstr "Nhận mới"
+
+#. i18n: ectx: property (text), widget (QPushButton, startEmptyButton)
+#: src/gui/welcomescreen.ui:48
+#, kde-format
+msgid "Enter In A Puzzle"
+msgstr "Nhập vào một Puzzle"
+
+#. i18n: ectx: property (text), widget (QPushButton, puzzleGeneratorButton)
+#: src/gui/welcomescreen.ui:55
+#, kde-format
+msgid "Generate A Puzzle"
+msgstr "Tạo một Puzzle"
+
+#: src/main.cpp:47
+#, kde-format
+msgid "KSudoku"
+msgstr "KSudoku"
+
+#: src/main.cpp:49
+#, kde-format
+msgid "KSudoku - Sudokus and more"
+msgstr "KSudoku - Sudoku và nhiều hơn thế"
+
+#: src/main.cpp:51
+#, kde-format
+msgid "(c) 2005-2007 The KSudoku Authors"
+msgstr "(c) 2005-2007 Các tác giả của KSudoku"
+
+#: src/main.cpp:53
+#, kde-format
+msgid "Francesco Rossi"
+msgstr "Francesco Rossi"
+
+#: src/main.cpp:53
+#, kde-format
+msgid "KSudoku Author"
+msgstr "Tác giả KSudoku"
+
+#: src/main.cpp:54
+#, kde-format
+msgid "Johannes Bergmeier"
+msgstr "Johannes Bergmeier"
+
+#: src/main.cpp:54
+#, kde-format
+msgid "Maintainer"
+msgstr "Bảo trì viên"
+
+#: src/main.cpp:55
+#, kde-format
+msgid "Ian Wadham"
+msgstr "Ian Wadham"
+
+#: src/main.cpp:55
+#, kde-format
+msgid "New puzzle generator and solver"
+msgstr "Bộ tạo và giải câu đố mới"
+
+#: src/main.cpp:56
+#, kde-format
+msgid "Mick Kappenburg"
+msgstr "Mick Kappenburg"
+
+#: src/main.cpp:56
+#, kde-format
+msgid "Printing and export of 0.4"
+msgstr "In và xuất khẩu của 0.4"
+
+#: src/main.cpp:57
+#, kde-format
+msgid "Thanks to NeHe for OpenGL tutorials"
+msgstr "Cảm ơn NeHe vì các hướng dẫn OpenGL"
+
+#: src/main.cpp:58
+#, kde-format
+msgid "David Bau"
+msgstr "David Bau"
+
+#: src/main.cpp:58
+#, kde-format
+msgid ""
+"Algorithms for new puzzle generator and solver at davidbau.com/"
+"archives/2006/09/04/sudoku_generator.html"
+msgstr ""
+"Các thuật toán để tạo và giải các câu đố mới tại "
+"davidbau.com/archives/2006/09/04/sudoku_generator.html"
+
+#: src/main.cpp:66
+#, kde-format
+msgid "Document to open"
+msgstr "Tài liệu để mở"

@@ -1,0 +1,2060 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the haruna package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: haruna\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-05 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: src/application.cpp:98
+#, kde-format
+msgctxt "application title/display name"
+msgid "Haruna"
+msgstr "Haruna"
+
+#: src/application.cpp:100
+#, kde-format
+msgctxt "@title"
+msgid "Media player"
+msgstr "Trình phát phương tiện"
+
+#: src/application.cpp:102
+#, kde-format
+msgctxt "copyright statement"
+msgid "(c) 2019-2023"
+msgstr "(c) 2019-2023"
+
+#: src/application.cpp:107
+#, kde-format
+msgctxt "@info:credit"
+msgid "George Florea Bănuș"
+msgstr "George Florea Bănuș"
+
+#: src/application.cpp:108
+#, kde-format
+msgctxt "@info:credit"
+msgid "Developer"
+msgstr "nhà phát triển"
+
+#: src/application.cpp:119
+#, kde-format
+msgctxt "@info:shell"
+msgid "File to open"
+msgstr "Tệp để mở"
+
+#: src/application.cpp:123
+#, kde-format
+msgctxt "@info:shell"
+msgid ""
+"Allows to temporarily override the ytdl format selection setting. Will be "
+"overwritten if the setting is changed through the GUI"
+msgstr ""
+"Cho phép tạm thời vượt hiệu lực thiết lập lựa chọn định dạng ytdl. Sẽ bị "
+"ghi đè nếu thiết lập được thay đổi qua giao diện người dùng"
+
+#: src/application.cpp:125
+#, kde-format
+msgctxt "@info:shell"
+msgid "bestvideo+bestaudio/best"
+msgstr "bestvideo+bestaudio/best"
+
+#: src/lockmanager.cpp:35
+#, kde-format
+msgctxt "@info reason for blocking sleep and screen slocking"
+msgid "Playing media file"
+msgstr "Đang phát tệp phương tiện"
+
+#: src/models/actionsmodel.cpp:22
+#, kde-format
+msgctxt "@action"
+msgid "Open Actions Dialog"
+msgstr "Mở Hộp Thoại Hành Động"
+
+#: src/models/actionsmodel.cpp:28
+#, kde-format
+msgctxt "@action"
+msgid "About Haruna"
+msgstr "Về Haruna"
+
+#: src/models/actionsmodel.cpp:35
+#, kde-format
+msgctxt "@action"
+msgid "Audio Cycle Up"
+msgstr "Chuyển lên âm thanh"
+
+#: src/models/actionsmodel.cpp:42
+#, kde-format
+msgctxt "@action"
+msgid "Audio Cycle Down"
+msgstr "Chuyển âm thanh xuống"
+
+#: src/models/actionsmodel.cpp:49
+#, kde-format
+msgctxt "@action"
+msgid "Configure"
+msgstr "Cấu hình"
+
+#: src/models/actionsmodel.cpp:56
+#, kde-format
+msgctxt "@action"
+msgid "Configure Keyboard Shortcuts"
+msgstr "Cấu hình phím tắt"
+
+#: src/models/actionsmodel.cpp:63
+#, kde-format
+msgctxt "@action"
+msgid "Exit Fullscreen"
+msgstr "Thoát toàn màn hình"
+
+#: src/models/actionsmodel.cpp:70
+#, kde-format
+msgctxt "@action"
+msgid "Frame Step Forward"
+msgstr "Bước tiến khung hình"
+
+#: src/models/actionsmodel.cpp:78
+#, kde-format
+msgctxt "@action"
+msgid "Frame Step Backward"
+msgstr "Bước lùi khung hình"
+
+#: src/models/actionsmodel.cpp:86
+#, kde-format
+msgctxt "@action"
+msgid "Load Last Played File"
+msgstr "Tải Tệp Đã Phát Gần Đây"
+
+#: src/models/actionsmodel.cpp:93
+#, kde-format
+msgctxt "@action"
+msgid "Mute"
+msgstr "Tắt tiếng"
+
+#: src/models/actionsmodel.cpp:100
+#, kde-format
+msgctxt "@action"
+msgid "Open Context Menu"
+msgstr "Mở Trình Đơn Ngữ Cảnh"
+
+#: src/models/actionsmodel.cpp:104
+#, kde-format
+msgctxt "@action"
+msgid "Opens and closes the context menu at the position of the mouse pointer"
+msgstr "Mở và đóng trình đơn ngữ cảnh tại vị trí của con trỏ chuột"
+
+#: src/models/actionsmodel.cpp:108
+#, kde-format
+msgctxt "@action"
+msgid "Open File"
+msgstr "Mở Tệp"
+
+#: src/models/actionsmodel.cpp:115
+#, kde-format
+msgctxt "@action"
+msgid "Add External Subtitle…"
+msgstr "Thêm phụ đề bên ngoài..."
+
+#: src/models/actionsmodel.cpp:122
+#, kde-format
+msgctxt "@action"
+msgid "Open Url"
+msgstr "Mở URL"
+
+#: src/models/actionsmodel.cpp:129
+#, kde-format
+msgctxt "@action"
+msgid "Playback Speed Increase"
+msgstr "Tăng tốc độ phát lại"
+
+#: src/models/actionsmodel.cpp:136
+#, kde-format
+msgctxt "@action"
+msgid "Playback Speed Decrease"
+msgstr "Giảm tốc độ phát lại"
+
+#: src/models/actionsmodel.cpp:143
+#, kde-format
+msgctxt "@action"
+msgid "Playback Speed Reset"
+msgstr "Đặt lại tốc độ phát lại"
+
+#: src/models/actionsmodel.cpp:150
+#, kde-format
+msgctxt "@action"
+msgid "Play/Pause"
+msgstr "Phát/Tạm dừng"
+
+#: src/models/actionsmodel.cpp:157
+#, kde-format
+msgctxt "@action"
+msgid "Play Next"
+msgstr "Phát tiếp"
+
+#: src/models/actionsmodel.cpp:164
+#, kde-format
+msgctxt "@action"
+msgid "Play Previous"
+msgstr "Phát lại trước"
+
+#: src/models/actionsmodel.cpp:171
+#, kde-format
+msgctxt "@action"
+msgid "Quit"
+msgstr "Thoát"
+
+#: src/models/actionsmodel.cpp:178
+#, kde-format
+msgctxt "@action"
+msgid "Restart Playback"
+msgstr "Khởi động lại phát"
+
+#: src/models/actionsmodel.cpp:185
+#, kde-format
+msgctxt "@action"
+msgid "Seek Small Step Forward"
+msgstr "Tìm kiếm bước nhỏ về phía trước"
+
+#: src/models/actionsmodel.cpp:192
+#, kde-format
+msgctxt "@action"
+msgid "Seek Small Step Backward"
+msgstr "Tìm kiếm bước nhỏ về sau"
+
+#: src/models/actionsmodel.cpp:199
+#, kde-format
+msgctxt "@action"
+msgid "Seek Medium Step Forward"
+msgstr "Tìm kiếm Bước Tiến Trung Bình"
+
+#: src/models/actionsmodel.cpp:206
+#, kde-format
+msgctxt "@action"
+msgid "Seek Medium Step Backward"
+msgstr "Tìm kiếm bước lùi trung bình"
+
+#: src/models/actionsmodel.cpp:213
+#, kde-format
+msgctxt "@action"
+msgid "Seek Big Step Forward"
+msgstr "Tìm kiếm bước lớn về phía trước"
+
+#: src/models/actionsmodel.cpp:220
+#, kde-format
+msgctxt "@action"
+msgid "Seek Big Step Backward"
+msgstr "Tìm kiếm bước lùi lớn"
+
+#: src/models/actionsmodel.cpp:227
+#, kde-format
+msgctxt "@action"
+msgid "Seek Next Chapter"
+msgstr "Tìm Chương Tiếp Theo"
+
+#: src/models/actionsmodel.cpp:234
+#, kde-format
+msgctxt "@action"
+msgid "Seek Previous Chapter"
+msgstr "Tìm Chương Trước"
+
+#: src/models/actionsmodel.cpp:241
+#, kde-format
+msgctxt "@action"
+msgid "Seek To Next Subtitle"
+msgstr "Tìm đến Phụ đề Tiếp theo"
+
+#: src/models/actionsmodel.cpp:248
+#, kde-format
+msgctxt "@action"
+msgid "Seek To Previous Subtitle"
+msgstr "Tìm đến Phụ đề trước"
+
+#: src/models/actionsmodel.cpp:255
+#, kde-format
+msgctxt "@action"
+msgid "Seek To Watch Later Position"
+msgstr "Tìm kiếm vị trí Xem sau"
+
+#: src/models/actionsmodel.cpp:262
+#, kde-format
+msgctxt "@action"
+msgid "Set Loop"
+msgstr "Đặt vòng lặp"
+
+#: src/models/actionsmodel.cpp:269
+#, kde-format
+msgctxt "@action"
+msgid "Screenshot"
+msgstr "Chụp ảnh màn hình"
+
+#: src/models/actionsmodel.cpp:276
+#, kde-format
+msgctxt "@action"
+msgid "Subtitle Toggle"
+msgstr "Bật/tắt phụ đề"
+
+#: src/models/actionsmodel.cpp:283
+#, kde-format
+msgctxt "@action"
+msgid "Subtitle Increase Font Size"
+msgstr "Tăng Kích Thước Phông Chữ Phụ Đề"
+
+#: src/models/actionsmodel.cpp:290
+#, kde-format
+msgctxt "@action"
+msgid "Subtitle Decrease Font Size"
+msgstr "Giảm cỡ phông chữ phụ đề"
+
+#: src/models/actionsmodel.cpp:297
+#, kde-format
+msgctxt "@action"
+msgid "Subtitle Move Up"
+msgstr "Di chuyển phụ đề lên"
+
+#: src/models/actionsmodel.cpp:304
+#, kde-format
+msgctxt "@action"
+msgid "Subtitle Move Down"
+msgstr "Di chuyển phụ đề xuống"
+
+#: src/models/actionsmodel.cpp:311
+#, kde-format
+msgctxt "@action"
+msgid "Subtitle Quicken"
+msgstr "Phụ đề Quicken"
+
+#: src/models/actionsmodel.cpp:318
+#, kde-format
+msgctxt "@action"
+msgid "Subtitle Delay"
+msgstr "Độ trễ phụ đề"
+
+#: src/models/actionsmodel.cpp:325
+#, kde-format
+msgctxt "@action"
+msgid "Subtitle Cycle Up"
+msgstr "Chuyển lên Phụ đề"
+
+#: src/models/actionsmodel.cpp:332
+#, kde-format
+msgctxt "@action"
+msgid "Subtitle Cycle Down"
+msgstr "Chuyển sang phụ đề tiếp theo"
+
+#: src/models/actionsmodel.cpp:339
+#, kde-format
+msgctxt "@action"
+msgid "Toggle Deinterlacing"
+msgstr "Bật/tắt khử xen kẽ"
+
+#: src/models/actionsmodel.cpp:346
+#, kde-format
+msgctxt "@action"
+msgid "Toggle Fullscreen"
+msgstr "Bật/Tắt toàn màn hình"
+
+#: src/models/actionsmodel.cpp:353
+#, kde-format
+msgctxt "@action"
+msgid "Toggle Menu Bar"
+msgstr "Bật/Tắt Thanh Trình Đơn"
+
+#: src/models/actionsmodel.cpp:360
+#, kde-format
+msgctxt "@action"
+msgid "Toggle Header"
+msgstr "Chuyển đổi đầu tải"
+
+#: src/models/actionsmodel.cpp:367 src/qml/Settings/SettingsWindow.qml:95
+#, kde-format
+msgctxt "@action"
+msgid "Playlist"
+msgstr "Danh sách phát"
+
+#: src/models/actionsmodel.cpp:374
+#, kde-format
+msgctxt "@action"
+msgid "Video Move Left"
+msgstr "Di chuyển video sang trái"
+
+#: src/models/actionsmodel.cpp:381
+#, kde-format
+msgctxt "@action"
+msgid "Video Move Right"
+msgstr "Di chuyển phim sang phải"
+
+#: src/models/actionsmodel.cpp:388
+#, kde-format
+msgctxt "@action"
+msgid "Video Move Up"
+msgstr "Di chuyển phim lên"
+
+#: src/models/actionsmodel.cpp:395
+#, kde-format
+msgctxt "@action"
+msgid "Video Move Down"
+msgstr "Di chuyển phim xuống"
+
+#: src/models/actionsmodel.cpp:402
+#, kde-format
+msgctxt "@action"
+msgid "Volume Up"
+msgstr "Tăng âm lượng"
+
+#: src/models/actionsmodel.cpp:409
+#, kde-format
+msgctxt "@action"
+msgid "Volume Down"
+msgstr "Giảm âm lượng"
+
+#: src/models/actionsmodel.cpp:416
+#, kde-format
+msgctxt "@action"
+msgid "Zoom In"
+msgstr "Thu phóng"
+
+#: src/models/actionsmodel.cpp:423
+#, kde-format
+msgctxt "@action"
+msgid "Zoom Out"
+msgstr "Thu phóng ra"
+
+#: src/models/actionsmodel.cpp:430
+#, kde-format
+msgctxt "@action"
+msgid "Zoom Reset"
+msgstr "Đặt lại thu phóng"
+
+#: src/models/actionsmodel.cpp:437
+#, kde-format
+msgctxt "@action"
+msgid "Contrast Up"
+msgstr "Tăng độ tương phản"
+
+#: src/models/actionsmodel.cpp:444
+#, kde-format
+msgctxt "@action"
+msgid "Contrast Down"
+msgstr "Giảm độ tương phản"
+
+#: src/models/actionsmodel.cpp:451
+#, kde-format
+msgctxt "@action"
+msgid "Contrast Reset"
+msgstr "Đặt lại độ tương phản"
+
+#: src/models/actionsmodel.cpp:458
+#, kde-format
+msgctxt "@action"
+msgid "Brightness Up"
+msgstr "Tăng độ sáng"
+
+#: src/models/actionsmodel.cpp:465
+#, kde-format
+msgctxt "@action"
+msgid "Brightness Down"
+msgstr "Giảm độ sáng"
+
+#: src/models/actionsmodel.cpp:472
+#, kde-format
+msgctxt "@action"
+msgid "Brightness Reset"
+msgstr "Đặt lại độ sáng"
+
+#: src/models/actionsmodel.cpp:479
+#, kde-format
+msgctxt "@action"
+msgid "Gamma Up"
+msgstr "Tăng Gamma"
+
+#: src/models/actionsmodel.cpp:486
+#, kde-format
+msgctxt "@action"
+msgid "Gamma Down"
+msgstr "Giảm Gamma"
+
+#: src/models/actionsmodel.cpp:493
+#, kde-format
+msgctxt "@action"
+msgid "Gamma Reset"
+msgstr "Đặt lại Gamma"
+
+#: src/models/actionsmodel.cpp:500
+#, kde-format
+msgctxt "@action"
+msgid "Saturation Up"
+msgstr "Tăng độ bão hòa"
+
+#: src/models/actionsmodel.cpp:507
+#, kde-format
+msgctxt "@action"
+msgid "Saturation Down"
+msgstr "Giảm độ bão hòa"
+
+#: src/models/actionsmodel.cpp:514
+#, kde-format
+msgctxt "@action"
+msgid "Saturation Reset"
+msgstr "Đặt lại độ bão hòa"
+
+#: src/models/actionsmodel.cpp:659
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The chosen shortcut conflicts with the shortcut of the <b>%1</b> action."
+"<br><br>Do you want to reassign the shortcut?"
+msgstr ""
+"Phím tắt đã chọn xung đột với phím tắt của hành động <b>%1</b>.<br><br>Bạn "
+"có muốn gán lại phím tắt không?"
+
+#: src/models/actionsmodel.cpp:665
+#, kde-format
+msgctxt "@action:button"
+msgid "Reassign"
+msgstr "Gán lại"
+
+#: src/mpv/mpvitem.cpp:291
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Could not play: %1"
+msgstr "Không thể phát: %1"
+
+#: src/mpv/mpvitem.cpp:433
+#, kde-format
+msgctxt ""
+"@action The \"None\" subtitle track is used to clear/unset selected track"
+msgid "None"
+msgstr "Không"
+
+#: src/mpv/mpvitem.cpp:467
+#, kde-format
+msgctxt "@info:tooltip osd"
+msgid "Screenshot failed"
+msgstr "Chụp ảnh màn hình thất bại"
+
+#: src/mpv/mpvitem.cpp:472
+#, kde-format
+msgctxt "@info:tooltip osd"
+msgid "Screenshot taken"
+msgstr "Đã chụp ảnh màn hình"
+
+#: src/mpv/mpvitem.cpp:474
+#, kde-format
+msgctxt "@info:tooltip osd"
+msgid "Screenshot: %1"
+msgstr "Ảnh chụp màn hình: %1"
+
+#: src/mpv/mpvitem.cpp:501
+#, kde-format
+msgctxt "Error message when video can't be decoded/played"
+msgid ""
+"No video track detected, most likely the video track can't be decoded/played "
+"due to missing codecs"
+msgstr ""
+"Không phát hiện thấy luồng video, có khả năng lớn nhất là luồng video không "
+"thể được giải mã/phát do thiếu bộ giải mã"
+
+#: src/mpv/mpvitem.cpp:531
+#, kde-format
+msgctxt "@info:tooltip osd"
+msgid "Skipped chapter: %1"
+msgstr "Bỏ qua chương: %1"
+
+#: src/qml/Actions.qml:65 src/qml/Actions.qml:83
+msgctxt "@info:tooltip"
+msgid "Audio: %1 %2"
+msgstr "Âm thanh: %1 %2"
+
+#: src/qml/Actions.qml:146 src/qml/Actions.qml:152 src/qml/Actions.qml:157
+msgctxt "@info:tooltip"
+msgid "Playback speed: %1"
+msgstr "Tốc độ phát lại: %1"
+
+#: src/qml/Actions.qml:252
+msgctxt "@info:tooltip"
+msgid "Loop start: %1"
+msgstr "Bắt đầu vòng lặp: %1"
+
+#: src/qml/Actions.qml:258
+msgctxt "@info:tooltip"
+msgid "Loop: %1 - %2"
+msgstr "Lặp lại: %1 - %2"
+
+#: src/qml/Actions.qml:264
+msgctxt "@info:tooltip"
+msgid "Loop cleared"
+msgstr "Vòng lặp đã được xóa"
+
+#: src/qml/Actions.qml:275 src/qml/Actions.qml:281
+msgctxt "@info:tooltip"
+msgid "Subtitle timing: %1"
+msgstr "Thời gian phụ đề: %1"
+
+#: src/qml/Actions.qml:286
+msgctxt "@info:tooltip"
+msgid "Subtitles off"
+msgstr "Tắt phụ đề"
+
+#: src/qml/Actions.qml:286
+msgctxt "@info:tooltip"
+msgid "Subtitles function on"
+msgstr "Bật chức năng phụ đề"
+
+#: src/qml/Actions.qml:295 src/qml/Actions.qml:307
+msgctxt "@info:tooltip"
+msgid "Subtitle: None"
+msgstr "Phụ đề: Không có"
+
+#: src/qml/Actions.qml:299 src/qml/Actions.qml:311
+msgctxt "@info:tooltip"
+msgid "Subtitle: %1 %2"
+msgstr "Phụ đề: %1 %2"
+
+#: src/qml/Actions.qml:318 src/qml/Actions.qml:324
+msgctxt "@info:tooltip"
+msgid "Subtitle scale: %1"
+msgstr "Tỷ lệ phụ đề: %1"
+
+#: src/qml/Actions.qml:338
+msgctxt "@info:tooltip"
+msgid "Deinterlace: %1"
+msgstr "Khử xen kẽ: %1"
+
+#: src/qml/Actions.qml:394 src/qml/Actions.qml:400
+msgctxt "@info:tooltip"
+msgid "Zoom: %1"
+msgstr "Phóng to: %1"
+
+#: src/qml/Actions.qml:405
+msgctxt "@info:tooltip"
+msgid "Zoom: 0"
+msgstr "Phóng to: 0"
+
+#: src/qml/Actions.qml:412 src/qml/Actions.qml:418
+msgctxt "@info:tooltip"
+msgid "Contrast: %1"
+msgstr "Độ tương phản: %1"
+
+#: src/qml/Actions.qml:423
+msgctxt "@info:tooltip"
+msgid "Contrast: 0"
+msgstr "Độ tương phản: 0"
+
+#: src/qml/Actions.qml:429 src/qml/Actions.qml:435
+msgctxt "@info:tooltip"
+msgid "Brightness: %1"
+msgstr "Độ sáng: %1"
+
+#: src/qml/Actions.qml:440
+msgctxt "@info:tooltip"
+msgid "Brightness: 0"
+msgstr "Độ sáng: 0"
+
+#: src/qml/Actions.qml:446 src/qml/Actions.qml:452
+msgctxt "@info:tooltip"
+msgid "Gamma: %1"
+msgstr "Gamma: %1"
+
+#: src/qml/Actions.qml:457
+msgctxt "@info:tooltip"
+msgid "Gamma: 0"
+msgstr "Gamma: 0"
+
+#: src/qml/Actions.qml:463 src/qml/Actions.qml:469
+msgctxt "@info:tooltip"
+msgid "Saturation: %1"
+msgstr "Độ bão hòa: %1"
+
+#: src/qml/Actions.qml:474
+msgctxt "@info:tooltip"
+msgid "Saturation: 0"
+msgstr "Độ bão hòa: 0"
+
+#: src/qml/Footer.qml:57
+msgctxt "@info:tooltip"
+msgid "Start Playback"
+msgstr "Khởi động Phát lại"
+
+#: src/qml/Footer.qml:57
+msgctxt "@info:tooltip"
+msgid "Pause Playback"
+msgstr "Tạm dừng phát lại"
+
+#: src/qml/Footer.qml:70
+msgctxt "@info:tooltip"
+msgid "Play previous file"
+msgstr "Phát tệp trước"
+
+#: src/qml/Footer.qml:83
+msgctxt "@info:tooltip"
+msgid "Play next file"
+msgstr "Phát tệp tiếp theo"
+
+#: src/qml/Footer.qml:99
+msgctxt "@info:tooltip"
+msgid "Remaining: %1"
+msgstr "Còn lại: %1"
+
+#: src/qml/Haruna/Components/ColorPickerButton.qml:42
+msgctxt "@info:tooltip"
+msgid "Select a color"
+msgstr "Chọn một màu"
+
+#: src/qml/Haruna/Components/HamburgerMenu.qml:58
+msgctxt "@action:inmenu"
+msgid "Recent Files"
+msgstr "Tệp gần đây"
+
+#: src/qml/Haruna/Components/HamburgerMenu.qml:74
+#: src/qml/Menus/Global/GlobalSubtitlesMenu.qml:22
+#: src/qml/Menus/SubtitlesMenu.qml:21
+msgctxt "@title:menu"
+msgid "Primary Subtitle"
+msgstr "Phụ đề chính"
+
+#: src/qml/Haruna/Components/HamburgerMenu.qml:81
+#: src/qml/Menus/Global/GlobalSubtitlesMenu.qml:48
+#: src/qml/Menus/SubtitlesMenu.qml:28
+msgctxt "@title:menu"
+msgid "Secondary Subtitle"
+msgstr "Phụ đề thứ cấp"
+
+#: src/qml/Haruna/Components/HamburgerMenu.qml:89
+msgctxt "@title:menu"
+msgid "Audio Track"
+msgstr "Bản nhạc"
+
+#: src/qml/Haruna/Components/HamburgerMenu.qml:113
+msgctxt "@action:inmenu"
+msgid "&More"
+msgstr "T&hêm"
+
+#: src/qml/Haruna/Components/InputPopup.qml:29
+msgctxt "@info"
+msgid ""
+"Neither <a href=\"https://github.com/yt-dlp/yt-dlp\">yt-dlp</a> nor <a href="
+"\"https://github.com/ytdl-org/youtube-dl\">youtube-dl</a> was found."
+msgstr ""
+"Không tìm thấy cả <a href=\"https://github.com/yt-dlp/yt-dlp\">yt-dlp</a> "
+"lẫn <a href=\"https://github.com/ytdl-org/youtube-dl\">youtube-dl</a>."
+
+#: src/qml/Haruna/Components/SubtitlesFolders.qml:26
+msgctxt "@title"
+msgid "Load subtitles from"
+msgstr "Tải phụ đề từ"
+
+#: src/qml/Haruna/Components/SubtitlesFolders.qml:101
+msgctxt "@action:button"
+msgid "Confirm deletion"
+msgstr "Xác nhận xóa"
+
+#: src/qml/Haruna/Components/SubtitlesFolders.qml:117
+msgctxt "@info:tooltip"
+msgid "Delete this folder from list"
+msgstr "Xóa thư mục này khỏi danh sách"
+
+#: src/qml/Haruna/Components/SubtitlesFolders.qml:133
+msgctxt "@info:tooltip"
+msgid "Save changes"
+msgstr "Lưu thay đổi"
+
+#: src/qml/Haruna/Components/SubtitlesFolders.qml:155
+msgctxt "@action:button"
+msgid "Add new folder"
+msgstr "Thêm thư mục mới"
+
+#: src/qml/Header.qml:51
+msgctxt "@action:intoolbar"
+msgid "Subtitles"
+msgstr "Phụ đề"
+
+#: src/qml/Header.qml:71
+msgctxt "@action:intoolbar"
+msgid "Audio"
+msgstr "Âm thanh"
+
+#: src/qml/HProgressBar.qml:237
+msgctxt "@action:inmenu"
+msgid "Skip Chapters"
+msgstr "Bỏ qua các chương"
+
+#: src/qml/HProgressBar.qml:245
+msgctxt "@info:tooltip"
+msgid ""
+"Automatically skips chapters containing certain words/characters.\n"
+"Check 'Playback' settings for more details"
+msgstr ""
+"Tự động bỏ qua các chương có chứa một số từ/ký tự nhất định.\nKiểm tra "
+"thiết lập 'Phát lại' để biết thêm chi tiết"
+
+#: src/qml/Main.qml:26
+msgctxt "@title:window"
+msgid "Haruna"
+msgstr "Haruna"
+
+#: src/qml/Main.qml:225 src/qml/PlayList.qml:325 src/qml/Settings/VideoSettings.qml:68
+msgctxt "@title:window"
+msgid "Select file"
+msgstr "Chọn tệp"
+
+#: src/qml/Main.qml:252
+msgctxt "@title:window"
+msgid "Select subtitles file"
+msgstr "Chọn tệp phụ đề"
+
+#: src/qml/Main.qml:271
+msgctxt "@action:button"
+msgid "Open"
+msgstr "Mở"
+
+#: src/qml/Menus/AudioMenu.qml:16 src/qml/Menus/Global/GlobalAudioMenu.qml:17
+msgctxt "@title:menu"
+msgid "&Audio"
+msgstr "Âm th&anh"
+
+#: src/qml/Menus/AudioMenu.qml:22 src/qml/Menus/Global/GlobalAudioMenu.qml:22
+msgctxt "@title:menu"
+msgid "&Track"
+msgstr "Bà&i hát"
+
+#: src/qml/Menus/ContextMenu.qml:17
+msgctxt "@title:menu"
+msgid "Playback speed"
+msgstr "Tốc độ phát lại"
+
+#: src/qml/Menus/FileMenu.qml:13 src/qml/Menus/Global/GlobalFileMenu.qml:16
+msgctxt "@title:menu"
+msgid "&File"
+msgstr "Tệ&p"
+
+#: src/qml/Menus/FileMenu.qml:22 src/qml/Menus/Global/GlobalFileMenu.qml:39
+msgctxt "@title:menu"
+msgid "Recent Files"
+msgstr "Các tệp gần đây"
+
+#: src/qml/Menus/FileMenu.qml:39
+msgctxt "@action:inmenu"
+msgid "Clear List"
+msgstr "Làm trống Danh sách"
+
+#: src/qml/Menus/Global/GlobalHelpMenu.qml:14
+#: src/qml/Menus/HelpMenu.qml:13
+msgctxt "@title:menu"
+msgid "&Help"
+msgstr "t&rợ giúp"
+
+#: src/qml/Menus/Global/GlobalPlaybackMenu.qml:14
+#: src/qml/Menus/PlaybackMenu.qml:13
+msgctxt "@title:menu"
+msgid "&Playback"
+msgstr "&Phát lại"
+
+#: src/qml/Menus/Global/GlobalPlaybackMenu.qml:69
+#: src/qml/Menus/PlaybackMenu.qml:31
+msgctxt "@title:menu"
+msgid "Seek"
+msgstr "Tua"
+
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:14
+#: src/qml/Menus/SettingsMenu.qml:15
+msgctxt "@title:menu"
+msgid "&Settings"
+msgstr "thiết &lập"
+
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:17
+#: src/qml/Menus/SettingsMenu.qml:18
+msgctxt "@action:inmenu"
+msgid "General"
+msgstr "chung"
+
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:25
+#: src/qml/Menus/SettingsMenu.qml:26
+msgctxt "@action:inmenu"
+msgid "Playback"
+msgstr "Phát lại"
+
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:33
+#: src/qml/Menus/SettingsMenu.qml:34
+msgctxt "@action:inmenu"
+msgid "Video"
+msgstr "Phim"
+
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:41
+#: src/qml/Menus/SettingsMenu.qml:42
+msgctxt "@action:inmenu"
+msgid "Audio"
+msgstr "Âm thanh"
+
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:49
+#: src/qml/Menus/SettingsMenu.qml:50
+msgctxt "@action:inmenu"
+msgid "Subtitles"
+msgstr "Phụ đề"
+
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:57
+#: src/qml/Menus/SettingsMenu.qml:58
+msgctxt "@action:inmenu"
+msgid "Playlist"
+msgstr "Danh sách phát"
+
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:65
+#: src/qml/Menus/SettingsMenu.qml:66
+msgctxt "@action:inmenu"
+msgid "Mouse"
+msgstr "Chuột"
+
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:73
+#: src/qml/Menus/SettingsMenu.qml:74
+msgctxt "@action:inmenu"
+msgid "Shortcuts"
+msgstr "Phím tắt"
+
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:82
+#: src/qml/Menus/SettingsMenu.qml:83
+msgctxt "@action:inmenu"
+msgid "Custom Commands"
+msgstr "Lệnh Tùy Chỉnh"
+
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:90
+#: src/qml/Menus/SettingsMenu.qml:91
+msgctxt "@action:inmenu"
+msgid "Debug"
+msgstr "Gỡ lỗi"
+
+#: src/qml/Menus/Global/GlobalSettingsMenu.qml:98
+#: src/qml/Menus/SettingsMenu.qml:99
+msgctxt "@action:inmenu"
+msgid "About"
+msgstr "Thông tin"
+
+#: src/qml/Menus/Global/GlobalSubtitlesMenu.qml:17
+#: src/qml/Menus/SubtitlesMenu.qml:16
+msgctxt "@title:menu"
+msgid "&Subtitles"
+msgstr "P&hụ đề"
+
+#: src/qml/Menus/Global/GlobalVideoMenu.qml:14
+#: src/qml/Menus/VideoMenu.qml:13
+msgctxt "@title:menu"
+msgid "&Video"
+msgstr "p&him, hình, phần hình"
+
+#: src/qml/Menus/Global/GlobalVideoMenu.qml:71
+#: src/qml/Menus/VideoMenu.qml:26
+msgctxt "@title:menu"
+msgid "Adjustments"
+msgstr "Điều chỉnh"
+
+#: src/qml/Menus/Global/GlobalViewMenu.qml:14
+#: src/qml/Menus/ViewMenu.qml:13
+msgctxt "@title:menu"
+msgid "&View"
+msgstr "X&em"
+
+#: src/qml/Menus/Global/GlobalViewMenu.qml:24
+#: src/qml/Menus/ViewMenu.qml:19
+msgctxt "@action:inmenu"
+msgid "Hide Menubar"
+msgstr "Ẩn thanh menu"
+
+#: src/qml/Menus/Global/GlobalViewMenu.qml:24
+#: src/qml/Menus/ViewMenu.qml:19
+msgctxt "@action:inmenu"
+msgid "Show Menubar"
+msgstr "Hiện thanh menu"
+
+#: src/qml/Menus/Global/GlobalViewMenu.qml:30
+#: src/qml/Menus/ViewMenu.qml:23
+msgctxt "@action:inmenu"
+msgid "Hide Toolbar"
+msgstr "Ẩn Thanh Công Cụ"
+
+#: src/qml/Menus/Global/GlobalViewMenu.qml:30
+#: src/qml/Menus/ViewMenu.qml:23
+msgctxt "@action:inmenu"
+msgid "Show Toolbar"
+msgstr "Hiện Thanh Công Cụ"
+
+#: src/qml/MpvVideo.qml:28
+msgctxt "@info:tooltip"
+msgid "Volume: %1"
+msgstr "Âm lượng: %1"
+
+#: src/qml/PlayList.qml:88
+msgctxt "@action:button"
+msgid "Add"
+msgstr "Thêm"
+
+#: src/qml/PlayList.qml:100
+msgctxt "@action:button"
+msgid "Open playlist"
+msgstr "Mở danh sách phát"
+
+#: src/qml/PlayList.qml:109
+msgctxt "@action:button"
+msgid "Add ..."
+msgstr "Thêm..."
+
+#: src/qml/PlayList.qml:112
+msgctxt "@action:button"
+msgid "File"
+msgstr "Tệp"
+
+#: src/qml/PlayList.qml:120
+msgctxt "@action:button"
+msgid "Url"
+msgstr "URL"
+
+#: src/qml/PlayList.qml:131
+msgctxt "@action:button"
+msgid "Sort"
+msgstr "Sắp xếp"
+
+#: src/qml/PlayList.qml:135
+msgctxt "@action:button"
+msgid "Name ascending"
+msgstr "Tên theo thứ tự tăng dần"
+
+#: src/qml/PlayList.qml:141
+msgctxt "@action:button"
+msgid "Name descending"
+msgstr "Tên giảm dần"
+
+#: src/qml/PlayList.qml:147
+msgctxt "@action:button"
+msgid "Duration ascending"
+msgstr "Thời lượng tăng dần"
+
+#: src/qml/PlayList.qml:153
+msgctxt "@action:button"
+msgid "Duration descending"
+msgstr "Thời lượng giảm dần"
+
+#: src/qml/PlayList.qml:160
+msgctxt "@action:button"
+msgid "Clear"
+msgstr "Làm trống"
+
+#: src/qml/PlayList.qml:168
+msgctxt "@action:button"
+msgid "Save as"
+msgstr "Lưu thành"
+
+#: src/qml/PlayList.qml:226
+msgctxt "@action:inmenu"
+msgid "Open containing folder"
+msgstr "Mở thư mục chứa"
+
+#: src/qml/PlayList.qml:232
+msgctxt "@action:inmenu"
+msgid "Copy file name"
+msgstr "Sao chép tên tệp"
+
+#: src/qml/PlayList.qml:236
+msgctxt "@action:inmenu"
+msgid "Copy file path"
+msgstr "Sao chép đường dẫn tệp"
+
+#: src/qml/PlayList.qml:241
+msgctxt "@action:inmenu"
+msgid "Remove from playlist"
+msgstr "Xoá khỏi danh sách phát"
+
+#: src/qml/PlayList.qml:247
+msgctxt "@action:inmenu"
+msgid "Rename file"
+msgstr "Đổi tên tệp"
+
+#: src/qml/PlayList.qml:253
+msgctxt "@action:inmenu"
+msgid "Scroll to playing item"
+msgstr "Cuộn đến mục đang phát"
+
+#: src/qml/PlayList.qml:261
+msgctxt "@action:inmenu"
+msgid "Trash file"
+msgstr "Xóa tệp"
+
+#: src/qml/Settings/AudioSettings.qml:25 src/qml/Settings/SubtitlesSettings.qml:32
+msgctxt "@label:textbox"
+msgid "Preferred language"
+msgstr "Ngôn ngữ ưa thích"
+
+#: src/qml/Settings/AudioSettings.qml:33 src/qml/Settings/SubtitlesSettings.qml:40
+msgctxt "placeholder text"
+msgid "eng, ger etc."
+msgstr "eng, ger v.v."
+
+#: src/qml/Settings/AudioSettings.qml:52 src/qml/Settings/SubtitlesSettings.qml:59
+msgctxt "@label:spinbox"
+msgid "Preferred track"
+msgstr "Bản ghi ưa thích"
+
+#: src/qml/Settings/AudioSettings.qml:75
+msgctxt "@label:spinbox"
+msgid "Volume step"
+msgstr "Bước âm lượng"
+
+#: src/qml/Settings/CustomCommandsSettings.qml:36
+msgctxt "@label:textbox"
+msgid "No custom commands yet"
+msgstr "Chưa có lệnh tự chọn nào"
+
+#: src/qml/Settings/CustomCommandsSettings.qml:38
+msgctxt "@action:button"
+msgid "&Add command"
+msgstr "T&hêm lệnh"
+
+#: src/qml/Settings/CustomCommandsSettings.qml:74
+msgctxt "@info:tooltip"
+msgid ""
+"Checked: property will be set at startup\n"
+"Unchecked: property will not be set at startup"
+msgstr ""
+"Đã chọn: thuộc tính sẽ được thiết lập khi khởi động\nChưa chọn: thuộc tính "
+"sẽ không được thiết lập khi khởi động"
+
+#: src/qml/Settings/CustomCommandsSettings.qml:148
+msgctxt "@action:intoolbar"
+msgid "&Add"
+msgstr "Thê&m"
+
+#: src/qml/Settings/DebugSettings.qml:24
+msgctxt "@label:textbox"
+msgid "Config folder"
+msgstr "Thư mục cấu hình"
+
+#: src/qml/Settings/DebugSettings.qml:36
+msgctxt "@info:tooltip"
+msgid "Open config folder"
+msgstr "Mở thư mục cấu hình"
+
+#: src/qml/Settings/DebugSettings.qml:48
+msgctxt "@label:textbox"
+msgid "Config file"
+msgstr "Tệp cấu hình"
+
+#: src/qml/Settings/DebugSettings.qml:60
+msgctxt "@info:tooltip"
+msgid "Open config file"
+msgstr "Mở tệp cấu hình"
+
+#: src/qml/Settings/DebugSettings.qml:72
+msgctxt "@label:textbox"
+msgid "Custom commands config file"
+msgstr "Tệp cấu hình lệnh tùy chỉnh"
+
+#: src/qml/Settings/DebugSettings.qml:84
+msgctxt "@info:tooltip"
+msgid "Open custom commands config file"
+msgstr "Mở tệp cấu hình lệnh tùy chỉnh"
+
+#: src/qml/Settings/DebugSettings.qml:96
+msgctxt "@info:usagetip"
+msgid ""
+"If fields are empty that means there is no config file/folder (e.g when "
+"using the default settings)."
+msgstr ""
+"Nếu các trường trống thì có nghĩa là không có tệp/thư mục cấu hình (ví dụ "
+"khi sử dụng cài đặt mặc định)."
+
+#: src/qml/Settings/DebugSettings.qml:104
+msgctxt "@option:check"
+msgid "Enable mpv logging"
+msgstr "Bật ghi nhật kí mpv"
+
+#: src/qml/Settings/EditCustomCommand.qml:39
+msgctxt "@label:textbox"
+msgid "Command"
+msgstr "lệnh"
+
+#: src/qml/Settings/EditCustomCommand.qml:48
+msgctxt "placeholder text"
+msgid "add volume +10"
+msgstr "thêm âm lượng +10"
+
+#: src/qml/Settings/EditCustomCommand.qml:55
+msgctxt "@info:tooltip"
+msgid ""
+"What mpv command to run, see <a href=\"https://mpv.io/manual/stable/#list-of-"
+"input-commands\">MPV Commands</a> for a list of available commands.<br>Not "
+"all commands will work as some are specific for mpv.<br>Most useful are the "
+"commands to manipulate properties, like <strong>set</strong>, <strong>add</"
+"strong>, <strong>cycle</strong>.<br><strong>set</strong>: sets the value of "
+"a property <strong>set volume-max 150</strong>.<br><strong>add</strong>: "
+"increases/decreases the value of a property <strong>add volume 15</strong>, "
+"increases volume by 15. To decrease the value use <strong>add volume -15</"
+"strong>.<br><strong>cycle</strong>: cycle through the values of a property "
+"<strong>cycle aid up</strong>."
+msgstr ""
+"Lệnh mpv để chạy, xem <a "
+"href=\"https://mpv.io/manual/stable/#list-of-input-commands\">Các lệnh "
+"MPV</a> để biết danh sách các lệnh có sẵn.<br>Không phải tất cả các lệnh "
+"đều hoạt động vì một số lệnh chỉ dành riêng cho mpv.<br>Hữu ích nhất là các "
+"lệnh để thao tác thuộc tính, như <strong>set</strong>, "
+"<strong>add</strong>, <strong>cycle</strong>.<br><strong>set</strong>: đặt "
+"giá trị của một thuộc tính <strong>set volume-max "
+"150</strong>.<br><strong>add</strong>: tăng/giảm giá trị của một thuộc tính "
+"<strong>add volume 15</strong>, tăng âm lượng lên 15. Để giảm giá trị, sử "
+"dụng <strong>add volume -15</strong>.<br><strong>cycle</strong>: chuyển đổi "
+"qua các giá trị của một thuộc tính <strong>cycle aid up</strong>."
+
+#: src/qml/Settings/EditCustomCommand.qml:72
+msgctxt "@label:textbox"
+msgid "OSD Message"
+msgstr "Thông điệp OSD"
+
+#: src/qml/Settings/EditCustomCommand.qml:82
+msgctxt "placeholder text"
+msgid "Filename: ${filename}"
+msgstr "Tên tệp: ${filename}"
+
+#: src/qml/Settings/EditCustomCommand.qml:88
+msgctxt "@info:tooltip"
+msgid ""
+"An OSD message to display when triggering an action type custom command."
+"<br>Use ${property_name} to display the value of a property <strong>Volume: "
+"${volume}</strong>"
+msgstr ""
+"Một thông điệp OSD để hiển thị khi kích hoạt một lệnh tự chọn kiểu hành "
+"động.<br>Sử dụng ${property_name} để hiển thị giá trị của một thuộc tính "
+"<strong>Âm lượng: ${volume}</strong>"
+
+#: src/qml/Settings/EditCustomCommand.qml:97
+msgctxt "@label"
+msgid "Type"
+msgstr "Kiểu"
+
+#: src/qml/Settings/EditCustomCommand.qml:118
+msgctxt "@option:radio"
+msgid "Keyboard shortcut"
+msgstr "Phím tắt"
+
+#: src/qml/Settings/EditCustomCommand.qml:119
+msgctxt "@info:tooltip"
+msgid ""
+"The command will be triggered with a shortcut. The shortcut can be set after "
+"saving."
+msgstr ""
+"Lệnh sẽ được kích hoạt bằng một phím tắt. Phím tắt có thể được đặt sau khi "
+"lưu."
+
+#: src/qml/Settings/EditCustomCommand.qml:128
+msgctxt "@option:radio"
+msgid "Run at startup"
+msgstr "Chạy khi khởi động"
+
+#: src/qml/Settings/EditCustomCommand.qml:129
+msgctxt "@info:tooltip"
+msgid "The command will be run at application startup."
+msgstr "Lệnh sẽ được chạy khi ứng dụng khởi động."
+
+#: src/qml/Settings/EditCustomCommand.qml:141
+msgctxt "@action:intoolbar"
+msgid "Delete"
+msgstr "Xóa"
+
+#: src/qml/Settings/EditCustomCommand.qml:156
+msgctxt "@action:intoolbar"
+msgid "Cancel"
+msgstr "Huỷ"
+
+#: src/qml/Settings/EditCustomCommand.qml:163
+msgctxt "@action:intoolbar"
+msgid "&Save"
+msgstr "Lư&u"
+
+#: src/qml/Settings/GeneralSettings.qml:25
+msgctxt "@label:spinbox"
+msgid "Osd font size"
+msgstr "Cỡ phông chữ OSD"
+
+#: src/qml/Settings/GeneralSettings.qml:51
+msgctxt "@label:textbox"
+msgid "File dialog location"
+msgstr "Địa điểm hộp thoại tệp"
+
+#: src/qml/Settings/GeneralSettings.qml:70
+msgctxt "@info:tooltip"
+msgid ""
+"The default location of the open file dialog. If empty the file dialog will "
+"try to open to the last opened location."
+msgstr ""
+"Vị trí mặc định của hộp thoại mở tệp. Nếu để trống, hộp thoại sẽ cố gắng mở "
+"ở vị trí đã mở lần cuối."
+
+#: src/qml/Settings/GeneralSettings.qml:81
+msgctxt "@label:spinbox"
+msgid "Maximum recent files"
+msgstr "Số lượng tệp gần đây tối đa"
+
+#: src/qml/Settings/GeneralSettings.qml:98
+msgctxt "@info:tooltip"
+msgid "How many recent files to store. Enter 0 (zero) to disable."
+msgstr "Lưu trữ bao nhiêu tệp gần đây. Nhập 0 (không) để tắt."
+
+#: src/qml/Settings/GeneralSettings.qml:106
+msgctxt "@option:check"
+msgid "Allow only one instance"
+msgstr "Chỉ cho phép một hiện thể"
+
+#: src/qml/Settings/GeneralSettings.qml:122
+msgctxt "@info:tooltip"
+msgid ""
+"Trying to open another Haruna instance will do nothing.\n"
+"Trying to open another file with Haruna will open the file in the running "
+"instance."
+msgstr ""
+"Cố gắng mở một hiện thể Haruna khác sẽ không làm gì cả.\nCố gắng mở một tệp "
+"khác bằng Haruna sẽ mở tệp trong hiện thể đang chạy."
+
+#: src/qml/Settings/GeneralSettings.qml:136
+msgctxt "@option:check"
+msgid "Add file to playlist"
+msgstr "Thêm tệp vào danh sách phát"
+
+#: src/qml/Settings/GeneralSettings.qml:152
+msgctxt "@info:tooltip"
+msgid "File will be added to the end of the playlist"
+msgstr "Tệp sẽ được thêm vào cuối danh sách phát"
+
+#: src/qml/Settings/GeneralSettings.qml:161
+msgctxt "@title"
+msgid "Interface"
+msgstr "Giao diện"
+
+#: src/qml/Settings/GeneralSettings.qml:167
+msgctxt "@label:spinbox"
+msgid "Preview thumbnail"
+msgstr "Xem thử hình nhỏ"
+
+#: src/qml/Settings/GeneralSettings.qml:172
+msgctxt "@option:check"
+msgid "Show preview thumbnail"
+msgstr "Hiển thị hình nhỏ xem thử"
+
+#: src/qml/Settings/GeneralSettings.qml:179
+msgctxt "@info:tooltip"
+msgid "Shows a preview while hovering the seek/progress bar."
+msgstr "Hiển thị xem thử khi di chuột qua thanh tìm kiếm/tiến độ."
+
+#: src/qml/Settings/GeneralSettings.qml:188
+msgctxt "@option:check"
+msgid "Use accurate preview"
+msgstr "Sử dụng xem thử chính xác"
+
+#: src/qml/Settings/GeneralSettings.qml:205
+msgctxt "@info:tooltip"
+msgid "Generating an accurate preview is slow"
+msgstr "Tạo bản xem thử chính xác sẽ chậm"
+
+#: src/qml/Settings/GeneralSettings.qml:215
+msgctxt "@label:spinbox"
+msgid "Thumbnail width"
+msgstr "Chiều rộng hình nhỏ"
+
+#: src/qml/Settings/GeneralSettings.qml:233
+msgctxt "@label"
+msgid "Window"
+msgstr "Cửa sổ"
+
+#: src/qml/Settings/GeneralSettings.qml:239
+msgctxt "@option:check"
+msgid "Resize to fit video"
+msgstr "Điều chỉnh kích thước để vừa với phim"
+
+#: src/qml/Settings/GeneralSettings.qml:255
+msgctxt "@info:tooltip"
+msgid ""
+"The window is resized according to the video resolution.\n"
+"The maximum size is not constrained, this is left to the operating system."
+msgstr ""
+"Cửa sổ được thay đổi kích thước theo độ phân giải của phim.\nKích thước tối "
+"đa không bị giới hạn, điều này được để lại cho hệ điều hành."
+
+#: src/qml/Settings/GeneralSettings.qml:269
+msgctxt "@option:check"
+msgid "Remember window size and position"
+msgstr "Nhớ kích thước và vị trí cửa sổ"
+
+#: src/qml/Settings/GeneralSettings.qml:284
+msgctxt "@info:tooltip"
+msgid ""
+"When window size and position are changed the new values are saved and used "
+"to restore the application to the same size and position when a new instance "
+"is opened.\n"
+"\n"
+"The \"Resize to fit video\" setting takes precedence.\n"
+msgstr ""
+"Khi kích thước và vị trí của cửa sổ được thay đổi, các giá trị mới sẽ được "
+"lưu và được sử dụng để khôi phục ứng dụng về cùng kích thước và vị trí khi "
+"một hiện thể mới được mở.\n\nTùy chọn \"Điều chỉnh kích thước để vừa với "
+"video\" sẽ được ưu tiên.\n"
+
+#: src/qml/Settings/GeneralSettings.qml:299
+msgctxt "@option:check"
+msgid "Show menubar"
+msgstr "Hiển thị thanh menu"
+
+#: src/qml/Settings/GeneralSettings.qml:310
+#: src/qml/Settings/PlaylistSettings.qml:77
+msgctxt "@option:check"
+msgid "Show toolbar"
+msgstr "Hiển thị thanh công cụ"
+
+#: src/qml/Settings/GeneralSettings.qml:321
+msgctxt "@option:check"
+msgid "Show chapter markers"
+msgstr "Hiển thị các dấu chương"
+
+#: src/qml/Settings/GeneralSettings.qml:330
+msgctxt "@label:listbox"
+msgid "Color scheme"
+msgstr "Quy hoạch màu sắc"
+
+#: src/qml/Settings/GeneralSettings.qml:372
+msgctxt "@label:listbox"
+msgid "GUI style"
+msgstr "Kiểu cách giao diện"
+
+#: src/qml/Settings/GeneralSettings.qml:423
+msgctxt "@option:check"
+msgid "Use Breeze icon theme"
+msgstr "Sử dụng chủ đề biểu tượng Breeze"
+
+#: src/qml/Settings/GeneralSettings.qml:431
+msgctxt "@info:tooltip"
+msgid ""
+"Sets the icon theme to breeze.\n"
+"Requires restart."
+msgstr "Đặt chủ đề biểu tượng thành breeze.\nYêu cầu khởi động lại."
+
+#: src/qml/Settings/MouseSettings.qml:79
+msgctxt "@label"
+msgid "No action set"
+msgstr "Không có hành động được đặt"
+
+#: src/qml/Settings/MouseSettings.qml:93
+msgctxt "@info:tooltip"
+msgid "Clear action"
+msgstr "Xóa hành động"
+
+#: src/qml/Settings/MouseSettings.qml:130
+msgctxt "@title"
+msgid "Double click to set action"
+msgstr "Bấm đúp để đặt hành động"
+
+#: src/qml/Settings/PlaybackSettings.qml:26
+msgctxt "@label:spinbox"
+msgid "Seek small step"
+msgstr "Bước tìm kiếm nhỏ"
+
+#: src/qml/Settings/PlaybackSettings.qml:46
+msgctxt "@info:tooltip seek small step setting"
+msgid ""
+"How much to seek when triggering the corresponding action. Seek mode is <a "
+"href='https://mpv.io/manual/stable/#command-interface-seek-<target>-"
+"[<flags>]'>exact</a>"
+msgstr ""
+"Tìm kiếm bao nhiêu khi kích hoạt hành động tương ứng. Chế độ tìm kiếm là <a "
+"href='https://mpv.io/manual/stable/#command-interface-seek-<target>-[<flags>]'>chính "
+"xác</a>"
+
+#: src/qml/Settings/PlaybackSettings.qml:53
+msgctxt "@label:spinbox"
+msgid "Seek medium step"
+msgstr "Bước tìm kiếm trung bình"
+
+#: src/qml/Settings/PlaybackSettings.qml:73
+msgctxt "@info:tooltip seek medium step setting"
+msgid ""
+"How much to seek when triggering the corresponding action. Seek mode is <a "
+"href='https://mpv.io/manual/stable/#command-interface-seek-<target>-"
+"[<flags>]'>exact</a>.<br>This is also used for mouse wheel seeking, when "
+"mouse is over the progress bar."
+msgstr ""
+"Mức độ tua nhanh khi kích hoạt hành động tương ứng. Chế độ tua là <a "
+"href='https://mpv.io/manual/stable/#command-interface-seek-<target>-[<flags>]'>chính "
+"xác</a>.<br>Điều này cũng được sử dụng cho việc tua bằng con lăn chuột, khi "
+"chuột ở trên thanh tiến trình."
+
+#: src/qml/Settings/PlaybackSettings.qml:81
+msgctxt "@label:spinbox"
+msgid "Seek big step"
+msgstr "Bước tìm kiếm lớn"
+
+#: src/qml/Settings/PlaybackSettings.qml:100
+msgctxt "@info:tooltip seek big step setting"
+msgid ""
+"How much to seek when triggering the corresponding action. Seek mode is <a "
+"href='https://mpv.io/manual/stable/#command-interface-seek-<target>-"
+"[<flags>]'>exact</a>"
+msgstr ""
+"Tìm kiếm bao nhiêu khi kích hoạt hành động tương ứng. Chế độ tìm kiếm là <a "
+"href='https://mpv.io/manual/stable/#command-interface-seek-<target>-[<flags>]'>chính "
+"xác</a>"
+
+#: src/qml/Settings/PlaybackSettings.qml:110
+msgctxt "@option:check"
+msgid "Pause on minimize"
+msgstr "Tạm dừng khi thu nhỏ"
+
+#: src/qml/Settings/PlaybackSettings.qml:119
+msgctxt "@info:tooltip pause on minimize setting"
+msgid ""
+"Pauses the player while the window is minimized, playback resumes when "
+"restored."
+msgstr "Tạm dừng phát lại khi cửa sổ được thu nhỏ, tiếp tục phát lại khi khôi phục."
+
+#: src/qml/Settings/PlaybackSettings.qml:124
+msgctxt "@label:spinbox"
+msgid "Resume playback"
+msgstr "Tiếp tục trở lại phát lại"
+
+#: src/qml/Settings/PlaybackSettings.qml:131
+msgctxt "@option:check"
+msgid "Open last played file on startup"
+msgstr "Mở tệp đã phát lần cuối khi khởi động"
+
+#: src/qml/Settings/PlaybackSettings.qml:140
+msgctxt "@info:tooltip open last played file setting"
+msgid ""
+"On startup it opens the file that was playing when the application was "
+"closed."
+msgstr "Khi khởi động, nó sẽ mở tệp đang phát khi ứng dụng bị đóng."
+
+#: src/qml/Settings/PlaybackSettings.qml:149
+msgctxt "@option:check"
+msgid "Seek to last playback position"
+msgstr "Tìm đến vị trí phát lại cuối cùng"
+
+#: src/qml/Settings/PlaybackSettings.qml:158
+msgctxt "@info:tooltip seek to last playback position setting"
+msgid ""
+"When opening a file that was played before, seek at the position it was last "
+"time."
+msgstr ""
+"Khi mở một tệp đã được phát trước đó, tìm kiếm vị trí nó được phát lần "
+"cuối."
+
+#: src/qml/Settings/PlaybackSettings.qml:167
+msgctxt "@option:check"
+msgid "Start playing"
+msgstr "Bắt đầu phát"
+
+#: src/qml/Settings/PlaybackSettings.qml:177
+msgctxt "@info:tooltip start playing setting"
+msgid ""
+"When resuming playback and seeking to last playback position, start playing "
+"it automatically."
+msgstr ""
+"Khi tiếp tục phát và tìm đến vị trí phát cuối cùng, tự động khởi động phát "
+"lại."
+
+#: src/qml/Settings/PlaybackSettings.qml:182
+msgctxt "@label"
+msgid "Hardware decoding"
+msgstr "Giải mã phần cứng"
+
+#: src/qml/Settings/PlaybackSettings.qml:188
+#: src/qml/Settings/PlaybackSettings.qml:324
+msgctxt "@option:check"
+msgid "Enabled"
+msgstr "Bật"
+
+#: src/qml/Settings/PlaybackSettings.qml:188
+#: src/qml/Settings/PlaybackSettings.qml:324
+msgctxt "@option:check"
+msgid "Disabled"
+msgstr "Tắt"
+
+#: src/qml/Settings/PlaybackSettings.qml:235
+msgctxt "@info:tooltip hardware decoding setting"
+msgid ""
+"Specify the hardware video decoding API that should be used if possible. "
+"Whether hardware decoding is actually done depends on the video codec. If "
+"hardware decoding is not possible, mpv will fall back on software decoding."
+"<br><br><ul><li><strong>auto</strong> tries to automatically enable hardware "
+"decoding using the first available method.</li><li><strong>auto-safe</"
+"strong> similar to auto, but allows only whitelisted methods that are "
+"considered \"safe\".</li><li><strong>vaapi</strong> works with Intel and AMD "
+"GPUs only. It also requires the opengl EGL backend.</li><li><strong>nvdec</"
+"strong> the newest, and recommended method to do hardware decoding on Nvidia "
+"GPUs.</li><li><strong>cuda</strong> an older implementation of hardware "
+"decoding on Nvidia GPUs.</li><li><strong>videotoolbox</strong></"
+"li><li><strong>d3d11va</strong></li></ul><br><br>You can read more about "
+"hardware decoding here: <a href='https://mpv.io/manual/stable/#options-"
+"hwdec'>https://mpv.io/manual/stable/#options-hwdec</a><br><br>You can set "
+"another hardware decoder by creating a startup custom command <strong>set "
+"hwdec <i>decoder_name</i></strong>."
+msgstr ""
+"Chỉ định API giải mã phần cứng nên được sử dụng nếu có thể. Việc giải mã "
+"phần cứng có thực sự được thực hiện hay không phụ thuộc vào codec video. "
+"Nếu không thể giải mã phần cứng, mpv sẽ chuyển sang giải mã phần "
+"mềm.<br><br><ul><li><strong>auto</strong> tự động cố gắng bật giải mã phần "
+"cứng bằng phương pháp khả dụng đầu tiên.</li><li><strong>auto-safe</strong> "
+"tương tự như auto, nhưng chỉ cho phép các phương pháp trong danh sách trắng "
+"được coi là \"an toàn\".</li><li><strong>vaapi</strong> chỉ hoạt động với "
+"GPU Intel và AMD. Nó cũng yêu cầu backend opengl "
+"EGL.</li><li><strong>nvdec</strong> phương pháp mới nhất và được khuyến "
+"nghị để giải mã phần cứng trên GPU Nvidia.</li><li><strong>cuda</strong> "
+"một cách triển khai cũ hơn của giải mã phần cứng trên GPU "
+"Nvidia.</li><li><strong>videotoolbox</strong></li><li><strong>d3d11va</strong></li></ul><br><br>Bạn "
+"có thể đọc thêm thông tin về giải mã phần cứng tại đây: <a "
+"href='https://mpv.io/manual/stable/#options-hwdec'>https://mpv.io/manual/stable/#options-hwdec</a><br><br>Bạn "
+"có thể đặt một bộ giải mã phần cứng khác bằng cách tạo lệnh tùy chỉnh khi "
+"khởi động <strong>set hwdec <i>tên_bộ_giải_mã</i></strong>."
+
+#: src/qml/Settings/PlaybackSettings.qml:255
+msgctxt "@label:spinbox"
+msgid "Save playback position"
+msgstr "Lưu vị trí phát lại"
+
+#: src/qml/Settings/PlaybackSettings.qml:275
+msgctxt "@info"
+msgid "Disabled"
+msgstr "Tắt"
+
+#: src/qml/Settings/PlaybackSettings.qml:277
+msgctxt "@info"
+msgid "For all files"
+msgstr "Cho tất cả các tệp"
+
+#: src/qml/Settings/PlaybackSettings.qml:280
+msgctxt "@info"
+msgid "For files longer than %1 minute"
+msgid_plural "For files longer than %1 minutes"
+msgstr[0] "Đối với các tệp dài hơn %1 phút"
+
+#: src/qml/Settings/PlaybackSettings.qml:308
+msgctxt "@info"
+msgid "Save position every %1 second"
+msgid_plural "Save position every %1 seconds"
+msgstr[0] "Lưu vị trí mỗi %1 giây"
+
+#: src/qml/Settings/PlaybackSettings.qml:317
+msgctxt "@label"
+msgid "Skip chapters"
+msgstr "Bỏ qua các chương"
+
+#: src/qml/Settings/PlaybackSettings.qml:333
+msgctxt "@info:tooltip skip chapters setting"
+msgid ""
+"When enabled it automatically skips chapters containing certain words/"
+"characters."
+msgstr ""
+"Khi được bật, nó sẽ tự động bỏ qua các chương có chứa một số từ/ký tự nhất "
+"định."
+
+#: src/qml/Settings/PlaybackSettings.qml:341
+msgctxt "@option:check"
+msgid "Show osd message on skip"
+msgstr "Hiển thị thông điệp OSD khi bỏ qua"
+
+#: src/qml/Settings/PlaybackSettings.qml:351
+msgctxt "@info:tooltip show osd message on skip setting"
+msgid ""
+"When skipping chapters an osd message will show the title of the skipped "
+"chapter."
+msgstr ""
+"Khi bỏ qua các chương, một thông điệp OSD sẽ hiển thị tiêu đề của chương đã "
+"bỏ qua."
+
+#: src/qml/Settings/PlaybackSettings.qml:356
+msgctxt "@label:textbox"
+msgid "Skip words"
+msgstr "Bỏ qua từ"
+
+#: src/qml/Settings/PlaybackSettings.qml:366
+msgctxt "placeholder text"
+msgid "op, ed, chapter 1"
+msgstr "op, ed, chương 1"
+
+#: src/qml/Settings/PlaybackSettings.qml:386
+msgctxt "@info:tooltip skip words setting"
+msgid ""
+"Skip chapters containing these words. Comma separated list. The match is not "
+"exact, meaning <strong>op</strong> will match words containing it like "
+"<strong><u>op</u>ening</strong>."
+msgstr ""
+"Bỏ qua các chương chứa những từ này. Danh sách được phân tách bằng dấu "
+"phẩy. Việc khớp không chính xác, nghĩa là <strong>op</strong> sẽ khớp với "
+"các từ chứa nó như <strong><u>op</u>ening</strong>."
+
+#: src/qml/Settings/PlaybackSettings.qml:396
+msgctxt "@title"
+msgid "Youtube-dl"
+msgstr "Youtube-dl"
+
+#: src/qml/Settings/PlaybackSettings.qml:402
+msgid "Format selection"
+msgstr "Chọn định dạng"
+
+#: src/qml/Settings/PlaybackSettings.qml:460
+msgctxt "@info:tooltip format selection setting"
+msgid "Selects a video source that is closest to the selected format."
+msgstr "Chọn một nguồn video gần nhất với định dạng đã chọn."
+
+#: src/qml/Settings/PlaybackSettings.qml:470
+msgctxt "placeholder text"
+msgid "bestvideo+bestaudio/best"
+msgstr "bestvideo+bestaudio/best"
+
+#: src/qml/Settings/PlaylistSettings.qml:24
+msgctxt "@label:listbox"
+msgid "Position"
+msgstr "Vị trí"
+
+#: src/qml/Settings/PlaylistSettings.qml:49
+msgctxt "@label:listbox"
+msgid "Playlist style"
+msgstr "Kiểu cách playlist"
+
+#: src/qml/Settings/PlaylistSettings.qml:87
+msgctxt "@option:check"
+msgid "Overlay video"
+msgstr "Phủ lên phim"
+
+#: src/qml/Settings/PlaylistSettings.qml:94
+msgctxt "@info:tooltip"
+msgid ""
+"When checked the playlist goes on top of the video\n"
+"When unchecked the video is resized"
+msgstr ""
+"Khi được chọn, danh sách phát sẽ hiển thị ở trên video\nKhi không được "
+"chọn, video sẽ được co lại"
+
+#: src/qml/Settings/PlaylistSettings.qml:101
+msgctxt "@option:check"
+msgid "Show media title instead of file name"
+msgstr "Hiển thị tiêu đề phương tiện thay vì tên tệp"
+
+#: src/qml/Settings/PlaylistSettings.qml:111
+msgctxt "@option:check"
+msgid "Auto load videos from same folder"
+msgstr "Tự động tải phim, hình, phần hình từ cùng thư mục"
+
+#: src/qml/Settings/PlaylistSettings.qml:121
+msgctxt "@option:check"
+msgid "Repeat"
+msgstr "Lặp lại"
+
+#: src/qml/Settings/PlaylistSettings.qml:131
+msgctxt "@option:check"
+msgid "Show row number"
+msgstr "Hiển thị số thứ tự hàng"
+
+#: src/qml/Settings/PlaylistSettings.qml:141
+msgctxt "@option:check"
+msgid "Toggle with mouse"
+msgstr "Bật/tắt bằng chuột"
+
+#: src/qml/Settings/PlaylistSettings.qml:150
+msgctxt "@option:check"
+msgid "Increase font size when fullscreen"
+msgstr "Tăng kích thước phông chữ khi toàn màn hình"
+
+#: src/qml/Settings/PlaylistSettings.qml:163
+msgctxt "@option:check"
+msgid "Remember last playlist state"
+msgstr "Nhớ trạng thái playlist cuối cùng"
+
+#: src/qml/Settings/PlaylistSettings.qml:170
+msgctxt "@info:tooltip"
+msgid ""
+"When checked the playlist state (visible/hidden) is remembered across "
+"launches"
+msgstr ""
+"Khi được chọn, trạng thái của danh sách phát (hiển thị/ẩn) sẽ được ghi nhớ "
+"qua các lần khởi động"
+
+#: src/qml/Settings/PlaylistSettings.qml:178
+msgctxt "@option:check"
+msgid "Open items with single click"
+msgstr "Mở các mục bằng một lần bấm"
+
+#: src/qml/Settings/SettingsWindow.qml:36
+msgctxt "@title:window"
+msgid "Settings"
+msgstr "thiết lập"
+
+#: src/qml/Settings/SettingsWindow.qml:55
+msgctxt "@action"
+msgid "General"
+msgstr "chung"
+
+#: src/qml/Settings/SettingsWindow.qml:63
+msgctxt "@action"
+msgid "Playback"
+msgstr "Phát lại"
+
+#: src/qml/Settings/SettingsWindow.qml:71
+msgctxt "@action"
+msgid "Video"
+msgstr "phim"
+
+#: src/qml/Settings/SettingsWindow.qml:79
+msgctxt "@action"
+msgid "Audio"
+msgstr "Âm thanh"
+
+#: src/qml/Settings/SettingsWindow.qml:87
+msgctxt "@action"
+msgid "Subtitles"
+msgstr "Phụ đề"
+
+#: src/qml/Settings/SettingsWindow.qml:103
+msgctxt "@action"
+msgid "Mouse"
+msgstr "Chuột"
+
+#: src/qml/Settings/SettingsWindow.qml:111
+msgctxt "@action"
+msgid "Shortcuts"
+msgstr "Phím tắt"
+
+#: src/qml/Settings/SettingsWindow.qml:119
+msgctxt "@action"
+msgid "Custom commands"
+msgstr "Lệnh tùy chỉnh"
+
+#: src/qml/Settings/SettingsWindow.qml:127
+msgctxt "@action"
+msgid "Debug"
+msgstr "Gỡ lỗi"
+
+#: src/qml/Settings/SettingsWindow.qml:135
+msgctxt "@action"
+msgid "About"
+msgstr "Thông tin"
+
+#: src/qml/Settings/SubtitlesSettings.qml:82
+msgctxt "@option:check"
+msgid "Allow subtitles in black borders"
+msgstr "Cho phép phụ đề trong viền đen"
+
+#: src/qml/Settings/SubtitlesSettings.qml:91
+msgctxt "@info:tooltip"
+msgid ""
+"When checked the subtitles can be rendered outside the video, in the black "
+"borders. Might not work for all .ass subtitles."
+msgstr ""
+"Khi được chọn, phụ đề có thể được hiển thị bên ngoài video, trong các viền "
+"đen. Có thể không hoạt động với tất cả các phụ đề .ass."
+
+#: src/qml/Settings/SubtitlesSettings.qml:96
+msgctxt "@title"
+msgid "Styling"
+msgstr "Kiểu dáng"
+
+#: src/qml/Settings/SubtitlesSettings.qml:102
+msgctxt "@label:listbox"
+msgid "Font family"
+msgstr "Họ phông"
+
+#: src/qml/Settings/SubtitlesSettings.qml:134
+msgctxt "@label:spinbox"
+msgid "Font size"
+msgstr "Cỡ phông chữ"
+
+#: src/qml/Settings/SubtitlesSettings.qml:150
+msgctxt "@label"
+msgid "Font style"
+msgstr "Kiểu phông chữ"
+
+#: src/qml/Settings/SubtitlesSettings.qml:155
+msgctxt "@option:check"
+msgid "Bold"
+msgstr "Đậm"
+
+#: src/qml/Settings/SubtitlesSettings.qml:167
+msgctxt "@option:check"
+msgid "Italic"
+msgstr "Nghiêng"
+
+#: src/qml/Settings/SubtitlesSettings.qml:177
+msgctxt "@label:textbox"
+msgid "Font color"
+msgstr "Màu phông chữ"
+
+#: src/qml/Settings/SubtitlesSettings.qml:228
+#: src/qml/Settings/SubtitlesSettings.qml:284
+#: src/qml/Settings/SubtitlesSettings.qml:361
+msgctxt "@info:tooltip"
+msgid "Set default value"
+msgstr "Đặt giá trị mặc định"
+
+#: src/qml/Settings/SubtitlesSettings.qml:234
+msgctxt "@label:textbox"
+msgid "Shadow color"
+msgstr "Màu bóng"
+
+#: src/qml/Settings/SubtitlesSettings.qml:290
+msgctxt "@label:spinbox"
+msgid "Shadow offset"
+msgstr "Độ lệch bóng"
+
+#: src/qml/Settings/SubtitlesSettings.qml:306
+#: src/qml/Settings/SubtitlesSettings.qml:383
+msgctxt "@info:tooltip"
+msgid "Set to 0 (zero) to disable."
+msgstr "Đặt thành 0 (không) để tắt."
+
+#: src/qml/Settings/SubtitlesSettings.qml:311
+msgctxt "@label:textbox"
+msgid "Border color"
+msgstr "Màu viền"
+
+#: src/qml/Settings/SubtitlesSettings.qml:367
+msgctxt "@label:spinbox"
+msgid "Border width"
+msgstr "Độ rộng viền"
+
+#: src/qml/Settings/VideoSettings.qml:27
+msgctxt "@label:listbox"
+msgid "Default cover"
+msgstr "Bìa mặc định"
+
+#: src/qml/Settings/VideoSettings.qml:36
+msgctxt "placeholder text"
+msgid "path to image"
+msgstr "đường dẫn đến ảnh"
+
+#: src/qml/Settings/VideoSettings.qml:48
+msgctxt "@info:tooltip"
+msgid ""
+"Used for music files that don't have a video track, an embedded cover image "
+"or a cover/folder image in the same folder as the played file."
+msgstr ""
+"Được sử dụng cho các tệp nhạc không có phần hình, ảnh bìa nhúng hoặc ảnh "
+"bìa/thư mục trong cùng thư mục với tệp đang phát."
+
+#: src/qml/Settings/VideoSettings.qml:79
+msgctxt "@title"
+msgid "Screenshots"
+msgstr "Ảnh chụp màn hình"
+
+#: src/qml/Settings/VideoSettings.qml:89
+msgctxt "@label:listbox"
+msgid "Format"
+msgstr "định dạng"
+
+#: src/qml/Settings/VideoSettings.qml:129
+msgctxt "@label:textbox"
+msgid "Template"
+msgstr "Bản mẫu"
+
+#: src/qml/Settings/VideoSettings.qml:159
+msgctxt "@info:tooltip"
+msgid ""
+"Specify the filename template used to save screenshots. The template "
+"specifies the filename without file extension, and can contain format "
+"specifiers, which will be substituted when taking a screenshot. By default, "
+"the template is \"%F-%n\". <br>The template can start with a relative or "
+"absolute path, in order to specify a directory location where screenshots "
+"should be saved.<br>If the final screenshot filename points to an already "
+"existing file, the file will not be overwritten. The screenshot will either "
+"not be saved, or if the template contains %n, saved using different, newly "
+"generated filename.<br>For full info checkout <a href='https://mpv.io/manual/"
+"stable/#options-screenshot-template'>https://mpv.io/manual/stable/#options-"
+"screenshot-template</a><br><br><strong>Allowed format specifiers:</"
+"strong><br><ul><li><strong>%[#][0X]n</strong> A sequence number, padded with "
+"zeros to length X.<br><li><strong>%f</strong> Filename of the currently "
+"played video.<br><li><strong>%F</strong> Same as %f, but without the file "
+"extension.<br><li><strong>%x</strong> Directory path of the currently played "
+"video. If the video is not on the filesystem (http:// urls), this expands to "
+"an empty string.<br><li><strong>%X{fallback}</strong> Same as %x, but if the "
+"video file is not on the filesystem, return the fallback string inside the "
+"{...}.<br><li><strong>%p</strong> Current playback time. The result is a "
+"string of the form \"HH:MM:SS\".<br><li><strong>%P</strong> Similar to %p, "
+"but extended with the playback time in milliseconds \"HH:MM:SS.mmm\"."
+"<br><li><strong>%wX</strong> Specify the current playback time using the "
+"format string X.<br>Valid format specifiers:<br><ul><li><strong>%wH</strong> "
+"hour (padded with 0 to two digits)</li><li><strong>%wh</strong> hour (not "
+"padded)</li><li><strong>%wM</strong> minutes (00-59)</li><li><strong>%wm</"
+"strong> total minutes (includes hours, unlike %wM)</li><li><strong>%wS</"
+"strong> seconds (00-59)</li><li><strong>%ws</strong> total seconds (includes "
+"hours and minutes)</li><li><strong>%wf</strong> like %ws, but as float</"
+"li><li><strong>%wT</strong> milliseconds (000-999)</li><li><strong>%%</"
+"strong> Replaced with the % character itself.</li></ul><br>"
+msgstr ""
+"Chỉ định bản mẫu tên tệp được sử dụng để lưu ảnh chụp màn hình. Bản mẫu chỉ "
+"định tên tệp không có phần mở rộng, và có thể chứa các đặc tả định dạng, sẽ "
+"được thay thế khi chụp màn hình. Mặc định, bản mẫu là \"%F-%n\". <br>Bản "
+"mẫu có thể bắt đầu bằng đường dẫn tương đối hoặc tuyệt đối, để chỉ định vị "
+"trí thư mục nơi ảnh chụp màn hình sẽ được lưu.<br>Nếu tên tệp ảnh chụp màn "
+"hình cuối cùng trỏ đến một tệp đã tồn tại, tệp sẽ không bị ghi đè. Ảnh chụp "
+"màn hình sẽ không được lưu, hoặc nếu bản mẫu chứa %n, được lưu bằng tên tệp "
+"mới được tạo khác.<br>Để biết thông tin đầy đủ, hãy lấy ra <a "
+"href='https://mpv.io/manual/stable/#options-screenshot-template'>https://mpv.io/manual/stable/#options-screenshot-template</a><br><br><strong>Các "
+"đặc tả định dạng được cho "
+"phép:</strong><br><ul><li><strong>%[#][0X]n</strong> Một số thứ tự, được "
+"đệm bằng số 0 đến độ dài X.<br><li><strong>%f</strong> Tên tệp của phim "
+"đang phát hiện tại.<br><li><strong>%F</strong> Giống như %f, nhưng không có "
+"phần mở rộng tệp.<br><li><strong>%x</strong> Đường dẫn thư mục của phim "
+"đang phát hiện tại. Nếu phim không nằm trên hệ thống tệp (url http://), "
+"điều này mở rộng thành một chuỗi rỗng.<br><li><strong>%X{fallback}</strong> "
+"Giống như %x, nhưng nếu tệp phim không nằm trên hệ thống tệp, trả về chuỗi "
+"thoái lui bên trong {...}.<br><li><strong>%p</strong> Thời gian phát hiện "
+"tại. Kết quả là một chuỗi có dạng \"HH:MM:SS\".<br><li><strong>%P</strong> "
+"Tương tự như %p, nhưng mở rộng với thời gian phát tính bằng mili giây "
+"\"HH:MM:SS.mmm\".<br><li><strong>%wX</strong> Chỉ định thời gian phát hiện "
+"tại bằng chuỗi định dạng X.<br>Các đặc tả định dạng hợp "
+"lệ:<br><ul><li><strong>%wH</strong> giờ (đệm bằng 0 thành hai chữ "
+"số)</li><li><strong>%wh</strong> giờ (không "
+"đệm)</li><li><strong>%wM</strong> phút (00-59)</li><li><strong>%wm</strong> "
+"tổng số phút (bao gồm giờ, không giống %wM)</li><li><strong>%wS</strong> "
+"giây (00-59)</li><li><strong>%ws</strong> tổng số giây (bao gồm giờ và "
+"phút)</li><li><strong>%wf</strong> giống như %ws, nhưng dưới dạng số thập "
+"phân</l"
+
+#: src/qml/Settings/VideoSettings.qml:194
+msgctxt "@title"
+msgid "Image adjustments"
+msgstr "Điều chỉnh ảnh"
+
+#: src/qml/Settings/VideoSettings.qml:204
+msgctxt "@label:slider"
+msgid "Contrast"
+msgstr "Độ tương phản"
+
+#: src/qml/Settings/VideoSettings.qml:223
+msgctxt "@label:slider"
+msgid "Brightness"
+msgstr "Độ sáng"
+
+#: src/qml/Settings/VideoSettings.qml:242
+msgctxt "@label:slider"
+msgid "Gamma"
+msgstr "Gamma"
+
+#: src/qml/Settings/VideoSettings.qml:261
+msgctxt "@label:slider"
+msgid "Saturation"
+msgstr "Độ bão hòa"
+
+#: src/qml/Settings/VideoSettings.qml:277
+msgctxt "@info"
+msgid "Middle click on the sliders to reset them"
+msgstr "Bấm chuột giữa vào các thanh trượt để đặt lại chúng"

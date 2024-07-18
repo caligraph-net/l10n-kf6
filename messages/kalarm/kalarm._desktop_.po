@@ -20,13 +20,13 @@ msgid "KAlarm"
 msgstr "KAlarm"
 
 #: src/data/kalarm.autostart.desktop:78
-#, fuzzy
+#, 
 msgctxt "Comment"
 msgid "KAlarm autostart at login"
-msgstr "KOrganizer/KAlarm alarm daemon tự động chạy khi đăng nhập"
+msgstr "KAlarm tự động khởi động khi đăng nhập"
 
 #: src/data/kalarm.notifyrc:4
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "KAlarm"
 msgctxt "Comment"
@@ -34,40 +34,40 @@ msgid "KAlarm"
 msgstr "KAlarm"
 
 #: src/data/kalarm.notifyrc:42
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Alarm message"
-msgstr "KAlarm"
+msgstr "thông điệp"
 
 #: src/data/kalarm.notifyrc:81
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Alarm message with beep"
-msgstr "KAlarm"
+msgstr "Thông điệp báo thức với tiếng bíp"
 
 #: src/data/kalarm.notifyrc:121
-#, fuzzy
+#, 
 msgctxt "Name"
 msgid "Spoken alarm message"
-msgstr "KAlarm"
+msgstr "Thông điệp báo động bằng lời nói"
 
 #: src/data/kalarm.notifyrc:161
 msgctxt "Name"
 msgid "Alarm error message"
-msgstr ""
+msgstr "Thông điệp lỗi báo động"
 
 #: src/data/org.kde.kalarm.desktop:77
-#, fuzzy
+#, 
 msgctxt "GenericName"
 msgid "Personal Alarm Scheduler"
-msgstr "Lịch cá nhân "
+msgstr "Lịch cá nhân"
 
 #: src/data/org.kde.kalarm.rtcwake.actions:76
 msgctxt "Name"
 msgid "Set RTC wakeup time"
-msgstr ""
+msgstr "Đặt thời gian đánh thức RTC"
 
 #: src/data/org.kde.kalarm.rtcwake.actions:126
 msgctxt "Description"
 msgid "Set RTC wake-from-suspend time"
-msgstr ""
+msgstr "Đặt thời gian đánh thức từ chế độ ngủ của RTC"

@@ -19,117 +19,117 @@ msgstr ""
 "X-Generator: LocFactoryEditor 1.6.4a6\n"
 
 #: krfb/krfb.notifyrc:3 krfb/org.kde.krfb.desktop:118
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Desktop Sharing"
 msgctxt "Comment"
 msgid "Desktop Sharing"
-msgstr "Chia sẻ màn hình nền"
+msgstr "Chia sẻ màn hình"
 
 #: krfb/krfb.notifyrc:77
-#, fuzzy
+#, 
 #| msgctxt "GenericName"
 #| msgid "Remote Desktop Connection"
 msgctxt "Name"
 msgid "User Accepts Connection"
-msgstr "Kết nối màn hình nền từ xa"
+msgstr "Người dùng chấp nhận kết nối"
 
 #: krfb/krfb.notifyrc:139
 msgctxt "Comment"
 msgid "User accepts connection"
-msgstr ""
+msgstr "Người dùng chấp nhận kết nối"
 
 #: krfb/krfb.notifyrc:213
-#, fuzzy
+#, 
 #| msgctxt "GenericName"
 #| msgid "Remote Desktop Connection"
 msgctxt "Name"
 msgid "User Refuses Connection"
-msgstr "Kết nối màn hình nền từ xa"
+msgstr "Người dùng từ chối kết nối"
 
 #: krfb/krfb.notifyrc:275
 msgctxt "Comment"
 msgid "User refuses connection"
-msgstr ""
+msgstr "Người dùng từ chối kết nối"
 
 #: krfb/krfb.notifyrc:349
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Connection Status"
 msgctxt "Name"
 msgid "Connection Closed"
-msgstr "Trạng thái kết nối"
+msgstr "Kết nối đã đóng"
 
 #: krfb/krfb.notifyrc:413
-#, fuzzy
+#, 
 #| msgctxt "Name"
 #| msgid "Connection Status"
 msgctxt "Comment"
 msgid "Connection closed"
-msgstr "Trạng thái kết nối"
+msgstr "Kết nối đã đóng"
 
 #: krfb/krfb.notifyrc:491
 msgctxt "Name"
 msgid "Invalid Password"
-msgstr ""
+msgstr "Mật khẩu không hợp lệ"
 
 #: krfb/krfb.notifyrc:555
 msgctxt "Comment"
 msgid "Invalid password"
-msgstr ""
+msgstr "Mật khẩu không hợp lệ"
 
 #: krfb/krfb.notifyrc:636
 msgctxt "Name"
 msgid "Invalid Password Invitations"
-msgstr ""
+msgstr "Lời mời Mật khẩu không hợp lệ"
 
 #: krfb/krfb.notifyrc:698
 msgctxt "Comment"
 msgid "The invited party sent an invalid password. Connection refused."
-msgstr ""
+msgstr "Bên được mời đã gửi một mật khẩu không hợp lệ. Kết nối bị từ chối."
 
 #: krfb/krfb.notifyrc:770
 msgctxt "Name"
 msgid "New Connection on Hold"
-msgstr ""
+msgstr "Kết nối mới đang chờ"
 
 #: krfb/krfb.notifyrc:831
 msgctxt "Comment"
 msgid "Connection requested, user must accept"
-msgstr ""
+msgstr "Đã yêu cầu kết nối, người dùng phải chấp nhận"
 
 #: krfb/krfb.notifyrc:904
 msgctxt "Name"
 msgid "New Connection Auto Accepted"
-msgstr ""
+msgstr "Kết nối mới được chấp nhận tự động"
 
 #: krfb/krfb.notifyrc:965
 msgctxt "Comment"
 msgid "New connection automatically established"
-msgstr ""
+msgstr "Kết nối mới được thiết lập tự động"
 
 #: krfb/krfb.notifyrc:1038
 msgctxt "Name"
 msgid "Too Many Connections"
-msgstr ""
+msgstr "Quá Nhiều Kết Nối"
 
 #: krfb/krfb.notifyrc:1099
 msgctxt "Comment"
 msgid "Busy, connection refused"
-msgstr ""
+msgstr "Bận, kết nối bị từ chối"
 
 #: krfb/krfb.notifyrc:1175
-#, fuzzy
+#, 
 #| msgctxt "GenericName"
 #| msgid "Remote Desktop Connection"
 msgctxt "Name"
 msgid "Unexpected Connection"
-msgstr "Kết nối màn hình nền từ xa"
+msgstr "Kết nối bất ngờ"
 
 #: krfb/krfb.notifyrc:1237
 msgctxt "Comment"
 msgid "Received unexpected connection, abort"
-msgstr ""
+msgstr "Nhận được kết nối bất ngờ, huỷ bỏ"
 
 #: krfb/org.kde.krfb.desktop:9
 msgctxt "Name"
@@ -137,22 +137,22 @@ msgid "Krfb"
 msgstr "Krfb"
 
 #: krfb/org.kde.krfb.desktop:79
-#, fuzzy
+#, 
 #| msgctxt "GenericName"
 #| msgid "Desktop Sharing"
 msgctxt "GenericName"
 msgid "Desktop Sharing (VNC)"
-msgstr "Chia sẻ màn hình nền"
+msgstr "Chia sẻ Desktop (VNC)"
 
 #: krfb/org.kde.krfb.virtualmonitor.desktop.cmake:7
 msgctxt "Name"
 msgid "KRFBs Virtual Monitor"
-msgstr ""
+msgstr "Màn hình ảo của KRFBs"
 
 #: krfb/org.kde.krfb.virtualmonitor.desktop.cmake:43
 msgctxt "Comment"
 msgid "Remote Virtual Monitor"
-msgstr ""
+msgstr "Màn hình ảo từ xa"
 
 #, fuzzy
 #~| msgctxt "Comment"

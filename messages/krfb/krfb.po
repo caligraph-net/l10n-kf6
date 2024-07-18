@@ -44,10 +44,10 @@ msgid "Refuse Connection"
 msgstr "Từ chối kết nối"
 
 #: invitationsrfbclient.cpp:69
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Accepted uninvited connection from %1"
 msgid "Accepted connection from %1"
-msgstr "Chấp nhận kết nối không giấy mời từ %1"
+msgstr "Đã chấp nhận kết nối từ %1"
 
 #: invitationsrfbclient.cpp:75
 #, kde-format
@@ -63,7 +63,7 @@ msgstr "%1@%2 (màn hình đã chia sẻ)"
 #: krfb.kcfg:9
 #, kde-format
 msgid "Start minimized"
-msgstr ""
+msgstr "Khởi động thu nhỏ"
 
 #. i18n: ectx: label, entry (useDefaultPort), group (TCP)
 #: krfb.kcfg:15
@@ -73,10 +73,10 @@ msgstr "Dùng cổng mặc định cho VNC (5900)"
 
 #. i18n: ectx: label, entry (port), group (TCP)
 #: krfb.kcfg:19
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "This is the port on wich krfb will listen."
 msgid "This is the port on which krfb will listen."
-msgstr "Đây là cổng trên đó krfb sẽ lắng nghe."
+msgstr "Đây là cổng mà krfb sẽ lắng nghe."
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_publishService)
 #. i18n: ectx: label, entry (publishService), group (TCP)
@@ -89,7 +89,7 @@ msgstr "Thông báo dịch vụ trên máy cục bộ"
 #: krfb.kcfg:29
 #, kde-format
 msgid "Do not store passwords in KWallet"
-msgstr ""
+msgstr "Không lưu mật khẩu trong KWallet"
 
 #. i18n: ectx: label, entry (allowDesktopControl), group (Security)
 #: krfb.kcfg:33
@@ -114,25 +114,25 @@ msgstr "Mật khẩu cho kết nối không giấy mời."
 #: krfb.kcfg:49
 #, kde-format
 msgid "Preferred Frame Buffer Plugin"
-msgstr ""
+msgstr "Phần cài cắm Bộ nhớ đệm ưa thích"
 
 #: main-virtualmonitor.cpp:49
 #, kde-format
 msgid "Creating a Virtual Monitor from %1"
-msgstr ""
+msgstr "Tạo một Màn hình Ảo từ %1"
 
 #: main-virtualmonitor.cpp:80
 #, kde-format
 msgid "Remote Virtual Monitor"
-msgstr ""
+msgstr "Màn hình ảo từ xa"
 
 #: main-virtualmonitor.cpp:82
 #, kde-format
 msgid "Offer a Virtual Monitor that can be accessed remotely"
-msgstr ""
+msgstr "Cung cấp một Màn hình Ảo có thể được truy cập từ xa"
 
 #: main-virtualmonitor.cpp:84 main.cpp:98
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "(c) 2007, Alessandro Praduroux\n"
 #| "(c) 2001-2003, Tim Jansen\n"
@@ -150,23 +150,19 @@ msgid ""
 "(c) 2000, Tridia Corporation\n"
 "(c) 1999, AT&T Laboratories Boston\n"
 msgstr ""
-"© năm 2007 của Alessandro Praduroux\n"
-"© năm 2001-2003 của Tim Jansen\n"
-"© năm 2001 của Johannes E. Schindelin\n"
-"© năm 2000 của heXoNet Support GmbH, D-66424 Homburg\n"
-"© năm 2000-2001 của Const Kaplinsky\n"
-"© năm 2000 của Tridia Corporation\n"
-"© năm 1999 của AT&T Laboratories Cambridge\n"
+"© 2009-2010, Collabora Ltd.\n© 2007, Alessandro Praduroux\n© 2001-2003, "
+"&Tim Jansen\n© 2001, Johannes E. Schindelin\n© 2000-2001, Const "
+"Kaplinsky\n© 2000, Tridia Corporation\n© 1999, ATT Laboratories Boston\n"
 
 #: main-virtualmonitor.cpp:91
 #, kde-format
 msgid "Virtual Monitor implementation"
-msgstr ""
+msgstr "Triển khai Màn hình Ảo"
 
 #: main-virtualmonitor.cpp:92 main.cpp:108
 #, kde-format
 msgid "George Kiagiadakis"
-msgstr ""
+msgstr "George Kiagiadakis"
 
 #: main-virtualmonitor.cpp:93 main.cpp:111
 #, kde-format
@@ -186,7 +182,7 @@ msgstr "Tim Jansen"
 #: main-virtualmonitor.cpp:94 main.cpp:112
 #, kde-format
 msgid "Original author"
-msgstr ""
+msgstr "Tác giả gốc"
 
 #: main-virtualmonitor.cpp:95 main.cpp:113
 #, kde-format
@@ -219,10 +215,10 @@ msgid "ZLib encoder"
 msgstr "Bộ mã hoá ZLib"
 
 #: main-virtualmonitor.cpp:101 main.cpp:119
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "AT&T Laboratories Cambridge"
 msgid "AT&T Laboratories Boston"
-msgstr "AT&T Laboratories Cambridge"
+msgstr "A&TT Laboratories Boston"
 
 #: main-virtualmonitor.cpp:102 main.cpp:120
 #, kde-format
@@ -232,54 +228,54 @@ msgstr "Thiết kết bộ tạo mã và giao thức VNC gốc"
 #: main-virtualmonitor.cpp:108
 #, kde-format
 msgid "Logical resolution of the new monitor"
-msgstr ""
+msgstr "Phân giải luận lí của màn hình mới"
 
 #: main-virtualmonitor.cpp:108
 #, kde-format
 msgid "resolution"
-msgstr ""
+msgstr "phân giải"
 
 #: main-virtualmonitor.cpp:110
 #, kde-format
 msgid "Name of the monitor"
-msgstr ""
+msgstr "Tên của màn hình"
 
 #: main-virtualmonitor.cpp:110
 #, kde-format
 msgid "name"
-msgstr ""
+msgstr "tên"
 
 #: main-virtualmonitor.cpp:112
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Password for uninvited connections."
 msgid "Password for the client to connect to it"
-msgstr "Mật khẩu cho kết nối không giấy mời."
+msgstr "Mật khẩu để trình khách kết nối với nó"
 
 #: main-virtualmonitor.cpp:112
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "<b>Password:</b>"
 msgid "password"
-msgstr "<b>Mật khẩu :</b>"
+msgstr "mật khẩu"
 
 #: main-virtualmonitor.cpp:114
 #, kde-format
 msgid "The device-pixel-ratio of the device, the scaling factor"
-msgstr ""
+msgstr "Tỉ lệ điểm ảnh của thiết bị, yếu tố cỡ nhỏ"
 
 #: main-virtualmonitor.cpp:114
 #, kde-format
 msgid "dpr"
-msgstr ""
+msgstr "dpr"
 
 #: main-virtualmonitor.cpp:116
 #, kde-format
 msgid "The port we will be listening to"
-msgstr ""
+msgstr "Cổng mà chúng tôi sẽ lắng nghe"
 
 #: main-virtualmonitor.cpp:116
 #, kde-format
 msgid "number"
-msgstr ""
+msgstr "số"
 
 #: main.cpp:49
 #, kde-format
@@ -301,25 +297,25 @@ msgid "Desktop Sharing"
 msgstr "Chia sẻ màn hình"
 
 #: main.cpp:96
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "VNC-compatible server to share KDE desktops"
 msgid "VNC-compatible server to share desktops"
-msgstr "Máy chủ tương hợp với VNC để chia sẻ màn hình KDE"
+msgstr "Máy chủ tương hợp với VNC để chia sẻ màn hình"
 
 #: main.cpp:105
 #, kde-format
 msgid "George Goldberg"
-msgstr ""
+msgstr "George Goldberg"
 
 #: main.cpp:106
 #, kde-format
 msgid "Telepathy tubes support"
-msgstr ""
+msgstr "Hỗ trợ ống Telepathy"
 
 #: main.cpp:126
 #, kde-format
 msgid "Do not show the invitations management dialog at startup"
-msgstr ""
+msgstr "Không hiển thị hộp thoại quản lý lời mời khi khởi động"
 
 #: main.cpp:148
 #, kde-format
@@ -327,16 +323,18 @@ msgid ""
 "Desktop Sharing is not running under an X11 Server or Wayland.\n"
 "Other display servers are currently not supported."
 msgstr ""
+"Chia sẻ màn hình không chạy dưới máy chủ X11 hoặc Wayland.\nCác máy chủ "
+"hiển thị khác hiện không được hỗ trợ."
 
 #: mainwindow.cpp:52
 #, kde-format
 msgid "Storing passwords in config file is insecure!"
-msgstr ""
+msgstr "Lưu mật khẩu trong tệp cấu hình không an toàn!"
 
 #: mainwindow.cpp:189
 #, kde-format
 msgid "Enter a new password for Unattended Access"
-msgstr ""
+msgstr "Nhập mật khẩu mới cho Truy cập không giám sát"
 
 #: mainwindow.cpp:200
 #, kde-format
@@ -344,19 +342,21 @@ msgid ""
 "Failed to start the krfb server. Desktop sharing will not work. Try setting "
 "another port in the settings and restart krfb."
 msgstr ""
+"Không thể khởi động máy chủ krfb. Chia sẻ màn hình sẽ không hoạt động. Hãy "
+"thử thiết lập một cổng khác trong các thiết lập và khởi động lại krfb."
 
 #. i18n: ectx: property (whatsThis), widget (QLabel, titleLabel)
 #. i18n: ectx: property (text), widget (QLabel, titleLabel)
 #. i18n: ectx: property (whatsThis), widget (QLabel, aboutLabel)
 #: mainwindow.cpp:223 mainwindow.cpp:230 ui/mainwidget.ui:83
 #: ui/mainwidget.ui:86 ui/mainwidget.ui:114
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Desktop Sharing"
 msgid "KDE Desktop Sharing"
-msgstr "Chia sẻ màn hình"
+msgstr "Chia sẻ màn hình KDE"
 
 #: mainwindow.cpp:224
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "This field contains the address of your computer and the display number, "
 #| "separated by a colon.\n"
@@ -380,13 +380,12 @@ msgid ""
 "If your computer is behind a firewall it may have a different address or be "
 "unreachable for other computers."
 msgstr ""
-"Trường này chứa địa chỉ của máy tính bạn và số trình bày, định giới bằng dấu "
-"hai chấm.\n"
-"Địa chỉ chỉ góp ý: bạn có thể sử dụng bất cứ địa chỉ nào có khả năng tới máy "
-"tính của bạn.\n"
-"Tính năng Chia sẻ Màn hình thử đoán địa chỉ của bạn từ cấu hình mạng, nhưng "
-"không phải luôn luôn đoán đúng. Nếu máy tính của bạn nằm ở sau bức tường "
-"lửa, nó có thể ở địa chỉ khác hay không cho phép máy tính khác tới nó."
+"Trường này chứa địa chỉ của máy tính bạn và số cổng, được định giới bằng "
+"dấu hai chấm.\n\nĐịa chỉ chỉ là gợi ý - bạn có thể sử dụng bất kỳ địa chỉ "
+"nào có thể truy cập được vào máy tính của bạn.\n\nTính năng Chia sẻ Màn "
+"hình cố gắng đoán địa chỉ của bạn từ cấu hình mạng, nhưng không phải lúc "
+"nào cũng thành công.\n\nNếu máy tính của bạn ở sau tường lửa, nó có thể có "
+"địa chỉ khác hoặc không thể truy cập được từ các máy tính khác."
 
 #: mainwindow.cpp:231
 #, kde-format
@@ -398,6 +397,10 @@ msgid ""
 "password, desktop sharing access will be granted without explicit "
 "confirmation."
 msgstr ""
+"Bất kỳ người dùng từ xa nào với mật khẩu chia sẻ màn hình máy tính thông "
+"thường sẽ phải được xác thực.\n\nNếu truy cập không người giám sát được "
+"bật, và người dùng từ xa cung cấp mật khẩu chế độ không người giám sát, "
+"quyền truy cập chia sẻ màn hình sẽ được cấp mà không cần xác nhận rõ ràng."
 
 #: mainwindow.cpp:249
 #, kde-format
@@ -412,29 +415,31 @@ msgstr "Bảo mật"
 #: mainwindow.cpp:251
 #, kde-format
 msgid "Screen capture"
-msgstr ""
+msgstr "Thu thập màn hình"
 
 #: mainwindow.cpp:256
 #, kde-format
 msgid "To apply framebuffer plugin setting, you need to restart the program."
 msgstr ""
+"Để áp dụng cài đặt phần cài cắm khung đệm, bạn cần khởi động lại chương "
+"trình."
 
 #: rfbservermanager.cpp:237
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "The remote user has closed the connection."
 msgid "The remote user %1 is now connected."
-msgstr "Người dùng từ xa đã ngừng kết nối"
+msgstr "Người dùng từ xa %1 đã kết nối."
 
 #: rfbservermanager.cpp:251
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "The remote user has closed the connection."
 msgid "The remote user %1 disconnected."
-msgstr "Người dùng từ xa đã ngừng kết nối"
+msgstr "Người dùng từ xa %1 đã ngắt kết nối."
 
 #: trayicon.cpp:56
 #, kde-format
 msgid "Disconnect"
-msgstr ""
+msgstr "Ngắt kết nối"
 
 #: trayicon.cpp:62
 #, kde-format
@@ -452,22 +457,22 @@ msgid "Desktop Sharing - connected with %1"
 msgstr "Chia sẻ màn hình - đã kết nối với %1"
 
 #: trayicon.cpp:120
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Desktop Sharing - disconnected"
 msgid "Desktop Sharing - connected"
-msgstr "Chia sẻ màn hình - đã ngừng kết nối"
+msgstr "Chia sẻ màn hình - đã kết nối"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, Framebuffer)
 #: ui/configframebuffer.ui:14
 #, kde-format
 msgid "Framebuffer"
-msgstr ""
+msgstr "Khung đệm"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: ui/configframebuffer.ui:22
 #, kde-format
 msgid "Preferred frameb&uffer plugin:"
-msgstr ""
+msgstr "Trình cắm kh&ung đệm ưa thích:"
 
 #. i18n: ectx: property (text), widget (QLabel, helpText)
 #: ui/configframebuffer.ui:47
@@ -478,6 +483,11 @@ msgid ""
 "style=\" font-weight:600;\">qt</span> plugin is a safe fallback, if for some "
 "reason others don't work. But also it is very slow.</p></body></html>"
 msgstr ""
+"<html><head/><body><p>Khi sử dụng x11, nên ưu tiên phần cài cắm <span "
+"style=\" font-weight:600;\">xcb</span> vì nó hiệu quả hơn.<br/>Phần cài cắm "
+"<span style=\" font-weight:600;\">qt</span> là một lựa chọn dự phòng an "
+"toàn nếu vì lý do nào đó các phần cài cắm khác không hoạt động. Tuy nhiên, "
+"nó cũng rất chậm.</p></body></html>"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_allowDesktopControl)
 #: ui/configsecurity.ui:17
@@ -489,7 +499,7 @@ msgstr "Cho phép người dùng ở xa điều khiển bàn phím và chuột"
 #: ui/configsecurity.ui:27
 #, kde-format
 msgid "Do not store passwords using KDE wallet"
-msgstr ""
+msgstr "Không lưu mật khẩu bằng ví KDE"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_useDefaultPort)
 #: ui/configtcp.ui:26
@@ -499,7 +509,7 @@ msgstr "Dùng cổng mặc định"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: ui/configtcp.ui:50
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Listening Port:"
 msgid "Listening port:"
 msgstr "Cổng lắng nghe:"
@@ -559,46 +569,48 @@ msgid ""
 "KDE Desktop Sharing allows you to grant permission to someone at a remote "
 "location for viewing and possibly controlling your desktop."
 msgstr ""
+"Chia sẻ màn hình KDE cho phép bạn cấp quyền cho ai đó ở một địa điểm từ xa "
+"để xem và có thể điều khiển màn hình máy tính của bạn."
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, enableSharingCheckBox)
 #: ui/mainwidget.ui:145
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Manage Invitations - Desktop Sharing"
 msgid "Starts/Stops Remote Desktop Sharing"
-msgstr "Quản lí giấy mời - Chia sẻ màn hình"
+msgstr "Bắt đầu/Dừng Chia sẻ Màn hình từ xa"
 
 #. i18n: ectx: property (text), widget (QCheckBox, enableSharingCheckBox)
 #: ui/mainwidget.ui:148
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Desktop Sharing"
 msgid "&Enable Desktop Sharing"
-msgstr "Chia sẻ màn hình"
+msgstr "Bật C&hia sẻ Màn hình"
 
 #. i18n: ectx: property (title), widget (QGroupBox, detailsGroupBox)
 #: ui/mainwidget.ui:170
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Connection side image"
 msgid "Connection Details"
-msgstr "Ảnh hiển thị phía kết nối"
+msgstr "Chi tiết kết nối"
 
 #. i18n: ectx: property (text), widget (QLabel, addressLabel)
 #: ui/mainwidget.ui:193
 #, kde-format
 msgid "&Address"
-msgstr ""
+msgstr "Địa &chỉ"
 
 #. i18n: ectx: property (whatsThis), widget (QToolButton, addressAboutButton)
 #: ui/mainwidget.ui:214
 #, kde-format
 msgid "More about this address"
-msgstr ""
+msgstr "Thêm thông tin về địa chỉ này"
 
 #. i18n: ectx: property (text), widget (QToolButton, addressAboutButton)
 #. i18n: ectx: property (text), widget (QToolButton, unattendedAboutButton)
 #: ui/mainwidget.ui:217 ui/mainwidget.ui:397
 #, kde-format
 msgid "About"
-msgstr ""
+msgstr "Thông tin"
 
 #. i18n: ectx: property (whatsThis), widget (QLabel, addressDisplayLabel)
 #: ui/mainwidget.ui:235
@@ -607,32 +619,34 @@ msgid ""
 "Address required by remote users to connect to your desktop. Click about "
 "button on the right for more info."
 msgstr ""
+"Địa chỉ cần thiết để người dùng ở xa kết nối với máy tính của bạn. Bấm nút "
+"\"Thông tin\" bên phải để biết thêm thông tin."
 
 #. i18n: ectx: property (text), widget (QLabel, addressDisplayLabel)
 #: ui/mainwidget.ui:238
 #, kde-format
 msgid "127.0.0.1 : 5900"
-msgstr ""
+msgstr "127.0.0.1 : 5900"
 
 #. i18n: ectx: property (text), widget (QLabel, passwordLabel)
 #: ui/mainwidget.ui:269
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "<b>Password:</b>"
 msgid "&Password"
-msgstr "<b>Mật khẩu :</b>"
+msgstr "Mật khẩ&u"
 
 #. i18n: ectx: property (whatsThis), widget (QToolButton, passwordEditButton)
 #: ui/mainwidget.ui:290
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Desktop Sharing Error"
 msgid "Edit/Save Desktop Sharing Password"
-msgstr "Lỗi chia sẻ màn hình"
+msgstr "Chỉnh sửa/Lưu mật khẩu chia sẻ desktop"
 
 #. i18n: ectx: property (text), widget (QToolButton, passwordEditButton)
 #: ui/mainwidget.ui:293
 #, kde-format
 msgid "Edit"
-msgstr ""
+msgstr "Sửa"
 
 #. i18n: ectx: property (whatsThis), widget (QLabel, passwordDisplayLabel)
 #: ui/mainwidget.ui:311
@@ -641,12 +655,14 @@ msgid ""
 "Password required by remote users to connect to your desktop. Click the edit "
 "button on the right to change password."
 msgstr ""
+"Mật khẩu được yêu cầu bởi người dùng ở xa để kết nối với máy tính của bạn. "
+"Bấm nút sửa ở bên phải để thay đổi mật khẩu."
 
 #. i18n: ectx: property (text), widget (QLabel, passwordDisplayLabel)
 #: ui/mainwidget.ui:314
 #, kde-format
 msgid "TemporaryPassword"
-msgstr ""
+msgstr "Mật khẩu tạm thời"
 
 #. i18n: ectx: property (whatsThis), widget (QGroupBox, unattendedGroupBox)
 #. i18n: ectx: property (text), widget (QLabel, unattendedAboutLabel)
@@ -656,12 +672,14 @@ msgid ""
 "Unattended Access allows a remote user with the password to gain control to "
 "your desktop without your explicit confirmation."
 msgstr ""
+"Truy cập không giám sát cho phép người dùng ở xa có mật khẩu kiểm soát máy "
+"tính của bạn mà không cần xác nhận rõ ràng từ bạn."
 
 #. i18n: ectx: property (title), widget (QGroupBox, unattendedGroupBox)
 #: ui/mainwidget.ui:343
 #, kde-format
 msgid "Unattended Access"
-msgstr ""
+msgstr "Truy cập không người giám sát"
 
 #. i18n: ectx: property (whatsThis), widget (QLabel, unattendedAboutLabel)
 #: ui/mainwidget.ui:375
@@ -671,12 +689,15 @@ msgid ""
 "your desktop without your explicit confirmation. Click \"About\" button on "
 "right to know more."
 msgstr ""
+"Truy cập không giám sát cho phép người dùng từ xa có mật khẩu kiểm soát máy "
+"tính của bạn mà không cần xác nhận rõ ràng của bạn. Bấm nút \"Giới thiệu\" "
+"bên phải để biết thêm thông tin."
 
 #. i18n: ectx: property (whatsThis), widget (QToolButton, unattendedAboutButton)
 #: ui/mainwidget.ui:394
 #, kde-format
 msgid "Know more about Unattended Access"
-msgstr ""
+msgstr "Tìm hiểu thêm về Truy cập không người giám sát"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, enableUnattendedCheckBox)
 #: ui/mainwidget.ui:437
@@ -685,21 +706,24 @@ msgid ""
 "Starts/Stops unattended access to your desktop. Click on button on right to "
 "change password, and \"About\" button to know more."
 msgstr ""
+"Bắt đầu/Dừng truy cập không giám sát vào màn hình máy tính của bạn. Bấm vào "
+"nút bên phải để thay đổi mật khẩu, và nút \"Giới thiệu\" để biết thêm thông "
+"tin."
 
 #. i18n: ectx: property (text), widget (QCheckBox, enableUnattendedCheckBox)
 #: ui/mainwidget.ui:440
 #, kde-format
 msgid "Enable &Unattended Access"
-msgstr ""
+msgstr "Bật Truy cập Không ngườ&i điều khiển"
 
 #. i18n: ectx: property (whatsThis), widget (QPushButton, unattendedPasswordButton)
 #: ui/mainwidget.ui:465
 #, kde-format
 msgid "Change password for Unattended Access"
-msgstr ""
+msgstr "Thay đổi mật khẩu cho Truy cập không giám sát"
 
 #. i18n: ectx: property (text), widget (QPushButton, unattendedPasswordButton)
 #: ui/mainwidget.ui:468
 #, kde-format
 msgid "&Change Unattended Password"
-msgstr ""
+msgstr "T&hay đổi mật khẩu không người dùng"

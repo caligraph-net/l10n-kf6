@@ -1,0 +1,187 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-07 00:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/libkleopatrarc.desktop:5 src/libkleopatrarc-win32.desktop:5
+msgctxt "Name"
+msgid "TAR (PGP®-compatible)"
+msgstr "TAR (tương thích PGP®)"
+
+#: src/libkleopatrarc.desktop:96
+msgctxt "Name"
+msgid "TAR (with bzip2 compression)"
+msgstr "TAR (với nén bzip2)"
+
+#: src/libkleopatrarc.desktop:146 src/libkleopatrarc-win32.desktop:57
+msgctxt "Name"
+msgid "sha256sum"
+msgstr "sha256sum"
+
+#: src/libkleopatrarc.desktop:196 src/libkleopatrarc-win32.desktop:108
+msgctxt "Name"
+msgid "sha1sum"
+msgstr "sha1sum"
+
+#: src/libkleopatrarc.desktop:246
+msgctxt "Name"
+msgid "sha512sum"
+msgstr "sha512sum"
+
+#: src/libkleopatrarc.desktop:293 src/libkleopatrarc-win32.desktop:158
+msgctxt "Name"
+msgid "md5sum"
+msgstr "md5sum"
+
+#: src/libkleopatrarc.desktop:342 src/libkleopatrarc-win32.desktop:206
+msgctxt "Name"
+msgid "Not Validated"
+msgstr "Chưa được xác thực"
+
+#: src/libkleopatrarc.desktop:364 src/libkleopatrarc-win32.desktop:228
+msgctxt "Description"
+msgid "Certificates that were not validated"
+msgstr "Các chứng chỉ không được xác thực"
+
+#: src/libkleopatrarc.desktop:389 src/libkleopatrarc-win32.desktop:253
+msgctxt "Name"
+msgid "Expired"
+msgstr "Đã hết hạn"
+
+#: src/libkleopatrarc.desktop:411 src/libkleopatrarc-win32.desktop:275
+msgctxt "Description"
+msgid "Certificates that are invalid because they have expired"
+msgstr "Các chứng chỉ không hợp lệ vì đã hết hạn"
+
+#: src/libkleopatrarc.desktop:434 src/libkleopatrarc-win32.desktop:298
+msgctxt "Name"
+msgid "Revoked"
+msgstr "Đã thu hồi"
+
+#: src/libkleopatrarc.desktop:456 src/libkleopatrarc-win32.desktop:320
+msgctxt "Description"
+msgid "Certificates that are invalid because they have been revoked"
+msgstr "Các chứng chỉ không hợp lệ vì chúng đã bị thu hồi"
+
+#: src/libkleopatrarc.desktop:481 src/libkleopatrarc-win32.desktop:345
+msgctxt "Name"
+msgid "Trusted Root Certificates"
+msgstr "Chứng chỉ gốc đáng tin cậy"
+
+#: src/libkleopatrarc.desktop:503 src/libkleopatrarc-win32.desktop:367
+msgctxt "Description"
+msgid "S/MIME root certificates that are trusted"
+msgstr "Các chứng chỉ gốc S/MIME đáng tin cậy"
+
+#: src/libkleopatrarc.desktop:531 src/libkleopatrarc-win32.desktop:395
+msgctxt "Name"
+msgid "Not Trusted Root Certificates"
+msgstr "Chứng chỉ gốc không đáng tin cậy"
+
+#: src/libkleopatrarc.desktop:553 src/libkleopatrarc-win32.desktop:417
+msgctxt "Description"
+msgid "S/MIME root certificates that are not trusted"
+msgstr "Các chứng chỉ gốc S/MIME không được tin cậy"
+
+#: src/libkleopatrarc.desktop:578 src/libkleopatrarc-win32.desktop:442
+msgctxt "Name"
+msgid "For Qualified Signatures"
+msgstr "Dành cho Chữ ký Đủ điều kiện"
+
+#: src/libkleopatrarc.desktop:600 src/libkleopatrarc-win32.desktop:464
+msgctxt "Description"
+msgid "Certificates usable for qualified signatures"
+msgstr "Chứng chỉ có thể sử dụng cho chữ ký hợp lệ"
+
+#: src/libkleopatrarc.desktop:624 src/libkleopatrarc-win32.desktop:488
+msgctxt "Name"
+msgid "Validated"
+msgstr "Đã xác thực"
+
+#: src/libkleopatrarc.desktop:646 src/libkleopatrarc-win32.desktop:510
+msgctxt "Description"
+msgid "Certificates that were validated"
+msgstr "Các chứng chỉ đã được xác thực"
+
+#: src/libkleopatrarc.desktop:669 src/libkleopatrarc-win32.desktop:533
+msgctxt "Name"
+msgid "On Smart Card"
+msgstr "Trên thẻ thông minh"
+
+#: src/libkleopatrarc.desktop:691 src/libkleopatrarc-win32.desktop:555
+msgctxt "Description"
+msgid "Certificates stored on smart cards"
+msgstr "Chứng chỉ được lưu trữ trên thẻ thông minh"
+
+#: src/libkleopatrarc.desktop:715 src/libkleopatrarc-win32.desktop:579
+msgctxt "Name"
+msgid "OpenPGP"
+msgstr "OpenPGP"
+
+#: src/libkleopatrarc.desktop:736 src/libkleopatrarc-win32.desktop:600
+msgctxt "Description"
+msgid "OpenPGP certificates"
+msgstr "Chứng chỉ OpenPGP"
+
+#: src/libkleopatrarc.desktop:760 src/libkleopatrarc-win32.desktop:624
+msgctxt "Name"
+msgid "S/MIME"
+msgstr "S/MIME"
+
+#: src/libkleopatrarc.desktop:781 src/libkleopatrarc-win32.desktop:645
+msgctxt "Description"
+msgid "S/MIME certificates"
+msgstr "Chứng chỉ S/MIME"
+
+#: src/libkleopatrarc.desktop:810 src/libkleopatrarc-win32.desktop:674
+msgctxt "Name"
+msgid "VS-NfD Compliant"
+msgstr "Tuân thủ VS-NfD"
+
+#: src/libkleopatrarc.desktop:845
+msgctxt "Description"
+msgid "Certificates that are compliant with VS-NfD"
+msgstr "Chứng chỉ tuân thủ VS-NfD"
+
+#: src/libkleopatrarc.desktop:871 src/libkleopatrarc-win32.desktop:736
+msgctxt "Name"
+msgid "Not VS-NfD Compliant"
+msgstr "Không tuân thủ VS-NfD"
+
+#: src/libkleopatrarc.desktop:906 src/libkleopatrarc-win32.desktop:771
+msgctxt "Description"
+msgid "Certificates that are not VS-NfD compliant"
+msgstr "Các chứng chỉ không tuân thủ VS-NfD"
+
+#: src/libkleopatrarc.desktop:935 src/libkleopatrarc-win32.desktop:800
+msgctxt "Name"
+msgid "Not VS-NfD Compliant (Expired)"
+msgstr "Không tuân thủ VS-NfD (Đã hết hạn)"
+
+#: src/libkleopatrarc.desktop:968 src/libkleopatrarc-win32.desktop:833
+msgctxt "Description"
+msgid "Expired certificates (if VS-NfD compliance mode is active)"
+msgstr "Chứng chỉ hết hạn (nếu chế độ tuân thủ VS-NfD đang hoạt động)"
+
+#: src/libkleopatrarc.desktop:995 src/libkleopatrarc-win32.desktop:860
+msgctxt "Name"
+msgid "Not VS-NfD Compliant (Revoked)"
+msgstr "Không tuân thủ VS-NfD (Đã thu hồi)"
+
+#: src/libkleopatrarc.desktop:1028 src/libkleopatrarc-win32.desktop:893
+msgctxt "Description"
+msgid "Revoked certificates (if VS-NfD compliance mode is active)"
+msgstr "Chứng chỉ đã bị thu hồi (nếu chế độ tuân thủ VS-NfD đang hoạt động)"
+
+#: src/libkleopatrarc-win32.desktop:709
+msgctxt "Description"
+msgid "Certificates that are VS-NfD compliant"
+msgstr "Chứng chỉ tuân thủ VS-NfD"

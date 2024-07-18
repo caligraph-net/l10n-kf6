@@ -1,0 +1,329 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdepim-runtime package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdepim-runtime\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-02-29 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: compactpage.cpp:71
+#, kde-format
+msgid "(1 message marked for deletion)"
+msgid_plural "(%1 messages marked for deletion)"
+msgstr[0] "(%1 tin nhắn được đánh dấu để xóa)"
+
+#: compactpage.cpp:78
+#, kde-format
+msgid "Failed to fetch the collection."
+msgstr "Không thể tìm nạp bộ sưu tập."
+
+#: compactpage.cpp:94
+#, kde-format
+msgid "Failed to load the mbox file"
+msgstr "Không thể tải tệp mbox"
+
+#: compactpage.cpp:96
+#, kde-format
+msgid "(Deleting 1 message)"
+msgid_plural "(Deleting %1 messages)"
+msgstr[0] "(Đang xóa %1 tin nhắn)"
+
+#: compactpage.cpp:107 compactpage.cpp:115
+#, kde-format
+msgid "Failed to compact the mbox file."
+msgstr "Không thể nén tệp mbox."
+
+#: compactpage.cpp:117
+#, kde-format
+msgid "MBox file compacted."
+msgstr "Tệp MBox đã được nén."
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: compactpage.ui:23
+#, kde-format
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-size:10pt; font-weight:400; font-style:"
+"normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">The only way to fully "
+"remove a mail from an mbox file is by removing it from the actual file. As "
+"this can be a rather expensive operation, the mbox resource keeps a list of "
+"deleted messages. Once in a while these messages are really removed from the "
+"file.</p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"></"
+"p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\">Note:</span> The downside of this is that if the file is "
+"changed by another program, the list of deleted messages cannot be trusted "
+"any longer and deleted messages might reappear.</p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta "
+"name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { "
+"white-space: pre-wrap; }\n</style></head><body style=\" font-size:10pt; "
+"font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; "
+"margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px;\">Cách duy nhất để xóa hoàn toàn một thư từ tệp mbox là "
+"xóa nó khỏi tệp thực tế. Vì đây có thể là một thao tác khá tốn kém, tài "
+"nguyên mbox giữ một danh sách các tin nhắn đã xóa. Thỉnh thoảng, những tin "
+"nhắn này sẽ thực sự bị xóa khỏi tệp.</p>\n<p "
+"style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px;\"></p>\n<p style=\" margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px;\"><span style=\" font-weight:600;\">Lưu ý:</span> Mặt trái "
+"của điều này là nếu tệp bị thay đổi bởi một chương trình khác, danh sách "
+"các tin nhắn đã xóa không thể được tin cậy nữa và các tin nhắn đã xóa có "
+"thể xuất hiện lại.</p></body></html>"
+
+#. i18n: ectx: property (text), widget (QPushButton, compactButton)
+#: compactpage.ui:49
+#, kde-format
+msgid "&Compact now"
+msgstr "Gọn ng&ay"
+
+#. i18n: ectx: property (text), widget (QRadioButton, never)
+#: compactpage.ui:79
+#, kde-format
+msgid "&Never compact automatically"
+msgstr "Khôn&g bao giờ nén tự động"
+
+#. i18n: ectx: property (text), widget (QRadioButton, per_x_messages)
+#: compactpage.ui:86
+#, kde-format
+msgid "C&ompact every"
+msgstr "&Nén mọi thứ"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_MessageCount)
+#: compactpage.ui:96
+#, kde-format
+msgid "msg"
+msgstr "tin nhắn"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, LockFilePage)
+#: lockfilepage.ui:15
+#, kde-format
+msgid "MBox Settings"
+msgstr "Thiết lập MBox"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: lockfilepage.ui:27
+#, kde-format
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-size:10pt; font-weight:400; font-style:"
+"normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Select a method to lock "
+"the mbox file when data is read from or written to the file.</p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"></"
+"p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\">Note</span>: For some methods you might need to install "
+"additional software before they can be used.</p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta "
+"name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { "
+"white-space: pre-wrap; }\n</style></head><body style=\" font-size:10pt; "
+"font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; "
+"margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px;\">Chọn phương thức để khóa tệp mbox khi dữ liệu được đọc "
+"từ hoặc ghi vào tệp.</p>\n<p style=\"-qt-paragraph-type:empty; "
+"margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; "
+"-qt-block-indent:0; text-indent:0px;\"></p>\n<p style=\" margin-top:0px; "
+"margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px;\"><span style=\" font-weight:600;\">Lưu ý</span>: Đối với "
+"một số phương thức, bạn có thể cần cài đặt phần mềm bổ sung trước khi có "
+"thể sử dụng chúng.</p></body></html>"
+
+#. i18n: ectx: property (text), widget (QRadioButton, procmail)
+#: lockfilepage.ui:43
+#, kde-format
+msgid "Procmail loc&kfile"
+msgstr "Tệp &khóa Procmail"
+
+#. i18n: ectx: property (text), widget (QRadioButton, mutt_dotlock)
+#: lockfilepage.ui:53
+#, kde-format
+msgid "&Mutt dotlock"
+msgstr "&Mutt dotlock"
+
+#. i18n: ectx: property (text), widget (QRadioButton, mutt_dotlock_privileged)
+#: lockfilepage.ui:60
+#, kde-format
+msgid "M&utt dotlock privileged"
+msgstr "Đặc q&uyền dotlock của Mutt"
+
+#. i18n: ectx: property (text), widget (QRadioButton, none)
+#: lockfilepage.ui:67
+#, kde-format
+msgid "Non&e"
+msgstr "K&hông có"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_Lockfile)
+#: lockfilepage.ui:84
+#, kde-format
+msgid ".lock"
+msgstr ".khóa"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: lockfilepage.ui:92
+#, kde-format
+msgid ""
+"None, the default configuration, should be safe in most cases.  However, if "
+"programs that do not make use of Akonadi are also accessing the configured "
+"mbox file, you will need to set an appropriate locking method. Note that if "
+"this is the case, the resource and the other programs must all use the same "
+"locking method."
+msgstr ""
+"Không, cấu hình mặc định, nên an toàn trong hầu hết các trường hợp. Tuy "
+"nhiên, nếu các chương trình không sử dụng Akonadi cũng truy cập vào tệp "
+"mbox được cấu hình, bạn sẽ cần đặt một phương thức khóa phù hợp. Lưu ý rằng "
+"nếu trường hợp này xảy ra, tài nguyên và các chương trình khác phải sử dụng "
+"cùng một phương thức khóa."
+
+#: mboxconfig.cpp:20
+#, kde-format
+msgctxt "Filedialog filter for *.mbox"
+msgid "MBox file"
+msgstr "Tệp MBox"
+
+#: mboxconfig.cpp:21
+#, kde-format
+msgid "Compact frequency"
+msgstr "Tần suất nén"
+
+#: mboxconfig.cpp:22
+#, kde-format
+msgid "Lock method"
+msgstr "Phương thức khóa"
+
+#: mboxresource.cpp:87 mboxresource.cpp:147 mboxresource.cpp:186
+#, kde-format
+msgctxt "@info:status"
+msgid "MBox not configured."
+msgstr "Chưa cấu hình MBox."
+
+#: mboxresource.cpp:143 mboxresource.cpp:182
+#, kde-format
+msgid "MBox not loaded."
+msgstr "Chưa tải MBox."
+
+#: mboxresource.cpp:158
+#, kde-format
+msgid "Failed to read message with uid '%1'."
+msgstr "Không thể đọc thông điệp có uid '%1'."
+
+#: mboxresource.cpp:192
+#, kde-format
+msgid "Only email messages can be added to the MBox resource."
+msgstr "Chỉ có thể thêm các thư điện tử vào tài nguyên MBox."
+
+#: mboxresource.cpp:198
+#, kde-format
+msgid "Mail message not added to the MBox."
+msgstr "Thông điệp thư không được thêm vào MBox."
+
+#: mboxresource.cpp:237
+#, kde-format
+msgid "Could not fetch the collection: %1"
+msgstr "Không thể tìm nạp bộ sưu tập: %1"
+
+#: mboxresource.cpp:266
+#, kde-format
+msgid ""
+"The MBox file was changed by another program. A copy of the new file was "
+"made and pending changes are appended to that copy. To prevent this from "
+"happening use locking and make sure that all programs accessing the mbox use "
+"the same locking method."
+msgstr ""
+"Tệp MBox đã bị thay đổi bởi một chương trình khác. Một bản sao của tệp mới "
+"đã được tạo và các thay đổi chưa hoàn tất được thêm vào bản sao đó. Để ngăn "
+"chặn điều này xảy ra, hãy sử dụng khóa và đảm bảo rằng tất cả các chương "
+"trình truy cập mbox sử dụng cùng một phương pháp khóa."
+
+#: mboxresource.cpp:297
+#, kde-format
+msgid "Failed to save mbox file to %1"
+msgstr "Không thể lưu tệp mbox vào %1"
+
+#: mboxresource.cpp:356
+#, kde-format
+msgid ""
+"Failed to update the changed item because the old item could not be deleted "
+"Reason: %1"
+msgstr "Không thể cập nhật mục đã thay đổi vì mục cũ không thể bị xóa. Lý do: %1"
+
+#. i18n: ectx: label, entry (Path), group (General)
+#: mboxresource.kcfg:10
+#, kde-format
+msgid "Path to mbox file."
+msgstr "Đường dẫn đến tệp mbox."
+
+#. i18n: ectx: label, entry (DisplayName), group (General)
+#: mboxresource.kcfg:14
+#, kde-format
+msgid "Display name."
+msgstr "Tên hiển thị."
+
+#. i18n: ectx: label, entry (ReadOnly), group (General)
+#: mboxresource.kcfg:18
+#, kde-format
+msgid "Do not change the actual backend data."
+msgstr "Không thay đổi dữ liệu hậu phương thực tế."
+
+#. i18n: ectx: label, entry (MonitorFile), group (General)
+#: mboxresource.kcfg:22
+#, kde-format
+msgid "Monitor file for changes."
+msgstr "Theo dõi tệp để phát hiện thay đổi."
+
+#. i18n: ectx: label, entry (PeriodicUpdate), group (General)
+#: mboxresource.kcfg:26
+#, kde-format
+msgid "Periodically update the file."
+msgstr "Định kỳ cập nhật tệp."
+
+#. i18n: ectx: label, entry (UpdatePeriod), group (General)
+#: mboxresource.kcfg:30
+#, kde-format
+msgid "Automatic update period in minutes."
+msgstr "Khoảng thời gian cập nhật tự động tính bằng phút."
+
+#. i18n: ectx: label, entry (Lockfile), group (Locking)
+#: mboxresource.kcfg:45
+#, kde-format
+msgid "Lockfile"
+msgstr "Tệp khóa"
+
+#. i18n: ectx: label, entry (MessageCount), group (Compacting)
+#: mboxresource.kcfg:58
+#, kde-format
+msgid "Number of deleted messages before a purge is started."
+msgstr "Số lượng tin nhắn đã xóa trước khi bắt đầu dọn dẹp."

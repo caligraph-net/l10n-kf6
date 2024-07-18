@@ -1,0 +1,178 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-camera package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-camera\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-28 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: src/contents/ui/CameraPage.qml:21 src/contents/ui/GlobalDrawer.qml:48
+#: src/contents/ui/main.qml:53
+#, kde-format
+msgid "Camera"
+msgstr "Máy ảnh"
+
+#: src/contents/ui/CameraPage.qml:41
+#, kde-format
+msgid "Switch mode"
+msgstr "Chuyển chế độ"
+
+#: src/contents/ui/CameraPage.qml:64
+#, kde-format
+msgid "Cancel self-timer"
+msgstr "Huỷ hẹn giờ tự động"
+
+#: src/contents/ui/CameraPage.qml:66
+#, kde-format
+msgid "Capture photo"
+msgstr "Thu thập ảnh"
+
+#: src/contents/ui/CameraPage.qml:68
+#, kde-format
+msgid "Stop recording video"
+msgstr "Dừng quay phim"
+
+#: src/contents/ui/CameraPage.qml:70
+#, kde-format
+msgid "Start recording video"
+msgstr "Bắt đầu quay video"
+
+#: src/contents/ui/CameraPage.qml:106
+#, kde-format
+msgid "Switch Camera"
+msgstr "Chuyển đổi camera"
+
+#: src/contents/ui/CameraPage.qml:152
+#, kde-format
+msgid "Camera not available"
+msgstr "Máy ảnh không khả dụng"
+
+#: src/contents/ui/CameraPage.qml:154
+#, kde-format
+msgid "Camera is busy. Is another application using it?"
+msgstr "Máy ảnh đang bận. Có ứng dụng khác đang sử dụng nó?"
+
+#: src/contents/ui/CameraPage.qml:156
+#, kde-format
+msgid "Missing camera resource."
+msgstr "Thiếu tài nguyên máy ảnh."
+
+#: src/contents/ui/CameraPage.qml:403
+#, kde-format
+msgid "Photo"
+msgstr "ảnh"
+
+#: src/contents/ui/CameraPage.qml:408
+#, kde-format
+msgid "Video"
+msgstr "Phim"
+
+#: src/contents/ui/CameraPage.qml:507
+#, kde-format
+msgid "Took a photo"
+msgstr "Đã chụp ảnh"
+
+#: src/contents/ui/CameraPage.qml:510
+#, kde-format
+msgid "Failed to take a photo"
+msgstr "Không thể chụp ảnh"
+
+#: src/contents/ui/CameraPage.qml:516
+#, kde-format
+msgid "Stopped recording"
+msgstr "Đã dừng ghi"
+
+#: src/contents/ui/CameraPage.qml:522
+#, kde-format
+msgid "Started recording"
+msgstr "Đã bắt đầu ghi âm"
+
+#: src/contents/ui/CameraPage.qml:525
+#, kde-format
+msgid "Failed to start recording"
+msgstr "Không thể bắt đầu quay"
+
+#: src/contents/ui/GlobalDrawer.qml:66
+#, kde-format
+msgid "Resolution"
+msgstr "Phân giải"
+
+#: src/contents/ui/GlobalDrawer.qml:86
+#, kde-format
+msgid "White balance"
+msgstr "Cân bằng trắng"
+
+#: src/contents/ui/GlobalDrawer.qml:91
+#, kde-format
+msgid "Auto"
+msgstr "Tự động"
+
+#: src/contents/ui/GlobalDrawer.qml:97
+#, kde-format
+msgid "Sunlight"
+msgstr "Ánh sáng mặt trời"
+
+#: src/contents/ui/GlobalDrawer.qml:103
+#, kde-format
+msgid "Cloudy"
+msgstr "Nhiều mây"
+
+#: src/contents/ui/GlobalDrawer.qml:109
+#, kde-format
+msgid "Tungsten"
+msgstr "Tungsten"
+
+#: src/contents/ui/GlobalDrawer.qml:115
+#, kde-format
+msgid "Fluorescent"
+msgstr "Huỳnh quang"
+
+#: src/contents/ui/GlobalDrawer.qml:120
+#, kde-format
+msgid "About"
+msgstr "Thông tin"
+
+#: src/contents/ui/main.qml:49
+#, kde-format
+msgid ""
+"An error occurred: \"%1\". Please consider restarting the application if it "
+"stopped working."
+msgstr ""
+"Đã xảy ra lỗi: \"%1\". Vui lòng hãy khởi động lại ứng dụng nếu nó ngừng "
+"hoạt động."
+
+#: src/main.cpp:45
+#, kde-format
+msgid "© Plasma Mobile Developers"
+msgstr "© Nhà phát triển Plasma Mobile"
+
+#: src/main.cpp:47
+#, kde-format
+msgid "Marco Martin"
+msgstr "Marco Martin"
+
+#: src/main.cpp:48
+#, kde-format
+msgid "Jonah Brüchert"
+msgstr "Jonah Brüchert"

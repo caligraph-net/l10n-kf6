@@ -64,7 +64,7 @@ msgid "Save &History As..."
 msgstr "Lưu &Lịch sử Vào..."
 
 #: kmouth.cpp:117 kmouth.cpp:118
-#, fuzzy, kde-format
+#, kde-format
 msgid "Saves the actual history as..."
 msgstr "Lưu lịch sử hiện tại vào..."
 
@@ -116,7 +116,7 @@ msgstr ""
 "chọn trong lịch sử (nếu có) sẽ được sao chép vào bảng nháp."
 
 #: kmouth.cpp:146 phrasebook/phrasebookdialog.cpp:286
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Pastes the clipboard contents to actual position"
 msgid "Pastes the clipboard contents to current position"
 msgstr "Dán nội dung bảng nháp vào vị trí hiện tại"
@@ -129,7 +129,7 @@ msgid ""
 msgstr "Dán nội dung bảng nháp vào vị trí con trỏ trong ô soạn thảo."
 
 #: kmouth.cpp:151
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Speak"
 msgctxt "Start speaking"
 msgid "&Speak"
@@ -245,7 +245,7 @@ msgstr "Bỏ chọn tất cả các đoạn văn trong lịch sử"
 
 #: kmouth.cpp:243 kmouth.cpp:262 kmouth.cpp:361 kmouth.cpp:370 kmouth.cpp:387
 #: kmouth.cpp:434 kmouth.cpp:448 kmouth.cpp:462 kmouth.cpp:476
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Ready."
 msgctxt "The job is done"
 msgid "Ready."
@@ -267,11 +267,11 @@ msgid "Printing..."
 msgstr "In ấn..."
 
 #: kmouth.cpp:392
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Exiting..."
 msgctxt "Shutting down the application"
 msgid "Exiting..."
-msgstr "Thoát..."
+msgstr "Đang thoát..."
 
 #: kmouth.cpp:427
 #, kde-format
@@ -340,17 +340,17 @@ msgstr "Gunnar Schmi Dt"
 #: main.cpp:45
 #, kde-format
 msgid "Original Author"
-msgstr ""
+msgstr "Tác giả gốc"
 
 #: main.cpp:46
 #, kde-format
 msgid "Jeremy Whiting"
-msgstr ""
+msgstr "Jeremy Whiting"
 
 #: main.cpp:46
 #, kde-format
 msgid "Current Maintainer"
-msgstr ""
+msgstr "Bảo trì viên hiện tại"
 
 #: main.cpp:47
 #, kde-format
@@ -398,28 +398,26 @@ msgid "Book"
 msgstr "Quyển"
 
 #: phrasebook/phrasebook.cpp:273
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "*.phrasebook|Phrase Books (*.phrasebook)\n"
 #| "*.txt|Plain Text Files (*.txt)\n"
 #| "*|All Files"
 msgid "Phrase Books (*.phrasebook);;Plain Text Files (*.txt);;All Files (*)"
 msgstr ""
-"*.phrasebook|Từ điển Thành ngữ (*.phrasebook)\n"
-"*.txt|Tệp Văn bản Thuần (*.txt)\n"
-"*|Tất cả các Tệp"
+"Từ điển Thành ngữ (*.phrasebook);;Tệp Văn bản Thuần (*.txt);;Tất cả các Tệp "
+"(*)"
 
 #: phrasebook/phrasebook.cpp:275
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "*.txt|Plain Text Files (*.txt)\n"
 #| "*.phrasebook|Phrase Books (*.phrasebook)\n"
 #| "*|All Files"
 msgid "Plain Text Files (*.txt);;Phrase Books (*.phrasebook);;All Files (*)"
 msgstr ""
-"*.txt|Tệp Văn bản Thuần (*.txt)\n"
-"*.phrasebook|Từ điển Thành ngữ (*.phrasebook)\n"
-"*|Tất cả các Tệp"
+"Tệp Văn bản Thuần (*.txt);;Từ điển Thành ngữ (*.phrasebook);;Tất cả các Tệp "
+"(*)"
 
 #: phrasebook/phrasebook.cpp:293 wordcompletion/wordcompletionwidget.cpp:209
 #, kde-format
@@ -620,16 +618,13 @@ msgid "Import Phrasebook"
 msgstr "Nhập khẩu Từ điển Thành ngữ"
 
 #: phrasebook/phrasebookdialog.cpp:628
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "*.phrasebook|Phrase Books (*.phrasebook)\n"
 #| "*.txt|Plain Text Files (*.txt)\n"
 #| "*|All Files"
 msgid "Phrase Books (*.phrasebook);Plain Text Files (*.txt);All Files (*)"
-msgstr ""
-"*.phrasebook|Từ điển Thành ngữ (*.phrasebook)\n"
-"*.txt|Tệp Văn bản Thuần (*.txt)\n"
-"*|Tất cả các Tệp"
+msgstr "Sách Thành ngữ (*.phrasebook);Tệp Văn bản Thuần (*.txt);Tất cả các Tệp (*)"
 
 #: phrasebook/phrasebookdialog.cpp:659 phraselist.cpp:505
 #, kde-format
@@ -646,10 +641,10 @@ msgid "Export Phrase Book"
 msgstr "Xuất khẩu Từ điển Thành ngữ"
 
 #: phrasebook/phrasebookdialog.cpp:670
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Phrase Books"
 msgid "Phrase Books (*.phrasebook)"
-msgstr "&Từ điển Thành ngữ"
+msgstr "Sách Thành ngữ (*.phrasebook)"
 
 #: phrasebook/phrasebookdialog.cpp:677 phraselist.cpp:478
 #, kde-format
@@ -765,16 +760,15 @@ msgid "Open File as History"
 msgstr "Mở Tệp Lịch sử"
 
 #: phraselist.cpp:484
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "*|All Files\n"
 #| "*.phrasebook|Phrase Books (*.phrasebook)\n"
 #| "*.txt|Plain Text Files (*.txt)"
 msgid "All Files (*);;Phrase Books (*.phrasebook);;Plain Text Files (*.txt)"
 msgstr ""
-"*|Tất cả các Tệp\n"
-"*.phrasebook|Từ điển Thành ngữ (*.phrasebook)\n"
-"*.txt|Tệp Văn bản Thuần (*.txt)"
+"Tất cả các Tệp (*) ;;Từ điển Thành ngữ (*.phrasebook) ;;Tệp Văn bản Thuần "
+"(*.txt)"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, PreferencesUI)
 #: preferencesui.ui:21
@@ -856,25 +850,25 @@ msgstr "Văn bản sang Tiếng nói"
 #: texttospeechconfigurationui.ui:32
 #, kde-format
 msgid "&Use default speech system"
-msgstr ""
+msgstr "Sử dụ&ng hệ thống phát âm mặc định"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: texttospeechconfigurationui.ui:41
 #, kde-format
 msgid "&Engine:"
-msgstr ""
+msgstr "Bộ c&huyển đổi:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: texttospeechconfigurationui.ui:61
 #, kde-format
 msgid "&Voice:"
-msgstr ""
+msgstr "Giọ&ng nói:"
 
 #. i18n: ectx: property (title), widget (QGroupBox, alternativeGroupBox)
 #: texttospeechconfigurationui.ui:87
 #, kde-format
 msgid "Alternative"
-msgstr ""
+msgstr "Thay thế"
 
 #. i18n: ectx: property (whatsThis), widget (QLabel, urlLabel)
 #. i18n: ectx: property (whatsThis), widget (KUrlRequester, urlReq)
@@ -897,10 +891,10 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, urlLabel)
 #: texttospeechconfigurationui.ui:123
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "C&ommand for speaking texts:"
 msgid "Command for speaking &texts:"
-msgstr "&Lệnh cho phát âm văn bản:"
+msgstr "Lệnh để phá&t âm văn bản:"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, stdInButton)
 #: texttospeechconfigurationui.ui:152
@@ -931,10 +925,10 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, characterCodingLabel)
 #: texttospeechconfigurationui.ui:188
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Character &encoding:"
 msgid "Character encodin&g:"
-msgstr "Mã hoá &kí tự:"
+msgstr "Mã hoá kí &tự:"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, spellCheckBox)
 #: wordcompletion/creationsourcedetailsui.ui:22
@@ -949,10 +943,10 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, spellCheckBox)
 #: wordcompletion/creationsourcedetailsui.ui:25
 #: wordcompletion/kdedocsourceui.ui:25
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Compare to OpenOffice.org dictionary:"
 msgid "C&ompare to OpenOffice.org dictionary:"
-msgstr "&So sánh với từ điển của OpenOffice.org:"
+msgstr "S&o sánh với từ điển của OpenOffice.org:"
 
 #. i18n: ectx: property (whatsThis), widget (QLabel, encodingLabel)
 #. i18n: ectx: property (whatsThis), widget (KComboBox, encodingCombo)
@@ -1135,11 +1129,11 @@ msgid "Source of New Dictionary (2)"
 msgstr "Nguồn của Từ điển Mới (2)"
 
 #: wordcompletion/dictionarycreationwizard.cpp:79
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Directory:"
 msgctxt "In which directory is the file located?"
 msgid "&Directory:"
-msgstr "&Thư mục:"
+msgstr "T&hư mục:"
 
 #: wordcompletion/dictionarycreationwizard.cpp:80
 #: wordcompletion/dictionarycreationwizard.cpp:82
@@ -1168,7 +1162,7 @@ msgid "KDE Documentation"
 msgstr "Tài liệu KDE"
 
 #: wordcompletion/dictionarycreationwizard.cpp:294
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Default"
 msgctxt "Default dictionary"
 msgid "Default"

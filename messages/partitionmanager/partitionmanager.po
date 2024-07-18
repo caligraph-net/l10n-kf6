@@ -1,0 +1,3497 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the partitionmanager package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: partitionmanager\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-08 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: config/configureoptionsdialog.cpp:42
+#, kde-kuit-format
+msgctxt "@title:tab general application settings"
+msgid "General"
+msgstr "Chung"
+
+#: config/configureoptionsdialog.cpp:42 config/configureoptionsdialog.cpp:87
+#, kde-format
+msgid "General Settings"
+msgstr "Thiết lập chung"
+
+#: config/configureoptionsdialog.cpp:47
+#, kde-kuit-format
+msgctxt "@title:tab"
+msgid "File System Colors"
+msgstr "Màu Hệ Thống Tệp"
+
+#: config/configureoptionsdialog.cpp:47
+#, kde-format
+msgid "File System Color Settings"
+msgstr "Thiết lập Màu Hệ Thống Tệp"
+
+#: config/configureoptionsdialog.cpp:49
+#, kde-kuit-format
+msgctxt "@title:tab advanced application settings"
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: config/configureoptionsdialog.cpp:49
+#, kde-format
+msgid "Advanced Settings"
+msgstr "Thiết lập Nâng cao"
+
+#: config/configureoptionsdialog.cpp:137
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>Do you really want to change the backend?</para><para><warning>This "
+"will also rescan devices and thus clear the list of pending operations.</"
+"warning></para>"
+msgstr ""
+"<para>Bạn có thực sự muốn thay đổi phần xử lý phía sau "
+"không?</para><para><warning>Điều này cũng sẽ quét lại các thiết bị và do đó "
+"làm trống danh sách các thao tác đang chờ xử lý.</warning></para>"
+
+#: config/configureoptionsdialog.cpp:139
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Really Change Backend?"
+msgstr "Thực sự Thay đổi Backend?"
+
+#: config/configureoptionsdialog.cpp:140
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Change the Backend"
+msgstr "Thay đổi Hậu phương"
+
+#: config/configureoptionsdialog.cpp:141
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Do Not Change the Backend"
+msgstr "Không thay đổi hậu phương"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: config/configurepageadvanced.ui:23
+#, kde-format
+msgid "Active backend:"
+msgstr "Backend hoạt động:"
+
+#. i18n: ectx: property (text), widget (QLabel)
+#: config/configurepageadvanced.ui:36
+#, kde-format
+msgid "Preferred unit:"
+msgstr "Đơn vị ưa thích:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_preferredUnit)
+#: config/configurepageadvanced.ui:47
+#, kde-format
+msgid "Byte"
+msgstr "Byte"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_preferredUnit)
+#: config/configurepageadvanced.ui:52
+#, kde-format
+msgid "KiB"
+msgstr "KiB"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_preferredUnit)
+#: config/configurepageadvanced.ui:57
+#, kde-format
+msgid "MiB"
+msgstr "MiB"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_preferredUnit)
+#: config/configurepageadvanced.ui:62
+#, kde-format
+msgid "GiB"
+msgstr "GiB"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_preferredUnit)
+#: config/configurepageadvanced.ui:67
+#, kde-format
+msgid "TiB"
+msgstr "TiB"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_preferredUnit)
+#: config/configurepageadvanced.ui:72
+#, kde-format
+msgid "PiB"
+msgstr "PiB"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_preferredUnit)
+#: config/configurepageadvanced.ui:77
+#, kde-format
+msgid "EiB"
+msgstr "EiB"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_7)
+#: config/configurepagefilesystemcolors.ui:27
+#, kde-format
+msgid "ReiserFS:"
+msgstr "ReiserFS:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_15)
+#: config/configurepagefilesystemcolors.ui:56
+#, kde-format
+msgid "UFS:"
+msgstr "UFS:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_31)
+#: config/configurepagefilesystemcolors.ui:69
+#, kde-format
+msgid "ISO 9660:"
+msgstr "ISO 9660:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_24)
+#: config/configurepagefilesystemcolors.ui:88
+#, kde-format
+msgid "OCFS2:"
+msgstr "OCFS2:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_22)
+#: config/configurepagefilesystemcolors.ui:104
+#, kde-format
+msgid "XFS:"
+msgstr "XFS:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_27)
+#: config/configurepagefilesystemcolors.ui:123
+#, kde-format
+msgid "NILFS2:"
+msgstr "NILFS2:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_6)
+#: config/configurepagefilesystemcolors.ui:172
+#, kde-format
+msgid "FAT16:"
+msgstr "FAT16:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_13)
+#: config/configurepagefilesystemcolors.ui:185
+#, kde-format
+msgid "extended:"
+msgstr "mở rộng:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_33)
+#: config/configurepagefilesystemcolors.ui:198
+#, kde-format
+msgid "LUKS2:"
+msgstr "LUKS2:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_17)
+#: config/configurepagefilesystemcolors.ui:214
+#, kde-format
+msgid "unformatted:"
+msgstr "chưa định dạng:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_30)
+#: config/configurepagefilesystemcolors.ui:233
+#, kde-format
+msgid "UDF:"
+msgstr "UDF:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_25)
+#: config/configurepagefilesystemcolors.ui:246
+#, kde-format
+msgid "ZFS:"
+msgstr "ZFS:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_3)
+#: config/configurepagefilesystemcolors.ui:294
+#, kde-format
+msgid "ext4:"
+msgstr "ext4:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_10)
+#: config/configurepagefilesystemcolors.ui:310
+#, kde-format
+msgid "HPFS:"
+msgstr "HPFS:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_11)
+#: config/configurepagefilesystemcolors.ui:368
+#, kde-format
+msgid "JFS:"
+msgstr "JFS:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_2)
+#: config/configurepagefilesystemcolors.ui:381
+#, kde-format
+msgid "ext3:"
+msgstr "ext3:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_8)
+#: config/configurepagefilesystemcolors.ui:407
+#, kde-format
+msgid "Reiser4:"
+msgstr "Reiser4:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_21)
+#: config/configurepagefilesystemcolors.ui:439
+#, kde-format
+msgid "Btrfs:"
+msgstr "Btrfs:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel)
+#: config/configurepagefilesystemcolors.ui:481
+#, kde-format
+msgid "ext2:"
+msgstr "ext2:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_29)
+#: config/configurepagefilesystemcolors.ui:500
+#, kde-format
+msgid "F2FS:"
+msgstr "F2FS:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_28)
+#: config/configurepagefilesystemcolors.ui:519
+#, kde-format
+msgid "LVM2 PV:"
+msgstr "LVM2 PV:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_26)
+#: config/configurepagefilesystemcolors.ui:545
+#, kde-format
+msgid "exFAT:"
+msgstr "exFAT:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_9)
+#: config/configurepagefilesystemcolors.ui:558
+#, kde-format
+msgid "NTFS:"
+msgstr "NTFS:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_20)
+#: config/configurepagefilesystemcolors.ui:584
+#, kde-format
+msgid "LUKS:"
+msgstr "LUKS:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_4)
+#: config/configurepagefilesystemcolors.ui:613
+#, kde-format
+msgid "Linux Swap:"
+msgstr "Trao đổi Linux:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_32)
+#: config/configurepagefilesystemcolors.ui:664
+#, kde-format
+msgid "FAT12:"
+msgstr "FAT12:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_12)
+#: config/configurepagefilesystemcolors.ui:677
+#, kde-format
+msgid "HFS:"
+msgstr "HFS:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_35)
+#: config/configurepagefilesystemcolors.ui:709
+#, kde-format
+msgid "APFS:"
+msgstr "APFS:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_5)
+#: config/configurepagefilesystemcolors.ui:722
+#, kde-format
+msgid "FAT32:"
+msgstr "FAT32:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_18)
+#: config/configurepagefilesystemcolors.ui:751
+#, kde-format
+msgid "Linux RAID:"
+msgstr "RAID Linux:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_34)
+#: config/configurepagefilesystemcolors.ui:764
+#, kde-format
+msgid "BitLocker:"
+msgstr "BitLocker:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_14)
+#: config/configurepagefilesystemcolors.ui:793
+#, kde-format
+msgid "HFS+:"
+msgstr "HFS+:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_16)
+#: config/configurepagefilesystemcolors.ui:819
+#, kde-format
+msgid "unknown:"
+msgstr "không rõ:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_36)
+#: config/configurepagefilesystemcolors.ui:832
+#, kde-format
+msgid "Minix:"
+msgstr "Minix:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_37)
+#: config/configurepagefilesystemcolors.ui:858
+#, kde-format
+msgid "Bcachefs:"
+msgstr "Bcachefs:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: config/configurepagegeneral.ui:28
+#, kde-format
+msgid "Partition Alignment"
+msgstr "Căn chỉnh phân vùng"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_alignDefault)
+#: config/configurepagegeneral.ui:34
+#, kde-format
+msgid "Align partitions per default"
+msgstr "Căn lề phân vùng mặc định"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: config/configurepagegeneral.ui:47
+#, kde-format
+msgid "Sec&tor alignment:"
+msgstr "Căn chỉnh sec&tor:"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_sectorAlignment)
+#: config/configurepagegeneral.ui:60
+#, kde-format
+msgid " sectors"
+msgstr "các mục"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: config/configurepagegeneral.ui:88
+#, kde-format
+msgid "Logging"
+msgstr "Ghi nhật kí"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: config/configurepagegeneral.ui:94
+#, kde-format
+msgid "Hide messa&ges below:"
+msgstr "Ẩn tin n&hắn dưới:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_minLogLevel)
+#: config/configurepagegeneral.ui:105
+#, kde-format
+msgid "Debug"
+msgstr "Gỡ lỗi"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_minLogLevel)
+#: config/configurepagegeneral.ui:110
+#, kde-format
+msgid "Information"
+msgstr "Thông tin"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_minLogLevel)
+#: config/configurepagegeneral.ui:115
+#, kde-format
+msgid "Warning"
+msgstr "Cảnh báo"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_minLogLevel)
+#: config/configurepagegeneral.ui:120
+#, kde-format
+msgid "Error"
+msgstr "Lỗi"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_4)
+#: config/configurepagegeneral.ui:137
+#, kde-format
+msgid "File Systems"
+msgstr "Hệ thống tệp"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: config/configurepagegeneral.ui:143
+#, kde-format
+msgid "&Default file system:"
+msgstr "Hệ thố&ng tệp mặc định:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_5)
+#: config/configurepagegeneral.ui:165
+#, kde-format
+msgid "Shredding"
+msgstr "Phá hủy"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: config/configurepagegeneral.ui:171
+#, kde-format
+msgid "Overwrite with:"
+msgstr "Ghi đè bằng:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton)
+#: config/configurepagegeneral.ui:178
+#, kde-format
+msgid "Random data"
+msgstr "Dữ liệu ngẫu nhiên"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton_2)
+#: config/configurepagegeneral.ui:188
+#, kde-format
+msgid "&Zeros"
+msgstr "Số khôn&g"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_ButtonSave)
+#: gui/applyprogressdetailswidgetbase.ui:42
+#, kde-format
+msgid "Save"
+msgstr "Lưu"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_ButtonBrowser)
+#: gui/applyprogressdetailswidgetbase.ui:49
+#, kde-format
+msgid "Open in External Browser"
+msgstr "Mở trong trình duyệt bên ngoài"
+
+#: gui/applyprogressdialog.cpp:83 gui/applyprogressdialog.cpp:172
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "&Details"
+msgstr "Ch&i tiết"
+
+#: gui/applyprogressdialog.cpp:125
+#, kde-kuit-format
+msgctxt "@info:progress"
+msgid "Setting up..."
+msgstr "Đang thiết lập..."
+
+#: gui/applyprogressdialog.cpp:191
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Do you really want to cancel?"
+msgstr "Bạn có thực sự muốn hủy bỏ không?"
+
+#: gui/applyprogressdialog.cpp:191
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Cancel Running Operations"
+msgstr "Huỷ Các Thao Tác Đang Chạy"
+
+#: gui/applyprogressdialog.cpp:191
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Yes, Cancel Operations"
+msgstr "Có, Huỷ Thao Tác"
+
+#: gui/applyprogressdialog.cpp:196
+#, kde-kuit-format
+msgctxt "@info:progress"
+msgid "Waiting for operation to finish..."
+msgstr "Đang chờ thao tác hoàn tất..."
+
+#: gui/applyprogressdialog.cpp:217
+#, kde-kuit-format
+msgctxt "@info:progress"
+msgid "All operations successfully finished."
+msgstr "Tất cả các thao tác đã hoàn thành thành công."
+
+#: gui/applyprogressdialog.cpp:222
+#, kde-kuit-format
+msgctxt "@info:progress"
+msgid "Operations cancelled."
+msgstr "Các thao tác đã bị hủy."
+
+#: gui/applyprogressdialog.cpp:227
+#, kde-kuit-format
+msgctxt "@info:progress"
+msgid "There were errors while applying operations. Aborted."
+msgstr "Đã xảy ra lỗi trong khi áp dụng các thao tác. Đã bị hủy bỏ."
+
+#: gui/applyprogressdialog.cpp:341
+#, kde-kuit-format
+msgctxt "@info:progress"
+msgid "[%1/%2] - %3: %4"
+msgstr "[%1/%2] - %3: %4"
+
+#: gui/applyprogressdialog.cpp:375
+#, kde-kuit-format
+msgctxt "@info:progress"
+msgid "Total Time: %1"
+msgstr "Tổng thời gian: %1"
+
+#: gui/applyprogressdialog.cpp:423 gui/mainwindow.cpp:1046
+#: gui/mainwindow.cpp:1208 gui/smartdialog.cpp:227
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Could not create temporary file when trying to save to <filename>%1</"
+"filename>."
+msgstr "Không tạo được tệp tạm thời khi cố gắng lưu vào <filename>%1</filename>."
+
+#: gui/applyprogressdialog.cpp:423
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Could Not Save Report."
+msgstr "Không thể lưu báo cáo."
+
+#: gui/applyprogressdialog.cpp:447
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Could not create temporary file <filename>%1</filename> for writing."
+msgstr "Không tạo được tệp tạm thời <filename>%1</filename> để ghi."
+
+#: gui/applyprogressdialog.cpp:447
+#, kde-format
+msgctxt "@title:window"
+msgid "Could Not Launch Browser."
+msgstr "Không thể khởi chạy trình duyệt."
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeTasks)
+#: gui/applyprogressdialogwidgetbase.ui:41
+#, kde-format
+msgid "Operations and Jobs"
+msgstr "Thao tác và Công việc"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeTasks)
+#: gui/applyprogressdialogwidgetbase.ui:46
+#, kde-format
+msgid "Time Elapsed"
+msgstr "Thời gian đã trôi qua"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTime)
+#: gui/applyprogressdialogwidgetbase.ui:72
+#, kde-format
+msgid "Total Time: 00:00:00"
+msgstr "Tổng thời gian: 00:00:00"
+
+#. i18n: ectx: property (format), widget (QProgressBar, m_ProgressSub)
+#: gui/applyprogressdialogwidgetbase.ui:89
+#, no-c-format, kde-format
+msgid "Operation: %p%"
+msgstr "Thao tác: %p%"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelStatus)
+#: gui/applyprogressdialogwidgetbase.ui:99
+#, kde-format
+msgid "Status"
+msgstr "Trạng thái"
+
+#. i18n: ectx: property (format), widget (QProgressBar, m_ProgressTotal)
+#: gui/applyprogressdialogwidgetbase.ui:115
+#, no-c-format, kde-format
+msgid "Total: %p%"
+msgstr "Tổng: %p%"
+
+#: gui/createpartitiontabledialog.cpp:31
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Create a New Partition Table on <filename>%1</filename>"
+msgstr "Tạo Bảng Phân Vùng Mới trên <filename>%1</filename>"
+
+#: gui/createpartitiontabledialog.cpp:34
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Create &New Partition Table"
+msgstr "Tạo &Bảng Phân Vùng Mới"
+
+#: gui/createpartitiontabledialog.cpp:56
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>Do you really want to create an MS-Dos partition table on <filename>"
+"%1</filename>?</para><para>This device has more than 2^32 sectors. That is "
+"the most the MS-Dos partition table type supports, so you will not be able "
+"to use the whole device.</para>"
+msgstr ""
+"<para>Bạn có thực sự muốn tạo một bảng phân vùng MS-Dos trên "
+"<filename>%1</filename> không?</para><para>Thiết bị này có hơn 2^32 sector. "
+"Đó là số lượng tối đa mà kiểu bảng phân vùng MS-Dos hỗ trợ, vì vậy bạn sẽ "
+"không thể sử dụng toàn bộ thiết bị.</para>"
+
+#: gui/createpartitiontabledialog.cpp:58
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Really Create MS-Dos Partition Table Type?"
+msgstr "Thực sự tạo bảng phân vùng kiểu MS-Dos?"
+
+#: gui/createpartitiontabledialog.cpp:59
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Create MS-Dos Type"
+msgstr "Tạo kiểu MS-Dos"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: gui/createpartitiontablewidgetbase.ui:24
+#, kde-format
+msgid "Choose the type of partition table you want to create:"
+msgstr "Chọn kiểu bảng phân vùng bạn muốn tạo:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_RadioGPT)
+#: gui/createpartitiontablewidgetbase.ui:33
+#, kde-format
+msgid "GPT"
+msgstr "GPT"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_RadioMSDOS)
+#: gui/createpartitiontablewidgetbase.ui:43
+#, kde-format
+msgid "MS-Dos"
+msgstr "MS-Dos"
+
+#. i18n: ectx: property (text), widget (QLabel, m_IconLabel)
+#: gui/createpartitiontablewidgetbase.ui:70
+#, kde-format
+msgid "(icon)"
+msgstr "(biểu tượng)"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: gui/createpartitiontablewidgetbase.ui:83
+#, kde-format
+msgid "<b>Warning:</b> This will destroy all data on the device!"
+msgstr "<b>Cảnh báo:</b> Điều này sẽ xóa tất cả dữ liệu trên thiết bị!"
+
+#: gui/createvolumegroupdialog.cpp:38
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Create new Volume Group"
+msgstr "Tạo Nhóm Âm Lượng Mới"
+
+#: gui/devicepropsdialog.cpp:42
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Device Properties: <filename>%1</filename>"
+msgstr "Thuộc tính thiết bị: <filename>%1</filename>"
+
+#: gui/devicepropsdialog.cpp:76 gui/infopane.cpp:168
+#, kde-kuit-format
+msgctxt "@label device"
+msgid "%1 (read only)"
+msgstr "%1 (chỉ đọc)"
+
+#: gui/devicepropsdialog.cpp:99 gui/smartdialog.cpp:80 gui/smartdialog.cpp:147
+#, kde-kuit-format
+msgctxt "@label SMART disk status"
+msgid "good"
+msgstr "tốt"
+
+#: gui/devicepropsdialog.cpp:104 gui/smartdialog.cpp:84 gui/smartdialog.cpp:149
+#, kde-kuit-format
+msgctxt "@label SMART disk status"
+msgid "BAD"
+msgstr "XẤU"
+
+#: gui/devicepropsdialog.cpp:109 gui/smartdialog.cpp:129
+#, kde-kuit-format
+msgctxt "@label"
+msgid "(unknown)"
+msgstr "(không xác định)"
+
+#: gui/devicepropsdialog.cpp:115
+#, kde-kuit-format
+msgctxt "@label device"
+msgid "LVM Volume Group"
+msgstr "Nhóm Khối Lượng LVM"
+
+#: gui/devicepropsdialog.cpp:117
+#, kde-kuit-format
+msgctxt "@label device"
+msgid "Software RAID Device"
+msgstr "Thiết bị RAID phần mềm"
+
+#: gui/devicepropsdialog.cpp:119
+#, kde-kuit-format
+msgctxt "@label device"
+msgid "Volume Manager Device"
+msgstr "Thiết bị Trình quản lý âm lượng"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextLogicalSectorSize)
+#: gui/devicepropswidgetbase.ui:22
+#, kde-format
+msgid "Logical sector size:"
+msgstr "Kích thước phân đoạn luận lí:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextPrimariesMax)
+#: gui/devicepropswidgetbase.ui:32
+#, kde-format
+msgid "Primaries/Max:"
+msgstr "Sơ cấp/Tối đa:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextTotalSectors)
+#: gui/devicepropswidgetbase.ui:42
+#, kde-format
+msgid "Total sectors:"
+msgstr "Tổng số sector:"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_ButtonSmartMore)
+#. i18n: ectx: property (text), widget (QPushButton, m_ButtonMore)
+#: gui/devicepropswidgetbase.ui:83 gui/editmountpointdialogwidgetbase.ui:102
+#, kde-format
+msgid "More..."
+msgstr "Thêm..."
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextCapacity)
+#: gui/devicepropswidgetbase.ui:92
+#, kde-format
+msgid "Capacity:"
+msgstr "Dung lượng:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextSmartStatus)
+#: gui/devicepropswidgetbase.ui:112 gui/smartdialog.cpp:147
+#: gui/smartdialog.cpp:149 gui/smartdialogwidgetbase.ui:28
+#, kde-format
+msgid "SMART status:"
+msgstr "Trạng thái SMART:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextPhysicalSectorSize)
+#: gui/devicepropswidgetbase.ui:198
+#, kde-format
+msgid "Physical sector size:"
+msgstr "Kích thước sector vật lý:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextType)
+#: gui/devicepropswidgetbase.ui:267
+#, kde-format
+msgid "Partition table:"
+msgstr "Bảng phân vùng:"
+
+#: gui/editmountoptionsdialog.cpp:25
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Edit additional mount options"
+msgstr "Sửa các tùy chọn gắn kết bổ sung"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, EditMountOptionsDialogWidgetBase)
+#: gui/editmountoptionsdialogwidgetbase.ui:19
+#, kde-format
+msgid "Edit Mount Options"
+msgstr "Sửa Tùy Chọn Gắn Kết"
+
+#. i18n: ectx: property (text), widget (QLabel, m_Label)
+#: gui/editmountoptionsdialogwidgetbase.ui:25
+#, kde-format
+msgid "Edit the mount options for this file system:"
+msgstr "Sửa các tùy chọn gắn kết cho hệ thống tệp này:"
+
+#. i18n: ectx: property (placeholderText), widget (QPlainTextEdit, m_EditOptions)
+#: gui/editmountoptionsdialogwidgetbase.ui:32
+#, kde-format
+msgid "Option1,Option2"
+msgstr "Tùy chọn1,Tùy chọn2"
+
+#: gui/editmountpointdialog.cpp:32
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Edit mount point for <filename>%1</filename>"
+msgstr "Sửa điểm gắn kết cho <filename>%1</filename>"
+
+#: gui/editmountpointdialog.cpp:62
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>Are you sure you want to save the changes you made to the system table "
+"file <filename>/etc/fstab</filename>?</para><para><warning>This will "
+"overwrite the existing file on your hard drive now. This <emphasis "
+"strong='1'>can not be undone</emphasis>.</warning></para>"
+msgstr ""
+"<para>Bạn có chắc chắn muốn lưu các thay đổi bạn đã thực hiện vào tệp bảng "
+"hệ thống <filename>/etc/fstab</filename> không?</para><para><warning>Điều "
+"này sẽ ghi đè lên tệp hiện có trên ổ cứng của bạn ngay bây giờ. Hành động "
+"này <emphasis strong='1'>không thể hoàn tác</emphasis>.</warning></para>"
+
+#: gui/editmountpointdialog.cpp:64
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Really save changes?"
+msgstr "Thực sự lưu các thay đổi?"
+
+#: gui/editmountpointdialog.cpp:65
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Save changes"
+msgstr "Lưu thay đổi"
+
+#: gui/editmountpointdialog.cpp:80
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Could not save mount points to file <filename>/etc/fstab</filename>."
+msgstr "Không lưu được các điểm gắn kết vào tệp <filename>/etc/fstab</filename>."
+
+#: gui/editmountpointdialog.cpp:81
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Error While Saving Mount Points"
+msgstr "Lỗi Khi Lưu Điểm Gắn Kết"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_RadioLabel)
+#: gui/editmountpointdialogwidgetbase.ui:23
+#, kde-format
+msgid "&Label"
+msgstr "&nhãn"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelDumpFreq)
+#: gui/editmountpointdialogwidgetbase.ui:46
+#, kde-format
+msgid "Dump &Frequency:"
+msgstr "Tần &suất xổ:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckNoAuto)
+#: gui/editmountpointdialogwidgetbase.ui:75
+#, kde-format
+msgid "No automatic mount"
+msgstr "Không tự động gắn kết"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckSync)
+#: gui/editmountpointdialogwidgetbase.ui:95
+#, kde-format
+msgid "Synchronous access"
+msgstr "Truy cập đồng bộ"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelPassNumber)
+#: gui/editmountpointdialogwidgetbase.ui:109
+#, kde-format
+msgid "Pass &Number:"
+msgstr "Số &thứ tự:"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_ButtonRemove)
+#: gui/editmountpointdialogwidgetbase.ui:128
+#, kde-format
+msgid "Remove"
+msgstr "Xoá"
+
+#. i18n: ectx: property (text), widget (KMessageWidget, m_PathMessage)
+#: gui/editmountpointdialogwidgetbase.ui:141
+#, kde-format
+msgid "A valid path is required."
+msgstr "Yêu cầu một đường dẫn hợp lệ."
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelPath)
+#: gui/editmountpointdialogwidgetbase.ui:173
+#, kde-format
+msgid "Path:"
+msgstr "Đường dẫn:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckUsers)
+#: gui/editmountpointdialogwidgetbase.ui:183
+#, kde-format
+msgid "Users can mount and unmount"
+msgstr "Người dùng có thể gắn kết và bỏ gắn kết"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelType)
+#: gui/editmountpointdialogwidgetbase.ui:190
+#, kde-format
+msgid "Type:"
+msgstr "Loại:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_RadioUUID)
+#: gui/editmountpointdialogwidgetbase.ui:200
+#, kde-format
+msgid "UU&ID"
+msgstr "UU&ID"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_ButtonSelect)
+#: gui/editmountpointdialogwidgetbase.ui:213
+#, kde-format
+msgid "Select..."
+msgstr "Chọn..."
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_RadioDeviceNode)
+#: gui/editmountpointdialogwidgetbase.ui:220
+#, kde-format
+msgid "De&vice Node"
+msgstr "Nú&t thiết bị"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckNoAtime)
+#: gui/editmountpointdialogwidgetbase.ui:230
+#, kde-format
+msgid "No update of file access times"
+msgstr "Không cập nhật thời gian truy cập tệp"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckNoExec)
+#: gui/editmountpointdialogwidgetbase.ui:250
+#, kde-format
+msgid "No binary execution"
+msgstr "Không có thực thi nhị phân"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckRelAtime)
+#: gui/editmountpointdialogwidgetbase.ui:264
+#, kde-format
+msgid "Update access times relative to modification"
+msgstr "Cập nhật thời gian truy cập tương đối với chỉnh sửa"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckNoFail)
+#: gui/editmountpointdialogwidgetbase.ui:271
+#, kde-format
+msgid "Don't prevent the system from booting if not mountable"
+msgstr "Không ngăn cản hệ thống khởi động nếu không thể gắn"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckNoDirAtime)
+#: gui/editmountpointdialogwidgetbase.ui:285
+#, kde-format
+msgid "No update of directory access times"
+msgstr "Không cập nhật thời gian truy cập thư mục"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: gui/editmountpointdialogwidgetbase.ui:295
+#, kde-format
+msgid "Identify by:"
+msgstr "Nhận dạng bằng:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckReadOnly)
+#: gui/editmountpointdialogwidgetbase.ui:305
+#, kde-format
+msgid "Read-only"
+msgstr "Chỉ đọc"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelOptions)
+#: gui/editmountpointdialogwidgetbase.ui:312
+#, kde-format
+msgid "Options:"
+msgstr "Tùy chọn:"
+
+#: gui/filesystemsupportdialog.cpp:31
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "File System Support"
+msgstr "Hỗ trợ Hệ thống Tệp"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: gui/filesystemsupportdialogwidgetbase.ui:23
+#, kde-format
+msgid ""
+"This table shows which file systems are supported and which specific "
+"operations can be performed on them.\n"
+"Some file systems need external tools to be installed for them to be "
+"supported. But not all operations can be performed on all file systems, even "
+"if all required tools are installed. Please see the documentation for "
+"details. "
+msgstr ""
+"Bảng này hiển thị các hệ thống tệp được hỗ trợ và những thao tác cụ thể có "
+"thể được thực hiện trên chúng.\nMột số hệ thống tệp cần cài đặt các công cụ "
+"bên ngoài để được hỗ trợ. Nhưng không phải tất cả các thao tác đều có thể "
+"được thực hiện trên tất cả các hệ thống tệp, ngay cả khi tất cả các công cụ "
+"cần thiết đã được cài đặt. Vui lòng xem tài liệu để biết thêm chi tiết."
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:70
+#, kde-format
+msgid "File System"
+msgstr "Hệ thống tệp"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:75
+#, kde-format
+msgid "Create"
+msgstr "Tạo"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:80
+#, kde-format
+msgid "Grow"
+msgstr "Mở rộng"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:85
+#, kde-format
+msgid "Shrink"
+msgstr "Thu nhỏ"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:90
+#, kde-format
+msgid "Move"
+msgstr "Di chuyển"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:95
+#, kde-format
+msgid "Copy"
+msgstr "Sao chép"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:100
+#, kde-format
+msgid "Check"
+msgstr "Kiểm tra"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:105
+#, kde-format
+msgid "Read Label"
+msgstr "Đọc nhãn"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:110
+#, kde-format
+msgid "Write Label"
+msgstr "Viết nhãn"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:115
+#, kde-format
+msgid "Read Usage"
+msgstr "Đọc Sử dụng"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:120
+#, kde-format
+msgid "Backup"
+msgstr "Sao lưu"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:125
+#, kde-format
+msgid "Restore"
+msgstr "Khôi phục"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:130
+#, kde-format
+msgid "Support Tools"
+msgstr "Công cụ hỗ trợ"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_ButtonRescan)
+#: gui/filesystemsupportdialogwidgetbase.ui:140
+#, kde-format
+msgctxt "@action:button"
+msgid "Rescan Support"
+msgstr "Quét lại Hỗ trợ"
+
+#. i18n: ectx: property (windowTitle), widget (QDockWidget, m_DockInformation)
+#: gui/infopane.cpp:47 gui/mainwindowbase.ui:47
+#, kde-format, kde-kuit-format
+msgctxt "@title:window"
+msgid "Information"
+msgstr "Thông tin"
+
+#: gui/infopane.cpp:106
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Partition Information"
+msgstr "Thông tin phân vùng"
+
+#: gui/infopane.cpp:113 gui/infopane.cpp:127 gui/infopane.cpp:139
+#, kde-format, kde-kuit-format
+msgctxt "@label partition"
+msgid "File system:"
+msgstr "Hệ thống tệp:"
+
+#: gui/infopane.cpp:114 gui/infopane.cpp:128 gui/infopane.cpp:140
+#, kde-format, kde-kuit-format
+msgctxt "@label partition"
+msgid "Capacity:"
+msgstr "Dung lượng:"
+
+#: gui/infopane.cpp:115
+#, kde-format
+msgctxt "@label partition"
+msgid "Cipher name:"
+msgstr "Tên mã hóa:"
+
+#: gui/infopane.cpp:116
+#, kde-format
+msgctxt "@label partition"
+msgid "Cipher mode:"
+msgstr "Chế độ mã hóa:"
+
+#: gui/infopane.cpp:117
+#, kde-format
+msgctxt "@label partition"
+msgid "Hash:"
+msgstr "Băm:"
+
+#: gui/infopane.cpp:118
+#, kde-format
+msgctxt "@label partition"
+msgid "Key size:"
+msgstr "Kích thước khóa:"
+
+#: gui/infopane.cpp:119
+#, kde-format
+msgctxt "@label partition"
+msgid "Payload offset:"
+msgstr "Offset tải:"
+
+#: gui/infopane.cpp:120 gui/infopane.cpp:135 gui/infopane.cpp:143
+#, kde-format, kde-kuit-format
+msgctxt "@label partition"
+msgid "First sector:"
+msgstr "Sector đầu tiên:"
+
+#: gui/infopane.cpp:121 gui/infopane.cpp:136 gui/infopane.cpp:144
+#, kde-format, kde-kuit-format
+msgctxt "@label partition"
+msgid "Last sector:"
+msgstr "Sector cuối cùng:"
+
+#: gui/infopane.cpp:122 gui/infopane.cpp:137 gui/infopane.cpp:145
+#, kde-format, kde-kuit-format
+msgctxt "@label partition"
+msgid "Number of sectors:"
+msgstr "Số lượng sector:"
+
+#: gui/infopane.cpp:129 gui/infopane.cpp:141
+#, kde-format, kde-kuit-format
+msgctxt "@label partition"
+msgid "Available:"
+msgstr "Có sẵn:"
+
+#: gui/infopane.cpp:130 gui/infopane.cpp:142
+#, kde-format, kde-kuit-format
+msgctxt "@label partition"
+msgid "Used:"
+msgstr "Đã sử dụng:"
+
+#: gui/infopane.cpp:131
+#, kde-format
+msgctxt "@label partition"
+msgid "PE Size:"
+msgstr "Kích thước PE:"
+
+#: gui/infopane.cpp:132
+#, kde-format
+msgctxt "@label partition"
+msgid "Total PE:"
+msgstr "Tổng số PE:"
+
+#: gui/infopane.cpp:133
+#, kde-format
+msgctxt "@label partition"
+msgid "Free PE:"
+msgstr "Phân vùng trống:"
+
+#: gui/infopane.cpp:134
+#, kde-format
+msgctxt "@label partition"
+msgid "Allocated PE:"
+msgstr "Phân vùng được cấp:"
+
+#: gui/infopane.cpp:157
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Device Information"
+msgstr "Thông tin thiết bị"
+
+#: gui/infopane.cpp:161
+#, kde-kuit-format
+msgctxt "@label device"
+msgid "Path:"
+msgstr "Đường dẫn:"
+
+#: gui/infopane.cpp:176
+#, kde-format
+msgctxt "@label device"
+msgid "Type:"
+msgstr "Loại:"
+
+#: gui/infopane.cpp:177 gui/infopane.cpp:185 gui/infopane.cpp:193
+#, kde-format
+msgctxt "@label device"
+msgid "Capacity:"
+msgstr "Dung lượng:"
+
+#: gui/infopane.cpp:178
+#, kde-format
+msgctxt "@label device"
+msgid "Total sectors:"
+msgstr "Tổng số sector:"
+
+#: gui/infopane.cpp:179
+#, kde-format
+msgctxt "@label device"
+msgid "Logical sector size:"
+msgstr "Kích thước phân đoạn luận lí:"
+
+#: gui/infopane.cpp:180
+#, kde-format
+msgctxt "@label device"
+msgid "Physical sector size:"
+msgstr "Kích thước sector vật lý:"
+
+#: gui/infopane.cpp:181
+#, kde-format
+msgctxt "@label device"
+msgid "Primaries/Max:"
+msgstr "Sơ cấp/Tối đa:"
+
+#: gui/infopane.cpp:184 gui/infopane.cpp:192
+#, kde-format
+msgctxt "@label device"
+msgid "Volume Type:"
+msgstr "Loại âm lượng:"
+
+#: gui/infopane.cpp:186
+#, kde-format
+msgctxt "@label device"
+msgid "PE Size:"
+msgstr "Kích thước PE:"
+
+#: gui/infopane.cpp:187
+#, kde-format
+msgctxt "@label device"
+msgid "Total PE:"
+msgstr "Tổng số PE:"
+
+#: gui/infopane.cpp:188
+#, kde-format
+msgctxt "@label device"
+msgid "Allocated PE:"
+msgstr "Phân bổ PE:"
+
+#: gui/infopane.cpp:189
+#, kde-format
+msgctxt "@label device"
+msgid "Free PE:"
+msgstr "Không gian PE còn trống:"
+
+#: gui/infopane.cpp:194
+#, kde-format
+msgctxt "@label device"
+msgid "RAID Level:"
+msgstr "Cấp RAID:"
+
+#: gui/infopane.cpp:195
+#, kde-format
+msgctxt "@label device"
+msgid "Chunk Size:"
+msgstr "Kích thước Chunk:"
+
+#: gui/infopane.cpp:196
+#, kde-format
+msgctxt "@label device"
+msgid "Total Chunk:"
+msgstr "Tổng số Chunk:"
+
+#: gui/infopane.cpp:197
+#, kde-format
+msgctxt "@label device"
+msgid "Array Size:"
+msgstr "Kích thước mảng:"
+
+#: gui/insertdialog.cpp:32
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Insert a partition"
+msgstr "Chèn một phân vùng"
+
+#: gui/listphysicalvolumes.cpp:39
+#, kde-kuit-format
+msgctxt "@item:inlistbox Device | Capacity"
+msgid "%1 | %2"
+msgstr "%1 | %2"
+
+#: gui/mainwindow.cpp:167
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Partition Manager requires privileges in order to work. Please refresh the "
+"devices and authenticate when prompted."
+msgstr ""
+"Trình quản lý phân vùng yêu cầu đặc quyền để hoạt động. Vui lòng cập nhật "
+"các thiết bị và xác thực khi được nhắc."
+
+#: gui/mainwindow.cpp:234
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>Do you really want to quit the application?</para><para>There is still "
+"an operation pending.</para>"
+msgid_plural ""
+"<para>Do you really want to quit the application?</para><para>There are "
+"still %1 operations pending.</para>"
+msgstr[0] ""
+"<para>Bạn có thực sự muốn thoát ứng dụng không?</para><para>Vẫn còn %1 thao "
+"tác đang chờ xử lý.</para>"
+
+#: gui/mainwindow.cpp:236
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Discard Pending Operations and Quit?"
+msgstr "Loại bỏ các thao tác chưa hoàn thành và thoát?"
+
+#: gui/mainwindow.cpp:237
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Quit <application>%1</application>"
+msgstr "Thoát <application>%1</application>"
+
+#: gui/mainwindow.cpp:279
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Undo"
+msgstr "đảo ngược"
+
+#: gui/mainwindow.cpp:280
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Undo the last operation"
+msgstr "Đảo ngược thao tác cuối cùng"
+
+#: gui/mainwindow.cpp:281
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Remove the last operation from the list."
+msgstr "Xoá bỏ thao tác cuối cùng khỏi danh sách."
+
+#: gui/mainwindow.cpp:288
+#, kde-kuit-format
+msgctxt "@action:inmenu clear the list of operations"
+msgid "Clear"
+msgstr "Làm trống"
+
+#: gui/mainwindow.cpp:289
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Clear all operations"
+msgstr "Làm trống tất cả các thao tác"
+
+#: gui/mainwindow.cpp:290
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Empty the list of pending operations."
+msgstr "Xóa danh sách các thao tác đang chờ xử lý."
+
+#: gui/mainwindow.cpp:296
+#, kde-kuit-format
+msgctxt "@action:inmenu apply all operations"
+msgid "Apply"
+msgstr "Áp dụng"
+
+#: gui/mainwindow.cpp:297
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Apply all operations"
+msgstr "Áp dụng tất cả các thao tác"
+
+#: gui/mainwindow.cpp:298
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Apply the pending operations in the list."
+msgstr "Áp dụng các thao tác đang chờ xử lý trong danh sách."
+
+#: gui/mainwindow.cpp:305
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "New Partition Table"
+msgstr "Bảng Phân Vùng Mới"
+
+#: gui/mainwindow.cpp:306
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Create a new partition table"
+msgstr "Tạo bảng phân vùng mới"
+
+#: gui/mainwindow.cpp:307
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Create a new and empty partition table on a device."
+msgstr "Tạo một bảng phân vùng mới và trống trên một thiết bị."
+
+#: gui/mainwindow.cpp:314
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Export Partition Table"
+msgstr "Xuất Bảng Phân Vùng"
+
+#: gui/mainwindow.cpp:315
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Export a partition table"
+msgstr "Xuất bảng phân vùng"
+
+#: gui/mainwindow.cpp:316
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Export the device's partition table to a text file."
+msgstr "Xuất bảng phân vùng của thiết bị ra tệp tin văn bản."
+
+#: gui/mainwindow.cpp:322
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Import Partition Table"
+msgstr "Nhập Bảng Phân Vùng"
+
+#: gui/mainwindow.cpp:323
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Import a partition table"
+msgstr "Nhập khẩu bảng phân vùng"
+
+#: gui/mainwindow.cpp:324
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Import a partition table from a text file."
+msgstr "Nhập khẩu bảng phân vùng từ tệp văn bản."
+
+#: gui/mainwindow.cpp:331
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Remove Volume Group"
+msgstr "Xoá Nhóm Âm Lượng"
+
+#: gui/mainwindow.cpp:332
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Remove selected Volume Group"
+msgstr "Xoá Nhóm Âm Lượng đã chọn"
+
+#: gui/mainwindow.cpp:333
+#, kde-format
+msgctxt "@info:status"
+msgid "Remove selected Volume Group."
+msgstr "Xoá Nhóm Âm Lượng đã chọn."
+
+#: gui/mainwindow.cpp:341
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Resize Volume Group"
+msgstr "Thay đổi kích thước Nhóm Âm lượng"
+
+#: gui/mainwindow.cpp:342
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Resize selected Volume Group"
+msgstr "Thay đổi kích thước Nhóm Âm lượng đã chọn"
+
+#: gui/mainwindow.cpp:343
+#, kde-format
+msgctxt "@info:status"
+msgid "Extend or reduce selected Volume Group."
+msgstr "Mở rộng hoặc thu nhỏ Nhóm Âm lượng đã chọn."
+
+#: gui/mainwindow.cpp:351
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Deactivate Volume Group"
+msgstr "Vô hiệu hóa Nhóm Âm lượng"
+
+#: gui/mainwindow.cpp:352
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Deactivate selected Volume Group"
+msgstr "Vô hiệu hóa Nhóm Âm lượng đã chọn"
+
+#: gui/mainwindow.cpp:353
+#, kde-format
+msgctxt "@info:status"
+msgid "Deactivate selected Volume Group before unplugging removable devices."
+msgstr ""
+"Hãy vô hiệu hóa Nhóm Âm lượng đã chọn trước khi ngắt kết nối các thiết bị "
+"di động."
+
+#: gui/mainwindow.cpp:359
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "SMART Status"
+msgstr "Trạng thái SMART"
+
+#: gui/mainwindow.cpp:360
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Show SMART status"
+msgstr "Hiển thị trạng thái SMART"
+
+#: gui/mainwindow.cpp:361
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Show the device's SMART status if supported"
+msgstr "Hiển thị trạng thái SMART của thiết bị nếu được hỗ trợ"
+
+#: gui/mainwindow.cpp:366 gui/mainwindow.cpp:458
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Properties"
+msgstr "Thuộc tính"
+
+#: gui/mainwindow.cpp:367
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Show device properties dialog"
+msgstr "Hiện hộp thoại thuộc tính thiết bị"
+
+#: gui/mainwindow.cpp:368
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "View and modify device properties"
+msgstr "Xem và chỉnh sửa thuộc tính thiết bị"
+
+#: gui/mainwindow.cpp:375
+#, kde-kuit-format
+msgctxt "@action:inmenu create a new partition"
+msgid "New"
+msgstr "Mới"
+
+#: gui/mainwindow.cpp:376
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "New partition"
+msgstr "Phân vùng mới"
+
+#: gui/mainwindow.cpp:377
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Create a new partition."
+msgstr "Tạo một phân vùng mới."
+
+#: gui/mainwindow.cpp:384
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Resize/Move"
+msgstr "Thay đổi kích thước/Di chuyển"
+
+#: gui/mainwindow.cpp:385
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Resize or move partition"
+msgstr "Thay đổi kích thước hoặc di chuyển phân vùng"
+
+#: gui/mainwindow.cpp:386
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Shrink, grow or move an existing partition."
+msgstr "Thu nhỏ, mở rộng hoặc di chuyển một phân vùng hiện có."
+
+#: gui/mainwindow.cpp:393
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Delete"
+msgstr "Xóa"
+
+#: gui/mainwindow.cpp:394
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Delete partition"
+msgstr "Xóa phân vùng"
+
+#: gui/mainwindow.cpp:395
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Delete a partition."
+msgstr "Xóa một phân vùng."
+
+#: gui/mainwindow.cpp:402
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Shred"
+msgstr "Xóa"
+
+#: gui/mainwindow.cpp:403
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Shred partition"
+msgstr "Phân vùng xé vụn"
+
+#: gui/mainwindow.cpp:404
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Shred a partition so that its contents cannot be restored."
+msgstr "Xóa sạch một phân vùng để nội dung của nó không thể được khôi phục."
+
+#: gui/mainwindow.cpp:411
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Copy"
+msgstr "Sao chép"
+
+#: gui/mainwindow.cpp:412
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Copy partition"
+msgstr "Sao chép phân vùng"
+
+#: gui/mainwindow.cpp:413
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Copy an existing partition."
+msgstr "Sao chép một phân vùng hiện có."
+
+#: gui/mainwindow.cpp:420
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Paste"
+msgstr "Dán"
+
+#: gui/mainwindow.cpp:421
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Paste partition"
+msgstr "Dán phân vùng"
+
+#: gui/mainwindow.cpp:422
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Paste a copied partition."
+msgstr "Dán một phân vùng đã sao chép."
+
+#: gui/mainwindow.cpp:429
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Edit Mount Point"
+msgstr "Sửa Điểm Gắn Kết"
+
+#: gui/mainwindow.cpp:430
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Edit mount point"
+msgstr "Sửa điểm gắn kết"
+
+#: gui/mainwindow.cpp:431
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Edit a partition's mount point and options."
+msgstr "Sửa điểm gắn kết và tùy chọn của một phân vùng."
+
+#: gui/mainwindow.cpp:436
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Mount"
+msgstr "Gắn kết"
+
+#: gui/mainwindow.cpp:437
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Mount or unmount partition"
+msgstr "Gắn kết hoặc bỏ gắn kết phân vùng"
+
+#: gui/mainwindow.cpp:438
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Mount or unmount a partition."
+msgstr "Gắn kết hoặc bỏ gắn kết một phân vùng."
+
+#: gui/mainwindow.cpp:443
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Unlock"
+msgstr "Mở khóa"
+
+#: gui/mainwindow.cpp:444
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Unlock or lock encrypted partition"
+msgstr "Mở khoá hoặc khoá phân vùng mật mã hoá"
+
+#: gui/mainwindow.cpp:445
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Unlock or lock encrypted partition."
+msgstr "Mở khoá hoặc khoá phân vùng mật mã hoá."
+
+#: gui/mainwindow.cpp:450
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Check"
+msgstr "Kiểm tra"
+
+#: gui/mainwindow.cpp:451
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Check partition"
+msgstr "Kiểm tra phân vùng"
+
+#: gui/mainwindow.cpp:452
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Check a filesystem on a partition for errors."
+msgstr "Kiểm tra lỗi trên một phân vùng hệ thống tập tin."
+
+#: gui/mainwindow.cpp:459
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Show partition properties dialog"
+msgstr "Hiện hộp thoại thuộc tính phân vùng"
+
+#: gui/mainwindow.cpp:460
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "View and modify partition properties (label, partition flags, etc.)"
+msgstr "Xem và chỉnh sửa thuộc tính phân vùng (nhãn, cờ phân vùng, v.v.)"
+
+#: gui/mainwindow.cpp:466
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Backup"
+msgstr "Sao lưu"
+
+#: gui/mainwindow.cpp:467
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Backup partition"
+msgstr "Phân vùng sao lưu"
+
+#: gui/mainwindow.cpp:468
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Backup a partition to an image file."
+msgstr "Sao lưu một phân vùng vào một tệp ảnh."
+
+#: gui/mainwindow.cpp:474
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Restore"
+msgstr "Khôi phục"
+
+#: gui/mainwindow.cpp:475
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Restore partition"
+msgstr "Khôi phục phân vùng"
+
+#: gui/mainwindow.cpp:476
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Restore a partition from an image file."
+msgstr "Khôi phục một phân vùng từ một tệp ảnh."
+
+#: gui/mainwindow.cpp:483
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "New Volume Group"
+msgstr "Nhóm Âm Lượng Mới"
+
+#: gui/mainwindow.cpp:484
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Create a new LVM Volume Group"
+msgstr "Tạo một Nhóm Khối Lượng LVM mới"
+
+#: gui/mainwindow.cpp:485
+#, kde-format
+msgctxt "@info:status"
+msgid "Create a new LVM Volume Group as a device."
+msgstr "Tạo một Nhóm Khối Lượng LVM mới như một thiết bị."
+
+#: gui/mainwindow.cpp:491
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "File System Support"
+msgstr "Hỗ trợ Hệ thống Tệp"
+
+#: gui/mainwindow.cpp:492
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "View file system support information"
+msgstr "Xem thông tin hỗ trợ hệ thống tệp"
+
+#: gui/mainwindow.cpp:493
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Show information about supported file systems."
+msgstr "Hiển thị thông tin về các hệ thống tệp được hỗ trợ."
+
+#: gui/mainwindow.cpp:497
+#, kde-kuit-format
+msgctxt "@action:inmenu refresh list of devices"
+msgid "Refresh Devices"
+msgstr "Cập nhật Thiết bị"
+
+#: gui/mainwindow.cpp:498
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Refresh all devices"
+msgstr "Cập nhật tất cả các thiết bị"
+
+#: gui/mainwindow.cpp:499
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Renew the devices list."
+msgstr "Làm mới danh sách thiết bị."
+
+#: gui/mainwindow.cpp:515
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Clear Log"
+msgstr "Làm trống Nhật kí"
+
+#: gui/mainwindow.cpp:516
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Clear the log output"
+msgstr "Làm trống đầu ra nhật kí"
+
+#: gui/mainwindow.cpp:517
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Clear the log output panel."
+msgstr "Làm trống bảng xuất nhật kí."
+
+#: gui/mainwindow.cpp:522
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Save Log"
+msgstr "Lưu Nhật Kí"
+
+#: gui/mainwindow.cpp:523
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Save the log output"
+msgstr "Lưu đầu ra nhật kí"
+
+#: gui/mainwindow.cpp:524
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Save the log output to a file."
+msgstr "Lưu đầu ra nhật kí vào một tệp."
+
+#: gui/mainwindow.cpp:530
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "About KPMcore Library"
+msgstr "Thông tin về Thư viện KPMcore"
+
+#: gui/mainwindow.cpp:531
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Show About KPMcore dialog"
+msgstr "Hiện hộp thoại thông tin về KPMcore"
+
+#: gui/mainwindow.cpp:532
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Show About KPMcore dialog."
+msgstr "Hiển thị hộp thoại Thông tin về KPMcore."
+
+#: gui/mainwindow.cpp:714
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "One pending operation"
+msgid_plural "%1 pending operations"
+msgstr[0] "%1 thao tác đang chờ"
+
+#: gui/mainwindow.cpp:809
+#, kde-kuit-format
+msgctxt "@info:progress"
+msgid "Using backend plugin: %1 (%2)"
+msgstr "Sử dụng plugin hậu phương: %1 (%2)"
+
+#: gui/mainwindow.cpp:813
+#, kde-kuit-format
+msgctxt "@info:progress"
+msgid "Scanning devices..."
+msgstr "Đang quét thiết bị..."
+
+#: gui/mainwindow.cpp:851
+#, kde-kuit-format
+msgctxt "@info:progress"
+msgid "Scan finished."
+msgstr "Quét hoàn tất."
+
+#: gui/mainwindow.cpp:915
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>Do you really want to rescan the devices?</para><para><warning>This "
+"will also clear the list of pending operations.</warning></para>"
+msgstr ""
+"<para>Bạn có thực sự muốn quét lại các thiết bị "
+"không?</para><para><warning>Điều này cũng sẽ làm trống danh sách các thao "
+"tác đang chờ xử lý.</warning></para>"
+
+#: gui/mainwindow.cpp:917
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Really Rescan the Devices?"
+msgstr "Thực sự quét lại các thiết bị?"
+
+#: gui/mainwindow.cpp:918
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Rescan Devices"
+msgstr "Quét lại Thiết bị"
+
+#: gui/mainwindow.cpp:944
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>Do you really want to apply the pending operations listed below?</"
+"para><para><warning>This will permanently modify your disks.</warning></para>"
+msgstr ""
+"<para>Bạn có thực sự muốn áp dụng các thao tác đang chờ xử lý được liệt kê "
+"dưới đây không?</para><para><warning>Điều này sẽ chỉnh sửa vĩnh viễn các ổ "
+"đĩa của bạn.</warning></para>"
+
+#: gui/mainwindow.cpp:946
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Apply Pending Operations?"
+msgstr "Áp dụng các thao tác chưa hoàn tất?"
+
+#: gui/mainwindow.cpp:947
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Apply Pending Operations"
+msgstr "Áp dụng các thao tác đang chờ"
+
+#: gui/mainwindow.cpp:949
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Applying operations..."
+msgstr "Đang áp dụng các thao tác..."
+
+#: gui/mainwindow.cpp:974
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Undoing operation: %1"
+msgstr "Đang đảo ngược thao tác: %1"
+
+#: gui/mainwindow.cpp:990
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Do you really want to clear the list of pending operations?"
+msgstr "Bạn có thực sự muốn làm trống danh sách các thao tác đang chờ xử lý không?"
+
+#: gui/mainwindow.cpp:991
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Clear Pending Operations?"
+msgstr "Xóa các thao tác chờ xử lý?"
+
+#: gui/mainwindow.cpp:992
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Clear Pending Operations"
+msgstr "Làm trống Các Thao Tác Chờ Xử Lý"
+
+#: gui/mainwindow.cpp:994
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Clearing the list of pending operations."
+msgstr "Đang xóa danh sách các thao tác chờ xử lý."
+
+#: gui/mainwindow.cpp:1036
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Could not open input file <filename>%1</filename> for import"
+msgstr "Không mở được tệp đầu vào <filename>%1</filename> để nhập khẩu"
+
+#: gui/mainwindow.cpp:1036 gui/mainwindow.cpp:1046 gui/mainwindow.cpp:1054
+#: gui/mainwindow.cpp:1060
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Error Importing Partition Table"
+msgstr "Lỗi Nhập Bảng Phân Vùng"
+
+#: gui/mainwindow.cpp:1054
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Could not open input file <filename>%1</filename> for import: %2"
+msgstr "Không mở được tệp đầu vào <filename>%1</filename> để nhập: %2"
+
+#: gui/mainwindow.cpp:1060
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Could not open temporary file <filename>%1</filename> while trying to import "
+"from <filename>%2</filename>."
+msgstr ""
+"Không mở được tệp tạm thời <filename>%1</filename> khi đang cố gắng nhập "
+"khẩu từ <filename>%2</filename>."
+
+#: gui/mainwindow.cpp:1090
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The import file <filename>%1</filename> does not contain a valid partition "
+"table."
+msgstr "Tệp nhập khẩu <filename>%1</filename> không chứa bảng phân vùng hợp lệ."
+
+#: gui/mainwindow.cpp:1090 gui/mainwindow.cpp:1100 gui/mainwindow.cpp:1107
+#: gui/mainwindow.cpp:1112 gui/mainwindow.cpp:1122 gui/mainwindow.cpp:1135
+#: gui/mainwindow.cpp:1140 gui/mainwindow.cpp:1159 gui/mainwindow.cpp:1164
+#: gui/mainwindow.cpp:1169 gui/mainwindow.cpp:1176 gui/mainwindow.cpp:1452
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Error While Importing Partition Table"
+msgstr "Lỗi Khi Nhập Bảng Phân Vùng"
+
+#: gui/mainwindow.cpp:1100
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Found more than one partition table type in import file (line %1)."
+msgstr "Tìm thấy nhiều hơn một kiểu bảng phân vùng trong tệp nhập khẩu (dòng %1)."
+
+#: gui/mainwindow.cpp:1107
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Partition table type \"%1\" is unknown (line %2)."
+msgstr "Kiểu bảng phân vùng \"%1\" không rõ (dòng %2)."
+
+#: gui/mainwindow.cpp:1112
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Partition table type \"%1\" is not supported for import (line %2)."
+msgstr "Kiểu bảng phân vùng \"%1\" không được hỗ trợ để nhập khẩu (dòng %2)."
+
+#: gui/mainwindow.cpp:1122
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Found partition but no partition table type (line %1)."
+msgstr "Đã tìm thấy phân vùng nhưng không có kiểu bảng phân vùng (dòng %1)."
+
+#: gui/mainwindow.cpp:1135
+#, kde-kuit-format
+msgctxt "@info the partition is NOT a device path, just a number"
+msgid "Partition %1 would be outside the device's boundaries (line %2)."
+msgstr "Phân vùng %1 sẽ nằm ngoài ranh giới của thiết bị (dòng %2)."
+
+#: gui/mainwindow.cpp:1140
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Partition %1 has end before start sector (line %2)."
+msgstr "Phân vùng %1 có kết thúc trước khu vực khởi động (dòng %2)."
+
+#: gui/mainwindow.cpp:1159
+#, kde-kuit-format
+msgctxt "@info the partition is NOT a device path, just a number"
+msgid "Unrecognized partition role \"%1\" for partition %2 (line %3)."
+msgstr "Không nhận ra vai trò phân vùng \"%1\" cho phân vùng %2 (dòng %3)."
+
+#: gui/mainwindow.cpp:1164
+#, kde-kuit-format
+msgctxt "@info the partition is NOT a device path, just a number"
+msgid ""
+"No parent partition or partition table found for partition %1 (line %2)."
+msgstr ""
+"Không tìm thấy phân vùng cha hoặc bảng phân vùng cho phân vùng %1 (dòng "
+"%2)."
+
+#: gui/mainwindow.cpp:1169
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The partition table type \"%1\" does not support extended partitions, but "
+"one was found (line %2)."
+msgstr ""
+"Kiểu bảng phân vùng \"%1\" không hỗ trợ phân vùng mở rộng, nhưng đã tìm "
+"thấy một (dòng %2)."
+
+#: gui/mainwindow.cpp:1176
+#, kde-kuit-format
+msgctxt "@info the partition is NOT a device path, just a number"
+msgid "Could not create file system \"%1\" for partition %2 (line %3)."
+msgstr "Không thể tạo hệ thống tệp \"%1\" cho phân vùng %2 (dòng %3)."
+
+#: gui/mainwindow.cpp:1191
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Could not parse line %1 from import file. Ignoring it."
+msgstr "Không thể phân tách dòng %1 từ tệp nhập khẩu. Bỏ qua nó."
+
+#: gui/mainwindow.cpp:1208
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Error Exporting Partition Table"
+msgstr "Lỗi Xuất Bảng Phân Vùng"
+
+#: gui/mainwindow.cpp:1373 gui/mainwindow.cpp:1379 gui/mainwindow.cpp:1415
+#, kde-kuit-format
+msgid "%1%2"
+msgstr "%1%2"
+
+#: gui/mainwindow.cpp:1379 gui/mainwindow.cpp:1390
+#, kde-kuit-format
+msgid "<tr><td>%1</td><td>%2</td><td>%3</td><td><link>%4</link></td></tr>"
+msgstr "<tr><td>%1</td><td>%2</td><td>%3</td><td><link>%4</link></td></tr>"
+
+#: gui/mainwindow.cpp:1427
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>No support tools were found for file systems currently present on hard "
+"disks in this computer:</para><table style='margin-top:12px'><tr><td "
+"style='font-weight:bold;padding-right:12px;white-space:nowrap;'>Partition</"
+"td><td style='font-weight:bold;padding-right:12px;white-space:nowrap;'>File "
+"System</td><td style='font-weight:bold;padding-right:12px;white-space:"
+"nowrap;'>Support Tools</td><td style='font-weight:bold;padding-right:12px;"
+"white-space:nowrap;'>URL</td></tr>%1</table><para>As long as the support "
+"tools for these file systems are not installed you will not be able to "
+"modify them.</para><para>You should find packages with these support tools "
+"in your distribution's package manager.</para>"
+msgstr ""
+"<para>Không tìm thấy công cụ hỗ trợ cho các hệ thống tệp hiện có trên ổ "
+"cứng của máy tính này:</para><table style='margin-top:12px'><tr><td "
+"style='font-weight:bold;padding-right:12px;white-space:nowrap;'>Phân "
+"vùng</td><td "
+"style='font-weight:bold;padding-right:12px;white-space:nowrap;'>Hệ thống "
+"tệp</td><td "
+"style='font-weight:bold;padding-right:12px;white-space:nowrap;'>Công cụ hỗ "
+"trợ</td><td "
+"style='font-weight:bold;padding-right:12px;white-space:nowrap;'>URL</td></tr>%1</table><para>Khi "
+"chưa cài đặt các công cụ hỗ trợ cho các hệ thống tệp này, bạn sẽ không thể "
+"chỉnh sửa chúng.</para><para>Bạn nên tìm các gói chứa các công cụ hỗ trợ "
+"này trong trình quản lý gói của bản phân phối của bạn.</para>"
+
+#: gui/mainwindow.cpp:1440
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Missing File System Support Packages"
+msgstr "Thiếu các gói hỗ trợ hệ thống tệp"
+
+#: gui/mainwindow.cpp:1451
+#, kde-kuit-format
+msgctxt "@info device should be inside of /dev"
+msgid "Unrecognized device \"%1\" "
+msgstr "Thiết bị không được nhận dạng \"%1\""
+
+#: gui/mainwindow.cpp:1460
+#, kde-kuit-format
+msgctxt "@info device should be inside of /dev"
+msgid "Unrecognized partition \"%1\" "
+msgstr "Phân vùng \"%1\" không được nhận dạng"
+
+#: gui/mainwindow.cpp:1461
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Error opening partition"
+msgstr "Lỗi khi mở phân vùng"
+
+#. i18n: ectx: property (windowTitle), widget (QMainWindow, MainWindowBase)
+#. i18n: ectx: property (windowTitle), widget (QWidget, PartitionManagerWidgetBase)
+#: gui/mainwindowbase.ui:18 gui/partitionmanagerwidgetbase.ui:20
+#, kde-format
+msgctxt "@title:window"
+msgid "KDE Partition Manager"
+msgstr "Trình quản lý phân vùng KDE"
+
+#. i18n: ectx: property (windowTitle), widget (QDockWidget, m_DockDevices)
+#: gui/mainwindowbase.ui:26
+#, kde-format
+msgctxt "@title:window"
+msgid "Devices"
+msgstr "Thiết bị"
+
+#. i18n: ectx: property (windowTitle), widget (QDockWidget, m_DockOperations)
+#: gui/mainwindowbase.ui:38
+#, kde-format
+msgctxt "@title:window"
+msgid "Pending Operations"
+msgstr "Các Thao Tác Đang Chờ"
+
+#. i18n: ectx: property (windowTitle), widget (QDockWidget, m_DockLog)
+#: gui/mainwindowbase.ui:59
+#, kde-format
+msgctxt "@title:window"
+msgid "Log Output"
+msgstr "Đầu ra nhật kí"
+
+#: gui/newdialog.cpp:47
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Create a new partition"
+msgstr "Tạo một phân vùng mới"
+
+#. i18n: ectx: ToolBar (partitionToolBar)
+#: gui/partitionmanagerui.rc:12
+#, kde-format
+msgctxt "@title:menu"
+msgid "Partition Manager Toolbar"
+msgstr "Thanh công cụ Trình quản lý phân vùng"
+
+#. i18n: ectx: Menu (device)
+#: gui/partitionmanagerui.rc:30
+#, kde-format
+msgctxt "@title:menu"
+msgid "Device"
+msgstr "Thiết bị"
+
+#. i18n: ectx: Menu (selectedDevice)
+#: gui/partitionmanagerui.rc:32
+#, kde-format
+msgctxt "@title:menu"
+msgid "Select Current Device"
+msgstr "Chọn Thiết bị Hiện tại"
+
+#. i18n: ectx: Menu (tools)
+#: gui/partitionmanagerui.rc:49
+#, kde-format
+msgctxt "@title:menu"
+msgid "Tools"
+msgstr "Công cụ"
+
+#. i18n: ectx: Menu (partition)
+#: gui/partitionmanagerui.rc:55
+#, kde-format
+msgctxt "@title:menu"
+msgid "Partition"
+msgstr "Phân vùng"
+
+#. i18n: ectx: Menu (panels)
+#: gui/partitionmanagerui.rc:77
+#, kde-format
+msgctxt "@title:menu"
+msgid "Panels Shown"
+msgstr "Các bảng đã hiển thị"
+
+#: gui/partitionmanagerwidget.cpp:200
+#, kde-kuit-format
+msgctxt "@item:intable Encrypted file systems, e.g. btrfs[Encrypted]"
+msgid "%1 [Encrypted]"
+msgstr "%1 [Mã hóa]"
+
+#: gui/partitionmanagerwidget.cpp:404
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The file system on partition <filename>%1</filename> could not be mounted."
+msgstr "Hệ thống tệp trên phân vùng <filename>%1</filename> không gắn kết được."
+
+#: gui/partitionmanagerwidget.cpp:404
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Could Not Mount File System."
+msgstr "Không thể gắn kết hệ thống tệp."
+
+#: gui/partitionmanagerwidget.cpp:407
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The file system on partition <filename>%1</filename> could not be unmounted."
+msgstr ""
+"Hệ thống tệp trên phân vùng <filename>%1</filename> không thể gỡ kết nối "
+"được."
+
+#: gui/partitionmanagerwidget.cpp:407
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Could Not Unmount File System."
+msgstr "Không thể bỏ gắn kết hệ thống tệp."
+
+#: gui/partitionmanagerwidget.cpp:447
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The encrypted file system on partition <filename>%1</filename> could not be "
+"unlocked."
+msgstr ""
+"Hệ thống tệp mật mã hoá trên phân vùng <filename>%1</filename> không mở "
+"khoá được."
+
+#: gui/partitionmanagerwidget.cpp:453
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Could Not Unlock Encrypted File System."
+msgstr "Không thể mở khoá hệ thống tệp được mã hoá."
+
+#: gui/partitionmanagerwidget.cpp:458
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The encrypted file system on partition <filename>%1</filename> could not be "
+"locked."
+msgstr ""
+"Hệ thống tệp mật mã hoá trên phân vùng <filename>%1</filename> không khoá "
+"được."
+
+#: gui/partitionmanagerwidget.cpp:464
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Could Not Lock Encrypted File System."
+msgstr "Không thể khoá hệ thống tệp mật mã hoá."
+
+#: gui/partitionmanagerwidget.cpp:493
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>There is already one primary partition on this device. This is the "
+"maximum number its partition table type can handle.</para><para>You cannot "
+"create, paste or restore a primary partition on it before you delete an "
+"existing one.</para>"
+msgid_plural ""
+"<para>There are already %1 primary partitions on this device. This is the "
+"maximum number its partition table type can handle.</para><para>You cannot "
+"create, paste or restore a primary partition on it before you delete an "
+"existing one.</para>"
+msgstr[0] ""
+"<para>Đã có %1 phân vùng chính trên thiết bị này. Đây là số lượng tối đa mà "
+"kiểu bảng phân vùng của nó có thể xử lý.</para><para>Bạn không thể tạo, dán "
+"hoặc khôi phục một phân vùng chính trên nó trước khi xóa một phân vùng hiện "
+"có.</para>"
+
+#: gui/partitionmanagerwidget.cpp:497
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Too Many Primary Partitions."
+msgstr "Quá nhiều phân vùng chính."
+
+#: gui/partitionmanagerwidget.cpp:560
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>The partition <filename>%1</filename> cannot currently be deleted "
+"because one or more partitions with higher logical numbers are still mounted."
+"</para><para>Please unmount all partitions with higher logical numbers than "
+"%2 first.</para>"
+msgstr ""
+"<para>Phân vùng <filename>%1</filename> hiện không thể bị xóa vì một hoặc "
+"nhiều phân vùng có số luận lí cao hơn vẫn đang được gắn "
+"kết.</para><para>Vui lòng bỏ gắn kết tất cả các phân vùng có số luận lí cao "
+"hơn %2 trước.</para>"
+
+#: gui/partitionmanagerwidget.cpp:563
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Cannot Delete Partition."
+msgstr "Không thể xóa phân vùng."
+
+#: gui/partitionmanagerwidget.cpp:572
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Do you really want to delete the partition that is currently in the "
+"clipboard? It will no longer be available for pasting after it has been "
+"deleted."
+msgstr ""
+"Bạn có thực sự muốn xóa phân vùng hiện đang trong khay nhớ tạm không? Nó sẽ "
+"không còn khả dụng để dán sau khi đã bị xóa."
+
+#: gui/partitionmanagerwidget.cpp:574
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Really Delete Partition in the Clipboard?"
+msgstr "Thực sự xóa phân vùng trong bộ nhớ tạm?"
+
+#: gui/partitionmanagerwidget.cpp:575
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Delete It"
+msgstr "Xóa"
+
+#: gui/partitionmanagerwidget.cpp:628
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid ""
+"Partition <filename>%1</filename> has the same position and size after "
+"resize/move. Ignoring operation."
+msgstr ""
+"Phân vùng <filename>%1</filename> có cùng vị trí và kích thước sau khi thay "
+"đổi kích thước/di chuyển. Bỏ qua thao tác."
+
+#: gui/partitionmanagerwidget.cpp:656
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Partition <filename>%1</filename> has been copied to the clipboard."
+msgstr "Phân vùng <filename>%1</filename> đã được sao chép vào bộ nhớ tạm."
+
+#: gui/partitionmanagerwidget.cpp:719
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para><warning>You are about to lose all data on partition <filename>%1</"
+"filename>.</warning></para><para>Overwriting one partition with another (or "
+"with an image file) will destroy all data on this target partition.</"
+"para><para>If you continue now and apply the resulting operation in the main "
+"window, all data currently stored on <filename>%1</filename> will "
+"unrecoverably be overwritten.</para>"
+msgstr ""
+"<para><warning>Bạn sắp mất tất cả dữ liệu trên phân vùng "
+"<filename>%1</filename>.</warning></para><para>Ghi đè một phân vùng bằng "
+"một phân vùng khác (hoặc bằng một tệp ảnh) sẽ phá hủy tất cả dữ liệu trên "
+"phân vùng đích này.</para><para>Nếu bạn tiếp tục và áp dụng thao tác kết "
+"quả trong cửa sổ chính, tất cả dữ liệu hiện đang lưu trữ trên "
+"<filename>%1</filename> sẽ bị ghi đè không thể khôi phục.</para>"
+
+#: gui/partitionmanagerwidget.cpp:727
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Really Overwrite Existing Partition?"
+msgstr "Thực sự ghi đè lên phân vùng hiện có?"
+
+#: gui/partitionmanagerwidget.cpp:728
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Overwrite Partition"
+msgstr "Ghi đè Phân vùng"
+
+#: gui/partitionmanagerwidget.cpp:736
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>The selected partition is not large enough to hold the source "
+"partition or the backup file.</para><para>Pick another target or resize this "
+"partition so it is as large as the source.</para>"
+msgstr ""
+"<para>Phân vùng đã chọn không đủ lớn để chứa phân vùng nguồn hoặc tệp sao "
+"lưu.</para><para>Hãy chọn một đích khác hoặc thay đổi kích thước phân vùng "
+"này để nó lớn bằng nguồn.</para>"
+
+#: gui/partitionmanagerwidget.cpp:737
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Target Not Large Enough"
+msgstr "Đích không đủ lớn"
+
+#: gui/partitionmanagerwidget.cpp:740
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>It is not possible to create the target partition large enough to hold "
+"the source.</para><para>This may happen if not all partitions on a device "
+"are correctly aligned or when copying a primary partition into an extended "
+"partition.</para>"
+msgstr ""
+"<para>Không thể tạo phân vùng đích đủ lớn để chứa nguồn.</para><para>Điều "
+"này có thể xảy ra nếu không phải tất cả các phân vùng trên thiết bị được "
+"căn chỉnh chính xác hoặc khi sao chép một phân vùng chính vào một phân vùng "
+"mở rộng.</para>"
+
+#: gui/partitionmanagerwidget.cpp:743
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Cannot Create Target Partition."
+msgstr "Không thể tạo phân vùng đích."
+
+#: gui/partitionmanagerwidget.cpp:801
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The file system in the image file <filename>%1</filename> is too large to be "
+"restored to the selected partition."
+msgstr ""
+"Hệ thống tệp trong tệp ảnh <filename>%1</filename> quá lớn để có thể khôi "
+"phục vào phân vùng đã chọn."
+
+#: gui/partitionmanagerwidget.cpp:801
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Not Enough Space to Restore File System."
+msgstr "Không đủ không gian để khôi phục tệp hệ thống."
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:79
+#, kde-format
+msgid "Partition"
+msgstr "Phân vùng"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:84
+#, kde-format
+msgid "Type"
+msgstr "Kiểu"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:89
+#, kde-format
+msgid "Mount Point"
+msgstr "Điểm gắn kết"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:94
+#, kde-format
+msgid "Label"
+msgstr "Nhãn"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:99
+#, kde-format
+msgid "UUID"
+msgstr "UUID"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:104
+#, kde-format
+msgid "Partition Name"
+msgstr "Tên phân vùng"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:109
+#, kde-format
+msgid "Partition UUID"
+msgstr "Phân vùng UUID"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:114
+#, kde-format
+msgid "Size"
+msgstr "Kích thước"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:119
+#, kde-format
+msgid "Used"
+msgstr "Đã sử dụng"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:124
+#, kde-format
+msgid "Available"
+msgstr "Hiện có"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:129
+#, kde-format
+msgid "First Sector"
+msgstr "Phân vùng đầu tiên"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:134
+#, kde-format
+msgid "Last Sector"
+msgstr "Phân vùng cuối cùng"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:139
+#, kde-format
+msgid "Number of Sectors"
+msgstr "Số lượng Sector"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:144
+#, kde-format
+msgid "Flags"
+msgstr "Cờ"
+
+#: gui/partpropsdialog.cpp:55
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Partition properties: <filename>%1</filename>"
+msgstr "Thuộc tính phân vùng: <filename>%1</filename>"
+
+#: gui/partpropsdialog.cpp:110
+#, kde-kuit-format
+msgctxt "@item mountpoint"
+msgid "(none found)"
+msgstr "(không tìm thấy)"
+
+#: gui/partpropsdialog.cpp:115
+#, kde-kuit-format
+msgctxt "@item device path"
+msgid "(not found)"
+msgstr "(không tìm thấy)"
+
+#: gui/partpropsdialog.cpp:121
+#, kde-kuit-format
+msgctxt "@label partition state"
+msgid "idle"
+msgstr "không hoạt động"
+
+#: gui/partpropsdialog.cpp:124
+#, kde-kuit-format
+msgctxt "@label partition state"
+msgid "At least one logical partition is mounted."
+msgstr "Ít nhất một phân vùng luận lí đang được gắn."
+
+#: gui/partpropsdialog.cpp:126
+#, kde-kuit-format
+msgctxt "@label partition state"
+msgid "mounted on <filename>%1</filename>"
+msgstr "gắn kết trên <filename>%1</filename>"
+
+#: gui/partpropsdialog.cpp:128
+#, kde-kuit-format
+msgctxt "@label partition state"
+msgid "mounted"
+msgstr "gắn kết"
+
+#: gui/partpropsdialog.cpp:132 gui/partpropsdialog.cpp:135
+#: gui/partpropsdialog.cpp:136
+#, kde-kuit-format
+msgctxt "@item uuid"
+msgid "(none)"
+msgstr "(không)"
+
+#: gui/partpropsdialog.cpp:360
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para><warning>You are about to lose all data on partition <filename>%1</"
+"filename>.</warning></para><para>Changing the file system on a partition "
+"already on disk will erase all its contents. If you continue now and apply "
+"the resulting operation in the main window, all data on <filename>%1</"
+"filename> will unrecoverably be lost.</para>"
+msgstr ""
+"<para><warning>Bạn sắp mất tất cả dữ liệu trên phân vùng "
+"<filename>%1</filename>.</warning></para><para>Thay đổi hệ thống tệp trên "
+"một phân vùng đã có trên đĩa sẽ xóa toàn bộ nội dung của nó. Nếu bạn tiếp "
+"tục và áp dụng thao tác này trong cửa sổ chính, tất cả dữ liệu trên "
+"<filename>%1</filename> sẽ bị mất không thể khôi phục.</para>"
+
+#: gui/partpropsdialog.cpp:362
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Really Recreate <filename>%1</filename> with File System %2?"
+msgstr "Thực sự tạo lại <filename>%1</filename> với hệ thống tệp %2?"
+
+#: gui/partpropsdialog.cpp:363
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Change the File System"
+msgstr "Thay đổi Hệ thống Tệp"
+
+#: gui/partpropsdialog.cpp:364
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Do Not Change the File System"
+msgstr "Không thay đổi hệ thống tệp"
+
+#: gui/partpropsdialog.cpp:383
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para><warning>You are about to lose all data on partition <filename>%1</"
+"filename>.</warning></para><para>Recreating a file system will erase all its "
+"contents. If you continue now and apply the resulting operation in the main "
+"window, all data on <filesystem>%1</filesystem> will unrecoverably be lost.</"
+"para>"
+msgstr ""
+"<para><warning>Bạn sắp mất tất cả dữ liệu trên phân vùng "
+"<filename>%1</filename>.</warning></para><para>Tạo lại hệ thống tệp sẽ xóa "
+"toàn bộ nội dung của nó. Nếu bạn tiếp tục và áp dụng thao tác này trong cửa "
+"sổ chính, tất cả dữ liệu trên <filesystem>%1</filesystem> sẽ bị mất không "
+"thể khôi phục.</para>"
+
+#: gui/partpropsdialog.cpp:385
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Really Recreate File System on <filename>%1</filename>?"
+msgstr "Thực sự tạo lại hệ thống tệp trên <filename>%1</filename>?"
+
+#: gui/partpropsdialog.cpp:386
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Recreate the File System"
+msgstr "Tạo lại Hệ thống Tệp"
+
+#: gui/partpropsdialog.cpp:387
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Do Not Recreate the File System"
+msgstr "Không tạo lại Hệ thống Tệp"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextFirstSector)
+#: gui/partpropswidgetbase.ui:26
+#, kde-format
+msgctxt "@label"
+msgid "First sector:"
+msgstr "Sector đầu tiên:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextCapacity)
+#: gui/partpropswidgetbase.ui:56
+#, kde-format
+msgctxt "@label"
+msgid "Size:"
+msgstr "Kích thước:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextPartitionUuid)
+#: gui/partpropswidgetbase.ui:66
+#, kde-format
+msgid "Partition UUID:"
+msgstr "Phân vùng UUID:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextNoSetLabel)
+#: gui/partpropswidgetbase.ui:76 gui/sizedialogwidgetbase.ui:126
+#, kde-format
+msgctxt "@label"
+msgid "This file system does not support setting a label."
+msgstr "Hệ thống tệp này không hỗ trợ thiết lập nhãn."
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextUuid)
+#: gui/partpropswidgetbase.ui:86
+#, kde-format
+msgctxt "@label"
+msgid "UUID:"
+msgstr "UUID:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextLastSector)
+#: gui/partpropswidgetbase.ui:103
+#, kde-format
+msgctxt "@label"
+msgid "Last sector:"
+msgstr "Sector cuối cùng:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextStatus)
+#: gui/partpropswidgetbase.ui:134
+#, kde-format
+msgctxt "@label"
+msgid "Status:"
+msgstr "Trạng thái:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextAvailable)
+#: gui/partpropswidgetbase.ui:144
+#, kde-format
+msgctxt "@label partition capacity available"
+msgid "Available:"
+msgstr "Có sẵn:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextLabel)
+#: gui/partpropswidgetbase.ui:223
+#, kde-format
+msgctxt "@label"
+msgid "&Label:"
+msgstr "&Nhãn:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextMountPoint)
+#: gui/partpropswidgetbase.ui:286
+#, kde-format
+msgctxt "@label"
+msgid "Mount point:"
+msgstr "Điểm gắn kết:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextRole)
+#: gui/partpropswidgetbase.ui:306
+#, kde-format
+msgctxt "@label"
+msgid "Partition type:"
+msgstr "Loại phân vùng:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextDevicePath)
+#: gui/partpropswidgetbase.ui:316
+#, kde-format
+msgid "Device path:"
+msgstr "Đường dẫn thiết bị:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextNumSectors)
+#: gui/partpropswidgetbase.ui:326
+#, kde-format
+msgctxt "@label"
+msgid "Number of sectors:"
+msgstr "Số lượng sector:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextPartitionLabel)
+#: gui/partpropswidgetbase.ui:336
+#, kde-format
+msgid "Partition Name:"
+msgstr "Tên phân vùng:"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, m_CheckRecreate)
+#: gui/partpropswidgetbase.ui:346
+#, kde-format
+msgid ""
+"This will reformat the filesystem, losing all contents, but keeping the same "
+"filesystem type."
+msgstr ""
+"Điều này sẽ định dạng lại hệ thống tệp, mất tất cả nội dung, nhưng vẫn giữ "
+"cùng loại hệ thống tệp."
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckRecreate)
+#: gui/partpropswidgetbase.ui:349
+#, kde-format
+msgctxt "@action:button"
+msgid "Recreate existing file system"
+msgstr "Tạo lại hệ thống tệp hiện có"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextUsed)
+#: gui/partpropswidgetbase.ui:376
+#, kde-format
+msgctxt "@label partition capacity used"
+msgid "Used:"
+msgstr "Đã sử dụng:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelFileSystem)
+#: gui/partpropswidgetbase.ui:386
+#, kde-format
+msgctxt "@label:listbox"
+msgid "File syste&m:"
+msgstr "&Hệ thống tệp:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextFlags)
+#: gui/partpropswidgetbase.ui:399
+#, kde-format
+msgctxt "@label"
+msgid "&Flags:"
+msgstr "&Cờ:"
+
+#: gui/parttablewidget.cpp:26
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Please select a device."
+msgstr "Vui lòng bôi đen một thiết bị."
+
+#: gui/parttablewidget.cpp:54
+#, kde-kuit-format
+msgctxt "@info"
+msgid "No valid partition table was found on this device."
+msgstr "Không tìm thấy bảng phân vùng hợp lệ trên thiết bị này."
+
+#: gui/resizedialog.cpp:42
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Resize/move partition: <filename>%1</filename>"
+msgstr "Thay đổi kích thước/di chuyển phân vùng: <filename>%1</filename>"
+
+#: gui/resizedialog.cpp:92
+#, kde-format
+msgctxt "%2 is either empty or says Invalid passphrase."
+msgid "%2Enter passphrase for %1:"
+msgstr "%2Nhập mật tổ cho %1:"
+
+#: gui/resizedialog.cpp:101
+#, kde-format
+msgctxt "Part of %2Enter passphrase for %1:"
+msgid "Invalid passphrase. "
+msgstr "Mật khẩu không hợp lệ."
+
+#: gui/resizevolumegroupdialog.cpp:39
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Resize Volume Group"
+msgstr "Thay đổi kích thước Nhóm Âm lượng"
+
+#: gui/scanprogressdialog.cpp:16
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Scanning Devices…"
+msgstr "Đang quét thiết bị..."
+
+#: gui/scanprogressdialog.cpp:24
+#, kde-format
+msgctxt "%p is the percent value, % is the percent sign"
+msgid "%p%"
+msgstr "%p%"
+
+#: gui/scanprogressdialog.cpp:36
+#, kde-kuit-format
+msgctxt "@label"
+msgid "Scanning…"
+msgstr "Đang quét..."
+
+#: gui/scanprogressdialog.cpp:38
+#, kde-kuit-format
+msgctxt "@label"
+msgid "Scanning device: <filename>%1</filename>"
+msgstr "Đang quét thiết bị: <filename>%1</filename>"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: gui/sizedetailswidgetbase.ui:66
+#, kde-format
+msgctxt "@label:listbox"
+msgid "First sector:"
+msgstr "Phân đoạn đầu tiên:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: gui/sizedetailswidgetbase.ui:101
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Last sector:"
+msgstr "Phần cuối cùng:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckAlign)
+#: gui/sizedetailswidgetbase.ui:124
+#, kde-format
+msgid "Align partition"
+msgstr "Căn lề phân vùng"
+
+#: gui/sizedialogbase.cpp:66
+#, kde-kuit-format
+msgctxt "@action:button advanced settings button"
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: gui/sizedialogbase.cpp:180
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "&Advanced"
+msgstr "Nâng ca&o"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: gui/sizedialogwidgetbase.ui:30
+#, kde-format
+msgctxt "@label"
+msgid "Minimum size:"
+msgstr "Kích thước tối thiểu:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: gui/sizedialogwidgetbase.ui:72
+#, kde-format
+msgctxt "@label"
+msgid "Maximum size:"
+msgstr "Kích thước tối đa:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextLabel)
+#: gui/sizedialogwidgetbase.ui:98
+#, kde-format
+msgctxt "@label"
+msgid "Label:"
+msgstr "Nhãn:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: gui/sizedialogwidgetbase.ui:160
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Si&ze:"
+msgstr "Kích &thước:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_RadioPrimary)
+#: gui/sizedialogwidgetbase.ui:183
+#, kde-format
+msgid "Primar&y"
+msgstr "C&hính"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_RadioExtended)
+#: gui/sizedialogwidgetbase.ui:190
+#, kde-format
+msgid "E&xtended"
+msgstr "Mở rộ&ng"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_RadioLogical)
+#: gui/sizedialogwidgetbase.ui:197
+#, kde-format
+msgid "&Logical"
+msgstr "&Luận lí"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelFileSystem)
+#: gui/sizedialogwidgetbase.ui:213
+#, kde-format
+msgctxt "@label:listbox"
+msgid "File system:"
+msgstr "Hệ thống tệp:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelRole)
+#: gui/sizedialogwidgetbase.ui:249
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Partition type:"
+msgstr "Loại phân vùng:"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, m_CheckBoxEncrypt)
+#: gui/sizedialogwidgetbase.ui:259
+#, kde-format
+msgid ""
+"Set up encryption for this filesystem with LUKS. You will be asked to "
+"provide a passphrase."
+msgstr ""
+"Thiết lập mật mã hoá cho hệ thống tệp tin này với LUKS. Bạn sẽ được yêu cầu "
+"cung cấp một mật khẩu."
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckBoxEncrypt)
+#: gui/sizedialogwidgetbase.ui:262
+#, kde-format
+msgid "Encrypt with LUKS"
+msgstr "Mật mã hoá với LUKS"
+
+#. i18n: ectx: property (text), widget (QLabel, m_labelPermission)
+#: gui/sizedialogwidgetbase.ui:292
+#, kde-format
+msgid "Permissions"
+msgstr "Quyền"
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, m_permissionEveryone)
+#: gui/sizedialogwidgetbase.ui:305
+#, kde-format
+msgid "Allow everyone to write and read on this device"
+msgstr "Cho phép mọi người đọc và ghi trên thiết bị này"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_permissionEveryone)
+#: gui/sizedialogwidgetbase.ui:308
+#, kde-format
+msgid "Everyone"
+msgstr "Tất cả"
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, m_permissionOnlyRoot)
+#: gui/sizedialogwidgetbase.ui:315
+#, kde-format
+msgid ""
+"Allow only root to write and read on this device, you will need to setup per-"
+"folder permissions"
+msgstr ""
+"Chỉ cho phép root đọc và ghi trên thiết bị này, bạn sẽ cần thiết lập quyền "
+"truy cập theo từng thư mục"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_permissionOnlyRoot)
+#: gui/sizedialogwidgetbase.ui:318
+#, kde-format
+msgid "Only Root"
+msgstr "Chỉ Root"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelFreeBefore)
+#: gui/sizedialogwidgetbase.ui:334
+#, kde-format
+msgctxt "@label:listbox"
+msgid "F&ree space before:"
+msgstr "Dung lượng t&rống trước:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextLVName)
+#: gui/sizedialogwidgetbase.ui:347
+#, kde-format
+msgid "Logical Volume Name:"
+msgstr "Tên Khối Lưu Trữ Luận Lí:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelFreeAfter)
+#: gui/sizedialogwidgetbase.ui:363
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Free space after:"
+msgstr "Dung lượng trống sau:"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, m_CheckBoxLuks2)
+#: gui/sizedialogwidgetbase.ui:376
+#, kde-format
+msgid ""
+"Use LUKS2 instead of LUKS1 for better security, but compatibility may be "
+"compromised."
+msgstr ""
+"Sử dụng LUKS2 thay vì LUKS1 để bảo mật tốt hơn, nhưng khả năng tương thích "
+"có thể bị ảnh hưởng."
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckBoxLuks2)
+#: gui/sizedialogwidgetbase.ui:379
+#, kde-format
+msgid "Enable LUKS2"
+msgstr "Bật LUKS2"
+
+#: gui/smartdialog.cpp:54
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "SMART Properties: <filename>%1</filename>"
+msgstr "Thuộc tính SMART: <filename>%1</filename>"
+
+#: gui/smartdialog.cpp:58
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Save SMART Report"
+msgstr "Lưu báo SMART"
+
+#: gui/smartdialog.cpp:96 gui/smartdialog.cpp:153
+#, kde-format, kde-kuit-format
+msgctxt "@label SMART number of bad sectors"
+msgid "none"
+msgstr "không có"
+
+#: gui/smartdialog.cpp:115 gui/smartdialog.cpp:181
+#, kde-kuit-format
+msgctxt "@item:intable"
+msgid "Pre-Failure"
+msgstr "Trước khi hỏng"
+
+#: gui/smartdialog.cpp:115 gui/smartdialog.cpp:181
+#, kde-kuit-format
+msgctxt "@item:intable"
+msgid "Old-Age"
+msgstr "Tuổi già"
+
+#: gui/smartdialog.cpp:116 gui/smartdialog.cpp:182
+#, kde-kuit-format
+msgctxt "@item:intable"
+msgid "Online"
+msgstr "Trực tuyến"
+
+#: gui/smartdialog.cpp:116 gui/smartdialog.cpp:182
+#, kde-kuit-format
+msgctxt "@item:intable"
+msgid "Offline"
+msgstr "Ngoại tuyến"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextSmartModelName)
+#: gui/smartdialog.cpp:155 gui/smartdialogwidgetbase.ui:68
+#, kde-format
+msgid "Model:"
+msgstr "Mẫu:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextSmartSerialNumber)
+#: gui/smartdialog.cpp:156 gui/smartdialogwidgetbase.ui:97
+#, kde-format
+msgid "Serial number:"
+msgstr "Số sê-ri:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextSmartFirmware)
+#: gui/smartdialog.cpp:157 gui/smartdialogwidgetbase.ui:126
+#, kde-format
+msgid "Firmware revision:"
+msgstr "Phiên bản phần sụn:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextSmartTemperature)
+#: gui/smartdialog.cpp:158 gui/smartdialogwidgetbase.ui:155
+#, kde-format
+msgid "Temperature:"
+msgstr "Nhiệt độ:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextSmartBadSectors)
+#: gui/smartdialog.cpp:159 gui/smartdialogwidgetbase.ui:184
+#, kde-format
+msgid "Bad sectors:"
+msgstr "Các sector lỗi:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextSmartPoweredOn)
+#: gui/smartdialog.cpp:160 gui/smartdialogwidgetbase.ui:213
+#, kde-format
+msgid "Powered on for:"
+msgstr "Đã bật nguồn trong:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextSmartPowerCycles)
+#: gui/smartdialog.cpp:161 gui/smartdialogwidgetbase.ui:242
+#, kde-format
+msgid "Power cycles:"
+msgstr "Chu kỳ nguồn điện:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextSmartSelfTests)
+#: gui/smartdialog.cpp:162 gui/smartdialogwidgetbase.ui:412
+#, kde-format
+msgid "Self tests:"
+msgstr "Tự kiểm tra:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextSmartOverallAssessment)
+#: gui/smartdialog.cpp:163 gui/smartdialogwidgetbase.ui:383
+#, kde-format
+msgid "Overall assessment:"
+msgstr "Đánh giá tổng thể:"
+
+#: gui/smartdialog.cpp:227
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Could Not Save SMART Report."
+msgstr "Không thể lưu Báo cáo SMART."
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeSmartAttributes)
+#: gui/smartdialogwidgetbase.ui:294
+#, kde-format
+msgid "Id"
+msgstr "Mã định danh"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeSmartAttributes)
+#: gui/smartdialogwidgetbase.ui:299
+#, kde-format
+msgid "Attribute"
+msgstr "Thuộc tính"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeSmartAttributes)
+#: gui/smartdialogwidgetbase.ui:304
+#, kde-format
+msgid "Failure Type"
+msgstr "Kiểu lỗi"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeSmartAttributes)
+#: gui/smartdialogwidgetbase.ui:309
+#, kde-format
+msgid "Update Type"
+msgstr "Kiểu cập nhật"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeSmartAttributes)
+#: gui/smartdialogwidgetbase.ui:314
+#, kde-format
+msgid "Worst"
+msgstr "Tệ nhất"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeSmartAttributes)
+#: gui/smartdialogwidgetbase.ui:319
+#, kde-format
+msgid "Current"
+msgstr "Hiện tại"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeSmartAttributes)
+#: gui/smartdialogwidgetbase.ui:324
+#, kde-format
+msgid "Threshold"
+msgstr "Ngưỡng"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeSmartAttributes)
+#: gui/smartdialogwidgetbase.ui:329
+#, kde-format
+msgid "Raw"
+msgstr "Thô"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeSmartAttributes)
+#: gui/smartdialogwidgetbase.ui:334
+#, kde-format
+msgid "Assessment"
+msgstr "Đánh giá"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeSmartAttributes)
+#: gui/smartdialogwidgetbase.ui:339
+#, kde-format
+msgid "Value"
+msgstr "Giá trị"
+
+#: gui/treelog.cpp:110
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Could not create temporary output file to save <filename>%1</filename>."
+msgstr "Không tạo được tệp đầu ra tạm thời để lưu <filename>%1</filename>."
+
+#: gui/treelog.cpp:110
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Error Saving Log File"
+msgstr "Lỗi Khi Lưu Tệp Nhật Kí"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeLog)
+#: gui/treelogbase.ui:59
+#, kde-format
+msgctxt ""
+"@title:column Severity of a log entry / log level. Text must be very short."
+msgid "Sev."
+msgstr "Mức độ"
+
+#. i18n: ectx: property (toolTip), widget (QTreeWidget, m_TreeLog)
+#: gui/treelogbase.ui:62
+#, kde-format
+msgid "Severity"
+msgstr "Mức độ nghiêm trọng"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeLog)
+#: gui/treelogbase.ui:67
+#, kde-format
+msgctxt "@title:column a time stamp of a log entry"
+msgid "Time"
+msgstr "Thời gian"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeLog)
+#: gui/treelogbase.ui:72
+#, kde-format
+msgctxt "@title:column the text message of a log entry"
+msgid "Message"
+msgstr "Thông điệp"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextVGName)
+#: gui/volumegroupwidgetbase.ui:34
+#, kde-format
+msgid "Volume Group Name: "
+msgstr "Tên Nhóm Âm Lượng:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextPESize)
+#: gui/volumegroupwidgetbase.ui:47
+#, kde-format
+msgid "Physical Extent Size: "
+msgstr "Kích thước Phạm vi Vật lý: "
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTotalSectors)
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTotalLV)
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTotalSize)
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTotalUsedSize)
+#: gui/volumegroupwidgetbase.ui:60 gui/volumegroupwidgetbase.ui:120
+#: gui/volumegroupwidgetbase.ui:166 gui/volumegroupwidgetbase.ui:176
+#, kde-format
+msgid "---"
+msgstr "---"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, m_SpinPESize)
+#: gui/volumegroupwidgetbase.ui:79
+#, kde-format
+msgid " MiB"
+msgstr "MiB"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextTotalLV)
+#: gui/volumegroupwidgetbase.ui:107
+#, kde-format
+msgid "Total LV: "
+msgstr "Tổng số LV: "
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextVolumeType)
+#: gui/volumegroupwidgetbase.ui:130
+#, kde-format
+msgid "Volume Group Type: "
+msgstr "Loại Nhóm Âm Lượng:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextTotalSize)
+#: gui/volumegroupwidgetbase.ui:140
+#, kde-format
+msgid "Total Size: "
+msgstr "Tổng kích thước: "
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextTotalSectors)
+#: gui/volumegroupwidgetbase.ui:153
+#, kde-format
+msgid "Total Sectors: "
+msgstr "Tổng số Sector: "
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextTotalUsedSize)
+#: gui/volumegroupwidgetbase.ui:186
+#, kde-format
+msgid "Used Size: "
+msgstr "Dung lượng đã sử dụng: "
+
+#: main.cpp:77
+#, kde-kuit-format
+msgctxt "@title"
+msgid "<application>KDE Partition Manager</application>"
+msgstr "<application>KDE Partition Manager</application>"
+
+#: main.cpp:79
+#, kde-kuit-format
+msgctxt "@title"
+msgid "Manage your disks, partitions and file systems"
+msgstr "Quản lý ổ đĩa, phân vùng và hệ thống tệp của bạn"
+
+#: main.cpp:81
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid ""
+"© 2008-2013 Volker Lanz\n"
+"© 2012-2020 Andrius Štikonas"
+msgstr "© 2008-2013 Volker Lanz\n© 2012-2020 Andrius Štikonas"
+
+#: main.cpp:85
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Volker Lanz"
+msgstr "Volker Lanz"
+
+#: main.cpp:85
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Former maintainer"
+msgstr "Cựu bảo trì viên"
+
+#: main.cpp:86
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Andrius Štikonas"
+msgstr "Andrius Štikonas"
+
+#: main.cpp:86
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Maintainer"
+msgstr "Bảo trì viên"
+
+#: main.cpp:87
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Teo Mrnjavac"
+msgstr "Teo Mrnjavac"
+
+#: main.cpp:87
+#, kde-format
+msgctxt "@info:credit"
+msgid "Former Calamares maintainer"
+msgstr "Cựu bảo trì viên Calamares"
+
+#: main.cpp:88
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Chantara Tith"
+msgstr "Chantara Tith"
+
+#: main.cpp:88
+#, kde-format
+msgctxt "@info:credit"
+msgid "LVM support"
+msgstr "Hỗ trợ LVM"
+
+#: main.cpp:89
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Pali Rohár"
+msgstr "Pali Rohár"
+
+#: main.cpp:89
+#, kde-format
+msgctxt "@info:credit"
+msgid "UDF support"
+msgstr "Hỗ trợ UDF"
+
+#: main.cpp:90
+#, kde-format
+msgid "Hugo Pereira Da Costa"
+msgstr "Hugo Pereira Da Costa"
+
+#: main.cpp:90
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Partition Widget Design"
+msgstr "Thiết kế Phụ kiện Phân vùng"
+
+#: main.cpp:91
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Caio Jordão Carvalho"
+msgstr "Caio Jordão Carvalho"
+
+#: main.cpp:91
+#, kde-format
+msgctxt "@info:credit"
+msgid "Improved SMART support"
+msgstr "Hỗ trợ SMART được cải thiện"
+
+#: main.cpp:101
+#, kde-kuit-format
+msgctxt "@info:shell"
+msgid "Device to manage"
+msgstr "Thiết bị để quản lý"
+
+#. i18n: ectx: label, entry (firstRun), group (KDE Partition Manager)
+#: partitionmanager.kcfg:45
+#, kde-format
+msgctxt "@label"
+msgid "Is this the first time KDE Partition Manager is being run?"
+msgstr "Đây có phải là lần đầu tiên KDE Partition Manager được chạy?"
+
+#. i18n: ectx: label, entry (minLogLevel), group (KDE Partition Manager)
+#: partitionmanager.kcfg:49
+#, kde-format
+msgctxt "@label"
+msgid "Hide log messages below"
+msgstr "Ẩn các thông báo nhật kí dưới mức này"
+
+#. i18n: ectx: label, entry (sectorAlignment), group (KDE Partition Manager)
+#: partitionmanager.kcfg:53
+#, kde-format
+msgctxt "@label"
+msgid "Partition sector alignment"
+msgstr "Căn chỉnh phân vùng"
+
+#. i18n: ectx: label, entry (alignDefault), group (KDE Partition Manager)
+#: partitionmanager.kcfg:57
+#, kde-format
+msgctxt "@label"
+msgid "Align partitions per default"
+msgstr "Căn lề phân vùng theo mặc định"
+
+#. i18n: ectx: label, entry, group (KDE Partition Manager)
+#: partitionmanager.kcfg:61
+#, kde-format
+msgctxt "@label"
+msgid "File system colors"
+msgstr "Màu hệ thống tệp"
+
+#. i18n: ectx: label, entry, group (KDE Partition Manager)
+#: partitionmanager.kcfg:139
+#, kde-format
+msgctxt "@label"
+msgid "Show the application's menu bar"
+msgstr "Hiển thị thanh trình đơn của ứng dụng"
+
+#. i18n: ectx: label, entry, group (KDE Partition Manager)
+#: partitionmanager.kcfg:143
+#, kde-format
+msgctxt "@label"
+msgid "Backend plugin"
+msgstr "Phần cài cắm hậu phương"
+
+#. i18n: ectx: label, entry, group (KDE Partition Manager)
+#: partitionmanager.kcfg:149
+#, kde-format
+msgctxt "@label"
+msgid "Preferred unit:"
+msgstr "Đơn vị ưa thích:"
+
+#: util/guihelpers.cpp:50
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>The configured backend plugin \"%1\" could not be loaded.</"
+"para><para>Loading the default backend plugin \"%2\" instead.</para>"
+msgstr ""
+"<para>Phần cài cắm hậu phương được cấu hình \"%1\" không thể tải "
+"được.</para><para>Đang tải phần cài cắm hậu phương mặc định \"%2\" thay "
+"thế.</para>"
+
+#: util/guihelpers.cpp:53 util/guihelpers.cpp:60
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Error: Could Not Load Backend Plugin"
+msgstr "Lỗi: Không Thể Tải Phần Cài Cắm Hậu Phương"
+
+#: util/guihelpers.cpp:57
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>Neither the configured (\"%1\") nor the default (\"%2\") backend "
+"plugin could be loaded.</para><para>Please check your installation.</para>"
+msgstr ""
+"<para>Không thể tải được cả phần cài cắm hậu phương đã được cấu hình "
+"(\"%1\") lẫn mặc định (\"%2\").</para><para>Vui lòng kiểm tra lại cài đặt "
+"của bạn.</para>"
+
+#: util/guihelpers.cpp:75
+#, kde-kuit-format
+msgctxt "@title:menu"
+msgid "Columns"
+msgstr "Cột"

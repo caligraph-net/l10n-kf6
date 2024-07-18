@@ -1,0 +1,107 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kmail package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kmail\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-18 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: main.cpp:28 main.cpp:30
+#, kde-format
+msgid "KMail Assistant for refreshing settings"
+msgstr "Trợ tá KMail để làm mới thiết lập"
+
+#: main.cpp:32
+#, kde-format
+msgid "(c) 2019-2024 Laurent Montel <montel@kde.org>"
+msgstr "(c) 2019-2024 Laurent Montel <montel@kde.org>"
+
+#: main.cpp:33
+#, kde-format
+msgctxt "@info:credit"
+msgid "Laurent Montel"
+msgstr "Laurent Montel"
+
+#: main.cpp:33
+#, kde-format
+msgid "Author"
+msgstr "Tác giả"
+
+#: refreshsettingsassistant.cpp:22
+#, kde-format
+msgctxt "@title:window"
+msgid "KMail Refresh Settings"
+msgstr "Cập nhật Thiết lập KMail"
+
+#: refreshsettingsassistant.cpp:39
+#, kde-format
+msgid "Warning"
+msgstr "Cảnh báo"
+
+#: refreshsettingsassistant.cpp:43
+#, kde-format
+msgid "Clean up Settings"
+msgstr "Dọn dẹp Thiết lập"
+
+#: refreshsettingsassistant.cpp:47
+#, kde-format
+msgid "Finish"
+msgstr "Hoàn tất"
+
+#: refreshsettingscleanuppage.cpp:22
+#, kde-format
+msgctxt "@action:button"
+msgid "Clean"
+msgstr "Dọn dẹp"
+
+#: refreshsettingscleanuppage.cpp:52
+#, kde-format
+msgid "Remove obsolete \"TipOfDay\" settings: Done"
+msgstr "Xoá các cài đặt \"TipOfDay\" lỗi thời: Đã xong"
+
+#: refreshsettingscleanuppage.cpp:64
+#, kde-format
+msgid "Delete Dialog settings in file `%1`: Done"
+msgstr "Xóa thiết lập Hộp thoại trong tệp `%1`: Hoàn tất"
+
+#: refreshsettingscleanuppage.cpp:76
+#, kde-format
+msgid "Delete Filters settings in file `%1`: Done"
+msgstr "Xóa thiết lập Bộ lọc trong tệp `%1`: Hoàn tất"
+
+#: refreshsettingscleanuppage.cpp:92
+#, kde-format
+msgid "Clean Folder Settings in setting file `%1`: Done"
+msgstr "Đã dọn dẹp thiết lập thư mục trong tệp thiết lập `%1`"
+
+#: refreshsettingscleanuppage.cpp:148
+#, kde-format
+msgid "Clean Dialog Size in setting file `%1`: Done"
+msgstr "Đã dọn sạch kích thước Hộp thoại trong tệp thiết lập `%1`"
+
+#: refreshsettingsfirstpage.cpp:20
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Please close KMail/Kontact before using it."
+msgstr "Vui lòng đóng KMail/Kontact trước khi sử dụng."

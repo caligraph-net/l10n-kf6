@@ -1,0 +1,1187 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kcachegrind package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kcachegrind\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-03-18 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tên của bạn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Emails của bạn"
+
+#: kcachegrind/configdlg.cpp:141 kcachegrind/configdlg.cpp:329
+#: kcachegrind/configdlg.cpp:348
+#, kde-format
+msgid "(always)"
+msgstr "(luôn luôn)"
+
+#: kcachegrind/configdlg.cpp:355
+#, kde-format
+msgid "Choose Source Folder"
+msgstr "Chọn Thư Mục Nguồn"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, ConfigDlgBase)
+#: kcachegrind/configdlgbase.ui:14
+#, kde-format
+msgid "Configuration"
+msgstr "Cấu hình"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab1)
+#: kcachegrind/configdlgbase.ui:24
+#, kde-format
+msgid "General"
+msgstr "chung"
+
+#. i18n: ectx: property (text), widget (QLabel, TextLabel5)
+#: kcachegrind/configdlgbase.ui:34
+#, kde-format
+msgid "Maximum number of items in lists:"
+msgstr "Số lượng mục tối đa trong danh sách:"
+
+#. i18n: ectx: property (text), widget (QLabel, TextLabel3)
+#: kcachegrind/configdlgbase.ui:44
+#, kde-format
+msgid "Truncate symbols in tooltips and context menus"
+msgstr "Cắt ngắn kí hiệu trong chú giải và menu ngữ cảnh"
+
+#. i18n: ectx: property (text), widget (QLabel, TextLabel2)
+#: kcachegrind/configdlgbase.ui:70
+#, kde-format
+msgid "when more than:"
+msgstr "khi nhiều hơn:"
+
+#. i18n: ectx: property (text), widget (QLabel, TextLabel2_2)
+#: kcachegrind/configdlgbase.ui:80
+#, kde-format
+msgid "when longer than:"
+msgstr "khi dài hơn:"
+
+#. i18n: ectx: property (text), widget (QLabel, TextLabel4_3)
+#: kcachegrind/configdlgbase.ui:90
+#, kde-format
+msgid "Precision of percentage values:"
+msgstr "Độ chính xác của các giá trị phần trăm:"
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, maxListEdit)
+#: kcachegrind/configdlgbase.ui:113
+#, kde-format
+msgid "The Maximum Number of List Items should be below 500."
+msgstr "Số lượng mục trong danh sách tối đa nên dưới 500."
+
+#. i18n: ectx: property (text), widget (QLabel, TextLabel1)
+#: kcachegrind/configdlgbase.ui:158
+#, kde-format
+msgid "Cost Item Colors"
+msgstr "Màu Mục Chi Phí"
+
+#. i18n: ectx: property (text), widget (QCheckBox, fileCheck)
+#. i18n: ectx: property (text), widget (QCheckBox, classCheck)
+#. i18n: ectx: property (text), widget (QCheckBox, objectCheck)
+#: kcachegrind/configdlgbase.ui:185 kcachegrind/configdlgbase.ui:219
+#: kcachegrind/configdlgbase.ui:233
+#, kde-format
+msgid "Automatic"
+msgstr "Tự động"
+
+#. i18n: ectx: property (text), widget (QLabel, TextLabel4)
+#: kcachegrind/configdlgbase.ui:192
+#, kde-format
+msgid "Object:"
+msgstr "Đối tượng:"
+
+#. i18n: ectx: property (text), widget (QLabel, TextLabel4_2_2)
+#: kcachegrind/configdlgbase.ui:202
+#, kde-format
+msgid "Class:"
+msgstr "Lớp:"
+
+#. i18n: ectx: property (text), widget (QLabel, TextLabel4_2)
+#: kcachegrind/configdlgbase.ui:240
+#, kde-format
+msgid "File:"
+msgstr "Tệp:"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab2)
+#: kcachegrind/configdlgbase.ui:321
+#, kde-format
+msgid "Annotations"
+msgstr "Chú thích"
+
+#. i18n: ectx: property (text), widget (QLabel, TextLabel4_3_2)
+#: kcachegrind/configdlgbase.ui:329
+#, kde-format
+msgid "Context lines in annotations:"
+msgstr "Dòng ngữ cảnh trong chú thích:"
+
+#. i18n: ectx: property (text), widget (QLabel, TextLabel1_2)
+#: kcachegrind/configdlgbase.ui:350
+#, kde-format
+msgid "Source Folders"
+msgstr "Thư mục nguồn"
+
+#. i18n: ectx: property (text), widget (QPushButton, addDirButton)
+#: kcachegrind/configdlgbase.ui:364
+#, kde-format
+msgid "Add"
+msgstr "Thêm"
+
+#. i18n: ectx: property (text), widget (QPushButton, deleteDirButton)
+#: kcachegrind/configdlgbase.ui:371
+#, kde-format
+msgid "Delete"
+msgstr "Xóa"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, dirList)
+#: kcachegrind/configdlgbase.ui:409
+#, kde-format
+msgid "Object / Related Source Base"
+msgstr "Đối tượng / Nguồn liên quan cơ bản"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, DumpSelectionBase)
+#: kcachegrind/dumpselectionbase.ui:13 kcachegrind/toplevel.cpp:286
+#: kcachegrind/toplevel.cpp:509
+#, kde-format
+msgid "Profile Dumps"
+msgstr "Tiểu sử Hồ sơ"
+
+#. i18n: ectx: property (text), widget (Q3ListView, listView1)
+#: kcachegrind/dumpselectionbase.ui:24
+#, kde-format
+msgid "Target"
+msgstr "Mục tiêu"
+
+#. i18n: ectx: property (text), widget (Q3ListView, listView1)
+#: kcachegrind/dumpselectionbase.ui:46
+#, kde-format
+msgid "Time"
+msgstr "Thời gian"
+
+#. i18n: ectx: property (text), widget (Q3ListView, listView1)
+#: kcachegrind/dumpselectionbase.ui:57
+#, kde-format
+msgid "Path"
+msgstr "Đường dẫn"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab)
+#: kcachegrind/dumpselectionbase.ui:70
+#, kde-format
+msgid "Options"
+msgstr "Tùy chọn"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: kcachegrind/dumpselectionbase.ui:87
+#, kde-format
+msgid "Target command:"
+msgstr "Lệnh mục tiêu:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: kcachegrind/dumpselectionbase.ui:100
+#, kde-format
+msgid "Profiler options:"
+msgstr "Tùy chọn trình phân tích:"
+
+#. i18n: ectx: property (text), widget (Q3ListView, listView3)
+#: kcachegrind/dumpselectionbase.ui:111
+#, kde-format
+msgid "Option"
+msgstr "lựa chọn"
+
+#. i18n: ectx: property (text), widget (Q3ListView, listView3)
+#. i18n: ectx: property (text), widget (Q3ListView, listView4_3)
+#: kcachegrind/dumpselectionbase.ui:122 kcachegrind/dumpselectionbase.ui:650
+#, kde-format
+msgid "Value"
+msgstr "Giá trị"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
+#: kcachegrind/dumpselectionbase.ui:133
+#, kde-format
+msgid "Trace"
+msgstr "Dấu vết"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView4_3)
+#: kcachegrind/dumpselectionbase.ui:146 kcachegrind/dumpselectionbase.ui:730
+#, kde-format
+msgid "Jumps"
+msgstr "Nhảy"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
+#: kcachegrind/dumpselectionbase.ui:160
+#, kde-format
+msgid "Instructions"
+msgstr "Hướng dẫn"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView4_3)
+#: kcachegrind/dumpselectionbase.ui:175 kcachegrind/dumpselectionbase.ui:745
+#, kde-format
+msgid "Events"
+msgstr "Sự kiện"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
+#: kcachegrind/dumpselectionbase.ui:188
+#, kde-format
+msgid "Full Cache"
+msgstr "Bộ đệm đầy"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
+#: kcachegrind/dumpselectionbase.ui:202
+#, kde-format
+msgid "Custom"
+msgstr "Tự chọn"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
+#: kcachegrind/dumpselectionbase.ui:217
+#, kde-format
+msgid "Collect"
+msgstr "Thu thập"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
+#: kcachegrind/dumpselectionbase.ui:230
+#, kde-format
+msgid "At Startup"
+msgstr "Khi khởi động"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
+#: kcachegrind/dumpselectionbase.ui:244
+#, kde-format
+msgid "While In"
+msgstr "Trong khi"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
+#: kcachegrind/dumpselectionbase.ui:259
+#, kde-format
+msgid "Skip"
+msgstr "Bỏ qua"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
+#: kcachegrind/dumpselectionbase.ui:272
+#, kde-format
+msgid "PLT"
+msgstr "PLT"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
+#. i18n: ectx: property (text), widget (Q3ListView, listView7)
+#: kcachegrind/dumpselectionbase.ui:286 kcachegrind/dumpselectionbase.ui:898
+#, kde-format
+msgid "Function"
+msgstr "Chức năng"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
+#: kcachegrind/dumpselectionbase.ui:301
+#, kde-format
+msgid "Dump Profile"
+msgstr "Xổ Hồ Sơ"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
+#: kcachegrind/dumpselectionbase.ui:314
+#, kde-format
+msgid "Every BBs"
+msgstr "Tất cả BB"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
+#: kcachegrind/dumpselectionbase.ui:328 kcachegrind/dumpselectionbase.ui:370
+#, kde-format
+msgid "On Entering"
+msgstr "Khi vào"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
+#: kcachegrind/dumpselectionbase.ui:342
+#, kde-format
+msgid "On Leaving"
+msgstr "Khi rời đi"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
+#: kcachegrind/dumpselectionbase.ui:357
+#, kde-format
+msgid "Zero Events"
+msgstr "Không có sự kiện"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
+#: kcachegrind/dumpselectionbase.ui:385
+#, kde-format
+msgid "Separate"
+msgstr "Tách riêng"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
+#: kcachegrind/dumpselectionbase.ui:398
+#, kde-format
+msgid "Threads"
+msgstr "Luồng"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
+#: kcachegrind/dumpselectionbase.ui:412
+#, kde-format
+msgid "Recursions"
+msgstr "Lần lặp lại"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
+#: kcachegrind/dumpselectionbase.ui:426
+#, kde-format
+msgid "Call Chain"
+msgstr "Chuỗi Lời Gọi"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: kcachegrind/dumpselectionbase.ui:452
+#, kde-format
+msgid "Custom profiler options:"
+msgstr "Tùy chọn bộ phân tích cấu hình:"
+
+#. i18n: ectx: property (text), widget (QPushButton, pushButton2)
+#: kcachegrind/dumpselectionbase.ui:486
+#, kde-format
+msgid "Run New Profile"
+msgstr "Chạy Hồ Sơ Mới"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab2)
+#: kcachegrind/dumpselectionbase.ui:496
+#, kde-format
+msgid "Info"
+msgstr "Thông tin"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8)
+#: kcachegrind/dumpselectionbase.ui:505
+#, kde-format
+msgid "Dump reason:"
+msgstr "Lý do xổ:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel6)
+#: kcachegrind/dumpselectionbase.ui:518
+#, kde-format
+msgid "Event summary:"
+msgstr "Tóm tắt sự kiện:"
+
+#. i18n: ectx: property (text), widget (Q3ListView, listView4)
+#: kcachegrind/dumpselectionbase.ui:529
+#, kde-format
+msgid "Name"
+msgstr "Tên"
+
+#. i18n: ectx: property (text), widget (Q3ListView, listView4)
+#: kcachegrind/dumpselectionbase.ui:540
+#, kde-format
+msgid "Sum"
+msgstr "Tổng"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel7)
+#: kcachegrind/dumpselectionbase.ui:554
+#, kde-format
+msgid "Miscellaneous:"
+msgstr "Khác:"
+
+#. i18n: ectx: property (text), widget (QPushButton, pushButton6)
+#: kcachegrind/dumpselectionbase.ui:588
+#, kde-format
+msgid "Show"
+msgstr "Hiện"
+
+#. i18n: ectx: property (text), widget (QPushButton, pushButton5)
+#: kcachegrind/dumpselectionbase.ui:595
+#, kde-format
+msgid "Compare"
+msgstr "So sánh"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab3)
+#: kcachegrind/dumpselectionbase.ui:605
+#, kde-format
+msgid "State"
+msgstr "Trạng thái"
+
+#. i18n: ectx: property (text), widget (QPushButton, pushButton1)
+#: kcachegrind/dumpselectionbase.ui:619
+#, kde-format
+msgid "Update"
+msgstr "Cập nhật"
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBox1)
+#: kcachegrind/dumpselectionbase.ui:626
+#, kde-format
+msgid "Every [s]:"
+msgstr "Mỗi [s]:"
+
+#. i18n: ectx: property (text), widget (Q3ListView, listView4_3)
+#: kcachegrind/dumpselectionbase.ui:639
+#, kde-format
+msgid "Counter"
+msgstr "Bộ đếm"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView4_3)
+#: kcachegrind/dumpselectionbase.ui:661
+#, kde-format
+msgid "Dumps Done"
+msgstr "Đã hoàn thành các bản dump"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView4_3)
+#: kcachegrind/dumpselectionbase.ui:675
+#, kde-format
+msgid "Is Collecting"
+msgstr "Đang thu thập"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView4_3)
+#: kcachegrind/dumpselectionbase.ui:689
+#, kde-format
+msgid "Executed"
+msgstr "Đã thực hiện"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView4_3)
+#: kcachegrind/dumpselectionbase.ui:702
+#, kde-format
+msgid "Basic Blocks"
+msgstr "Khối cơ bản"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView4_3)
+#: kcachegrind/dumpselectionbase.ui:716
+#, kde-format
+msgid "Calls"
+msgstr "Lời gọi"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView4_3)
+#: kcachegrind/dumpselectionbase.ui:758
+#, kde-format
+msgid "Ir"
+msgstr "Ir"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView4_3)
+#: kcachegrind/dumpselectionbase.ui:773
+#, kde-format
+msgid "Distinct"
+msgstr "Khác biệt"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView4_3)
+#: kcachegrind/dumpselectionbase.ui:786
+#, kde-format
+msgid "ELF Objects"
+msgstr "Đối tượng ELF"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView4_3)
+#: kcachegrind/dumpselectionbase.ui:800
+#, kde-format
+msgid "Functions"
+msgstr "Chức năng"
+
+#. i18n: ectx: property (text), item, widget (Q3ListView, listView4_3)
+#: kcachegrind/dumpselectionbase.ui:814
+#, kde-format
+msgid "Contexts"
+msgstr "Ngữ cảnh"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: kcachegrind/dumpselectionbase.ui:845
+#, kde-format
+msgid "Stack trace:"
+msgstr "Dấu vết ngăn xếp:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBox2)
+#: kcachegrind/dumpselectionbase.ui:855
+#, kde-format
+msgid "Sync."
+msgstr "Đồng bộ."
+
+#. i18n: ectx: property (text), widget (Q3ListView, listView7)
+#: kcachegrind/dumpselectionbase.ui:865
+#, kde-format
+msgid "#"
+msgstr "Số"
+
+#. i18n: ectx: property (text), widget (Q3ListView, listView7)
+#: kcachegrind/dumpselectionbase.ui:876
+#, kde-format
+msgid "Incl."
+msgstr "Bao gồm"
+
+#. i18n: ectx: property (text), widget (Q3ListView, listView7)
+#: kcachegrind/dumpselectionbase.ui:887
+#, kde-format
+msgid "Called"
+msgstr "Đã gọi"
+
+#. i18n: ectx: property (text), widget (Q3ListView, listView7)
+#: kcachegrind/dumpselectionbase.ui:909
+#, kde-format
+msgid "Location"
+msgstr "Địa điểm"
+
+#. i18n: ectx: property (text), widget (QPushButton, pushButton7)
+#: kcachegrind/dumpselectionbase.ui:928
+#, kde-format
+msgid "Start"
+msgstr "Khởi động"
+
+#. i18n: ectx: property (text), widget (QPushButton, pushButton6_2)
+#: kcachegrind/dumpselectionbase.ui:951
+#, kde-format
+msgid "Zero"
+msgstr "Không"
+
+#. i18n: ectx: property (text), widget (QPushButton, pushButton4)
+#: kcachegrind/dumpselectionbase.ui:958
+#, kde-format
+msgid "Dump"
+msgstr "Xổ"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab4)
+#: kcachegrind/dumpselectionbase.ui:968
+#, kde-format
+msgid "Messages"
+msgstr "Thông báo"
+
+#. i18n: ectx: property (text), widget (QPushButton, pushButton9)
+#: kcachegrind/dumpselectionbase.ui:985
+#, kde-format
+msgid "Kill Run"
+msgstr "Diệt Chạy"
+
+#. i18n: ectx: property (text), widget (QPushButton, pushButton8)
+#: kcachegrind/dumpselectionbase.ui:1008
+#, kde-format
+msgid "Clear"
+msgstr "Làm trống"
+
+#. i18n: ectx: Menu (file)
+#: kcachegrind/kcachegrindui.rc:4
+#, kde-format
+msgid "&File"
+msgstr "Tệ&p"
+
+#. i18n: ectx: Menu (view)
+#: kcachegrind/kcachegrindui.rc:10
+#, kde-format
+msgid "&View"
+msgstr "Xe&m"
+
+#. i18n: ectx: Menu (layouts)
+#: kcachegrind/kcachegrindui.rc:15
+#, kde-format
+msgid "&Layout"
+msgstr "Bố &cục"
+
+#. i18n: ectx: Menu
+#: kcachegrind/kcachegrindui.rc:33
+#, kde-format
+msgid "Sidebars"
+msgstr "thanh bên"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kcachegrind/kcachegrindui.rc:42
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Thanh công cụ"
+
+#. i18n: ectx: ToolBar (stateToolBar)
+#: kcachegrind/kcachegrindui.rc:54
+#, kde-format
+msgid "State Toolbar"
+msgstr "Thanh công cụ"
+
+#: kcachegrind/main.cpp:34
+#, kde-format
+msgid "KCachegrind"
+msgstr "KCachegrind"
+
+#: kcachegrind/main.cpp:36
+#, kde-format
+msgid "KDE Frontend for Callgrind/Cachegrind"
+msgstr "Tiền phương của KDE cho Callgrind/Cachegrind"
+
+#: kcachegrind/main.cpp:38
+#, kde-format
+msgid "(C) 2002 - 2016"
+msgstr "(C) 2002 - 2016"
+
+#: kcachegrind/main.cpp:40
+#, kde-format
+msgid "Josef Weidendorfer"
+msgstr "Josef Weidendorfer"
+
+#: kcachegrind/main.cpp:41
+#, kde-format
+msgid "Author/Maintainer"
+msgstr "Tác giả/Người bảo trì"
+
+#: kcachegrind/main.cpp:68
+#, kde-format
+msgid "Show information of this trace"
+msgstr "Hiển thị thông tin của dấu vết này"
+
+#: kcachegrind/main.cpp:68
+#, kde-format
+msgid "[trace...]"
+msgstr "[dấu vết...]"
+
+#: kcachegrind/toplevel.cpp:255 kcachegrind/toplevel.cpp:483
+#, kde-format
+msgid "Parts Overview"
+msgstr "Tổng quan các phần"
+
+#: kcachegrind/toplevel.cpp:264
+#, kde-format
+msgid "Top Cost Call Stack"
+msgstr "Ngăn xếp Gọi Chi Phí Cao Nhất"
+
+#: kcachegrind/toplevel.cpp:266
+#, kde-format
+msgid ""
+"<b>The Top Cost Call Stack</b><p>This is a purely fictional 'most probable' "
+"call stack. It is built up by starting with the current selected function "
+"and adds the callers/callees with highest cost at the top and to bottom.</"
+"p><p>The <b>Cost</b> and <b>Calls</b> columns show the cost used for all "
+"calls from the function in the line above.</p>"
+msgstr ""
+"<b>Ngăn Xếp Cuộc Gọi Chi Phí Cao Nhất</b><p>Đây là một ngăn xếp cuộc gọi "
+"'có khả năng nhất' hoàn toàn giả định. Nó được xây dựng bằng cách bắt đầu "
+"với chức năng được chọn hiện tại và thêm vào các hàm gọi/được gọi có chi "
+"phí cao nhất ở trên cùng và dưới cùng.</p><p>Các cột <b>Chi phí</b> và "
+"<b>Cuộc gọi</b> hiển thị chi phí được sử dụng cho tất cả các cuộc gọi từ "
+"chức năng trong dòng phía trên.</p>"
+
+#: kcachegrind/toplevel.cpp:280
+#, kde-format
+msgid "Flat Profile"
+msgstr "Hồ sơ phẳng"
+
+#: kcachegrind/toplevel.cpp:293
+#, kde-format
+msgid ""
+"<b>Profile Dumps</b><p>This dockable shows in the top part the list of "
+"loadable profile dumps in all subdirectories of: <ul><li>current working "
+"directory of KCachegrind, i.e. where it was started from, and </li><li>the "
+"default profile dump directory given in the configuration.</li></ul> The "
+"list is sorted according to the target command profiled in the corresponding "
+"dump.</p><p>On selecting a profile dump, information for it is shown in the "
+"bottom area of the dockable: <ul><li><b>Options</b> allows you to view the "
+"profiled command and profile options of this dump. By changing any item, a "
+"new (yet unexisting) profile template is created. Press <b>Run Profile</b> "
+"to start a profile run with these options in the background. </"
+"li><li><b>Info</b> gives detailed info on the selected dump like event cost "
+"summary and properties of the simulated cache. </li><li><b>State</b> is only "
+"available for current happening profiles runs. Press <b>Update</b> to see "
+"different counters of the run, and a stack trace of the current position in "
+"the program profiled. Check the <b>Every</b> option to let KCachegrind "
+"regularly poll these data. Check the <b>Sync</b> option to let the dockable "
+"activate the top function in the current loaded dump.</li></ul></p>"
+msgstr ""
+"<b>Các Phần Xổ Hồ Sơ</b><p>Phần có thể gắn này hiển thị ở phần trên cùng "
+"danh sách các phần xổ hồ sơ có thể tải trong tất cả các thư mục con của: "
+"<ul><li>thư mục làm việc hiện tại của KCachegrind, tức là nơi nó được khởi "
+"động từ đó, và </li><li>thư mục phần xổ hồ sơ mặc định được chỉ định trong "
+"cấu hình.</li></ul> Danh sách được sắp xếp theo lệnh đích được lập hồ sơ "
+"trong phần xổ tương ứng.</p><p>Khi chọn một phần xổ hồ sơ, thông tin về nó "
+"được hiển thị ở khu vực dưới cùng của phần có thể gắn: <ul><li><b>Lựa "
+"chọn</b> cho phép bạn xem lệnh được lập hồ sơ và các lựa chọn hồ sơ của "
+"phần xổ này. Bằng cách thay đổi bất kỳ mục nào, một bản mẫu hồ sơ mới (chưa "
+"tồn tại) được tạo ra. Nhấn <b>Chạy Hồ Sơ</b> để bắt đầu một lần chạy hồ sơ "
+"với các lựa chọn này trong nền. </li><li><b>Thông tin</b> cung cấp thông "
+"tin chi tiết về phần xổ đã chọn như tóm tắt chi phí sự kiện và thuộc tính "
+"của bộ nhớ đệm mô phỏng. </li><li><b>Trạng thái</b> chỉ khả dụng cho các "
+"lần chạy hồ sơ đang diễn ra. Nhấn <b>Cập nhật</b> để xem các bộ đếm khác "
+"nhau của lần chạy, và một vết ngăn xếp của vị trí hiện tại trong chương "
+"trình được lập hồ sơ. Chọn tùy chọn <b>Mỗi</b> để cho phép KCachegrind "
+"thường xuyên truy vấn các dữ liệu này. Chọn tùy chọn <b>Đồng bộ</b> để cho "
+"phép phần có thể gắn kích hoạt chức năng hàng đầu trong phần xổ đã tải hiện "
+"tại.</li></ul></p>"
+
+#: kcachegrind/toplevel.cpp:364
+#, kde-format
+msgid "&Duplicate"
+msgstr "&Trùng lặp"
+
+#: kcachegrind/toplevel.cpp:367
+#, kde-format
+msgid ""
+"<b>Duplicate Current Layout</b><p>Make a copy of the current layout.</p>"
+msgstr "<b>Nhân đôi Bố cục Hiện tại</b><p>Tạo một bản sao của bố cục hiện tại.</p>"
+
+#: kcachegrind/toplevel.cpp:372
+#, kde-format
+msgid "&Remove"
+msgstr "X&oá"
+
+#: kcachegrind/toplevel.cpp:374
+#, kde-format
+msgid ""
+"<b>Remove Current Layout</b><p>Delete current layout and make the previous "
+"active.</p>"
+msgstr ""
+"<b>Xóa Bố Cục Hiện Tại</b><p>Xóa bố cục hiện tại và kích hoạt bố cục trước "
+"đó.</p>"
+
+#: kcachegrind/toplevel.cpp:379
+#, kde-format
+msgid "&Go to Next"
+msgstr "Đi đến tiếp the&o"
+
+#: kcachegrind/toplevel.cpp:382
+#, kde-format
+msgid "Go to Next Layout"
+msgstr "Đi đến Bố cục Tiếp theo"
+
+#: kcachegrind/toplevel.cpp:386
+#, kde-format
+msgid "&Go to Previous"
+msgstr "Đi về &trước"
+
+#: kcachegrind/toplevel.cpp:389
+#, kde-format
+msgid "Go to Previous Layout"
+msgstr "Đi đến Bố cục Trước"
+
+#: kcachegrind/toplevel.cpp:393
+#, kde-format
+msgid "&Restore to Default"
+msgstr "K&hôi phục về Mặc định"
+
+#: kcachegrind/toplevel.cpp:395
+#, kde-format
+msgid "Restore Layouts to Default"
+msgstr "Khôi phục Bố cục về Mặc định"
+
+#: kcachegrind/toplevel.cpp:399
+#, kde-format
+msgid "&Save as Default"
+msgstr "Lư&u thành Mặc định"
+
+#: kcachegrind/toplevel.cpp:401
+#, kde-format
+msgid "Save Layouts as Default"
+msgstr "Lưu Bố cục làm Mặc định"
+
+#: kcachegrind/toplevel.cpp:412
+#, kde-format
+msgid "<b>New</b><p>Open new empty KCachegrind window.</p>"
+msgstr "<b>Mới</b><p>Mở cửa sổ KCachegrind trống mới.</p>"
+
+#: kcachegrind/toplevel.cpp:416
+#, kde-format
+msgid "&Add..."
+msgstr "Thê&m..."
+
+#: kcachegrind/toplevel.cpp:418
+#, kde-format
+msgid ""
+"<b>Add Profile Data</b><p>This opens an additional profile data file in the "
+"current window.</p>"
+msgstr ""
+"<b>Thêm Dữ liệu Hồ sơ</b><p>Thao tác này mở một tệp dữ liệu hồ sơ bổ sung "
+"trong cửa sổ hiện tại.</p>"
+
+#: kcachegrind/toplevel.cpp:424
+#, kde-format
+msgctxt "Reload a document"
+msgid "&Reload"
+msgstr "Tả&i lại"
+
+#: kcachegrind/toplevel.cpp:427
+#, kde-format
+msgid "<b>Reload Profile Data</b><p>This loads any new created parts, too.</p>"
+msgstr "<b>Tải lại dữ liệu hồ sơ</b><p>Điều này cũng tải các phần mới được tạo.</p>"
+
+#: kcachegrind/toplevel.cpp:432
+#, kde-format
+msgid "&Export Graph"
+msgstr "&Xuất khẩu Đồ thị"
+
+#: kcachegrind/toplevel.cpp:435
+#, kde-format
+msgid ""
+"<b>Export Call Graph</b><p>Generates a file with extension .dot for the "
+"tools of the GraphViz package.</p>"
+msgstr ""
+"<b>Xuất Đồ Thị Lời Gọi</b><p>Tạo ra một tệp có phần mở rộng .dot cho các "
+"công cụ của gói GraphViz.</p>"
+
+#: kcachegrind/toplevel.cpp:443
+#, kde-format
+msgid "&Force Dump"
+msgstr "Buộc &xổ"
+
+#: kcachegrind/toplevel.cpp:446
+#, kde-format
+msgid ""
+"<b>Force Dump</b><p>This forces a dump for a Callgrind profile run in the "
+"current directory. This action is checked while KCachegrind looks for the "
+"dump. If the dump is finished, it automatically reloads the current trace. "
+"If this is the one from the running Callgrind, the new created trace part "
+"will be loaded, too.</p><p>Force dump creates a file 'callgrind.cmd', and "
+"checks every second for its existence. A running Callgrind will detect this "
+"file, dump a trace part, and delete 'callgrind.cmd'. The deletion is "
+"detected by KCachegrind, and it does a Reload. If there is <em>no</em> "
+"Callgrind running, press 'Force Dump' again to cancel the dump request. This "
+"deletes 'callgrind.cmd' itself and stops polling for a new dump.</p><p>Note: "
+"A Callgrind run <em>only</em> detects existence of 'callgrind.cmd' when "
+"actively running a few milliseconds, i.e. <em>not</em> sleeping. Tip: For a "
+"profiled GUI program, you can awake Callgrind e.g. by resizing a window of "
+"the program.</p>"
+msgstr ""
+"<b>Bắt buộc Xổ</b><p>Điều này bắt buộc xổ một phần cho một lần chạy hồ sơ "
+"Callgrind trong thư mục hiện tại. Hành động này được kiểm tra trong khi "
+"KCachegrind tìm kiếm phần xổ. Nếu việc xổ hoàn tất, nó sẽ tự động tải lại "
+"dấu vết hiện tại. Nếu đây là dấu vết từ Callgrind đang chạy, phần dấu vết "
+"mới tạo cũng sẽ được tải.</p><p>Bắt buộc xổ tạo ra một tệp 'callgrind.cmd', "
+"và kiểm tra sự tồn tại của nó mỗi giây. Một Callgrind đang chạy sẽ phát "
+"hiện tệp này, xổ một phần dấu vết, và xóa 'callgrind.cmd'. Việc xóa được "
+"phát hiện bởi KCachegrind, và nó thực hiện Tải lại. Nếu <em>không có</em> "
+"Callgrind nào đang chạy, nhấn 'Bắt buộc Xổ' lần nữa để huỷ yêu cầu xổ. Điều "
+"này sẽ tự xóa 'callgrind.cmd' và dừng việc kiểm tra định kỳ cho một phần xổ "
+"mới.</p><p>Lưu ý: Một lần chạy Callgrind <em>chỉ</em> phát hiện sự tồn tại "
+"của 'callgrind.cmd' khi đang chạy tích cực trong vài mili giây, tức là "
+"<em>không</em> đang ngủ. Mẹo: Đối với một chương trình GUI được lập hồ sơ, "
+"bạn có thể đánh thức Callgrind vd. bằng cách thay đổi kích thước cửa sổ của "
+"chương trình.</p>"
+
+#: kcachegrind/toplevel.cpp:471
+#, kde-format
+msgid ""
+"<b>Open Profile Data</b><p>This opens a profile data file, with possible "
+"multiple parts</p>"
+msgstr ""
+"<b>Mở Dữ Liệu Hồ Sơ</b><p>Thao tác này mở một tệp dữ liệu hồ sơ, có thể gồm "
+"nhiều phần</p>"
+
+#: kcachegrind/toplevel.cpp:486
+#, kde-format
+msgid "Show/Hide the Parts Overview Dockable"
+msgstr "Hiện/Ẩn Bảng Điều Khiển Tổng Quan về Các Phần"
+
+#: kcachegrind/toplevel.cpp:491
+#, kde-format
+msgid "Call Stack"
+msgstr "Chuỗi gọi"
+
+#: kcachegrind/toplevel.cpp:494
+#, kde-format
+msgid "Show/Hide the Call Stack Dockable"
+msgstr "Hiện/Ẩn Dockable Ngăn xếp Lời gọi"
+
+#: kcachegrind/toplevel.cpp:499
+#, kde-format
+msgid "Function Profile"
+msgstr "Hồ sơ chức năng"
+
+#: kcachegrind/toplevel.cpp:502
+#, kde-format
+msgid "Show/Hide the Function Profile Dockable"
+msgstr "Hiện/Ẩn Hồ sơ Chức năng Dockable"
+
+#: kcachegrind/toplevel.cpp:510
+#, kde-format
+msgid "Show/Hide the Profile Dumps Dockable"
+msgstr "Hiện/Ẩn Cửa sổ Trình duyệt Tiểu sử"
+
+#: kcachegrind/toplevel.cpp:517
+#, kde-format
+msgid "Relative"
+msgstr "Tương đối"
+
+#: kcachegrind/toplevel.cpp:519
+#, kde-format
+msgid "Show relative instead of absolute costs"
+msgstr "Hiển thị chi phí tương đối thay vì tuyệt đối"
+
+#: kcachegrind/toplevel.cpp:525
+#, kde-format
+msgid "Relative to Parent"
+msgstr "Tương đối với Cha mẹ"
+
+#: kcachegrind/toplevel.cpp:528
+#, kde-format
+msgid "Show percentage costs relative to parent"
+msgstr "Hiển thị tỷ lệ phần trăm chi phí so với phần cha"
+
+#: kcachegrind/toplevel.cpp:532
+#, kde-format
+msgid ""
+"<b>Show percentage costs relative to parent</b><p>If this is switched off, "
+"percentage costs are always shown relative to the total cost of the profile "
+"part(s) that are currently browsed. By turning on this option, percentage "
+"cost of shown cost items will be relative to the parent cost item.</"
+"p><ul><table><tr><td><b>Cost Type</b></td><td><b>Parent Cost</b></td></"
+"tr><tr><td>Function Cumulative</td><td>Total</td></tr><tr><td>Function Self</"
+"td><td>Function Group (*) / Total</td></tr><tr><td>Call</td><td>Function "
+"Inclusive</td></tr><tr><td>Source Line</td><td>Function Inclusive</td></tr></"
+"table></ul><p>(*) Only if function grouping is switched on (e.g. ELF object "
+"grouping).</p>"
+msgstr ""
+"<b>Hiển thị chi phí phần trăm tương đối so với mục cha</b><p>Nếu tắt tùy "
+"chọn này, chi phí phần trăm luôn được hiển thị tương đối so với tổng chi "
+"phí của (các) phần hồ sơ đang được duyệt. Bằng cách bật tùy chọn này, chi "
+"phí phần trăm của các mục chi phí hiển thị sẽ tương đối so với mục chi phí "
+"cha.</p><ul><table><tr><td><b>Loại Chi phí</b></td><td><b>Chi phí "
+"Cha</b></td></tr><tr><td>Tích lũy Chức "
+"năng</td><td>Tổng</td></tr><tr><td>Tự thân Chức năng</td><td>Nhóm Chức năng "
+"(*) / Tổng</td></tr><tr><td>Gọi</td><td>Bao gồm Chức "
+"năng</td></tr><tr><td>Dòng Mã nguồn</td><td>Bao gồm Chức "
+"năng</td></tr></table></ul><p>(*) Chỉ khi nhóm chức năng được bật (ví dụ: "
+"nhóm đối tượng ELF).</p>"
+
+#: kcachegrind/toplevel.cpp:549
+#, kde-format
+msgid "Cycle Detection"
+msgstr "Phát hiện chu kỳ"
+
+#: kcachegrind/toplevel.cpp:552
+#, kde-format
+msgid ""
+"<b>Detect recursive cycles</b><p>If this is switched off, the treemap "
+"drawing will show black areas when a recursive call is made instead of "
+"drawing the recursion ad infinitum. Note that the size of black areas often "
+"will be wrong, as inside recursive cycles the cost of calls cannot be "
+"determined; the error is small, however, for false cycles (see "
+"documentation).</p><p>The correct handling for cycles is to detect them and "
+"collapse all functions of a cycle into an artificial function, which is done "
+"when this option is selected. Unfortunately, with GUI applications, this "
+"often will lead to huge false cycles, making the analysis impossible; "
+"therefore, there is the option to switch this off.</p>"
+msgstr ""
+"<b>Phát hiện chu kỳ đệ quy</b><p>Nếu tắt lựa chọn này, việc vẽ sơ đồ cây sẽ "
+"hiển thị các vùng đen khi có cuộc gọi đệ quy thay vì vẽ đệ quy vô hạn. Lưu "
+"ý rằng kích thước của các vùng đen thường sẽ không chính xác, vì trong các "
+"chu kỳ đệ quy, chi phí của các cuộc gọi không thể xác định được; tuy nhiên, "
+"lỗi này nhỏ đối với các chu kỳ giả (xem tài liệu).</p><p>Cách xử lý đúng "
+"đắn cho các chu kỳ là phát hiện chúng và thu gọn tất cả các chức năng của "
+"một chu kỳ thành một chức năng nhân tạo, điều này được thực hiện khi lựa "
+"chọn này được chọn. Tuy nhiên, với các ứng dụng GUI, điều này thường dẫn "
+"đến các chu kỳ giả lớn, khiến việc phân tích trở nên không thể; do đó, có "
+"lựa chọn để tắt tính năng này.</p>"
+
+#: kcachegrind/toplevel.cpp:568
+#, kde-format
+msgid "Shorten Templates"
+msgstr "Rút gọn Mẫu"
+
+#: kcachegrind/toplevel.cpp:570
+#, kde-format
+msgid "Hide Template Parameters in C++ Symbols"
+msgstr "Ẩn Tham số Bản Mẫu trong Kí Hiệu C++"
+
+#: kcachegrind/toplevel.cpp:571
+#, kde-format
+msgid ""
+"<b>Hide Template Parameters in C++ Symbols</b><p>If this is switched on, "
+"every symbol displayed will have any C++ template parameters hidden, just "
+"showing &lt;&gt; instead of a potentially nested template parameter.</"
+"p><p>In this mode, you can hover the mouse pointer over the activated symbol "
+"label to show a tooltip with the unabbreviated symbol.</p>"
+msgstr ""
+"<b>Ẩn Tham số Bản mẫu trong Kí hiệu C++</b><p>Nếu tùy chọn này được bật, "
+"mọi kí hiệu hiển thị sẽ ẩn các tham số bản mẫu C++, chỉ hiển thị &lt;gt; "
+"thay vì các tham số bản mẫu có thể lồng nhau.</p><p>Trong chế độ này, bạn "
+"có thể đảo chuột qua nhãn kí hiệu đã kích hoạt để hiển thị chú giải với kí "
+"hiệu đầy đủ không được viết tắt.</p>"
+
+#: kcachegrind/toplevel.cpp:587
+#, kde-format
+msgid "&Up"
+msgstr "&Lên"
+
+#: kcachegrind/toplevel.cpp:596
+#, kde-format
+msgid ""
+"<b>Go Up</b><p>Go to last selected caller of current function. If no caller "
+"was visited, use that with highest cost.</p>"
+msgstr ""
+"<b>Đi lên</b><p>Đi đến caller được chọn cuối cùng của hàm hiện tại. Nếu "
+"không có caller nào được truy cập, sử dụng caller có chi phí cao nhất.</p>"
+
+#: kcachegrind/toplevel.cpp:613
+#, kde-format
+msgid "Go back in function selection history"
+msgstr "Quay lại trong lịch sử chọn chức năng"
+
+#: kcachegrind/toplevel.cpp:627
+#, kde-format
+msgid "Go forward in function selection history"
+msgstr "Đi tiếp trong lịch sử chọn chức năng"
+
+#: kcachegrind/toplevel.cpp:632 kcachegrind/toplevel.cpp:1503
+#, kde-format
+msgid "Primary Event Type"
+msgstr "Kiểu sự kiện chính"
+
+#: kcachegrind/toplevel.cpp:633
+#, kde-format
+msgid "Select primary event type of costs"
+msgstr "Chọn kiểu sự kiện chính của chi phí"
+
+#: kcachegrind/toplevel.cpp:655 kcachegrind/toplevel.cpp:1508
+#, kde-format
+msgid "Secondary Event Type"
+msgstr "Kiểu sự kiện phụ"
+
+#: kcachegrind/toplevel.cpp:656
+#, kde-format
+msgid "Select secondary event type for cost e.g. shown in annotations"
+msgstr "Chọn kiểu sự kiện thứ cấp cho chi phí, vd. được hiển thị trong chú thích"
+
+#: kcachegrind/toplevel.cpp:665
+#, kde-format
+msgid "Grouping"
+msgstr "Nhóm"
+
+#: kcachegrind/toplevel.cpp:667
+#, kde-format
+msgid "Select how functions are grouped into higher level cost items"
+msgstr "Chọn cách nhóm các chức năng thành các mục chi phí cấp cao hơn"
+
+#: kcachegrind/toplevel.cpp:673
+#, kde-format
+msgid "(No Grouping)"
+msgstr "(Không nhóm)"
+
+#: kcachegrind/toplevel.cpp:685
+#, kde-format
+msgid "Split"
+msgstr "Chia"
+
+#: kcachegrind/toplevel.cpp:688
+#, kde-format
+msgid "Show two information panels"
+msgstr "Hiển thị hai bảng thông tin"
+
+#: kcachegrind/toplevel.cpp:694
+#, kde-format
+msgid "Split Horizontal"
+msgstr "Chia theo chiều ngang"
+
+#: kcachegrind/toplevel.cpp:697
+#, kde-format
+msgid "Change Split Orientation when main window is split."
+msgstr "Thay đổi hướng chia khi cửa sổ chính được chia."
+
+#: kcachegrind/toplevel.cpp:891
+#, kde-format
+msgid "Select Callgrind Profile Data"
+msgstr "Chọn Dữ liệu Tiểu sử Callgrind"
+
+#: kcachegrind/toplevel.cpp:893 kcachegrind/toplevel.cpp:961
+#, kde-format
+msgid "Callgrind Profile Data (cachegrind.out* callgrind.out*);;All Files (*)"
+msgstr "Dữ liệu Hồ sơ Callgrind (cachegrind.out* callgrind.out*);;Tất cả Tệp (*)"
+
+#: kcachegrind/toplevel.cpp:921 kcachegrind/toplevel.cpp:950
+#, kde-format
+msgid ""
+"Could not open the file \"%1\". Check it exists and you have enough "
+"permissions to read it."
+msgstr ""
+"Không thể mở tệp \"%1\". Hãy kiểm tra xem tệp có tồn tại và bạn có đủ quyền "
+"để đọc nó không."
+
+#: kcachegrind/toplevel.cpp:959
+#, kde-format
+msgid "Add Callgrind Profile Data"
+msgstr "Thêm Dữ Liệu Tiểu Sử Callgrind"
+
+#: kcachegrind/toplevel.cpp:1129 kcachegrind/toplevel.cpp:1456
+#, kde-format
+msgid "(Hidden)"
+msgstr "(Ẩn)"
+
+#: kcachegrind/toplevel.cpp:1513
+#, kde-format
+msgid "Hide"
+msgstr "Ẩn"
+
+#: kcachegrind/toplevel.cpp:1555
+#, kde-format
+msgid "Show Absolute Cost"
+msgstr "Hiển thị Giá Tuyệt Đối"
+
+#: kcachegrind/toplevel.cpp:1558
+#, kde-format
+msgid "Show Relative Cost"
+msgstr "Hiển thị Chi phí Tương đối"
+
+#: kcachegrind/toplevel.cpp:1593
+#, kde-format
+msgid "Go Back"
+msgstr "Quay lại"
+
+#: kcachegrind/toplevel.cpp:1594
+#, kde-format
+msgid "Go Forward"
+msgstr "Tiến về phía trước"
+
+#: kcachegrind/toplevel.cpp:1595
+#, kde-format
+msgid "Go Up"
+msgstr "Lên trên"
+
+#: kcachegrind/toplevel.cpp:1807
+#, kde-format
+msgid "Layout Count: %1"
+msgstr "Số lượng bố cục: %1"
+
+#: kcachegrind/toplevel.cpp:1814
+#, kde-format
+msgid "No profile data file loaded."
+msgstr "Không có tệp dữ liệu tiểu sử được tải."
+
+#: kcachegrind/toplevel.cpp:1823
+#, kde-format
+msgid "Total %1 Cost: %2"
+msgstr "Tổng chi phí %1: %2"
+
+#: kcachegrind/toplevel.cpp:1835
+#, kde-format
+msgid "No event type selected"
+msgstr "Không có kiểu sự kiện được chọn"
+
+#: kcachegrind/toplevel.cpp:2013
+#, kde-format
+msgid "Cannot determine receiver PID for dump request"
+msgstr "Không thể xác định PID người nhận cho yêu cầu xổ"
+
+#: kcachegrind/toplevel.cpp:2059
+#, kde-format
+msgid "Error running callgrind_control"
+msgstr "Lỗi khi chạy callgrind_control"
+
+#: kcachegrind/toplevel.cpp:2098 kcachegrind/toplevel.cpp:2135
+#: kcachegrind/toplevel.cpp:2172
+#, kde-format
+msgid "(No Stack)"
+msgstr "(Không có ngăn xếp)"
+
+#: kcachegrind/toplevel.cpp:2104
+#, kde-format
+msgid "(No next function)"
+msgstr "(Không có hàm tiếp theo)"
+
+#: kcachegrind/toplevel.cpp:2141
+#, kde-format
+msgid "(No previous function)"
+msgstr "(Không có hàm trước)"
+
+#: kcachegrind/toplevel.cpp:2177
+#, kde-format
+msgid "(No Function Up)"
+msgstr "(Không có chức năng trên)"
+
+#: kcachegrind/toplevel.cpp:2309 kcachegrind/toplevel.cpp:2323
+#, kde-format
+msgid "Loading %1"
+msgstr "Đang tải %1"
+
+#: kcachegrind/toplevel.cpp:2317
+#, kde-format
+msgid "Error loading %1: %2"
+msgstr "Lỗi khi tải %1: %2"

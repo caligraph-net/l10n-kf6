@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2024-03-06 00:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: component/name
+#: org.kde.neochat.appdata.xml:12
+msgid "NeoChat"
+msgstr "NeoChat"
+
+#. (itstool) path: component/summary
+#: org.kde.neochat.appdata.xml:13
+msgid "Chat with your friends on matrix"
+msgstr "Trò chuyện với bạn bè của bạn trên Matrix"
+
+#. (itstool) path: description/p
+#: org.kde.neochat.appdata.xml:15
+msgid "NeoChat is a chat app that lets you take full advantage of the Matrix network. It provides you with a secure way to send text messages, videos and audio files to your family, colleagues and friends."
+msgstr ""
+"NeoChat là một ứng dụng trò chuyện cho phép bạn tận dụng tối đa mạng lưới "
+"Matrix. Nó cung cấp cho bạn một cách an toàn để gửi tin nhắn văn bản, phim "
+"và tệp âm thanh cho gia đình, đồng nghiệp và bạn bè của bạn."
+
+#. (itstool) path: description/p
+#: org.kde.neochat.appdata.xml:16
+msgid "NeoChat aims to be a fully featured application for the Matrix specification. As such everything in the current stable specification with the notable exceptions of VoIP, threads and some aspects of End-to-End Encryption are supported. There are a few other smaller omissions due to the fact that the Matrix spec is constantly evolving but the aim remains to provide eventual support for the entire spec."
+msgstr ""
+"NeoChat nhằm trở thành một ứng dụng đầy đủ tính năng cho đặc tính Matrix. "
+"Do đó, tất cả các tính năng trong đặc tính ổn định hiện tại, ngoại trừ "
+"VoIP, luồng và một số khía cạnh của mật mã hoá đầu cuối, đều được hỗ trợ. "
+"Có một vài thiếu sót nhỏ khác do sự thay đổi liên tục của đặc tính Matrix, "
+"nhưng mục tiêu vẫn là cung cấp hỗ trợ cho toàn bộ đặc tính."
+
+#. (itstool) path: description/p
+#: org.kde.neochat.appdata.xml:17
+msgid "Due to the nature of the Matrix specification development NeoChat also supports numerous unstable features. Currently these are:"
+msgstr ""
+"Do bản chất của sự phát triển đặc tính Matrix, NeoChat cũng hỗ trợ nhiều "
+"tính năng không ổn định. Hiện tại những tính năng này là:"
+
+#. (itstool) path: ul/li
+#: org.kde.neochat.appdata.xml:19
+msgid "Polls - MSC3381"
+msgstr "Thăm dò ý kiến - MSC3381"
+
+#. (itstool) path: ul/li
+#: org.kde.neochat.appdata.xml:20
+msgid "Sticker Packs - MSC2545"
+msgstr "Gói Sticker - MSC2545"
+
+#. (itstool) path: ul/li
+#: org.kde.neochat.appdata.xml:21
+msgid "Location Events - MSC3488"
+msgstr "Sự kiện địa điểm - MSC3488"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.neochat.appdata.xml:56 org.kde.neochat.appdata.xml:71
+msgid "Main view with room list, chat, and room information"
+msgstr "Giao diện chính với danh sách phòng, trò chuyện và thông tin phòng"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.neochat.appdata.xml:60
+msgid "Discover new communities with Matrix Spaces"
+msgstr "Khám phá các cộng đồng mới với Matrix Spaces"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.neochat.appdata.xml:75
+msgid "Login screen"
+msgstr "Màn hình đăng nhập"

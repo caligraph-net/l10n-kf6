@@ -29,43 +29,43 @@ msgid "Your emails"
 msgstr "scorpionfire@vnoperamail.com"
 
 #: kbblevelconfigurationwidget.cpp:31
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@item:valuesuffix to a number between 1 and 99"
 msgid " ball"
 msgid_plural " balls"
-msgstr[0] "&Banh"
+msgstr[0] "quả"
 
 #: kbblevelconfigurationwidget.cpp:40
 #, kde-format
 msgctxt "@item:valuesuffix to a number between 2 and 30"
 msgid " column"
 msgid_plural " columns"
-msgstr[0] ""
+msgstr[0] "cột"
 
 #: kbblevelconfigurationwidget.cpp:49
 #, kde-format
 msgctxt "@item:valuesuffix to a number between 2 and 30"
 msgid " row"
 msgid_plural " rows"
-msgstr[0] ""
+msgstr[0] "hàng"
 
 #: kbbmainwindow.cpp:67
 #, kde-format
 msgctxt "Difficulty level title"
 msgid "Configurable"
-msgstr ""
+msgstr "Có thể cấu hình"
 
 #: kbbmainwindow.cpp:77
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action"
 msgid "Start Tutorial"
-msgstr "&Hướng dẫn"
+msgstr "Bắt đầu Hướng dẫn"
 
 #: kbbmainwindow.cpp:79
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Start tutorial"
-msgstr "&Hướng dẫn"
+msgstr "Bắt đầu hướng dẫn"
 
 #: kbbmainwindow.cpp:80
 #, kde-format
@@ -73,20 +73,23 @@ msgid ""
 "<qt>The <b>tutorial</b> is a fast, user friendly and interactive way to "
 "learn the rules of the game. Start it if you do not know them!</qt>"
 msgstr ""
+"<qt>Phần <b>hướng dẫn</b> là cách nhanh chóng, thân thiện với người dùng và "
+"tương tác để học các quy tắc của trò chơi. Hãy khởi động nó nếu bạn chưa "
+"biết chúng!</qt>"
 
 #: kbbmainwindow.cpp:84
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "KDE Blackbox Game"
 msgctxt "@action"
 msgid "New Sandbox Game"
-msgstr "Trò Chiếc hộp đen (KDE)"
+msgstr "Trò chơi Bàn chơi mới"
 
 #: kbbmainwindow.cpp:85
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "KDE Blackbox Game"
 msgctxt "@info:tooltip"
 msgid "Start a new sandbox game"
-msgstr "Trò Chiếc hộp đen (KDE)"
+msgstr "Khởi động một bàn chơi mới"
 
 #: kbbmainwindow.cpp:86
 #, kde-format
@@ -96,14 +99,18 @@ msgid ""
 "p><p>However: after a while, it is not really fun and you should try to "
 "start a real game!</p></qt>"
 msgstr ""
+"<qt><p>Trong một <b>bàn chơi sandbox</b>, giải pháp được hiển thị ngay từ "
+"đầu bàn chơi. Điều này hữu ích để hiểu các nguyên tắc của bàn "
+"chơi.</p><p>Tuy nhiên: sau một thời gian, nó không thực sự thú vị và bạn "
+"nên thử khởi động một bàn chơi thực sự!</p></qt>"
 
 #: kbbmainwindow.cpp:92
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Done"
 msgctxt ""
 "@action the last action of a game to check the result, when the user is done"
 msgid "Done!"
-msgstr "Đã &xong"
+msgstr "Xong!"
 
 #: kbbmainwindow.cpp:93
 #, kde-format
@@ -115,12 +122,18 @@ msgid ""
 "li></ul><p>Note that it is only possible to click here if you have placed "
 "the correct number of balls.</p></qt>"
 msgstr ""
+"<qt><ul><li>Đầu tiên, bạn phải đặt tất cả các quả bóng vào hộp đen. Để đoán "
+"vị trí chính xác của các quả bóng và xem chúng tương tác với tia laser như "
+"thế nào, bạn nên sử dụng các tia laser được đặt xung quanh hộp "
+"đen.</li><li><b>Khi bạn nghĩ mình đã hoàn thành</b>, bạn nên bấm vào "
+"đây.</li></ul><p>Lưu ý rằng chỉ có thể bấm vào đây nếu bạn đã đặt đúng số "
+"lượng quả bóng.</p></qt>"
 
 #: kbbmainwindow.cpp:97
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Give up the game"
-msgstr "&Bỏ qua"
+msgstr "Bỏ bàn chơi"
 
 #: kbbmainwindow.cpp:98
 #, kde-format
@@ -129,48 +142,51 @@ msgid ""
 "solution will be displayed.</p><p>If you placed all the balls and do not "
 "want to give up, choose \"Done!\".</p></qt>"
 msgstr ""
+"<qt><p>Chọn \"<b>Giải</b>\" nếu bạn muốn bỏ cuộc ván chơi hiện tại. Giải "
+"pháp sẽ được hiển thị.</p><p>Nếu bạn đã đặt tất cả các quả bóng và không "
+"muốn bỏ cuộc, hãy chọn \"Xong!\".</p></qt>"
 
 #: kbbmainwindow.cpp:103
 #, kde-format
 msgctxt "@option:check"
 msgid "Enable Highlight under Mouse"
-msgstr ""
+msgstr "Bật tô sáng khi di chuột"
 
 #: kbbmainwindow.cpp:143
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action"
 msgid "Move Down"
-msgstr "&Bỏ qua"
+msgstr "Di chuyển xuống"
 
 #: kbbmainwindow.cpp:149
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action"
 msgid "Move Up"
-msgstr "&Bỏ qua"
+msgstr "Di chuyển lên"
 
 #: kbbmainwindow.cpp:155
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action"
 msgid "Move Left"
-msgstr "&Bỏ qua"
+msgstr "Di chuyển sang trái"
 
 #: kbbmainwindow.cpp:161
 #, kde-format
 msgctxt "@action"
 msgid "Move Right"
-msgstr ""
+msgstr "Di chuyển sang phải"
 
 #: kbbmainwindow.cpp:167
 #, kde-format
 msgctxt "@action"
 msgid "Switch Ball or Shoot Laser"
-msgstr ""
+msgstr "Chuyển đổi Bóng hoặc Bắn Laser"
 
 #: kbbmainwindow.cpp:173
 #, kde-format
 msgctxt "@action"
 msgid "Switch Marker"
-msgstr ""
+msgstr "Chuyển đổi Marker"
 
 #: kbbmainwindow.cpp:247
 #, kde-format
@@ -181,33 +197,35 @@ msgid ""
 "Note: You can change<br />the parameters of<br />custom games in the<br /"
 ">Settings dialog."
 msgstr ""
+"Lưu ý: Bạn có thể thay đổi<br />các tham số của<br />trò chơi tùy chỉnh "
+"trong<br />hộp thoại Cài đặt."
 
 #: kbbmainwindow.cpp:280
 #, kde-format
 msgid "First, you need to remove 1 ball from the black box."
 msgid_plural "First, you need to remove %1 balls from the black box."
-msgstr[0] ""
+msgstr[0] "Trước tiên, bạn cần xoá %1 quả bóng khỏi hộp đen."
 
 #: kbbmainwindow.cpp:282
 #, kde-format
 msgid "To check if you successfully guessed the ball positions, click here!"
-msgstr ""
+msgstr "Để kiểm tra xem bạn đã đoán đúng vị trí của quả bóng, hãy bấm vào đây!"
 
 #: kbbmainwindow.cpp:284
 #, kde-format
 msgid "You need to place 1 more ball on the black box."
 msgid_plural "You need to place %1 more balls on the black box."
-msgstr[0] ""
+msgstr[0] "Bạn cần đặt %1 quả bóng khác vào hộp đen."
 
 #: kbbmainwindow.cpp:288
 #, kde-format
 msgid "Game over."
-msgstr ""
+msgstr "Kết thúc bàn chơi."
 
 #: kbbmainwindow.cpp:290
 #, kde-format
 msgid "Game paused."
-msgstr ""
+msgstr "Bàn chơi đã tạm dừng."
 
 #: kbbmainwindow.cpp:329
 #, kde-format
@@ -217,22 +235,24 @@ msgid ""
 "the game before you reached the last step.\n"
 "Please first finish the tutorial."
 msgstr ""
+"Nhấp vào \"Xong!\" là cách bình thường để kiểm tra vị trí của các quả bóng "
+"ở cuối trò chơi. Tuy nhiên, trong hướng dẫn sử dụng, không thể kết thúc trò "
+"chơi trước khi đạt đến bước cuối cùng.\nVui lòng hoàn thành hướng dẫn "
+"trước."
 
 #: kbbmainwindow.cpp:329
 #, kde-format
 msgctxt "@title:window"
 msgid "Check Positions"
-msgstr ""
+msgstr "Kiểm tra Vị trí"
 
 #: kbbmainwindow.cpp:336
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "The text may not be too wide. So please use some HTML-BR-tags to have "
 "something more or less as wide as in english. Thanks!"
 msgid "Your final score is: %1.<br />You did really well!"
-msgstr ""
-"Điểm chung cuộc: %1\n"
-"Bạn thực sự không giỏi lắm!"
+msgstr "Điểm chung cuộc của bạn là: %1.<br />Bạn đã làm rất tốt!"
 
 #: kbbmainwindow.cpp:338
 #, kde-format
@@ -240,22 +260,20 @@ msgctxt ""
 "The text may not be too wide. So please use some HTML-BR-tags to have "
 "something more or less as wide as in english. Thanks!"
 msgid "But it does not count<br />because <b>it is the sandbox!</b>"
-msgstr ""
+msgstr "Nhưng nó không được tính<br />vì <b>đây là sandbox!</b>"
 
 #: kbbmainwindow.cpp:340
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "The text may not be too wide. So please use some HTML-BR-tags to have "
 "something more or less as wide as in english. Thanks!"
 msgid "Your final score is: %1.<br />I guess you need more practice."
-msgstr ""
-"Điểm chung cuộc: %1\n"
-"Tôi nghĩ bạn cần luyện tập thêm nữa."
+msgstr "Điểm chung cuộc của bạn là: %1.<br />Tôi nghĩ bạn cần luyện tập thêm nữa."
 
 #: kbbmainwindow.cpp:369
 #, kde-format
 msgid "Game paused.<br />Press \"%1\" to resume."
-msgstr ""
+msgstr "Bàn chơi đã tạm dừng.<br />Nhấn \"%1\" để tiếp tục."
 
 #: kbbmainwindow.cpp:391
 #, kde-format
@@ -263,29 +281,31 @@ msgid ""
 "Do you want to cancel the current custom game and start a new one with the "
 "new parameters?"
 msgstr ""
+"Bạn có muốn huỷ bàn chơi tự chọn hiện tại và bắt đầu một bàn chơi mới với "
+"các thông số mới không?"
 
 #: kbbmainwindow.cpp:392 kbbmainwindow.cpp:481
 #, kde-format
 msgctxt "@action:button"
 msgid "Start New Game"
-msgstr ""
+msgstr "Khởi động Bàn Chơi Mới"
 
 #: kbbmainwindow.cpp:408
 #, kde-format
 msgctxt "@title:tab"
 msgid "Custom Game"
-msgstr ""
+msgstr "Trò chơi tự chọn"
 
 #: kbbmainwindow.cpp:427
-#, fuzzy, kde-format
+#, kde-format
 msgid "Sorry, you may not give up during the tutorial."
-msgstr "Bạn muốn bỏ lần chơi này à?"
+msgstr "Xin lỗi, bạn không thể bỏ cuộc trong phần hướng dẫn."
 
 #: kbbmainwindow.cpp:427
 #, kde-format
 msgctxt "@title:window"
 msgid "Solve"
-msgstr ""
+msgstr "Giải quyết"
 
 #: kbbmainwindow.cpp:430
 #, kde-format
@@ -295,31 +315,32 @@ msgid ""
 "correctly.\n"
 "So, do you really want to give up this game?"
 msgstr ""
+"Bạn đã đặt tất cả các quả bóng. Tuyệt vời!\nBây giờ bạn nên bấm vào "
+"\"Xong!\" để kết thúc trò chơi và kiểm tra xem bạn đã đoán đúng hay "
+"chưa.\nVậy, bạn có thực sự muốn bỏ cuộc trò chơi này không?"
 
 #: kbbmainwindow.cpp:430 kbbmainwindow.cpp:432
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action:button"
 msgid "Give Up"
-msgstr "&Bỏ qua"
+msgstr "Bỏ cuộc"
 
 #: kbbmainwindow.cpp:432
-#, fuzzy, kde-format
+#, kde-format
 msgid "You should place %1 ball!\n"
 msgid_plural "You should place %1 balls!\n"
-msgstr[0] ""
-"Bạn phải đặt %1 trái banh!\n"
-"Bạn đã đặt %2 trái."
+msgstr[0] "Bạn nên đặt %1 quả bóng!\n"
 
 #: kbbmainwindow.cpp:432
 #, kde-format
 msgid "You have placed %1.\n"
 msgid_plural "You have placed %1.\n"
-msgstr[0] ""
+msgstr[0] "Bạn đã đặt %1.\n"
 
 #: kbbmainwindow.cpp:432
-#, fuzzy, kde-format
+#, kde-format
 msgid "Do you really want to give up this game?"
-msgstr "Bạn muốn bỏ lần chơi này à?"
+msgstr "Bạn có thực sự muốn bỏ cuộc chơi này không?"
 
 #: kbbmainwindow.cpp:442
 #, kde-format
@@ -330,6 +351,8 @@ msgid ""
 "Note: In the sandbox mode,<br />the solution is already displayed.<br />Have "
 "fun!"
 msgstr ""
+"Lưu ý: Trong chế độ sandbox,<br />giải pháp đã được hiển thị.<br />Vui "
+"chơi!"
 
 #: kbbmainwindow.cpp:481
 #, kde-format
@@ -337,9 +360,9 @@ msgid "This will be the end of the current game!"
 msgstr "Điều này sẽ kết thúc lần chơi hiện tại!"
 
 #: kbbscalablegraphicwidget.cpp:100
-#, fuzzy, kde-format
+#, kde-format
 msgid "Score"
-msgstr "Điểm số: %1"
+msgstr "Điểm số"
 
 #: kbbscalablegraphicwidget.cpp:101
 #, kde-format
@@ -351,6 +374,12 @@ msgid ""
 "another entry point.</li></ul></li></ul></p><p>Your score is set to <b>999</"
 "b> at the end of the game if you make a mistake.</p></qt>"
 msgstr ""
+"<qt><p>Đây là <b>điểm số của bạn</b>. Bạn nên cố gắng đạt được điểm số thấp "
+"nhất có thể.</p><p>Điểm số tăng lên:<ul><li>theo thời gian: <b>1 điểm</b> "
+"mỗi giây.</li><li>khi sử dụng tia laser:<ul><li><b>3 điểm</b> nếu tia laser "
+"chạm vào bóng hoặc thoát ra tại điểm vào,</li><li><b>9 điểm</b> nếu nó "
+"thoát ra tại một điểm vào khác.</li></ul></li></ul></p><p>Điểm số của bạn "
+"sẽ được đặt thành <b>999</b> vào cuối bàn chơi nếu bạn mắc lỗi.</p></qt>"
 
 #: kbbscalablegraphicwidget.cpp:104
 #, kde-format
@@ -361,49 +390,53 @@ msgid ""
 "b> that are replaced with <b>interaction information</b> if you use them.</"
 "li></ul></qt>"
 msgstr ""
+"<qt><p>Đây là <b>khu vực chơi chính</b>.</p><ul><li><b>Hộp đen</b> nằm ở "
+"trung tâm.</li><li>Ở bên trái là các <b>quả bóng</b> bạn phải đặt lên hộp "
+"đen.</li><li>Xung quanh hộp đen là các <b>tia laser</b> sẽ được thay thế "
+"bằng <b>thông tin tương tác</b> nếu bạn sử dụng chúng.</li></ul></qt>"
 
 #: kbbtutorial.cpp:36
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:group"
 msgid "Tutorial"
-msgstr "&Hướng dẫn"
+msgstr "Hướng dẫn"
 
 #: kbbtutorial.cpp:53
 #, kde-format
 msgid "Displays the progress of the tutorial."
-msgstr ""
+msgstr "Hiển thị tiến độ của hướng dẫn."
 
 #: kbbtutorial.cpp:75
 #, kde-format
 msgid "Describes what you should do to reach the next tutorial step."
-msgstr ""
+msgstr "Mô tả những gì bạn nên làm để đến bước tiếp theo của hướng dẫn."
 
 #: kbbtutorial.cpp:84
 #, kde-format
 msgctxt "@action:button Previous tutorial step"
 msgid "&Previous"
-msgstr ""
+msgstr "&Trước"
 
 #: kbbtutorial.cpp:85
 #, kde-format
 msgid "Go back to the previous tutorial step."
-msgstr ""
+msgstr "Quay lại bước hướng dẫn trước."
 
 #: kbbtutorial.cpp:88
 #, kde-format
 msgctxt "@action:button Next tutorial step"
 msgid "&Next"
-msgstr ""
+msgstr "Tiế&p"
 
 #: kbbtutorial.cpp:89
 #, kde-format
 msgid "Go to the next tutorial step."
-msgstr ""
+msgstr "Đi đến bước tiếp theo của hướng dẫn."
 
 #: kbbtutorial.cpp:151
 #, kde-format
 msgid "Welcome!"
-msgstr ""
+msgstr "Chào mừng!"
 
 #: kbbtutorial.cpp:151
 #, kde-format
@@ -413,16 +446,20 @@ msgid ""
 "It has 3 balls <b>hidden</b> inside it and 24 laser probes around it.<br /"
 "><br />The goal is to <b>find the positions of the balls.</b>"
 msgstr ""
+"Hướng dẫn này sẽ dạy bạn cách chơi KBlackBox, sử dụng một ví dụ đơn "
+"giản.<br /><br />Chúng ta đang chơi với một hộp đen vuông có 6 cột và 6 "
+"hàng. Nó có 3 quả bóng được <b>giấu</b> bên trong và 24 đầu dò laser xung "
+"quanh.<br /><br />Mục tiêu là <b>tìm ra vị trí của các quả bóng.</b>"
 
 #: kbbtutorial.cpp:151
 #, kde-format
 msgid "Click on \"Next\""
-msgstr ""
+msgstr "Bấm vào \"Tiếp theo\""
 
 #: kbbtutorial.cpp:156
 #, kde-format
 msgid "Black box principles"
-msgstr ""
+msgstr "Nguyên tắc hộp đen"
 
 #: kbbtutorial.cpp:156
 #, kde-format
@@ -432,16 +469,20 @@ msgid ""
 "they do, where they come out.<br /><br />The laser beams interact with the "
 "balls in various ways."
 msgstr ""
+"Các quả bóng không hiển thị, nhưng chúng ta có thể bắn các tia laser vào "
+"hộp ở các điểm vào khác nhau và quan sát xem các tia laser có rời khỏi hộp "
+"hay không, và nếu có, chúng sẽ xuất hiện ở đâu.<br /><br />Các tia laser "
+"tương tác với các quả bóng theo nhiều cách khác nhau."
 
 #: kbbtutorial.cpp:156
 #, kde-format
 msgid "Please click on the marked laser to shoot a beam into the black box."
-msgstr ""
+msgstr "Vui lòng bấm vào laser được đánh dấu để bắn một tia vào hộp đen."
 
 #: kbbtutorial.cpp:161
 #, kde-format
 msgid "No interaction"
-msgstr ""
+msgstr "Không tương tác"
 
 #: kbbtutorial.cpp:161
 #, kde-format
@@ -452,16 +493,21 @@ msgid ""
 "><br />As the game progresses, each pair of entry/exit points is marked with "
 "a different number."
 msgstr ""
+"Nếu tia laser không tương tác với bất kỳ quả bóng nào trong hộp đen, nó sẽ "
+"ra ở điểm đối diện với điểm vào.<br /><br />Ví dụ: Giả sử chúng ta có 3 quả "
+"bóng trong hộp như được hiển thị. Chúng sẽ không ảnh hưởng đến tia laser "
+"\"1\".<br /><br />Khi trò chơi tiến triển, mỗi cặp điểm vào/ra sẽ được đánh "
+"dấu bằng một số khác nhau."
 
 #: kbbtutorial.cpp:161
 #, kde-format
 msgid "Now shoot the marked laser to discover the first kind of interaction."
-msgstr ""
+msgstr "Bây giờ hãy bắn laser đánh dấu để khám phá loại tương tác đầu tiên."
 
 #: kbbtutorial.cpp:169
 #, kde-format
 msgid "Hit"
-msgstr ""
+msgstr "Đánh"
 
 #: kbbtutorial.cpp:169
 #, kde-format
@@ -471,16 +517,20 @@ msgid ""
 "might have hit a ball at the position shown, but the exact position of the "
 "hit is not certain: There are many other possibilities."
 msgstr ""
+"Một va chạm trực tiếp vào quả bóng được gọi là \"<b>đánh trúng</b>\". Tia "
+"đánh trúng quả bóng sẽ <b>không</b> thoát ra khỏi hộp đen.<br /><br />Ví "
+"dụ: Tia có thể đã đánh trúng quả bóng ở vị trí được hiển thị, nhưng vị trí "
+"chính xác của cú đánh không chắc chắn: Có nhiều khả năng khác."
 
 #: kbbtutorial.cpp:169
 #, kde-format
 msgid "Shoot the marked laser to discover the second kind of interaction."
-msgstr ""
+msgstr "Bắn vào tia laser được đánh dấu để khám phá loại tương tác thứ hai."
 
 #: kbbtutorial.cpp:175
 #, kde-format
 msgid "Simple deflection"
-msgstr ""
+msgstr "Phản xạ đơn giản"
 
 #: kbbtutorial.cpp:175
 #, kde-format
@@ -491,6 +541,10 @@ msgid ""
 "would deflect beam \"2\" upward, as shown, but this is <b>not</b> the only "
 "possibility."
 msgstr ""
+"Sự tương tác của một tia không thực sự chạm vào quả bóng, mà nhắm vào một "
+"bên của nó, được gọi là \"<b>độ lệch</b>\". Góc lệch của tia luôn là <b>90 "
+"độ</b>.<br /><br />Ví dụ: Quả bóng được hiển thị sẽ làm lệch tia \"2\" lên "
+"trên, như đã thể hiện, nhưng đây <b>không phải</b> là khả năng duy nhất."
 
 #: kbbtutorial.cpp:175
 #, kde-format
@@ -498,11 +552,13 @@ msgid ""
 "Click on \"Next\" to see another combination of ball positions that deflects "
 "the laser beam as shown."
 msgstr ""
+"Bấm vào \"Tiếp theo\" để xem một tổ hợp vị trí bóng khác làm lệch tia laser "
+"như đã hiển thị."
 
 #: kbbtutorial.cpp:182
 #, kde-format
 msgid "Several deflections"
-msgstr ""
+msgstr "Nhiều lệch hướng"
 
 #: kbbtutorial.cpp:182
 #, kde-format
@@ -511,16 +567,19 @@ msgid ""
 ">A laser beam entering and exiting at the positions \"2\" might have been "
 "deflected by this configuration of 3 balls."
 msgstr ""
+"Như bạn có thể thấy, các tương tác trong hộp đen có thể khá phức tạp!<br "
+"/>Một tia laser vào và ra ở các vị trí \"2\" có thể đã bị lệch hướng bởi "
+"cấu hình này của 3 quả bóng."
 
 #: kbbtutorial.cpp:182
 #, kde-format
 msgid "Shoot the marked laser to discover another kind of result."
-msgstr ""
+msgstr "Bắn laser đánh dấu để khám phá một loại kết quả khác."
 
 #: kbbtutorial.cpp:190
 #, kde-format
 msgid "Reflection"
-msgstr ""
+msgstr "Phản chiếu"
 
 #: kbbtutorial.cpp:190
 #, kde-format
@@ -530,16 +589,19 @@ msgid ""
 "placed 2 balls for you in a configuration that would lead to such a "
 "reflection."
 msgstr ""
+"Nếu tia laser rời khỏi hộp đen <b>tại điểm vào</b>, nó đã bị phản xạ ngược "
+"lại bên trong hộp đen.<br /><br />Ví dụ: Chúng tôi đã đặt 2 quả bóng cho "
+"bạn trong một cấu hình sẽ dẫn đến sự phản xạ như vậy."
 
 #: kbbtutorial.cpp:190
 #, kde-format
 msgid "Shoot the marked laser to see another backward reflection case."
-msgstr ""
+msgstr "Bắn tia laser đánh dấu để xem một trường hợp phản xạ ngược khác."
 
 #: kbbtutorial.cpp:197
 #, kde-format
 msgid "Special reflection"
-msgstr ""
+msgstr "Phản xạ đặc biệt"
 
 #: kbbtutorial.cpp:197
 #, kde-format
@@ -549,16 +611,19 @@ msgid ""
 "reflection.<br /><br />Example: The configuration shown can cause a backward "
 "reflection."
 msgstr ""
+"Nếu một quả bóng <b>ở cạnh của hộp</b> (không có quả bóng nào khác ở gần), "
+"một tia nhắm vào hộp đen ngay bên cạnh nó sẽ gây ra phản xạ ngược.<br /><br "
+"/>Ví dụ: Cấu hình được hiển thị có thể gây ra phản xạ ngược."
 
 #: kbbtutorial.cpp:197
 #, kde-format
 msgid "Nearly done. Click on \"Next\"."
-msgstr ""
+msgstr "Gần xong. Bấm vào \"Tiếp theo\"."
 
 #: kbbtutorial.cpp:204
 #, kde-format
 msgid "Marker for \"free position\""
-msgstr ""
+msgstr "Dấu hiệu cho \"vị trí tự do\""
 
 #: kbbtutorial.cpp:204
 #, kde-format
@@ -569,16 +634,21 @@ msgid ""
 "(see also keyboard shortcuts).<br /><br />Example: There are 12 markers in "
 "the first 2 columns."
 msgstr ""
+"Chúng tôi chắc chắn rằng không có bóng trong 2 cột đầu tiên. Nếu có, tia "
+"sáng đi vào vị trí \"1\" sẽ va chạm hoặc bị lệch hướng bởi một quả bóng "
+"trong cột 2. Bạn có thể đánh dấu một \"vị trí trống\" bằng cách bấm chuột "
+"phải (xem thêm phím tắt trên bàn phím).<br /><br />Ví dụ: Có 12 dấu hiệu "
+"trong 2 cột đầu tiên."
 
 #: kbbtutorial.cpp:204 kbbtutorial.cpp:213
 #, kde-format
 msgid "Click on \"Next\"."
-msgstr ""
+msgstr "Bấm vào \"Tiếp theo\"."
 
 #: kbbtutorial.cpp:213
-#, fuzzy, kde-format
+#, kde-format
 msgid "Marking balls"
-msgstr "&Banh"
+msgstr "Đánh dấu bóng"
 
 #: kbbtutorial.cpp:213
 #, kde-format
@@ -589,11 +659,17 @@ msgid ""
 "ball to mark it as \"unsure\". (See also keyboard shortcuts.)<br /><br /"
 ">Example: We marked one position as sure, the other one as unsure."
 msgstr ""
+"Khi bạn đã xác định được vị trí của một quả bóng, vui lòng sử dụng nút "
+"chuột trái để đánh dấu nó. Để xoá dấu hiệu của một quả bóng, hãy sử dụng "
+"lại nút chuột trái. Mẹo cuối cùng: Nếu bạn không chắc chắn về một vị trí, "
+"bạn có thể sử dụng chuột phải trên một quả bóng để đánh dấu nó là \"không "
+"chắc chắn\". (Xem thêm các phím tắt bàn phím.)<br /><br />Ví dụ: Chúng tôi "
+"đã đánh dấu một vị trí là chắc chắn, vị trí kia là không chắc chắn."
 
 #: kbbtutorial.cpp:220
 #, kde-format
 msgid "Let us play!"
-msgstr ""
+msgstr "Chúng ta hãy chơi!"
 
 #: kbbtutorial.cpp:220
 #, kde-format
@@ -604,11 +680,16 @@ msgid ""
 "positions of the 3 balls with certainty. Of course, you can use some more "
 "shots if needed."
 msgstr ""
+"<b>Xin chúc mừng!</b> Bạn đã biết <b>tất cả các quy tắc</b> của "
+"KBlackBox.<br /><br /><b>Bạn có thể bắt đầu chơi.</b> Hãy thử hoàn thành "
+"bàn chơi hướng dẫn này bằng chính mình!<br /><br />Mẹo: Chúng tôi đã gửi đủ "
+"tia để suy luận vị trí chính xác của 3 quả bóng. Tất nhiên, bạn có thể sử "
+"dụng thêm một số lần bắn nếu cần."
 
 #: kbbtutorial.cpp:220
 #, kde-format
 msgid "Finish placing the balls and click on \"Done!\" when you are done!"
-msgstr ""
+msgstr "Hoàn thành việc đặt các quả bóng và bấm vào \"Xong!\" khi bạn đã hoàn tất!"
 
 #. i18n: ectx: label, entry (theme), group (KBlackBox Setup)
 #: kblackbox.kcfg:9
@@ -617,24 +698,26 @@ msgid ""
 "File of the current theme of the graphic elements. (SVGZ file with path and "
 "file extension)"
 msgstr ""
+"Tệp của chủ đề hiện tại của các phần tử đồ họa. (Tệp SVGZ với đường dẫn và "
+"phần mở rộng tệp)"
 
 #. i18n: ectx: label, entry (balls), group (KBlackBox Setup)
 #: kblackbox.kcfg:13
 #, kde-format
 msgid "Number of balls for custom difficulty level"
-msgstr ""
+msgstr "Số quả bóng cho mức độ khó tự chọn"
 
 #. i18n: ectx: label, entry (columns), group (KBlackBox Setup)
 #: kblackbox.kcfg:17
 #, kde-format
 msgid "Number of columns of the board for custom difficulty level"
-msgstr ""
+msgstr "Số cột của bảng cho mức độ khó tự chọn"
 
 #. i18n: ectx: label, entry (rows), group (KBlackBox Setup)
 #: kblackbox.kcfg:21
 #, kde-format
 msgid "Number of rows of the board for custom difficuty level"
-msgstr ""
+msgstr "Số hàng của bảng cho mức độ khó tự chọn"
 
 #: main.cpp:28
 #, kde-format
@@ -644,41 +727,41 @@ msgstr "Chiếc Hộp Đen"
 #: main.cpp:30
 #, kde-format
 msgid "Find the balls hidden in the black box by shooting laser beams!"
-msgstr ""
+msgstr "Tìm các quả bóng ẩn trong hộp đen bằng cách bắn tia laser!"
 
 #: main.cpp:32
 #, kde-format
 msgid ""
 "(c) 2007, Nicolas Roffet\n"
 "(c) 1999-2000, Robert Cimrman"
-msgstr ""
+msgstr "(c) 2007, Nicolas Roffet\n(c) 1999-2000, Robert Cimrman"
 
 #: main.cpp:35
 #, kde-format
 msgid "Nicolas Roffet"
-msgstr ""
+msgstr "Nicolas Roffet"
 
 #: main.cpp:35
 #, kde-format
 msgid "Developer of version 0.4."
-msgstr ""
+msgstr "Nhà phát triển của phiên bản 0.4."
 
 #: main.cpp:36
 #, kde-format
 msgid "Robert Cimrman"
-msgstr ""
+msgstr "Robert Cimrman"
 
 #: main.cpp:36
 #, kde-format
 msgid "Original developer"
-msgstr ""
+msgstr "nhà phát triển"
 
 #: main.cpp:37
 #, kde-format
 msgid "Johann Ollivier Lapeyre"
-msgstr ""
+msgstr "Johann Ollivier Lapeyre"
 
 #: main.cpp:37
 #, kde-format
 msgid "Artist"
-msgstr ""
+msgstr "Nghệ sĩ"

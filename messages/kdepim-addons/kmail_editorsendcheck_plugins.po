@@ -1,0 +1,262 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdepim-addons package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdepim-addons\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-06-18 00:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: automaticaddcontacts/automaticaddcontactsconfiguredialog.cpp:14
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure \"Automatic Add Contacts\" Plugin"
+msgstr "Cấu hình phần cài cắm \"Tự động thêm liên hệ\""
+
+#: automaticaddcontacts/automaticaddcontactsjob.cpp:97
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You must create an address book before adding a contact. Do you want to "
+"create an address book?"
+msgstr ""
+"Bạn phải tạo một sổ địa chỉ trước khi thêm một liên hệ. Bạn có muốn tạo một "
+"sổ địa chỉ không?"
+
+#: automaticaddcontacts/automaticaddcontactsjob.cpp:98
+#, kde-format
+msgctxt "@title:window"
+msgid "No Address Book Available"
+msgstr "Không có Sổ địa chỉ Khả dụng"
+
+#: automaticaddcontacts/automaticaddcontactsjob.cpp:99
+#, kde-format
+msgctxt "@action:button"
+msgid "Create Address Book"
+msgstr "Tạo sổ địa chỉ"
+
+#: automaticaddcontacts/automaticaddcontactsjob.cpp:103
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Address Book"
+msgstr "Thêm sổ địa chỉ"
+
+#: automaticaddcontacts/automaticaddcontactstabwidget.cpp:27
+#, kde-format
+msgid "Automatic Add Contacts"
+msgstr "Tự động thêm Danh bạ"
+
+#: automaticaddcontacts/automaticaddcontactstabwidget.cpp:41
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Select the addressbook in which to store contacts:"
+msgstr "Chọn sổ địa chỉ để lưu liên hệ:"
+
+#: checkbeforesend/checkbeforesendinterface.cpp:35
+#, kde-format
+msgid "Do you want to send the email as HTML?"
+msgstr "Bạn có muốn gửi email dưới dạng HTML không?"
+
+#: checkbeforesend/checkbeforesendinterface.cpp:36
+#, kde-format
+msgid "Send email as plain text"
+msgstr "Gửi email dưới dạng văn bản thuần"
+
+#: checkbeforesend/checkbeforesendinterface.cpp:37
+#, kde-format
+msgctxt "@action:button"
+msgid "Send As HTML"
+msgstr "Gửi dưới dạng HTML"
+
+#: checkbeforesend/checkbeforesendupdatesmtpdialog.cpp:16
+#, kde-format
+msgid "Update SMTP server"
+msgstr "Cập nhật máy chủ SMTP"
+
+#: checkbeforesend/checkbeforesendupdatesmtpdialog.cpp:18
+#, kde-format
+msgctxt "@title:window"
+msgid "Check SMTP server"
+msgstr "Kiểm tra máy chủ SMTP"
+
+#: checkbeforesend/checkbeforesendupdatesmtpdialog.cpp:22
+#, kde-format
+msgctxt "@label:textbox"
+msgid ""
+"Do you want to send the email with a different SMTP than the one defined in "
+"the current identity?"
+msgstr ""
+"Bạn có muốn gửi email với SMTP khác với cái đã được định nghĩa trong danh "
+"tính hiện tại không?"
+
+#: checkbeforesend/configurewidget/checkbeforesendconfiguredialog.cpp:14
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure \"Check Before Send Mail\" Plugin"
+msgstr "Cấu hình phần cài cắm \"Kiểm tra Trước Khi Gửi Thư\""
+
+#: checkbeforesend/configurewidget/checkbeforesendconfigurewidget.cpp:19
+#, kde-format
+msgid "Send as plain text"
+msgstr "Gửi dưới dạng văn bản thuần"
+
+#: checkbeforesend/configurewidget/checkbeforesendconfigurewidget.cpp:20
+#, kde-format
+msgid "Use SMTP server defined in identity"
+msgstr "Sử dụng máy chủ SMTP được định nghĩa trong danh tính"
+
+#: checkbeforesend/configurewidget/checkbeforesendconfigurewidget.cpp:21
+#, kde-format
+msgid "Check duplicated emails addresses"
+msgstr "Kiểm tra địa chỉ email trùng lặp"
+
+#: checkbeforesend/configurewidget/checkbeforesendconfigurewidget.cpp:22
+#, kde-format
+msgid "Check send attachment"
+msgstr "Kiểm tra tệp đính kèm trước khi gửi"
+
+#: checkbeforesend/duplicateemails/checkduplicateemailsdialog.cpp:26
+#, kde-format
+msgctxt "@title:window"
+msgid "Duplicated emails"
+msgstr "Các email bị trùng lặp"
+
+#: checkbeforesend/duplicateemails/checkduplicateemailsdialog.cpp:28
+#, kde-format
+msgctxt "@label:textbox"
+msgid "These emails are duplicated. Do you want to send email?"
+msgstr "Những email này đã bị trùng lặp. Bạn có muốn gửi email không?"
+
+#: checkbeforesend/duplicateemails/checkduplicateemailsdialog.cpp:53
+#, kde-format
+msgctxt "emails (number of emails)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: checkbeforesend/sendattachments/checkattachmentdialog.cpp:24
+#, kde-format
+msgctxt "@title:window"
+msgid "Check Attachment"
+msgstr "Kiểm tra tệp đính kèm"
+
+#: checkbeforesend/sendattachments/checkattachmentdialog.cpp:27
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Do you want to send some attachment?"
+msgstr "Bạn có muốn gửi một số tệp đính kèm không?"
+
+#: confirm-address/confirmaddressconfiguredialog.cpp:14
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure \"Confirm Email Address\" Plugin"
+msgstr "Cấu hình phần cài cắm \"Xác nhận địa chỉ thư điện tử\""
+
+#: confirm-address/confirmaddressconfiguretabwidget.cpp:32
+#, kde-format
+msgid "Accepted Domain Name"
+msgstr "Tên miền được chấp nhận"
+
+#: confirm-address/confirmaddressconfiguretabwidget.cpp:37
+#, kde-format
+msgid "Rejected Domain Name"
+msgstr "Tên miền bị từ chối"
+
+#: confirm-address/confirmaddressconfiguretabwidget.cpp:45
+#: confirm-address/confirmaddressconfiguretabwidget.cpp:64
+#, kde-format
+msgid "A&dd…"
+msgstr "&Thêm..."
+
+#: confirm-address/confirmaddressconfiguretabwidget.cpp:46
+#: confirm-address/confirmaddressconfiguretabwidget.cpp:65
+#, kde-format
+msgid "Re&move"
+msgstr "X&oá"
+
+#: confirm-address/confirmaddressconfiguretabwidget.cpp:47
+#: confirm-address/confirmaddressconfiguretabwidget.cpp:66
+#, kde-format
+msgid "Mod&ify…"
+msgstr "Sửa đổ&i..."
+
+#: confirm-address/confirmaddressconfiguretabwidget.cpp:48
+#, kde-format
+msgid "Enter new domain name:"
+msgstr "Nhập tên miền mới:"
+
+#: confirm-address/confirmaddressconfiguretabwidget.cpp:50
+#, kde-format
+msgid "Do you want to remove this domain?"
+msgstr "Bạn có muốn xoá miền này không?"
+
+#: confirm-address/confirmaddressconfiguretabwidget.cpp:54
+#, kde-format
+msgid "Whitelist of Addresses"
+msgstr "Danh sách trắng các địa chỉ"
+
+#: confirm-address/confirmaddressconfiguretabwidget.cpp:67
+#, kde-format
+msgid "Enter new email address:"
+msgstr "Nhập địa chỉ thư điện tử mới:"
+
+#: confirm-address/confirmaddressconfiguretabwidget.cpp:69
+#, kde-format
+msgid "Do you want to remove this email address?"
+msgstr "Bạn có muốn xoá địa chỉ email này không?"
+
+#: confirm-address/confirmaddressdialog.cpp:26
+#, kde-format
+msgctxt "@action:button"
+msgid "Add Selected Emails to WhiteList"
+msgstr "Thêm các email đã chọn vào Danh sách trắng"
+
+#: confirm-address/confirmaddressdialog.cpp:28
+#, kde-format
+msgctxt "@title:window"
+msgid "Confirm Addresses"
+msgstr "Xác nhận địa chỉ"
+
+#: confirm-address/confirmaddressdialog.cpp:91
+#, kde-format
+msgid "All selected emails are added to white list"
+msgstr "Tất cả các email đã chọn đều được thêm vào danh sách trắng"
+
+#: confirm-address/confirmaddressdialog.cpp:91
+#, kde-format
+msgctxt "@title:window"
+msgid "Emails added to white list"
+msgstr "Đã thêm email vào danh sách trắng"
+
+#: confirm-address/confirmaddressemailentrydialog.cpp:21
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Enter new domain name:"
+msgstr "Nhập tên miền mới:"
+
+#: confirm-address/confirmaddresssimplestringlisteditor.cpp:26
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Value"
+msgstr "Thêm Giá Trị"
+
+#: confirm-address/confirmaddresssimplestringlisteditor.cpp:37
+#, kde-format
+msgctxt "@title:window"
+msgid "Change Value"
+msgstr "Thay đổi giá trị"
+
+#: confirm-address/confirmaddresswidget.cpp:22
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Potentially invalid emails are displayed in red:"
+msgstr "Các email có thể không hợp lệ được hiển thị bằng màu đỏ:"
